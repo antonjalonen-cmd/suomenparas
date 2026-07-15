@@ -387,8 +387,6 @@ def build_index():
         g = " gold" if i == 1 else ""
         sc = f"{c['score']:.1f}".replace(".", ",")
         rows.append(f'<div class="board-row{g}"><span class="pos">{i}</span><span class="nm">{esc(c["nimi"])}</span><span class="sc">{sc}</span></div>')
-    upcoming = ["Sähkösopimukset", "Puhelinliittymät", "Laajakaista", "Vakuutukset", "Luottokortit"]
-    upc_json = json.dumps(upcoming, ensure_ascii=False)
 
     steps = """
 <div class="steps">
@@ -401,8 +399,8 @@ def build_index():
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
-      <h1>Suomen kaikki rankingit.<br>Yksi läpinäkyvä <em>Score</em>.</h1>
-      <p class="lead">Pisteytämme suomalaiset palvelut mitattavalla datalla — emme tähtiarvioilla tai mainosrahalla. Katso mistä jokainen piste tulee.</p>
+      <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
+      <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
         <div class="hero-stat"><b>{len(SCORES)}</b><span>palvelua pisteytetty</span></div>
         <div class="hero-stat"><b>{TOTAL_CATS}</b><span>kategoriaa suunnitteilla</span></div>
@@ -453,34 +451,7 @@ def build_index():
   </div>
 </section>
 
-<script>
-(function(){{
-  var cats = {upc_json};
-  var i = -1;
-  var body = document.getElementById('lb-body');
-  var cat = document.getElementById('lb-cat');
-  var st = document.getElementById('lb-status');
-  var foot = document.getElementById('lb-foot');
-  var real = body.innerHTML, realFoot = foot.innerHTML;
-  if (matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-  setInterval(function(){{
-    i++;
-    if (i % (cats.length + 1) === cats.length) {{
-      cat.textContent = 'Lainavertailu';
-      st.textContent = 'TOP 5 · {UPDATED}';
-      body.innerHTML = real; foot.innerHTML = realFoot;
-      body.parentElement.classList.remove('upcoming');
-    }} else {{
-      var c = cats[i % (cats.length + 1)];
-      cat.textContent = c;
-      st.textContent = 'TULOSSA';
-      body.innerHTML = '<div class="coming">Kategoria avataan pian — pisteytys samalla julkisella kaavalla.</div>';
-      foot.innerHTML = '<a href="kategoriat/">Katso kaikki tulevat kategoriat →</a>';
-      body.parentElement.classList.add('upcoming');
-    }}
-  }}, 3800);
-}})();
-</script>"""
+"""
     return page("Suomen Paras — Suomen läpinäkyvin vertailupalvelu",
                 "Pisteytämme suomalaiset palvelut mitattavalla datalla. Lainavertailu, sähkösopimukset ja sadat muut kategoriat yhdellä läpinäkyvällä Scorella.",
                 body, root="", active="")
