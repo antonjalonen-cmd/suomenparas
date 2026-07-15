@@ -107,10 +107,24 @@ nav.main a:hover{color:#fff;text-decoration:none}
 nav.main a.on{color:var(--gold-line)}
 .demo-ribbon{background:var(--gold);color:#231A02;text-align:center;font-size:.8rem;font-weight:700;padding:5px 12px;letter-spacing:.02em}
 /* hero */
-.hero{background:linear-gradient(180deg,var(--ink) 0%,#1A3A63 100%);color:#fff;padding:56px 0 72px}
-.hero h1{font-size:clamp(1.9rem,4.4vw,3.1rem);line-height:1.08;letter-spacing:-.03em;color:#fff;font-weight:800;max-width:640px}
-.hero h1 em{font-style:normal;color:var(--gold-line)}
-.hero p.lead{margin-top:14px;font-size:1.08rem;color:#BFCDDE;max-width:560px}
+.hero{background:linear-gradient(165deg,#0E2138 0%,var(--ink) 46%,#1C3F6C 100%);color:#fff;padding:64px 0 78px;position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background-image:repeating-linear-gradient(0deg,rgba(255,255,255,.04) 0 1px,transparent 1px 44px),repeating-linear-gradient(90deg,rgba(255,255,255,.04) 0 1px,transparent 1px 44px);mask-image:radial-gradient(120% 100% at 30% 0%,#000 40%,transparent 90%);pointer-events:none}
+.hero .wrap{position:relative}
+.kicker{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;color:var(--gold-line);margin-bottom:16px;font-weight:500}
+.hero h1{font-size:clamp(2rem,4.8vw,3.4rem);line-height:1.05;letter-spacing:-.035em;color:#fff;font-weight:800;max-width:660px}
+.hero h1 em{font-style:normal;color:var(--gold-line);position:relative}
+.hero h1 em::after{content:"";position:absolute;left:0;right:0;bottom:2px;height:9px;background:rgba(185,138,31,.28);z-index:-1;border-radius:2px}
+.hero p.lead{margin-top:16px;font-size:1.08rem;color:#BFCDDE;max-width:560px}
+@keyframes fadeUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.hero .kicker{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) both}
+.hero h1{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .07s both}
+.hero p.lead{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .15s both}
+.hero .hero-stats{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .23s both}
+.board-wrap{position:relative;animation:fadeUp .7s cubic-bezier(.2,.7,.2,1) .3s both}
+.seal{position:absolute;top:-38px;right:-18px;width:104px;height:104px;z-index:2;filter:drop-shadow(0 4px 14px rgba(0,0,0,.35))}
+.seal svg{width:100%;height:100%;animation:spin 44s linear infinite}
+@media(max-width:840px){.seal{top:-30px;right:-6px;width:84px;height:84px}}
 .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
 @media(max-width:840px){.hero-grid{grid-template-columns:1fr}}
 .hero-stats{display:flex;gap:28px;margin-top:28px;flex-wrap:wrap}
@@ -129,13 +143,15 @@ nav.main a.on{color:var(--gold-line)}
 .board-row .pos{font-family:'IBM Plex Mono',monospace;font-weight:600;width:22px;color:var(--mut)}
 .board-row.gold .pos{color:var(--gold)}
 .board-row .nm{font-weight:700;color:var(--ink)}
-.board-row .sc{margin-left:auto;font-family:'IBM Plex Mono',monospace;font-weight:600;color:var(--ink)}
+.board-row .dots{flex:1;border-bottom:2px dotted #D5DCE6;height:2px;margin:0 6px;transform:translateY(5px)}
+.board-row .sc{font-family:'IBM Plex Mono',monospace;font-weight:600;color:var(--ink)}
 .board-foot{padding:12px 18px;font-size:.85rem}
 .board.upcoming .board-row{opacity:.45;filter:blur(0)}
 .board .coming{padding:26px 18px;text-align:center;color:var(--mut);font-size:.9rem}
 /* sections */
 section.band{padding:56px 0}
 h2.sec{font-size:1.5rem;color:var(--ink);letter-spacing:-.02em;font-weight:800;margin-bottom:6px}
+h2.sec::before{content:"";display:inline-block;width:20px;height:4px;border-radius:2px;background:linear-gradient(90deg,var(--gold),var(--gold-line));margin-right:11px;vertical-align:.18em}
 p.sec-sub{color:var(--mut);margin-bottom:26px;max-width:620px}
 /* score stamp */
 .stamp{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:var(--ink);color:#fff;border-radius:12px;padding:9px 13px 7px;min-width:74px}
@@ -175,9 +191,11 @@ p.sec-sub{color:var(--mut);margin-bottom:26px;max-width:620px}
 .chip{font-size:.85rem;font-weight:600;border:1.5px solid var(--line);background:var(--card);color:var(--body);border-radius:99px;padding:7px 15px;cursor:pointer}
 .chip:hover{border-color:var(--navy)}
 .chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
-/* receipt */
-.receipt{background:var(--card);border-radius:var(--r);box-shadow:var(--shadow);overflow:hidden;margin-bottom:22px}
-.receipt-head{display:flex;justify-content:space-between;align-items:center;padding:15px 20px;background:#F8FAFC;border-bottom:1px solid var(--line)}
+/* receipt — serrated bottom edge like a printed receipt */
+.receipt{background:var(--card);border-radius:var(--r) var(--r) 0 0;box-shadow:var(--shadow);overflow:visible;margin-bottom:34px;position:relative}
+.receipt>table{overflow:hidden}
+.receipt::after{content:"";position:absolute;left:0;right:0;bottom:-9px;height:9px;background-image:linear-gradient(45deg,var(--card) 5px,transparent 5px),linear-gradient(-45deg,var(--card) 5px,transparent 5px);background-size:14px 9px;background-repeat:repeat-x;filter:drop-shadow(0 3px 3px rgba(18,43,74,.05))}
+.receipt-head{display:flex;justify-content:space-between;align-items:center;padding:15px 20px;background:#F8FAFC;border-bottom:1px solid var(--line);border-radius:var(--r) var(--r) 0 0}
 .receipt-head h3{font-size:1rem;color:var(--ink)}
 .receipt-head .w{font-family:'IBM Plex Mono',monospace;font-size:.8rem;color:var(--mut)}
 .receipt-head .sub{font-family:'IBM Plex Mono',monospace;font-weight:600;color:var(--ink);font-size:1.05rem}
@@ -254,6 +272,29 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
 .pageh p.lead{color:var(--mut);margin-top:10px;max-width:640px;font-size:1rem}
 .meta-row{display:flex;gap:12px;align-items:center;margin-top:16px;flex-wrap:wrap}
 .count-pill{font-family:'IBM Plex Mono',monospace;font-size:.76rem;color:var(--mut)}
+/* ---------- motion & micro-interactions ---------- */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .55s ease,transform .55s cubic-bezier(.2,.7,.2,1)}
+.rv.in{opacity:1;transform:none}
+.bar i{transition:width .9s cubic-bezier(.2,.7,.2,1)}
+.rank-card{transition:transform .22s ease,box-shadow .22s ease,border-color .22s ease}
+.rank-card:hover{transform:translateY(-3px);box-shadow:0 2px 4px rgba(18,43,74,.07),0 14px 34px rgba(18,43,74,.13)}
+.cat-tile{transition:transform .18s ease,box-shadow .18s ease}
+.cat-tile:not(.off):hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(18,43,74,.07),0 10px 24px rgba(18,43,74,.12)}
+.btn{transition:transform .16s ease,background .16s ease,box-shadow .16s ease}
+.btn:hover{transform:translateY(-1px)}
+.btn:active{transform:translateY(0)}
+.step{transition:transform .2s ease,box-shadow .2s ease}
+.step:hover{transform:translateY(-2px)}
+.chip{transition:border-color .15s ease,background .15s ease,color .15s ease,transform .15s ease}
+.chip:active{transform:scale(.96)}
+.stamp{transition:transform .2s ease}
+.rank-card:hover .stamp{transform:scale(1.04)}
+@keyframes sortIn{from{opacity:.25;transform:translateY(10px) scale(.99)}to{opacity:1;transform:none}}
+.sort-in{animation:sortIn .4s cubic-bezier(.2,.7,.2,1)}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  .rv{opacity:1;transform:none}
+}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}
@@ -285,6 +326,79 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
 
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">'
 
+APP_JS = r"""
+(function(){
+  var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Pillar bars: remember target width, start from zero, animate when visible
+  var bars = document.querySelectorAll('.bar i');
+  bars.forEach(function(b){ b.dataset.w = b.style.width; if (!reduce) b.style.width = '0%'; });
+  function fillBars(scope){ (scope || document).querySelectorAll('.bar i').forEach(function(b){ b.style.width = b.dataset.w; }); }
+
+  // Scroll reveal (plain scroll check — reliable everywhere)
+  var targets = Array.prototype.slice.call(
+    document.querySelectorAll('.rank-card,.receipt,.step,.panel,.ai-note,.b2b,.cat-group,.p-hero,.note,.cat-tile')
+  );
+  if (reduce) {
+    targets.forEach(function(el){ el.classList.add('in'); });
+    fillBars();
+  } else {
+    targets.forEach(function(el, i){
+      el.classList.add('rv');
+      el.style.transitionDelay = Math.min((i % 5) * 55, 220) + 'ms';
+    });
+    var pending = targets.slice();
+    function check(){
+      if (!pending.length) return;
+      var limit = window.innerHeight * 0.94;
+      pending = pending.filter(function(el){
+        if (el.getBoundingClientRect().top < limit) {
+          el.classList.add('in');
+          fillBars(el);
+          return false;
+        }
+        return true;
+      });
+    }
+    addEventListener('scroll', check, {passive: true});
+    addEventListener('resize', check);
+    check();
+    setTimeout(check, 250);
+    // safety net: if nothing revealed (broken env), show everything
+    setTimeout(function(){
+      if (pending.length === targets.length) {
+        pending.forEach(function(el){ el.classList.add('in'); fillBars(el); el.style.transitionDelay = '0ms'; });
+        pending = [];
+      }
+    }, 1500);
+  }
+
+  // Leaderboard rows stagger on load
+  document.querySelectorAll('.board-row').forEach(function(r, i){
+    if (reduce) return;
+    r.classList.add('rv');
+    setTimeout(function(){ r.classList.add('in'); }, 450 + i * 100);
+  });
+
+  // Count-up on profile score stamp
+  var n = document.querySelector('.stamp-big .stamp .n');
+  if (n && !reduce) {
+    var target = parseFloat(n.textContent.replace(',', '.'));
+    if (!isNaN(target)) {
+      var t0 = null;
+      var step = function(ts){
+        if (!t0) t0 = ts;
+        var p = Math.min((ts - t0) / 950, 1);
+        p = 1 - Math.pow(1 - p, 3);
+        n.textContent = (target * p).toFixed(1).replace('.', ',');
+        if (p < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    }
+  }
+})();
+"""
+
 def page(title, desc, body, root="", active=""):
     def on(k):
         return ' class="on"' if k == active else ""
@@ -297,7 +411,8 @@ def page(title, desc, body, root="", active=""):
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 {FONTS}
-<link rel="stylesheet" href="{root}assets/style.css?v=2">
+<link rel="stylesheet" href="{root}assets/style.css?v=3">
+<script src="{root}assets/app.js?v=3" defer></script>
 </head>
 <body>
 <div class="demo-ribbon">DEMO — Suomen Paras -konseptin esittelyversio · Lainavertailu-kategoria toimii oikealla datalla</div>
@@ -413,7 +528,7 @@ def build_index():
     for i, c in enumerate(top, 1):
         g = " gold" if i == 1 else ""
         sc = f"{c['score']:.1f}".replace(".", ",")
-        rows.append(f'<div class="board-row{g}"><span class="pos">{i}</span><span class="nm">{esc(c["nimi"])}</span><span class="sc">{sc}</span></div>')
+        rows.append(f'<div class="board-row{g}"><span class="pos">{i}</span><span class="nm">{esc(c["nimi"])}</span><span class="dots"></span><span class="sc">{sc}</span></div>')
 
     steps = """
 <div class="steps">
@@ -426,6 +541,7 @@ def build_index():
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
+      <p class="kicker">SUOMEN PARAS SCORE™ · {SCORE_VERSION} · PÄIVITETTY {UPDATED}</p>
       <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
@@ -434,10 +550,21 @@ def build_index():
         <div class="hero-stat"><b>26</b><span>mittaria / yritys</span></div>
       </div>
     </div>
-    <div class="board" id="liveboard">
-      <div class="board-head"><span class="cat" id="lb-cat">Lainavertailu</span><span class="live"><span class="live-dot"></span><span id="lb-status">TOP 5 · {UPDATED}</span></span></div>
-      <div id="lb-body">{''.join(rows)}</div>
-      <div class="board-foot" id="lb-foot"><a href="lainavertailu/">Koko vertailu ja pisteiden perustelut →</a></div>
+    <div class="board-wrap">
+      <div class="seal" aria-hidden="true"><svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <defs><path id="c" d="M50,50 m-37,0 a37,37 0 1,1 74,0 a37,37 0 1,1 -74,0"/></defs>
+        <circle cx="50" cy="50" r="49" fill="#B98A1F"/>
+        <circle cx="50" cy="50" r="44" fill="none" stroke="#F3E3B3" stroke-width="1" stroke-dasharray="2 3"/>
+        <text font-family="IBM Plex Mono,monospace" font-size="8.2" letter-spacing="1.6" fill="#231A02" font-weight="600">
+          <textPath href="#c">SUOMEN PARAS ★ LÄPINÄKYVÄ PISTEYTYS ★</textPath>
+        </text>
+        <text x="50" y="57" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="19" font-weight="700" fill="#231A02">SP</text>
+      </svg></div>
+      <div class="board" id="liveboard">
+        <div class="board-head"><span class="cat" id="lb-cat">Lainavertailu</span><span class="live"><span class="live-dot"></span><span id="lb-status">TOP 5 · {UPDATED}</span></span></div>
+        <div id="lb-body">{''.join(rows)}</div>
+        <div class="board-foot" id="lb-foot"><a href="lainavertailu/">Koko vertailu ja pisteiden perustelut →</a></div>
+      </div>
     </div>
   </div>
 </section>
@@ -537,7 +664,10 @@ def build_lainavertailu():
         if (pos === 1 && key === 'score') {{
           card.querySelector('h3').insertAdjacentHTML('beforeend', '<span class="badge-yl">SUOMEN PARAS 2026</span>');
         }}
+        card.classList.remove('sort-in');
         wrap.appendChild(card);
+        void card.offsetWidth;
+        card.classList.add('sort-in');
       }});
     }});
   }});
@@ -728,6 +858,7 @@ def w(path, content):
 
 def main():
     w("assets/style.css", CSS)
+    w("assets/app.js", APP_JS)
     w("index.html", build_index())
     w("lainavertailu/index.html", build_lainavertailu())
     w("kategoriat/index.html", build_kategoriat())

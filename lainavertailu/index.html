@@ -7,7 +7,8 @@
 <title>Suomen paras lainavertailu 2026 — kaikki lainanvälittäjät pisteytettynä | Suomen Paras</title>
 <meta name="description" content="9 suomalaista lainanvälityspalvelua pisteytetty 26 mittarilla. Läpinäkyvä Score: katso mistä jokainen piste tulee.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../assets/style.css?v=2">
+<link rel="stylesheet" href="../assets/style.css?v=3">
+<script src="../assets/app.js?v=3" defer></script>
 </head>
 <body>
 <div class="demo-ribbon">DEMO — Suomen Paras -konseptin esittelyversio · Lainavertailu-kategoria toimii oikealla datalla</div>
@@ -217,7 +218,10 @@
         if (pos === 1 && key === 'score') {
           card.querySelector('h3').insertAdjacentHTML('beforeend', '<span class="badge-yl">SUOMEN PARAS 2026</span>');
         }
+        card.classList.remove('sort-in');
         wrap.appendChild(card);
+        void card.offsetWidth;
+        card.classList.add('sort-in');
       });
     });
   });
