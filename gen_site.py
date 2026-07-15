@@ -114,7 +114,7 @@ nav.main a.on{color:var(--gold-line)}
 .demo-ribbon{background:var(--ink);color:var(--gold-line);text-align:center;font-size:.8rem;font-weight:800;padding:6px 12px;letter-spacing:.03em}
 /* hero */
 .hero{background:linear-gradient(170deg,var(--blue) 0%,var(--blue-deep) 78%,#173F87 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;width:1400px;height:1400px;left:50%;top:-500px;transform:translateX(-50%);background:repeating-conic-gradient(rgba(255,255,255,.05) 0 9deg,transparent 9deg 18deg);border-radius:50%;pointer-events:none;animation:spin 140s linear infinite}
+.hero::before{content:"";position:absolute;width:1700px;height:1700px;left:50%;top:-560px;transform:translateX(-50%);background:repeating-conic-gradient(rgba(255,255,255,.55) 0 9deg,transparent 9deg 18deg);border-radius:50%;pointer-events:none;opacity:.2;animation:spin 140s linear infinite;-webkit-mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%);mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%)}
 .hero .wrap{position:relative}
 .kicker{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;color:var(--gold-line);margin-bottom:16px;font-weight:600}
 .hero h1{font-size:clamp(2.1rem,4.8vw,3.4rem);line-height:1.06;letter-spacing:.005em;color:#fff;font-weight:600;max-width:660px}
@@ -415,11 +415,10 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=5">
-<script src="{root}assets/app.js?v=5" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=6">
+<script src="{root}assets/app.js?v=6" defer></script>
 </head>
 <body>
-<div class="demo-ribbon">DEMO — Suomen Paras -konseptin esittelyversio · Lainavertailu-kategoria toimii oikealla datalla</div>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
@@ -546,7 +545,6 @@ def build_index():
   <div class="wrap hero-grid">
     <div>
       <img class="hero-logo" src="assets/logo-480.png" alt="Suomen Paras" width="132" height="132">
-      <p class="kicker">SUOMEN PARAS SCORE™ · {SCORE_VERSION} · PÄIVITETTY {UPDATED}</p>
       <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
