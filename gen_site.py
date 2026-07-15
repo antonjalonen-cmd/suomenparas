@@ -108,7 +108,6 @@ nav.main a.on{color:var(--gold-line)}
 .demo-ribbon{background:var(--gold);color:#231A02;text-align:center;font-size:.8rem;font-weight:700;padding:5px 12px;letter-spacing:.02em}
 /* hero */
 .hero{background:linear-gradient(165deg,#0E2138 0%,var(--ink) 46%,#1C3F6C 100%);color:#fff;padding:64px 0 78px;position:relative;overflow:hidden}
-.hero::before{content:"";position:absolute;inset:0;background-image:repeating-linear-gradient(0deg,rgba(255,255,255,.04) 0 1px,transparent 1px 44px),repeating-linear-gradient(90deg,rgba(255,255,255,.04) 0 1px,transparent 1px 44px);mask-image:radial-gradient(120% 100% at 30% 0%,#000 40%,transparent 90%);pointer-events:none}
 .hero .wrap{position:relative}
 .kicker{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;color:var(--gold-line);margin-bottom:16px;font-weight:500}
 .hero h1{font-size:clamp(2rem,4.8vw,3.4rem);line-height:1.05;letter-spacing:-.035em;color:#fff;font-weight:800;max-width:660px}
@@ -122,9 +121,6 @@ nav.main a.on{color:var(--gold-line)}
 .hero p.lead{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .15s both}
 .hero .hero-stats{animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .23s both}
 .board-wrap{position:relative;animation:fadeUp .7s cubic-bezier(.2,.7,.2,1) .3s both}
-.seal{position:absolute;top:-38px;right:-18px;width:104px;height:104px;z-index:2;filter:drop-shadow(0 4px 14px rgba(0,0,0,.35))}
-.seal svg{width:100%;height:100%;animation:spin 44s linear infinite}
-@media(max-width:840px){.seal{top:-30px;right:-6px;width:84px;height:84px}}
 .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
 @media(max-width:840px){.hero-grid{grid-template-columns:1fr}}
 .hero-stats{display:flex;gap:28px;margin-top:28px;flex-wrap:wrap}
@@ -411,8 +407,8 @@ def page(title, desc, body, root="", active=""):
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 {FONTS}
-<link rel="stylesheet" href="{root}assets/style.css?v=3">
-<script src="{root}assets/app.js?v=3" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=4">
+<script src="{root}assets/app.js?v=4" defer></script>
 </head>
 <body>
 <div class="demo-ribbon">DEMO — Suomen Paras -konseptin esittelyversio · Lainavertailu-kategoria toimii oikealla datalla</div>
@@ -551,15 +547,6 @@ def build_index():
       </div>
     </div>
     <div class="board-wrap">
-      <div class="seal" aria-hidden="true"><svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-        <defs><path id="c" d="M50,50 m-37,0 a37,37 0 1,1 74,0 a37,37 0 1,1 -74,0"/></defs>
-        <circle cx="50" cy="50" r="49" fill="#B98A1F"/>
-        <circle cx="50" cy="50" r="44" fill="none" stroke="#F3E3B3" stroke-width="1" stroke-dasharray="2 3"/>
-        <text font-family="IBM Plex Mono,monospace" font-size="8.2" letter-spacing="1.6" fill="#231A02" font-weight="600">
-          <textPath href="#c">SUOMEN PARAS ★ LÄPINÄKYVÄ PISTEYTYS ★</textPath>
-        </text>
-        <text x="50" y="57" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="19" font-weight="700" fill="#231A02">SP</text>
-      </svg></div>
       <div class="board" id="liveboard">
         <div class="board-head"><span class="cat" id="lb-cat">Lainavertailu</span><span class="live"><span class="live-dot"></span><span id="lb-status">TOP 5 · {UPDATED}</span></span></div>
         <div id="lb-body">{''.join(rows)}</div>
