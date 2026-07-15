@@ -297,7 +297,7 @@ def page(title, desc, body, root="", active=""):
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
 {FONTS}
-<link rel="stylesheet" href="{root}assets/style.css">
+<link rel="stylesheet" href="{root}assets/style.css?v=2">
 </head>
 <body>
 <div class="demo-ribbon">DEMO — Suomen Paras -konseptin esittelyversio · Lainavertailu-kategoria toimii oikealla datalla</div>
