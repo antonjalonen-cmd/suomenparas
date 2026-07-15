@@ -254,6 +254,33 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
 .pageh p.lead{color:var(--mut);margin-top:10px;max-width:640px;font-size:1rem}
 .meta-row{display:flex;gap:12px;align-items:center;margin-top:16px;flex-wrap:wrap}
 .count-pill{font-family:'IBM Plex Mono',monospace;font-size:.76rem;color:var(--mut)}
+/* ---------- mobile ---------- */
+@media(max-width:720px){
+  .wrap{padding:0 16px}
+  header.site .wrap{flex-wrap:wrap;height:auto;padding:10px 16px 8px;gap:6px 16px}
+  .brand{font-size:1.02rem}
+  nav.main{margin-left:0;width:100%;gap:18px;overflow-x:auto;font-size:.84rem;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  nav.main::-webkit-scrollbar{display:none}
+  nav.main a{white-space:nowrap;padding:2px 0}
+  .demo-ribbon{font-size:.7rem;padding:5px 10px}
+  .hero{padding:36px 0 44px}
+  .hero-stats{gap:20px}
+  section.band{padding:40px 0}
+}
+@media(max-width:640px){
+  table.rows th:nth-child(3):not(:last-child),table.rows td:nth-child(3):not(:last-child){display:none}
+  table.rows th,table.rows td{padding:9px 14px;font-size:.82rem}
+  .receipt-head{padding:12px 14px}
+  .receipt-head h3 .w{display:block;margin-top:2px}
+  .rank-card{padding:16px}
+  .rank-side{flex-wrap:wrap;gap:8px}
+  .rank-side>div{flex-direction:row!important;flex-wrap:wrap;align-items:center!important}
+  .btn{padding:9px 14px;font-size:.85rem}
+  .p-hero{padding:20px}
+  .stamp-big{flex-direction:row;align-items:center;justify-content:flex-start;gap:14px}
+  .b2b{padding:22px 18px}
+  .quote{word-break:break-word}
+}
 """
 
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">'
