@@ -68,4 +68,53 @@
       requestAnimationFrame(step);
     }
   }
+
+  // Community: likes + comments (localStorage, per-browser)
+  var comm = document.getElementById('community');
+  if (comm) {
+    var slug = comm.dataset.slug;
+    var LK = 'sp_like_' + slug, CK = 'sp_comments_' + slug;
+    var btn = document.getElementById('likeBtn');
+    var seed = parseInt(btn.dataset.likes, 10) || 0;
+    function liked(){ return localStorage.getItem(LK) === '1'; }
+    function renderLike(){
+      var on = liked();
+      btn.classList.toggle('on', on);
+      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+      document.getElementById('likeCount').textContent = seed + (on ? 1 : 0);
+      btn.querySelector('.ltxt').textContent = on ? 'Tykätty' : 'Tykkää';
+    }
+    btn.addEventListener('click', function(){
+      localStorage.setItem(LK, liked() ? '0' : '1');
+      renderLike();
+      if (liked()){ btn.classList.remove('pop'); void btn.offsetWidth; btn.classList.add('pop'); }
+    });
+    renderLike();
+
+    function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
+    function getC(){ try { return JSON.parse(localStorage.getItem(CK)) || []; } catch(e){ return []; } }
+    function fmt(iso){ try { return new Date(iso).toLocaleDateString('fi-FI', {day:'numeric',month:'numeric',year:'numeric'}); } catch(e){ return ''; } }
+    function renderC(){
+      var list = document.getElementById('clist'), cs = getC();
+      if (!cs.length){ list.innerHTML = '<div class="c-empty">Ei vielä kommentteja — ole ensimmäinen ja jaa kokemuksesi.</div>'; return; }
+      list.innerHTML = cs.map(function(c){
+        var you = c.mine ? '<span class="you">SINÄ</span>' : '';
+        return '<div class="comment"><div class="c-head"><span class="c-name">' + esc(c.name || 'Nimetön') + you +
+          '</span><span class="c-date">' + fmt(c.date) + '</span></div><p class="c-text">' + esc(c.text) + '</p></div>';
+      }).join('');
+    }
+    document.getElementById('cform').addEventListener('submit', function(e){
+      e.preventDefault();
+      var name = document.getElementById('cname').value.trim().slice(0,40);
+      var text = document.getElementById('ctext').value.trim().slice(0,600);
+      if (!text) return;
+      var cs = getC();
+      cs.unshift({ name: name, text: text, date: new Date().toISOString(), mine: true });
+      localStorage.setItem(CK, JSON.stringify(cs.slice(0,100)));
+      document.getElementById('ctext').value = '';
+      document.getElementById('cname').value = '';
+      renderC();
+    });
+    renderC();
+  }
 })();

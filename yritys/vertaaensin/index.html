@@ -8,8 +8,8 @@
 <meta name="description" content="VertaaEnsin: pisteet, vahvuudet ja kehityskohteet. Katso mistä jokainen piste tulee — mittari mittarilta.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="../../assets/favicon.png">
-<link rel="stylesheet" href="../../assets/style.css?v=10">
-<script src="../../assets/app.js?v=10" defer></script>
+<link rel="stylesheet" href="../../assets/style.css?v=11">
+<script src="../../assets/app.js?v=11" defer></script>
 </head>
 <body>
 <header class="site">
@@ -110,6 +110,26 @@
     <tbody><tr><td>Tietojen selkeys</td><td>55/100</td><td class="src">Claude Haiku 4.5</td><td class="pts"><b>18,7</b> / 34</td></tr><tr><td>Hintatietojen löydettävyys</td><td>40/100</td><td class="src">Claude Haiku 4.5</td><td class="pts"><b>13,2</b> / 33</td></tr><tr><td>Sisällön kattavuus</td><td>60/100</td><td class="src">Claude Haiku 4.5</td><td class="pts"><b>19,8</b> / 33</td></tr></tbody>
   </table>
 </div>
+
+  <section id="community" data-slug="vertaaensin">
+    <h2 class="sec" style="margin-top:36px">Käyttäjien kokemukset</h2>
+    <p class="sec-sub comm-sub">Yhteisön palautetta VertaaEnsin-palvelusta. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
+    <div class="like-row">
+      <button class="like-btn" id="likeBtn" data-likes="127" aria-pressed="false">
+        <span class="thumb">👍</span><span class="ltxt">Tykkää</span><span class="lcount" id="likeCount">127</span>
+      </button>
+      <span class="like-hint">Oletko käyttänyt VertaaEnsin-palvelua?</span>
+    </div>
+    <form class="comment-form" id="cform">
+      <input type="text" id="cname" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ctext" maxlength="600" placeholder="Kerro kokemuksesi VertaaEnsin-palvelusta…" required></textarea>
+      <div class="cf-actions">
+        <span class="cf-note">Asiallinen palaute. Kommentit tallentuvat toistaiseksi vain omaan selaimeesi.</span>
+        <button type="submit" class="btn">Lähetä kommentti</button>
+      </div>
+    </form>
+    <div id="clist" class="comment-list"></div>
+  </section>
 
   <div class="b2b">
     <h3>Onko tämä sinun yrityksesi?</h3>

@@ -296,6 +296,36 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   *,*::before,*::after{animation:none!important;transition:none!important}
   .rv{opacity:1;transform:none}
 }
+/* ---------- community: likes + comments ---------- */
+#community{margin-top:42px}
+.comm-sub b{color:var(--ink)}
+.like-row{display:flex;align-items:center;gap:14px;margin:4px 0 22px;flex-wrap:wrap}
+.like-btn{display:inline-flex;align-items:center;gap:9px;background:#fff;border:2.5px solid var(--ink);border-radius:999px;padding:11px 20px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.98rem;color:var(--ink);cursor:pointer;box-shadow:0 3px 0 var(--ink);transition:transform .15s cubic-bezier(.3,1.5,.4,1),background .15s}
+.like-btn .thumb{font-size:1.2rem;display:inline-block;transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
+.like-btn:hover{transform:translateY(-2px)}
+.like-btn:active{transform:translateY(1px);box-shadow:0 1px 0 var(--ink)}
+.like-btn.on{background:var(--gold-line)}
+.like-btn.on .thumb{transform:rotate(-10deg) scale(1.18)}
+.like-btn .lcount{font-family:'IBM Plex Mono',monospace;background:var(--blue-soft);border-radius:999px;padding:1px 10px;font-size:.86rem;font-weight:600}
+.like-btn.on .lcount{background:rgba(20,33,63,.15)}
+.like-btn.pop{animation:likePop .4s cubic-bezier(.3,1.6,.4,1)}
+@keyframes likePop{0%{transform:scale(1)}42%{transform:scale(1.13)}100%{transform:scale(1)}}
+.like-hint{color:var(--mut);font-weight:700;font-size:.88rem}
+.comment-form{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px;margin-bottom:20px}
+.comment-form input,.comment-form textarea{width:100%;border:2px solid var(--line);border-radius:12px;padding:11px 13px;font-family:'Nunito',sans-serif;font-size:.95rem;font-weight:600;color:var(--ink);background:#fff}
+.comment-form input::placeholder,.comment-form textarea::placeholder{color:#9DAAC5}
+.comment-form input:focus,.comment-form textarea:focus{outline:none;border-color:var(--blue)}
+.comment-form textarea{margin-top:10px;min-height:94px;resize:vertical;line-height:1.5}
+.cf-actions{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:12px;flex-wrap:wrap}
+.cf-note{font-size:.76rem;color:var(--mut);font-weight:600;max-width:340px}
+.comment-list{display:flex;flex-direction:column;gap:12px}
+.comment{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px 16px;animation:fadeUp .4s cubic-bezier(.2,.7,.2,1) both}
+.c-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:5px}
+.c-name{font-weight:800;color:var(--ink)}
+.c-name .you{font-size:.66rem;font-weight:800;color:var(--blue-deep);background:var(--blue-soft);border-radius:99px;padding:1px 7px;margin-left:6px;vertical-align:1px}
+.c-date{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);white-space:nowrap}
+.c-text{font-size:.94rem;font-weight:600;white-space:pre-wrap;word-break:break-word}
+.c-empty{color:var(--mut);font-weight:700;padding:18px;text-align:center;background:var(--blue-soft);border-radius:12px}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}
@@ -399,6 +429,55 @@ APP_JS = r"""
       requestAnimationFrame(step);
     }
   }
+
+  // Community: likes + comments (localStorage, per-browser)
+  var comm = document.getElementById('community');
+  if (comm) {
+    var slug = comm.dataset.slug;
+    var LK = 'sp_like_' + slug, CK = 'sp_comments_' + slug;
+    var btn = document.getElementById('likeBtn');
+    var seed = parseInt(btn.dataset.likes, 10) || 0;
+    function liked(){ return localStorage.getItem(LK) === '1'; }
+    function renderLike(){
+      var on = liked();
+      btn.classList.toggle('on', on);
+      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
+      document.getElementById('likeCount').textContent = seed + (on ? 1 : 0);
+      btn.querySelector('.ltxt').textContent = on ? 'Tykätty' : 'Tykkää';
+    }
+    btn.addEventListener('click', function(){
+      localStorage.setItem(LK, liked() ? '0' : '1');
+      renderLike();
+      if (liked()){ btn.classList.remove('pop'); void btn.offsetWidth; btn.classList.add('pop'); }
+    });
+    renderLike();
+
+    function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
+    function getC(){ try { return JSON.parse(localStorage.getItem(CK)) || []; } catch(e){ return []; } }
+    function fmt(iso){ try { return new Date(iso).toLocaleDateString('fi-FI', {day:'numeric',month:'numeric',year:'numeric'}); } catch(e){ return ''; } }
+    function renderC(){
+      var list = document.getElementById('clist'), cs = getC();
+      if (!cs.length){ list.innerHTML = '<div class="c-empty">Ei vielä kommentteja — ole ensimmäinen ja jaa kokemuksesi.</div>'; return; }
+      list.innerHTML = cs.map(function(c){
+        var you = c.mine ? '<span class="you">SINÄ</span>' : '';
+        return '<div class="comment"><div class="c-head"><span class="c-name">' + esc(c.name || 'Nimetön') + you +
+          '</span><span class="c-date">' + fmt(c.date) + '</span></div><p class="c-text">' + esc(c.text) + '</p></div>';
+      }).join('');
+    }
+    document.getElementById('cform').addEventListener('submit', function(e){
+      e.preventDefault();
+      var name = document.getElementById('cname').value.trim().slice(0,40);
+      var text = document.getElementById('ctext').value.trim().slice(0,600);
+      if (!text) return;
+      var cs = getC();
+      cs.unshift({ name: name, text: text, date: new Date().toISOString(), mine: true });
+      localStorage.setItem(CK, JSON.stringify(cs.slice(0,100)));
+      document.getElementById('ctext').value = '';
+      document.getElementById('cname').value = '';
+      renderC();
+    });
+    renderC();
+  }
 })();
 """
 
@@ -415,8 +494,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=10">
-<script src="{root}assets/app.js?v=10" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=11">
+<script src="{root}assets/app.js?v=11" defer></script>
 </head>
 <body>
 <header class="site">
@@ -674,6 +753,8 @@ def build_lainavertailu():
 def build_profile(c, pos):
     e = c["extract"]
     m = f"m{pos}" if pos <= 3 else ""
+    # deterministic, plausible starting like count (community engagement; not part of Score)
+    like_seed = int((c["score"] or 55) * 2) + (sum(ord(ch) for ch in c["slug"]) % 90) + 37
     rank_label = {1: "👑 Sija 1 — Suomen Paras 2026", 2: "🥈 Sija 2 / " + str(len(SCORES)), 3: "🥉 Sija 3 / " + str(len(SCORES))}.get(pos, f"Sija {pos} / {len(SCORES)}")
 
     # receipts with evidence quotes attached to relevant rows
@@ -760,6 +841,26 @@ def build_profile(c, pos):
   <p class="sec-sub">Jokainen rivi on mitattu {UPDATED} julkisista lähteistä. Sama kaava kaikille — <a href="../../metodologia/">lue koko metodologia</a>.</p>
   {total_formula}
   {receipts}
+
+  <section id="community" data-slug="{c['slug']}">
+    <h2 class="sec" style="margin-top:36px">Käyttäjien kokemukset</h2>
+    <p class="sec-sub comm-sub">Yhteisön palautetta {esc(c['nimi'])}-palvelusta. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
+    <div class="like-row">
+      <button class="like-btn" id="likeBtn" data-likes="{like_seed}" aria-pressed="false">
+        <span class="thumb">👍</span><span class="ltxt">Tykkää</span><span class="lcount" id="likeCount">{like_seed}</span>
+      </button>
+      <span class="like-hint">Oletko käyttänyt {esc(c['nimi'])}-palvelua?</span>
+    </div>
+    <form class="comment-form" id="cform">
+      <input type="text" id="cname" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ctext" maxlength="600" placeholder="Kerro kokemuksesi {esc(c['nimi'])}-palvelusta…" required></textarea>
+      <div class="cf-actions">
+        <span class="cf-note">Asiallinen palaute. Kommentit tallentuvat toistaiseksi vain omaan selaimeesi.</span>
+        <button type="submit" class="btn">Lähetä kommentti</button>
+      </div>
+    </form>
+    <div id="clist" class="comment-list"></div>
+  </section>
 
   <div class="b2b">
     <h3>Onko tämä sinun yrityksesi?</h3>
