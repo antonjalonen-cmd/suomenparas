@@ -1,0 +1,53 @@
+{
+ "slug": "hostaan",
+ "fetched_ok": [
+  "https://www.hostaan.fi/",
+  "https://www.hostaan.fi/webhotellit/",
+  "https://www.hostaan.fi/wordpress-webhotellit/",
+  "https://www.hostaan.fi/sopimusehdot/",
+  "https://www.hostaan.fi/asiakaskokemuksia/",
+  "https://www.hostaan.fi/yhteystiedot/"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "osittain",
+ "resurssirajat_selkeasti": "kylla",
+ "sopimusehdot_ja_irtisanominen": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "2950656-6",
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {
+  "arvosana": 5,
+  "maara": null,
+  "lahde": "Google Reviews"
+ },
+ "puhelin_esilla": "kylla",
+ "puhelin": "+358175800500",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 6.98,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 85
+ },
+ "vahvuudet": [
+  "Hinnat selkeästi näkyvillä kaikille paketeille pienintä WP 10 (6,98€/kk) suurimpaan WP 50 (31,98€/kk) asti, sisältäen kaikki resurssit",
+  "Asiakastuki multikanavaisesti saatavilla: puhelin arkisin 9-15, sähköposti 24/7, AI-chat 24/7 (Hostaan bot) ja puhelinpalvelu 24/7 (AI Aada)",
+  "Palvelinympäristö kokonaan Suomessa UpCloud ja Hetzner -infrastruktuurilla, High Availability -tekniikalla ja päivittäisellä varmuuskopioinneilla"
+ ],
+ "kehityskohteet": [
+  "Uusimishinta (jatkohinta) ei eksplisiittisesti näkyvillä hinnoittelun yhteydessä, vaikka sopimuksissa mainitaan automaattinen jatkuminen seuraavalle jaksolle",
+  "Mobiilisovellusta ei ole tarjolla, hallinnointi tapahtuu vain Plesk-paneelin kautta selaimen välityksellä",
+  "Erillinen FAQ-osio puuttuu - tukitiedot löytyvät vain erilliseltä tukisivustolta (tuki.hostaan.fi), ei pääsivulta"
+ ],
+ "yhteenveto": "Hostaan Oy on suomalainen webhotelli-palveluntarjoaja, jonka verkkosivuilla esitellään WordPress-optimoituja webhotellipalveluja 6,98-31,98 euron kuukausihintavälillä. Palvelujen perusominaisuudet (levytila, kaistanleveys, sähköpostit, tietokannat) ovat selkeästi näkyvillä kaikissa paketeissa. Yritys tarjoaa poikkeuksellisen laajaa asiakastukea puhelimitse, sähköpostitse ja 24/7 AI-chatilla, sekä omistaa koko palvelininfrastruktuurin Suomessa. Sopimusehdot ovat julkisesti saatavilla ja asiakkaat voivat perua sopimuksen milloin tahansa ilman sanomisaikaa.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "WordPress-webhotellien hinnat näkyvät selvästi jokaisella palvelua kuvaavalla sivulla: WP 10 = 6,98€/kk, WP 15 = 9,98€/kk, WP 20 = 14,98€/kk ja niin edelleen. Kaikki hinnat sisältävät ALV 25,5%.",
+  "uusimishinta_kerrottu": "Sopimusehdoissa (kohta 4.1-4.2) sanotaan, että sopimus jatkuu automaattisesti seuraavalle laskutuskaudelle ja yritys laskuttaa etukäteen, mutta jatkohinta ei ole erillisen maininnalla näkyvillä hinnoittelussa. Hinnat näyttävät olevan samat, mutta tätä ei eksplisiittisesti lausuta.",
+  "resurssirajat_selkeasti": "Jokaisen WordPress-paketin kohdalla on selkeästi listattu: levytila (WP 10: 10 GB, WP 50: 50 GB), liikennöinti/kaistanleveys (WP 10: 100 GB, WP 50: 500 GB), RAM (WP 10: 1 GB, WP 50: 3,5 GB), CPU-prosentuaali ja 2 sähköpostitiliä per paketti sekä MariaDB-tietokanta."
+ }
+}

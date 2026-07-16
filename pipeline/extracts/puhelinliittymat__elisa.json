@@ -1,0 +1,30 @@
+{
+ "slug": "elisa",
+ "fetched_ok": ["https://www.elisa.fi/kauppa/puhelinliittymat", "https://www.elisa.fi/asiakaspalvelu/", "https://www.elisa.fi/sopimusehdot/"],
+ "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+ "kampanjan_jalkeinen_hinta": "osittain",
+ "sopimusaika_ja_irtisanomisaika": "osittain",
+ "nopeus_ja_datarajat": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "puhelinpalvelu saatavilla",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 34.99,
+ "nopein_mbps": 1000,
+ "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 70, "sisallon_kattavuus": 60},
+ "vahvuudet": ["Selkeät nopeusvaihtoehdat ja hinnoittelu näkyville etusivulla", "Kampanjahinnoittelu saatavilla uusille asiakkaille", "Turvallisuusominaisuuksien integrointi palveluun"],
+ "kehityskohteet": ["Kampanjan jälkeinen normaali hinta ei ole selkeästi näkyvillä", "Sopimuksen pituus ja irtisanomisehdot vain osittain kuvattu", "Y-tunnus ja yritystiedot puuttuvat palvelun esittelystä"],
+ "yhteenveto": "Elisan puhelinliittymäpalvelut esitellään pääasiassa verkkokaupassa selkeillä nopeusvalinnoilla (400M–1000M) ja hinnoittelulla. Alennushinnat uusille asiakkaille (31,99 €/kk) ovat näkyvillä, mutta normaalihinnat kampanjien jälkeen vaativat linkkien seuraamista. Sopimuksen ehdot ja irtisanomismahdollisuudet löytyvät osittain, ja tietoturvaominaisuuksien maininta on plussapiste.",
+ "evidence": {
+  "kk_hinta_esilla_ilman_yhteystietoja": "Hinnastot näkyvät selkeästi online-kaupassa: 400M 34,99 €/kk, 600M 38,99 €/kk, 1000M 50,99 €/kk sekä Premium 60,00 €/kk. Esitys ei vaadi puhelinnumeroa tai sähköpostia hintojen näkemiseen.",
+  "kampanjan_jalkeinen_hinta": "Kampanja 31,99 €/kk mainitaan (12 kk), mutta normaalihinnan jälkeen kampanjasta ei ole selvää ilmoitusta kaupan sivulla. Linkkejä seuraamalla löytyy, että normaalihinnat eroavat kampanjahinnoista, mutta suora vertailu ei ole selkeä.",
+  "sopimusaika_ja_irtisanomisaika": "Sivulla mainitaan 'Ei määräaikaa' ('No fixed term') joillekin paketeille, mutta sopimuksen jatkuvuus, irtisanomisaika ja sen olosuhteet eivät ole selkeästi näkyvillä etusivulla. Sopimusehdot-sivulta löytyy lisätietoa, mutta suora linkki ehteihin on vaikea löytää."
+ }
+}

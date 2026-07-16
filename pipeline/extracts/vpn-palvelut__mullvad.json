@@ -1,0 +1,24 @@
+{
+ "slug": "mullvad",
+ "fetched_ok": ["https://mullvad.net/fi/pricing", "https://mullvad.net/fi/about"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei", "puhelin": null,
+ "email_esilla": "kylla", "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei", "ukk_osio": "kylla", "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 5.0,
+ "ai_arviot": {"selkeys": 85, "hintojen_loydettavyys": 95, "sisallon_kattavuus": 80},
+ "vahvuudet": ["Läpinäkyvä kiinteä hinnoittelu ilman kampanjoita tai alennuksia", "Perustajien omistama ruotsalainen yritys, ei pääomasijoitusta", "Useat riippumattomat turvallisuustarkastukset (Cure53, NCC Group, Assured)"],
+ "kehityskohteet": ["Puhelintukea ei ole saatavilla, vain sähköpostiyhteys", "Jonkin verran teknistä jargonia ilman aloittelijaystävällistä selitystä", "Palvelun ilmaisversiota ei ole tarjolla"],
+ "yhteenveto": "Mullvad VPN on ruotsalainen, perustajien omistama VPN-palvelu, joka tunnetaan läpinäkyvyydestä ja yksityisyydestä. Palvelu tarjoaa selkeän 5 euroa kuukaudessa maksavan hinnoittelumallin ilman alennuksia ja lupaa RAM-pohjaista infrastruktuuria. Useilla riippumattomilla tarkastuksilla varmistetaan, että palvelu ei kerää henkilötietoja.",
+ "evidence": {
+  "omistaja_kerrottu": "Sivulla selkeästi kerrotaan: 'Mullvad VPN AB:n omistaa sen emoyhtiö Amagicom AB' ja että molempia yrityksiä omistaa 100-prosenttisesti perustajat Fredrik Stromille ja muille. Ei venture capital -rahoitusta.",
+  "uusimishinta_kerrottu": "Hinnoittelusivulla näkyy selvästi sama 5 EUR/kk hinta kaikille sitoutumisjaksoille (1 kuukausi, 1 vuosi, 1 vuosikymmen). Ei mainittu kampanjaita tai uusimishinnan nousua.",
+  "lokikaytanto_kerrottu": "Infrastuktuuri kuvataan RAM-pohjaiseksi (siirretty kokonaan RAM-muistiin syyskuussa 2023), mikä tarkoittaa, että dataa ei tallenneta levylle. Cure53:n joulukuussa 2020 tekemässä auditoinnissa todettiin, ettei henkilötietoja tai yksityisyyslekkejä löytynyt."
+ }
+}

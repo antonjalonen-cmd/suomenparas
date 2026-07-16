@@ -1,0 +1,40 @@
+{
+ "slug": "cyberghost",
+ "fetched_ok": ["https://cyberghostvpn.com/", "https://cyberghostvpn.com/fi/", "https://cyberghostvpn.com/privacypolicy", "https://cyberghostvpn.com/features/no-logs-vpn", "https://cyberghostvpn.com/about"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 1.59,
+ "ai_arviot": {
+  "selkeys": 82,
+  "hintojen_loydettavyys": 75,
+  "sisallon_kattavuus": 85
+ },
+ "vahvuudet": [
+  "Kape Technologiesin omistajuus ja Romania-sijainti mainitaan avoimesti privacy policyssa",
+  "Deloitte-auditoitu no-logs politiikka ja RAM-only palvelimet varmistavat yksityisyyden",
+  "Suomenkielinen sivusto ja hinta näkyvät ilman tilauksen luomista, uusintahinnat selkeästi ilmoitettu"
+ ],
+ "kehityskohteet": [
+  "Puhelintukea ei ole saatavilla, vain sähköpostit ja live chat",
+  "Aukioloaikoja ei mainita chat-tuelle, seuraamisaika epäselvä",
+  "Pitkäaikaisissa sopimuksissa kuukausihinta laskutetaan erilailla kuin mainostettu /kk-hinta"
+ ],
+ "yhteenveto": "CyberGhost VPN on Kape Technologies PLC:n omistama, Romaniasta rekisteröity VPN-palvelu joka toimii avoimesti. Sivusto tarjoaa selkeän hinnastot jo ilman tunnuksia ja uusintahinnat ovat näkyvillä. Palvelu on saanut Deloitte-auditin no-logs politiikalle ja käyttää RAM-only palvelimia. Suomenkielinen versio on saatavilla.",
+ "evidence": {
+  "omistaja_kerrottu": "Privacy-käytännössä mainitaan: 'our ultimate holding company, KAPE TECHNOLOGIES PLC' ja About-sivulla kerrotaan että yritys on perustettu Romaniaan. Yritys on rekisteröity Romaniassa numerolla J40/1278/2011, osoitteessa 68 Polona St., District 1, 010494 Bucharest, Romania.",
+  "uusimishinta_kerrottu": "Suomalaisella sivustolla näkyy selkeästi eri uusintahinnat: 'Uusiutuu kuukausittain hintaan 11.99€', '6 kuukauden välein hintaan 41.94€', ja 2-vuotisen sopimuksen jälkeen 'uusiutuu automaattisesti vuosittain hintaan 41.34€'.",
+  "lokikaytanto_kerrottu": "No-logs sivulla sanotaan: 'we invited Deloitte to inspect our servers and management systems. Deloitte concluded our VPN servers comply with our no-logs policy.' Lisäksi mainitaan 'RAM-only servers that automatically wipe session data on every reboot'."
+ }
+}

@@ -1,0 +1,1527 @@
+{
+ "slug": "webhotellit",
+ "nimi": "Webhotellit",
+ "nav": "Webhotellit",
+ "h1": "Suomen paras webhotelli 2026",
+ "yksikko": "webhotellipalvelua",
+ "lead": "Pisteytimme {n} webhotellipalvelua {m} mittarilla. Tärkein kysymys: kerrotaanko uusimishinta — vai vain se halpa ensimmäinen vuosi?",
+ "meta_title": "Suomen paras webhotelli 2026 — palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "7 webhotellipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> suomalainen webhotellimarkkina on keskittynyt rajusti. <b>Planeetta, Domainhotelli ja Hostingpalvelu.fi ovat sama yhtiö</b> (Planeetta Internet Oy, Y-tunnus 1753494-9) ja omistaja on brittiläisen pääomasijoittajan taustoittama <b>team.blue</b> — siksi listalla on niistä vain yksi rivi. <b>Zonerin omistaa tanskalais-ruotsalainen One.com</b>, ja Zoner osti Telian koko suomalaisen webhotelliliiketoiminnan 1.8.2024. Aidosti itsenäisiä suomalaisia ovat Louhi, Shellit (Multim), Seravo, Capnova (Moment Digital), Kotisivut.com (Mediam) ja Hostaan.",
+  "<b>Miksi listalla ei ole Nebulaa tai Sigmaticia?</b> Ne eivät enää myy webhotelleja. Nebula sulautui Teliaan, ja Telia myi koko webhotelliliiketoimintansa (myös Sigmatic- ja Webhotelli.fi-brändit) Zonerille 1.8.2024. Nebula on nykyään Telian yritys-ICT-brändi. <b>Ficolo</b> (nyk. Verne) on konesalitoimija, ei kuluttajan webhotelli.",
+  "Vertailu kuvaa palveluiden verkkosivujen läpinäkyvyyttä ja teknistä laatua — ei palvelimien todellista nopeutta, käytettävyyttä tai tukea. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "shellit",
+   "nimi": "Shellit",
+   "domain": "shellit.org",
+   "omistaja": "Multim Oy — itsenäinen suomalainen (Merikarvia); myös Tavu Cloud ja VPSfinland",
+   "y_tunnus": "2405351-0",
+   "rekisteroity": 2011,
+   "score": 82.9,
+   "pillars": {
+    "digitaalinen": 86.3,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 90.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "74/100",
+       "paino": 40,
+       "pisteet": 74,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla on selkeä hinnaston esittely neljällä paketilla: Pronssi 1,00 €/kk (alv 0%), Kulta 2,00 €/kk, Timantti 3,00 €/kk ja Super 4,00 €/kk. Hinnat näkyvät näyttävästä hintaosasta ilman että pitää täyttää yhtään lomaketta."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Jokaisen paketin yhteydessä teksti sanoo 'Ensimmäinen vuosi alennettuun hintaan, sen jälkeen €/kk' ja sen perään uusimishinta: Pronssi 3,50 €/kk, Kulta 8,50 €/kk, Timantti 11,50 €/kk, Super 22,50 €/kk."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Jokaisen paketin kuvauksessa listataan selvästi sivustojen määrä ('Yhdelle' tai 'Jopa viidelle'), sähköpostilaukkojen määrä ('1' tai 'Rajattomasti'), levytila ('1 Gt', '5 Gt', '25 Gt', '50 Gt') sekä varmuuskopioinnin saatavuus (Pronssi/Kulta: ei mainintaa, Timantti/Super: 'Päivittäiset varmuuskopiot')."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "90/100",
+       "paino": 34,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 74,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3558.3810000000003,
+    "cls": 0.0006185650539898387,
+    "tbt_ms": 540.4999999999995
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät hinnat, uusimishinnat ja resurssirajoitukset näkyvät heti etusivulla ilman yhteydenottoa",
+    "Palvelimet sijaitsevat Suomessa Ulvillassa ja niitä valvotaan 24/7, tarkka tekninen dokumentaatio saatavilla",
+    "Kattavat sopimusehdot ja irtisanomistiedot julkisesti saatavilla, 14-30 päivän tyytyväisyystakuu"
+   ],
+   "kehityskohteet": [
+    "Chattipalvelua ei ole saatavilla, ainoastaan puhelin (ark. 9-15:30) ja sähköposti",
+    "Mobiilistovellus puuttuu, hallinta vain selaimen kautta",
+    "Riippumattomat arvostelut (kuten Trustpilot) puuttuvat, vain sisäiset asiakastarinat blogipost-issa"
+   ],
+   "yhteenveto": "Shellit.org (Multim Oy) on suomalainen webhotelli-palveluntarjoaja, joka julkaisee kaiken oleellisen hintatiedot, uusimishinnat ja resurssirajoitukset selkeästi etusivullaan ilman yhteydenottoa. Palvelimet sijaitsevat Suomessa Ulvillassa kallion sisälle rakennetussa datakeskuksessa, ja sopimusehdot sekä irtisanomistiedot ovat helposti saatavilla. Palvelu tarjoaa 14-30 päivän tyytyväisyystakuun."
+  },
+  {
+   "slug": "hostaan",
+   "nimi": "Hostaan",
+   "domain": "hostaan.fi",
+   "omistaja": "Hostaan Oy — itsenäinen suomalainen (Kuopio, 2018)",
+   "y_tunnus": "2950656-6",
+   "rekisteroity": 2018,
+   "score": 82.1,
+   "pillars": {
+    "digitaalinen": 70.8,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 86.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "WordPress-webhotellien hinnat näkyvät selvästi jokaisella palvelua kuvaavalla sivulla: WP 10 = 6,98€/kk, WP 15 = 9,98€/kk, WP 20 = 14,98€/kk ja niin edelleen. Kaikki hinnat sisältävät ALV 25,5%."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimusehdoissa (kohta 4.1-4.2) sanotaan, että sopimus jatkuu automaattisesti seuraavalle laskutuskaudelle ja yritys laskuttaa etukäteen, mutta jatkohinta ei ole erillisen maininnalla näkyvillä hinnoittelussa. Hinnat näyttävät olevan samat, mutta tätä ei eksplisiittisesti lausuta."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Jokaisen WordPress-paketin kohdalla on selkeästi listattu: levytila (WP 10: 10 GB, WP 50: 50 GB), liikennöinti/kaistanleveys (WP 10: 100 GB, WP 50: 500 GB), RAM (WP 10: 1 GB, WP 50: 3,5 GB), CPU-prosentuaali ja 2 sähköpostitiliä per paketti sekä MariaDB-tietokanta."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 86,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 9942.17656,
+    "cls": 0.09311725489679357,
+    "tbt_ms": 882.9643599999999
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "6,98 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvillä kaikille paketeille pienintä WP 10 (6,98€/kk) suurimpaan WP 50 (31,98€/kk) asti, sisältäen kaikki resurssit",
+    "Asiakastuki multikanavaisesti saatavilla: puhelin arkisin 9-15, sähköposti 24/7, AI-chat 24/7 (Hostaan bot) ja puhelinpalvelu 24/7 (AI Aada)",
+    "Palvelinympäristö kokonaan Suomessa UpCloud ja Hetzner -infrastruktuurilla, High Availability -tekniikalla ja päivittäisellä varmuuskopioinneilla"
+   ],
+   "kehityskohteet": [
+    "Uusimishinta (jatkohinta) ei eksplisiittisesti näkyvillä hinnoittelun yhteydessä, vaikka sopimuksissa mainitaan automaattinen jatkuminen seuraavalle jaksolle",
+    "Mobiilisovellusta ei ole tarjolla, hallinnointi tapahtuu vain Plesk-paneelin kautta selaimen välityksellä",
+    "Erillinen FAQ-osio puuttuu - tukitiedot löytyvät vain erilliseltä tukisivustolta (tuki.hostaan.fi), ei pääsivulta"
+   ],
+   "yhteenveto": "Hostaan Oy on suomalainen webhotelli-palveluntarjoaja, jonka verkkosivuilla esitellään WordPress-optimoituja webhotellipalveluja 6,98-31,98 euron kuukausihintavälillä. Palvelujen perusominaisuudet (levytila, kaistanleveys, sähköpostit, tietokannat) ovat selkeästi näkyvillä kaikissa paketeissa. Yritys tarjoaa poikkeuksellisen laajaa asiakastukea puhelimitse, sähköpostitse ja 24/7 AI-chatilla, sekä omistaa koko palvelininfrastruktuurin Suomessa. Sopimusehdot ovat julkisesti saatavilla ja asiakkaat voivat perua sopimuksen milloin tahansa ilman sanomisaikaa."
+  },
+  {
+   "slug": "louhi",
+   "nimi": "Louhi",
+   "domain": "louhi.fi",
+   "omistaja": "Louhi Net Oy — itsenäinen suomalainen (Espoo)",
+   "y_tunnus": "1946409-1",
+   "rekisteroity": 2005,
+   "score": 73.0,
+   "pillars": {
+    "digitaalinen": 61.7,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vertailutaulukko näyttää kaikki neljä webhotelli-pakettia hintojen kanssa ilman, että yhteystietojen antaminen olisi välttämätöntä hinnan näkemiseen."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vertailutaulukko listaa sekä käyttöönottohinta (esim. 'Mini 1,95 € / kk (+alv)*') että 'Normaali hinta' (esim. 'Norm. 3,90 € / kk (+alv)') rinnakkain jokaisen paketin kohdalla. Lisäksi sopimusehtojen osiossa 7 (Maksut) kerrotaan että hinnanmuutokset tulevat voimaan seuraavassa laskutuskaudessa."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vertailutaulukossa jokainen paketti listaa selkeästi: levytila (Gt), sähköpostilaatikot (kpl), liikenne (Gt/kk), FTP-tunnukset (kpl), alidomainit, MySQL-tietokannat ja muut tekniset ominaisuudet. Esim. Mini-paketti: 1 Gt levytila, 10 Gt liikenne, 1 sähköpostilaatikko."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimusehdot-sivu (https://www.louhi.fi/yritys/sopimusehdot/) sisältää kattavat kohdat 8 (Voimassaolo): sopimus on voimassa 12 kuukauden jaksossa, irtisanominen kirjallisesti vähintään 1 kuukausi ennen kauden loppua. Kohta 7 (Maksut) kuvaa laskutuskäytännön. Kohta 10 kuvaa sopimuksen muuttamisoikeuden - asiakkaalla 30 päivän oikeus irtisanoa hinnanmuutoksen johdosta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 92,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 13335.367784999995,
+    "cls": 6.517963685657515e-05,
+    "tbt_ms": 3735.999999999998
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1,95 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä hinnoittelu ilman piilokuluja - kaikki paketit listaavat sekä käyttöönotto- että uusintahinnan rinnakkain",
+    "Suomalaiset data-centerit ja kotimainen tuki arkisin 8-18 puhelimitse (010 841 56 56)",
+    "Kattava vertailutaulukko joka näyttää kaikki resurssit (levytila, liikenne, tietokantamäärä, email-laatikot) selkeästi jokaiselle paketille"
+   ],
+   "kehityskohteet": [
+    "Trustpilot tai vastaava riippumaton asiakasarviointi puuttuu kokonaan - vain omat asiakaspalvelun yhteystiedot näkyvillä",
+    "Sopimuksen peruuttamisoikeus hinnankorotuksella rajattu - voi irtisanoa vain laskutuskauden tai sopimuskauden lopussa, ei välittömästi",
+    "Sovellushotellit (WordPress, WooCommerce) puuttuvat vertailutaulukosta - vain peruswebhotellit näyttävät"
+   ],
+   "yhteenveto": "Louhi Net Oy on itsenäinen suomalainen webhotelli-palvelun tarjoaja, joka sijaitsee Espoossa. Palvelun hinnoittelu on erittäin selkeä - vertailutaulukossa näkyvät sekä käyttöönottohinta että normaali uusintahinta kaikille neljälle paketille (Mini 1,95/3,90 €, Perus 4,45/8,90 €, Rajaton 7,35/14,70 €, Voima 11,85/23,70 €). Resurssirajoitukset on dokumentoitu täydellisesti taulukossa. Palvelun etuna ovat suomalaiset palvelimet ja kotimainen tuki, sopimuksen irtisanomisehto selkeä (30 päivää etukäteen). Negatiivista: riippumatonta asiakasarviota ei ole näkyvissä millään kanavalla."
+  },
+  {
+   "slug": "zoner",
+   "nimi": "Zoner",
+   "domain": "zoner.fi",
+   "omistaja": "One.com Group AB (Tanska/Ruotsi) — osti Telian webhotellit 1.8.2024",
+   "y_tunnus": "1985221-1",
+   "rekisteroity": 2005,
+   "score": 70.6,
+   "pillars": {
+    "digitaalinen": 67.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnat näkyvät yksittäisillä tuotesivuilla (Mini 1,95€/kk -50%, Startti 4,9€/kk, Professional 9,9€/kk, Enterprise 19,9€/kk 12kk sopimuksella), mutta päävertailutaulukossa www.zoner.fi/webhotellit/ sanotaan 'Kaikki hinnat alv. 0%' ilman konkreettisia euroja."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Uusintahinta eli normaalin sopimuskertautumisen hinta ei ole missään näkyvillä. Sopimusehdoissa (sopimusehdot-sivulla) mainitaan hinnanmuutosmahdollisuus kuukauden varoitusajalla, mutta uusia hintoja ei julkaista etukäteen."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki neljä pakettia on esitelty tarkan taulukon muodossa: Mini 1 GB/3 emails/1 DB, Startti 20 GB/10 emails/1 DB, Sopiva 40 GB/20 emails/2 DB, Yritys 60 GB/unlimited emails/unlimited DB. Myös kaistanleveys mainitaan (10 GB, 100 GB, 200 GB, 400 GB)."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 6155.5064999999995,
+    "cls": 0.22385953826062963,
+    "tbt_ms": 1359
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1,95 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät resurssirajoitukset kaikissa paketeissa - levytila, sähköpostit ja tietokannat määritelty tarkasti (Mini 1 GB–Yritys 60 GB)",
+    "Suomalaiset palvelimet Helsingissä (Pitäjänmäki) uusiutuvalla energialla, 24/7 asiakaspalvelu chat-tuella",
+    "Kattava sopimusehdoissa - 30 päivän irtisanomisaika, automaattinen uusiminen, hinnanmuutossuoja"
+   ],
+   "kehityskohteet": [
+    "Uusintahinta täysin näkymätön - ensimmäisen vuoden kampanjahinta näkyy selvästi, mutta uusimiskustannukset jäävät täysin epäselväksi, typillinen pimeyden malli",
+    "Hinnat piilotettu vertailutaulukosta - pääsivulla ei näy euroja, vaan ne löytyvät vain yksittäisiltä tuotesivuilta tai hakemalla",
+    "Ulkomainen omistajuus vain pienellä tekstillä - One.com Groupin omistajuus mainitaan vain yksityisyyskäytäntöjen pienellä tekstillä, ei päälähteissä"
+   ],
+   "yhteenveto": "Zoner Oy on suomalainen webhotelli-palveluntarjoaja (omistaja: One.com Group/group.ONE). Sivusto esittelee neljä pakettia selkeillä resurssirajoituksilla ja Suomen palvelimilla, palvelutaso on kattava. Pääongelma on pricing-strategia: kampanjahinta näkyy (Mini 1,95€/kk -50% alennuksella), mutta uusintahinta ja varsinaiset hinnat eivät ole näkyvillä vertailutaulukossa, mikä on merkittävä dark pattern. Trustpilot-arvostelut ovat sekalaiset (90+ reviews)."
+  },
+  {
+   "slug": "seravo",
+   "nimi": "Seravo",
+   "domain": "seravo.com",
+   "omistaja": "Seravo Oy — itsenäinen suomalainen (Tampere)",
+   "y_tunnus": "2392019-2",
+   "rekisteroity": 2011,
+   "score": 69.0,
+   "pillars": {
+    "digitaalinen": 88.4,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "80/100",
+       "paino": 40,
+       "pisteet": 80,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "WP Start 25 €/kk, WP Pro 40 €/kk, WP Business 60 €/kk, WP Corporate 110 €/kk selkeästi näkyvissä heti plans-sivulla. Asteriskit viittaavat vuosilaskutukseen."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelussa käytetään asteriskia '*Price per month when you choose annual billing' mikä osoittaa, että näytetty hinta on vuosittain laskutettaessa. Varsinainen kuukausi-uusiutushinta ei ole selkeästi mainittu."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikissa planeissa listataan HTTP-pyynnöt (150k-custom), levytila (10-custom GB), sekä staging-ympäristöt. Kaikki resurssit maininta klikkauksen päässä."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 80,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 2809.4990000000007,
+    "cls": 0.0006971701968068836,
+    "tbt_ms": 494.5
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "25 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Ei kerrottu"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät WordPress-optimoidut palvelut eri kokoluokille",
+    "Laaditut SLA 99,9% ja 24/7 tuki",
+    "Sisältää automaattiset päivitykset ja varmuuskopiot"
+   ],
+   "kehityskohteet": [
+    "Uusiutushinta piilotettu asteriskiin, täysiä vertailu vaikeaa",
+    "Y-tunnus ei näkyvissä, yritystiedot puutteelliset",
+    "Palvelimien sijainti Suomessa mainitaan vain osittain (ei eksplisiittiä tekstiä)"
+   ],
+   "yhteenveto": "Seravo Oy on Tampereella sijaitseva WordPress-palvelun tarjoaja, joka keskittyy premium-laajuiseen WordPress-hostingiin yrityksille. Hinnat alkavat 25 eurosta kuukaudessa, mutta hinta sisältää asteriskin, mikä viittaa vuosittaiseen laskutukseen. Sivustolla ei ole perinteistä webhotelli-vertailua, vaan fokus on WordPress-palvelun eri tasoilla (Start, Pro, Business, Corporate). Sopimusehdot ja tyytyväisyystakuu ovat selkeästi esillä, mutta yrityksen tunnustiedot ja palvelimen sijainti vaativat tarkempaa tutkintaa."
+  },
+  {
+   "slug": "kotisivut",
+   "nimi": "Kotisivut.com",
+   "domain": "kotisivut.com",
+   "omistaja": "Mediam Oy — itsenäinen suomalainen",
+   "y_tunnus": "3561966-3",
+   "rekisteroity": 2025,
+   "score": 63.3,
+   "pillars": {
+    "digitaalinen": 71.8,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "53/100",
+       "paino": 40,
+       "pisteet": 53,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "78/100",
+       "paino": 30,
+       "pisteet": 78,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla näkyy hinnat: Webhotelli 10 €/kk, WordPress Pro 16 €/kk, Pilvipalvelin 25 €/kk. Hinnat ovat julkisesti näkyvissä ilman kirjautumista."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla mainitaan hintojen olevan 'alkaen' hinnat, mutta uusimishinnat eivät ole selkeästi näkyvissä. Asiakkaat joutuvat ottamaan yhteyttä tai tutustumaan tarkemmin palvelusta saadakseen täydelliset hintatiedot."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Resurssirajoituksista (diskiavaruus, bandwith, sähköpostit) ei ole selkeää tietoa etusivulla tai yhteystiedoilla. Sivusto mainitsee 'klusteroitua pilvipalvelinarkkitehtuuria' mutta konkreettiset rajat puuttuvat."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 53,
+    "accessibility": 78,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 11497.088000000007,
+    "cls": 0.22454075173769006,
+    "tbt_ms": 125
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "10 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Kotimaiset palvelimet Espoossa ja luotettava Mediam Oy:n tausta (AAA Dun & Bradstreet-luottoluokka)",
+    "Monipuolinen palveluvalikoima (webhotelli, WordPress Pro, pilvipalvelimet, verkkotunnukset)",
+    "Asiakastuki saatavilla puhelimitse ja sähköpostitse arkisin 9-18"
+   ],
+   "kehityskohteet": [
+    "Uusimishinta näkyy vain osittain tai vaatii yhteydenottoa - selkeä hintataulukko puuttuu",
+    "Diskiavaruus ja muut resurssirajoitukset eivät ole selkeästi näkyvissä etusivulla",
+    "Y-tunnus ei ole esillä verkkosivuilla, asiakkaat joutuvat etsimään sen muualta"
+   ],
+   "yhteenveto": "Kotisivut.com on Mediam Oy:n palvelukonsepti, joka tarjoaa webhotelleja alkaen 10 eurosta kuussa. Sivusto näyttää hinnat selkeästi mutta uusimishinnat ja yksityiskohtaiset resurssirajoitukset vaativat lisätutkimista. Palvelimet sijaitsevat Suomessa ja asiakastuki on saatavilla arkisin puhelimitse ja sähköpostitse."
+  },
+  {
+   "slug": "planeetta",
+   "nimi": "Planeetta",
+   "domain": "planeetta.fi",
+   "omistaja": "team.blue (Hg Capital) — sama yhtiö kuin Domainhotelli ja Hostingpalvelu.fi",
+   "y_tunnus": "1753494-9",
+   "rekisteroity": 2002,
+   "score": 57.1,
+   "pillars": {
+    "digitaalinen": 64.4,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Planeetta.fi-etusivulla näkyy \"Webhotellit alkaen 8,90 €/kk (+alv)\" ja suora linkki \"Tilaa webhotelli\" ilman yhteydenottopyyntöä."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintalausekkeissa ei mainita uusintahintaa tai erikoishintaa ensimmäiselle kaudelle. Kotisivut.com-sivuilla näkyvät vain kuukausihinta, ei uusintahintaa."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kotisivut.com-sivulla mainitaan levytilat (10/20/50 GT) ja sähköpostiosoitteet (10/10/50), mutta planeetta.fi omilla sivuilla nämä rajat eivät ole näkyvissä ilman klikkausta. Liikennettä ja tietokantamääriä ei mainittu."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Planeetta.fi/yritys/sopimusehdot/ ohjaa kotisivut.com:iin, mikä on merkki verkkojärjestelyn uudelleenorganisaatiosta. Irtisanomisperiaatteet eivät ole selkeästi julkisesti saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 80,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 15695.262709999999,
+    "cls": 0.3083661143893203,
+    "tbt_ms": 671
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "8,9 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Suomalaisissa palvelinkeskuksissa sijaitsevat palvelimet ja lokaali henkilökunta",
+    "Yritys toimii avoimen team.blue-konserniomistuksen alla, mikä tarjoaa eurooppalaisen tuen ja skaalaavuuden",
+    "Selkeät yhteystiedot ja henkilökohtainen asiakaspalvelu"
+   ],
+   "kehityskohteet": [
+    "Webhotelli-palvelun pricing page ohjaa kotisivut.com-sivulle eikä ole suoraan planeetta.fi-domainilla",
+    "Uusimishintoja ei eritellä hintalausekkeissa, vain ensimmäinen termi näkyy julkisesti",
+    "Resurssirajoja (levytila, liikenne, tietokannat) ei yksityiskohtaisesti eritellä planeetta.fi-sivuilla"
+   ],
+   "yhteenveto": "Planeetta on suomalainen webhotelli- ja verkkotunnuspalvelun tarjoaja, joka on osa eurooppalaista team.blue-konsernia. Yritys näyttää hinnaston julkisesti ilman yhteydenottopyyntöä (alkaen 8,90 €/kk), mutta ei erittelee uusimishintoja tai tarkempia resurssirajoja etusivullaan. Palvelun kuvausmateriaalit ja hinnoittelu siirtyvät kotisivut.com-alustalle, joten asiakkaalle ei ole täysin selkeää, onko kyseessä erillinen palvelu vai samansisältöinen uudelleenbrändäys."
+  }
+ ],
+ "updated": "16.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta esillä ilman yhteystietoja (30), uusimishinta kerrottu (ei vain tarjoushinta) (20), levytila- ja liikennerajat kerrottu selkeästi (15), sopimusehdot ja irtisanominen kerrottu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (15)"
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "louhi",
+ "fetched_ok": [
+  "https://www.louhi.fi/webhotelli/vertailutaulukko/",
+  "https://www.louhi.fi/yritys/yhteystiedot/",
+  "https://www.louhi.fi/yritys/sopimusehdot/"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "resurssirajat_selkeasti": "kylla",
+ "sopimusehdot_ja_irtisanominen": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "1946409-1",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "010 841 56 56",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 1.95,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 80
+ },
+ "vahvuudet": [
+  "Selkeä hinnoittelu ilman piilokuluja - kaikki paketit listaavat sekä käyttöönotto- että uusintahinnan rinnakkain",
+  "Suomalaiset data-centerit ja kotimainen tuki arkisin 8-18 puhelimitse (010 841 56 56)",
+  "Kattava vertailutaulukko joka näyttää kaikki resurssit (levytila, liikenne, tietokantamäärä, email-laatikot) selkeästi jokaiselle paketille"
+ ],
+ "kehityskohteet": [
+  "Trustpilot tai vastaava riippumaton asiakasarviointi puuttuu kokonaan - vain omat asiakaspalvelun yhteystiedot näkyvillä",
+  "Sopimuksen peruuttamisoikeus hinnankorotuksella rajattu - voi irtisanoa vain laskutuskauden tai sopimuskauden lopussa, ei välittömästi",
+  "Sovellushotellit (WordPress, WooCommerce) puuttuvat vertailutaulukosta - vain peruswebhotellit näyttävät"
+ ],
+ "yhteenveto": "Louhi Net Oy on itsenäinen suomalainen webhotelli-palvelun tarjoaja, joka sijaitsee Espoossa. Palvelun hinnoittelu on erittäin selkeä - vertailutaulukossa näkyvät sekä käyttöönottohinta että normaali uusintahinta kaikille neljälle paketille (Mini 1,95/3,90 €, Perus 4,45/8,90 €, Rajaton 7,35/14,70 €, Voima 11,85/23,70 €). Resurssirajoitukset on dokumentoitu täydellisesti taulukossa. Palvelun etuna ovat suomalaiset palvelimet ja kotimainen tuki, sopimuksen irtisanomisehto selkeä (30 päivää etukäteen). Negatiivista: riippumatonta asiakasarviota ei ole näkyvissä millään kanavalla.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "Vertailutaulukko näyttää kaikki neljä webhotelli-pakettia hintojen kanssa ilman, että yhteystietojen antaminen olisi välttämätöntä hinnan näkemiseen.",
+  "uusimishinta_kerrottu": "Vertailutaulukko listaa sekä käyttöönottohinta (esim. 'Mini 1,95 € / kk (+alv)*') että 'Normaali hinta' (esim. 'Norm. 3,90 € / kk (+alv)') rinnakkain jokaisen paketin kohdalla. Lisäksi sopimusehtojen osiossa 7 (Maksut) kerrotaan että hinnanmuutokset tulevat voimaan seuraavassa laskutuskaudessa.",
+  "resurssirajat_selkeasti": "Vertailutaulukossa jokainen paketti listaa selkeästi: levytila (Gt), sähköpostilaatikot (kpl), liikenne (Gt/kk), FTP-tunnukset (kpl), alidomainit, MySQL-tietokannat ja muut tekniset ominaisuudet. Esim. Mini-paketti: 1 Gt levytila, 10 Gt liikenne, 1 sähköpostilaatikko.",
+  "sopimusehdot_ja_irtisanominen": "Sopimusehdot-sivu (https://www.louhi.fi/yritys/sopimusehdot/) sisältää kattavat kohdat 8 (Voimassaolo): sopimus on voimassa 12 kuukauden jaksossa, irtisanominen kirjallisesti vähintään 1 kuukausi ennen kauden loppua. Kohta 7 (Maksut) kuvaa laskutuskäytännön. Kohta 10 kuvaa sopimuksen muuttamisoikeuden - asiakkaalla 30 päivän oikeus irtisanoa hinnanmuutoksen johdosta.",
+  "palvelimet_suomessa": "Vertailutaulukossa lukee palvelutasovaihtoehdoissa 'Suomalainen konesali' (Finnish data center), mikä osoittaa että palvelimet ovat Suomessa. Yhteystiedot-sivulla kuitenkin palvelimen sijainti mainitaan vain teknisten eritelmien osassa, ei markkinointitekstissä."
+ }
+}

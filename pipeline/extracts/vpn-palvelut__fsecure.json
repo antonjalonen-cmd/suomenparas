@@ -1,0 +1,40 @@
+{
+ "slug": "fsecure",
+ "fetched_ok": ["https://f-secure.com/fi/vpn", "https://company.f-secure.com/fi", "https://www.f-secure.com/fi/legal/privacy/total", "https://www.f-secure.com/fi/legal/terms/vpn", "https://www.f-secure.com/fi/support"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "lainkayttoalue_kerrottu": "osittain",
+ "lokikaytanto_kerrottu": "osittain",
+ "riippumaton_auditointi": "ei",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "kylla",
+ "puhelin": "+358 9 4245 4493",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 4.17,
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Hinnoittelu on täysin läpinäkyvää: uusintahinta on selvästi näkyvissä jo tuotesivulla, mikä estää piilotetut maksut",
+  "Suomalainen yritys (F-Secure Oyj, listattu Nasdaq Helsingissä) ja suomalainen tuki: puhelin, sähköposti ja yhteisöfoorumi 24/7",
+  "VPN myydään itsenäisenä tuotteena tai osana F-Secure Total -pakettia, antaen kuluttajalle joustavuutta"
+ ],
+ "kehityskohteet": [
+  "No-logs -käytäntö mainitaan, mutta ei yksityiskohtaisesti: sivulla kerrotaan, ettei VPN-liikennettä loggata, mutta perustelut ovat niukat",
+  "Ei kolmatta osapuolta tehnyttä tietoturvauditointia, joka olisi merkittävä luotettavuuden osoitus",
+  "Oikeusjurisdiktio (Suomi/ETA) mainitaan vain yksittäisissä PDF-dokumenteissa, ei tuotesivulla selvästi"
+ ],
+ "yhteenveto": "F-Secure VPN on suomalaisen F-Secure Oyj:n tuottama, itsenäisenä tai F-Secure Total -pakettiin sisältyvänä myytävä VPN-palvelu. Hinnoittelu on täysin läpinäkyvää ja uusintahinnat näkyvät selvästi, mikä on poikkeus VPN-alalla. Yrityksen omistajuus on selvästi ilmoitettu, ja suomalaisena yrityksenä se noudattaa GDPR:ää. Palvelulla on suomalainen tuki puhelimitse, sähköpostitse ja verkkofoorumilla. No-logs -käytäntö mainitaan mutta ei kaikkein yksityiskohtaisesti, eikä palvelulla ole riippumattoman kolmannen osapuolen tietoturvauditointia.",
+ "evidence": {
+  "omistaja_kerrottu": "F-Secure Oyj, julkisesti listattu Nasdaq Helsingissä. Yhtiö on perustettu 1988 ja sillä on noin 550 työntekijää, pääkonttori Helsingissä (Tammasaarenkatu 7, 00180 Helsinki). Y-tunnus: 3269349-7.",
+  "uusimishinta_kerrottu": "Tuotesivulla lukee selvästi: '30 päivän kuluttua tilauksesi uusitaan automaattisesti vuodeksi hintaan 49,99 €' (1 laite), 69,99 € (3 laitetta) tai 79,99 € (5 laitetta). Tämä näkyy jokaisen hinnoitteluvaihtoehdon kohdalla.",
+  "lokikaytanto_kerrottu": "Privacy policy -dokumentissa mainitaan VPN-ominaisuudelle: 'Emme pidä mitään lokeja VPN-palvelun kautta ulkoisiin osoitteisiin muodostetuista yhteyksistä. Emme myöskään loggaa miten käyttäjät käyttävät palvelua.' Palvelussa käytetään väliaikaisia logeja vilpillisen käytön estämiseen, joita säilytetään 1 vuoden ajan ennen poistamista. No-logs -periaate mainitaan, mutta ei kovin yksityiskohtaisesti."
+ }
+}

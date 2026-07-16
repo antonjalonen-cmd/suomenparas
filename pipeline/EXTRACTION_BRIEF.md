@@ -3,6 +3,23 @@
 Shared instructions handed to every extraction agent. One agent per company.
 The agent reads only the company's own public website and writes one JSON file.
 
+## ⚠️ `fetched_ok` is necessary but NOT sufficient (learned 16.7.2026)
+
+The NordVPN agent listed `nordvpn.com/fi/features/no-log-vpn/` in `fetched_ok` and then
+recorded "no jurisdiction stated" and "no independent audit". That page plainly says
+*"NordVPN toimii Panamasta käsin"* and names **Deloitte** across six audits. Cloudflare
+had served the agent a degraded version of a page it believed it had read. Three fields
+were wrong — **40 transparency points** — and it would have ranked the biggest VPN in the
+category near the bottom for hiding things it publishes prominently.
+
+**A bot-blocked site must not be scored as an opaque site.** If a page looks suspiciously
+empty, or the site is known to use bot protection (Cloudflare, Akamai, PerimeterX):
+1. say so explicitly in your reply, and
+2. use `"osittain"` for anything you cannot positively confirm — never `"ei"`.
+
+Penalising a company for blocking a crawler, rather than for what it shows humans, is a
+measurement error, not a finding.
+
 ## Hard rules
 
 1. **Only the company's own public website counts** as a source for the scored

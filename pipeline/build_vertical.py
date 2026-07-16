@@ -6,7 +6,7 @@ hand-tuning. If a number moves, an input moved.
 
 Usage:  python pipeline/build_vertical.py vakuutukset
 """
-import json, os, sys, urllib.request, urllib.error
+import json, os, sys, time, urllib.request, urllib.error
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from score_rules import PILLAR_W, DIGITAL, REACH, AI, TRANSPARENCY, criteria_text
@@ -30,25 +30,42 @@ def prh_registered(y_tunnus):
     was registered here, not when the group was founded. Labelled accordingly.
     The old opendata-bis-v1 endpoint now serves HTML; v3 is the live one.
     """
+    # Foreign companies (most VPNs) have no Finnish Y-tunnus at all — that is the
+    # correct answer, not a lookup failure. Don't ask PRH about None.
+    if not y_tunnus:
+        return None
     cache = json.load(open(PRH_CACHE, encoding="utf-8")) if os.path.exists(PRH_CACHE) else {}
     if y_tunnus in cache:
         return cache[y_tunnus]
     url = f"https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId={y_tunnus}"
     year = None
-    try:
-        req = urllib.request.Request(url, headers={"User-Agent": "suomenparas-demo/1.1"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            d = json.load(r)
-        comps = d.get("companies") or []
-        if comps:
-            rd = (comps[0].get("businessId") or {}).get("registrationDate")
-            if rd:
-                year = int(rd[:4])
-    except Exception as ex:
-        print(f"  PRH lookup failed for {y_tunnus}: {ex}")
-    cache[y_tunnus] = year
-    with open(PRH_CACHE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=1)
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "suomenparas-demo/1.1"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                d = json.load(r)
+            comps = d.get("companies") or []
+            if comps:
+                rd = (comps[0].get("businessId") or {}).get("registrationDate")
+                if rd:
+                    year = int(rd[:4])
+            break
+        except urllib.error.HTTPError as ex:
+            if ex.code == 429 and attempt < 3:
+                wait = 5 * (attempt + 1)
+                print(f"  PRH 429 for {y_tunnus}, retrying in {wait}s")
+                time.sleep(wait)
+                continue
+            print(f"  PRH lookup failed for {y_tunnus}: {ex}")
+            break
+        except Exception as ex:
+            print(f"  PRH lookup failed for {y_tunnus}: {ex}")
+            break
+    # Only cache a real answer — caching a rate-limited None would make the gap permanent.
+    if year is not None:
+        cache[y_tunnus] = year
+        with open(PRH_CACHE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1)
     return year
 
 
@@ -122,6 +139,15 @@ def pretty_list(items):
     return ", ".join(PRETTY.get(str(i).lower().strip(), str(i).capitalize()) for i in items)
 
 
+def num(v):
+    """5.0 -> '5', 1.99 -> '1,99'. Avoids publishing '1,0 €/kk'."""
+    if v is None:
+        return None
+    f = float(v)
+    s = str(int(f)) if f == int(f) else f"{f:g}"
+    return s.replace(".", ",")
+
+
 def facts_extra(vertical, e, meta):
     out = []
     if vertical == "vakuutukset":
@@ -133,16 +159,59 @@ def facts_extra(vertical, e, meta):
         # delivered price — label it so, instead of implying it is what you pay.
         types = [str(t).lower() for t in (e.get("sopimustyypit") or [])]
         label = "Hinta / marginaali (esillä)" if "porssisahko" in types else "Hinta (esillä)"
-        out.append({"label": label, "value": f"{h} snt/kWh".replace(".", ",") if h else "Ei julkisesti esillä"})
+        out.append({"label": label, "value": f"{num(h)} snt/kWh" if h else "Ei julkisesti esillä"})
         p = e.get("perusmaksu_eur_kk")
-        out.append({"label": "Perusmaksu", "value": f"{p} €/kk".replace(".", ",") if p else "Ei julkisesti esillä"})
+        out.append({"label": "Perusmaksu", "value": f"{num(p)} €/kk" if p else "Ei julkisesti esillä"})
     elif vertical == "laajakaista":
         out.append({"label": "Saatavuus", "value": meta.get("saatavuus", "–")})
         out.append({"label": "Tekniikat", "value": pretty_list(e.get("tekniikat")) or "Ei kerrottu"})
         h = e.get("halvin_kk_hinta_eur")
-        out.append({"label": "Halvin kk-hinta", "value": f"{h} €/kk".replace(".", ",") if h else "Ei julkisesti esillä"})
+        out.append({"label": "Halvin kk-hinta", "value": f"{num(h)} €/kk" if h else "Ei julkisesti esillä"})
         s = e.get("nopein_mbps")
         out.append({"label": "Nopein liittymä", "value": f"{s} Mbit/s" if s else "Ei kerrottu"})
+    elif vertical == "puhelinliittymat":
+        # Which network a brand rides on is the point: the cheapest MVNO may use
+        # exactly the same masts as the most expensive operator.
+        out.append({"label": "Verkko", "value": meta.get("verkko", "–")})
+        h = e.get("halvin_kk_hinta_eur")
+        out.append({"label": "Halvin kk-hinta", "value": f"{num(h)} €/kk" if h else "Ei julkisesti esillä"})
+        s = e.get("nopein_mbps")
+        out.append({"label": "Nopein liittymä", "value": f"{s} Mbit/s" if s else "Ei kerrottu"})
+    elif vertical == "luottokortit":
+        t = e.get("korttityyppi")
+        out.append({"label": "Korttityyppi",
+                    "value": "Maksuaikakortti" if t == "maksuaikakortti" else "Luottokortti"})
+        k = e.get("todellinen_vuosikorko_pct")
+        out.append({"label": "Todellinen vuosikorko",
+                    "value": f"{num(k)} %" if k else "Ei julkisesti esillä"})
+        v = e.get("vuosimaksu_eur")
+        out.append({"label": "Vuosimaksu",
+                    "value": (f"{num(v)} €") if v is not None else "Ei julkisesti esillä"})
+    elif vertical == "sijoitusalustat":
+        # No numeric fee fact here on purpose. Brokers price differently — Evli quotes
+        # 0,05 % per trade, Nordnet a 3 € minimum — and the extracts mixed percentages
+        # and euros into one field. Rather than print a number that may be the wrong
+        # unit, state whether the cost is public and let the receipt rows carry the
+        # actual quoted figures.
+        pub = {"kylla": "Julkisesti esillä", "osittain": "Osittain esillä",
+               "ei": "Vain kirjautuneille"}.get(e.get("kaupankayntikulut_ilman_kirjautumista"), "Ei tiedossa")
+        out.append({"label": "Kaupankäyntikulut", "value": pub})
+        out.append({"label": "Markkinat", "value": pretty_list(e.get("markkinat")) or "Ei kerrottu"})
+    elif vertical == "webhotellit":
+        h = e.get("halvin_kk_hinta_eur")
+        out.append({"label": "Halvin kk-hinta", "value": f"{num(h)} €/kk" if h else "Ei julkisesti esillä"})
+        p = e.get("palvelimet_suomessa")
+        out.append({"label": "Palvelimet Suomessa",
+                    "value": {"kylla": "Kyllä", "ei": "Ei"}.get(p, "Ei kerrottu")})
+    elif vertical == "vpn-palvelut":
+        # No Y-tunnus for foreign services, so jurisdiction stands in its place —
+        # for a VPN it is arguably the more meaningful fact anyway.
+        out.append({"label": "Lainkäyttöalue", "value": meta.get("lainkayttoalue", "–")})
+        h = e.get("halvin_kk_hinta_eur")
+        out.append({"label": "Halvin kk-hinta", "value": f"{num(h)} €/kk" if h else "Ei julkisesti esillä"})
+        s = e.get("suomenkielinen_sivu")
+        out.append({"label": "Suomenkielinen sivusto",
+                    "value": {"kylla": "Kyllä", "ei": "Ei"}.get(s, "Ei kerrottu")})
     return out
 
 
@@ -155,11 +224,33 @@ def build(vertical):
         if not os.path.exists(ext_path):
             print(f"  SKIP {slug}: no extract")
             continue
-        e = json.load(open(ext_path, encoding="utf-8"))
+        e = json.load(open(ext_path, encoding="utf-8-sig"))
         lh = LH.get(f"{vertical}__{slug}")
         if not lh:
             print(f"  SKIP {slug}: no lighthouse")
             continue
+
+        # Did we actually measure THIS company? Two real failures on 16.7.2026:
+        #  - capnova.fi silently redirected to glesys.fi (a different company), and
+        #    Lighthouse scored glesys.fi under the name "Capnova".
+        #  - the Hostaan agent read shellit.org and filed it as Hostaan.
+        # Publishing one company's data under another's name is the worst thing this
+        # site could do, so both inputs are checked against the declared domain.
+        base = meta["domain"].replace("www.", "").lower()
+        got = (lh.get("fetched_url") or "").lower()
+        host = got.split("//")[-1].split("/")[0].replace("www.", "")
+        if host and base not in host and host not in base:
+            raise SystemExit(
+                f"{vertical}/{slug}: lighthouse measured {got} but the declared domain is "
+                f"{meta['domain']}. The brand may have been sold/redirected. Verify before "
+                f"publishing — do NOT score another company's site under this name."
+            )
+        fetched = [u.lower() for u in (e.get("fetched_ok") or [])]
+        if fetched and not any(base in u for u in fetched):
+            raise SystemExit(
+                f"{vertical}/{slug}: the extraction agent never loaded {meta['domain']} "
+                f"(fetched_ok={fetched}). Re-run this extract — it describes a different site."
+            )
 
         dig, dig_rows = score_digital(lh)
         lap, lap_rows = score_ternary(TRANSPARENCY[vertical], e, "Verkkosivu + AI-ekstraktio")

@@ -1,0 +1,35 @@
+{
+ "slug": "nordea-sijoitus",
+ "fetched_ok": [
+  "https://nordea.fi",
+  "https://nordea.fi/henkiloasiakkaat/palvelumme/saastaminen-sijoittaminen/sijoittaminen/",
+  "https://nordea.fi/henkiloasiakkaat/palvelumme/saastaminen-sijoittaminen/sijoittaminen/osakkeet.html",
+  "https://nordea.fi/henkiloasiakkaat/palvelumme/saastaminen-sijoittaminen/ehdot-asiakirjat.html"
+ ],
+ "kaupankayntikulut_ilman_kirjautumista": "osittain",
+ "sailytyspalkkio_kerrottu": "kylla",
+ "valuutanvaihtokulu_kerrottu": "ei",
+ "hinnasto_ladattavissa": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "2858394-9",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_osakekauppa_eur": null,
+ "markkinat": ["helsinki", "stockholm", "usa", "eurooppa"],
+ "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 40, "sisallon_kattavuus": 60},
+ "vahvuudet": ["Y-tunnus ja liiketoiminnan perustiedot julkisesti näkyvillä", "Selkeä 0€ säilytysmaksu ilman kirjautumista", "Chat-tuki mainittu käytettävissä"],
+ "kehityskohteet": ["Kaupankäyntikulut piilotettu hinnaston taakse—konkreettisia euroja ei näy ilman kirjautumista", "Valuutanvaihtokulu puuttuu kokonaan", "Konkreettisen hinnaston lataaminen vaatii sivun sisältöjen tutkimista"],
+ "yhteenveto": "Nordea Bank Abp (Y-tunnus 2858394-9) tarjoaa sijoituspalveluja laajasti pohjoismaisilla pörsseillä ja kansainvälisillä markkinoilla. Säilytysmaksu on ilmoitettu julkisesti (0€), mutta kaupankäyntikulujen täysi hinnaston löytäminen vaatii kirjautumista tai useiden sivujen selailua. Valuutanvaihtokulu jää mainitsematta. Palvelusta löytyy chat-tuki ja mobiilisovellus, mutta erityisiä puhelinnumeroita tai sähköpostiosoitteita ei ole näkyvissä.",
+ "evidence": {
+  "kaupankayntikulut_ilman_kirjautumista": "Sivu mainitsee '1 %:n hintakatto' pohjoismaisille pörsseille ja linkkejä 'Kaupankäyntikulut - Tutustu hinnastoon', mutta konkreettisia euroja tai prosentteja ei näy. Tarkka hinnaston sisältö on linkitetty sivulla mutta ei ladattavissa ilman navigoimista.",
+  "sailytyspalkkio_kerrottu": "Arvo-osuustilin ja osakesäästötilin säilytysmaksu mainitaan olevan 0 euroa sekä silloin kun käydään kauppaa vähintään neljä kertaa vuodessa että alle 30-vuotiaille.",
+  "valuutanvaihtokulu_kerrottu": "Valuutanvaihtokuluista (FX-kulut) ei mainita mitään sivuston näkyvissä osissa, vaikka osakkeet voidaan ostaa myös kansainvälisiltä markkinoilta."
+ }
+}

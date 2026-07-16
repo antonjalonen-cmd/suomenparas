@@ -1,0 +1,40 @@
+{
+ "slug": "expressvpn",
+ "fetched_ok": ["https://www.expressvpn.com", "https://www.expressvpn.com/trust"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "osittain",
+ "omistaja_kerrottu": "osittain",
+ "lainkayttoalue_kerrottu": "ei",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 2.49,
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 75,
+  "sisallon_kattavuus": 88
+ },
+ "vahvuudet": [
+  "Laajat kolmannen osapuolen auditoinnit (KPMG, Cure53, PwC) vahvistavat no-logs-käytännön uskottavuuden",
+  "TrustedServer-teknologia poistaa kaikki palvelimen tiedot käynnistyksessä, mikä varmistaa tietojen turvallisuuden",
+  "Selkeä tietoturva-arkkitehtuuri: nolla-luottamus, nolla-tieto salausta, penetraatiotestit ja automaattiset korjaukset"
+ ],
+ "kehityskohteet": [
+  "Omistajuus mainitaan vain ISO-sertifiointiosassa (Kape Group), ei selkeästi esillä pääasiallisissa tietosuoja- tai kuka-olemme-sivuilla",
+  "Oikeudellista lainkäyttöaluetta ei ilmoiteta selvästi (esim. Britannia, Hollanti, BVI)",
+  "Uusimishintaa ei näytetä hinnoittelusivulla ennen ostamista; vain pitkäaikaishinnat näkyvät ilman ostokertaa"
+ ],
+ "yhteenveto": "ExpressVPN on laaja VPN-palvelu, jolla on vahva tietoturva-arkkitehtuuri ja kattavat kolmannen osapuolen auditoinnit (KPMG, Cure53, PwC). Hinta ($2,49/kk pitkäaikaisoppaassa) on näkyvissä ilman kirjautumista ja sovellus on saatavilla kaikille pääalustoille. Kuitenkin omistajuustiedot (Kape Technologies) on piilotettu pieniin fonteihin ISO-sertifiointiosassa eivätkä ne löydy pääasiallisista tietosuoja-sivuista, mikä voi olla ongelma yksityisyyttä korostavan palvelun näkökulmasta.",
+ "evidence": {
+  "omistaja_kerrottu": "HAVAINTO: Sivustolla mainitaan 'ExpressVPN and the Kape Group' vain ISO 27001/9001 -sertifiointiosassa Trust Center -sivulla. Sitä ei mainita esimerkiksi Tietoa meistä -sivulla (joka ohjaa Surfshark-sivulle) tai muilla pääasiallisilla sivuilla. Kape Technologies -omistajuutta ei ilmoiteta selvästi erillisellä yritysosassa.",
+  "uusimishinta_kerrottu": "HAVAINTO: Pääsivulla näytetään $2,49/kk hinta '2 Years' -sopimukselle, mutta uusimishintaa ei ilmoiteta. Hinnoittelusivun saatavuus on rajoitettu (sivu ohjaa Surfshark-sivulle), joten uusimishinnan selvittäminen vaatii tilin luomista.",
+  "lokikaytanto_kerrottu": "HAVAINTO: No-logs -käytäntö kuvataan yksityiskohtaisesti. TrustedServer-teknologia on selitetty: 'runs only on volatile memory, or RAM. The operating system and apps never write to hard drives.' KPMG suoritti riippumattoman auditoinnin no-logs-käytännöstä (kesäkuu 2025). Useiden Cure53- ja PwC-auditointien tulokset on linkitetty."
+ }
+}

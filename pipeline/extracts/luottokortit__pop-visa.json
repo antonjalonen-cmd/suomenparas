@@ -1,0 +1,31 @@
+{
+ "slug": "pop-visa",
+ "fetched_ok": ["https://www.poppankki.fi/palvelut/tilit-kortit-ja-maksut/kortit", "https://www.poppankki.fi/palvelut/tilit-kortit-ja-maksut/kortit/pop-visa-credit-debit", "https://www.poppankki.fi/tutustu-pop-pankkiin/asiakaspalvelu/hinnastot"],
+ "korko_ja_vuosikorko_esilla": "osittain",
+ "vuosimaksu_esilla": "osittain",
+ "muut_kulut_esilla": "osittain",
+ "luotonmyontaja_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "020 333 (Suomesta), +358 20 333 (ulkomailta)",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "todellinen_vuosikorko_pct": null,
+ "vuosimaksu_eur": null,
+ "korttityyppi": "luottokortti",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 35, "sisallon_kattavuus": 60},
+ "vahvuudet": ["Yhdistelmäkortti kolmella toiminnolla (debit, charge, credit) samassa kortissa", "Lähimaksuominaisuus maksettavissa ostoksissa, myös mobiililompakko-integraatio", "Verkkopankki- ja mobiilisovellus-hallinta luottorajoista ja maksutavoista"],
+ "kehityskohteet": ["Korkotiedot ja vuosimaksu puuttuvat päätuotesivulta — asiakas joutuu etsimään pankki-kohtaisen hinnastot", "Ei selvää tietoa Bonum Pankki Oyj:n roolista luotonmyöntäjänä (joka on välttämätöntä Kuluttajansuojalakiselvitystä)", "Ei itsenäisiä asiakasarviota tai ratingia (POP Vakuutuksen arvioportaali on erillinen)"],
+ "yhteenveto": "POP Visa Credit/Debit on POP Pankin ryhmään kuuluvan osuuspankin liikkeeseen laskema yhdistelmäkortti, jonka liikkeeseen laskija on formaalisti Bonum Pankki Oyj. Sivusto esittelee kortin ominaisuudet selvästi, mutta korkotiedot ja vuosimaksu löytyvät vain pankki-kohtaisissa hinnaastoissa, joita kukin alueellinen osuuspankki hallinnoi erikseen. Luotonmyöntäjää (Bonum Pankki Oyj) ei mainita pääsivulla, mikä on kuluttajansuojalain velvoitteen kannalta puutteellista.",
+ "evidence": {
+  "korko_ja_vuosikorko_esilla": "POP Visa Credit/Debit -tuotesivulla ei ole konkreettisia korko- tai vuosikorkoprosentteja. Sivulla viitataan 'Hinnoittelu'-osaan, joka johtaa ryhmän yhteiselle hinnastojen hakusivulle. Jokainen alueellinen osuuspankki hallinnoi omaa hinnastoa — korkotiedot ovat pykälöity pankin omalle sivulle. Koska pääsivulla korko-info puuttuu, pisteytys 'osittain'.",
+  "vuosimaksu_esilla": "Korttisivulla mainitaan, että 'Jokaisella POP Pankilla on oma palveluhinnasto', mutta konkreettisia euroja ei pääsivulla näy. Asiakas joutuu etsimään aluepankkiaan ja katsomaan sen hinnastoa. Tämä on riittämätön julkisen hinnan näkyvyys lain kannalta.",
+  "luotonmyontaja_kerrottu": "Poppankki.fi-sivustolla ei mainita lainkaan, että Bonum Pankki Oyj on luotonmyöntäjä. Sivulla viitataan POP Pankin ryhmään, mutta luottokorttiostoja tekevä pankki (Bonum) jää piilotetuksi asiakkaalta. Tämä rikkoo Kuluttajansuojalaki 7:8:n vaatimusta luotonmyöntäjän selvityksestä. Käyttäjä joutuu olemaan osuuspankin asiakas nähdäkseen sopimuksissa Bonumin roolin."
+ }
+}

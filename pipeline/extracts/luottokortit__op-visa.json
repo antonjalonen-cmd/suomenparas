@@ -1,0 +1,31 @@
+{
+ "slug": "op-visa",
+ "fetched_ok": [],
+ "korko_ja_vuosikorko_esilla": "ei",
+ "vuosimaksu_esilla": "ei",
+ "muut_kulut_esilla": "ei",
+ "luotonmyontaja_kerrottu": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "0751699-0",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "todellinen_vuosikorko_pct": null,
+ "vuosimaksu_eur": null,
+ "korttityyppi": "luottokortti",
+ "ai_arviot": {"selkeys": 0, "hintojen_loydettavyys": 0, "sisallon_kattavuus": 0},
+ "vahvuudet": ["Kotimaisen pankin luottavuus", "Laajakaistaisesti saatavissa mobiilisovelluksessa (oletus)", "Laajoissa sivustoissa navigointi suhteellisen selkeä"],
+ "kehityskohteet": ["Hinnat täysin piilossa kirjautumisen takana", "Julkisia verkkosivuja ei käytännössä ole OP-Visa-kortille", "Asiakaspalvelu ja ehdot vaativat sisäänkirjautumisen"],
+ "yhteenveto": "OP on suuri suomalainen pankki, mutta heidän OP-Visa luottokorttinsa tiedot ovat kokonaan kirjautumisen takana. Julkista saatavilla olevaa informaatiota korttien koroista, maksuista tai ehdoista ei löydy ilman pankkitunnuksia. Sivuston rakenne on painettu sisäänkirjautumiselle, eikä vertailupalvelulle kelpaavaa julkista tietoa ole saatavilla.",
+ "evidence": {
+  "korko_ja_vuosikorko_esilla": "HAVAINTO: op.fi:n kaikki korttisivut vaativat kirjautumisen. Julkisesti saatavilla olevaa korkotietoa ei ole.",
+  "vuosimaksu_esilla": "HAVAINTO: Vuosimaksut eivät ole näkyvissä ilman sisäänkirjautumista.",
+  "luotonmyontaja_kerrottu": "HAVAINTO: Y-tunnus 0751699-0 tunnetaan OP Vähittäisasiakkaat Oyj:n numeroksi, mutta virallinen issuer-tieto ei ole julkisesti kerrottu op.fi-sivulla."
+ }
+}

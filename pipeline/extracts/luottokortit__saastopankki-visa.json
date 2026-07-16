@@ -1,0 +1,46 @@
+{
+ "slug": "saastopankki-visa",
+ "fetched_ok": [
+  "https://saastopankki.fi",
+  "https://saastopankki.fi/fi-fi/tilit-kortit-ja-maksaminen/kortit/luottokortti",
+  "https://saastopankki.fi/fi-fi/tilit-kortit-ja-maksaminen/kortit/luottokortti/visa-gold",
+  "https://saastopankki.fi/fi-fi/tilit-kortit-ja-maksaminen/kortit",
+  "https://saastopankki.fi/fi-fi/asiakaspalvelu/yhteydenottokanavat",
+  "https://saastopankki.fi/fi-fi/saastopankkiryhma"
+ ],
+ "korko_ja_vuosikorko_esilla": "osittain",
+ "vuosimaksu_esilla": "osittain",
+ "muut_kulut_esilla": "ei",
+ "luotonmyontaja_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "+358 9 4245 7414",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "todellinen_vuosikorko_pct": 30.53,
+ "vuosimaksu_eur": null,
+ "korttityyppi": "luottokortti",
+ "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 45, "sisallon_kattavuus": 60},
+ "vahvuudet": [
+  "Selkeä kortin valinta (Visa Credit/Debit on suosituin vaihtoehto) ja hyvä perusominaisuuksien kuvaus",
+  "Helppo hakemus olemassa oleville asiakkaille mobiilisovelluksen ja verkkopankin kautta",
+  "24/7 asiakaspalvelu chatbotin ja puhelimen kautta sekä kaksi korkotonta kuukautta vuodessa"
+ ],
+ "kehityskohteet": [
+  "Vuosimaksun summa ei ole selkeä (sanotaan 'vaihtelee konttorin mukaan') eikä esimerkkilaskelmia vuosikustannuksista näy",
+  "Käteisnostopalkkio, valuutanvaihtolisä ja viivästyskorko eivät ole julkisesti näkyvissä",
+  "Luotonmyöntäjä (Säästöpankkien Keskuspankki Suomi Oyj) ei mainittu kortin tiedoissa, vain Y-tunnus puuttuu"
+ ],
+ "yhteenveto": "Säästöpankki tarjoaa Visa Credit/Debit korttia asiakkaiden yleisimpänä korttivalintoina. Sivulla julkaistaan peruskorkotiedot (3kk Euribor + 10,5 %) ja tilinhoitomaksu, mutta todellisen vuosikoron esimerkkilaskelma puuttuu sekä vuosimaksun tarkkaa summaa ei kerrota. Asiakaspalvelu on helposti saatavilla 24/7 chatilla ja puhelimella, mutta muut kustannukset ja luotonmyöntäjätiedot jäävät puutteellisesti esille.",
+ "evidence": {
+  "korko_ja_vuosikorko_esilla": "Sivulla mainitaan korko '3 kuukauden euribor-korko + 10,5 %', mutta konkretia puuttuu: Visa Gold -kortille näytetään esimerkki 30.53 % APR:sta (€1 500:lla), mutta vakiokortin osalta vastaavaa laskelmaa ei löydy.",
+  "vuosimaksu_esilla": "Mainitaan tilinhoitomaksu €4,00 laskua kohti, mutta sivulla sanotaan kustannusten vaihtuvan konttorin mukaan, eikä vuosisumman kokonaiskustannusta kerrota selvästi.",
+  "luotonmyontaja_kerrottu": "Sivuilla ei mainita, että luotto myöntää Säästöpankkien Keskuspankki Suomi Oyj tai mitään muuta luotonmyöntäjää. Organisaatio 'Säästöpankki' mainitaan, mutta se on ryhmän brändi, ei varsinainen luotonmyöntäjä."
+ }
+}

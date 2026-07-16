@@ -862,12 +862,18 @@ def build_profile(c, pos, v):
         f'<div><span>{esc(f["label"])}</span><b>{esc(f["value"])}</b></div>'
         for f in c.get("facts_extra", [])
     )
+    # Most VPNs are foreign and have no Finnish Y-tunnus. Rendering an empty
+    # "Y-tunnus –" row would imply they are hiding it; they simply don't have one.
+    if c.get("y_tunnus"):
+        reg = f"<div><span>Rekisteröity Suomessa (PRH)</span><b>{esc(c['rekisteroity'] or '–')}</b></div>"
+        idrows = f'<div><span>Y-tunnus</span><b class="mono">{esc(c["y_tunnus"])}</b></div>{reg}'
+    else:
+        idrows = '<div><span>Y-tunnus</span><b>Ei suomalaista Y-tunnusta</b></div>'
     facts = f"""
     <div class="p-facts">
       <div><span>Verkkosivu</span><b>{esc(c['domain'])}</b></div>
-      <div><span>Omistaja (YTJ)</span><b>{esc(c['omistaja'])}</b></div>
-      <div><span>Y-tunnus</span><b class="mono">{esc(c['y_tunnus'])}</b></div>
-      <div><span>Rekisteröity Suomessa (PRH)</span><b>{esc(c['rekisteroity'] or '–')}</b></div>
+      <div><span>Omistaja</span><b>{esc(c['omistaja'])}</b></div>
+      {idrows}
       {extra}
       <div><span>LCP (mobiili)</span><b class="mono">{lcp}</b></div>
     </div>"""

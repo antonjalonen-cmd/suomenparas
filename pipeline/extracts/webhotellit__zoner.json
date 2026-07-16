@@ -1,0 +1,55 @@
+{
+ "slug": "zoner",
+ "fetched_ok": [
+  "https://www.zoner.fi",
+  "https://www.zoner.fi/webhotellit/",
+  "https://www.zoner.fi/en/web-hosting/",
+  "https://www.zoner.fi/yritys/",
+  "https://www.zoner.fi/en/contact/",
+  "https://www.zoner.fi/asiakkaitamme/",
+  "https://www.zoner.fi/sopimusehdot/",
+  "https://www.zoner.fi/en/about-us/legal/privacy-policy/"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "osittain",
+ "uusimishinta_kerrottu": "ei",
+ "resurssirajat_selkeasti": "kylla",
+ "sopimusehdot_ja_irtisanominen": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "1985221-1",
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {
+  "arvosana": 4.5,
+  "maara": 90,
+  "lahde": "Trustpilot (90+ reviews, mixed feedback); Zoner claims 4.5/5 on own site"
+ },
+ "puhelin_esilla": "kylla",
+ "puhelin": "010 235 6633 (myynti), 010 235 6688 (tuki)",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 1.95,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 60,
+  "sisallon_kattavuus": 80
+ },
+ "vahvuudet": [
+  "Selkeät resurssirajoitukset kaikissa paketeissa - levytila, sähköpostit ja tietokannat määritelty tarkasti (Mini 1 GB–Yritys 60 GB)",
+  "Suomalaiset palvelimet Helsingissä (Pitäjänmäki) uusiutuvalla energialla, 24/7 asiakaspalvelu chat-tuella",
+  "Kattava sopimusehdoissa - 30 päivän irtisanomisaika, automaattinen uusiminen, hinnanmuutossuoja"
+ ],
+ "kehityskohteet": [
+  "Uusintahinta täysin näkymätön - ensimmäisen vuoden kampanjahinta näkyy selvästi, mutta uusimiskustannukset jäävät täysin epäselväksi, typillinen pimeyden malli",
+  "Hinnat piilotettu vertailutaulukosta - pääsivulla ei näy euroja, vaan ne löytyvät vain yksittäisiltä tuotesivuilta tai hakemalla",
+  "Ulkomainen omistajuus vain pienellä tekstillä - One.com Groupin omistajuus mainitaan vain yksityisyyskäytäntöjen pienellä tekstillä, ei päälähteissä"
+ ],
+ "yhteenveto": "Zoner Oy on suomalainen webhotelli-palveluntarjoaja (omistaja: One.com Group/group.ONE). Sivusto esittelee neljä pakettia selkeillä resurssirajoituksilla ja Suomen palvelimilla, palvelutaso on kattava. Pääongelma on pricing-strategia: kampanjahinta näkyy (Mini 1,95€/kk -50% alennuksella), mutta uusintahinta ja varsinaiset hinnat eivät ole näkyvillä vertailutaulukossa, mikä on merkittävä dark pattern. Trustpilot-arvostelut ovat sekalaiset (90+ reviews).",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "Hinnat näkyvät yksittäisillä tuotesivuilla (Mini 1,95€/kk -50%, Startti 4,9€/kk, Professional 9,9€/kk, Enterprise 19,9€/kk 12kk sopimuksella), mutta päävertailutaulukossa www.zoner.fi/webhotellit/ sanotaan 'Kaikki hinnat alv. 0%' ilman konkreettisia euroja.",
+  "uusimishinta_kerrottu": "Uusintahinta eli normaalin sopimuskertautumisen hinta ei ole missään näkyvillä. Sopimusehdoissa (sopimusehdot-sivulla) mainitaan hinnanmuutosmahdollisuus kuukauden varoitusajalla, mutta uusia hintoja ei julkaista etukäteen.",
+  "resurssirajat_selkeasti": "Kaikki neljä pakettia on esitelty tarkan taulukon muodossa: Mini 1 GB/3 emails/1 DB, Startti 20 GB/10 emails/1 DB, Sopiva 40 GB/20 emails/2 DB, Yritys 60 GB/unlimited emails/unlimited DB. Myös kaistanleveys mainitaan (10 GB, 100 GB, 200 GB, 400 GB)."
+ }
+}

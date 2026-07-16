@@ -1,0 +1,1553 @@
+{
+ "slug": "puhelinliittymat",
+ "nimi": "Puhelinliittymät",
+ "nav": "Liittymät",
+ "h1": "Suomen paras puhelinliittymä 2026",
+ "yksikko": "suomalaista liittymäbrändiä",
+ "lead": "Pisteytimme {n} suomalaista puhelinliittymäbrändiä {m} mittarilla. Tärkein kysymys: kertooko operaattori kampanjan jälkeisen normaalihinnan — vai vain sen ensimmäisen kuukauden?",
+ "meta_title": "Suomen paras puhelinliittymä 2026 — operaattorit pisteytettynä | Suomen Paras",
+ "meta_desc": "7 suomalaista liittymäbrändiä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> vain <b>Elisalla, Telialla ja DNA:lla on oma verkko</b> — kaikki muut vuokraavat sen joltakin näistä kolmesta. <b>Moi Mobiili on DNA:n omistama</b> (2019 alkaen) ja <b>Giga Mobiili on Gigantin</b> (Elkjøp) — molemmat toimivat DNA:n verkossa. Oomi Mobiilin asiakas valitsee itse DNA:n tai Telian verkon. Kerromme jokaisen kohdalla sekä omistajan että verkon: halvin brändi voi käyttää täsmälleen samaa verkkoa kuin kallein.",
+  "<b>Saunalahti puuttuu listalta tarkoituksella:</b> se ei ole oma yhtiö vaan Elisan brändi (sulautettu 2011, sama Y-tunnus). Sen listaaminen erikseen laskisi saman yhtiön kahdesti. Samasta syystä <b>Sonera</b> ja <b>Tele Finland</b> puuttuvat — molemmat sulautuivat Telian brändiin 2017 eivätkä ole enää olemassa.",
+  "Vertailu kuvaa operaattoreiden verkkosivujen mitattavia ominaisuuksia, ei verkon kuuluvuutta tai nopeutta omalla kotiosoitteellasi. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "gigamobiili",
+   "nimi": "Giga Mobiili",
+   "domain": "gigamobiili.fi",
+   "omistaja": "Gigantti / Elkjøp (Norja) — rekisteröity 1/2025",
+   "y_tunnus": "3505729-3",
+   "rekisteroity": 2025,
+   "score": 76.6,
+   "pillars": {
+    "digitaalinen": 86.2,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "73/100",
+       "paino": 40,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki neljä pakettia näyttävät kuukausihinnalla sivuston etusivulla: Pikkujärki €21,99/kk, Perusjärki €24,99/kk, Arkijärki €26,99/kk, Huippujärki €37,99/kk. Ei vaadi kirjautumista tai yhteystietoja."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnat ilmoitetaan sekä kampanja- että normaalihintana: esim. Pikkujärki €21,99 (normally €23,99) 12-kuukauden promotiohinnalla. Postimerkintä '*12-month promotional rates' selventää ajankohdan."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla ei ole mainittu sopimusaikoja tai irtisanomisaikoja. Sivusto viittaa 'Ehdot, palvelukuvaukset ja käytännöt' -osioon, mutta kyseiset sivut eivät ole julkisesti saavutettavissa (404 errors)."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 73,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 10151.394,
+    "cls": 0.001411795449478761,
+    "tbt_ms": 115
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "DNA:n verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "21,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "600 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät kuukausihinnät ja neljä tasoa - helppo vertailla nopeuden mukaan",
+    "Kampanjahintaan nähden normaalit hinnat näkyvät - ei piiloituja korotuksia",
+    "Nopeus ja EU-dataraja ilmoitettu jokaiselle paketille"
+   ],
+   "kehityskohteet": [
+    "Sopimusajan ja irtisanomisajan puuttuminen päätietosivulla",
+    "Sähköpostiyhteyden puute - vain puhelinpalvelu ja Giga-tili saatavilla",
+    "Asiakasarvioidenvaatimus - uudelle palvelulle ei vielä arviointeja"
+   ],
+   "yhteenveto": "Giga Mobiili on DNA:n verkolla toimiva uusi (2025) puhelinliittymäpalvelu, joka tarjoaa neljä pakettia hinnoilla €21,99–€37,99. Hinnoitus on erittäin selkeä, kampanjahintoineen näkyvät, ja tekniset spesifikaatiot (nopeus, EU-data) on ilmoitettu. Puutteita on sopimusehtojen ja irtisanomisaikojen näkyvyydessä - ne viitataan löytyvän, mutta allekirjoitetuissa ehdoissa olevat sivut eivät ole julkisesti saavutettavissa."
+  },
+  {
+   "slug": "dna",
+   "nimi": "DNA",
+   "domain": "dna.fi",
+   "omistaja": "Telenor ASA (Norja)",
+   "y_tunnus": "0592509-6",
+   "rekisteroity": 1985,
+   "score": 76.5,
+   "pillars": {
+    "digitaalinen": 65.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "DNA Huoleton Plus Mini -liittymä (19.99 €/kk), DNA Huoleton Plus 20M (26.99 €/kk ensimmäiset 12 kk), DNA Huoleton Plus 5G 400M (34.99 €/kk kampanja-aikana) ja muut hinnat näkyvät dna.fi/liittymat-sivulla kirjautumatta."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "DNA Huoleton Plus 20M näyttää 26.99 €/kk 12 kuukautta, sitten 30.99 €/kk. DNA Huoleton Plus 5G 400M näyttää 34.99 €/kk 12 kuukautta, sitten 40.99 €/kk. Kampanjahintojen jälkeiset säännölliset hinnat kerrotaan selvästi."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimuksen kesto ilmenee: DNA Huoleton Plus Mini ilman sopimusta, muut tarjoukset 12 kuukauden kampanjajaksoilla. Irtisanomisaikaa koskevaa tietoa ei löydy julkisista sivuista (dna.fi/sopimusehdot palautti 404-virheen)."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 9315.441700000003,
+    "cls": 0.026121510811018732,
+    "tbt_ms": 4037.000000000002
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Oma verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "19,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "1000 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat näkyvät selvästi ilman kirjautumista",
+    "Laaja palveluvalikoima puhelinliittymistä (Mini-tasosta 5G 1000M:iin)",
+    "Kampanjan jälkeinen hinta kerrottu selkeästi jokaisen tarjouksen yhteydessä"
+   ],
+   "kehityskohteet": [
+    "Irtisanomisaikaa ja sopimuksen peruutusperiaatteita ei löydy julkisesti",
+    "Sähköpostiosoite näkyy vain kaavamaisesti eikä ole klikkauksen päässä",
+    "Kauppojen aukioloajat edellyttävät interaktiivista karttatyökalua"
+   ],
+   "yhteenveto": "DNA Oyj on Telenor-omistama suomalainen tietoliikenneyritys, joka tarjoaa laajan valikoiman puhelinliittymiä 5G-palveluista prepaid-vaihtoehtoihin. Hinnat (19.99–48.99 €/kk) ja nopeudet (10–1000 Mbps) näkyvät selkeästi liittymät-sivulla, ja kampanjoiden jälkeiset hinnat on kerrottu avoimesti. Asiakaspalvelu tavoitettavissa puhelimella ja chatilla, mutta irtisanomisaikoja koskevat tiedot puuttuvat julkisista sivuista."
+  },
+  {
+   "slug": "telia",
+   "nimi": "Telia",
+   "domain": "telia.fi",
+   "omistaja": "Telia Company AB (Ruotsi) — myös entinen Sonera ja Tele Finland",
+   "y_tunnus": "1475607-9",
+   "rekisteroity": 1998,
+   "score": 70.7,
+   "pillars": {
+    "digitaalinen": 56.5,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnat näkyvät kaupan sivulla ilman kirjautumista: 4G perusliittymä €20,99/kk, 5G-liittymät €34,99-€58,99/kk."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kampanjahinnat ja normaalit hinnat selkeästi näkyvissä: esim. €34,99/kk 12 kuukauden kampanja, sitten €38,99/kk."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimusajat mainitaan (12 kuukautta tai sopimukseton), mutta irtisanomisaika-aika (irti-sanomisilmoitus) ei ole selkeästi näkyvissä kaupan sivulla."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 81,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 11855.304,
+    "cls": 0.19983726936481663,
+    "tbt_ms": 3280.4999999999945
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Oma verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "20,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "1000 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvissä kaikissa paketeissa sekä kampanjahinnat että normaalit hinnat kampanjan jälkeen",
+    "Laaja 5G- ja 4G-valikoimaerittäin hintaluokilla, joissa jokaisen paketin nopeus ja datarajat merkitty",
+    "Asiakaspalvelu helposti saavutettavissa puhelimitse, chattina ja mobiilisovelluksella"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ja lailliset yhtiötiedot puuttuvat verkkosivustolta",
+    "Sopimuksien irtisanomisajat eivät ole selkeästi näkyvissä kaupan sivulla",
+    "Sähköpostiosoite puuttuu; asiakkaat ohjataan käyttämään yhteystietolomakkeita"
+   ],
+   "yhteenveto": "Telia Finland Oyj on merkittävä suomalainen telekommunikaatiopalvelun tarjoaja, joka tarjoaa 4G- ja 5G-puhelinliittymiä. Verkkosivusto näyttää hinnat selkeästi sekä kampanjahinnoilla että normaalihinnalla kampanjien jälkeen, mikä antaa asiakkaille selkeän kuvan hintavertailuista. Laajennus- ja palveluyhteystiedot ovat helposti saatavilla, mutta joitain lakisääteisiä tietoja (Y-tunnus) ja sopimustietojen (irtisanomisaika) puutteita on huomattavissa."
+  },
+  {
+   "slug": "moi",
+   "nimi": "Moi Mobiili",
+   "domain": "moi.fi",
+   "omistaja": "DNA Oyj — 100 % (ostettu 1/2019)",
+   "y_tunnus": "2758687-3",
+   "rekisteroity": 2016,
+   "score": 67.6,
+   "pillars": {
+    "digitaalinen": 69.1,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 82.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnasto-sivulla ja liittymät-sivulla näkyvät selvästi kuukausihinnat: Teho 5G 200 €23/kk, Nopea 5G 450 €26/kk, Super 5G 1000 €38/kk, Kevyt 4G 50 €15/kk, Fiksu 4G 100 €21/kk. Kaikki hinnat näytetään ilman kirjautumista tai yhteystietojen pyyntöä."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivuilla mainitaan toissijaiset liittymät alkaen €20/kk, mutta klassista kampanja-rakennettu hintaa (esim. 0€ 6 kuukautta, sitten normaali €X) ei näy. Yleiset ehdot mainitsevat hinnastot moi.fi/hinnasto-sivulla, mutta mitään ajallisesti rajoitettuja tarjouksia ei mainittu. Osittain: hinnastoa muutetaan, mutta ei selvästi näy samanaikaisesti."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimuskehto §:ssä todetaan: 'Sopimus on voimassa toistaiseksi' (määräaikainen päättyy, jos sovittu) ja 'kahden (2) viikon irtisanomisaikaa' telepalveluille. Molemmat näkyvät sopimustekstissä, kylla."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "76/100",
+       "paino": 33,
+       "pisteet": 76,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 18979.957000000002,
+    "cls": 0,
+    "tbt_ms": 1430.8947500000013
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "DNA:n verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "15 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "1000 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat näkyvät selkeästi ilman rekisteröitymistä tai yhteystietojen antamista — suorat €/kk-luvut kaikille liittymille",
+    "Tekniset yksityiskohdat (nopeudet 200–1000 Mbps, data-rajat, roaming-määrät) dokumentoitu kaiken tarkkuuden kanssa",
+    "Mun Moi -mobiilisovellus helpottaa tilin hallintaa ja laskutusta itsenäisesti"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero ja sähköpostiosoite puuttuvat pääsivuilla — asiakaspalveluun pääsy vain asiakaspalvelu.moi.fi-portaalin kautta, joka on rajoitettu (403-virhe)",
+    "Kampanjahinnoitus epäselvä — toissijaiset liittymät alkavat €20/kk, mutta klassisia tarjousrakenteitoja (kampanja→normaali hinta) ei näy selvästi",
+    "Aukioloajat puuttuvat kokonaan, samoin FAQ-osion suora linkki — tiedot hajoitettu asiakaspalveluportaaliin, jota ei voitu käyttää"
+   ],
+   "yhteenveto": "Moi Mobiili Oy on DNA:n omistama matkaviestinoperaattori, joka tarjoaa 5G- ja 4G-liittymiä €15–38/kk. Hinnoittelu on läpinäkyvää ja helposti löydettävissä ilman yhteydenottoa. Sopimusehdot, nopeudet ja data-rajat ovat hyvin dokumentoituja. Asiakaspalvelun yhteystiedot (puhelin, sähköposti) puuttuvat pääsivuista, ja asiakastuen saavutettavuus on rajoitettu."
+  },
+  {
+   "slug": "oomimobiili",
+   "nimi": "Oomi Mobiili",
+   "domain": "oomi.fi",
+   "omistaja": "Yhdeksän kunnallisen energiayhtiön yhteisyritys",
+   "y_tunnus": "3101315-4",
+   "rekisteroity": 2019,
+   "score": 66.0,
+   "pillars": {
+    "digitaalinen": 66.1,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 57.5,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "40/100",
+       "paino": 40,
+       "pisteet": 40,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnasto näkyy suoraan puhelinliittymät-sivulla (oomi.fi/mobiili/puhelinliittymat/) ilman kirjautumista: Oomi Mobiili 4G 10M 19,99 €/kk, 4G 100M 21,99 €/kk, 5G 300M 26,99 €/kk, 5G 600M 29,99 €/kk. Avausmaksu 5 € jokaiselle."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla ei mainita aikarajoitettuja kampanjoita tai promootioita. Kaikki listatut hinnat näyttävät olevan vakiohinnoittelua ilman kampanja-ajanjaksoa."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Selkeästi ilmoitettu: 'Sopimuksella ei määräaikaa' ja 'Oomi Mobiilin liittymät ovat tällä hetkellä aina toistaiseksi voimassa olevia.' Asiakkaiden osassa mainitaan 'Voit hallita liittymää OmaOomissa ja irtisanoa sen milloin vain.' Irtisanomisaika ei ole eksplisiittisesti mainittu (oletusoletus: toistaiseksi voimassa, joten ilmoitus tarvitaan)."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 40,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 58,
+    "lcp_ms": 10117.576000000001,
+    "cls": 0,
+    "tbt_ms": 1307
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Asiakas valitsee: DNA tai Telia"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "19,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "600 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat näkyvät selvästi ilman rekisteröintiä, neljä vaihtoehtoista pakettia eri nopeuksilla ja tarpeisiin",
+    "Sopimusehdot transparentit: ei määräaikaa, rajattomat puhelut ja netti Suomessa, selkeät EU-data-rajat",
+    "Keskittämisetu sähkölaskussa (30–96 €/vuosi) integroitu selvästi tarjouksiin, verkkovalinnan vapaus DNA/Telia"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus, yrityksen rekisteröintinumero ja laillinen yritysmuoto puuttuvat; yhtä mieltä Oomi Oy:n oikeudesta",
+    "Puhelinnumero ja sähköpostiosoite eivät näy tarjousissa, vain chat-linkki; kontaktitiedot hajautettu muille sivuille",
+    "Asiakastyytyväisyysarvioita (Trustpilot, EPSI Rating) ei ole linkitetty; referenssit rajoittuvat omiin \"Asiakkaidemme kokemuksiin\""
+   ],
+   "yhteenveto": "Oomi Mobiili on Suomen sähköyhtiö Oomin mobiilioperaattoripalvelu. Hinnoittelu on läpinäkyvä ja helposti löydettävissä: neljä pakettia (4G 10M / 4G 100M / 5G 300M / 5G 600M) 19,99–29,99 €/kk, kaikki määräaikaisia sopimuksettomia, rajattomilla puheluilla ja netillä Suomessa sekä 30–50 GB EU-datalla. Sivusto esittelee selkeästi tekniset rajat ja keskittämisedun sähköasiakkaille. Puutteet: laillisen yrityksen tunnistautuminen, suorat kontaktitiedot (vain chat ja lomakepyyntö), sekä kolmannen osapuolen asiakastyytyväisyysmittaukset."
+  },
+  {
+   "slug": "globetel",
+   "nimi": "Globetel",
+   "domain": "globetel.fi",
+   "omistaja": "Itsenäinen, perustajaomisteinen (1997)",
+   "y_tunnus": "1094711-8",
+   "rekisteroity": 1997,
+   "score": 64.5,
+   "pillars": {
+    "digitaalinen": 82.9,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 66.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "73/100",
+       "paino": 40,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Viisi pakettia näytetään hintojen kanssa: Perus €6,99/kk, Mini €9,99/kk, Pieni €11,99/kk, Jätti €13,99/kk, Laite €8,99/kk. Hinnat näkyvät ilman kirjautumista."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei mainittu kampanjoita eikä promotiohintoja, vain kiinteät kuukausihinnat. Kampanjalle seuraavaa hintaa ei ole näkyvissä."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei kerrota sopimusaikoja tai irtisanomisaikoja millään paketille. Nämä tiedot puuttuvat kokonaan."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 73,
+    "accessibility": 81,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 6050.198699999999,
+    "cls": 0.003374811735522484,
+    "tbt_ms": 121
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Telian verkko (ei vahvistettu Globetelin omilta sivuilta)"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "6,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "100 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Yksinkertainen ja nopea hinnoittelu näkyvissä",
+    "Selkeä yhteydenotto-mahdollisuus puhelimitse ja sähköpostilla",
+    "Vakiintunut yritys vuodelta 1997"
+   ],
+   "kehityskohteet": [
+    "Sopimusaikoja ja irtisanomisaikoja ei kerrota",
+    "Verkko-operaattorin tietoa ei löydy sivustolta",
+    "Asiakkaiden arvioita tai riippumattomia evaluaatioita ei ole saatavilla"
+   ],
+   "yhteenveto": "Globetel Oy on vuodelta 1997 perustettu itsenäinen matkaviestintäpalvelun tarjoaja, joka tarjoaa viisi eri puhelinliiтymäpakettia hintojen kanssa. Sivuston suurimmat puutteet ovat sopimusehtojen (määräaikainen/toistaiseksi), irtisanomisaikojen ja verkon operaattorin tiedon puuttuminen. Asiakaspalvelu on helposti tavoitettavissa puhelimitse ja sähköpostilla arkipäivisin."
+  },
+  {
+   "slug": "elisa",
+   "nimi": "Elisa",
+   "domain": "elisa.fi",
+   "omistaja": "Pörssiyhtiö (Nasdaq Helsinki) — myös Saunalahti-brändi",
+   "y_tunnus": "0116510-6",
+   "rekisteroity": 1978,
+   "score": 62.3,
+   "pillars": {
+    "digitaalinen": 71.7,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "33/100",
+       "paino": 40,
+       "pisteet": 33,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnastot näkyvät selkeästi online-kaupassa: 400M 34,99 €/kk, 600M 38,99 €/kk, 1000M 50,99 €/kk sekä Premium 60,00 €/kk. Esitys ei vaadi puhelinnumeroa tai sähköpostia hintojen näkemiseen."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kampanja 31,99 €/kk mainitaan (12 kk), mutta normaalihinnan jälkeen kampanjasta ei ole selvää ilmoitusta kaupan sivulla. Linkkejä seuraamalla löytyy, että normaalihinnat eroavat kampanjahinnoista, mutta suora vertailu ei ole selkeä."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan 'Ei määräaikaa' ('No fixed term') joillekin paketeille, mutta sopimuksen jatkuvuus, irtisanomisaika ja sen olosuhteet eivät ole selkeästi näkyvillä etusivulla. Sopimusehdot-sivulta löytyy lisätietoa, mutta suora linkki ehteihin on vaikea löytää."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 33,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 17029.3305,
+    "cls": 0,
+    "tbt_ms": 1233.201
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Oma verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "34,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "1000 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät nopeusvaihtoehdat ja hinnoittelu näkyville etusivulla",
+    "Kampanjahinnoittelu saatavilla uusille asiakkaille",
+    "Turvallisuusominaisuuksien integrointi palveluun"
+   ],
+   "kehityskohteet": [
+    "Kampanjan jälkeinen normaali hinta ei ole selkeästi näkyvillä",
+    "Sopimuksen pituus ja irtisanomisehdot vain osittain kuvattu",
+    "Y-tunnus ja yritystiedot puuttuvat palvelun esittelystä"
+   ],
+   "yhteenveto": "Elisan puhelinliittymäpalvelut esitellään pääasiassa verkkokaupassa selkeillä nopeusvalinnoilla (400M–1000M) ja hinnoittelulla. Alennushinnat uusille asiakkaille (31,99 €/kk) ovat näkyvillä, mutta normaalihinnat kampanjien jälkeen vaativat linkkien seuraamista. Sopimuksen ehdot ja irtisanomismahdollisuudet löytyvät osittain, ja tietoturvaominaisuuksien maininta on plussapiste."
+  }
+ ],
+ "updated": "16.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta esillä ilman yhteystietoja (30), kampanjan jälkeinen normaalihinta kerrottu (20), sopimusaika ja irtisanomisaika kerrottu (15), nopeus ja datarajat kerrottu selkeästi (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

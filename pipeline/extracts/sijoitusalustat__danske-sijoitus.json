@@ -1,0 +1,22 @@
+{
+ "slug": "danske-sijoitus",
+ "fetched_ok": ["https://danskebank.fi", "https://danskebank.fi/sijoittaminen", "https://danskebank.fi/sinulle/saastaminen-ja-sijoittaminen"],
+ "kaupankayntikulut_ilman_kirjautumista": "ei",
+ "sailytyspalkkio_kerrottu": "ei",
+ "valuutanvaihtokulu_kerrottu": "ei",
+ "hinnasto_ladattavissa": "ei",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "ei", "puhelin": null,
+ "email_esilla": "ei", "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei", "ukk_osio": "ei", "mobiilisovellus": "ei",
+ "halvin_osakekauppa_eur": null,
+ "markkinat": ["helsinki", "tukholma", "usa"],
+ "ai_arviot": {"selkeys": 35, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 40},
+ "vahvuudet": ["Sijoitustuotteet ja säästämispalvelut on koottu omalle sivusalueelle", "Verkkosivusto on ammattimaisen näköinen ja helposti navigoitava", "Chat-tuki on saatavilla sivuston kaikilla sivuilla"],
+ "kehityskohteet": ["Hinnoittelu ja palvelukulut ovat kokonaan kirjautumisen takana, ei julkista tietoa", "Palveluhinnasto-sivua ei löydy, vaikka sitä etsii useista osoitteista", "Sijoittajille tärkeät tiedot (kaupankäyntikulut, säilytyspalkkio, valuutanvaihto) puuttuvat kokonaan"],
+ "yhteenveto": "Danske Bankin suomalainen verkkosivusto tarjoaa yleiskatsauksen sijoituspalveluista, mutta kaikki konkreettinen hinnoittelu ja palvelukulujen tieto on piilotettu kirjautumisen taakse. Julkisesti saatavilla olevia asiakirjoja tai hinnastoja ei löydy mistään. Sivusto on toiminnallisesti jäsennelty, mutta läpinäkyvyyden kannalta erittäin puutteellinen verrattuna kilpailijoihin.",
+ "evidence": {"kaupankayntikulut_ilaman_kirjautumista": "Osakekaupan kuluja ei mainita julkisesti. Navigointia yritettiin useisiin sijoitukseen liittyviin sivuihin, joista monista oli 404-virheitä tai ne ohjasivat sisäänkirjautumiseen.", "sailytyspalkkio_kerrottu": "Arvo-osuutilin säilytyspalkkiosta ei ole mitään julkista tietoa sivustolla.", "valuutanvaihtokulu_kerrottu": "Valuutanvaihtokulu ei ole mainittu missään julkisesti saatavilla olevassa osassa sivustosta."}
+}

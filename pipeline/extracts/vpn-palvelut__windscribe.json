@@ -1,0 +1,42 @@
+{
+ "slug": "windscribe",
+ "fetched_ok": ["https://windscribe.com", "https://windscribe.com/upgrade", "https://windscribe.com/privacy", "https://windscribe.com/about", "https://windscribe.com/terms", "https://windscribe.com/ethics", "https://windscribe.com/knowledge-base/articles/has-windscribe-been-audited"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "osittain",
+ "lainkayttoalue_kerrottu": "ei",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "ei",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 5.25,
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 92,
+  "sisallon_kattavuus": 81
+ },
+ "vahvuudet": [
+  "Selkeä hinnoittelu ilman piilotettuja uusintamaksuja; uusimishinta kerrotaan suoraan",
+  "Vahvat riippumattomat tietoturva-audidit (Packetlabs 2024, Leviathan Security Group 2021-2022)",
+  "Avoimesti ilmoitettu no-logs politiikka: ei loggaa istuntoja, lähde-IP:tä tai kävijätietoja"
+ ],
+ "kehityskohteet": [
+  "Omistajuus jätetään osittain epäselväksi: yritys mainitaan 'Windscribe Limited' mutta puuttuvan jurisdiction-tiedon ja omistusrakenteen vuoksi",
+  "Canada-sijainti (5-Eyes alliance) ei ilmoiteta sivustolla; käyttäjä ei voi verrata sen oikeudellisia vaikutuksia",
+  "Ei suomalainskielistä versiota huolimatta monikielisestä tarjonnasta (15+ kieltä)"
+ ],
+ "yhteenveto": "Windscribe on kanadalainen, itsenäisesti rahoitettu VPN-palvelu, jonka hinnoittelu on läpinäkyvä ja uusintahinnat ilmoitetaan selvästi. Palvelun no-logs politiikka on hyvin dokumentoitu ja se on käynyt läpi riippumattomia tietoturva-auditointeja. Kuitenkin sivusto ei ilmoita laillista jurisdiktiota (Kanada, 5-Eyes) eikä tarjoa suomenkielisiä sivuja, mikä saattaa vähentää suomalaisten kuluttajien luottamusta.",
+ "evidence": {
+  "omistaja_kerrottu": "Sivustolla mainitaan 'Windscribe Limited' ja perustajien nimet (Yegor Sak, Alex Paguis, Mark Ulicki), sekä kerrotaan yrityksen olevan itsenäisesti rahoitettu. Kuitenkin juridista sijainnista tai pääomistajanomistuksesta ei mainita.",
+  "uusimishinta_kerrottu": "Hinnoittelusivulla selvästi kirjoitettu: 'Renews automatically. Cancel anytime.' Vuositilaukselle ilmoitetaan laskutus 69 USD per 12 kuukautta = 5,75 USD kuukaudessa. Nämä tiedot ovat näkyvissä ilman kirjautumista.",
+  "lokikaytanto_kerrottu": "Yksityisyyskäytännössä selvästi ilmoitettu: 'We are firm believer that one's browsing history should be taken to one's grave.' Sivusto kertoo, että EI loggaa: historiallisia VPN-istuntoja, lähde-IP-osoitteita, käyttäjän käymillä sivuilla. Loggaa vain: yhteensä siirretyt tavut 30 päivän jakson aikana, viimeisen aktiviteetin aikaleimanmuutos.",
+  "riippumaton_auditointi_kerrottu": "Hyväksytyt tietoturva-audiit: FreshScribe-palvelinnpino auditoitu Packetlabsin toimesta kesäkuussa 2024. Työpöytäsovellus auditoitu Leviathan Security Groupin toimesta syyskuussa 2021. Android- ja iOS-sovellukset auditoitu Leviathan Security Groupin toimesta maaliskuussa 2022. Kaikki auditointi-raportit ovat julkisesti saatavilla.",
+  "suomenkielinen_sivu": "Kielivalitsimesta näkyvät 15+ kieltä: arabia, englanti, ranska, saksa, hindi, italia, portugali, venäjä, ruotsi, espanja, turkki, japani, indonesia, korea, vietnami, thai. Suomea EI ole saatavilla."
+ }
+}

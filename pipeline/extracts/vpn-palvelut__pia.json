@@ -1,0 +1,47 @@
+{
+ "slug": "pia",
+ "fetched_ok": [
+  "https://www.privateinternetaccess.com",
+  "https://www.privateinternetaccess.com/fi/",
+  "https://www.privateinternetaccess.com/about-us",
+  "https://www.privateinternetaccess.com/vpn-features/no-logs-vpn",
+  "https://www.privateinternetaccess.com/privacy-policy",
+  "https://www.privateinternetaccess.com/contact-us"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "osittain",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 1.29,
+ "ai_arviot": {
+  "selkeys": 82,
+  "hintojen_loydettavyys": 95,
+  "sisallon_kattavuus": 85
+ },
+ "vahvuudet": [
+  "Hinta ja uusiutumishinta näkyvät selkeästi ilman tiliin liittymistä; etusivu korostaa 89 % alennusta",
+  "Deloitte Audit Romania vahvistaa ei-lokeja-käytäntöä; RAM-only-palvelimet estävät tietojen levittämisen",
+  "24/7 live chat -tuki; 100 % avoimen lähdekoodin sovellukset; laajennettu palvelinverkko"
+ ],
+ "kehityskohteet": [
+  "Omistaja Kape Technologies piilotettu — mainittu vain kerran yksityisyyskäytännössä (privacy policy) ilman selitystä",
+  "Yhdysvallat on 5-Eyes-alueella, mutta sivustolla ei korosteta tätä tai tietojen hallinta-autuuksia",
+  "Suomen palvelinta ei ole erikseen mainittu; palvelimia 50 maassa"
+ ],
+ "yhteenveto": "Private Internet Access on yhdysvaltalainen VPN-palvelu (Denver, Colorado), joka pitää järjestelmällisesti erittäin matalia lokitasoja. Deloitte on verifoinut ei-lokeja-käytännön, ja RAM-only-infrastruktuuri estää kovalevylle kirjoittamisen. Sivustoilla on hyvin näkyvät hinnat ja uusiutumishinnat sekä kattavat tiedot turvasta, mutta omistaja Kape Technologies on piilotettu yksityisyyskäytännössä. Palvelu on kuitenkin USA-tuomioistuin-alueella (5-Eyes), joten hallitus saattaa vaatia käyttäjätietoja.",
+ "evidence": {
+  "omistaja_kerrottu": "Sivuston tärkeimmillä sivuilla (About Us, homepage, no-logs) ei mainita Kape Technologies omistuksesta. Ainoa maininta löytyy Privacy Policy -sivulta rivillä: 'neither PIA nor anyone at Kape Technologies logs or stores any kind of substantiative Personal Data'. Kape omistaa myös ExpressVPN:ä ja CyberGhost:ia, mutta tätä ei kerrota.",
+  "uusimishinta_kerrottu": "Kaikki kolme hinnoitteluvaihtoehto näyttävät uusiutumishintaa: 1 kuukausi 'Autorenews at 11.69€ monthly', 3 vuotta+3 kk '1.29€/kk, Autorenews at 70€ every 3 years', 1 vuosi '3.10€/kk, Billed at 37.19€ first year and then autorenews annually at 37.19€'.",
+  "lokikaytanto_kerrottu": "No-logs-sivu kuvailee yksityiskohtaisesti: 'PIA never records or store any of the following data: Your IP address, VPN servers you connect to, Domains and websites you visit, Apps and online services you access, Your online search queries, DNS requests you make, How much VPN bandwidth you use, Session timestamps'. RAM-only-palvelimet varmistetaan infrastruktuurilla. Ainoastaan email, maksudata ja USA:n verohallinnon ZIP-koodi kerätään."
+ }
+}

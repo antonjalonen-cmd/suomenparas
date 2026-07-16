@@ -1,0 +1,30 @@
+{
+ "slug": "telia",
+ "fetched_ok": ["https://telia.fi", "https://kauppa.telia.fi/yksityisille/tuotteet/puhelinliittymat.aspx", "https://telia.fi/yhteystiedot", "https://telia.fi/tietosuoja"],
+ "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+ "kampanjan_jalkeinen_hinta": "kylla",
+ "sopimusaika_ja_irtisanomisaika": "osittain",
+ "nopeus_ja_datarajat": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "020 690 400",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 20.99,
+ "nopein_mbps": 1000,
+ "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 72},
+ "vahvuudet": ["Hinnat selkeästi näkyvissä kaikissa paketeissa sekä kampanjahinnat että normaalit hinnat kampanjan jälkeen", "Laaja 5G- ja 4G-valikoimaerittäin hintaluokilla, joissa jokaisen paketin nopeus ja datarajat merkitty", "Asiakaspalvelu helposti saavutettavissa puhelimitse, chattina ja mobiilisovelluksella"],
+ "kehityskohteet": ["Y-tunnus ja lailliset yhtiötiedot puuttuvat verkkosivustolta", "Sopimuksien irtisanomisajat eivät ole selkeästi näkyvissä kaupan sivulla", "Sähköpostiosoite puuttuu; asiakkaat ohjataan käyttämään yhteystietolomakkeita"],
+ "yhteenveto": "Telia Finland Oyj on merkittävä suomalainen telekommunikaatiopalvelun tarjoaja, joka tarjoaa 4G- ja 5G-puhelinliittymiä. Verkkosivusto näyttää hinnat selkeästi sekä kampanjahinnoilla että normaalihinnalla kampanjien jälkeen, mikä antaa asiakkaille selkeän kuvan hintavertailuista. Laajennus- ja palveluyhteystiedot ovat helposti saatavilla, mutta joitain lakisääteisiä tietoja (Y-tunnus) ja sopimustietojen (irtisanomisaika) puutteita on huomattavissa.",
+ "evidence": {
+   "kk_hinta_esilla_ilman_yhteystietoja": "Hinnat näkyvät kaupan sivulla ilman kirjautumista: 4G perusliittymä €20,99/kk, 5G-liittymät €34,99-€58,99/kk.",
+   "kampanjan_jalkeinen_hinta": "Kampanjahinnat ja normaalit hinnat selkeästi näkyvissä: esim. €34,99/kk 12 kuukauden kampanja, sitten €38,99/kk.",
+   "sopimusaika_ja_irtisanomisaika": "Sopimusajat mainitaan (12 kuukautta tai sopimukseton), mutta irtisanomisaika-aika (irti-sanomisilmoitus) ei ole selkeästi näkyvissä kaupan sivulla."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "saxo",
+ "fetched_ok": ["https://www.home.saxo/", "https://www.home.saxo/rates-and-conditions/pricing-overview", "https://www.home.saxo/about-us"],
+ "kaupankayntikulut_ilman_kirjautumista": "kylla",
+ "sailytyspalkkio_kerrottu": "osittain",
+ "valuutanvaihtokulu_kerrottu": "ei",
+ "hinnasto_ladattavissa": "osittain",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": "2927844-4",
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {"arvosana": 4.7, "maara": null, "lahde": "Trustpilot"},
+ "puhelin_esilla": "osittain",
+ "puhelin": null,
+ "email_esilla": "osittain",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_osakekauppa_eur": null,
+ "markkinat": ["helsinki", "usa"],
+ "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 65},
+ "vahvuudet": ["Kilpailukykyiset provisiot ja spreadt kaikille omaisuusluokille", "Ei alustan käyttö- tai passiivisuusmaksuja", "Laaja tuottevalikoima ja kahdet kaupankäyntialustat"],
+ "kehityskohteet": ["Y-tunnus ei näkyvissä verkkosivulla", "Säilytysmaksu ei eksplisiittisesti ilmoitettu", "Valuutanvaihtokulujen tiedot puuttuvat julkisesta hinnoittelusta"],
+ "yhteenveto": "Saxo Bank on kansainvälinen sijoituspalvelu, joka tarjoaa kahdet kaupankäyntialustat (SaxoInvestor ja SaxoTrader) sekä laajan tuotevalikoiman osakkeista futuureihin. Sivusto ilmoittaa matalan palkkiorakenteen ja ei verota alustan tai passiivisuusmaksuja. Hinnoittelutiedot ovat saatavilla verkkosivulla, mutta säilytyspalkkiot ja valuutanvaihtokulujen yksityiskohdat puuttuvat.",
+ "evidence": {
+  "kaupankayntikulut_ilman_kirjautumista": "HAVAINTO: Hinnoittelusivulla näkyy provisiot useille tuotteille: osakkeet alkaen provisioista, ETF:t alkaen provisioista US-luetelluista ETF:istä, futuurit alkaen provisioista per sopimus, joukkovelkakirjat alkaen 0,05 %:iin. Nämä ovat näkyvissä ilman kirjautumista.",
+  "sailytyspalkkio_kerrottu": "HAVAINTO: Sivulla mainitaan 'Ei alustan tai passiivisuusmaksuja' kuin laaja ilmoitus, mutta erityistä säilytyspalkkiota ei ole eksplisiittisesti ilmoitettu. Asiakkaat löytävät tämän tiedon vain yleisten maksujen osiosta.",
+  "valuutanvaihtokulu_kerrottu": "HAVAINTO: Valuutanvaihtokulujen prosenttiosuutta ei ole ilmoitettu public hinnoittelusivulla. Tämä tieto saattaa olla käyttäjätileillä tai dokumentaatiossa, mutta sitä ei näy anonyymivetoriositella."
+ }
+}

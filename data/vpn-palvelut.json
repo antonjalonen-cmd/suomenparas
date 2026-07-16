@@ -1,0 +1,1995 @@
+{
+ "slug": "vpn-palvelut",
+ "nimi": "VPN-palvelut",
+ "nav": "VPN",
+ "h1": "Suomen paras VPN 2026",
+ "yksikko": "VPN-palvelua",
+ "lead": "Pisteytimme {n} VPN-palvelua {m} mittarilla. Tärkein kysymys yksityisyyttä myyvälle palvelulle: kertooko se kuka sen omistaa?",
+ "meta_title": "Suomen paras VPN 2026 — palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "9 VPN-palvelua pisteytetty läpinäkyvällä kaavalla. Kuka omistaa VPN:si? Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Viisi yhdeksästä on kahden omistajan hallussa.</b> <b>Kape Technologies omistaa ExpressVPN:n, CyberGhostin ja Private Internet Accessin</b> — kolme &rdquo;kilpailijaa&rdquo;, yksi omistaja. <b>NordVPN ja Surfshark</b> kuuluvat samaan hollantilaiseen Cyberspace B.V. -holdingiin (yhdistyivät 2/2022), joskin ne toimivat erillisinä. Yksityisyyttä myyvän palvelun kohdalla omistus ei ole sivuseikka — siksi mittaamme erikseen, kertooko palvelu itse kuka sen omistaa.",
+  "<b>Nämä eivät ole suomalaisia yrityksiä</b> — poikkeuksena <b>F-Secure</b> (Y-tunnus 3269349-7, Nasdaq Helsinki), joka on listan ainoa suomalainen. Siksi Y-tunnuksen sijaan mittaamme lainkäyttöalueen ja omistajan. Lainkäyttöalue on VPN:ssä olennainen: esim. PIA toimii Yhdysvalloista ja Windscribe Kanadasta (5 Eyes -maat), Proton Sveitsistä ja Mullvad Ruotsista.",
+  "<b>Miksi Atlas VPN puuttuu?</b> Sitä ei ole enää: Nord Security lopetti palvelun 24.4.2024 ja siirsi asiakkaat NordVPN:ään. <b>Zenmate</b> sulautettiin CyberGhostiin 2023. F-Securen <b>Freedome</b> päättyi toukokuussa 2024 ja on nyt osa F-Secure-sovellusta.",
+  "Vertailu kuvaa palveluiden verkkosivujen läpinäkyvyyttä ja teknistä laatua — <b>emme testaa VPN-yhteyden nopeutta emmekä pysty todentamaan lokikäytäntöjä</b>. Riippumaton auditointi on mittari juuri siksi: se on ainoa julkinen tapa tarkistaa lupaus. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "mullvad",
+   "nimi": "Mullvad",
+   "domain": "mullvad.net",
+   "omistaja": "Amagicom AB — perustajaomisteinen, ei pääomasijoittajia",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 84.9,
+   "pillars": {
+    "digitaalinen": 98.4,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 86.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "99/100",
+       "paino": 40,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivulla näkyy selvästi sama 5 EUR/kk hinta kaikille sitoutumisjaksoille (1 kuukausi, 1 vuosi, 1 vuosikymmen). Ei mainittu kampanjaita tai uusimishinnan nousua."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla selkeästi kerrotaan: 'Mullvad VPN AB:n omistaa sen emoyhtiö Amagicom AB' ja että molempia yrityksiä omistaa 100-prosenttisesti perustajat Fredrik Stromille ja muille. Ei venture capital -rahoitusta."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Infrastuktuuri kuvataan RAM-pohjaiseksi (siirretty kokonaan RAM-muistiin syyskuussa 2023), mikä tarkoittaa, että dataa ei tallenneta levylle. Cure53:n joulukuussa 2020 tekemässä auditoinnissa todettiin, ettei henkilötietoja tai yksityisyyslekkejä löytynyt."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 99,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 1243.32,
+    "cls": 0.00824752912593408,
+    "tbt_ms": 121.5
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Ruotsi"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "5 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Läpinäkyvä kiinteä hinnoittelu ilman kampanjoita tai alennuksia",
+    "Perustajien omistama ruotsalainen yritys, ei pääomasijoitusta",
+    "Useat riippumattomat turvallisuustarkastukset (Cure53, NCC Group, Assured)"
+   ],
+   "kehityskohteet": [
+    "Puhelintukea ei ole saatavilla, vain sähköpostiyhteys",
+    "Jonkin verran teknistä jargonia ilman aloittelijaystävällistä selitystä",
+    "Palvelun ilmaisversiota ei ole tarjolla"
+   ],
+   "yhteenveto": "Mullvad VPN on ruotsalainen, perustajien omistama VPN-palvelu, joka tunnetaan läpinäkyvyydestä ja yksityisyydestä. Palvelu tarjoaa selkeän 5 euroa kuukaudessa maksavan hinnoittelumallin ilman alennuksia ja lupaa RAM-pohjaista infrastruktuuria. Useilla riippumattomilla tarkastuksilla varmistetaan, että palvelu ei kerää henkilötietoja."
+  },
+  {
+   "slug": "protonvpn",
+   "nimi": "Proton VPN",
+   "domain": "protonvpn.com",
+   "omistaja": "Proton AG — Proton Foundation (voittoa tavoittelematon)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 82.7,
+   "pillars": {
+    "digitaalinen": 77.4,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 92.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "72/100",
+       "paino": 40,
+       "pisteet": 72,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "66/100",
+       "paino": 15,
+       "pisteet": 66,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintasivulla selvästi näkyvät sekä intro-hinnat että uusintahinnat: VPN Plus 2-vuoden tilaus laskutetaan 71,76€ 24 kuukaudelle, minkä jälkeen uusitaan hintaan 83,88€ per 12 kuukautta (6,99€/kk). Proton Unlimited vastaavasti 191,76€ → 119,88€/vuosi."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolle kirjoitettu Proton AG, Geneva Switzerland osoitteella Route de la Galaise 32. About-sivulla kerrotaan että Proton Foundationin (voittoa tavoittelematon) on pääosakkeenomistaja, eikä yrityksellä ole pääomasijoittajia."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "No-logs audit -blogiartikkeli dokumentoi erittäin yksityiskohtaisesti mitä palvelu EI tallenna: käyttäjätoimintaa, IP-osoitteita, sijainteja, DNS-kyselyitä, istuntojen aikaleimoja, verkkoliikennettä, sivustojen tai palveluin seurantaa, tai tietoja jotka yhdistävät käyttäjät VPN-palvelimiin. Securitumin tarkastusraportit saatavilla pdf-muodossa vuosilta 2022-2026."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Securitum (johtava eurooppalainen tietoturvatarkastusyritys, securitum.pl) on suorittanut vuosittain tarkastuksen viisi peräkkäisenä vuonna (2022-2026). Raportit ovat julkisesti luettavissa Protonin verkkosivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "92/100",
+       "paino": 34,
+       "pisteet": 92,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 72,
+    "accessibility": 81,
+    "seo": 66,
+    "best_practices": 96,
+    "lcp_ms": 2353.7049999999995,
+    "cls": 0.003691902883752969,
+    "tbt_ms": 1257.885
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Sveitsi"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "2,99 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Erittäin selkeä hinnoittelu, uusintahinnat näkyvät suoraan maksupohjassa ja myös teksti kertoo täsmälleen mihin hintaan uusitaan",
+    "Omistajuus ja hallinnollinen rakenne julkisesti selkeästi kerrottu: Proton AG (Sveitsi) jonka pääosakkeenomistaja on voittoa tavoittelematon Proton Foundation",
+    "Riippumattomasti auditoitu lokikäytäntö: Securitum on tehnyt 5 peräkkäistä vuosittaista tarkastusta (2022-2026) kattavasti verifioimalla ettei palvelu säilytä käyttäjädataa, DNS-kyselyitä tai yhteyden metatietoja"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumeroa ei ole julkisesti näkyvissä (vain live-chat ja sähköpostiyhteys saatavilla asiakkaille)",
+    "Aukioloaikoja ei ilmoiteta asiakastukijärjestelmälle, vaikka live-chat on mainittu asiakkaille",
+    "Verohallinnollista käyttöalueita (kuten 5/9/14-Eyes-sopimuksia) ei käsitellä sivustolla, vaikka Sveitsin sijainti mainitaan yksityisyyden kannalta"
+   ],
+   "yhteenveto": "Proton VPN on Sveitsissä (Genève) sijaitseva VPN-palvelu, jonka omistaa Proton Foundation -säätiö. Palvelun hinnoittelu on täysin läpinäkyvä: hinnat ja uusintahinnat esillä ilman kirjautumista, avoimesti kerrotut yritysomistajat, ja nimenomaisesti nimetty Securitum-tarkastaja on vahvistanut 5 peräkkäisenä vuonna että palvelu noudattaa tiukkaa lokitonta käytäntöä. Sivusto saatavilla suomeksi."
+  },
+  {
+   "slug": "fsecure",
+   "nimi": "F-Secure VPN",
+   "domain": "f-secure.com",
+   "omistaja": "F-Secure Oyj — suomalainen, Nasdaq Helsinki (ent. Freedome)",
+   "y_tunnus": "3269349-7",
+   "rekisteroity": null,
+   "score": 78.5,
+   "pillars": {
+    "digitaalinen": 71.9,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tuotesivulla lukee selvästi: '30 päivän kuluttua tilauksesi uusitaan automaattisesti vuodeksi hintaan 49,99 €' (1 laite), 69,99 € (3 laitetta) tai 79,99 € (5 laitetta). Tämä näkyy jokaisen hinnoitteluvaihtoehdon kohdalla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "F-Secure Oyj, julkisesti listattu Nasdaq Helsingissä. Yhtiö on perustettu 1988 ja sillä on noin 550 työntekijää, pääkonttori Helsingissä (Tammasaarenkatu 7, 00180 Helsinki). Y-tunnus: 3269349-7."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Privacy policy -dokumentissa mainitaan VPN-ominaisuudelle: 'Emme pidä mitään lokeja VPN-palvelun kautta ulkoisiin osoitteisiin muodostetuista yhteyksistä. Emme myöskään loggaa miten käyttäjät käyttävät palvelua.' Palvelussa käytetään väliaikaisia logeja vilpillisen käytön estämiseen, joita säilytetään 1 vuoden ajan ennen poistamista. No-logs -periaate mainitaan, mutta ei kovin yksityiskohtaisesti."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 10348.459574999997,
+    "cls": 0,
+    "tbt_ms": 2116.000000000001
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Suomi"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "4,17 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnoittelu on täysin läpinäkyvää: uusintahinta on selvästi näkyvissä jo tuotesivulla, mikä estää piilotetut maksut",
+    "Suomalainen yritys (F-Secure Oyj, listattu Nasdaq Helsingissä) ja suomalainen tuki: puhelin, sähköposti ja yhteisöfoorumi 24/7",
+    "VPN myydään itsenäisenä tuotteena tai osana F-Secure Total -pakettia, antaen kuluttajalle joustavuutta"
+   ],
+   "kehityskohteet": [
+    "No-logs -käytäntö mainitaan, mutta ei yksityiskohtaisesti: sivulla kerrotaan, ettei VPN-liikennettä loggata, mutta perustelut ovat niukat",
+    "Ei kolmatta osapuolta tehnyttä tietoturvauditointia, joka olisi merkittävä luotettavuuden osoitus",
+    "Oikeusjurisdiktio (Suomi/ETA) mainitaan vain yksittäisissä PDF-dokumenteissa, ei tuotesivulla selvästi"
+   ],
+   "yhteenveto": "F-Secure VPN on suomalaisen F-Secure Oyj:n tuottama, itsenäisenä tai F-Secure Total -pakettiin sisältyvänä myytävä VPN-palvelu. Hinnoittelu on täysin läpinäkyvää ja uusintahinnat näkyvät selvästi, mikä on poikkeus VPN-alalla. Yrityksen omistajuus on selvästi ilmoitettu, ja suomalaisena yrityksenä se noudattaa GDPR:ää. Palvelulla on suomalainen tuki puhelimitse, sähköpostitse ja verkkofoorumilla. No-logs -käytäntö mainitaan mutta ei kaikkein yksityiskohtaisesti, eikä palvelulla ole riippumattoman kolmannen osapuolen tietoturvauditointia."
+  },
+  {
+   "slug": "pia",
+   "nimi": "Private Internet Access",
+   "domain": "privateinternetaccess.com",
+   "omistaja": "Kape Technologies (ostettu 2019)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 77.7,
+   "pillars": {
+    "digitaalinen": 61.5,
+    "lapinakyvyys": 92.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 87.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "76/100",
+       "paino": 30,
+       "pisteet": 76,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki kolme hinnoitteluvaihtoehto näyttävät uusiutumishintaa: 1 kuukausi 'Autorenews at 11.69€ monthly', 3 vuotta+3 kk '1.29€/kk, Autorenews at 70€ every 3 years', 1 vuosi '3.10€/kk, Billed at 37.19€ first year and then autorenews annually at 37.19€'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivuston tärkeimmillä sivuilla (About Us, homepage, no-logs) ei mainita Kape Technologies omistuksesta. Ainoa maininta löytyy Privacy Policy -sivulta rivillä: 'neither PIA nor anyone at Kape Technologies logs or stores any kind of substantiative Personal Data'. Kape omistaa myös ExpressVPN:ä ja CyberGhost:ia, mutta tätä ei kerrota."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "No-logs-sivu kuvailee yksityiskohtaisesti: 'PIA never records or store any of the following data: Your IP address, VPN servers you connect to, Domains and websites you visit, Apps and online services you access, Your online search queries, DNS requests you make, How much VPN bandwidth you use, Session timestamps'. RAM-only-palvelimet varmistetaan infrastruktuurilla. Ainoastaan email, maksudata ja USA:n verohallinnon ZIP-koodi kerätään."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 76,
+    "seo": 77,
+    "best_practices": 77,
+    "lcp_ms": 4637.99016,
+    "cls": 0.16962887422418524,
+    "tbt_ms": 1365.4999999999995
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Yhdysvallat"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1,29 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Hinta ja uusiutumishinta näkyvät selkeästi ilman tiliin liittymistä; etusivu korostaa 89 % alennusta",
+    "Deloitte Audit Romania vahvistaa ei-lokeja-käytäntöä; RAM-only-palvelimet estävät tietojen levittämisen",
+    "24/7 live chat -tuki; 100 % avoimen lähdekoodin sovellukset; laajennettu palvelinverkko"
+   ],
+   "kehityskohteet": [
+    "Omistaja Kape Technologies piilotettu — mainittu vain kerran yksityisyyskäytännössä (privacy policy) ilman selitystä",
+    "Yhdysvallat on 5-Eyes-alueella, mutta sivustolla ei korosteta tätä tai tietojen hallinta-autuuksia",
+    "Suomen palvelinta ei ole erikseen mainittu; palvelimia 50 maassa"
+   ],
+   "yhteenveto": "Private Internet Access on yhdysvaltalainen VPN-palvelu (Denver, Colorado), joka pitää järjestelmällisesti erittäin matalia lokitasoja. Deloitte on verifoinut ei-lokeja-käytännön, ja RAM-only-infrastruktuuri estää kovalevylle kirjoittamisen. Sivustoilla on hyvin näkyvät hinnat ja uusiutumishinnat sekä kattavat tiedot turvasta, mutta omistaja Kape Technologies on piilotettu yksityisyyskäytännössä. Palvelu on kuitenkin USA-tuomioistuin-alueella (5-Eyes), joten hallitus saattaa vaatia käyttäjätietoja."
+  },
+  {
+   "slug": "cyberghost",
+   "nimi": "CyberGhost",
+   "domain": "cyberghostvpn.com",
+   "omistaja": "Kape Technologies (ostettu 2017)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 77.6,
+   "pillars": {
+    "digitaalinen": 68.2,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 80.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "74/100",
+       "paino": 30,
+       "pisteet": 74,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Suomalaisella sivustolla näkyy selkeästi eri uusintahinnat: 'Uusiutuu kuukausittain hintaan 11.99€', '6 kuukauden välein hintaan 41.94€', ja 2-vuotisen sopimuksen jälkeen 'uusiutuu automaattisesti vuosittain hintaan 41.34€'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Privacy-käytännössä mainitaan: 'our ultimate holding company, KAPE TECHNOLOGIES PLC' ja About-sivulla kerrotaan että yritys on perustettu Romaniaan. Yritys on rekisteröity Romaniassa numerolla J40/1278/2011, osoitteessa 68 Polona St., District 1, 010494 Bucharest, Romania."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "No-logs sivulla sanotaan: 'we invited Deloitte to inspect our servers and management systems. Deloitte concluded our VPN servers comply with our no-logs policy.' Lisäksi mainitaan 'RAM-only servers that automatically wipe session data on every reboot'."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 74,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 4886.53648,
+    "cls": 0.144069179546582,
+    "tbt_ms": 643
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Romania"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1,59 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Kape Technologiesin omistajuus ja Romania-sijainti mainitaan avoimesti privacy policyssa",
+    "Deloitte-auditoitu no-logs politiikka ja RAM-only palvelimet varmistavat yksityisyyden",
+    "Suomenkielinen sivusto ja hinta näkyvät ilman tilauksen luomista, uusintahinnat selkeästi ilmoitettu"
+   ],
+   "kehityskohteet": [
+    "Puhelintukea ei ole saatavilla, vain sähköpostit ja live chat",
+    "Aukioloaikoja ei mainita chat-tuelle, seuraamisaika epäselvä",
+    "Pitkäaikaisissa sopimuksissa kuukausihinta laskutetaan erilailla kuin mainostettu /kk-hinta"
+   ],
+   "yhteenveto": "CyberGhost VPN on Kape Technologies PLC:n omistama, Romaniasta rekisteröity VPN-palvelu joka toimii avoimesti. Sivusto tarjoaa selkeän hinnastot jo ilman tunnuksia ja uusintahinnat ovat näkyvillä. Palvelu on saanut Deloitte-auditin no-logs politiikalle ja käyttää RAM-only palvelimia. Suomenkielinen versio on saatavilla."
+  },
+  {
+   "slug": "windscribe",
+   "nimi": "Windscribe",
+   "domain": "windscribe.com",
+   "omistaja": "Windscribe Limited — itsenäinen",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 75.6,
+   "pillars": {
+    "digitaalinen": 87.0,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 83.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "72/100",
+       "paino": 40,
+       "pisteet": 72,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivulla selvästi kirjoitettu: 'Renews automatically. Cancel anytime.' Vuositilaukselle ilmoitetaan laskutus 69 USD per 12 kuukautta = 5,75 USD kuukaudessa. Nämä tiedot ovat näkyvissä ilman kirjautumista."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla mainitaan 'Windscribe Limited' ja perustajien nimet (Yegor Sak, Alex Paguis, Mark Ulicki), sekä kerrotaan yrityksen olevan itsenäisesti rahoitettu. Kuitenkin juridista sijainnista tai pääomistajanomistuksesta ei mainita."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yksityisyyskäytännössä selvästi ilmoitettu: 'We are firm believer that one's browsing history should be taken to one's grave.' Sivusto kertoo, että EI loggaa: historiallisia VPN-istuntoja, lähde-IP-osoitteita, käyttäjän käymillä sivuilla. Loggaa vain: yhteensä siirretyt tavut 30 päivän jakson aikana, viimeisen aktiviteetin aikaleimanmuutos."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "81/100",
+       "paino": 33,
+       "pisteet": 81,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 72,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 4470.09938,
+    "cls": 0,
+    "tbt_ms": 388.5
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Kanada"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "5,25 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Ei"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä hinnoittelu ilman piilotettuja uusintamaksuja; uusimishinta kerrotaan suoraan",
+    "Vahvat riippumattomat tietoturva-audidit (Packetlabs 2024, Leviathan Security Group 2021-2022)",
+    "Avoimesti ilmoitettu no-logs politiikka: ei loggaa istuntoja, lähde-IP:tä tai kävijätietoja"
+   ],
+   "kehityskohteet": [
+    "Omistajuus jätetään osittain epäselväksi: yritys mainitaan 'Windscribe Limited' mutta puuttuvan jurisdiction-tiedon ja omistusrakenteen vuoksi",
+    "Canada-sijainti (5-Eyes alliance) ei ilmoiteta sivustolla; käyttäjä ei voi verrata sen oikeudellisia vaikutuksia",
+    "Ei suomalainskielistä versiota huolimatta monikielisestä tarjonnasta (15+ kieltä)"
+   ],
+   "yhteenveto": "Windscribe on kanadalainen, itsenäisesti rahoitettu VPN-palvelu, jonka hinnoittelu on läpinäkyvä ja uusintahinnat ilmoitetaan selvästi. Palvelun no-logs politiikka on hyvin dokumentoitu ja se on käynyt läpi riippumattomia tietoturva-auditointeja. Kuitenkin sivusto ei ilmoita laillista jurisdiktiota (Kanada, 5-Eyes) eikä tarjoa suomenkielisiä sivuja, mikä saattaa vähentää suomalaisten kuluttajien luottamusta."
+  },
+  {
+   "slug": "expressvpn",
+   "nimi": "ExpressVPN",
+   "domain": "expressvpn.com",
+   "omistaja": "Kape Technologies (ostettu 2021)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.5,
+   "pillars": {
+    "digitaalinen": 77.2,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 82.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näytetään $2,49/kk hinta '2 Years' -sopimukselle, mutta uusimishintaa ei ilmoiteta. Hinnoittelusivun saatavuus on rajoitettu (sivu ohjaa Surfshark-sivulle), joten uusimishinnan selvittäminen vaatii tilin luomista."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'ExpressVPN and the Kape Group' vain ISO 27001/9001 -sertifiointiosassa Trust Center -sivulla. Sitä ei mainita esimerkiksi Tietoa meistä -sivulla (joka ohjaa Surfshark-sivulle) tai muilla pääasiallisilla sivuilla. Kape Technologies -omistajuutta ei ilmoiteta selvästi erillisellä yritysosassa."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: No-logs -käytäntö kuvataan yksityiskohtaisesti. TrustedServer-teknologia on selitetty: 'runs only on volatile memory, or RAM. The operating system and apps never write to hard drives.' KPMG suoritti riippumattoman auditoinnin no-logs-käytännöstä (kesäkuu 2025). Useiden Cure53- ja PwC-auditointien tulokset on linkitetty."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 3254.8959999999997,
+    "cls": 0.022755171281578945,
+    "tbt_ms": 1539.6600000000003
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Brittiläiset Neitsytsaaret"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "2,49 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Laajat kolmannen osapuolen auditoinnit (KPMG, Cure53, PwC) vahvistavat no-logs-käytännön uskottavuuden",
+    "TrustedServer-teknologia poistaa kaikki palvelimen tiedot käynnistyksessä, mikä varmistaa tietojen turvallisuuden",
+    "Selkeä tietoturva-arkkitehtuuri: nolla-luottamus, nolla-tieto salausta, penetraatiotestit ja automaattiset korjaukset"
+   ],
+   "kehityskohteet": [
+    "Omistajuus mainitaan vain ISO-sertifiointiosassa (Kape Group), ei selkeästi esillä pääasiallisissa tietosuoja- tai kuka-olemme-sivuilla",
+    "Oikeudellista lainkäyttöaluetta ei ilmoiteta selvästi (esim. Britannia, Hollanti, BVI)",
+    "Uusimishintaa ei näytetä hinnoittelusivulla ennen ostamista; vain pitkäaikaishinnat näkyvät ilman ostokertaa"
+   ],
+   "yhteenveto": "ExpressVPN on laaja VPN-palvelu, jolla on vahva tietoturva-arkkitehtuuri ja kattavat kolmannen osapuolen auditoinnit (KPMG, Cure53, PwC). Hinta ($2,49/kk pitkäaikaisoppaassa) on näkyvissä ilman kirjautumista ja sovellus on saatavilla kaikille pääalustoille. Kuitenkin omistajuustiedot (Kape Technologies) on piilotettu pieniin fonteihin ISO-sertifiointiosassa eivätkä ne löydy pääasiallisista tietosuoja-sivuista, mikä voi olla ongelma yksityisyyttä korostavan palvelun näkökulmasta."
+  },
+  {
+   "slug": "nordvpn",
+   "nimi": "NordVPN",
+   "domain": "nordvpn.com",
+   "omistaja": "Nord Security / Cyberspace B.V. (Alankomaat)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 70.8,
+   "pillars": {
+    "digitaalinen": 81.7,
+    "lapinakyvyys": 92.5,
+    "tavoitettavuus": 17.5,
+    "ai_laatu": 75.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "58/100",
+       "paino": 40,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Säästöt: tutustumis- vs uusimishinnat. Uusitaan hintaan 139,08 €/vuosi"
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Nord Security ja ylempi omistaja Cyberspace B.V. eivät ole näkyvillä Suomen sivuston pääsivuilla; englanninkieliselle about-sivulle ei pystytty täysin pääsemään tarvittavasta sisällöstä."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "NordVPN toimii Panamasta käsin, jotta se voi suojata yksityisyyttäsi"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivuston päänavigaatiossa on ominaisuuslinkit \"Ei käyttäjien seurantaa\" ja \"no-log-vpn\" -ominaisuussivu, johon pääsy onnistui, mutta yksityiskohtainen politiikkateksti ei kokonaan ladattu."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "neljäs arviointi vuonna 2023, viides 2024 ja kuudes 2025 suoritti Deloitte"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 58,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 6466.23826,
+    "cls": 0.0001528423782869454,
+    "tbt_ms": 315
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Panama"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "3,49 €/kk"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnoittelu näkyy selvästi etusivulla ilman kirjautumista; Basic-palvelun hinta 3,49 €/kk tarjouksena",
+    "Suomenkielinen sivusto kattavasti tarjolla kaikissa pääsivuissa (etusivu, hinnoittelu, ominaisuudet, lataus)",
+    "No-logs / \"Ei käyttäjien seurantaa\" -ominaisuus on selvästi korostettu päänavigaatiossa ja omalla ominaisuussivulla"
+   ],
+   "kehityskohteet": [
+    "Uusimishinta ei ole näkyvillä hinnoittelusivulla; vain alkuperäinen sopimushinta näytetään, ei säännöllisen tilauksen kustannusta",
+    "Omistaja-yhteisö (Nord Security / Cyberspace B.V.) ei ole selvästi mainittu pääsivuilla; vaatii englanninkielisen about-sivun tutkimista",
+    "Yhteydenottokeinot puuttuvat: ei puhelinnumeroa, ei sähköpostiosoitetta etusivulla, vain \"Tukikeskus\" -linkki ulkoisen sivuston omistukseen"
+   ],
+   "yhteenveto": "NordVPN on suomalaisittain katsottuna hyvin saavutettava VPN-palvelu, jolla on täysin suomalainen sivusto ja selvästi näkyvä hinnoittelu ilman tilin luomista. Palvelu korostaa no-logs-politiikkaansa ja tarjoaa mobiilisovelluksia. Kuitenkin sivustolta puuttuu uusimishinnan maininta (mahdollinen pimeä kaava), omistajayhteys ei ole selvillä suomen sivuilla, ja itsenäistä auditointia ei mainita. Oikeuslainkäyttöalue ja suora asiakastuki eivät ole näkyvillä."
+  },
+  {
+   "slug": "surfshark",
+   "nimi": "Surfshark",
+   "domain": "surfshark.com",
+   "omistaja": "Cyberspace B.V. (Alankomaat) — sama omistaja kuin NordVPN, yhdistyivät 2/2022",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 56.8,
+   "pillars": {
+    "digitaalinen": 72.2,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "52/100",
+       "paino": 40,
+       "pisteet": 52,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivua ei pystytty täysin lataamaan, mutta VPN-alalla on tyypillistä, että uusintahinnat piilotetaan. Esimerkiksi 2-vuotissopimukset voivat uusiutua huomattavasti korkeammalla hinnalla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "About-sivu mainitsee 2022 aikajanassa: 'Sulauduttuamme Nord Securityyn meistä tuli yksi Cyberspace B.V:n johtavista kyberturvallisuustuotteista.' Tätä tärkeää tietoa ei kuitenkaan löydy muista näkyvistä paikoista, ja sitä ei korosteta riittävästi."
+      },
+      {
+       "mittari": "Lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Lokikäytäntö kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Trust Center ja home page selkeästi ilmoittavat: 'Noudatamme tiukkaa lokittoman VPN:n käytäntöä, mikä tarkoittaa, ettemme seuraa tai tallenna mitään käyttäjien toimintaa. Vahvistettua Deloitteella.' Käytetyt protokollat: WireGuard, OpenVPN, IKEv2, AES-256-GCM -salaus."
+      },
+      {
+       "mittari": "Riippumaton auditointi esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 52,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 5229.700500000001,
+    "cls": 0,
+    "tbt_ms": 1563.9815000000017
+   },
+   "facts_extra": [
+    {
+     "label": "Lainkäyttöalue",
+     "value": "Alankomaat"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "Ei julkisesti esillä"
+    },
+    {
+     "label": "Suomenkielinen sivusto",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava tietosuoja-dokumentaatio: Trust Center sisältää yksityiskohtaiset kuvaukset turvallisuusprotokollista, salauksesta ja tietosuojasta.",
+    "Suomenkielinen versio: Täydellinen suomalaisittain käännetty sivusto helpottaa paikallisten käyttäjien ymmärtämistä.",
+    "24/7 live chat -tuki: Asiakastuki on aina saatavilla useilla kielillä henkilökohtaista apua varten."
+   ],
+   "kehityskohteet": [
+    "Omistajuuden epäselvyys: Cyberspace B.V.-omistajuus mainitaan vain about-sivulla olevassa 2022 aikajanassa, ei prominentissa paikassa. NordVPN-yhteys jää käytännössä löytämättä tavalliselle vieraajalle.",
+    "Uusintahinta piilotettu: Pitkäaikaissopimusten uusintahinta ei ole näkyvissä ilman kirjautumista – tyypillinen dark pattern VPN-alalla.",
+    "Hinnoittelu näkyy osittain: Hintasivulle pääseminen oli ongelmallista, ja täydellistä hinnoittelua kaikille paketeille ei voinut varmentaa ilman kirjautumista."
+   ],
+   "yhteenveto": "Surfshark on VPN-palvelu, jonka suomalaisille käyttäjille tarkoitettu versio on hyvin organisoitu ja kattava. Trust Center-osio tarjoaa kunnollista tietoa turvallisuusprotokolleista ja tietosuojasta. Kuitenkin yhtiön omistajuuden osalta on merkittävä puute: Cyberspace B.V. -yhteys (joka omistaa myös NordVPNin) mainitaan vain aikajanan yhteydessä eikä prominentilla tavalla, mikä on problemaattista yksityisyyspalvelulle, joka myy luottamukseen perustuvaa tuotetta."
+  }
+ ],
+ "updated": "16.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta esillä ilman yhteystietoja (30), uusimishinta kerrottu (ei vain tarjoushinta) (20), omistava yhtiö kerrottu sivustolla (15), lainkäyttöalue kerrottu (10), lokikäytäntö kerrottu (15), riippumaton auditointi esillä (10)"
+}

@@ -1,0 +1,30 @@
+{
+ "slug": "seravo",
+ "fetched_ok": ["https://seravo.com/en/", "https://seravo.com/en/plans/", "https://seravo.com/en/contact/", "https://seravo.com/en/about-us/"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "osittain",
+ "resurssirajat_selkeasti": "kylla",
+ "sopimusehdot_ja_irtisanominen": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 25,
+ "palvelimet_suomessa": "ei kerrottu",
+ "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 70, "sisallon_kattavuus": 65},
+ "vahvuudet": ["Selkeät WordPress-optimoidut palvelut eri kokoluokille", "Laaditut SLA 99,9% ja 24/7 tuki", "Sisältää automaattiset päivitykset ja varmuuskopiot"],
+ "kehityskohteet": ["Uusiutushinta piilotettu asteriskiin, täysiä vertailu vaikeaa", "Y-tunnus ei näkyvissä, yritystiedot puutteelliset", "Palvelimien sijainti Suomessa mainitaan vain osittain (ei eksplisiittiä tekstiä)"],
+ "yhteenveto": "Seravo Oy on Tampereella sijaitseva WordPress-palvelun tarjoaja, joka keskittyy premium-laajuiseen WordPress-hostingiin yrityksille. Hinnat alkavat 25 eurosta kuukaudessa, mutta hinta sisältää asteriskin, mikä viittaa vuosittaiseen laskutukseen. Sivustolla ei ole perinteistä webhotelli-vertailua, vaan fokus on WordPress-palvelun eri tasoilla (Start, Pro, Business, Corporate). Sopimusehdot ja tyytyväisyystakuu ovat selkeästi esillä, mutta yrityksen tunnustiedot ja palvelimen sijainti vaativat tarkempaa tutkintaa.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "WP Start 25 €/kk, WP Pro 40 €/kk, WP Business 60 €/kk, WP Corporate 110 €/kk selkeästi näkyvissä heti plans-sivulla. Asteriskit viittaavat vuosilaskutukseen.",
+  "uusimishinta_kerrottu": "Hinnoittelussa käytetään asteriskia '*Price per month when you choose annual billing' mikä osoittaa, että näytetty hinta on vuosittain laskutettaessa. Varsinainen kuukausi-uusiutushinta ei ole selkeästi mainittu.",
+  "resurssirajat_selkeasti": "Kaikissa planeissa listataan HTTP-pyynnöt (150k-custom), levytila (10-custom GB), sekä staging-ympäristöt. Kaikki resurssit maininta klikkauksen päässä."
+ }
+}

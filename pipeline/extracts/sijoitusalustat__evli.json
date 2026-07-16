@@ -1,0 +1,55 @@
+{
+  "slug": "evli",
+  "fetched_ok": [
+    "https://www.evli.com/fi",
+    "https://www.evli.com/palvelumaksut",
+    "https://www.evli.com/tuotteet-ja-palvelut/varainhoito/digitaalinen-varainhoito",
+    "https://www.evli.com/usein-kysyttya"
+  ],
+  "kaupankayntikulut_ilman_kirjautumista": "kylla",
+  "sailytyspalkkio_kerrottu": "kylla",
+  "valuutanvaihtokulu_kerrottu": "kylla",
+  "hinnasto_ladattavissa": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "3239286-2",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "kylla",
+  "puhelin": "+358 9 4766 9701",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "halvin_osakekauppa_eur": 0.05,
+  "markkinat": [
+    "helsinki",
+    "ruotsi",
+    "eurooppa"
+  ],
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Kaupankäyntikulut selkeästi näkyvillä julkisella palvelumaksut-sivulla ilman kirjautumista",
+    "Kattavat palvelumaksutiedot myös säilytys- ja valuutuanvaihtokuluista",
+    "My Evli -palvelu tarjoaa helpon pääsyn verkkosivuistaan, asiakkuuden avaus verkossa maksutonta"
+  ],
+  "kehityskohteet": [
+    "Asiakasarvioita tai riippumattomia tunnustuksia ei näy omilla nettisivuilla, vaikka Kantar Prospera on palkinneet",
+    "Mobiilisovellusta ei mainita tai se puuttuu kokonaan",
+    "Hinnaston ladattavissa-versio ei ole selvästi linkitetty tai erottuvasti merkitty palvelumaksut-sivulla"
+  ],
+  "yhteenveto": "Evli on pohjoismainen varainhoitaja, joka julkaisee kaupankäyntikulut (0,05 %), säilytyspalkkiot (0,01 % vuodessa, min. 3 €/kk) ja valuuttakurssikulut (0,30 %) selkeästi omilla nettisivuillaan ilman kirjautumisvaatimusta. My Evli -alusta tarjoaa retail-sijoittajille digitaalisen sijoituspalvelun, mutta verkkosivusto ei näytä asiakastunnustuksia tai riippumattomia arvioita omalla sivullaan, eikä mainitse mobiilisovellusta.",
+  "evidence": {
+    "kaupankayntikulut_ilman_kirjautumista": "Palvelumaksut-sivulla näkyy selkeästi: osakkeiden kaupankäynti 0,05 % per toimeksianto. Sivusto on avoimesti luettavissa ilman kirjautumista.",
+    "sailytyspalkkio_kerrottu": "Säilytysmaksut näkyvät palvelumaksut-sivulla: 0,01 % säilytyksen arvosta vuodessa, lasketaan ja veloitetaan kuukausittain, vähintään 3,00 € kuukaudessa.",
+    "valuutanvaihtokulu_kerrottu": "Valuuttakurssikulut ilmoitetaan palvelumaksut-sivulla: Itse hallinnoidun salkun valuutanvaihto- ja valuuttakaupan palkkio 0,30 %."
+  }
+}

@@ -1,0 +1,71 @@
+{
+ "slug": "nordnet",
+ "fetched_ok": [
+  "https://www.nordnet.fi/",
+  "https://www.nordnet.fi/palvelut/hinnasto",
+  "https://www.nordnet.fi/asiakaspalvelu/ota-yhteytta",
+  "https://nordnetab.com/about/nordnet-overview/",
+  "https://www.nordnet.fi/osakkeet",
+  "https://www.nordnet.fi/osakkeet/ulkomaille-sijoittaminen",
+  "https://www.nordnet.fi/faq",
+  "https://www.nordnet.fi/palvelut/tilit/arvo-osuustili"
+ ],
+ "kaupankayntikulut_ilman_kirjautumista": "kylla",
+ "sailytyspalkkio_kerrottu": "kylla",
+ "valuutanvaihtokulu_kerrottu": "osittain",
+ "hinnasto_ladattavissa": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": "2329589-2",
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {
+  "arvosana": null,
+  "maara": null,
+  "lahde": "EPSI Rating 2025, 2024, 2023"
+ },
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_osakekauppa_eur": 3,
+ "markkinat": [
+  "helsinki",
+  "tukholma",
+  "usa",
+  "oslo",
+  "kööpenhamina",
+  "saksa",
+  "ranska",
+  "iso-britannia",
+  "alankomaat",
+  "sveitsi",
+  "espanja",
+  "italia",
+  "belgia",
+  "itavalta",
+  "irlanti"
+ ],
+ "ai_arviot": {
+  "selkeys": 82,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 78
+ },
+ "vahvuudet": [
+  "Kaupankäyntikulut näkyvät selkeästi ilman kirjautumista: 3€ minimipalkkio uusille ja aktiivisille asiakkaille",
+  "Säilytysmaksuja ei peritä pörssilistatuista osakkeista ja rahasto-osuuksista (0 EUR)",
+  "Laaja markkinoiden tarjonta: 15+ maata ja pörssiä saatavilla, mukaan lukien Helsinki, Stockholm, USA"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus ei ole näkyvissä suomalaisella sivustolla, vain EPSI-palkinnot ja englanninkielinen corporate info",
+  "Valuutanvaihtokuluista ei ole julkista selvitystä, vaikka FAQ-osio mainitaan – tieto piilotettu kirjautumisen taakse",
+  "Asiakaspalvelun yhteystiedot vaativat klikkaamisen laajentamaan näkymän; puhelinnumero ja sähköpostiosoite eivät ole välittömästi näkyvissä"
+ ],
+ "yhteenveto": "Nordnet on puhtaasti välitystoimintaan perustuva alusta, jonka hinnoittelu on hyvin läpinäkyvää ilman kirjautumista. Kaupankäyntipalkkiot (alkaen 3 eurosta), säilytysmaksut (0 euroa) ja laaja markkinoiden tarjonta ovat julkisesti näkyvissä. EPSI Rating -palkinnot (2025, 2024, 2023) todentavat asiakastyytyväisyyden. Valuutanvaihtokulut ja asiakaspalvelun yhteystiedot löytyvät sivustolta, mutta vaativat enemmän klikkaamista.",
+ "evidence": {
+  "kaupankayntikulut_ilman_kirjautumista": "Hinnasto-sivulla näkyy neljä kaupankäyntitasoa: Taso 1 (0,06 %, min 3 €), Taso 2 (0,10 %, min 5 €), Taso 3 (0,15 %, min 7 €), Taso 4 (0,20 %, min 9 €). Uudet asiakkaat saavat kahden kuukauden ajan parhaan tason (0,06 %, min 3 €).",
+  "sailytyspalkkio_kerrottu": "Sivulla todetaan: 'Nordnetissä et maksa salkustasi avaus- tai säilytysmaksuja* – asiakkuuden hinta on siis 0 €.' Asteriskin huomautus selventää: säilytysmaksuja ei peritä pörssilistatuista osakkeista eikä rahasto-osuuksista.",
+  "valuutanvaihtokulu_kerrottu": "Ulkomaille sijoittamisen sivulla mainitaan FAQ-osio 'Mitä minun tulee tietää valuutanvaihdosta?' ja 'Mahdollisuudet, kulut ja riskit', mutta sisältö on piilotettu laajennettavien osioiden taakse eivätkä tarkat prosenttiluvut ole näkyvissä ilman kirjautumista."
+ }
+}

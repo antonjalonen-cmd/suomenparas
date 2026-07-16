@@ -1,0 +1,38 @@
+{
+ "slug": "shellit",
+ "fetched_ok": ["https://www.shellit.org/", "https://www.shellit.org/webhotelli/", "https://www.shellit.org/sopimusehdot/", "https://www.shellit.org/tekniikka/", "https://www.shellit.org/yhteystiedot/"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "resurssirajat_selkeasti": "kylla",
+ "sopimusehdot_ja_irtisanominen": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "2405351-0",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "0447 666 003",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 1.00,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {"selkeys": 90, "hintojen_loydettavyys": 95, "sisallon_kattavuus": 85},
+ "vahvuudet": [
+  "Selkeät hinnat, uusimishinnat ja resurssirajoitukset näkyvät heti etusivulla ilman yhteydenottoa",
+  "Palvelimet sijaitsevat Suomessa Ulvillassa ja niitä valvotaan 24/7, tarkka tekninen dokumentaatio saatavilla",
+  "Kattavat sopimusehdot ja irtisanomistiedot julkisesti saatavilla, 14-30 päivän tyytyväisyystakuu"
+ ],
+ "kehityskohteet": [
+  "Chattipalvelua ei ole saatavilla, ainoastaan puhelin (ark. 9-15:30) ja sähköposti",
+  "Mobiilistovellus puuttuu, hallinta vain selaimen kautta",
+  "Riippumattomat arvostelut (kuten Trustpilot) puuttuvat, vain sisäiset asiakastarinat blogipost-issa"
+ ],
+ "yhteenveto": "Shellit.org (Multim Oy) on suomalainen webhotelli-palveluntarjoaja, joka julkaisee kaiken oleellisen hintatiedot, uusimishinnat ja resurssirajoitukset selkeästi etusivullaan ilman yhteydenottoa. Palvelimet sijaitsevat Suomessa Ulvillassa kallion sisälle rakennetussa datakeskuksessa, ja sopimusehdot sekä irtisanomistiedot ovat helposti saatavilla. Palvelu tarjoaa 14-30 päivän tyytyväisyystakuun.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "Etusivulla on selkeä hinnaston esittely neljällä paketilla: Pronssi 1,00 €/kk (alv 0%), Kulta 2,00 €/kk, Timantti 3,00 €/kk ja Super 4,00 €/kk. Hinnat näkyvät näyttävästä hintaosasta ilman että pitää täyttää yhtään lomaketta.",
+  "uusimishinta_kerrottu": "Jokaisen paketin yhteydessä teksti sanoo 'Ensimmäinen vuosi alennettuun hintaan, sen jälkeen €/kk' ja sen perään uusimishinta: Pronssi 3,50 €/kk, Kulta 8,50 €/kk, Timantti 11,50 €/kk, Super 22,50 €/kk.",
+  "resurssirajat_selkeasti": "Jokaisen paketin kuvauksessa listataan selvästi sivustojen määrä ('Yhdelle' tai 'Jopa viidelle'), sähköpostilaukkojen määrä ('1' tai 'Rajattomasti'), levytila ('1 Gt', '5 Gt', '25 Gt', '50 Gt') sekä varmuuskopioinnin saatavuus (Pronssi/Kulta: ei mainintaa, Timantti/Super: 'Päivittäiset varmuuskopiot')."
+ }
+}

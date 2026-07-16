@@ -1,0 +1,47 @@
+{
+ "slug": "mandatum-trader",
+ "fetched_ok": [
+  "https://www.mandatumtrader.fi/",
+  "https://www.mandatumtrader.fi/hinnoittelu/",
+  "https://www.mandatumtrader.fi/asiakaspalvelu/",
+  "https://www.mandatumtrader.fi/asiakaspalvelu/usein-kysytyt-kysymykset/"
+ ],
+ "kaupankayntikulut_ilman_kirjautumista": "kylla",
+ "sailytyspalkkio_kerrottu": "kylla",
+ "valuutanvaihtokulu_kerrottu": "kylla",
+ "hinnasto_ladattavissa": "osittain",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": "0641130-2",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "010 516 8989",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_osakekauppa_eur": 3,
+ "markkinat": ["helsinki", "stockholm", "oslo", "copenhagen", "new york", "london", "toronto", "zurich", "frankfurt", "paris", "milan", "madrid", "vienna", "lisbon", "amsterdam", "brussels", "dublin", "hongkong", "shanghai", "shenzhen", "tokyo", "singapore", "sydney"],
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 88,
+  "sisallon_kattavuus": 82
+ },
+ "vahvuudet": [
+  "Kaupankäyntikulut näkyvät selkeästi ilman kirjautumista (alk. 0,03%, min 3 EUR)",
+  "Laaja markkinavalikoima yli 40 000 sijoituskohteen kanssa ja kymmeniä pörssejä",
+  "Asiakkuuden avaus ja arvopapereiden säilytys maksutonta, FX-kurssi 0,25%"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus ei näy Trader-sivustolla, löytyy vain pääyhtiö Mandatumista",
+  "Hinnastoa ei ole suoraan ladattavissa PDF-muodossa pääkaupankäyntisivulla, vain operaatiosopimuksen hinnasto",
+  "Asiakasarvioita (esim. Trustpilot, EPSI) ei ole näkyvissä sivustolla"
+ ],
+ "yhteenveto": "Mandatum Trader on Saxo Bank A/S:n tarjoama kaupankäyntipalvelu, joka kuuluu Mandatum-konserniin. Palvelu tarjoaa ensiluokkaista hintatiedon läpinäkyvyyttä: kaupankäyntikulut, säilytyspalkkiot ja valuutanvaihtokustannukset ovat kaikki saatavilla ilman kirjautumista. Sivustoilla on hyvä informaation laatu ja selkeys. Pääasiallisina kehityskohtaina ovat Y-tunnuksen puuttuminen Trader-sivustolta ja asiakasarvioiden puuttuminen riippumattomista lähteistä.",
+ "evidence": {
+  "kaupankayntikulut_ilman_kirjautumista": "Hinnoittelussa näkyvät bankeissa ja pörsseissä kaupankäynnin palkkiot ilman kirjautumista. Esimerkiksi Helsinki: 0,03 % minimi 3 euroa Best-tasolla. Hinnat näkyvät selkeästi taulukossa eri markkinoille.",
+  "sailytyspalkkio_kerrottu": "Asiakaspalvelu-sivulla kerrotaan: 'Asiakkuuden avaus ja arvopapereiden säilytys on maksutonta.' Hinnastosivu vahvistaa: maksat ainoastaan kaupankäynnistä.",
+  "valuutanvaihtokulu_kerrottu": "Hinnastosivulla mainitaan: 'Vieraassa valuutassa käytävän kaupan yhteydessä valuutanvaihtokustannus on 0,25 %.' Ohjeita uusien valuuttatilien avaamiseen myös annettu."
+ }
+}

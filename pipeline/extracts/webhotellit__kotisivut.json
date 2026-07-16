@@ -1,0 +1,38 @@
+{
+ "slug": "kotisivut",
+ "fetched_ok": ["https://www.kotisivut.com", "https://www.kotisivut.com/yritys/", "https://www.kotisivut.com/yhteystiedot/"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "osittain",
+ "resurssirajat_selkeasti": "osittain",
+ "sopimusehdot_ja_irtisanominen": "osittain",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "(09) 4270 5500",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 10,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Kotimaiset palvelimet Espoossa ja luotettava Mediam Oy:n tausta (AAA Dun & Bradstreet-luottoluokka)",
+  "Monipuolinen palveluvalikoima (webhotelli, WordPress Pro, pilvipalvelimet, verkkotunnukset)",
+  "Asiakastuki saatavilla puhelimitse ja sähköpostitse arkisin 9-18"
+ ],
+ "kehityskohteet": [
+  "Uusimishinta näkyy vain osittain tai vaatii yhteydenottoa - selkeä hintataulukko puuttuu",
+  "Diskiavaruus ja muut resurssirajoitukset eivät ole selkeästi näkyvissä etusivulla",
+  "Y-tunnus ei ole esillä verkkosivuilla, asiakkaat joutuvat etsimään sen muualta"
+ ],
+ "yhteenveto": "Kotisivut.com on Mediam Oy:n palvelukonsepti, joka tarjoaa webhotelleja alkaen 10 eurosta kuussa. Sivusto näyttää hinnat selkeästi mutta uusimishinnat ja yksityiskohtaiset resurssirajoitukset vaativat lisätutkimista. Palvelimet sijaitsevat Suomessa ja asiakastuki on saatavilla arkisin puhelimitse ja sähköpostitse.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "Etusivulla näkyy hinnat: Webhotelli 10 €/kk, WordPress Pro 16 €/kk, Pilvipalvelin 25 €/kk. Hinnat ovat julkisesti näkyvissä ilman kirjautumista.",
+  "uusimishinta_kerrottu": "Etusivulla mainitaan hintojen olevan 'alkaen' hinnat, mutta uusimishinnat eivät ole selkeästi näkyvissä. Asiakkaat joutuvat ottamaan yhteyttä tai tutustumaan tarkemmin palvelusta saadakseen täydelliset hintatiedot.",
+  "resurssirajat_selkeasti": "Resurssirajoituksista (diskiavaruus, bandwith, sähköpostit) ei ole selkeää tietoa etusivulla tai yhteystiedoilla. Sivusto mainitsee 'klusteroitua pilvipalvelinarkkitehtuuria' mutta konkreettiset rajat puuttuvat."
+ }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "moi",
+  "fetched_ok": [
+    "https://moi.fi",
+    "https://moi.fi/liittymat",
+    "https://moi.fi/hinnasto",
+    "https://moi.fi/yleiset-sopimukset-ja-palvelukohtaiset-ehdot/"
+  ],
+  "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+  "kampanjan_jalkeinen_hinta": "osittain",
+  "sopimusaika_ja_irtisanomisaika": "kylla",
+  "nopeus_ja_datarajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "2758687-3",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "ei",
+  "puhelin": null,
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "halvin_kk_hinta_eur": 15,
+  "nopein_mbps": 1000,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 88,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selkeästi ilman rekisteröitymistä tai yhteystietojen antamista — suorat €/kk-luvut kaikille liittymille",
+    "Tekniset yksityiskohdat (nopeudet 200–1000 Mbps, data-rajat, roaming-määrät) dokumentoitu kaiken tarkkuuden kanssa",
+    "Mun Moi -mobiilisovellus helpottaa tilin hallintaa ja laskutusta itsenäisesti"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero ja sähköpostiosoite puuttuvat pääsivuilla — asiakaspalveluun pääsy vain asiakaspalvelu.moi.fi-portaalin kautta, joka on rajoitettu (403-virhe)",
+    "Kampanjahinnoitus epäselvä — toissijaiset liittymät alkavat €20/kk, mutta klassisia tarjousrakenteitoja (kampanja→normaali hinta) ei näy selvästi",
+    "Aukioloajat puuttuvat kokonaan, samoin FAQ-osion suora linkki — tiedot hajoitettu asiakaspalveluportaaliin, jota ei voitu käyttää"
+  ],
+  "yhteenveto": "Moi Mobiili Oy on DNA:n omistama matkaviestinoperaattori, joka tarjoaa 5G- ja 4G-liittymiä €15–38/kk. Hinnoittelu on läpinäkyvää ja helposti löydettävissä ilman yhteydenottoa. Sopimusehdot, nopeudet ja data-rajat ovat hyvin dokumentoituja. Asiakaspalvelun yhteystiedot (puhelin, sähköposti) puuttuvat pääsivuista, ja asiakastuen saavutettavuus on rajoitettu.",
+  "evidence": {
+    "kk_hinta_esilla_ilman_yhteystietoja": "Hinnasto-sivulla ja liittymät-sivulla näkyvät selvästi kuukausihinnat: Teho 5G 200 €23/kk, Nopea 5G 450 €26/kk, Super 5G 1000 €38/kk, Kevyt 4G 50 €15/kk, Fiksu 4G 100 €21/kk. Kaikki hinnat näytetään ilman kirjautumista tai yhteystietojen pyyntöä.",
+    "kampanjan_jalkeinen_hinta": "Sivuilla mainitaan toissijaiset liittymät alkaen €20/kk, mutta klassista kampanja-rakennettu hintaa (esim. 0€ 6 kuukautta, sitten normaali €X) ei näy. Yleiset ehdot mainitsevat hinnastot moi.fi/hinnasto-sivulla, mutta mitään ajallisesti rajoitettuja tarjouksia ei mainittu. Osittain: hinnastoa muutetaan, mutta ei selvästi näy samanaikaisesti.",
+    "sopimusaika_ja_irtisanomisaika": "Sopimuskehto §:ssä todetaan: 'Sopimus on voimassa toistaiseksi' (määräaikainen päättyy, jos sovittu) ja 'kahden (2) viikon irtisanomisaikaa' telepalveluille. Molemmat näkyvät sopimustekstissä, kylla."
+  }
+}

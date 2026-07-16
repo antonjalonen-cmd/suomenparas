@@ -1,0 +1,45 @@
+{
+ "slug": "surfshark",
+ "fetched_ok": [
+  "https://surfshark.com/fi",
+  "https://surfshark.com/fi/about-us",
+  "https://surfshark.com/fi/trust-center",
+  "https://surfshark.com/fi/contact-us"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "osittain",
+ "uusimishinta_kerrottu": "ei",
+ "omistaja_kerrottu": "osittain",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "osittain",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": null,
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 60,
+  "sisallon_kattavuus": 80
+ },
+ "vahvuudet": [
+  "Kattava tietosuoja-dokumentaatio: Trust Center sisältää yksityiskohtaiset kuvaukset turvallisuusprotokollista, salauksesta ja tietosuojasta.",
+  "Suomenkielinen versio: Täydellinen suomalaisittain käännetty sivusto helpottaa paikallisten käyttäjien ymmärtämistä.",
+  "24/7 live chat -tuki: Asiakastuki on aina saatavilla useilla kielillä henkilökohtaista apua varten."
+ ],
+ "kehityskohteet": [
+  "Omistajuuden epäselvyys: Cyberspace B.V.-omistajuus mainitaan vain about-sivulla olevassa 2022 aikajanassa, ei prominentissa paikassa. NordVPN-yhteys jää käytännössä löytämättä tavalliselle vieraajalle.",
+  "Uusintahinta piilotettu: Pitkäaikaissopimusten uusintahinta ei ole näkyvissä ilman kirjautumista – tyypillinen dark pattern VPN-alalla.",
+  "Hinnoittelu näkyy osittain: Hintasivulle pääseminen oli ongelmallista, ja täydellistä hinnoittelua kaikille paketeille ei voinut varmentaa ilman kirjautumista."
+ ],
+ "yhteenveto": "Surfshark on VPN-palvelu, jonka suomalaisille käyttäjille tarkoitettu versio on hyvin organisoitu ja kattava. Trust Center-osio tarjoaa kunnollista tietoa turvallisuusprotokolleista ja tietosuojasta. Kuitenkin yhtiön omistajuuden osalta on merkittävä puute: Cyberspace B.V. -yhteys (joka omistaa myös NordVPNin) mainitaan vain aikajanan yhteydessä eikä prominentilla tavalla, mikä on problemaattista yksityisyyspalvelulle, joka myy luottamukseen perustuvaa tuotetta.",
+ "evidence": {
+  "omistaja_kerrottu": "About-sivu mainitsee 2022 aikajanassa: 'Sulauduttuamme Nord Securityyn meistä tuli yksi Cyberspace B.V:n johtavista kyberturvallisuustuotteista.' Tätä tärkeää tietoa ei kuitenkaan löydy muista näkyvistä paikoista, ja sitä ei korosteta riittävästi.",
+  "uusimishinta_kerrottu": "Hinnoittelusivua ei pystytty täysin lataamaan, mutta VPN-alalla on tyypillistä, että uusintahinnat piilotetaan. Esimerkiksi 2-vuotissopimukset voivat uusiutua huomattavasti korkeammalla hinnalla.",
+  "lokikaytanto_kerrottu": "Trust Center ja home page selkeästi ilmoittavat: 'Noudatamme tiukkaa lokittoman VPN:n käytäntöä, mikä tarkoittaa, ettemme seuraa tai tallenna mitään käyttäjien toimintaa. Vahvistettua Deloitteella.' Käytetyt protokollat: WireGuard, OpenVPN, IKEv2, AES-256-GCM -salaus."
+ }
+}

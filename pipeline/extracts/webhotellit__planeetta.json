@@ -1,0 +1,29 @@
+{
+ "slug": "planeetta",
+ "fetched_ok": ["https://www.planeetta.fi", "https://www.planeetta.fi/yritys/", "https://www.planeetta.fi/yritys/yhteystiedot/", "https://www.planeetta.fi/yritys/briefly-in-english/"],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "ei",
+ "resurssirajat_selkeasti": "osittain",
+ "sopimusehdot_ja_irtisanominen": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "1753494-9",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla", "puhelin": "010 5251 440",
+ "email_esilla": "kylla", "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei", "ukk_osio": "ei", "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 8.9,
+ "palvelimet_suomessa": "kylla",
+ "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 60, "sisallon_kattavuus": 65},
+ "vahvuudet": ["Suomalaisissa palvelinkeskuksissa sijaitsevat palvelimet ja lokaali henkilökunta", "Yritys toimii avoimen team.blue-konserniomistuksen alla, mikä tarjoaa eurooppalaisen tuen ja skaalaavuuden", "Selkeät yhteystiedot ja henkilökohtainen asiakaspalvelu"],
+ "kehityskohteet": ["Webhotelli-palvelun pricing page ohjaa kotisivut.com-sivulle eikä ole suoraan planeetta.fi-domainilla", "Uusimishintoja ei eritellä hintalausekkeissa, vain ensimmäinen termi näkyy julkisesti", "Resurssirajoja (levytila, liikenne, tietokannat) ei yksityiskohtaisesti eritellä planeetta.fi-sivuilla"],
+ "yhteenveto": "Planeetta on suomalainen webhotelli- ja verkkotunnuspalvelun tarjoaja, joka on osa eurooppalaista team.blue-konsernia. Yritys näyttää hinnaston julkisesti ilman yhteydenottopyyntöä (alkaen 8,90 €/kk), mutta ei erittelee uusimishintoja tai tarkempia resurssirajoja etusivullaan. Palvelun kuvausmateriaalit ja hinnoittelu siirtyvät kotisivut.com-alustalle, joten asiakkaalle ei ole täysin selkeää, onko kyseessä erillinen palvelu vai samansisältöinen uudelleenbrändäys.",
+ "evidence": {
+   "hinta_esilla_ilman_yhteystietoja": "Planeetta.fi-etusivulla näkyy \"Webhotellit alkaen 8,90 €/kk (+alv)\" ja suora linkki \"Tilaa webhotelli\" ilman yhteydenottopyyntöä.",
+   "uusimishinta_kerrottu": "Hintalausekkeissa ei mainita uusintahintaa tai erikoishintaa ensimmäiselle kaudelle. Kotisivut.com-sivuilla näkyvät vain kuukausihinta, ei uusintahintaa.",
+   "resurssirajat_selkeasti": "Kotisivut.com-sivulla mainitaan levytilat (10/20/50 GT) ja sähköpostiosoitteet (10/10/50), mutta planeetta.fi omilla sivuilla nämä rajat eivät ole näkyvissä ilman klikkausta. Liikennettä ja tietokantamääriä ei mainittu.",
+   "sopimusehdot_ja_irtisanominen": "Planeetta.fi/yritys/sopimusehdot/ ohjaa kotisivut.com:iin, mikä on merkki verkkojärjestelyn uudelleenorganisaatiosta. Irtisanomisperiaatteet eivät ole selkeästi julkisesti saatavilla.",
+   "palvelimet_suomessa": "Kotisivut.com-sivulla mainitaan \"Nopeat Suomessa sijaitsevat palvelimet\" (Fast servers located in Finland). Planeetta.fi:llä ei mainita palvelinkeskuksen sijaintia, mutta tietosuojalausunnossa mainitaan suomalaiset palvelinkeskukset ja EU:n tietosuojastandardi.",
+   "disclosure_note": "Planeetta.fi omistajan sivulla (yritys) mainitaan selvästi: \"Olemme osa team.blue-konsernia\" ja englanninkielisessä versiossa \"Planeetta is owned by the Finnish company Planeetta Internet Oy, which is part of the European team.blue group.\" Sivustolla ei kuitenkaan mainita muita team.blue-brändinä toimivia palveluita, kuten Domainhotelli tai Hostingpalvelu.fi, vaan vain yleisesti \"group's brands\". Kotisivut.com on todettu olevan sama palveluntarjoaja (kaasutti webhotelli-sivut sinne), mutta tätä yhteyttä ei julkisesti selvennetä planeetta.fi-sivuilla."
+ }
+}

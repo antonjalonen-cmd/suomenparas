@@ -138,8 +138,11 @@ COMPANIES = {
              omistaja="Bonum Pankki Oyj — POP Pankki -ryhmän keskuspankki"),
         dict(slug="saastopankki-visa", nimi="Säästöpankki Visa Credit", domain="saastopankki.fi", y_tunnus="2238752-5",
              omistaja="Säästöpankkien Keskuspankki Suomi Oyj — EI sama kuin OmaSp"),
-        dict(slug="santander-visa", nimi="Santander Visa", domain="santanderconsumer.fi", y_tunnus="2076455-0",
-             omistaja="Santander Consumer Finance Oy — myöntää itse"),
+        # Santander DROPPED 16.7.2026: santanderconsumer.fi sells lainat, ajoneuvo-
+        # rahoitus, osamaksu ja leasing — EI kuluttajan luottokorttia. /luottokortti
+        # palauttaa 200 mutta on soft-404 (sama navigaatiorunko kuin etusivulla, ei
+        # korttisisältöä). Tutkimusagentti väitti "Santander Visa Classic" — sitä ei
+        # voitu vahvistaa yhtiön omilta sivuilta, joten sitä ei julkaista.
     ],
     # EXCLUDED (verified 16.7.2026): Handelsbanken (poistui Suomen vähittäispankki-
     # toiminnasta; arvopaperipalvelut päättyivät 31.5.2024), Avanza (uusi tili vaatii
@@ -155,18 +158,26 @@ COMPANIES = {
              omistaja="OP Osuuskunta — jäsenten omistama"),
         dict(slug="nordea-sijoitus", nimi="Nordea", domain="nordea.fi", y_tunnus="2858394-9",
              omistaja="Nordea Bank Abp — pääkonttori Helsingissä 2018 alkaen"),
-        dict(slug="s-pankki-sijoitus", nimi="S-Pankki", domain="s-pankki.fi", y_tunnus="2557308-3",
-             omistaja="SOK / S-ryhmän osuuskaupat"),
+        # S-Pankki DROPPED 16.7.2026: sen sijoitussivuilta löytyy vain RAHASTOJA — ei
+        # osakekauppaa eikä arvo-osuustiliä (varmistettu s-pankki.fi/fi/sijoittaminen).
+        # Sama sääntö kuin eQ:lla ja Seligsonilla: rahastoyhtiö ei kuulu
+        # osakekauppa-alustojen vertailuun. Johdonmukaisuus > listan pituus.
         dict(slug="danske-sijoitus", nimi="Danske Bank", domain="danskebank.fi", y_tunnus="1078693-2",
              omistaja="Danske Bank A/S (Tanska) — Suomen sivuliike"),
-        dict(slug="alexandria", nimi="Alexandria", domain="alexandria.fi", y_tunnus="1063450-9",
-             omistaja="Alexandria Group Oyj — itsenäinen, Helsingin pörssi"),
+        # Alexandria DROPPED 16.7.2026: varainhoitotalo, ei itsepalveluosakekauppaa
+        # (varmistettu alexandria.fi — vain varainhoito, rahastot, sijoitusneuvojat;
+        # ei osakekauppaa, arvo-osuustiliä eikä kaupankäyntiä). Sama sääntö kuin
+        # S-Pankilla, eQ:lla ja Seligsonilla.
         dict(slug="evli", nimi="Evli", domain="evli.com", y_tunnus="3239286-2",
              omistaja="Evli Oyj — itsenäinen (2022 jakautuminen)"),
         dict(slug="mandatum-trader", nimi="Mandatum Trader", domain="mandatumtrader.fi", y_tunnus="0641130-2",
              omistaja="Mandatum Oyj — irtautui Sampo-konsernista 1.10.2023; kaupankäyntiteknologia Saxo Bankilta"),
+        # Saxo has a registered Finnish branch (Y-tunnus PRH-verified), which is why it
+        # stays while IBKR/Revolut/Lightyear are excluded — those have no Finnish entity
+        # at all. But home.saxo/fi-fi 404s: a Finnish branch with no Finnish-language
+        # site. That is a real finding, not a reason to drop it.
         dict(slug="saxo", nimi="Saxo Bank", domain="home.saxo", y_tunnus="2927844-4",
-             omistaja="Saxo Bank A/S (Tanska) — Suomen sivuliike"),
+             omistaja="Saxo Bank A/S (Tanska) — Suomen sivuliike; ei suomenkielistä sivustoa"),
     ],
     # EXCLUDED (verified 16.7.2026): Atlas VPN (Nord Security LOPETTI 24.4.2024,
     # asiakkaat siirrettiin NordVPN:ään), Zenmate (Kape sulautti CyberGhostiin 2023),
@@ -213,8 +224,10 @@ COMPANIES = {
              omistaja="Multim Oy — itsenäinen suomalainen (Merikarvia); myös Tavu Cloud ja VPSfinland"),
         dict(slug="seravo", nimi="Seravo", domain="seravo.com", y_tunnus="2392019-2",
              omistaja="Seravo Oy — itsenäinen suomalainen (Tampere)"),
-        dict(slug="capnova", nimi="Capnova", domain="capnova.fi", y_tunnus="1761337-2",
-             omistaja="Moment Digital Oy — itsenäinen suomalainen; myös Domainmaailma"),
+        # Capnova DROPPED 16.7.2026: capnova.fi (and domainmaailma.fi) now redirect away
+        # to glesys.fi — a Swedish host. Lighthouse happily measured glesys.fi and
+        # labelled it "capnova", i.e. we would have published another company's website
+        # under Capnova's name. The brand no longer sells hosting under its own site.
         dict(slug="kotisivut", nimi="Kotisivut.com", domain="kotisivut.com", y_tunnus="3561966-3",
              omistaja="Mediam Oy — itsenäinen suomalainen"),
         dict(slug="hostaan", nimi="Hostaan", domain="hostaan.fi", y_tunnus="2950656-6",

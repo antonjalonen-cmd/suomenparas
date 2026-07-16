@@ -1,0 +1,30 @@
+{
+ "slug": "dna",
+ "fetched_ok": ["https://dna.fi", "https://dna.fi/liittymat", "https://dna.fi/hinnasto", "https://dna.fi/asiakaspalvelu", "https://dna.fi/yhteystiedot", "https://corporate.dna.fi/fi", "https://dna.fi/dnakaupat", "https://dna.fi/prepaid", "https://corporate.dna.fi/yrityksena/yleistietoa/yhteystiedot", "https://dna.fi/tuki"],
+ "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+ "kampanjan_jalkeinen_hinta": "kylla",
+ "sopimusaika_ja_irtisanomisaika": "osittain",
+ "nopeus_ja_datarajat": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "0592509-6",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "0800 550044",
+ "email_esilla": "osittain",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 19.99,
+ "nopein_mbps": 1000,
+ "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 70},
+ "vahvuudet": ["Hinnat näkyvät selvästi ilman kirjautumista", "Laaja palveluvalikoima puhelinliittymistä (Mini-tasosta 5G 1000M:iin)", "Kampanjan jälkeinen hinta kerrottu selkeästi jokaisen tarjouksen yhteydessä"],
+ "kehityskohteet": ["Irtisanomisaikaa ja sopimuksen peruutusperiaatteita ei löydy julkisesti", "Sähköpostiosoite näkyy vain kaavamaisesti eikä ole klikkauksen päässä", "Kauppojen aukioloajat edellyttävät interaktiivista karttatyökalua"],
+ "yhteenveto": "DNA Oyj on Telenor-omistama suomalainen tietoliikenneyritys, joka tarjoaa laajan valikoiman puhelinliittymiä 5G-palveluista prepaid-vaihtoehtoihin. Hinnat (19.99–48.99 €/kk) ja nopeudet (10–1000 Mbps) näkyvät selkeästi liittymät-sivulla, ja kampanjoiden jälkeiset hinnat on kerrottu avoimesti. Asiakaspalvelu tavoitettavissa puhelimella ja chatilla, mutta irtisanomisaikoja koskevat tiedot puuttuvat julkisista sivuista.",
+ "evidence": {
+  "kk_hinta_esilla_ilman_yhteystietoja": "DNA Huoleton Plus Mini -liittymä (19.99 €/kk), DNA Huoleton Plus 20M (26.99 €/kk ensimmäiset 12 kk), DNA Huoleton Plus 5G 400M (34.99 €/kk kampanja-aikana) ja muut hinnat näkyvät dna.fi/liittymat-sivulla kirjautumatta.",
+  "kampanjan_jalkeinen_hinta": "DNA Huoleton Plus 20M näyttää 26.99 €/kk 12 kuukautta, sitten 30.99 €/kk. DNA Huoleton Plus 5G 400M näyttää 34.99 €/kk 12 kuukautta, sitten 40.99 €/kk. Kampanjahintojen jälkeiset säännölliset hinnat kerrotaan selvästi.",
+  "sopimusaika_ja_irtisanomisaika": "Sopimuksen kesto ilmenee: DNA Huoleton Plus Mini ilman sopimusta, muut tarjoukset 12 kuukauden kampanjajaksoilla. Irtisanomisaikaa koskevaa tietoa ei löydy julkisista sivuista (dna.fi/sopimusehdot palautti 404-virheen)."
+ }
+}

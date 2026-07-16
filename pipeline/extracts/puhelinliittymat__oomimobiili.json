@@ -1,0 +1,42 @@
+{
+ "slug": "oomimobiili",
+ "fetched_ok": ["https://oomi.fi/mobiili/", "https://oomi.fi/mobiili/puhelinliittymat/", "https://oomi.fi/asiakaspalvelu/"],
+ "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+ "kampanjan_jalkeinen_hinta": "ei",
+ "sopimusaika_ja_irtisanomisaika": "kylla",
+ "nopeus_ja_datarajat": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "osittain",
+ "puhelin": null,
+ "email_esilla": "osittain",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "osittain",
+ "halvin_kk_hinta_eur": 19.99,
+ "nopein_mbps": 600,
+ "ai_arviot": {
+   "selkeys": 85,
+   "hintojen_loydettavyys": 90,
+   "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+   "Hinnat näkyvät selvästi ilman rekisteröintiä, neljä vaihtoehtoista pakettia eri nopeuksilla ja tarpeisiin",
+   "Sopimusehdot transparentit: ei määräaikaa, rajattomat puhelut ja netti Suomessa, selkeät EU-data-rajat",
+   "Keskittämisetu sähkölaskussa (30–96 €/vuosi) integroitu selvästi tarjouksiin, verkkovalinnan vapaus DNA/Telia"
+ ],
+ "kehityskohteet": [
+   "Y-tunnus, yrityksen rekisteröintinumero ja laillinen yritysmuoto puuttuvat; yhtä mieltä Oomi Oy:n oikeudesta",
+   "Puhelinnumero ja sähköpostiosoite eivät näy tarjousissa, vain chat-linkki; kontaktitiedot hajautettu muille sivuille",
+   "Asiakastyytyväisyysarvioita (Trustpilot, EPSI Rating) ei ole linkitetty; referenssit rajoittuvat omiin \"Asiakkaidemme kokemuksiin\""
+ ],
+ "yhteenveto": "Oomi Mobiili on Suomen sähköyhtiö Oomin mobiilioperaattoripalvelu. Hinnoittelu on läpinäkyvä ja helposti löydettävissä: neljä pakettia (4G 10M / 4G 100M / 5G 300M / 5G 600M) 19,99–29,99 €/kk, kaikki määräaikaisia sopimuksettomia, rajattomilla puheluilla ja netillä Suomessa sekä 30–50 GB EU-datalla. Sivusto esittelee selkeästi tekniset rajat ja keskittämisedun sähköasiakkaille. Puutteet: laillisen yrityksen tunnistautuminen, suorat kontaktitiedot (vain chat ja lomakepyyntö), sekä kolmannen osapuolen asiakastyytyväisyysmittaukset.",
+ "evidence": {
+   "kk_hinta_esilla_ilman_yhteystietoja": "Hinnasto näkyy suoraan puhelinliittymät-sivulla (oomi.fi/mobiili/puhelinliittymat/) ilman kirjautumista: Oomi Mobiili 4G 10M 19,99 €/kk, 4G 100M 21,99 €/kk, 5G 300M 26,99 €/kk, 5G 600M 29,99 €/kk. Avausmaksu 5 € jokaiselle.",
+   "kampanjan_jalkeinen_hinta": "Sivulla ei mainita aikarajoitettuja kampanjoita tai promootioita. Kaikki listatut hinnat näyttävät olevan vakiohinnoittelua ilman kampanja-ajanjaksoa.",
+   "sopimusaika_ja_irtisanomisaika": "Selkeästi ilmoitettu: 'Sopimuksella ei määräaikaa' ja 'Oomi Mobiilin liittymät ovat tällä hetkellä aina toistaiseksi voimassa olevia.' Asiakkaiden osassa mainitaan 'Voit hallita liittymää OmaOomissa ja irtisanoa sen milloin vain.' Irtisanomisaika ei ole eksplisiittisesti mainittu (oletusoletus: toistaiseksi voimassa, joten ilmoitus tarvitaan)."
+ }
+}

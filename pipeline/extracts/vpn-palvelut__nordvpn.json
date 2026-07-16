@@ -1,0 +1,48 @@
+{
+ "slug": "nordvpn",
+ "fetched_ok": [
+  "https://nordvpn.com/fi/",
+  "https://nordvpn.com/fi/pricing/",
+  "https://nordvpn.com/en/about-us/",
+  "https://nordvpn.com/fi/features/no-log-vpn/"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "osittain",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 3.49,
+ "ai_arviot": {
+  "selkeys": 80,
+  "hintojen_loydettavyys": 75,
+  "sisallon_kattavuus": 70
+ },
+ "vahvuudet": [
+  "Hinnoittelu näkyy selvästi etusivulla ilman kirjautumista; Basic-palvelun hinta 3,49 €/kk tarjouksena",
+  "Suomenkielinen sivusto kattavasti tarjolla kaikissa pääsivuissa (etusivu, hinnoittelu, ominaisuudet, lataus)",
+  "No-logs / \"Ei käyttäjien seurantaa\" -ominaisuus on selvästi korostettu päänavigaatiossa ja omalla ominaisuussivulla"
+ ],
+ "kehityskohteet": [
+  "Uusimishinta ei ole näkyvillä hinnoittelusivulla; vain alkuperäinen sopimushinta näytetään, ei säännöllisen tilauksen kustannusta",
+  "Omistaja-yhteisö (Nord Security / Cyberspace B.V.) ei ole selvästi mainittu pääsivuilla; vaatii englanninkielisen about-sivun tutkimista",
+  "Yhteydenottokeinot puuttuvat: ei puhelinnumeroa, ei sähköpostiosoitetta etusivulla, vain \"Tukikeskus\" -linkki ulkoisen sivuston omistukseen"
+ ],
+ "yhteenveto": "NordVPN on suomalaisittain katsottuna hyvin saavutettava VPN-palvelu, jolla on täysin suomalainen sivusto ja selvästi näkyvä hinnoittelu ilman tilin luomista. Palvelu korostaa no-logs-politiikkaansa ja tarjoaa mobiilisovelluksia. Kuitenkin sivustolta puuttuu uusimishinnan maininta (mahdollinen pimeä kaava), omistajayhteys ei ole selvillä suomen sivuilla, ja itsenäistä auditointia ei mainita. Oikeuslainkäyttöalue ja suora asiakastuki eivät ole näkyvillä.",
+ "evidence": {
+  "omistaja_kerrottu": "Nord Security ja ylempi omistaja Cyberspace B.V. eivät ole näkyvillä Suomen sivuston pääsivuilla; englanninkieliselle about-sivulle ei pystytty täysin pääsemään tarvittavasta sisällöstä.",
+  "uusimishinta_kerrottu": "Säästöt: tutustumis- vs uusimishinnat. Uusitaan hintaan 139,08 €/vuosi",
+  "lokikaytanto_kerrottu": "Sivuston päänavigaatiossa on ominaisuuslinkit \"Ei käyttäjien seurantaa\" ja \"no-log-vpn\" -ominaisuussivu, johon pääsy onnistui, mutta yksityiskohtainen politiikkateksti ei kokonaan ladattu.",
+  "lainkayttoalue_kerrottu": "NordVPN toimii Panamasta käsin, jotta se voi suojata yksityisyyttäsi",
+  "riippumaton_auditointi": "neljäs arviointi vuonna 2023, viides 2024 ja kuudes 2025 suoritti Deloitte"
+ },
+ "korjattu_selaimella": "Cloudflare esti agentin — kolme kohtaa varmistettu käsin oikealla selaimella 16.7.2026 ja korjattu ylöspäin."
+}

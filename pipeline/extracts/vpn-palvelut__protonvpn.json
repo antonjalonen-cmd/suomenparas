@@ -1,0 +1,47 @@
+{
+ "slug": "protonvpn",
+ "fetched_ok": [
+  "https://protonvpn.com",
+  "https://protonvpn.com/fi",
+  "https://protonvpn.com/fi/pricing",
+  "https://protonvpn.com/fi/about",
+  "https://protonvpn.com/fi/blog/no-logs-audit"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "lainkayttoalue_kerrottu": "kylla",
+ "lokikaytanto_kerrottu": "kylla",
+ "riippumaton_auditointi": "kylla",
+ "suomenkielinen_sivu": "kylla",
+ "puhelin_esilla": "ei",
+ "puhelin": null,
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_kk_hinta_eur": 2.99,
+ "ai_arviot": {
+  "selkeys": 92,
+  "hintojen_loydettavyys": 95,
+  "sisallon_kattavuus": 90
+ },
+ "vahvuudet": [
+  "Erittäin selkeä hinnoittelu, uusintahinnat näkyvät suoraan maksupohjassa ja myös teksti kertoo täsmälleen mihin hintaan uusitaan",
+  "Omistajuus ja hallinnollinen rakenne julkisesti selkeästi kerrottu: Proton AG (Sveitsi) jonka pääosakkeenomistaja on voittoa tavoittelematon Proton Foundation",
+  "Riippumattomasti auditoitu lokikäytäntö: Securitum on tehnyt 5 peräkkäistä vuosittaista tarkastusta (2022-2026) kattavasti verifioimalla ettei palvelu säilytä käyttäjädataa, DNS-kyselyitä tai yhteyden metatietoja"
+ ],
+ "kehityskohteet": [
+  "Puhelinnumeroa ei ole julkisesti näkyvissä (vain live-chat ja sähköpostiyhteys saatavilla asiakkaille)",
+  "Aukioloaikoja ei ilmoiteta asiakastukijärjestelmälle, vaikka live-chat on mainittu asiakkaille",
+  "Verohallinnollista käyttöalueita (kuten 5/9/14-Eyes-sopimuksia) ei käsitellä sivustolla, vaikka Sveitsin sijainti mainitaan yksityisyyden kannalta"
+ ],
+ "yhteenveto": "Proton VPN on Sveitsissä (Genève) sijaitseva VPN-palvelu, jonka omistaa Proton Foundation -säätiö. Palvelun hinnoittelu on täysin läpinäkyvä: hinnat ja uusintahinnat esillä ilman kirjautumista, avoimesti kerrotut yritysomistajat, ja nimenomaisesti nimetty Securitum-tarkastaja on vahvistanut 5 peräkkäisenä vuonna että palvelu noudattaa tiukkaa lokitonta käytäntöä. Sivusto saatavilla suomeksi.",
+ "evidence": {
+  "omistaja_kerrottu": "Sivustolle kirjoitettu Proton AG, Geneva Switzerland osoitteella Route de la Galaise 32. About-sivulla kerrotaan että Proton Foundationin (voittoa tavoittelematon) on pääosakkeenomistaja, eikä yrityksellä ole pääomasijoittajia.",
+  "uusimishinta_kerrottu": "Hintasivulla selvästi näkyvät sekä intro-hinnat että uusintahinnat: VPN Plus 2-vuoden tilaus laskutetaan 71,76€ 24 kuukaudelle, minkä jälkeen uusitaan hintaan 83,88€ per 12 kuukautta (6,99€/kk). Proton Unlimited vastaavasti 191,76€ → 119,88€/vuosi.",
+  "lokikaytanto_kerrottu": "No-logs audit -blogiartikkeli dokumentoi erittäin yksityiskohtaisesti mitä palvelu EI tallenna: käyttäjätoimintaa, IP-osoitteita, sijainteja, DNS-kyselyitä, istuntojen aikaleimoja, verkkoliikennettä, sivustojen tai palveluin seurantaa, tai tietoja jotka yhdistävät käyttäjät VPN-palvelimiin. Securitumin tarkastusraportit saatavilla pdf-muodossa vuosilta 2022-2026.",
+  "riippumaton_auditointi": "Securitum (johtava eurooppalainen tietoturvatarkastusyritys, securitum.pl) on suorittanut vuosittain tarkastuksen viisi peräkkäisenä vuonna (2022-2026). Raportit ovat julkisesti luettavissa Protonin verkkosivuilla."
+ }
+}

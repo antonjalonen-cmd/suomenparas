@@ -1,0 +1,38 @@
+{
+ "slug": "gigamobiili",
+ "fetched_ok": ["https://gigamobiili.fi", "https://gigamobiili.fi/en"],
+ "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+ "kampanjan_jalkeinen_hinta": "kylla",
+ "sopimusaika_ja_irtisanomisaika": "osittain",
+ "nopeus_ja_datarajat": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "3505729-3",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "+358 45 7735 3535",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "halvin_kk_hinta_eur": 21.99,
+ "nopein_mbps": 600,
+ "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 50},
+ "vahvuudet": [
+  "Selkeät kuukausihinnät ja neljä tasoa - helppo vertailla nopeuden mukaan",
+  "Kampanjahintaan nähden normaalit hinnat näkyvät - ei piiloituja korotuksia",
+  "Nopeus ja EU-dataraja ilmoitettu jokaiselle paketille"
+ ],
+ "kehityskohteet": [
+  "Sopimusajan ja irtisanomisajan puuttuminen päätietosivulla",
+  "Sähköpostiyhteyden puute - vain puhelinpalvelu ja Giga-tili saatavilla",
+  "Asiakasarvioidenvaatimus - uudelle palvelulle ei vielä arviointeja"
+ ],
+ "yhteenveto": "Giga Mobiili on DNA:n verkolla toimiva uusi (2025) puhelinliittymäpalvelu, joka tarjoaa neljä pakettia hinnoilla €21,99–€37,99. Hinnoitus on erittäin selkeä, kampanjahintoineen näkyvät, ja tekniset spesifikaatiot (nopeus, EU-data) on ilmoitettu. Puutteita on sopimusehtojen ja irtisanomisaikojen näkyvyydessä - ne viitataan löytyvän, mutta allekirjoitetuissa ehdoissa olevat sivut eivät ole julkisesti saavutettavissa.",
+ "evidence": {
+  "kk_hinta_esilla_ilman_yhteystietoja": "Kaikki neljä pakettia näyttävät kuukausihinnalla sivuston etusivulla: Pikkujärki €21,99/kk, Perusjärki €24,99/kk, Arkijärki €26,99/kk, Huippujärki €37,99/kk. Ei vaadi kirjautumista tai yhteystietoja.",
+  "kampanjan_jalkeinen_hinta": "Hinnat ilmoitetaan sekä kampanja- että normaalihintana: esim. Pikkujärki €21,99 (normally €23,99) 12-kuukauden promotiohinnalla. Postimerkintä '*12-month promotional rates' selventää ajankohdan.",
+  "sopimusaika_ja_irtisanomisaika": "Etusivulla ei ole mainittu sopimusaikoja tai irtisanomisaikoja. Sivusto viittaa 'Ehdot, palvelukuvaukset ja käytännöt' -osioon, mutta kyseiset sivut eivät ole julkisesti saavutettavissa (404 errors)."
+ }
+}

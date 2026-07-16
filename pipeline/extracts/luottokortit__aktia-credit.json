@@ -1,0 +1,28 @@
+{
+ "slug": "aktia-credit",
+ "fetched_ok": ["https://www.aktia.fi", "https://www.aktia.fi/kortit", "https://www.aktia.fi/hinnasto", "https://www.aktia.fi/asiakaspalvelu", "https://www.aktia.fi/usein-kysytyt-kysymykset", "https://www.aktia.fi/fi/aktia-credit"],
+ "korko_ja_vuosikorko_esilla": "kylla",
+ "vuosimaksu_esilla": "kylla",
+ "muut_kulut_esilla": "osittain",
+ "luotonmyontaja_kerrottu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "2181702-8",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla", "puhelin": "010 247 010 (ma-pe 8-18), +358 800 0 2477 (24/7 korttien sulkupalvelu)",
+ "email_esilla": "ei", "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla", "ukk_osio": "kylla", "mobiilisovellus": "kylla",
+ "todellinen_vuosikorko_pct": 24.36,
+ "vuosimaksu_eur": 60,
+ "korttityyppi": "luottokortti",
+ "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 70, "sisallon_kattavuus": 65},
+ "vahvuudet": ["Selkeä vuosikorko-esimerkki (24,36 %) ja marginaali (9,75 %) tuotesivulla näkyvä", "Maksutonta matkaturvavakuutusta sisältyy, kun 75 % matkakuluista maksettu kortilla", "24/7 korttien sulkupalvelu ja Aktiabot-chatbot-tuki ympäri vuorokauden saatavilla"],
+ "kehityskohteet": ["Käteisnostopalkkiota, viivästyskorkoa ja muita keskeisiä maksuja ei ilmaista julkisesti — tiedot vain PDF-ehdoissa", "Vuosimaksu (5 €/kk) näkyy tuotesivulla, mutta pääkorttisivulla hintavertailua ei ole saatavilla", "Riippumattomia asiakasarvioita (Trustpilot, EPSI) ei ole saatavilla"],
+ "yhteenveto": "Aktian luottokortti tarjoaa selkeät korkomarginaalit (9,75 %) ja vuosikoron esimerkin (24,36 %). Asiakaspalvelut ovat saavutettavissa monilla kanavilla, mukaan lukien 24/7-chatbot ja puhelintuki. Kuitenkin keskeiset maksut kuten käteisnostopalkkio ja myöhästymiskorko piilevät PDF-ehdoissa, eivätkä ole näkyvissä ilman lataamista, mikä heikentää hintojen löydettävyyttä.",
+ "evidence": {
+  "korko_ja_vuosikorko_esilla": "Tuotesivulla (https://www.aktia.fi/fi/aktia-credit) esitetty marginaali 9,75 % sekä edustava vuosikorko 24,36 % (€2 000 luotto 12 kuukauden käyttö, 3 kk Euribor 2,245 %).",
+  "vuosimaksu_esilla": "Kuukausipalkkio €5,00 ja tiliottopalkkio €4,50 tiliotteen kohdalla ilmoitettu tuotesivulla. Kuukausipalkkio muodostaa €60 vuodessa.",
+  "muut_kulut_esilla": "Valuutanvaihto-lisä 2,90 % ilmaistaan tuotesivulla. Paperisen tiliotteen maksu €3,00 mainitaan (ilmainen e-tilioton kanssa). Käteisnostopalkkiota tai viivästyskorkoa ei ilmaista julkisilla sivuilla, vain PDF-ehdoissa.",
+  "luotonmyontaja_kerrottu": "Aktia Pankki Oyj identifioitu pääsivulla pankkipalvelun tarjoajana. Toiminta selvästi luotonmyöntäjänä, ei kolmannen osapuolen kortti."
+ }
+}
