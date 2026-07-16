@@ -8,15 +8,22 @@
 <meta name="description" content="Telia: pisteet, vahvuudet ja kehityskohteet. Katso mistä jokainen piste tulee — mittari mittarilta.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="../../../assets/favicon.png">
-<link rel="stylesheet" href="../../../assets/style.css?v=12">
-<script src="../../../assets/app.js?v=12" defer></script>
+<link rel="stylesheet" href="../../../assets/style.css?v=13">
+<script src="../../../assets/app.js?v=13" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="../../../"><img src="../../../assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
     <nav class="main">
-      <a href="../../../lainavertailu/">Lainat</a><a href="../../../vakuutukset/">Vakuutukset</a><a href="../../../sahkosopimukset/">Sähkö</a><a href="../../../laajakaista/" class="on">Laajakaista</a>
+      <div class="navdd on-cat" id="navdd">
+        <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailut <span class="car">▼</span></button>
+        <div class="navdd-panel">
+          <a href="../../../lainavertailu/">Lainavertailu<span class="n">9</span></a><a href="../../../vakuutukset/">Vakuutukset<span class="n">7</span></a><a href="../../../sahkosopimukset/">Sähkösopimukset<span class="n">9</span></a><a href="../../../laajakaista/" class="on">Laajakaista<span class="n">9</span></a>
+          <hr>
+          <a class="all" href="../../../kategoriat/">Kaikki 67 kategoriaa →</a>
+        </div>
+      </div>
       <a href="../../../kategoriat/">Kaikki kategoriat</a>
       <a href="../../../metodologia/">Näin pisteytämme</a>
     </nav>

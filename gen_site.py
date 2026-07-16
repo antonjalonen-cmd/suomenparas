@@ -136,10 +136,25 @@ header.site .wrap{display:flex;align-items:center;gap:24px;height:66px}
 .brand img{width:46px;height:46px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25));transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
 .brand:hover img{transform:rotate(-8deg) scale(1.08)}
 .brand .tm{color:var(--gold-line)}
-nav.main{display:flex;gap:22px;margin-left:auto}
+nav.main{display:flex;gap:22px;margin-left:auto;align-items:center}
 nav.main a{color:#DCE8FC;font-weight:800;font-size:.95rem}
 nav.main a:hover{color:#fff;text-decoration:none}
 nav.main a.on{color:var(--gold-line)}
+/* Category dropdown — a flat nav stopped fitting at 5+ categories (roadmap is 67). */
+.navdd{position:relative}
+.navdd-btn{background:none;border:0;padding:0;cursor:pointer;color:#DCE8FC;font-family:inherit;font-weight:800;font-size:.95rem;display:flex;align-items:center;gap:5px}
+.navdd-btn:hover,.navdd.open .navdd-btn{color:#fff}
+.navdd.on-cat .navdd-btn{color:var(--gold-line)}
+.navdd-btn .car{font-size:.62rem;transition:transform .18s}
+.navdd.open .navdd-btn .car{transform:rotate(180deg)}
+.navdd-panel{display:none;position:absolute;top:calc(100% + 12px);right:0;min-width:250px;background:var(--card);border:2.5px solid var(--ink);border-radius:10px;box-shadow:5px 6px 0 rgba(20,33,63,.22);padding:7px;z-index:60}
+.navdd.open .navdd-panel{display:block}
+.navdd-panel a{display:flex;justify-content:space-between;align-items:center;gap:12px;color:var(--ink);font-size:.9rem;font-weight:700;padding:8px 10px;border-radius:6px}
+.navdd-panel a:hover{background:var(--blue-soft);text-decoration:none}
+.navdd-panel a.on{background:var(--gold-soft)}
+.navdd-panel .n{font-family:'IBM Plex Mono',monospace;font-size:.72rem;font-weight:600;color:var(--mut)}
+.navdd-panel hr{border:0;border-top:1.5px solid var(--line);margin:6px 4px}
+.navdd-panel .all{color:var(--blue-deep)}
 .demo-ribbon{background:var(--ink);color:var(--gold-line);text-align:center;font-size:.8rem;font-weight:800;padding:6px 12px;letter-spacing:.03em}
 /* hero */
 .hero{background:linear-gradient(170deg,var(--blue) 0%,var(--blue-deep) 78%,#173F87 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
@@ -362,9 +377,11 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   header.site .wrap{flex-wrap:wrap;height:auto;padding:9px 16px 8px;gap:5px 16px}
   .brand{font-size:1.1rem}
   .brand img{width:38px;height:38px}
-  nav.main{margin-left:0;width:100%;gap:18px;overflow-x:auto;font-size:.86rem;-webkit-overflow-scrolling:touch;scrollbar-width:none}
-  nav.main::-webkit-scrollbar{display:none}
-  nav.main a{white-space:nowrap;padding:2px 0}
+  /* No overflow-x here: it would clip the category dropdown panel. The nav is only
+     3 items now that categories live behind the dropdown, so it fits without scrolling. */
+  nav.main{margin-left:0;width:100%;gap:18px;font-size:.86rem}
+  nav.main a,.navdd-btn{white-space:nowrap;padding:2px 0}
+  .navdd-panel{right:auto;left:0;min-width:min(250px,calc(100vw - 32px))}
   .demo-ribbon{font-size:.7rem;padding:5px 10px}
   .hero{padding:34px 0 44px}
   .hero-logo{width:96px;height:96px;margin-bottom:14px}
@@ -392,6 +409,26 @@ FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="p
 APP_JS = r"""
 (function(){
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Category dropdown. Click to toggle (works on touch); closes on outside click or Esc.
+  var dd = document.getElementById('navdd');
+  if (dd) {
+    var btn = dd.querySelector('.navdd-btn');
+    var setOpen = function(open){
+      dd.classList.toggle('open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    };
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      setOpen(!dd.classList.contains('open'));
+    });
+    document.addEventListener('click', function(e){
+      if (!dd.contains(e.target)) setOpen(false);
+    });
+    document.addEventListener('keydown', function(e){
+      if (e.key === 'Escape') setOpen(false);
+    });
+  }
 
   // Pillar bars: remember target width, start from zero, animate when visible
   var bars = document.querySelectorAll('.bar i');
@@ -524,15 +561,22 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=12">
-<script src="{root}assets/app.js?v=12" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=13">
+<script src="{root}assets/app.js?v=13" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
     <nav class="main">
-      {"".join(f'<a href="{root}{v["slug"]}/"{on(v["slug"])}>{esc(v["nav"])}</a>' for v in VERTICALS)}
+      <div class="navdd{' on-cat' if active in LIVE_SLUGS else ''}" id="navdd">
+        <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailut <span class="car">▼</span></button>
+        <div class="navdd-panel">
+          {"".join(f'<a href="{root}{v["slug"]}/"{on(v["slug"])}>{esc(v["nimi"])}<span class="n">{len(v["yritykset"])}</span></a>' for v in VERTICALS)}
+          <hr>
+          <a class="all" href="{root}kategoriat/">Kaikki {TOTAL_CATS} kategoriaa →</a>
+        </div>
+      </div>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
       <a href="{root}metodologia/"{on('metodologia')}>Näin pisteytämme</a>
     </nav>

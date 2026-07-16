@@ -2,6 +2,26 @@
 (function(){
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  // Category dropdown. Click to toggle (works on touch); closes on outside click or Esc.
+  var dd = document.getElementById('navdd');
+  if (dd) {
+    var btn = dd.querySelector('.navdd-btn');
+    var setOpen = function(open){
+      dd.classList.toggle('open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    };
+    btn.addEventListener('click', function(e){
+      e.stopPropagation();
+      setOpen(!dd.classList.contains('open'));
+    });
+    document.addEventListener('click', function(e){
+      if (!dd.contains(e.target)) setOpen(false);
+    });
+    document.addEventListener('keydown', function(e){
+      if (e.key === 'Escape') setOpen(false);
+    });
+  }
+
   // Pillar bars: remember target width, start from zero, animate when visible
   var bars = document.querySelectorAll('.bar i');
   bars.forEach(function(b){ b.dataset.w = b.style.width; if (!reduce) b.style.width = '0%'; });
