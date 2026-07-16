@@ -1,0 +1,53 @@
+{
+ "slug": "turva",
+ "hintalaskuri_ilman_yhteystietoja": "osittain",
+ "vakuutusehdot_saatavilla": "kylla",
+ "omavastuu_selkeasti": "ei",
+ "korvausprosessi_kuvattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {
+  "arvosana": null,
+  "maara": null,
+  "lahde": "EPSI Rating"
+ },
+ "puhelin_esilla": "kylla",
+ "puhelin": "010195110",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "vakuutuslajit": [
+  "koti",
+  "auto",
+  "matka",
+  "terveys",
+  "lemmikki",
+  "vene",
+  "metsä",
+  "vastuuvakuutus"
+ ],
+ "ai_arviot": {
+  "selkeys": 70,
+  "hintojen_loydettavyys": 60,
+  "sisallon_kattavuus": 65
+ },
+ "vahvuudet": [
+  "Selkeä korvausvakuutusprosessi arvioiduilla käsittelyajoilla",
+  "Laaja vakuutustarjonta yksityisasiakkaille ja yrityksille",
+  "TaskuTurva-mobiilisovellus korvausten ja vahinkoilmoituksien hallintaan"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus ei näkyvissä julkisella verkkosivulla",
+  "Omavastuut (omavastuusummat) eivät ole selkeästi määritellyt",
+  "Suora sähköpostiosoite asiakaspalvelulle puuttuu"
+ ],
+ "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa laajan valikoiman henkilö- ja yritystakuita. Verkkosivusto on selkeästi rakennettu tuotekategorioiden mukaan, ja korvauspalvelu on hyvin dokumentoitu arvioiduilla käsittelyajoilla. Hintalaskuri on saatavilla, mutta vaatii vakuutettavan tietojen antamisen. Puuttuvia tietoja ovat omavastuut, Y-tunnus ja suora sähköpostiosoite.",
+ "evidence": {
+  "hintalaskuri_ilman_yhteystietoja": "Laske hinta ja osta auton vakuutus verkosta",
+  "omavastuu_selkeasti": "Ei löydetty omavastuu-tietoja verkkosivuilla",
+  "riippumaton_arvio": "Toinen sija vakuutusalan asiakastyytyväisyysvertailussa (EPSI Rating)"
+ }
+}

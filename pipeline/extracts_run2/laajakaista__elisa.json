@@ -1,0 +1,52 @@
+{
+ "slug": "elisa",
+ "kk_hinta_esilla_ilman_yhteystietoja": "osittain",
+ "kampanjan_jalkeinen_hinta": "osittain",
+ "sopimusaika_ja_avausmaksu": "osittain",
+ "saatavuustarkistus_ilman_yhteystietoja": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {
+  "arvosana": null,
+  "maara": null,
+  "lahde": null
+ },
+ "puhelin_esilla": "kylla",
+ "puhelin": "010 190 240",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "tekniikat": [
+  "kuitu",
+  "kaapeli",
+  "5g",
+  "vdsl2",
+  "g.fast"
+ ],
+ "halvin_kk_hinta_eur": 40.99,
+ "nopein_mbps": 1000,
+ "ai_arviot": {
+  "selkeys": 65,
+  "hintojen_loydettavyys": 40,
+  "sisallon_kattavuus": 70
+ },
+ "vahvuudet": [
+  "Laaja palvelutarjonta (fiber, kaapeli, 5G)",
+  "Saatavuuden tarkistus ilman yhteystietoja",
+  "24/7 vian raportointi- ja asiakaspalvelu"
+ ],
+ "kehityskohteet": [
+  "Kuukausihinnat vaativat osoitteen syöttämistä",
+  "Kampanjahinnan jälkeinen hinta epäselvä",
+  "Itsenäisiä arvosteluja ei näkyvillä"
+ ],
+ "yhteenveto": "Elisa Oyj on suuri kotimainen operaattori, joka tarjoaa kiinteää laajakaistaa (kuitu, kaapeli) ja 5G-pohjaista kotiverkkopalvelua. Yrityksen verkkosivut korostavat palvelun saatavuuden tarkistamista, mutta kuukausihinnat ja sopimustiedot ovat osittain piilotetty osoitteen sisäänantamisen taakse. Laaja teknologia-valikoima ja hyvä asiakaspalvelu ovat vahvuuksia, mutta hintojen löydettävyys ja kampanjahintojen avoimuus vaativat parannusta.",
+ "evidence": {
+  "kk_hinta_esilla_ilman_yhteystietoja": "5G kotinetti: \"alkaen 40,99 €/kk\" (laitteiden kanssa); fiber-hinnat vaativat osoitteen syöttämistä saatavuuden tarkistuksessa",
+  "kampanjan_jalkeinen_hinta": "5G kotinetti näyttää perushintaa, mutta kampanjahintoja tai normaalihinnan eroa ei selvästi ilmoiteta",
+  "sopimusaika_ja_avausmaksu": "5G kotinetti: \"Avausmaksu 499 €\" ja \"voidaan maksaa 60 kuukauden ajan korkovapaasti\"; sopimuskesto ei näkyvillä"
+ }
+}
