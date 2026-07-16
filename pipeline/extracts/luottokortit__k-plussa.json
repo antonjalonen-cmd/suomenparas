@@ -1,0 +1,51 @@
+{
+ "slug": "k-plussa",
+ "fetched_ok": [
+  "https://plussamaksuaika.fi/",
+  "https://www.op.fi/en/private-customers/daily-banking/cards/k-plussa-maksuaika"
+ ],
+ "korko_ja_vuosikorko_esilla": "kylla",
+ "vuosimaksu_esilla": "kylla",
+ "muut_kulut_esilla": "kylla",
+ "luotonmyontaja_kerrottu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "y_tunnus": "0751699-0",
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {
+  "arvosana": 4,
+  "maara": 2,
+  "lahde": "pankkiasiat.fi"
+ },
+ "puhelin_esilla": "kylla",
+ "puhelin": "0100 0500",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "todellinen_vuosikorko_pct": 21.0,
+ "vuosimaksu_eur": 0,
+ "korttityyppi": "maksuaikakortti",
+ "ai_arviot": {
+  "selkeys": 60,
+  "hintojen_loydettavyys": 65,
+  "sisallon_kattavuus": 58
+ },
+ "vahvuudet": [
+  "Koroton 35 päivän maksuaika ostosta riippuen (min. 21, max. 50 päivää)",
+  "Vuosimaksuton kortti, 0 € kuukausimaksu ilman luoton käyttöä",
+  "Kaksinkertaiset K-Plussa pisteet K-ketjun kaupoissa, ostosuoja 365 päivää"
+ ],
+ "kehityskohteet": [
+  "Korkea todellinen vuosikorko 21 % ei ole kilpailukykyinen verrattuna muihin luottokortteihin",
+  "Tilinhoitomaksu 5 €/kk luoton käytöstä nostaa kokonaiskustannuksia merkittävästi",
+  "Asiakasarvio perustuu vain 2 ääneen, itsenäisiä arvioita (EPSI, Trustpilot) ei saatavilla"
+ ],
+ "yhteenveto": "K-Plussa Maksuaika on OP Vähittäisasiakkaat Oyj:n myöntämä maksuaikakortti, joka yhdistää Kesko-ryhmän K-Plussa kanta-asiakkuuden ja luottokortin ominaisuudet. Kortin pääedut ovat koroton 35 päivän maksuaika ja vuosimaksuttomuus, kun saldoa ei käytetä. Kuitenkin todellinen vuosikorko 21 % ja 5 € kuukausimaksu luoton käytöstä tekevät siitä kalliin vaihtoehdon vakioluottokortteihin verrattuna. Sivuston tiedot ovat hajallaan eri lähteisiin eikä yhtenäistä, kattavaa tietosivua ole nähtävissä.",
+ "evidence": {
+  "korko_ja_vuosikorko_esilla": "Todellinen vuosikorko 21,00 % (1 500 euron luotolla) ja 21,64 % mainitaan useilla julkisilla sivuilla, pohjana 3 kk euribor + 10,95 %.",
+  "vuosimaksu_esilla": "Vuosimaksu 0 €, kuukausimaksu 0 € mainitaan selkeästi. Tilinhoitomaksu 5,00 euroa kuukaudessa, kun luotolla on korollista velkaa.",
+  "luotonmyontaja_kerrottu": "Plussa-edut tarjoaa Kesko Oyj, luoton myöntää OP Vähittäisasiakkaat Oyj, Tuoteturvavakuutuksen tarjoaa Pohjola Vakuutus Oy"
+ },
+ "korjattu_selaimella": "Agentti nojasi kolmannen osapuolen vertailusivuihin (ohje kieltää sen). Varmistettu selaimella yhtiön omalta sivulta 16.7.2026 — tieto on siellä, joten pisteet pysyvät mutta lähteet korjattu."
+}

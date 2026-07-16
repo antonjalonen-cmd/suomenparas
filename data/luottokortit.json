@@ -6,10 +6,10 @@
  "yksikko": "suomalaista luottokorttia",
  "lead": "Pisteytimme {n} suomalaista luottokorttia {m} mittarilla. Tärkein kysymys: näkyykö todellinen vuosikorko julkisesti ennen hakemista — ja kerrotaanko, kuka luoton oikeasti myöntää?",
  "meta_title": "Suomen paras luottokortti 2026 — kortit pisteytettynä | Suomen Paras",
- "meta_desc": "7 suomalaista luottokorttia pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "meta_desc": "8 suomalaista luottokorttia pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
   "<b>Kuka luoton oikeasti myöntää?</b> Kortin logo ei kerro sitä. <b>OP-Visan ja K-Plussa Mastercardin myöntää sama yhtiö</b> — OP Vähittäisasiakkaat Oyj (Y-tunnus 0751699-0); Kesko tuo vain Plussa-etuohjelman. POP Visan myöntää Bonum Pankki, ei paikallinen POP Pankki. Säästöpankki Visan myöntää Säästöpankkien Keskuspankki — <b>eri yhtiö kuin Oma Säästöpankki</b>, vaikka nimet muistuttavat toisiaan. Siksi mittaamme erikseen, kerrotaanko todellinen myöntäjä.",
-  "<b>Miksi listalla on vain 7 korttia?</b> <b>Handelsbanken</b> poistui Suomen vähittäispankkitoiminnasta 2026 ja <b>Diners Club</b> jo 2019. <b>St1:n</b> kortteja ei enää myönnetä uusille (St1 Visa päättyy 30.9.2026). <b>Klarna, N26 ja Revolut</b> tarjoavat Suomessa vain debit-kortteja — ei luottokorttia. <b>Lidlillä</b> ei ole omaa korttia ja <b>Enento</b> on luottotietoyhtiö, ei myöntäjä.",
+  "<b>Miksi listalla on vain 8 korttia?</b> <b>Handelsbanken</b> poistui Suomen vähittäispankkitoiminnasta 2026 ja <b>Diners Club</b> jo 2019. <b>St1:n</b> kortteja ei enää myönnetä uusille (St1 Visa päättyy 30.9.2026). <b>Klarna, N26 ja Revolut</b> tarjoavat Suomessa vain debit-kortteja — ei luottokorttia. <b>Lidlillä</b> ei ole omaa korttia ja <b>Enento</b> on luottotietoyhtiö, ei myöntäjä.",
   "<b>Emme anna talousneuvontaa emmekä suosittele luoton ottamista.</b> Vertailu kuvaa korttien julkisten verkkosivujen mitattavia ominaisuuksia, ei sitä kannattaako luottoa ottaa. Todellinen korko ja luottoraja ovat aina henkilökohtaisia. Kuluttajaluoton koron yläraja on viitekorko + 15 prosenttiyksikköä, enintään 20 %. Maksuaikakortti (esim. charge card) ei ole sama asia kuin jatkuva luotto. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
  ],
  "yritykset": [
@@ -670,6 +670,225 @@
     "Riippumattomia asiakasarvioita (Trustpilot, EPSI) ei ole saatavilla"
    ],
    "yhteenveto": "Aktian luottokortti tarjoaa selkeät korkomarginaalit (9,75 %) ja vuosikoron esimerkin (24,36 %). Asiakaspalvelut ovat saavutettavissa monilla kanavilla, mukaan lukien 24/7-chatbot ja puhelintuki. Kuitenkin keskeiset maksut kuten käteisnostopalkkio ja myöhästymiskorko piilevät PDF-ehdoissa, eivätkä ole näkyvissä ilman lataamista, mikä heikentää hintojen löydettävyyttä."
+  },
+  {
+   "slug": "k-plussa",
+   "nimi": "K-Plussa Mastercard",
+   "domain": "plussamaksuaika.fi",
+   "omistaja": "OP Vähittäisasiakkaat Oyj — Kesko tuo vain Plussa-etuohjelman",
+   "y_tunnus": "0751699-0",
+   "rekisteroity": 1989,
+   "score": 77.1,
+   "pillars": {
+    "digitaalinen": 79.8,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 61.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "57/100",
+       "paino": 40,
+       "pisteet": 57,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Korko ja todellinen vuosikorko esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Todellinen vuosikorko 21,00 % (1 500 euron luotolla) ja 21,64 % mainitaan useilla julkisilla sivuilla, pohjana 3 kk euribor + 10,95 %."
+      },
+      {
+       "mittari": "Vuosimaksu esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vuosimaksu 0 €, kuukausimaksu 0 € mainitaan selkeästi. Tilinhoitomaksu 5,00 euroa kuukaudessa, kun luotolla on korollista velkaa."
+      },
+      {
+       "mittari": "Muut kulut (nosto, valuutanvaihto) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Luoton todellinen myöntäjä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Plussa-edut tarjoaa Kesko Oyj, luoton myöntää OP Vähittäisasiakkaat Oyj, Tuoteturvavakuutuksen tarjoaa Pohjola Vakuutus Oy"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 57,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 16383.274,
+    "cls": 0.0586307413767473,
+    "tbt_ms": 537
+   },
+   "facts_extra": [
+    {
+     "label": "Korttityyppi",
+     "value": "Maksuaikakortti"
+    },
+    {
+     "label": "Todellinen vuosikorko",
+     "value": "21 %"
+    },
+    {
+     "label": "Vuosimaksu",
+     "value": "0 €"
+    }
+   ],
+   "vahvuudet": [
+    "Koroton 35 päivän maksuaika ostosta riippuen (min. 21, max. 50 päivää)",
+    "Vuosimaksuton kortti, 0 € kuukausimaksu ilman luoton käyttöä",
+    "Kaksinkertaiset K-Plussa pisteet K-ketjun kaupoissa, ostosuoja 365 päivää"
+   ],
+   "kehityskohteet": [
+    "Korkea todellinen vuosikorko 21 % ei ole kilpailukykyinen verrattuna muihin luottokortteihin",
+    "Tilinhoitomaksu 5 €/kk luoton käytöstä nostaa kokonaiskustannuksia merkittävästi",
+    "Asiakasarvio perustuu vain 2 ääneen, itsenäisiä arvioita (EPSI, Trustpilot) ei saatavilla"
+   ],
+   "yhteenveto": "K-Plussa Maksuaika on OP Vähittäisasiakkaat Oyj:n myöntämä maksuaikakortti, joka yhdistää Kesko-ryhmän K-Plussa kanta-asiakkuuden ja luottokortin ominaisuudet. Kortin pääedut ovat koroton 35 päivän maksuaika ja vuosimaksuttomuus, kun saldoa ei käytetä. Kuitenkin todellinen vuosikorko 21 % ja 5 € kuukausimaksu luoton käytöstä tekevät siitä kalliin vaihtoehdon vakioluottokortteihin verrattuna. Sivuston tiedot ovat hajallaan eri lähteisiin eikä yhtenäistä, kattavaa tietosivua ole nähtävissä."
   },
   {
    "slug": "saastopankki-visa",
