@@ -128,7 +128,8 @@ table.rows tr:last-child td{border-bottom:none}
 td.pts,th.pts{text-align:right;font-family:'IBM Plex Mono',monospace;white-space:nowrap}
 td.pts b{color:var(--ink)}
 .src{font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
-.quote{font-size:.8rem;color:var(--mut);font-style:italic;margin-top:3px;font-weight:400}
+.quote{font-size:.8rem;color:var(--mut);font-style:italic;margin-top:4px;font-weight:400}
+.qlab{display:inline-block;font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:.58rem;font-weight:600;letter-spacing:.08em;color:var(--ink);background:var(--gold-soft);border:1.5px solid var(--ink);border-radius:3px;padding:0 5px;margin-right:6px;vertical-align:1px}
 /* profile hero */
 .p-hero{background:var(--card);border-radius:var(--r);border:2.5px solid var(--line);box-shadow:var(--shadow);padding:28px;display:grid;grid-template-columns:1fr auto;gap:24px;margin-bottom:22px;border-top:6px solid var(--blue)}
 .p-hero.m1{border-top-color:var(--gold);border-color:var(--gold)}

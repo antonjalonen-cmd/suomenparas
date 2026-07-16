@@ -8,15 +8,15 @@
 <meta name="description" content="Pisteytämme suomalaiset palvelut mitattavalla datalla. Lainavertailu, sähkösopimukset ja sadat muut kategoriat yhdellä läpinäkyvällä Scorella.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="assets/favicon.png">
-<link rel="stylesheet" href="assets/style.css?v=11">
-<script src="assets/app.js?v=11" defer></script>
+<link rel="stylesheet" href="assets/style.css?v=12">
+<script src="assets/app.js?v=12" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href=""><img src="assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
     <nav class="main">
-      <a href="lainavertailu/">Lainavertailu</a>
+      <a href="lainavertailu/">Lainat</a><a href="vakuutukset/">Vakuutukset</a><a href="sahkosopimukset/">Sähkö</a><a href="laajakaista/">Laajakaista</a>
       <a href="kategoriat/">Kaikki kategoriat</a>
       <a href="metodologia/">Näin pisteytämme</a>
     </nav>
@@ -30,9 +30,9 @@
       <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
-        <div class="hero-stat"><b>9</b><span>palvelua pisteytetty</span></div>
+        <div class="hero-stat"><b>34</b><span>palvelua pisteytetty</span></div>
+        <div class="hero-stat"><b>4</b><span>kategoriaa live</span></div>
         <div class="hero-stat"><b>67</b><span>kategoriaa suunnitteilla</span></div>
-        <div class="hero-stat"><b>26</b><span>mittaria / yritys</span></div>
       </div>
     </div>
     <div class="board-wrap">
@@ -52,8 +52,8 @@
     
 <div class="steps">
   <div class="step"><span class="k">01 · KERUU</span><h3>Data kerätään automaattisesti</h3><p>Julkiset lähteet: yrityksen oma verkkosivu, YTJ/PRH-rekisterit ja tekniset mittaukset (Lighthouse). Sama prosessi jokaiselle — kukaan ei täytä lomakkeita.</p></div>
-  <div class="step"><span class="k">02 · PISTEYTYS</span><h3>Sama kaava kaikille</h3><p>Suomen Paras Score v1.0 laskee neljä pilaria dokumentoiduilla painoilla. Kaava on julkinen ja deterministinen: sama data antaa aina saman tuloksen.</p></div>
-  <div class="step"><span class="k">03 · KUITTI</span><h3>Jokainen piste perustellaan</h3><p>Jokaisen yrityksen profiililta näet mittari mittarilta, mistä pisteet tulevat — lähteineen ja sitaatteineen. Sijoitusta ei voi ostaa.</p></div>
+  <div class="step"><span class="k">02 · PISTEYTYS</span><h3>Sama kaava kaikille</h3><p>Suomen Paras Score v1.1 laskee neljä pilaria dokumentoiduilla painoilla. Kaava on julkinen ja deterministinen: sama data antaa aina saman tuloksen.</p></div>
+  <div class="step"><span class="k">03 · KUITTI</span><h3>Jokainen piste perustellaan</h3><p>Jokaisen yrityksen profiililta näet mittari mittarilta, mistä pisteet tulevat — lähteineen ja havaintoineen. Sijoitusta ei voi ostaa.</p></div>
 </div>
   </div>
 </section>
@@ -61,13 +61,10 @@
 <section class="band" style="padding-top:0">
   <div class="wrap">
     <h2 class="sec">Kategoriat</h2>
-    <p class="sec-sub">Ensimmäisenä avattu: lainavertailu. Uusia kategorioita avataan kuukausittain — tavoite on kattaa kaikki suomalaiset palvelut.</p>
+    <p class="sec-sub">4 kategoriaa on avattu oikealla datalla. Uusia avataan kuukausittain — tavoite on kattaa kaikki suomalaiset palvelut.</p>
     <div class="cat-grid">
-      <a class="cat-tile live-cat" href="lainavertailu/">Lainavertailu <span class="st">LIVE</span></a>
-      <span class="cat-tile off">Sähkösopimukset <span class="st">TULOSSA</span></span>
+      <a class="cat-tile live-cat" href="lainavertailu/">Lainavertailu <span class="st">LIVE</span></a><a class="cat-tile live-cat" href="vakuutukset/">Vakuutukset <span class="st">LIVE</span></a><a class="cat-tile live-cat" href="sahkosopimukset/">Sähkösopimukset <span class="st">LIVE</span></a><a class="cat-tile live-cat" href="laajakaista/">Laajakaista <span class="st">LIVE</span></a>
       <span class="cat-tile off">Puhelinliittymät <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Laajakaista <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Vakuutukset <span class="st">TULOSSA</span></span>
       <span class="cat-tile off">Luottokortit <span class="st">TULOSSA</span></span>
       <span class="cat-tile off">Autokorjaamot <span class="st">TULOSSA</span></span>
       <a class="cat-tile" href="kategoriat/" style="justify-content:center;background:var(--ink);color:#fff">Kaikki 67 kategoriaa →</a>
@@ -96,14 +93,14 @@
       </div>
       <div>
         <h4>Palvelu</h4>
-        <p><a href="lainavertailu/">Lainavertailu</a><br><a href="kategoriat/">Kaikki kategoriat</a><br><a href="metodologia/">Pisteytysmetodologia</a></p>
+        <p><a href="lainavertailu/">Lainavertailu</a><br><a href="vakuutukset/">Vakuutukset</a><br><a href="sahkosopimukset/">Sähkösopimukset</a><br><a href="laajakaista/">Laajakaista</a><br><a href="kategoriat/">Kaikki kategoriat</a><br><a href="metodologia/">Pisteytysmetodologia</a></p>
       </div>
       <div>
-        <h4>Score v1.0</h4>
-        <p class="mono">Päivitetty 15.7.2026<br>9 palvelua pisteytetty</p>
+        <h4>Score v1.1</h4>
+        <p class="mono">Päivitetty 16.7.2026<br>34 palvelua pisteytetty<br>4 kategoriaa live</p>
       </div>
     </div>
-    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin 15.7.2026: yritysten omat verkkosivut, YTJ/PRH-avoin data ja Lighthouse-mittaukset. AI-arviot on tuottanut Claude Haiku 4.5. Emme anna sijoitus-, laina- tai muuta talousneuvontaa — vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin 16.7.2026: yritysten omat verkkosivut, YTJ/PRH-avoin data ja Lighthouse-mittaukset. AI-arviot on tuottanut Claude Haiku 4.5. Emme anna sijoitus-, laina- tai muuta talousneuvontaa — vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
   </div>
 </footer>
 </body>

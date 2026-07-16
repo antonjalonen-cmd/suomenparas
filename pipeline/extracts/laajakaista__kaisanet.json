@@ -1,0 +1,30 @@
+{
+  "slug": "kaisanet",
+  "kk_hinta_esilla_ilman_yhteystietoja": "kylla",
+  "kampanjan_jalkeinen_hinta": "kylla",
+  "sopimusaika_ja_avausmaksu": "kylla",
+  "saatavuustarkistus_ilman_yhteystietoja": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "2366937-2",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+  "puhelin_esilla": "kylla",
+  "puhelin": "0800 391 234",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "tekniikat": ["kuitu", "kaapeli"],
+  "halvin_kk_hinta_eur": 20.90,
+  "nopein_mbps": 1000,
+  "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 70},
+  "vahvuudet": ["Hinnat näkyvät selkeästi ilman yhteystietojen pyytämistä", "Monipuoliset yhteydenottokeinot (puhelin, sähköposti, chat, kahvila-myymälät)", "Saatavuuden tarkistus osoitteen perusteella"],
+  "kehityskohteet": ["Ulkopuolisen arvioinnin puuttuminen (ei Trustpilot, EPSI Rating jne.)", "Mobiilisovelluksen puuttuminen (vain web-pohjainen OmaKaisanet-portaali)", "Valikoiman ja palvelun kokonaisuuden esittäminen vaatii usean sivun selaamista"],
+  "yhteenveto": "Kaisanet on Kainuun ja Ylä-Savon alueella toimiva kuitu- ja kaapeliverkkojen laajakaistanpalvelun tarjoaja. Sivusto esittelee palvelut läpinäkyvine hinnastoineen ja selkeinä sopimuksen ehdoineen. Vahvuuksina ovat selkeät hinnat ja monipuoliset kontaktikanavat, mutta sivustolta puuttuu asiakasarvioiden näyttäminen ja mobiilisovellus.",
+  "evidence": {
+    "kk_hinta_esilla_ilman_yhteystietoja": "100M: 32,90 €/kk, 500M: 42,90 €/kk, 1000M: 60,90 €/kk",
+    "kampanjan_jalkeinen_hinta": "100M Fiber: 29,90 €/kk, 24kk ajan (then 32,90 €/kk)",
+    "sopimusaika_ja_avausmaksu": "24kk ajan jonka jälkeen voimassa toistaiseksi; Valokuitu liittymismaksu rakennuskauden yhteydessä 595,00 €"
+  }
+}

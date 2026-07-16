@@ -1,0 +1,51 @@
+{
+ "slug": "pohjola",
+ "hintalaskuri_ilman_yhteystietoja": "ei",
+ "vakuutusehdot_saatavilla": "osittain",
+ "omavastuu_selkeasti": "ei",
+ "korvausprosessi_kuvattu": "ei",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {
+  "arvosana": null,
+  "maara": null,
+  "lahde": null
+ },
+ "puhelin_esilla": "osittain",
+ "puhelin": null,
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "vakuutuslajit": [
+  "koti",
+  "auto",
+  "matka",
+  "henkivakuutus",
+  "vakavan sairauden",
+  "työkyvyttömyyden"
+ ],
+ "ai_arviot": {
+  "selkeys": 25,
+  "hintojen_loydettavyys": 5,
+  "sisallon_kattavuus": 20
+ },
+ "vahvuudet": [
+  "Monipuolinen vakuutustuotteiden valikoima",
+  "Integraatio OP-pankin palveluihin",
+  "Pohjola Vahinkoapu -korvauspalvelu"
+ ],
+ "kehityskohteet": [
+  "Hintojen ja vakuutusehtojen saatavuus vaatii kirjautumisen",
+  "Julkisten yhteydenottokeinojen puute",
+  "Puutteelliset tiedot omavastuu- ja korvausprosesseista"
+ ],
+ "yhteenveto": "OP/Pohjola Vakuutus on suurten pankkivakuutustuotteiden tarjoaja, mutta sen julkinen vakuutussivusto on asiakasportaali, joka edellyttää kirjautumista lähes kaikkien tietojen näyttämiseen. Hintalaskuri, vakuutusehdot, omavastuut ja korvausmenettely ovat pankin asiakasportaalin takana. Julkisten yhteydenottotietojen ja FAQ-osion puute heikentää saavutettavuutta anonyymeille sivuston kävijöille.",
+ "evidence": {
+  "hintalaskuri_ilman_yhteystietoja": "pohjola.fi uudelleenohjaa op.fi/henkiloasiakkaat/vakuutukset -sivulle, joka vaatii kirjautumisen hintojen näyttämiseen",
+  "omavastuu_selkeasti": "Vakuutusehto- ja omavastuu-tiedot ovat kirjautumisen takana, ei julkisesti näkyvissä",
+  "riippumaton_arvio": "Sivustolla ei ole viittauksia Trustpilotin, EPSI Ratingin tai muiden riippumattomien arviointipalveluiden arvioihin"
+ }
+}

@@ -1,18 +1,43 @@
 # -*- coding: utf-8 -*-
 """Suomen Paras — static site generator (demo).
 
-Reads scores.json (produced by the scoring engine) and generates the site:
-  index.html, lainavertailu/, yritys/<slug>/, kategoriat/, metodologia/
+Reads data/<vertical>.json (produced by the scoring engine) and generates the site:
+  index.html, <vertical>/, yritys/<vertical>/<slug>/, kategoriat/, metodologia/
+
+Each vertical file carries its own config (labels, notes, transparency criteria) so
+this generator stays vertical-agnostic — adding a category means adding a data file.
 
 This mirrors the real pipeline: data collection -> scoring -> publish.
 Run:  python gen_site.py
 """
-import json, os, html
+import json, os, html, glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-SCORES = json.load(open(os.path.join(BASE, "scores.json"), encoding="utf-8"))
-UPDATED = "15.7.2026"
-SCORE_VERSION = "v1.0"
+SCORE_VERSION = "v1.1"
+# Site-wide "latest measurement" date. Each vertical carries its own `updated` —
+# never relabel a vertical with a date it wasn't measured on (methodology promises
+# results are not rewritten retroactively).
+UPDATED = "16.7.2026"
+
+# Order matters: first vertical is the site's flagship (shown on the front-page board).
+VERTICAL_ORDER = ["lainavertailu", "vakuutukset", "sahkosopimukset", "laajakaista"]
+
+
+def _load_verticals():
+    found = {}
+    for p in glob.glob(os.path.join(BASE, "data", "*.json")):
+        v = json.load(open(p, encoding="utf-8"))
+        v["yritykset"].sort(key=lambda c: -(c["score"] or 0))
+        found[v["slug"]] = v
+    ordered = [found[s] for s in VERTICAL_ORDER if s in found]
+    ordered += [v for s, v in sorted(found.items()) if s not in VERTICAL_ORDER]
+    if not ordered:
+        raise SystemExit("no data/*.json found — run the scoring engine first")
+    return ordered
+
+
+VERTICALS = _load_verticals()
+ALL_COMPANIES = [c for v in VERTICALS for c in v["yritykset"]]
 
 PILLAR_LABELS = {
     "digitaalinen": "Digitaalinen laatu",
@@ -29,8 +54,8 @@ def esc(s):
 CATEGORY_GROUPS = [
     ("Talous ja raha", [
         ("Lainavertailu", "lainavertailu", True),
-        ("Vakuutukset", None, False), ("Sähkösopimukset", None, False),
-        ("Laajakaista", None, False), ("Puhelinliittymät", None, False),
+        ("Vakuutukset", "vakuutukset", True), ("Sähkösopimukset", "sahkosopimukset", True),
+        ("Laajakaista", "laajakaista", True), ("Puhelinliittymät", None, False),
         ("Luottokortit", None, False), ("Sijoitusalustat", None, False),
         ("Pikavipit", None, False), ("Webhotellit", None, False),
         ("VPN-palvelut", None, False), ("Pankkien asiakaspalvelu", None, False),
@@ -77,6 +102,10 @@ CATEGORY_GROUPS = [
     ]),
 ]
 TOTAL_CATS = sum(len(cats) for _, cats in CATEGORY_GROUPS)
+# A category is LIVE only if its data file actually exists — never claim a category
+# is live from the table above alone.
+LIVE_SLUGS = {v["slug"] for v in VERTICALS}
+LIVE_COUNT = sum(1 for _, cats in CATEGORY_GROUPS for _, slug, _ in cats if slug in LIVE_SLUGS)
 
 # ---------------------------------------------------------------- shared css
 CSS = """
@@ -209,7 +238,8 @@ table.rows tr:last-child td{border-bottom:none}
 td.pts,th.pts{text-align:right;font-family:'IBM Plex Mono',monospace;white-space:nowrap}
 td.pts b{color:var(--ink)}
 .src{font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
-.quote{font-size:.8rem;color:var(--mut);font-style:italic;margin-top:3px;font-weight:400}
+.quote{font-size:.8rem;color:var(--mut);font-style:italic;margin-top:4px;font-weight:400}
+.qlab{display:inline-block;font-family:'IBM Plex Mono',monospace;font-style:normal;font-size:.58rem;font-weight:600;letter-spacing:.08em;color:var(--ink);background:var(--gold-soft);border:1.5px solid var(--ink);border-radius:3px;padding:0 5px;margin-right:6px;vertical-align:1px}
 /* profile hero */
 .p-hero{background:var(--card);border-radius:var(--r);border:2.5px solid var(--line);box-shadow:var(--shadow);padding:28px;display:grid;grid-template-columns:1fr auto;gap:24px;margin-bottom:22px;border-top:6px solid var(--blue)}
 .p-hero.m1{border-top-color:var(--gold);border-color:var(--gold)}
@@ -494,15 +524,15 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=11">
-<script src="{root}assets/app.js?v=11" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=12">
+<script src="{root}assets/app.js?v=12" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
     <nav class="main">
-      <a href="{root}lainavertailu/"{on('laina')}>Lainavertailu</a>
+      {"".join(f'<a href="{root}{v["slug"]}/"{on(v["slug"])}>{esc(v["nav"])}</a>' for v in VERTICALS)}
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
       <a href="{root}metodologia/"{on('metodologia')}>Näin pisteytämme</a>
     </nav>
@@ -518,11 +548,11 @@ def page(title, desc, body, root="", active=""):
       </div>
       <div>
         <h4>Palvelu</h4>
-        <p><a href="{root}lainavertailu/">Lainavertailu</a><br><a href="{root}kategoriat/">Kaikki kategoriat</a><br><a href="{root}metodologia/">Pisteytysmetodologia</a></p>
+        <p>{"".join(f'<a href="{root}{v["slug"]}/">{esc(v["nimi"])}</a><br>' for v in VERTICALS)}<a href="{root}kategoriat/">Kaikki kategoriat</a><br><a href="{root}metodologia/">Pisteytysmetodologia</a></p>
       </div>
       <div>
         <h4>Score {SCORE_VERSION}</h4>
-        <p class="mono">Päivitetty {UPDATED}<br>{len(SCORES)} palvelua pisteytetty</p>
+        <p class="mono">Päivitetty {UPDATED}<br>{len(ALL_COMPANIES)} palvelua pisteytetty<br>{len(VERTICALS)} kategoriaa live</p>
       </div>
     </div>
     <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin {UPDATED}: yritysten omat verkkosivut, YTJ/PRH-avoin data ja Lighthouse-mittaukset. AI-arviot on tuottanut Claude Haiku 4.5. Emme anna sijoitus-, laina- tai muuta talousneuvontaa — vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
@@ -547,9 +577,9 @@ def pillar_bars(c):
     out.append("</div>")
     return "".join(out)
 
-def rank_card(c, pos, root):
+def rank_card(c, pos, root, vslug):
     m = f"m{pos}" if pos <= 3 else ""
-    top_strength = c["extract"]["vahvuudet"][0] if c["extract"]["vahvuudet"] else ""
+    top_strength = c["vahvuudet"][0] if c["vahvuudet"] else ""
     dataattrs = " ".join(
         f'data-{k}="{(c["pillars"][k] if c["pillars"][k] is not None else 0)}"'
         for k in ["digitaalinen", "lapinakyvyys", "tavoitettavuus", "ai_laatu"]
@@ -559,7 +589,7 @@ def rank_card(c, pos, root):
 <article class="rank-card {m}" data-score="{c['score'] or 0}" {dataattrs}>
   <div class="medal">{pos}</div>
   <div class="rank-main">
-    <h3><a href="{root}yritys/{c['slug']}/">{esc(c['nimi'])}</a>{ylabel}</h3>
+    <h3><a href="{root}yritys/{vslug}/{c['slug']}/">{esc(c['nimi'])}</a>{ylabel}</h3>
     <p class="rank-meta">{esc(c['domain'])} · {esc(c['omistaja'])}</p>
     {pillar_bars(c)}
     <p class="rank-strength"><b>+</b> {esc(top_strength)}</p>
@@ -568,7 +598,7 @@ def rank_card(c, pos, root):
     {stamp(c['score'], gold=(pos == 1))}
     <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-end">
       <a class="btn" href="https://{c['domain']}" rel="nofollow noopener" target="_blank">Siirry palveluun</a>
-      <a class="btn ghost" href="{root}yritys/{c['slug']}/">Näin pisteet syntyvät</a>
+      <a class="btn ghost" href="{root}yritys/{vslug}/{c['slug']}/">Näin pisteet syntyvät</a>
     </div>
   </div>
 </article>"""
@@ -576,7 +606,11 @@ def rank_card(c, pos, root):
 def receipt(title, weight, subtotal, rows, has_quote=False):
     trs = []
     for r in rows:
-        q = f'<div class="quote">”{esc(r["quote"])}”</div>' if r.get("quote") else ""
+        # Evidence is rendered as a labelled OBSERVATION, not a quotation. Some
+        # strings are verbatim page text, but others summarise what a visitor sees
+        # — or record an absence, which cannot be quoted at all. Wrapping those in
+        # quote marks would attribute our words to the company.
+        q = f'<div class="quote"><span class="qlab">HAVAINTO</span>{esc(r["quote"])}</div>' if r.get("quote") else ""
         if "pisteet_max" in r:
             pts, maxp = r["pisteet"], r["pisteet_max"]
             disp = str(pts)
@@ -605,7 +639,8 @@ def receipt(title, weight, subtotal, rows, has_quote=False):
 
 # ---------------------------------------------------------------- pages
 def build_index():
-    top = SCORES[:5]
+    flagship = VERTICALS[0]
+    top = flagship["yritykset"][:5]
     rows = []
     for i, c in enumerate(top, 1):
         g = " gold" if i == 1 else ""
@@ -616,8 +651,13 @@ def build_index():
 <div class="steps">
   <div class="step"><span class="k">01 · KERUU</span><h3>Data kerätään automaattisesti</h3><p>Julkiset lähteet: yrityksen oma verkkosivu, YTJ/PRH-rekisterit ja tekniset mittaukset (Lighthouse). Sama prosessi jokaiselle — kukaan ei täytä lomakkeita.</p></div>
   <div class="step"><span class="k">02 · PISTEYTYS</span><h3>Sama kaava kaikille</h3><p>Suomen Paras Score {v} laskee neljä pilaria dokumentoiduilla painoilla. Kaava on julkinen ja deterministinen: sama data antaa aina saman tuloksen.</p></div>
-  <div class="step"><span class="k">03 · KUITTI</span><h3>Jokainen piste perustellaan</h3><p>Jokaisen yrityksen profiililta näet mittari mittarilta, mistä pisteet tulevat — lähteineen ja sitaatteineen. Sijoitusta ei voi ostaa.</p></div>
+  <div class="step"><span class="k">03 · KUITTI</span><h3>Jokainen piste perustellaan</h3><p>Jokaisen yrityksen profiililta näet mittari mittarilta, mistä pisteet tulevat — lähteineen ja havaintoineen. Sijoitusta ei voi ostaa.</p></div>
 </div>""".replace("{v}", SCORE_VERSION)
+
+    live_tiles = "".join(
+        f'<a class="cat-tile live-cat" href="{v["slug"]}/">{esc(v["nimi"])} <span class="st">LIVE</span></a>'
+        for v in VERTICALS
+    )
 
     body = f"""
 <section class="hero">
@@ -627,16 +667,16 @@ def build_index():
       <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
-        <div class="hero-stat"><b>{len(SCORES)}</b><span>palvelua pisteytetty</span></div>
+        <div class="hero-stat"><b>{len(ALL_COMPANIES)}</b><span>palvelua pisteytetty</span></div>
+        <div class="hero-stat"><b>{LIVE_COUNT}</b><span>kategoriaa live</span></div>
         <div class="hero-stat"><b>{TOTAL_CATS}</b><span>kategoriaa suunnitteilla</span></div>
-        <div class="hero-stat"><b>26</b><span>mittaria / yritys</span></div>
       </div>
     </div>
     <div class="board-wrap">
       <div class="board" id="liveboard">
-        <div class="board-head"><span class="cat" id="lb-cat">Lainavertailu</span><span class="live"><span class="live-dot"></span><span id="lb-status">TOP 5 · {UPDATED}</span></span></div>
+        <div class="board-head"><span class="cat" id="lb-cat">{esc(flagship['nimi'])}</span><span class="live"><span class="live-dot"></span><span id="lb-status">TOP 5 · {flagship['updated']}</span></span></div>
         <div id="lb-body">{''.join(rows)}</div>
-        <div class="board-foot" id="lb-foot"><a href="lainavertailu/">Koko vertailu ja pisteiden perustelut →</a></div>
+        <div class="board-foot" id="lb-foot"><a href="{flagship['slug']}/">Koko vertailu ja pisteiden perustelut →</a></div>
       </div>
     </div>
   </div>
@@ -653,13 +693,10 @@ def build_index():
 <section class="band" style="padding-top:0">
   <div class="wrap">
     <h2 class="sec">Kategoriat</h2>
-    <p class="sec-sub">Ensimmäisenä avattu: lainavertailu. Uusia kategorioita avataan kuukausittain — tavoite on kattaa kaikki suomalaiset palvelut.</p>
+    <p class="sec-sub">{LIVE_COUNT} kategoriaa on avattu oikealla datalla. Uusia avataan kuukausittain — tavoite on kattaa kaikki suomalaiset palvelut.</p>
     <div class="cat-grid">
-      <a class="cat-tile live-cat" href="lainavertailu/">Lainavertailu <span class="st">LIVE</span></a>
-      <span class="cat-tile off">Sähkösopimukset <span class="st">TULOSSA</span></span>
+      {live_tiles}
       <span class="cat-tile off">Puhelinliittymät <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Laajakaista <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Vakuutukset <span class="st">TULOSSA</span></span>
       <span class="cat-tile off">Luottokortit <span class="st">TULOSSA</span></span>
       <span class="cat-tile off">Autokorjaamot <span class="st">TULOSSA</span></span>
       <a class="cat-tile" href="kategoriat/" style="justify-content:center;background:var(--ink);color:#fff">Kaikki {TOTAL_CATS} kategoriaa →</a>
@@ -683,16 +720,19 @@ def build_index():
                 "Pisteytämme suomalaiset palvelut mitattavalla datalla. Lainavertailu, sähkösopimukset ja sadat muut kategoriat yhdellä läpinäkyvällä Scorella.",
                 body, root="", active="")
 
-def build_lainavertailu():
-    cards = "".join(rank_card(c, i, "../") for i, c in enumerate(SCORES, 1))
+def build_vertical(v):
+    cs = v["yritykset"]
+    cards = "".join(rank_card(c, i, "../", v["slug"]) for i, c in enumerate(cs, 1))
+    lead = v["lead"].replace("{n}", str(len(cs))).replace("{m}", str(v["mittarit"]))
+    notes = "".join(f'<p class="note">{n}</p>' for n in v["notes"])
     body = f"""
 <div class="wrap">
-  <p class="crumb"><a href="../">Etusivu</a> › <b>Lainavertailu</b></p>
+  <p class="crumb"><a href="../">Etusivu</a> › <b>{esc(v['nimi'])}</b></p>
   <div class="pageh" style="padding-top:0">
-    <h1>Suomen paras lainavertailu 2026</h1>
-    <p class="lead">Pisteytimme {len(SCORES)} suomalaista lainanvälityspalvelua 26 mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Sama kaava kaikille — katso jokaisen pisteen perustelu.</p>
+    <h1>{esc(v['h1'])}</h1>
+    <p class="lead">{lead}</p>
     <div class="meta-row">
-      <span class="upd">Päivitetty {UPDATED} · Score {SCORE_VERSION}</span>
+      <span class="upd">Mitattu {v['updated']} · Score {SCORE_VERSION}</span>
       <a class="count-pill" href="../metodologia/">Miten pisteet lasketaan →</a>
     </div>
   </div>
@@ -706,8 +746,7 @@ def build_lainavertailu():
 
   <div id="ranking">{cards}</div>
 
-  <p class="note"><b>Huomio:</b> Neljä listan palveluista (Rahalaitos, Omalaina, Sambla ja Rahoitu.fi) kuuluu samaan konserniin (Sambla Group Oy), ja Zmarta sekä Freedom Rahoitus ovat samaa yhtiötä. Näytämme omistajan jokaisen palvelun kohdalla — brändejä vertaillessa kannattaa tietää kuka niiden takana on.</p>
-  <p class="note">Emme anna laina- tai talousneuvontaa. Vertailu kuvaa palveluiden verkkosivujen mitattavia ominaisuuksia, ei lainatarjousten paremmuutta — lopullinen korko on aina henkilökohtainen. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin.</p>
+  {notes}
 
   <div class="b2b">
     <h3>Oletko listalla — ja haluaisit korkeammalle?</h3>
@@ -746,30 +785,18 @@ def build_lainavertailu():
   }});
 }})();
 </script>"""
-    return page("Suomen paras lainavertailu 2026 — kaikki lainanvälittäjät pisteytettynä | Suomen Paras",
-                "9 suomalaista lainanvälityspalvelua pisteytetty 26 mittarilla. Läpinäkyvä Score: katso mistä jokainen piste tulee.",
-                body, root="../", active="laina")
+    return page(v["meta_title"], v["meta_desc"], body, root="../", active=v["slug"])
 
-def build_profile(c, pos):
-    e = c["extract"]
+def build_profile(c, pos, v):
+    n_total = len(v["yritykset"])
     m = f"m{pos}" if pos <= 3 else ""
     # deterministic, plausible starting like count (community engagement; not part of Score)
     like_seed = int((c["score"] or 55) * 2) + (sum(ord(ch) for ch in c["slug"]) % 90) + 37
-    rank_label = {1: "👑 Sija 1 — Suomen Paras 2026", 2: "🥈 Sija 2 / " + str(len(SCORES)), 3: "🥉 Sija 3 / " + str(len(SCORES))}.get(pos, f"Sija {pos} / {len(SCORES)}")
+    rank_label = {1: "👑 Sija 1 — Suomen Paras 2026", 2: f"🥈 Sija 2 / {n_total}", 3: f"🥉 Sija 3 / {n_total}"}.get(pos, f"Sija {pos} / {n_total}")
 
-    # receipts with evidence quotes attached to relevant rows
+    # evidence quotes are baked onto the rows by the scoring engine
     b = c["breakdown"]
-    lap_rows = []
-    for r in b["lapinakyvyys"]["rivit"]:
-        r = dict(r)
-        if "korkoesimerkki" in r["mittari"].lower() and e["evidence"].get("korkoesimerkki"):
-            r["quote"] = e["evidence"]["korkoesimerkki"]
-        if "kumppani" in r["mittari"].lower() and e["evidence"].get("kumppanit"):
-            r["quote"] = e["evidence"]["kumppanit"]
-        if "arviol" in r["mittari"].lower() and e["evidence"].get("asiakasarvio"):
-            r["quote"] = e["evidence"]["asiakasarvio"]
-        lap_rows.append(r)
-
+    lap_rows = b["lapinakyvyys"]["rivit"]
     dig_rows = b["digitaalinen"]["rivit"]
     receipts = ""
     if dig_rows:
@@ -780,20 +807,23 @@ def build_profile(c, pos):
     receipts += receipt("Tavoitettavuus", 20, c["pillars"]["tavoitettavuus"], b["tavoitettavuus"]["rivit"])
     receipts += receipt("AI-laatuarvio", 20, c["pillars"]["ai_laatu"], b["ai_laatu"]["rivit"])
 
-    vah = "".join(f"<li>{esc(v)}</li>" for v in e["vahvuudet"])
-    keh = "".join(f"<li>{esc(v)}</li>" for v in e["kehityskohteet"])
+    vah = "".join(f"<li>{esc(x)}</li>" for x in c["vahvuudet"])
+    keh = "".join(f"<li>{esc(x)}</li>" for x in c["kehityskohteet"])
 
     lh = c.get("lh") or {}
     lcp = f'{lh["lcp_ms"]/1000:.1f} s'.replace(".", ",") if lh.get("lcp_ms") else "–"
 
+    extra = "".join(
+        f'<div><span>{esc(f["label"])}</span><b>{esc(f["value"])}</b></div>'
+        for f in c.get("facts_extra", [])
+    )
     facts = f"""
     <div class="p-facts">
       <div><span>Verkkosivu</span><b>{esc(c['domain'])}</b></div>
       <div><span>Omistaja (YTJ)</span><b>{esc(c['omistaja'])}</b></div>
       <div><span>Y-tunnus</span><b class="mono">{esc(c['y_tunnus'])}</b></div>
-      <div><span>Yhtiö rekisteröity</span><b>{esc(c['rekisteroity'] or '–')}</b></div>
-      <div><span>Lainasummat</span><b>{esc((f"{e['lainasumma_min_eur']:,}".replace(',', ' ') + '–' + f"{e['lainasumma_max_eur']:,}".replace(',', ' ') + ' €') if e.get('lainasumma_min_eur') else 'Ei kerrottu')}</b></div>
-      <div><span>Kumppanipankkeja</span><b>{esc((str(e['kumppanipankkien_maara']) + ' kpl') if e.get('kumppanipankkien_maara') else 'Ei kerrottu')}</b></div>
+      <div><span>Rekisteröity Suomessa (PRH)</span><b>{esc(c['rekisteroity'] or '–')}</b></div>
+      {extra}
       <div><span>LCP (mobiili)</span><b class="mono">{lcp}</b></div>
     </div>"""
 
@@ -813,12 +843,12 @@ def build_profile(c, pos):
 
     body = f"""
 <div class="wrap">
-  <p class="crumb"><a href="../../">Etusivu</a> › <a href="../../lainavertailu/">Lainavertailu</a> › <b>{esc(c['nimi'])}</b></p>
+  <p class="crumb"><a href="../../../">Etusivu</a> › <a href="../../../{v['slug']}/">{esc(v['nimi'])}</a> › <b>{esc(c['nimi'])}</b></p>
 
   <div class="p-hero {m}">
     <div>
       <h1>{esc(c['nimi'])}</h1>
-      <p class="rank-meta" style="margin-top:4px">{esc(rank_label)} · Lainavertailu · Päivitetty {UPDATED}</p>
+      <p class="rank-meta" style="margin-top:4px">{esc(rank_label)} · {esc(v['nimi'])} · Mitattu {v['updated']}</p>
       {facts}
     </div>
     <div class="stamp-big">
@@ -828,8 +858,8 @@ def build_profile(c, pos):
   </div>
 
   <div class="ai-note">
-    <span class="tag">AI-YHTEENVETO · CLAUDE HAIKU 4.5 · {UPDATED}</span>
-    <p>{esc(e['yhteenveto'])}</p>
+    <span class="tag">AI-YHTEENVETO · CLAUDE HAIKU 4.5 · {v['updated']}</span>
+    <p>{esc(c['yhteenveto'])}</p>
   </div>
 
   <div class="duo">
@@ -838,7 +868,7 @@ def build_profile(c, pos):
   </div>
 
   <h2 class="sec" style="margin-top:36px">Näin pisteet lasketaan</h2>
-  <p class="sec-sub">Jokainen rivi on mitattu {UPDATED} julkisista lähteistä. Sama kaava kaikille — <a href="../../metodologia/">lue koko metodologia</a>.</p>
+  <p class="sec-sub">Jokainen rivi on mitattu {v['updated']} julkisista lähteistä. Sama kaava kaikille — <a href="../../../metodologia/">lue koko metodologia</a>.</p>
   {total_formula}
   {receipts}
 
@@ -869,16 +899,17 @@ def build_profile(c, pos):
     <small>Analyysi ei muuta pisteitä. Vain mittareiden parantaminen muuttaa.</small>
   </div>
 </div>"""
-    return page(f"{c['nimi']} — Suomen Paras Score {f'{c['score']:.1f}'.replace('.', ',') if c['score'] else '–'}/100 | Lainavertailu",
+    sc = f"{c['score']:.1f}".replace(".", ",") if c["score"] else "–"
+    return page(f"{c['nimi']} — Suomen Paras Score {sc}/100 | {v['nimi']}",
                 f"{c['nimi']}: pisteet, vahvuudet ja kehityskohteet. Katso mistä jokainen piste tulee — mittari mittarilta.",
-                body, root="../../", active="laina")
+                body, root="../../../", active=v["slug"])
 
 def build_kategoriat():
     groups = []
     for gname, cats in CATEGORY_GROUPS:
         tiles = []
-        for cname, slug, live in cats:
-            if live:
+        for cname, slug, _ in cats:
+            if slug in LIVE_SLUGS:
                 tiles.append(f'<a class="cat-tile live-cat" href="../{slug}/">{esc(cname)} <span class="st">LIVE</span></a>')
             else:
                 tiles.append(f'<span class="cat-tile off">{esc(cname)} <span class="st">TULOSSA</span></span>')
@@ -888,8 +919,8 @@ def build_kategoriat():
   <p class="crumb"><a href="../">Etusivu</a> › <b>Kategoriat</b></p>
   <div class="pageh" style="padding-top:0">
     <h1>Kaikki kategoriat</h1>
-    <p class="lead">{TOTAL_CATS} kategoriaa suunnitteilla — jokainen pisteytetään samalla julkisella Suomen Paras Score -kaavalla. Ensimmäisenä avattu lainavertailu; uusia avataan kuukausittain.</p>
-    <div class="meta-row"><span class="upd">1 kategoria live · {TOTAL_CATS - 1} tulossa</span></div>
+    <p class="lead">{TOTAL_CATS} kategoriaa suunnitteilla — jokainen pisteytetään samalla julkisella Suomen Paras Score -kaavalla. Avattu tähän mennessä: {esc(", ".join(v["nimi"].lower() for v in VERTICALS))}. Uusia avataan kuukausittain.</p>
+    <div class="meta-row"><span class="upd">{LIVE_COUNT} kategoriaa live · {TOTAL_CATS - LIVE_COUNT} tulossa</span></div>
   </div>
   {''.join(groups)}
 </div>"""
@@ -912,13 +943,24 @@ def build_metodologia():
     <table class="rows">
       <thead><tr><th>Pilari</th><th>Mitä mittaa</th><th>Lähde</th><th class="pts">Paino</th></tr></thead>
       <tbody>
-        <tr><td><b>Digitaalinen laatu</b></td><td>Suorituskyky (40), saavutettavuus (30), SEO (15), tekniset käytännöt (15) — mobiili</td><td class="src">Lighthouse 12</td><td class="pts"><b>30 %</b></td></tr>
-        <tr><td><b>Läpinäkyvyys</b></td><td>Lakisääteinen korkoesimerkki (30), korkoväli (15), lainaehdot (15), Y-tunnus (10), kumppanimäärä (15), riippumaton arviolähde (15)</td><td class="src">Verkkosivu + AI-ekstraktio</td><td class="pts"><b>30 %</b></td></tr>
+        <tr><td><b>Digitaalinen laatu</b></td><td>Suorituskyky (40), saavutettavuus (30), SEO (15), tekniset käytännöt (15) — mobiili</td><td class="src">Lighthouse (mobiili)</td><td class="pts"><b>30 %</b></td></tr>
+        <tr><td><b>Läpinäkyvyys</b></td><td>Kategoriakohtaiset kriteerit — sama painoarvo, eri mittarit. Ks. taulukko alla.</td><td class="src">Verkkosivu + AI-ekstraktio</td><td class="pts"><b>30 %</b></td></tr>
         <tr><td><b>Tavoitettavuus</b></td><td>Puhelin (30), sähköposti (15), chat (15), aukioloajat (15), UKK (15), mobiilisovellus (10)</td><td class="src">Verkkosivu + AI-ekstraktio</td><td class="pts"><b>20 %</b></td></tr>
         <tr><td><b>AI-laatuarvio</b></td><td>Tietojen selkeys, hintatietojen löydettävyys, sisällön kattavuus (0–100)</td><td class="src">Claude Haiku 4.5</td><td class="pts"><b>20 %</b></td></tr>
       </tbody>
     </table>
   </div>
+
+  <div class="receipt" style="margin-top:26px">
+    <div class="receipt-head"><h3>Läpinäkyvyys — kategoriakohtaiset kriteerit <span class="w">· paino 30 %</span></h3><span class="sub">{len(VERTICALS)} kategoriaa</span></div>
+    <table class="rows">
+      <thead><tr><th>Kategoria</th><th>Mitä läpinäkyvyys tarkoittaa tässä kategoriassa</th><th class="pts">Yhteensä</th></tr></thead>
+      <tbody>
+        {"".join(f'<tr><td><b>{esc(v["nimi"])}</b></td><td>{esc(v["lapinakyvyys_kriteerit"])}</td><td class="pts"><b>100</b></td></tr>' for v in VERTICALS)}
+      </tbody>
+    </table>
+  </div>
+  <p class="note">Kolme muuta pilaria (digitaalinen laatu, tavoitettavuus, AI-laatuarvio) mitataan täsmälleen samoilla mittareilla kategoriasta riippumatta. Vain läpinäkyvyys on kategoriakohtainen — lainanvälittäjän korkoesimerkki ja sähköyhtiön hinnasto eivät ole sama asia, mutta molemmat vastaavat samaan kysymykseen: <b>kertooko yritys hinnan ennen kuin annat tietojasi?</b></p>
 
   <div class="steps" style="margin-top:26px">
     <div class="step"><span class="k">DATALÄHTEET</span><h3>Vain julkista dataa</h3><p>Yrityksen oma verkkosivu, YTJ/PRH-avoin data ja tekniset mittaukset. Emme käytä ostettuja arvosteluja emmekä yritysten itse toimittamia lukuja.</p></div>
@@ -933,11 +975,12 @@ def build_metodologia():
       <li style="padding-left:0"><b>Affiliate-linkit eivät vaikuta pisteisiin.</b> Voimme saada komission, kun siirryt palveluun linkistämme. Komissio ei ole mittari.</li>
       <li style="padding-left:0"><b>Analyysipalvelu neuvoo, ei nosta.</b> Yritys voi ostaa analyysin siitä, mitkä mittarit painavat sen sijoitusta — pisteet nousevat vasta kun mittarit oikeasti paranevat.</li>
       <li style="padding-left:0"><b>AI-arviot ovat toistettavia.</b> Sama malli (Claude Haiku 4.5), sama ohjeistus ja sama data jokaiselle yritykselle samassa päivityksessä.</li>
+      <li style="padding-left:0"><b>”Havainto” on meidän huomiomme, ei yrityksen lainaus.</b> Pisterivien alla näkyvä havainto kertoo, mitä sivustolla oli nähtävissä mittaushetkellä. Se voi olla suora lainaus sivulta tai tiivistys siitä mitä kävijä näkee — usein se kuvaa nimenomaan jonkin tiedon <em>puuttumista</em>, jota ei voi lainata. Emme siksi esitä havaintoja yrityksen omina sanoina.</li>
       <li style="padding-left:0"><b>Virheet korjataan.</b> Jos yritys osoittaa mittausvirheen, korjaamme datan seuraavassa päivityksessä ja merkitsemme korjauksen.</li>
     </ul>
   </div>
 
-  <div class="note" style="margin-top:26px"><b>Demo-huomautus:</b> Tämä on konseptin esittelyversio. Lainavertailun data on kerätty oikeista julkisista lähteistä {UPDATED}, mutta mittaristo on suppeampi kuin tuotantoversiossa (26 / ~200 mittaria) ja kattaa vain palveluiden julkiset verkkosivut — ei esimerkiksi todellisia lainatarjouksia.</div>
+  <div class="note" style="margin-top:26px"><b>Demo-huomautus:</b> Tämä on konseptin esittelyversio. Jokaisen kategorian data on kerätty oikeista julkisista lähteistä sen omana mittauspäivänä ({esc(", ".join(f"{v['nimi'].lower()} {v['updated']}" for v in VERTICALS))}), mutta mittaristo on suppeampi kuin tuotantoversiossa (~26 / ~200 mittaria) ja kattaa vain palveluiden julkiset verkkosivut — ei esimerkiksi todellisia lainatarjouksia, vakuutusmaksuja tai pörssisähkön hintakehitystä.</div>
 </div>"""
     return page("Metodologia — näin Suomen Paras Score lasketaan | Suomen Paras",
                 "Suomen Paras Score on julkinen ja deterministinen: pilarit, painot, lähteet ja riippumattomuusperiaatteet.",
@@ -955,12 +998,16 @@ def main():
     w("assets/style.css", CSS)
     w("assets/app.js", APP_JS)
     w("index.html", build_index())
-    w("lainavertailu/index.html", build_lainavertailu())
     w("kategoriat/index.html", build_kategoriat())
     w("metodologia/index.html", build_metodologia())
-    for i, c in enumerate(SCORES, 1):
-        w(f"yritys/{c['slug']}/index.html", build_profile(c, i))
-    print("OK —", 4 + len(SCORES), "pages")
+    n = 3
+    for v in VERTICALS:
+        w(f"{v['slug']}/index.html", build_vertical(v))
+        n += 1
+        for i, c in enumerate(v["yritykset"], 1):
+            w(f"yritys/{v['slug']}/{c['slug']}/index.html", build_profile(c, i, v))
+            n += 1
+    print(f"OK — {n} pages, {len(VERTICALS)} verticals, {len(ALL_COMPANIES)} companies")
 
 if __name__ == "__main__":
     main()

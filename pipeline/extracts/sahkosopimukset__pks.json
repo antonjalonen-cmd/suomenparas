@@ -1,0 +1,50 @@
+{
+  "slug": "pks",
+  "hinta_esilla_ilman_yhteystietoja": "kylla",
+  "perusmaksu_esilla": "kylla",
+  "sopimusehdot_selkeasti": "osittain",
+  "alkupera_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "y_tunnus": null,
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "kylla",
+  "puhelin": "013 2663 100",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "sopimustyypit": [
+    "porssisahko",
+    "kiinteä",
+    "maaraaikainen"
+  ],
+  "hinta_snt_kwh": 1.63,
+  "perusmaksu_eur_kk": 2.47,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selkeästi etusivulla ilman rekisteröitymistä, vertailu helppo",
+    "Laaja sopimustyyppivalikoima (pörssisähkö, kiinteä, määräaikaiset) kaikilla perusilla",
+    "Uusiutuvan energian alkuperä selvä (vesi- ja tuulivoimasähkö) kaikilla sopimuksilla"
+  ],
+  "kehityskohteet": [
+    "Henkilöasiakkaille ei ole sähköpostiosoitetta näkyvissä (vain puhelinnumero), yritysasiakkailla on",
+    "Sopimusehdot (irtisanomisaika, ehdot) eivät ole julkisesti helposti saatavilla ilman linkkien klikkaamista",
+    "Ei näytä riippumattomia arvioita (Trustpilot, EPSI Rating tai muita tutkimuksia) vertailuarvoksi"
+  ],
+  "yhteenveto": "PKS (Pohjois-Karjalan Sähkö Oy) on kuntaomisteinen sähköyhtiö, joka myy sopimuksia ympäri Suomen. Verkkosivustolla on näkyvissä selkeät hinnat (1,63–13,50 snt/kWh), perusmaksut (2,47–4,56 €/kk) ja laaja sopimustyyppien valikoima ilman rekisteröitymisvaatimusta. Uusiutuvan energian alkuperä on dokumentoitu kaikissa sopimuksissa. Asiakaspalveluun tavoittaa puhelimitse (013 2663 100, ma-to klo 8-16, pe 9-16) ja PKS Live -portaalissa. Kehityskohteena henkilöasiakkaiden sähköpostin puute ja riippumattomien arvioiden (Trustpilot ym.) puuttuminen.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "Priima 1,63 snt/kWh, Optimi kuukausi 7,20 snt/kWh, Oiva 9,86 snt/kWh, Oiva plus 8,92 snt/kWh näkyvissä etusivulla",
+    "perusmaksu_esilla": "Kuukausimaksu 4,56 € ja Kuukausimaksu 2,47 € selkeästi näkyvissä sopimuksien esittelyssä",
+    "alkupera_kerrottu": "Valitse sopimuksellesi uusiutuvalla ja vähäpäästöisellä tuuli- tai vesivoimalla tuotettu sähkö"
+  }
+}

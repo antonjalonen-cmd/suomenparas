@@ -1,0 +1,30 @@
+{
+ "slug": "turkuenergia",
+ "hinta_esilla_ilman_yhteystietoja": "kylla",
+ "perusmaksu_esilla": "kylla",
+ "sopimusehdot_selkeasti": "kylla",
+ "alkupera_kerrottu": "osittain",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "02 2628 111",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "sopimustyypit": ["porssisahko", "kiintea", "maaraaikainen"],
+ "hinta_snt_kwh": 8.87,
+ "perusmaksu_eur_kk": 4.90,
+ "ai_arviot": {"selkeys": 85, "hintojen_loydettavyys": 95, "sisallon_kattavuus": 75},
+ "vahvuudet": ["Sähkön hinnat ja perusmaksut näkyvät selkeästi ilman rekisteröitymistä", "Laaja sähkösopimustyyppien valikoima (pörssi, kiinteä, määräaikainen, uusiutuva)", "Monipuolinen asiakaspalvelu puhelimen, sähköpostin ja chatbot-palvelun kautta saavutettavissa"],
+ "kehityskohteet": ["Sähkön alkuperää kuvataan vain osittain - vain 'Louna Pörssi uusiutuva' -sopimuksessa mainitaan uusiutuva energia", "Y-tunnus ei näy julkisesti verkkosivuilla, vaikka se olisi olennainen yritystiedon kannalta", "Mobiilisovellus puuttuu, kun monella kilpailijalla on oma sovellus asiakkaiden hallinnoimiseen"],
+ "yhteenveto": "Turku Energia on Turun kaupungin omistama energiayhtiö, joka tarjoaa sähkösopimuksia, kaukolämpöä ja muita energiapalveluita koko Suomessa. Verkkosivuilla hinnat, perusmaksut ja sopimustyypit ovat selkeästi esillä ilman kirjautumista. Asiakaspalvelu on helposti saavutettavissa puhelimen, sähköpostin ja chatbotin kautta. Puutteita ovat sähkön alkuperän osittainen kuvaaminen ja mobiilisovelluksen puuttuminen.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "Louna Lähi 6 kk: 11,40 snt/kWh, Perusmaksu: 4,90 €/kk",
+  "perusmaksu_esilla": "Louna Varma: Perusmaksu: 4,90 €/kk",
+  "alkupera_kerrottu": "Louna Pörssi uusiutuva: 0,79 snt/kWh + pörssisähkön varttihinta"
+ }
+}

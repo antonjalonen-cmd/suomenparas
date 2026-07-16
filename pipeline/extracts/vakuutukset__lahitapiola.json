@@ -1,0 +1,29 @@
+{
+ "slug": "lahitapiola",
+ "hintalaskuri_ilman_yhteystietoja": "osittain",
+ "vakuutusehdot_saatavilla": "kylla",
+ "omavastuu_selkeasti": "osittain",
+ "korvausprosessi_kuvattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "+358 800 0 4531",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "vakuutuslajit": ["koti","auto","matka","tapaturma","henki","sairauskuluvakuutus","koira","kissa","hevonen","metsä"],
+ "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 65, "sisallon_kattavuus": 75},
+ "vahvuudet": ["Laaja vakuutustuotteiden valikoima kaikille asiakasryhmille", "Selkeä FAQ-osio ja dokumentoidut vakuutustyypit", "24/7 hätäpalvelu ja dokumentoidut korvausajat"],
+ "kehityskohteet": ["Y-tunnus ei nähtävillä julkisesti", "Hintalaskuri vaatii postinumeron ennen tarjoustaan", "Asiakasarvioita tai riippumattomia luokituksia puuttuu"],
+ "yhteenveto": "LähiTapiola Keskinäinen Vakuutusyhtiö on suuri suomalainen vakuutusyritys, joka tarjoaa laajan valikoiman vakuutustuotteita henkilöasiakkaille. Sivusto esittelee vakuutustyypit selkeästi, ohjaa asiakkaita FAQ-osion ja dokumentoitujen korvausaikojen kautta, mutta hintojen vertailu vaatii postinumeron syöttämisen ja Y-tunnus puuttuu julkisen näkyvyyden alueelta. Riippumattomia asiakasarvioita ei näy.",
+ "evidence": {
+  "hintalaskuri_ilman_yhteystietoja": "textbox merkitty sekä kotivakuutuksessa että autovakuutuksessa - hintalaskuri vaatii vähintään postinumeron ennen rajan saavuttamista",
+  "omavastuu_selkeasti": "Linkki 'omavastuut' näkyvissä kotivakuutussivulla, mutta spesifikit euromäärät eivät näy ilman hintakotivakuutusta laskuria",
+  "korvausprosessi_kuvattu": "Keskimääräiset käsittelyajat listattuna: koti-irtaimisto ja matkatavarat 3 arkipäivää, ajoneuvot 4-5 arkipäivää, rakennuskorvaukset 3-6 arkipäivää, sairauskulu 3-8 arkipäivää, matkakorvaukset 3-8 arkipäivää",
+  "riippumaton_arvio": "Trustpilot, EPSI Rating tai muut riippumattomat luokitusjärjestelmät puuttuvat sivustolta"
+ }
+}

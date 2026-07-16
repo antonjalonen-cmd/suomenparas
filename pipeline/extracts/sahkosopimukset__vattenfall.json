@@ -1,0 +1,31 @@
+{
+ "slug": "vattenfall",
+ "hinta_esilla_ilman_yhteystietoja": "osittain",
+ "perusmaksu_esilla": "kylla",
+ "sopimusehdot_selkeasti": "kylla",
+ "alkupera_kerrottu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "kylla",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "020 722 9000",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "sopimustyypit": ["porssisahko", "kiintea", "maaraaikainen"],
+ "hinta_snt_kwh": 14.90,
+ "perusmaksu_eur_kk": 5.95,
+ "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 35, "sisallon_kattavuus": 70},
+ "vahvuudet": ["Selkeä sopimusvalikoima (6 eri sopimusta: pörssisähkö, kiinteä, määräaikainen)", "Fossiiliton sähkö kaikkien kotitalouksien sopimuksissa", "Riippumattomista lähteistä useita palkintoja (Sustainable Brand Index, Ecovadis Platinum 2025)"],
+ "kehityskohteet": ["Hinnat hyvin suljettu: vain yksi konkreettinen hinta (14,90 snt/kWh) näkyy ilman yhteydenottoa", "Perusmaksu näkyy vain referenssinä 'norm. 5,95 €/kk' ilman nykyisiä alennuksia", "Ei sähköpostiosoitetta asiakaspalvelulle, vain puhelin ja chat"],
+ "yhteenveto": "Vattenfall on Ruotsalaisen valtionyhtiön omistama sähköntoimittaja, joka myy vain fossiilivapaata sähköä. Sivuilla on hyvä sopimusten valikoima ja riippumattomia palkintoja, mutta hinnoittelu on hyvin suljettu: konkreettisia hintoja näytetään vain rajoitetusti. Asiakaspalvelu on helposti saavutettavissa puhelimitse (020 722 9000), chat-kautta ja mobiilisovelluksen avulla.",
+ "evidence": {
+   "hinta_esilla_ilman_yhteystietoja": "Hinta, jos kulutus ylittää 125 kWh/kk: 14,90 snt/kWh",
+   "perusmaksu_esilla": "Alennettu perusmaksu (norm. 5,95 €/kk)",
+   "alkupera_kerrottu": "Myymme Suomessa vain fossiilivapaata sähköä kotitalouksille tuuli-, vesi-, aurinko- ja/tai ydinvoimalla",
+   "riippumaton_arvio": "Ecovadis Platinum 2025, Sustainable Brand Index 8. vuosi peräkkäin"
+ }
+}

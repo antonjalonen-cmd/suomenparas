@@ -1,0 +1,42 @@
+{
+  "slug": "elisa",
+  "kk_hinta_esilla_ilman_yhteystietoja": "osittain",
+  "kampanjan_jalkeinen_hinta": "osittain",
+  "sopimusaika_ja_avausmaksu": "osittain",
+  "saatavuustarkistus_ilman_yhteystietoja": "kylla",
+  "y_tunnus_esilla": "ei",
+  "y_tunnus": null,
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+  "puhelin_esilla": "kylla",
+  "puhelin": "010 190 240",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "tekniikat": ["kuitu", "kaapeli", "5g", "vdsl2", "g.fast"],
+  "halvin_kk_hinta_eur": null,
+  "nopein_mbps": 1000,
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja teknologioiden valikoima (kuitu, kaapeli, 5G, VDSL2, G.FAST) tarjoaa ratkaisuja eri alueille",
+    "Helposti saatavilla olevat asiakaspalvelun yhteystiedot (puhelin, chat, sähköpostilomake) ja 24/7 avun saatavuus vikailmoituksille",
+    "Selkeät palvelutasot (300M, 600M, 1000M) ja tarjolla olevia lisäpalveluita kuten Tuplakaista"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu ei ole näkyvillä pääsivustolla — asiakkaiden on käytettävä osoitehakua saatavuuden tarkistamiseen tai siirry verkkokauppaan hintojen näkemiseksi",
+    "Kampanjoiden jälkeinen hinta ei ole selkeästi esillä — Black Friday-kampanjoita mainitaan, mutta normaali hinta puuttuu",
+    "Ei näkyviä kolmannen osapuolen asiakasarvioita tai riippumattomia arvioita (esim. EPSI Rating, Trustpilot) — johtaa luottamuspuutteeseen"
+  ],
+  "yhteenveto": "Elisa on merkittävä suomalainen teleoperaattori, joka tarjoaa kotiin annettavaa laajakaistaa useilla teknologioilla (kuitu, kaapeli, 5G). Sivusto sisältää kattavat palvelun kuvaukset, asiakastuen yhteystiedot ja FAQ-osiosta, mutta hinnoittelu on osittain piilotettu verkkokaupan takana eikä kolmannen osapuolen arvioita ole näkyvillä. Saatavuuden tarkistaminen on mahdollista ilman yhteystietoja (osoitehakulla), mikä on käyttäjäystävällistä.",
+  "evidence": {
+    "kk_hinta_esilla_ilman_yhteystietoja": "Sivustolla mainitaan kolme palvelutasoa (Elisa Netti 300M, 600M, 1000M) nopeuksilla, mutta euroissa ilmoitettuja kuukausihintoja ei näy julkisesti — hintojen näkemiseksi vaaditaan osoitehaun tekeminen tai verkkokauppaan siirtyminen",
+    "kampanjan_jalkeinen_hinta": "Black Friday-kampanjat mainitaan, mutta normaalin hinnoittelun taso kampanjoiden jälkeen ei ole selkeästi esillä — vaatii yhteydenottoa tai verkkokaupassa selaamista",
+    "sopimusaika_ja_avausmaksu": "Sopimusehdoista löytyvät yleiset ehdot kuluttaja-asiakkaille (pvm 1.2.2021), mutta avausmaksu (toimitusmaksu) ja sopimuksen keston vaihtoehdot (määräaikainen vs. toistaiseksi) eivät näy pääsivustolla — vaatii yhteydenottoa"
+  }
+}

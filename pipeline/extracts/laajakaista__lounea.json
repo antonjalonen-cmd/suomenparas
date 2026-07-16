@@ -1,0 +1,30 @@
+{
+ "slug": "lounea",
+ "kk_hinta_esilla_ilman_yhteystietoja": "ei",
+ "kampanjan_jalkeinen_hinta": "osittain",
+ "sopimusaika_ja_avausmaksu": "osittain",
+ "saatavuustarkistus_ilman_yhteystietoja": "kylla",
+ "y_tunnus_esilla": "ei",
+ "y_tunnus": null,
+ "riippumaton_arvio": "ei",
+ "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "puhelin_esilla": "kylla",
+ "puhelin": "0800 30300",
+ "email_esilla": "kylla",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "tekniikat": ["kuitu"],
+ "halvin_kk_hinta_eur": null,
+ "nopein_mbps": 10000,
+ "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 35, "sisallon_kattavuus": 75},
+ "vahvuudet": ["Selkeä saatavuustarkistus ilman yhteystietoja", "Laajat palvelut: kuitu, TV, WiFi, kyberturvallisuus", "Hyvä asiakaspalvelu useilla kanavilla (puhelin, sähköposti, AI-avustaja 24/7)"],
+ "kehityskohteet": ["Hintojen piilottaminen saatavuustarkistuksen taakse", "Y-tunnusta ei näytetä verkkosivuilla", "Kampanjoiden jälkeisiä normaalihintoja ei selvästi ilmoiteta"],
+ "yhteenveto": "Lounea on kotimainen kuituoperaattori, joka tarjoaa valokuituliittymiä koko Suomeen. Verkkosivuilla esitellään palvelun laatu ja luotettavuus (99,999% toimintavarmuus), mutta hinnoittelu on piilotettu saatavuustarkistuksen taakse. Sivusto on hyvin organisoitu ja tarjoaa kattavat ohjeet sekä asiakastukea monella kanavalla, mutta puuttuvat Y-tunnus ja kampanjoiden jälkeiset hinnat heikentävät läpinäkyvyyttä.",
+ "evidence": {
+  "kk_hinta_esilla_ilman_yhteystietoja": "Verkkosivuilla olevan saatavuustarkistimen avulla voi tarkistaa \"saatavuus ja hinta\", mutta varsinaisia hintoja ei näytetä kirjautumatta tai antamatta osoitetta.",
+  "kampanjan_jalkeinen_hinta": "Kampanjat mainitaan (\"Paluu kouluun\", \"Kesä 2026\"), mutta kampanjoiden jälkeisiä normaalihintoja ei selvästi ilmoiteta.",
+  "sopimusaika_ja_avausmaksu": "Asennusmaksut näytetään (€990 kaupunkialueilla, €1 550 maaseutualla), mutta kuukausihintoja ja sopimuskaudet vaativat osoitteen antamisen."
+ }
+}

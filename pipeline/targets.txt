@@ -1,0 +1,31 @@
+# <vertical>__<slug>=<domain>   — the URL actually measured is recorded in _summary.json
+# VAKUUTUKSET (7 national consumer non-life insurers, verified 16.7.2026)
+vakuutukset__if=if.fi
+vakuutukset__lahitapiola=lahitapiola.fi
+vakuutukset__pohjola=pohjola.fi
+vakuutukset__fennia=fennia.fi
+vakuutukset__turva=turva.fi
+vakuutukset__pohjantahti=pohjantahti.fi
+vakuutukset__popvakuutus=popvakuutus.fi
+
+# SÄHKÖSOPIMUKSET (9 national retailers, verified 16.7.2026; Väre excluded — merged into Helen 31.5.2026)
+sahkosopimukset__fortum=fortum.fi
+sahkosopimukset__helen=helen.fi
+sahkosopimukset__oomi=oomi.fi
+sahkosopimukset__vattenfall=vattenfall.fi
+sahkosopimukset__vaasansahko=vaasansahko.fi
+sahkosopimukset__turkuenergia=turkuenergia.fi
+sahkosopimukset__pks=pks.fi
+sahkosopimukset__omavoima=omavoima.fi
+sahkosopimukset__nordicgreen=nordicgreen.fi
+
+# LAAJAKAISTA (3 national + 6 regional fibre, verified 16.7.2026; Saunalahti=Elisa and Moi=DNA excluded)
+laajakaista__elisa=elisa.fi
+laajakaista__telia=telia.fi
+laajakaista__dna=dna.fi
+laajakaista__lounea=lounea.fi
+laajakaista__mpy=mpy.fi
+laajakaista__kaisanet=kaisanet.fi
+laajakaista__lennu=lennu.fi
+laajakaista__blc=blc.fi
+laajakaista__valoo=valoo.fi

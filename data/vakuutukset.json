@@ -1,0 +1,1497 @@
+{
+ "slug": "vakuutukset",
+ "nimi": "Vakuutukset",
+ "nav": "Vakuutukset",
+ "h1": "Suomen paras vakuutusyhtiö 2026",
+ "yksikko": "suomalaista vahinkovakuutusyhtiötä",
+ "lead": "Pisteytimme {n} suomalaista vahinkovakuutusyhtiötä {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Tärkein kysymys: saatko hinnan tietää ennen kuin luovutat tietosi?",
+ "meta_title": "Suomen paras vakuutusyhtiö 2026 — vahinkovakuuttajat pisteytettynä | Suomen Paras",
+ "meta_desc": "7 suomalaista vahinkovakuutusyhtiötä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti LähiTapiolan omistama — kaksi listan brändiä on siis samassa konsernissa. Neljä yhtiötä (LähiTapiola, Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Näytämme omistajan jokaisen kohdalla.",
+  "<b>Miksi listalla on vain 7 yhtiötä?</b> Tarkistimme jokaisen brändin olemassaolon kaupparekisteristä 16.7.2026. Listalta puuttuvat: <b>Säästöpankki</b> (vahinkovakuutusten myynti loppui 3.6.2025, siirtymä valmis 2.1.2026), <b>Folksam</b> (sulautui Fenniaan 2019), <b>A-Vakuutus</b> (Pohjola Vakuutuksen vanha nimi), <b>Nordea</b> (myy If:n vakuutuksia omalla kanavallaan, ei oma vahinkovakuuttaja) ja <b>Aktia</b> (vain henkivakuutus). Alandia (meri/vene) ja Ålands Försäkringar (vain Ahvenanmaa) rajattiin pois, koska ne eivät myy valtakunnallista koti-/auto-/matkavakuutusta.",
+  "Emme anna vakuutusneuvontaa emmekä vertaile vakuutusmaksuja. Vertailu kuvaa yhtiöiden julkisten verkkosivujen mitattavia ominaisuuksia — todellinen vakuutusmaksu on aina henkilökohtainen ja riippuu kohteesta. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "if",
+   "nimi": "If",
+   "domain": "if.fi",
+   "omistaja": "Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)",
+   "y_tunnus": "1602149-8",
+   "rekisteroity": 2000,
+   "score": 76.2,
+   "pillars": {
+    "digitaalinen": 69.0,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Laske hinta verkossa ilman pakollisia yhteystietoja; auto-laskuri vaatii autosi ominaisuudet, arvioimasi ajokilometrit vuositasolla sekä ikäsi ja kotiosoitteesi"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Valitse täyskaskoon sinulle sopiva omavastuu ja vaikuta vakuutusmaksuusi (€200, €500); matkavakuutuksessa omavastuu aina 0 euroa"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 8525.030299999999,
+    "cls": 0.002415527455810256,
+    "tbt_ms": 777
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Ajoneuvot, Henkilö, Eläin, Vene, Metsä"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja tuotetarjonta kahdeksalla vakuutuslajilla",
+    "Trustpilot-arviointi 4.0/5 tähteä ja parhain asiakaskokemus vakuutusalalla 2024-2025",
+    "Hintalaskuri saatavilla ilman pakollisia henkilöllisiä yhteystietoja"
+   ],
+   "kehityskohteet": [
+    "Sähköposti-yhteydenotto ei ole ensisijainen kanava, vain Omat sivut -viestipalvelu",
+    "Hintalaskuri vaatii kotiosoitteen ja ikätiedon ennen hinnan näyttämistä",
+    "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelinpalvelu ja viestipalvelut"
+   ],
+   "yhteenveto": "If on Pohjoismaiden suurin vakuutusyhtiö, joka tarjoaa laajan vakuutusvalikoiman henkilöasiakkaille. Sivusto on hyvin järjestetty, vakuutusehdot saatavilla PDF-muodossa ja hintalaskuri toimii ilman pakollisia henkilöllisiä yhteystietoja. Asiakastyytyväisyys on korkea (Trustpilot 4.0/5, EPSI-tutkimuksessa parhain vakuutusalalla), mutta sähköpostipalvelu ja chat-tuki puuttuvat."
+  },
+  {
+   "slug": "popvakuutus",
+   "nimi": "POP Vakuutus",
+   "domain": "popvakuutus.fi",
+   "omistaja": "LähiTapiola 70 % / POP Pankki -ryhmä 30 % (Suomen Vahinkovakuutus Oy)",
+   "y_tunnus": "2432824-6",
+   "rekisteroity": 2011,
+   "score": 68.5,
+   "pillars": {
+    "digitaalinen": 74.7,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 65.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "49/100",
+       "paino": 40,
+       "pisteet": 49,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintalaskuri vaatii 'Henkilötunnuksesi (ppkkvv-XXXX)' -kentän täyttämisen"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kotivakuutuksella: 'Omavastuu rakennuksen vahingoille on 300 euroa' ja 'irtaimistovahingoissa 200 euroa'"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "EPSI Rating Vakuutus 2025 -tutkimuksessa POP Vakuutus 78.5 index points (2nd place)"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 49,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 8744.404499999997,
+    "cls": 0.07131243543761491,
+    "tbt_ms": 410
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Autovakuutus, Kotivakuutus, Matkavakuutus, Tapaturmavakuutus, Venevakuutus, Moottoripyörävakuutus"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä verkkopalvelu ja helppokäyttöinen hintalaskuri",
+    "EPSI Rating 2025 -tutkimuksessa 2. sija ja parhaat asiakasarviot hinta-laatusuhteesta",
+    "Kattavat vakuutusehdot ja korvausohjeistot saatavilla ilman kirjautumista"
+   ],
+   "kehityskohteet": [
+    "Hintalaskuri vaatii henkilötunnuksen, joten täysin anonyymia hinnan laskemista ei ole mahdollista",
+    "Y-tunnus ja muut yritystiedot eivät näy verkkosivustolla",
+    "Mobiilisovellusta ei ole saatavilla"
+   ],
+   "yhteenveto": "POP Vakuutus (Suomen Vahinkovakuutus Oy) on digitaalinen vakuutusyhtiö, joka tarjoaa auto-, koti-, matka-, tapaturma-, vene- ja moottoripyörävakuutuksia. Sivusto on selkeä ja vakuutusten ehdot ovat vapaasti saatavilla PDF-muodossa. EPSI Rating 2025 -tutkimuksessa yhtiö sijoittui 2. sijalle 78,5 pisteellä ja sai kiitosta erityisesti hinta-laatusuhteesta. Haittapuolia ovat henkilötunnuksen vaatiminen hintalaskurissa sekä Y-tunnuksen puuttuminen verkkosivuilta."
+  },
+  {
+   "slug": "pohjantahti",
+   "nimi": "Pohjantähti",
+   "domain": "pohjantahti.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0146905-4",
+   "rekisteroity": 1978,
+   "score": 63.6,
+   "pillars": {
+    "digitaalinen": 70.3,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 72.5,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vaatii rekisteröintinumeron ja henkilötunnuksen, mutta ei nimeä, sähköpostia tai puhelinnumeroa"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Listaus vakuutusehdot ja tuoteselosteet -sivulla ei näytä niiden sisältöä"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "8.1 Asiakkaiden arvio palvelustamme - ei mainintaa lähteestä kuten Trustpilot tai EPSI Rating"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 12544.199990000001,
+    "cls": 0.12019989547177222,
+    "tbt_ms": 561.5593800000015
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Vene, Hevonen, Lemmiikki, Henki, Terveys, Tapaturma, Oikeusturva, Metsä, Asuntovaunut"
+    }
+   ],
+   "vahvuudet": [
+    "Kaikki vakuutusehdot ja tuoteselosteet ladattavissa PDF-muodossa ilman kirjautumista",
+    "130 vuotta toimintaa, selkeä Y-tunnus ja yrityksen tiedot esillä",
+    "24/7 digitaalinen palvelu Oma Pohjantähti -portaalin kautta"
+   ],
+   "kehityskohteet": [
+    "Omavastuut eivät näy julkisilla sivuilla, vaan ainoastaan PDF-ehdoissa",
+    "Vahinkojen korvaamisen prosessia ei kuvattu selkeästi ilman kirjautumista",
+    "Hintoja saatavilla vain henkilötunnuksella ja postinumerolla, kotivakuutuksille ei hintalaskuria"
+   ],
+   "yhteenveto": "Pohjantähti on 130 vuotta toiminut keskinäinen vakuutusyhtiö, joka tarjoaa laajasti henkilö- ja yritysasiakkaiden vakuutuksia. Verkkosivusto on selkeästi rakennettu kotimaisen vakuutuspalvelun ja neljän kanavan (puhelin, sähköposti, verkkopalvelu, henkilökohtainen neuvoja) kanssa, mutta tärkeät tiedot kuten omavastuut ja korvaamisprosessin yksityiskohdat on piilotettu PDF-asiakirjojen ja kirjautumisen taakse. Autovakuutuksen hintalaskuri toimii ilman yhteystietoja, mutta vaatii henkilötunnuksen."
+  },
+  {
+   "slug": "fennia",
+   "nimi": "Fennia",
+   "domain": "fennia.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0196826-7",
+   "rekisteroity": 1978,
+   "score": 62.2,
+   "pillars": {
+    "digitaalinen": 81.7,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 53.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Laske hinta ja osta matkavakuutus — portaali osto.fennia.fi ohjaa sivulle 'Verkkopalvelumme ei ole juuri nyt käytettävissä'"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Chat-tuki saatavilla Oma Fennia -verkkopalvelussa ma–pe klo 9–16.30"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vakuutukset, asiakastiedot, laskutus: ma–pe klo 9–16.30; Vahinko- ja korvausasiat: ma–pe klo 9–16"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5070.6785,
+    "cls": 0,
+    "tbt_ms": 756.5
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Auto, Matka, Koti, Tapaturma, Henki, Sairaus, Lemmikki"
+    }
+   ],
+   "vahvuudet": [
+    "Vakuutusehdot ja tuoteesitteet ladattavissa julkisesti PDF-muodossa",
+    "Selkeät puhelinnumerot ja aukioloajat henkilöasiakkaille kaikkien palveluiden osalta",
+    "Chat-tuki saatavilla Oma Fennia -palvelussa arkipäivät 9-16.30"
+   ],
+   "kehityskohteet": [
+    "Omavastuu (omavastuu) ei ole määritelty julkisilla sivuilla, vaan asiakkaan täytyy katsoa omista vakuutusehtoistaan",
+    "Hintalaskuri-portaali (osto.fennia.fi) ei ole tällä hetkellä käytettävissä, joten hintojen vertailu on mahdotonta",
+    "Y-tunnus ei näy julkisilla sivuilla, eikä itsenäisiä arvioita (Trustpilot, EPSI Rating) ole näkyvillä"
+   ],
+   "yhteenveto": "Fennia on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa henkilö-, koti-, liikenne-, matka- ja muita vakuutuspalveluita. Suurin vahvuus on vakuutusehdosten ja tuoteesitteiden saatavuus PDF-muodossa sekä selkeät yhteystiedot ja aukioloajat. Heikkouksia ovat puuttuvat omavastuut julkisilla sivuilla, hintalaskuriportaalin puuttuminen (ei ole käytettävissä) ja puuttuva Y-tunnus sekä itsenäiset arviot."
+  },
+  {
+   "slug": "lahitapiola",
+   "nimi": "LähiTapiola",
+   "domain": "lahitapiola.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211034-2",
+   "rekisteroity": 1978,
+   "score": 60.2,
+   "pillars": {
+    "digitaalinen": 54.5,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 70.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "7/100",
+       "paino": 40,
+       "pisteet": 7,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "textbox merkitty sekä kotivakuutuksessa että autovakuutuksessa - hintalaskuri vaatii vähintään postinumeron ennen rajan saavuttamista"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Linkki 'omavastuut' näkyvissä kotivakuutussivulla, mutta spesifikit euromäärät eivät näy ilman hintakotivakuutusta laskuria"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Keskimääräiset käsittelyajat listattuna: koti-irtaimisto ja matkatavarat 3 arkipäivää, ajoneuvot 4-5 arkipäivää, rakennuskorvaukset 3-6 arkipäivää, sairauskulu 3-8 arkipäivää, matkakorvaukset 3-8 arkipäivää"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Trustpilot, EPSI Rating tai muut riippumattomat luokitusjärjestelmät puuttuvat sivustolta"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 7,
+    "accessibility": 86,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 11806.982200000002,
+    "cls": 0.7811787181709331,
+    "tbt_ms": 3253
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Tapaturma, Henki, Sairauskuluvakuutus, Koira, Kissa, Hevonen, Metsä"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja vakuutustuotteiden valikoima kaikille asiakasryhmille",
+    "Selkeä FAQ-osio ja dokumentoidut vakuutustyypit",
+    "24/7 hätäpalvelu ja dokumentoidut korvausajat"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei nähtävillä julkisesti",
+    "Hintalaskuri vaatii postinumeron ennen tarjoustaan",
+    "Asiakasarvioita tai riippumattomia luokituksia puuttuu"
+   ],
+   "yhteenveto": "LähiTapiola Keskinäinen Vakuutusyhtiö on suuri suomalainen vakuutusyritys, joka tarjoaa laajan valikoiman vakuutustuotteita henkilöasiakkaille. Sivusto esittelee vakuutustyypit selkeästi, ohjaa asiakkaita FAQ-osion ja dokumentoitujen korvausaikojen kautta, mutta hintojen vertailu vaatii postinumeron syöttämisen ja Y-tunnus puuttuu julkisen näkyvyyden alueelta. Riippumattomia asiakasarvioita ei näy."
+  },
+  {
+   "slug": "turva",
+   "nimi": "Turva",
+   "domain": "turva.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211695-5",
+   "rekisteroity": 1978,
+   "score": 49.9,
+   "pillars": {
+    "digitaalinen": 69.2,
+    "lapinakyvyys": 25.0,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 58.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Laske hinta ja osta auton vakuutus verkossa"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Omavastuusta ei löytynyt euroja mainittavaksi"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Trustpilot, EPSI tai muita riippumattomia arvioita ei näy julkisesti"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 12218.336800000001,
+    "cls": 0,
+    "tbt_ms": 3081.966199999998
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Koira, Kissa"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja vakuutusvalikoima kotivakuutuksesta auto- ja matkaturvaan",
+    "Useita puhelinnumeroita helposti löydettävissä asiakaspalveluun",
+    "Selkeä navigaatio eri vakuutustuotteisiin"
+   ],
+   "kehityskohteet": [
+    "Omavastuu ja muut hinnoittelun osat eivät ole selkeästi näkyvissä ilman hintalaskurin täyttämistä",
+    "Asiakasarvioita tai riippumattomia arvioita (Trustpilot, EPSI) ei näy sivustolla",
+    "Vakuutusehdot ja tuoteselostat eivät ole julkisesti ladattavissa ilman rekisteröitymistä"
+   ],
+   "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa laajan valikoiman vakuutustuotteita koti-, auto-, matka- ja lemmikkivakuutuksista. Sivusto on selkeästi navigoitu ja asiakaspalvelu on helposti saavutettavissa puhelimitse. Kuitenkin hinnoittelutiedot (omavastuu, välihinnat), vakuutusehdot ja asiakasarviot ovat joko piilossa tai vaativat kirjautumista."
+  },
+  {
+   "slug": "pohjola",
+   "nimi": "Pohjola Vakuutus",
+   "domain": "pohjola.fi",
+   "omistaja": "OP Osuuskunta (OP Ryhmä)",
+   "y_tunnus": "1458359-3",
+   "rekisteroity": 1998,
+   "score": 28.2,
+   "pillars": {
+    "digitaalinen": 62.8,
+    "lapinakyvyys": 10.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 16.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "pohjola.fi uudelleenohjaa op.fi/henkiloasiakkaat/vakuutukset -sivulle, joka vaatii kirjautumisen hintojen näyttämiseen"
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vakuutusehto- ja omavastuu-tiedot ovat kirjautumisen takana, ei julkisesti näkyvissä"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei ole viittauksia Trustpilotin, EPSI Ratingin tai muiden riippumattomien arviointipalveluiden arvioihin"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "25/100",
+       "paino": 34,
+       "pisteet": 25,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 18832.250000000004,
+    "cls": 0.7303333569664314,
+    "tbt_ms": 656.5
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Henkivakuutus, Vakavan sairauden, Työkyvyttömyyden"
+    }
+   ],
+   "vahvuudet": [
+    "Monipuolinen vakuutustuotteiden valikoima",
+    "Integraatio OP-pankin palveluihin",
+    "Pohjola Vahinkoapu -korvauspalvelu"
+   ],
+   "kehityskohteet": [
+    "Hintojen ja vakuutusehtojen saatavuus vaatii kirjautumisen",
+    "Julkisten yhteydenottokeinojen puute",
+    "Puutteelliset tiedot omavastuu- ja korvausprosesseista"
+   ],
+   "yhteenveto": "OP/Pohjola Vakuutus on suurten pankkivakuutustuotteiden tarjoaja, mutta sen julkinen vakuutussivusto on asiakasportaali, joka edellyttää kirjautumista lähes kaikkien tietojen näyttämiseen. Hintalaskuri, vakuutusehdot, omavastuut ja korvausmenettely ovat pankin asiakasportaalin takana. Julkisten yhteydenottotietojen ja FAQ-osion puute heikentää saavutettavuutta anonyymeille sivuston kävijöille."
+  }
+ ],
+ "updated": "16.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta-arvio ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), omavastuu kerrottu selkeästi (15), korvausprosessi ja -ajat kuvattu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (15)"
+}
