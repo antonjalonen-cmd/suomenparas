@@ -75,6 +75,29 @@ def run(slug, domain, attempt=1):
 
 
 def main():
+    # Batches can overlap (batch 1 in-session while batch 2 fires on a timer).
+    # _summary.json is read-modify-write, so two concurrent runners would silently
+    # lose each other's measurements. Serialise them.
+    lock = os.path.join(CACHE, ".lighthouse.lock")
+    if os.path.exists(lock):
+        age = time.time() - os.path.getmtime(lock)
+        if age < 3600:
+            raise SystemExit(
+                f"another lighthouse run has held the lock for {age/60:.0f} min "
+                f"({lock}). Wait for it to finish, then re-run. Do NOT delete the lock "
+                f"unless you have confirmed no other run is active — concurrent runs "
+                f"silently drop measurements."
+            )
+        print(f"stale lock ({age/60:.0f} min old), taking over")
+    open(lock, "w").write(str(os.getpid()))
+    try:
+        _main()
+    finally:
+        if os.path.exists(lock):
+            os.remove(lock)
+
+
+def _main():
     args = sys.argv[1:]
     targets = []
     if args and args[0] == "--file":

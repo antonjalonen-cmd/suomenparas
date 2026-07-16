@@ -111,6 +111,21 @@ ones; existence claims (a price, a quoted figure) are stable.**
 Adding categories multiplies this. The real fix before this is a product, not a demo:
 multi-run consensus (N=3, per-field majority, flag disagreement).
 
+## ⚠️ BATCHES MUST NOT OVERLAP
+
+Batch 1 ran in-session while batch 2 was scheduled 2h later. If a batch is still
+building when the next one fires, they collide:
+- `pipeline/lh_cache/_summary.json` is read-modify-write → concurrent runners silently
+  lose measurements. `run_lighthouse.py` now takes `lh_cache/.lighthouse.lock` and
+  refuses to start if another run holds it (<1h old). **Do not delete that lock to
+  "get past" the error** — wait, or you corrupt both runs' data.
+- `gen_site.py` + `git commit/push` from two sessions at once will conflict. If a push
+  is rejected, `git pull --rebase` first; never force-push.
+
+**Before starting a batch: check `git log` and the lock.** If the previous batch is
+still running, wait for it rather than racing it. Finishing one batch correctly beats
+starting two badly.
+
 ## Gotchas
 - Nav holds ~4 categories. Beyond that it needs the dropdown (added 16.7.2026 for batch 1).
 - Category shows LIVE only if `data/<slug>.json` exists — never fake a LIVE tile.

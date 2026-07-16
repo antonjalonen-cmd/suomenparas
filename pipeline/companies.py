@@ -89,13 +89,156 @@ COMPANIES = {
              omistaja="Savonlinnan BLC-osuuskunta (BLC Telecom Oy)",
              saatavuus="Alueellinen — Etelä-Savo"),
     ],
+    # ---------------------------------------------------------------- batch 1
+    # EXCLUDED (verified 16.7.2026): Sonera + Tele Finland (both absorbed into the
+    # Telia brand in 2017 — dead), "Vaihtoehto" (no evidence it exists), Lounea and
+    # Kaisanet (broadband only, no mobile product).
+    "puhelinliittymat": [
+        dict(slug="elisa", nimi="Elisa", domain="elisa.fi", y_tunnus="0116510-6",
+             omistaja="Pörssiyhtiö (Nasdaq Helsinki) — myös Saunalahti-brändi",
+             verkko="Oma verkko"),
+        dict(slug="telia", nimi="Telia", domain="telia.fi", y_tunnus="1475607-9",
+             omistaja="Telia Company AB (Ruotsi) — myös entinen Sonera ja Tele Finland",
+             verkko="Oma verkko"),
+        dict(slug="dna", nimi="DNA", domain="dna.fi", y_tunnus="0592509-6",
+             omistaja="Telenor ASA (Norja)", verkko="Oma verkko"),
+        dict(slug="moi", nimi="Moi Mobiili", domain="moi.fi", y_tunnus="2758687-3",
+             omistaja="DNA Oyj — 100 % (ostettu 1/2019)", verkko="DNA:n verkko"),
+        dict(slug="gigamobiili", nimi="Giga Mobiili", domain="gigamobiili.fi", y_tunnus="3505729-3",
+             omistaja="Gigantti / Elkjøp (Norja) — rekisteröity 1/2025",
+             verkko="DNA:n verkko"),
+        dict(slug="oomimobiili", nimi="Oomi Mobiili", domain="oomi.fi", y_tunnus="3101315-4",
+             omistaja="Yhdeksän kunnallisen energiayhtiön yhteisyritys",
+             verkko="Asiakas valitsee: DNA tai Telia"),
+        dict(slug="globetel", nimi="Globetel", domain="globetel.fi", y_tunnus="1094711-8",
+             omistaja="Itsenäinen, perustajaomisteinen (1997)",
+             verkko="Telian verkko (ei vahvistettu Globetelin omilta sivuilta)"),
+    ],
+    # EXCLUDED (verified 16.7.2026): Handelsbanken (poistui Suomen vähittäispankki-
+    # toiminnasta 2026), Diners Club (poistui 2019), St1 (ei uusia; St1 Visa päättyy
+    # 30.9.2026), Klarna/N26/Revolut (vain debit, ei luottokorttia), Neste (suljettu
+    # ketjukortti), Lidl (ei omaa korttia), Enento (luottotietoyhtiö, ei myöntäjä),
+    # "Lunar Credit" (= Creditstar Finland Oy:n joustoluotto ~119,6 % todellinen
+    # vuosikorko, EI tanskalainen Lunar eikä luottokortti).
+    # Instabank jätettiin pois: Y-tunnusta 2986430-4 ei löydy PRH:n rajapinnasta.
+    "luottokortit": [
+        dict(slug="op-visa", nimi="OP-Visa", domain="op.fi", y_tunnus="0751699-0",
+             omistaja="OP Vähittäisasiakkaat Oyj (OP Ryhmä) — myöntää myös K-Plussa Mastercardin"),
+        dict(slug="k-plussa", nimi="K-Plussa Mastercard", domain="plussamaksuaika.fi", y_tunnus="0751699-0",
+             omistaja="OP Vähittäisasiakkaat Oyj — Kesko tuo vain Plussa-etuohjelman"),
+        dict(slug="nordea-credit", nimi="Nordea Credit", domain="nordea.fi", y_tunnus="2858394-9",
+             omistaja="Nordea Bank Abp"),
+        dict(slug="danske-mastercard", nimi="Danske Bank Mastercard", domain="danskebank.fi", y_tunnus="1078693-2",
+             omistaja="Danske Bank A/S (Tanska) — Suomen sivuliike"),
+        dict(slug="s-etukortti", nimi="S-Etukortti Visa", domain="s-pankki.fi", y_tunnus="2557308-3",
+             omistaja="S-Pankki Oyj (SOK / S-ryhmä)"),
+        dict(slug="aktia-credit", nimi="Aktia Credit", domain="aktia.fi", y_tunnus="2181702-8",
+             omistaja="Aktia Bank Abp — myöntää itse"),
+        dict(slug="pop-visa", nimi="POP Visa Credit", domain="poppankki.fi", y_tunnus="2192977-5",
+             omistaja="Bonum Pankki Oyj — POP Pankki -ryhmän keskuspankki"),
+        dict(slug="saastopankki-visa", nimi="Säästöpankki Visa Credit", domain="saastopankki.fi", y_tunnus="2238752-5",
+             omistaja="Säästöpankkien Keskuspankki Suomi Oyj — EI sama kuin OmaSp"),
+        dict(slug="santander-visa", nimi="Santander Visa", domain="santanderconsumer.fi", y_tunnus="2076455-0",
+             omistaja="Santander Consumer Finance Oy — myöntää itse"),
+    ],
+    # EXCLUDED (verified 16.7.2026): Handelsbanken (poistui Suomen vähittäispankki-
+    # toiminnasta; arvopaperipalvelut päättyivät 31.5.2024), Avanza (uusi tili vaatii
+    # ruotsalaisen henkilötunnuksen + BankID → suomalainen ei voi avata), Interactive
+    # Brokers / Revolut / Lightyear (ei suomenkielistä palvelua), Trading 212 (suomen
+    # kieltä ei voitu vahvistaa), "Nordic Fund Market" (ei löytynyt).
+    # eQ ja Seligson ovat rahastoyhtiöitä (ei osake-/ETF-kauppaa) → eri kategoria.
+    # HUOM: Seligson on 100 % LähiTapiolan omistama.
+    "sijoitusalustat": [
+        dict(slug="nordnet", nimi="Nordnet", domain="nordnet.fi", y_tunnus="2329589-2",
+             omistaja="Nordnet AB (publ), Ruotsi — Suomen sivuliike"),
+        dict(slug="op-sijoitus", nimi="OP", domain="op.fi", y_tunnus="0242522-1",
+             omistaja="OP Osuuskunta — jäsenten omistama"),
+        dict(slug="nordea-sijoitus", nimi="Nordea", domain="nordea.fi", y_tunnus="2858394-9",
+             omistaja="Nordea Bank Abp — pääkonttori Helsingissä 2018 alkaen"),
+        dict(slug="s-pankki-sijoitus", nimi="S-Pankki", domain="s-pankki.fi", y_tunnus="2557308-3",
+             omistaja="SOK / S-ryhmän osuuskaupat"),
+        dict(slug="danske-sijoitus", nimi="Danske Bank", domain="danskebank.fi", y_tunnus="1078693-2",
+             omistaja="Danske Bank A/S (Tanska) — Suomen sivuliike"),
+        dict(slug="alexandria", nimi="Alexandria", domain="alexandria.fi", y_tunnus="1063450-9",
+             omistaja="Alexandria Group Oyj — itsenäinen, Helsingin pörssi"),
+        dict(slug="evli", nimi="Evli", domain="evli.com", y_tunnus="3239286-2",
+             omistaja="Evli Oyj — itsenäinen (2022 jakautuminen)"),
+        dict(slug="mandatum-trader", nimi="Mandatum Trader", domain="mandatumtrader.fi", y_tunnus="0641130-2",
+             omistaja="Mandatum Oyj — irtautui Sampo-konsernista 1.10.2023; kaupankäyntiteknologia Saxo Bankilta"),
+        dict(slug="saxo", nimi="Saxo Bank", domain="home.saxo", y_tunnus="2927844-4",
+             omistaja="Saxo Bank A/S (Tanska) — Suomen sivuliike"),
+    ],
+    # EXCLUDED (verified 16.7.2026): Atlas VPN (Nord Security LOPETTI 24.4.2024,
+    # asiakkaat siirrettiin NordVPN:ään), Zenmate (Kape sulautti CyberGhostiin 2023),
+    # TunnelBear (McAfee, ei suomenkielistä sivua), IPVanish + hide.me (suomenkielistä
+    # sivua ei voitu vahvistaa), VPN.ac (marginaalinen Suomessa).
+    # HUOM: vain F-Secure on suomalainen → Y-tunnus vain sillä; muille kerrotaan
+    # lainkäyttöalue ja omistaja Y-tunnuksen sijaan.
+    "vpn-palvelut": [
+        dict(slug="nordvpn", nimi="NordVPN", domain="nordvpn.com", y_tunnus=None,
+             omistaja="Nord Security / Cyberspace B.V. (Alankomaat)", lainkayttoalue="Panama"),
+        dict(slug="surfshark", nimi="Surfshark", domain="surfshark.com", y_tunnus=None,
+             omistaja="Cyberspace B.V. (Alankomaat) — sama omistaja kuin NordVPN, yhdistyivät 2/2022",
+             lainkayttoalue="Alankomaat"),
+        dict(slug="expressvpn", nimi="ExpressVPN", domain="expressvpn.com", y_tunnus=None,
+             omistaja="Kape Technologies (ostettu 2021)", lainkayttoalue="Brittiläiset Neitsytsaaret"),
+        dict(slug="cyberghost", nimi="CyberGhost", domain="cyberghostvpn.com", y_tunnus=None,
+             omistaja="Kape Technologies (ostettu 2017)", lainkayttoalue="Romania"),
+        dict(slug="pia", nimi="Private Internet Access", domain="privateinternetaccess.com", y_tunnus=None,
+             omistaja="Kape Technologies (ostettu 2019)", lainkayttoalue="Yhdysvallat"),
+        dict(slug="protonvpn", nimi="Proton VPN", domain="protonvpn.com", y_tunnus=None,
+             omistaja="Proton AG — Proton Foundation (voittoa tavoittelematon)", lainkayttoalue="Sveitsi"),
+        dict(slug="mullvad", nimi="Mullvad", domain="mullvad.net", y_tunnus=None,
+             omistaja="Amagicom AB — perustajaomisteinen, ei pääomasijoittajia", lainkayttoalue="Ruotsi"),
+        dict(slug="fsecure", nimi="F-Secure VPN", domain="f-secure.com", y_tunnus="3269349-7",
+             omistaja="F-Secure Oyj — suomalainen, Nasdaq Helsinki (ent. Freedome)",
+             lainkayttoalue="Suomi"),
+        dict(slug="windscribe", nimi="Windscribe", domain="windscribe.com", y_tunnus=None,
+             omistaja="Windscribe Limited — itsenäinen", lainkayttoalue="Kanada"),
+    ],
+    # EXCLUDED (verified 16.7.2026): Nebula, Sigmatic ja Webhotelli.fi — Telia myi koko
+    # webhotelli-liiketoimintansa Zonerille 1.8.2024; Nebula on nykyään Telian yritys-
+    # ICT-brändi, ei kuluttajan webhotelli. Ficolo (nyk. Verne) = konesali, ei webhotelli.
+    # Elisa Yritysweb = B2B-lisäpalvelu. Hostperi ja "Cloud Nine" — ei löydy lainkaan.
+    # KRIITTINEN: Planeetta + Domainhotelli + Hostingpalvelu.fi ovat SAMA yhtiö
+    # (Planeetta Internet Oy 1753494-9, omistaja team.blue) — vain yksi rivi listalla.
+    "webhotellit": [
+        dict(slug="zoner", nimi="Zoner", domain="zoner.fi", y_tunnus="1985221-1",
+             omistaja="One.com Group AB (Tanska/Ruotsi) — osti Telian webhotellit 1.8.2024"),
+        dict(slug="louhi", nimi="Louhi", domain="louhi.fi", y_tunnus="1946409-1",
+             omistaja="Louhi Net Oy — itsenäinen suomalainen (Espoo)"),
+        dict(slug="planeetta", nimi="Planeetta", domain="planeetta.fi", y_tunnus="1753494-9",
+             omistaja="team.blue (Hg Capital) — sama yhtiö kuin Domainhotelli ja Hostingpalvelu.fi"),
+        dict(slug="shellit", nimi="Shellit", domain="shellit.org", y_tunnus="2405351-0",
+             omistaja="Multim Oy — itsenäinen suomalainen (Merikarvia); myös Tavu Cloud ja VPSfinland"),
+        dict(slug="seravo", nimi="Seravo", domain="seravo.com", y_tunnus="2392019-2",
+             omistaja="Seravo Oy — itsenäinen suomalainen (Tampere)"),
+        dict(slug="capnova", nimi="Capnova", domain="capnova.fi", y_tunnus="1761337-2",
+             omistaja="Moment Digital Oy — itsenäinen suomalainen; myös Domainmaailma"),
+        dict(slug="kotisivut", nimi="Kotisivut.com", domain="kotisivut.com", y_tunnus="3561966-3",
+             omistaja="Mediam Oy — itsenäinen suomalainen"),
+        dict(slug="hostaan", nimi="Hostaan", domain="hostaan.fi", y_tunnus="2950656-6",
+             omistaja="Hostaan Oy — itsenäinen suomalainen (Kuopio, 2018)"),
+    ],
 }
 
 if __name__ == "__main__":
+    # Slugs must be unique — a collision would overwrite a page.
+    # Y-tunnus may legitimately repeat: in `luottokortit` the unit is a CARD, not a
+    # company, and OP issues both OP-Visa and K-Plussa Mastercard. That is not an
+    # error, it is the ownership story — so report it instead of failing on it.
+    total_shared = 0
     for v, cs in COMPANIES.items():
-        print(f"{v}: {len(cs)}")
-        seen = set()
+        slugs = [c["slug"] for c in cs]
+        assert len(slugs) == len(set(slugs)), f"duplicate slug in {v}"
+        by_y = {}
         for c in cs:
-            assert c["y_tunnus"] not in seen, f"duplicate Y-tunnus in {v}: {c['y_tunnus']}"
-            seen.add(c["y_tunnus"])
-    print("total:", sum(len(c) for c in COMPANIES.values()))
+            if c["y_tunnus"]:
+                by_y.setdefault(c["y_tunnus"], []).append(c["nimi"])
+        shared = {y: n for y, n in by_y.items() if len(n) > 1}
+        total_shared += len(shared)
+        print(f"{v}: {len(cs)}")
+        for y, names in shared.items():
+            print(f"    shared issuer {y}: {' + '.join(names)}  <- must be disclosed on the page")
+    print("total:", sum(len(c) for c in COMPANIES.values()),
+          f"| shared-owner groups: {total_shared}")

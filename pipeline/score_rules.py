@@ -67,6 +67,52 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    "puhelinliittymat": [
+        ("kk_hinta_esilla_ilman_yhteystietoja", "Kuukausihinta esillä ilman yhteystietoja", 30),
+        ("kampanjan_jalkeinen_hinta", "Kampanjan jälkeinen normaalihinta kerrottu", 20),
+        ("sopimusaika_ja_irtisanomisaika", "Sopimusaika ja irtisanomisaika kerrottu", 15),
+        ("nopeus_ja_datarajat", "Nopeus ja datarajat kerrottu selkeästi", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "luottokortit": [
+        # Consumer-credit cost disclosure is legally required (KSL 7:8) — so this
+        # measures whether they meet their own obligation in public, before you apply.
+        ("korko_ja_vuosikorko_esilla", "Korko ja todellinen vuosikorko esillä", 30),
+        ("vuosimaksu_esilla", "Vuosimaksu esillä", 20),
+        ("muut_kulut_esilla", "Muut kulut (nosto, valuutanvaihto) esillä", 15),
+        ("luotonmyontaja_kerrottu", "Luoton todellinen myöntäjä kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "sijoitusalustat": [
+        ("kaupankayntikulut_ilman_kirjautumista", "Kaupankäyntikulut esillä ilman kirjautumista", 30),
+        ("sailytyspalkkio_kerrottu", "Säilytyspalkkio kerrottu", 15),
+        ("valuutanvaihtokulu_kerrottu", "Valuutanvaihtokulu kerrottu", 15),
+        ("hinnasto_ladattavissa", "Täysi hinnasto julkisesti saatavilla", 15),
+        ("y_tunnus_esilla", "Y-tunnus tai valvoja kerrottu", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
+    "webhotellit": [
+        ("hinta_esilla_ilman_yhteystietoja", "Hinta esillä ilman yhteystietoja", 30),
+        # The hosting dark pattern: cheap first term, silently expensive renewal.
+        ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 20),
+        ("resurssirajat_selkeasti", "Levytila- ja liikennerajat kerrottu selkeästi", 15),
+        ("sopimusehdot_ja_irtisanominen", "Sopimusehdot ja irtisanominen kerrottu", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
+    "vpn-palvelut": [
+        ("hinta_esilla_ilman_yhteystietoja", "Hinta esillä ilman yhteystietoja", 30),
+        ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 20),
+        # Most VPNs are foreign, so Y-tunnus is meaningless here. The equivalent
+        # question — and the one this whole category turns on — is whether the
+        # service tells you WHO OWNS IT. Three of the biggest share one owner.
+        ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 15),
+        ("lainkayttoalue_kerrottu", "Lainkäyttöalue kerrottu", 10),
+        ("lokikaytanto_kerrottu", "Lokikäytäntö kerrottu", 15),
+        ("riippumaton_auditointi", "Riippumaton auditointi esillä", 10),
+    ],
 }
 
 # Human-readable criteria string rendered on the methodology page.
