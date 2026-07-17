@@ -276,10 +276,14 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
 .c-date{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);white-space:nowrap}
 .c-text{font-size:.94rem;font-weight:600;white-space:pre-wrap;word-break:break-word}
 .c-empty{color:var(--mut);font-weight:700;padding:18px;text-align:center;background:var(--blue-soft);border-radius:12px}
-/* comment icon on ranking cards */
-.cbtn{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;font-weight:800;color:var(--blue-deep);background:#fff;border:2px solid var(--line);border-radius:999px;padding:5px 13px;transition:border-color .15s,transform .15s}
-.cbtn:hover{border-color:var(--blue);text-decoration:none;transform:translateY(-1px)}
-.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);font-weight:600}
+/* ranking-card button group (all same size, 2-up grid) */
+.rank-btns{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%;min-width:250px;max-width:310px}
+.rank-btns .btn{text-align:center;padding:10px 8px;font-size:.82rem;white-space:nowrap}
+.rank-btns .wide{grid-column:1/-1}
+.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--mut);font-weight:600}
+.cbtn .cc:not(:empty)::before{content:"("}
+.cbtn .cc:not(:empty)::after{content:")"}
+@media(max-width:700px){.rank-btns{max-width:none}}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}

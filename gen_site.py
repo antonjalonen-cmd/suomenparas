@@ -386,10 +386,14 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
 .c-date{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);white-space:nowrap}
 .c-text{font-size:.94rem;font-weight:600;white-space:pre-wrap;word-break:break-word}
 .c-empty{color:var(--mut);font-weight:700;padding:18px;text-align:center;background:var(--blue-soft);border-radius:12px}
-/* comment icon on ranking cards */
-.cbtn{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;font-weight:800;color:var(--blue-deep);background:#fff;border:2px solid var(--line);border-radius:999px;padding:5px 13px;transition:border-color .15s,transform .15s}
-.cbtn:hover{border-color:var(--blue);text-decoration:none;transform:translateY(-1px)}
-.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);font-weight:600}
+/* ranking-card button group (all same size, 2-up grid) */
+.rank-btns{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%;min-width:250px;max-width:310px}
+.rank-btns .btn{text-align:center;padding:10px 8px;font-size:.82rem;white-space:nowrap}
+.rank-btns .wide{grid-column:1/-1}
+.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.72rem;color:var(--mut);font-weight:600}
+.cbtn .cc:not(:empty)::before{content:"("}
+.cbtn .cc:not(:empty)::after{content:")"}
+@media(max-width:700px){.rank-btns{max-width:none}}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}
@@ -651,8 +655,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=14">
-<script src="{root}assets/app.js?v=14" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=15">
+<script src="{root}assets/app.js?v=15" defer></script>
 </head>
 <body>
 <header class="site">
@@ -724,15 +728,16 @@ def rank_card(c, pos, root, vslug):
   <div class="medal">{pos}</div>
   <div class="rank-main">
     <h3><a href="{root}yritys/{vslug}/{c['slug']}/">{esc(c['nimi'])}</a>{ylabel}</h3>
-    <p class="rank-meta">{esc(c['domain'])} · {esc(c['omistaja'])} · <a class="cbtn" data-slug="{c['slug']}" href="{root}yritys/{vslug}/{c['slug']}/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
+    <p class="rank-meta">{esc(c['domain'])} · {esc(c['omistaja'])}</p>
     {pillar_bars(c)}
     <p class="rank-strength"><b>+</b> {esc(top_strength)}</p>
   </div>
   <div class="rank-side">
     {stamp(c['score'], gold=(pos == 1))}
-    <div style="display:flex;flex-direction:column;gap:8px;align-items:flex-end">
+    <div class="rank-btns">
       <a class="btn" href="https://{c['domain']}" rel="nofollow noopener" target="_blank">Siirry palveluun</a>
-      <a class="btn ghost" href="{root}yritys/{vslug}/{c['slug']}/">Näin pisteet syntyvät</a>
+      <a class="btn ghost cbtn" data-slug="{c['slug']}" href="{root}yritys/{vslug}/{c['slug']}/#palaute" title="Lue arviot ja anna palautetta">💬 Anna palautetta <span class="cc"></span></a>
+      <a class="btn ghost wide" href="{root}yritys/{vslug}/{c['slug']}/">Näin pisteet syntyvät</a>
     </div>
   </div>
 </article>"""
@@ -798,7 +803,7 @@ def build_index():
   <div class="wrap hero-grid">
     <div>
       <img class="hero-logo" src="assets/logo-480.png" alt="Suomen Paras" width="132" height="132">
-      <h1>Suomen kaikki vertailut.<br>Yksi läpinäkyvä <em>pisteytys</em>.</h1>
+      <h1>Emme kerro mikä on paras.<br>Näytämme <em>mistä se johtuu</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
         <div class="hero-stat"><b>{len(ALL_COMPANIES)}</b><span>palvelua pisteytetty</span></div>
@@ -1012,7 +1017,7 @@ def build_profile(c, pos, v):
   {receipts}
 
   <section id="palaute" data-vertical="{v['slug']}" data-slug="{c['slug']}">
-    <h2 class="sec" style="margin-top:36px">Anna oma arvio</h2>
+    <h2 class="sec" style="margin-top:36px">Anna palautetta</h2>
     <p class="sec-sub comm-sub">Oletko {esc(c['nimi'])}-palvelun asiakas? Kerro kokemuksesi. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
     <div id="agg" class="agg" hidden></div>
     <form class="arvio-form" id="aform">
