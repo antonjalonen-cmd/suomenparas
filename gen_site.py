@@ -55,12 +55,12 @@ CATEGORY_GROUPS = [
     ("Talous ja raha", [
         ("Lainavertailu", "lainavertailu", True),
         ("Vakuutukset", "vakuutukset", True), ("Sähkösopimukset", "sahkosopimukset", True),
-        ("Laajakaista", "laajakaista", True), ("Puhelinliittymät", None, False),
-        ("Luottokortit", None, False), ("Sijoitusalustat", None, False),
-        ("Pikavipit", None, False), ("Webhotellit", None, False),
-        ("VPN-palvelut", None, False), ("Pankkien asiakaspalvelu", None, False),
-        ("Autovakuutukset", None, False), ("Kotivakuutukset", None, False),
-        ("Matkavakuutukset", None, False), ("Lemmikkivakuutukset", None, False),
+        ("Laajakaista", "laajakaista", True), ("Puhelinliittymät", "puhelinliittymat", True),
+        ("Luottokortit", "luottokortit", True), ("Sijoitusalustat", "sijoitusalustat", True),
+        ("Kulutusluotot", "kulutusluotot", True), ("Webhotellit", "webhotellit", True),
+        ("VPN-palvelut", "vpn-palvelut", True), ("Pankkien asiakaspalvelu", None, False),
+        ("Autovakuutukset", "autovakuutukset", True), ("Kotivakuutukset", "kotivakuutukset", True),
+        ("Matkavakuutukset", "matkavakuutukset", True), ("Lemmikkivakuutukset", "lemmikkivakuutukset", True),
     ]),
     ("Koti ja asuminen", [
         ("Lämpöpumppuasentajat", None, False), ("Aurinkopaneeliasentajat", None, False),
@@ -661,10 +661,10 @@ def page(title, desc, body, root="", active=""):
 <body>
 <header class="site">
   <div class="wrap">
-    <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46">Suomen&nbsp;Paras<span class="tm">.com</span></a>
+    <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
     <nav class="main">
       <div class="navdd{' on-cat' if active in LIVE_SLUGS else ''}" id="navdd">
-        <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailut <span class="car">▼</span></button>
+        <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailupalvelut <span class="car">▼</span></button>
         <div class="navdd-panel">
           {"".join(f'<a href="{root}{v["slug"]}/"{on(v["slug"])}>{esc(v["nimi"])}<span class="n">{len(v["yritykset"])}</span></a>' for v in VERTICALS)}
           <hr>
@@ -835,9 +835,8 @@ def build_index():
     <p class="sec-sub">{LIVE_COUNT} kategoriaa on avattu oikealla datalla. Uusia avataan kuukausittain — tavoite on kattaa kaikki suomalaiset palvelut.</p>
     <div class="cat-grid">
       {live_tiles}
-      <span class="cat-tile off">Puhelinliittymät <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Luottokortit <span class="st">TULOSSA</span></span>
       <span class="cat-tile off">Autokorjaamot <span class="st">TULOSSA</span></span>
+      <span class="cat-tile off">Hammaslääkärit <span class="st">TULOSSA</span></span>
       <a class="cat-tile" href="kategoriat/" style="justify-content:center;background:var(--ink);color:#fff">Kaikki {TOTAL_CATS} kategoriaa →</a>
     </div>
   </div>
@@ -847,8 +846,9 @@ def build_index():
   <div class="wrap">
     <div class="b2b">
       <h3>Yrittäjä — haluatko nousta listalla?</h3>
-      <p>Sijoitusta ei voi ostaa meiltä — eikä keneltäkään. Mutta voit pyytää maksullisen analyysin, joka näyttää täsmälleen mitkä mittarit painavat sijoitustasi alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä — ansaitusti.</p>
-      <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä analyysi yrityksellesi</a>
+      <p>Sijoitusta ei voi ostaa meiltä — eikä keneltäkään. Mutta voit pyytää analyysin, joka näyttää täsmälleen mitkä mittarit painavat sijoitustasi alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä — ansaitusti. Analyysi on avausvaiheessa maksuton.</p>
+      <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Voimme lisätä yrityksenne arvioon manuaalisesti — laita viestiä.</p>
+      <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä maksuton analyysi</a>
       <small>Analyysi ei koskaan muuta pisteitä suoraan. Premium-näkyvyys ei vaikuta sijoituksiin.</small>
     </div>
   </div>
@@ -890,8 +890,9 @@ def build_vertical(v):
 
   <div class="b2b">
     <h3>Oletko listalla — ja haluaisit korkeammalle?</h3>
-    <p>Jokainen menetetty piste on dokumentoitu profiilissasi. Maksullinen analyysimme priorisoi korjaukset vaikutuksen mukaan: mitkä toimet nostavat pisteitäsi eniten seuraavaan päivitykseen mennessä.</p>
-    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä analyysi</a>
+    <p>Jokainen menetetty piste on dokumentoitu profiilissasi. Analyysimme priorisoi korjaukset vaikutuksen mukaan: mitkä toimet nostavat pisteitäsi eniten seuraavaan päivitykseen mennessä. Analyysi on avausvaiheessa maksuton.</p>
+    <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Voimme lisätä yrityksenne arvioon manuaalisesti — laita viestiä.</p>
+    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä maksuton analyysi</a>
     <small>Sijoitusta ei voi ostaa. Analyysi kertoo miten se ansaitaan.</small>
   </div>
 </div>
@@ -1049,8 +1050,8 @@ def build_profile(c, pos, v):
 
   <div class="b2b">
     <h3>Onko tämä sinun yrityksesi?</h3>
-    <p>Yllä näkyy täsmälleen mistä pisteesi tulevat — ja mihin niitä jää saamatta. Maksullinen analyysimme priorisoi korjaukset: mitkä toimenpiteet nostavat Scorea eniten, ja miten ne toteutetaan. Kun data paranee, sijoitus nousee seuraavassa päivityksessä.</p>
-    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi%20({esc(c['nimi'])})">Pyydä analyysi — {esc(c['nimi'])}</a>
+    <p>Yllä näkyy täsmälleen mistä pisteesi tulevat — ja mihin niitä jää saamatta. Analyysimme priorisoi korjaukset: mitkä toimenpiteet nostavat Scorea eniten, ja miten ne toteutetaan. Kun data paranee, sijoitus nousee seuraavassa päivityksessä. Analyysi on avausvaiheessa maksuton.</p>
+    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi%20({esc(c['nimi'])})">Pyydä maksuton analyysi — {esc(c['nimi'])}</a>
     <small>Analyysi ei muuta pisteitä. Vain mittareiden parantaminen muuttaa.</small>
   </div>
 </div>"""
