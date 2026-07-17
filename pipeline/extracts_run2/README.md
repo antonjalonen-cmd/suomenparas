@@ -95,3 +95,27 @@ clean `git status` at build time proved nothing. It also wrote a typo'd key and 
 which `check_extracts.py` would have caught, but only if someone re-ran it.
 
 **Always `git diff` the extracts again after the build, not just before.**
+
+### Third replication, same day: `autovakuutukset__lahitapiola`
+
+A third late agent overwrote its file too. Here only **1 of 12** fields disagreed — but it
+was the one that matters most:
+
+| Field | run1 (published) | run2 (late agent) |
+|---|---|---|
+| `hintalaskuri_ilman_yhteystietoja` | **`ei`** | **`osittain`** |
+
+That is the category's **30-point** criterion — the whole question the site is built on —
+so a single flip is a **15-point** swing, and it moves LähiTapiola's rank. Both runs read
+the same page on the same day. run1 concluded the calculator demands henkilötunnus; run2
+concluded it could not verify the form's requirements without interacting with it.
+
+**run2 is arguably the more honest answer**, and that is the uncomfortable part: the
+disagreement is not random noise here, it is two defensible readings of a JS calculator
+that neither run could actually operate. The published `ei` asserts an absence the agent
+did not prove. Do not "fix" this by hand-picking the nicer answer — the real fix is a
+fetch that can drive the calculator, and until then this field is soft in every insurance
+category.
+
+**Pattern across all three 17.7 replications: the variance is entirely in absence claims.**
+Nothing that quotes a real figure ever moved.
