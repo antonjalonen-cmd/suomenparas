@@ -400,9 +400,9 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   header.site .wrap{flex-wrap:wrap;height:auto;padding:9px 16px 8px;gap:5px 16px}
   .brand{font-size:1.1rem}
   .brand img{width:38px;height:38px}
-  /* No overflow-x here: it would clip the category dropdown panel. The nav is only
-     3 items now that categories live behind the dropdown, so it fits without scrolling. */
-  nav.main{margin-left:0;width:100%;gap:18px;font-size:.86rem}
+  /* No overflow-x here: it would clip the category dropdown panel. The nav wraps to
+     a second line on narrow screens instead of clipping the last link. */
+  nav.main{margin-left:0;width:100%;gap:6px 14px;font-size:.86rem;flex-wrap:wrap}
   nav.main a,.navdd-btn{white-space:nowrap;padding:2px 0}
   .navdd-panel{right:auto;left:0;min-width:min(250px,calc(100vw - 32px))}
   .demo-ribbon{font-size:.7rem;padding:5px 10px}
@@ -655,8 +655,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=15">
-<script src="{root}assets/app.js?v=15" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=16">
+<script src="{root}assets/app.js?v=16" defer></script>
 </head>
 <body>
 <header class="site">
