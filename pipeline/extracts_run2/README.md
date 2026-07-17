@@ -160,3 +160,29 @@ only ever compared the ternary fields, so this component of the noise was invisi
 **Consolidated view of the four 17.7 replications:** absence claims and subjective 0-100
 ratings are both unstable; quoted figures are stable. That is an argument for shifting the
 Score's weight toward things a page literally states, and away from "we could not find it".
+
+### Fifth replication: `kulutusluotot__northmill` — pattern holds, now n=5
+
+| | run1 (published) | run2 (late agent) |
+|---|---|---|
+| `todellinen_vuosikorko_pct` | **24,25** | **24,25** |
+| `luottosumma_max_eur` | **5000** | **5000** |
+| `kulut_eriteltyna` | `osittain` | `kylla` |
+| `luotonantaja_ja_valvoja_kerrottu` | `kylla` | `osittain` |
+| `ukk_osio` | `ei` | `kylla` |
+
+3 of 12 ternary fields moved; `ai_arviot` drifted only mildly (78/85/72 → 82/80/78).
+**Both quoted figures identical again.**
+
+## Consolidated finding — five replications, 17.7.2026
+
+| Field type | Stable? |
+|---|---|
+| Quoted figures (price, APR, payout cap, credit limit) | **Yes — never moved once, across all five** |
+| Absence claims ("X is not stated") | **No — every single disagreement was one of these** |
+| Subjective `ai_arviot` 0-100 | **No — up to 28 points on a sub-metric (≈ 3 points on the total)** |
+
+This is now a strong enough result to act on: the Score's noise lives entirely in the
+parts that record what we *failed to find* and what we *think of the page*, not in what
+the page states. The obvious remedy is to reweight toward stated facts — but that is a
+product decision for Anton, not a fix to make quietly during a build.

@@ -1,0 +1,54 @@
+{
+  "slug": "aktia",
+  "fetched_ok": [
+    "https://www.aktia.fi/fi/henkiloasiakkaat",
+    "https://www.aktia.fi/fi/hinnasto",
+    "https://www.aktia.fi/fi/kayttotili",
+    "https://www.aktia.fi/fi/konttorit-ja-asiointi/konttoreiden-poikkeavat-aukioloajat",
+    "https://www.aktia.fi/fi/usein-kysytyt-kysymykset",
+    "https://www.aktia.fi/fi/asiakaspalvelu"
+  ],
+  "palveluhinnasto_julkinen": "kylla",
+  "tilin_ja_kortin_maksut_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "konttorit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kayttotili_kk_maksu_eur": 6,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattavat hinnaston PDF-dokumentit ladattavissa ilman kirjautumista",
+    "Monipuoliset yhteystiedot eri asiakasryhmille (henkilö-, yritys-, vakuutusasiat) puhelimitse saatavilla",
+    "Laajat toimipisteet eri puolilla Suomea ja helppokäyttöinen Aktiabot-chat 24/7"
+  ],
+  "kehityskohteet": [
+    "Yleinen sähköpostiosoite ei ole näkyvästi esillä julkisella sivustolla; asiointi ohjataan verkkopankissa olevaan viestintään",
+    "Tilejä ja palveluja koskevat tarkemmat hinnaston yksityiskohdat edellyttävät PDF-dokumenttien lataamista, ne eivät ole suoraan sivuilla",
+    "Riippumattomia audiitteja tai ulkopuolisia arviointeja ei ole näkyvästi esillä pankkipalveluiden tasosta"
+  ],
+  "yhteenveto": "Aktia Pankki Oyj on suomalainen pankkikonserni, joka tarjoaa monipuoliset henkilö- ja yritysasiakkaiden pankkipalvelut. Julkinen sivusto esittää palvelut selkeästi ja hinnaston (6 €/kk käyttötilille) saa ladattavaksi PDF-muodossa. Aktiivinen palvelukanavien tarjonta (chat, puhelin, verkkopankki, konttorit) sekä asiakastuki monin eri tavoin tekevät asioimisen joustavaksi.",
+  "evidence": {
+    "palveluhinnasto_julkinen": "HAVAINTO: Aktian hinnaston PDF-dokumentit 'Tilit, kortit, maksaminen' ovat ladattavissa osoitteesta www.aktia.fi/fi/hinnasto ilman kirjautumista.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötilin kuukausimaksu on 6 euroa. Käyttötiliin sisältyy Aktia Debit Mastercard. Hinta on näkyvillä hinnaston PDF-dokumentissa ja verkon hakukautta vahvistettu.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Käyttö- ja Prime-tilin yleiset sopimusehdot sekä verkkopankin sopimusehdot ovat ladattavissa PDF-muodossa osoitteessa www.aktia.fi.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Aktialla on konttorit useissa suomalaisissa kaupungeissa (Helsinki, Turku, Oulu, Vaasa, Kokkola ym.). Helsinki Olavinkatu -konttorissa käteispalvelut 10-13 ja neuvonta 10-16:30. Useimmat konttorit toimivat sopimuksella.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2181702-8 näkyy sivuston alalaidassa Aktia Pankki Oyj:n tiedoissa.",
+    "riippumaton_arvio": "HAVAINTO: Julkisella sivustolla ei ole näkyviä riippumattomia audiitteja tai pankkipalveluiden laadun ulkopuolisia arvioita. Ainoa maininta riippumattomista arvioinneista liittyy Morningstar-rahastojen arviointeihin.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalveluun puh. 010 247 010 (ark. 8-18). Yritysasiakkaiden palvelu 010 247 6700. Vakuutusasiat 010 247 8300. Korttien sulkupalvelu 24h +358 800 0 2477.",
+    "email_esilla": "HAVAINTO: Julkisella sivustolla näkyvät sähköpostiosoitteet ovat vain erityispalveluille (privatebanking_bo@aktia.fi, asiakaspalvelu.varainhoito@aktia.fi). Yleinen asiakaspalvelu ohjaaa käyttämään verkkopankissa olevan viestintätoimintoa.",
+    "chat_mainittu": "HAVAINTO: Aktiabot-chat on saatavilla 24/7 www.aktia.fi:n alaisella sivulla suomeksi ja ruotsiksi. Chat-kuvakkeen voi avata selaimen oikeasta alakulmasta.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat (ark. 8-18) ja konttorien aukioloajat (vaihtelevat) ovat näkyvillä sivustolla.",
+    "ukk_osio": "HAVAINTO: Kattava 'Usein kysytyt kysymykset' -osio kahdeksalla pääkategorialla: kortit, tilit, maksaminen, digitaalinen asiointi, säästäminen, lainat, vakuutukset ja perheen pankkiasiat.",
+    "mobiilisovellus": "HAVAINTO: Aktia Mobiilipankki mainitaan usealla sivuilla ja on osa käyttötilin peruspalveluita."
+  }
+}
