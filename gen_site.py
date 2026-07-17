@@ -341,36 +341,55 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   *,*::before,*::after{animation:none!important;transition:none!important}
   .rv{opacity:1;transform:none}
 }
-/* ---------- community: likes + comments ---------- */
-#community{margin-top:42px}
+/* ---------- palaute: Anna oma arvio (questionnaire, stored via api) ---------- */
+#palaute{margin-top:42px}
 .comm-sub b{color:var(--ink)}
-.like-row{display:flex;align-items:center;gap:14px;margin:4px 0 22px;flex-wrap:wrap}
-.like-btn{display:inline-flex;align-items:center;gap:9px;background:#fff;border:2.5px solid var(--ink);border-radius:999px;padding:11px 20px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.98rem;color:var(--ink);cursor:pointer;box-shadow:0 3px 0 var(--ink);transition:transform .15s cubic-bezier(.3,1.5,.4,1),background .15s}
-.like-btn .thumb{font-size:1.2rem;display:inline-block;transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
-.like-btn:hover{transform:translateY(-2px)}
-.like-btn:active{transform:translateY(1px);box-shadow:0 1px 0 var(--ink)}
-.like-btn.on{background:var(--gold-line)}
-.like-btn.on .thumb{transform:rotate(-10deg) scale(1.18)}
-.like-btn .lcount{font-family:'IBM Plex Mono',monospace;background:var(--blue-soft);border-radius:999px;padding:1px 10px;font-size:.86rem;font-weight:600}
-.like-btn.on .lcount{background:rgba(20,33,63,.15)}
-.like-btn.pop{animation:likePop .4s cubic-bezier(.3,1.6,.4,1)}
-@keyframes likePop{0%{transform:scale(1)}42%{transform:scale(1.13)}100%{transform:scale(1)}}
-.like-hint{color:var(--mut);font-weight:700;font-size:.88rem}
-.comment-form{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px;margin-bottom:20px}
-.comment-form input,.comment-form textarea{width:100%;border:2px solid var(--line);border-radius:12px;padding:11px 13px;font-family:'Nunito',sans-serif;font-size:.95rem;font-weight:600;color:var(--ink);background:#fff}
-.comment-form input::placeholder,.comment-form textarea::placeholder{color:#9DAAC5}
-.comment-form input:focus,.comment-form textarea:focus{outline:none;border-color:var(--blue)}
-.comment-form textarea{margin-top:10px;min-height:94px;resize:vertical;line-height:1.5}
+.arvio-form{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:20px;margin-bottom:20px}
+.q-label{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.02rem;margin:14px 0 9px}
+.q-label:first-child{margin-top:0}
+.q-label .opt{font-family:'Nunito',sans-serif;font-size:.78rem;color:var(--mut);font-weight:700}
+.feel-row{display:flex;gap:8px;flex-wrap:wrap}
+.feel{display:flex;flex-direction:column;align-items:center;gap:3px;background:#fff;border:2px solid var(--line);border-radius:14px;padding:9px 12px;cursor:pointer;font-family:'Nunito',sans-serif;font-weight:800;font-size:.74rem;color:var(--mut);min-width:86px;transition:transform .15s cubic-bezier(.3,1.5,.4,1),border-color .15s,background .15s}
+.feel .fe{font-size:1.5rem;line-height:1;filter:grayscale(.55);transition:filter .15s,transform .2s cubic-bezier(.3,1.6,.4,1)}
+.feel:hover{border-color:var(--blue);transform:translateY(-2px)}
+.feel.on{background:var(--gold-soft);border-color:var(--ink);color:var(--ink);box-shadow:0 2px 0 var(--ink)}
+.feel.on .fe{filter:none;transform:scale(1.22) rotate(-6deg)}
+.claim-row{display:flex;gap:9px;flex-wrap:wrap}
+.claim{font-family:'Nunito',sans-serif;font-size:.88rem;font-weight:800;border:2px solid var(--line);background:#fff;color:var(--body);border-radius:999px;padding:8px 16px;cursor:pointer;transition:border-color .15s,background .15s,transform .15s}
+.claim:hover{border-color:var(--blue)}
+.claim:active{transform:scale(.94)}
+.claim.on{background:var(--blue);border-color:var(--ink);color:#fff;box-shadow:0 2px 0 var(--ink)}
+.claim.on::before{content:"✓ "}
+.arvio-form input,.arvio-form textarea{width:100%;border:2px solid var(--line);border-radius:12px;padding:11px 13px;font-family:'Nunito',sans-serif;font-size:.95rem;font-weight:600;color:var(--ink);background:#fff}
+.arvio-form input{margin-top:16px}
+.arvio-form input::placeholder,.arvio-form textarea::placeholder{color:#9DAAC5}
+.arvio-form input:focus,.arvio-form textarea:focus{outline:none;border-color:var(--blue)}
+.arvio-form textarea{margin-top:10px;min-height:94px;resize:vertical;line-height:1.5}
 .cf-actions{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:12px;flex-wrap:wrap}
 .cf-note{font-size:.76rem;color:var(--mut);font-weight:600;max-width:340px}
+.a-err{display:none;background:#FDECEA;border:2px solid var(--warn);color:var(--warn);border-radius:12px;padding:10px 14px;font-weight:700;font-size:.88rem;margin-top:12px}
+.a-thanks{background:var(--card);border:2px solid var(--ok);border-radius:var(--r);box-shadow:var(--shadow);padding:20px;margin-bottom:20px;font-weight:700;color:var(--ink)}
+.a-thanks .big{font-size:1.6rem;margin-right:8px;vertical-align:-3px}
+/* aggregate summary */
+.agg{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px 20px;margin-bottom:16px;display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.agg .a-emo{font-size:2.4rem;line-height:1}
+.agg .a-num{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.5rem}
+.agg .a-num small{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);display:block;font-weight:500}
+.agg-claims{display:flex;gap:8px;flex-wrap:wrap}
+.agg-claims span{font-size:.78rem;font-weight:800;background:var(--blue-soft);border:1.5px solid var(--line);border-radius:99px;padding:4px 12px;color:var(--ink)}
+/* review list */
 .comment-list{display:flex;flex-direction:column;gap:12px}
 .comment{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px 16px;animation:fadeUp .4s cubic-bezier(.2,.7,.2,1) both}
 .c-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:5px}
 .c-name{font-weight:800;color:var(--ink)}
-.c-name .you{font-size:.66rem;font-weight:800;color:var(--blue-deep);background:var(--blue-soft);border-radius:99px;padding:1px 7px;margin-left:6px;vertical-align:1px}
+.c-name .c-emo{font-size:1.05rem;margin-right:6px;vertical-align:-2px}
 .c-date{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);white-space:nowrap}
 .c-text{font-size:.94rem;font-weight:600;white-space:pre-wrap;word-break:break-word}
 .c-empty{color:var(--mut);font-weight:700;padding:18px;text-align:center;background:var(--blue-soft);border-radius:12px}
+/* comment icon on ranking cards */
+.cbtn{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;font-weight:800;color:var(--blue-deep);background:#fff;border:2px solid var(--line);border-radius:999px;padding:5px 13px;transition:border-color .15s,transform .15s}
+.cbtn:hover{border-color:var(--blue);text-decoration:none;transform:translateY(-1px)}
+.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);font-weight:600}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}
@@ -497,53 +516,124 @@ APP_JS = r"""
     }
   }
 
-  // Community: likes + comments (localStorage, per-browser)
-  var comm = document.getElementById('community');
-  if (comm) {
-    var slug = comm.dataset.slug;
-    var LK = 'sp_like_' + slug, CK = 'sp_comments_' + slug;
-    var btn = document.getElementById('likeBtn');
-    var seed = parseInt(btn.dataset.likes, 10) || 0;
-    function liked(){ return localStorage.getItem(LK) === '1'; }
-    function renderLike(){
-      var on = liked();
-      btn.classList.toggle('on', on);
-      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
-      document.getElementById('likeCount').textContent = seed + (on ? 1 : 0);
-      btn.querySelector('.ltxt').textContent = on ? 'Tykätty' : 'Tykkää';
-    }
-    btn.addEventListener('click', function(){
-      localStorage.setItem(LK, liked() ? '0' : '1');
-      renderLike();
-      if (liked()){ btn.classList.remove('pop'); void btn.offsetWidth; btn.classList.add('pop'); }
-    });
-    renderLike();
+  // ---- Palaute: "Anna oma arvio" — questionnaire stored via the palaute-API (D1)
+  var API = (location.hostname === 'suomenparas.antonjalonen.fi')
+    ? '/api'
+    : 'https://suomenparas-palaute.anton-jalonen.workers.dev/api';
+  var FEEL_EMO = {1:'😠',2:'🙁',3:'😐',4:'🙂',5:'😀'};
+  var FEEL_TXT = {1:'En käyttäisi enää',2:'Huono',3:'Ok',4:'Hyvä',5:'Erinomainen'};
+  function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
 
-    function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
-    function getC(){ try { return JSON.parse(localStorage.getItem(CK)) || []; } catch(e){ return []; } }
-    function fmt(iso){ try { return new Date(iso).toLocaleDateString('fi-FI', {day:'numeric',month:'numeric',year:'numeric'}); } catch(e){ return ''; } }
-    function renderC(){
-      var list = document.getElementById('clist'), cs = getC();
-      if (!cs.length){ list.innerHTML = '<div class="c-empty">Ei vielä kommentteja — ole ensimmäinen ja jaa kokemuksesi.</div>'; return; }
-      list.innerHTML = cs.map(function(c){
-        var you = c.mine ? '<span class="you">SINÄ</span>' : '';
-        return '<div class="comment"><div class="c-head"><span class="c-name">' + esc(c.name || 'Nimetön') + you +
-          '</span><span class="c-date">' + fmt(c.date) + '</span></div><p class="c-text">' + esc(c.text) + '</p></div>';
-      }).join('');
-    }
-    document.getElementById('cform').addEventListener('submit', function(e){
-      e.preventDefault();
-      var name = document.getElementById('cname').value.trim().slice(0,40);
-      var text = document.getElementById('ctext').value.trim().slice(0,600);
-      if (!text) return;
-      var cs = getC();
-      cs.unshift({ name: name, text: text, date: new Date().toISOString(), mine: true });
-      localStorage.setItem(CK, JSON.stringify(cs.slice(0,100)));
-      document.getElementById('ctext').value = '';
-      document.getElementById('cname').value = '';
-      renderC();
+  var pal = document.getElementById('palaute');
+  if (pal) {
+    var vertical = pal.dataset.vertical, slug = pal.dataset.slug;
+    var DONE_KEY = 'sp_arvio_' + vertical + '_' + slug;
+    var form = document.getElementById('aform');
+    var fiilis = 0, claims = {};
+
+    pal.querySelectorAll('.feel').forEach(function(b){
+      b.addEventListener('click', function(){
+        fiilis = parseInt(b.dataset.v, 10);
+        pal.querySelectorAll('.feel').forEach(function(x){
+          x.classList.toggle('on', x === b);
+          x.setAttribute('aria-checked', x === b ? 'true' : 'false');
+        });
+      });
     });
-    renderC();
+    pal.querySelectorAll('.claim').forEach(function(b){
+      b.addEventListener('click', function(){
+        var on = !b.classList.contains('on');
+        b.classList.toggle('on', on);
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+        claims[b.dataset.k] = on;
+      });
+    });
+
+    function showThanks(msg){
+      form.outerHTML = '<div class="a-thanks"><span class="big">🙏</span>' + esc(msg) + '</div>';
+    }
+    function showErr(msg){
+      var el = document.getElementById('aerr');
+      el.textContent = msg;
+      el.style.display = 'block';
+    }
+    if (localStorage.getItem(DONE_KEY) === '1') {
+      showThanks('Kiitos — olet jo arvioinut tämän yrityksen tällä laitteella.');
+    } else {
+      form.addEventListener('submit', function(e){
+        e.preventDefault();
+        if (!fiilis) { showErr('Valitse ensin, miltä yrityksestä jäi olo.'); return; }
+        var payload = {
+          vertical: vertical, slug: slug, fiilis: fiilis,
+          luotettava: !!claims.luotettava, hintansa: !!claims.hintansa,
+          suosittelisin: !!claims.suosittelisin, uudelleen: !!claims.uudelleen,
+          nimi: document.getElementById('animi').value.trim().slice(0,40),
+          teksti: document.getElementById('ateksti').value.trim().slice(0,600)
+        };
+        var btn = form.querySelector('button[type=submit]');
+        btn.disabled = true;
+        fetch(API + '/arvio', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(payload)})
+          .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, status: r.status, d: d}; }); })
+          .then(function(res){
+            if (res.ok || res.status === 409) {
+              localStorage.setItem(DONE_KEY, '1');
+              showThanks(res.d.message || 'Kiitos! Arviosi näkyy sivulla tarkistuksen jälkeen.');
+            } else {
+              btn.disabled = false;
+              showErr('Lähetys epäonnistui — yritä hetken päästä uudelleen.');
+            }
+          })
+          .catch(function(){
+            btn.disabled = false;
+            showErr('Lähetys epäonnistui — tarkista verkkoyhteys ja yritä uudelleen.');
+          });
+      });
+    }
+
+    // load approved aggregates + reviews
+    fetch(API + '/arvio?vertical=' + vertical + '&slug=' + slug)
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        var list = document.getElementById('alist');
+        if (d.n > 0) {
+          var emo = FEEL_EMO[Math.round(d.fiilis_avg)] || '😐';
+          var chips = [
+            ['luotettava','Luotettava'], ['hintansa','Hintansa arvoinen'],
+            ['suosittelisin','Suosittelisin'], ['uudelleen','Käyttäisin uudelleen']
+          ].map(function(c){ return '<span>' + c[1] + ' · ' + d.vaitteet[c[0]] + '/' + d.n + '</span>'; }).join('');
+          document.getElementById('agg').innerHTML =
+            '<span class="a-emo">' + emo + '</span>' +
+            '<span class="a-num">' + String(d.fiilis_avg).replace('.', ',') + ' / 5' +
+            '<small>' + d.n + (d.n === 1 ? ' arvio' : ' arviota') + '</small></span>' +
+            '<span class="agg-claims">' + chips + '</span>';
+          document.getElementById('agg').hidden = false;
+        }
+        if (d.arviot && d.arviot.length) {
+          list.innerHTML = d.arviot.map(function(c){
+            return '<div class="comment"><div class="c-head"><span class="c-name"><span class="c-emo">' +
+              (FEEL_EMO[c.fiilis] || '') + '</span>' + esc(c.nimi || 'Nimetön') +
+              '</span><span class="c-date">' + esc(c.pvm ? c.pvm.split('-').reverse().join('.') : '') + '</span></div>' +
+              '<p class="c-text">' + esc(c.teksti) + '</p></div>';
+          }).join('');
+        } else {
+          list.innerHTML = '<div class="c-empty">Ei vielä julkaistuja arvioita — ole ensimmäinen ja jaa kokemuksesi.</div>';
+        }
+      })
+      .catch(function(){ /* api unreachable — the form still explains itself */ });
+  }
+
+  // Ranking pages: fill review counts into the 💬 icons
+  var ranking = document.getElementById('ranking');
+  if (ranking && ranking.dataset.vertical) {
+    fetch(API + '/counts?vertical=' + ranking.dataset.vertical)
+      .then(function(r){ return r.json(); })
+      .then(function(counts){
+        ranking.querySelectorAll('.cbtn').forEach(function(a){
+          var n = counts[a.dataset.slug];
+          if (n) a.querySelector('.cc').textContent = n;
+        });
+      })
+      .catch(function(){});
   }
 })();
 """
@@ -561,8 +651,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=13">
-<script src="{root}assets/app.js?v=13" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=14">
+<script src="{root}assets/app.js?v=14" defer></script>
 </head>
 <body>
 <header class="site">
@@ -634,7 +724,7 @@ def rank_card(c, pos, root, vslug):
   <div class="medal">{pos}</div>
   <div class="rank-main">
     <h3><a href="{root}yritys/{vslug}/{c['slug']}/">{esc(c['nimi'])}</a>{ylabel}</h3>
-    <p class="rank-meta">{esc(c['domain'])} · {esc(c['omistaja'])}</p>
+    <p class="rank-meta">{esc(c['domain'])} · {esc(c['omistaja'])} · <a class="cbtn" data-slug="{c['slug']}" href="{root}yritys/{vslug}/{c['slug']}/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     {pillar_bars(c)}
     <p class="rank-strength"><b>+</b> {esc(top_strength)}</p>
   </div>
@@ -788,7 +878,7 @@ def build_vertical(v):
     <button class="chip" data-key="tavoitettavuus">Paras tavoitettavuus</button>
   </div>
 
-  <div id="ranking">{cards}</div>
+  <div id="ranking" data-vertical="{v['slug']}">{cards}</div>
 
   <p class="note"><b>Lue pisteet oikein:</b> tämän demon AI-ekstraktio ei ole täysin toistettava — mittasimme kolme yritystä kahdesti ja ero oli jopa ±15 pistettä (<a href="../metodologia/">selitys metodologiassa</a>). Käytä pisteitä suuruusluokkana, älä tarkkana paremmuusjärjestyksenä: muutaman pisteen ero on kohinaa, mutta iso ero (esim. hinta julkisesti vs. kirjautumisen takana) on todellinen.</p>
   {notes}
@@ -835,8 +925,6 @@ def build_vertical(v):
 def build_profile(c, pos, v):
     n_total = len(v["yritykset"])
     m = f"m{pos}" if pos <= 3 else ""
-    # deterministic, plausible starting like count (community engagement; not part of Score)
-    like_seed = int((c["score"] or 55) * 2) + (sum(ord(ch) for ch in c["slug"]) % 90) + 37
     rank_label = {1: "👑 Sija 1 — Suomen Paras 2026", 2: f"🥈 Sija 2 / {n_total}", 3: f"🥉 Sija 3 / {n_total}"}.get(pos, f"Sija {pos} / {n_total}")
 
     # evidence quotes are baked onto the rows by the scoring engine
@@ -923,24 +1011,35 @@ def build_profile(c, pos, v):
   {total_formula}
   {receipts}
 
-  <section id="community" data-slug="{c['slug']}">
-    <h2 class="sec" style="margin-top:36px">Käyttäjien kokemukset</h2>
-    <p class="sec-sub comm-sub">Yhteisön palautetta {esc(c['nimi'])}-palvelusta. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
-    <div class="like-row">
-      <button class="like-btn" id="likeBtn" data-likes="{like_seed}" aria-pressed="false">
-        <span class="thumb">👍</span><span class="ltxt">Tykkää</span><span class="lcount" id="likeCount">{like_seed}</span>
-      </button>
-      <span class="like-hint">Oletko käyttänyt {esc(c['nimi'])}-palvelua?</span>
-    </div>
-    <form class="comment-form" id="cform">
-      <input type="text" id="cname" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
-      <textarea id="ctext" maxlength="600" placeholder="Kerro kokemuksesi {esc(c['nimi'])}-palvelusta…" required></textarea>
+  <section id="palaute" data-vertical="{v['slug']}" data-slug="{c['slug']}">
+    <h2 class="sec" style="margin-top:36px">Anna oma arvio</h2>
+    <p class="sec-sub comm-sub">Oletko {esc(c['nimi'])}-palvelun asiakas? Kerro kokemuksesi. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
+    <div id="agg" class="agg" hidden></div>
+    <form class="arvio-form" id="aform">
+      <p class="q-label">Miltä yrityksestä jäi olo?</p>
+      <div class="feel-row" role="radiogroup" aria-label="Miltä yrityksestä jäi olo?">
+        <button type="button" class="feel" data-v="5" role="radio" aria-checked="false"><span class="fe">😀</span>Erinomainen</button>
+        <button type="button" class="feel" data-v="4" role="radio" aria-checked="false"><span class="fe">🙂</span>Hyvä</button>
+        <button type="button" class="feel" data-v="3" role="radio" aria-checked="false"><span class="fe">😐</span>Ok</button>
+        <button type="button" class="feel" data-v="2" role="radio" aria-checked="false"><span class="fe">🙁</span>Huono</button>
+        <button type="button" class="feel" data-v="1" role="radio" aria-checked="false"><span class="fe">😠</span>En käyttäisi enää</button>
+      </div>
+      <p class="q-label">Mitkä väittämät pitävät paikkansa? <span class="opt">valitse sopivat</span></p>
+      <div class="claim-row">
+        <button type="button" class="claim" data-k="luotettava" aria-pressed="false">Luotettava</button>
+        <button type="button" class="claim" data-k="hintansa" aria-pressed="false">Hintansa arvoinen</button>
+        <button type="button" class="claim" data-k="suosittelisin" aria-pressed="false">Suosittelisin</button>
+        <button type="button" class="claim" data-k="uudelleen" aria-pressed="false">Käyttäisin uudelleen</button>
+      </div>
+      <input type="text" id="animi" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ateksti" maxlength="600" placeholder="Kerro omin sanoin kokemuksesi {esc(c['nimi'])}-palvelusta… (valinnainen)"></textarea>
+      <div class="a-err" id="aerr"></div>
       <div class="cf-actions">
-        <span class="cf-note">Asiallinen palaute. Kommentit tallentuvat toistaiseksi vain omaan selaimeesi.</span>
-        <button type="submit" class="btn">Lähetä kommentti</button>
+        <span class="cf-note">Arviot tarkistetaan ennen julkaisua. Yksi arvio per yritys. Asiaton sisältö poistetaan.</span>
+        <button type="submit" class="btn">Lähetä arvio</button>
       </div>
     </form>
-    <div id="clist" class="comment-list"></div>
+    <div id="alist" class="comment-list"></div>
   </section>
 
   <div class="b2b">

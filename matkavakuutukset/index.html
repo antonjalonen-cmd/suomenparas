@@ -8,8 +8,8 @@
 <meta name="description" content="6 vakuutusyhtiön matkavakuutussivut pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="../assets/favicon.png">
-<link rel="stylesheet" href="../assets/style.css?v=13">
-<script src="../assets/app.js?v=13" defer></script>
+<link rel="stylesheet" href="../assets/style.css?v=14">
+<script src="../assets/app.js?v=14" defer></script>
 </head>
 <body>
 <header class="site">
@@ -48,12 +48,12 @@
     <button class="chip" data-key="tavoitettavuus">Paras tavoitettavuus</button>
   </div>
 
-  <div id="ranking">
+  <div id="ranking" data-vertical="matkavakuutukset">
 <article class="rank-card m1" data-score="81.9" data-digitaalinen="85.8" data-lapinakyvyys="85.0" data-tavoitettavuus="75.0" data-ai_laatu="78.4">
   <div class="medal">1</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/fennia/">Fennia</a><span class="badge-yl">SUOMEN PARAS 2026</span></h3>
-    <p class="rank-meta">fennia.fi · Keskinäinen yhtiö — asiakkaiden omistama</p>
+    <p class="rank-meta">fennia.fi · Keskinäinen yhtiö — asiakkaiden omistama · <a class="cbtn" data-slug="fennia" href="../yritys/matkavakuutukset/fennia/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:85.8%"></i></span><span class="v">86</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:85.0%"></i></span><span class="v">85</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:75.0%"></i></span><span class="v">75</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:78.4%"></i></span><span class="v">78</span></div></div>
     <p class="rank-strength"><b>+</b> Kattava matkustajavakuutus ilman korvauskatoa sairaus- ja tapaturmakuluille</p>
   </div>
@@ -69,7 +69,7 @@
   <div class="medal">2</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/lahitapiola/">LähiTapiola</a></h3>
-    <p class="rank-meta">lahitapiola.fi · Keskinäinen yhtiö — asiakkaiden omistama</p>
+    <p class="rank-meta">lahitapiola.fi · Keskinäinen yhtiö — asiakkaiden omistama · <a class="cbtn" data-slug="lahitapiola" href="../yritys/matkavakuutukset/lahitapiola/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:67.8%"></i></span><span class="v">68</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:65.0%"></i></span><span class="v">65</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:85.0%"></i></span><span class="v">85</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:76.0%"></i></span><span class="v">76</span></div></div>
     <p class="rank-strength"><b>+</b> Kattava ja selkeä vakuutusturvan kuvaus taulukoissa, joissa esitetään kaikki korvaukset ja omavastuut</p>
   </div>
@@ -85,7 +85,7 @@
   <div class="medal">3</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/if/">If</a></h3>
-    <p class="rank-meta">if.fi · Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)</p>
+    <p class="rank-meta">if.fi · Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike) · <a class="cbtn" data-slug="if" href="../yritys/matkavakuutukset/if/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:65.4%"></i></span><span class="v">65</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:57.5%"></i></span><span class="v">58</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:77.5%"></i></span><span class="v">78</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:71.7%"></i></span><span class="v">72</span></div></div>
     <p class="rank-strength"><b>+</b> Kattava matkavakuutustuote, joka sisältää sairauden ja tapaturman hoidon ilman ylärajaa</p>
   </div>
@@ -101,7 +101,7 @@
   <div class="medal">4</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/popvakuutus/">POP Vakuutus</a></h3>
-    <p class="rank-meta">popvakuutus.fi · LähiTapiola 70 % / POP Pankki -ryhmä 30 % (Suomen Vahinkovakuutus Oy)</p>
+    <p class="rank-meta">popvakuutus.fi · LähiTapiola 70 % / POP Pankki -ryhmä 30 % (Suomen Vahinkovakuutus Oy) · <a class="cbtn" data-slug="popvakuutus" href="../yritys/matkavakuutukset/popvakuutus/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:79.5%"></i></span><span class="v">80</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:42.5%"></i></span><span class="v">42</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:60.0%"></i></span><span class="v">60</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:61.8%"></i></span><span class="v">62</span></div></div>
     <p class="rank-strength"><b>+</b> Yksityiskohtainen tuotekuvaus kahdelle vakuutusosalle (matkustaja- ja matkatavaravakuutus), jossa kuvataan mitä kukin osio korvaa</p>
   </div>
@@ -117,7 +117,7 @@
   <div class="medal">5</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/turva/">Turva</a></h3>
-    <p class="rank-meta">turva.fi · Keskinäinen yhtiö — asiakkaiden omistama</p>
+    <p class="rank-meta">turva.fi · Keskinäinen yhtiö — asiakkaiden omistama · <a class="cbtn" data-slug="turva" href="../yritys/matkavakuutukset/turva/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:59.0%"></i></span><span class="v">59</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:65.0%"></i></span><span class="v">65</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:40.0%"></i></span><span class="v">40</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:70.1%"></i></span><span class="v">70</span></div></div>
     <p class="rank-strength"><b>+</b> Kattava tietosisältö - kaikki vakuutustuotteet ja rajoitukset selostettu selkeissä taulukoissa</p>
   </div>
@@ -133,7 +133,7 @@
   <div class="medal">6</div>
   <div class="rank-main">
     <h3><a href="../yritys/matkavakuutukset/pohjantahti/">Pohjantähti</a></h3>
-    <p class="rank-meta">pohjantahti.fi · Keskinäinen yhtiö — asiakkaiden omistama</p>
+    <p class="rank-meta">pohjantahti.fi · Keskinäinen yhtiö — asiakkaiden omistama · <a class="cbtn" data-slug="pohjantahti" href="../yritys/matkavakuutukset/pohjantahti/#palaute" title="Lue arviot ja anna omasi">💬 Arviot <span class="cc"></span></a></p>
     <div class="pillars"><div class="pillar"><span>Digitaalinen laatu</span><span class="bar"><i style="width:79.2%"></i></span><span class="v">79</span></div><div class="pillar"><span>Läpinäkyvyys</span><span class="bar"><i style="width:25.0%"></i></span><span class="v">25</span></div><div class="pillar"><span>Tavoitettavuus</span><span class="bar"><i style="width:7.5%"></i></span><span class="v">8</span></div><div class="pillar"><span>AI-laatuarvio</span><span class="bar"><i style="width:31.7%"></i></span><span class="v">32</span></div></div>
     <p class="rank-strength"><b>+</b> Hinta-arviointia varten riittävät yhteydenottopyyntö- ja tarjoupyyntökanavat (puhelimitse/sähköpostitse)</p>
   </div>

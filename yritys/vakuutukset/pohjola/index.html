@@ -8,8 +8,8 @@
 <meta name="description" content="Pohjola Vakuutus: pisteet, vahvuudet ja kehityskohteet. Katso mistä jokainen piste tulee — mittari mittarilta.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="../../../assets/favicon.png">
-<link rel="stylesheet" href="../../../assets/style.css?v=13">
-<script src="../../../assets/app.js?v=13" defer></script>
+<link rel="stylesheet" href="../../../assets/style.css?v=14">
+<script src="../../../assets/app.js?v=14" defer></script>
 </head>
 <body>
 <header class="site">
@@ -116,24 +116,35 @@
   </table>
 </div>
 
-  <section id="community" data-slug="pohjola">
-    <h2 class="sec" style="margin-top:36px">Käyttäjien kokemukset</h2>
-    <p class="sec-sub comm-sub">Yhteisön palautetta Pohjola Vakuutus-palvelusta. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
-    <div class="like-row">
-      <button class="like-btn" id="likeBtn" data-likes="122" aria-pressed="false">
-        <span class="thumb">👍</span><span class="ltxt">Tykkää</span><span class="lcount" id="likeCount">122</span>
-      </button>
-      <span class="like-hint">Oletko käyttänyt Pohjola Vakuutus-palvelua?</span>
-    </div>
-    <form class="comment-form" id="cform">
-      <input type="text" id="cname" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
-      <textarea id="ctext" maxlength="600" placeholder="Kerro kokemuksesi Pohjola Vakuutus-palvelusta…" required></textarea>
+  <section id="palaute" data-vertical="vakuutukset" data-slug="pohjola">
+    <h2 class="sec" style="margin-top:36px">Anna oma arvio</h2>
+    <p class="sec-sub comm-sub">Oletko Pohjola Vakuutus-palvelun asiakas? Kerro kokemuksesi. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
+    <div id="agg" class="agg" hidden></div>
+    <form class="arvio-form" id="aform">
+      <p class="q-label">Miltä yrityksestä jäi olo?</p>
+      <div class="feel-row" role="radiogroup" aria-label="Miltä yrityksestä jäi olo?">
+        <button type="button" class="feel" data-v="5" role="radio" aria-checked="false"><span class="fe">😀</span>Erinomainen</button>
+        <button type="button" class="feel" data-v="4" role="radio" aria-checked="false"><span class="fe">🙂</span>Hyvä</button>
+        <button type="button" class="feel" data-v="3" role="radio" aria-checked="false"><span class="fe">😐</span>Ok</button>
+        <button type="button" class="feel" data-v="2" role="radio" aria-checked="false"><span class="fe">🙁</span>Huono</button>
+        <button type="button" class="feel" data-v="1" role="radio" aria-checked="false"><span class="fe">😠</span>En käyttäisi enää</button>
+      </div>
+      <p class="q-label">Mitkä väittämät pitävät paikkansa? <span class="opt">valitse sopivat</span></p>
+      <div class="claim-row">
+        <button type="button" class="claim" data-k="luotettava" aria-pressed="false">Luotettava</button>
+        <button type="button" class="claim" data-k="hintansa" aria-pressed="false">Hintansa arvoinen</button>
+        <button type="button" class="claim" data-k="suosittelisin" aria-pressed="false">Suosittelisin</button>
+        <button type="button" class="claim" data-k="uudelleen" aria-pressed="false">Käyttäisin uudelleen</button>
+      </div>
+      <input type="text" id="animi" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ateksti" maxlength="600" placeholder="Kerro omin sanoin kokemuksesi Pohjola Vakuutus-palvelusta… (valinnainen)"></textarea>
+      <div class="a-err" id="aerr"></div>
       <div class="cf-actions">
-        <span class="cf-note">Asiallinen palaute. Kommentit tallentuvat toistaiseksi vain omaan selaimeesi.</span>
-        <button type="submit" class="btn">Lähetä kommentti</button>
+        <span class="cf-note">Arviot tarkistetaan ennen julkaisua. Yksi arvio per yritys. Asiaton sisältö poistetaan.</span>
+        <button type="submit" class="btn">Lähetä arvio</button>
       </div>
     </form>
-    <div id="clist" class="comment-list"></div>
+    <div id="alist" class="comment-list"></div>
   </section>
 
   <div class="b2b">

@@ -1,0 +1,15 @@
+name = "suomenparas-palaute"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+workers_dev = true
+
+# Same-origin API for the Cloudflare-proxied site. This route is more specific than
+# the farm-router's *.antonjalonen.fi/* so it wins for /api/* on this host.
+routes = [
+  { pattern = "suomenparas.antonjalonen.fi/api/*", zone_name = "antonjalonen.fi" }
+]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "suomenparas-palaute"
+database_id = "ae1a7b80-eefc-441c-b6f7-874347cd1710"

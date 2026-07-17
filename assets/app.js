@@ -89,52 +89,123 @@
     }
   }
 
-  // Community: likes + comments (localStorage, per-browser)
-  var comm = document.getElementById('community');
-  if (comm) {
-    var slug = comm.dataset.slug;
-    var LK = 'sp_like_' + slug, CK = 'sp_comments_' + slug;
-    var btn = document.getElementById('likeBtn');
-    var seed = parseInt(btn.dataset.likes, 10) || 0;
-    function liked(){ return localStorage.getItem(LK) === '1'; }
-    function renderLike(){
-      var on = liked();
-      btn.classList.toggle('on', on);
-      btn.setAttribute('aria-pressed', on ? 'true' : 'false');
-      document.getElementById('likeCount').textContent = seed + (on ? 1 : 0);
-      btn.querySelector('.ltxt').textContent = on ? 'Tykätty' : 'Tykkää';
-    }
-    btn.addEventListener('click', function(){
-      localStorage.setItem(LK, liked() ? '0' : '1');
-      renderLike();
-      if (liked()){ btn.classList.remove('pop'); void btn.offsetWidth; btn.classList.add('pop'); }
-    });
-    renderLike();
+  // ---- Palaute: "Anna oma arvio" — questionnaire stored via the palaute-API (D1)
+  var API = (location.hostname === 'suomenparas.antonjalonen.fi')
+    ? '/api'
+    : 'https://suomenparas-palaute.anton-jalonen.workers.dev/api';
+  var FEEL_EMO = {1:'😠',2:'🙁',3:'😐',4:'🙂',5:'😀'};
+  var FEEL_TXT = {1:'En käyttäisi enää',2:'Huono',3:'Ok',4:'Hyvä',5:'Erinomainen'};
+  function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
 
-    function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
-    function getC(){ try { return JSON.parse(localStorage.getItem(CK)) || []; } catch(e){ return []; } }
-    function fmt(iso){ try { return new Date(iso).toLocaleDateString('fi-FI', {day:'numeric',month:'numeric',year:'numeric'}); } catch(e){ return ''; } }
-    function renderC(){
-      var list = document.getElementById('clist'), cs = getC();
-      if (!cs.length){ list.innerHTML = '<div class="c-empty">Ei vielä kommentteja — ole ensimmäinen ja jaa kokemuksesi.</div>'; return; }
-      list.innerHTML = cs.map(function(c){
-        var you = c.mine ? '<span class="you">SINÄ</span>' : '';
-        return '<div class="comment"><div class="c-head"><span class="c-name">' + esc(c.name || 'Nimetön') + you +
-          '</span><span class="c-date">' + fmt(c.date) + '</span></div><p class="c-text">' + esc(c.text) + '</p></div>';
-      }).join('');
-    }
-    document.getElementById('cform').addEventListener('submit', function(e){
-      e.preventDefault();
-      var name = document.getElementById('cname').value.trim().slice(0,40);
-      var text = document.getElementById('ctext').value.trim().slice(0,600);
-      if (!text) return;
-      var cs = getC();
-      cs.unshift({ name: name, text: text, date: new Date().toISOString(), mine: true });
-      localStorage.setItem(CK, JSON.stringify(cs.slice(0,100)));
-      document.getElementById('ctext').value = '';
-      document.getElementById('cname').value = '';
-      renderC();
+  var pal = document.getElementById('palaute');
+  if (pal) {
+    var vertical = pal.dataset.vertical, slug = pal.dataset.slug;
+    var DONE_KEY = 'sp_arvio_' + vertical + '_' + slug;
+    var form = document.getElementById('aform');
+    var fiilis = 0, claims = {};
+
+    pal.querySelectorAll('.feel').forEach(function(b){
+      b.addEventListener('click', function(){
+        fiilis = parseInt(b.dataset.v, 10);
+        pal.querySelectorAll('.feel').forEach(function(x){
+          x.classList.toggle('on', x === b);
+          x.setAttribute('aria-checked', x === b ? 'true' : 'false');
+        });
+      });
     });
-    renderC();
+    pal.querySelectorAll('.claim').forEach(function(b){
+      b.addEventListener('click', function(){
+        var on = !b.classList.contains('on');
+        b.classList.toggle('on', on);
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+        claims[b.dataset.k] = on;
+      });
+    });
+
+    function showThanks(msg){
+      form.outerHTML = '<div class="a-thanks"><span class="big">🙏</span>' + esc(msg) + '</div>';
+    }
+    function showErr(msg){
+      var el = document.getElementById('aerr');
+      el.textContent = msg;
+      el.style.display = 'block';
+    }
+    if (localStorage.getItem(DONE_KEY) === '1') {
+      showThanks('Kiitos — olet jo arvioinut tämän yrityksen tällä laitteella.');
+    } else {
+      form.addEventListener('submit', function(e){
+        e.preventDefault();
+        if (!fiilis) { showErr('Valitse ensin, miltä yrityksestä jäi olo.'); return; }
+        var payload = {
+          vertical: vertical, slug: slug, fiilis: fiilis,
+          luotettava: !!claims.luotettava, hintansa: !!claims.hintansa,
+          suosittelisin: !!claims.suosittelisin, uudelleen: !!claims.uudelleen,
+          nimi: document.getElementById('animi').value.trim().slice(0,40),
+          teksti: document.getElementById('ateksti').value.trim().slice(0,600)
+        };
+        var btn = form.querySelector('button[type=submit]');
+        btn.disabled = true;
+        fetch(API + '/arvio', {method:'POST', headers:{'Content-Type':'application/json'}, body: JSON.stringify(payload)})
+          .then(function(r){ return r.json().then(function(d){ return {ok: r.ok, status: r.status, d: d}; }); })
+          .then(function(res){
+            if (res.ok || res.status === 409) {
+              localStorage.setItem(DONE_KEY, '1');
+              showThanks(res.d.message || 'Kiitos! Arviosi näkyy sivulla tarkistuksen jälkeen.');
+            } else {
+              btn.disabled = false;
+              showErr('Lähetys epäonnistui — yritä hetken päästä uudelleen.');
+            }
+          })
+          .catch(function(){
+            btn.disabled = false;
+            showErr('Lähetys epäonnistui — tarkista verkkoyhteys ja yritä uudelleen.');
+          });
+      });
+    }
+
+    // load approved aggregates + reviews
+    fetch(API + '/arvio?vertical=' + vertical + '&slug=' + slug)
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        var list = document.getElementById('alist');
+        if (d.n > 0) {
+          var emo = FEEL_EMO[Math.round(d.fiilis_avg)] || '😐';
+          var chips = [
+            ['luotettava','Luotettava'], ['hintansa','Hintansa arvoinen'],
+            ['suosittelisin','Suosittelisin'], ['uudelleen','Käyttäisin uudelleen']
+          ].map(function(c){ return '<span>' + c[1] + ' · ' + d.vaitteet[c[0]] + '/' + d.n + '</span>'; }).join('');
+          document.getElementById('agg').innerHTML =
+            '<span class="a-emo">' + emo + '</span>' +
+            '<span class="a-num">' + String(d.fiilis_avg).replace('.', ',') + ' / 5' +
+            '<small>' + d.n + (d.n === 1 ? ' arvio' : ' arviota') + '</small></span>' +
+            '<span class="agg-claims">' + chips + '</span>';
+          document.getElementById('agg').hidden = false;
+        }
+        if (d.arviot && d.arviot.length) {
+          list.innerHTML = d.arviot.map(function(c){
+            return '<div class="comment"><div class="c-head"><span class="c-name"><span class="c-emo">' +
+              (FEEL_EMO[c.fiilis] || '') + '</span>' + esc(c.nimi || 'Nimetön') +
+              '</span><span class="c-date">' + esc(c.pvm ? c.pvm.split('-').reverse().join('.') : '') + '</span></div>' +
+              '<p class="c-text">' + esc(c.teksti) + '</p></div>';
+          }).join('');
+        } else {
+          list.innerHTML = '<div class="c-empty">Ei vielä julkaistuja arvioita — ole ensimmäinen ja jaa kokemuksesi.</div>';
+        }
+      })
+      .catch(function(){ /* api unreachable — the form still explains itself */ });
+  }
+
+  // Ranking pages: fill review counts into the 💬 icons
+  var ranking = document.getElementById('ranking');
+  if (ranking && ranking.dataset.vertical) {
+    fetch(API + '/counts?vertical=' + ranking.dataset.vertical)
+      .then(function(r){ return r.json(); })
+      .then(function(counts){
+        ranking.querySelectorAll('.cbtn').forEach(function(a){
+          var n = counts[a.dataset.slug];
+          if (n) a.querySelector('.cc').textContent = n;
+        });
+      })
+      .catch(function(){});
   }
 })();

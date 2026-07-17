@@ -231,36 +231,55 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   *,*::before,*::after{animation:none!important;transition:none!important}
   .rv{opacity:1;transform:none}
 }
-/* ---------- community: likes + comments ---------- */
-#community{margin-top:42px}
+/* ---------- palaute: Anna oma arvio (questionnaire, stored via api) ---------- */
+#palaute{margin-top:42px}
 .comm-sub b{color:var(--ink)}
-.like-row{display:flex;align-items:center;gap:14px;margin:4px 0 22px;flex-wrap:wrap}
-.like-btn{display:inline-flex;align-items:center;gap:9px;background:#fff;border:2.5px solid var(--ink);border-radius:999px;padding:11px 20px;font-family:'Nunito',sans-serif;font-weight:800;font-size:.98rem;color:var(--ink);cursor:pointer;box-shadow:0 3px 0 var(--ink);transition:transform .15s cubic-bezier(.3,1.5,.4,1),background .15s}
-.like-btn .thumb{font-size:1.2rem;display:inline-block;transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
-.like-btn:hover{transform:translateY(-2px)}
-.like-btn:active{transform:translateY(1px);box-shadow:0 1px 0 var(--ink)}
-.like-btn.on{background:var(--gold-line)}
-.like-btn.on .thumb{transform:rotate(-10deg) scale(1.18)}
-.like-btn .lcount{font-family:'IBM Plex Mono',monospace;background:var(--blue-soft);border-radius:999px;padding:1px 10px;font-size:.86rem;font-weight:600}
-.like-btn.on .lcount{background:rgba(20,33,63,.15)}
-.like-btn.pop{animation:likePop .4s cubic-bezier(.3,1.6,.4,1)}
-@keyframes likePop{0%{transform:scale(1)}42%{transform:scale(1.13)}100%{transform:scale(1)}}
-.like-hint{color:var(--mut);font-weight:700;font-size:.88rem}
-.comment-form{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px;margin-bottom:20px}
-.comment-form input,.comment-form textarea{width:100%;border:2px solid var(--line);border-radius:12px;padding:11px 13px;font-family:'Nunito',sans-serif;font-size:.95rem;font-weight:600;color:var(--ink);background:#fff}
-.comment-form input::placeholder,.comment-form textarea::placeholder{color:#9DAAC5}
-.comment-form input:focus,.comment-form textarea:focus{outline:none;border-color:var(--blue)}
-.comment-form textarea{margin-top:10px;min-height:94px;resize:vertical;line-height:1.5}
+.arvio-form{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:20px;margin-bottom:20px}
+.q-label{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.02rem;margin:14px 0 9px}
+.q-label:first-child{margin-top:0}
+.q-label .opt{font-family:'Nunito',sans-serif;font-size:.78rem;color:var(--mut);font-weight:700}
+.feel-row{display:flex;gap:8px;flex-wrap:wrap}
+.feel{display:flex;flex-direction:column;align-items:center;gap:3px;background:#fff;border:2px solid var(--line);border-radius:14px;padding:9px 12px;cursor:pointer;font-family:'Nunito',sans-serif;font-weight:800;font-size:.74rem;color:var(--mut);min-width:86px;transition:transform .15s cubic-bezier(.3,1.5,.4,1),border-color .15s,background .15s}
+.feel .fe{font-size:1.5rem;line-height:1;filter:grayscale(.55);transition:filter .15s,transform .2s cubic-bezier(.3,1.6,.4,1)}
+.feel:hover{border-color:var(--blue);transform:translateY(-2px)}
+.feel.on{background:var(--gold-soft);border-color:var(--ink);color:var(--ink);box-shadow:0 2px 0 var(--ink)}
+.feel.on .fe{filter:none;transform:scale(1.22) rotate(-6deg)}
+.claim-row{display:flex;gap:9px;flex-wrap:wrap}
+.claim{font-family:'Nunito',sans-serif;font-size:.88rem;font-weight:800;border:2px solid var(--line);background:#fff;color:var(--body);border-radius:999px;padding:8px 16px;cursor:pointer;transition:border-color .15s,background .15s,transform .15s}
+.claim:hover{border-color:var(--blue)}
+.claim:active{transform:scale(.94)}
+.claim.on{background:var(--blue);border-color:var(--ink);color:#fff;box-shadow:0 2px 0 var(--ink)}
+.claim.on::before{content:"✓ "}
+.arvio-form input,.arvio-form textarea{width:100%;border:2px solid var(--line);border-radius:12px;padding:11px 13px;font-family:'Nunito',sans-serif;font-size:.95rem;font-weight:600;color:var(--ink);background:#fff}
+.arvio-form input{margin-top:16px}
+.arvio-form input::placeholder,.arvio-form textarea::placeholder{color:#9DAAC5}
+.arvio-form input:focus,.arvio-form textarea:focus{outline:none;border-color:var(--blue)}
+.arvio-form textarea{margin-top:10px;min-height:94px;resize:vertical;line-height:1.5}
 .cf-actions{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:12px;flex-wrap:wrap}
 .cf-note{font-size:.76rem;color:var(--mut);font-weight:600;max-width:340px}
+.a-err{display:none;background:#FDECEA;border:2px solid var(--warn);color:var(--warn);border-radius:12px;padding:10px 14px;font-weight:700;font-size:.88rem;margin-top:12px}
+.a-thanks{background:var(--card);border:2px solid var(--ok);border-radius:var(--r);box-shadow:var(--shadow);padding:20px;margin-bottom:20px;font-weight:700;color:var(--ink)}
+.a-thanks .big{font-size:1.6rem;margin-right:8px;vertical-align:-3px}
+/* aggregate summary */
+.agg{background:var(--card);border:2px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:18px 20px;margin-bottom:16px;display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+.agg .a-emo{font-size:2.4rem;line-height:1}
+.agg .a-num{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.5rem}
+.agg .a-num small{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);display:block;font-weight:500}
+.agg-claims{display:flex;gap:8px;flex-wrap:wrap}
+.agg-claims span{font-size:.78rem;font-weight:800;background:var(--blue-soft);border:1.5px solid var(--line);border-radius:99px;padding:4px 12px;color:var(--ink)}
+/* review list */
 .comment-list{display:flex;flex-direction:column;gap:12px}
 .comment{background:var(--card);border:2px solid var(--line);border-radius:14px;padding:14px 16px;animation:fadeUp .4s cubic-bezier(.2,.7,.2,1) both}
 .c-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-bottom:5px}
 .c-name{font-weight:800;color:var(--ink)}
-.c-name .you{font-size:.66rem;font-weight:800;color:var(--blue-deep);background:var(--blue-soft);border-radius:99px;padding:1px 7px;margin-left:6px;vertical-align:1px}
+.c-name .c-emo{font-size:1.05rem;margin-right:6px;vertical-align:-2px}
 .c-date{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);white-space:nowrap}
 .c-text{font-size:.94rem;font-weight:600;white-space:pre-wrap;word-break:break-word}
 .c-empty{color:var(--mut);font-weight:700;padding:18px;text-align:center;background:var(--blue-soft);border-radius:12px}
+/* comment icon on ranking cards */
+.cbtn{display:inline-flex;align-items:center;gap:6px;font-size:.8rem;font-weight:800;color:var(--blue-deep);background:#fff;border:2px solid var(--line);border-radius:999px;padding:5px 13px;transition:border-color .15s,transform .15s}
+.cbtn:hover{border-color:var(--blue);text-decoration:none;transform:translateY(-1px)}
+.cbtn .cc{font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--mut);font-weight:600}
 /* ---------- mobile ---------- */
 @media(max-width:720px){
   .wrap{padding:0 16px}
