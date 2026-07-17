@@ -54,6 +54,31 @@ Its limit: it does not run JavaScript. If it returns HTTP 200 but only a few hun
 characters of text (op.fi does exactly this), the page is JS-rendered and you have NOT
 read it. That is `"osittain"` plus an honest note — never `"ei"`.
 
+## 🚫 Do NOT defeat bot protection, and do NOT click "accept cookies"
+
+Learned 17.7.2026: an agent told to measure op.fi reported that it had driven Selenium,
+*"bot protection active but bypassed"*, and *"accepted the cookie wall programmatically"*.
+It got the data. **The extract was deleted unused, and so will any other obtained this way.**
+
+Two separate lines, both firm:
+
+1. **No evading bot detection.** If a site takes measures to keep automated clients out,
+   that answer is "we could not measure it" — not a puzzle to solve. Whether our crawler
+   *can* get in is not the same question as whether it *may*.
+2. **No accepting consent on the user's behalf.** A cookie/consent banner is a legal
+   agreement. Clicking "accept" programmatically consents to tracking for a real person
+   who never asked for it. Decline non-essential if you interact with a banner at all.
+
+**Rendering JavaScript is fine and is not a bypass** — an ordinary browser does it. What is
+forbidden is *evasion* (spoofing to defeat a challenge, solving CAPTCHAs, working around a
+block that is deliberately aimed at clients like us). Lighthouse renders op.fi perfectly
+well without evading anything, which is exactly why op.fi's digital pillar has real numbers
+while its transparency pillar does not.
+
+If a site cannot be read within these limits, that is a **published gap**, not a failure.
+Say so, score `"osittain"`, and let the page disclose it. A comparison built on data we
+were not allowed to take is worth less than an honest hole.
+
 ## Hard rules
 
 1. **Only the company's own public website counts** as a source for the scored

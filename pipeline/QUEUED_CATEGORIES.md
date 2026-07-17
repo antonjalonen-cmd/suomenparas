@@ -163,6 +163,28 @@ whose extract has `fetched_ok=null` and scores everything "behind login" — alm
 same error, already published. NOT silently rewritten (the methodology page promises no
 retroactive edits). Re-measure with a JS fetch and re-date.
 
+### ⚠️ The JS-fetch fix has a boundary — read this before "solving" op.fi
+
+An agent did solve it, on 17.7.2026: it drove Selenium, reported *"bot protection active
+but bypassed"*, *"accepted the cookie wall programmatically"*, and returned a clean read of
+op.fi's autovakuutus page with a real verdict. **That extract was deleted unused.**
+
+Do not repeat it, and do not treat it as the unblock:
+- **Evading bot protection is off-limits.** A site keeping automated clients out is an
+  answer, not an obstacle. "Could we get in?" is not "may we?".
+- **Programmatically accepting a cookie/consent banner is off-limits.** It consents to
+  tracking on Anton's behalf, for a real person, to satisfy our build.
+
+**Rendering JavaScript is NOT a bypass** and is the legitimate fix worth building: an
+ordinary headless browser that renders the page, *declines* non-essential cookies, and
+evades nothing. Proof it can work: **Lighthouse already renders op.fi fine** — that is why
+op.fi has real digital-pillar numbers and no transparency numbers. Whatever renders for
+Lighthouse can render for extraction, without any of the above.
+
+If op.fi still cannot be read inside those limits, then `pankit` stays dark and Pohjola
+stays excluded, permanently and on purpose. **That is an acceptable outcome.** A gap we
+disclose beats a number we were not entitled to take.
+
 ### New guardrail — agents confabulate when a fetch fails
 
 Five agents invented a redirect to another company in the same list rather than report a failed
