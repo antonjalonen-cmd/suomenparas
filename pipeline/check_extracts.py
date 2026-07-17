@@ -10,7 +10,7 @@ instead of dying on the first.
 
 Usage: python pipeline/check_extracts.py <vertical> [<vertical> ...]
 """
-import json, os, sys
+import glob, json, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from score_rules import TRANSPARENCY, REACH, AI
@@ -83,5 +83,25 @@ for vert in sys.argv[1:]:
         else:
             ok += 1
 
-print(f"\n{ok} ok | {bad} bad | {missing} missing")
+# Orphans: an extract for a company the vertical no longer lists. Harmless today, because
+# build_vertical only reads COMPANIES — but it is a loaded gun. On 17.7.2026 a stalled
+# agent woke up two hours late and wrote an extract for Pohjola, who had been excluded in
+# the meantime for being unreadable; two more orphans were already committed. Every one of
+# them recorded a blocked read as though it were an absence. Re-add the company later and
+# build_vertical would silently score it from that garbage — exactly the error the
+# exclusion existed to prevent. Report them so the choice is deliberate.
+orphans = []
+for vert in sys.argv[1:]:
+    listed = {c["slug"] for c in COMPANIES.get(vert, [])}
+    for f in glob.glob(os.path.join(BASE, "pipeline", "extracts", f"{vert}__*.json")):
+        slug = os.path.basename(f)[len(vert) + 2:-5]
+        if slug not in listed:
+            orphans.append(f"{vert}__{slug}")
+if orphans:
+    print("\nORPHAN extracts (company is not in COMPANIES[vertical]) — delete them, or "
+          "re-add the company deliberately. Do not leave them to be picked up later:")
+    for o in orphans:
+        print(f"  {o}")
+
+print(f"\n{ok} ok | {bad} bad | {missing} missing | {len(orphans)} orphan")
 sys.exit(1 if (bad or missing) else 0)
