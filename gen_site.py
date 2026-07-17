@@ -52,8 +52,14 @@ def esc(s):
 
 # ---------------------------------------------------------------- categories
 CATEGORY_GROUPS = [
+    # Meta-flagship: categories that rank comparison services themselves ("vertailemme vertailijat").
+    ("Vertailupalvelut", [
+        ("Lainavertailupalvelut", "lainavertailu", True),
+        ("Sähkövertailupalvelut", None, False), ("Vakuutusvertailupalvelut", None, False),
+        ("Hintavertailupalvelut", None, False), ("Matka- ja hotellivertailut", None, False),
+        ("Lentovertailupalvelut", None, False),
+    ]),
     ("Talous ja raha", [
-        ("Lainavertailu", "lainavertailu", True),
         ("Vakuutukset", "vakuutukset", True), ("Sähkösopimukset", "sahkosopimukset", True),
         ("Laajakaista", "laajakaista", True), ("Puhelinliittymät", "puhelinliittymat", True),
         ("Luottokortit", "luottokortit", True), ("Sijoitusalustat", "sijoitusalustat", True),
