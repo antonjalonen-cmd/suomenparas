@@ -50,3 +50,48 @@ This limitation is disclosed on the live metodologia page rather than hidden.
    `ei`, or downgrade it to "ei varmistettu".
 4. **Verify verbatim quotes** by re-fetching and substring-matching (see EXTRACTION_BRIEF).
 5. Publish a confidence band per score, not a false-precision decimal.
+
+---
+
+## Second accidental replication (17.7.2026) — the effect is not a one-off
+
+It happened again, the same way, during the batch-2 build. Two agents were re-launched
+after appearing to hang; both originals woke up **~35 minutes and ~2 hours later** and
+overwrote their files *after the site had already been built and pushed*. One of them,
+`kotivakuutukset__lahitapiola`, gave a second independent reading of the same page.
+
+**6 of 12 scored fields disagreed** (same model, same prompt, same URL, same day):
+
+| Field | run1 (published) | run2 (late agent) |
+|---|---|---|
+| `omavastuu_selkeasti` | `osittain` | `kylla` |
+| `korvausrajat_kerrottu` | `osittain` | `kylla` |
+| `y_tunnus_esilla` | **`ei`** | **`osittain`** |
+| `aukioloajat_esilla` | `osittain` | `ei` |
+| `mobiilisovellus` | **`kylla`** | **`ei`** |
+| `hintalaskuri_ilman_yhteystietoja` | `osittain` | *(agent typo'd the key)* |
+
+Same signature as 16.7: the disagreements are concentrated in **absence claims**, and
+they swing in *both* directions — run2 was more generous on the insurance terms and
+harsher on reachability. `mobiilisovellus` flipped `kylla`→`ei` for a company that
+plainly has an app, which is the 16.7 Elisa failure repeating exactly.
+
+run1 (the published version) is kept in `kotivakuutukset__lahitapiola.RUN1-PUBLISHED.json`.
+run2's body was not preserved — it was reverted before being copied, and the field-level
+diff above is the verified record. Do not reconstruct it from memory; that would be
+inventing a measurement.
+
+### What this strengthens
+
+The 16.7 conclusion was drawn from **3** companies. This is a 4th, from a different
+category, with the same result — so the ±15-point figure on the methodology page is not
+an artefact of one bad afternoon. It is the method's actual precision.
+
+### Operational lesson (cost real damage this time)
+
+A "stalled" agent is often **not dead**. Twice now the original has woken up late and
+silently overwritten a re-run — and on 17.7 it did so *after commit and push*, so a
+clean `git status` at build time proved nothing. It also wrote a typo'd key and a BOM,
+which `check_extracts.py` would have caught, but only if someone re-ran it.
+
+**Always `git diff` the extracts again after the build, not just before.**

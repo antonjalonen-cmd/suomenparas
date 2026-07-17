@@ -1,0 +1,51 @@
+{
+  "slug": "lahitapiola",
+  "fetched_ok": [
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/kotivakuutus/",
+    "https://www.lahitapiola.fi/henkilo/asiakkaalle/yhteystiedot/",
+    "https://www.lahitapiola.fi/henkilo/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "korvausrajat_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 58,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Selkeä vakuutusvaihtoehtojen vertailu (Laaja, Perus, Suppea) - kunkin kattavuus ja turvat esitetty taulukkona",
+    "Helppo online-ostos ja hinta-laskin sekä mobiilisovellus kaikille vakuutusasioille",
+    "Kattava FAQ-osio (Usein kysyttyä) ja konkreettiset esimerkit vahinkojen korvaamisesta"
+  ],
+  "kehityskohteet": [
+    "Hintalaskuri vaatii JavaScript-renderöintiä - ei voida vahvistaa, voidaanko hinta saada ilman yhteystietoja",
+    "Omavastuun vähimmäismäärää tai vaihteluvälillä ei ilmoiteta tuotesivulla - tieto vain PDF-dokumenteissa",
+    "Yhtiön Y-tunnus ei ole näkyvillä verkkosivulla - vain muodollinen copyright-teksti"
+  ],
+  "yhteenveto": "LähiTapiolan kotivakuutuksen tuotesivu on selkeästi rakennettu ja tarjoaa hyvän yleiskuvan eri vakuutusvaihtoehtoista (Laaja, Perus, Suppea) ja niiden kattavuuden eroista. Sivulla on hinta-laskin ja kattava FAQ-osio sekä konkreettiset esimerkit vahinkojen käsittelystä. Hintatiedot edellyttävät kuitenkin laskimeen syöttämistä, josta ei ole varmuutta ilman yhteystietoja. Omavastuut ja korvausrajat mainitaan, mutta yksityiskohtaiset numerot löytyvät vain PDF-dokumenteista.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla on 'Laske hinta' -painike, joka näyttää vaativan pinta-alan neliömetreinä. Staattisessa HTML-koodissa ei näy, vaatiko laskuri henkilötietoja tulosten näyttämiseksi. Sisältö on todennäköisesti JavaScript-renderöity.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivun alalaidassa linkitykset PDF-dokumentteihin: 'Tuoteseloste (pdf)', 'Vakuutusehdot (pdf)', 'Yleiset sopimusehdot (pdf)', 'Vakuutuksen avaintiedot (pdf)'.",
+    "omavastuu_selkeasti": "HAVAINTO: Teksti mainitsee 'omavastuun suuruus' vaikuttavan hintaan ja vertailuissa mainitaan 'omavastuut', mutta konkreettisia minimisummia ei esitetä tuotesivulla.",
+    "korvausrajat_kerrottu": "HAVAINTO: 'Enimmäiskorvaukset vahinkotilanteissa' mainitaan huomioitavaksi, mutta spesifiset korvausrajat (eurossa tai muulla mittarilla) eivät ole näkyvillä sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Sivun alatunniste sisältää vain '© LähiTapiola 2026' -teksti, ei Y-tunnusta.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita kolmannen osapuolen tekemiä arvioita tai sertifikaatteja.",
+    "puhelin_esilla": "HAVAINTO: Hätäpalvelu-numero +358 800 0 4531 on selvästi näkyvillä yhteystiedot-sivulla ja pääsivulla, saatavilla 24/7.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole julkaistu. Yhteydenotto tapahtuu verkkolomakkeilla ja puhelinnumerolla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan epäsuorasti: 'Asiointikielen vaihtaminen sulkee käynnissä olevan chat-keskustelun' -varoitus sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: 'Katso oman alueesi asiakaspalvelun yhteystiedot ja aukioloajat' - aukioloajat saatavilla vain postinumeron syöttämisen jälkeen. Hätäpalvelu 24/7.",
+    "ukk_osio": "HAVAINTO: Osio 'Usein kysyttyä kotivakuutuksesta' sisältää 7 kysymystä-vastaus-paria kattavista aiheista kuin omavastuusta, S-Bonuksesta ja vakuutuksen laajuudesta.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla linkki 'Lataa LähiTapiola-sovellus' - 'Kaikki vakuutusasiat hoituvat kätevästi yhdessä sovelluksessa, missä ja milloin vain.'"
+  }
+}
