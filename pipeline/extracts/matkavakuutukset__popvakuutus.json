@@ -1,0 +1,47 @@
+{
+  "slug": "popvakuutus",
+  "fetched_ok": [
+    "https://www.popvakuutus.fi/vakuutukset/henkilovakuutukset/matkavakuutus"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatot_kerrottu": "osittain",
+  "rajoitukset_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": 0,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Yksityiskohtainen tuotekuvaus kahdelle vakuutusosalle (matkustaja- ja matkatavaravakuutus), jossa kuvataan mitä kukin osio korvaa",
+    "Ilmainen omavastuu sekä matkustaja- että matkatavaravakuutuksessa",
+    "Laaja FAQ-osio, jossa käsitellään käytännön tilanteita kuten matkan peruuntuminen, urheilua ja ambulanssilehtoja"
+  ],
+  "kehityskohteet": [
+    "Hintaa ei voi laskea verkkosivuilla ilman yhteydenottopyyntöä, mikä hidastaa ostopäätöstä",
+    "Vakuutusehdoissa ei näy konkreettisia korvausrajoja euroissa taulukossa",
+    "Y-tunnus tai muut yritystiedot puuttuvat tuotesivulta; Suomen Vahinkovakuutus Oy mainitaan vain pieniä fontilla"
+  ],
+  "yhteenveto": "POP Vakuutus tarjoaa matkavakuutusta, joka jakautuu matkustaja- ja matkatavaravakuutukseen. Sivulla kuvataan kattavasti mitä vakuutus korvaa ja annetaan runsaasti esimerkkejä käytännön tilanteista. Hintatietoja ei kuitenkaan ole saatavilla ilman yhteydenottoa, ja konkreettisia korvausrajoja euroissa ei näy tuotesivulla.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Sivulla on linkkejä 'Laske hinta ja osta' -osioon, mutta laskuri ohjaa yhteydenottopyyntölomakkeeseen, joka vaatii henkilötunnusta tai puhelinnumeroa ja sähköpostia ennen kuin näyttää hintatietoja.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Vakuutusasiakirjat-osiossa on neljä PDF-linkkiä: Matkavakuutusehdot, tuoteseloste, yleiset sopimusehdot ja vakuutustietoasiakirjat.",
+    "korvauskatot_kerrottu": "HAVAINTO: Sivulla on taulukko, joka kuvaa mitä matkavakuutus korvaa (matkasairaus, matkatapaturma, pysyvä haitta, kuolema, matkan peruuntuminen jne.), mutta konkreettisia euroja tai enimmäiskorvaussummia ei näy taulukossa.",
+    "rajoitukset_kerrottu": "HAVAINTO: Sivulla mainitaan ikärajat (0–79-vuotiaille) ja erityiset olosuhteet kuten urheilun kattavuus, matkakohteiden turvallisuusvaatimukset ja ulkoministeriön varoitusalueet.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston alaosassa mainitaan 'Vakuutukset myöntää Suomen Vahinkovakuutus Oy', mutta Y-tunnusta ei ole näkyvissä tuotesivulla.",
+    "omavastuu_min_eur": "HAVAINTO: 'Omavastuu 0 €' mainitaan selvästi koko sivulla useaan otteeseen, sekä matkustaja- että matkatavaravakuutukselle.",
+    "puhelin_esilla": "HAVAINTO: Sivulla on linkki 'Yhteystiedot' ja Matkahätäpalvelu mainitaan päivystävän ympäri vuorokauden, jonka voi soittaa suomeksi, mutta konkreettista puhelinnumeroa tuotesivulla ei näy.",
+    "email_esilla": "HAVAINTO: Yhteydenottopyyntölomakkeella voi valita, että halutaan ottaa yhteyttä sähköpostitse, mutta konkreettista sähköpostiosoitetta tuotesivulla ei näy.",
+    "ukk_osio": "HAVAINTO: Sivulla on laaja 'Usein kysytty matkavakuutuksesta' -osio, joka käsittelee noin 10 kysymystä aioista kuten matkan peruuntuminen, ambulanssilehtiot ja urheilun kattavuus.",
+    "aukioloajat_esilla": "HAVAINTO: Matkahätäpalvelun mainitaan olevan käytettävissä 24/7, mutta normaalin asiakaspalvelun aukioloaikoja ei ilmoiteta tuotesivulla."
+  }
+}

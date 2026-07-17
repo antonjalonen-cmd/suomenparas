@@ -1,0 +1,49 @@
+{
+  "slug": "turva",
+  "fetched_ok": [
+    "https://www.turva.fi/henkilo/vakuutukset/kotivakuutus/",
+    "https://www.turva.fi/henkilo/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "kylla",
+  "korvausrajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kolmen tason kotivakuutukset (laaja, perus, suppea) selkeästi vertailtavina",
+    "Yksityiskohtainen FAQ-osio vastaa yleisimpiin asiakkaiden kysymyksiin",
+    "TaskuTurva-mobiilisovellus integroitu palveluun"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ja yritystiedot puuttuvat tuotesivulta",
+    "Puhelinnumero ja sähköpostiosoite eivät näy pääsisällössä",
+    "Hintalaskurin toteutus ei selviä staattisesta HTML:stä, vaatimukset epäselvät"
+  ],
+  "yhteenveto": "Turva on vakuutusyhtiö, joka tarjoaa kotivakuutuksia kolmella kattavuuden tasolla. Tuotesivulla on kattava selitys vakuutusturvista, hintaan vaikuttavista tekijöistä ja usein kysytyistä asioista. Vahvuutena ovat selkeä tuotteiden vertailu ja laaja FAQ-osio, mutta yrityksen perustieto puuttuu, eikä yhteystietoja ole helposti näkyvissä.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla mainitaan vakuutuslaskuri ('Laske hinta' -linkki), jonka kautta näkee 'henkilökohtaisen hintasi muutamalla klikkauksella'. Staattisen HTML:n perusteella ei voi varmistaa, vaatiko laskuri henkilötunnusta vai yhteystietoja. Verkkokaupan ostovirtaa kuvataan saatavilla olevaksi.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Tuotesivulla mainitaan selvästi 'Vakuutusehdot', 'Avaintietoesite', 'Vakuutusopas' ja 'Yleiset sopimusehdot' -linkit.",
+    "omavastuu_selkeasti": "HAVAINTO: Sivulla selitetään yksityiskohtaisesti: 'Omavastuu tarkoittaa summaa, jonka maksat itse vahingon sattuessa. Kotivakuutuksen hinta on sitä edullisempi, mitä suuremman omavastuun valitset.' Omavastuun vaikutusta hintaan kuvataan selkeästi.",
+    "korvausrajat_kerrottu": "HAVAINTO: Sivulla mainitaan 'enimmäiskorvausmäärä' useaan otteeseen. Kuvataan ikävähennyksiä ('uusista tavaroista korvauksen ilman ikävähennyksiä') ja korvauksen ylärajoja.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita tuotesivulla eikä pääsivulla. Yritystietojen sivu ei löydy.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita riippumatonta arviota tai sertifikaattia.",
+    "puhelin_esilla": "HAVAINTO: Tuotesivulla ei näy puhelinnumeroa. Pääsivulla mainitaan 'Asiakaspalvelu' ja 'Yhteystiedot' -linkit, mutta varsinaista puhelinnumeroa ei näyty haetun sisällön perusteella.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla tai haetulla pääsivulla.",
+    "chat_mainittu": "HAVAINTO: Chat mainitaan kielenvaihtolokituksessa: 'Asiointikielen vaihtaminen sulkee käynnissä olevan chat-keskustelun.' Chat-palvelu siis saatavilla.",
+    "ukk_osio": "HAVAINTO: Tuotesivulla on laaja 'Usein kysyttyä kotivakuutuksesta' -osio, jossa vastauksia aiheista: vakuutuksen kattavuus, hinnat, alennukset, omavastuun laskeminen, soveltuvuus opiskelijoille, jne.",
+    "mobiilisovellus": "HAVAINTO: Sivulla mainitaan 'TaskuTurva-sovellus' ja 'TaskuTurva-mobiilisovellus' useaan otteeseen, esim. puhelinvahinkojen korjauksessa."
+  }
+}

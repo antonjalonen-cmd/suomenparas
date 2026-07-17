@@ -1,0 +1,49 @@
+{
+  "slug": "pohjantahti",
+  "fetched_ok": [
+    "https://www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/kotivakuutus/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "korvausrajat_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 76,
+    "hintojen_loydettavyys": 52,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Laaja tuoteseloste ja vakuutusehdot ladattavissa PDF-muodossa",
+    "Selkeä ja yksityiskohtainen kuvaus vakuutuksen kattavuudesta eri riskeille (tulipalo, rikos, putkivuoto, luonnonilmiö, rikkoutuminen)",
+    "Kattava UKK-osio, joka vastaa käytännöllisiin kysymyksiin kotivakuutuksesta"
+  ],
+  "kehityskohteet": [
+    "Hintalaskuri saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot) – omakotaloille ja muille tyypeille vaaditaan tarjouspyyntö",
+    "Puhelinnumero ja sähköpostiosoite eivät näy tuotesivulla – asiakkaan tulee käyttää yhteydenottolomaketta tai etsiä contact-sivu",
+    "Omavastuiden ja korvausrajojen tarkat määrät vaativat tuoteselosteen lataamisen – etusivulla ei konkreettisia lukuja"
+  ],
+  "yhteenveto": "Pohjantähti tarjoaa perinteistä, joustavaa kotivakuutusta, joka mukautuu asiakkaan tarpeisiin. Sivusto on selkeästi organisoitu, sisältää hyvin dokumentoidun tuoteselosteen ja laajat vakuutustiedot PDF-muodossa sekä kattavan UKK-osion. Kuitenkin hintalaskuri on saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot), ja muille on pyydettävä tarjous yhteystiedot edellyttävällä lomakkeella. Tarkkojen omavastuiden ja korvausrajojen löytäminen vaatii tuoteselosteen lataamista.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivusto mainitsee 'Kerros-, rivi- ja paritaloon voit ostaa kotivakuutuksen myös verkkokaupasta. Laske hinta ja osta ›'. Muille asuntotyypeille sanotaan 'Pyydä tarjous kotivakuutuksesta', mikä edellyttää yhteystietojen jättämistä lomakkeelle (nimi, osoite, puhelin, sähköposti vaaditaan).",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivustolla näkyy 'Lataa tiedosto - Vakuutusehdot' -linkki, jonka kautta vakuutusehdot ovat ladattavissa PDF-muodossa.",
+    "omavastuu_selkeasti": "HAVAINTO: Sivusto mainitsee 'Voit valita yksilöllisesti omavastuut ja vakuutusmäärät valitsemillesi turville', mutta konkreettisia omavastuurahoja ei kerrota etusivulla. Tarkat määrät löytyvät ladattavasta tuoteselosteesta.",
+    "korvausrajat_kerrottu": "HAVAINTO: Sivustolla viitataan korvausrajoihin: 'Tutustu irtaimiston enimmäiskorvausmääriin tuoteselosteessa'. Tarkat rajat eivät näy tuotesivulla vaan vaativat tuoteselosteen lataamisen.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0146905-4 näkyy sivun alalaidassa: 'Pohjantähti Keskinäinen Vakuutusyhtiö • Raatihuoneenkatu 19, 13100 Hämeenlinna • Y-tunnus: 0146905-4'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita riippumattomia arvioita, sertifikaatteja eikä ulkopuolisten tahojen auditointeja.",
+    "puhelin_esilla": "HAVAINTO: Sivustolla mainitaan puhelinpalvelu ('Soittaessasi maksat vain puhelinoperaattorisi hinnaston mukaisen matkapuhelinmaksun'), mutta puhelinnumeroa ei näy tuotesivulla. Numero löytynee erillisellä kontaktisivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla. Yhteydenotto tapahtuu lomakkeen kautta, jossa asiakas valitsee haluamansa yhteystavan (puhelimitse tai sähköpostitse).",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei mainita chat-palvelua.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei kerrota tuotesivulla.",
+    "ukk_osio": "HAVAINTO: Sivustolla on laaja 'Usein kysyttyä kotivakuutuksesta' -osio, jossa käsitellään muuttoa, asumisen keskeytymistä, mökkivakuutusta, perheenjäseniä, sähkökatkojen korvaamista jne.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita tuotesivulla."
+  }
+}

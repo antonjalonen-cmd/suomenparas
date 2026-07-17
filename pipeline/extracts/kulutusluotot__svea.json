@@ -1,0 +1,51 @@
+{
+  "slug": "svea",
+  "fetched_ok": [
+    "https://www.svea.com/fi-fi/kuluttajat/lainat/kulutusluotto"
+  ],
+  "todellinen_vuosikorko_esilla": "kylla",
+  "esimerkkilaskelma_esilla": "kylla",
+  "kulut_eriteltyna": "kylla",
+  "luotonantaja_ja_valvoja_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "todellinen_vuosikorko_pct": 8.99,
+  "luottosumma_max_eur": 50000,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Selkeästi näkyvä esimerkkilaskelma todellisella vuosikorolla (8,99 %)",
+    "Kulut eriteltynä (käsittelykultu 8 €/kk, avausmaksu 49 €)",
+    "Laaja FAQ-osio, joka vastaa yleisiin kulutusluottokysymyksiin"
+  ],
+  "kehityskohteet": [
+    "Puuttuva asiakaspalvelun puhelinnumero ja sähköpostiosoite",
+    "Y-tunnus (3237195-7) ja lainanantajatiedot eivät näy pääsivulla",
+    "Avoimet aukioloajat ja chat-tuki puuttuvat kuluttajille näkyviltä sivuilta"
+  ],
+  "yhteenveto": "Svea on ruotsalainen pankki, jonka suomalainen sivuliike tarjoaa kulutusluottoa 2 000–50 000 euron välillä. Sivustolla on selkeä esimerkkilaskelma 8,99 % korolla ja avausmaksu 49 € sekä kuukausittainen käsittelykulta 8 €. Sivulla on kattava FAQ-osio, mutta asiakaspalvelun yhteystiedot ja yrityksen tunnistetiedot puuttuvat pääsivulta.",
+  "evidence": {
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Sivulla näkyy selkeästi 'Esimerkkilkorko' 8,99 % erillisessä hintatiedot-osiossa lainan 25 000 € esimerkille.",
+    "esimerkkilaskelma_esilla": "HAVAINTO: Sivulla näkyy lainan esimerkkilaskelma: lainasumma 25 000 €, kuukausieriä 527 €/kk, esimerkkilkorko 8,99 %, käsittelykulta 8 €/kk, avausmaksu 49 €.",
+    "kulut_eriteltyna": "HAVAINTO: Kulut eritelty: 'Käsittelykultu' 8 €/kk ja 'Avausmaksu' 49 € näkyvät hintatiedot-osiossa.",
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Sivuston otsikkotekstistä ilmenee 'Svea Bank', mutta täydellinen lainanantajan nimi (Svea Bank AB, filial i Finland), Y-tunnus ja valvoja (Finansinspektionen, Ruotsi) eivät näy pääsivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta 3237195-7 ei löydy pääsivulta; tieto on saatavissa vain ulkoisen tiedon kautta (PRH-rekisteri).",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei ole linkkejä kolmansien osapuolten arviointipalveluihin (Trustpilot, Google Reviews) eivätkä arviot näy.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa asiakaspalveluun ei ole näkyvillä pääsivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta asiakaspalveluun ei löydy pääsivulta.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloaikoja ei ole julkaistu sivulla.",
+    "ukk_osio": "HAVAINTO: Sivulla on laaja FAQ-osio, jossa käsitellään aiheita kuten 'Mitä tarkoittaa kulutusluotto?', 'Mikä on edullisin kulutusluotto?', 'Voinko tehdä ylimääräisiä lyhennyksiä?' sekä muita yleisiä kysymyksiä.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu sivulla.",
+    "luottosumma_max_eur": "HAVAINTO: Sivulla näkyy teksti 'Voit hakea lainaa ilman vakuuksia 50 000 euroon asti.'"
+  }
+}

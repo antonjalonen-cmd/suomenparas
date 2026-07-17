@@ -1,0 +1,43 @@
+{
+  "slug": "pohjantahti",
+  "fetched_ok": ["https://www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/autovakuutus/"],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "kaskotasot": ["Ajoneuvoturva", "Luottokasko", "Malttikasko"],
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 48,
+    "sisallon_kattavuus": 77
+  },
+  "vahvuudet": [
+    "Selkeä vertailutaulukko kaskovakuutusten taso-eroista (Luottokasko vs. Malttikasko)",
+    "Tähtikuljettajan bonus-etu on houkutteleva: ensimmäinen törmäysvahinko ei laske bonusta",
+    "Kattava FAQ-osio vastaa yleisiin kysymyksiin (Green Card, sijaisauto, vahingot)"
+  ],
+  "kehityskohteet": [
+    "Hintalaskurin saatavuus epäselvä: linkki avautuu uudessa välilehdessä eikä kalkulaattoria pystynyt varmentamaan",
+    "Omavastuun minimäärät eivät näy tuotesivulla, vaatii kalkulaattorin käyttöä",
+    "Puhelinnumero ja sähköpostiosoite puuttuvat: sivulla todetaan vain että puheluissa kertyy kustannuksia"
+  ],
+  "yhteenveto": "Pohjantähti on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa autovakuutusta. Tuotesivu esittelee kaskovakuutusten vaihtoehdot selkeästi vertailutaulukon avulla ja kuvaa bonus- ja vakuutusehdot yksityiskohtaisesti. Hinnoittelun löydettävyys on heikko, koska hintalaskuri vaatii siirtymisen ulkoiselle sivulle eikä suoraa hintaa ole nähtävissä ilman kalkulaattorin käyttöä tai yhteydenottopyyntöä.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla mainitaan 'Laske kaskon hinta ja osta' -linkki, joka avautuu uudessa välilehdessä, ja verkkokauppa on mainittu nopeimmaksi tavaksi saada vakuutus. Vaihtoehto on 'Jätä yhteydenottopyyntö'. Kalkulaattoria ei pystynyt verifioimaan.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Tuotesivu tarjoaa kolme ladattavaa PDF-tiedostoa: tuoteseloste, liikennevakuutus-ehdot ja kaskovakuutus-ehdot.",
+    "omavastuu_selkeasti": "HAVAINTO: Omavastuu mainitaan konteksteissa (esim. lasi-vakuutuksessa 'lasin korjauksesta omavastuuta ei vähennetä'), mutta päävastuun minimäärä ei ole selvästi näkyvissä tuotesivulla.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: Sivulla selitetään bonus-järjestelmä yksityiskohtaisesti: 'Voit saada vuosimaksusta jopa 70% bonusalennusta vahingottomien vakuutuskausiesi perusteella.' Tähtikuljettajan etu on erillisessä osassa.",
+    "kaskotasot_vertailtavissa": "HAVAINTO: Vertailutaulukko näyttää Luottokasko ja Malttikasko vertailun eri turva-alojen osalta (palo, varkaus, eläin jne.).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus: 0146905-4 on näkyvissä sivun alatunnisteessa.",
+    "ukk_osio": "HAVAINTO: Osio 'Usein kysyttyä autovakuutuksesta' sisältää kysymyksiä kaskon hinnasta, vaihdon tekemisestä, Tähtikuljettajan edusta, vahingonkumppaneista, ulkomaanmatkasta ja sijaisautosta."
+  }
+}

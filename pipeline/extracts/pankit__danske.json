@@ -1,0 +1,48 @@
+{
+  "slug": "danske",
+  "fetched_ok": [
+    "https://danskebank.fi/sinulle",
+    "https://danskebank.fi/sinulle/asiakaspalvelu"
+  ],
+  "palveluhinnasto_julkinen": "ei",
+  "tilin_ja_kortin_maksut_esilla": "ei",
+  "sopimusehdot_saatavilla": "osittain",
+  "konttorit_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "kayttotili_kk_maksu_eur": null,
+  "ai_arviot": {
+    "selkeys": 55,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 45
+  },
+  "vahvuudet": [
+    "Asiakaspalvelun puhelinnumerot ja aukioloajat selkeästi näkyvillä",
+    "Mobiilisovellus mainittu saatavana",
+    "Chat-palvelu tarjolla arkisin klo 9-16"
+  ],
+  "kehityskohteet": [
+    "Palveluhinnasto ja tilin/kortin maksut kokonaan piilotettu - vaatii kirjautumisen",
+    "Yleiset ehdot ja yhteystiedot linkkeissä eivät toimi (javascript:void(0))",
+    "Konttorit ja aukioloajat eivät löydettävissä julkiselta sivulta"
+  ],
+  "yhteenveto": "Danske Bank A/S Suomen sivuliike tarjoaa henkilöasiakkaiden pankkipalveluja danskebank.fi-sivustolla. Asiakaspalvelun puhelinnumeroita (0200 2580) ja aukioloaikoja (ma-pe 9-16) löytyy asiakaspalvelusivulta. Mobiilipankkisovellus ja chat-palvelu mainitaan saatavana. Kuitenkin palveluhinnasto, tilin ja kortin maksut, yleiset sopimusehdot ja konttorien tiedot eivät ole julkisesti saatavilla ilman kirjautumista.",
+  "evidence": {
+    "palveluhinnasto_julkinen": "HAVAINTO: Palveluhinnastoa ei löytynyt julkisilta sivuilta. Sivuilla mainitaan palveluja mutta hinnoittelu piilotettu kirjautumisen taakse.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötilin ja maksukortin maksuja ei mainittu julkisilla sivuilla.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Yleiset ehdot -linkki löytyy footer-osiosta mutta se ei ole toimiva (javascript:void(0)).",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorien osoitteita tai aukioloaikoja ei löytynyt henkilöasiakkaiden sivuilla, vaikka pääpalvelun aukioloajat (ma-pe 9-16) mainitaan.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainittu julkisesti. Footer sisältää yritystiedot: 'Danske Bank A/S, Suomen sivuliike, Televisiokatu 1, Helsinki, PL 1243, 00075 DANSKE BANK, BIC: DABAF' mutta Y-tunnusta ei ole.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumerot löytyvät asiakaspalvelusivulta: 0200 2580 (ma-pe 9-16), 0200 25889 (seniorit, ma-pe 9-16), 0200 2585 (kortin sulkeminen, 24h), 0100 1580 (uudet asiakkaat, ma-pe 9-16).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt julkisesti.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan saatavana. Chat on suljettu viestissä sanotaan 'Olemme apunasi chatissa arkisin klo 9–16.'",
+    "aukioloajat_esilla": "HAVAINTO: Pääpalvelun aukioloajat ovat ma-pe 9-16 ja erikoispalvelujen numerot avoimet eri aikoihin.",
+    "mobiilisovellus": "HAVAINTO: Mobiilipankkisovellus mainitaan 'Kirjaudu mobiilipankkiin' -linkissä mutta sovelluksen tarkemmista tiedoista tai saatavuudesta ei ole yksityiskohtia julkisesti."
+  }
+}

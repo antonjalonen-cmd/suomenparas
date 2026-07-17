@@ -1,0 +1,55 @@
+{
+  "slug": "turva",
+  "fetched_ok": [
+    "https://www.turva.fi/henkilo/vakuutukset/ajoneuvot/autovakuutus/",
+    "https://www.turva.fi/henkilo/asiakaspalvelu/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "kylla",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "kylla",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "kaskotasot": [
+    "Liittokasko",
+    "Täyskasko",
+    "Osakasko"
+  ],
+  "omavastuu_min_eur": 200,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Selkeä vertailutaulukko kolmesta eri kaskotyypistä (Liittokasko, Täyskasko, Osakasko) tekee valinnan helpoksi.",
+    "Verkkokaupassakin saatava hintalaskuri antaa nopean arvion ilman pakollisia henkilötietoja.",
+    "Kattava bonus- ja alennusjärjestelmä (lähtöbonus 35-80%, vahingottomuusalennus 10%) on avoimen kuvattuna."
+  ],
+  "kehityskohteet": [
+    "Yhtiötunnus (Y-tunnus) ja yrityksen rekisteröintitiedot puuttuvat tuotesivulta.",
+    "Sähköpostiosoitetta ei ole helposti löydettävissä tuotesivulla; asiakkaiden on käytettävä verkkolomaketta tai puhelinta.",
+    "Asiakaspalvelun aukioloajat puuttuvat; ilmoitetaan vain 24/7 hätäpalvelu, mutta ei normaalia palveluaikaa."
+  ],
+  "yhteenveto": "Turvan autovakuutus on selkeästi rakennettu tuote, jossa hintalaskuri on saavutettavissa nopeasti ilman pakollisia yhteystietoja. Vakuutusehdot ja bonus- sekä alennusjärjestelmät on dokumentoitu hyvin. Kehityskohteita ovat yritystietojen puuttuminen tuotesivulla ja asiakaspalvelun aukioloaikojen selkeyden parantaminen.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Tuotesivulla näkyvä 'Laske hinta' -lomake sisältää tekstikentät auton tietoille, iän ja asuinpaikan ilmoitukselle. Hintalaskuri käynnistyy ilman henkilötunnusta tai yhteystietoja.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: 'Vakuutusehdot ja oppaat' -osiossa mainitaan 'Vakuutusopas', 'Avaintietoesite', 'Vakuutusehdot' ja 'Yleiset sopimusehdot' ladattaviksi PDF-dokumenteiksi.",
+    "omavastuu_selkeasti": "HAVAINTO: Usein kysytyssä osiossa sanotaan 'Voit valita omavastuuksi esimerkiksi 200, 500 tai 750 euroa'.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: 'Liikennevakuutuksen lähtöbonus uudella kuljettajalla 35 % ja kokeneemmalla jopa 80 %.' Myös mainittaan 'Vahingottomuusalennus palkitsee huolellisia kuskeja vahingottomuudesta. Saat heti alusta alkaen 10 %'.",
+    "kaskotasot_vertailtavissa": "HAVAINTO: Sivulla näkyy taulukko, jossa verrataan kolmea tasoa: Liittokasko, Täyskasko ja Osakasko. Taulukossa listataan kattavuuden erot (Sijaisauto, laaja / Sijaisauto / Lunastusetu / Lasivahinkoturva jne.).",
+    "y_tunnus_esilla": "HAVAINTO: Tuotesivulla ei mainita yhtiötunnusta (Y-tunnusta) tai muita rekisteröintitietoja.",
+    "puhelin_esilla": "HAVAINTO: 'Hätäpalvelumme auttaa ympäri vuorokauden numerossa 01019 5111 suomeksi, ruotsiksi ja englanniksi.'",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löydy tuotesivulta; asiointi tapahtuu verkkolomakkeen, puhelimen tai neuvontasovelluksen kautta.",
+    "chat_mainittu": "HAVAINTO: Sivun pohjassa näkyy viittaus 'Chat-sovellus' -nimiseen palveluun.",
+    "aukioloajat_esilla": "HAVAINTO: Vain hätäpalvelun 24/7 saatavuus mainitaan; normaalin asiakaspalvelun aukioloaikoja ei ilmoiteta.",
+    "ukk_osio": "HAVAINTO: Sivulla on 'Usein kysyttyä autovakuutuksesta' -osio, joka sisältää kysymyksiä kuten 'Miksi puhumme uuden ajan autovakuutuksesta?', 'Mikä on ajoneuvovakuutus?', 'Mikä vaikuttaa hintaan?' jne.",
+    "mobiilisovellus": "HAVAINTO: Sivun asiakaspalvelun osassa mainitaan 'TaskuTurva-sovellus' asiointikanavaksi."
+  }
+}

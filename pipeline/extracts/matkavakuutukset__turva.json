@@ -1,0 +1,44 @@
+{
+ "slug": "turva",
+ "fetched_ok": [
+  "https://www.turva.fi/henkilo/vakuutukset/terveysvakuutus/matkavakuutus/",
+  "https://www.turva.fi/henkilo/asiakaspalvelu/"
+ ],
+ "hinta_esilla_ilman_yhteystietoja": "osittain",
+ "vakuutusehdot_saatavilla": "kylla",
+ "korvauskatot_kerrottu": "kylla",
+ "rajoitukset_kerrottu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "omavastuu_min_eur": 0,
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 78,
+  "sisallon_kattavuus": 82,
+  "hintojen_loydettavyys": 50
+ },
+ "vahvuudet": [
+  "Kattava tietosisältö - kaikki vakuutustuotteet ja rajoitukset selostettu selkeissä taulukoissa",
+  "Laaja FAQ-osio vastaa asiakkaiden yleisimpiin kysymyksiin matkavakuutuksesta",
+  "TaskuTurva-mobiilisovellus ja chat-palvelu tuodaan esiin käteviksi asiointikanaviksi"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelu on piilotettu kalkulaattorin taakse - konkreettiset hintaesimerkit puuttuvat sivustolta",
+  "Yhteystiedot (puhelin, sähköposti) ja aukioloajat eivät näy tuoteselosteella, vaan vaativat erillisen navigoinnin",
+  "Y-tunnus puuttuu tuotesivulta kokonaan - vaatisi erillisen haun yhritystiedoista"
+ ],
+ "yhteenveto": "Turvan matkavakuutussivu esittelee vakuutuksen kattavuuden ja ehdot selkeästi taulukoiden avulla. Laaja FAQ-osio kattaa asiakkaiden yleisimmät kysymykset. Hintojen näkyvyyden heikentävät piiloksi sijoitettu laskin, ja kontaktitiedot sekä yhritystiedot vaativat erillisen haun.",
+ "evidence": {
+  "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Sivulla näkyy useita \"Laske hinta ja osta\" -painikkeita, mutta konkreettisia hintoja ei näytetä ennen kalkulaattorin käyttöä. Ei voitu vahvistaa, vaatiiko laskin henkilötunnusta vai riittävätkö perustiedot.",
+  "vakuutusehdot_saatavilla": "HAVAINTO: \"Vakuutusehdot ja oppaat\" -osio linkittää Avaintietoesite-, Vakuutusehdot-, Vakuutusopas- ja Yleiset sopimusehdot -dokumentteihin.",
+  "korvauskatot_kerrottu": "HAVAINTO: Sivulla esitetään selkeät taulukot korvausrajoista: Matkasairauden hoito max 120 päivää, tapaturmainen pysyvä haitta 100 000€ / 200 000€, kuolema 5 000€, urheiluturva ilman euromääräistä ylärajaa.",
+  "rajoitukset_kerrottu": "HAVAINTO: FAQ-osio käsittelee rajoituksia: urheilulajien vaatima erillinen turva, ikärajat (vakuutus päättyy 100 vuotiaana), maantieteelliset rajoitukset (voimassa maailmanlaajuisesti Suomesta), kaiken kaikkiaan riittävä rajoitusten selostus.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy matkavakuutustuotesivulla tai asiakaspalvelun yleissivulla. Vaatii erillisen navigoinnin yritystietoihin.",
+  "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita riippumattomia auditointeja tai arvioita. Sitaatit ovat Turvan omasta asiakaspalautekyselystä (2025)."
+ }
+}

@@ -113,6 +113,60 @@ TRANSPARENCY = {
         ("lokikaytanto_kerrottu", "Lokikäytäntö kerrottu", 15),
         ("riippumaton_auditointi", "Riippumaton auditointi esillä", 10),
     ],
+    # ------------------------------------------------------------------ batch 2
+    "kulutusluotot": [
+        # KSL 7:8-9 REQUIRES the effective rate and a representative example to be
+        # given before the consumer commits. So this measures whether a lender meets
+        # its own legal duty in public — not whether its rate is low.
+        ("todellinen_vuosikorko_esilla", "Todellinen vuosikorko esillä ilman hakemusta", 30),
+        ("esimerkkilaskelma_esilla", "Lakisääteinen esimerkkilaskelma esillä", 20),
+        ("kulut_eriteltyna", "Kaikki kulut eriteltynä (tilinhoito, nosto, viivästys)", 15),
+        # The point of the whole category: the brand on the ad is very often not the
+        # company lending you the money.
+        ("luotonantaja_ja_valvoja_kerrottu", "Todellinen luotonantaja ja valvoja kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "pankit": [
+        ("palveluhinnasto_julkinen", "Palveluhinnasto julkisesti saatavilla ilman kirjautumista", 30),
+        ("tilin_ja_kortin_maksut_esilla", "Tilin- ja kortinhoitomaksut esillä", 20),
+        ("sopimusehdot_saatavilla", "Yleiset sopimusehdot julkisesti saatavilla", 15),
+        ("konttorit_ja_aukioloajat", "Konttorit ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "autovakuutukset": [
+        ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),
+        ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),
+        ("omavastuu_selkeasti", "Omavastuu kerrottu selkeästi", 15),
+        ("bonusjarjestelma_kerrottu", "Bonusjärjestelmä kerrottu", 15),
+        ("kaskotasot_vertailtavissa", "Kaskotasojen erot vertailtavissa", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ],
+    "kotivakuutukset": [
+        ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),
+        ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),
+        ("omavastuu_selkeasti", "Omavastuu kerrottu selkeästi", 15),
+        ("korvausrajat_kerrottu", "Korvauskatot ja rajoitukset kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "matkavakuutukset": [
+        ("hinta_esilla_ilman_yhteystietoja", "Hinta esillä ilman yhteystietoja", 30),
+        ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),
+        ("korvauskatot_kerrottu", "Korvauskatot (sairaus, matkatavara) kerrottu", 15),
+        ("rajoitukset_kerrottu", "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "lemmikkivakuutukset": [
+        ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),
+        ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),
+        ("korvauskatto_kerrottu", "Vuosittainen korvauskatto kerrottu", 15),
+        ("rotu_ja_ikarajat_kerrottu", "Rotu- ja ikärajoitukset kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
 }
 
 # Human-readable criteria string rendered on the methodology page.

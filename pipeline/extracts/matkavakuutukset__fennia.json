@@ -1,0 +1,53 @@
+{
+  "slug": "fennia",
+  "fetched_ok": [
+    "https://www.fennia.fi/matkavakuutus",
+    "https://www.fennia.fi/yhteystiedot-henkiloasiakkaille",
+    "https://www.fennia.fi/fennia-konsernin-yhtioiden-paakonttorit",
+    "https://www.fennia.fi/matkavakuutukset-esite"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatot_kerrottu": "kylla",
+  "rajoitukset_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "omavastuu_min_eur": 0,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 88
+  },
+  "vahvuudet": [
+    "Kattava matkustajavakuutus ilman korvauskatoa sairaus- ja tapaturmakuluille",
+    "Selkeä tuote-esite ja vakuutusehdot saatavilla suoraan verkkosivuilla",
+    "Helppokäyttöinen hintalaskuri ja laaja palvelupaketti (Reissuapu 24h, FenniaHoitaja)"
+  ],
+  "kehityskohteet": [
+    "Hintalaskuri vaatii henkilötunnuksen ennen kuin näyttää konkreettiset hinnat",
+    "Sähköposti-yhteydenotto estetty turvallisuusperusteista — asiakkaiden on käytettävä Oma Fennia -palvelua",
+    "Vakuutuksen pitkät rajoitukset urheilulajien osalta eivät ole korostettu pääsivulla"
+  ],
+  "yhteenveto": "Fennia tarjoaa kattavaa matkavakuutusta, jonka päätuotteena on matkustajavakuutus ilman korvauskatoa sairauden ja tapaturman hoitokuluille. Verkkosivusto on informatiivinen ja tarjoaa yksityiskohtaiset vakuutusehdot sekä tuote-esitteen, mutta hintatiedot saavutetaan vasta hintalaskurin kautta, joka vaatii henkilötunnuksen. Yritystä valvoo Finanssivalvonta ja se tarjoaa asiakaspalvelua puhelimitse ja chatissa arkisin 9-16:30 välisenä aikana.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Verkkosivulla on hintalaskuri-linkki (https://osto.fennia.fi/jatkuvamatka/ika), jonka nimellä 'Laske hinta ja osta', mutta laskuri vaatii henkilötunnuksen ennen kuin se näyttää euromääräiset hinnat. Vakuutusmaksu määräytyy tuotteen mukaan: 'Vakuutusmaksun määräytyminen vakuutusturvan laajuuden ja valittujen vakuutusmäärien perusteella'.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Tuote-esite ja vakuutusehdot ovat saatavilla suoraan verkkosivulta linkkeillä: 'Esite - Matkavakuutukset', 'Vakuutusehdot - Fenniaturva: matkatavarat (F20-F100)', 'Vakuutusehdot - Fenniaturva: matkustaja (F400-F300', ja 'Vakuutusehdot - Fenniaturvan yleiset sopimusehdot'. Esite voidaan myös ladata PDF-muodossa.",
+    "korvauskatot_kerrottu": "HAVAINTO: Matkustajavakuutuksen tuotteessa kerrotaan: 'Matkustajavakuutus korvaa hoitokulut ilman euromääräistä ylärajaa.' Matkatavaravakuutukselle on määritelty korvauskatot: välttämättömyystarvikkeet enintään 1 500 euroa ('Korvauksen ylärajana on vakuutuskirjassa mainittu vakuutusmäärä, kuitenkin enintään 1 500 euroa'). Psykoterapia kriisitilanteissa on rajoitettu viiteen käyntiin.",
+    "rajoitukset_kerrottu": "HAVAINTO: Vakuutukseen liittyy lukuisia rajoituksia: matkustajavakuutus ei korvaa 'sairaudesta, jonka oireita on ilmennyt ennen matkan alkamista', alkoholi- ja huumausaineista aiheutuvia tapauksia, tai kuntoutus-/kylpylä-olosuhteista aiheutuvia hoitokuluja. Urheilurajoitukset ovat selkeästi määritelty: jotkut vaarallisten lajien (lentourheilu, salamäkiretkeet jäätiköillä) harrastaminen vaatii lisäsopimusta, ja jotkut lajit (amerikkalainen jalkapallo, rugby) eivät ole lainkaan vakuutettuja. Matkatavaravakuutus ei korvaa unohtuneita tai kadonneet tavaroita, tai käytössä rikkoutunutta urheiluvälineistöä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus on näkyvissä sivustolla: 'Keskinäinen Vakuutusyhtiö Fennia, Y-tunnus 0196826-7'.",
+    "riippumaton_arvio": "HAVAINTO: Tuote-esitteessä mainitaan riippumattomia palveluja: 'FINEn Vakuutus- ja rahoitusneuvonta antaa maksutta riippumattomia neuvoja ja opastusta asiakkaille' (www.fine.fi) ja 'Kuluttaja voi pyytää erimielisyyksissä neuvoa kuluttajariitalautakunnalta' (www.kuluttajariita.fi).",
+    "omavastuu_min_eur": "HAVAINTO: Matkustajavakuutuksessa ei ole omavastuuta ('Matkustajavakuutuksessa ei ole omavastuuta'). Matkatavaravakuutuksessa omavastuu on vakuutuskirjaan merkitty. Vastuuvakuutuksessa omavastuu on 150 euroa ('Vakuutetulla on jokaisessa vahinkotapahtumassa vakuutuskirjaan merkitty 150 euron omavastuu').",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero on näkyvissä yhteystiedot-sivulla: 'Soita suomeksi 010 503 8808', aukioloajat 'ma–pe klo 9–16.30'.",
+    "email_esilla": "HAVAINTO: Säännöllinen sähköposti-yhteydenotto on estetty turvallisuussyistä: 'Tietoturvasyistä meille Fenniaan ei voi lähettää tavallista sähköpostia vakuutus- tai korvausasioissa.' Asiakkaat ohjeistetaan käyttämään Oma Fennia -palvelua viestintään. Yleiset edunvalvojat voivat ottaa yhteyttä osoitteeseen edunvalvonta@fennia.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu on mainittu kontaktikanavana: 'Oma Fennian chat' on saatavilla 'ma–pe klo 9–16.30'. Lisäksi verkkosivuilla on chat-painike: 'Hei, onko sinulla kysyttävää? Kysy rohkeasti.'",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ovat näkyvissä yhteystiedot-sivulla: Vakuutusten osto ja asiakastietojen päivitys 'ma–pe klo 9–16.30', vahinko- ja korvausasiat 'ma–pe klo 9–16'. Chat-palvelu 'ma–pe klo 9–16.30'.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä matkavakuutuksesta' -osio on olemassa tuotesivulla ja sisältää kysymyksiä kuten 'Mikä vaikuttaa matkavakuutuksen hintaan?', 'Kannattaako valita jatkuva vai määräaikainen matkavakuutus?', 'Miten matkavakuutus toimii kotimaan matkoilla?', 'Tarvitseeko lapsi oman matkavakuutuksen?'",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei ole mainittu tuote-esitteessä tai pääsivulla. Yhteys asiakkaisiin tapahtuu verkkosivuston kautta, Oma Fennia -palvelun kautta tai puhelimitse."
+  }
+}

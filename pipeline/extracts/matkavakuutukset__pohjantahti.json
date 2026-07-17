@@ -1,0 +1,46 @@
+{
+  "slug": "pohjantahti",
+  "fetched_ok": [
+    "https://www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/matkavakuutus/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "osittain",
+  "korvauskatot_kerrottu": "osittain",
+  "rajoitukset_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 35,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 40
+  },
+  "vahvuudet": [
+    "Hinta-arviointia varten riittävät yhteydenottopyyntö- ja tarjoupyyntökanavat (puhelimitse/sähköpostitse)",
+    "Pohjantähden oma vakuutusyhtiö, ei välittäjä",
+    "Tuotteen saatavuus varmistettu pohjantahti.fi-domainissa"
+  ],
+  "kehityskohteet": [
+    "Ei instant-kalkulaattoria hintaa varten – vain \"Pyydä tarjous\" -menetelmä",
+    "Sivun sisältö latautuu dynaamisesti (JavaScript), staattinen näkymä puutteellinen",
+    "Yhteystiedot (puhelin/sähköposti) ja avoinna oloajat eivät näkyvillä tuotesivulla"
+  ],
+  "yhteenveto": "Pohjantähti tarjoaa matkavakuutusta ainoastaan \"Pyydä tarjous\" -menetelmällä, eikä julkaise instant-hintaa verkossa. Sivuston sisältö latautuu dynaamisesti JavaScript-teknologialla, mikä vaikeuttaa tietojen todentamista. Yhteydenottopyyntölomake on saatavilla, mutta yksityiskohtaiset vakuutusehdot ja korvauskriteerit eivät ole helposti löydettävissä matkavakuutussivulla.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Selaimen välilehden otsikko näyttää \"Matkavakuutus | Pyydä tarjous, katso hinta ja osta\". \"Pyydä tarjous\" (request a quote) viittaa siihen, että välitöntä hintaa ei ole saatavissa ilman yhteydenottoa. Sivulla ei löytynyt instant-kalkulaattoria.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivun sisältö latautuu dynaamisesti. Staattiset HTML-lukemiset eivät paljastanut suoria linkkejä vakuutusehtodokumentteihin matkavakuutussivulla, vaikka pohjantahti.fi tarjoaa yleisiä vakuutusasiakirjoja.",
+    "korvauskatot_kerrottu": "HAVAINTO: Korvauskatot ja -määrät eivät ole näkyvillä dynaamisesti ladattavan sivun staattisilta osiltaan.",
+    "rajoitukset_kerrottu": "HAVAINTO: Vakuutusrajoitukset (ikärajat, maaryhmät, ennakkosairaudet) eivät ole näkyvillä sivulla staattisen analyysin perusteella.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvillä matkavakuutussivulla. Altistunut vain yleinen \"Pohjantähti Keskinäinen Vakuutusyhtiö\" -nimike.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita kolmannen osapuolen riippumattomia arvioita tai tutkimuksia.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero ei ole näkyvillä matkavakuutussivulla. \"Ota yhteyttä\" -linkki johtaa yleiselle yhteydenotto-sivulle.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei mainita matkavakuutussivulla.",
+    "ukk_osio": "HAVAINTO: Sivu sisältää yhteydenottopyyntölomakkeen, mutta UKK-osio on osittain saatavilla. Dynaaminen sisältö estää täyden analyysin."
+  }
+}

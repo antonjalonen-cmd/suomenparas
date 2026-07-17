@@ -1,0 +1,51 @@
+{
+  "slug": "resursbank",
+  "fetched_ok": [
+    "https://www.resursbank.fi/",
+    "https://www.resursbank.fi/lainaa",
+    "https://www.resursbank.fi/asiakaspalvelu",
+    "https://www.resursbank.fi/tietoja-meista"
+  ],
+  "todellinen_vuosikorko_esilla": "osittain",
+  "esimerkkilaskelma_esilla": "osittain",
+  "kulut_eriteltyna": "osittain",
+  "luotonantaja_ja_valvoja_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "todellinen_vuosikorko_pct": null,
+  "luottosumma_max_eur": 50000,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Selkeä lainasumman valikoima ja hakuprosessi ilman vakuuksia",
+    "Mobiilisovellus saatavilla iOS ja Android-laitteille",
+    "Asiakaspalvelu puhelimitse ja chat-palvelun kautta"
+  ],
+  "kehityskohteet": [
+    "Todellinen vuosikorko ei näkyvissä etusivulla tai lainasivulla ilman hakemukselle siirtymistä",
+    "Konkrettiset maksuesimerkit puuttuvat, hinnat esitellään epätarkasti",
+    "Maksujen ja kulujen erittelyä ei löydy julkisesti saatavista sivuista"
+  ],
+  "yhteenveto": "Resurs Bank AB Suomen sivuliike (Y-tunnus 2110471-4) tarjoaa kulutusluottoja 1 000–50 000 euron vaihteluvälillä ilman vakuuksia. Sivusto näyttää perustiedot lainista, mutta yksityiskohtaisia hintatietoja kuten todellista vuosikorkoa ja maksuesimerkiksi ei löydy ilman lainanhakuprosessiin siirtymistä. Asiakaspalveluun päästään puhelimitse (09 622 4308) ja chat-palvelun kautta.",
+  "evidence": {
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Sivuston meta-tiedoista ja osiosta 'Tietoja meistä' löytyy tieto 'Resurs Bank AB Suomen sivuliike' ja Y-tunnus 2110471-4, joka viittaa ruotsalaiseen Resurs Bank AB:hen. Valvontaviranomaista ei ole erikseen mainittu.",
+    "y_tunnus_esilla": "HAVAINTO: Sivulla https://www.resursbank.fi/tietoja-meista mainitaan 'Y-tunnus 2110471-4'.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun sivulla ja meta-kuvauksessa mainitaan puhelinnumero 09 622 4308.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelun sivulla on konfiguraatio show_ai_chatbot:true, ja chat-palvelu mainitaan sivuston navigaatiossa.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelun sivulla on FAQ-osio, jonka meta-kuvaus sanoo 'Täältä löydät vastaukset henkilöasiakkaiden tavallisimpiin kysymyksiin'.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla mainitaan 'Lataa sovellus:' ja linkit 'Lataa i App Storesta' ja 'Lataa Google Playsta'.",
+    "luottosumma_max_eur": "HAVAINTO: Meta-kuvauksessa ja sivun otsikossa mainitaan '1 000–50 000 € lainaa'.",
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Vuosikorkoa ei näy etusivulla, lainasivulla tai asiakaspalvelun FAQ:ssa. Sivulla mainitaan 'edullisella korolla' mutta konkreettista prosenttia ei ole julkisesti näkyvissä ennen hakemukselle siirtymistä.",
+    "esimerkkilaskelma_esilla": "HAVAINTO: Lainasivulla ei ole näkyvissä konkreettisia maksuesimerkkilaskelmia. Sivulla viitataan lainasummaan ja maksuaikoihin, mutta ei näytetä esimerkiksi '5 000 € lainalle 36 kuukauden ajalle' kaltaisia laskelmia.",
+    "kulut_eriteltyna": "HAVAINTO: Sivuilla ei eritelty maksujen, käsittelypalkkioiden, perintäkulujen tai muiden mahdollisten maksujen kustannuksia."
+  }
+}

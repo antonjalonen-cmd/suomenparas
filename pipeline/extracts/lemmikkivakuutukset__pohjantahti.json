@@ -1,0 +1,55 @@
+{
+  "slug": "pohjantahti",
+  "fetched_ok": [
+    "https://www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/lemmikkivakuutus/",
+    "https://www.pohjantahti.fi/ota-yhteytta/",
+    "https://www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatto_kerrottu": "osittain",
+  "rotu_ja_ikarajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "elaimet": [
+    "koira",
+    "kissa"
+  ],
+  "korvauskatto_eur_vuosi": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeä tuotekuvaus tapaturma- ja sairausvakuutuksesta sekä eläimenomistajan vastuuvakuutuksesta",
+    "Monipuolinen FAQ-osio vastaa yleisiin asiakkaiden kysymyksiin vakuutusturvasta",
+    "FirstVet-etäeläinlääkäripalvelu sisältyy vakuutukseen kolmella käynnillä vuodessa"
+  ],
+  "kehityskohteet": [
+    "Vuosittaisia korvauskattoja ei ilmoiteta julkisesti - asiakkaan on otettava yhteys saadakseen hinta-arvion",
+    "Hintalaskuria ei ole saatavilla ilman henkilötietojen toimittamista, mikä hidastaa ostopäätöstä",
+    "Eläinlääkärin tutkimus- ja hoitokustannuksen maksimirajat eivät ole näkyvissä tuotesivulla"
+  ],
+  "yhteenveto": "Pohjantähden lemmikkivakuutus on koirille ja kissoille tarkoitettu vakuutus, joka kattaa tapaturmia ja sairauksia. Vakuutusta voi täydentää eläimenomistajan vastuuvakuutuksella. Sivulla on hyvä FAQ-osio ja selkeät tiedot vakuutusturvan sisällöstä, mutta vuosittaiset korvauskatot ja yksityiskohtaiset hinnat vaativat asiakkaalta yhteydenoton.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Tarjouspyyntölomake edellyttää kaikki yhteystiedot (nimi, osoite, puhelinnumero, sähköposti) sekä vakuutusratkaisun erittelyä ennen hintatietoja.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivulla tarjotaan ladattavaksi Vakuutusehdot-PDF (päivitetty 1.7.2023).",
+    "korvauskatto_kerrottu": "HAVAINTO: Sivulla mainitaan kausikohtainen omavastuu ja hoitokäyntikohtainen 50 euron omavastuu, mutta vuosittaista korvauskattoa ei ilmoiteta julkisesti saatavilla olevalla sisällöllä.",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: 'Vakuutamme kissat ja koirat rotuun tai sukupuuhun katsomatta' ja 'vähintään kuuden viikon ja enintään 10 vuoden ikäisen kissan tai koiran' - ikärajat ja ei-rotuvaatimukset selkeästi ilmoitettu.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Pohjantähti Keskinäinen Vakuutusyhtiö' sekä vastauslähetysosoitteessa tunnus 5001665.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita riippumattomia arviointeja, sertifikaatteja tai ulkopuolisten tahojen antamia arvioita vakuutuksen laadusta.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-puhelin 020 763 4010 on selkeästi näkyvillä Ota yhteyttä -sivulla.",
+    "email_esilla": "HAVAINTO: Tarjouspyyntölomakkeessa on sähköpostikentän lisäksi maininta turvallisista communicaatio-kanavista (Oma Pohjantähti, securemail.pohjantahti.fi).",
+    "chat_mainittu": "HAVAINTO: Sivulla ei mainita chat-tukea. Asiakaspalvelu tavoitettavissa puhelimitse tai lomakkeen kautta.",
+    "aukioloajat_esilla": "HAVAINTO: 'Asiakaspalvelumme ja korvauspalvelumme ovat avoinna arkisin klo 10–16' mainitaan Yhteystiedot-sivulla.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä lemmikkivakuutuksesta' -osio sisältää kuusi kysymystä-vastaus -paria vakuutusturvasta.",
+    "mobiilisovellus": "HAVAINTO: 'Oma Pohjantähti' -palvelu mainitaan useaan otteeseen sovelluksena/verkkopalveluna, jossa voidaan hallita vakuutusasioita."
+  }
+}

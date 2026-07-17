@@ -1,0 +1,51 @@
+{
+  "slug": "fennia",
+  "fetched_ok": [
+    "https://www.fennia.fi/elaimet",
+    "https://www.fennia.fi/elaimet/koiravakuutus",
+    "https://www.fennia.fi/yhteystiedot-henkiloasiakkaille"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatto_kerrottu": "ei",
+  "rotu_ja_ikarajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "elaimet": [
+    "koira",
+    "kissa",
+    "hevonen"
+  ],
+  "korvauskatto_eur_vuosi": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "FirstVet-etäeläinlääkäripalvelu sisältyy kaikilla vakuutuksilla, saatavilla 24/7",
+    "Yksityiskohtainen coverage-taulukko näyttää kattavuuden sairaus- ja tapaturmaturvalle selkeästi",
+    "Vakuutus voidaan pitää voimassa eläimen koko eliniän, ei ikärajaa kattavuuden poistumiselle"
+  ],
+  "kehityskohteet": [
+    "Vuosittainen korvauskatto (katto per vuosi) ei ole julkisesti näkyvissä, vaatii tarjouspyynnön",
+    "Hintalaskuri vaatii yhteydenottopyyntöä, ei instant-hinta ilman henkilötunnusta tai yhteystietoja",
+    "Mobiilisovellus puuttuu, vakuutuksen hallinta vain Oma Fennia -verkkopalvelun kautta"
+  ],
+  "yhteenveto": "Fennia tarjoaa eläinvakuutuksia koirille, kissoille ja hevosille. Vakuutuksiin sisältyy FirstVet-etäeläinlääkäripalvelu ja ne voidaan pitää voimassa eläimen koko eliniän. Tuote-esitteet ja vakuutusehdot ovat saatavilla, ja asiakaspalvelua on puhelimitse sekä Oma Fennia -chatissa. Hintalaskuri vaatii tarjouspyynnön, eikä vuosittainen korvauskatto ole julkisesti näkyvissä.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla on 'Pyydä tarjous' -painike, joka johtaa tarjouspyyntölomakkeelle. Suoraa hintaa ei pysty laskemaan ilman yhteydenottopyyntöä.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: 'Tuote-esite ja vakuutusehdot' -osiossa linkit: 'Esite - Koiran ja kissan vakuutukset', 'Vakuutusehdot - Fenniaturva: F20-F100', 'Vakuutusehdot - Fenniaturva: F400-F300', 'Vakuutusehdot - Fenniaturvan yleiset sopimusehdot'.",
+    "korvauskatto_kerrottu": "HAVAINTO: Tuote-esitteen tai ehdot-linkkien taakse jäävissä dokumenteissa saattaa olla tiedot, mutta julkisesti näkyvällä sivulla ei mainita vuosittaista korvauskattoa numeerisesti.",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: FAQ-osiossa vastaus 'Minkä ikäisen koiran voin vakuuttaa?' kertoo: 'vähintään 6 viikon ikäinen' ja 'enintään 6 vuoden ikäinen'. Lisäksi mainitaan 'Kyllä, koiravakuutus voidaan myöntää myös rekisteröimättömille ja sekarotuisille koirille.'",
+    "y_tunnus_esilla": "HAVAINTO: Fennia-konsernin pääryhtelaussivu näyttää Y-tunnuksen: 'Keskinäinen Vakuutusyhtiö Fennia, Y-tunnus 0196826-7'.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla 'Fennian asiakas- ja vahinkopalvelu' antaa puhelinnumerot: 'Soita suomeksi 010 503 8808' ja 'Soita ruotsiksi 010 503 8828'.",
+    "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Oma Fennian chat' -osio: 'Voit hoitaa myös Oma Fennian vakuutusasioitasi chatissa ma–pe klo 9–16.30'."
+  }
+}

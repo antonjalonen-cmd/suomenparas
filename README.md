@@ -15,6 +15,19 @@ Suomen läpinäkyvin vertailupalvelu (konseptidemo).
 | Vakuutukset | 7 | 16.7.2026 |
 | Sähkösopimukset | 9 | 16.7.2026 |
 | Laajakaista | 9 | 16.7.2026 |
+| Puhelinliittymät | 7 | 16.7.2026 |
+| Luottokortit | 8 | 16.7.2026 |
+| Sijoitusalustat | 7 | 16.7.2026 |
+| Webhotellit | 7 | 16.7.2026 |
+| VPN-palvelut | 9 | 16.7.2026 |
+| Kulutusluotot | 6 | 17.7.2026 |
+| Autovakuutukset | 6 | 17.7.2026 |
+| Kotivakuutukset | 6 | 17.7.2026 |
+| Matkavakuutukset | 6 | 17.7.2026 |
+| Lemmikkivakuutukset | 6 | 17.7.2026 |
+
+Measurement dates live in `build_vertical.MEASURED` — per vertical, set when it was actually
+measured. Rebuilding an old category must never restamp it with today's date.
 
 ## Pipeline
 
@@ -24,12 +37,23 @@ pipeline/companies.py         verified metadata (Y-tunnus, omistaja) + why brand
 pipeline/score_rules.py       Score v1.1 pillars + per-vertical transparency criteria
 pipeline/vertical_meta.py     per-vertical page copy (h1, lead, notes)
 pipeline/EXTRACTION_BRIEF.md  rules handed to every extraction agent
+pipeline/fetch_page.py        fetch a page as a real browser sees it (WebFetch is blocked on some)
+pipeline/check_extracts.py    validate extracts BEFORE they can reach a page
 
 python pipeline/run_lighthouse.py --file pipeline/targets.txt   # -> pipeline/lh_cache/
 # extraction agents (Claude Haiku 4.5, one per company)         # -> pipeline/extracts/
+python pipeline/check_extracts.py <vertical> ...                # MANDATORY gate — see below
 python pipeline/build_vertical.py vakuutukset sahkosopimukset laajakaista   # -> data/*.json
 python gen_site.py                                              # data/*.json -> static pages
 ```
+
+**Always run `check_extracts.py` before building.** On 17.7.2026 five separate extraction
+agents responded to a failed fetch by inventing a redirect to another company in the same
+list ("risicum.fi redirects to saldo.com", "pohjantahti.fi redirects to fennia.fi",
+"omasp.fi redirects to Danske Bank" — all false, all HTTP 200). Two of them went on to
+describe the competitor's website in the wrong company's file. The checker fails any extract
+that never loaded its own domain, that names a competitor's domain, or that leaves a scored
+field null. Do not hand-edit a bad extract into passing — re-run it.
 
 Adding a category = add its entry to `companies.py` + `vertical_meta.py` + `score_rules.TRANSPARENCY`,
 run the pipeline, done. `gen_site.py` is vertical-agnostic, and a category only shows as LIVE

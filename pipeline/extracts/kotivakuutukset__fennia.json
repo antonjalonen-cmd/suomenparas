@@ -1,0 +1,53 @@
+{
+  "slug": "fennia",
+  "fetched_ok": [
+    "https://www.fennia.fi/koti-ja-omaisuus",
+    "https://osto.fennia.fi/koti/aloitus?futm=n",
+    "https://www.fennia.fi/yhteystiedot-henkiloasiakkaille",
+    "https://www.fennia.fi/esitteet-ja-vakuutusehdot-henkilo",
+    "https://www.fennia.fi/usein-kysyttya-kotivakuutuksista"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "korvausrajat_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja FAQ-osio kotivakuutuksesta erityisesti muuton, rakentamisen ja remontoimisen näkökulmasta",
+    "Helppo yhteydenotto puhelimitse, chatissa ja Oma Fennian kautta; selkeät aukioloajat ja käytettävissä olevat palvelut",
+    "Kattavat tuote-esitteet ja vakuutusehdot saatavilla sekä verkkosivuilla että PDF-muodossa"
+  ],
+  "kehityskohteet": [
+    "Hinnan laskeminen vaatii henkilötunnusta, mikä on este henkilötietojen antamista pelkäävän asiakkaan hintavertailulle",
+    "Omavastuun vaihtoehdot ja niiden vaikutus hintaan eivät ole selkeästi näkyvissä tuotesivulla; tiedot hajotettu eri dokumentteihin",
+    "Korvausrajat (ikävähennykset, payout limits) ovat täysin piilotettu tuotedokumenttien ja ehdoissa, ei näkyvä yhteenvetoa tuotesivulla"
+  ],
+  "yhteenveto": "Fenniaturvan kotivakuutus on perustuote, jonka tiedot ovat jakautuneet laajasti eri osioihin. Sivuston vahvuus on kattava FAQ ja selkeät yhteydenottokanavat. Hintavertailu edellyttää henkilötunnusta jo ensimmäisellä laskurilla, mikä rajoittaa läpinäkyvyyttä. Tuotteen yksityiskohdat (omavastuu, korvausrajat, ikävähennykset) löytyvät pääosin vakuutusehdoista, ei tuotesivulta.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Hintakalkulaattorin ensimmäisellä sivulla vaadittu tieto on 'Henkilötunnus *' (merkitty pakolliseksi tähtellä). Ilman tätä tietoa ei voida edetä hinnan laskemiseen. Henkilötunnus on vahva henkilöidentifioija eikä vain postinumero tai asunnon koko.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivulla https://www.fennia.fi/esitteet-ja-vakuutusehdot-henkilo on osio 'Koti ja omaisuus', jossa listataan 'Vakuutusehdot - Fenniaturva: F20-F100 (omaisuusvakuutukset)' sekä verkkosivumuodossa että PDF-muodossa.",
+    "omavastuu_selkeasti": "HAVAINTO: Pääsivulla mainitaan 'Valitse kotivakuutuksen kattavuus ja omavastuun määrä omien tarpeidesi mukaan', mutta omavastuun vaihtoehtoja (esim. 0€, 100€, 250€) ei ole listattu tuotesivulla. Tiedot löytyvät vakuutusehdoista.",
+    "korvausrajat_kerrottu": "HAVAINTO: Sivulla ei ole julkista yhteenvetoa korvausrajoista tai ikävähennyksistä. FAQ-osio kertoo esimerkiksi 'Arvoesineet kuuluvat koti-irtaimistovakuutukseen 10 000 euroon asti', mutta muut rajat ovat tuotedokumenteissa.",
+    "y_tunnus_esilla": "HAVAINTO: Footer-osassa on teksti '© Fennia' ja '00017 Fennia, Helsinki'. Y-tunnus on '00017'.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole näkyvissä linkkejä kolmannen osapuolen arvioihin, ratingeihin tai asiakasarvosteluihin.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla selkeästi näkyy 'Soita suomeksi 010 503 8808' sekä ruotsinkielinen numero.",
+    "email_esilla": "HAVAINTO: Sähköposti-osiossa sanotaan 'Tietoturvasyistä meille Fenniaan ei voi lähettää tavallista sähköpostia vakuutus- tai korvausasioissa'. Ainoa sähköpostiosoite on 'edunvalvonta@fennia.fi' lakimiehistä ja edunvalvojista.",
+    "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla on osio 'Oma Fennian chat' ja teksti 'chatissa ma–pe klo 9–16.30'. Lisäksi pääsivulla näkyy chat-kuvake oikeassa alakulmassa.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla: 'ma–pe klo 9–16.30' (vakuutusten osto, asiakastietojen päivitys), 'ma–pe klo 9–16' (vahingot ja korvaukset).",
+    "ukk_osio": "HAVAINTO: Sivulla https://www.fennia.fi/usein-kysyttya-kotivakuutuksista on kattava FAQ-osio, jonka osiot sisältävät muuton, rakentamisen, remontoinnin, erityisturvat ja kattavuudet sekä muut kotivakuutusten aihepiirit.",
+    "mobiilisovellus": "HAVAINTO: Maininta 'Oma Fennia' -verkkopalvelusta, joka mainitaan sekä asiakaspalvelu-osioissa että FAQ:ssa. Lisäksi pääsivulla listataan 'Fennian Mobiililaitevahinkopalvelu', mutta erillisestä mobiilisovelluksesta ei mainintaa."
+  }
+}

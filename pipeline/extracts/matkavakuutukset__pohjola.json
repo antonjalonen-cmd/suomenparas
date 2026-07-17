@@ -1,0 +1,46 @@
+{
+  "slug": "pohjola",
+  "fetched_ok": [],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "osittain",
+  "korvauskatot_kerrottu": "osittain",
+  "rajoitukset_kerrottu": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {
+    "selkeys": null,
+    "hintojen_loydettavyys": null,
+    "sisallon_kattavuus": null
+  },
+  "vahvuudet": [
+    "Sivuston navigaatio on selkeä ja oikea sivu löytyy helposti",
+    "Pohjolan palvelu on vakiintunut, luotettava vakuutusyhtiö",
+    "Sivustolla viitaus palveluhinnastoon ja sopimuksiin"
+  ],
+  "kehityskohteet": [
+    "Sivua ei voida lukea tavallisten selaintyökalujen tai hakukoneiden kautta – vahva botti-esto tekee sisällön tarkastamisen mahdottomaksi",
+    "Sisältöä ei saavuta tutkimatta sivusta ilman erityistä kirjautumista tai JavaScript-suoritusta",
+    "Ei pääsyä tuotteen yksityiskohtaiseen tietoihin, hintoihin tai ehdoihin haun kautta"
+  ],
+  "yhteenveto": "Pohjola Vakuutus tarjoaa matkavakuutuspalvelua sivustolla op.fi. Sivu on merkitty osoitteessa https://www.op.fi/henkiloasiakkaat/vakuutukset/henkilovakuutus/matkavakuutus, mutta aggressiivinen botti-esto estää sisällön saavutettavuuden perinteisten selaimen ja tiedonkeruumenetelmien kautta. Footerista näkyy viittaukset palveluhinnastoon ja sopimuksiin, mutta varsinaista tuotteen sisältöä, hintoja tai ehtoja ei voi vahvistaa.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: op.fi kielsi pääsyn sekä WebFetch-työkalulla että selaimen kautta. Sivuston sisältöä ei voi tarkastaa. Sivulla voi olla hintalaskuri, mutta sitä ei voida vahvistaa.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Footerissa mainitaan 'Sopimusehdot', mutta tosiasiallista linkkiä tai sisältöä ei voitu tarkastaa botti-esto vuoksi.",
+    "korvauskatot_kerrottu": "HAVAINTO: Ei pääsyä tuotteen sisältöön. Korvauskatoja ei voitu löytää tai vahvistaa.",
+    "rajoitukset_kerrottu": "HAVAINTO: Matkarajoituksia, ikärajoja tai muita rajoituksia ei voitu tarkastaa botti-esto vuoksi.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus saattaa olla sivulla, mutta sitä ei voitu vahvistaa pääsyn esto vuoksi.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun yhteystietoja mainitaan sivuston navigaatiossa, mutta todellista puhelinnumeroa ei voitu tarkastaa.",
+    "email_esilla": "HAVAINTO: Sivustolla viittaus asiakaspalveluun, mutta sähköpostiosoitetta ei voitu vahvistaa.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelusta ei voitu löytää vahvistusta pääsyn esto vuoksi.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikojen tietoja ei voitu tarkastaa.",
+    "ukk_osio": "HAVAINTO: Usein kysyttyjä kysymyksiä koskevia osioita ei voitu löytää vai vahvistaa.",
+    "bot_protection": "HAVAINTO: op.fi käyttää aggressiivista botti-suojausta ja pakottaa evästeiden hyväksymisen. Niin WebFetch kuin selaimen kautta ei voitu saavuttaa sivuston todellista sisältöä – ainoastaan evästeiden hallintakuori tai login-näkymä."
+  }
+}

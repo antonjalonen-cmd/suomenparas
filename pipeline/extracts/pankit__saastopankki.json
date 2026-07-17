@@ -1,0 +1,54 @@
+{
+  "slug": "saastopankki",
+  "fetched_ok": [
+    "https://www.saastopankki.fi",
+    "https://www.saastopankki.fi/fi-fi/hinnasto",
+    "https://www.saastopankki.fi/fi-fi/pankit-ja-konttorit",
+    "https://www.saastopankki.fi/fi-fi/asiakaspalvelu",
+    "https://www.saastopankki.fi/fi-fi/asiakaspalvelu/yhteydenottokanavat",
+    "https://www.saastopankki.fi/fi-fi/dokumentit-ja-ehdot"
+  ],
+  "palseluhinnasto_julkinen": "osittain",
+  "tilin_ja_kortin_maksut_esilla": "ei",
+  "sopimusehdot_saatavilla": "kylla",
+  "konttorit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kayttotili_kk_maksu_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Kattava konttorin- ja aukioloaikojen hakupalvelu: käyttäjä voi hakea pankkeja paikkakunnittain etäisyyden perusteella",
+    "Monikanavainen asiakaspalvelu: puhelinduksi ma-pe 8-20, la 10-14; chatbot 24/7; ajanvaraus ja videoneuvottelu",
+    "Yleiset sopimusehdot saatavilla ladattavina PDF-tiedostoina palveluittain eriteltynä"
+  ],
+  "kehityskohteet": [
+    "Hinnasto reititetään jäsenpankkien erillisille PDF-listauksille yhtenäisen hinnaston sijaan – vähensi läpinäkyvyyttä",
+    "Sähköpostiosoitetta ei ole julkisesti listattu, asiakkaiden on käytettävä puhelinta, chatia tai palautelomaketta",
+    "Riippumattomia asiakasarvioita tai auditoituja läpinäkyvyysarvioita ei ole julkaistu"
+  ],
+  "yhteenveto": "Säästöpankkiliitto osk operoida Suomen-laajuista ryhmää itsenäisiä paikallisia säästöpankkeja. Ryhmän julkinen verkkopalvelu tarjoaa selkeän konttorihaun, useiden yhteydenottokanavin ja ladattavia sopimusehtoja. Hinnaston osalta käyttäjät ohjataan jäsenpankkien omiin PDF-listauksiin, mikä heikentää ryhmätason läpinäkyvyyttä. Tilin ja kortin kuukausikulut eivät ole julkisesti näkyvillä.",
+  "evidence": {
+    "palseluhinnasto_julkinen": "HAVAINTO: Hinnasto-sivulla sanotaan 'Toimimme Säästöpankkiryhmässä ympäri Suomen itsenäisten, paikallisten Säästöpankkien voimin'. Käyttäjä ohjataan 'Pankit ja konttorit' -osioon löytämään paikalliensa säästöpankki, jonka jälkeen hinnasto saadaan kyseisen pankin PDF:stä. Yhtä yhtenäistä hinnastoa ei ole olemassa. Rahaston hinnaston osalta mainitaan keskitetty PDF.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Julkisilla sivuilla ei ole lueteltu konkreettisia euromääriä käyttötilin (käyttötili) tai maksukortin kuukausi- tai vuosimaksuille. Käyttäjät ohjataan jäsenpankkien hinnaston PDF-tiedostoihin.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Dokumentit ja ehdot -sivulla on useita ladattavia PDF-sopimuksia: henkilöasiakkaan pankkitunnuksilla käytettävien palveluiden yleiset ehdot, yritysasiakkaan pankkitunnuksilla käytettävien palveluiden yleiset ehdot, plus erityisehdot eri tilityypeille ja maksupalveluille.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Pankit ja konttorit -sivulla on hakutoiminto, johon voi kirjoittaa paikkakuntia ja valita etäisyyssuodattimia (50 km, 100 km, 500 km). Sivulla näkyy 50+ konttoria ympäri Suomea jäsenpankkien nimissä (Aito, Avain, Helmi, Koivulahden, Lammin, Länsi-Uusimaa, Myrskylän, Närpiön, Someron, Säästöpankki Helsinki). Jokaisella konttorisivulla listataan osoite, aukioloajat ja palveluiden saatavuus.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta 0117011-6 (Säästöpankkiliitto osk) ei näy julkisilla verkkosivuilla. Sivuston alatunnisteessa mainitaan vain '2026 © Säästöpankkiliitto'.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole julkaistu kolmannen osapuolen tekemiä auditoituja läpinäkyvyysarvioita tai riippumattomia asiakaspalautteiden koontisivuja.",
+    "puhelin_esilla": "HAVAINTO: Konttorihaku näyttää puhelinnumerot jäsenpankkien toimipisteille (esim. Aito Säästöpankki 010 311 6400, Avain Säästöpankki 020 758 2310). Asiakaspalvelun yleinen numeroitu palvelu löytyy ohjaamalla käyttäjä 'Nopein palvelukanava' -sivulle, mutta numerot eivät näkyneet haettujen sivujen sisällössä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole listattu julkisesti saatavilla olevilla sivuilla. Asiakkaiden ohjeistetaan käyttävän puhelinta, chatia tai palautelomaketta.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Chatbot 24/7' -kanava, joka on käyttäjien saatavilla verkkosivun kautta.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun puhelinpalvelu on saatavilla ma-pe 8-20 ja la 10-14. Konttoreiden aukioloajat näkyvät konttorihaussa jokaiselle toimipisteelle erikseen (esim. 'Info ma-pe 10–16.30').",
+    "ukk_osio": "HAVAINTO: Sivulla on 'Usein kysytyt kysymykset' -osio, jossa käsitellään aiheita kuten asuntolainat, sijoittaminen ja lasten pankkitilit.",
+    "mobiilisovellus": "HAVAINTO: Säästöpankki Mobiili -sovellusta mainitaan verkkosivuilla. Uutisen otsikossa sanotaan 'Jatkossa voit hoitaa kaikki pankkiasiasi yhdellä sovelluksella'. Sovelluksesta ei ole tuotteen hintaa tai järjestelmävaatimuksia mainittu julkisilla sivuilla."
+  }
+}

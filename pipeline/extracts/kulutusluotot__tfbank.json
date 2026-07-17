@@ -1,0 +1,50 @@
+{
+  "slug": "tfbank",
+  "fetched_ok": [
+    "https://www.tfbank.fi/lainat/laina/",
+    "https://www.tfbank.fi/lainat/kysymyksia-ja-vastauksia/",
+    "https://www.tfbank.fi/asiakaspalvelu/"
+  ],
+  "todellinen_vuosikorko_esilla": "kylla",
+  "esimerkkilaskelma_esilla": "kylla",
+  "kulut_eriteltyna": "kylla",
+  "luotonantaja_ja_valvoja_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "todellinen_vuosikorko_pct": 15.34,
+  "luottosumma_max_eur": 40000,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Kulutusluoton korko ja ehdot ovat selkeästi esitetty lainasivulla, mukaan lukien esimerkkilaskelma ja maksuvapaa-ominaisuus.",
+    "Laaja Usein kysytyt kysymykset -osio vastaa asiakkaiden tavallisimpiin kysymyksiin lainan hakemisesta maksutapoihin.",
+    "Asiakaspalvelu on helposti tavoitettavissa puhelimitse ja sähköpostitse arkisin 8–16 välisenä aikana."
+  ],
+  "kehityskohteet": [
+    "Lainan valvojan (Finansinspektionen) maininta puuttuu – sivulla kerrotaan vain lainanantajasta, ei sääntelyviranomaisesta.",
+    "Vertailuja tai riippumattomia arvosteluja (esim. Trustpilot) ei ole näkyvissä sivulla.",
+    "Mobiilisovellusta ei ole mainittu, vaikka siihen viitataan muilla pankeilla tavallisesti."
+  ],
+  "yhteenveto": "TF Bank Nordic AB, Suomen sivuliike, tarjoaa kulutusluottoa jopa 40 000 euroon. Sivustolla on selkeät hinnat ja ehdot sekä kattava FAQ-osio, mutta valvojaviranomainen jää mainitsematta ja riippumattomia arvosteluja ei ole saatavilla.",
+  "evidence": {
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Korkoalue 10,95–18,45 % ja esimerkkilaskelma (15,34 % lainalla 10 000 € maksuajalla 5 vuotta) näkyvät lainasivulla selkeästi.",
+    "esimerkkilaskelma_esilla": "HAVAINTO: 'Esimerkkilaskelma: Todellinen vuosikorko on 15.34% kun lainasumma on 10000 euroa, laina-aika 5 vuotta' mainitaan sivulla.",
+    "kulut_eriteltyna": "HAVAINTO: Kolme kulutyyppiä eritellään: Nostopalkkio 0 €, Tilinhoitomaksu 0,01 % päivässä (enintään 9 €/kk), Muistutusmaksu 5 € myöhästyneestä maksusta.",
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Sivulla mainitaan 'TF Bank Nordic AB, Suomen sivuliike (Y-tunnus 3529515-2)' lainanantajana, mutta valvojaviranomaista ei mainita.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3529515-2 näkyy lainasivulla ja asiakaspalvelun yhteystiedoissa.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot: 0206 90681 (Lainat), 0206 90591 (Säästötili). Asiakaspalvelu arkisin 8–16.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@tfbank.fi mainitaan sekä lainasivulla että asiakaspalvelun yhteystiedoissa.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat: Ma–Pe 08.00–16.00.",
+    "ukk_osio": "HAVAINTO: Sivulla on laaja 'Kysymyksiä ja vastauksia' -osio, joka sisältää lukuisia kysymyksiä ja vastauksia lainan hakemisesta, maksamisesta ja muista aiheista.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei ole näkyvissä riippumattomia arvosteluitajärjestelmiä kuten Trustpilot, Google Reviews tai vastaavia."
+  }
+}

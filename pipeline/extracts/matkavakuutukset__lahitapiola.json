@@ -1,0 +1,48 @@
+{
+  "slug": "lahitapiola",
+  "fetched_ok": [
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/terveysvakuutukset/matkavakuutus/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatot_kerrottu": "kylla",
+  "rajoitukset_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": 0,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Kattava ja selkeä vakuutusturvan kuvaus taulukoissa, joissa esitetään kaikki korvaukset ja omavastuut",
+    "Laaja FAQ-osio vastaa yleisimpiin kysymyksiin matkavakuutuksesta ja kattaa myös erityistapauksia (raskaus, urheilumatkatapaturmat)",
+    "Omavastuu 0 € matkustaja- ja matkatavaravakuutukselle tekee tarjouksesta houkuttelevan"
+  ],
+  "kehityskohteet": [
+    "Hintakalkulator vaatii henkilötiedot eikä nopeaa arviota saa ilman yhteystietojen antamista",
+    "Y-tunnus ja juridinen yhtiötunnus eivät ole näkyvissä tuotesivulla vaan mahdollisesti vain alatunnistealueella",
+    "Asiakaspalvelun aukioloajat eivät ole näkyvissä tuotesivulla, saatavilla vain yhteystiedot-linkin kautta"
+  ],
+  "yhteenveto": "LähiTapiolan matkavakuutussivu esittelee tuotetta selkeästi ja kattavasti. Sivulla on yksityiskohtaiset vakuutusturvan kuvaukset, korvauskatot ja rajoitukset taulukoituina. FAQ-osio on laaja ja vastaa moniin käytännön kysymyksiin. Hintakalkulator on saatavilla, mutta vaatii henkilötietojen syöttämisen. Tuoteasiakirjat ovat PDF-muodossa saatavilla.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Sivulla on 'Laske hinta ja osta nyt' -painike, joka johtaa hintakalkuli laskuriin. Kalkuli laskuria ei voitu aktiivisesti käyttää, mutta sen sisältämät tiedot -vaatimukset eivät olleet näkyvissä ilman laskurin avaamista.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivulla on linkit seuraaviin PDF-dokumentteihin: Tuoteseloste, Raskausajan turvan tuoteseloste, Vakuutuksen avaintiedot (IPID), Vakuutusehdot ja Yleiset sopimusehdot.",
+    "korvauskatot_kerrottu": "HAVAINTO: Sivulla esitetään korvauskatot taulukoidussa muodossa. Esimerkkejä: pysyvä haitta 100 000-200 000 EUR, tapaturmainen kuolema esim. 5 000 EUR, matkasairaus 'ilman euromääräistä ylärajaa'.",
+    "rajoitukset_kerrottu": "HAVAINTO: Sivulla kuvataan urheilun rajoituksia (alle 18-vuotiaat voivat harrastaa ilman rajoituksia), ikärajoja (0-79-vuotiaat), sairauden ja tapaturman määritelmiä sekä kattavuuden ehtoja.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole näkyvissä tuotesivulla pääsisällössä. Se saattaa olla yhteystiedot-sivulla tai alatunnistealueella.",
+    "omavastuu_min_eur": "HAVAINTO: Matkustaja vakuutus on aina ilman omavastuuta ('Ei omavastuuta'). Matkatavaravakuutuksessa omavastuu vaihtoehdot ovat '0, 50 tai 150 EUR/vakuutustapahtuma', joten minimi on 0 EUR.",
+    "puhelin_esilla": "HAVAINTO: Matkahätäpalvelun puhelinnumero '+358 800 04531' on selkeästi näkyvissä sivulla. 'Matkahätäpalvelumme auttaa ulkomaan matkavahingoissa 24/7'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole suoraan näkyvissä tuotesivulla pääsisällössä. Sivulla on linkki 'Yhteystiedot', mutta sen sisältöä ei voitu vahvistaa.",
+    "chat_mainittu": "HAVAINTO: Sivulla mainitaan 'Chat-sovellus' alatunnistealueella, mutta sitä ei kuvattu yksityiskohtaisesti tuotesivun pääsisällössä.",
+    "ukk_osio": "HAVAINTO: Sivulla on laaja 'Usein kysyttyä matkavakuutuksesta' -osio, joka sisältää useita kysymys-vastaus -pareja. Kysymykset kattavat hinnoittelun, ostoajankohdan, lasten vakuuttamisen, korvaukset ja paljon muuta.",
+    "mobiilisovellus": "HAVAINTO: Sivulla mainitaan 'Lataa LähiTapiola-sovellus' ja 'Lataa sovellus' -osio, sekä linkki 'Kirjaudu verkkopalveluun' omapalvelulle."
+  }
+}

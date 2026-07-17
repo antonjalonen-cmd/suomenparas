@@ -82,3 +82,65 @@ vpn-palvelut__protonvpn=protonvpn.com
 vpn-palvelut__mullvad=mullvad.net
 vpn-palvelut__fsecure=f-secure.com
 vpn-palvelut__windscribe=windscribe.com
+
+# ---------------------------------------------------------------- BATCH 2 (17.7.2026)
+# KULUTUSLUOTOT (7 PRH-verified direct lenders; category SWAPPED from "pikavipit" —
+# the 1.10.2023 rate cap (viitekorko+15pp) killed the classic pikavippi product.
+# Deduped by LEGAL ENTITY: Vippi.fi+Limiitti = Saldo; OK Money+iKassa = Risicum.)
+kulutusluotot__saldo=www.saldo.com/fi-fi/laina/
+kulutusluotot__risicum=www.risicum.fi
+kulutusluotot__tfbank=tfbank.fi
+kulutusluotot__resursbank=www.resursbank.fi
+kulutusluotot__northmill=www.northmill.com/fi/
+kulutusluotot__svea=www.svea.com/fi-fi
+kulutusluotot__santander=www.santanderconsumer.fi
+
+# PANKIT (9 consumer retail banks; category RENAMED from "pankkien-asiakaspalvelu" —
+# a website cannot measure service quality, only fee/contact transparency.)
+pankit__op=www.op.fi/henkiloasiakkaat
+pankit__nordea=www.nordea.fi/henkiloasiakkaat
+pankit__danske=danskebank.fi/henkiloasiakkaat
+pankit__spankki=www.s-pankki.fi/fi/henkiloasiakkaat/
+pankit__aktia=www.aktia.fi/fi/henkiloasiakkaat
+pankit__omasp=www.omasp.fi/henkiloasiakkaat
+pankit__alandsbanken=www.alandsbanken.fi/privat
+pankit__saastopankki=www.saastopankki.fi/fi-fi/henkiloasiakkaat
+pankit__poppankki=www.poppankki.fi/henkiloasiakkaat
+
+# AUTOVAKUUTUKSET — the insurer list is already verified; each URL below was HTTP-checked
+# 17.7.2026. pohjola.fi 301-redirects into op.fi, so op.fi IS Pohjola Vakuutus's site.
+autovakuutukset__if=www.if.fi/henkiloasiakkaat/vakuutukset/autovakuutus
+autovakuutukset__lahitapiola=www.lahitapiola.fi/henkilo/vakuutukset/ajoneuvovakuutukset/autovakuutus/
+autovakuutukset__pohjola=www.op.fi/henkiloasiakkaat/vakuutukset/ajoneuvovakuutus/autovakuutus-henkiloautolle
+autovakuutukset__fennia=www.fennia.fi/ajoneuvot/autovakuutus
+autovakuutukset__turva=www.turva.fi/henkilo/vakuutukset/ajoneuvot/autovakuutus/
+autovakuutukset__pohjantahti=www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/autovakuutus/
+autovakuutukset__popvakuutus=www.popvakuutus.fi/vakuutukset/autovakuutus
+
+# KOTIVAKUUTUKSET
+kotivakuutukset__if=www.if.fi/henkiloasiakkaat/vakuutukset/kotivakuutus
+kotivakuutukset__lahitapiola=www.lahitapiola.fi/henkilo/vakuutukset/kotivakuutus/
+kotivakuutukset__pohjola=www.op.fi/henkiloasiakkaat/vakuutukset/kotivakuutus
+kotivakuutukset__fennia=www.fennia.fi/koti-ja-omaisuus
+kotivakuutukset__turva=www.turva.fi/henkilo/vakuutukset/kotivakuutus/
+kotivakuutukset__pohjantahti=www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/kotivakuutus/
+kotivakuutukset__popvakuutus=www.popvakuutus.fi/vakuutukset/kotivakuutus
+
+# MATKAVAKUUTUKSET
+matkavakuutukset__if=www.if.fi/henkiloasiakkaat/vakuutukset/matkavakuutus
+matkavakuutukset__lahitapiola=www.lahitapiola.fi/henkilo/vakuutukset/terveysvakuutukset/matkavakuutus/
+matkavakuutukset__pohjola=www.op.fi/henkiloasiakkaat/vakuutukset/henkilovakuutus/matkavakuutus
+matkavakuutukset__fennia=www.fennia.fi/matkavakuutus
+matkavakuutukset__turva=www.turva.fi/henkilo/vakuutukset/terveysvakuutus/matkavakuutus/
+matkavakuutukset__pohjantahti=www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/matkavakuutus/
+matkavakuutukset__popvakuutus=www.popvakuutus.fi/vakuutukset/henkilovakuutukset/matkavakuutus
+
+# LEMMIKKIVAKUUTUKSET (POP Vakuutus EXCLUDED — verified it sells no pet line at all.
+# Agria ADDED — PRH-verified Finnish branch 2744611-7, the market's specialist.)
+lemmikkivakuutukset__if=www.if.fi/henkiloasiakkaat/vakuutukset/elainvakuutukset/koiravakuutus
+lemmikkivakuutukset__lahitapiola=www.lahitapiola.fi/henkilo/vakuutukset/elainvakuutukset/
+lemmikkivakuutukset__pohjola=www.op.fi/henkiloasiakkaat/vakuutukset/elainvakuutus
+lemmikkivakuutukset__fennia=www.fennia.fi/elaimet
+lemmikkivakuutukset__turva=www.turva.fi/henkilo/vakuutukset/lemmikkivakuutus/
+lemmikkivakuutukset__pohjantahti=www.pohjantahti.fi/henkiloasiakkaille/vakuutukset/lemmikkivakuutus/
+lemmikkivakuutukset__agria=www.agria.fi

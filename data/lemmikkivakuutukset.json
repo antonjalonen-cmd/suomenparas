@@ -1,0 +1,1374 @@
+{
+ "slug": "lemmikkivakuutukset",
+ "nimi": "Lemmikkivakuutukset",
+ "nav": "Lemmikkivakuutus",
+ "h1": "Suomen paras lemmikkivakuutus 2026",
+ "yksikko": "lemmikkivakuutuksen myyjää",
+ "lead": "Pisteytimme {n} lemmikkivakuutuksen myyjän sivut {m} mittarilla. Tärkein kysymys: saatko hinta-arvion — ja kerrotaanko vuosittainen korvauskatto — ennen kuin annat tietosi?",
+ "meta_title": "Suomen paras lemmikkivakuutus 2026 — vakuutukset pisteytettynä | Suomen Paras",
+ "meta_desc": "6 lemmikkivakuutuksen myyjää pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä.",
+  "<b>Korvauskatto on tämän tuotteen tärkein luku.</b> Lemmikkivakuutuksessa on lähes aina vuosittainen enimmäiskorvaus, ja rotukohtaiset sekä ikään perustuvat rajoitukset ovat yleisiä — moni koirarotu on rajattu osittain ulos perinnöllisten sairauksien vuoksi. Siksi mittaamme erikseen, kerrotaanko korvauskatto ja rajoitukset julkisesti. <b>Emme vertaile vakuutusmaksuja</b>: hinta riippuu rodusta, iästä ja asuinpaikasta.",
+  "<b>POP Vakuutus puuttuu listalta, koska se ei myy lemmikkivakuutusta lainkaan</b> — tarkistimme sen tuotevalikoiman ja sivuston 17.7.2026. Kyseessä on todellinen puuttuva tuote, ei mittausvirhe. <b>Agria</b> on listan ainoa erikoistunut eläinvakuuttaja (Länsförsäkringar-ryhmä, Suomen sivuliike rek. 5.2.2016, Y-tunnus 2744611-7). <b>Barkibu</b> myy Suomeen saksalaisen sivuliikkeen kautta ilman suomalaista rekisteröintiä, joten se ei ole mukana.",
+  "<b>Huomio Agrian pisteisiin:</b> agria.fi on bottisuojattu (CAPTCHA), joten ekstraktioagenttimme ei päässyt sivulle kuten ihminen pääsee. Sen kohdalla &rdquo;ei löytynyt&rdquo; ei tarkoita &rdquo;ei ole&rdquo;, ja epävarmat kohdat on pisteytetty varovaisesti &rdquo;osittain&rdquo;. Bottisuojauksesta ei kuulu rangaista yhtiötä — mutta emme myöskään voi väittää nähneemme sitä mitä emme nähneet. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "turva",
+   "nimi": "Turva",
+   "domain": "turva.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211695-5",
+   "rekisteroity": 1978,
+   "score": 78.5,
+   "pillars": {
+    "digitaalinen": 67.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 79.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koira- ja kissavakuutuksen sivuilla näkyy painike 'Laske hinta ja osta', mutta staattisena haulla ei voida varmistaa, vaatiiko se henkilötunnusta tai yhteystietoja. Merkitty osittain, koska interaktiivinen testaus vaadittaisiin täyden vahvistuksen saamiseksi."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Molemmilla tuotesivuilla (koira- ja kissavakuutus) on 'Vakuutusehdot ja -oppaat' -osio, josta saa ladattavaksi avaintietoesite, vakuutusehdot, vakuutusopas ja yleiset sopimusehdot."
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koira- ja kissavakuutuksen sivuilla mainitaan selvästi, että eläinlääkärikuluvakuutuksen enimmäiskorvausmääräksi voidaan valita 2000, 3000 tai 4000 euroa. Korkein summa on 4000 € vuodessa."
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla kerrotaan, että vakuutus myönnetään vähintään 5 viikon ja alle 8-vuotiaalle koiralle tai kissalle. Mainitaan rotu-kohtaiset rajoitukset ja että Hoitoturva Plus -lisäturva myönnetään vain alle 5-vuotiaalle eläimelle."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0211695-5 löytyy Turvan About-sivulta, joka saatavilla englanniksi, mutta ei suomalaisena versiona. Turva Mutual Insurance Company on virallinen nimi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lemmikkivakuutuksen pääsivulla mainitaan 'EPSI Rating 2025' ja väite, että 'Turva on paras vakuutusyhtiö – myös asiakkaidemme mielestä'. Tämä viittaa riippumattomaan asiakastyytyväisyysarvioitiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 10418.988749999997,
+    "cls": 0.22715984260104938,
+    "tbt_ms": 3809.999999999998
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "4000 €/v"
+    }
+   ],
+   "vahvuudet": [
+    "Kattavat vakuutusehdot ja selkeä tuoteseloste ladattavissa koira- ja kissavakuutuksen sivuilla",
+    "Laajasti saatavilla olevat korvausrajat (2000–4000 €/vuosi), jotka näkyvät ilman rekisteröintiä",
+    "Monikanavainen palveluverkko: puhelin ma–pe, chat, mobiilisovellus TaskuTurva ja toimistot ympäri Suomea"
+   ],
+   "kehityskohteet": [
+    "Hintalaskuri edellyttää arvauksella testattaessa ainakin osittaista tietojen antamista; ei ole varmaa, että saa arvion ilman yhteystietoja",
+    "Sähköpostiosoitetta ei näy missään; asiakaskontaktit rajattuja puhelimeen, chattiin ja verkkopalveluun",
+    "Hevonen ei kuulu lemmikkivakuutukseen; tuotevalikoima rajoittuneempi kuin joillakin kilpailijoilla"
+   ],
+   "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa koira- ja kissavakuutuksia eläinlääkärikulujen ja henkivakuutuksen varalta. Sivusto esittelee tuotteet selkeästi, tarjoaa ladattavat vakuutusehdot ja toimii monikanavaisesti; vuosittainen korvauskatto on jopa 4000 euroa. Puutteina ovat epävarmuus hintalaskurin suhteen (saako arvion ilman yhteystietoja) ja sähköpostiyhteyden puuttuminen."
+  },
+  {
+   "slug": "agria",
+   "nimi": "Agria",
+   "domain": "agria.fi",
+   "omistaja": "Försäkringsaktiebolaget Agria (publ) — Länsförsäkringar-ryhmä (Ruotsi), Suomen sivuliike rek. 5.2.2016",
+   "y_tunnus": "2744611-7",
+   "rekisteroity": 2016,
+   "score": 76.2,
+   "pillars": {
+    "digitaalinen": 85.6,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 70.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "67/100",
+       "paino": 40,
+       "pisteet": 67,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy interaktiivinen hintalaskuri, joka kysyy koiran syntymäaikaa, postinumeroa ja rotua - ei henkilötunnusta tai muita henkilökohtaisia tietoja."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutusehdot-linkki näkyvissä footer-osiossa, mutta sivu vaatii CAPTCHA-ratkaisun bot-suojauksen takia"
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla hintalaskurissa mainitaan euromäärät (enimmäiskorvausmäärät), mutta tarkat vuosittaiset katto-arvot vaativat hintalaskurin täyttämisen tai tuoteselosteeseen pääsyn"
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hintalaskurissa kysytään rotua ja ikää, mikä viittaa rajoituksiin, mutta tarkat ehdot eivät näkyvissä ilman hintalaskuria tai tuoteselosteita"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietoa Agriasta -sivulla julkisesti näkyvillä: 'Försäkringsaktiebolaget Agria (publ) sivuliike Suomessa Y-tunnus 2744611-7'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näkyvissä itsenäisten arviointilaitosten tunnustusta tai riippumattomia auditoinnin merkkejä"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ota yhteyttä -sivulla näkyvissä puhelinnumero 044 774 8899, asiakaspalvelu avoinna arkisin klo 9-16"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritystiedot-osassa näkyy sähköpostiosoite asiakaspalvelu@agria.fi"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ota yhteyttä -sivulla mainittu 'Asiakaspalvelumme on avoinna arkisin klo 9.00-16.00' ja korvauspalvelun erityisajat"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa linkki 'Usein kysyttyja kysymyksia' sekä kotiutumisen opas koirille näkyvissä"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Agria-sovellus mainittu sivustolla, josta saa etäeläinlääkäripalvelun apua"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 67,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 3678.8719999999994,
+    "cls": 0.06982548286611573,
+    "tbt_ms": 561
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Kyllä"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa, Pienlemmikit, Linnut"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Hintalaskuri näkyvillä etusivulla ilman henkilötunnus-vaatimusta",
+    "Selkeät yhteystiedot ja asiakaspalveluaika näkyvissä",
+    "Laaja eläinten kattavuus - koirat, kissat, pienlemmikit ja linnut"
+   ],
+   "kehityskohteet": [
+    "Tarkat korvauskatto-summat eivät näkyvissä ilman hintalaskuria tai tuoteselosteita",
+    "Rodun ja iän rajoitukset vaativat hinta-arvion laskemisen",
+    "Vakuutusehdot vaativat CAPTCHA-ratkaisua, ei suoraan saatavilla"
+   ],
+   "yhteenveto": "Agria on eläinvakuutuksiin erikoistunut vakuutusyhtiö, joka tarjoaa vakuutuksia koirille, kissoille, pienlemmikeille ja linnuille. Sivustolla on helposti käytettävä hintalaskuri, joka on saatavilla ilman henkilötunnusta, sekä selkeät yhteystiedot. Tuotetiedot ja ehdot ovat kuitenkin osittain CAPTCHA-suojattujen sivujen takana."
+  },
+  {
+   "slug": "if",
+   "nimi": "If",
+   "domain": "if.fi",
+   "omistaja": "Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)",
+   "y_tunnus": "1602149-8",
+   "rekisteroity": 2000,
+   "score": 68.4,
+   "pillars": {
+    "digitaalinen": 63.4,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 72.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Molemmilla tuotesivuilla on 'Laske hinta' -painike, joka johtaa hintavertailuun. Sivuilla mainitaan 'Hinnan laskeminen ei sido sinua ostoon' ja laskuri pyytää vain koiran/kissan iästä, rodusta ja asuinpaikasta ilman henkilötunnusta tai yhteystietoja."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ehdot ja oppaat' -osio sisältää selkeät linkit 'Eläinvakuutusehdot' ja 'Eläinvakuutusopas' dokumenteille."
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan selkeästi: 'Enimmäiskorvausmääräksi voit valita 1 000, 2 000, 3 000 tai 4 000 euroa vakuutuskaudessa, joka on yksi vuosi.'"
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ikärajat kerrottu molemmilla sivuilla: 'Ifissä voit vakuuttaa koiran/kissan, joka on vähintään kuusi viikkoa ja enintään seitsemän vuotta vanha.' Rotu mainitaan hinnan vaikuttajana, ja vakuutusehtojen osassa mainitaan 'Piilokiveksistä, keisarinleikkauksesta tai synnytyksestä' ei korvata."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alaosassa näkyy 'If Vahinkovakuutus Oyj, Suomen sivuliike' mutta Y-tunnusta ei ole mainittu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Vuosittainen Asiakkuusindeksi-tutkimus' ja että 'Vuoden 2025 listauksessa sijoituksemme oli toista vuotta peräkkäin vakuutusalan paras', mutta linkki kolmannen osapuolen tutkimukseen ei ole saatavilla sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ota yhteyttä' -linkki on navigaatiossa, mutta puhelinnumeroa ei näy tuotesivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvillä tuotesivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan useaan otteeseen: 'Etäeläinlääkäri auttaa chatissa, videoyhteydellä tai puhelimitse' ja 'Avaa If Eläinapu -sovellus ja aloita chat-keskustelu eläinlääkärin kanssa.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Osittain saatavilla - 'Suorakorvaus toimii yli 30 paikkakunnalla ja 90 klinikalla klo 8–24 välisenä aikana joka päivä' ja 'Etäeläinlääkäri päivystää vuorokauden ympäri, vuoden jokaisena päivänä', mutta pääasiallisen asiakaspalvelun aukioloajat puuttuvat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Molemmilla tuotesivuilla on 'Usein kysyttyä koiravakuutuksesta' / 'Usein kysyttyä kissavakuutuksesta' -osio, joka sisältää vastauksia yleisiin kysymyksiin."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'If Eläinapu -sovelluksen kautta' ja 'If Mobiili' mainitaan sekä koira- että kissavakuutussivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "76/100",
+       "paino": 33,
+       "pisteet": 76,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 20756.591,
+    "cls": 0.05716943252556262,
+    "tbt_ms": 2512.652
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Kyllä"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "4000 €/v"
+    }
+   ],
+   "vahvuudet": [
+    "Maksutonta etäeläinlääkäripalvelua 24/7 ilman omavastuuta",
+    "Laaja suorakorvausverkko (90 klinikalla, yli 30 paikkakunnalla)",
+    "Selkeät vakuutusehdot ja kattava UKK-osio"
+   ],
+   "kehityskohteet": [
+    "Konkreettiset hinnat vaativat siirtymistä verkkokauppaan",
+    "Puhelinnumero ja sähköpostiosoite puuttuvat tuotesivulta",
+    "Y-tunnus ja muut yritystiedot eivät ole näkyvillä tuotesivuilla"
+   ],
+   "yhteenveto": "If tarjoaa koira- ja kissavakuutuksia, joiden keskeisiä vahvuuksia ovat maksutonta 24/7-etäeläinlääkäripalvelua ja laaja suorakorvausverkko. Sivusto on selkeästi organisoitu ja sisältää kattavat vakuutusehdot sekä usein kysytyt kysymykset. Hintakalkuli on käytettävissä ilman henkilötietoja, mutta konkreettiset hinnat vaativat siirtymistä verkkokauppaan."
+  },
+  {
+   "slug": "pohjantahti",
+   "nimi": "Pohjantähti",
+   "domain": "pohjantahti.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0146905-4",
+   "rekisteroity": 1978,
+   "score": 68.0,
+   "pillars": {
+    "digitaalinen": 78.4,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 58.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "59/100",
+       "paino": 40,
+       "pisteet": 59,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tarjouspyyntölomake edellyttää kaikki yhteystiedot (nimi, osoite, puhelinnumero, sähköposti) sekä vakuutusratkaisun erittelyä ennen hintatietoja."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla tarjotaan ladattavaksi Vakuutusehdot-PDF (päivitetty 1.7.2023)."
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan kausikohtainen omavastuu ja hoitokäyntikohtainen 50 euron omavastuu, mutta vuosittaista korvauskattoa ei ilmoiteta julkisesti saatavilla olevalla sisällöllä."
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Vakuutamme kissat ja koirat rotuun tai sukupuuhun katsomatta' ja 'vähintään kuuden viikon ja enintään 10 vuoden ikäisen kissan tai koiran' - ikärajat ja ei-rotuvaatimukset selkeästi ilmoitettu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Pohjantähti Keskinäinen Vakuutusyhtiö' sekä vastauslähetysosoitteessa tunnus 5001665."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei mainita riippumattomia arviointeja, sertifikaatteja tai ulkopuolisten tahojen antamia arvioita vakuutuksen laadusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-puhelin 020 763 4010 on selkeästi näkyvillä Ota yhteyttä -sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tarjouspyyntölomakkeessa on sähköpostikentän lisäksi maininta turvallisista communicaatio-kanavista (Oma Pohjantähti, securemail.pohjantahti.fi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei mainita chat-tukea. Asiakaspalvelu tavoitettavissa puhelimitse tai lomakkeen kautta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Asiakaspalvelumme ja korvauspalvelumme ovat avoinna arkisin klo 10–16' mainitaan Yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä lemmikkivakuutuksesta' -osio sisältää kuusi kysymystä-vastaus -paria vakuutusturvasta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Oma Pohjantähti' -palvelu mainitaan useaan otteeseen sovelluksena/verkkopalveluna, jossa voidaan hallita vakuutusasioita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 59,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 6927.912319999999,
+    "cls": 0,
+    "tbt_ms": 293
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä tuotekuvaus tapaturma- ja sairausvakuutuksesta sekä eläimenomistajan vastuuvakuutuksesta",
+    "Monipuolinen FAQ-osio vastaa yleisiin asiakkaiden kysymyksiin vakuutusturvasta",
+    "FirstVet-etäeläinlääkäripalvelu sisältyy vakuutukseen kolmella käynnillä vuodessa"
+   ],
+   "kehityskohteet": [
+    "Vuosittaisia korvauskattoja ei ilmoiteta julkisesti - asiakkaan on otettava yhteys saadakseen hinta-arvion",
+    "Hintalaskuria ei ole saatavilla ilman henkilötietojen toimittamista, mikä hidastaa ostopäätöstä",
+    "Eläinlääkärin tutkimus- ja hoitokustannuksen maksimirajat eivät ole näkyvissä tuotesivulla"
+   ],
+   "yhteenveto": "Pohjantähden lemmikkivakuutus on koirille ja kissoille tarkoitettu vakuutus, joka kattaa tapaturmia ja sairauksia. Vakuutusta voi täydentää eläimenomistajan vastuuvakuutuksella. Sivulla on hyvä FAQ-osio ja selkeät tiedot vakuutusturvan sisällöstä, mutta vuosittaiset korvauskatot ja yksityiskohtaiset hinnat vaativat asiakkaalta yhteydenoton."
+  },
+  {
+   "slug": "lahitapiola",
+   "nimi": "LähiTapiola",
+   "domain": "lahitapiola.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211034-2",
+   "rekisteroity": 1978,
+   "score": 65.2,
+   "pillars": {
+    "digitaalinen": 69.0,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on 'Hae hinta ja osta' -painike, mutta laskurin saavutettavuudesta ilman henkilötietoja ei voida varmistua pääsivulla olevan tekstin perusteella."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koiravakuutussivulla listataan 'Vakuutusehdot (pdf)' linkkeinä download-osiossa."
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Eläinlääkärikuluvakuutukselle mainitaan selvästi 'Enimmäiskorvausmääräksi voit valita 2 000, 3 000 tai 4 000 € yhtä vakuutuskautta kohti'."
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla kerrotaan ikärajat '5 viikkoa–7 vuotta' ja terminaatioikä '8 tai 10-vuotiaana rodusta riippuen'. Hoitoturva Plus -lisäturvalle '5 viikkoa–4 vuotta'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomien arviointien tai audit-raporttien mainintaa ei löydy lemmikkivakuutussivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alatunnisteessa mainitaan 'Chat-sovellus' kontaktointikeinönä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainittu lemmikkivakuutuksen tuotesivulla. Kontaktisivulle navigointi vaaditaan."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koiravakuutussivulla on laaja 'Usein kysyttyä koiravakuutuksesta' -osio, jossa vastattavat 15+ kysymystä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Maksuton LemmikkiHelppi-sovellus, jonka kautta saat käyttöösi etäeläinlääkärin palvelut joka päivä'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 10086.499349999998,
+    "cls": 0.05303258070209445,
+    "tbt_ms": 4642.500000000001
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa, Hevonen, Muut eläimet"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "4000 €/v"
+    }
+   ],
+   "vahvuudet": [
+    "Joustavat vakuutusturvavaihtoehdot enimmäiskorvausmäärällä 2000–4000 € omien tarpeiden mukaan",
+    "Maksuton LemmikkiHelppi-mobiilisovellus, josta saa etäeläinlääkärin palvelut päivittäin",
+    "Suorakorvauspalvelu eläinklinikoissa tekee korvauskäsittelyn vaivattomaksi"
+   ],
+   "kehityskohteet": [
+    "Konkreettiset vakuutusmaksut eivät näy tuotesivulla, hinnan tarkistus vaatii laskuria",
+    "Puhelinnumero ja sähköpostiosoite eivät ole saatavilla lemmikkivakuutussivuilta",
+    "Aukioloajat ja suora yhteydenottotapa puuttuvat pet insurance -sivuilta"
+   ],
+   "yhteenveto": "LähiTapiola tarjoaa räätälöitävää lemmikkivakuutusta koirille, kissoille, hevosille ja muille eläimille joustavilla enimmäiskorvausvaihtoehdoilla. Sivusto sisältää kattavat tiedot vakuutusturvista, välittää etäeläinlääkäripalveluita LemmikkiHelpi-sovelluksen kautta ja tarjoaa suorakorvauspalvelua. Konkreettiset vakuutusmaksut ja yksityiskohtaiset yhteystiedot edellyttävät navigointia muille sivuille."
+  },
+  {
+   "slug": "fennia",
+   "nimi": "Fennia",
+   "domain": "fennia.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0196826-7",
+   "rekisteroity": 1978,
+   "score": 64.7,
+   "pillars": {
+    "digitaalinen": 79.4,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "50/100",
+       "paino": 40,
+       "pisteet": 50,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on 'Pyydä tarjous' -painike, joka johtaa tarjouspyyntölomakkeelle. Suoraa hintaa ei pysty laskemaan ilman yhteydenottopyyntöä."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tuote-esite ja vakuutusehdot' -osiossa linkit: 'Esite - Koiran ja kissan vakuutukset', 'Vakuutusehdot - Fenniaturva: F20-F100', 'Vakuutusehdot - Fenniaturva: F400-F300', 'Vakuutusehdot - Fenniaturvan yleiset sopimusehdot'."
+      },
+      {
+       "mittari": "Vuosittainen korvauskatto kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuote-esitteen tai ehdot-linkkien taakse jäävissä dokumenteissa saattaa olla tiedot, mutta julkisesti näkyvällä sivulla ei mainita vuosittaista korvauskattoa numeerisesti."
+      },
+      {
+       "mittari": "Rotu- ja ikärajoitukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa vastaus 'Minkä ikäisen koiran voin vakuuttaa?' kertoo: 'vähintään 6 viikon ikäinen' ja 'enintään 6 vuoden ikäinen'. Lisäksi mainitaan 'Kyllä, koiravakuutus voidaan myöntää myös rekisteröimättömille ja sekarotuisille koirille.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Fennia-konsernin pääryhtelaussivu näyttää Y-tunnuksen: 'Keskinäinen Vakuutusyhtiö Fennia, Y-tunnus 0196826-7'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla 'Fennian asiakas- ja vahinkopalvelu' antaa puhelinnumerot: 'Soita suomeksi 010 503 8808' ja 'Soita ruotsiksi 010 503 8828'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Oma Fennian chat' -osio: 'Voit hoitaa myös Oma Fennian vakuutusasioitasi chatissa ma–pe klo 9–16.30'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 50,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4768.0830000000005,
+    "cls": 0.00690949302333135,
+    "tbt_ms": 1616
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Vakuutettavat eläimet",
+     "value": "Koira, Kissa, Hevonen"
+    },
+    {
+     "label": "Vuosittainen korvauskatto",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "FirstVet-etäeläinlääkäripalvelu sisältyy kaikilla vakuutuksilla, saatavilla 24/7",
+    "Yksityiskohtainen coverage-taulukko näyttää kattavuuden sairaus- ja tapaturmaturvalle selkeästi",
+    "Vakuutus voidaan pitää voimassa eläimen koko eliniän, ei ikärajaa kattavuuden poistumiselle"
+   ],
+   "kehityskohteet": [
+    "Vuosittainen korvauskatto (katto per vuosi) ei ole julkisesti näkyvissä, vaatii tarjouspyynnön",
+    "Hintalaskuri vaatii yhteydenottopyyntöä, ei instant-hinta ilman henkilötunnusta tai yhteystietoja",
+    "Mobiilisovellus puuttuu, vakuutuksen hallinta vain Oma Fennia -verkkopalvelun kautta"
+   ],
+   "yhteenveto": "Fennia tarjoaa eläinvakuutuksia koirille, kissoille ja hevosille. Vakuutuksiin sisältyy FirstVet-etäeläinlääkäripalvelu ja ne voidaan pitää voimassa eläimen koko eliniän. Tuote-esitteet ja vakuutusehdot ovat saatavilla, ja asiakaspalvelua on puhelimitse sekä Oma Fennia -chatissa. Hintalaskuri vaatii tarjouspyynnön, eikä vuosittainen korvauskatto ole julkisesti näkyvissä."
+  }
+ ],
+ "updated": "17.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta-arvio ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), vuosittainen korvauskatto kerrottu (15), rotu- ja ikärajoitukset kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

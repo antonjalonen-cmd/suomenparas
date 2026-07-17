@@ -15,7 +15,29 @@ from vertical_meta import META
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LH = json.load(open(os.path.join(BASE, "pipeline", "lh_cache", "_summary.json"), encoding="utf-8"))
-UPDATED = "16.7.2026"
+
+# Measurement date is PER VERTICAL and is written once, when that vertical is first
+# measured. The methodology page promises results are not rewritten retroactively, so
+# rebuilding an old category must never stamp it with today's date. A vertical missing
+# from here is a vertical nobody dated — fail instead of guessing.
+MEASURED = {
+    "lainavertailu": "15.7.2026",
+    "vakuutukset": "16.7.2026",
+    "sahkosopimukset": "16.7.2026",
+    "laajakaista": "16.7.2026",
+    "puhelinliittymat": "16.7.2026",
+    "luottokortit": "16.7.2026",
+    "sijoitusalustat": "16.7.2026",
+    "webhotellit": "16.7.2026",
+    "vpn-palvelut": "16.7.2026",
+    # batch 2
+    "kulutusluotot": "17.7.2026",
+    "pankit": "17.7.2026",
+    "autovakuutukset": "17.7.2026",
+    "kotivakuutukset": "17.7.2026",
+    "matkavakuutukset": "17.7.2026",
+    "lemmikkivakuutukset": "17.7.2026",
+}
 
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}
 TERNARY_LABEL = {"kylla": "Kyllä", "osittain": "Osittain", "ei": "Ei"}
@@ -212,6 +234,44 @@ def facts_extra(vertical, e, meta):
         s = e.get("suomenkielinen_sivu")
         out.append({"label": "Suomenkielinen sivusto",
                     "value": {"kylla": "Kyllä", "ei": "Ei"}.get(s, "Ei kerrottu")})
+    elif vertical == "kulutusluotot":
+        # Who supervises the lender is the fact a Finnish borrower cannot look up from
+        # the brand: most of these are Swedish or Lithuanian banks passporting in, and
+        # a complaint goes to that country's regulator, not Finanssivalvonta.
+        out.append({"label": "Valvoja", "value": meta.get("valvoja", "–")})
+        k = e.get("todellinen_vuosikorko_pct")
+        out.append({"label": "Todellinen vuosikorko (esimerkki)",
+                    "value": f"{num(k)} %" if k else "Ei julkisesti esillä"})
+        s = e.get("luottosumma_max_eur")
+        out.append({"label": "Suurin luottosumma", "value": f"{num(s)} €" if s else "Ei kerrottu"})
+    elif vertical == "pankit":
+        out.append({"label": "Pankkityyppi", "value": meta.get("pankkityyppi", "–")})
+        p = e.get("palveluhinnasto_julkinen")
+        out.append({"label": "Palveluhinnasto",
+                    "value": {"kylla": "Julkisesti auki", "osittain": "Osittain julkinen",
+                              "ei": "Vain kirjautuneille"}.get(p, "Ei tiedossa")})
+        h = e.get("kayttotili_kk_maksu_eur")
+        # 0 €/kk is a real and meaningful answer here — don't let falsiness hide it.
+        out.append({"label": "Käyttötilin kk-maksu",
+                    "value": f"{num(h)} €/kk" if h is not None else "Ei julkisesti esillä"})
+    elif vertical in ("autovakuutukset", "kotivakuutukset", "matkavakuutukset",
+                      "lemmikkivakuutukset"):
+        laskuri = e.get("hintalaskuri_ilman_yhteystietoja") or e.get("hinta_esilla_ilman_yhteystietoja")
+        out.append({"label": "Hinta-arvio ilman yhteystietoja",
+                    "value": {"kylla": "Kyllä", "osittain": "Osittain",
+                              "ei": "Ei"}.get(laskuri, "Ei tiedossa")})
+        if vertical == "autovakuutukset":
+            out.append({"label": "Kaskotasot", "value": pretty_list(e.get("kaskotasot")) or "Ei kerrottu"})
+        elif vertical == "lemmikkivakuutukset":
+            out.append({"label": "Vakuutettavat eläimet",
+                        "value": pretty_list(e.get("elaimet")) or "Ei kerrottu"})
+            k = e.get("korvauskatto_eur_vuosi")
+            out.append({"label": "Vuosittainen korvauskatto",
+                        "value": f"{num(k)} €/v" if k else "Ei julkisesti esillä"})
+        else:
+            o = e.get("omavastuu_min_eur")
+            out.append({"label": "Pienin omavastuu (esillä)",
+                        "value": f"{num(o)} €" if o else "Ei julkisesti esillä"})
     return out
 
 
@@ -287,7 +347,10 @@ def build(vertical):
     out.sort(key=lambda c: -c["score"])
     v = dict(META[vertical])
     v["yritykset"] = out
-    v["updated"] = UPDATED
+    if vertical not in MEASURED:
+        raise SystemExit(f"{vertical}: add it to MEASURED with the date it was actually "
+                         f"measured — never inherit today's date by accident.")
+    v["updated"] = MEASURED[vertical]
     v["mittarit"] = len(DIGITAL) + len(TRANSPARENCY[vertical]) + len(REACH) + len(AI)
     v["lapinakyvyys_kriteerit"] = criteria_text(vertical)
     # Any {n} in copy resolves to the real company count, so the prose can never

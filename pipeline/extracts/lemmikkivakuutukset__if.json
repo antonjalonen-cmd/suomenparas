@@ -1,0 +1,54 @@
+{
+  "slug": "if",
+  "fetched_ok": [
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/elainvakuutukset/koiravakuutus",
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/elainvakuutukset/kissavakuutus"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "kylla",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatto_kerrottu": "kylla",
+  "rotu_ja_ikarajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "osittain",
+  "elaimet": [
+    "koira",
+    "kissa"
+  ],
+  "korvauskatto_eur_vuosi": 4000,
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 62,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Maksutonta etäeläinlääkäripalvelua 24/7 ilman omavastuuta",
+    "Laaja suorakorvausverkko (90 klinikalla, yli 30 paikkakunnalla)",
+    "Selkeät vakuutusehdot ja kattava UKK-osio"
+  ],
+  "kehityskohteet": [
+    "Konkreettiset hinnat vaativat siirtymistä verkkokauppaan",
+    "Puhelinnumero ja sähköpostiosoite puuttuvat tuotesivulta",
+    "Y-tunnus ja muut yritystiedot eivät ole näkyvillä tuotesivuilla"
+  ],
+  "yhteenveto": "If tarjoaa koira- ja kissavakuutuksia, joiden keskeisiä vahvuuksia ovat maksutonta 24/7-etäeläinlääkäripalvelua ja laaja suorakorvausverkko. Sivusto on selkeästi organisoitu ja sisältää kattavat vakuutusehdot sekä usein kysytyt kysymykset. Hintakalkuli on käytettävissä ilman henkilötietoja, mutta konkreettiset hinnat vaativat siirtymistä verkkokauppaan.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Molemmilla tuotesivuilla on 'Laske hinta' -painike, joka johtaa hintavertailuun. Sivuilla mainitaan 'Hinnan laskeminen ei sido sinua ostoon' ja laskuri pyytää vain koiran/kissan iästä, rodusta ja asuinpaikasta ilman henkilötunnusta tai yhteystietoja.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: 'Ehdot ja oppaat' -osio sisältää selkeät linkit 'Eläinvakuutusehdot' ja 'Eläinvakuutusopas' dokumenteille.",
+    "korvauskatto_kerrottu": "HAVAINTO: Sivuilla mainitaan selkeästi: 'Enimmäiskorvausmääräksi voit valita 1 000, 2 000, 3 000 tai 4 000 euroa vakuutuskaudessa, joka on yksi vuosi.'",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: Ikärajat kerrottu molemmilla sivuilla: 'Ifissä voit vakuuttaa koiran/kissan, joka on vähintään kuusi viikkoa ja enintään seitsemän vuotta vanha.' Rotu mainitaan hinnan vaikuttajana, ja vakuutusehtojen osassa mainitaan 'Piilokiveksistä, keisarinleikkauksesta tai synnytyksestä' ei korvata.",
+    "y_tunnus_esilla": "HAVAINTO: Sivun alaosassa näkyy 'If Vahinkovakuutus Oyj, Suomen sivuliike' mutta Y-tunnusta ei ole mainittu.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla mainitaan 'Vuosittainen Asiakkuusindeksi-tutkimus' ja että 'Vuoden 2025 listauksessa sijoituksemme oli toista vuotta peräkkäin vakuutusalan paras', mutta linkki kolmannen osapuolen tutkimukseen ei ole saatavilla sivulla.",
+    "puhelin_esilla": "HAVAINTO: 'Ota yhteyttä' -linkki on navigaatiossa, mutta puhelinnumeroa ei näy tuotesivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvillä tuotesivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan useaan otteeseen: 'Etäeläinlääkäri auttaa chatissa, videoyhteydellä tai puhelimitse' ja 'Avaa If Eläinapu -sovellus ja aloita chat-keskustelu eläinlääkärin kanssa.'",
+    "aukioloajat_esilla": "HAVAINTO: Osittain saatavilla - 'Suorakorvaus toimii yli 30 paikkakunnalla ja 90 klinikalla klo 8–24 välisenä aikana joka päivä' ja 'Etäeläinlääkäri päivystää vuorokauden ympäri, vuoden jokaisena päivänä', mutta pääasiallisen asiakaspalvelun aukioloajat puuttuvat.",
+    "ukk_osio": "HAVAINTO: Molemmilla tuotesivuilla on 'Usein kysyttyä koiravakuutuksesta' / 'Usein kysyttyä kissavakuutuksesta' -osio, joka sisältää vastauksia yleisiin kysymyksiin.",
+    "mobiilisovellus": "HAVAINTO: 'If Eläinapu -sovelluksen kautta' ja 'If Mobiili' mainitaan sekä koira- että kissavakuutussivulla."
+  }
+}

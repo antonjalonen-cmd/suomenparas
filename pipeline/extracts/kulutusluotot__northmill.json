@@ -1,0 +1,54 @@
+{
+  "slug": "northmill",
+  "fetched_ok": [
+    "https://www.northmill.com/fi/",
+    "https://www.northmill.com/fi/yhteystiedot/",
+    "https://www.northmill.com/fi/laina/",
+    "https://www.northmill.com/fi/ehdot/",
+    "https://www.northmill.com/fi/meista/"
+  ],
+  "todellinen_vuosikorko_esilla": "kylla",
+  "esimerkkilaskelma_esilla": "kylla",
+  "kulut_eriteltyna": "osittain",
+  "luotonantaja_ja_valvoja_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "todellinen_vuosikorko_pct": 24.25,
+  "luottosumma_max_eur": 5000,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Esimerkkilaskelma selkeästi näkyvissä luottosummasta ja todellisen vuosikoron APR:stä ennen hakemusta",
+    "Asiakaspalvelun puhelinnumero ja chat-palvelu selvästi saatavilla toimivilla aukioloajoilla",
+    "Trustpilot-arvostelut (4,7/5 yli 1400 arvosteluilla) näkyvät näkyvästi luotettavuuden osoituksena"
+  ],
+  "kehityskohteet": [
+    "Sähköpostiosoitetta ei ole näkyvissä – asiakkaat voivat ottaa yhteyttä vain puhelimitse tai chatissa",
+    "Palkkiot eritellään vain tilinhoitomaksua (0–12,5 €/kk) – muiden mahdollisten palkkioiden esillääntyöstä puuttuu selkeys",
+    "Usein kysyttyjen kysymysten osio ei ole saavutettavissa – navigaatiossa mainitaan mutta sivu palauttaa 404-virheen"
+  ],
+  "yhteenveto": "Northmill Bank AB (Suomen sivuliike) on ruotsalaisen pankin suomalainen sivuliike, joka tarjoaa joustoluottoa enintään 5000 euroon. Sivusto esittelee selkeästi todellisen vuosikoron (24,25 %) ja kattavan esimerkkilaskelman, sekä Trustpilot-arvostelut osoittavat asiakastyytyväisyyttä. Asiakaspalvelun puhelinnumero ja chat ovat helposti saatavilla. Puutteita on sähköpostiosoitteen puutteessa ja osittain epäselvästi eritellyt palkkiot.",
+  "evidence": {
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Sivulla https://www.northmill.com/fi/laina/ näkyy esimerkkilaskelma, jossa todellinen vuosikorko (APR) on 24,25%. Pääsivulla mainitaan myös maksimi APR 24,25 %.",
+    "esimerkkilaskelma_esilla": "HAVAINTO: Lainasivulla näkyy selkeä esimerkki: \"Esimerkissä, jossa luoton määrä on 5000€, vuotuinen korko on 14,90% + 2,5%*, laina-aika on 5 vuotta, lyhennyksiä on 60 kappaletta, kuukausittainen tilinhoitomaksu on 12,5€, takaisinmaksettavasta summasta tulee kokonaisuudessaan 8270,40 € (137,84€ kuukaudessa) ja todelliseksi vuosikoroksi (APR) 24,25%\"",
+    "kulut_eriteltyna": "HAVAINTO: Vain tilinhoitomaksu mainitaan (0–12,5€/kk). Muista mahdollisista palkkioista (esim. nostomaksut, myöhästymismaksut) ei ole selvää erittelyä näkyvissä.",
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Kaikilla sivuilla mainitaan \"Northmill Bank AB, filial i Finland\" sekä Y-tunnus 3166457-1. Sivuilla todetaan, että pankki toimimme Finanssivalvonnan valvonnassa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3166457-1 näkyy kaikilla sivuilla osoitteena \"Linnoitustie 4b, 02600 Espoo\"",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot-arvio 4.7/5 pohjautuen yli 1400 arvosteluun näkyy sekä pääsivulla että lainasivulla.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla puhelinnumero 09 747 91185 (ppm/mpm) on selvästi näkyvissä aukioloaikojen kanssa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löydy mistään tutkituista sivuista. Yhteystiedot-sivulla maininta sähköpostista on vain navigoinnin teksteissä, mutta osoitetta ei näy.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan pääsivulla \"Vastaamme puheluihin keskimäärin 30 sekunnissa ja meidät tavoittaa reaaliajassa myös chatissa.\" Yhteystiedot-sivulla todetaan: \"Aloita keskustelu painamalla chat-kuvaketta oikeassa alakulmassa.\"",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla selvästi mainitaan: \"Maanantai-perjantai: 09.00 – 17.00, Viikonloput ja pyhäpäivät: suljettu\"",
+    "ukk_osio": "HAVAINTO: Navigaatiossa näkyy linkki \"UKK\", mutta sen kutsuminen palauttaa HTTP 404 -virheen.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita mistään tutkituista sivuista."
+  }
+}

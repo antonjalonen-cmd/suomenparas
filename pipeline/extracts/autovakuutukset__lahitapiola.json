@@ -1,0 +1,54 @@
+{
+  "slug": "lahitapiola",
+  "fetched_ok": [
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/ajoneuvovakuutukset/autovakuutus/",
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/ajoneuvovakuutukset/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "kylla",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "kaskotasot": [
+    "Laaja",
+    "Suppea",
+    "Liikenne"
+  ],
+  "omavastuu_min_eur": 50,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 12,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Selkeä vakuutusportfolion rakenne kolmella eri tasolla (Laaja, Suppea, Liikenne), joista jokainen on tarkasti kuvattu",
+    "Kattava vertailutaulukko näyttää mitä kukin vakuutustaso korvaa – kolarointi, pysäköintiturva, varkaus, palo, ilkivalta, luonnonilmiöt",
+    "Avointen vakuutusehdot ladattavissa PDF-muodossa (tuoteseloste, ehdot, avaintiedot, yleiset sopimusehdot)"
+  ],
+  "kehityskohteet": [
+    "Hintalaskuri vaatii henkilötunnuksen ennen kuin näyttää mitään hintatietoa – asiakkaalle ei ole mahdollisuutta saada arviota ilman henkilökohtaisten tietojen paljastamista",
+    "Y-tunnus ei näy sivulla, vaikka se olisi tärkeä varmentamisen keino",
+    "Asiakaspalvelun aukioloajat, sähköpostiosoite ja fyysisten toimistojen osoitteet puuttuvat – puhelin on saatavilla vain hätäpalvelulle (0800 04531)"
+  ],
+  "yhteenveto": "LähiTapiolan autovakuutussivu esittelee kolme selvästi erotettu vakuutustasoa vertailutaulukon kautta, ja vakuutusehdot ovat saatavilla PDF-muodossa. Bonus- ja vahingottomuusjärjestelmä on hyvin dokumentoitu. Kuitenkin sivulla ei voi saada hinta-arviota ilman henkilötunnuksen antamista, mikä on merkittävä este asiakkaiden budjetoinnille ennen yhteydenottoa.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Hintalaskuri vaatii sekä rekisteritunnuksen että henkilötunnuksen. Sivulla mainitaan: 'Henkilötunnus Tarvitsemme henkilötunnuksesi, jotta voimme laskea hinnan sekä sinulle kuuluvat alennukset.' Näin ollen hinta-arviota ei saa ilman henkilökohtaisen tunnistetiedon antamista.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Neljä PDF-tiedostoa ladattavissa: 'Ajoneuvovakuutuksen tuoteseloste (pdf)', 'Ajoneuvovakuutuksen avaintiedot (pdf)', 'Ajoneuvovakuutuksen ehdot (pdf)', 'Yleiset sopimusehdot (pdf)'.",
+    "omavastuu_selkeasti": "HAVAINTO: Omavastuut selkeästi ilmoitettu: lasiturvassa 0 € (korjaus) tai 200-300 € (vaihto), kolarointi 200/500/750/1000 €, hinaus- ja matkakulut 50 €.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: Sivulla selitetään 'Vahingottomuusalennus on kokonaan uusi alennus, joka palkitsee kolarittomasta ajosta'. Laajassa vakuutuksessa asiakkaalle tulee heti 10 % vahingottomuusalennus kolarintiturvasta. FAQ osio vastaa kysymykseen 'Saanko bonusta autovakuutuksestani ja miten se määräytyy?' sekä 'Voidaanko puolisoni bonusta hyödyntää minun vakuutuksessani?'",
+    "kaskotasot_vertailtavissa": "HAVAINTO: Sivulla on selkeä vertailutaulukko otsikoilla 'Mitä vakuutus korvaa? Laaja Suppea Liikenne', jossa listataan kaikki turva-alueet ja merkitään mitä kukin taso sisältää.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy autovakuutussivulla.",
+    "puhelin_esilla": "HAVAINTO: Puhelin mainittu kahdesti: 'Hätäpalvelu auttaa tien päällä 24/7 numerossa 0800 04531' ja 'Jos auto jätti tien varteen, soita meille numeroon 0800 04531'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy autovakuutussivulla.",
+    "chat_mainittu": "HAVAINTO: Chat mainitaan asiointikielen vaihdossa: 'Asiointikielen vaihtaminen sulkee käynnissä olevan chat-keskustelun', mikä viittaa chatin olevan saatavilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloaikoja ei näy sivulla.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä auton vakuutuksesta' -osio sisältää 13 kysymystä ja vastausta, kattaen hinnoittelun, alennukset, ostamisen, vakuutusturvat, omavastuut, rekisteröinnin, bonukset ja muita aiheita."
+  }
+}

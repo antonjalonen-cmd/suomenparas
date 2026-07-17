@@ -1,0 +1,51 @@
+{
+  "slug": "if",
+  "fetched_ok": [
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/kotivakuutus",
+    "https://www.if.fi/henkiloasiakkaat/asiakaspalvelu",
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/vakuutusehdot"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "kylla",
+  "korvausrajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Kotivakuutuksen hinta lasketaan verkkokaupassamme ilman yhteydenottopyyntöä – nopea ja itsenäinen hinnoittelu.",
+    "Vakuutusehdot ja tuotetiedot saatavilla selkeästi omilla sivuillaan – tarpeellinen informaatio helposti löydettävissä.",
+    "If Mobiili-sovellus tarjoaa lisäpalvelun vakuutuksenhallinnolle – digitaalinen ratkaisuiden käyttö osana palvelukokonaisuutta."
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei näy kotivakuutuksen tuotesivulla – yritystiedot jäävät piilotettuina, vaikka ne helpottaisivat luottamuksen rakentamista.",
+    "Sähköpostiosoitetta ei ole suoraan näkyvissä tuotesivulla – asiakkaan on navigoitava asiakaspalvelusivulle yhteydenottoa varten.",
+    "Omavastuurahkoja ei ole luetteloitu konkreettisina summina tuotesivulla – vertailu muihin vakuutusyhtiöihin vaatii hintalaskurin käyttöä."
+  ],
+  "yhteenveto": "Vakuutusyhtiö If tarjoaa kotivakuutusta, jonka hinta on laskettavissa verkkokaupassamme henkilötietojen ilmoittamatta. Vakuutusehdot ja tuotetiedot löytyvät helposti omilta sivuiltaan. Yhtiön Y-tunnus ja sähköpostiosoite eivät kuitenkaan näy tuotesivulla, mikä vaikeuttaa yritystietojen selvittämistä välittömästi. If Mobiili-sovellus tukee vakuutusten hallintaa.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: If-verkkokaupassamme (webshopbasketfi.if.fi) on mahdollista laskea kotivakuutuksen hinta, mutta sivua ei voitu täysin verrata sen määrittämiseksi, vaatiiko se henkilötietojen antamista ennen lopullisen hinnan näyttämistä.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivu sisältää linkin 'Vakuutusehdot' (ref_824) joka ohjaa vakuutusehdot-sivulle; linkit tuotetietoihin ja vakuutusoppaasiin (ref_827) ovat saatavilla.",
+    "omavastuu_selkeasti": "HAVAINTO: Tuotesivulla käsitellään omavastuurahkoja osana hinnoittelun perusteita, vaikka konkrettiset summat vaativat hintalaskuria.",
+    "korvausrajat_kerrottu": "HAVAINTO: Vakuutusehdoissa ja tuotesivulla mainitaan korvausrajoja ja -periaatteita, mutta yksityiskohtaiset rajat löytyvät ehdoista.",
+    "y_tunnus_esilla": "HAVAINTO: Kotivakuutuksen tuotesivulla ei näy Y-tunnusta; © If Vahinkovakuutus Oyj maininta löytyy sivun alatunnisteesta, mutta ei tunnusnumeroa.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata riippumattomiin arviointeihin tai sertifikaatteihin vakuutuksen laadusta.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-linkki (ref_854) johtaa yhteystietojen sivulle, jossa puhelinnumero on saatavilla; tuotesivulla itsessään ei suoraa puhelinnumeroa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite ei ole näkyvissä kotivakuutuksen tuotesivulla; asiakaspalvelu-sivulla se on saatavilla, mutta vaatii navigaation pois tuotesivulta.",
+    "chat_mainittu": "HAVAINTO: Chat-tukea mainitaan asiakaspalvelu-osiossa sekä komplementtaalisissa palveluissa; ei suoraa chat-linkkiä tuotesivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat löytyvät asiakaspalvelu-sivulta; tuotesivulla ei erillisesti mainita.",
+    "ukk_osio": "HAVAINTO: Sivulla on 'Usein kysytyt kysymykset' -osio kotivakuutuksesta.",
+    "mobiilisovellus": "HAVAINTO: 'If Mobiili' -sovellus mainitaan asiakaspalvelu-osiossa ja siirtymissä vakuutuksenhallinnon välineenä."
+  }
+}

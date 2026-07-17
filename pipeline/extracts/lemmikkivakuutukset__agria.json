@@ -1,0 +1,56 @@
+{
+  "slug": "agria",
+  "fetched_ok": [
+    "https://www.agria.fi",
+    "https://www.agria.fi/ota-yhteytta/",
+    "https://www.agria.fi/tietoa-agriasta/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "kylla",
+  "vakuutusehdot_saatavilla": "osittain",
+  "korvauskatto_kerrottu": "osittain",
+  "rotu_ja_ikarajat_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "elaimet": [
+    "koira",
+    "kissa",
+    "pienlemmikit",
+    "linnut"
+  ],
+  "korvauskatto_eur_vuosi": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hintalaskuri näkyvillä etusivulla ilman henkilötunnus-vaatimusta",
+    "Selkeät yhteystiedot ja asiakaspalveluaika näkyvissä",
+    "Laaja eläinten kattavuus - koirat, kissat, pienlemmikit ja linnut"
+  ],
+  "kehityskohteet": [
+    "Tarkat korvauskatto-summat eivät näkyvissä ilman hintalaskuria tai tuoteselosteita",
+    "Rodun ja iän rajoitukset vaativat hinta-arvion laskemisen",
+    "Vakuutusehdot vaativat CAPTCHA-ratkaisua, ei suoraan saatavilla"
+  ],
+  "yhteenveto": "Agria on eläinvakuutuksiin erikoistunut vakuutusyhtiö, joka tarjoaa vakuutuksia koirille, kissoille, pienlemmikeille ja linnuille. Sivustolla on helposti käytettävä hintalaskuri, joka on saatavilla ilman henkilötunnusta, sekä selkeät yhteystiedot. Tuotetiedot ja ehdot ovat kuitenkin osittain CAPTCHA-suojattujen sivujen takana.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Etusivulla näkyy interaktiivinen hintalaskuri, joka kysyy koiran syntymäaikaa, postinumeroa ja rotua - ei henkilötunnusta tai muita henkilökohtaisia tietoja.",
+    "y_tunnus_esilla": "HAVAINTO: Tietoa Agriasta -sivulla julkisesti näkyvillä: 'Försäkringsaktiebolaget Agria (publ) sivuliike Suomessa Y-tunnus 2744611-7'",
+    "puhelin_esilla": "HAVAINTO: Ota yhteyttä -sivulla näkyvissä puhelinnumero 044 774 8899, asiakaspalvelu avoinna arkisin klo 9-16",
+    "email_esilla": "HAVAINTO: Yritystiedot-osassa näkyy sähköpostiosoite asiakaspalvelu@agria.fi",
+    "aukioloajat_esilla": "HAVAINTO: Ota yhteyttä -sivulla mainittu 'Asiakaspalvelumme on avoinna arkisin klo 9.00-16.00' ja korvauspalvelun erityisajat",
+    "ukk_osio": "HAVAINTO: Navigaatiossa linkki 'Usein kysyttyja kysymyksia' sekä kotiutumisen opas koirille näkyvissä",
+    "mobiilisovellus": "HAVAINTO: Agria-sovellus mainittu sivustolla, josta saa etäeläinlääkäripalvelun apua",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Vakuutusehdot-linkki näkyvissä footer-osiossa, mutta sivu vaatii CAPTCHA-ratkaisun bot-suojauksen takia",
+    "korvauskatto_kerrottu": "HAVAINTO: Etusivulla hintalaskurissa mainitaan euromäärät (enimmäiskorvausmäärät), mutta tarkat vuosittaiset katto-arvot vaativat hintalaskurin täyttämisen tai tuoteselosteeseen pääsyn",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: Hintalaskurissa kysytään rotua ja ikää, mikä viittaa rajoituksiin, mutta tarkat ehdot eivät näkyvissä ilman hintalaskuria tai tuoteselosteita",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näkyvissä itsenäisten arviointilaitosten tunnustusta tai riippumattomia auditoinnin merkkejä"
+  }
+}

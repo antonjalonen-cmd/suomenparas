@@ -1,0 +1,53 @@
+{
+  "slug": "saldo",
+  "fetched_ok": [
+    "https://www.saldo.com/fi-fi/",
+    "https://www.saldo.com/fi-fi/hinnasto/",
+    "https://www.saldo.com/fi-fi/ukk/",
+    "https://www.saldo.com/fi-fi/asiakaspalvelu/"
+  ],
+  "todellinen_vuosikorko_esilla": "kylla",
+  "esimerkkilaskelma_esilla": "ei",
+  "kulut_eriteltyna": "kylla",
+  "luotonantaja_ja_valvoja_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "todellinen_vuosikorko_pct": 15.75,
+  "luottosumma_max_eur": 10000,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Hintojen läpinäkyvyys: kulutusluoton todellinen vuosikorko, palkkiot ja ehdot selvästi esillä hinnastoilla",
+    "Nopea lainapäätös ja maksu: rahat tilille yleensä alle 15 minuutissa, lainapäätös heti",
+    "Monipuoliset yhteydenottotavat: puhelin, sähköposti ja laaja FAQ-osio"
+  ],
+  "kehityskohteet": [
+    "Esimerkkilaskelma puuttuu: sivustolla ei ole julkista esimerkkilaskelmaa (\"esim. 5000 €, 3 vuotta, APR X %\") vaadittavasta muodosta",
+    "Valvontaviranomaisen tiedot puuttuvat: sivustolla sanotaan, että Saldo Bank UAB Suomen sivuliike on liettuan pankki, mutta ei mainita, että valvoja on Lithuanian central bank",
+    "Chat-tuki ei saatavilla: asiakastuki vain puhelimitse ja sähköpostitse, ei chatia"
+  ],
+  "yhteenveto": "Saldo Bank UAB Suomen sivuliike tarjoaa kulutusluottoja selkeillä hinnoilla ja nopean käsittelyyn. Todellinen vuosikorko (15,75–26,9 %), palkkiot ja lainaehdot ovat hyvin dokumentoituja hinnastosivulla. Sivusto on selkeä ja informatiivinen, mutta esimerkkilaskelma vaadittavassa muodossa puuttuu, ja valvontaviranomaisen tiedot ovat vaillinaiset.",
+  "evidence": {
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Hinnastosivulla (https://www.saldo.com/fi-fi/hinnasto/) kulutusluottojen todellinen vuosikorko näkyy selvästi: \"Todellinen vuosikorko: 15,75 - 26,9 %\"",
+    "esimerkkilaskelma_esilla": "HAVAINTO: Sivustolla ei löydy julkista esimerkkilaskelmaa tyypillisestä muodosta (esim. 5000 €, 3 vuotta, todellinen vuosikorko X %, yhteensä maksettava summa Y €). Hinnastossa vain prosenttivälit, ei konkreettista esimerkkiä.",
+    "kulut_eriteltyna": "HAVAINTO: Hinnastosivulla kulutusluotolle eritellyt palkkiot: \"Lainanhoitokulu: 0,01% päivässä mutta maksimissaan 150 € vuodessa\" ja \"Maksuhuomautus: 5,00 €\"",
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Sivuston alaosassa toistuvasti näkyy \"Saldo Bank UAB Suomen sivuliike\" ja Y-tunnus 3273394-6, mutta valvojaa (Lithuanian central bank) ei nimenomaisesti mainita",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3273394-6 näkyy jokaisen sivun alaosassa ja osoitteella: \"Saldo Bank UAB Suomen sivuliike, 3273394-6, Lautatarhankatu 6, 00580, Helsinki\"",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla näkyy Reviews.io-arvioita: \"6670 arvostelua\" 4.7-tähden arviolla (4,65/5)",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero +358 10 190100 näkyy jokaisen sivun alaosassa",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@saldo.com näkyy jokaisen sivun alaosassa",
+    "chat_mainittu": "HAVAINTO: Chat-tukea ei mainita missään. Asiakastuki saatavilla vain puhelimella ja sähköpostilla",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvät jokaisen sivun alaosassa: \"Ark. 9:00-17:00, 10:00-17:00 (lauantai), Suljettu (sunnuntai)\"",
+    "ukk_osio": "HAVAINTO: Laaja UKK-osio osoitteessa https://www.saldo.com/fi-fi/ukk/ sisältää yli 60 kysymystä ja vastausta lainoista, maksuista, talletuksista",
+    "mobiilisovellus": "HAVAINTO: Etusivulla mainitaan Saldo-mobiilisovellus, jonka voi ladata App Storesta ja Google Playsta"
+  }
+}

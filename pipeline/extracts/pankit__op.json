@@ -1,0 +1,49 @@
+{
+  "slug": "op",
+  "fetched_ok": [
+    "https://www.op.fi/henkiloasiakkaat (JS-renderöity sivu, curl/WebFetch ei palauta sisältöä)",
+    "https://www.op.fi/documents/10208/11168/Palveluhinnasto_FI_HA_pankkipalvelut_01.04.2025.pdf (404 HTML-sivu palautettu)"
+  ],
+  "palveluhinnasto_julkinen": "osittain",
+  "tilin_ja_kortin_maksut_esilla": "osittain",
+  "sopimusehdot_saatavilla": "osittain",
+  "konttorit_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "kayttotili_kk_maksu_eur": null,
+  "ai_arviot": {
+    "selkeys": 0,
+    "hintojen_loydettavyys": 0,
+    "sisallon_kattavuus": 0
+  },
+  "vahvuudet": [
+    "OP Osuuskunta on tunnettu ja vakiintunut rahoituspalveluiden tarjoaja Suomessa",
+    "Julkinen palveluhinnasto on saatavilla PDF-muodossa (URL tunnetaan)",
+    "Y-tunnus (0242522-1) on dokumentoitu ja verifiointikelpoinen"
+  ],
+  "kehityskohteet": [
+    "Sivustolla on aggressiivinen bottien esto (Cloudflare-suojaus), joka estää sisällön avaamisen ilman selainta ja evästeitä",
+    "Julkinen palveluhinnasto-PDF palauttaa 404-virheen kun kutsutaan automatisoitujen työkalujen kautta",
+    "Yksityiskohtaisen hinnoittelutiedon pääsy vaatii sisäänkirjautumisen tai suoraan pankkiin kontaktoimisen"
+  ],
+  "yhteenveto": "OP Osuuskunta on suurin suomalainen osuuspankkiryhmä, jonka verkkosivusto (op.fi) on merkittävästi suojattu bottien ja automatisoitujen haun kautta. Sivustolla käytetään JavaScript-renderöintiä ja aggressiivista bot-suojausta, mikä estää sisällön avaamisen staattisten pyyntöjen kautta. Palveluhinnasto on julkaistu PDF-muodossa, mutta dokumentin URL palauttaa 404-virheen automatisoitua pääsyä yritettäessä. Lainmukainen hinnoittelusta kertova tieto todennäköisesti näkyy oikean selaimen kautta, mutta sitä ei voitu vahvistaa käytettävissä olevien välineiden avulla.",
+  "evidence": {
+    "palveluhinnasto_julkinen": "HAVAINTO: Palveluhinnasto-PDF (Palveluhinnasto_FI_HA_pankkipalvelut_01.04.2025.pdf) on dokumentoitu ja tunnettu, mutta URL palauttaa HTTP 404 HTML-virhesivun automatisoituun pyyntöön. Sivusto vaatii JavaScript-renderöintiä ja selaimen evästeitä.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötilin ja pankkikortin maksut eivät ole näkyvissä staattisen HTML:n kautta. Sivuston sisältö vaatii JavaScript-renderöintiä ja selaimen kautta tapahtuvaa pääsyä, jota ei voitu suorittaa turvakieltoja johtuen.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Yleiset sopimusehdot eivät ole näkyvissä avoimen pääsyn kautta. Sivusto on JavaScript-pohjainen ja vaatii interaktiivista selaimia.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Konttoreiden ja aukioloaikojen tieto on todennäköisesti saatavilla op.fi:llä, mutta sitä ei voitu hakea automatisoitujen työkalujen kautta johtuen sivuston bot-suojauksesta.",
+    "y_tunnus_esilla": "HAVAINTO: OP Osuuskunta, Y-tunnus 0242522-1 on dokumentoitu ja julkisesti tunnettu tieto, vahvistettavissa Yritys- ja organisaatiorekisteristä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinyhteystiedot eivät ole näkyvissä staattisen pääsyn kautta. Sivusto vaatii selainta ja JavaScript-renderöintiä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteita ei ole näkyvissä automatisoitua pääsyä käytettäessä. Sivusto on suojattu ja vaatii interaktiivista pääsyä.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei voida vahvistaa automatisoitujen haun kautta, sillä sivusto vaatii JavaScript-renderöintiä.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat eivät ole näkyvissä staattisen HTML-pyynnön vastausissa johtuen sivuston JavaScript-pohjaisen arkkitehtuurin ja bot-suojauksen yhdistelmästä.",
+    "ukk_osio": "HAVAINTO: FAQ/kysymys-vastaus -osio ei ole näkyvissä automatisoitujen työkalujen pääsyn kautta, vaikka se on todennäköisesti olemassa selaimen kautta käyttäjille.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellus (OP mobiili) on todennäköisesti mainittu sivustolla, mutta mainintaa ei voitu vahvistaa automatisoitujen pyyntöjen kautta johtuen bot-suojauksesta."
+  }
+}

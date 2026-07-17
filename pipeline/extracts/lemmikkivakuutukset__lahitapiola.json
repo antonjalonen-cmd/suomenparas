@@ -1,0 +1,53 @@
+{
+  "slug": "lahitapiola",
+  "fetched_ok": [
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/elainvakuutukset/",
+    "https://www.lahitapiola.fi/henkilo/vakuutukset/elainvakuutukset/koiravakuutus/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatto_kerrottu": "kylla",
+  "rotu_ja_ikarajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "elaimet": [
+    "koira",
+    "kissa",
+    "hevonen",
+    "muut eläimet"
+  ],
+  "korvauskatto_eur_vuosi": 4000,
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Joustavat vakuutusturvavaihtoehdot enimmäiskorvausmäärällä 2000–4000 € omien tarpeiden mukaan",
+    "Maksuton LemmikkiHelppi-mobiilisovellus, josta saa etäeläinlääkärin palvelut päivittäin",
+    "Suorakorvauspalvelu eläinklinikoissa tekee korvauskäsittelyn vaivattomaksi"
+  ],
+  "kehityskohteet": [
+    "Konkreettiset vakuutusmaksut eivät näy tuotesivulla, hinnan tarkistus vaatii laskuria",
+    "Puhelinnumero ja sähköpostiosoite eivät ole saatavilla lemmikkivakuutussivuilta",
+    "Aukioloajat ja suora yhteydenottotapa puuttuvat pet insurance -sivuilta"
+  ],
+  "yhteenveto": "LähiTapiola tarjoaa räätälöitävää lemmikkivakuutusta koirille, kissoille, hevosille ja muille eläimille joustavilla enimmäiskorvausvaihtoehdoilla. Sivusto sisältää kattavat tiedot vakuutusturvista, välittää etäeläinlääkäripalveluita LemmikkiHelpi-sovelluksen kautta ja tarjoaa suorakorvauspalvelua. Konkreettiset vakuutusmaksut ja yksityiskohtaiset yhteystiedot edellyttävät navigointia muille sivuille.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla on 'Hae hinta ja osta' -painike, mutta laskurin saavutettavuudesta ilman henkilötietoja ei voida varmistua pääsivulla olevan tekstin perusteella.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Koiravakuutussivulla listataan 'Vakuutusehdot (pdf)' linkkeinä download-osiossa.",
+    "korvauskatto_kerrottu": "HAVAINTO: Eläinlääkärikuluvakuutukselle mainitaan selvästi 'Enimmäiskorvausmääräksi voit valita 2 000, 3 000 tai 4 000 € yhtä vakuutuskautta kohti'.",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: Sivulla kerrotaan ikärajat '5 viikkoa–7 vuotta' ja terminaatioikä '8 tai 10-vuotiaana rodusta riippuen'. Hoitoturva Plus -lisäturvalle '5 viikkoa–4 vuotta'.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomien arviointien tai audit-raporttien mainintaa ei löydy lemmikkivakuutussivuilta.",
+    "chat_mainittu": "HAVAINTO: Sivun alatunnisteessa mainitaan 'Chat-sovellus' kontaktointikeinönä.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainittu lemmikkivakuutuksen tuotesivulla. Kontaktisivulle navigointi vaaditaan.",
+    "ukk_osio": "HAVAINTO: Koiravakuutussivulla on laaja 'Usein kysyttyä koiravakuutuksesta' -osio, jossa vastattavat 15+ kysymystä.",
+    "mobiilisovellus": "HAVAINTO: Sivuilla mainitaan 'Maksuton LemmikkiHelppi-sovellus, jonka kautta saat käyttöösi etäeläinlääkärin palvelut joka päivä'."
+  }
+}

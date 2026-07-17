@@ -1,0 +1,51 @@
+{
+  "slug": "fennia",
+  "fetched_ok": [
+    "https://www.fennia.fi/ajoneuvot/autovakuutus"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "ei",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "kaskotasot": [
+    "Premiumkasko",
+    "Laaja Fenniakasko",
+    "Fenniakaskon osakasko"
+  ],
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 68,
+    "sisallon_kattavuus": 66
+  },
+  "vahvuudet": [
+    "Selkeä vertailutaulukko kaskoturvien välillä – kattaa kolarivakuutuksen, hirvi-, ilkivalta-, palo- ja varkausvakuutuksen sekä lisäturvallisuudet taulukkomuodossa",
+    "Laaja bonusjärjestelmän kuvaus sekä liikennevakuutukselle (maksimi 83 %) että kaskovakuutuksille (70 % + bonusturva heti), konkreettisilla prosenteilla",
+    "Kattava usein kysyttyjen kysymysten osio kahdeksalla kysymyksellä, joka vastaa tyypillisiin asiakaskysymyksiin hinnoittelusta, vakuutuksenmuutoksesta ja korvausoikeuksista"
+  ],
+  "kehityskohteet": [
+    "Omavastuun määrät (esim. 100 €, 250 €, 500 €) puuttuvat pääsivulta – asiakkaan pitää käydä hintalaskurissa tarkistamaan vaihtoehdot",
+    "Yhteystiedot (puhelin, sähköposti) eivät ole näkyvillä pääsivulla, vaikka 'Yhteystiedot'-linkkejä mainitaan navigaatiossa",
+    "Y-tunnus ja aukioloajat puuttuvat kokonaan – heikentää yrityksen avoimuutta ja luotettavuuden vaikutelmaa"
+  ],
+  "yhteenveto": "Fennia esittelee autovakuutuksensa selkein vertailutaulukoin ja kattavasti kuvatulla bonusjärjestelmällä. Sivustolla on hintalaskuri ja laaja usein kysyttyjen kysymysten osio. Perusyhteystiedot, omavastuun määrät ja Y-tunnus puuttuvat pääsivulta, mikä heikentää läpinäkyvyyttä.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla useita 'Laske hinta ja osta'-linkkejä ja 'Vakuutuslaskuri'-osio mainitaan, mutta laskurin varsinaista lomaketta ja sen tietopyyntöjä ei näy staattisessa HTML:ssä – henkilötunnuksen tai yhteystietojen vaatimisesta ei voida varmistua.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Selkeä 'Tuote-esite ja vakuutusehdot' -osio tarjoaa linkit: 'Esite - Fennian ajoneuvovakuutukset', 'Vakuutusehdot - Fenniakasko' ja 'Vakuutusehdot - Liikennevakuutus'. Sivulla kerrotaan, että linkkien kautta löytyvät myös tulostettavat PDF-versiot.",
+    "omavastuu_selkeasti": "HAVAINTO: Termiä 'omavastuun määrä' mainitaan FAQ:ssa ja vakuutuksen kuvailussa, mutta konkreettisia eurossa ilmaistuja omavastuun määriä (esim. 100 €, 250 € tai 500 €) ei löydy pääsivulta.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: Laaja 'Liikenne- ja kaskovakuutuksen bonukset' -osio selittää yksityiskohtaisesti bonusjärjestelmän. Liikennevakuutukselle maksimibonukseksi mainitaan 83 %, 30+ vuotiaille tarjotaan 64 % lähtöbonusta. Kaskovakuutuksiin sisältyy 70 % maksimibonukset ja bonusturva, joka suojaa ensimmäistä kolarivahinkoa.",
+    "kaskotasot_vertailtavissa": "HAVAINTO: 'Vakuutuksen kattavuus' -osio esittää selkeän vertailutaulukon kolmella sarakkeella: Premiumkasko, Laaja Fenniakasko ja Fenniakaskon osakasko. Taulukossa listataan kaikki vakuutusturvallisuudet (kolarivakuutus, hirvivahinko, ilkivalta jne.) ja niiden sisältyminen kunkin tason pakettiin.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei esiinny pääsivun sisällössä.",
+    "puhelin_esilla": "HAVAINTO: 'Yhteystiedot henkilöasiakkaille' -linkkejä mainitaan navigaatiossa, mutta varsinaisia puhelinnumeroita ei näy pääsivun sisällössä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy pääsivun sisällössä.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä autovakuutuksesta' -osio sisältää kahdeksan kysymystä ja vastausta aiheista kuten 'Mikä on halvin autovakuutus?', 'Mihin hinnat perustuvat?', 'Miten vaihdan vakuutukset?', ja 'Miten vakuutan leasingauton?'."
+  }
+}

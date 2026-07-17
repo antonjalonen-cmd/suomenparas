@@ -132,3 +132,68 @@ starting two badly.
 - Measurement date is per-vertical. Never relabel an old category with today's date.
 - Agents can stall silently: detect by MISSING FILES, not by waiting for a notification.
   If one stalls, relaunch — but the original may wake later and overwrite; check `git diff`.
+
+---
+
+## BATCH 2 — BUILT 17.7.2026 (late: the 19:45 slot never fired, app was closed)
+
+Shipped **5 of 6** queued categories, all measured 17.7.2026, 6 companies each:
+`kulutusluotot`, `autovakuutukset`, `kotivakuutukset`, `matkavakuutukset`, `lemmikkivakuutukset`.
+
+**`pikavipit` → SWAPPED to `kulutusluotot`.** The 1.10.2023 rate cap (viitekorko + 15 pp,
+max 20 %) killed the classic pikavippi; survivors lengthened into ordinary multi-year
+consumer credit or died. A "pikavipit" ranking would rank a product that no longer exists.
+`kulutusluotot` is also cleanly distinct from `lainavertailu` (brokers vs lenders).
+
+**`pankkien-asiakaspalvelu` → renamed `pankit`, then NOT BUILT.** Renamed because a website
+cannot measure service quality, only fee/contact transparency. Not built because **OP cannot
+be measured** (see below) and "Suomen paras pankki" without OP is a false headline. Config for
+all 9 banks is complete in companies.py — it only needs a JS-capable fetch path.
+
+### The blocker to fix before batch 3: no JavaScript-capable fetch
+
+`op.fi` renders everything via JS. curl gets HTTP 200 / 225 kB but only ~900 chars of text
+(a login shell); WebFetch is refused; the browser pane blocks the domain by policy. Lighthouse
+(real Chrome) renders it fine — so the digital pillar works and the other three do not.
+This cost us **OP** (whole `pankit` category) and **Pohjola Vakuutus** (excluded from all four
+insurance lines). Both are disclosed on-page. Fixing this unblocks ~10 companies.
+
+**KNOWN DEFECT to fix:** the live `vakuutukset` category (16.7.2026) contains a Pohjola row
+whose extract has `fetched_ok=null` and scores everything "behind login" — almost certainly this
+same error, already published. NOT silently rewritten (the methodology page promises no
+retroactive edits). Re-measure with a JS fetch and re-date.
+
+### New guardrail — agents confabulate when a fetch fails
+
+Five agents invented a redirect to another company in the same list rather than report a failed
+fetch: "risicum.fi → saldo.com", "resursbank.fi → tfbank.fi → saldo.com", "pohjantahti.fi →
+fennia.fi", "omasp.fi → Danske Bank", "lahitapiola.fi unreachable". **All false; all HTTP 200.**
+Two went on to describe the competitor's site in the wrong company's file. One returned 0/0/0
+ai_arviot for a 21 kB page it claimed was unreachable, which would have published a 50.3 score.
+
+Now mandatory before `build_vertical.py`:
+```
+python pipeline/check_extracts.py <vertical> ...
+```
+It fails an extract that never loaded its own domain, names a competitor's domain, leaves a
+scored field null, returns 0/0/0 ai_arviot, or writes placeholder findings.
+`pipeline/fetch_page.py` gives agents a fetch that actually works — hand it to every agent.
+
+### Best catch of the batch — read the body, not the headline
+
+**Risicum was nearly published.** Its research agent reported it "live, selling Joustolaina at
+19.90 %". risicum.fi returns HTTP 200 under the headline "Laina arkielämään 10 000 euroon asti."
+The body says: *"Uusia nostoja Risicum Joustolainoille ei myönnetä 1.10.2023 alkaen"* — it
+stopped lending the day the cap landed — and *"puhelinasiakaspalvelu on päättynyt 30.9.2024"*.
+A run-off billing page with stale advertising on it. **A live domain + a product headline is not
+evidence a company still sells.** Add this to the Väre/Säästöpankki/Netplaza list.
+
+## BATCH 3 — NOT BUILT (17.7.2026)
+
+Not started. Batch 2 ran ~8 h late (its 19:45 window was missed) and consumed the session:
+44 Lighthouse runs plus ~60 extraction agents, of which ~10 needed relaunching after the
+confabulation problem above was found and fixed. Batch 3 needs full brand verification for six
+fresh categories — Elixia/SATS and Diacor/Terveystalo are exactly the quiet-merger traps this
+pipeline keeps finding, and rushing that is how a dead brand gets published. It is queued, not
+abandoned. Do the JS-fetch fix first: `yksityislaakarit` and `kuntosalit` will hit the same
+JS-rendered chain sites that just cost us OP.

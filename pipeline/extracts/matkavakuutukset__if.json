@@ -1,0 +1,50 @@
+{
+  "slug": "if",
+  "fetched_ok": [
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/matkavakuutus",
+    "https://www.if.fi/henkiloasiakkaat/asiakaspalvelu"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatot_kerrottu": "kylla",
+  "rajoitukset_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "omavastuu_min_eur": 0,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattava matkavakuutustuote, joka sisältää sairauden ja tapaturman hoidon ilman ylärajaa",
+    "24/7 matka-apupalvelu puhelimitse kaiken aikaa",
+    "Ehdot ja ohjeet saatavilla PDF-muodossa verkkosivuilla"
+  ],
+  "kehityskohteet": [
+    "Hintaa voi laskea vain verkkokauppaan siirtymällä, ei suoraan produktisivulla",
+    "Y-tunnus ja yrityksen rekisteröintitiedot eivät näy asiakkaalle",
+    "Rajoituksia (ikä, lajit) ei selkeästi kerrottu produktisivulla"
+  ],
+  "yhteenveto": "Ifin matkavakuutus on kattava tuote, joka tarjoaa hyvän suojan sairastumisiin ja tapaturmiin ilman omavastuuta. Verkkosivut ovat selkeät ja päivitetyt, mutta hintavertailu vaatii siirtymisen erilliseen verkkokauppaan. Yhteystiedot ovat saatavilla, mutta Y-tunnus puuttuu.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Verkkosivulla on 'Laske hinta' -painike, joka ohjaa verkkokauppaan. Staattisella sivulla ei näy konkreettisia eurohintoja. Laskuri saattaa vaatia henkilötietoja - tätä ei voitu varmentaa ilman kalkulaattorin läpikäyntiä.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivulla on 'Ehdot ja oppaat' -osio, jossa linkitään PDF-ehtoihin: Matkavakuutusehdot, Matkavastuuehdot, Matkatavaraehdot, Matkan oikeusturvavakuutusehdot.",
+    "korvauskatot_kerrottu": "HAVAINTO: Sivulla mainitaan 'Korvaamme matkan peruuntumisen kustannuksia 5 000 euroon saakka' ja 'Korvaamme etukäteen maksettuja tai ylimääräisiä matka- ja majoituskuluja 5 000 euroon saakka'. Sairauden hoitokulut korvataan ilman ylärajaa.",
+    "rajoitukset_kerrottu": "HAVAINTO: Sivulla mainitaan 'Matkavakuutus kattaa sinut itsesi ja mukanasi matkustavat alle 20-vuotiaat lapsesi', mutta muita rajoituksia (riskimaat, urheilulajit, eläkkeet) ei mainita tuotesivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy tuotesivulla eikä asiakaspalvelusivulla.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei ole riippumattomia auditointeja tai arvioita tuotteen sisällöstä.",
+    "puhelin_esilla": "HAVAINTO: 'Ifin matkavakuutusasiakkailla apu on aina yhden puhelinsoiton päässä' -maininta sivulla. Asiakaspalvelusivulla viitataan puhelin-yhteydenottovaihtoehtoihin.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla suoraan, mutta asiakaspalvelusivulla on viittauksia sähköpostiyhteyteen (osittain).",
+    "chat_mainittu": "HAVAINTO: Ei selvää mainintaa chatti-tuesta tuotesivulla, mutta asiakaspalvelusivulla voidaan olettaa olevan chat-vaihtoehto (osittain).",
+    "aukioloajat_esilla": "HAVAINTO: '24/7 matka-apu' mainitaan, mutta aukioloajat asiakaspalvelulle eivät ole selkeästi näkyvissä tuotesivulla (osittain).",
+    "ukk_osio": "HAVAINTO: Sivulla on linkki 'Usein kysytyt kysymykset' -osioon.",
+    "omavastuu_min_eur": "HAVAINTO: 'Omavastuu aina 0 € ja hoitokulut korvataan ilman ylärajaa' -maininta sivulla."
+  }
+}

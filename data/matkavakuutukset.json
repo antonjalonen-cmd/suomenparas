@@ -1,0 +1,1350 @@
+{
+ "slug": "matkavakuutukset",
+ "nimi": "Matkavakuutukset",
+ "nav": "Matkavakuutus",
+ "h1": "Suomen paras matkavakuutus 2026",
+ "yksikko": "vahinkovakuutusyhtiötä",
+ "lead": "Pisteytimme {n} vakuutusyhtiön matkavakuutussivut {m} mittarilla. Tärkein kysymys: näkyykö hinta ennen kuin luovutat tietosi?",
+ "meta_title": "Suomen paras matkavakuutus 2026 — vakuutusyhtiöt pisteytettynä | Suomen Paras",
+ "meta_desc": "6 vakuutusyhtiön matkavakuutussivut pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä.",
+  "<b>Mittaamme matkavakuutussivun, emme yhtiötä.</b> Jokainen yhtiö on pisteytetty sen omalla matkavakuutussivulla — ei etusivulla. Siksi saman yhtiön pisteet voivat poiketa auto-, koti- ja lemmikkivakuutusvertailuista. Yleisempi vertailu on <a href=\"/vakuutukset/\">Vakuutukset</a>-sivulla.",
+  "<b>Rajoitukset ratkaisevat matkavakuutuksessa.</b> Urheilulajien rajaukset, ikärajat, riskimaat ja jo olemassa olevat sairaudet ovat juuri ne kohdat, joista korvauskiistat syntyvät — ja ne löytyvät vain ehdoista. Siksi mittaamme erikseen, kerrotaanko korvauskatot ja rajoitukset julkisesti. <b>Emme kerro riittääkö eurooppalainen sairaanhoitokortti</b> matkallesi; tarkista turva aina ehdoista ennen matkaa.",
+  "<b>Omistus:</b> POP Vakuutus on 70-prosenttisesti LähiTapiolan omistama; LähiTapiola, Fennia, Turva ja Pohjantähti ovat keskinäisiä. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "fennia",
+   "nimi": "Fennia",
+   "domain": "fennia.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0196826-7",
+   "rekisteroity": 1978,
+   "score": 81.9,
+   "pillars": {
+    "digitaalinen": 85.8,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 78.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "66/100",
+       "paino": 40,
+       "pisteet": 66,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla on hintalaskuri-linkki (https://osto.fennia.fi/jatkuvamatka/ika), jonka nimellä 'Laske hinta ja osta', mutta laskuri vaatii henkilötunnuksen ennen kuin se näyttää euromääräiset hinnat. Vakuutusmaksu määräytyy tuotteen mukaan: 'Vakuutusmaksun määräytyminen vakuutusturvan laajuuden ja valittujen vakuutusmäärien perusteella'."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuote-esite ja vakuutusehdot ovat saatavilla suoraan verkkosivulta linkkeillä: 'Esite - Matkavakuutukset', 'Vakuutusehdot - Fenniaturva: matkatavarat (F20-F100)', 'Vakuutusehdot - Fenniaturva: matkustaja (F400-F300', ja 'Vakuutusehdot - Fenniaturvan yleiset sopimusehdot'. Esite voidaan myös ladata PDF-muodossa."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkustajavakuutuksen tuotteessa kerrotaan: 'Matkustajavakuutus korvaa hoitokulut ilman euromääräistä ylärajaa.' Matkatavaravakuutukselle on määritelty korvauskatot: välttämättömyystarvikkeet enintään 1 500 euroa ('Korvauksen ylärajana on vakuutuskirjassa mainittu vakuutusmäärä, kuitenkin enintään 1 500 euroa'). Psykoterapia kriisitilanteissa on rajoitettu viiteen käyntiin."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutukseen liittyy lukuisia rajoituksia: matkustajavakuutus ei korvaa 'sairaudesta, jonka oireita on ilmennyt ennen matkan alkamista', alkoholi- ja huumausaineista aiheutuvia tapauksia, tai kuntoutus-/kylpylä-olosuhteista aiheutuvia hoitokuluja. Urheilurajoitukset ovat selkeästi määritelty: jotkut vaarallisten lajien (lentourheilu, salamäkiretkeet jäätiköillä) harrastaminen vaatii lisäsopimusta, ja jotkut lajit (amerikkalainen jalkapallo, rugby) eivät ole lainkaan vakuutettuja. Matkatavaravakuutus ei korvaa unohtuneita tai kadonneet tavaroita, tai käytössä rikkoutunutta urheiluvälineistöä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus on näkyvissä sivustolla: 'Keskinäinen Vakuutusyhtiö Fennia, Y-tunnus 0196826-7'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuote-esitteessä mainitaan riippumattomia palveluja: 'FINEn Vakuutus- ja rahoitusneuvonta antaa maksutta riippumattomia neuvoja ja opastusta asiakkaille' (www.fine.fi) ja 'Kuluttaja voi pyytää erimielisyyksissä neuvoa kuluttajariitalautakunnalta' (www.kuluttajariita.fi)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero on näkyvissä yhteystiedot-sivulla: 'Soita suomeksi 010 503 8808', aukioloajat 'ma–pe klo 9–16.30'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Säännöllinen sähköposti-yhteydenotto on estetty turvallisuussyistä: 'Tietoturvasyistä meille Fenniaan ei voi lähettää tavallista sähköpostia vakuutus- tai korvausasioissa.' Asiakkaat ohjeistetaan käyttämään Oma Fennia -palvelua viestintään. Yleiset edunvalvojat voivat ottaa yhteyttä osoitteeseen edunvalvonta@fennia.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu on mainittu kontaktikanavana: 'Oma Fennian chat' on saatavilla 'ma–pe klo 9–16.30'. Lisäksi verkkosivuilla on chat-painike: 'Hei, onko sinulla kysyttävää? Kysy rohkeasti.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat ovat näkyvissä yhteystiedot-sivulla: Vakuutusten osto ja asiakastietojen päivitys 'ma–pe klo 9–16.30', vahinko- ja korvausasiat 'ma–pe klo 9–16'. Chat-palvelu 'ma–pe klo 9–16.30'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä matkavakuutuksesta' -osio on olemassa tuotesivulla ja sisältää kysymyksiä kuten 'Mikä vaikuttaa matkavakuutuksen hintaan?', 'Kannattaako valita jatkuva vai määräaikainen matkavakuutus?', 'Miten matkavakuutus toimii kotimaan matkoilla?', 'Tarvitseeko lapsi oman matkavakuutuksen?'"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei ole mainittu tuote-esitteessä tai pääsivulla. Yhteys asiakkaisiin tapahtuu verkkosivuston kautta, Oma Fennia -palvelun kautta tai puhelimitse."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 66,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 2381.667,
+    "cls": 0.00690949302333135,
+    "tbt_ms": 1782.5
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava matkustajavakuutus ilman korvauskatoa sairaus- ja tapaturmakuluille",
+    "Selkeä tuote-esite ja vakuutusehdot saatavilla suoraan verkkosivuilla",
+    "Helppokäyttöinen hintalaskuri ja laaja palvelupaketti (Reissuapu 24h, FenniaHoitaja)"
+   ],
+   "kehityskohteet": [
+    "Hintalaskuri vaatii henkilötunnuksen ennen kuin näyttää konkreettiset hinnat",
+    "Sähköposti-yhteydenotto estetty turvallisuusperusteista — asiakkaiden on käytettävä Oma Fennia -palvelua",
+    "Vakuutuksen pitkät rajoitukset urheilulajien osalta eivät ole korostettu pääsivulla"
+   ],
+   "yhteenveto": "Fennia tarjoaa kattavaa matkavakuutusta, jonka päätuotteena on matkustajavakuutus ilman korvauskatoa sairauden ja tapaturman hoitokuluille. Verkkosivusto on informatiivinen ja tarjoaa yksityiskohtaiset vakuutusehdot sekä tuote-esitteen, mutta hintatiedot saavutetaan vasta hintalaskurin kautta, joka vaatii henkilötunnuksen. Yritystä valvoo Finanssivalvonta ja se tarjoaa asiakaspalvelua puhelimitse ja chatissa arkisin 9-16:30 välisenä aikana."
+  },
+  {
+   "slug": "lahitapiola",
+   "nimi": "LähiTapiola",
+   "domain": "lahitapiola.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211034-2",
+   "rekisteroity": 1978,
+   "score": 72.0,
+   "pillars": {
+    "digitaalinen": 67.8,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 76.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on 'Laske hinta ja osta nyt' -painike, joka johtaa hintakalkuli laskuriin. Kalkuli laskuria ei voitu aktiivisesti käyttää, mutta sen sisältämät tiedot -vaatimukset eivät olleet näkyvissä ilman laskurin avaamista."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on linkit seuraaviin PDF-dokumentteihin: Tuoteseloste, Raskausajan turvan tuoteseloste, Vakuutuksen avaintiedot (IPID), Vakuutusehdot ja Yleiset sopimusehdot."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla esitetään korvauskatot taulukoidussa muodossa. Esimerkkejä: pysyvä haitta 100 000-200 000 EUR, tapaturmainen kuolema esim. 5 000 EUR, matkasairaus 'ilman euromääräistä ylärajaa'."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla kuvataan urheilun rajoituksia (alle 18-vuotiaat voivat harrastaa ilman rajoituksia), ikärajoja (0-79-vuotiaat), sairauden ja tapaturman määritelmiä sekä kattavuuden ehtoja."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä tuotesivulla pääsisällössä. Se saattaa olla yhteystiedot-sivulla tai alatunnistealueella."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkahätäpalvelun puhelinnumero '+358 800 04531' on selkeästi näkyvissä sivulla. 'Matkahätäpalvelumme auttaa ulkomaan matkavahingoissa 24/7'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole suoraan näkyvissä tuotesivulla pääsisällössä. Sivulla on linkki 'Yhteystiedot', mutta sen sisältöä ei voitu vahvistaa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Chat-sovellus' alatunnistealueella, mutta sitä ei kuvattu yksityiskohtaisesti tuotesivun pääsisällössä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on laaja 'Usein kysyttyä matkavakuutuksesta' -osio, joka sisältää useita kysymys-vastaus -pareja. Kysymykset kattavat hinnoittelun, ostoajankohdan, lasten vakuuttamisen, korvaukset ja paljon muuta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Lataa LähiTapiola-sovellus' ja 'Lataa sovellus' -osio, sekä linkki 'Kirjaudu verkkopalveluun' omapalvelulle."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 11883.607355311584,
+    "cls": 0.00801457615777404,
+    "tbt_ms": 5753.000000000009
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava ja selkeä vakuutusturvan kuvaus taulukoissa, joissa esitetään kaikki korvaukset ja omavastuut",
+    "Laaja FAQ-osio vastaa yleisimpiin kysymyksiin matkavakuutuksesta ja kattaa myös erityistapauksia (raskaus, urheilumatkatapaturmat)",
+    "Omavastuu 0 € matkustaja- ja matkatavaravakuutukselle tekee tarjouksesta houkuttelevan"
+   ],
+   "kehityskohteet": [
+    "Hintakalkulator vaatii henkilötiedot eikä nopeaa arviota saa ilman yhteystietojen antamista",
+    "Y-tunnus ja juridinen yhtiötunnus eivät ole näkyvissä tuotesivulla vaan mahdollisesti vain alatunnistealueella",
+    "Asiakaspalvelun aukioloajat eivät ole näkyvissä tuotesivulla, saatavilla vain yhteystiedot-linkin kautta"
+   ],
+   "yhteenveto": "LähiTapiolan matkavakuutussivu esittelee tuotetta selkeästi ja kattavasti. Sivulla on yksityiskohtaiset vakuutusturvan kuvaukset, korvauskatot ja rajoitukset taulukoituina. FAQ-osio on laaja ja vastaa moniin käytännön kysymyksiin. Hintakalkulator on saatavilla, mutta vaatii henkilötietojen syöttämisen. Tuoteasiakirjat ovat PDF-muodossa saatavilla."
+  },
+  {
+   "slug": "if",
+   "nimi": "If",
+   "domain": "if.fi",
+   "omistaja": "Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)",
+   "y_tunnus": "1602149-8",
+   "rekisteroity": 2000,
+   "score": 66.7,
+   "pillars": {
+    "digitaalinen": 65.4,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla on 'Laske hinta' -painike, joka ohjaa verkkokauppaan. Staattisella sivulla ei näy konkreettisia eurohintoja. Laskuri saattaa vaatia henkilötietoja - tätä ei voitu varmentaa ilman kalkulaattorin läpikäyntiä."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on 'Ehdot ja oppaat' -osio, jossa linkitään PDF-ehtoihin: Matkavakuutusehdot, Matkavastuuehdot, Matkatavaraehdot, Matkan oikeusturvavakuutusehdot."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Korvaamme matkan peruuntumisen kustannuksia 5 000 euroon saakka' ja 'Korvaamme etukäteen maksettuja tai ylimääräisiä matka- ja majoituskuluja 5 000 euroon saakka'. Sairauden hoitokulut korvataan ilman ylärajaa."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Matkavakuutus kattaa sinut itsesi ja mukanasi matkustavat alle 20-vuotiaat lapsesi', mutta muita rajoituksia (riskimaat, urheilulajit, eläkkeet) ei mainita tuotesivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy tuotesivulla eikä asiakaspalvelusivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei ole riippumattomia auditointeja tai arvioita tuotteen sisällöstä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ifin matkavakuutusasiakkailla apu on aina yhden puhelinsoiton päässä' -maininta sivulla. Asiakaspalvelusivulla viitataan puhelin-yhteydenottovaihtoehtoihin."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla suoraan, mutta asiakaspalvelusivulla on viittauksia sähköpostiyhteyteen (osittain)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei selvää mainintaa chatti-tuesta tuotesivulla, mutta asiakaspalvelusivulla voidaan olettaa olevan chat-vaihtoehto (osittain)."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: '24/7 matka-apu' mainitaan, mutta aukioloajat asiakaspalvelulle eivät ole selkeästi näkyvissä tuotesivulla (osittain)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on linkki 'Usein kysytyt kysymykset' -osioon."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 8577.9365,
+    "cls": 0.010278365390314471,
+    "tbt_ms": 2620.499999999998
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava matkavakuutustuote, joka sisältää sairauden ja tapaturman hoidon ilman ylärajaa",
+    "24/7 matka-apupalvelu puhelimitse kaiken aikaa",
+    "Ehdot ja ohjeet saatavilla PDF-muodossa verkkosivuilla"
+   ],
+   "kehityskohteet": [
+    "Hintaa voi laskea vain verkkokauppaan siirtymällä, ei suoraan produktisivulla",
+    "Y-tunnus ja yrityksen rekisteröintitiedot eivät näy asiakkaalle",
+    "Rajoituksia (ikä, lajit) ei selkeästi kerrottu produktisivulla"
+   ],
+   "yhteenveto": "Ifin matkavakuutus on kattava tuote, joka tarjoaa hyvän suojan sairastumisiin ja tapaturmiin ilman omavastuuta. Verkkosivut ovat selkeät ja päivitetyt, mutta hintavertailu vaatii siirtymisen erilliseen verkkokauppaan. Yhteystiedot ovat saatavilla, mutta Y-tunnus puuttuu."
+  },
+  {
+   "slug": "popvakuutus",
+   "nimi": "POP Vakuutus",
+   "domain": "popvakuutus.fi",
+   "omistaja": "LähiTapiola 70 % / POP Pankki -ryhmä 30 % (Suomen Vahinkovakuutus Oy)",
+   "y_tunnus": "2432824-6",
+   "rekisteroity": 2011,
+   "score": 61.0,
+   "pillars": {
+    "digitaalinen": 79.5,
+    "lapinakyvyys": 42.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on linkkejä 'Laske hinta ja osta' -osioon, mutta laskuri ohjaa yhteydenottopyyntölomakkeeseen, joka vaatii henkilötunnusta tai puhelinnumeroa ja sähköpostia ennen kuin näyttää hintatietoja."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutusasiakirjat-osiossa on neljä PDF-linkkiä: Matkavakuutusehdot, tuoteseloste, yleiset sopimusehdot ja vakuutustietoasiakirjat."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on taulukko, joka kuvaa mitä matkavakuutus korvaa (matkasairaus, matkatapaturma, pysyvä haitta, kuolema, matkan peruuntuminen jne.), mutta konkreettisia euroja tai enimmäiskorvaussummia ei näy taulukossa."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan ikärajat (0–79-vuotiaille) ja erityiset olosuhteet kuten urheilun kattavuus, matkakohteiden turvallisuusvaatimukset ja ulkoministeriön varoitusalueet."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alaosassa mainitaan 'Vakuutukset myöntää Suomen Vahinkovakuutus Oy', mutta Y-tunnusta ei ole näkyvissä tuotesivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on linkki 'Yhteystiedot' ja Matkahätäpalvelu mainitaan päivystävän ympäri vuorokauden, jonka voi soittaa suomeksi, mutta konkreettista puhelinnumeroa tuotesivulla ei näy."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenottopyyntölomakkeella voi valita, että halutaan ottaa yhteyttä sähköpostitse, mutta konkreettista sähköpostiosoitetta tuotesivulla ei näy."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkahätäpalvelun mainitaan olevan käytettävissä 24/7, mutta normaalin asiakaspalvelun aukioloaikoja ei ilmoiteta tuotesivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on laaja 'Usein kysytty matkavakuutuksesta' -osio, joka käsittelee noin 10 kysymystä aioista kuten matkan peruuntuminen, ambulanssilehtiot ja urheilun kattavuus."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 6370.46975,
+    "cls": 0.1105005122419248,
+    "tbt_ms": 179.60575000000108
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Yksityiskohtainen tuotekuvaus kahdelle vakuutusosalle (matkustaja- ja matkatavaravakuutus), jossa kuvataan mitä kukin osio korvaa",
+    "Ilmainen omavastuu sekä matkustaja- että matkatavaravakuutuksessa",
+    "Laaja FAQ-osio, jossa käsitellään käytännön tilanteita kuten matkan peruuntuminen, urheilua ja ambulanssilehtoja"
+   ],
+   "kehityskohteet": [
+    "Hintaa ei voi laskea verkkosivuilla ilman yhteydenottopyyntöä, mikä hidastaa ostopäätöstä",
+    "Vakuutusehdoissa ei näy konkreettisia korvausrajoja euroissa taulukossa",
+    "Y-tunnus tai muut yritystiedot puuttuvat tuotesivulta; Suomen Vahinkovakuutus Oy mainitaan vain pieniä fontilla"
+   ],
+   "yhteenveto": "POP Vakuutus tarjoaa matkavakuutusta, joka jakautuu matkustaja- ja matkatavaravakuutukseen. Sivulla kuvataan kattavasti mitä vakuutus korvaa ja annetaan runsaasti esimerkkejä käytännön tilanteista. Hintatietoja ei kuitenkaan ole saatavilla ilman yhteydenottoa, ja konkreettisia korvausrajoja euroissa ei näy tuotesivulla."
+  },
+  {
+   "slug": "turva",
+   "nimi": "Turva",
+   "domain": "turva.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211695-5",
+   "rekisteroity": 1978,
+   "score": 59.2,
+   "pillars": {
+    "digitaalinen": 59.0,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 70.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "12/100",
+       "paino": 40,
+       "pisteet": 12,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näkyy useita \"Laske hinta ja osta\" -painikkeita, mutta konkreettisia hintoja ei näytetä ennen kalkulaattorin käyttöä. Ei voitu vahvistaa, vaatiiko laskin henkilötunnusta vai riittävätkö perustiedot."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: \"Vakuutusehdot ja oppaat\" -osio linkittää Avaintietoesite-, Vakuutusehdot-, Vakuutusopas- ja Yleiset sopimusehdot -dokumentteihin."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla esitetään selkeät taulukot korvausrajoista: Matkasairauden hoito max 120 päivää, tapaturmainen pysyvä haitta 100 000€ / 200 000€, kuolema 5 000€, urheiluturva ilman euromääräistä ylärajaa."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osio käsittelee rajoituksia: urheilulajien vaatima erillinen turva, ikärajat (vakuutus päättyy 100 vuotiaana), maantieteelliset rajoitukset (voimassa maailmanlaajuisesti Suomesta), kaiken kaikkiaan riittävä rajoitusten selostus."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy matkavakuutustuotesivulla tai asiakaspalvelun yleissivulla. Vaatii erillisen navigoinnin yritystietoihin."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei mainita riippumattomia auditointeja tai arvioita. Sitaatit ovat Turvan omasta asiakaspalautekyselystä (2025)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 12,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 11289.812390079953,
+    "cls": 1.9629651898705145,
+    "tbt_ms": 5015.000000000002
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava tietosisältö - kaikki vakuutustuotteet ja rajoitukset selostettu selkeissä taulukoissa",
+    "Laaja FAQ-osio vastaa asiakkaiden yleisimpiin kysymyksiin matkavakuutuksesta",
+    "TaskuTurva-mobiilisovellus ja chat-palvelu tuodaan esiin käteviksi asiointikanaviksi"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelu on piilotettu kalkulaattorin taakse - konkreettiset hintaesimerkit puuttuvat sivustolta",
+    "Yhteystiedot (puhelin, sähköposti) ja aukioloajat eivät näy tuoteselosteella, vaan vaativat erillisen navigoinnin",
+    "Y-tunnus puuttuu tuotesivulta kokonaan - vaatisi erillisen haun yhritystiedoista"
+   ],
+   "yhteenveto": "Turvan matkavakuutussivu esittelee vakuutuksen kattavuuden ja ehdot selkeästi taulukoiden avulla. Laaja FAQ-osio kattaa asiakkaiden yleisimmät kysymykset. Hintojen näkyvyyden heikentävät piiloksi sijoitettu laskin, ja kontaktitiedot sekä yhritystiedot vaativat erillisen haun."
+  },
+  {
+   "slug": "pohjantahti",
+   "nimi": "Pohjantähti",
+   "domain": "pohjantahti.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0146905-4",
+   "rekisteroity": 1978,
+   "score": 39.1,
+   "pillars": {
+    "digitaalinen": 79.2,
+    "lapinakyvyys": 25.0,
+    "tavoitettavuus": 7.5,
+    "ai_laatu": 31.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "61/100",
+       "paino": 40,
+       "pisteet": 61,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Selaimen välilehden otsikko näyttää \"Matkavakuutus | Pyydä tarjous, katso hinta ja osta\". \"Pyydä tarjous\" (request a quote) viittaa siihen, että välitöntä hintaa ei ole saatavissa ilman yhteydenottoa. Sivulla ei löytynyt instant-kalkulaattoria."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun sisältö latautuu dynaamisesti. Staattiset HTML-lukemiset eivät paljastanut suoria linkkejä vakuutusehtodokumentteihin matkavakuutussivulla, vaikka pohjantahti.fi tarjoaa yleisiä vakuutusasiakirjoja."
+      },
+      {
+       "mittari": "Korvauskatot (sairaus, matkatavara) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Korvauskatot ja -määrät eivät ole näkyvillä dynaamisesti ladattavan sivun staattisilta osiltaan."
+      },
+      {
+       "mittari": "Rajoitukset (urheilulajit, ikä, riskimaat) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutusrajoitukset (ikärajat, maaryhmät, ennakkosairaudet) eivät ole näkyvillä sivulla staattisen analyysin perusteella."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole näkyvillä matkavakuutussivulla. Altistunut vain yleinen \"Pohjantähti Keskinäinen Vakuutusyhtiö\" -nimike."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei mainita kolmannen osapuolen riippumattomia arvioita tai tutkimuksia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero ei ole näkyvillä matkavakuutussivulla. \"Ota yhteyttä\" -linkki johtaa yleiselle yhteydenotto-sivulle."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei mainita matkavakuutussivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivu sisältää yhteydenottopyyntölomakkeen, mutta UKK-osio on osittain saatavilla. Dynaaminen sisältö estää täyden analyysin."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "35/100",
+       "paino": 34,
+       "pisteet": 35,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 61,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 6883.781390000002,
+    "cls": 0,
+    "tbt_ms": 284.5
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Hinta-arviointia varten riittävät yhteydenottopyyntö- ja tarjoupyyntökanavat (puhelimitse/sähköpostitse)",
+    "Pohjantähden oma vakuutusyhtiö, ei välittäjä",
+    "Tuotteen saatavuus varmistettu pohjantahti.fi-domainissa"
+   ],
+   "kehityskohteet": [
+    "Ei instant-kalkulaattoria hintaa varten – vain \"Pyydä tarjous\" -menetelmä",
+    "Sivun sisältö latautuu dynaamisesti (JavaScript), staattinen näkymä puutteellinen",
+    "Yhteystiedot (puhelin/sähköposti) ja avoinna oloajat eivät näkyvillä tuotesivulla"
+   ],
+   "yhteenveto": "Pohjantähti tarjoaa matkavakuutusta ainoastaan \"Pyydä tarjous\" -menetelmällä, eikä julkaise instant-hintaa verkossa. Sivuston sisältö latautuu dynaamisesti JavaScript-teknologialla, mikä vaikeuttaa tietojen todentamista. Yhteydenottopyyntölomake on saatavilla, mutta yksityiskohtaiset vakuutusehdot ja korvauskriteerit eivät ole helposti löydettävissä matkavakuutussivulla."
+  }
+ ],
+ "updated": "17.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta esillä ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), korvauskatot (sairaus, matkatavara) kerrottu (15), rajoitukset (urheilulajit, ikä, riskimaat) kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

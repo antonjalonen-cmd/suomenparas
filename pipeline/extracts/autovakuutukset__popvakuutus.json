@@ -1,0 +1,57 @@
+{
+  "slug": "popvakuutus",
+  "fetched_ok": [
+    "https://www.popvakuutus.fi/vakuutukset/autovakuutus",
+    "https://www.popvakuutus.fi/yhteystiedot",
+    "https://www.popvakuutus.fi/yritys"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "osittain",
+  "y_tunnus_esilla": "ei",
+  "kaskotasot": [
+    "Liikennevakuutus",
+    "S-kasko",
+    "L-kasko",
+    "XL-kasko"
+  ],
+  "omavastuu_min_eur": 0,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Laaja kasko-vaihtoehdot (XL, L, S) ja selkeät kuvaukset kaikista vakuutusturista",
+    "Korkea liikennevakuutusbonusprosentti (jopa 83 %) ja kilometriperusteinen hinnoittelu",
+    "24/7 saatavilla oleva Oma Palvelu verkon kautta ja nopeasti tavoitettava asiakaspalvelu"
+  ],
+  "kehityskohteet": [
+    "Hintakalklaattorin käyttö vaatii henkilötunnuksen, mikä estää anonymiimin hintavertailun",
+    "Kasko-tasojen vertailu ei ole esitetty selkeässä sivukkaisessa vertailutaulukossa",
+    "Sähköpostiosoite ja Y-tunnus eivät ole julkisesti näkyvissä autovakuutussivulla"
+  ],
+  "yhteenveto": "POP Vakuutus on Suomen Vahinkovakuutus Oy:n markkinointinimi ja tarjoaa autovakuutusta neljällä tasolla (Liikennevakuutus, S-kasko, L-kasko, XL-kasko) selkein kuvauksin. Sivusto selittää kattavasti vakuutusturvantuotteita, mutta hintakalklaattori vaatii henkilötunnuksen ilmoittamisen. Asiakaspalvelu on saatavilla puhelimitse arkisin ja chat-palvelu päivittäin.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Hintalaskuri-lomakkeella on kolme pakollista kenttää: rekisterinumero, henkilötunnus (ppkkvv-XXXX) ja postinumero. Hinta-arviota ei voi saada ilman henkilötunnusta.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Vakuutusasiakirjat-osiossa on kuusi PDF-linkkiä: Ajoneuvovakuutuksen tuoteseloste, Liikennevakuutusehdot, Kaskovakuutusehdot, Yleiset sopimusehdot, Vakuutustietoasiakirja Liikennevakuutus ja Vakuutustietoasiakirja Kaskovakuutus.",
+    "omavastuu_selkeasti": "HAVAINTO: Omavastuu mainitaan joissain turvantuotteissa (esim. 'Lunastusturvan omavastuu on 0 euroa', 'Matkan jatkumisturvan omavastuu on 0 euroa', 'Lasiturvasta vähennetään omavastuu 150 €'), mutta kaikkien kasko-tasojen omavastuut eivät ole vertailutaulukossa.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: Sivulla mainitaan 'Liikennevakuutuksen bonus jopa 83 %' ja 'Suomen reiluimmasta bonuksesta liikennevakuutukseen'. Bonuksista on erillinen sivu linkissä 'Lue lisää bonuksista'.",
+    "kaskotasot_vertailtavissa": "HAVAINTO: Neljä kasko-tasoa mainitaan tekstissä (XL-kasko, L-kasko, S-kasko, Liikennevakuutus) ja erillisissä osioissa esim. 'Uuden auton vakuutus – XL-kasko' ja 'Kattava vakuutus – L-kasko', mutta vertailutaulukko puuttuu.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus tai yritysrekisterinumero ei näy autovakuutussivulla. Yritystiedot-sivulla mainitaan 'Suomen Vahinkovakuutus Oy' ja osoite, mutta Y-tunnusta ei ole.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla: Asiakaspalvelu 010 3910 391 (ark. 9-14:30), Myyntipalvelu 010 3910 391 (ark. 9-16:30), Korvauspalvelu 010 3910 394 (ark. 9-12), POP Hinauspalvelu 010 3910 395 (24/7).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt autovakuutussivulla tai yhteystiedot-sivulla. Asiakaspalveluun ohjataan puhelimitse, chatilla tai Oma Palvelun viestillä.",
+    "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Chat-palvelu' ja 'Chat palvelee sinua vakuutuksiin liittyvissä asioissa'. Sivun alareunassa on chat-kuplakuvake.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla: Asiakaspalvelu ark. 9-14:30, Myyntipalvelu ark. 9-16:30, Korvauspalvelu ark. 9-12, POP Hinauspalvelu 24/7.",
+    "ukk_osio": "HAVAINTO: Autovakuutussivulla on 'Usein kysyttyä' -osio jossa on 11 kysymystä: 'Haluan vaihtaa autovakuutukseni', 'Ostin uuden auton', 'Miten saan alennuksen', 'Mikä vaikuttaa hintaan', 'Missä autossa halvin vakuutus', 'Haluan lähteä ulkomaille', 'Miten poistan auton käytöstä', 'Katkeaako vakuutus', 'Miten saan tuontiautolle vakuutuksen', 'Millainen vakuutus sähköautolle', 'Voinko vakuuttaa museoauton', 'Miten vakuutan matkailuauton'.",
+    "mobiilisovellus": "HAVAINTO: Autovakuutussivulla ei mainita mobiilisovellusta. Oma Palvelu saatavilla verkkokaupan kautta 24/7, mutta erillisen mobiilisovelluksen saatavuudesta ei ole mainintaa."
+  }
+}

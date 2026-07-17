@@ -1,0 +1,50 @@
+{
+  "slug": "if",
+  "fetched_ok": [
+    "https://www.if.fi/henkiloasiakkaat/vakuutukset/autovakuutus"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "ei",
+  "vakuutusehdot_saatavilla": "kylla",
+  "omavastuu_selkeasti": "osittain",
+  "bonusjarjestelma_kerrottu": "kylla",
+  "kaskotasot_vertailtavissa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "kaskotasot": [
+    "Osakasko",
+    "Täyskasko"
+  ],
+  "omavastuu_min_eur": null,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Selkeät vakuutuskerrokset (osakasko/täyskasko) vertailutaulukoin esiteltynä",
+    "If Mobiili -sovellus ja monipuoliset digitaaliset palvelut saatavilla",
+    "Bonus-järjestelmä selkeästi kuvattu (jopa 80 % bonus heti ottaessa)"
+  ],
+  "kehityskohteet": [
+    "Hintakalkkaatori vaatii puhelinnumeron ennen hinnan näyttämistä – ei perusta-arvioita ilman yhteystietoja",
+    "Omavastuu-summat (euroomaarit) eivät ole näkyvissä pääsivulla, vaan jäävät ehdoista löydettäviksi",
+    "Y-tunnus ja lainmukaisten tietojen esille tuonti voisi olla näkyvämpää"
+  ],
+  "yhteenveto": "If tarjoaa selkeästi rakennetun autovakuutuspalvelun, jossa osakasko ja täyskasko on vertailtavissa sivukkain. Hintalaskuri on saatavilla, mutta vaatii puhelinnumeron hinnan näyttämiseksi. Vakuutusehdot löytyvät verkkosivuilta, mutta omavastuu-summat eivät ole pääsivulla näkyvissä.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Sivulla on \"Hae hinta ja osta\" -lomake, joka näyttää vaativan henkilötietoja (puhelinnumero mainitaan automaattisen päätöksenteon yhteydessä) ennen hinnan näyttämistä.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Sivulla on linkki vakuutusehdotuksiin – julkisesti ladattavat PDF-tiedostot löytyvät henkilöasiakkaiden vakuutusehtojen osiosta.",
+    "omavastuu_selkeasti": "HAVAINTO: Pääsivulla vertailutaulukossa ei näytetä omavastuu-summia euroeissa. Summat löytyvät vakuutusehdoista.",
+    "bonusjarjestelma_kerrottu": "HAVAINTO: Sivulla mainitaan selkeästi: \"saat heti 80 % bonuksen täyskaskoon\", mikä osoittaa aktiivista bonus-viestintää.",
+    "kaskotasot_vertailtavissa": "HAVAINTO: Sivulla on \"Mitä autovakuutus korvaa?\" -taulukko, joka vertaa \"Osakasko\" ja \"Täyskasko\" rinnakkain.",
+    "y_tunnus_esilla": "HAVAINTO: Sivun alatunnisteessa näkyy \"© If Vahinkovakuutus Oyj, Suomen sivuliike\", mutta varsinaista Y-tunnusta ei ole esillä.",
+    "puhelin_esilla": "HAVAINTO: Sivulla on asiakaspalvelulinkit, joissa puhelinnumero mainittakoon saatavilla.",
+    "chat_mainittu": "HAVAINTO: Sivun oikeassa alakulmassa näkyy chat-kuvake (viestipalvelu-ikon), joka viittaa asiakaspalvelu-chattiin.",
+    "mobiilisovellus": "HAVAINTO: Asiakaspalvelu-osiosta löytyy linkki \"If Mobiili\" -sovellukseen."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "turva",
+  "fetched_ok": [
+    "https://www.turva.fi/henkilo/vakuutukset/lemmikkivakuutus/",
+    "https://www.turva.fi/henkilo/vakuutukset/lemmikkivakuutus/koiravakuutus/",
+    "https://www.turva.fi/henkilo/vakuutukset/lemmikkivakuutus/kissavakuutus/",
+    "https://www.turva.fi/yhteystiedot/",
+    "https://www.turva.fi/henkilo/asiakaspalvelu/ota-yhteytta/",
+    "https://www.turva.fi/en/about-turva/"
+  ],
+  "hintalaskuri_ilman_yhteystietoja": "osittain",
+  "vakuutusehdot_saatavilla": "kylla",
+  "korvauskatto_kerrottu": "kylla",
+  "rotu_ja_ikarajat_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "elaimet": [
+    "koira",
+    "kissa"
+  ],
+  "korvauskatto_eur_vuosi": 4000,
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Kattavat vakuutusehdot ja selkeä tuoteseloste ladattavissa koira- ja kissavakuutuksen sivuilla",
+    "Laajasti saatavilla olevat korvausrajat (2000–4000 €/vuosi), jotka näkyvät ilman rekisteröintiä",
+    "Monikanavainen palveluverkko: puhelin ma–pe, chat, mobiilisovellus TaskuTurva ja toimistot ympäri Suomea"
+  ],
+  "kehityskohteet": [
+    "Hintalaskuri edellyttää arvauksella testattaessa ainakin osittaista tietojen antamista; ei ole varmaa, että saa arvion ilman yhteystietoja",
+    "Sähköpostiosoitetta ei näy missään; asiakaskontaktit rajattuja puhelimeen, chattiin ja verkkopalveluun",
+    "Hevonen ei kuulu lemmikkivakuutukseen; tuotevalikoima rajoittuneempi kuin joillakin kilpailijoilla"
+  ],
+  "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa koira- ja kissavakuutuksia eläinlääkärikulujen ja henkivakuutuksen varalta. Sivusto esittelee tuotteet selkeästi, tarjoaa ladattavat vakuutusehdot ja toimii monikanavaisesti; vuosittainen korvauskatto on jopa 4000 euroa. Puutteina ovat epävarmuus hintalaskurin suhteen (saako arvion ilman yhteystietoja) ja sähköpostiyhteyden puuttuminen.",
+  "evidence": {
+    "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Koira- ja kissavakuutuksen sivuilla näkyy painike 'Laske hinta ja osta', mutta staattisena haulla ei voida varmistaa, vaatiiko se henkilötunnusta tai yhteystietoja. Merkitty osittain, koska interaktiivinen testaus vaadittaisiin täyden vahvistuksen saamiseksi.",
+    "vakuutusehdot_saatavilla": "HAVAINTO: Molemmilla tuotesivuilla (koira- ja kissavakuutus) on 'Vakuutusehdot ja -oppaat' -osio, josta saa ladattavaksi avaintietoesite, vakuutusehdot, vakuutusopas ja yleiset sopimusehdot.",
+    "korvauskatto_kerrottu": "HAVAINTO: Koira- ja kissavakuutuksen sivuilla mainitaan selvästi, että eläinlääkärikuluvakuutuksen enimmäiskorvausmääräksi voidaan valita 2000, 3000 tai 4000 euroa. Korkein summa on 4000 € vuodessa.",
+    "rotu_ja_ikarajat_kerrottu": "HAVAINTO: Sivuilla kerrotaan, että vakuutus myönnetään vähintään 5 viikon ja alle 8-vuotiaalle koiralle tai kissalle. Mainitaan rotu-kohtaiset rajoitukset ja että Hoitoturva Plus -lisäturva myönnetään vain alle 5-vuotiaalle eläimelle.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0211695-5 löytyy Turvan About-sivulta, joka saatavilla englanniksi, mutta ei suomalaisena versiona. Turva Mutual Insurance Company on virallinen nimi.",
+    "riippumaton_arvio": "HAVAINTO: Lemmikkivakuutuksen pääsivulla mainitaan 'EPSI Rating 2025' ja väite, että 'Turva on paras vakuutusyhtiö – myös asiakkaidemme mielestä'. Tämä viittaa riippumattomaan asiakastyytyväisyysarvioitiin."
+  }
+}

@@ -233,7 +233,200 @@ COMPANIES = {
         dict(slug="hostaan", nimi="Hostaan", domain="hostaan.fi", y_tunnus="2950656-6",
              omistaja="Hostaan Oy — itsenäinen suomalainen (Kuopio, 2018)"),
     ],
+    # ---------------------------------------------------------------- batch 2
+    # CATEGORY SWAPPED 17.7.2026: the queue asked for "pikavipit". That category no
+    # longer describes a real market. The 1.10.2023 rate cap (viitekorko + 15 pp, max
+    # 20 %) made the classic short-term pikavippi unviable, and the brands either died
+    # or lengthened into ordinary multi-year kulutusluotto. Publishing a "pikavipit"
+    # ranking in 2026 would rank a product that no longer exists, so this is
+    # `kulutusluotot` instead. It is also cleanly distinct from `lainavertailu`:
+    # that page compares BROKERS, this one compares the LENDERS themselves.
+    #
+    # DEDUPED BY LEGAL ENTITY — brand count wildly overstates lender count here, which
+    # is exactly what this site exists to show:
+    #   Vippi.fi + Limiitti.fi  = Saldo Bank UAB Suomen sivuliike (3273394-6)
+    #
+    # RISICUM DROPPED 17.7.2026 — the best catch of this batch, and nearly missed. Its
+    # research agent reported it "live, selling Joustolaina at 19.90 %", and risicum.fi
+    # still returns HTTP 200 under the marketing title "Laina arkielämään 10 000 euroon
+    # asti. Laina tilillesi nyt." But the page body says:
+    #   "Uusia nostoja Risicum Joustolainoille ei myönnetä 1.10.2023 alkaen. Laskutus
+    #    jatkuu normaalisti, kunnes luotto on loppuun maksettu."
+    #   "Risicumin puhelinasiakaspalvelu on päättynyt 30.9.2024."
+    # It stopped granting new credit on the exact day the rate cap took effect and is now
+    # a run-off servicing page with stale advertising on top. A live domain and a loan
+    # headline are not evidence that a company still sells — read the body. (Its owner
+    # Aurajoki Nordic Oy 1998514-5 does still exist; the brand's aputoiminimet OK Money,
+    # iKassa and Suomen Pienlaina are the same entity and are not sold separately.)
+    #
+    # EXCLUDED — dead (verified 17.7.2026):
+    #   Euroloan (lender Mash Finance Oyj konkurssi 15.3.2021; euroloan.fi is now run by
+    #     Holla Online Oy 2672272-2, a PRH-classified ADVERTISING agency with no credit
+    #     business line and no "Euroloan" name registered — a zombie brand on the old
+    #     lender's domain), Credit24 (site itself says "olemme lopettaneet toimintamme
+    #     Suomessa"), Aasa (stopped direct lending 2019, now forwards to Omalaina;
+    #     aasa.fi does not resolve), Everyday/OPR-Vakuus/Ostosraha (no new credit since
+    #     the 2019 cap), Suomen Viestilaina (domain serves a dangling Azure wildcard
+    #     cert; no PRH match), Blue Finance (3105036-9 exists but its own site says
+    #     "kuluttajalainat ovat tauolla" — business loans only).
+    # EXCLUDED — not a lender: Fixura (2246639-7; own site calls it a marketplace
+    #   mediating loans from investors — P2P, not a balance-sheet lender), Halpalaina
+    #   and Nordic Finance (brokers → they belong in `lainavertailu`, not here).
+    # EXCLUDED — no verifiable Finnish registration (the honest gap, disclosed on the
+    #   page): Ferratum (its Finnish entity Multitude SE 1950969-1 DEREGISTERED 30.6.2024
+    #   — every name on the PRH record ends that day; the lender of record is now
+    #   Multitude Bank p.l.c., Malta), Instabank (2986430-4 returns NOT FOUND from PRH),
+    #   Bank Norwegian (2717751-9 NOT FOUND; now a NOBA Bank Group AB brand). All three
+    #   demonstrably sell to Finns cross-border under EU passporting — we exclude them
+    #   because we could not confirm them from the Finnish trade register, which is the
+    #   one standard we apply to everyone. Same rule that already excluded Instabank
+    #   from `luottokortit`.
+    "kulutusluotot": [
+        dict(slug="saldo", nimi="Saldo", domain="saldo.com", y_tunnus="3273394-6",
+             omistaja="Saldo Bank UAB (Liettua) — Suomen sivuliike; myös Vippi.fi ja Limiitti.fi",
+             valvoja="Liettuan keskuspankki (ECB-järjestelmä)"),
+        dict(slug="tfbank", nimi="TF Bank", domain="tfbank.fi", y_tunnus="3529515-2",
+             omistaja="TF Bank Nordic AB (Ruotsi) — Suomen sivuliike, rek. 23.4.2025",
+             valvoja="Finansinspektionen (Ruotsi)"),
+        dict(slug="resursbank", nimi="Resurs Bank", domain="resursbank.fi", y_tunnus="2110471-4",
+             omistaja="Resurs Bank AB (Ruotsi) — Suomen sivuliike",
+             valvoja="Finansinspektionen (Ruotsi)"),
+        dict(slug="northmill", nimi="Northmill", domain="northmill.com", y_tunnus="3166457-1",
+             omistaja="Northmill Bank AB (Ruotsi) — Suomen sivuliike; myös Easycredit ja Credigo",
+             valvoja="Finansinspektionen (Ruotsi)"),
+        dict(slug="svea", nimi="Svea", domain="svea.com", y_tunnus="3237195-7",
+             omistaja="Svea Bank AB (Ruotsi) — Suomen sivuliike",
+             valvoja="Finansinspektionen (Ruotsi)"),
+        dict(slug="santander", nimi="Santander Consumer Finance", domain="santanderconsumer.fi",
+             y_tunnus="2076455-0",
+             omistaja="Banco Santander (Espanja) — Santander Consumer Finance Oy on suomalainen yhtiö",
+             valvoja="Finanssivalvonta (Suomi)"),
+    ],
+    # ⚠️ NOT BUILT 17.7.2026 — config is complete and correct, but `data/pankit.json` is
+    # deliberately not generated, so the category stays dark. Reason: **OP cannot be
+    # measured.** op.fi renders everything via JavaScript and blocks every fetch path we
+    # have (WebFetch refused, browser pane blocked by policy, curl gets a ~900-character
+    # login shell). OP is roughly a third of Finnish retail banking and the first name any
+    # reader looks for. Publishing "Suomen paras pankki 2026" while silently omitting it
+    # would be a false headline, and publishing OP scored on what our crawler could not
+    # see would be a false score. Neither is shippable, so the category waits for a
+    # JS-capable fetch path. The other 8 banks verified fine — this is not wasted work.
+    # (Same root cause as the Pohjola exclusion below.)
+    #
+    # CATEGORY RENAMED 17.7.2026: the queue asked for "pankkien asiakaspalvelu". We
+    # measure a WEBSITE. Two banks with identical queue times would score differently
+    # here purely because one buries its hinnasto deeper — so calling the result
+    # "asiakaspalvelu" would promise something the method cannot deliver. The category
+    # is `pankit`, scored on fee and contact transparency, and the page says so.
+    #
+    # PANKKIRYHMÄT, ei yhtiöitä: Säästöpankki and POP Pankki are FEDERATIONS. The
+    # Y-tunnus below is the group's central cooperative — NOT a deposit-taking bank.
+    # Each member bank is its own company with its OWN hinnasto, which is itself the
+    # finding: you cannot get one price list for "Säästöpankki". Labelled on the page.
+    #
+    # EXCLUDED (verified 17.7.2026): Handelsbanken (retail exited — henkilöasiakkaiden
+    #   tili- ja maksupalvelut päättyivät 31.3.2025; retail sold to S-Pankki 1.12.2024,
+    #   SME to OmaSp 1.9.2024; no consumer onboarding), Bank Norwegian (2717751-9 NOT
+    #   FOUND in PRH; no käyttötili either), Svea (3237195-7 is real but sells only a
+    #   säästötili + credit — no everyday account, so not a comparable retail bank; it
+    #   is in `kulutusluotot` instead), Revolut + N26 (no Finnish entity in PRH,
+    #   cross-border only, no Finnish-language service), Säästöpankkien Keskuspankki
+    #   and Bonum Pankki (group central banks — no consumer customers, no public
+    #   retail hinnasto).
+    "pankit": [
+        dict(slug="op", nimi="OP", domain="op.fi", y_tunnus="0242522-1",
+             omistaja="OP Osuuskunta — noin 100 osuuspankkia, asiakasomisteinen",
+             pankkityyppi="Osuuspankkiryhmä"),
+        dict(slug="nordea", nimi="Nordea", domain="nordea.fi", y_tunnus="2858394-9",
+             omistaja="Nordea Bank Abp — pörssiyhtiö, pääkonttori Helsingissä",
+             pankkityyppi="Liikepankki"),
+        dict(slug="danske", nimi="Danske Bank", domain="danskebank.fi", y_tunnus="1078693-2",
+             omistaja="Danske Bank A/S (Tanska) — Suomen sivuliike",
+             pankkityyppi="Ulkomaisen pankin sivuliike"),
+        dict(slug="spankki", nimi="S-Pankki", domain="s-pankki.fi", y_tunnus="2557308-3",
+             omistaja="S-ryhmä (SOK ja alueosuuskaupat) — osti Handelsbankenin Suomen "
+                      "henkilöasiakkaat 1.12.2024",
+             pankkityyppi="Liikepankki"),
+        dict(slug="aktia", nimi="Aktia", domain="aktia.fi", y_tunnus="2181702-8",
+             omistaja="Aktia Bank Abp — pörssiyhtiö, ei määräysvaltaista omistajaa",
+             pankkityyppi="Liikepankki"),
+        dict(slug="omasp", nimi="Oma Säästöpankki", domain="omasp.fi", y_tunnus="2231936-2",
+             omistaja="Oma Säästöpankki Oyj — pörssiyhtiö; EI sama kuin Säästöpankkiryhmä",
+             pankkityyppi="Liikepankki"),
+        dict(slug="alandsbanken", nimi="Ålandsbanken", domain="alandsbanken.fi", y_tunnus="0145019-3",
+             omistaja="Ålandsbanken Abp — pörssiyhtiö (Ahvenanmaa; konttorit myös mantereella)",
+             pankkityyppi="Liikepankki"),
+        dict(slug="saastopankki", nimi="Säästöpankki", domain="saastopankki.fi", y_tunnus="0117011-6",
+             omistaja="Säästöpankkiliitto osk — keskusyhteisö, EI talletuspankki; "
+                      "ryhmässä on itsenäisiä säästöpankkeja omilla Y-tunnuksillaan",
+             pankkityyppi="Pankkiryhmä — ei yksi yhtiö"),
+        dict(slug="poppankki", nimi="POP Pankki", domain="poppankki.fi", y_tunnus="1090961-3",
+             omistaja="POP Pankkikeskus osk — keskusyhteisö, EI talletuspankki; "
+                      "ryhmässä on itsenäisiä osuuspankkeja omilla Y-tunnuksillaan",
+             pankkityyppi="Pankkiryhmä — ei yksi yhtiö"),
+    ],
 }
+
+# ---------------------------------------------------------------------------
+# The four insurance product lines reuse the SAME seven verified insurers as
+# `vakuutukset`, but each is measured on its OWN product page (URLs HTTP-checked
+# 17.7.2026, see targets.txt) — that is what makes them four categories and not
+# four copies. A consumer shops these products separately, and the transparency
+# answer genuinely differs per line: matkavakuutus tends to have a public price,
+# kotivakuutus hides behind a calculator.
+#
+# NOTE — Pohjola Vakuutus: pohjola.fi 301-redirects into op.fi. OP sells its
+# insurance on the bank's platform, so op.fi IS Pohjola's site and the domain is
+# recorded as op.fi rather than pretending pohjola.fi is a live destination.
+_INSURERS = {c["slug"]: c for c in COMPANIES["vakuutukset"]}
+
+
+def _insurer(slug, **over):
+    c = dict(_INSURERS[slug])
+    c.update(over)
+    return c
+
+
+# POHJOLA VAKUUTUS EXCLUDED from all four product lines (17.7.2026) — and this is a
+# measurement failure on OUR side, not a finding about OP. pohjola.fi redirects into
+# op.fi, and op.fi serves its entire product content via JavaScript: curl with a real
+# browser User-Agent gets HTTP 200 and 225 kB, but only ~900 characters of text — a
+# login/consent shell. WebFetch is refused outright and the browser pane blocks the
+# domain by policy. Lighthouse (real Chrome) CAN render it, so the digital pillar was
+# measurable, but the transparency and AI pillars were not.
+#
+# The choice was: publish Pohjola scored on what our crawler could not see, or leave it
+# out and say so. EXTRACTION_BRIEF is explicit that penalising a company for blocking a
+# crawler rather than for what it shows humans is a measurement error, not a finding —
+# so a score built from that would be exactly the falsifiable claim this project already
+# had to retract once. It is left out and the omission is stated on each page.
+#
+# KNOWN DEFECT, flagged for Anton: the already-live `vakuutukset` category (measured
+# 16.7.2026) DOES contain a Pohjola row whose extract has fetched_ok=null and records
+# everything as "behind login". That looks like this same error, published. It is NOT
+# silently rewritten here — the methodology page promises results are not changed
+# retroactively — but it should be re-measured with a JS-capable fetch and re-dated.
+for _line in ("autovakuutukset", "kotivakuutukset", "matkavakuutukset"):
+    COMPANIES[_line] = [
+        _insurer("if"), _insurer("lahitapiola"),
+        _insurer("fennia"), _insurer("turva"), _insurer("pohjantahti"),
+        _insurer("popvakuutus"),
+    ]
+
+# POP Vakuutus EXCLUDED from pet: verified 17.7.2026 that it sells no animal line at
+# all — not on the product listing, and a site-restricted search for lemmikki-/koira-/
+# kissa-/eläinvakuutus on popvakuutus.fi returns nothing. A real absence, not a gap.
+# Agria ADDED: the category's specialist, PRH-verified Finnish branch. NB agria.fi is
+# CAPTCHA-gated — per EXTRACTION_BRIEF a bot-blocked site must be scored "osittain",
+# never "ei". Barkibu excluded: sells into Finland via a German branch, no Finnish
+# registration. "Sneiku" and "Dogsdorf" excluded: no evidence either exists.
+COMPANIES["lemmikkivakuutukset"] = [
+    _insurer("if"), _insurer("lahitapiola"),
+    _insurer("fennia"), _insurer("turva"), _insurer("pohjantahti"),
+    dict(slug="agria", nimi="Agria", domain="agria.fi", y_tunnus="2744611-7",
+         omistaja="Försäkringsaktiebolaget Agria (publ) — Länsförsäkringar-ryhmä (Ruotsi), "
+                  "Suomen sivuliike rek. 5.2.2016"),
+]
 
 if __name__ == "__main__":
     # Slugs must be unique — a collision would overwrite a page.

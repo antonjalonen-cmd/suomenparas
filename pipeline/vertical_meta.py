@@ -238,4 +238,204 @@ META = {
              "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
         ],
     },
+    # ------------------------------------------------------------------ batch 2
+    "kulutusluotot": {
+        "slug": "kulutusluotot",
+        "nimi": "Kulutusluotot",
+        "nav": "Kulutusluotot",
+        "h1": "Suomen paras kulutusluotto 2026",
+        "yksikko": "kuluttajaluoton myöntäjää",
+        "lead": ("Pisteytimme {n} Suomessa toimivaa kuluttajaluoton myöntäjää {m} mittarilla. "
+                 "Tärkein kysymys: näkyykö todellinen vuosikorko julkisesti ennen hakemusta — "
+                 "ja kerrotaanko, kuka luoton oikeasti myöntää?"),
+        "meta_title": "Suomen paras kulutusluotto 2026 — luotonantajat pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} kuluttajaluoton myöntäjää pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Etsitkö pikavippejä?</b> Sellaista tuotetta ei käytännössä enää ole. "
+             "Kuluttajaluoton korkokatto (viitekorko + 15 prosenttiyksikköä, enintään 20 %) astui "
+             "voimaan 1.10.2023 ja teki lyhyestä, pienestä ja kalliista pikavipistä kannattamattoman. "
+             "Brändit joko lopettivat tai venyttivät tuotteensa tavalliseksi monivuotiseksi "
+             "kulutusluotoksi. Siksi tämä sivu vertailee kulutusluottoja — emme julkaise "
+             "&rdquo;parhaat pikavipit&rdquo; -listaa tuotteesta, jota ei enää myydä."),
+            ("<b>Brändejä on enemmän kuin luotonantajia.</b> <b>Vippi.fi ja Limiitti.fi ovat sama "
+             "yhtiö kuin Saldo</b> — Saldo Bank UAB Suomen sivuliike, Y-tunnus 3273394-6. Laskemme "
+             "jokaisen yhtiön kerran, emme jokaista brändiä: brändilistalta markkina näyttäisi "
+             "selvästi kilpaillummalta kuin se on."),
+            ("<b>Miksi Risicum puuttuu? Koska se ei enää myönnä lainaa — vaikka sivu näyttää siltä "
+             "että myöntää.</b> risicum.fi on pystyssä ja sen otsikko lupaa yhä &rdquo;Laina "
+             "arkielämään 10 000 euroon asti. Laina tilillesi nyt.&rdquo; Saman sivun leipätekstissä "
+             "lukee kuitenkin: <i>&rdquo;Uusia nostoja Risicum Joustolainoille ei myönnetä 1.10.2023 "
+             "alkaen&rdquo;</i> — eli täsmälleen siitä päivästä, jona korkokatto tuli voimaan — ja "
+             "<i>&rdquo;Risicumin puhelinasiakaspalvelu on päättynyt 30.9.2024&rdquo;</i>. Kyseessä "
+             "on vanhojen luottojen laskutussivu, jonka päällä on yhä vanha mainos. Elävä verkko-"
+             "osoite ja lainaotsikko eivät ole todiste siitä, että yhtiö myy. Sama koskee sen "
+             "aputoiminimiä <b>OK Money</b>, <b>iKassa</b> ja <b>Suomen Pienlaina</b> — kaikki ovat "
+             "samaa Aurajoki Nordic Oy:tä (1998514-5)."),
+            ("<b>Miksi Ferratum, Instabank ja Bank Norwegian puuttuvat?</b> Emme pystyneet "
+             "vahvistamaan niitä Suomen kaupparekisteristä. <b>Ferratumin suomalainen yhtiö "
+             "(Multitude SE) poistui rekisteristä 30.6.2024</b> ja luoton myöntää nykyään "
+             "maltalainen Multitude Bank p.l.c.; Instabankin ja Bank Norwegianin Y-tunnuksia ei "
+             "löydy PRH:n rajapinnasta lainkaan. Ne myyvät suomalaisille EU-passin turvin — mutta "
+             "sovellamme samaa vaatimusta kaikkiin. <b>Euroloan</b> on kuollut brändi: luotonantaja "
+             "Mash Finance meni konkurssiin 2021, ja euroloan.fi:tä pyörittää nykyään mainostoimisto "
+             "(Holla Online Oy) ilman luotonantotoimintaa. <b>Credit24</b> kertoo itse lopettaneensa "
+             "Suomessa, <b>Aasa</b> ei enää myönnä itse, ja <b>Blue Financen</b> kuluttajalainat "
+             "ovat tauolla. <b>Fixura</b> on vertaislaina-markkinapaikka, ei luotonantaja."),
+            ("<b>Emme anna talousneuvontaa emmekä suosittele luoton ottamista.</b> Vertailu kuvaa "
+             "luotonantajien julkisten verkkosivujen mitattavia ominaisuuksia — ei sitä, kannattaako "
+             "luottoa ottaa, eikä sitä kuka on halvin. Todellinen korko ja luottoraja ovat aina "
+             "henkilökohtaisia ja riippuvat luottokelpoisuudestasi. Tämä sivu ei välitä "
+             "luottohakemuksia. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+        ],
+    },
+    "pankit": {
+        "slug": "pankit",
+        "nimi": "Pankit",
+        "nav": "Pankit",
+        "h1": "Suomen paras pankki 2026",
+        "yksikko": "suomalaista vähittäispankkia",
+        "lead": ("Pisteytimme {n} suomalaista vähittäispankkia {m} mittarilla. Tärkein kysymys: "
+                 "saatko palveluhinnaston auki ilman kirjautumista — vai vasta kun olet jo asiakas?"),
+        "meta_title": "Suomen paras pankki 2026 — vähittäispankit pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} suomalaista vähittäispankkia pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Tämä ei mittaa asiakaspalvelun laatua.</b> Emme tiedä kuinka kauan jonotat, kuinka "
+             "hyvin sinua autetaan tai kuinka nopeasti reklamaatio ratkeaa — verkkosivulta sitä ei "
+             "voi mitata, eikä tämä sivu väitä mittaavansa sitä. Pisteet kertovat, kuinka "
+             "läpinäkyvästi pankki julkaisee hintansa, ehtonsa ja yhteystietonsa <i>ennen kuin</i> "
+             "sinusta tulee asiakas. Se on eri asia kuin hyvä palvelu — mutta se on asia, jonka voi "
+             "tarkistaa."),
+            ("<b>Säästöpankki ja POP Pankki eivät ole yhtiöitä vaan pankkiryhmiä.</b> Kummankin "
+             "kohdalla Y-tunnus on ryhmän keskusyhteisö (Säästöpankkiliitto osk, POP Pankkikeskus "
+             "osk) — ei talletuspankki. Jokainen jäsenpankki on itsenäinen yhtiö omalla "
+             "Y-tunnuksellaan ja <b>omalla palveluhinnastollaan</b>: yhtä &rdquo;Säästöpankin "
+             "hinnastoa&rdquo; ei ole olemassa. Mittaamme ryhmän yhteisen sivuston. <b>Oma "
+             "Säästöpankki on kokonaan eri yhtiö</b> (2231936-2) kuin Säästöpankkiryhmä, vaikka "
+             "nimet muistuttavat toisiaan."),
+            ("<b>Miksi listalla ei ole Handelsbankenia?</b> Se ei enää palvele suomalaisia "
+             "henkilöasiakkaita: tili- ja maksupalvelut päättyivät 31.3.2025, henkilöasiakkaat "
+             "siirtyivät <b>S-Pankkiin</b> 1.12.2024 ja pk-yritysasiakkaita <b>Oma Säästöpankkiin</b> "
+             "1.9.2024. <b>Revolut ja N26</b> palvelevat suomalaisia, mutta niillä ei ole suomalaista "
+             "Y-tunnusta eikä suomenkielistä palvelua. <b>Bank Norwegianin</b> Y-tunnusta ei löydy "
+             "PRH:sta, ja <b>Svea</b> tarjoaa vain säästötilin ja luottoa — ei käyttötiliä, joten se "
+             "on kulutusluotto-vertailussa. <b>Säästöpankkien Keskuspankki</b> ja <b>Bonum Pankki</b> "
+             "ovat ryhmiensä keskuspankkeja, joilla ei ole kuluttaja-asiakkaita."),
+        ],
+    },
+    "autovakuutukset": {
+        "slug": "autovakuutukset",
+        "nimi": "Autovakuutukset",
+        "nav": "Autovakuutus",
+        "h1": "Suomen paras autovakuutus 2026",
+        "yksikko": "vahinkovakuutusyhtiötä",
+        "lead": ("Pisteytimme {n} vakuutusyhtiön autovakuutussivut {m} mittarilla. Tärkein kysymys: "
+                 "saatko hinta-arvion ennen kuin luovutat henkilötunnuksesi?"),
+        "meta_title": "Suomen paras autovakuutus 2026 — vakuutusyhtiöt pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} vakuutusyhtiön autovakuutussivut pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä."),
+            ("<b>Mittaamme autovakuutussivun, emme yhtiötä.</b> Jokainen yhtiö on pisteytetty sen "
+             "omalla autovakuutussivulla — ei etusivulla. Siksi saman yhtiön pisteet voivat poiketa "
+             "koti-, matka- ja lemmikkivakuutusvertailuista: sivut ovat oikeasti erilaisia. "
+             "Yleisempi vertailu on <a href=\"/vakuutukset/\">Vakuutukset</a>-sivulla."),
+            ("<b>Liikennevakuutus on pakollinen, kasko ei.</b> Emme vertaile vakuutusmaksuja emmekä "
+             "kerro mikä kaskotaso sinulle riittää — todellinen maksu riippuu autosta, "
+             "ajokokemuksesta, bonuksista ja asuinpaikasta, eikä sitä voi lukea verkkosivulta. "
+             "Mittaamme sen, kertooko yhtiö hinnan ja ehdot julkisesti ennen kuin annat tietosi."),
+            ("<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti "
+             "LähiTapiolan omistama, ja neljä yhtiötä (LähiTapiola, Fennia, Turva, Pohjantähti) on "
+             "keskinäisiä eli asiakkaidensa omistamia. Demo voi sisältää affiliate-linkkejä; ne "
+             "eivät vaikuta pisteisiin."),
+        ],
+    },
+    "kotivakuutukset": {
+        "slug": "kotivakuutukset",
+        "nimi": "Kotivakuutukset",
+        "nav": "Kotivakuutus",
+        "h1": "Suomen paras kotivakuutus 2026",
+        "yksikko": "vahinkovakuutusyhtiötä",
+        "lead": ("Pisteytimme {n} vakuutusyhtiön kotivakuutussivut {m} mittarilla. Tärkein kysymys: "
+                 "saatko hinta-arvion ennen kuin luovutat henkilötunnuksesi?"),
+        "meta_title": "Suomen paras kotivakuutus 2026 — vakuutusyhtiöt pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} vakuutusyhtiön kotivakuutussivut pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä."),
+            ("<b>Mittaamme kotivakuutussivun, emme yhtiötä.</b> Jokainen yhtiö on pisteytetty sen "
+             "omalla kotivakuutussivulla — ei etusivulla. Siksi saman yhtiön pisteet voivat poiketa "
+             "auto-, matka- ja lemmikkivakuutusvertailuista. Yleisempi vertailu on "
+             "<a href=\"/vakuutukset/\">Vakuutukset</a>-sivulla."),
+            ("<b>Kotivakuutuksen hinta on aina henkilökohtainen</b> — se riippuu asunnon tyypistä, "
+             "koosta, sijainnista, rakennusvuodesta ja valitusta turvatasosta. Emme vertaile "
+             "maksuja emmekä kerro mikä turvataso sinulle riittää. Korvauskatot ja rajoitukset "
+             "(esim. vuotovahingon ikävähennykset) ovat käytännössä se kohta, jossa yhtiöt eroavat "
+             "eniten — siksi mittaamme erikseen, kerrotaanko ne julkisesti."),
+            ("<b>Omistus:</b> POP Vakuutus on 70-prosenttisesti LähiTapiolan omistama; LähiTapiola, "
+             "Fennia, Turva ja Pohjantähti ovat keskinäisiä eli asiakkaidensa omistamia. Demo voi sisältää "
+             "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+        ],
+    },
+    "matkavakuutukset": {
+        "slug": "matkavakuutukset",
+        "nimi": "Matkavakuutukset",
+        "nav": "Matkavakuutus",
+        "h1": "Suomen paras matkavakuutus 2026",
+        "yksikko": "vahinkovakuutusyhtiötä",
+        "lead": ("Pisteytimme {n} vakuutusyhtiön matkavakuutussivut {m} mittarilla. Tärkein kysymys: "
+                 "näkyykö hinta ennen kuin luovutat tietosi?"),
+        "meta_title": "Suomen paras matkavakuutus 2026 — vakuutusyhtiöt pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} vakuutusyhtiön matkavakuutussivut pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä."),
+            ("<b>Mittaamme matkavakuutussivun, emme yhtiötä.</b> Jokainen yhtiö on pisteytetty sen "
+             "omalla matkavakuutussivulla — ei etusivulla. Siksi saman yhtiön pisteet voivat poiketa "
+             "auto-, koti- ja lemmikkivakuutusvertailuista. Yleisempi vertailu on "
+             "<a href=\"/vakuutukset/\">Vakuutukset</a>-sivulla."),
+            ("<b>Rajoitukset ratkaisevat matkavakuutuksessa.</b> Urheilulajien rajaukset, ikärajat, "
+             "riskimaat ja jo olemassa olevat sairaudet ovat juuri ne kohdat, joista korvauskiistat "
+             "syntyvät — ja ne löytyvät vain ehdoista. Siksi mittaamme erikseen, kerrotaanko "
+             "korvauskatot ja rajoitukset julkisesti. <b>Emme kerro riittääkö eurooppalainen "
+             "sairaanhoitokortti</b> matkallesi; tarkista turva aina ehdoista ennen matkaa."),
+            ("<b>Omistus:</b> POP Vakuutus on 70-prosenttisesti LähiTapiolan omistama; LähiTapiola, "
+             "Fennia, Turva ja Pohjantähti ovat keskinäisiä. Demo voi sisältää affiliate-linkkejä; ne eivät "
+             "vaikuta pisteisiin."),
+        ],
+    },
+    "lemmikkivakuutukset": {
+        "slug": "lemmikkivakuutukset",
+        "nimi": "Lemmikkivakuutukset",
+        "nav": "Lemmikkivakuutus",
+        "h1": "Suomen paras lemmikkivakuutus 2026",
+        "yksikko": "lemmikkivakuutuksen myyjää",
+        "lead": ("Pisteytimme {n} lemmikkivakuutuksen myyjän sivut {m} mittarilla. Tärkein kysymys: "
+                 "saatko hinta-arvion — ja kerrotaanko vuosittainen korvauskatto — ennen kuin annat "
+                 "tietosi?"),
+        "meta_title": "Suomen paras lemmikkivakuutus 2026 — vakuutukset pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} lemmikkivakuutuksen myyjää pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä."),
+            ("<b>Korvauskatto on tämän tuotteen tärkein luku.</b> Lemmikkivakuutuksessa on lähes "
+             "aina vuosittainen enimmäiskorvaus, ja rotukohtaiset sekä ikään perustuvat rajoitukset "
+             "ovat yleisiä — moni koirarotu on rajattu osittain ulos perinnöllisten sairauksien "
+             "vuoksi. Siksi mittaamme erikseen, kerrotaanko korvauskatto ja rajoitukset julkisesti. "
+             "<b>Emme vertaile vakuutusmaksuja</b>: hinta riippuu rodusta, iästä ja asuinpaikasta."),
+            ("<b>POP Vakuutus puuttuu listalta, koska se ei myy lemmikkivakuutusta lainkaan</b> — "
+             "tarkistimme sen tuotevalikoiman ja sivuston 17.7.2026. Kyseessä on todellinen "
+             "puuttuva tuote, ei mittausvirhe. <b>Agria</b> on listan ainoa erikoistunut "
+             "eläinvakuuttaja (Länsförsäkringar-ryhmä, Suomen sivuliike rek. 5.2.2016, Y-tunnus "
+             "2744611-7). <b>Barkibu</b> myy Suomeen saksalaisen sivuliikkeen kautta ilman "
+             "suomalaista rekisteröintiä, joten se ei ole mukana."),
+            ("<b>Huomio Agrian pisteisiin:</b> agria.fi on bottisuojattu (CAPTCHA), joten "
+             "ekstraktioagenttimme ei päässyt sivulle kuten ihminen pääsee. Sen kohdalla &rdquo;ei "
+             "löytynyt&rdquo; ei tarkoita &rdquo;ei ole&rdquo;, ja epävarmat kohdat on pisteytetty "
+             "varovaisesti &rdquo;osittain&rdquo;. Bottisuojauksesta ei kuulu rangaista yhtiötä — "
+             "mutta emme myöskään voi väittää nähneemme sitä mitä emme nähneet. Demo voi sisältää "
+             "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+        ],
+    },
 }

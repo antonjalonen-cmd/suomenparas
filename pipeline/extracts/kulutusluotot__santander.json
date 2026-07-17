@@ -1,0 +1,55 @@
+{
+  "slug": "santander",
+  "fetched_ok": [
+    "https://www.santanderconsumer.fi/",
+    "https://www.santanderconsumer.fi/laina",
+    "https://www.santanderconsumer.fi/laina/ehdot-palveluhinnasto",
+    "https://www.santanderconsumer.fi/asiakaspalvelu/ukk",
+    "https://www.santanderconsumer.fi/asiakaspalvelu",
+    "https://www.santanderconsumer.fi/yritys"
+  ],
+  "todellinen_vuosikorko_esilla": "kylla",
+  "esimerkkilaskelma_esilla": "kylla",
+  "kulut_eriteltyna": "kylla",
+  "luotonantaja_ja_valvoja_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "todellinen_vuosikorko_pct": 7.97,
+  "luottosumma_max_eur": 50000,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 78,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hintahaitari selkeästi näkyvillä – esimerkiksi 15,61% todellinen vuosikorko 5000 euron lainalle 60 kuukaudessa ja 7,97% 50000 eurolle 120 kuukaudessa",
+    "Interaktiivinen lainanlaskuri etusivulla ja ehdot-sivulla, joka näyttää reaaliaikaisesti lainasumman, kuukausierän ja kokonaiskulut",
+    "Monikanavainen asiakaspalvelu – chat 24/7, puhelin ti-pe 12-15, verkkopalvelu ja viestipalvelu"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus (2076455-0) puuttuu sivustolta, vaikka se on olennainen tieto lainanantajasta",
+    "Kuluttajasähköpostia ei ole näkyvissä – vain yritysasiakkaiden sähköpostiosoite (yritysasiakas@santanderconsumer.fi) ja leasing@santanderconsumer.fi",
+    "Riippumattomia arvioita (esim. Trustpilot) ei ole näkyvillä sivustolla, mikä tekee vertailusta vaikeampaa"
+  ],
+  "yhteenveto": "Santander Consumer Finance Oy on suomalainen rahoitusyhtiö, joka tarjoaa kulutusluottoja 2000–50000 euroon. Hinnoittelu on läpinäkyvä ja kattaa korot sekä maksut, todellinen vuosikorko vaihtelee 7,97% ja 20,22% välillä lainasummasta ja laina-ajasta riippuen. Asiakaspalvelu on saavutettavissa chatissa 24/7 sekä puhelimitse arkipäivisin, mutta Y-tunnus ja kuluttajasähköposti puuttuvat sivustolta.",
+  "evidence": {
+    "todellinen_vuosikorko_esilla": "HAVAINTO: Laina-sivulla näkyvät todellisen vuosikoron prosenttiluvut eri lainasummille ja -ajoille: 15,61% (5000€/60kk), 12,26% (20000€/120kk), 10,75% (40000€/120kk), 7,97% (50000€/120kk). Laskurissa näkyy 14,16% esimerkilla.",
+    "esimerkkilaskelma_esilla": "HAVAINTO: Sivulla on esimerkkilaskelma KSL:n mukainen, joka näyttää lainasumman (2000€), kuukausierän (101,00€), koron (12,05%), todellisen vuosikoron (20,22%), lainakustannukset (409,36€) ja maksettavan kokonaismäärän (2409,36€).",
+    "kulut_eriteltyna": "HAVAINTO: Hinnoittelutaulukossa näkyvät perustamismaksu (49€ yli 5000€ lainoille) ja tilinhoitomaksu (8€/kk). Ei perustamismaksua 2000-5000€ lainoille.",
+    "luotonantaja_ja_valvoja_kerrottu": "HAVAINTO: Sivusto mainitsee 'Santander Consumer Finance Oy, Risto Rytin tie 33, 00570 Helsinki'. Valvoja Finanssivalvonta mainitaan virallisissa tiedoissa, mutta ei sivustolla näkyvästi.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus (2076455-0) puuttuu sivustolta. Maininta vain osoitteesta ja yhtiön nimestä.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot tai muita riippumattomia arvioita ei ole näkyvissä sivustolla.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelunumeroon voi soittaa ti-pe klo 12-15, numero on 09 8564 5100.",
+    "email_esilla": "HAVAINTO: Vain yritysasiakkaille osoite yritysasiakas@santanderconsumer.fi ja leasing@santanderconsumer.fi. Ei julkista sähköpostiosoitetta yksityisasiakkaille.",
+    "chat_mainittu": "HAVAINTO: Chat avoinna 24/7, asiakaspalvelijat saavutettavissa chatin kautta ma-pe klo 09-15.30.",
+    "aukioloajat_esilla": "HAVAINTO: Chat 24/7 avoinna, puhelinpalvelu ti-pe 12-15. Viestipalvelu verkkopalvelussa ilman tiettyä aukioloaikaa.",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osio löytyy asiakaspalvelu-alueelta, sisältää useita kategorioita ja LinkageQuery.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita sivustolla. Korostetaan verkkopalvelua (netbank.santanderconsumer.fi)."
+  }
+}

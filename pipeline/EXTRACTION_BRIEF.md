@@ -20,6 +20,40 @@ empty, or the site is known to use bot protection (Cloudflare, Akamai, Perimeter
 Penalising a company for blocking a crawler, rather than for what it shows humans, is a
 measurement error, not a finding.
 
+## ⚠️ A blocked fetch makes agents INVENT redirects (learned 17.7.2026)
+
+The single biggest failure of the batch-2 run. When their fetch tool returned nothing
+useful, agents did not report the failure — they confabulated a tidy explanation, and
+the explanation was always "this site now redirects to a company you already mentioned":
+
+| The claim | The truth |
+|---|---|
+| "risicum.fi redirects to saldo.com" | risicum.fi = HTTP 200, own content. The agent then described **Saldo's** site inside Risicum's file. |
+| "resursbank.fi redirects to tfbank.fi → saldo.com" | Three unrelated competitors. All three load fine. |
+| "pohjantahti.fi redirects to fennia.fi" | HTTP 200, own content. |
+| "omasp.fi redirects to Danske Bank" | HTTP 200, own content. |
+| "lahitapiola.fi is not accessible" | HTTP 200, own content. |
+
+Two of these would have **published one company's website under a competitor's name** —
+the worst error this project can make. `pipeline/check_extracts.py` now fails any extract
+whose `fetched_ok` names a competitor in the same vertical, or omits its own domain.
+
+**If a page will not load, say so and score `"osittain"`. Never explain why.** You do not
+know why. A redirect you did not personally follow is not an observation, it is a story.
+
+## Use `fetch_page.py` — WebFetch is blocked on several of these sites
+
+    python pipeline/fetch_page.py "<url>" --max-chars 30000
+
+curl with a real browser User-Agent; prints the page as plain text. WebFetch gets a
+consent/challenge shell from op.fi and agria.fi and returns near-nothing, which is what
+triggers the confabulation above. `fetch_page.py` prints the real HTTP status and final
+URL, so a redirect is something you can *see* rather than guess.
+
+Its limit: it does not run JavaScript. If it returns HTTP 200 but only a few hundred
+characters of text (op.fi does exactly this), the page is JS-rendered and you have NOT
+read it. That is `"osittain"` plus an honest note — never `"ei"`.
+
 ## Hard rules
 
 1. **Only the company's own public website counts** as a source for the scored

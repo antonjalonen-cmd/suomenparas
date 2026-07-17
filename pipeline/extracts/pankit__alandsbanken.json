@@ -1,0 +1,55 @@
+{
+  "slug": "alandsbanken",
+  "fetched_ok": [
+    "https://www.alandsbanken.fi",
+    "https://www.alandsbanken.fi/meista",
+    "https://www.alandsbanken.fi/pankkipalvelut",
+    "https://www.alandsbanken.fi/pankkipalvelut/tilit",
+    "https://www.alandsbanken.fi/hinnasto",
+    "https://www.alandsbanken.fi/kayttoehdot",
+    "https://www.alandsbanken.fi/oma-sivu",
+    "https://www.alandsbanken.fi/ota-yhteytta"
+  ],
+  "palveluhinnasto_julkinen": "kylla",
+  "tilin_ja_kortin_maksut_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "konttorit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "kayttotili_kk_maksu_eur": 5.00,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 78,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnasto ja maksutiedot selkeästi saatavilla omalla hinnaston sivulla (€5/kk käyttötili tai ilmainen digitaalisesti)",
+    "Kattavat yhteystiedot ja auki oloajat kaikille toimipisteille sekä puhelintuki 24/7 korttikysymyksiä varten",
+    "Vastuullisuus ja ympäristöprojektit selkeästi esillä (6 miljoonaa euroa Itämeren suojeluun 2016 lähtien)"
+  ],
+  "kehityskohteet": [
+    "Ei asiakaspalvelu-chatia tai vertaisarvioita/tunnettujen arvioijien palautteiden näkyvyyttä",
+    "FAQ-osio puuttuu - asiakkaat joutuvat soittamaan tai lähettämään sähköpostia yleisiin kysymyksiin",
+    "Mobiilisovellusta mainitaan mutta sen ominaisuuksia ei eritellä verkkosivuilla"
+  ],
+  "yhteenveto": "Ålandsbanken on 1919 perustettu suomalais-alantialainen pankki, jolla on kattava palvelutarjonta henkilö- ja yritysasiakkaille. Hinta- ja maksuinformaatio löytyy selkeästi, puhelintuki on käytettävissä laajasti, ja konttoriverkon kattavuus on hyvä. Palvelua ei kuitenkaan tarjota chatissa eikä asiakaslähtöinen FAQ-osio ole saatavilla.",
+  "evidence": {
+    "palveluhinnasto_julkinen": "HAVAINTO: Erillinen hinnasto-sivu (alandsbanken.fi/hinnasto) listataa tilin kuukausimaksut, korttimaksut ja palvelumaksut PDF-muotoisesti.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Prime-tilin/käyttötilin kuukausimaksu €5.00 (konttorin kautta) tai ilmainen digitaalisesti. Debit-kortti €3.00/kk, Credit/Debit-hybridi €45.00/vuosi.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Käyttöehdot (yleiset sopimusehdot) ladattavissa sivustolla. Ehdoissa todetaan, että ehtoja voidaan muuttaa ilman erillistä ilmoitusta.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Sivulla on yksityiskohtainen lista 12 toimipisteestä (Helsinki, Vaasa, Turku, Parainen, Tampere, Oulu Suomessa, Maarianhamina ja Godby Ahvenanmaalla, sekä Stockholm, Gothenburg, Malmö Ruotsissa) aukioloaikoineen.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0145019-3 näkyy sivulla 'Meistä' -osassa yritystietojen yhteydessä.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu 0204 292 920 (ma-pe 8:30-18:00), keskivaihde 0204 29 011 (ma-pe 9:00-16:30) ja 24/7 kortin sulkemispalvelu 020 333.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@alandsbanken.fi näkyi yhteydenoton sivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita sivuston missään osassa. Tuki on saatavilla vain puhelimitse ja sähköpostilla.",
+    "aukioloajat_esilla": "HAVAINTO: Kattavat aukioloajat (ma-pe 10:00-16:30 yleensä, vaihtelevin aikoina ja kotiutuspalvelut rajoitetusti) listataan jokaisen toimipisteen osalta.",
+    "mobiilisovellus": "HAVAINTO: Mobiilipankki (Mobiilisovellus) mainitaan digitaalisten palvelujen osassa, mutta sovelluksen ominaisuuksista ei anneta tietoja.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole viitattuja ulkopuolisia arvioita, sertifikaatteja tai tunnettujen arvioijien antamia arvosteluja."
+  }
+}

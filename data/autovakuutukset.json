@@ -1,0 +1,1353 @@
+{
+ "slug": "autovakuutukset",
+ "nimi": "Autovakuutukset",
+ "nav": "Autovakuutus",
+ "h1": "Suomen paras autovakuutus 2026",
+ "yksikko": "vahinkovakuutusyhtiötä",
+ "lead": "Pisteytimme {n} vakuutusyhtiön autovakuutussivut {m} mittarilla. Tärkein kysymys: saatko hinta-arvion ennen kuin luovutat henkilötunnuksesi?",
+ "meta_title": "Suomen paras autovakuutus 2026 — vakuutusyhtiöt pisteytettynä | Suomen Paras",
+ "meta_desc": "6 vakuutusyhtiön autovakuutussivut pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Pohjola Vakuutus puuttuu listalta — emme onnistuneet mittaamaan sitä.</b> Tämä on meidän mittausongelmamme, ei havainto OP:sta. pohjola.fi ohjaa op.fi:hin, ja op.fi rakentaa sisältönsä JavaScriptillä: sivu vastaa HTTP 200, mutta automaattinen lukijamme saa siitä vain kirjautumiskuoren — ihminen näkee sivun normaalisti. <b>Bottisuojauksesta tai JavaScriptistä ei kuulu rangaista yhtiötä</b>, ja pisteiden antaminen sillä perusteella mitä emme nähneet olisi juuri sellainen väite, jota emme voi puolustaa. Siksi jätimme Pohjolan kokonaan pois sen sijaan että arvaisimme. Yleisemmässä <a href=\"/vakuutukset/\">Vakuutukset</a>-vertailussa (mitattu 16.7.2026) Pohjola on mukana — myös sen kohdalla lukema on epävarma samasta syystä.",
+  "<b>Mittaamme autovakuutussivun, emme yhtiötä.</b> Jokainen yhtiö on pisteytetty sen omalla autovakuutussivulla — ei etusivulla. Siksi saman yhtiön pisteet voivat poiketa koti-, matka- ja lemmikkivakuutusvertailuista: sivut ovat oikeasti erilaisia. Yleisempi vertailu on <a href=\"/vakuutukset/\">Vakuutukset</a>-sivulla.",
+  "<b>Liikennevakuutus on pakollinen, kasko ei.</b> Emme vertaile vakuutusmaksuja emmekä kerro mikä kaskotaso sinulle riittää — todellinen maksu riippuu autosta, ajokokemuksesta, bonuksista ja asuinpaikasta, eikä sitä voi lukea verkkosivulta. Mittaamme sen, kertooko yhtiö hinnan ja ehdot julkisesti ennen kuin annat tietosi.",
+  "<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti LähiTapiolan omistama, ja neljä yhtiötä (LähiTapiola, Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "turva",
+   "nimi": "Turva",
+   "domain": "turva.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211695-5",
+   "rekisteroity": 1978,
+   "score": 77.2,
+   "pillars": {
+    "digitaalinen": 60.6,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 82.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "9/100",
+       "paino": 40,
+       "pisteet": 9,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivulla näkyvä 'Laske hinta' -lomake sisältää tekstikentät auton tietoille, iän ja asuinpaikan ilmoitukselle. Hintalaskuri käynnistyy ilman henkilötunnusta tai yhteystietoja."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Vakuutusehdot ja oppaat' -osiossa mainitaan 'Vakuutusopas', 'Avaintietoesite', 'Vakuutusehdot' ja 'Yleiset sopimusehdot' ladattaviksi PDF-dokumenteiksi."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyssä osiossa sanotaan 'Voit valita omavastuuksi esimerkiksi 200, 500 tai 750 euroa'."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Liikennevakuutuksen lähtöbonus uudella kuljettajalla 35 % ja kokeneemmalla jopa 80 %.' Myös mainittaan 'Vahingottomuusalennus palkitsee huolellisia kuskeja vahingottomuudesta. Saat heti alusta alkaen 10 %'."
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näkyy taulukko, jossa verrataan kolmea tasoa: Liittokasko, Täyskasko ja Osakasko. Taulukossa listataan kattavuuden erot (Sijaisauto, laaja / Sijaisauto / Lunastusetu / Lasivahinkoturva jne.)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivulla ei mainita yhtiötunnusta (Y-tunnusta) tai muita rekisteröintitietoja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Hätäpalvelumme auttaa ympäri vuorokauden numerossa 01019 5111 suomeksi, ruotsiksi ja englanniksi.'"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei löydy tuotesivulta; asiointi tapahtuu verkkolomakkeen, puhelimen tai neuvontasovelluksen kautta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun pohjassa näkyy viittaus 'Chat-sovellus' -nimiseen palveluun."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vain hätäpalvelun 24/7 saatavuus mainitaan; normaalin asiakaspalvelun aukioloaikoja ei ilmoiteta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on 'Usein kysyttyä autovakuutuksesta' -osio, joka sisältää kysymyksiä kuten 'Miksi puhumme uuden ajan autovakuutuksesta?', 'Mikä on ajoneuvovakuutus?', 'Mikä vaikuttaa hintaan?' jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun asiakaspalvelun osassa mainitaan 'TaskuTurva-sovellus' asiointikanavaksi."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 9,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 12136.340100000001,
+    "cls": 1.777566885115144,
+    "tbt_ms": 6378
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Kyllä"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Liittokasko, Täyskasko, Osakasko"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä vertailutaulukko kolmesta eri kaskotyypistä (Liittokasko, Täyskasko, Osakasko) tekee valinnan helpoksi.",
+    "Verkkokaupassakin saatava hintalaskuri antaa nopean arvion ilman pakollisia henkilötietoja.",
+    "Kattava bonus- ja alennusjärjestelmä (lähtöbonus 35-80%, vahingottomuusalennus 10%) on avoimen kuvattuna."
+   ],
+   "kehityskohteet": [
+    "Yhtiötunnus (Y-tunnus) ja yrityksen rekisteröintitiedot puuttuvat tuotesivulta.",
+    "Sähköpostiosoitetta ei ole helposti löydettävissä tuotesivulla; asiakkaiden on käytettävä verkkolomaketta tai puhelinta.",
+    "Asiakaspalvelun aukioloajat puuttuvat; ilmoitetaan vain 24/7 hätäpalvelu, mutta ei normaalia palveluaikaa."
+   ],
+   "yhteenveto": "Turvan autovakuutus on selkeästi rakennettu tuote, jossa hintalaskuri on saavutettavissa nopeasti ilman pakollisia yhteystietoja. Vakuutusehdot ja bonus- sekä alennusjärjestelmät on dokumentoitu hyvin. Kehityskohteita ovat yritystietojen puuttuminen tuotesivulla ja asiakaspalvelun aukioloaikojen selkeyden parantaminen."
+  },
+  {
+   "slug": "if",
+   "nimi": "If",
+   "domain": "if.fi",
+   "omistaja": "Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)",
+   "y_tunnus": "1602149-8",
+   "rekisteroity": 2000,
+   "score": 63.7,
+   "pillars": {
+    "digitaalinen": 60.2,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on \"Hae hinta ja osta\" -lomake, joka näyttää vaativan henkilötietoja (puhelinnumero mainitaan automaattisen päätöksenteon yhteydessä) ennen hinnan näyttämistä."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on linkki vakuutusehdotuksiin – julkisesti ladattavat PDF-tiedostot löytyvät henkilöasiakkaiden vakuutusehtojen osiosta."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla vertailutaulukossa ei näytetä omavastuu-summia euroeissa. Summat löytyvät vakuutusehdoista."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan selkeästi: \"saat heti 80 % bonuksen täyskaskoon\", mikä osoittaa aktiivista bonus-viestintää."
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on \"Mitä autovakuutus korvaa?\" -taulukko, joka vertaa \"Osakasko\" ja \"Täyskasko\" rinnakkain."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alatunnisteessa näkyy \"© If Vahinkovakuutus Oyj, Suomen sivuliike\", mutta varsinaista Y-tunnusta ei ole esillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on asiakaspalvelulinkit, joissa puhelinnumero mainittakoon saatavilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun oikeassa alakulmassa näkyy chat-kuvake (viestipalvelu-ikon), joka viittaa asiakaspalvelu-chattiin."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-osiosta löytyy linkki \"If Mobiili\" -sovellukseen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 12586.200499999999,
+    "cls": 0.1859377972483851,
+    "tbt_ms": 5427.476000000002
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Osakasko, Täyskasko"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät vakuutuskerrokset (osakasko/täyskasko) vertailutaulukoin esiteltynä",
+    "If Mobiili -sovellus ja monipuoliset digitaaliset palvelut saatavilla",
+    "Bonus-järjestelmä selkeästi kuvattu (jopa 80 % bonus heti ottaessa)"
+   ],
+   "kehityskohteet": [
+    "Hintakalkkaatori vaatii puhelinnumeron ennen hinnan näyttämistä – ei perusta-arvioita ilman yhteystietoja",
+    "Omavastuu-summat (euroomaarit) eivät ole näkyvissä pääsivulla, vaan jäävät ehdoista löydettäviksi",
+    "Y-tunnus ja lainmukaisten tietojen esille tuonti voisi olla näkyvämpää"
+   ],
+   "yhteenveto": "If tarjoaa selkeästi rakennetun autovakuutuspalvelun, jossa osakasko ja täyskasko on vertailtavissa sivukkain. Hintalaskuri on saatavilla, mutta vaatii puhelinnumeron hinnan näyttämiseksi. Vakuutusehdot löytyvät verkkosivuilta, mutta omavastuu-summat eivät ole pääsivulla näkyvissä."
+  },
+  {
+   "slug": "fennia",
+   "nimi": "Fennia",
+   "domain": "fennia.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0196826-7",
+   "rekisteroity": 1978,
+   "score": 63.0,
+   "pillars": {
+    "digitaalinen": 84.3,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 68.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "63/100",
+       "paino": 40,
+       "pisteet": 63,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla useita 'Laske hinta ja osta'-linkkejä ja 'Vakuutuslaskuri'-osio mainitaan, mutta laskurin varsinaista lomaketta ja sen tietopyyntöjä ei näy staattisessa HTML:ssä – henkilötunnuksen tai yhteystietojen vaatimisesta ei voida varmistua."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Selkeä 'Tuote-esite ja vakuutusehdot' -osio tarjoaa linkit: 'Esite - Fennian ajoneuvovakuutukset', 'Vakuutusehdot - Fenniakasko' ja 'Vakuutusehdot - Liikennevakuutus'. Sivulla kerrotaan, että linkkien kautta löytyvät myös tulostettavat PDF-versiot."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Termiä 'omavastuun määrä' mainitaan FAQ:ssa ja vakuutuksen kuvailussa, mutta konkreettisia eurossa ilmaistuja omavastuun määriä (esim. 100 €, 250 € tai 500 €) ei löydy pääsivulta."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja 'Liikenne- ja kaskovakuutuksen bonukset' -osio selittää yksityiskohtaisesti bonusjärjestelmän. Liikennevakuutukselle maksimibonukseksi mainitaan 83 %, 30+ vuotiaille tarjotaan 64 % lähtöbonusta. Kaskovakuutuksiin sisältyy 70 % maksimibonukset ja bonusturva, joka suojaa ensimmäistä kolarivahinkoa."
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Vakuutuksen kattavuus' -osio esittää selkeän vertailutaulukon kolmella sarakkeella: Premiumkasko, Laaja Fenniakasko ja Fenniakaskon osakasko. Taulukossa listataan kaikki vakuutusturvallisuudet (kolarivakuutus, hirvivahinko, ilkivalta jne.) ja niiden sisältyminen kunkin tason pakettiin."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei esiinny pääsivun sisällössä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Yhteystiedot henkilöasiakkaille' -linkkejä mainitaan navigaatiossa, mutta varsinaisia puhelinnumeroita ei näy pääsivun sisällössä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy pääsivun sisällössä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä autovakuutuksesta' -osio sisältää kahdeksan kysymystä ja vastausta aiheista kuten 'Mikä on halvin autovakuutus?', 'Mihin hinnat perustuvat?', 'Miten vaihdan vakuutukset?', ja 'Miten vakuutan leasingauton?'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "66/100",
+       "paino": 33,
+       "pisteet": 66,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 63,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 2338.53,
+    "cls": 0.001406904020356258,
+    "tbt_ms": 2115.5
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Premiumkasko, Laaja fenniakasko, Fenniakaskon osakasko"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä vertailutaulukko kaskoturvien välillä – kattaa kolarivakuutuksen, hirvi-, ilkivalta-, palo- ja varkausvakuutuksen sekä lisäturvallisuudet taulukkomuodossa",
+    "Laaja bonusjärjestelmän kuvaus sekä liikennevakuutukselle (maksimi 83 %) että kaskovakuutuksille (70 % + bonusturva heti), konkreettisilla prosenteilla",
+    "Kattava usein kysyttyjen kysymysten osio kahdeksalla kysymyksellä, joka vastaa tyypillisiin asiakaskysymyksiin hinnoittelusta, vakuutuksenmuutoksesta ja korvausoikeuksista"
+   ],
+   "kehityskohteet": [
+    "Omavastuun määrät (esim. 100 €, 250 €, 500 €) puuttuvat pääsivulta – asiakkaan pitää käydä hintalaskurissa tarkistamaan vaihtoehdot",
+    "Yhteystiedot (puhelin, sähköposti) eivät ole näkyvillä pääsivulla, vaikka 'Yhteystiedot'-linkkejä mainitaan navigaatiossa",
+    "Y-tunnus ja aukioloajat puuttuvat kokonaan – heikentää yrityksen avoimuutta ja luotettavuuden vaikutelmaa"
+   ],
+   "yhteenveto": "Fennia esittelee autovakuutuksensa selkein vertailutaulukoin ja kattavasti kuvatulla bonusjärjestelmällä. Sivustolla on hintalaskuri ja laaja usein kysyttyjen kysymysten osio. Perusyhteystiedot, omavastuun määrät ja Y-tunnus puuttuvat pääsivulta, mikä heikentää läpinäkyvyyttä."
+  },
+  {
+   "slug": "pohjantahti",
+   "nimi": "Pohjantähti",
+   "domain": "pohjantahti.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0146905-4",
+   "rekisteroity": 1978,
+   "score": 63.0,
+   "pillars": {
+    "digitaalinen": 77.2,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 67.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "59/100",
+       "paino": 40,
+       "pisteet": 59,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Laske kaskon hinta ja osta' -linkki, joka avautuu uudessa välilehdessä, ja verkkokauppa on mainittu nopeimmaksi tavaksi saada vakuutus. Vaihtoehto on 'Jätä yhteydenottopyyntö'. Kalkulaattoria ei pystynyt verifioimaan."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivu tarjoaa kolme ladattavaa PDF-tiedostoa: tuoteseloste, liikennevakuutus-ehdot ja kaskovakuutus-ehdot."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omavastuu mainitaan konteksteissa (esim. lasi-vakuutuksessa 'lasin korjauksesta omavastuuta ei vähennetä'), mutta päävastuun minimäärä ei ole selvästi näkyvissä tuotesivulla."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla selitetään bonus-järjestelmä yksityiskohtaisesti: 'Voit saada vuosimaksusta jopa 70% bonusalennusta vahingottomien vakuutuskausiesi perusteella.' Tähtikuljettajan etu on erillisessä osassa."
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailutaulukko näyttää Luottokasko ja Malttikasko vertailun eri turva-alojen osalta (palo, varkaus, eläin jne.)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus: 0146905-4 on näkyvissä sivun alatunnisteessa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Osio 'Usein kysyttyä autovakuutuksesta' sisältää kysymyksiä kaskon hinnasta, vaihdon tekemisestä, Tähtikuljettajan edusta, vahingonkumppaneista, ulkomaanmatkasta ja sijaisautosta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "48/100",
+       "paino": 33,
+       "pisteet": 48,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "77/100",
+       "paino": 33,
+       "pisteet": 77,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 59,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 7792.552999999998,
+    "cls": 0,
+    "tbt_ms": 106
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Ajoneuvoturva, Luottokasko, Malttikasko"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä vertailutaulukko kaskovakuutusten taso-eroista (Luottokasko vs. Malttikasko)",
+    "Tähtikuljettajan bonus-etu on houkutteleva: ensimmäinen törmäysvahinko ei laske bonusta",
+    "Kattava FAQ-osio vastaa yleisiin kysymyksiin (Green Card, sijaisauto, vahingot)"
+   ],
+   "kehityskohteet": [
+    "Hintalaskurin saatavuus epäselvä: linkki avautuu uudessa välilehdessä eikä kalkulaattoria pystynyt varmentamaan",
+    "Omavastuun minimäärät eivät näy tuotesivulla, vaatii kalkulaattorin käyttöä",
+    "Puhelinnumero ja sähköpostiosoite puuttuvat: sivulla todetaan vain että puheluissa kertyy kustannuksia"
+   ],
+   "yhteenveto": "Pohjantähti on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa autovakuutusta. Tuotesivu esittelee kaskovakuutusten vaihtoehdot selkeästi vertailutaulukon avulla ja kuvaa bonus- ja vakuutusehdot yksityiskohtaisesti. Hinnoittelun löydettävyys on heikko, koska hintalaskuri vaatii siirtymisen ulkoiselle sivulle eikä suoraa hintaa ole nähtävissä ilman kalkulaattorin käyttöä tai yhteydenottopyyntöä."
+  },
+  {
+   "slug": "lahitapiola",
+   "nimi": "LähiTapiola",
+   "domain": "lahitapiola.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0211034-2",
+   "rekisteroity": 1978,
+   "score": 60.5,
+   "pillars": {
+    "digitaalinen": 61.8,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 59.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hintalaskuri vaatii sekä rekisteritunnuksen että henkilötunnuksen. Sivulla mainitaan: 'Henkilötunnus Tarvitsemme henkilötunnuksesi, jotta voimme laskea hinnan sekä sinulle kuuluvat alennukset.' Näin ollen hinta-arviota ei saa ilman henkilökohtaisen tunnistetiedon antamista."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neljä PDF-tiedostoa ladattavissa: 'Ajoneuvovakuutuksen tuoteseloste (pdf)', 'Ajoneuvovakuutuksen avaintiedot (pdf)', 'Ajoneuvovakuutuksen ehdot (pdf)', 'Yleiset sopimusehdot (pdf)'."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omavastuut selkeästi ilmoitettu: lasiturvassa 0 € (korjaus) tai 200-300 € (vaihto), kolarointi 200/500/750/1000 €, hinaus- ja matkakulut 50 €."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla selitetään 'Vahingottomuusalennus on kokonaan uusi alennus, joka palkitsee kolarittomasta ajosta'. Laajassa vakuutuksessa asiakkaalle tulee heti 10 % vahingottomuusalennus kolarintiturvasta. FAQ osio vastaa kysymykseen 'Saanko bonusta autovakuutuksestani ja miten se määräytyy?' sekä 'Voidaanko puolisoni bonusta hyödyntää minun vakuutuksessani?'"
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on selkeä vertailutaulukko otsikoilla 'Mitä vakuutus korvaa? Laaja Suppea Liikenne', jossa listataan kaikki turva-alueet ja merkitään mitä kukin taso sisältää."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy autovakuutussivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin mainittu kahdesti: 'Hätäpalvelu auttaa tien päällä 24/7 numerossa 0800 04531' ja 'Jos auto jätti tien varteen, soita meille numeroon 0800 04531'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy autovakuutussivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat mainitaan asiointikielen vaihdossa: 'Asiointikielen vaihtaminen sulkee käynnissä olevan chat-keskustelun', mikä viittaa chatin olevan saatavilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloaikoja ei näy sivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä auton vakuutuksesta' -osio sisältää 13 kysymystä ja vastausta, kattaen hinnoittelun, alennukset, ostamisen, vakuutusturvat, omavastuut, rekisteröinnin, bonukset ja muita aiheita."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "12/100",
+       "paino": 33,
+       "pisteet": 12,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 12271.730050000002,
+    "cls": 0.23723665871486324,
+    "tbt_ms": 10849.500000000005
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Laaja, Suppea, Liikenne"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä vakuutusportfolion rakenne kolmella eri tasolla (Laaja, Suppea, Liikenne), joista jokainen on tarkasti kuvattu",
+    "Kattava vertailutaulukko näyttää mitä kukin vakuutustaso korvaa – kolarointi, pysäköintiturva, varkaus, palo, ilkivalta, luonnonilmiöt",
+    "Avointen vakuutusehdot ladattavissa PDF-muodossa (tuoteseloste, ehdot, avaintiedot, yleiset sopimusehdot)"
+   ],
+   "kehityskohteet": [
+    "Hintalaskuri vaatii henkilötunnuksen ennen kuin näyttää mitään hintatietoa – asiakkaalle ei ole mahdollisuutta saada arviota ilman henkilökohtaisten tietojen paljastamista",
+    "Y-tunnus ei näy sivulla, vaikka se olisi tärkeä varmentamisen keino",
+    "Asiakaspalvelun aukioloajat, sähköpostiosoite ja fyysisten toimistojen osoitteet puuttuvat – puhelin on saatavilla vain hätäpalvelulle (0800 04531)"
+   ],
+   "yhteenveto": "LähiTapiolan autovakuutussivu esittelee kolme selvästi erotettu vakuutustasoa vertailutaulukon kautta, ja vakuutusehdot ovat saatavilla PDF-muodossa. Bonus- ja vahingottomuusjärjestelmä on hyvin dokumentoitu. Kuitenkin sivulla ei voi saada hinta-arviota ilman henkilötunnuksen antamista, mikä on merkittävä este asiakkaiden budjetoinnille ennen yhteydenottoa."
+  },
+  {
+   "slug": "popvakuutus",
+   "nimi": "POP Vakuutus",
+   "domain": "popvakuutus.fi",
+   "omistaja": "LähiTapiola 70 % / POP Pankki -ryhmä 30 % (Suomen Vahinkovakuutus Oy)",
+   "y_tunnus": "2432824-6",
+   "rekisteroity": 2011,
+   "score": 60.3,
+   "pillars": {
+    "digitaalinen": 64.8,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 58.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hintalaskuri-lomakkeella on kolme pakollista kenttää: rekisterinumero, henkilötunnus (ppkkvv-XXXX) ja postinumero. Hinta-arviota ei voi saada ilman henkilötunnusta."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutusasiakirjat-osiossa on kuusi PDF-linkkiä: Ajoneuvovakuutuksen tuoteseloste, Liikennevakuutusehdot, Kaskovakuutusehdot, Yleiset sopimusehdot, Vakuutustietoasiakirja Liikennevakuutus ja Vakuutustietoasiakirja Kaskovakuutus."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omavastuu mainitaan joissain turvantuotteissa (esim. 'Lunastusturvan omavastuu on 0 euroa', 'Matkan jatkumisturvan omavastuu on 0 euroa', 'Lasiturvasta vähennetään omavastuu 150 €'), mutta kaikkien kasko-tasojen omavastuut eivät ole vertailutaulukossa."
+      },
+      {
+       "mittari": "Bonusjärjestelmä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Liikennevakuutuksen bonus jopa 83 %' ja 'Suomen reiluimmasta bonuksesta liikennevakuutukseen'. Bonuksista on erillinen sivu linkissä 'Lue lisää bonuksista'."
+      },
+      {
+       "mittari": "Kaskotasojen erot vertailtavissa",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neljä kasko-tasoa mainitaan tekstissä (XL-kasko, L-kasko, S-kasko, Liikennevakuutus) ja erillisissä osioissa esim. 'Uuden auton vakuutus – XL-kasko' ja 'Kattava vakuutus – L-kasko', mutta vertailutaulukko puuttuu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus tai yritysrekisterinumero ei näy autovakuutussivulla. Yritystiedot-sivulla mainitaan 'Suomen Vahinkovakuutus Oy' ja osoite, mutta Y-tunnusta ei ole."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: Asiakaspalvelu 010 3910 391 (ark. 9-14:30), Myyntipalvelu 010 3910 391 (ark. 9-16:30), Korvauspalvelu 010 3910 394 (ark. 9-12), POP Hinauspalvelu 010 3910 395 (24/7)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei löytynyt autovakuutussivulla tai yhteystiedot-sivulla. Asiakaspalveluun ohjataan puhelimitse, chatilla tai Oma Palvelun viestillä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainitaan 'Chat-palvelu' ja 'Chat palvelee sinua vakuutuksiin liittyvissä asioissa'. Sivun alareunassa on chat-kuplakuvake."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: Asiakaspalvelu ark. 9-14:30, Myyntipalvelu ark. 9-16:30, Korvauspalvelu ark. 9-12, POP Hinauspalvelu 24/7."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autovakuutussivulla on 'Usein kysyttyä' -osio jossa on 11 kysymystä: 'Haluan vaihtaa autovakuutukseni', 'Ostin uuden auton', 'Miten saan alennuksen', 'Mikä vaikuttaa hintaan', 'Missä autossa halvin vakuutus', 'Haluan lähteä ulkomaille', 'Miten poistan auton käytöstä', 'Katkeaako vakuutus', 'Miten saan tuontiautolle vakuutuksen', 'Millainen vakuutus sähköautolle', 'Voinko vakuuttaa museoauton', 'Miten vakuutan matkailuauton'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autovakuutussivulla ei mainita mobiilisovellusta. Oma Palvelu saatavilla verkkokaupan kautta 24/7, mutta erillisen mobiilisovelluksen saatavuudesta ei ole mainintaa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 7389.582,
+    "cls": 0.2755282897541281,
+    "tbt_ms": 1115.8144999999995
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Ei"
+    },
+    {
+     "label": "Kaskotasot",
+     "value": "Liikennevakuutus, S-kasko, L-kasko, Xl-kasko"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja kasko-vaihtoehdot (XL, L, S) ja selkeät kuvaukset kaikista vakuutusturista",
+    "Korkea liikennevakuutusbonusprosentti (jopa 83 %) ja kilometriperusteinen hinnoittelu",
+    "24/7 saatavilla oleva Oma Palvelu verkon kautta ja nopeasti tavoitettava asiakaspalvelu"
+   ],
+   "kehityskohteet": [
+    "Hintakalklaattorin käyttö vaatii henkilötunnuksen, mikä estää anonymiimin hintavertailun",
+    "Kasko-tasojen vertailu ei ole esitetty selkeässä sivukkaisessa vertailutaulukossa",
+    "Sähköpostiosoite ja Y-tunnus eivät ole julkisesti näkyvissä autovakuutussivulla"
+   ],
+   "yhteenveto": "POP Vakuutus on Suomen Vahinkovakuutus Oy:n markkinointinimi ja tarjoaa autovakuutusta neljällä tasolla (Liikennevakuutus, S-kasko, L-kasko, XL-kasko) selkein kuvauksin. Sivusto selittää kattavasti vakuutusturvantuotteita, mutta hintakalklaattori vaatii henkilötunnuksen ilmoittamisen. Asiakaspalvelu on saatavilla puhelimitse arkisin ja chat-palvelu päivittäin."
+  }
+ ],
+ "updated": "17.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinta-arvio ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), omavastuu kerrottu selkeästi (15), bonusjärjestelmä kerrottu (15), kaskotasojen erot vertailtavissa (10), Y-tunnus esillä (10)"
+}
