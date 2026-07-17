@@ -428,6 +428,71 @@ COMPANIES["lemmikkivakuutukset"] = [
                   "Suomen sivuliike rek. 5.2.2016"),
 ]
 
+# SÄHKÖVERTAILUPALVELUT (verified 17.7.2026, 4 parallel research agents, every
+# operator checked against PRH v3 where a Y-tunnus exists).
+#
+# First vertical of the Vertailupalvelut meta-group: this ranks the services that
+# compare electricity contracts — the same move lainavertailu made on loan brokers.
+#
+# OWNERSHIP CATCH: Sähkövertailu.fi and VertaaEnsin ovat SAMA yhtiö — Effortia Oy
+# (2261132-0), joka kertoo itse olevansa osa Alma Mediaa. Two "competing" brands,
+# one owner — the Sambla pattern again. Disclosed in notes.
+#
+# Energiavirasto's sahkonhinta.fi is included deliberately: the regulator's own
+# comparison is the neutral yardstick the commercial services get measured against.
+# State agency → no Y-tunnus in YTJ; that is the correct value, not a gap.
+#
+# EXCLUDED — discontinued/not a comparison service (verified 17.7.2026):
+#   Zmarta (own page: "Zmartan sähkövertailu ei ole tällä hetkellä toiminnassa",
+#     page last updated 15.9.2023 — loans only now), Liukuri.fi (spot-price
+#     visualizer, hobby project by a private developer, no kilpailutus),
+#     Vertaa.fi (product price-comparison portal; electricity is a thin side
+#     section of ~6 offers, not a kilpailutus service; bot wall on headless),
+#     Liittymätarjoukset.fi (phone-plan site with a side sähkö table; operator is
+#     a toiminimi that PRH v3 API cannot verify).
+# EXCLUDED — anonymous affiliate shells (no legal identity anywhere on the site):
+#   Sähkötarjouksia.fi (also still ran a Black Friday banner and promoted the dead
+#     Väre brand in July 2026), Halpasahko.com (SEO article farm, no comparison
+#     tool, Adtraction links straight to sellers), Vertaa-hintaa.fi (affiliate
+#     listicle site, pseudonymous authors).
+# EXCLUDED — white-label fronts: Kilpailuta-sahkosopimus.fi and
+#   Sahkon-hintavertailu.fi both funnel to halvinsähkösopimus.fi's flow (same
+#   hssprewidget campaign) — listing them separately would count one service thrice.
+# EXCLUDED — unverifiable operator: Vertaa-kilpailuttajat.fi ranks comparison
+#   sites partly by sponsorship ("järjestys perustuu sponsorointiin...") and its
+#   claimed Y-tunnus 3419623-2 returns nothing from PRH — cannot be listed.
+COMPANIES["sahkovertailupalvelut"] = [
+    dict(slug="sahkovertailu", nimi="Sähkövertailu.fi", domain="sahkovertailu.fi",
+         y_tunnus="2261132-0",
+         omistaja="Effortia Oy — osa Alma Mediaa (yhtiön oma ilmoitus); sama omistaja kuin VertaaEnsin"),
+    dict(slug="vertaaensin", nimi="VertaaEnsin (sähkö)", domain="vertaaensin.fi",
+         y_tunnus="2261132-0",
+         omistaja="Effortia Oy — osa Alma Mediaa (yhtiön oma ilmoitus); sama omistaja kuin Sähkövertailu.fi"),
+    dict(slug="kilpailuttaja", nimi="Kilpailuttaja.fi", domain="kilpailuttaja.fi",
+         y_tunnus="1811203-5",
+         omistaja="Energy Brokers Finland Oy (per. 2003)"),
+    dict(slug="valovirta", nimi="Valovirta", domain="valovirta.fi",
+         y_tunnus="3358519-9",
+         omistaja="EnCoHub Oy, Jyväskylä"),
+    dict(slug="sahkon-kilpailutus", nimi="Sähkön-kilpailutus.fi", domain="sahkon-kilpailutus.fi",
+         y_tunnus="2933035-3",
+         omistaja="Comperion Oy (aik. DZR eCommerce Oy)"),
+    dict(slug="sahkonhinta", nimi="Sahkonhinta.fi (Energiavirasto)", domain="sahkonhinta.fi",
+         y_tunnus=None,
+         omistaja="Energiavirasto — valtion viranomainen, sähkömarkkinoiden valvoja"),
+    dict(slug="halvinsahkosopimus", nimi="Halvinsähkösopimus.fi",
+         domain="xn--halvinshksopimus-1nb04a.fi",
+         y_tunnus="3337062-2",
+         omistaja="Optolead Oy"),
+    dict(slug="sahkonkilpailutus-com", nimi="Sähkön-kilpailutus.com",
+         domain="xn--shkn-kilpailutus-vnb04a.com",
+         y_tunnus="2658911-6",
+         omistaja="WebCube Oy, Alavus (myös VertaaLainaa.fi ja VertaaLiittymät.fi)"),
+    dict(slug="valitseparas", nimi="ValitseParas.fi", domain="valitseparas.fi",
+         y_tunnus="3251768-8",
+         omistaja="Valo Sales Oy (rek. 2021)"),
+]
+
 if __name__ == "__main__":
     # Slugs must be unique — a collision would overwrite a page.
     # Y-tunnus may legitimately repeat: in `luottokortit` the unit is a CARD, not a

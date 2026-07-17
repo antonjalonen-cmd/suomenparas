@@ -1,0 +1,58 @@
+{
+  "slug": "valitseparas",
+  "tarjoukset_ilman_yhteystietoja": "osittain",
+  "ansaintamalli_kerrottu": "osittain",
+  "kattavuus_kerrottu": "osittain",
+  "yhtiot_listattu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "3251768-8",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "ei",
+  "puhelin": null,
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Ilmainen ja nopea sähkösopimuksien vertailutyökalu",
+    "Kattava koulutussisältö sopimuksista ja säästövinkeistä",
+    "Kulutusarviolaskuri helpottaa sopimuksien valintaa"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero ja aukioloajat puuttuvat asiakaspalvelussa",
+    "Usein kysytyt kysymykset -sivu ei toimi (HTTP 404) navigaatiosta huolimatta",
+    "Vertailussa mukana olevat sähköyhtiöt näkyvät vain JavaScript-sisällössä"
+  ],
+  "yhteenveto": "ValitseParas.fi on vuonna 2026 julkaistu ilmainen sähkösopimuksien vertailupalvelu, jonka takana on Valo Sales Oy. Sivusto tarjoaa helppokäyttöisen vertailutyökalun ja kattavaa koulutussisältöä sopimuksista, mutta tärkeät tiedot kuten vertailussa mukana olevien yhtiöiden lista ovat saavuttamattomissa staattikoolla. Asiakaspalvelu toimii vain sähköpostitse ilman puhelinnumeroa tai määriteltyjä aukioloaikoja.",
+  "evidence": {
+    "tarjoukset_ilman_yhteystietoja": "Sähköyhtiöiden kontaktitiedot puuttuvat ValitseParas-sivustolta. Käyttäjä ohjataan suoraan sähköyhtiöiden omille sivuille sopimuksen tekemisen yhteydessä. Yhtiöiden tiedot näkyvät vertailussa, mutta suoraa yhteystietoa sivustolla ei anneta.",
+    "ansaintamalli_kerrottu": "Tietosuojaselosteessa mainitaan affiliate-linkit (Adtraction) ja huomautus 'Hinnoitteluun se ei vaikuta'. Yksityiskohtainen provisio- tai ansaintamalli ei ole kuvattu avoimesti.",
+    "kattavuus_kerrottu": "Etusivulla mainitaan 'suositummat sähköyhtiöt' ja 'Vertailussa mukana', mutta tarkka määrä ja lista yhtiöistä näkyvät vain JavaScript-renderöidyssä sisällössä, jota staattinen fetch-työkalu ei pysty lukemaan.",
+    "yhtiot_listattu": "Yhtiöiden lista löytyy osoitteesta https://www.valitseparas.fi/sahkosopimukset, mutta se on JavaScript-renderöityä sisältöä. Fetch-työkalu saa HTTP 200:n mutta ei näe todellista sisältöä.",
+    "y_tunnus_esilla": "Valo Sales Oy ja Y-tunnus 3251768-8 näkyvät tietosuojaselostesivulla.",
+    "riippumaton_arvio": "Tietosuojaseloste paljastaa affiliate-linkkien käytön ja provision saamisen suosituksista, joten palvelu ei ole riippumaton vaan ansaitsee referraaleista.",
+    "ukk_osio": "Navigaatiossa on 'Usein kysyttyä' -linkki, mutta osoite /usein-kysyttyae palauttaa HTTP 404. Sivua ei ole saatavilla.",
+    "mobiilisovellus": "Mobiilisovellusta ei mainita missään sivuston osassa.",
+    "puhelin_esilla": "Puhelinnumeroa ei ole julkaistu. Asiakaspalvelu on vain sähköpostin välityksellä.",
+    "email_esilla": "Sähköpostiosoite valitseparas@info.fi on näkyvissä joka sivulla.",
+    "chat_mainittu": "Chat-palvelua ei mainita.",
+    "aukioloajat_esilla": "Aukioloaikoja ei ole määritelty. Meistä-sivulla sanotaan vain 'vastaamme ensin mahdollisuuden tullen'."
+  },
+  "fetched_ok": [
+    "https://www.valitseparas.fi/",
+    "https://www.valitseparas.fi/tietosuojaseloste",
+    "https://www.valitseparas.fi/meista",
+    "https://www.valitseparas.fi/sahkosopimukset"
+  ]
+}

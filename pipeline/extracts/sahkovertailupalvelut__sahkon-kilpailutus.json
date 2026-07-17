@@ -1,0 +1,60 @@
+{
+  "slug": "sahkon-kilpailutus",
+  "tarjoukset_ilman_yhteystietoja": "ei",
+  "ansaintamalli_kerrottu": "kylla",
+  "kattavuus_kerrottu": "ei",
+  "yhtiot_listattu": "ei",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "2933035-3",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": 4.7,
+    "maara": 10000,
+    "lahde": null
+  },
+  "puhelin_esilla": "ei",
+  "puhelin": null,
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Yksinkertainen ja nopea sähkösopimuksien vertailuprosessi",
+    "Kattavat tiedot eri sopimustyypeistä ja hinnoittelumallista",
+    "Avoimesti kerrottu ansaintamalli - palvelun käyttö ilmaista"
+  ],
+  "kehityskohteet": [
+    "Hintatiedot näkyvät vasta lomakkeen täytön jälkeen",
+    "Puhelinnumero puuttuu yhteystiedoista",
+    "Vertailuun kuuluvien sähköyhtiöiden lista ei ole näkyvissä"
+  ],
+  "yhteenveto": "Sähkön-kilpailutus.fi on Comperion Oy:n ylläpitämä ilmainen sähkösopimuksien vertailupalvelu, joka on toiminut vuodesta 2019. Palvelun vahvuuksina ovat selkeä käyttöliittymä, kattavat tiedot eri sopimustyypeistä ja läpinäkyvä ansaintamalli yhteistyökumppaneiden palkkioista. Kehitettävää on hintojen esille tuomisessa ennen lomakkeen täyttöä sekä kilpailevien yhtiöiden eksplisiittisessä listaamisessa.",
+  "evidence": {
+    "tarjoukset_ilman_yhteystietoja": "Hintatiedot ja sopimukset näkyvät vertailutyökalussa vasta kun käyttäjä täyttää asuntonsa tiedot tai sähkönkulutuksen ja käynnistää vertailun.",
+    "ansaintamalli_kerrottu": "Sivulla selkeästi mainitaan: 'Sivuston käyttäminen on täysin maksutonta. Toimintamme perustuu yhteistyökumppaneilta saatuihin palkkioihin.'",
+    "kattavuus_kerrottu": "Sivulla mainitaan 'sähköyhtiöt' yleisesti, mutta ei ole listausta siitä, mitkä yritykset ovat vertailussa mukana.",
+    "yhtiot_listattu": "Sivuilla ei ole eksplisiittistä listaa vertailussa mukana olevista sähköyhtiöistä.",
+    "y_tunnus_esilla": "Y-tunnus 2933035-3 näkyy jalkapalkin Comperion Oy:n tiedoissa sekä 'Tietoa meistä' ja 'Ota yhteyttä' sivuilla.",
+    "riippumaton_arvio": "Sivuilla ei mainita ulkopuolista auditointia tai riippumatonta arviota palvelusta.",
+    "asiakasarvio": "Etusivulla näkyy '4.7 ★ +10 000 arvostelua' sekä asiakaspalautteet, mutta lähde (esim. Trustpilot, Google) ei ole mainittu.",
+    "puhelin_esilla": "Puhelinnumero ei näy yhteystiedoissa.",
+    "email_esilla": "Sähköpostiosoite info@sahkon-kilpailutus.fi näkyy useilla sivuilla.",
+    "chat_mainittu": "Live-chatti ei ole mainittu palvelussa.",
+    "aukioloajat_esilla": "Sivulla kerrotaan: 'Asiakaspalvelumme palvelee arkisin kello 10-18 välisenä aikana.'",
+    "ukk_osio": "Etusivu sisältää vastauksia usein kysyttyihin kysymyksiin: 'Miten kilpailutus tapahtuu?' ja 'Voiko sähkösopimuksen kilpailuttaa milloin tahansa?' sekä 'Tutustu tähän ennen tilaamista' -osion.",
+    "mobiilisovellus": "Mobiilisovelluksesta ei ole mainintaa sivuilla."
+  },
+  "fetched_ok": [
+    "https://www.sahkon-kilpailutus.fi/",
+    "https://www.sahkon-kilpailutus.fi/tietoa-meista/",
+    "https://www.sahkon-kilpailutus.fi/ota-yhteytta/",
+    "https://www.sahkon-kilpailutus.fi/arvostelut/",
+    "https://www.sahkon-kilpailutus.fi/kayttoehdot/"
+  ]
+}

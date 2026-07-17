@@ -167,6 +167,17 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    # Comparison services live on commissions, so the vertical-specific questions
+    # are about the SERVICE's own transparency: offers visible before your data,
+    # who runs it, how it earns, and whether it admits its coverage limits.
+    "sahkovertailupalvelut": [
+        ("tarjoukset_ilman_yhteystietoja", "Tarjoukset ja hinnat näkyvät ilman yhteystietoja", 30),
+        ("ansaintamalli_kerrottu", "Ansaintamalli (komissiot) kerrottu avoimesti", 20),
+        ("kattavuus_kerrottu", "Vertailun kattavuus ja rajaukset kerrottu", 15),
+        ("yhtiot_listattu", "Vertailussa mukana olevat sähköyhtiöt listattu", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
 }
 
 # Human-readable criteria string rendered on the methodology page.

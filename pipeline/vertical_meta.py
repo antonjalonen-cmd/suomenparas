@@ -438,4 +438,41 @@ META = {
              "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
         ],
     },
+    "sahkovertailupalvelut": {
+        "slug": "sahkovertailupalvelut",
+        "nimi": "Sähkövertailupalvelut",
+        "nav": "Sähkövertailu",
+        "h1": "Suomen paras sähkövertailupalvelu 2026",
+        "yksikko": "sähkön kilpailutus- ja vertailupalvelua",
+        "lead": ("Kilpailutuspalvelut vertailevat sähköyhtiöitä — me vertailemme kilpailuttajat. "
+                 "Pisteytimme {n} suomalaista sähkövertailupalvelua {m} mittarilla. Tärkein kysymys: "
+                 "näetkö tarjoukset ennen kuin annat yhteystietosi — ja kerrotaanko, kuka palvelun "
+                 "takana on ja miten se tienaa?"),
+        "meta_title": "Suomen paras sähkövertailupalvelu 2026 — kilpailuttajat pisteytettynä | Suomen Paras",
+        "meta_desc": ("{n} suomalaista sähkön kilpailutuspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                      "Katso mistä jokainen piste tulee."),
+        "notes": [
+            ("<b>Omistus:</b> kaksi listan brändiä on sama yhtiö. <b>Sähkövertailu.fi ja VertaaEnsin "
+             "ovat molemmat Effortia Oy:tä</b> (2261132-0), joka kertoo itse olevansa osa Alma Mediaa "
+             "— sama kuvio kuin lainavertailussa, jossa Sambla Group omistaa useita \"kilpailevia\" "
+             "brändejä. Mukana on myös yksi ei-kaupallinen palvelu: <b>Sahkonhinta.fi on "
+             "Energiaviraston eli valtion valvontaviranomaisen ylläpitämä</b> — se toimii vertailun "
+             "puolueettomana mittatikkuna."),
+            ("<b>Miksi listalla on vain {n} palvelua?</b> Tarkistimme 17.7.2026 kaikkiaan 20 "
+             "hakutuloksissa näkyvää \"sähkövertailua\". Yli puolet karsiutui: <b>Zmarta</b> lopetti "
+             "sähkövertailunsa (sivu itse kertoo: \"ei ole tällä hetkellä toiminnassa\", päivitetty "
+             "viimeksi 15.9.2023), <b>Kilpailuta-sahkosopimus.fi</b> ja <b>Sahkon-hintavertailu.fi</b> "
+             "ovat saman oikean palvelun valkotarrakuoria, ja mm. <b>Halpasahko.com</b>, "
+             "<b>Sähkötarjouksia.fi</b> ja <b>Vertaa-hintaa.fi</b> ovat nimettömiä affiliate-sivustoja, "
+             "joilta ei löydy ylläpitäjän nimeä eikä Y-tunnusta — yksi mainosti heinäkuussa yhä Black "
+             "Friday -etuja ja Väre-brändiä, joka sulautui Heleniin 31.5.2026. "
+             "<b>Vertaa-kilpailuttajat.fi</b> jäi pois, koska se kertoo järjestyksensä perustuvan "
+             "osin sponsorointiin eikä sen ilmoittamaa Y-tunnusta löydy kaupparekisteristä."),
+            ("Kilpailutuspalvelu elää komissioista: sähköyhtiö maksaa palvelulle välitetystä "
+             "sopimuksesta. Se ei tee palvelusta huonoa — mutta se tekee läpinäkyvyydestä "
+             "tärkeää, ja siksi mittaamme erikseen, kerrotaanko ansaintamalli ja vertailun "
+             "kattavuus avoimesti. Emme vertaile sähkön hintoja emmekä suosittele sopimuksia. "
+             "Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+        ],
+    },
 }

@@ -1,0 +1,56 @@
+{
+  "slug": "sahkovertailu",
+  "tarjoukset_ilman_yhteystietoja": "osittain",
+  "ansaintamalli_kerrottu": "kylla",
+  "kattavuus_kerrottu": "kylla",
+  "yhtiot_listattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "2261132-0",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": 4.7,
+    "maara": 4200,
+    "lahde": null
+  },
+  "puhelin_esilla": "ei",
+  "puhelin": null,
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja sähköyhtiöiden kattavuus - 55 yhtiötä listattu kuvauksineen",
+    "Avoin ansaintamalli selkeästi kerrottu sivulla",
+    "Kattava tietopohja artikkeleista ja usein kysytyistä kysymyksistä"
+  ],
+  "kehityskohteet": [
+    "Sähkösopimusten tarjoukset näkyvät vain lomakkeen täyttämisen jälkeen",
+    "Asiakaspalvelu saatavilla vain sähköpostitse, puhelintukea ei ole",
+    "Kolmannen osapuolen arvosteluja (esim. Trustpilot) ei näy sivulla"
+  ],
+  "yhteenveto": "Sähkövertailu.fi on Effortia Oy:n tarjoama ilmainen sähkösopimuksien kilpailutus- ja vertailupalvelu, joka listaa 55 suomalaista sähköyhtiötä ja niiden tarjouksia. Palvelu on läpinäkyvä ansaintamallinsa osalta (provisio jokaisesta sopimuksesta) ja tarjoaa kattavaa tietoa sähkösopimusten tyypeistä, hintavertailusta ja energiasta. Asiakaspalvelu on saatavilla vain sähköpostitse, puhelintukea ei ole.",
+  "evidence": {
+    "tarjoukset_ilman_yhteystiedoja": "Etusivulla olevan lomakkeen kautta käyttäjä täyttää asunnon tyypin, lämmitystavan ja pinta-alan nähdäkseen hintatarjoukset. Tarjoukset näkyvät vain lomakkeen täyttämisen ja tietojen lähetyksen jälkeen.",
+    "ansaintamalli_kerrottu": "HAVAINTO: Sivulla kerrotaan avoimesti 'Sähkövertailu.fi saa pienen palkkion jokaisesta uudesta sähkösopimuksesta, joka on solmittu sivujemme kautta.'",
+    "kattavuus_kerrottu": "HAVAINTO: Palvelun kuvataan sisältävän kaikki Suomen sähkönmyyjät, mutta suorat sopimukset voidaan tehdä vain Sähkövertailun yhteistyökumppaneiden kanssa.",
+    "yhtiot_listattu": "HAVAINTO: Sivulla on erillinen Sähköyhtiöt-sivu, jossa luetellaan 55 sähköyhtiötä niiden kuvauksineen ja linkeillä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2261132-0 näkyy yhteystiedot-sivulla.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla näytetään arvosanat (4,7/5, yli 4200 arvostelua) mutta kolmannen osapuolen lähde (esim. Trustpilot) ei ilmene, arvostelut näyttävät olevan palvelun omia.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla sanotaan '(ei asiakaspalvelua)' puhelimen osalta, vain sähköpostiosoite on annettu.",
+    "email_esilla": "HAVAINTO: Yhteystietojen sähköpostiosoite [email protected] on selvästi näkyvissä.",
+    "ukk_osio": "HAVAINTO: Etusivulla on 'Usein kysyttyä' -osio, joka sisältää kysymyksiä kuten 'Maksaako sähkön vertailu jotain?' ja 'Minkä sähköyhtiöiden hintoja palvelussa voi vertailla?'"
+  },
+  "fetched_ok": [
+    "https://sahkovertailu.fi/",
+    "https://sahkovertailu.fi/yhteystiedot",
+    "https://sahkovertailu.fi/artikkelit",
+    "https://sahkovertailu.fi/sahkoyhtiot",
+    "https://sahkovertailu.fi/kayttoehdot"
+  ]
+}

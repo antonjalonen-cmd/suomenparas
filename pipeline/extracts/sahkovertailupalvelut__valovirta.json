@@ -1,0 +1,56 @@
+{
+  "slug": "valovirta",
+  "tarjoukset_ilman_yhteystietoja": "osittain",
+  "ansaintamalli_kerrottu": "kylla",
+  "kattavuus_kerrottu": "kylla",
+  "yhtiot_listattu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "3358519-9",
+  "riippumaton_arvio": "kylla",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "ei",
+  "puhelin": null,
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Yksilölliset hinnaennusteet omaan sähkönkulutushistoriaan perustuen",
+    "Palvelun ansaintamalli avattu selvästi: komissio sopimuksista, ei maksua näkyvyydestä",
+    "Integrointi Nord Pool ja Nasdaq markkinadatoihin reaaliajassa"
+  ],
+  "kehityskohteet": [
+    "Vertailutyökalun hintanäkymät vaativat JavaScript-renderointia, eivät näy staattiselle haulle",
+    "Vertailuihin kuuluvien sähköyhtiöiden lista ei ole helposti saatavilla ilman vertailutyökalun käyttöä",
+    "Asiakaspalvelun puhelinnumeroa ei ole näkyvissä, vain sähköpostiosoite"
+  ],
+  "yhteenveto": "Valovirta on EnCoHub Oy:n operoimaa itsenäistä sähkösopimusten vertailupalvelua, joka yhdistää kuluttajien todellisia kulutustietoja Fingrid Datahubin kautta ja reaaliaikaisia sähköpörssin markkinahintoja antaakseen yksilöllisiä hinnaennusteita ja sopimuksia. Palvelu ei myy näkyvyyttä sähköyhtiöille, vaan saa tulonsa tehdyistä sopimuksista syntyneistä provisioista. Ansaintamalli ja riippumattomuus on avattu selvästi asiakaspalvelu- ja affiliate-sivuilla.",
+  "evidence": {
+    "tarjoukset_ilman_yhteystietoja": "Vertailutyökalulla näytettävät sopimustarjoukset ja hinnat vaativat JavaScript-renderointia. Asiakaspalvelun FAQ vahvistaa, että hinnat ovat näkyvissä ennen yhteydenottoa, mutta tämä näkymä ei ole saatavilla fetch_page.py:llä.",
+    "ansaintamalli_kerrottu": "Käyttöehdoissa: 'Palvelun ansaintalogiikka perustuu sähkösopimustilauksista Sähkönmyyjiltä saatavaan komissioon.' Asiakaspalvelun FAQ vastaa kysymykseen 'Maksavatko sähköyhtiöt siitä, että Valovirta mainostaa niiden sopimuksia?' vastauksella että palvelusta ei voi ostaa mainontaa ja pieni palkkio saadaan 'syntyneestä sopimuksesta'.",
+    "kattavuus_kerrottu": "Pääsivulla mainitaan 'useita sähköyhtiöitä'. Termit kuvaavat että sähkönmyyjät voivat julkaista 'yleisiä tai tietyille käyttäjäryhmille kohdennettuja tarjouksia'.",
+    "yhtiot_listattu": "Yhtiöiden nimet mainitaan yleisesti ('useita sähköyhtiöitä'), mutta spesifinen lista näkyy vain vertailutyökalussa, jota fetch_page.py ei voi renderöidä.",
+    "riippumaton_arvio": "Pääsivulla: 'Emme myy lisänäkyvyyttä sähköyhtiöille vaan saamasi suositus on aidosti sinulle paras.' Asiakaspalvelun FAQ: 'Meiltä ei voi ostaa mainontaa emmekä veloita sähköyhtiöiltä... Tämän seurauksena meillä ei ole intressejä promota jotain tiettyä sähköyhtiötä tai sopimusta.'",
+    "puhelin_esilla": "Asiakaspalvelusivulla vain sähköpostiosoite asiakaspalvelu@valovirta.fi, puhelinnumeroa ei ole näkyvissä millään julkisella sivulla.",
+    "email_esilla": "asiakaspalvelu@valovirta.fi näkyvissä asiakaspalvelusivulla, tietosuoja@encohub.com tietosuojaselosteessa.",
+    "ukk_osio": "Kutatko sivuilla 'Usein kysytty' linkki päävalikossa ja asiakaspalvelusivulla on laaja FAQ-osio monista käyttäjän kysymyksistä."
+  },
+  "fetched_ok": [
+    "https://valovirta.fi/",
+    "https://valovirta.fi/tietosuojaseloste/",
+    "https://valovirta.fi/asiakaspalvelu/",
+    "https://valovirta.fi/sahkon-hinta/sahkon-hintalaskuri/",
+    "https://valovirta.fi/affiliate/",
+    "https://valovirta.fi/kayttoehdot/"
+  ]
+}

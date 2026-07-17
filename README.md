@@ -25,6 +25,7 @@ Suomen läpinäkyvin vertailupalvelu (konseptidemo).
 | Kotivakuutukset | 6 | 17.7.2026 |
 | Matkavakuutukset | 6 | 17.7.2026 |
 | Lemmikkivakuutukset | 6 | 17.7.2026 |
+| Sähkövertailupalvelut | 9 | 17.7.2026 |
 
 Measurement dates live in `build_vertical.MEASURED` — per vertical, set when it was actually
 measured. Rebuilding an old category must never restamp it with today's date.

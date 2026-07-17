@@ -1,0 +1,58 @@
+{
+  "slug": "sahkonhinta",
+  "tarjoukset_ilman_yhteystietoja": "kylla",
+  "ansaintamalli_kerrottu": "kylla",
+  "kattavuus_kerrottu": "kylla",
+  "yhtiot_listattu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": null,
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": null,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "kylla",
+  "puhelin": "029 5050 000",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Viranomaisen ylläpitämä neutraali sähkövertailupalvelu ilman maksuita",
+    "Kattava hintavertailu postinumeron ja kulutusprofiilin perusteella",
+    "Laaja FAQ-osio sähköpostuksista, sopimuksista ja säästöistä"
+  ],
+  "kehityskohteet": [
+    "Vertailutulossivun JavaScript-renderöinti rajoittaa pääsyä ilman selainta",
+    "Saavutettavuuseloste todentaa puutteita taulukkojen rakenteessa ja näppäimistökäytössä",
+    "Asiakasarvioiden tai kolmannen osapuolen riippumattomien arviointien puute"
+  ],
+  "yhteenveto": "Energiaviraston ylläpitämä virallinen sähkönhintavertailupalvelu, joka tarjoaa neutraalia vertailutyökalua kaikille sähkönmyyjille tasapuolisen näkyvyyden kanssa. Palvelu on maksuton ja kattaa kaikki yleisesti tarjolla olevat sähkötuotteet. Käyttäjät voivat verrata hintatietoja postinumeron ja vuosikulutuksen perusteella, ja palvelussa on kattava FAQ-osio energiatehokkuudesta ja sopimustyypeistä. Vertailutulokset vaativat JavaScriptin renderöintiä.",
+  "evidence": {
+    "tarjoukset_ilman_yhteystietoja": "Hintatiedot saatavilla vertailussa, mutta ostoksen tekeminen ohjataan suoraan sähkönmyyjien palveluihin: 'Valitse itsellesi sopivin sähkönmyyjä. Ota yhteys valitsemaasi sähkönmyyjään tai täytä myyjän verkkosivuilla sähkösopimuksen tilauslomake.'",
+    "ansaintamalli_kerrottu": "'Palvelua ylläpitää Energiavirasto' ja 'Sähkönmyyjät ilmoittavat tuotetiedot palveluun itse ja vastaavat tietojen oikeellisuudesta.' Palvelu on maksuton, myyjät ovat velvoitettuja ilmoittamaan hinnat.",
+    "kattavuus_kerrottu": "'se sisältää kaikkien sähkönmyyjien yleisesti tarjolla olevat tuotteet' ja 'Sähkön myyjillä on velvollisuus ilmoittaa sähkön myyntituotteiden hintatiedot Energiavirastolle.'",
+    "yhtiot_listattu": "Tasapuolinen näkyvyys kaikille sähkönmyyjille ilmoitetaan FAQ:ssa, mutta vertailutulokset näkyvät vain JavaScript-renderöinnin jälkeen, joten yritysnimet eivät ole staattisesti nähtävissä.",
+    "y_tunnus_esilla": "Energiavirasto (virallinen nimi: Energiaviraston sähkönhintavertailupalvelu) on selvästi tunnistettu valtion viranomaisena. Valtion viranomaisille ei ole Y-tunnusta, mutta operaattorin identiteetti on täysin läpinäkyvä.",
+    "riippumaton_arvio": "Sivustolla ei ole kolmannen osapuolen riippumattomia arviointeja tai auditoija-sertifiointeja (lukuun ottamatta saavutettavuusselosteen Eficode Oy -auditiota).",
+    "asiakasarvio": "Asiakasarvioita tai tähtiluokituksia ei ole.",
+    "puhelin_esilla": "Puhelinvaihde mainittu About Us -sivulla: 029 5050 000",
+    "email_esilla": "Sähköpostiosoite mainittu: kirjaamo@energiavirasto.fi",
+    "chat_mainittu": "Sekä palvelun etusivulla että FAQ:ssa ei ole mainintaa chat- tai pikaviestipalvelusta.",
+    "aukioloajat_esilla": "Aukioloaikoja ei lueteltu missään sivuston osassa.",
+    "ukk_osio": "Laaja FAQ-osio osoitteessa /faq, joka sisältää kysymyksiä hinnoittelusta, sopimuksista, energian alkuperästä ja säästöistä.",
+    "mobiilisovellus": "Mobiilisovellusta ei mainittu missään sivuston osissa."
+  },
+  "fetched_ok": [
+    "https://sahkonhinta.fi",
+    "https://sahkonhinta.fi/aboutus",
+    "https://sahkonhinta.fi/faq"
+  ]
+}

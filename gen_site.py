@@ -55,7 +55,7 @@ CATEGORY_GROUPS = [
     # Meta-flagship: categories that rank comparison services themselves ("vertailemme vertailijat").
     ("Vertailupalvelut", [
         ("Lainavertailupalvelut", "lainavertailu", True),
-        ("Sähkövertailupalvelut", None, False), ("Vakuutusvertailupalvelut", None, False),
+        ("Sähkövertailupalvelut", "sahkovertailupalvelut", True), ("Vakuutusvertailupalvelut", None, False),
         ("Hintavertailupalvelut", None, False), ("Matka- ja hotellivertailut", None, False),
         ("Lentovertailupalvelut", None, False),
     ]),

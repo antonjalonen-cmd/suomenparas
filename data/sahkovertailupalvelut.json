@@ -1,0 +1,1935 @@
+{
+ "slug": "sahkovertailupalvelut",
+ "nimi": "Sähkövertailupalvelut",
+ "nav": "Sähkövertailu",
+ "h1": "Suomen paras sähkövertailupalvelu 2026",
+ "yksikko": "sähkön kilpailutus- ja vertailupalvelua",
+ "lead": "Kilpailutuspalvelut vertailevat sähköyhtiöitä — me vertailemme kilpailuttajat. Pisteytimme {n} suomalaista sähkövertailupalvelua {m} mittarilla. Tärkein kysymys: näetkö tarjoukset ennen kuin annat yhteystietosi — ja kerrotaanko, kuka palvelun takana on ja miten se tienaa?",
+ "meta_title": "Suomen paras sähkövertailupalvelu 2026 — kilpailuttajat pisteytettynä | Suomen Paras",
+ "meta_desc": "9 suomalaista sähkön kilpailutuspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> kaksi listan brändiä on sama yhtiö. <b>Sähkövertailu.fi ja VertaaEnsin ovat molemmat Effortia Oy:tä</b> (2261132-0), joka kertoo itse olevansa osa Alma Mediaa — sama kuvio kuin lainavertailussa, jossa Sambla Group omistaa useita \"kilpailevia\" brändejä. Mukana on myös yksi ei-kaupallinen palvelu: <b>Sahkonhinta.fi on Energiaviraston eli valtion valvontaviranomaisen ylläpitämä</b> — se toimii vertailun puolueettomana mittatikkuna.",
+  "<b>Miksi listalla on vain 9 palvelua?</b> Tarkistimme 17.7.2026 kaikkiaan 20 hakutuloksissa näkyvää \"sähkövertailua\". Yli puolet karsiutui: <b>Zmarta</b> lopetti sähkövertailunsa (sivu itse kertoo: \"ei ole tällä hetkellä toiminnassa\", päivitetty viimeksi 15.9.2023), <b>Kilpailuta-sahkosopimus.fi</b> ja <b>Sahkon-hintavertailu.fi</b> ovat saman oikean palvelun valkotarrakuoria, ja mm. <b>Halpasahko.com</b>, <b>Sähkötarjouksia.fi</b> ja <b>Vertaa-hintaa.fi</b> ovat nimettömiä affiliate-sivustoja, joilta ei löydy ylläpitäjän nimeä eikä Y-tunnusta — yksi mainosti heinäkuussa yhä Black Friday -etuja ja Väre-brändiä, joka sulautui Heleniin 31.5.2026. <b>Vertaa-kilpailuttajat.fi</b> jäi pois, koska se kertoo järjestyksensä perustuvan osin sponsorointiin eikä sen ilmoittamaa Y-tunnusta löydy kaupparekisteristä.",
+  "Kilpailutuspalvelu elää komissioista: sähköyhtiö maksaa palvelulle välitetystä sopimuksesta. Se ei tee palvelusta huonoa — mutta se tekee läpinäkyvyydestä tärkeää, ja siksi mittaamme erikseen, kerrotaanko ansaintamalli ja vertailun kattavuus avoimesti. Emme vertaile sähkön hintoja emmekä suosittele sopimuksia. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "halvinsahkosopimus",
+   "nimi": "Halvinsähkösopimus.fi",
+   "domain": "xn--halvinshksopimus-1nb04a.fi",
+   "omistaja": "Optolead Oy",
+   "y_tunnus": "3337062-2",
+   "rekisteroity": 2023,
+   "score": 75.0,
+   "pillars": {
+    "digitaalinen": 79.4,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla näkyy vuorovaikutteinen vertailutaulukko sopimuksineen ja hinnoittelun ilman yhteydenottopyyntöä; yksityiskohtiin pääsee klikkaamalla"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietoa meistä -sivulla selkeästi mainittu: 'Ansaitsemme rahaa suoraan sähköyhtiöiltä komissioina, kun he listaavat sopimuksensa meidän kautta myyntiin'"
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla kerrotaan palvelun olevan 'kaikkialla Suomessa toimiva' ja vertailussa olevan '11+ sähköyhtiötä'"
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla näkyy kolmen parhaan sopimuksen lista (Fortum, Nordic Green Energy, Sähkötytöt) ja linkki kaikkien näyttämiseen"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Y-tunnus 3337062-2 näkyy sekä 'Tietoa meistä' -sivulla että sivuston footerissa"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei mainita kolmannen osapuolen tekemiä auditointeja, sertifiointeja tai riippumattomia arvioita"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Footerissa ja tietoa meistä -sivulla mainitaan vain sähköpostiosoite, ei puhelinnumeroa; asiakaspalvelu avoinna Ma-Pe 9-17"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostiosoite info@halvinsahkosopimus.fi näkyy useissa paikoissa: footerissa, tietoa meistä -sivulla ja kontaktilinkeissä"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Asiakaspalvelun aukioloajat (Ma-Pe 9-17) mainittu footerissa"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla näkyy 'Usein kysytyt kysymykset' -osio 11 kysymyksellä sähkösopimusten valintaan liittyen"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei mainita mobiilisovellusta tai sen saatavuutta missään kohtaa"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 86,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 3018.115,
+    "cls": 0.0008274197269179264,
+    "tbt_ms": 2514.633
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä vertailutaulukko ja intuitiivinen suodatusmahdollisuus kattavilla kriteereillä",
+    "Laaja sähköyhtiöiden kattavuus (11+) ja ajankohtaiset, päivitettävät hintatiedot",
+    "Läpinäkyvä ansaintamalli: provisio sähköyhtiöiltä, ei maksuja asiakkaalta"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero asiakaspalvelulle puuttuu, vain sähköpostiyhteys saatavilla",
+    "Riippumaton ulkopuolinen arviointi, auditoinit tai sertifioinnit puuttuvat kokonaan",
+    "Mobiilisovellusta ei ole olemassa eikä sitä mainita sivustolla"
+   ],
+   "yhteenveto": "Halvinsähkösopimus.fi on Optolead Oy:n hallinnoima sähkövertailupalvelu, joka tarjoaa ilmaisen kilpailutusjärjestelmän yli 11 sähköyhtiölle koko Suomessa. Palvelu rahoitetaan sähköyhtiöiden provisioilla ilman maksuja käyttäjille, ja se on selkeästi rakennettu kattavilla suodatusvalinnoilla sekä laajalla tukisisällöllä. Korkea asiakastyytyväisyys (4,5/5 tähteä, 789 arvostelua) heijastaa palvelun toimivuutta ja käytettävyyttä."
+  },
+  {
+   "slug": "sahkonhinta",
+   "nimi": "Sahkonhinta.fi (Energiavirasto)",
+   "domain": "sahkonhinta.fi",
+   "omistaja": "Energiavirasto — valtion viranomainen, sähkömarkkinoiden valvoja",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.9,
+   "pillars": {
+    "digitaalinen": 73.0,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "91/100",
+       "paino": 15,
+       "pisteet": 91,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintatiedot saatavilla vertailussa, mutta ostoksen tekeminen ohjataan suoraan sähkönmyyjien palveluihin: 'Valitse itsellesi sopivin sähkönmyyjä. Ota yhteys valitsemaasi sähkönmyyjään tai täytä myyjän verkkosivuilla sähkösopimuksen tilauslomake.'"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'Palvelua ylläpitää Energiavirasto' ja 'Sähkönmyyjät ilmoittavat tuotetiedot palveluun itse ja vastaavat tietojen oikeellisuudesta.' Palvelu on maksuton, myyjät ovat velvoitettuja ilmoittamaan hinnat."
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'se sisältää kaikkien sähkönmyyjien yleisesti tarjolla olevat tuotteet' ja 'Sähkön myyjillä on velvollisuus ilmoittaa sähkön myyntituotteiden hintatiedot Energiavirastolle.'"
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tasapuolinen näkyvyys kaikille sähkönmyyjille ilmoitetaan FAQ:ssa, mutta vertailutulokset näkyvät vain JavaScript-renderöinnin jälkeen, joten yritysnimet eivät ole staattisesti nähtävissä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Energiavirasto (virallinen nimi: Energiaviraston sähkönhintavertailupalvelu) on selvästi tunnistettu valtion viranomaisena. Valtion viranomaisille ei ole Y-tunnusta, mutta operaattorin identiteetti on täysin läpinäkyvä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivustolla ei ole kolmannen osapuolen riippumattomia arviointeja tai auditoija-sertifiointeja (lukuun ottamatta saavutettavuusselosteen Eficode Oy -auditiota)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Puhelinvaihde mainittu About Us -sivulla: 029 5050 000"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostiosoite mainittu: kirjaamo@energiavirasto.fi"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sekä palvelun etusivulla että FAQ:ssa ei ole mainintaa chat- tai pikaviestipalvelusta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Aukioloaikoja ei lueteltu missään sivuston osassa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Laaja FAQ-osio osoitteessa /faq, joka sisältää kysymyksiä hinnoittelusta, sopimuksista, energian alkuperästä ja säästöistä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Mobiilisovellusta ei mainittu missään sivuston osissa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 82,
+    "seo": 91,
+    "best_practices": 96,
+    "lcp_ms": 10414.851,
+    "cls": 0.01280079924016791,
+    "tbt_ms": 776.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Viranomaisen ylläpitämä neutraali sähkövertailupalvelu ilman maksuita",
+    "Kattava hintavertailu postinumeron ja kulutusprofiilin perusteella",
+    "Laaja FAQ-osio sähköpostuksista, sopimuksista ja säästöistä"
+   ],
+   "kehityskohteet": [
+    "Vertailutulossivun JavaScript-renderöinti rajoittaa pääsyä ilman selainta",
+    "Saavutettavuuseloste todentaa puutteita taulukkojen rakenteessa ja näppäimistökäytössä",
+    "Asiakasarvioiden tai kolmannen osapuolen riippumattomien arviointien puute"
+   ],
+   "yhteenveto": "Energiaviraston ylläpitämä virallinen sähkönhintavertailupalvelu, joka tarjoaa neutraalia vertailutyökalua kaikille sähkönmyyjille tasapuolisen näkyvyyden kanssa. Palvelu on maksuton ja kattaa kaikki yleisesti tarjolla olevat sähkötuotteet. Käyttäjät voivat verrata hintatietoja postinumeron ja vuosikulutuksen perusteella, ja palvelussa on kattava FAQ-osio energiatehokkuudesta ja sopimustyypeistä. Vertailutulokset vaativat JavaScriptin renderöintiä."
+  },
+  {
+   "slug": "vertaaensin",
+   "nimi": "VertaaEnsin (sähkö)",
+   "domain": "vertaaensin.fi",
+   "omistaja": "Effortia Oy — osa Alma Mediaa (yhtiön oma ilmoitus); sama omistaja kuin Sähkövertailu.fi",
+   "y_tunnus": "2261132-0",
+   "rekisteroity": 2009,
+   "score": 72.4,
+   "pillars": {
+    "digitaalinen": 77.4,
+    "lapinakyvyys": 92.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 77.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "63/100",
+       "paino": 40,
+       "pisteet": 63,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "74/100",
+       "paino": 30,
+       "pisteet": 74,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietoa meistä -sivulla: 'Toimintamme perustuu yhteistyökumppaneilta saatuun palkkioon, joten vertailu on aina sinulle täysin maksutonta.'"
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan 'yli 70 ajankohtaista sopimusta' ja '40+ sähköyhtiötä', mutta ei eksplisiittisesti ilmoiteta, mitkä yritykset sisältyvät tai miksi jotkut voitaisiin jättää pois."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan 'Sähköalan toimijat palveluksessasi' ja 'Yhteistyökumppanit' -osio näyttää, että 40+ yritystä on vertailussa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla: 'Palvelumme on täysin riippumaton ja palvelustamme löydät useita eri rahoitustuotteita ja toimijoita.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Puhelinnumeroa ei löytynyt sivulla. Asiakaspalvelu saavutettavissa vain sähköpostitse (asiakaspalvelu@vertaaensin.fi)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Chat-palvelua ei mainittu missään sivuston osassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Asiakaspalvelun aukioloaikoja ei ilmoiteta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Laaja 'Sähkön kilpailutus - Usein kysyttyä' -osio sivulla sahkon-kilpailutus/"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Mobiilisovellusta ei mainita sivuston missään osassa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 63,
+    "accessibility": 74,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3217.2685,
+    "cls": 0.02507088670730593,
+    "tbt_ms": 1838.9345000000008
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava vertailu – yli 70 ajankohtaista sähkösopimusta ja 40+ sähköyhtiötä",
+    "Ilmainen, sitoumukseton palvelu ilman piilokuluja tai rekisteröintipakkoa",
+    "Selkeä kolmivaiheinen kilpailutusproses ja laaja FAQ-osio käytännön ohjeista"
+   ],
+   "kehityskohteet": [
+    "Puuttuu puhelinpäivystys asiakaspalvelulle (vain sähköposti saatavilla)",
+    "Ei selkeästi ilmoitettuja aukioloaikoja tai pikaresponssitakuuta",
+    "Asiakasarviota ei ole merkitty selkeällä lähteellä (mahdollisesti sisäiset arvostelut)"
+   ],
+   "yhteenveto": "VertaaEnsin.fi on Alma Median omistama sähkövertailupalvelu, joka vertaa yli 70 sopimusta 40+ sähköyhtiöltä. Palvelu on ilmainen, sitoumukseton ja selkeästi perustuva yhteistyökumppaneiden palkkioihin. Kilpailutusproses on helppokäyttöinen ja hinnat näkyvät ilman yhteydenottotietoja, mutta asiakaspalvelun tavoittaminen rajoittuu sähköpostiin."
+  },
+  {
+   "slug": "kilpailuttaja",
+   "nimi": "Kilpailuttaja.fi",
+   "domain": "kilpailuttaja.fi",
+   "omistaja": "Energy Brokers Finland Oy (per. 2003)",
+   "y_tunnus": "1811203-5",
+   "rekisteroity": 2003,
+   "score": 67.1,
+   "pillars": {
+    "digitaalinen": 70.7,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Missään sivuissa (etusivu, mika-kilpailuttaja, asiakaspalvelu, yleiset kayttoehdot, tietosuojaseloste) ei sanota, miten Kilpailuttaja.fi ansaitsee rahaa. Ei mainintaa provisioista, palkkioista tai sähköyhtiöiden maksuista."
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'sahkon-kilpailutus' sivulla sanotaan '100 % puolueeton sähkövertailu – kilpailutuksessa mukana 15 sähköyhtiötä', mutta rajoja ei selvitetä. Sitä vastoin sivulla on lause: 'Miksi sähkönsiirtoa ei voi kilpailuttaa? Sähkönsiirto säilyy aina paikallisen verkkoyhtiön vastuulla.' Näin rajausta on, mutta rajaa ei ole selvästi julkaistu."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Dropdown-valikossa 'Nykyinen sähköyhtiösi' on listattu yli 80 yhtiötä (Alajärven Sähkö, Enefit, Fortum, Helen, Vattenfall, Nivos, jne.), mikä ylittää mainitut '15 yhtiötä' – vertailussahan mukana sähköyhtiöt ovat erilaiset kuin mitä käyttäjä valitsee nykyiseksi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kilpailuttaja.fi ei mainitse riippumaattomuudesta tai auditoidusta luokituksesta. Sanotaan 'Yritys on työntekijöidensä omistama osakeyhtiö', mikä on omistuksen mallia, ei riippumattomuuden todistusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11635.765925000002,
+    "cls": 9.06168600258752e-05,
+    "tbt_ms": 3964.806190000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "49 sähkösopimusta näkyvillä konkreettisin hinnoilla ilman yhteystietojen antamista",
+    "15 sähköyhtiön vertailu yhdelle sivulle, helppo vertailu suodattimella (hintamalli, tuotantotapa, sopimuksen kesto)",
+    "Avoin ansaintamalli: suomalaisomistuksinen, yli 20 vuoden kokemus, 600 000 välitettyä sopimusta"
+   ],
+   "kehityskohteet": [
+    "Ei selvää tietoa siitä, kuinka palvelu ansaitsee rahaa (provisiot, kumppanuuspalkkiot yms)",
+    "Asiakasarvion lähde (4,72) ei näkyvissä sivuilla – avoin kenen antama, moneenko perusteella",
+    "Hakijoiden kattavuuden raja epäselvä: sanotaan '15 yhtiötä', mutta ei listattu, ovatko Fortum, Vattenfall, Helen jne. kaikki mukana"
+   ],
+   "yhteenveto": "Kilpailuttaja.fi on Energy Brokers Finland Oy:n maksuton sähkövertailupalvelu, joka näyttää 49 konkreetin hintaa 15 sähköyhtiöltä. Hinnat ovat näkyvissä ilman yhteydenottotietoja, ja vertailu on selkeä. Ongelmana on avoin ansaintamalli (provisioista ei mainintaa), asiakasarvion lähteen epäselvyys ja kahden vuosikymmenen kokemus (600 k sopimusta) herättää luottamusta mutta riippumattomuutta ei ole ilmoitettu."
+  },
+  {
+   "slug": "valovirta",
+   "nimi": "Valovirta",
+   "domain": "valovirta.fi",
+   "omistaja": "EnCoHub Oy, Jyväskylä",
+   "y_tunnus": "3358519-9",
+   "rekisteroity": 2023,
+   "score": 65.3,
+   "pillars": {
+    "digitaalinen": 69.8,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vertailutyökalulla näytettävät sopimustarjoukset ja hinnat vaativat JavaScript-renderointia. Asiakaspalvelun FAQ vahvistaa, että hinnat ovat näkyvissä ennen yhteydenottoa, mutta tämä näkymä ei ole saatavilla fetch_page.py:llä."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdoissa: 'Palvelun ansaintalogiikka perustuu sähkösopimustilauksista Sähkönmyyjiltä saatavaan komissioon.' Asiakaspalvelun FAQ vastaa kysymykseen 'Maksavatko sähköyhtiöt siitä, että Valovirta mainostaa niiden sopimuksia?' vastauksella että palvelusta ei voi ostaa mainontaa ja pieni palkkio saadaan 'syntyneestä sopimuksesta'."
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Pääsivulla mainitaan 'useita sähköyhtiöitä'. Termit kuvaavat että sähkönmyyjät voivat julkaista 'yleisiä tai tietyille käyttäjäryhmille kohdennettuja tarjouksia'."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhtiöiden nimet mainitaan yleisesti ('useita sähköyhtiöitä'), mutta spesifinen lista näkyy vain vertailutyökalussa, jota fetch_page.py ei voi renderöidä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Pääsivulla: 'Emme myy lisänäkyvyyttä sähköyhtiöille vaan saamasi suositus on aidosti sinulle paras.' Asiakaspalvelun FAQ: 'Meiltä ei voi ostaa mainontaa emmekä veloita sähköyhtiöiltä... Tämän seurauksena meillä ei ole intressejä promota jotain tiettyä sähköyhtiötä tai sopimusta.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Asiakaspalvelusivulla vain sähköpostiosoite asiakaspalvelu@valovirta.fi, puhelinnumeroa ei ole näkyvissä millään julkisella sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "asiakaspalvelu@valovirta.fi näkyvissä asiakaspalvelusivulla, tietosuoja@encohub.com tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kutatko sivuilla 'Usein kysytty' linkki päävalikossa ja asiakaspalvelusivulla on laaja FAQ-osio monista käyttäjän kysymyksistä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 6037.398,
+    "cls": 0.003433073718015196,
+    "tbt_ms": 1929.1909999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksilölliset hinnaennusteet omaan sähkönkulutushistoriaan perustuen",
+    "Palvelun ansaintamalli avattu selvästi: komissio sopimuksista, ei maksua näkyvyydestä",
+    "Integrointi Nord Pool ja Nasdaq markkinadatoihin reaaliajassa"
+   ],
+   "kehityskohteet": [
+    "Vertailutyökalun hintanäkymät vaativat JavaScript-renderointia, eivät näy staattiselle haulle",
+    "Vertailuihin kuuluvien sähköyhtiöiden lista ei ole helposti saatavilla ilman vertailutyökalun käyttöä",
+    "Asiakaspalvelun puhelinnumeroa ei ole näkyvissä, vain sähköpostiosoite"
+   ],
+   "yhteenveto": "Valovirta on EnCoHub Oy:n operoimaa itsenäistä sähkösopimusten vertailupalvelua, joka yhdistää kuluttajien todellisia kulutustietoja Fingrid Datahubin kautta ja reaaliaikaisia sähköpörssin markkinahintoja antaakseen yksilöllisiä hinnaennusteita ja sopimuksia. Palvelu ei myy näkyvyyttä sähköyhtiöille, vaan saa tulonsa tehdyistä sopimuksista syntyneistä provisioista. Ansaintamalli ja riippumattomuus on avattu selvästi asiakaspalvelu- ja affiliate-sivuilla."
+  },
+  {
+   "slug": "sahkovertailu",
+   "nimi": "Sähkövertailu.fi",
+   "domain": "sahkovertailu.fi",
+   "omistaja": "Effortia Oy — osa Alma Mediaa (yhtiön oma ilmoitus); sama omistaja kuin VertaaEnsin",
+   "y_tunnus": "2261132-0",
+   "rekisteroity": 2009,
+   "score": 63.4,
+   "pillars": {
+    "digitaalinen": 72.5,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla kerrotaan avoimesti 'Sähkövertailu.fi saa pienen palkkion jokaisesta uudesta sähkösopimuksesta, joka on solmittu sivujemme kautta.'"
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelun kuvataan sisältävän kaikki Suomen sähkönmyyjät, mutta suorat sopimukset voidaan tehdä vain Sähkövertailun yhteistyökumppaneiden kanssa."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on erillinen Sähköyhtiöt-sivu, jossa luetellaan 55 sähköyhtiötä niiden kuvauksineen ja linkeillä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2261132-0 näkyy yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näytetään arvosanat (4,7/5, yli 4200 arvostelua) mutta kolmannen osapuolen lähde (esim. Trustpilot) ei ilmene, arvostelut näyttävät olevan palvelun omia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla sanotaan '(ei asiakaspalvelua)' puhelimen osalta, vain sähköpostiosoite on annettu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietojen sähköpostiosoite [email protected] on selvästi näkyvissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on 'Usein kysyttyä' -osio, joka sisältää kysymyksiä kuten 'Maksaako sähkön vertailu jotain?' ja 'Minkä sähköyhtiöiden hintoja palvelussa voi vertailla?'"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 2597.7547999999997,
+    "cls": 0.573015990748326,
+    "tbt_ms": 888.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja sähköyhtiöiden kattavuus - 55 yhtiötä listattu kuvauksineen",
+    "Avoin ansaintamalli selkeästi kerrottu sivulla",
+    "Kattava tietopohja artikkeleista ja usein kysytyistä kysymyksistä"
+   ],
+   "kehityskohteet": [
+    "Sähkösopimusten tarjoukset näkyvät vain lomakkeen täyttämisen jälkeen",
+    "Asiakaspalvelu saatavilla vain sähköpostitse, puhelintukea ei ole",
+    "Kolmannen osapuolen arvosteluja (esim. Trustpilot) ei näy sivulla"
+   ],
+   "yhteenveto": "Sähkövertailu.fi on Effortia Oy:n tarjoama ilmainen sähkösopimuksien kilpailutus- ja vertailupalvelu, joka listaa 55 suomalaista sähköyhtiötä ja niiden tarjouksia. Palvelu on läpinäkyvä ansaintamallinsa osalta (provisio jokaisesta sopimuksesta) ja tarjoaa kattavaa tietoa sähkösopimusten tyypeistä, hintavertailusta ja energiasta. Asiakaspalvelu on saatavilla vain sähköpostitse, puhelintukea ei ole."
+  },
+  {
+   "slug": "sahkonkilpailutus-com",
+   "nimi": "Sähkön-kilpailutus.com",
+   "domain": "xn--shkn-kilpailutus-vnb04a.com",
+   "omistaja": "WebCube Oy, Alavus (myös VertaaLainaa.fi ja VertaaLiittymät.fi)",
+   "y_tunnus": "2658911-6",
+   "rekisteroity": 2014,
+   "score": 61.3,
+   "pillars": {
+    "digitaalinen": 66.9,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 75.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla toistuvasti mainitaan 'Vertaa sopimuksia ilman tietojesi luovuttamista' ja 'Aloita kilpailutus'. Tietoa-meista sivulla: 'sähkösopimuksia voi vertailla ilman pakollista henkilötietojen luovuttamista'."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita, miten palvelu rahoitetaan tai mistä tulot tulevat. Vertailupalveluiden tyypillinen malli (provisiot sähköyhtiöiltä) ei ole selitetty."
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietoa-meista sivulla: 'Palvelu ei sisällä kaikkia Suomessa toimivia sähköyhtiöitä, vaan vertailuun valitaan yhteistyökumppaneita ja tarjouksia, joita pidämme kuluttajan näkökulmasta kilpailukykyisinä ja luotettavina.' Myös miten-palvelu-toimii sivulla: 'Me emme kilpailuta kaikkia suomessa tarjolla olevia sähkösopimuksia, vaan ainoastaan ne joiden kanssa teemme yhteistyötä.'"
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Spesifisiä sähköyhtiöiden nimiä ei listata etukäteen. Käyttäjät näkevät vertailuun sisällytetyt yhtiöt vasta täyttyään 5-vaiheisen lomakkeen (postinumero, asumismuoto, kulutus, sopimustyyppi). Tämä on osittainen, koska lopullisella käyttäjällä on pääsy listaan, mutta potentiaalisen asiakkaan kannalta lista on piilossa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2658911-6 näkyy kaikissa sivun alalaidoissa. Rekisterinpitäjä sekä yhteystiedot sivulla ja tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei väitetä riippumattomuutta. Tietoa-meista sivulla todetaan, että palvelua ylläpitää WebCube Oy ja se tekee yhteistyötä valittujen sähköyhtiöiden kanssa. Potentiaalinen ristiriita: yhteistyökumppanien valintakriteerit eivät ole selkeitä, mikä voi vaikuttaa objektiivisuuteen."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero ei näy mistään sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@sahkon-kilpailutus.com näkyy kaikissa sivujen alalaidoissa ja tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei mainita. Ainoa yhteydenottotapa on sähköposti."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kattava FAQ-osuus etusivulla, sisältää kysymyksiä: Kannattaako kilpailutus? Milloin tehdään? Mistä hinta koostuu? Voiko siirtohintoja kilpailuttaa? Miten vanha sopimus irtisanotaan? Jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita. Palvelu on web-pohjainen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 7566.784786781311,
+    "cls": 0.007621111749238554,
+    "tbt_ms": 3903.499999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vertailu ilman pakollista henkilöiden luovuttamista - yksityisyysystävällinen lähestymistapa",
+    "Kattava sisältö sähkömarkkinoista, sopimustyypeistä ja säästöpotentiaalista",
+    "5.0 tähden Google-arvostelut ja yli 1 miljoonan käyttäjän luottamus"
+   ],
+   "kehityskohteet": [
+    "Sähköyhtiöiden lista näkyvissä vain lomakkeen täytön jälkeen, ei etukäteen",
+    "Ansaintamalli ei kerrottu - miten palvelu rahoitetaan?",
+    "Yhteistyökumppanien valintakriteerit eivät ole julkisesti selitetty"
+   ],
+   "yhteenveto": "Sähkön-kilpailutus.com on WebCube Oy:n ylläpitämä maksutonta sähkösopimusten vertailupalvelu, jolla on 5.0 tähden Google-arvostelut. Palvelu mahdollistaa vertailun ilman pakollista henkilötietojen antamista ja tarjoaa kattavaa sisältöä sähkömarkkinoista. Rajoitus: vertailussa ovat vain valitut yhteistyökumppanit, eikä palvelun ansaintamalli ole selitetty julkisesti."
+  },
+  {
+   "slug": "valitseparas",
+   "nimi": "ValitseParas.fi",
+   "domain": "valitseparas.fi",
+   "omistaja": "Valo Sales Oy (rek. 2021)",
+   "y_tunnus": "3251768-8",
+   "rekisteroity": 2021,
+   "score": 52.2,
+   "pillars": {
+    "digitaalinen": 74.4,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköyhtiöiden kontaktitiedot puuttuvat ValitseParas-sivustolta. Käyttäjä ohjataan suoraan sähköyhtiöiden omille sivuille sopimuksen tekemisen yhteydessä. Yhtiöiden tiedot näkyvät vertailussa, mutta suoraa yhteystietoa sivustolla ei anneta."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojaselosteessa mainitaan affiliate-linkit (Adtraction) ja huomautus 'Hinnoitteluun se ei vaikuta'. Yksityiskohtainen provisio- tai ansaintamalli ei ole kuvattu avoimesti."
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla mainitaan 'suositummat sähköyhtiöt' ja 'Vertailussa mukana', mutta tarkka määrä ja lista yhtiöistä näkyvät vain JavaScript-renderöidyssä sisällössä, jota staattinen fetch-työkalu ei pysty lukemaan."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhtiöiden lista löytyy osoitteesta https://www.valitseparas.fi/sahkosopimukset, mutta se on JavaScript-renderöityä sisältöä. Fetch-työkalu saa HTTP 200:n mutta ei näe todellista sisältöä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Valo Sales Oy ja Y-tunnus 3251768-8 näkyvät tietosuojaselostesivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojaseloste paljastaa affiliate-linkkien käytön ja provision saamisen suosituksista, joten palvelu ei ole riippumaton vaan ansaitsee referraaleista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Puhelinnumeroa ei ole julkaistu. Asiakaspalvelu on vain sähköpostin välityksellä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostiosoite valitseparas@info.fi on näkyvissä joka sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Chat-palvelua ei mainita."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Aukioloaikoja ei ole määritelty. Meistä-sivulla sanotaan vain 'vastaamme ensin mahdollisuuden tullen'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Navigaatiossa on 'Usein kysyttyä' -linkki, mutta osoite /usein-kysyttyae palauttaa HTTP 404. Sivua ei ole saatavilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Mobiilisovellusta ei mainita missään sivuston osassa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 14846.3525,
+    "cls": 0.0446679878518258,
+    "tbt_ms": 972
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ilmainen ja nopea sähkösopimuksien vertailutyökalu",
+    "Kattava koulutussisältö sopimuksista ja säästövinkeistä",
+    "Kulutusarviolaskuri helpottaa sopimuksien valintaa"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero ja aukioloajat puuttuvat asiakaspalvelussa",
+    "Usein kysytyt kysymykset -sivu ei toimi (HTTP 404) navigaatiosta huolimatta",
+    "Vertailussa mukana olevat sähköyhtiöt näkyvät vain JavaScript-sisällössä"
+   ],
+   "yhteenveto": "ValitseParas.fi on vuonna 2026 julkaistu ilmainen sähkösopimuksien vertailupalvelu, jonka takana on Valo Sales Oy. Sivusto tarjoaa helppokäyttöisen vertailutyökalun ja kattavaa koulutussisältöä sopimuksista, mutta tärkeät tiedot kuten vertailussa mukana olevien yhtiöiden lista ovat saavuttamattomissa staattikoolla. Asiakaspalvelu toimii vain sähköpostitse ilman puhelinnumeroa tai määriteltyjä aukioloaikoja."
+  },
+  {
+   "slug": "sahkon-kilpailutus",
+   "nimi": "Sähkön-kilpailutus.fi",
+   "domain": "sahkon-kilpailutus.fi",
+   "omistaja": "Comperion Oy (aik. DZR eCommerce Oy)",
+   "y_tunnus": "2933035-3",
+   "rekisteroity": 2018,
+   "score": 50.9,
+   "pillars": {
+    "digitaalinen": 66.2,
+    "lapinakyvyys": 30.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 65.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Lighthouse 13"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Lighthouse 13"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintatiedot ja sopimukset näkyvät vertailutyökalussa vasta kun käyttäjä täyttää asuntonsa tiedot tai sähkönkulutuksen ja käynnistää vertailun."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla selkeästi mainitaan: 'Sivuston käyttäminen on täysin maksutonta. Toimintamme perustuu yhteistyökumppaneilta saatuihin palkkioihin.'"
+      },
+      {
+       "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan 'sähköyhtiöt' yleisesti, mutta ei ole listausta siitä, mitkä yritykset ovat vertailussa mukana."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivuilla ei ole eksplisiittistä listaa vertailussa mukana olevista sähköyhtiöistä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Y-tunnus 2933035-3 näkyy jalkapalkin Comperion Oy:n tiedoissa sekä 'Tietoa meistä' ja 'Ota yhteyttä' sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivuilla ei mainita ulkopuolista auditointia tai riippumatonta arviota palvelusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Puhelinnumero ei näy yhteystiedoissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostiosoite info@sahkon-kilpailutus.fi näkyy useilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Live-chatti ei ole mainittu palvelussa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla kerrotaan: 'Asiakaspalvelumme palvelee arkisin kello 10-18 välisenä aikana.'"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu sisältää vastauksia usein kysyttyihin kysymyksiin: 'Miten kilpailutus tapahtuu?' ja 'Voiko sähkösopimuksen kilpailuttaa milloin tahansa?' sekä 'Tutustu tähän ennen tilaamista' -osion."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Mobiilisovelluksesta ei ole mainintaa sivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "Claude Haiku 4.5"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "Claude Haiku 4.5"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 90,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 11040.7275,
+    "cls": 0.01571661328713971,
+    "tbt_ms": 1731.9999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksinkertainen ja nopea sähkösopimuksien vertailuprosessi",
+    "Kattavat tiedot eri sopimustyypeistä ja hinnoittelumallista",
+    "Avoimesti kerrottu ansaintamalli - palvelun käyttö ilmaista"
+   ],
+   "kehityskohteet": [
+    "Hintatiedot näkyvät vasta lomakkeen täytön jälkeen",
+    "Puhelinnumero puuttuu yhteystiedoista",
+    "Vertailuun kuuluvien sähköyhtiöiden lista ei ole näkyvissä"
+   ],
+   "yhteenveto": "Sähkön-kilpailutus.fi on Comperion Oy:n ylläpitämä ilmainen sähkösopimuksien vertailupalvelu, joka on toiminut vuodesta 2019. Palvelun vahvuuksina ovat selkeä käyttöliittymä, kattavat tiedot eri sopimustyypeistä ja läpinäkyvä ansaintamalli yhteistyökumppaneiden palkkioista. Kehitettävää on hintojen esille tuomisessa ennen lomakkeen täyttöä sekä kilpailevien yhtiöiden eksplisiittisessä listaamisessa."
+  }
+ ],
+ "updated": "17.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tarjoukset ja hinnat näkyvät ilman yhteystietoja (30), ansaintamalli (komissiot) kerrottu avoimesti (20), vertailun kattavuus ja rajaukset kerrottu (15), vertailussa mukana olevat sähköyhtiöt listattu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (15)"
+}

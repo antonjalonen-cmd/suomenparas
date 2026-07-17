@@ -1,0 +1,54 @@
+{
+  "slug": "kilpailuttaja",
+  "tarjoukset_ilman_yhteystietoja": "kylla",
+  "ansaintamalli_kerrottu": "ei",
+  "kattavuus_kerrottu": "osittain",
+  "yhtiot_listattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "y_tunnus": "1811203-5",
+  "riippumaton_arvio": "ei",
+  "asiakasarvio": {
+    "arvosana": 4.72,
+    "maara": null,
+    "lahde": null
+  },
+  "puhelin_esilla": "kylla",
+  "puhelin": "046 712 1310",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "49 sähkösopimusta näkyvillä konkreettisin hinnoilla ilman yhteystietojen antamista",
+    "15 sähköyhtiön vertailu yhdelle sivulle, helppo vertailu suodattimella (hintamalli, tuotantotapa, sopimuksen kesto)",
+    "Avoin ansaintamalli: suomalaisomistuksinen, yli 20 vuoden kokemus, 600 000 välitettyä sopimusta"
+  ],
+  "kehityskohteet": [
+    "Ei selvää tietoa siitä, kuinka palvelu ansaitsee rahaa (provisiot, kumppanuuspalkkiot yms)",
+    "Asiakasarvion lähde (4,72) ei näkyvissä sivuilla – avoin kenen antama, moneenko perusteella",
+    "Hakijoiden kattavuuden raja epäselvä: sanotaan '15 yhtiötä', mutta ei listattu, ovatko Fortum, Vattenfall, Helen jne. kaikki mukana"
+  ],
+  "yhteenveto": "Kilpailuttaja.fi on Energy Brokers Finland Oy:n maksuton sähkövertailupalvelu, joka näyttää 49 konkreetin hintaa 15 sähköyhtiöltä. Hinnat ovat näkyvissä ilman yhteydenottotietoja, ja vertailu on selkeä. Ongelmana on avoin ansaintamalli (provisioista ei mainintaa), asiakasarvion lähteen epäselvyys ja kahden vuosikymmenen kokemus (600 k sopimusta) herättää luottamusta mutta riippumattomuutta ei ole ilmoitettu.",
+  "evidence": {
+    "tarjoukset_ilaman_yhteystietoja": "HAVAINTO: /sahkon-kilpailutus sivulla näkyy 49 tarjousta täysillä hinnoilla: esim. 'Voima Joustava 24 kk 0 €/kk perusmaksu, 8,37 snt/kWh' näkyy ilman että sivulla pyydetty postinumeroa tai sähköpostia.",
+    "ansaintamalli_kerrottu": "HAVAINTO: Missään sivuissa (etusivu, mika-kilpailuttaja, asiakaspalvelu, yleiset kayttoehdot, tietosuojaseloste) ei sanota, miten Kilpailuttaja.fi ansaitsee rahaa. Ei mainintaa provisioista, palkkioista tai sähköyhtiöiden maksuista.",
+    "kattavuus_kerrottu": "HAVAINTO: 'sahkon-kilpailutus' sivulla sanotaan '100 % puolueeton sähkövertailu – kilpailutuksessa mukana 15 sähköyhtiötä', mutta rajoja ei selvitetä. Sitä vastoin sivulla on lause: 'Miksi sähkönsiirtoa ei voi kilpailuttaa? Sähkönsiirto säilyy aina paikallisen verkkoyhtiön vastuulla.' Näin rajausta on, mutta rajaa ei ole selvästi julkaistu.",
+    "yhtiot_listattu": "HAVAINTO: Dropdown-valikossa 'Nykyinen sähköyhtiösi' on listattu yli 80 yhtiötä (Alajärven Sähkö, Enefit, Fortum, Helen, Vattenfall, Nivos, jne.), mikä ylittää mainitut '15 yhtiötä' – vertailussahan mukana sähköyhtiöt ovat erilaiset kuin mitä käyttäjä valitsee nykyiseksi.",
+    "riippumaton_arvio": "HAVAINTO: Kilpailuttaja.fi ei mainitse riippumaattomuudesta tai auditoidusta luokituksesta. Sanotaan 'Yritys on työntekijöidensä omistama osakeyhtiö', mikä on omistuksen mallia, ei riippumattomuuden todistusta.",
+    "asiakasarvio": "HAVAINTO: Numerot 4,72 näkyvät kaikilla sivuilla, mutta lähdettä (Trustpilot? Google? muu palvelu?) ei mainita. Arvosteltujen lukumäärää ei näy. Arvio on sisäkkäin näkyvissä, mutta se saattaa olla sisäisen järjestelmän luokitus, ei ulkoinen palaute."
+  },
+  "fetched_ok": [
+    "https://www.kilpailuttaja.fi/",
+    "https://www.kilpailuttaja.fi/sahkon-kilpailutus",
+    "https://www.kilpailuttaja.fi/tietosuojaseloste",
+    "https://www.kilpailuttaja.fi/mika-kilpailuttaja",
+    "https://www.kilpailuttaja.fi/asiakaspalvelu",
+    "https://www.kilpailuttaja.fi/palvelun-yleiset-kayttoehdot"
+  ]
+}
