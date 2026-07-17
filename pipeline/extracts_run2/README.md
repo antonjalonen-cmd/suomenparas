@@ -119,3 +119,44 @@ category.
 
 **Pattern across all three 17.7 replications: the variance is entirely in absence claims.**
 Nothing that quotes a real figure ever moved.
+
+### Fourth replication: `lemmikkivakuutukset__if` — the cleanest evidence in the file
+
+A fourth late agent overwrote its file. This one is the most useful of all, because the
+same JSON contains both halves of the thesis at once:
+
+**The quoted figure did not move:**
+
+| Field | run1 | run2 |
+|---|---|---|
+| `korvauskatto_eur_vuosi` | **4000** | **4000** |
+
+**Every disagreement was an absence claim — 4 of 12:**
+
+| Field | run1 (published) | run2 (late agent) |
+|---|---|---|
+| `y_tunnus_esilla` | `ei` | `osittain` |
+| `riippumaton_arvio` | `osittain` | `ei` |
+| `puhelin_esilla` | **`ei`** | `osittain` |
+| `aukioloajat_esilla` | `osittain` | `kylla` |
+
+`puhelin_esilla: ei` for **If** — one of the largest insurers in Finland, which obviously
+publishes a phone number — is simply wrong in the published run. Same shape as the 16.7
+NordVPN and Elisa errors. Nothing that quoted a real number ever moved; everything that
+claimed a thing was *missing* did.
+
+**New finding: `ai_arviot` is not stable either, and nobody had measured that.**
+
+| | selkeys | hintojen_loydettavyys | sisallon_kattavuus |
+|---|---|---|---|
+| run1 | 78 | **62** | 76 |
+| run2 | 85 | **90** | 85 |
+
+That is a 28-point swing on one sub-metric. Weighted, the AI pillar moves **72,1 → 86,7
+(+14,6)**, and since it is 20 % of the Score, **+2,9 points on the published total** from
+subjective judgement alone — before any ternary field is counted. Prior replication work
+only ever compared the ternary fields, so this component of the noise was invisible.
+
+**Consolidated view of the four 17.7 replications:** absence claims and subjective 0-100
+ratings are both unstable; quoted figures are stable. That is an argument for shifting the
+Score's weight toward things a page literally states, and away from "we could not find it".
