@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Pyydä maksuton analyysi | Suomen Paras</title>
+<meta name="description" content="Pyydä maksuton analyysi: näet mitkä mittarit painavat yrityksesi sijoitusta alas ja miten korjaat ne.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+<link rel="stylesheet" href="../assets/style.css?v=17">
+<script src="../assets/app.js?v=17" defer></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="../"><img src="../assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
+    <nav class="main">
+      <a href="../">Etusivu</a>
+      <a href="../kategoriat/">Kaikki kategoriat</a>
+      <a href="../metodologia/">Näin pisteytämme</a>
+      <a href="../sertifikaatti/">Sertifikaatti</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Maksuton analyysi</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Pyydä maksuton analyysi</h1>
+    <p class="lead">Analyysi näyttää mittari mittarilta, mitkä asiat painavat yrityksesi sijoitusta alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä. Analyysi on avausvaiheessa maksuton.</p>
+  </div>
+
+  <div class="panel aform">
+    <p class="aform-note">Viesti on valmiiksi kirjoitettu, joten täydennä vain yrityksen tiedot ja lähetä. Lähetä-nappi avaa sähköpostiohjelmasi.</p>
+    <label>Yrityksen nimi<input type="text" id="af-yritys" placeholder="Esim. Yritys Oy"></label>
+    <label>Kategoria<select id="af-kategoria"><option value="">Valitse kategoria</option><option value="Lainavertailupalvelut">Lainavertailupalvelut</option><option value="Vakuutukset">Vakuutukset</option><option value="Sähkösopimukset">Sähkösopimukset</option><option value="Laajakaista">Laajakaista</option><option value="Autovakuutukset">Autovakuutukset</option><option value="Kotivakuutukset">Kotivakuutukset</option><option value="Kulutusluotot">Kulutusluotot</option><option value="Lemmikkivakuutukset">Lemmikkivakuutukset</option><option value="Luottokortit">Luottokortit</option><option value="Matkavakuutukset">Matkavakuutukset</option><option value="Pankit">Pankit</option><option value="Puhelinliittymät">Puhelinliittymät</option><option value="Sähkövertailupalvelut">Sähkövertailupalvelut</option><option value="Sijoitusalustat">Sijoitusalustat</option><option value="VPN-palvelut">VPN-palvelut</option><option value="Webhotellit">Webhotellit</option><option value="Muu">Muu / ei vielä listalla</option></select></label>
+    <label>Viesti<textarea id="af-viesti" rows="9"></textarea></label>
+    <a class="btn" id="af-send" href="#">Lähetä analyysipyyntö</a>
+    <small>Jos nappi ei avaa sähköpostiohjelmaa, lähetä viesti suoraan osoitteeseen <a href="mailto:anton@antonjalonen.fi">anton@antonjalonen.fi</a>.</small>
+  </div>
+
+  <div class="b2b">
+    <h3>Mitä analyysi sisältää?</h3>
+    <p>Käymme läpi yrityksesi julkisen verkkosivun samoilla mittareilla, joilla koko kategoria on pisteytetty: hintojen näkyvyys, sopimusehtojen saatavuus, tavoitettavuus ja tekninen laatu. Saat listan konkreettisia korjauksia vaikutusjärjestyksessä.</p>
+    <small>Analyysi ei koskaan muuta pisteitä suoraan. Sijoitusta ei voi ostaa, se ansaitaan.</small>
+  </div>
+</div>
+
+<script>
+(function(){
+  var params = new URLSearchParams(location.search);
+  var y = document.getElementById('af-yritys'),
+      k = document.getElementById('af-kategoria'),
+      m = document.getElementById('af-viesti'),
+      s = document.getElementById('af-send');
+  if (params.get('yritys')) y.value = params.get('yritys');
+  function pohja(){
+    return 'Hei,\n\npyydän maksuttoman Suomen Paras -analyysin yrityksellemme.\n\n'
+      + 'Yritys: ' + (y.value || '') + '\n'
+      + 'Kategoria: ' + (k.value || '') + '\n\n'
+      + 'Haluamme tietää, mitkä mittarit painavat sijoitustamme alas ja miten korjaamme ne.\n\nTerveisin\n';
+  }
+  var muokattu = false;
+  m.value = pohja();
+  m.addEventListener('input', function(){ muokattu = true; });
+  function refresh(){ if (!muokattu) m.value = pohja(); }
+  y.addEventListener('input', refresh);
+  k.addEventListener('change', refresh);
+  s.addEventListener('click', function(e){
+    e.preventDefault();
+    var subject = 'Suomen Paras -analyysi' + (y.value ? ': ' + y.value : '');
+    location.href = 'mailto:anton@antonjalonen.fi?subject=' + encodeURIComponent(subject)
+      + '&body=' + encodeURIComponent(m.value);
+  });
+})();
+</script>
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>Suomen Paras</h4>
+        <p>Suomen läpinäkyvin vertailupalvelu. Pisteytämme yritykset mitattavalla datalla, emme mielipiteillä. Sijoituksia ei voi ostaa.</p>
+      </div>
+      <div>
+        <h4>Palvelu</h4>
+        <p><a href="../lainavertailu/">Lainavertailupalvelut</a><br><a href="../vakuutukset/">Vakuutukset</a><br><a href="../sahkosopimukset/">Sähkösopimukset</a><br><a href="../laajakaista/">Laajakaista</a><br><a href="../autovakuutukset/">Autovakuutukset</a><br><a href="../kotivakuutukset/">Kotivakuutukset</a><br><a href="../kulutusluotot/">Kulutusluotot</a><br><a href="../lemmikkivakuutukset/">Lemmikkivakuutukset</a><br><a href="../luottokortit/">Luottokortit</a><br><a href="../matkavakuutukset/">Matkavakuutukset</a><br><a href="../pankit/">Pankit</a><br><a href="../puhelinliittymat/">Puhelinliittymät</a><br><a href="../sahkovertailupalvelut/">Sähkövertailupalvelut</a><br><a href="../sijoitusalustat/">Sijoitusalustat</a><br><a href="../vpn-palvelut/">VPN-palvelut</a><br><a href="../webhotellit/">Webhotellit</a><br><a href="../kategoriat/">Kaikki kategoriat</a><br><a href="../metodologia/">Pisteytysmetodologia</a></p>
+      </div>
+      <div>
+        <h4>Score v1.1</h4>
+        <p class="mono">Päivitetty 16.7.2026<br>120 palvelua pisteytetty<br>16 kategoriaa live</p>
+      </div>
+    </div>
+    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin 16.7.2026: yritysten omat verkkosivut, viralliset rekisterit ja tekniset mittaukset. Emme anna sijoitus-, laina- tai muuta talousneuvontaa, vaan vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+  </div>
+</footer>
+</body>
+</html>

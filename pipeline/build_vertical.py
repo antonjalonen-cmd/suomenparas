@@ -101,7 +101,7 @@ def score_digital(lh):
         v = lh[key]
         total += v * w / 100
         rows.append({"mittari": label, "arvo": f"{v}/100", "paino": w, "pisteet": v,
-                     "lahde": f"Lighthouse {lh.get('lh_version', '13').split('.')[0]}"})
+                     "lahde": "Tekninen mittaus"})
     return round(total, 1), rows
 
 
@@ -134,7 +134,7 @@ def score_ai(e):
         v = a[key]
         total += v * w / 100
         rows.append({"mittari": label, "arvo": f"{v}/100", "paino": w, "pisteet": v,
-                     "lahde": "Claude Haiku 4.5"})
+                     "lahde": "AI-analyysi"})
     return round(total, 1), rows
 
 

@@ -1,50 +1,57 @@
 {
   "slug": "danske",
   "fetched_ok": [
-    "https://danskebank.fi/sinulle",
-    "https://danskebank.fi/sinulle/asiakaspalvelu",
-    "https://danskebank.fi/sinulle/paivittaispalvelut/tilit",
+    "https://danskebank.fi",
+    "https://danskebank.fi/yhteystiedot",
+    "https://danskebank.fi/konttorit",
+    "https://danskebank.fi/tietosuoja",
+    "https://danskebank.fi/tule-asiakkaaksi",
+    "https://danskebank.fi/sinulle/paivittaispalvelut/tilit/danske-tili",
     "https://danskebank.fi/sinulle/paivittaispalvelut/kortit",
-    "https://danskebank.fi/konttorit"
+    "https://danskebank.fi/-/media/pdf/danske-bank/fi/fi/tuotteet/palveluhinnasto.pdf",
+    "https://danskebank.fi/-/media/pdf/danske-bank/fi/fi/tuotteet/tili--ja-maksupalveluehdot.pdf"
   ],
-  "palveluhinnasto_julkinen": "osittain",
-  "tilin_ja_kortin_maksut_esilla": "osittain",
-  "sopimusehdot_saatavilla": "osittain",
+  "palveluhinnasto_julkinen": "kylla",
+  "tilin_ja_kortin_maksut_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
   "konttorit_ja_aukioloajat": "kylla",
-  "y_tunnus_esilla": "ei",
+  "y_tunnus_esilla": "kylla",
   "riippumaton_arvio": "ei",
   "puhelin_esilla": "kylla",
-  "email_esilla": "ei",
+  "email_esilla": "osittain",
   "chat_mainittu": "kylla",
   "aukioloajat_esilla": "kylla",
   "ukk_osio": "kylla",
   "mobiilisovellus": "kylla",
-  "kayttotili_kk_maksu_eur": null,
+  "kayttotili_kk_maksu_eur": 2.5,
   "ai_arviot": {
-    "selkeys": 70,
-    "hintojen_loydettavyys": 45,
-    "sisallon_kattavuus": 65
+    "selkeys": 72,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 75
   },
   "vahvuudet": [
-    "Laaja konttoriverkkosto ympäri Suomea yksityiskohtaisilla osoitteilla ja aukioloajoilla",
-    "Useita yhteystapoja: puhelin, chat mobiili- ja verkkopankissa, konttorit ja ajanvaraus",
-    "Selkeä tilit ja kortit -osio erilaisilla tuotevaihtoehdoilla"
+    "Julkinen 10-sivuinen palveluhinnasto-PDF tuotesivuilta ilman kirjautumista; hinnat myös tuotesivun tekstissä",
+    "Konttorit listattu 21 paikkakunnalta osoitteineen ja aukioloaikoineen; monta palvelunumeroa aukioloaikoineen",
+    "Chat arkisin 9-16 seka verkkosivulla etta mobiilipankissa; asiakaspalvelusivulla laaja UKK-aihevalikoima"
   ],
   "kehityskohteet": [
-    "Palvelumaksujen ja -hinnaston puuttuminen julkisilta sivuilta vaatii kirjautumisen",
-    "Y-tunnus tai rekisteritiedot eivät näy selkeästi, vain perusyritystieto footerissa",
-    "Sopimusehdot ja yksityiskohtaiset hinta-asiakirjat eivät ladattavissa ilman kirjautumista"
+    "Hinnastoon paasee vain tuotesivujen kautta; suoraa /hinnasto-sivua tai footer-linkkia hinnastoon ei ole",
+    "Julkista sahkopostiosoitetta ei ole; viestin voi lahettaa vain kirjautuneena suojattuna viestina",
+    "Pakettihinnoittelu (Etuohjelman etutasot 1-4) tekee oman kuukausihinnan arvioinnista tyolasta uudelle asiakkaalle"
   ],
-  "yhteenveto": "Danske Bank on suomalainen pankki, jonka verkkosivustolla asiakkaat löytävät laajan tiedon tilejä ja korteista sekä monipuoliset asiakaspalvelun yhteystiedot. Sivustolla on runsaasti informaatiota, mutta palveluhinnasto ja sopimusehdot ovat piilossa kirjautumisen takana, mikä heikentää julkisten tietojen saatavuutta potentiaalisen asiakkaan näkökulmasta.",
+  "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja kayttotilin hinta nakyy myos suoraan sivutekstissa. Hinnaston loytaminen vaatii kuitenkin navigointia tuotesivuille asti, silla suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista.",
   "evidence": {
-    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorit-sivulla näkyvät 17 konttorin osoitteet ja aukioloajat yksityiskohtaisesti. Infopisteet avoinna tiistai-torstai 10-12 tai ma-ke-pe 10-12 kaupungeittain. Kaksi kassaa: Helsinki Ratapihantie (ma, ke, pe 10-16:30) ja Tampere Hämeenkatu (ma, ke, pe 10-12).",
-    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu ja ajanvaraus 0200 2580 (ma-pe 9-16), palvelunumero senioreille 0200 25889 (ma-pe 9-16), kortin sulkeminen 0200 2585 (24h), uudet asiakkaat 0100 1580 (ma-pe 9-16), saldo-info 0200 2581 (24h automaattinen).",
-    "chat_mainittu": "HAVAINTO: Chat mainitaan monessa paikassa: chat mobiilipankissa (arkisin 9-16), chat verkkosivuilla (arkisin 9-16), sekä suojattu viestintä mobiili- ja verkkopankissa.",
-    "aukioloajat_esilla": "HAVAINTO: Konttorien aukioloajat näkyvät erittäin selkeästi. Asiakaspalvelu puhelin 0200 2580 ma-pe 9-16. Chat arkisin 9-16. Konttorit avoinna eri päivinä eri aikoina.",
-    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla näkyy Usein kysyttyä osio kysymyksillä kuten Pankkitunnukseni eivät toimi, Miten lopetan tilin, Millaisia säästötilejä, Mistä tiliotteeni, Mistä palvelumaksuni koostuu.",
-    "mobiilisovellus": "HAVAINTO: Mobiilipankki mainitaan lukuisissa paikoissa. Sivulla kehotetaan lataamaan sovellus puhelimeen tai tabletiin sovelluskaupasta. MunRahat-sovellus mainitaan lapsille.",
-    "palveluhinnasto_julkinen": "HAVAINTO: Sivuilla mainitaan hinnat ja ehdot, mutta erityisiä maksuja ei näy julkisilla sivuilla. Palveluhinnastoa ei voitu vahvistaa avoimista sivuista.",
-    "sopimusehdot_saatavilla": "HAVAINTO: Footer-linkissä mainitaan Yleiset ehdot, mutta linkkiä ei saatu ladattua (HTTP 404). Sopimusehdot näyttävät olevan saatavilla vain kirjautumisen jälkeen.",
-    "y_tunnus_esilla": "HAVAINTO: Footer-tiedoissa näkyy Danske Bank A/S, Suomen sivuliike, Televisiokatu 1, Helsinki, PL 1243, 00075 DANSKE BANK. Y-tunnusta ei ole erityisesti näkyvillä sivuilla."
+    "palveluhinnasto_julkinen": "HAVAINTO: Danske-tili-tuotesivun Hinnat ja ehdot -osiosta latautuu julkinen 10-sivuinen Paivittaispalveluhinnasto-PDF (palveluhinnasto.pdf, voimassa 23.6.2026 alkaen) ilman kirjautumista; myos Etuohjelman hinnasto -PDF on julkinen.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Danske-tili-sivulla lukee 'Paketin ulkopuolisista tai peruspankkipalveluun kuuluvasta tilista veloitetaan 2,50 euroa kuukaudessa'; hinnasto-PDF:ssa Danske-tilin kuukausimaksu 2,50 e ja Mastercard Debit -kortin kuukausimaksu 3,30 e.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Tili- ja maksupalveluehdot -PDF latautuu julkisesti Danske-tili-sivun Hinnat ja ehdot -osiosta (tili--ja-maksupalveluehdot.pdf, HTTP 200); footerin 'Yleiset ehdot' -teksti nakyy kaikilla sivuilla.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorit-sivulla listattu 21 paikkakuntaa osoitteilla ja aukioloajoilla (esim. Helsinki Ratapihantie ma-pe 10-16:30, infopisteet ti/to 10-12); kassapalvelupisteet Helsinki ja Tampere eritelty.",
+    "y_tunnus_esilla": "HAVAINTO: Julkisen palveluhinnasto-PDF:n jokaisella sivulla 'Danske Bank A/S, Suomen sivuliike ... Y-tunnus 1078693-2'; sivuston footerissa yhtion nimi, osoite ja BIC mutta ei Y-tunnusta.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei nay riippumatonta arviota, vertailua tai asiakastyytyvaisyysmittausta; vain omat markkinointitekstit ja yhteistyokumppanien edut.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla useita numeroita: asiakaspalvelu 0200 2580 (ma-pe 9-16), seniorit 0200 25889, kortin sulkeminen 0200 2585 (24h), uudet asiakkaat 0100 1580; hinta pvm/mpm kerrottu.",
+    "email_esilla": "HAVAINTO: Julkista sahkopostiosoitetta ei nay; sivusto ohjaa lahettamaan suojatun viestin mobiili- tai verkkopankissa eli kirjautuneena.",
+    "chat_mainittu": "HAVAINTO: 'Olemme apunasi chatissa arkisin klo 9-16' nakyy etusivulla ja yhteystiedoissa; yleinen chat kotisivuilla ja henkilokohtainen chat mobiilipankissa.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelinpalvelun ajat (ma-pe 9-16, sulkupalvelu 24h), chatin ajat (arkisin 9-16) ja konttorien aukioloajat kaikki julkisesti esilla.",
+    "ukk_osio": "HAVAINTO: Yhteystiedot/asiakaspalvelusivulla Usein kysyttya -osio (esim. 'Mista palvelumaksuni koostuu?') ja parikymmenta aihekategoriaa, mukaan lukien 'Hinnat ja ehdot'; myos Tule asiakkaaksi -sivulla oma UKK.",
+    "mobiilisovellus": "HAVAINTO: Mobiilipankki mainittu useilla sivuilla omana tuotesivunaan; chat, e-laskut ja sijoitukset hoituvat sovelluksessa; kayttoonotto-ohjeet julkisesti."
   }
 }

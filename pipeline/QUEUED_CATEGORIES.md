@@ -210,6 +210,27 @@ stopped lending the day the cap landed — and *"puhelinasiakaspalvelu on päät
 A run-off billing page with stale advertising on it. **A live domain + a product headline is not
 evidence a company still sells.** Add this to the Väre/Säästöpankki/Netplaza list.
 
+## JS FETCH LANDED + PANKIT BUILT (18.7.2026)
+
+`fetch_page.py --js` renders pages in headless Chrome exactly like Lighthouse (no cookie
+clicks, no bot evasion — boundaries documented in the script header). It unblocked:
+- **`pankit` LIVE** — 9 banks, measured 18.7.2026. Danske #1 (83.4). Two extracts needed
+  a re-run: agents scored Nordea/Danske "osittain" after failing to find price pages that
+  exist (nordea.fi/henkiloasiakkaat/hinnat/hinnat.html; Danske moved under /sinulle —
+  /henkiloasiakkaat 404s now). Lesson: a 404 on a guessed path is not evidence; find the
+  real path from the nav before scoring.
+- **Pohjola re-measured in `vakuutukset`** — last place (43) → 3rd (63.7). Correction
+  disclosed on-page, other rows untouched (still 16.7).
+- **OP-Visa re-measured in `luottokortit`** (23.4 → 69.5; old extract was 0/0/0 on an
+  unread page) and **OP re-measured in `sijoitusalustat`** (33.5 → 58.5). Corrections
+  disclosed on-page.
+- Lighthouse quirk: five bank sites throw ERRORED_DOCUMENT_REQUEST on deep paths but
+  measure fine at the domain root — pankit digital pillar measured at root for those
+  (noted in targets.txt).
+- check_extracts: legacy allowance for pre-gate (15.–16.7.) extracts without fetched_ok;
+  competitor-domain check now allows the company's OWN product page on a shared issuer
+  platform (K-Plussa lives on op.fi).
+
 ## BATCH 3 — NOT BUILT (17.7.2026)
 
 Not started. Batch 2 ran ~8 h late (its 19:45 window was missed) and consumed the session:

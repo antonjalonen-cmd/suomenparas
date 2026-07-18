@@ -49,11 +49,16 @@ for vert in sys.argv[1:]:
         elif not any(base in u for u in fetched):
             errs.append(f"never loaded {meta['domain']}: {fetched}")
         # An agent that read a competitor's site names it in fetched_ok. Catch it.
+        # Exception: a URL on another listed company's domain whose PATH names this
+        # product is the product's OWN page on a shared issuer platform, not competitor
+        # data (K-Plussa Maksuaika lives at op.fi/.../k-plussa-maksuaika because OP
+        # issues the card — reading it is required, not a mixup).
         others = {c["domain"].replace("www.", "").lower()
                   for c in COMPANIES[vert] if c["slug"] != slug}
+        own_tokens = [t for t in slug.lower().split("-") if len(t) > 2]
         for u in fetched:
             for o in others:
-                if o in u:
+                if o in u and not any(t in u for t in own_tokens):
                     errs.append(f"fetched a COMPETITOR's site ({o}) — would publish "
                                 f"the wrong company's data")
         for k, _, _ in TRANSPARENCY[vert] + REACH:

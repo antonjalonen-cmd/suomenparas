@@ -239,6 +239,15 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 4px;transform:translateY(5px);min-width:14px}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
+/* analyysi form */
+.aform{max-width:640px;margin-bottom:22px}
+.aform label{display:block;font-weight:800;color:var(--ink);font-size:.92rem;margin:14px 0 0}
+.aform input,.aform select,.aform textarea{display:block;width:100%;margin-top:6px;padding:11px 12px;border:2.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--body);font-family:inherit;font-size:.95rem;font-weight:600}
+.aform input:focus,.aform select:focus,.aform textarea:focus{outline:none;border-color:var(--blue)}
+.aform textarea{resize:vertical;line-height:1.5}
+.aform .btn{margin-top:18px}
+.aform small{display:block;margin-top:10px;color:var(--mut);font-weight:600}
+.aform-note{color:var(--mut);font-weight:600;margin-bottom:4px}
 /* sections */
 section.band{padding:56px 0}
 h2.sec{font-size:1.65rem;color:var(--ink);font-weight:700;margin-bottom:6px}
@@ -707,16 +716,10 @@ def page(title, desc, body, root="", active=""):
   <div class="wrap">
     <a class="brand" href="{root}"><img src="{root}assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
     <nav class="main">
-      <div class="navdd{' on-cat' if active in LIVE_SLUGS else ''}" id="navdd">
-        <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailupalvelut <span class="car">▼</span></button>
-        <div class="navdd-panel">
-          {"".join(f'<a href="{root}{v["slug"]}/"{on(v["slug"])}>{esc(v["nimi"])}<span class="n">{len(v["yritykset"])}</span></a>' for v in VERTICALS)}
-          <hr>
-          <a class="all" href="{root}kategoriat/">Kaikki {TOTAL_CATS} kategoriaa →</a>
-        </div>
-      </div>
+      <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
       <a href="{root}metodologia/"{on('metodologia')}>Näin pisteytämme</a>
+      <a href="{root}sertifikaatti/"{on('sertifikaatti')}>Sertifikaatti</a>
     </nav>
   </div>
 </header>
@@ -737,7 +740,7 @@ def page(title, desc, body, root="", active=""):
         <p class="mono">Päivitetty {UPDATED}<br>{len(ALL_COMPANIES)} palvelua pisteytetty<br>{len(VERTICALS)} kategoriaa live</p>
       </div>
     </div>
-    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin {UPDATED}: yritysten omat verkkosivut, YTJ/PRH-avoin data ja Lighthouse-mittaukset. AI-arviot on tuottanut Claude Haiku 4.5. Emme anna sijoitus-, laina- tai muuta talousneuvontaa — vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin {UPDATED}: yritysten omat verkkosivut, viralliset rekisterit ja tekniset mittaukset. Emme anna sijoitus-, laina- tai muuta talousneuvontaa, vaan vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
   </div>
 </footer>
 </body>
@@ -854,7 +857,7 @@ def build_index():
 
     steps = """
 <div class="steps">
-  <div class="step"><span class="k">01 · KERUU</span><h3>Data kerätään automaattisesti</h3><p>Julkiset lähteet: yrityksen oma verkkosivu, YTJ/PRH-rekisterit ja tekniset mittaukset (Lighthouse). Sama prosessi jokaiselle — kukaan ei täytä lomakkeita.</p></div>
+  <div class="step"><span class="k">01 · KERUU</span><h3>Data kerätään automaattisesti</h3><p>Julkiset lähteet: yrityksen oma verkkosivu, viralliset rekisterit ja tekniset mittaukset. Sama prosessi jokaiselle, kukaan ei täytä lomakkeita.</p></div>
   <div class="step"><span class="k">02 · PISTEYTYS</span><h3>Sama kaava kaikille</h3><p>Suomen Paras Score {v} laskee neljä pilaria dokumentoiduilla painoilla. Kaava on julkinen ja deterministinen: sama data antaa aina saman tuloksen.</p></div>
   <div class="step"><span class="k">03 · KUITTI</span><h3>Jokainen piste perustellaan</h3><p>Jokaisen yrityksen profiililta näet mittari mittarilta, mistä pisteet tulevat — lähteineen ja havaintoineen. Sijoitusta ei voi ostaa.</p></div>
 </div>""".replace("{v}", SCORE_VERSION)
@@ -869,7 +872,7 @@ def build_index():
   <div class="wrap hero-grid">
     <div>
       <img class="hero-logo" src="assets/logo-480.png?v=2" alt="Suomen Paras" width="184" height="184">
-      <h1>Emme kerro mikä on paras.<br>Näytämme <em>mistä se johtuu</em>.</h1>
+      <h1>Hyvä diili <em>ei ole sattumaa!</em></h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
         <div class="hero-stat"><b>{len(ALL_COMPANIES)}</b><span>palvelua pisteytetty</span></div>
@@ -948,17 +951,17 @@ def build_index():
 <section class="band" style="padding-top:0">
   <div class="wrap">
     <div class="b2b">
-      <h3>Yrittäjä — haluatko nousta listalla?</h3>
+      <h3>Yrittäjä: haluatko nousta listalla?</h3>
       <p>Sijoitusta ei voi ostaa meiltä — eikä keneltäkään. Mutta voit pyytää analyysin, joka näyttää täsmälleen mitkä mittarit painavat sijoitustasi alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä — ansaitusti. Analyysi on avausvaiheessa maksuton.</p>
-      <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Voimme lisätä yrityksenne arvioon manuaalisesti — laita viestiä.</p>
-      <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä maksuton analyysi</a>
+      <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Ota yhteyttä, niin otamme yrityksesi mukaan seuraavaan mittauskierrokseen.</p>
+      <a class="btn" href="analyysi/">Pyydä maksuton analyysi</a>
       <small>Analyysi ei koskaan muuta pisteitä suoraan. Premium-näkyvyys ei vaikuta sijoituksiin.</small>
     </div>
   </div>
 </section>
 
 """
-    return page("Suomen Paras — Suomen läpinäkyvin vertailupalvelu",
+    return page("Suomen Paras | Suomen läpinäkyvin vertailupalvelu",
                 "Pisteytämme suomalaiset palvelut mitattavalla datalla. Lainavertailu, sähkösopimukset ja sadat muut kategoriat yhdellä läpinäkyvällä Scorella.",
                 body, root="", active="")
 
@@ -992,10 +995,10 @@ def build_vertical(v):
   {notes}
 
   <div class="b2b">
-    <h3>Oletko listalla — ja haluaisit korkeammalle?</h3>
+    <h3>Oletko listalla ja haluaisit korkeammalle?</h3>
     <p>Jokainen menetetty piste on dokumentoitu profiilissasi. Analyysimme priorisoi korjaukset vaikutuksen mukaan: mitkä toimet nostavat pisteitäsi eniten seuraavaan päivitykseen mennessä. Analyysi on avausvaiheessa maksuton.</p>
-    <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Voimme lisätä yrityksenne arvioon manuaalisesti — laita viestiä.</p>
-    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi">Pyydä maksuton analyysi</a>
+    <p>Eikö yrityksesi löydy listalta, vaikka sen pitäisi olla siellä? Ota yhteyttä, niin otamme yrityksesi mukaan seuraavaan mittauskierrokseen.</p>
+    <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
     <small>Sijoitusta ei voi ostaa. Analyysi kertoo miten se ansaitaan.</small>
   </div>
 </div>
@@ -1044,7 +1047,7 @@ def build_profile(c, pos, v):
     if dig_rows:
         receipts += receipt("Digitaalinen laatu", 30, c["pillars"]["digitaalinen"], dig_rows)
     else:
-        receipts += '<div class="note">Tekninen mittaus (Lighthouse) ajetaan seuraavassa päivityksessä.</div>'
+        receipts += '<div class="note">Tekninen mittaus ajetaan seuraavassa päivityksessä.</div>'
     receipts += receipt("Läpinäkyvyys", 30, c["pillars"]["lapinakyvyys"], lap_rows)
     receipts += receipt("Tavoitettavuus", 20, c["pillars"]["tavoitettavuus"], b["tavoitettavuus"]["rivit"])
     receipts += receipt("AI-laatuarvio", 20, c["pillars"]["ai_laatu"], b["ai_laatu"]["rivit"])
@@ -1154,7 +1157,7 @@ def build_profile(c, pos, v):
   <div class="b2b">
     <h3>Onko tämä sinun yrityksesi?</h3>
     <p>Yllä näkyy täsmälleen mistä pisteesi tulevat — ja mihin niitä jää saamatta. Analyysimme priorisoi korjaukset: mitkä toimenpiteet nostavat Scorea eniten, ja miten ne toteutetaan. Kun data paranee, sijoitus nousee seuraavassa päivityksessä. Analyysi on avausvaiheessa maksuton.</p>
-    <a class="btn" href="mailto:anton@antonjalonen.fi?subject=Suomen%20Paras%20-analyysi%20({esc(c['nimi'])})">Pyydä maksuton analyysi — {esc(c['nimi'])}</a>
+    <a class="btn" href="../../../analyysi/?yritys={esc(c['nimi'])}">Pyydä maksuton analyysi: {esc(c['nimi'])}</a>
     <small>Analyysi ei muuta pisteitä. Vain mittareiden parantaminen muuttaa.</small>
   </div>
 </div>"""
@@ -1202,10 +1205,10 @@ def build_metodologia():
     <table class="rows">
       <thead><tr><th>Pilari</th><th>Mitä mittaa</th><th>Lähde</th><th class="pts">Paino</th></tr></thead>
       <tbody>
-        <tr><td><b>Digitaalinen laatu</b></td><td>Suorituskyky (40), saavutettavuus (30), SEO (15), tekniset käytännöt (15) — mobiili</td><td class="src">Lighthouse (mobiili)</td><td class="pts"><b>30 %</b></td></tr>
+        <tr><td><b>Digitaalinen laatu</b></td><td>Suorituskyky (40), saavutettavuus (30), SEO (15), tekniset käytännöt (15) — mobiili</td><td class="src">Tekninen mittaus (mobiili)</td><td class="pts"><b>30 %</b></td></tr>
         <tr><td><b>Läpinäkyvyys</b></td><td>Kategoriakohtaiset kriteerit — sama painoarvo, eri mittarit. Ks. taulukko alla.</td><td class="src">Verkkosivu + AI-ekstraktio</td><td class="pts"><b>30 %</b></td></tr>
         <tr><td><b>Tavoitettavuus</b></td><td>Puhelin (30), sähköposti (15), chat (15), aukioloajat (15), UKK (15), mobiilisovellus (10)</td><td class="src">Verkkosivu + AI-ekstraktio</td><td class="pts"><b>20 %</b></td></tr>
-        <tr><td><b>AI-laatuarvio</b></td><td>Tietojen selkeys, hintatietojen löydettävyys, sisällön kattavuus (0–100)</td><td class="src">Claude Haiku 4.5</td><td class="pts"><b>20 %</b></td></tr>
+        <tr><td><b>AI-laatuarvio</b></td><td>Tietojen selkeys, hintatietojen löydettävyys, sisällön kattavuus (0–100)</td><td class="src">AI-analyysi</td><td class="pts"><b>20 %</b></td></tr>
       </tbody>
     </table>
   </div>
@@ -1233,7 +1236,7 @@ def build_metodologia():
       <li style="padding-left:0"><b>Sijoitusta ei voi ostaa.</b> Mikään maksu ei muuta pisteitä tai järjestystä — ei mainonta, ei kumppanuus, ei analyysipalvelu.</li>
       <li style="padding-left:0"><b>Affiliate-linkit eivät vaikuta pisteisiin.</b> Voimme saada komission, kun siirryt palveluun linkistämme. Komissio ei ole mittari.</li>
       <li style="padding-left:0"><b>Analyysipalvelu neuvoo, ei nosta.</b> Yritys voi ostaa analyysin siitä, mitkä mittarit painavat sen sijoitusta — pisteet nousevat vasta kun mittarit oikeasti paranevat.</li>
-      <li style="padding-left:0"><b>Jokainen yritys mitataan samalla tavalla.</b> Sama malli (Claude Haiku 4.5), sama ohjeistus ja sama prosessi jokaiselle yritykselle samassa päivityksessä — kukaan ei saa erikoiskohtelua.</li>
+      <li style="padding-left:0"><b>Jokainen yritys mitataan samalla tavalla.</b> Sama automaattinen prosessi ja sama ohjeistus jokaiselle yritykselle samassa päivityksessä, kukaan ei saa erikoiskohtelua.</li>
       <li style="padding-left:0"><b>Mutta AI-ekstraktio ei ole täysin toistettava — ja se on rehellisyyden vuoksi kerrottava.</b> Mittasimme 16.7.2026 kolme yritystä vahingossa kahdesti samalla mallilla ja samalla ohjeistuksella. Tulokset erosivat: 4–6 mitattua kohtaa per yritys, ja kokonaispisteissä jopa <b>±15 pistettä</b>. Syy: mallin näkemä sivu vaihtelee (evästemuurit, JS-sisältö, 404-sivut, eri alasivut), ja &rdquo;en löytänyt&rdquo; ei ole sama asia kuin &rdquo;ei ole olemassa&rdquo;. Kaava on deterministinen, mutta sen syöte ei vielä ole.</li>
       <li style="padding-left:0"><b>Mitä tämä tarkoittaa lukijalle:</b> pieniä pistemeroja ei pidä lukea paremmuusjärjestyksenä. Alle noin 15 pisteen ero on tässä demossa kohinaa, ei tulosta. Suuret erot (esim. hinta julkisesti vs. kirjautumisen takana) ovat luotettavia. Tuotantoversio vaatii moniajovarmistuksen: sama sivu mitataan useasti ja vain yhtenevä tulos julkaistaan.</li>
       <li style="padding-left:0"><b>”Havainto” on meidän huomiomme, ei yrityksen lainaus.</b> Pisterivien alla näkyvä havainto kertoo, mitä sivustolla oli nähtävissä mittaushetkellä. Se voi olla suora lainaus sivulta tai tiivistys siitä mitä kävijä näkee — usein se kuvaa nimenomaan jonkin tiedon <em>puuttumista</em>, jota ei voi lainata. Emme siksi esitä havaintoja yrityksen omina sanoina.</li>
@@ -1243,12 +1246,104 @@ def build_metodologia():
 
   <div class="note" style="margin-top:26px"><b>Demo-huomautus:</b> Tämä on konseptin esittelyversio. Jokaisen kategorian data on kerätty oikeista julkisista lähteistä sen omana mittauspäivänä ({esc(", ".join(f"{v['nimi'].lower()} {v['updated']}" for v in VERTICALS))}), mutta mittaristo on suppeampi kuin tuotantoversiossa (~26 / ~200 mittaria) ja kattaa vain palveluiden julkiset verkkosivut — ei esimerkiksi todellisia lainatarjouksia, vakuutusmaksuja tai pörssisähkön hintakehitystä.</div>
 </div>"""
-    return page("Metodologia — näin Suomen Paras Score lasketaan | Suomen Paras",
+    return page("Näin Suomen Paras Score lasketaan | Suomen Paras",
                 "Suomen Paras Score on julkinen ja deterministinen: pilarit, painot, lähteet ja riippumattomuusperiaatteet.",
                 body, root="../", active="metodologia")
 
+def build_analyysi():
+    opts = "".join(f'<option value="{esc(v["nimi"])}">{esc(v["nimi"])}</option>' for v in VERTICALS)
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Maksuton analyysi</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Pyydä maksuton analyysi</h1>
+    <p class="lead">Analyysi näyttää mittari mittarilta, mitkä asiat painavat yrityksesi sijoitusta alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä. Analyysi on avausvaiheessa maksuton.</p>
+  </div>
+
+  <div class="panel aform">
+    <p class="aform-note">Viesti on valmiiksi kirjoitettu, joten täydennä vain yrityksen tiedot ja lähetä. Lähetä-nappi avaa sähköpostiohjelmasi.</p>
+    <label>Yrityksen nimi<input type="text" id="af-yritys" placeholder="Esim. Yritys Oy"></label>
+    <label>Kategoria<select id="af-kategoria"><option value="">Valitse kategoria</option>{opts}<option value="Muu">Muu / ei vielä listalla</option></select></label>
+    <label>Viesti<textarea id="af-viesti" rows="9"></textarea></label>
+    <a class="btn" id="af-send" href="#">Lähetä analyysipyyntö</a>
+    <small>Jos nappi ei avaa sähköpostiohjelmaa, lähetä viesti suoraan osoitteeseen <a href="mailto:anton@antonjalonen.fi">anton@antonjalonen.fi</a>.</small>
+  </div>
+
+  <div class="b2b">
+    <h3>Mitä analyysi sisältää?</h3>
+    <p>Käymme läpi yrityksesi julkisen verkkosivun samoilla mittareilla, joilla koko kategoria on pisteytetty: hintojen näkyvyys, sopimusehtojen saatavuus, tavoitettavuus ja tekninen laatu. Saat listan konkreettisia korjauksia vaikutusjärjestyksessä.</p>
+    <small>Analyysi ei koskaan muuta pisteitä suoraan. Sijoitusta ei voi ostaa, se ansaitaan.</small>
+  </div>
+</div>
+
+<script>
+(function(){{
+  var params = new URLSearchParams(location.search);
+  var y = document.getElementById('af-yritys'),
+      k = document.getElementById('af-kategoria'),
+      m = document.getElementById('af-viesti'),
+      s = document.getElementById('af-send');
+  if (params.get('yritys')) y.value = params.get('yritys');
+  function pohja(){{
+    return 'Hei,\\n\\npyydän maksuttoman Suomen Paras -analyysin yrityksellemme.\\n\\n'
+      + 'Yritys: ' + (y.value || '') + '\\n'
+      + 'Kategoria: ' + (k.value || '') + '\\n\\n'
+      + 'Haluamme tietää, mitkä mittarit painavat sijoitustamme alas ja miten korjaamme ne.\\n\\nTerveisin\\n';
+  }}
+  var muokattu = false;
+  m.value = pohja();
+  m.addEventListener('input', function(){{ muokattu = true; }});
+  function refresh(){{ if (!muokattu) m.value = pohja(); }}
+  y.addEventListener('input', refresh);
+  k.addEventListener('change', refresh);
+  s.addEventListener('click', function(e){{
+    e.preventDefault();
+    var subject = 'Suomen Paras -analyysi' + (y.value ? ': ' + y.value : '');
+    location.href = 'mailto:anton@antonjalonen.fi?subject=' + encodeURIComponent(subject)
+      + '&body=' + encodeURIComponent(m.value);
+  }});
+}})();
+</script>"""
+    return page("Pyydä maksuton analyysi | Suomen Paras",
+                "Pyydä maksuton analyysi: näet mitkä mittarit painavat yrityksesi sijoitusta alas ja miten korjaat ne.",
+                body, root="../", active="analyysi")
+
+def build_sertifikaatti():
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Sertifikaatti</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Suomen Paras -sertifikaatti</h1>
+    <p class="lead">Merkki, jonka yritys voi ansaita, mutta ei ostaa. Sertifikaatti on tulossa.</p>
+    <div class="meta-row"><span class="upd">TULOSSA</span></div>
+  </div>
+
+  <div class="steps">
+    <div class="step"><span class="k">MIKÄ SE ON</span><h3>Todiste läpinäkyvyydestä</h3><p>Suomen Paras -sertifikaatti myönnetään yritykselle, jonka mitattu Score ylittää kategoriansa vaatimustason. Merkin voi näyttää omalla sivustolla, ja jokainen merkki linkittyy yrityksen julkiseen pisteprofiiliin, josta kuka tahansa voi tarkistaa mihin se perustuu.</p></div>
+    <div class="step"><span class="k">MITEN SEN SAA</span><h3>Mittaamalla, ei maksamalla</h3><p>Sertifikaattia ei voi ostaa. Se ansaitaan samalla julkisella pisteytyksellä, jolla koko kategoria on mitattu, ja se päivittyy jokaisen mittauskierroksen mukana. Jos mittarit heikkenevät, merkki poistuu.</p></div>
+    <div class="step"><span class="k">MILLOIN</span><h3>Tulossa</h3><p>Sertifikaatti julkaistaan, kun kategorioiden mittaus on vakiintunut. Jos haluat yrityksesi ensimmäisten joukkoon, pyydä maksuton analyysi niin näet jo nyt, missä mittarisi ovat.</p></div>
+  </div>
+
+  <div class="b2b">
+    <h3>Haluatko olla mukana ensimmäisten joukossa?</h3>
+    <p>Pyydä maksuton analyysi, niin näet jo ennen sertifikaatin julkaisua, mitkä mittarit ovat kunnossa ja mitkä vaativat korjausta.</p>
+    <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
+    <small>Sertifikaattia ei voi ostaa. Sijoitusta ei voi ostaa. Molemmat ansaitaan.</small>
+  </div>
+</div>"""
+    return page("Suomen Paras -sertifikaatti (tulossa) | Suomen Paras",
+                "Suomen Paras -sertifikaatti: merkki jonka yritys voi ansaita, mutta ei ostaa. Tulossa.",
+                body, root="../", active="sertifikaatti")
+
 # ---------------------------------------------------------------- write
+def strip_em_dashes(html_text):
+    # Site-wide copy rule (18.7.2026, Anton): no em dashes anywhere in published pages.
+    # Spaced em dashes read naturally as a comma in Finnish; bare ones become hyphens.
+    return html_text.replace(" — ", ", ").replace(" —", ",").replace("— ", "").replace("—", "-")
+
 def w(path, content):
+    if path.endswith(".html"):
+        content = strip_em_dashes(content)
     full = os.path.join(BASE, path)
     os.makedirs(os.path.dirname(full), exist_ok=True)
     with open(full, "w", encoding="utf-8") as f:
@@ -1261,6 +1356,8 @@ def main():
     w("index.html", build_index())
     w("kategoriat/index.html", build_kategoriat())
     w("metodologia/index.html", build_metodologia())
+    w("analyysi/index.html", build_analyysi())
+    w("sertifikaatti/index.html", build_sertifikaatti())
     n = 3
     for v in VERTICALS:
         w(f"{v['slug']}/index.html", build_vertical(v))

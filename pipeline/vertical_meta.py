@@ -138,6 +138,11 @@ META = {
         "meta_title": "Suomen paras luottokortti 2026 — kortit pisteytettynä | Suomen Paras",
         "meta_desc": "{n} suomalaista luottokorttia pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
         "notes": [
+            ("<b>Korjaus 18.7.2026, OP-Visa mitattu uudelleen:</b> alkuperäinen 16.7. mittaus ei "
+             "suorittanut JavaScriptiä, joten op.fi:stä ei latautunut mitään ja OP-Visa pisteytettiin "
+             "sisällöstä, jota mittari ei koskaan nähnyt. Se oli mittausvirhe meidän päässämme. OP-Visan "
+             "rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä haulla; muiden korttien "
+             "tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen arvio säilyy versiohistoriassa."),
             ("<b>Kuka luoton oikeasti myöntää?</b> Kortin logo ei kerro sitä. <b>OP-Visan ja K-Plussa "
              "Mastercardin myöntää sama yhtiö</b> — OP Vähittäisasiakkaat Oyj (Y-tunnus 0751699-0); Kesko "
              "tuo vain Plussa-etuohjelman. POP Visan myöntää Bonum Pankki, ei paikallinen POP Pankki. "
@@ -166,6 +171,11 @@ META = {
         "meta_title": "Suomen paras sijoitusalusta 2026 — alustat pisteytettynä | Suomen Paras",
         "meta_desc": "{n} sijoitusalustaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
         "notes": [
+            ("<b>Korjaus 18.7.2026, OP mitattu uudelleen:</b> alkuperäinen 16.7. mittaus ei suorittanut "
+             "JavaScriptiä, joten op.fi:stä näkyi vain kirjautumiskuori ja OP:n sisältöarviot perustuivat "
+             "sivuun, jota mittari ei oikeasti nähnyt. Se oli mittausvirhe meidän päässämme. OP:n rivi on "
+             "mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä haulla; muiden alustojen tulokset ovat "
+             "edelleen 16.7.2026 mittauksesta. Alkuperäinen arvio säilyy versiohistoriassa."),
             ("<b>Pankki vai välittäjä?</b> Pankkien (OP, Nordea, S-Pankki, Danske) sijoituspalvelu on osa "
              "verkkopankkia, ja hinnasto jää usein kirjautumisen taakse. Välittäjillä (Nordnet, Saxo) hinnat "
              "ovat tyypillisesti julkisia. Tämä ero näkyy suoraan läpinäkyvyyspisteissä — se ei kerro kumpi "

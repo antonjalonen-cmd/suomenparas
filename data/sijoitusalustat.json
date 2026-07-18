@@ -8,6 +8,7 @@
  "meta_title": "Suomen paras sijoitusalusta 2026 — alustat pisteytettynä | Suomen Paras",
  "meta_desc": "7 sijoitusalustaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
+  "<b>Korjaus 18.7.2026, OP mitattu uudelleen:</b> alkuperäinen 16.7. mittaus ei suorittanut JavaScriptiä, joten op.fi:stä näkyi vain kirjautumiskuori ja OP:n sisältöarviot perustuivat sivuun, jota mittari ei oikeasti nähnyt. Se oli mittausvirhe meidän päässämme. OP:n rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä haulla; muiden alustojen tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen arvio säilyy versiohistoriassa.",
   "<b>Pankki vai välittäjä?</b> Pankkien (OP, Nordea, S-Pankki, Danske) sijoituspalvelu on osa verkkopankkia, ja hinnasto jää usein kirjautumisen taakse. Välittäjillä (Nordnet, Saxo) hinnat ovat tyypillisesti julkisia. Tämä ero näkyy suoraan läpinäkyvyyspisteissä — se ei kerro kumpi on halvempi, vaan kumpi kertoo hintansa etukäteen.",
   "<b>Mitä tähän kategoriaan kuuluu:</b> alustat, joilla voit <b>itse ostaa ja myydä osakkeita tai ETF:iä</b>. Pelkkä rahastosäästäminen tai varainhoito ei riitä — muuten vertailisimme eri tuotteita keskenään. Siksi listalta puuttuvat <b>S-Pankki</b> ja <b>Alexandria</b> (tarkistimme: vain rahastot ja varainhoito, ei osakekauppaa) sekä <b>Seligson</b> ja <b>eQ</b> (rahastoyhtiöitä; Seligson on 100 % LähiTapiolan omistama). Ne voivat olla erinomaisia — ne eivät vain ole tämän kategorian tuotteita.",
   "<b>Miksi listalla ei ole Avanzaa?</b> Uuden tilin avaaminen vaatii ruotsalaisen henkilötunnuksen ja BankID:n — suomalainen ei käytännössä voi avata tiliä. <b>Handelsbanken</b> lopetti Suomen arvopaperipalvelut 31.5.2024 ja poistui vähittäispankkitoiminnasta. <b>Interactive Brokers, Revolut ja Lightyear</b> palvelevat suomalaisia, mutta ilman suomenkielistä palvelua.",
@@ -37,28 +38,28 @@
        "arvo": "65/100",
        "paino": 40,
        "pisteet": 65,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "100/100",
        "paino": 30,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -179,21 +180,21 @@
        "arvo": "85/100",
        "paino": 34,
        "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "90/100",
        "paino": 33,
        "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -252,28 +253,28 @@
        "arvo": "46/100",
        "paino": 40,
        "pisteet": 46,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "79/100",
        "paino": 30,
        "pisteet": 79,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -394,21 +395,21 @@
        "arvo": "85/100",
        "paino": 34,
        "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "88/100",
        "paino": 33,
        "pisteet": 88,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "82/100",
        "paino": 33,
        "pisteet": 82,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -467,28 +468,28 @@
        "arvo": "25/100",
        "paino": 40,
        "pisteet": 25,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "96/100",
        "paino": 30,
        "pisteet": 96,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "96/100",
        "paino": 15,
        "pisteet": 96,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -609,21 +610,21 @@
        "arvo": "82/100",
        "paino": 34,
        "pisteet": 82,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "85/100",
        "paino": 33,
        "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "78/100",
        "paino": 33,
        "pisteet": 78,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -682,28 +683,28 @@
        "arvo": "27/100",
        "paino": 40,
        "pisteet": 27,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "87/100",
        "paino": 30,
        "pisteet": 87,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "77/100",
        "paino": 15,
        "pisteet": 77,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -824,21 +825,21 @@
        "arvo": "70/100",
        "paino": 34,
        "pisteet": 70,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "65/100",
        "paino": 33,
        "pisteet": 65,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -875,6 +876,225 @@
    "yhteenveto": "Saxo Bank on kansainvälinen sijoituspalvelu, joka tarjoaa kahdet kaupankäyntialustat (SaxoInvestor ja SaxoTrader) sekä laajan tuotevalikoiman osakkeista futuureihin. Sivusto ilmoittaa matalan palkkiorakenteen ja ei verota alustan tai passiivisuusmaksuja. Hinnoittelutiedot ovat saatavilla verkkosivulla, mutta säilytyspalkkiot ja valuutanvaihtokulujen yksityiskohdat puuttuvat."
   },
   {
+   "slug": "op-sijoitus",
+   "nimi": "OP",
+   "domain": "op.fi",
+   "omistaja": "OP Osuuskunta — jäsenten omistama",
+   "y_tunnus": "0242522-1",
+   "rekisteroity": 1978,
+   "score": 58.5,
+   "pillars": {
+    "digitaalinen": 60.2,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "9/100",
+       "paino": 40,
+       "pisteet": 9,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kaupankäyntikulut esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Pääsivulla lukee: 'Aloittaa voit vaikka 100 eurolla edullisten välityspalkkioiden ansiosta' ja 'Saat aina edulliset hinnat osakekaupankäyntiin, kuten 1 %:n palkkiokaton kotimaisiin osakekauppoihin. Osakesijoittamisen aloittamiseen saat erityisetuja, kuten käyt kauppaa osakesäästötilillä ilman kaupankäyntipalkkioita ensimmäiset 30 päivää. Arvo-osuustilillä käyt kauppaa kuluvan kalenterineljänneksen ajan 0,10 % (min. 5 €) kaupankäyntipalkkiolla.'"
+      },
+      {
+       "mittari": "Säilytyspalkkio kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Säilytyspalkkioita ei mainita omilla riveillä missään ladatussa sivulla. Rahastot-sivulla todetaan 'Lähes kaikkien rahastojen ostaminen ja myyminen on maksutonta', mutta arvo-osuustilin säilytyspalkkioista ei sanota mitään."
+      },
+      {
+       "mittari": "Valuutanvaihtokulu kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Pääsivulla mainitaan yritys laajentaa markkinoille (usa, stockholm), mutta valuutanvaihtokuluista ei ole konkreettista tietoa näkyvissä."
+      },
+      {
+       "mittari": "Täysi hinnasto julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hintoja näkyy sivulla tekstimuodossa (0%, 0,10%, 1% palkkiot, 0,145% hallinnointipalkkio), mutta ladattavaa PDF- tai Excel-hintalistaa ei ole mainittuna."
+      },
+      {
+       "mittari": "Y-tunnus tai valvoja kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Asiakaspalvelu-sivulla lukee 'Kysy chatissa' useaan otteeseen eri kategorioissa, sekä 'Voit kysyä pankki- ja vakuutusasioistasi viestillä, kun kirjaudut sisään op.fi-palveluun tai OP-mobiiliin.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sijoituskoulu-sivulla on 'Opi lisää' -osio, joka sisältää 10 oppioppimisen askelta (miksi aloittaa sijoittaminen, miten teet ensimmäisen sijoituksen, jne). Asiakaspalvelu-sivulla on 'Usein kysyttyä' -osio monista aiheista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan OP-mobiili ja OP-yritysmobiili useaan otteeseen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 9,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 19996.19525,
+    "cls": 0.5052084228452919,
+    "tbt_ms": 1626.5000000000018
+   },
+   "facts_extra": [
+    {
+     "label": "Kaupankäyntikulut",
+     "value": "Julkisesti esillä"
+    },
+    {
+     "label": "Markkinat",
+     "value": "Helsinki, Stockholm, Usa, Oslo, Kööpenhamina"
+    }
+   ],
+   "vahvuudet": [
+    "Osakesijoittamisen palkkiot näkyvät selkeästi: 0% ensimmäisen 30 päivän osakesäästötilin kaupat, 0,10% (min. 5€) arvo-osuustilillä, 1% katto kotimaisiin osakekauppoihin",
+    "Rahastot ovat pääosin maksutonta ostaa ja myydä; indeksirahastot saatavilla 0,145% hallinnointipalkkiolla omistaja-asiakkaille",
+    "Laaja koulutusohjelma (OP Sijoituskoulu) ja kymmenen askeleinen aloitusopas saatavilla maksuttomasti"
+   ],
+   "kehityskohteet": [
+    "Säilytyspalkkio (arvo-osuustilillä) ei ole julkisesti näkyvissä, vaikka osakkeiden kaupankäyntipalkkiot ovat",
+    "Valuutanvaihtokuluista ei ole julkista hintaa; sivulla mainitaan 'FAQ-osio' aiheesta, mutta sisältö on piilotettu",
+    "Y-tunnus, tarkka puhelinnumero ja asiakaspalvelun sähköpostiosoite eivät näy pääsivustolla, vain yleinen ohjaus 'yhteystietojen' sivulle"
+   ],
+   "yhteenveto": "OP on suomalainen osuuspankki, joka tarjoaa laajat sijoituspalvelut (osakkeet, rahastot, arvo-osuudet, osakesäästötilit). Kaupankäyntipalkkiot ja rahastojen hallinnointipalkkiot näkyvät selkeästi ilman kirjautumista, ja koulutusmateriaalit ovat kattavat. Joitain maksuja (säilytyspalkkio, valuutanvaihtokulu) ei ole julkisesti näkyvissä, mikä heikentää läpinäkyvyyttä osassa palveluista."
+  },
+  {
    "slug": "nordea-sijoitus",
    "nimi": "Nordea",
    "domain": "nordea.fi",
@@ -897,28 +1117,28 @@
        "arvo": "58/100",
        "paino": 40,
        "pisteet": 58,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "94/100",
        "paino": 30,
        "pisteet": 94,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -1039,21 +1259,21 @@
        "arvo": "65/100",
        "paino": 34,
        "pisteet": 65,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "40/100",
        "paino": 33,
        "pisteet": 40,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "60/100",
        "paino": 33,
        "pisteet": 60,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -1112,28 +1332,28 @@
        "arvo": "46/100",
        "paino": 40,
        "pisteet": 46,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "100/100",
        "paino": 30,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "96/100",
        "paino": 15,
        "pisteet": 96,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -1253,21 +1473,21 @@
        "arvo": "35/100",
        "paino": 34,
        "pisteet": 35,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "15/100",
        "paino": 33,
        "pisteet": 15,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "40/100",
        "paino": 33,
        "pisteet": 40,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -1302,221 +1522,6 @@
     "Sijoittajille tärkeät tiedot (kaupankäyntikulut, säilytyspalkkio, valuutanvaihto) puuttuvat kokonaan"
    ],
    "yhteenveto": "Danske Bankin suomalainen verkkosivusto tarjoaa yleiskatsauksen sijoituspalveluista, mutta kaikki konkreettinen hinnoittelu ja palvelukulujen tieto on piilotettu kirjautumisen taakse. Julkisesti saatavilla olevia asiakirjoja tai hinnastoja ei löydy mistään. Sivusto on toiminnallisesti jäsennelty, mutta läpinäkyvyyden kannalta erittäin puutteellinen verrattuna kilpailijoihin."
-  },
-  {
-   "slug": "op-sijoitus",
-   "nimi": "OP",
-   "domain": "op.fi",
-   "omistaja": "OP Osuuskunta — jäsenten omistama",
-   "y_tunnus": "0242522-1",
-   "rekisteroity": 1978,
-   "score": 33.5,
-   "pillars": {
-    "digitaalinen": 60.2,
-    "lapinakyvyys": 22.5,
-    "tavoitettavuus": 20.0,
-    "ai_laatu": 23.4
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "9/100",
-       "paino": 40,
-       "pisteet": 9,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "100/100",
-       "paino": 30,
-       "pisteet": 100,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "77/100",
-       "paino": 15,
-       "pisteet": 77,
-       "lahde": "Lighthouse 13"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Kaupankäyntikulut esillä ilman kirjautumista",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Palveluhinnasto-linkki on saatavilla, mutta varsinaiset kaupankäyntikulut näkyvät vain kirjautuneille käyttäjille. Julkisella sivulla ei ole konkreettisia euroja tai prosenttiosuuksia osakekaupalle."
-      },
-      {
-       "mittari": "Säilytyspalkkio kerrottu",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Säilytyspalkkiota ei mainita millään julkisesti saatavilla olevalla sivulla. Asiakkaiden tulee ottaa yhteyttä tai kirjautua nähdäkseen tämän tiedon."
-      },
-      {
-       "mittari": "Valuutanvaihtokulu kerrottu",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Valuutanvaihtokuluista ei löydy mitään viittausta julkisella verkkosivustolla. Kansainvälisen kaupankäynnin maksut eivät ole näkyvissä."
-      },
-      {
-       "mittari": "Täysi hinnasto julkisesti saatavilla",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Y-tunnus tai valvoja kerrottu",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Osittain",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 5.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "25/100",
-       "paino": 34,
-       "pisteet": 25,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "10/100",
-       "paino": 33,
-       "pisteet": 10,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "35/100",
-       "paino": 33,
-       "pisteet": 35,
-       "lahde": "Claude Haiku 4.5"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 9,
-    "accessibility": 100,
-    "seo": 100,
-    "best_practices": 77,
-    "lcp_ms": 19996.19525,
-    "cls": 0.5052084228452919,
-    "tbt_ms": 1626.5000000000018
-   },
-   "facts_extra": [
-    {
-     "label": "Kaupankäyntikulut",
-     "value": "Osittain esillä"
-    },
-    {
-     "label": "Markkinat",
-     "value": "Helsinki, Stockholm, Usa"
-    }
-   ],
-   "vahvuudet": [
-    "Tunnettu suomalainen osuuspankki, luotettava johtava rahoituslaitos",
-    "Sijoituspalveluita tarjoaa ammattitaitoinen organisaatio",
-    "Mobiilipankki-sovellus mainittu digitaalisena ratkaisuna"
-   ],
-   "kehityskohteet": [
-    "Kaupankäyntikulut täysin piilotettu ilman kirjautumista, ei julkista hintalistaa",
-    "Säilytyspalkkio, valuutanvaihtokulu ja muut maksut eivät näkyviä potentiaalisille asiakkaille",
-    "Sijoitusinformaation saatavuus vaatii kirjautumisen, ei osaa hinnastoa ladattavissa"
-   ],
-   "yhteenveto": "OP Osuuskunta on suomalaisille tuttu jäsenomisteinen pankki, joka tarjoaa sijoituspalveluita osuuspankeissa. Kuitenkin kaupankäynnin kustannukset, säilytyspalkkiot ja valuutanvaihtomaksut ovat kokonaan piilotettu kirjautumisen taakse. Potentiaalinen asiakas ei näe konkreettisia hintoja ennen tilin avaamista, mikä heikentää läpinäkyvyyttä merkittävästi verrattuna kilpailijoihin."
   }
  ],
  "updated": "16.7.2026",

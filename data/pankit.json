@@ -1,0 +1,2057 @@
+{
+ "slug": "pankit",
+ "nimi": "Pankit",
+ "nav": "Pankit",
+ "h1": "Suomen paras pankki 2026",
+ "yksikko": "suomalaista vähittäispankkia",
+ "lead": "Pisteytimme {n} suomalaista vähittäispankkia {m} mittarilla. Tärkein kysymys: saatko palveluhinnaston auki ilman kirjautumista — vai vasta kun olet jo asiakas?",
+ "meta_title": "Suomen paras pankki 2026 — vähittäispankit pisteytettynä | Suomen Paras",
+ "meta_desc": "9 suomalaista vähittäispankkia pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Tämä ei mittaa asiakaspalvelun laatua.</b> Emme tiedä kuinka kauan jonotat, kuinka hyvin sinua autetaan tai kuinka nopeasti reklamaatio ratkeaa — verkkosivulta sitä ei voi mitata, eikä tämä sivu väitä mittaavansa sitä. Pisteet kertovat, kuinka läpinäkyvästi pankki julkaisee hintansa, ehtonsa ja yhteystietonsa <i>ennen kuin</i> sinusta tulee asiakas. Se on eri asia kuin hyvä palvelu — mutta se on asia, jonka voi tarkistaa.",
+  "<b>Säästöpankki ja POP Pankki eivät ole yhtiöitä vaan pankkiryhmiä.</b> Kummankin kohdalla Y-tunnus on ryhmän keskusyhteisö (Säästöpankkiliitto osk, POP Pankkikeskus osk) — ei talletuspankki. Jokainen jäsenpankki on itsenäinen yhtiö omalla Y-tunnuksellaan ja <b>omalla palveluhinnastollaan</b>: yhtä &rdquo;Säästöpankin hinnastoa&rdquo; ei ole olemassa. Mittaamme ryhmän yhteisen sivuston. <b>Oma Säästöpankki on kokonaan eri yhtiö</b> (2231936-2) kuin Säästöpankkiryhmä, vaikka nimet muistuttavat toisiaan.",
+  "<b>Miksi listalla ei ole Handelsbankenia?</b> Se ei enää palvele suomalaisia henkilöasiakkaita: tili- ja maksupalvelut päättyivät 31.3.2025, henkilöasiakkaat siirtyivät <b>S-Pankkiin</b> 1.12.2024 ja pk-yritysasiakkaita <b>Oma Säästöpankkiin</b> 1.9.2024. <b>Revolut ja N26</b> palvelevat suomalaisia, mutta niillä ei ole suomalaista Y-tunnusta eikä suomenkielistä palvelua. <b>Bank Norwegianin</b> Y-tunnusta ei löydy PRH:sta, ja <b>Svea</b> tarjoaa vain säästötilin ja luottoa — ei käyttötiliä, joten se on kulutusluotto-vertailussa. <b>Säästöpankkien Keskuspankki</b> ja <b>Bonum Pankki</b> ovat ryhmiensä keskuspankkeja, joilla ei ole kuluttaja-asiakkaita."
+ ],
+ "yritykset": [
+  {
+   "slug": "danske",
+   "nimi": "Danske Bank",
+   "domain": "danskebank.fi",
+   "omistaja": "Danske Bank A/S (Tanska) — Suomen sivuliike",
+   "y_tunnus": "1078693-2",
+   "rekisteroity": 1997,
+   "score": 83.4,
+   "pillars": {
+    "digitaalinen": 80.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 69.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Danske-tili-tuotesivun Hinnat ja ehdot -osiosta latautuu julkinen 10-sivuinen Paivittaispalveluhinnasto-PDF (palveluhinnasto.pdf, voimassa 23.6.2026 alkaen) ilman kirjautumista; myos Etuohjelman hinnasto -PDF on julkinen."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Danske-tili-sivulla lukee 'Paketin ulkopuolisista tai peruspankkipalveluun kuuluvasta tilista veloitetaan 2,50 euroa kuukaudessa'; hinnasto-PDF:ssa Danske-tilin kuukausimaksu 2,50 e ja Mastercard Debit -kortin kuukausimaksu 3,30 e."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tili- ja maksupalveluehdot -PDF latautuu julkisesti Danske-tili-sivun Hinnat ja ehdot -osiosta (tili--ja-maksupalveluehdot.pdf, HTTP 200); footerin 'Yleiset ehdot' -teksti nakyy kaikilla sivuilla."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konttorit-sivulla listattu 21 paikkakuntaa osoitteilla ja aukioloajoilla (esim. Helsinki Ratapihantie ma-pe 10-16:30, infopisteet ti/to 10-12); kassapalvelupisteet Helsinki ja Tampere eritelty."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkisen palveluhinnasto-PDF:n jokaisella sivulla 'Danske Bank A/S, Suomen sivuliike ... Y-tunnus 1078693-2'; sivuston footerissa yhtion nimi, osoite ja BIC mutta ei Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei nay riippumatonta arviota, vertailua tai asiakastyytyvaisyysmittausta; vain omat markkinointitekstit ja yhteistyokumppanien edut."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla useita numeroita: asiakaspalvelu 0200 2580 (ma-pe 9-16), seniorit 0200 25889, kortin sulkeminen 0200 2585 (24h), uudet asiakkaat 0100 1580; hinta pvm/mpm kerrottu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkista sahkopostiosoitetta ei nay; sivusto ohjaa lahettamaan suojatun viestin mobiili- tai verkkopankissa eli kirjautuneena."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Olemme apunasi chatissa arkisin klo 9-16' nakyy etusivulla ja yhteystiedoissa; yleinen chat kotisivuilla ja henkilokohtainen chat mobiilipankissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinpalvelun ajat (ma-pe 9-16, sulkupalvelu 24h), chatin ajat (arkisin 9-16) ja konttorien aukioloajat kaikki julkisesti esilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot/asiakaspalvelusivulla Usein kysyttya -osio (esim. 'Mista palvelumaksuni koostuu?') ja parikymmenta aihekategoriaa, mukaan lukien 'Hinnat ja ehdot'; myos Tule asiakkaaksi -sivulla oma UKK."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilipankki mainittu useilla sivuilla omana tuotesivunaan; chat, e-laskut ja sijoitukset hoituvat sovelluksessa; kayttoonotto-ohjeet julkisesti."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 6421.65264,
+    "cls": 0.2908741313699827,
+    "tbt_ms": 295.5
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Ulkomaisen pankin sivuliike"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Julkisesti auki"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "2,5 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Julkinen 10-sivuinen palveluhinnasto-PDF tuotesivuilta ilman kirjautumista; hinnat myös tuotesivun tekstissä",
+    "Konttorit listattu 21 paikkakunnalta osoitteineen ja aukioloaikoineen; monta palvelunumeroa aukioloaikoineen",
+    "Chat arkisin 9-16 seka verkkosivulla etta mobiilipankissa; asiakaspalvelusivulla laaja UKK-aihevalikoima"
+   ],
+   "kehityskohteet": [
+    "Hinnastoon paasee vain tuotesivujen kautta; suoraa /hinnasto-sivua tai footer-linkkia hinnastoon ei ole",
+    "Julkista sahkopostiosoitetta ei ole; viestin voi lahettaa vain kirjautuneena suojattuna viestina",
+    "Pakettihinnoittelu (Etuohjelman etutasot 1-4) tekee oman kuukausihinnan arvioinnista tyolasta uudelle asiakkaalle"
+   ],
+   "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja kayttotilin hinta nakyy myos suoraan sivutekstissa. Hinnaston loytaminen vaatii kuitenkin navigointia tuotesivuille asti, silla suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista."
+  },
+  {
+   "slug": "alandsbanken",
+   "nimi": "Ålandsbanken",
+   "domain": "alandsbanken.fi",
+   "omistaja": "Ålandsbanken Abp — pörssiyhtiö (Ahvenanmaa; konttorit myös mantereella)",
+   "y_tunnus": "0145019-3",
+   "rekisteroity": 1978,
+   "score": 80.3,
+   "pillars": {
+    "digitaalinen": 81.1,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen hinnasto-sivu (alandsbanken.fi/hinnasto) listataa tilin kuukausimaksut, korttimaksut ja palvelumaksut PDF-muotoisesti."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Prime-tilin/käyttötilin kuukausimaksu €5.00 (konttorin kautta) tai ilmainen digitaalisesti. Debit-kortti €3.00/kk, Credit/Debit-hybridi €45.00/vuosi."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot (yleiset sopimusehdot) ladattavissa sivustolla. Ehdoissa todetaan, että ehtoja voidaan muuttaa ilman erillistä ilmoitusta."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on yksityiskohtainen lista 12 toimipisteestä (Helsinki, Vaasa, Turku, Parainen, Tampere, Oulu Suomessa, Maarianhamina ja Godby Ahvenanmaalla, sekä Stockholm, Gothenburg, Malmö Ruotsissa) aukioloaikoineen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0145019-3 näkyy sivulla 'Meistä' -osassa yritystietojen yhteydessä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei ole viitattuja ulkopuolisia arvioita, sertifikaatteja tai tunnettujen arvioijien antamia arvosteluja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu 0204 292 920 (ma-pe 8:30-18:00), keskivaihde 0204 29 011 (ma-pe 9:00-16:30) ja 24/7 kortin sulkemispalvelu 020 333."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@alandsbanken.fi näkyi yhteydenoton sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainita sivuston missään osassa. Tuki on saatavilla vain puhelimitse ja sähköpostilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kattavat aukioloajat (ma-pe 10:00-16:30 yleensä, vaihtelevin aikoina ja kotiutuspalvelut rajoitetusti) listataan jokaisen toimipisteen osalta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilipankki (Mobiilisovellus) mainitaan digitaalisten palvelujen osassa, mutta sovelluksen ominaisuuksista ei anneta tietoja."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5357.900399999999,
+    "cls": 0,
+    "tbt_ms": 929.1827999999996
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Julkisesti auki"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "5 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnasto ja maksutiedot selkeästi saatavilla omalla hinnaston sivulla (€5/kk käyttötili tai ilmainen digitaalisesti)",
+    "Kattavat yhteystiedot ja auki oloajat kaikille toimipisteille sekä puhelintuki 24/7 korttikysymyksiä varten",
+    "Vastuullisuus ja ympäristöprojektit selkeästi esillä (6 miljoonaa euroa Itämeren suojeluun 2016 lähtien)"
+   ],
+   "kehityskohteet": [
+    "Ei asiakaspalvelu-chatia tai vertaisarvioita/tunnettujen arvioijien palautteiden näkyvyyttä",
+    "FAQ-osio puuttuu - asiakkaat joutuvat soittamaan tai lähettämään sähköpostia yleisiin kysymyksiin",
+    "Mobiilisovellusta mainitaan mutta sen ominaisuuksia ei eritellä verkkosivuilla"
+   ],
+   "yhteenveto": "Ålandsbanken on 1919 perustettu suomalais-alantialainen pankki, jolla on kattava palvelutarjonta henkilö- ja yritysasiakkaille. Hinta- ja maksuinformaatio löytyy selkeästi, puhelintuki on käytettävissä laajasti, ja konttoriverkon kattavuus on hyvä. Palvelua ei kuitenkaan tarjota chatissa eikä asiakaslähtöinen FAQ-osio ole saatavilla."
+  },
+  {
+   "slug": "spankki",
+   "nimi": "S-Pankki",
+   "domain": "s-pankki.fi",
+   "omistaja": "S-ryhmä (SOK ja alueosuuskaupat) — osti Handelsbankenin Suomen henkilöasiakkaat 1.12.2024",
+   "y_tunnus": "2557308-3",
+   "rekisteroity": 2013,
+   "score": 74.4,
+   "pillars": {
+    "digitaalinen": 65.2,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 76.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnastosivulle (https://www.s-pankki.fi/fi/palveluhinnasto) ohjataan useasta paikasta, mutta se palauttaa HTTP 404-virheen. Sivustolla mainitaan kuitenkin linkit hinnaston PDF-asiakirjoihin esimerkiksi korttiehdoissa."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla www.s-pankki.fi/fi/tilit/s-tili todetaan selkeästi 'Asiakasomistajana saat tilin käyttöösi ilmaiseksi'. Korttisivulla www.s-pankki.fi/fi/kortit mainitaan 'Asiakasomistajana saat kortin ilman kuukausi- tai vuosimaksua'. Kuukausimaksu on siis 0 euroa."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivulla (https://www.s-pankki.fi/fi/kayttoehdot) todetaan 'Verkkopankin käyttöön sovelletaan erillisiä S-Pankin digitaalisten palvelujen yleisiä ehtoja' ja sivustolla on linkki 'Ehdot ja muut asiakirjat'. Yleiset tiliehdot mainitaan S-Tili sivulla."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla (https://www.s-pankki.fi/fi/toimipaikat) on toimipaikkahaun kartta ja tekstissä mainitaan 'käteispalvelut ma-pe klo 12 asti' sekä 'palvelemme ensisijaisesti ajanvarauksella'. Asiakaspalvelu tavoitettavissa 010 76 5800 ma-pe klo 9-16."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2557308-3 näkyy kaikilla sivuilla footerin osassa ja käyttöehdot-sivulla yritystiedoissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita puhelinnumeroita näkyy: pankkitunnusten sulkupalvelu 09 6964 6820, korttien sulkupalvelu 020 333, asiakaspalvelu 010 76 5800, sekä pääpuhelin 010 768 011."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei löytynyt julkisesti näkyvillä sivuilla. Yhteystiedoissa ovat ainoastaan puhelinnumerot ja postiosoitteet."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkopankissa mainitaan 'virtuaaliavustaja Aulis' chat-palvelun kautta. Sivulla todetaan 'Verkkopankissa auttaa chatissa virtuaaliavustaja Aulis'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla mainitaan käteispalvelut ma-pe klo 12 asti, asiakaspalvelu ma-pe klo 9-16, ja sulkupalvelut 24h/vrk. Yksilöiden toimipaikkojen tarkemmat aukioloajat löytyvät toimipaikkahaussa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla on laajat usein kysytyt kysymykset -osiot, esimerkiksi S-Tili sivulla on 'Usein kysyttyä' -osio, jossa on viisi kysymys-vastaus -paria."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 21840.264999999996,
+    "cls": 0.01061708879425262,
+    "tbt_ms": 2049
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "0 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Ilmaiset pankkipalvelut asiakasomistajille (tili, kortti, mobiilisovellus)",
+    "Useita asiointikanavia: S-mobiili, verkkopankki, asiakaspalvelupisteet ja chat",
+    "Selkeä toimipaikkatietojen haku ja ajanvaraussysteemi verkossa"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnastoa ei ole helposti saatavilla verkossa (palveluhinnastosivulla 404-virhe)",
+    "Sähköpostiosoitetta ei ole julkisesti näkyvillä - yhteystiedoissa vain puhelinnumerot",
+    "Riippumatonta arviota ja ulkopuolisten organisaatioiden sertifiointeja ei mainita julkisesti"
+   ],
+   "yhteenveto": "S-Pankki on suomalainen pankki, joka tarjoaa maksuttomia peruspalveluita asiakasomistajille. Sivusto on hyvin organisoitu useilla asiointikanavilla (S-mobiili, verkkopankki, toimipaikat), mutta palveluhinnastoa on vaikea löytää ja sähköpostiosoitetta ei ole julkisesti näkyvillä. Perustiedot hinnoittelusta (käyttötili ja kortti ilmaiseksi) ja yhteystiedoista ovat saatavilla, mutta jotkut läpinäkyvyyden mittarit jäävät puutteellisiksi."
+  },
+  {
+   "slug": "omasp",
+   "nimi": "Oma Säästöpankki",
+   "domain": "omasp.fi",
+   "omistaja": "Oma Säästöpankki Oyj — pörssiyhtiö; EI sama kuin Säästöpankkiryhmä",
+   "y_tunnus": "2231936-2",
+   "rekisteroity": 2008,
+   "score": 73.2,
+   "pillars": {
+    "digitaalinen": 70.0,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla (https://www.omasp.fi/hinnasto) näkyy linkkejä PDF-tiedostoihin: 'Henkilöasiakkaiden päivittäisten raha-asioiden hinnasto 1.11.2025 alkaen', 'Nuorten päivittäisten raha-asioiden hinnasto 1.5.2026 alkaen', jne. Sivulla todetaan 'Täydelliset palveluhinnastot ovat nähtävissä konttoreissamme.' Hinnat eivät ole näkyvissä HTML-sisällössä."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttötili- ja kortit-sivuilla kuvataan palveluita kattavasti, mutta konkreettisia kuukausimaksuja (€/kk) ei ole esitetty. PDF-dokumentit 'Maksuja koskeva tietoasiakirja, käyttötili 1.11.2025 alkaen' ja 'Yleiset korttiehdot' sisältävät hintatiedot, mutta ne eivät ole saavutettavissa ilman PDF:n avausta."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Dokumentit-sivulla (https://www.omasp.fi/dokumentit) saatavilla sellaiset sopimuspdf:t kuten 'Käyttötilin yleiset ehdot' ja 'Yleiset korttiehdot', jotka on ladattavissa. Sopimukset ovat julkisesti saatavissa PDF-muodossa."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konttorit-sivulla (https://www.omasp.fi/konttorit) näkyy lista 48 konttorin nimistä ja kaupungeista. Asiakaspalvelun aukioloajat ilmoitetaan: 'Asiakaspalvelumme palvelee heinäkuussa ma-to klo 8-20 ja pe klo 8-18.' Yksittäisten konttorien aukioloajat näyttävät olevan interaktiivisessa kartassa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2231936-2 näkyy jokaisella sivulla footerissa: '© Oma Säästöpankki Oyj Y-tunnus 2231936-2'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 020 7640 600 näkyy useilla sivuilla, mm. kontaktiosiossa ja footerissa. Asiakaspalvelu mainittu saatavaksi puhelinpalvelun kautta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite omasp@omasp.fi näkyy sivustolla (pääsivulla ja 404-sivulla). Kontaktointi on mahdollista myös OmaPostilaukosta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan useilla sivuilla: 'Chat - Keskustele pankin asiantuntijan kanssa'. Arvioitu jonotusaika näytetään (tällä hetkellä 'Suljettu')."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -sivu löytyy osoitteesta https://www.omasp.fi/ota-yhteytta/usein-kysytyt-kysymykset. Sivu sisältää kategorioita: 'Usein kysyttyä asiakkuudesta', 'Usein kysyttyä korteista', 'Usein kysyttyä lainoista', jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaMobiili-sovellus mainitaan useiden sivujen navigaatiossa ('Lataa OmaMobiili') ja 'Usein kysyttyä mobiilisovelluksistamme' -osio löytyy FAQ-sivulta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 7210.3575,
+    "cls": 4.417179984825318e-05,
+    "tbt_ms": 1682.000000000001
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä sivustorakenne ja hyvä navigaatio henkilöasiakkaiden palveluihin",
+    "Kattava dokumenttihakemisto sopimusehdoista ja ohjeista (PDF-muoto)",
+    "48 konttorin verkko ja monipuoliset yhteydenottokeinot (puhelin, chat, verkkoneuvottelu)"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnasto on saatavilla vain PDF-linkkien kautta, ei suoraan HTML-sivulla näkyvissä",
+    "Käyttötilin ja kortin kuukausimaksuja ei ole julkaistu sivulla - hinnat löytyvät vain PDF-hinnaston kautta",
+    "Konttorien aukioloajat näytetään vain interaktiivisena kartalla, ei yksityiskohtaisesti tekstinä"
+   ],
+   "yhteenveto": "Oma Säästöpankki Oyj on itsenäinen pörssiyhtiö, jonka verkkosivuilla on kattava tietohakemisto palveluista, sopimusehdoista ja kontaktitiedoista. Sivuston selkeys on hyvä ja asiakaspalveluun pääsee useilla tavoilla (puhelin, chat, konttori). Hinnoittelu on kuitenkin piilossa PDF-tiedostoissa, joten julkisen saavutettavuuden osalta on puutteita."
+  },
+  {
+   "slug": "poppankki",
+   "nimi": "POP Pankki",
+   "domain": "poppankki.fi",
+   "omistaja": "POP Pankkikeskus osk — keskusyhteisö, EI talletuspankki; ryhmässä on itsenäisiä osuuspankkeja omilla Y-tunnuksillaan",
+   "y_tunnus": "1090961-3",
+   "rekisteroity": 1997,
+   "score": 72.2,
+   "pillars": {
+    "digitaalinen": 70.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 65.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastot-sivulla (https://www.poppankki.fi/tutustu-pop-pankkiin/asiakaspalvelu/hinnastot) selkeästi ilmoitetaan: 'POP Pankki -ryhmän pankit ovat itsenäisiä osuuspankkeja, joilla kullakin on oma hinnastonsa. Oman pankkisi palveluhinnat näet verkkopankista tai oman pankkisi sivuilta.' Sivulla listataan linkit kunkin jäsenpankin hinnastoihin. Yhteistä ryhmän tasolla olevaa palveluhinnastoa ei ole."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konkrettiset käyttötilin ja korttien kuukausimaksut eivät näy poppankki.fi-sivustolla. Sivusto ohjaa asiakkaat omansa pankkiensa sivuille. Tämä johtuu siitä, että POP Pankki on ryhmä itsenäisiä osuuspankkeja, eikä yhteistä hinnastoa ole."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ehdot-sivu (https://www.poppankki.fi/ehdot) sisältää laajan ja selkeästi jäsennellyn luettelon kaikista tuotteiden ja palvelujen ehdoista sekä ehtojen arkiston. Ehdot ovat luokiteltu henkilöasiakas ja yritysasiakas -kategorioihin ja ovat julkisesti luettavissa."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konttorihaku on käytettävissä osoitteessa https://www.poppankki.fi/konttorihaku, missä asiakkaat voivat etsiä konttoreita sijainnin tai postinumeron perusteella. Konttorihaku sisältää kartan ja näyttää konttorien aukioloajat. Lisäksi sivusto tarjoaa yhteydenottolomakkeen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy mistään julkisesta osasta poppankki.fi-sivustoa, mukaan lukien POP Pankki -ryhmä -sivu, tietosuoja-sivu, tai mikään muu sivu. Sivustolla näkyy osoite 'POP Pankki, Hevosenkenkä 3, 02600 ESPOO' mutta ei Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: POP Pankki -ryhmä -sivulla mainitaan EPSI Ratingin tutkimus: 'Pohjoismaisia pankkeja yli 10 vuotta tutkineen EPSI Ratingin mukaan meiltä saa pankkialan parasta palvelua. POP Pankki on valittu yksityisasiakaskategorian parhaaksi pankiksi 13 kertaa.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot ovat näkyvissä. Korttiasiakaspalvelu: +358 10 248 4800 (Ma-pe 9-18). Visa-kortin katoamisilmoitukset: 020 333 (Suomesta), +358 20 333 (ulkomailta). Sulkupalvelu on avoinna 24/7."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä. Tietosuoja: tietosuoja@poppankki.fi (tietosuoja-sivulla). Huijausilmoitukset: huijaushavainnot@poppankki.fi (turvallinen-asiointi -sivulla)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan yhteydenotto-sivulla: 'Chat-palvelusta vastaus välittömästi. Verkkosivuilta löytyvästä asiakaspalveluchatistamme saat vastauksen heti. Kanssasi asioi aina palveluneuvojamme, eli ihan oikea ihminen. Chatti auttaa sinua arkisin klo 9-18.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 9-18) mainitaan selvästi yhteydenotto-sivulla. Konttoreiden aukioloajat saatavilla konttorihaku-työkalulla. Sulkupalvelu 24/7."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla viitataan useissa paikoissa 'Usein kysytyt kysymykset' -osioon, mutta suoraa UKK-sivua ei löydy osoitteesta https://www.poppankki.fi/usein-kysytyt-kysymykset (HTTP 404). UKK-osio on osittain saatavilla muodoissa, joissa sivusto mainitsee FAQ-kysymyksiä eri aiheista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 21490.645125,
+    "cls": 0.01935320270783209,
+    "tbt_ms": 2726
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Pankkiryhmä — ei yksi yhtiö"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeä navigaatio ja sivurakennus helpottaa orientoitumista ryhmän palveluihin",
+    "Konttorihaku ja ajanvarauspalvelu saatavilla netissä, sekä monipuoliset yhteydenottotavat",
+    "Sopimusehdot ja tietosuojadokumentit julkisesti ladattavissa kattavalla arkistolla"
+   ],
+   "kehityskohteet": [
+    "Käyttötilin ja korttien kuukausimaksut eivät näy ryhmän tasolla – sivusto ohjaa jäsenpankkien omille sivuille",
+    "Y-tunnusta ei näy julkisesti mistään osasta sivustoa",
+    "Palveluhinnasto on fragmentoitu jäsenpankkien kesken, mistä johtuen kuluttajat joutuvat etsimään tietoja useista eri paikoista"
+   ],
+   "yhteenveto": "POP Pankki -ryhmä on itsenäisten osuuspankkien ryhmä, jonka pääsivu tarjoaa selkeää navigointia palveluihin ja tietoihin. Ryhmän tasolla ei ole yhteistä palveluhinnastoa tai käyttötilin maksuja, koska jokainen 18 jäsenpankista määrittelee omat hintansa. Sivusto on hyvin dokumentoitu sopimusehtojen ja tietosuojaselosteiden osalta, ja asiakaspalvelun puhelinnumerot sekä chat-palvelu ovat selvästi näkyvissä."
+  },
+  {
+   "slug": "saastopankki",
+   "nimi": "Säästöpankki",
+   "domain": "saastopankki.fi",
+   "omistaja": "Säästöpankkiliitto osk — keskusyhteisö, EI talletuspankki; ryhmässä on itsenäisiä säästöpankkeja omilla Y-tunnuksillaan",
+   "y_tunnus": "0117011-6",
+   "rekisteroity": 1978,
+   "score": 70.6,
+   "pillars": {
+    "digitaalinen": 86.1,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 60.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "69/100",
+       "paino": 40,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolle https://www.saastopankki.fi/hinnasto linkitetään hinnasto, joka selittää: 'Hinnastot henkilö- ja yritysasiakkaille löydät Pankit ja konttorit -osuudesta. Valitse paikallisen Säästöpankkisi konttori ja napsauta tietojen alla olevaa Hinnasto-kohtaa'. Klikit johtavat paikallisten pankkien hinnastoihin (PDF), ei ryhmän yhtenäiseen hinnastoon. Ryhmärakenteen vuoksi yhtenäistä hinnastoa ei ole."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pankit ja konttorit -sivulla näkyvät linkit 'Hinnasto', 'Hinnasto, yritykset', 'Hinnasto, yksityiset', 'Hinnasto, säästäminen ja sijoittaminen' ja 'Maksuja koskeva tietoasiakirja', mutta ne johtavat paikallisten pankkien PDF-hinnastoihin, joita ei voitu ladata ilman paikallisen pankin valintaa. Ryhmän tasolla eurohintoja ei ole näkyvissä."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sopimusehdot-sivu (https://www.saastopankki.fi/sopimusehdot) palauttaa HTTP 404. Asiakkaiden pitää etsiä sopimukset paikallisten pankkien sivustoilta, joita sivusto ei linkitä suoraan."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pankit ja konttorit -sivu (https://www.saastopankki.fi/pankit-ja-konttorit) tarjoaa hakutoiminnon, joka näyttää kaikki Säästöpankin konttorit kaupungeittain. Jokaisen konttorin yhteydessä näkyvät aukioloajat ja puhelinnumero (esim. Aito Säästöpankki / Eura: 'Päivittäisasiat ja säästäminen ajanvarauksella konttorissa ma–pe 10–16.30; Neuvontapalvelut verkkotapaamisena ma–to 8–20')."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä saastopankki.fi-sivustolla. Saastopankkiryhma-sivulla mainitaan että Säästöpankkikeskuksen muodostavat useat yhtiöt (Säästöpankkiliitto osk, Sp-Rahastoyhtiö Oy, Säästöpankkien Keskuspankki Suomi Oyj, Sp-Kiinnitysluottopankki Oyj, Säästöpankkipalvelut Oy, Sp-Koti Oy), joilla kullakin on omat Y-tunnuksensa, mutta ryhmän yhtenäistä tunnusta ei ole julkaistu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin 010 311 6400 näkyy Pankit ja konttorit -sivulla jokaisen konttorin yhteydessä. Asiakaspalvelu-sivulla mainitaan että asiakaspalvelu on tavoitettavissa puhelimitse arkisin klo 8–20 ja lauantaisin klo 10–14. Paikallisten pankkien konttorit mainitaan omilla puhelinumeroinaan."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite laura.ylimaki@saastopankki.fi näkyy Vastuullisuus-sivulla (Kehitysjohtaja, vastuullinen liiketoiminta), mutta yleistä asiakaspalvelun sähköpostia ei ole julkaistu pääsivustolla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Palvelemme asiakaspalvelussa puhelimitse ja chatilla arkisin klo 8–20 ja la klo 10–14'. Pääsivulla näkyy 'Chatbot 24/7' linkki."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pankit ja konttorit -sivulla näkyvät kaikkien konttorien aukioloajat. Esimerkiksi Aito Säästöpankki / Eura: 'ma–pe 10–16.30' ja 'Neuvontapalvelut verkkotapaamisena ma–to 8–20 pe 8–16.30'. Asiakaspalvelu-sivu mainitaan että asiakaspalvelu on avoinna 'arkisin klo 8–20 ja la klo 10–14'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla on 'Usein kysytyt kysymykset' -osio, jossa linkitetään aiheisiin 'Tunnistaudu puhelinpalveluun', 'Liity verkkotapaamiseen', 'Usein kysytyt kysymykset' (lainat, sijoittaminen, lapsen pankkiasiat)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Säästöpankki Mobiili -sovellus mainitaan useilla sivuilla. Tule asiakkaaksi -sivulla mainitaan 'käyttäjien ylistämä Säästöpankki Mobiili tukee talouden hallintaa'. Pääsivulla mainitaan 'Tunnistautuminen sulautuu osaksi Säästöpankki Mobiilia' ja 'Jatkossa voit hoitaa kaikki pankkiasiasi yhdellä sovelluksella.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 69,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3137.035,
+    "cls": 0.04757412564862321,
+    "tbt_ms": 687
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Pankkiryhmä — ei yksi yhtiö"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja konttoriverkkosto ympäri Suomea, joista kaikilla aukioloajat ja puhelinnumerot saatavilla",
+    "Yhtenäinen asiakaspalvelunumero ja chat-palvelu kaikille paikallisille Säästöpankeille",
+    "Modernit digipalvelut, erityisesti Säästöpankki Mobiili -sovellus ylistetään asiakkaiden keskuudessa (NPS 84)"
+   ],
+   "kehityskohteet": [
+    "Hinnaston löydettävyys vaikeaa: sivusto selittää että hinnastot löytyvät paikallisten pankkien sivuilta (ryhmärakenteen vuoksi), mutta ei tarjoa suoraa linkkiä tai PDF-latausmahdollisuutta ryhmän tasolla",
+    "Sopimusehdot ja muut säädösasiakirjat puuttuvat ryhmän pääsivustolta; asiakkaiden pitää etsiä ne paikallisten pankkien sivuilta",
+    "Y-tunnus ei näkyvissä pääsivustolla (johtuu ryhmärakenteesta: Säästöpankkiryhmä koostuu useista itsenäisistä pankeista ja muista yhtiöistä)"
+   ],
+   "yhteenveto": "Säästöpankki ei ole yksi pankki vaan ryhmä itsenäisiä paikallisia pankkeja ympäri Suomea. Pääsivusto tarjoaa yhtenäisen asiakaspalvelun (puhelin 010 311 6400, chat, verkkotapaaminen) ja selkeää konttoriverkkoa, mutta hinnaston ja sopimusehtojen osalta ohjaa asiakkaita paikallisten pankkien sivustoille. Säästöpankki Mobiili -sovellusta kehutaan. Ryhmärakenteen vuoksi yksittäisen Y-tunnuksen tai palveluhinnastojen toimittaminen on mahdotonta: jokaisen paikallisen Säästöpankin hinnasto poikkeaa."
+  },
+  {
+   "slug": "nordea",
+   "nimi": "Nordea",
+   "domain": "nordea.fi",
+   "omistaja": "Nordea Bank Abp — pörssiyhtiö, pääkonttori Helsingissä",
+   "y_tunnus": "2858394-9",
+   "rekisteroity": 2017,
+   "score": 68.1,
+   "pillars": {
+    "digitaalinen": 78.6,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 55.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkinen hinnastosivu (nordea.fi/henkiloasiakkaat/hinnat/hinnat.html) latautuu ilman kirjautumista. Otsikko 'Hinnasto Nordean henkilöasiakkaiden tuotteille ja palveluille'; sivulla on päivittäispalveluiden hintataulukko 1.5.2026 alkaen sekä linkit tilien, korttien, lainojen, sijoittamisen ja vakuutusten tarkempiin hinnastoihin."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastosivulla ilmoitetaan julkisesti päivittäispalveluiden hinnat 1.5.2026 alkaen: Käyttötili 2,60 €/kk, Pankkitunnukset 0,99 €/kk, Nordea Debit -kortti 2,99 €/kk, Nordea Credit 2,99 €/kk, Nordea Gold 5,99 €/kk, Nordea Platinum 16,99 €/kk."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa mainitaan 'Yleiset ehdot www-sivujen käyttöön' ja 'Tietosuojaseloste' linkkeinä, mutta niiden sisällön noutaminen epäonnistuu. Sivusto vaatii evästeet ennen sisällön näyttämistä."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menusta näkyy 'Konttorit ja automaatit' linkki, mutta sivulle pääsy on estetty (HTTP 404). Konttorien osoitteita ja aukioloaikoja ei voida saada."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2858394-9 näkyvissä sivun footerissa, sekä BIC: NDEAFIHH, ALV-tunnus: FI28583949."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy 'Soita meille' ja 'Asiakaspalvelu' tekstit, mutta varsinaista puhelinnumeroa ei näytetä. Asiakaspalvelun yhteystiedot ovat sisällyssivulla jota ei voi ladata."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Kysy heti chatissa' linkki näkyy etusivulla asiakaspalvelussa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikojen linkki mainitaan footerissa ('Konttorit ja automaatit'), mutta sivua ei voida avata."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja footerissa mainitaan 'Usein kysytty' linkki, mutta sisällön noutaminen epäonnistuu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Mobiilipankki – Nordea Mobile' mainitaan useassa paikassa etusivulla ja navigaatiossa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6465.191,
+    "cls": 0,
+    "tbt_ms": 820.5
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Julkisesti auki"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "2,6 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Julkinen hinnasto kaikille henkilöasiakkaiden tuotteille ilman kirjautumista",
+    "Päivittäispalveluiden hinnat (tili, kortit, pankkitunnukset) selkeässä taulukossa euromäärinä",
+    "Y-tunnus ja perustiedot näkyvät julkisesti jokaisen sivun footerissa"
+   ],
+   "kehityskohteet": [
+    "Useat navigaation linkittämät alasivut palauttivat 404-virheen mittaushetkellä",
+    "Puhelinnumeroa ja sähköpostiosoitetta ei löytynyt luetuilta julkisilta sivuilta",
+    "Konttoreiden ja aukioloaikojen tietoja ei saatu vahvistettua julkisilta sivuilta"
+   ],
+   "yhteenveto": "Nordea Bank Oyj on Suomen suurimpia pankkeja, ja sen henkilöasiakkaiden sivustolla on julkinen hinnasto: päivittäispalveluiden hinnat (mm. käyttötili 2,60 €/kk ja Nordea Debit 2,99 €/kk) näkyvät ilman kirjautumista. Sivusto käyttää bot-suojausta ja osa navigaation alasivuista ei latautunut mittauksessa, joten konttori-, aukioloaika- ja yhteystietoja ei voitu vahvistaa täysin."
+  },
+  {
+   "slug": "op",
+   "nimi": "OP",
+   "domain": "op.fi",
+   "omistaja": "OP Osuuskunta — noin 100 osuuspankkia, asiakasomisteinen",
+   "y_tunnus": "0242522-1",
+   "rekisteroity": 1978,
+   "score": 65.7,
+   "pillars": {
+    "digitaalinen": 59.3,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "10/100",
+       "paino": 40,
+       "pisteet": 10,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston footerissa mainitaan 'Palveluhinnasto' ja 'Puheluhinnasto' linkkeinä, mutta suorat URL-haut (op.fi/palveluhinnasto, op.fi/puheluhinnasto) palauttavat 404-sivuja. Asuntolaina-sivulla on PDF-linkkejä sopimusehtoihin, mutta täydellistä palveluhinnaston PDF:ää ei löytynyt suorasti."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kortit-sivulla näkyy esimerkkilaskelmat - Visa-kortin kuukausimaksu 2,95 euroa, OP Duo -kortin 4 euroa, K-Plussa Maksuaika -kortin 0 euroa. Käyttötili-sivulla mainittu, että tili on maksuton omistaja-asiakkaille ja alle 26-vuotiaille. Asuntolaina-sivulla luotonhoitomaksu 2,50 euroa ja toimitusmaksu 680 euroa mainittuna."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asuntolaina-sivulla PDF-linkit 'Velan yleiset ehdot', 'Panttausehdot' ja 'Takausehdot'. Siirto-sivulla 'Maksujenvälityksen yleiset ehdot (pdf)' ja 'Siirto-maksun käyttöehdot (pdf)'. Käyttötili-sivulla linkki 'tilin yleisiin ehtoihin (pdf)'."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Fyysisten konttorien sijainnit tai aukioloajat eivät löytyneet julkiselta verkkosivulta. Turvallinen asiointi -sivulla mainittu vain 'Asiakaspalvelu on avoinna ma-pe klo 8-16' ja 'Sulkupalvelu on auki ympäri vuorokauden'. Konttorit-osoite (op.fi/konttorit) palauttaa 404."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy missään julkisesti haetulla sivulla. Käyttöehdot-sivulla näkyy BIC-koodi 'OKOYFIHH' ja viittaukset 'OP Osuuskunta', mutta rekisteritunnusta ei mainita."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Turvallinen asiointi -sivulla asiakaspalvelun numerot 'Henkilöasiakkaat: 0100 0500' (ma-pe 8-16) ja 'Sulkupalvelu: 0100 0555' (ympäri vuorokauden). Siirto-sivulla mainittu 'OP Sulkupalvelu numerossa 0100 0555'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useiden sivujen alalaidassa näkyy 'Kysy chatissa' -linkki (pääsivu, kortit, OP-mobiili, Siirto). Chat-palvelu on selvästi saatavilla, mutta sen saatavuusajat eivät julkisesti määritellyt haetulla sisällöllä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 10,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 19830.816499999994,
+    "cls": 0.46723029881779937,
+    "tbt_ms": 2085.499999999998
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Osuuspankkiryhmä"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "0 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Mobiilisovellus (OP-mobiili) kattavasti kuvattu usealla sivulla, selkeät ominaisuudet ja latauslinkit",
+    "Korttien hinnoittelu ja maksut esillä yksityiskohtaisesti (Visa 2,95€/kk, OP Duo 4€/kk, ilmaisia vaihtoehtoja)",
+    "Asiakaspalveluyhteystiedot selkeästi näkyvissä (puhelinumerot 0100 0500, 0100 0555)"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnasto-PDF ei ladattavissa suorilla URL-hauilla; footerissa mainitut linkit ohjaavat 404-sivuille",
+    "Konttorien sijainnit ja aukioloajat eivät julkisesti löydettävissä; vain asiakaspalvelun puhelinpalvelun aukioloajat mainittu (ma-pe 8-16)",
+    "Y-tunnus puuttuu kokonaan; ainoastaan BIC-koodi (OKOYFIHH) näkyvissä käyttöehdoissa"
+   ],
+   "yhteenveto": "OP Pohjola on Suomen suurimpia pankkeja, jonka verkkosivut op.fi ovat JavaScript-renderöityä sisältöä. Sivustolla on kattavat tiedot pankkipalveluista, erityisesti mobiilisovelluksesta ja maksukortista, sekä selkeät asiakaspalvelun yhteystiedot. Palveluhinnastoa ja sopimuksehtoja voi hakea, mutta joitain olennaisia tietoja, kuten fyysisten konttorien sijainnit ja Y-tunnuksen, ei löydy julkisesta sivustosta."
+  },
+  {
+   "slug": "aktia",
+   "nimi": "Aktia",
+   "domain": "aktia.fi",
+   "omistaja": "Aktia Bank Abp — pörssiyhtiö, ei määräysvaltaista omistajaa",
+   "y_tunnus": "2181702-8",
+   "rekisteroity": 2008,
+   "score": 65.5,
+   "pillars": {
+    "digitaalinen": 71.8,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 48.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu mainitaan navigaatiossa (www.aktia.fi/fi/hinnasto) mutta antaa HTTP 404 -virheen. Hinnaston saatavuus vaatii joko kirjautumisen tai yhteydenoton."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilit- ja kortit-sivut antavat HTTP 404 -virheitä. Maksutiedot eivät ole julkisesti saatavilla staattisen haun perusteella."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleiset käyttöehdot ovat ladattavissa osoitteesta www.aktia.fi/kayttoehdot (HTTP 200, sisältää pankkisopimuksen ehdot)."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivu (www.aktia.fi/fi/asiakastuki/toimipisteet) antaa HTTP 404 -virheen. Osoite (Arkadiankatu 4-6, Helsinki) näkyy sivuston alalaidassa, mutta konttorien listaa ja yksityisiä aukioloaikoja ei saada."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2181702-8 näkyy sivuston alalaidassa (Aktia Pankki Oyj, PL 207, 00101 HELSINKI)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkisella sivustolla ei ole näkyviä riippumattomia audiitteja tai pankkipalveluiden ulkopuolisten tahojen tekemiä arviointeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu 010 247 010 (arkisin 8-18), Korttien sulkupalvelu 24h +358 800 0 2477, Verkkopankin sulku 24h +358 20 333."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite mainitaan turvallisuusohjeissa suojatussa muodossa (aktia(at)aktia.fi). Ei julkista yleistä sähköpostia näkyvissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Siirry chattiin' -linkki näkyy pääsivun navigaatiossa. Aktiabot-chat mainitaan."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvissä (arkisin 8-18). Korttien ja verkkopankin sulkupalvelut 24/7."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aktian Mobiilipankki mainitaan turvallisuusohjeissa ladattavaksi sovelluskaupoista."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "25/100",
+       "paino": 33,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6159.293500000001,
+    "cls": 0.1072881716539583,
+    "tbt_ms": 2581.8047499999993
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattavat turvallisuusohjeet ja tietoturvainformaatio julkisesti saatavilla",
+    "Useita yhteydenottokeinoja: puhelin 24/7 sulkupalveluille, chat ja toimipisteet",
+    "Selkeä sivusto-navigaatio ja hyvät asiakastuen turvallisuusresursit"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnasto ei ole julkisesti saatavilla - hintaarvioihin tulee ottaa yhteyttä tai kirjautua",
+    "Monet navigaation linkit johtavat 404:ään, mikä vaikeuttaa palvelun tutkimista ilman kirjautumista",
+    "Sivuston sisältö on hyvin JavaScript-renderöityä, joten staattinen pääsy epäluotettava"
+   ],
+   "yhteenveto": "Aktia Pankki Oyj on suomalainen pankkikonserni, jonka julkinen sivusto tarjoaa hyvät turvallisuusohjeet ja kattavat yhteystiedot. Palveluhinnasto ja tilin/kortin kuukausikulut eivät ole julkisesti näkyvissä staattisen haun kautta. Sivusto käyttää laajasti JavaScript-renderöintiä."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista (30), tilin- ja kortinhoitomaksut esillä (20), yleiset sopimusehdot julkisesti saatavilla (15), konttorit ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

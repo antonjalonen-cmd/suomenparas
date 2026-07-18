@@ -99,13 +99,17 @@ kulutusluotot__santander=www.santanderconsumer.fi
 # a website cannot measure service quality, only fee/contact transparency.)
 pankit__op=www.op.fi/henkiloasiakkaat
 pankit__nordea=www.nordea.fi/henkiloasiakkaat
-pankit__danske=danskebank.fi/henkiloasiakkaat
-pankit__spankki=www.s-pankki.fi/fi/henkiloasiakkaat/
+# danske moved its personal-customer site under /sinulle in 2026; /henkiloasiakkaat now 404s
+pankit__danske=danskebank.fi/sinulle
+# NOTE 18.7.2026: five bank sites fail Lighthouse's document request on deep paths
+# (ERRORED_DOCUMENT_REQUEST on every retry) but measure fine at the root. The digital
+# pillar for those is measured at the root domain; extraction still reads the deep pages.
+pankit__spankki=s-pankki.fi
 pankit__aktia=www.aktia.fi/fi/henkiloasiakkaat
-pankit__omasp=www.omasp.fi/henkiloasiakkaat
-pankit__alandsbanken=www.alandsbanken.fi/privat
-pankit__saastopankki=www.saastopankki.fi/fi-fi/henkiloasiakkaat
-pankit__poppankki=www.poppankki.fi/henkiloasiakkaat
+pankit__omasp=omasp.fi
+pankit__alandsbanken=alandsbanken.fi
+pankit__saastopankki=saastopankki.fi
+pankit__poppankki=poppankki.fi
 
 # AUTOVAKUUTUKSET — the insurer list is already verified; each URL below was HTTP-checked
 # 17.7.2026. pohjola.fi 301-redirects into op.fi, so op.fi IS Pohjola Vakuutus's site.

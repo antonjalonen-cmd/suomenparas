@@ -1,9 +1,15 @@
 {
  "slug": "op-sijoitus",
- "fetched_ok": ["https://op.fi/henkiloasiakkaat/saastot-ja-sijoitukset", "https://op.fi/hinnasto", "https://op.fi/ehdot", "https://op.fi/henkiloasiakkaat/asiakkuus/tule-opn-asiakkaaksi", "https://op.fi/henkiloasiakkaat/asiakaspalvelu/puheluhinnasto", "https://op.fi/henkiloasiakkaat/digitaaliset-palvelut"],
- "kaupankayntikulut_ilman_kirjautumista": "osittain",
- "sailytyspalkkio_kerrottu": "ei",
- "valuutanvaihtokulu_kerrottu": "ei",
+ "fetched_ok": [
+  "https://www.op.fi/henkiloasiakkaat/saastot-ja-sijoitukset",
+  "https://www.op.fi/henkiloasiakkaat/saastot-ja-sijoitukset/rahastot",
+  "https://www.op.fi",
+  "https://www.op.fi/henkiloasiakkaat/asiakaspalvelu",
+  "https://www.op.fi/henkiloasiakkaat/saastot-ja-sijoitukset/sijoituskoulu"
+ ],
+ "kaupankayntikulut_ilman_kirjautumista": "kylla",
+ "sailytyspalkkio_kerrottu": "osittain",
+ "valuutanvaihtokulu_kerrottu": "osittain",
  "hinnasto_ladattavissa": "osittain",
  "y_tunnus_esilla": "ei",
  "y_tunnus": null,
@@ -12,15 +18,31 @@
  "puhelin_esilla": "osittain",
  "puhelin": null,
  "email_esilla": "ei",
- "chat_mainittu": "ei",
+ "chat_mainittu": "kylla",
  "aukioloajat_esilla": "ei",
- "ukk_osio": "ei",
- "mobiilisovellus": "osittain",
- "halvin_osakekauppa_eur": null,
- "markkinat": ["helsinki", "stockholm", "usa"],
- "ai_arviot": {"selkeys": 25, "hintojen_loydettavyys": 10, "sisallon_kattavuus": 35},
- "vahvuudet": ["Tunnettu suomalainen osuuspankki, luotettava johtava rahoituslaitos", "Sijoituspalveluita tarjoaa ammattitaitoinen organisaatio", "Mobiilipankki-sovellus mainittu digitaalisena ratkaisuna"],
- "kehityskohteet": ["Kaupankäyntikulut täysin piilotettu ilman kirjautumista, ei julkista hintalistaa", "Säilytyspalkkio, valuutanvaihtokulu ja muut maksut eivät näkyviä potentiaalisille asiakkaille", "Sijoitusinformaation saatavuus vaatii kirjautumisen, ei osaa hinnastoa ladattavissa"],
- "yhteenveto": "OP Osuuskunta on suomalaisille tuttu jäsenomisteinen pankki, joka tarjoaa sijoituspalveluita osuuspankeissa. Kuitenkin kaupankäynnin kustannukset, säilytyspalkkiot ja valuutanvaihtomaksut ovat kokonaan piilotettu kirjautumisen taakse. Potentiaalinen asiakas ei näe konkreettisia hintoja ennen tilin avaamista, mikä heikentää läpinäkyvyyttä merkittävästi verrattuna kilpailijoihin.",
- "evidence": {"kaupankayntikulut_ilman_kirjautumista": "Palveluhinnasto-linkki on saatavilla, mutta varsinaiset kaupankäyntikulut näkyvät vain kirjautuneille käyttäjille. Julkisella sivulla ei ole konkreettisia euroja tai prosenttiosuuksia osakekaupalle.", "sailytyspalkkio_kerrottu": "Säilytyspalkkiota ei mainita millään julkisesti saatavilla olevalla sivulla. Asiakkaiden tulee ottaa yhteyttä tai kirjautua nähdäkseen tämän tiedon.", "valuutanvaihtokulu_kerrottu": "Valuutanvaihtokuluista ei löydy mitään viittausta julkisella verkkosivustolla. Kansainvälisen kaupankäynnin maksut eivät ole näkyvissä."}
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "halvin_osakekauppa_eur": 0,
+ "markkinat": ["helsinki", "stockholm", "usa", "oslo", "kööpenhamina"],
+ "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 68, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Osakesijoittamisen palkkiot näkyvät selkeästi: 0% ensimmäisen 30 päivän osakesäästötilin kaupat, 0,10% (min. 5€) arvo-osuustilillä, 1% katto kotimaisiin osakekauppoihin",
+  "Rahastot ovat pääosin maksutonta ostaa ja myydä; indeksirahastot saatavilla 0,145% hallinnointipalkkiolla omistaja-asiakkaille",
+  "Laaja koulutusohjelma (OP Sijoituskoulu) ja kymmenen askeleinen aloitusopas saatavilla maksuttomasti"
+ ],
+ "kehityskohteet": [
+  "Säilytyspalkkio (arvo-osuustilillä) ei ole julkisesti näkyvissä, vaikka osakkeiden kaupankäyntipalkkiot ovat",
+  "Valuutanvaihtokuluista ei ole julkista hintaa; sivulla mainitaan 'FAQ-osio' aiheesta, mutta sisältö on piilotettu",
+  "Y-tunnus, tarkka puhelinnumero ja asiakaspalvelun sähköpostiosoite eivät näy pääsivustolla, vain yleinen ohjaus 'yhteystietojen' sivulle"
+ ],
+ "yhteenveto": "OP on suomalainen osuuspankki, joka tarjoaa laajat sijoituspalvelut (osakkeet, rahastot, arvo-osuudet, osakesäästötilit). Kaupankäyntipalkkiot ja rahastojen hallinnointipalkkiot näkyvät selkeästi ilman kirjautumista, ja koulutusmateriaalit ovat kattavat. Joitain maksuja (säilytyspalkkio, valuutanvaihtokulu) ei ole julkisesti näkyvissä, mikä heikentää läpinäkyvyyttä osassa palveluista.",
+ "evidence": {
+  "kaupankayntikulut_ilman_kirjautumista": "Pääsivulla lukee: 'Aloittaa voit vaikka 100 eurolla edullisten välityspalkkioiden ansiosta' ja 'Saat aina edulliset hinnat osakekaupankäyntiin, kuten 1 %:n palkkiokaton kotimaisiin osakekauppoihin. Osakesijoittamisen aloittamiseen saat erityisetuja, kuten käyt kauppaa osakesäästötilillä ilman kaupankäyntipalkkioita ensimmäiset 30 päivää. Arvo-osuustilillä käyt kauppaa kuluvan kalenterineljänneksen ajan 0,10 % (min. 5 €) kaupankäyntipalkkiolla.'",
+  "sailytyspalkkio_kerrottu": "Säilytyspalkkioita ei mainita omilla riveillä missään ladatussa sivulla. Rahastot-sivulla todetaan 'Lähes kaikkien rahastojen ostaminen ja myyminen on maksutonta', mutta arvo-osuustilin säilytyspalkkioista ei sanota mitään.",
+  "valuutanvaihtokulu_kerrottu": "Pääsivulla mainitaan yritys laajentaa markkinoille (usa, stockholm), mutta valuutanvaihtokuluista ei ole konkreettista tietoa näkyvissä.",
+  "hinnasto_ladattavissa": "Hintoja näkyy sivulla tekstimuodossa (0%, 0,10%, 1% palkkiot, 0,145% hallinnointipalkkio), mutta ladattavaa PDF- tai Excel-hintalistaa ei ole mainittuna.",
+  "chat_mainittu": "Asiakaspalvelu-sivulla lukee 'Kysy chatissa' useaan otteeseen eri kategorioissa, sekä 'Voit kysyä pankki- ja vakuutusasioistasi viestillä, kun kirjaudut sisään op.fi-palveluun tai OP-mobiiliin.'",
+  "ukk_osio": "Sijoituskoulu-sivulla on 'Opi lisää' -osio, joka sisältää 10 oppioppimisen askelta (miksi aloittaa sijoittaminen, miten teet ensimmäisen sijoituksen, jne). Asiakaspalvelu-sivulla on 'Usein kysyttyä' -osio monista aiheista.",
+  "mobiilisovellus": "Sivulla mainitaan OP-mobiili ja OP-yritysmobiili useaan otteeseen."
+ }
 }

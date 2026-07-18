@@ -101,6 +101,15 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 4px;transform:translateY(5px);min-width:14px}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
+/* analyysi form */
+.aform{max-width:640px;margin-bottom:22px}
+.aform label{display:block;font-weight:800;color:var(--ink);font-size:.92rem;margin:14px 0 0}
+.aform input,.aform select,.aform textarea{display:block;width:100%;margin-top:6px;padding:11px 12px;border:2.5px solid var(--line);border-radius:10px;background:var(--card);color:var(--body);font-family:inherit;font-size:.95rem;font-weight:600}
+.aform input:focus,.aform select:focus,.aform textarea:focus{outline:none;border-color:var(--blue)}
+.aform textarea{resize:vertical;line-height:1.5}
+.aform .btn{margin-top:18px}
+.aform small{display:block;margin-top:10px;color:var(--mut);font-weight:600}
+.aform-note{color:var(--mut);font-weight:600;margin-bottom:4px}
 /* sections */
 section.band{padding:56px 0}
 h2.sec{font-size:1.65rem;color:var(--ink);font-weight:700;margin-bottom:6px}
