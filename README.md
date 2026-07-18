@@ -39,6 +39,8 @@ pipeline/score_rules.py       Score v1.1 pillars + per-vertical transparency cri
 pipeline/vertical_meta.py     per-vertical page copy (h1, lead, notes)
 pipeline/EXTRACTION_BRIEF.md  rules handed to every extraction agent
 pipeline/fetch_page.py        fetch a page as a real browser sees it (WebFetch is blocked on some)
+pipeline/render_page.py       JS-rendering fetch (headless Chromium, decline-only consent) for
+                              sites where curl gets only a JS shell — op.fi-class pages
 pipeline/check_extracts.py    validate extracts BEFORE they can reach a page
 
 python pipeline/run_lighthouse.py --file pipeline/targets.txt   # -> pipeline/lh_cache/

@@ -219,3 +219,61 @@ fresh categories — Elixia/SATS and Diacor/Terveystalo are exactly the quiet-me
 pipeline keeps finding, and rushing that is how a dead brand gets published. It is queued, not
 abandoned. Do the JS-fetch fix first: `yksityislaakarit` and `kuntosalit` will hit the same
 JS-rendered chain sites that just cost us OP.
+
+## JS-FETCH FIX — BUILT 18.7.2026, pending live verification
+
+`pipeline/render_page.py` exists now: headless Chromium via Playwright, same output
+contract as `fetch_page.py` (status line, final URL, char count, plain text), so agents
+can swap it in when curl gets a JS shell. Inside the agreed boundary by construction:
+
+- **No evasion.** Default headless UA, no stealth patches, no challenge workarounds.
+  A challenge page comes back as a challenge page, and that is the finding.
+- **Decline-only consent.** It clicks a control only if the text matches a decline
+  pattern ("vain välttämättömät", reject, avvisa, …) AND no accept pattern. Verified on
+  a local accept-only banner: nothing clicked, banner left standing.
+
+**What is verified:** JS-rendered content extraction, decline-only banner behaviour,
+honest failure output — against local test pages. **What is NOT verified: op.fi.**
+The session that built this ran in an environment whose network policy blocked ALL
+outbound fetches (every external domain answered 403 through the proxy — including
+avoindata.prh.fi), so no live site could be rendered. First network-enabled session:
+
+1. `python pipeline/render_page.py https://www.op.fi/henkiloasiakkaat/vakuutukset --max-chars 30000`
+   — expect thousands of chars of real content where fetch_page.py got a ~900-char shell.
+2. If it works: re-measure Pohjola for `vakuutukset` (re-date it — the known defect above),
+   build `pankit` (config already complete in companies.py), then start batch 3.
+3. If op.fi still serves a challenge to plain headless Chromium: the gap stays, on purpose.
+
+## QUEUED — `vakuutusvertailupalvelut` (Vertailupalvelut subcategory, added 18.7.2026)
+
+Next Vertailupalvelut subcategory after `sahkovertailupalvelut` (same playbook: rank the
+comparison services themselves). Candidate list from web search 18.7.2026 — **ALL
+UNVERIFIED**: the build session could not fetch a single page or hit PRH (network policy),
+so nothing below may enter `companies.py` until the standard checks run (PRH Y-tunnus,
+service actually operating, not an anonymous affiliate shell, not a white-label front):
+
+| domain | search-result note (unverified) |
+|---|---|
+| valitsevakuutus.fi | claims 7 vakuutuslajia, 9 yhtiötä, "kaupallinen yhteistyö ei vaikuta järjestykseen" |
+| vakuutustenvertailu.fi | dynamic comparison table, "kehitetty Little Buck Oy:n kanssa" |
+| vertaavakuutus.fi | "puolueeton vakuutusten vertailu" |
+| vakuutustiedot.fi | free kilpailutus platform |
+| vakuutus.fi | premium domain, "kilpailuta vakuutukset" |
+| vakuutustarjous.com | routes requests to vakuutusasiamiehet |
+| kotivakuutuslaskuri.fi | koti-only calculator — verify it's a real service, not an affiliate listicle |
+| fiksuraha.fi/vakuutukset | multi-vertical site — verify operator |
+| vertaaensin.fi/vakuutukset | Effortia Oy / Alma Media — would be its 3rd listing across categories; disclose |
+| kilpailuttaja.fi (autovakuutus) | Energy Brokers Finland Oy — already listed in sähkövertailupalvelut; disclose |
+
+Expected exclusions: insurers' own "kilpailuta" pages (Turva, LähiTapiola) are sellers,
+not comparison services; Vertaa.fi (bot wall + thin side section — same reason it was
+excluded from sähkö); Zmarta (its sähkö comparison is dead — verify whether insurance
+ever operated); joonasnordstrom.fi is a Fennia edustaja, not independent.
+
+Transparency block: reuse the `sahkovertailupalvelut` criteria — they are
+service-generic (tarjoukset ilman yhteystietoja 30 / ansaintamalli 20 / kattavuus 15 /
+yhtiöt listattu 10 / y-tunnus 10 / riippumaton arvio 15); relabel "sähköyhtiöt" →
+"vakuutusyhtiöt". Note for `vertical_meta`: many of these services sell **leads to
+vakuutusasiamiehet** rather than showing offers — the 30-point question ("do you see
+offers before handing over your data") may score a whole category of lead-forms `ei`,
+which is the honest result, not a calibration error.

@@ -52,7 +52,15 @@ URL, so a redirect is something you can *see* rather than guess.
 
 Its limit: it does not run JavaScript. If it returns HTTP 200 but only a few hundred
 characters of text (op.fi does exactly this), the page is JS-rendered and you have NOT
-read it. That is `"osittain"` plus an honest note — never `"ei"`.
+read it. In that case use the JS-rendering fetch (added 18.7.2026):
+
+    python pipeline/render_page.py "<url>" --max-chars 30000
+
+It renders the page in an ordinary headless Chromium (no stealth, no UA spoofing) and
+interacts with consent banners **decline-only** — it clicks "vain välttämättömät"/reject
+if such a control exists and otherwise leaves the banner alone. If render_page.py ALSO
+returns very little text, the site is challenge-walled for automated clients: that is
+`"osittain"` plus an honest note — never `"ei"`, and never a guessed explanation.
 
 ## 🚫 Do NOT defeat bot protection, and do NOT click "accept cookies"
 
