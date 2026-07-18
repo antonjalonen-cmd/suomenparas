@@ -493,3 +493,151 @@ META = {
         ],
     },
 }
+
+# ---------------------------------------------------------------- batch 3 (18.7.2026)
+META["autokatsastus"] = {
+    "slug": "autokatsastus",
+    "nimi": "Autokatsastus",
+    "nav": "Katsastus",
+    "h1": "Suomen paras autokatsastus 2026",
+    "yksikko": "valtakunnallista katsastusketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista katsastusketjua {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Tärkein kysymys: näkyykö katsastuksen "
+             "hinta ennen ajanvarausta?"),
+    "meta_title": "Suomen paras autokatsastus 2026 | katsastusketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} valtakunnallista katsastusketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi listalla on vain {n} ketjua?</b> Suomessa on satoja katsastusasemia, mutta vain "
+         "neljä aidosti valtakunnallista ketjua, joilla on oma verkkosivusto. Alueelliset toimijat "
+         "(Katsastajasi, Go-Katsastus) ja helmikuussa 2026 saksalaiselle TÜV SÜDille myyty "
+         "Q-Katsastus rajattiin pois. Pienempi oikea joukko on parempi kuin täytetty lista."),
+        ("<b>Omistus:</b> A-Katsastus osti K1 Katsastajat joulukuussa 2022, joten listan kaksi "
+         "suurinta ovat samaa konsernia (yhteenlaskettu markkinaosuus noin 40 %, minkä Autoliitto "
+         "nosti julkisesti esiin). Yhtiöt toimivat omilla Y-tunnuksillaan ja asemillaan, joten ne "
+         "mitataan erikseen, mutta omistus näytetään molempien kohdalla."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei katsastuksen "
+         "laatua tai hylkäysprosentteja. Katsastushinnat vaihtelevat asemittain; vertailu mittaa "
+         "kerrotaanko hinta, ei mikä se on. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta "
+         "pisteisiin."),
+    ],
+}
+META["autovuokraamot"] = {
+    "slug": "autovuokraamot",
+    "nimi": "Autovuokraamot",
+    "nav": "Autovuokraus",
+    "h1": "Suomen paras autovuokraamo 2026",
+    "yksikko": "valtakunnallista autovuokraamoa",
+    "lead": ("Pisteytimme {n} valtakunnallista autovuokraamoa {m} mittarilla. Tärkein kysymys: "
+             "näkyykö vuokran kokonaishinta omavastuineen ennen kuin annat yhteystietosi?"),
+    "meta_title": "Suomen paras autovuokraamo 2026 | vuokraamot pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} autovuokraamoa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi Budget ei ole listalla?</b> Koska se on jo. Avis ja Budget ovat Suomessa saman "
+         "yhtiön (Helkama Rent Oy) kaksi brändiä, joten Budgetin listaaminen erikseen laskisi yhden "
+         "kilpailijan kahdesti. Scandia Rent on siirtymässä ruotsalaisen Hedin Mobility Groupin "
+         "MABI Mobility -brändiin, mutta palvelee yhä scandiarent.fi-osoitteessa."),
+        ("Kansainväliset brändit toimivat Suomessa lisenssinhaltijoiden kautta: Hertziä operoi "
+         "First Rent A Car Finland, Sixtiä Vehon Transporent ja Green Motionia franchise-yrittäjät. "
+         "Näytämme todellisen suomalaisen operaattorin jokaisen brändin kohdalla."),
+        ("Vertailu kuvaa vuokraamojen julkisten verkkosivujen mitattavia ominaisuuksia. Todellinen "
+         "vuokrahinta riippuu aina ajankohdasta, autoluokasta ja toimipisteestä; vertailu mittaa "
+         "kerrotaanko hinta ja ehdot avoimesti, ei mikä hinta on. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["optikot"] = {
+    "slug": "optikot",
+    "nimi": "Optikot",
+    "nav": "Optikot",
+    "h1": "Suomen paras optikkoketju 2026",
+    "yksikko": "valtakunnallista optikkoketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista optikkoketjua {m} mittarilla. Tärkein kysymys: "
+             "kerrotaanko silmälasien ja näöntarkastuksen hinnat ennen liikkeeseen astumista?"),
+    "meta_title": "Suomen paras optikkoketju 2026 | optikot pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} optikkoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi Nissen ei ole listalla?</b> Koska se on jo. Instrumentarium ja Nissen ovat saman "
+         "yhtiön (Instru Optiikka Oy, osa globaalia EssilorLuxottica-konsernia) kaksi brändiä — "
+         "erikseen listattuna yksi yhtiö saisi kaksi sijoitusta."),
+        ("<b>Silmäasema on kaupan alla:</b> Terveystalo ilmoitti 8.6.2026 ostavansa Silmäaseman, "
+         "mutta kauppa ei ollut mittaushetkellä toteutunut. Silmäasema mitattiin itsenäisenä "
+         "yhtiönä; omistustilanne tarkistetaan jokaisella päivityskierroksella."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei linssien tai "
+         "kehysten laatua. Emme anna terveydenhuollon suosituksia. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["yksityislaakarit"] = {
+    "slug": "yksityislaakarit",
+    "nimi": "Yksityislääkärit",
+    "nav": "Lääkärit",
+    "h1": "Suomen paras yksityinen lääkäriketju 2026",
+    "yksikko": "valtakunnallista lääkäriketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista yksityistä lääkäriketjua {m} mittarilla. Tärkein "
+             "kysymys: näkyykö vastaanoton hinta ennen ajanvarausta?"),
+    "meta_title": "Suomen paras yksityinen lääkäriketju 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} yksityistä lääkäriketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi listalla on vain {n} ketjua?</b> Suomessa on neljä aidosti valtakunnallista "
+         "yksityistä lääkäriketjua. Tarkistimme myös muut ehdokkaat: <b>Diacor</b> sulautui "
+         "Terveystaloon jo 2016 (diacor.fi palvelee nykyään täysin eri sivustoa), ja alueelliset "
+         "tai yhden erikoisalan toimijat rajattiin pois. Pienempi oikea joukko on parempi kuin "
+         "täytetty lista."),
+        ("<b>Tämä ei ole hoitosuositus.</b> Vertailu kuvaa ketjujen julkisten verkkosivujen "
+         "mitattavia ominaisuuksia: hintojen näkyvyyttä, ajanvarauksen sujuvuutta ja "
+         "tavoitettavuutta. Se ei mittaa hoidon laatua, lääkäreiden osaamista eikä jonotusaikoja. "
+         "Hätätilanteessa soita 112."),
+        ("Vastaanottojen hinnat vaihtelevat toimipisteittäin ja lääkäreittäin; vertailu mittaa "
+         "kerrotaanko hinnat avoimesti, ei mikä hinta on. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["kuntosalit"] = {
+    "slug": "kuntosalit",
+    "nimi": "Kuntosalit",
+    "nav": "Kuntosalit",
+    "h1": "Suomen paras kuntosaliketju 2026",
+    "yksikko": "valtakunnallista kuntosaliketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista kuntosaliketjua {m} mittarilla. Tärkein kysymys: "
+             "kerrotaanko jäsenyyden hinta ja irtisanomisehdot ennen sopimuksen tekoa?"),
+    "meta_title": "Suomen paras kuntosaliketju 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} kuntosaliketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Omistus:</b> LadyLine ja EasyFit ovat saman franchisoijan (Ab LL International Oy) "
+         "kaksi brändiä — kaksi listan nimeä on siis samaa järjestelmää, ja yksittäiset salit ovat "
+         "itsenäisten yrittäjien yhtiöitä. Elixia on osa pohjoismaista SATS-konsernia. Näytämme "
+         "omistajan jokaisen kohdalla."),
+        ("<b>Miksi listalla ei ole enempää ketjuja?</b> Tarkistimme myös muut ehdokkaat: GOGO on "
+         "Tampereen seudun paikallinen, ja \"Motion\"-ketjua ei ole olemassa. Paikalliset salit "
+         "eivät kuulu valtakunnalliseen vertailuun."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei salien "
+         "varustelua tai palvelun laatua. Jäsenhinnat vaihtelevat paikkakunnittain; vertailu "
+         "mittaa kerrotaanko hinta ja ehdot avoimesti. Demo voi sisältää affiliate-linkkejä; ne "
+         "eivät vaikuta pisteisiin."),
+    ],
+}
+META["kiinteistonvalittajat"] = {
+    "slug": "kiinteistonvalittajat",
+    "nimi": "Kiinteistönvälittäjät",
+    "nav": "Kiinteistönvälitys",
+    "h1": "Suomen paras kiinteistönvälitysketju 2026",
+    "yksikko": "valtakunnallista kiinteistönvälitysketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista kiinteistönvälitysketjua {m} mittarilla. Tärkein "
+             "kysymys: kerrotaanko välityspalkkio ennen kuin luovutat yhteystietosi?"),
+    "meta_title": "Suomen paras kiinteistönvälittäjä 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} kiinteistönvälitysketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Ketju ei aina ole yksi yhtiö.</b> OP Koti on noin 19 alueellisen osuuspankkien "
+         "omistaman yhtiön federaatio ilman yhtä Y-tunnusta, ja Habitan kaupunkitoimistot ovat "
+         "erillisiä osakeyhtiöitä. RE/MAX- ja Kiinteistömaailma-toimistot ovat itsenäisiä "
+         "franchise-yrittäjiä. Bo LKV on poikkeus: yksi yhtiö koko maassa. Rakenne on merkitty "
+         "jokaisen kohdalle, koska se vaikuttaa siihen, keneltä palkkiosta voi kysyä."),
+        ("<b>Miksi SKV ei ole listalla?</b> Se sulautui Huoneistokeskukseen jo 2020 — skv.fi ohjaa "
+         "nykyään Huoneistokeskuksen sivuille. Alueelliset ketjut (Aninkainen, Solid House, Roof "
+         "Group) rajattiin pois valtakunnallisuussäännön perusteella."),
+        ("Välityspalkkiot ovat aina neuvoteltavissa ja vaihtelevat kohteittain; vertailu mittaa "
+         "kerrotaanko palkkiotaso ja palvelun sisältö avoimesti etukäteen, ei mikä palkkio on. "
+         "Emme välitä asuntoja emmekä anna sijoitusneuvontaa. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "specsavers",
+  "fetched_ok": [
+    "https://www.specsavers.fi",
+    "https://www.specsavers.fi/silmalasit",
+    "https://www.specsavers.fi/piilolinssit"
+  ],
+  "silmalasien_hinnat_esilla": "kylla",
+  "nakotarkastuksen_hinta": "kylla",
+  "ajanvaraus_verkossa": "osittain",
+  "liikkeet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "naontarkastus_hinta_eur": 0,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Näöntarkastus ilmainen ja selkeästi mainittu etusivulla",
+    "Laaja tuotevalikoima (silmälasit, piilolinssit, aurinkolasit) kuvattu hyvin",
+    "52 liikettä maanlaajuisesti ja maksumahdollisuudet (erämaksu jopa 12 kk) esillä"
+  ],
+  "kehityskohteet": [
+    "Liikkeenhaku ja aukioloajat taakse Cloudflare-suojauksen, vaikea päästä käsiksi",
+    "Ajanvarausta varten täytyy päästä JS-sivuille jotka eivät lataudu botille",
+    "Y-tunnus, yhteystiedot ja chat-mahdollisuus puuttuvat tai ovat piilossa"
+  ],
+  "yhteenveto": "Specsavers on laaja suomalainen optikoketju, joka tarjoaa silmälaseja, piilolinssejä ja näöntutkimusta. Etusivu ja tuotesivut ovat hyvin organisoituja ja sisältävät perushintatietoja sekä ilmaisen näöntarkastuksen maininnassa, mutta suurin osa toiminnollisista sivuista on Cloudflare-suojauksen takana, mikä vaikeuttaa liikkeenhakua, ajanvarausta ja yksityiskohtaisten yhteystietojen löytämistä.",
+  "evidence": {
+    "silmalasien_hinnat_esilla": "HAVAINTO: Etusivulla näkyvät kehysten hinnat esimerkiksi 'MESSYWEEKEND 180 €' ja uusissa tarjouksissa mainitaan hinnoittelun olevan selkeä: 'Valitse: 1. linssit, 2. kehykset ja 3. lisämukavuudet'.",
+    "nakotarkastuksen_hinta": "HAVAINTO: Etusivulla näkyy selvästi 'Näöntarkastus 0 €' sekä teksti 'Optikon näöntarkastus ilmaiseksi'. Myös päävalikossa mainitaan tarjouksena 'Optikon näöntarkastus ilmaiseksi'.",
+    "ajanvaraus_verkossa": "HAVAINTO: Etusivulla näkyvät monet 'Varaa aika' -painikkeet ja linkit, mutta varsinainen varaussivu on Cloudflare-suojauksen takana (HTTP 403). Näyttää olevan mahdollista, mutta ei pystynyt varmistamaan toimintaa.",
+    "liikkeet_ja_aukioloajat": "HAVAINTO: Etusivulla näkyi '52 liikettä' -linkki ja 'Etsi liike' -valikko, mutta liikkeenhakusivu on Cloudflare-suojauksen takana. Aukioloaikojen haku ei onnistunut verkon estävän Cloudflaren takia.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt ladatuista sivuista. Monet linkit muihin sivuihin, joissa se voisi olla, olivat Cloudflare-suojattuja.",
+    "riippumaton_arvio": "HAVAINTO: Yhtään riippumatonta arviolähdettä (arvosteluja, sertifikaatteja) ei löytynyt ladatuista sivuista.",
+    "puhelin_esilla": "HAVAINTO: Navigoinnissa näkyi 'Ota yhteyttä' -linkki, mutta yhteydenottosivulle ei päässyt (HTTP 403). Puhelinnumero ei näkynyt ladatuilla sivuilla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt ladatuista sivuista. Yhteystietosivu oli Cloudflare-suojattu.",
+    "ukk_osio": "HAVAINTO: Footerissa näkyi linkki 'Ohje ja yleisimmät kysymykset', mutta sivu oli Cloudflare-suojattu (HTTP 403)."
+  }
+}

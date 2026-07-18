@@ -1,0 +1,49 @@
+{
+  "slug": "silmaasema",
+  "fetched_ok": [
+    "https://www.silmaasema.fi/",
+    "https://www.silmaasema.fi/toimipaikat",
+    "https://www.silmaasema.fi/usein-kysytyt-kysymykset.html",
+    "https://ajanvaraus.silmaasema.fi/",
+    "https://www.silmaasema.fi/tuotteet/piilolinssit"
+  ],
+  "silmalasien_hinnat_esilla": "kylla",
+  "nakotarkastuksen_hinta": "kylla",
+  "ajanvaraus_verkossa": "kylla",
+  "liikkeet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "naontarkastus_hinta_eur": 35,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Laaja palvelujen esittely ja selkeä kategoriointi (näöntarkastus, silmälääkäripalvelut, leikkaukset)",
+    "Online-ajanvarausjärjestelmä on käytettävissä ja kattaa lukuisia paikkakunnia ja palveluita",
+    "Kattavat hintatiedot näöntarkastuksille (35 €) ja linssituotteille (23,90–101,90 €) löytyvät"
+  ],
+  "kehityskohteet": [
+    "Aukioloajat puuttuvat täysin toimipaikoista – liikkeet on lueteltu osoitteineen, mutta ei päivittäisiä aukioloaikoja",
+    "Silmälasien yksittäishinnat eivät ole esillä tuotekategorioissa (vain linssi- ja tarvikehinnastot näkyvät)",
+    "Sähköpostiosoite ja Y-tunnus puuttuvat – vain puhelinnumero 010 190 200 on esillä"
+  ],
+  "yhteenveto": "Silmäasema on suuri suomalainen optiikkaketju, joka tarjoaa laajaa palveluvalikoimaa silmälasista silmäleikkauksiin. Verkkosivusto on hyvin organisoitu ja sisältää hintatiedot näöntarkastuksille sekä piilolinsseille, ja online-ajanvaraus on integroitu erilliseen järjestelmään. Puutteita ovat aukioloaikojen puuttuminen toimipaikkasivuilta, silmälasien yksittäishintojen epätäydellisyys sekä yrityksen yhteystietojen osittainen puuttuminen.",
+  "evidence": {
+    "silmalasien_hinnat_esilla": "HAVAINTO: Piilolinssituotteiden hinnat löytyvät (23,90–101,90 €), mutta silmälasikehysten yksittäistuotteiden hinnat eivät ole esillä tuotekategorioissa – sivusto näyttää tuoteluettelot ilman hintoja.",
+    "nakotarkastuksen_hinta": "HAVAINTO: Optikon näöntutkimuksen hinta 35 € on selvästi esillä ajanvaraussivulla (silmälasien ostajalle 0 €). Muut tutkimukset kuten urheilunäöntutkimus (79 €) ja ikänäöntarkastus (35 €) on listattu.",
+    "ajanvaraus_verkossa": "HAVAINTO: Erillinen ajanvarausjärjestelmä (ajanvaraus.silmaasema.fi) mahdollistaa ajanvarauksen ilman sisäänkirjautumista; tarjolla on laaja valikoima palveluita ja paikkakunnia.",
+    "liikkeet_ja_aukioloajat": "HAVAINTO: Toimipaikat-sivulla lueteltu noin 30 myymälää osoitteineen ympäri Suomea, mutta aukioloaikoja ei näy sivulla. Pääsivulla mainitaan asiakaspalvelu 010 190 200 (ma–pe 8–18, la 9–16), mutta yksittäisten liikkeiden aukioloajat puuttuvat.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 010 190 200 näkyy useissa paikoissa sivustolla (pääsivu, ajanvaraus, alasivu).",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat (ma–pe 8–18, la 9–16) ovat esillä, mutta myymälöiden omat aukioloajat puuttuvat täysin.",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osio löytyy sivustolta; pääsivu linkittää aiheittain järjesteltyihin UKK-kategorioihin (Verkkokauppa, Myymälät, Silmäsairaalat, AI-chat).",
+    "mobiilisovellus": "HAVAINTO: OmaSilmä-mobiilisovellus mainitaan useissa paikoissa; sovelluksella pääsee asiointitietoihin ja voi varata aikoja."
+  }
+}

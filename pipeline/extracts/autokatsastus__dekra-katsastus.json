@@ -1,0 +1,48 @@
+{
+  "slug": "dekra-katsastus",
+  "fetched_ok": [
+    "https://dekra-katsastus.fi/",
+    "https://dekra-katsastus.fi/palvelumme/",
+    "https://ajanvaraus.idealinspect.fi/booking/70",
+    "https://dekra-katsastus.fi/avuksi/",
+    "https://dekra-katsastus.fi/ota-yhteytta/",
+    "https://dekra-katsastus.fi/blogi/"
+  ],
+  "katsastushinta_esilla": "kylla",
+  "ajanvaraus_hinnalla": "osittain",
+  "asemat_ja_aukioloajat": "kylla",
+  "palveluvalikoima_kuvattu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "maaraaikaiskatsastus_hinta_eur": 40,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattavat palvelut ja hinnat näkyvillä selkeässä palveluvalikoimassa",
+    "Laaja asemaverkko 20 paikkakunnalla ja helppo ajanvarausjärjestelmä",
+    "Hyvinrakentuneet UKK-sivut ja selkeät ohjeistukset katsastusprosessista"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti näkyvissä sivuston missään osassa",
+    "Hintojen löydettävyys ajanvarauksessa huono: hinnat näkyvät vasta rekisterinumeron syöttämisen jälkeen",
+    "Ei riippumattomia arviota tai asiakaspalautteiden listausta etusivulla näkyvissä"
+  ],
+  "yhteenveto": "DEKRA Katsastus on Suomen johtava autokatsastuspalvelu, joka tarjoaa katsastuspalveluita 20 paikkakunnalla. Sivusto esittää palvelut ja hinnat (alkaen 40 euroa määräaikaiskatsastukselle) selkeästi palveluvalikoimassaan. Ajanvarausjärjestelmä on helppokäyttöinen, mutta hinnat ilmestyvät vasta ajanvarauksen loppuvaiheessa, mikä heikentää hintojen löydettävyyttä. Yhtiön Y-tunnus ei ole julkisesti näkyvissä.",
+  "evidence": {
+    "katsastushinta_esilla": "HAVAINTO: Palveluissa näkyy \"Henkilö- tai pakettiauton määräaikaiskatsastus Alkaen 40 €\" ja muita palveluita hintoineen selkeästi lueteltuna.",
+    "ajanvaraus_hinnalla": "HAVAINTO: Ajanvaraus-sivusto ohjaa ensin valitsemaan aseman ja syöttämään rekisterinumeron, vasta sen jälkeen näkyy palvelun valinta hinnan kanssa. Hinnat eivät siis ole näkyvillä prosessin alussa.",
+    "asemat_ja_aukioloajat": "HAVAINTO: Ajanvaraus-sivulla näkyy 20+ asemaa yksityiskohtaisilla osoitteilla ja aukioloajoilla (esim. \"Ma-Pe 9-17\") sekä puhelinnumeroilla. Ota yhteyttä -sivulla kerrotaan keskitetyn asiakaspalvelun aukioloajat Ma-Pe 8:30-16:00.",
+    "palveluvalikoima_kuvattu": "HAVAINTO: Palvelut-sivulla kuvataan yksityiskohtaisesti kaikki katsastuspalvelut kategorioittain (kevytkalusto, raskaskalusto, sähköautot, erikoiskatsastukset) hintojen kanssa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä missään ladatussa sivussa eikä ajanvaraus-järjestelmässä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä riippumatonta arviota tai kolmannen osapuolen antamia arvioita, vaan vain yhtiön omia asiakasarvosteluja etusivulla."
+  }
+}

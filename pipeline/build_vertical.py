@@ -41,6 +41,13 @@ MEASURED = {
     "lemmikkivakuutukset": "17.7.2026",
     # Vertailupalvelut meta-group batch
     "sahkovertailupalvelut": "17.7.2026",
+    # batch 3
+    "autokatsastus": "18.7.2026",
+    "autovuokraamot": "18.7.2026",
+    "optikot": "18.7.2026",
+    "yksityislaakarit": "18.7.2026",
+    "kuntosalit": "18.7.2026",
+    "kiinteistonvalittajat": "18.7.2026",
 }
 
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}

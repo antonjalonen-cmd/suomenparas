@@ -1,0 +1,50 @@
+{
+  "slug": "easyfit",
+  "fetched_ok": [
+    "https://www.easyfit.fi/",
+    "https://www.easyfit.fi/sopimusehdot/",
+    "https://www.easyfit.fi/miten-voimme-auttaa/",
+    "https://www.easyfit.fi/tietosuojaseloste/"
+  ],
+  "jasenyyden_hinta_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "liittymismaksut_kerrottu": "kylla",
+  "salit_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "jasenyys_kk_hinta_eur": 36.90,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näkyvillä etusivulla ilman rekisteröitymistä",
+    "Laaja sailiverkko 26:ssa paikkakunnassa Suomessa",
+    "Sopimusehdot täydellisenä saatavilla julkisesti"
+  ],
+  "kehityskohteet": [
+    "Yksityiskohtaiset aukioloajat kunkin salin osalta puuttuvat (vain yleinen 'jopa 24/7' mainittu)",
+    "Puhelinpalvelua ei ole; asiakkaita ohjataan yhteydenottolomakkeelle tai sähköpostille",
+    "Riippumattomia arvioita tai asiakastestimoniaaleja ei näy sivustolla"
+  ],
+  "yhteenveto": "EasyFit on suomalainen kuntosaliketju, jonka sivusto esittelee selkeästi jäsenyyshinnat (36,90–56,90 €/kk), sopimusehdot ja laajaa salien verkostoa. Hinnat ovat helposti löydettävissä etusivulla. Sivustolla on kuitenkin puutteita: yksityiskohtaiset aukioloajat puuttuvat (vain yleinen '24/7 toimipisteestä riippuen' mainittu), puhelinpalvelua ei ole tarjolla, ja riippumattomia arvioita ei näy.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: Etusivulla näkyvät selvästi kolme jäsenyystyyppiä hinnoittain: Basic 36,90 €/kk, Plus 46,90 €/kk, Premium 56,90 €/kk. Kaikkiin liittyy 29,90 € aloitusmaksu.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Sopimusehdot-sivu sisältää 15 kappaleista koostuvat Asiakkuuksien sopimusehdot, Personal training sopimusehdot ja Alaikäisen palvelusopimus.",
+    "liittymismaksut_kerrottu": "HAVAINTO: Sopimusehdoissa kohta 4 'ALOITUSMAKSU' kertoo: 'Palvelusopimuksen alussa suoritetaan hinnaston mukainen kertaluonteinen aloitusmaksu BASIC-, PLUS- ja PREMIUM-asiakkuuksista.' Summa on 29,90 €.",
+    "salit_ja_aukioloajat": "HAVAINTO: Sivustolla on lista 26 salipaikkakunnasta osoitteineen ja sähköpostiosoitteineen (Espoo, Helsinki, Hyvinkää, Järvenpää jne.). Aukioloajoista mainitaan vain yleisesti: 'EasyFit-keskukset ovat avoinna jopa 24/7 toimipisteestä riippuen'. Yksityiskohtaisia aukioloaikoja kunkin salin osalta ei näy.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa kohdassa 1 'Rekisterinpitäjä' on merkitty: 'Ab LL International Oy, Y-tunnus: 1790020-8'.",
+    "puhelin_esilla": "HAVAINTO: 'Miten voimme auttaa' -sivulla kerrotaan: 'Meillä ei ole tällä hetkellä puhelinpalvelua.' Asiakkaille tarjotaan vain yhteydenottolomaketta tai sähköpostia.",
+    "email_esilla": "HAVAINTO: Jokaiselle 26 salille on julkaistu oma sähköpostiosoite, esim. nihtisilta@easyfit.fi, perkkaa@easyfit.fi, jne.",
+    "aukioloajat_esilla": "HAVAINTO: UKK-osiossa kysymykseen 'Mitkä ovat aukioloajat?' vastataan: 'EasyFit-keskukset ovat avoinna jopa 24/7 toimipisteestä riippuen.' Spesifisiä sulkemisaikoja tai viikkoaikoja yksittäisille saileille ei ole listattu.",
+    "ukk_osio": "HAVAINTO: Sivustolla on laaja UKK-osio otsikolla 'Usein kysyttyjä kysymyksiä' ryhmiteltynä kategorioihin: JÄSENYYS, KULKUAVAIN, VALMENNUS/PERSONAL TRAINING, MAKSAMINEN ja MUUT.",
+    "mobiilisovillus": "HAVAINTO: Sivustolla mainitaan useaan otteeseen EasyFit-sovellus: 'Sovelluksella voit avata oven, kirjata treenejä, seurata palkintokäyntejäsi ja hallinnoida asiakkuuttasi.' Sovellus on vaadittu tai voimakkaasti suositeltu sisään pääsyyn ja tiedon hallintaan."
+  }
+}

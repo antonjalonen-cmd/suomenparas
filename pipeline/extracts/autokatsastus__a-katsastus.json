@@ -1,0 +1,54 @@
+{
+  "slug": "a-katsastus",
+  "fetched_ok": [
+    "https://www.a-katsastus.fi/",
+    "https://www.a-katsastus.fi/katsastuspalvelut/",
+    "https://www.a-katsastus.fi/ajanvaraus-ja-asiakaspalvelu/usein-kysytyt-kysymykset/",
+    "https://www.a-katsastus.fi/yhteystiedot/",
+    "https://www.a-katsastus.fi/tietoa-meista/",
+    "https://www.a-katsastus.fi/katsastuspalvelut/ohjeet-katsastuspalvelujen-ajanvaraukseen/",
+    "https://www.a-katsastus.fi/katsastuspalvelut/katsastukset-ja-lakisaateiset-mittaukset/",
+    "https://www.a-katsastus.fi/tietoa-meista/tietoa-a-katsastus-konsernista/",
+    "https://www.a-katsastus.fi/katsastuspalvelut/yleista-tietoa-katsastuksesta/"
+  ],
+  "katsastushinta_esilla": "osittain",
+  "ajanvaraus_hinnalla": "osittain",
+  "asemat_ja_aukioloajat": "osittain",
+  "palveluvalikoima_kuvattu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "maaraaikaiskatsastus_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Selkeä navigaatio ja laaja palveluvalikoima kuvattu yksityiskohtaisesti (kevyen ajoneuvon katsastus, jälkitarkastus, lakisääteiset mittaukset, erikoiskatsastukset)",
+    "Monipuoliset yhteydenottokeinot: puhelin, sähköposti ja verkkopohjainen ajanvaraus kaikkina arkipäivinä ja lauantaisin",
+    "Kattava asiakastuki: FAQ-osio, ohjeet ajanvaraukseen, preparointiehdotukset ja YouTube-videokanal neuvoa antamassa"
+  ],
+  "kehityskohteet": [
+    "Hinnasto puuttuu: siivu 'Katsastuspalvelujen hinnasto' johtaa 404-virheeseen; hinnat näytetään vain dynaamisesti ajanvarausjärjestelmässä",
+    "Palvelupistehaun URL ei toimi: 'Etsi lähin palvelupiste' -linkki palauttaa 404 eikä staattista palvelupisteluetteloa ole julkaistu",
+    "Y-tunnus ja itsenäiset arviot puuttuvat: yritysidentiteetti- ja luotettavuustiedot eivät ole julkisesti saatavilla"
+  ],
+  "yhteenveto": "A-Katsastus on Suomen johtava ajoneuvokatsastuspalvelun tarjoaja, jolla on n. 250 asemaa ja laaja palveluvalikoima. Sivusto tarjoaa selkeän navigaation, monipuoliset yhteydenottovaihtoehdot (puhelin 075 323 2222, sähköposti asiakaspalvelu@a-katsastus.fi) ja kattavat ohjeet. Heikkoutena on, että hintasivu ei toimi (404-virhe) ja palvelupistehaun URL ei ole toiminnassa; hinnat näytetään vain interaktiivisen ajanvarausjärjestelmän kautta.",
+  "evidence": {
+    "katsastushinta_esilla": "HAVAINTO: Sivulla todetaan 'Katsastushintamme vaihtelevat palvelupisteittäin ja ajankohdittain. Löydät kaikki palvelupisteemme ja niiden määräaikaiskatsastusten sekä lakisääteisten mittausten hinnat palvelupistehaulla ja varausta tehdessäsi.' Linkki 'Katsastuspalvelujen hinnasto' johtaa 404-virheeseen.",
+    "ajanvaraus_hinnalla": "HAVAINTO: Ajanvarausjärjestelmä on saatavilla osoitteessa https://www.a-katsastus.fi/katsastuspalvelut/ (linkki 'Varaa aika katsastuspalveluihin'), mutta en pystynyt vahvistamaan, näytetäänkö hinta ennen yhteystietojen antamista.",
+    "asemat_ja_aukioloajat": "HAVAINTO: Navigaatiossa mainitaan 'Etsi lähin palvelupiste', mutta linkki johtaa 404-virheeseen. Sivulla kerrotaan, että A-Katsastuksella on 'noin 250 katsastusasemaa', mutta staattista lista ei ole julkaistu.",
+    "palveluvalikoima_kuvattu": "HAVAINTO: Sivulla kuvataan kattavasti kevyen ajoneuvon katsastus, jälkitarkastus, lakisääteiset mittaukset (pakokaasupäästöjen tarkastus), erikoiskatsastukset, muutos- ja rekisteröintikatsastukset sekä Autotohtori-kuntotarkastus.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole julkaistu verkkosivuilla. Osoite on Valimotie 9-11, 00380 Helsinki, mutta yritysidentifioija puuttuu.",
+    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa näkyvät kaikilla sivuilla: 075 323 2222 (katsastus- ja rekisteröintipalvelut, ma–pe 7.30–18, la 9-14) ja 029 534 5115 (ajokortti- ja kuljettajantutkintoasiat, ma-pe 7.30-15).",
+    "email_esilla": "HAVAINTO: Kaksi sähköpostiosoitetta näkyy sivuilla: asiakaspalvelu@a-katsastus.fi ja info@a-katsastus.fi (pääkonttori, ma-pe klo 8-16).",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvät selvästi: 'Ajanvaraus ma–pe 7.30–18, la 9-14' ja pääkonttori 'ma-pe klo 8-16'.",
+    "ukk_osio": "HAVAINTO: Sivulla on erillinen 'Usein kysytyt kysymykset' -osio, joka sisältää alaotsikot: Katsastukset ja lakisääteiset mittaukset, Rekisteröinnit/vakuutukset/kilvet, Autotarvikkeet ja ilmaiset lisäpalvelut, Autotohtori ja muut lisäpalvelut, Lupapalvelut ja kuljettajantutkinnot."
+  }
+}

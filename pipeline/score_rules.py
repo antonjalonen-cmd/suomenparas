@@ -178,6 +178,56 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
     ],
+    # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
+    # does the company tell you the price before you hand over your data?
+    "autokatsastus": [
+        ("katsastushinta_esilla", "Määräaikaiskatsastuksen hinta julkisesti esillä", 30),
+        ("ajanvaraus_hinnalla", "Nettiajanvaraus näyttää hinnan ennen yhteystietoja", 20),
+        ("asemat_ja_aukioloajat", "Asemat ja aukioloajat kerrottu", 15),
+        ("palveluvalikoima_kuvattu", "Katsastuslajit ja lisäpalvelut hintoineen kuvattu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "autovuokraamot": [
+        ("hinta_ilman_yhteystietoja", "Vuokrahinnan näkee ilman yhteystietoja", 30),
+        ("omavastuu_ja_vakuutus", "Omavastuu ja vakuutusvaihtoehdot kerrottu", 20),
+        ("vuokrausehdot_saatavilla", "Vuokrausehdot (km-rajat, polttoaine, ikärajat) julkisesti", 15),
+        ("toimipisteet_ja_aukioloajat", "Toimipisteet ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "optikot": [
+        ("silmalasien_hinnat_esilla", "Silmälasien/linssien hintatietoja julkisesti esillä", 30),
+        ("nakotarkastuksen_hinta", "Näöntarkastuksen hinta kerrottu", 20),
+        ("ajanvaraus_verkossa", "Ajanvaraus verkossa ilman kirjautumista", 15),
+        ("liikkeet_ja_aukioloajat", "Liikkeet ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "yksityislaakarit": [
+        ("vastaanottohinnat_esilla", "Vastaanottojen hinnat julkisesti esillä", 30),
+        ("ajanvaraus_ilman_kirjautumista", "Ajanvaraus verkossa ilman kirjautumista", 20),
+        ("kela_korvaus_kerrottu", "Kela-korvaus ja todellinen omavastuu kerrottu", 15),
+        ("toimipisteet_ja_aukioloajat", "Toimipisteet ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "kuntosalit": [
+        ("jasenyyden_hinta_esilla", "Jäsenyyden hinta julkisesti esillä", 30),
+        ("sopimusehdot_saatavilla", "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti", 20),
+        ("liittymismaksut_kerrottu", "Liittymis- ja muut kertamaksut kerrottu", 15),
+        ("salit_ja_aukioloajat", "Salit ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "kiinteistonvalittajat": [
+        ("valityspalkkio_esilla", "Välityspalkkio tai hinnasto julkisesti esillä", 30),
+        ("palvelun_sisalto_kuvattu", "Palvelun sisältö (mitä palkkiolla saa) kuvattu", 20),
+        ("sopimusehdot_saatavilla", "Toimeksiantosopimuksen ehdot julkisesti", 15),
+        ("toimistot_ja_yhteystiedot", "Toimistot ja yhteystiedot kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
 }
 
 # Human-readable criteria string rendered on the methodology page.

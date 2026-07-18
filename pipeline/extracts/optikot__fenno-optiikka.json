@@ -1,0 +1,50 @@
+{
+  "slug": "fenno-optiikka",
+  "fetched_ok": [
+    "https://fennooptiikka.fi",
+    "https://fennooptiikka.fi/myymälät",
+    "https://fennooptiikka.fi/silmalasit",
+    "https://fennooptiikka.fi/naontarkastus",
+    "https://fennooptiikka.fi/yhteystiedot",
+    "https://fennooptiikka.fi/linssit"
+  ],
+  "silmalasien_hinnat_esilla": "kylla",
+  "nakotarkastuksen_hinta": "ei",
+  "ajanvaraus_verkossa": "kylla",
+  "liikkeet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "naontarkastus_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja liikeverkon kattavuus (50+ liikkeitä ympäri Suomea selkeällä kartalla ja listalla)",
+    "Silmälasien hinnoittelu julkinen heti ostetussa järjestelmässä (hintasuodattimet saatavilla, hinnat €285–€393+)",
+    "Paikallisten liikkeiden yksityiskohtaiset tiedot (aukioloajat ma-pe 10-17:30, la 10-15, osoitteet, puhelinnumerot, henkilökunta)"
+  ],
+  "kehityskohteet": [
+    "Näöntarkastuksen hinta puuttuu kokonaan sivulta (asiakkaalle epäselvä kustannusarvio ennen käyntiä)",
+    "Usein kysytyt kysymykset -osio puuttuu (reitit /ukk ja /faq palauttavat 404)",
+    "Yhtenäinen verkkoajanvaraus pääsivulta puuttuu (ohjautuminen paikallis-liikkeiden sivuille vaaditaan)"
+  ],
+  "yhteenveto": "Fenno Optiikka on suomalainen optikkoketju, joka toimii 50+ liikkeellä ympäri maata. Sivusto tarjoaa silmälasien hinnat ja selkeän liikeverkon tiedot sekä paikallisten palveluiden yhteystiedot. Näöntarkastuksen hinnoittelua ei julkaista pääsivulla, eikä verkkosivulla ole usein kysyttyjen kysymysten osiota.",
+  "evidence": {
+    "silmalasien_hinnat_esilla": "HAVAINTO: Silmalasit-sivulla (https://fennooptiikka.fi/silmalasit) näkyy hintasuodattimet (Alle 100 €, 100–199 €, 200–299 €, Yli 300 €) ja konkreettiset tuotteet hinnoilla: Aamu alkaen € 285.00, Aamunkoi € 393.00, Aava € 283.00.",
+    "nakotarkastuksen_hinta": "HAVAINTO: Näöntarkastus-sivulla (https://fennooptiikka.fi/naontarkastus) kuvataan palvelu ja sen prosessi yksityiskohtaisesti, mutta hintaa ei mainita. Sivu ohjaa varaamaan ajan lähimmästä liikkeestä ilman hintaesittelyä.",
+    "ajanvaraus_verkossa": "HAVAINTO: Pääsivulla ja kaikilla sivuilla näkyy 'Varaa aika verkossa' -painike. Näöntarkastus-sivulla sanotaan 'Varaa aika verkossa'. Paikallisten liikkeiden sivuilla (esim. Fenno Optiikka Lappi) on konkreettinen ajanvarauslomake.",
+    "liikkeet_ja_aukioloajat": "HAVAINTO: Myymälät-sivulla (JS-renderöitynä) listataan 50+ kaupunkia ja liikkeitä: Alajärvi (Liljamon Optiikka), Helsinki (Fenno Optiikka Aleksi), Tampere (Citykatse), Turku (Turun Fenno Optiikka) jne. Lappi-liikkeellä aukioloajat: ma-pe klo 10-17:30, la klo 10-15.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla (https://fennooptiikka.fi/yhteystiedot) näkyy selvästi: 'Fenno Optical Oy, Y-tunnus: 2205389-1, Ansatie 6a A (2 krs), 01740 VANTAA'.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla listataan useat puhelinnumerot: johtaja 040 485 7578, kehitysjohtaja 040 580 0368, myyntipäällikkö 050 357 3696, markkinointipäällikkö 0400 396 920, tukkumyynti/linssit (09) 2763 6263, tukkumyynti/kehykset (09) 2763 6283. Paikallisilla liikkeillä omat numerot (esim. Lappi: 010 320 6310).",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla sanotaan 'Fenno Optiikan hallinto ja markkinointi — Hallinnon ja markkinoinnin sähköpostit ovat muotoa: etunimi.sukunimi(at)fennooptiikka.fi'. Lappi-liikkeellä konkreettinen sähköposti: rovaniemi@fennooptiikka.fi. Yleisen yhteyshenkilön sähköpostia ei ole lisätty pääkontaktiksi.",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole FAQ-osiota. Reitit /ukk ja /faq palauttavat HTTP 404 -virheet."
+  }
+}

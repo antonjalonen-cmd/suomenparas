@@ -64,7 +64,7 @@ CATEGORY_GROUPS = [
         ("Laajakaista", "laajakaista", True), ("Puhelinliittymät", "puhelinliittymat", True),
         ("Luottokortit", "luottokortit", True), ("Sijoitusalustat", "sijoitusalustat", True),
         ("Kulutusluotot", "kulutusluotot", True), ("Webhotellit", "webhotellit", True),
-        ("VPN-palvelut", "vpn-palvelut", True), ("Pankkien asiakaspalvelu", None, False),
+        ("VPN-palvelut", "vpn-palvelut", True), ("Pankit", "pankit", True),
         ("Autovakuutukset", "autovakuutukset", True), ("Kotivakuutukset", "kotivakuutukset", True),
         ("Matkavakuutukset", "matkavakuutukset", True), ("Lemmikkivakuutukset", "lemmikkivakuutukset", True),
         ("Pikavipit", None, False), ("Asuntolainat", None, False),
@@ -81,7 +81,7 @@ CATEGORY_GROUPS = [
         ("Lämpöpumppuasentajat", None, False), ("Aurinkopaneeliasentajat", None, False),
         ("Putkiliikkeet", None, False), ("Sähköasentajat", None, False),
         ("Kattoremontit", None, False), ("Muuttopalvelut", None, False),
-        ("Siivouspalvelut", None, False), ("Kiinteistönvälittäjät", None, False),
+        ("Siivouspalvelut", None, False), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
         ("Rakennusliikkeet", None, False), ("Maalausliikkeet", None, False),
         ("Ikkunaremontit", None, False), ("Keittiöremontit", None, False),
         ("Lukkoliikkeet", None, False), ("Kodinkonehuolto", None, False),
@@ -89,17 +89,17 @@ CATEGORY_GROUPS = [
         ("Ilmanvaihtohuollot", None, False),
     ]),
     ("Auto ja liikenne", [
-        ("Autokorjaamot", None, False), ("Autokatsastus", None, False),
+        ("Autokorjaamot", None, False), ("Autokatsastus", "autokatsastus", True),
         ("Rengasliikkeet", None, False), ("Autopesulat", None, False),
-        ("Autokoulut", None, False), ("Autovuokraamot", None, False),
+        ("Autokoulut", None, False), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", None, False),
     ]),
     ("Terveys ja hyvinvointi", [
-        ("Hammaslääkärit", None, False), ("Yksityislääkärit", None, False),
+        ("Hammaslääkärit", None, False), ("Yksityislääkärit", "yksityislaakarit", True),
         ("Fysioterapeutit", None, False), ("Hierojat", None, False),
-        ("Optikot", None, False), ("Kuntosalit", None, False),
+        ("Optikot", "optikot", True), ("Kuntosalit", "kuntosalit", True),
         ("Eläinlääkärit", None, False), ("Psykoterapeutit", None, False),
         ("Jalkahoitolat", None, False), ("Kauneushoitolat", None, False),
         ("Silmälääkärit", None, False), ("Personal trainerit", None, False),
@@ -156,14 +156,16 @@ a{color:var(--blue-deep);text-decoration:none}
 a:hover{text-decoration:underline}
 :focus-visible{outline:3px solid var(--gold);outline-offset:2px;border-radius:6px}
 .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
-/* header */
-header.site{background:linear-gradient(180deg,var(--blue) 0%,var(--blue-deep) 100%);color:#fff;position:sticky;top:0;z-index:50;border-bottom:3px solid var(--ink)}
+/* header — graphite/silver to match the logo */
+header.site{background:linear-gradient(180deg,#2B3444 0%,#1D2532 100%);color:#fff;position:sticky;top:0;z-index:50;border-bottom:3px solid #10151E}
 header.site .wrap{display:flex;align-items:center;gap:24px;height:66px}
-.brand{display:flex;align-items:center;gap:11px;font-weight:700;font-size:1.28rem;color:#fff;letter-spacing:.01em}
+.brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:1.28rem;color:#fff;letter-spacing:.01em}
 .brand:hover{text-decoration:none}
-.brand img{width:58px;height:58px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25));transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
+.brand img{width:58px;height:58px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.35));transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
 .brand:hover img{transform:rotate(-8deg) scale(1.08)}
 .brand .tm{color:var(--gold-line)}
+.brand .btxt{display:flex;flex-direction:column;line-height:1.1}
+.brand .oy{font-family:'IBM Plex Mono',monospace;font-size:.6rem;font-weight:500;letter-spacing:.22em;color:#9DABC2;text-transform:uppercase;margin-top:3px}
 nav.main{display:flex;gap:22px;margin-left:auto;align-items:center}
 nav.main a{color:#DCE8FC;font-weight:800;font-size:.95rem}
 nav.main a:hover{color:#fff;text-decoration:none}
@@ -185,14 +187,16 @@ nav.main a.on{color:var(--gold-line)}
 .navdd-panel .all{color:var(--blue-deep)}
 .demo-ribbon{background:var(--ink);color:var(--gold-line);text-align:center;font-size:.8rem;font-weight:800;padding:6px 12px;letter-spacing:.03em}
 /* hero */
-.hero{background:linear-gradient(170deg,var(--blue) 0%,var(--blue-deep) 78%,#173F87 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
+.hero{background:linear-gradient(170deg,#333E50 0%,#232B38 62%,#171D27 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
 .hero::before{content:"";position:absolute;width:1700px;height:1700px;left:50%;top:-560px;transform:translateX(-50%);background:repeating-conic-gradient(rgba(255,255,255,.55) 0 9deg,transparent 9deg 18deg);border-radius:50%;pointer-events:none;opacity:.045;animation:spin 140s linear infinite;-webkit-mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%);mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%)}
 .hero .wrap{position:relative}
 .kicker{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;color:var(--gold-line);margin-bottom:16px;font-weight:600}
 .hero h1{font-size:clamp(2.1rem,4.8vw,3.4rem);line-height:1.08;letter-spacing:.01em;color:#fff;font-weight:800;max-width:660px}
 .hero h1 em{font-style:normal;color:var(--gold-line)}
-.hero p.lead{margin-top:16px;font-size:1.1rem;color:#D6E4FB;max-width:560px;font-weight:600}
-.hero-logo{width:184px;height:184px;margin-bottom:18px;filter:drop-shadow(0 8px 18px rgba(10,25,60,.4));animation:bounceIn .8s cubic-bezier(.3,1.5,.4,1) both}
+.hero p.lead{margin-top:16px;font-size:1.1rem;color:#CFD8E4;max-width:560px;font-weight:600}
+.hero-logo{width:240px;height:240px;margin-bottom:18px;filter:drop-shadow(0 10px 24px rgba(0,0,0,.45));animation:bounceIn .8s cubic-bezier(.3,1.5,.4,1) both,logoPulse 3.2s ease-in-out .9s infinite}
+@keyframes logoPulse{0%,100%{transform:scale(1);filter:drop-shadow(0 10px 24px rgba(0,0,0,.45))}50%{transform:scale(1.05);filter:drop-shadow(0 14px 34px rgba(255,198,26,.28))}}
+@media(prefers-reduced-motion:reduce){.hero-logo{animation:none}}
 @keyframes bounceIn{from{opacity:0;transform:scale(.5) rotate(-12deg)}to{opacity:1;transform:none}}
 @keyframes fadeUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
 @keyframes spin{to{transform:translateX(-50%) rotate(360deg)}}
@@ -205,7 +209,7 @@ nav.main a.on{color:var(--gold-line)}
 @media(max-width:840px){.hero-grid{grid-template-columns:1fr}}
 .hero-stats{display:flex;gap:26px;margin-top:26px;flex-wrap:wrap}
 .hero-stat b{display:block;font-family:'Baloo 2',sans-serif;font-size:1.5rem;color:var(--gold-line);font-weight:600}
-.hero-stat span{font-size:.84rem;color:#AFC6EC;font-weight:600}
+.hero-stat span{font-size:.84rem;color:#A9B5C8;font-weight:600}
 /* live board */
 .board{background:var(--card);border-radius:var(--r);border:3px solid var(--ink);box-shadow:0 6px 0 rgba(10,22,50,.35);color:var(--body);overflow:hidden}
 .board-head{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:2px solid var(--line);background:var(--cream)}
@@ -460,7 +464,7 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   .navdd-panel{right:auto;left:0;min-width:min(250px,calc(100vw - 32px))}
   .demo-ribbon{font-size:.7rem;padding:5px 10px}
   .hero{padding:34px 0 44px}
-  .hero-logo{width:128px;height:128px;margin-bottom:14px}
+  .hero-logo{width:168px;height:168px;margin-bottom:14px}
   .hero-stats{gap:20px}
   section.band{padding:40px 0}
 }
@@ -698,6 +702,10 @@ APP_JS = r"""
 def page(title, desc, body, root="", active=""):
     def on(k):
         return ' class="on"' if k == active else ""
+    # The front page shows the big pulsing hero logo, so its header is text-only —
+    # one logo per page. Subpages keep the small header logo.
+    brand_img = "" if root == "" else (
+        f'<img src="{root}assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58">')
     return f"""<!DOCTYPE html>
 <html lang="fi">
 <head>
@@ -708,13 +716,13 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=17">
-<script src="{root}assets/app.js?v=17" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=18">
+<script src="{root}assets/app.js?v=18" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
-    <a class="brand" href="{root}"><img src="{root}assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
+    <a class="brand" href="{root}">{brand_img}<span class="btxt"><span>suomenparas<span class="tm">.com</span></span><span class="oy">Suomen Paras Oy</span></span></a>
     <nav class="main">
       <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>

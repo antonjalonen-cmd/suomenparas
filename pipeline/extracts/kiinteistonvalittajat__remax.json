@@ -1,0 +1,49 @@
+{
+  "slug": "remax",
+  "fetched_ok": [
+    "https://remax.fi/",
+    "https://remax.fi/asunnon-myynti/palvelupaketit-ja-valityspalkkio/",
+    "https://remax.fi/yhteystiedot/",
+    "https://remax.fi/medialle/",
+    "https://remax.fi/tietosuojaseloste/",
+    "https://remax.fi/asiakasedut/",
+    "https://remax.fi/erimielisyyksien-ratkaiseminen/"
+  ],
+  "valityspalkkio_esilla": "osittain",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "sopimusehdot_saatavilla": "osittain",
+  "toimistot_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "valityspalkkio_pct": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Palvelupakettien sisältö on selkeästi kuvattu taulukkomuodossa kolmella eri tasolla (Basic, Boost, Premium)",
+    "Välityspalkkiot ovat näkyvillä prosenttiosuuksina ja kiinteillä summilla, mutta huomautus mahdollisista alueellisista vaihteluista",
+    "Yhteystiedot (puhelin ja sähköposti) helposti löydettävät; medialle nimetty vastuuhenkilö (toimitusjohtaja)"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä, vaikka REF Franchices Finland Oy nimellä toimii",
+    "Toimeksiantosopimuksen ehdot annetaan vasta sopimuksen solmimisen jälkeen, ei saatavilla etukäteen",
+    "Puuttuu erillinen UKK-osio vastaamaan asiakkaiden yleisiin kysymyksiin; chat-palvelu tai live-support ei mainittuna"
+  ],
+  "yhteenveto": "RE/MAX on valtakunnallinen kiinteistönvälitysketju, joka toimii franchise-mallilla itsenäisten toimistojen kanssa. Sivustolla esitellään selkeästi kolmen tason palvelupakettien sisältö ja välityspalkkiot (2,9–4,4 % + kiinteät maksut), mutta huomautus palkkioiden mahdollisista alueellisista vaihteluista heikentää läpinäkyvyyttä. Yhteystiedot ovat saatavilla, mutta toimeksiantosopimuksen ehdot annetaan vasta sopimuksen jälkeen.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Palvelupaketit esitellään kolmella tasolla (Basic 400€ + 2,9%, Boost 500€ + 3,4%, Premium 600€ + 4,4%). Sivulla mainitaan: 'Välityspalkkiopaketit voivat vaihdella alueittain. Pyydä yksilöllinen välityspalvelutarjous.' Palkkiot eivät siis ole täysin vakioitu.",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Jokainen palvelupaketti sisältää perusteellisen kuvauksen sisällöstä, sekä taulukko joissa vertaillaan markkinointimateriaalien, lisämarkkinoinnin ja muiden palveluiden sisältöä paketeittain.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Asiakasetujen sivulla mainitaan 'Saat toimeksiantosopimuksen solmimisen jälkeen oman henkilökohtaisen linkin asiakasetuihin'. Sopimusehdot annetaan sopimuksen solmimisen jälkeen, eivät etukäteen julkisesti.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Etusivulla ja yhteystiedot-sivulla listataan toimistoja paikkakunnittain (yli 20 kaupunkia). Yhteystiedot: Runeberginkatu 58, puhelin 020 753 4000 (arkisin klo 9–16), sähköpostit info@remax.fi ja pasi.aalto@remax.fi (toimitusjohtaja).",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa mainitaan 'Rekisterinpitäjä: REF Franchices Finland Oy', mutta virallista Y-tunnusta ei julkaista sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Mediapalveluiden osalta mainitaan 'arkisin klo 9–16', mutta yleisiä toimistojen aukioloaikoja ei ole selkeästi julkaistu. Sivustolla mainitaan myös yksilöiden toimistot voivat vaihdella."
+  }
+}

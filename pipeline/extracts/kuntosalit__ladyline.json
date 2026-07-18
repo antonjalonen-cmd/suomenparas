@@ -1,0 +1,49 @@
+{
+  "slug": "ladyline",
+  "fetched_ok": [
+    "https://ladyline.fi",
+    "https://ladyline.fi/sopimusehdot/",
+    "https://ladyline.fi/yhteystiedot/",
+    "https://ladyline.fi/toimipiste/espoo-lippulaiva/",
+    "https://ladyline.fi/blogi/",
+    "https://ladyline.fi/tietosuojaseloste/"
+  ],
+  "jasenyyden_hinta_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "liittymismaksut_kerrottu": "osittain",
+  "salit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "jasenyys_kk_hinta_eur": 54.90,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeä hinnasto useilla jäsenyysvaihtoehdoilla (naisille, opiskelijoille, eri aukioloajoille)",
+    "Kattavat yhteystiedot kaikille 12 toimipisteelle puhelinnumeroineen ja sähköpostiosoitteineen",
+    "Yksityiskohtaiset sopimusehdot irtisanomisajoista, tauottamismahdollisuuksista ja maksuista"
+  ],
+  "kehityskohteet": [
+    "UKK-osio puuttuu kokonaan – tavallisia kysymyksiä (sitoutumisaika, peruuttaminen) ei vastattavissa julkisesti",
+    "Aloitusmaksu (29 €) mainitaan vain tekstissä eikä erillisessä hinnaston yhteenvedossa",
+    "Chat-palvelu ei mainittu, asiakastukena vain puhelin ja sähköposti"
+  ],
+  "yhteenveto": "LadyLine on naisten kuntopalveluja tarjoava ketju, jolla on 12 toimipistettä ympäri Suomea. Sivusto esittelee jäsenyystyypit, hinnat ja kattavat sopimusehdot selkeästi, mutta UKK-osion puuttuminen rajoittaa asiakasselvitystä. Yhteystiedot ja Y-tunnus ovat helposti löydettävät.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: Jäsenyyshinnat näkyvät etusivulla kampanjahintoina ja toimipisteen sivuilla yksityiskohtaisissa hinnaston taulukoissa (esim. Joustava Kuntosali 6-24: 54,90 €/kk, ryhmäliikunta mukaan 64,90 €/kk).",
+    "sopimusehdot_saatavilla": "HAVAINTO: Täydelliset sopimusehdot (17 kohtaa) julkaisina ladyline.fi/sopimusehdot-sivulla, sisältäen irtisanomisajat (1 kuukausi), tauottamisen ehdot ja sopimustyypit.",
+    "liittymismaksut_kerrottu": "HAVAINTO: Aloitusmaksu 29 € mainitaan sopimusehdoissa ja toimipisteen sivun hinnaston kuvauksessa, mutta ei erillisessä, selvästi näkyvässä hinnaston yhteenvedossa. Myös kulkuavain maksaa kertamaksu 10 €.",
+    "salit_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla 12 sallia osoitteineen (Espoo, Iisalmi, Joensuu, Kajaani, Kotka, Kouvola, Kuopio, Lahti, Loimaa, Mikkeli, Oulu, Porvoo, Rovaniemi, Vaasa). Espoo-Lippulaiva-sivulla asiakaspalvelun aukioloajat ma 13-19, ti-to 15-19, pe 14-18, la 10-13, ja pääsy kulkuavaimella 6-24.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1790020-8 julkaistu tietosuojaselosteessa (Ab LL International Oy, Nihtisillantie 3, 02630 Espoo).",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät yhteystiedot-sivulla kaikille toimipisteille (esim. Espoo 044 793 6705, Iisalmi 050 468 3958).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät yhteystiedot-sivulla kaikille toimipisteille (esim. lippulaiva@ladyline.fi, iisalmi@ladyline.fi)."
+  }
+}

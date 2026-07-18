@@ -1,0 +1,51 @@
+{
+  "slug": "k1-katsastajat",
+  "fetched_ok": [
+    "https://www.k1katsastus.fi/",
+    "https://www.k1katsastus.fi/palvelut-ja-hinnat/",
+    "https://www.k1katsastus.fi/palvelut-ja-hinnat/katsastus/",
+    "https://www.k1katsastus.fi/etsi-asema-ja-varaa-aika/",
+    "https://www.k1katsastus.fi/k1-katsastus/",
+    "https://www.k1katsastus.fi/kysymyksia-ja-vastauksia/",
+    "https://www.k1katsastus.fi/yrityksille/",
+    "https://www.k1katsastus.fi/k1-katsastus/yhteystiedot/",
+    "https://www.k1katsastus.fi/palvelut-ja-hinnat/kuntotarkastus/"
+  ],
+  "katsastushinta_esilla": "osittain",
+  "ajanvaraus_hinnalla": "osittain",
+  "asemat_ja_aukioloajat": "kylla",
+  "palveluvalikoima_kuvattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "maaraaikaiskatsastus_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Kattava palvelujen kuvaus: määräaikais-, muutos-, rekisteröinti- ja yksittäishyväksynnät sekä lisäpalvelut selkeästi esitelty",
+    "Hyvä saavutettavuus: yli 70 asemaa ympäri Suomea, verkkoajanvaraus ja puhelinajanvaraus (ma-pe 7:30-18, la 9-14), sekä WhatsApp-varaus",
+    "Kattava UKK-osio: kysymyksiä ja vastauksia autoihin ja katsastukseen liittyen useissa kategorioissa"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelun julkisuus: Määräaikaiskatsastuksen hinta näytetään vain kuntotarkastuksen yhteydessä (59-79€), mutta pääpalvelun hinta jää piiloon – vain kuntotarkastukselle löytyi konkrettiset eurohinnit",
+    "Ajanvaraus näyttää hinnan vasta yhteystietojen jälkeen: Nettivarauspalvelussa katsastaja voi tehdä varauksen näkemättä etukäteen hintaa",
+    "Puuttuvat riippumattomat arviot: Sivustolla ei ole linkkejä palvelun tasoa mittaaviin arvioihin tai asiakaspalautteiden julkaisemiseen"
+  ],
+  "yhteenveto": "K1 Katsastajat on suuri valtakunnallinen katsastusketju, jolla on yli 70 asemaa Suomessa. Sivusto tarjoaa hyvän palvelukuvauksen, kattavan ajanvarauskäytännön ja laajan UKK-osion. Pääpalvelun (määräaikaiskatsastus) hinnoittelu jää kuitenkin piilotetuksi, mikä vaikeuttaa hintojen vertailua ennen varauksen tekemistä.",
+  "evidence": {
+    "katsastushinta_esilla": "HAVAINTO: Määräaikaiskatsastuksen hinta on asemakohtainen ja näytetään ajanvarausjärjestelmässä, mutta sitä ei julkaista käyttäjille avoimesti etukäteen. Kuntotarkastukselle löytyy hinta (59-79€), sähköauton kuntotutkimukselle 159€, mutta pääpalvelun hintaa ei ole staattisella sivulla.",
+    "ajanvaraus_hinnalla": "HAVAINTO: Verkkoajanvaraus on saatavilla (Etsi asema ja varaa aika -sivu), mutta hinnat näkyvät vasta kun on valittu asema ja aika. Puhelimitse varauksen tekeminen (0306 100 100) tai WhatsApp-varaus (+358 45 4909630) ovat vaihtoehdot.",
+    "asemat_ja_aukioloajat": "HAVAINTO: Sivulla on interaktiivinen asemanetsintä-työkalu, joka näyttää yli 70 asemaa ympäri Suomea. Aukioloajat: ma-pe 7:30-18, la 9-14 (pvm/mpm). Yksittäisten asemien tiedot löytyvät 'Etsi asema ja varaa aika' -sivulta.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2046583-3 on julkisesti esillä Yhteystiedot-sivulla. Yrityksen nimi on K1 Katsastajat Oy, osoite Rieskalähteentie 76, 20300 Turku.",
+    "puhelin_esilla": "HAVAINTO: Kansallinen ajanvarausnumero 0306 100 100 on esillä lähes jokaisella sivulla. Myös WhatsApp-varausmahdollisuus mainitaan (+358 45 4909630). Laskutusneuvonta: p. 09 4246 1352.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myynti@k1katsastus.fi on esillä yrityksille -sivulla. Laskutukseen liittyvät sähköpostit: ostolaskut.fi@cgi.com tai purchaseinvoices.fi@cgi.com."
+  }
+}

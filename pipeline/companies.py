@@ -516,3 +516,112 @@ if __name__ == "__main__":
             print(f"    shared issuer {y}: {' + '.join(names)}  <- must be disclosed on the page")
     print("total:", sum(len(c) for c in COMPANIES.values()),
           f"| shared-owner groups: {total_shared}")
+
+
+# ---------------------------------------------------------------------------
+# BATCH 3 (verified 18.7.2026, full verification notes in pipeline/verify_batch3/*.md)
+#
+# AUTOKATSASTUS — only 4 genuine national chains exist; that is the honest set, not
+# padding (rule: a smaller correct set beats a padded one). EXCLUDED: Katsastus Plus
+# (= Plus Katsastus, wrong name), "Yksityiset katsastusasemat" (not a company),
+# Suomen Autokatsastus (folded into A-Katsastus), Katsastajasi + Go-Katsastus +
+# Q-Katsastus (regional; Q sold to TÜV SÜD 2/2026). OWNERSHIP: A-Katsastus bought
+# K1 Katsastajat 12/2022 (~40 % combined share, flagged by Autoliitto) — disclosed.
+COMPANIES["autokatsastus"] = [
+    dict(slug="a-katsastus", nimi="A-Katsastus", domain="a-katsastus.fi", y_tunnus="1959705-4",
+         omistaja="Tradeka — suomalainen osuuskuntataustainen konserni; omistaa myös K1 Katsastajat"),
+    dict(slug="k1-katsastajat", nimi="K1 Katsastajat", domain="k1katsastus.fi", y_tunnus="2046583-3",
+         omistaja="A-Katsastus-konsernin tytäryhtiö 12/2022 alkaen — sama konserni kuin A-Katsastus"),
+    dict(slug="plus-katsastus", nimi="Plus Katsastus", domain="plus.fi", y_tunnus="2307508-0",
+         omistaja="Suomalaisten yrittäjien omistama, riippumaton A-Katsastus-konsernista"),
+    dict(slug="dekra-katsastus", nimi="DEKRA Katsastus", domain="dekra-katsastus.fi", y_tunnus="2467455-2",
+         omistaja="Saksalainen DEKRA-konserni"),
+]
+
+# AUTOVUOKRAAMOT — EXCLUDED: Budget (SAME company as Avis: Helkama Rent Oy, one
+# Y-tunnus — would double-count one competitor as two). Scandia Rent quietly
+# rebranded MABI Mobility (Hedin Mobility Group) but still trades at scandiarent.fi.
+# hertz.fi and avis.fi are JS-rendered — extraction MUST use fetch_page.py --js.
+COMPANIES["autovuokraamot"] = [
+    dict(slug="hertz", nimi="Hertz", domain="hertz.fi", y_tunnus="0744711-2",
+         omistaja="First Rent A Car Finland Oy Ab — Suomen Hertz-lisenssinhaltija"),
+    dict(slug="avis", nimi="Avis", domain="avis.fi", y_tunnus="2346469-2",
+         omistaja="Helkama Rent Oy — sama yhtiö operoi myös Budget-brändiä Suomessa"),
+    dict(slug="sixt", nimi="Sixt", domain="sixt.fi", y_tunnus="2275518-0",
+         omistaja="Transporent Oy (Veho-konserni) — Suomen Sixt-lisenssinhaltija"),
+    dict(slug="europcar", nimi="Europcar", domain="europcar.fi", y_tunnus="0109269-9",
+         omistaja="Interrent Oy — osa Europcar Mobility Groupia"),
+    dict(slug="scandia-rent", nimi="Scandia Rent", domain="scandiarent.fi", y_tunnus="2509794-5",
+         omistaja="Mabi Mobility Oy — ruotsalainen Hedin Mobility Group; brändi vaihtumassa MABI Mobilityksi"),
+    dict(slug="green-motion", nimi="Green Motion", domain="greenmotion.fi", y_tunnus="1837195-0",
+         omistaja="Green Motion International -franchise, suomalaiset franchise-yrittäjät"),
+]
+
+# OPTIKOT — EXCLUDED: Nissen (SAME company as Instrumentarium: Instru Optiikka Oy /
+# EssilorLuxottica). Silmäasema is MID-ACQUISITION: Terveystalo signed 8.6.2026,
+# not closed — disclosed on-page, re-check every run.
+COMPANIES["optikot"] = [
+    dict(slug="specsavers", nimi="Specsavers", domain="specsavers.fi", y_tunnus="2006084-4",
+         omistaja="Kansainvälinen Specsavers-franchisejärjestelmä"),
+    dict(slug="instrumentarium", nimi="Instrumentarium", domain="instru.fi", y_tunnus="1789727-2",
+         omistaja="Instru Optiikka Oy / EssilorLuxottica — sama yhtiö omistaa myös Nissen-brändin"),
+    dict(slug="silmaasema", nimi="Silmäasema", domain="silmaasema.fi", y_tunnus="2627773-7",
+         omistaja="Coronaria; Terveystalo ilmoitti ostavansa 8.6.2026 — kauppa ei vielä toteutunut"),
+    dict(slug="fenno-optiikka", nimi="Fenno Optiikka", domain="fennooptiikka.fi", y_tunnus="2205389-1",
+         omistaja="Suomalainen franchise-yrittäjävetoinen ketju"),
+    dict(slug="synsam", nimi="Synsam", domain="synsam.fi", y_tunnus="2446347-2",
+         omistaja="Ruotsalainen Synsam Group — pörssiyhtiö"),
+]
+
+# YKSITYISLÄÄKÄRIT — 4 genuine national chains; Lysna (rekisteröity 9/2024, yksi
+# kaupunki) EXCLUDED as not national — a startup padded in would be indefensible.
+# Diacor is DEAD (merged into Terveystalo 2016; diacor.fi now serves an unrelated
+# diet site). Coronaria = eri segmentti, Lähilääkärit = pääkaupunkiseutu.
+COMPANIES["yksityislaakarit"] = [
+    dict(slug="mehilainen", nimi="Mehiläinen", domain="mehilainen.fi", y_tunnus="1927556-5",
+         omistaja="Mehiläinen Oy — pääomasijoittajaomisteinen konserni"),
+    dict(slug="terveystalo", nimi="Terveystalo", domain="terveystalo.com", y_tunnus="2575979-3",
+         omistaja="Terveystalo Oyj — pörssiyhtiö (Nasdaq Helsinki)"),
+    dict(slug="pihlajalinna", nimi="Pihlajalinna", domain="pihlajalinna.fi", y_tunnus="2617455-1",
+         omistaja="Pihlajalinna Oyj — pörssiyhtiö (Nasdaq Helsinki)"),
+    dict(slug="aava", nimi="Aava", domain="aava.fi", y_tunnus="2311119-2",
+         omistaja="Aava ja Pikkujätti Oy (nimi 3.6.2025 asti Lääkärikeskus Aava Oy) — suomalainen perheyritys"),
+]
+
+# KUNTOSALIT — OWNERSHIP: LadyLine ja EasyFit ovat saman franchisoijan (Ab LL
+# International Oy 1790020-8) kaksi brändiä — disclosed on-page (Effortia-oppi).
+# EXCLUDED: GOGO (Tampere-paikallinen), "Motion" (ei ole olemassa — domain kuuluu
+# elokuvayhtiölle), SATS erillisenä (Suomessa brändi on Elixia, sama yhtiö).
+COMPANIES["kuntosalit"] = [
+    dict(slug="elixia", nimi="Elixia", domain="elixia.fi", y_tunnus="0459885-5",
+         omistaja="SATS Finland Oy / SATS ASA — Oslon pörssissä noteerattu konserni"),
+    dict(slug="fressi", nimi="Fressi", domain="fressi.fi", y_tunnus="2538910-4",
+         omistaja="Fysioline Fressi Oy — suomalainen, Tampere"),
+    dict(slug="ladyline", nimi="LadyLine", domain="ladyline.fi", y_tunnus="1790020-8",
+         omistaja="Ab LL International Oy — sama franchisoija kuin EasyFitillä"),
+    dict(slug="easyfit", nimi="EasyFit", domain="easyfit.fi", y_tunnus="1790020-8",
+         omistaja="Ab LL International Oy (franchisoija, sama kuin LadyLine); yksittäiset salit itsenäisiä yrittäjiä"),
+    dict(slug="fitness24seven", nimi="Fitness24Seven", domain="fi.fitness24seven.com", y_tunnus="2402161-5",
+         omistaja="Fitness24Seven Oy — ruotsalainen kansainvälinen ketju"),
+    dict(slug="liikku", nimi="Kuntokeskus Liikku", domain="liikku.fi", y_tunnus="2784989-9",
+         omistaja="Kuntokeskus Liikku Oy — suomalainen, Oulu"),
+]
+
+# KIINTEISTÖNVÄLITTÄJÄT — EXCLUDED: SKV (sulautui Huoneistokeskukseen — skv.fi
+# ohjaa sinne), Roof Group/Aninkainen/Solid House (alueellisia). OP Koti on ~19
+# alueellisen "OP Koti X Oy LKV" -yhtiön federaatio ilman yhtä Y-tunnusta — sama
+# rakenne kuin Säästöpankki/POP pankit-kategoriassa; y_tunnus=None, labelled.
+COMPANIES["kiinteistonvalittajat"] = [
+    dict(slug="kiinteistomaailma", nimi="Kiinteistömaailma", domain="kiinteistomaailma.fi", y_tunnus="0804835-9",
+         omistaja="Kiinteistömaailma Oy — franchise-ketju"),
+    dict(slug="huoneistokeskus", nimi="Huoneistokeskus", domain="huoneistokeskus.fi", y_tunnus="1831315-2",
+         omistaja="Realia/Retta-konserni — sisältää entisen SKV:n (sulautui 2020)"),
+    dict(slug="opkoti", nimi="OP Koti", domain="op-koti.fi", y_tunnus=None,
+         omistaja="OP Ryhmä — noin 19 alueellista OP Koti Oy LKV -yhtiötä, ei yhtä Y-tunnusta"),
+    dict(slug="remax", nimi="RE/MAX", domain="remax.fi", y_tunnus="2019179-9",
+         omistaja="REF Real Estate Franchises Oy — kansainvälisen RE/MAX-ketjun master-franchisoija; toimistot itsenäisiä"),
+    dict(slug="habita", nimi="Habita", domain="habita.com", y_tunnus="0980183-2",
+         omistaja="Habita Finland Oy; kaupunkitoimistot erillisiä osakeyhtiöitä saman brändin alla"),
+    dict(slug="bolkv", nimi="Bo LKV", domain="bo.fi", y_tunnus="2796763-3",
+         omistaja="Bo LKV Oy — yksi yhtiö, kaupunkitoimistot aputoiminimiä"),
+]

@@ -1,0 +1,50 @@
+{
+  "slug": "aava",
+  "fetched_ok": [
+    "https://www.aava.fi/",
+    "https://www.aava.fi/asiakkaana/hinnastot/",
+    "https://www.aava.fi/laakarikeskukset/",
+    "https://www.aava.fi/palvelut/"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "kylla",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "yleislaakari_hinta_eur": 83,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattava hinnasto on julkisesti näkyvillä erilaisille palveluille ja erikoisaloille",
+    "Aava-sovellus mahdollistaa ajanvarauksen, reseptien hallinnon ja etäpalvelut yhdessä paikassa",
+    "15 toimipistettä eri puolilla Suomea selkeillä osoitteilla ja yhtenäisillä aukioloajoilla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole helposti saatavilla verkkosivuilta (ilmoitetaan vain virallisen nimen kautta)",
+    "Erillinen UKK-osio puuttuu, palveluhakemisto on laaja mutta navigointi vaatii aktiivista etsimistä",
+    "Chat-palvelusta tiedot ovat rajalliset – vain lääkäri-chat mainitussa hinnastossa, muista chat-muodoista ei selkeitä tietoja"
+  ],
+  "yhteenveto": "Lääkärikeskus Aava on suomalainen yksityinen lääkäripalveluiden tarjoaja, joka ylläpitää 15 toimipistettä eri kaupungeissa. Hinnasto on kattavasti näkyvillä, Kela-korvaukset kerrotaan selkeästi ja ajanvaraus on mahdollista ilman kirjautumista nettiajanvarauksessa. Palvelun saatavuus on kuitenkin vaihdellut osassa sivun alasivuista (404-virheet), ja Y-tunnus olisi selkeämpi löytää.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Hinnasto löytyy osoitteesta https://www.aava.fi/asiakkaana/hinnastot/ ja sisältää hinnat kaikille palveluille. Yleislääkärin vastaanotto 20 min alk. 83,00€, 30 min alk. 108,00€.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Pääsivulla mainitaan nettiajanvaraus, joka toimii ilman kirjautumista. Puhelinnumero 010 380 3838 (arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45).",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hinnaston sivulla eritelään Kela-korvaukset eri palveluille, esim. gynekologin vastaanotto 70,00€ Kela-korvaus (1.5.2025 alkaen), psykiatrin vastaanotto 50,00€ (45 min). Myös suorakorvaus on käytössä.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: 15 Aava-lääkärikeskusta on listattu osoitteella https://www.aava.fi/laakarikeskukset/: Espoo Tapiola, Hämeenlinna, Helsinki Itäkeskus, Helsinki Kamppi, Helsinki Pasila, Hyvinkää, Järvenpää, Kerava, Kuopio, Oulu, Tampere Ratina, Turku Hansa, Tuusula, Vantaa Aviapolis, Vantaa Myyrmäki. Yhtenäiset aukioloajat: arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole näkyvissä pääsivulla tai hinnastossa. Virallinen nimi 'Aava ja Pikkujätti Oy' mainitaan hallitusmuutoksista kertovassa artikkelissa ja pääsivulla, mutta Y-tunnus jää löytämättä.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 380 3838 on näkyvillä useilla sivuilla ja ajanvarauksessa. Toimii arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45.",
+    "email_esilla": "HAVAINTO: Leikkausten peruutuksille annetaan sähköpostiosoite '[email protected]' hinnastossa kohdassa 'Leikkausten peruutukset ja siirrot'.",
+    "chat_mainittu": "HAVAINTO: Lääkäri-chat mainitaan hinnaston palveluissa (lääkäri-chat arkisin ma-pe 54,60€). Muista chat-palveluista ei ole selkeitä mainintoja, vaikka Aava-sovelluksessa saattaa olla muita chat-toimintoja.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat on selkeästi ilmoitettu: arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45. Ne näkyvät sekä ajanvarauksessa että lääkärikeskukset-sivulla.",
+    "mobiilisovellus": "HAVAINTO: Aava-sovelluksesta mainitaan pääsivulla, jossa kerrotaan sovelluksessa voivansa varata aikoja, ilmoittautua vastaanotolle sekä tarkistaa reseptit, tutkimustulokset, lähetteet ja todistukset. Sovellusta kutsutaan 'Ei vain appi, vaan apu'."
+  }
+}

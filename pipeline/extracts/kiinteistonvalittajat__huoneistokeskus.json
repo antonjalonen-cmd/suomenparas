@@ -1,0 +1,49 @@
+{
+  "slug": "huoneistokeskus",
+  "fetched_ok": [
+    "https://huoneistokeskus.fi",
+    "https://huoneistokeskus.fi/hinnasto",
+    "https://huoneistokeskus.fi/myymassa/myyjan-opas/valityspalkkio-ja-toimeksianto",
+    "https://huoneistokeskus.fi/yhteystiedot",
+    "https://huoneistokeskus.fi/myymassa/asunnon-myynti",
+    "https://huoneistokeskus.fi/hyva-valitystapa"
+  ],
+  "valityspalkkio_esilla": "kylla",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "sopimusehdot_saatavilla": "osittain",
+  "toimistot_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "valityspalkkio_pct": 4.95,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Selkeä palveluhinnasto ja välityspalkkiot julkisesti näkyvillä (4,95% tai sopimuksen mukaan), sisältäen vähimmäispalkkiot eri alueille",
+    "Kattava palvelujen kuvaus seitsemän vaiheen prosessin avulla (arviokäynnistä kauppantekoon), ammattikuvaus, markkinointikanavat ja DIAS-digitaalikauppa",
+    "Toimeksiannon ehdoista mainittu, että sopimus on kirjallinen ja voi olla voimassa enintään 4 kuukautta, sekä sisältää sopimusosan ja selostusliitteen"
+  ],
+  "kehityskohteet": [
+    "Sopimusehtojen täysi teksti (toimeksiantosopimuksen liitteet) ei ole julkisesti saatavilla web-sivuilla – asiakkaat joutuvat pyytämään nähdä ne arviokäynnin yhteydessä",
+    "Puhelinnumeroita ei näy julkisesti etusivulla tai yhteystiedot-sivulla; vain sähköpostiosoite (asiakaspalvelu@huoneistokeskus.fi) ja linkki 'Katso tarkemmat yhteystiedot' on mainittu",
+    "Liveä chat- tai viestintäkanavaa ei ole mainittu; aukioloajat ja chatpalvelu puuttuvat sivustolta; UKK-osio tai FAQ puuttuu kokonaan"
+  ],
+  "yhteenveto": "Huoneistokeskus on Suomen kokenein kiinteistönvälityspalvelu, joka toimii yli 30 toimistolla ympäri Suomea. Sivustolla välityspalkkio (4,95% tai sopimuksen mukaan) ja palvelupaketti ovat selkeästi esillä, ja seitsemän vaiheen myyntiprosessi on kattavasti kuvattu. Y-tunnus (1831315-2) näkyy yhteystiedot-sivulla. Sopimusehtojen yksityiskohdat puuttuvat julkisesta näkyvyydestä, ja asiakastuen puhelinnumero sekä chat-palvelu eivät ole helposti saatavilla.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Hinnasto-sivu näyttää selkeästi: 'Välityspalkkiomme ovh on 4,95 % velattomasta kauppahinnasta (sis. alv) tai sopimuksen mukaan.' Vähimmäispalkkiot: pääkaupunkiseudulla 5 020€, Turku/Tampere 4 500€, muu Suomi 3 765-4 000€.",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Asunnon myynti -sivu kuvaa seitsemän vaiheen prosessin: 1) Arviokäynti (ilmainen, velvoitteeton), 2) Arviokäynnin jälkeen (toimeksianto, hinta), 3) Asunnon kuvaaminen (ammattilaisilla), 4) Sisäinen markkinointi ja Yhteismyynti TM, 5) Markkinointi omilla sivuilla, Facebookissa, Etuovella, Oikotiella, 6) Tarjouksista neuvottelu, 7) Kaupanteko DIAS-kaupalla tai pankissa.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Välityspalkkio-sivu mainitsee: 'Sopimus koostuu erillisestä sopimusosasta ja selostusliitteesta ja sisältää mm. perustiedot välitettävästä asunnosta ja myyjistä. Siinä sovitaan myös sopimuksen kestosta...'. Toimeksiantosopimuksen täysin tekstin ei ole linkitetty julkisesti saatavilla – asiakkaat saavat sen arviokäynnin yhteydessä.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Yhteystiedot-sivu kertoo: 'Huoneistokeskus palvelee sinua yli kolmellakymmenellä toimistolla ympäri Suomea.' Linkit toimistoihin: Helsinki, Espoo, Vantaa, Tampere, Turku. Sähköposti asiakaspalveluun: asiakaspalvelu@huoneistokeskus.fi.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivu näyttää: 'Huoneistokeskus Oy, Y-tunnus: 1831315-2, Verkkolaskuosoite: 003718313152, Operaattori: Maventa, Välittäjän tunnus: DABAFIHH.'",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole mainintaa riippumattomista arviolähteistä (esim. Trustpilot-linkit, arvostelut, kolmannen osapuolen todentukset).",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroita ei näy sivuston pääsivulla, yhteystiedot-sivulla tai hinnasto-sivulla. Vain sähköpostilinkkejä ja 'Katso tarkemmat yhteystiedot' -linkki on mainittu."
+  }
+}

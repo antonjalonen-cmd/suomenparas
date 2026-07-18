@@ -1,0 +1,53 @@
+{
+  "slug": "liikku",
+  "fetched_ok": [
+    "https://www.liikku.fi/",
+    "https://www.liikku.fi/sopimusehdot/",
+    "https://www.liikku.fi/usein-kysytyt-kysymykset/",
+    "https://www.liikku.fi/asiakaspalvelu/",
+    "https://www.liikku.fi/kuntosalit/"
+  ],
+  "jasenyyden_hinta_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "liittymismaksut_kerrottu": "kylla",
+  "salit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "jasenyys_kk_hinta_eur": 36.90,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat ja sopimusehdot ovat julkisesti kaikkien nähtävillä ilman kirjautumista",
+    "Kattava UKK-osio vastaa useimpiin jäsenyyteen, liittymiseen ja maksuihin liittyviin kysymyksiin",
+    "Yli 70 keskusta ympäri Suomea kaikkine osoitteineen ja aukioloaikojen (5-23 joka päivä) kanssa listattuna"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus puuttuu kokonaan julkisilta sivuilta",
+    "Yleistä asiakaspalvelun puhelinnumeroa ei ole saatavilla; vartijan numero mainitaan vain kaappiongelmakohdassa",
+    "Riippumattomia arvioita, testejä tai sertifikaatteja ei ole esillä"
+  ],
+  "yhteenveto": "Kuntokeskus Liikku on suomalainen kuntosaliketju, jolla on laaja verkko yli 70 keskuksella ympäri maata. Sivusto on selkeästi rakennettu ja tarjoaa avoimesti hinnoittelun, sopimusehdot ja perusteellisen UKK-osion. Puutteena on liiketunnisteen puuttuminen, yleisen asiakaspalvelun puhelinnumeron puuttuminen sekä riippumattomien arviointien tai sertifikaattien puuttuminen.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: Etusivulla näkyy Jousto-Liikku-jäsenyyden hinta 36,90 €/kk. Muut vaihtoehdot (Järki-Liikku 34,90 €/kk, Reilu-Liikku 348 €/vuosi) löytyvät UKK-osiosta.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Täydellinen sopimusehdot-sivu on saatavilla, joka sisältää kolme jäsenyystyyppiä (Jousto-Liikku, Järki-Liikku, Reilu-Liikku), sitoutumisajat (1 jäsenkuukausi Jousto-Liikulle, 12 kk määräaikaiset), irtisanomisen (OmaLiikusta tai sähköpostitse info@liikku.fi), ja maksutavat (e-lasku, liikuntaedut).",
+    "liittymismaksut_kerrottu": "HAVAINTO: Uusien jäsenten liittymismaksu on 29,90 € ja palaavien jäsenten 9,90 €. Maksu maksetaan liittymisen yhteydessä sopimusehtojen sivulla kuvatulla tavalla.",
+    "salit_ja_aukioloajat": "HAVAINTO: Kuntosalit-sivulla lueteltu yli 70 keskusta, jotka sijaitsevat ympäri Suomea (mm. Espoo, Helsinki, Tampere, Turku, Oulu). Kaikille saileille ilmoitetaan avoinna jäsenille joka päivä klo 5-23.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei esiinny yhdelläkään ladatuista sivuista. Laskutuksen hoitaa ulkopuolinen yhteisö Cash-In Consulting (Y-tunnus: 0646115-8), mutta Liikun oma Y-tunnus puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole viitteitä riippumattomiin arvioihin, testeihin, sertifikaatteihin tai palkintoihin.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu vastaa sähköpostitse (info@liikku.fi) ja chatbotin (Liikkubotti) välityksellä. Vartijan numero mainitetaan vain kaapin avausongelmien yhteydessä. Yleistä asiakaspalvelun puhelinnumeroa ei ole saatavilla.",
+    "email_esilla": "HAVAINTO: Asiakaspalvelun sähköpostiosoite info@liikku.fi on näkyvissä asiakaspalvelu-sivulla, sopimusehdoissa ja UKK:ssa useisiin otteisiin.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Liikkubotti', joka vastaa useimpiin kysymyksiin, mutta ei ole esillä säännöllisen chatpalvelun muodossa vaan pikemminkin chatbot-avustaja.",
+    "aukioloajat_esilla": "HAVAINTO: Etusivu ja kuntosalit-sivu ilmoittavat kaikkien salien olevan avoimia jäsenille joka päivä klo 05-23. Tutustumiskäynnit ovat avoinna ma-ke klo 16-19.",
+    "ukk_osio": "HAVAINTO: Laaja Usein kysytyt kysymykset -osio sisältää kategorisoidut vastaukset jäsenkorttiin, jäsenyystyyppeistä, liittymistavoista, maksutavoista, liikuntaeduista ja muista aiheista.",
+    "mobiilisovellus": "HAVAINTO: OmaLiikku-palvelua mainitaan toistuvasti kaikissa dokumenteissa sekä verkkosivuilla että sopimusehtoissa, mutta ei selvää eroa siitä, onko se pelkkä verkkosovellus vai natiiviapplikaatio."
+  }
+}
