@@ -1,49 +1,53 @@
-{
-  "slug": "op",
-  "fetched_ok": [
-    "https://www.op.fi/henkiloasiakkaat (JS-renderöity sivu, curl/WebFetch ei palauta sisältöä)",
-    "https://www.op.fi/documents/10208/11168/Palveluhinnasto_FI_HA_pankkipalvelut_01.04.2025.pdf (404 HTML-sivu palautettu)"
-  ],
-  "palveluhinnasto_julkinen": "osittain",
-  "tilin_ja_kortin_maksut_esilla": "osittain",
-  "sopimusehdot_saatavilla": "osittain",
-  "konttorit_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "osittain",
-  "kayttotili_kk_maksu_eur": null,
-  "ai_arviot": {
-    "selkeys": 0,
-    "hintojen_loydettavyys": 0,
-    "sisallon_kattavuus": 0
-  },
-  "vahvuudet": [
-    "OP Osuuskunta on tunnettu ja vakiintunut rahoituspalveluiden tarjoaja Suomessa",
-    "Julkinen palveluhinnasto on saatavilla PDF-muodossa (URL tunnetaan)",
-    "Y-tunnus (0242522-1) on dokumentoitu ja verifiointikelpoinen"
-  ],
-  "kehityskohteet": [
-    "Sivustolla on aggressiivinen bottien esto (Cloudflare-suojaus), joka estää sisällön avaamisen ilman selainta ja evästeitä",
-    "Julkinen palveluhinnasto-PDF palauttaa 404-virheen kun kutsutaan automatisoitujen työkalujen kautta",
-    "Yksityiskohtaisen hinnoittelutiedon pääsy vaatii sisäänkirjautumisen tai suoraan pankkiin kontaktoimisen"
-  ],
-  "yhteenveto": "OP Osuuskunta on suurin suomalainen osuuspankkiryhmä, jonka verkkosivusto (op.fi) on merkittävästi suojattu bottien ja automatisoitujen haun kautta. Sivustolla käytetään JavaScript-renderöintiä ja aggressiivista bot-suojausta, mikä estää sisällön avaamisen staattisten pyyntöjen kautta. Palveluhinnasto on julkaistu PDF-muodossa, mutta dokumentin URL palauttaa 404-virheen automatisoitua pääsyä yritettäessä. Lainmukainen hinnoittelusta kertova tieto todennäköisesti näkyy oikean selaimen kautta, mutta sitä ei voitu vahvistaa käytettävissä olevien välineiden avulla.",
-  "evidence": {
-    "palveluhinnasto_julkinen": "HAVAINTO: Palveluhinnasto-PDF (Palveluhinnasto_FI_HA_pankkipalvelut_01.04.2025.pdf) on dokumentoitu ja tunnettu, mutta URL palauttaa HTTP 404 HTML-virhesivun automatisoituun pyyntöön. Sivusto vaatii JavaScript-renderöintiä ja selaimen evästeitä.",
-    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötilin ja pankkikortin maksut eivät ole näkyvissä staattisen HTML:n kautta. Sivuston sisältö vaatii JavaScript-renderöintiä ja selaimen kautta tapahtuvaa pääsyä, jota ei voitu suorittaa turvakieltoja johtuen.",
-    "sopimusehdot_saatavilla": "HAVAINTO: Yleiset sopimusehdot eivät ole näkyvissä avoimen pääsyn kautta. Sivusto on JavaScript-pohjainen ja vaatii interaktiivista selaimia.",
-    "konttorit_ja_aukioloajat": "HAVAINTO: Konttoreiden ja aukioloaikojen tieto on todennäköisesti saatavilla op.fi:llä, mutta sitä ei voitu hakea automatisoitujen työkalujen kautta johtuen sivuston bot-suojauksesta.",
-    "y_tunnus_esilla": "HAVAINTO: OP Osuuskunta, Y-tunnus 0242522-1 on dokumentoitu ja julkisesti tunnettu tieto, vahvistettavissa Yritys- ja organisaatiorekisteristä.",
-    "puhelin_esilla": "HAVAINTO: Puhelinyhteystiedot eivät ole näkyvissä staattisen pääsyn kautta. Sivusto vaatii selainta ja JavaScript-renderöintiä.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitteita ei ole näkyvissä automatisoitua pääsyä käytettäessä. Sivusto on suojattu ja vaatii interaktiivista pääsyä.",
-    "chat_mainittu": "HAVAINTO: Chat-palvelua ei voida vahvistaa automatisoitujen haun kautta, sillä sivusto vaatii JavaScript-renderöintiä.",
-    "aukioloajat_esilla": "HAVAINTO: Aukioloajat eivät ole näkyvissä staattisen HTML-pyynnön vastausissa johtuen sivuston JavaScript-pohjaisen arkkitehtuurin ja bot-suojauksen yhdistelmästä.",
-    "ukk_osio": "HAVAINTO: FAQ/kysymys-vastaus -osio ei ole näkyvissä automatisoitujen työkalujen pääsyn kautta, vaikka se on todennäköisesti olemassa selaimen kautta käyttäjille.",
-    "mobiilisovellus": "HAVAINTO: Mobiilisovellus (OP mobiili) on todennäköisesti mainittu sivustolla, mutta mainintaa ei voitu vahvistaa automatisoitujen pyyntöjen kautta johtuen bot-suojauksesta."
-  }
+﻿{
+    "aukioloajat_esilla":  "osittain",
+    "ukk_osio":  "kylla",
+    "y_tunnus_esilla":  "ei",
+    "kayttotili_kk_maksu_eur":  0,
+    "sopimusehdot_saatavilla":  "kylla",
+    "yhteenveto":  "OP Pohjola on Suomen suurimpia pankkeja, jonka verkkosivut op.fi ovat JavaScript-renderöityä sisältöä. Sivustolla on kattavat tiedot pankkipalveluista, erityisesti mobiilisovelluksesta ja maksukortista, sekä selkeät asiakaspalvelun yhteystiedot. Palveluhinnastoa ja sopimuksehtoja voi hakea, mutta joitain olennaisia tietoja, kuten fyysisten konttorien sijainnit ja Y-tunnuksen, ei löydy julkisesta sivustosta.",
+    "riippumaton_arvio":  "ei",
+    "fetched_ok":  [
+                       "https://www.op.fi/henkiloasiakkaat",
+                       "https://www.op.fi/asuntolaina",
+                       "https://www.op.fi/kortit",
+                       "https://www.op.fi/kayttotili",
+                       "https://www.op.fi/e-lasku",
+                       "https://www.op.fi/op-mobiili",
+                       "https://www.op.fi/siirto",
+                       "https://www.op.fi/kayttoehdot",
+                       "https://www.op.fi/turvallinen-asiointi",
+                       "https://www.op.fi/tietosuoja"
+                   ],
+    "kehityskohteet":  [
+                           "Palveluhinnasto-PDF ei ladattavissa suorilla URL-hauilla; footerissa mainitut linkit ohjaavat 404-sivuille",
+                           "Konttorien sijainnit ja aukioloajat eivät julkisesti löydettävissä; vain asiakaspalvelun puhelinpalvelun aukioloajat mainittu (ma-pe 8-16)",
+                           "Y-tunnus puuttuu kokonaan; ainoastaan BIC-koodi (OKOYFIHH) näkyvissä käyttöehdoissa"
+                       ],
+    "ai_arviot":  {
+                      "selkeys":  72,
+                      "sisallon_kattavuus":  68,
+                      "hintojen_loydettavyys":  65
+                  },
+    "konttorit_ja_aukioloajat":  "osittain",
+    "chat_mainittu":  "kylla",
+    "mobiilisovellus":  "kylla",
+    "vahvuudet":  [
+                      "Mobiilisovellus (OP-mobiili) kattavasti kuvattu usealla sivulla, selkeät ominaisuudet ja latauslinkit",
+                      "Korttien hinnoittelu ja maksut esillä yksityiskohtaisesti (Visa 2,95€/kk, OP Duo 4€/kk, ilmaisia vaihtoehtoja)",
+                      "Asiakaspalveluyhteystiedot selkeästi näkyvissä (puhelinumerot 0100 0500, 0100 0555)"
+                  ],
+    "puhelin_esilla":  "kylla",
+    "evidence":  {
+                     "konttorit_ja_aukioloajat":  "HAVAINTO: Fyysisten konttorien sijainnit tai aukioloajat eivät löytyneet julkiselta verkkosivulta. Turvallinen asiointi -sivulla mainittu vain \u0027Asiakaspalvelu on avoinna ma-pe klo 8-16\u0027 ja \u0027Sulkupalvelu on auki ympäri vuorokauden\u0027. Konttorit-osoite (op.fi/konttorit) palauttaa 404.",
+                     "palveluhinnasto_julkinen":  "HAVAINTO: Sivuston footerissa mainitaan \u0027Palveluhinnasto\u0027 ja \u0027Puheluhinnasto\u0027 linkkeinä, mutta suorat URL-haut (op.fi/palveluhinnasto, op.fi/puheluhinnasto) palauttavat 404-sivuja. Asuntolaina-sivulla on PDF-linkkejä sopimusehtoihin, mutta täydellistä palveluhinnaston PDF:ää ei löytynyt suorasti.",
+                     "y_tunnus_esilla":  "HAVAINTO: Y-tunnusta ei näy missään julkisesti haetulla sivulla. Käyttöehdot-sivulla näkyy BIC-koodi \u0027OKOYFIHH\u0027 ja viittaukset \u0027OP Osuuskunta\u0027, mutta rekisteritunnusta ei mainita.",
+                     "chat_mainittu":  "HAVAINTO: Useiden sivujen alalaidassa näkyy \u0027Kysy chatissa\u0027 -linkki (pääsivu, kortit, OP-mobiili, Siirto). Chat-palvelu on selvästi saatavilla, mutta sen saatavuusajat eivät julkisesti määritellyt haetulla sisällöllä.",
+                     "tilin_ja_kortin_maksut_esilla":  "HAVAINTO: Kortit-sivulla näkyy esimerkkilaskelmat - Visa-kortin kuukausimaksu 2,95 euroa, OP Duo -kortin 4 euroa, K-Plussa Maksuaika -kortin 0 euroa. Käyttötili-sivulla mainittu, että tili on maksuton omistaja-asiakkaille ja alle 26-vuotiaille. Asuntolaina-sivulla luotonhoitomaksu 2,50 euroa ja toimitusmaksu 680 euroa mainittuna.",
+                     "puhelin_esilla":  "HAVAINTO: Turvallinen asiointi -sivulla asiakaspalvelun numerot \u0027Henkilöasiakkaat: 0100 0500\u0027 (ma-pe 8-16) ja \u0027Sulkupalvelu: 0100 0555\u0027 (ympäri vuorokauden). Siirto-sivulla mainittu \u0027OP Sulkupalvelu numerossa 0100 0555\u0027.",
+                     "sopimusehdot_saatavilla":  "HAVAINTO: Asuntolaina-sivulla PDF-linkit \u0027Velan yleiset ehdot\u0027, \u0027Panttausehdot\u0027 ja \u0027Takausehdot\u0027. Siirto-sivulla \u0027Maksujenvälityksen yleiset ehdot (pdf)\u0027 ja \u0027Siirto-maksun käyttöehdot (pdf)\u0027. Käyttötili-sivulla linkki \u0027tilin yleisiin ehtoihin (pdf)\u0027."
+                 },
+    "tilin_ja_kortin_maksut_esilla":  "kylla",
+    "slug":  "op",
+    "email_esilla":  "osittain",
+    "palveluhinnasto_julkinen":  "osittain"
 }

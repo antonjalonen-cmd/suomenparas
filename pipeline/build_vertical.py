@@ -32,7 +32,9 @@ MEASURED = {
     "vpn-palvelut": "16.7.2026",
     # batch 2
     "kulutusluotot": "17.7.2026",
-    "pankit": "17.7.2026",
+    # pankit was CONFIGURED 17.7 but not measurable until the JS fetch landed 18.7 —
+    # the date below is when the transparency data was actually taken.
+    "pankit": "18.7.2026",
     "autovakuutukset": "17.7.2026",
     "kotivakuutukset": "17.7.2026",
     "matkavakuutukset": "17.7.2026",

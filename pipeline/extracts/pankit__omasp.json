@@ -1,0 +1,54 @@
+{
+  "slug": "omasp",
+  "fetched_ok": [
+    "https://www.omasp.fi/",
+    "https://www.omasp.fi/hinnasto",
+    "https://www.omasp.fi/konttorit",
+    "https://www.omasp.fi/usein-kysytyt-kysymykset",
+    "https://www.omasp.fi/dokumentit",
+    "https://www.omasp.fi/henkiloasiakas/arjen-raha-asiat/tilin-avaaminen/kayttotili",
+    "https://www.omasp.fi/kortit",
+    "https://www.omasp.fi/tule-asiakkaaksemme"
+  ],
+  "palveluhinnasto_julkinen": "osittain",
+  "tilin_ja_kortin_maksut_esilla": "osittain",
+  "sopimusehdot_saatavilla": "kylla",
+  "konttorit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kayttotili_kk_maksu_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Selkeä sivustorakenne ja hyvä navigaatio henkilöasiakkaiden palveluihin",
+    "Kattava dokumenttihakemisto sopimusehdoista ja ohjeista (PDF-muoto)",
+    "48 konttorin verkko ja monipuoliset yhteydenottokeinot (puhelin, chat, verkkoneuvottelu)"
+  ],
+  "kehityskohteet": [
+    "Palveluhinnasto on saatavilla vain PDF-linkkien kautta, ei suoraan HTML-sivulla näkyvissä",
+    "Käyttötilin ja kortin kuukausimaksuja ei ole julkaistu sivulla - hinnat löytyvät vain PDF-hinnaston kautta",
+    "Konttorien aukioloajat näytetään vain interaktiivisena kartalla, ei yksityiskohtaisesti tekstinä"
+  ],
+  "yhteenveto": "Oma Säästöpankki Oyj on itsenäinen pörssiyhtiö, jonka verkkosivuilla on kattava tietohakemisto palveluista, sopimusehdoista ja kontaktitiedoista. Sivuston selkeys on hyvä ja asiakaspalveluun pääsee useilla tavoilla (puhelin, chat, konttori). Hinnoittelu on kuitenkin piilossa PDF-tiedostoissa, joten julkisen saavutettavuuden osalta on puutteita.",
+  "evidence": {
+    "palveluhinnasto_julkinen": "HAVAINTO: Hinnasto-sivulla (https://www.omasp.fi/hinnasto) näkyy linkkejä PDF-tiedostoihin: 'Henkilöasiakkaiden päivittäisten raha-asioiden hinnasto 1.11.2025 alkaen', 'Nuorten päivittäisten raha-asioiden hinnasto 1.5.2026 alkaen', jne. Sivulla todetaan 'Täydelliset palveluhinnastot ovat nähtävissä konttoreissamme.' Hinnat eivät ole näkyvissä HTML-sisällössä.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötili- ja kortit-sivuilla kuvataan palveluita kattavasti, mutta konkreettisia kuukausimaksuja (€/kk) ei ole esitetty. PDF-dokumentit 'Maksuja koskeva tietoasiakirja, käyttötili 1.11.2025 alkaen' ja 'Yleiset korttiehdot' sisältävät hintatiedot, mutta ne eivät ole saavutettavissa ilman PDF:n avausta.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Dokumentit-sivulla (https://www.omasp.fi/dokumentit) saatavilla sellaiset sopimuspdf:t kuten 'Käyttötilin yleiset ehdot' ja 'Yleiset korttiehdot', jotka on ladattavissa. Sopimukset ovat julkisesti saatavissa PDF-muodossa.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorit-sivulla (https://www.omasp.fi/konttorit) näkyy lista 48 konttorin nimistä ja kaupungeista. Asiakaspalvelun aukioloajat ilmoitetaan: 'Asiakaspalvelumme palvelee heinäkuussa ma-to klo 8-20 ja pe klo 8-18.' Yksittäisten konttorien aukioloajat näyttävät olevan interaktiivisessa kartassa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2231936-2 näkyy jokaisella sivulla footerissa: '© Oma Säästöpankki Oyj Y-tunnus 2231936-2'.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 020 7640 600 näkyy useilla sivuilla, mm. kontaktiosiossa ja footerissa. Asiakaspalvelu mainittu saatavaksi puhelinpalvelun kautta.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite omasp@omasp.fi näkyy sivustolla (pääsivulla ja 404-sivulla). Kontaktointi on mahdollista myös OmaPostilaukosta.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan useilla sivuilla: 'Chat - Keskustele pankin asiantuntijan kanssa'. Arvioitu jonotusaika näytetään (tällä hetkellä 'Suljettu').",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -sivu löytyy osoitteesta https://www.omasp.fi/ota-yhteytta/usein-kysytyt-kysymykset. Sivu sisältää kategorioita: 'Usein kysyttyä asiakkuudesta', 'Usein kysyttyä korteista', 'Usein kysyttyä lainoista', jne.",
+    "mobiilisovellus": "HAVAINTO: OmaMobiili-sovellus mainitaan useiden sivujen navigaatiossa ('Lataa OmaMobiili') ja 'Usein kysyttyä mobiilisovelluksistamme' -osio löytyy FAQ-sivulta."
+  }
+}

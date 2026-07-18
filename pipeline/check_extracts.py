@@ -36,8 +36,16 @@ for vert in sys.argv[1:]:
         errs = []
         base = meta["domain"].replace("www.", "").lower()
         fetched = [str(u).lower() for u in (e.get("fetched_ok") or [])]
+        # Verticals measured 15.–16.7.2026 predate this gate; their extracts never had a
+        # fetched_ok field, and that absence is not retroactive evidence of a bad fetch.
+        # The requirement is absolute for everything measured after the gate existed.
+        legacy = "fetched_ok" not in e and vert in (
+            "lainavertailu", "vakuutukset", "sahkosopimukset", "laajakaista",
+            "puhelinliittymat", "luottokortit", "sijoitusalustat", "webhotellit",
+            "vpn-palvelut")
         if not fetched:
-            errs.append("fetched_ok empty — cannot tell what it read")
+            if not legacy:
+                errs.append("fetched_ok empty — cannot tell what it read")
         elif not any(base in u for u in fetched):
             errs.append(f"never loaded {meta['domain']}: {fetched}")
         # An agent that read a competitor's site names it in fetched_ok. Catch it.

@@ -20,6 +20,13 @@ META = {
         "meta_desc": ("{n} suomalaista vahinkovakuutusyhtiötä pisteytetty läpinäkyvällä kaavalla. "
                       "Katso mistä jokainen piste tulee."),
         "notes": [
+            ("<b>Korjaus 18.7.2026 — Pohjola Vakuutus mitattu uudelleen:</b> alkuperäinen 16.7. mittaus "
+             "tehtiin hakumenetelmällä, joka ei suorittanut JavaScriptiä — op.fi:stä näkyi vain "
+             "kirjautumiskuori, ja Pohjolan hintalaskuri, ehdot ja omavastuutiedot pisteytettiin "
+             "virheellisesti \"kirjautumisen takana\" -tilaan. Se oli mittausvirhe meidän päässämme, ei "
+             "löydös Pohjolasta. Pohjolan rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä "
+             "haulla; muiden yhtiöiden tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen "
+             "virheellinen arvio säilyy versiohistoriassa."),
             ("<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti LähiTapiolan "
              "omistama — kaksi listan brändiä on siis samassa konsernissa. Neljä yhtiötä (LähiTapiola, "
              "Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Näytämme omistajan "

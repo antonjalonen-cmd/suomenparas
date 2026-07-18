@@ -27,7 +27,10 @@ COMPANIES = {
              omistaja="Sampo Oyj (If Vahinkovakuutus Oyj, Suomen sivuliike)"),
         dict(slug="lahitapiola", nimi="LähiTapiola", domain="lahitapiola.fi", y_tunnus="0211034-2",
              omistaja="Keskinäinen yhtiö — asiakkaiden omistama"),
-        dict(slug="pohjola", nimi="Pohjola Vakuutus", domain="pohjola.fi", y_tunnus="1458359-3",
+        # domain op.fi, not pohjola.fi: pohjola.fi 301-redirects into op.fi — OP sells its
+        # insurance on the bank's platform, so op.fi IS the site a visitor lands on (same
+        # decision as the four product lines below). Changed 18.7.2026 with the JS re-measure.
+        dict(slug="pohjola", nimi="Pohjola Vakuutus", domain="op.fi", y_tunnus="1458359-3",
              omistaja="OP Osuuskunta (OP Ryhmä)"),
         dict(slug="fennia", nimi="Fennia", domain="fennia.fi", y_tunnus="0196826-7",
              omistaja="Keskinäinen yhtiö — asiakkaiden omistama"),

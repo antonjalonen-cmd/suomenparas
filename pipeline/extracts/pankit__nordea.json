@@ -1,57 +1,49 @@
-{
-  "slug": "nordea",
-  "fetched_ok": [
-    "https://www.nordea.fi/henkiloasiakkaat",
-    "https://www.nordea.fi/henkiloasiakkaat/hinnat/hinnat.html",
-    "https://www.nordea.fi",
-    "https://www.nordea.fi/tietoa-nordeasta",
-    "https://www.nordea.fi/henkiloasiakkaat/soita-tunnistautuneena.html",
-    "https://www.nordea.fi/asiakaspalvelu",
-    "https://www.nordea.com/fi/tietosuojaseloste",
-    "https://www.nordea.com"
-  ],
-  "palveluhinnasto_julkinen": "kylla",
-  "tilin_ja_kortin_maksut_esilla": "kylla",
-  "sopimusehdot_saatavilla": "osittain",
-  "konttorit_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "kylla",
-  "kayttotili_kk_maksu_eur": 2.60,
-  "ai_arviot": {
-    "selkeys": 72,
-    "hintojen_loydettavyys": 78,
-    "sisallon_kattavuus": 70
-  },
-  "vahvuudet": [
-    "Selkeä palveluiden kategorisointi (Tilit ja maksut, Lainat, Säästäminen, Vakuutukset) tekee navigoinnista intuitiivista",
-    "Avoimesti saatavilla oleva palveluhinnasto (€2.60/kk käyttötili, €2.99/kk pankkikortti) ilman sisäänkirjautumista",
-    "Monikanavainen asiakaspalvelu (puhelin 0200 3000, chat 24/7, verkkopankki) selkeillä aukioloajoilla (ma-pe 8-20, la 10-16)"
-  ],
-  "kehityskohteet": [
-    "Sopimusehdot ja yleiset ehdot eivät ole suoraan ladattavissa julkiselta sivustolta – vaativat navigoinnin tai asiakaspalveluun ottamisen",
-    "Konttorien ja automaattien paikkakunnat eivät ole listattu henkilöasiakkaan sivulla; haku edellyttää erillisen sivun löytämistä",
-    "Sähköpostiosoitetta asiakaspalvelulle ei ole julkisesti saatavilla – ainoa email-yhteystie on tietosuoja (dataprotectionoffice@nordea.com)"
-  ],
-  "yhteenveto": "Nordea Bank Oyj on suurten suomalaisisten pankkien yksi johtavista toimijoista, joka tarjoaa laajan valikoiman henkilöasiakkaan palveluja verkon ja mobiilisovellusten kautta. Julkinen hinnasto on helposti saatavilla ja asiakaspalvelu toimii laajat aukioloajat huomioiden, mutta sopimukset ja konttorien paikannukset vaativat ylimääräisen hakuponnistelun. Sivuston rakenne on looginen, mutta joitakin avainasiakirjoja voitaisiin saattaa suoremmin saataville.",
-  "evidence": {
-    "palveluhinnasto_julkinen": "HAVAINTO: Hinnoittelu on julkisesti saatavilla sivulla https://www.nordea.fi/henkiloasiakkaat/hinnat/hinnat.html ilman sisäänkirjautumista. Näkyvissä olevia hinnoittelunsa koskevat päivittäispalvelut.",
-    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Käyttötili (päivittäispalvelut) maksaa €2.60/kk, Nordea Debit-kortti €2.99/kk. Nämä hinnat on selkeästi listattu palveluhinnastossa.",
-    "sopimusehdot_saatavilla": "HAVAINTO: Yleiset ehdot www-sivujen käyttöön mainitaan navigaatiossa ja alatunnisteissa, mutta varsinaiset sopimusehdot (pankkipalvelun yleiset ehdot) eivät ole suoraan ladattavissa julkiselta sivulta. Viittaus on olemassa, mutta dokumenti vaatii ylimääräistä navigoinnin tai asiakaspalveluun ottamisen.",
-    "konttorit_ja_aukioloajat": "HAVAINTO: Aukioloajat on selkeästi listattu (ma-pe 8-20, la 10-16), mutta konttorien ja automaattien (Konttorit ja automaatit) spesifiiset paikannukset eivät ole näkyvissä henkilöasiakkaan pääsivulla. Kyseessä on erillinen navigaatiopiste, jota ei voida jäljittää suorista linkeistä.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2858394-9 on listattu 'Tietoa Nordeasta' -sivulla ja pääsivulla, BIC-koodi NDEAFIHH ja ALV-tunnus FI28583949.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole mainintoja riippumattomista arvioista, luottoluokituksista tai ulkopuolisten tahojen arvioinneista. Ainoa löydetty viittaus on mobiilisovelluksen App Store -arvio (4.5/5), jonka tekijät ovat sovelluskäyttäjät, eivät riippumattomat tarkastajat.",
-    "puhelin_esilla": "HAVAINTO: Puhelinnumero 0200 3000 on selkeästi näkyvissä asiakaspalvelun sivulla, ja sitä mainitaan useissa paikoissa.",
-    "email_esilla": "HAVAINTO: Yleistä asiakaspalvelun sähköpostiosoitetta ei ole julkisesti saatavilla. Ainoa sähköpostiosoite on tietosuoja-asioita varten: dataprotectionoffice@nordea.com.",
-    "chat_mainittu": "HAVAINTO: Chat-tuki on mainittu sivuilla: 'Chatbot Nova auttaa sinua ympäri vuorokauden', ja autentifioidussa chatissa ihmisen kanssa voi ottaa yhteyttä ma-pe 8-18.",
-    "aukioloajat_esilla": "HAVAINTO: Aukioloajat on selkeästi näkyvissä: Arkisin 8-20, lauantaisin 10-16. Viikonloppuisin raja on vain päivittäispalveluihin.",
-    "ukk_osio": "HAVAINTO: FAQ-osio ('Usein kysytyt') mainitaan navigaatiossa, mutta sen sisältö on osittain suljettu - osioita ei voida avata julkisella sivulla ilman sisäänkirjautumista.",
-    "mobiilisovellus": "HAVAINTO: Nordea Mobile -sovellusta mainitaan laajasti sivuilla ja se on merkitty keskeiseksi palveluksi. App Store -arvio on 4.5. Sovellusta kuvataan verkkopankin vaihtoehdoksi.",
-    "kayttotili_kk_maksu_eur": "HAVAINTO: Palveluhinnastossa selkeästi mainittu: Käyttötili (päivittäispalvelut) €2.60/kk. Hinta on voimassa 1.5.2026 alkaen."
-  }
+﻿{
+    "aukioloajat_esilla":  "osittain",
+    "ukk_osio":  "osittain",
+    "y_tunnus_esilla":  "kylla",
+    "kayttotili_kk_maksu_eur":  null,
+    "sopimusehdot_saatavilla":  "osittain",
+    "yhteenveto":  "Nordea Bank Oyj:n henkilöasiakkaiden sivusto on suojeltu Cloudflare bot-suojalla ja eväste-vaatimuksilla. Etusivulla näkyvät pääpalveluluokat ja Y-tunnus (2858394-9), mutta tarkemmat hinnat, sopimusehdot, konttorit ja aukioloajat sekä perinteiset yhteystiedot (puhelin, sähköposti) ovat sisällyssivuilla, joihin fetch-työkalulla ei pääse ilman evästeen hyväksymistä. Chat-palvelu ja Nordea Mobile -sovellus mainitaan.",
+    "riippumaton_arvio":  "ei",
+    "fetched_ok":  [
+                       "https://www.nordea.fi/henkiloasiakkaat/",
+                       "https://www.nordea.fi/henkiloasiakkaat/palvelumme/tilit-maksut/",
+                       "https://www.nordea.fi/tietoa-nordeasta/"
+                   ],
+    "kehityskohteet":  [
+                           "Yksittäiset palvelusivut eivät aukea – kaikki ulkoisen linkit johtavat 404-virheisiin tai eväste-muuriin",
+                           "Hinnaston, sopimusehdoista ja yhteystietojen sisältyviä sivuja ei voi ladata ilman kirjautumista tai erityisiä evästeitä",
+                           "Puhelinnumero ja sähköpostiosoite eivät näy etusivulla – vain chat-linkki asiakaspalvelussa"
+                       ],
+    "ai_arviot":  {
+                      "selkeys":  45,
+                      "sisallon_kattavuus":  35,
+                      "hintojen_loydettavyys":  20
+                  },
+    "konttorit_ja_aukioloajat":  "osittain",
+    "chat_mainittu":  "kylla",
+    "mobiilisovellus":  "kylla",
+    "vahvuudet":  [
+                      "Selkeä navigaatio pääkategorioihin (tilit, maksut, lainat, säästäminen, vakuutukset) näkyvissä etusivulla",
+                      "Y-tunnus ja perustiedot näkyvät julkisesti footerissa",
+                      "Chat-palvelu mainittu asiakaspalvelussa"
+                  ],
+    "puhelin_esilla":  "osittain",
+    "evidence":  {
+                     "sopimusehdot_saatavilla":  "HAVAINTO: Footerissa mainitaan \u0027Yleiset ehdot www-sivujen käyttöön\u0027 ja \u0027Tietosuojaseloste\u0027 linkkeinä, mutta niiden sisällön noutaminen epäonnistuu. Sivusto vaatii evästeet ennen sisällön näyttämistä.",
+                     "chat_mainittu":  "HAVAINTO: \u0027Kysy heti chatissa\u0027 linkki näkyy etusivulla asiakaspalvelussa.",
+                     "palveluhinnasto_julkinen":  "HAVAINTO: Etusivulla mainitaan \u0027Hinnasto\u0027 linkkiä, mutta yksittäisen hinnaston sivulle pääsy on estetty (HTTP 404). Sisältöä ei voida ladata ilman evästeiden hyväksymistä.",
+                     "puhelin_esilla":  "HAVAINTO: Etusivulla näkyy \u0027Soita meille\u0027 ja \u0027Asiakaspalvelu\u0027 tekstit, mutta varsinaista puhelinnumeroa ei näytetä. Asiakaspalvelun yhteystiedot ovat sisällyssivulla jota ei voi ladata.",
+                     "tilin_ja_kortin_maksut_esilla":  "HAVAINTO: Etusivulla näkyy \u0027Käyttötili\u0027 ja \u0027Nordea Debit\u0027 -kortin linkit, mutta sivuille pääsy epäonnistuu (HTTP 404). Tarkempia hintatietoja ei voida saada julkisesti.",
+                     "konttorit_ja_aukioloajat":  "HAVAINTO: Menusta näkyy \u0027Konttorit ja automaatit\u0027 linkki, mutta sivulle pääsy on estetty (HTTP 404). Konttorien osoitteita ja aukioloaikoja ei voida saada.",
+                     "aukioloajat_esilla":  "HAVAINTO: Aukioloaikojen linkki mainitaan footerissa (\u0027Konttorit ja automaatit\u0027), mutta sivua ei voida avata.",
+                     "y_tunnus_esilla":  "HAVAINTO: Y-tunnus 2858394-9 näkyvissä sivun footerissa, sekä BIC: NDEAFIHH, ALV-tunnus: FI28583949.",
+                     "mobiilisovellus":  "HAVAINTO: \u0027Mobiilipankki – Nordea Mobile\u0027 mainitaan useassa paikassa etusivulla ja navigaatiossa.",
+                     "ukk_osio":  "HAVAINTO: Etusivulla ja footerissa mainitaan \u0027Usein kysytty\u0027 linkki, mutta sisällön noutaminen epäonnistuu."
+                 },
+    "tilin_ja_kortin_maksut_esilla":  "osittain",
+    "slug":  "nordea",
+    "email_esilla":  "ei",
+    "palveluhinnasto_julkinen":  "osittain"
 }

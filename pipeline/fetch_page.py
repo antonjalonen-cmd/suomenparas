@@ -17,9 +17,19 @@ pressure to confabulate.
 This reads the company's OWN public website exactly as the brief requires. It is not a
 third-party source.
 
-Usage:  python pipeline/fetch_page.py <url> [--raw] [--max-chars N]
+--js mode (18.7.2026): some sites (op.fi, several healthcare/gym chains) ship an empty
+HTML shell and render everything client-side, so curl sees ~900 chars of a 225 kB page.
+--js renders the page in headless Chrome exactly the way Lighthouse already does for the
+digital pillar, then dumps the resulting DOM. Boundaries, per QUEUED_CATEGORIES.md:
+it does NOT click cookie banners (declining = not interacting; banner text may appear in
+the output — ignore it), and it does NOT evade bot protection. If a site still serves a
+challenge page to a rendering browser, that IS the finding: report it, don't work around
+it. Rendering JavaScript is not a bypass; interacting with consent or challenges is.
+
+Usage:  python pipeline/fetch_page.py <url> [--js] [--raw] [--max-chars N]
 """
 import html as _html
+import os
 import re
 import subprocess
 import sys
@@ -31,6 +41,33 @@ if hasattr(sys.stdout, "reconfigure"):
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+
+CHROME_CANDIDATES = [
+    r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+    r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+    os.path.expandvars(r"%LOCALAPPDATA%\Google\Chrome\Application\chrome.exe"),
+]
+
+
+def fetch_js(url):
+    """Render the page in headless Chrome (like Lighthouse does) and return the DOM.
+
+    No interaction happens: no cookie clicks, no scrolling, no input. virtual-time-budget
+    fast-forwards timers so client-side rendering settles before the dump.
+    """
+    chrome = next((p for p in CHROME_CANDIDATES if os.path.exists(p)), None)
+    if not chrome:
+        return "", "Chrome not found in standard locations"
+    cmd = [chrome, "--headless=new", "--dump-dom", "--disable-gpu",
+           "--no-first-run", "--mute-audio",
+           "--accept-lang=fi-FI,fi",
+           "--virtual-time-budget=15000",
+           "--timeout=45000",
+           url]
+    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8",
+                       errors="replace", timeout=120)
+    return r.stdout or "", r.stderr or ""
 
 
 def fetch(url):
@@ -61,6 +98,9 @@ def main():
     raw = "--raw" in args
     if raw:
         args.remove("--raw")
+    use_js = "--js" in args
+    if use_js:
+        args.remove("--js")
     max_chars = 40000
     if "--max-chars" in args:
         i = args.index("--max-chars")
@@ -69,12 +109,17 @@ def main():
     if not args:
         raise SystemExit(__doc__)
     url = args[0]
-    out, err = fetch(url)
+    if use_js:
+        out, err = fetch_js(url)
+    else:
+        out, err = fetch(url)
     if not out.strip():
         print(f"FETCH FAILED for {url}\nstderr: {err.strip()[:500]}")
         print("Do NOT invent a reason for this. Report the failure and score 'osittain'.")
+        if not use_js:
+            print("If this site may be JS-rendered, retry with --js before concluding anything.")
         return
-    status = ""
+    status = "rendered in headless Chrome (JS executed)" if use_js else ""
     m = re.search(r"<<<HTTP_STATUS:(\d+) FINAL_URL:([^>]*)>>>", out)
     if m:
         status = f"HTTP {m.group(1)}  final URL: {m.group(2)}"

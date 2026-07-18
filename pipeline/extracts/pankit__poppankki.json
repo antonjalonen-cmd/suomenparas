@@ -3,51 +3,55 @@
   "fetched_ok": [
     "https://www.poppankki.fi/",
     "https://www.poppankki.fi/tutustu-pop-pankkiin/asiakaspalvelu/hinnastot",
+    "https://www.poppankki.fi/konttorihaku",
     "https://www.poppankki.fi/tutustu-pop-pankkiin/asiakaspalvelu/yhteydenotto",
-    "https://www.poppankki.fi/tutustu-pop-pankkiin/tietoa-pop-pankista/pop-pankki-ryhma"
+    "https://www.poppankki.fi/tutustu-pop-pankkiin/tietoa-pop-pankista/pop-pankki-ryhma",
+    "https://www.poppankki.fi/palvelut/tilit-kortit-ja-maksut/kortit",
+    "https://www.poppankki.fi/ehdot",
+    "https://www.poppankki.fi/tietosuoja",
+    "https://www.poppankki.fi/tutustu-pop-pankkiin/tietoa-pop-pankista/turvallinen-asiointi",
+    "https://www.poppankki.fi/hyodyllista-tietaa"
   ],
   "palveluhinnasto_julkinen": "osittain",
   "tilin_ja_kortin_maksut_esilla": "osittain",
   "sopimusehdot_saatavilla": "kylla",
   "konttorit_ja_aukioloajat": "kylla",
-  "y_tunnus_esilla": "osittain",
+  "y_tunnus_esilla": "ei",
   "riippumaton_arvio": "kylla",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
   "chat_mainittu": "kylla",
   "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
+  "ukk_osio": "osittain",
   "mobiilisovellus": "kylla",
   "kayttotili_kk_maksu_eur": null,
   "ai_arviot": {
-    "selkeys": 60,
+    "selkeys": 75,
     "hintojen_loydettavyys": 50,
     "sisallon_kattavuus": 70
   },
   "vahvuudet": [
-    "Selkeä ohjaus kunkin pankin omille hinnaston sivuille, joiden kautta hinnat löytyvät asiakkaan alueen pankin kautta",
-    "Kattava chat-palvelu ja monipuoliset yhteydenottotavat (yhteydenottolomake, ajanvaraus, konttorihaku)",
-    "Tervetuodumpi tunne ja vahva paikallisten osuuspankkien verkosto, joka korostaa henkilökohtaisuutta"
+    "Selkeä navigaatio ja sivurakennus helpottaa orientoitumista ryhmän palveluihin",
+    "Konttorihaku ja ajanvarauspalvelu saatavilla netissä, sekä monipuoliset yhteydenottotavat",
+    "Sopimusehdot ja tietosuojadokumentit julkisesti ladattavissa kattavalla arkistolla"
   ],
   "kehityskohteet": [
-    "Ryhmäkohdan hinnaston fragmentointi - vierailija joutuu navigoimaan omilleen sopivan pankin sivuille nähdäkseen yksityiset hinnat, eikä yhtä yhtenäistä hinnastoa ole",
-    "Puhelinnumero ei ole näkyvästi esillä pääsivulla tai asiakaspalvelu-sivulla; kontakti edellyttää lomakkeen täyttöä tai chatiin menoa",
-    "Käyttötilien ja korttien maksujen osalta avoimesti saatavilla olevat numerot puuttuvat - kunkin pankin omat hinnaston sivut jäävät eri osoitteisiin ilman linkkejä hintalistoille"
+    "Käyttötilin ja korttien kuukausimaksut eivät näy ryhmän tasolla – sivusto ohjaa jäsenpankkien omille sivuille",
+    "Y-tunnusta ei näy julkisesti mistään osasta sivustoa",
+    "Palveluhinnasto on fragmentoitu jäsenpankkien kesken, mistä johtuen kuluttajat joutuvat etsimään tietoja useista eri paikoista"
   ],
-  "yhteenveto": "POP Pankki -ryhmä on suomalainen osuuspankkiryhmä, joka koostuu 18 itsenäisestä jäsenosuuspankista sekä kahdesta tytäryhtiöstä (Bonum Pankki ja POP Asuntoluottopankki). Sivustolla selvästi ilmoitetaan, että jokainen pankkikeskuksen jäsenpankki on itsenäinen organisaatio omalla hinnastaolla, mikä tarkoittaa, että yhtenäistä ryhmän kattavaa hinnastoa ei ole. Poppankki.fi-sivusto toimii hakuportaalina, josta vierailija ohjataan oman alueensa pankin hinnastoon. Chat-palvelu, usein kysytyt kysymykset ja asiakaspalveluun liittyvät kanavat ovat saatavilla ja hyvin järjestetyt.",
+  "yhteenveto": "POP Pankki -ryhmä on itsenäisten osuuspankkien ryhmä, jonka pääsivu tarjoaa selkeää navigointia palveluihin ja tietoihin. Ryhmän tasolla ei ole yhteistä palveluhinnastoa tai käyttötilin maksuja, koska jokainen 18 jäsenpankista määrittelee omat hintansa. Sivusto on hyvin dokumentoitu sopimusehtojen ja tietosuojaselosteiden osalta, ja asiakaspalvelun puhelinnumerot sekä chat-palvelu ovat selvästi näkyvissä.",
   "evidence": {
-    "palveluhinnasto_julkinen": "HAVAINTO: Hinnastot-sivulla selvästi kirjoitettu: 'POP Pankki -ryhmän pankit ovat itsenäisiä osuuspankkeja, joilla kullakin on oma hinnastonsa.' Jokaisen pankin omaan hinnastoon pääsee klikkaamalla yksittäisen pankin nimeä listasta (18 pankkia + Bonum). Yhtenäistä ryhmän hinnastoa ei ole.",
-    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Yksittäisten pankkien hinnaston kautta löytyvät tilit ja korttien hinnat, mutta pääsivulla ei ole näkyvissä yleisiä käyttötilin tai debit-kortin maksuja. Hintojen löytäminen vaatii navigoimisen oikean pankin sivuille.",
-    "sopimusehdot_saatavilla": "HAVAINTO: Alanavigaatiossa linkki 'Ehdot' (/ehdot) on selvästi näkyvissä kaikilla sivuilla.",
-    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorihaku (/konttorihaku) on linkitetty asiakaspalvelu-osiosta. Yhteydenotto-sivulla näkyvät myös konttoreittain jäsenetyt vaihtoehdot (koko Suomi katettu usealla pankkikonttorin toimipisteellä).",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus (1090961-3 POP Pankkikeskus osk:lle) ei ole näkyvästi esillä sivustolla, vaikka se kuuluu POP Pankkikeskus osk:n nimeen. Osuuskuntamuoto mainitaan, mutta tarkkaa Y-tunnusta ei julkaista pääsivulla.",
-    "riippumaton_arvio": "HAVAINTO: POP Pankki -ryhmä-sivulla mainitaan EPSI Rating -tutkimus, jossa POP Pankki on valittu parhaaksi pankiksi 13 kertaa (henkilöasiakkaat ja yritysasiakkaat). Linkki EPSI Ratingiin on saatavilla.",
-    "puhelin_esilla": "HAVAINTO: Puhelinnumero ei ole näkyvästi esillä pääsivuilla tai asiakaspalvelu-sivulla. Yhteydenpitoon ohjataan yhteydenottolomakkeen tai chatin kautta. Asiakaspalvelukeskus on valittavissa yhteydenottolomakkeessa, mutta suora puhelinnumero puuttuu julkisesta näkyvyydestä.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole julkisesti näkyvissä pääsivulla. Yhteydenotto tapahtuu yhteydenottolomakkeen tai chatin kautta, ei suoraan sähköpostitse.",
-    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan yhteydenotto-sivulla: 'Verkkosivuilta löytyvästä asiakaspalveluchatistamme saat vastauksen heti. Kanssasi asioi aina palvelukeskuksessa työskentelevä asiantuntija. Voit avata chatin alla olevasta painikkeesta.' Saatavilla arkisin klo 9-18.",
-    "aukioloajat_esilla": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 9-18) mainitaan selvästi. Konttoreiden aukioloajat saatavilla konttorihaku-työkalulla.",
-    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osio (/pop-pankki/asiakaspalvelu/ukk) on saatavilla ja sisältää kysymyksiä POP Pankista, sen kilpailuedusta ja palveluista.",
-    "mobiilisovellus": "HAVAINTO: POP Mobiili-sovellus mainittu useassa kohdassa sivustolla (palvelut -> verkkopalvelut -> POP Mobiili). Sovellus tunnetaan myös POP Avain-nimellä (allekirjoituspalvelu).",
-    "kayttotili_kk_maksu_eur": "HAVAINTO: Yksittäisten pankkien hinnastoissa käyttötilien kuukausimaksut löytyvät, mutta poppankki.fi-sivulla ei ole yleisiä maksuja listattuna. Hinnat vaihtelevat pankeittain."
+    "palveluhinnasto_julkinen": "HAVAINTO: Hinnastot-sivulla (https://www.poppankki.fi/tutustu-pop-pankkiin/asiakaspalvelu/hinnastot) selkeästi ilmoitetaan: 'POP Pankki -ryhmän pankit ovat itsenäisiä osuuspankkeja, joilla kullakin on oma hinnastonsa. Oman pankkisi palveluhinnat näet verkkopankista tai oman pankkisi sivuilta.' Sivulla listataan linkit kunkin jäsenpankin hinnastoihin. Yhteistä ryhmän tasolla olevaa palveluhinnastoa ei ole.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Konkrettiset käyttötilin ja korttien kuukausimaksut eivät näy poppankki.fi-sivustolla. Sivusto ohjaa asiakkaat omansa pankkiensa sivuille. Tämä johtuu siitä, että POP Pankki on ryhmä itsenäisiä osuuspankkeja, eikä yhteistä hinnastoa ole.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Ehdot-sivu (https://www.poppankki.fi/ehdot) sisältää laajan ja selkeästi jäsennellyn luettelon kaikista tuotteiden ja palvelujen ehdoista sekä ehtojen arkiston. Ehdot ovat luokiteltu henkilöasiakas ja yritysasiakas -kategorioihin ja ovat julkisesti luettavissa.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Konttorihaku on käytettävissä osoitteessa https://www.poppankki.fi/konttorihaku, missä asiakkaat voivat etsiä konttoreita sijainnin tai postinumeron perusteella. Konttorihaku sisältää kartan ja näyttää konttorien aukioloajat. Lisäksi sivusto tarjoaa yhteydenottolomakkeen.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy mistään julkisesta osasta poppankki.fi-sivustoa, mukaan lukien POP Pankki -ryhmä -sivu, tietosuoja-sivu, tai mikään muu sivu. Sivustolla näkyy osoite 'POP Pankki, Hevosenkenkä 3, 02600 ESPOO' mutta ei Y-tunnusta.",
+    "riippumaton_arvio": "HAVAINTO: POP Pankki -ryhmä -sivulla mainitaan EPSI Ratingin tutkimus: 'Pohjoismaisia pankkeja yli 10 vuotta tutkineen EPSI Ratingin mukaan meiltä saa pankkialan parasta palvelua. POP Pankki on valittu yksityisasiakaskategorian parhaaksi pankiksi 13 kertaa.'",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot ovat näkyvissä. Korttiasiakaspalvelu: +358 10 248 4800 (Ma-pe 9-18). Visa-kortin katoamisilmoitukset: 020 333 (Suomesta), +358 20 333 (ulkomailta). Sulkupalvelu on avoinna 24/7.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä. Tietosuoja: tietosuoja@poppankki.fi (tietosuoja-sivulla). Huijausilmoitukset: huijaushavainnot@poppankki.fi (turvallinen-asiointi -sivulla).",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan yhteydenotto-sivulla: 'Chat-palvelusta vastaus välittömästi. Verkkosivuilta löytyvästä asiakaspalveluchatistamme saat vastauksen heti. Kanssasi asioi aina palveluneuvojamme, eli ihan oikea ihminen. Chatti auttaa sinua arkisin klo 9-18.'",
+    "aukioloajat_esilla": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 9-18) mainitaan selvästi yhteydenotto-sivulla. Konttoreiden aukioloajat saatavilla konttorihaku-työkalulla. Sulkupalvelu 24/7.",
+    "ukk_osio": "HAVAINTO: Sivuilla viitataan useissa paikoissa 'Usein kysytyt kysymykset' -osioon, mutta suoraa UKK-sivua ei löydy osoitteesta https://www.poppankki.fi/usein-kysytyt-kysymykset (HTTP 404). UKK-osio on osittain saatavilla muodoissa, joissa sivusto mainitsee FAQ-kysymyksiä eri aiheista."
   }
 }

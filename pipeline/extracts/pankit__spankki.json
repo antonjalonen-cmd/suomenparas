@@ -1,57 +1,51 @@
 {
   "slug": "spankki",
   "fetched_ok": [
-    "https://www.s-pankki.fi",
-    "https://www.s-pankki.fi/fi/verkkopalvelut/verkkopankki/palveluhinnasto/",
-    "https://www.s-pankki.fi/fi/toimipaikat/",
-    "https://www.s-pankki.fi/fi/asiakaspalvelu/",
-    "https://www.s-pankki.fi/fi/ehdot-ja-muut-asiakirjat/",
-    "https://www.s-pankki.fi/fi/asiakaspalvelu/ukk/listaus/",
-    "https://www.s-pankki.fi/fi/s-pankki-yrityksena/",
-    "https://www.s-pankki.fi/fi/asiakaspalvelu/asiakaspalaute/"
+    "https://www.s-pankki.fi/fi/",
+    "https://www.s-pankki.fi/fi/tilit/s-tili",
+    "https://www.s-pankki.fi/fi/toimipaikat",
+    "https://www.s-pankki.fi/fi/kortit",
+    "https://www.s-pankki.fi/fi/kayttoehdot"
   ],
-  "palveluhinnasto_julkinen": "kylla",
-  "tilin_ja_kortin_maksut_esilla": "osittain",
+  "palveluhinnasto_julkinen": "osittain",
+  "tilin_ja_kortin_maksut_esilla": "kylla",
   "sopimusehdot_saatavilla": "kylla",
-  "konttorit_ja_aukioloajat": "osittain",
+  "konttorit_ja_aukioloajat": "kylla",
   "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "osittain",
+  "riippumaton_arvio": "ei",
   "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
+  "email_esilla": "ei",
   "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "osittain",
+  "aukioloajat_esilla": "kylla",
   "ukk_osio": "kylla",
   "mobiilisovellus": "kylla",
   "kayttotili_kk_maksu_eur": 0,
   "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 60,
-    "sisallon_kattavuus": 70
+    "selkeys": 85,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 75
   },
   "vahvuudet": [
-    "Palveluiden saatavuus 24/7 asiakastuella ja mobiilisovellusella",
-    "Laaja vastuuottelu ja sopimusasiakirjat helposti saatavilla",
-    "Selkeä asiakaspalvelun navigointi ja FAQ-osio monine kategorioiden"
+    "Ilmaiset pankkipalvelut asiakasomistajille (tili, kortti, mobiilisovellus)",
+    "Useita asiointikanavia: S-mobiili, verkkopankki, asiakaspalvelupisteet ja chat",
+    "Selkeä toimipaikkatietojen haku ja ajanvaraussysteemi verkossa"
   ],
   "kehityskohteet": [
-    "Palveluhinnasto näytetään vain PDF-tiedostoissa, ei verkkosivulla",
-    "Konttorien aukioloajat vaativat vuorovaikutteisen kartan käyttöä, eivät suoraan näkyvissä",
-    "Sähköpostiosoitteita on vain turvallisuusasioita varten, ei yleistä asiakaspalveluosoitetta"
+    "Palveluhinnastoa ei ole helposti saatavilla verkossa (palveluhinnastosivulla 404-virhe)",
+    "Sähköpostiosoitetta ei ole julkisesti näkyvillä - yhteystiedoissa vain puhelinnumerot",
+    "Riippumatonta arviota ja ulkopuolisten organisaatioiden sertifiointeja ei mainita julkisesti"
   ],
-  "yhteenveto": "S-Pankki on S-ryhmän omistama pankki, joka palvelee pääasiassa ryhmän asiakasomistajia. Verkkosivusto on kattava ja tarjoaa monipuolisia palveluja 24/7 chat-tuen kautta sekä mobiilisovelluksella. Kuitenkin yksityiskohtainen hinnasto esitetään PDF-tiedostoina, ja konttorien aukioloajat edellyttävät vuorovaikutteisen kartan käyttöä.",
+  "yhteenveto": "S-Pankki on suomalainen pankki, joka tarjoaa maksuttomia peruspalveluita asiakasomistajille. Sivusto on hyvin organisoitu useilla asiointikanavilla (S-mobiili, verkkopankki, toimipaikat), mutta palveluhinnastoa on vaikea löytää ja sähköpostiosoitetta ei ole julkisesti näkyvillä. Perustiedot hinnoittelusta (käyttötili ja kortti ilmaiseksi) ja yhteystiedoista ovat saatavilla, mutta jotkut läpinäkyvyyden mittarit jäävät puutteellisiksi.",
   "evidence": {
-    "palveluhinnasto_julkinen": "HAVAINTO: Palseluhinnasto-sivu löytyy osoitteesta /fi/verkkopalvelut/verkkopankki/palseluhinnasto/, mutta yksityiskohtaiset hinnat ovat vain ladattavissa PDF-tiedostoissa (Hinnasto ja etämyynnin ennakkotiedot).",
-    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Kotisivulla todetaan että 'päivittäiset pankkipalvelut eli tili, kortti, pankkitunnukset ja mobiilisovellus ovat maksuttomia kaikille osuuskauppojen asiakasomistajille'. Tämä tarkoittaa, että S-tili on ilmainen asiakasomistajille, mutta muille asiakkaille hinnat löytyvät PDF-dokumenteista.",
-    "sopimusehdot_saatavilla": "HAVAINTO: Sopimusehdot-sivu /fi/ehdot-ja-muut-asiakirjat/ sisältää useita ladattavia PDF-dokumentteja, mukaan lukien 'S-Tilin ehdot' ja 'Digitaalisten palvelujen yleiset ehdot'.",
-    "konttorit_ja_aukioloajat": "HAVAINTO: Toimipaikat-sivulla on hakutoiminto ('Toimipaikkahaku'), mutta yksityiskohtaiset konttorien osoitteet ja aukioloajat näkyvät vain vuorovaikutteisessa kartassa. Käteispalvelut ovat ma-pe klo 12 asti.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2557308-3 näkyy kotisivulla ja jalustassa. Yhtiö on S-Pankki Oyj.",
-    "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan 'Tunnustukset ja saavutukset' -osio, mutta yksityiskohtaiset riippumattomat arviot tai palkinnot eivät näkyneet haetulla sisällöllä.",
-    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät verkkosivuilla: 09 6964 6820 (24/7 pankkitunnusten lukitus) ja 020 333 (24/7 kortin lukitus). Asiakaspalvelu: 010 76 5800 (ma-pe 9:00-16:00).",
-    "email_esilla": "HAVAINTO: Sähköpostiosoite turvallisuus@s-pankki.fi näkyy sivuilla, mutta se on tarkoitettu vain phishing- ja petosviestien ilmoituksiin. Yleistä asiakaspalvelun sähköpostiosoitetta ei näy.",
-    "chat_mainittu": "HAVAINTO: Chat-palvelu 'Aulis' (tekoälyavustaja) mainitaan asiakaspalvelussa ja verkkopankissa. Käyttäjät voivat saada apua välittömästi ilman jonottamista.",
-    "aukioloajat_esilla": "HAVAINTO: Käteispalvelun aukioloajat (ma-pe klo 12 asti) ja yleisen asiakaspalvelun ajat (ma-pe 9:00-16:00) näkyvät sivuilla. Yksittäisten konttorien aukioloajat vaativat kartahakua.",
-    "ukk_osio": "HAVAINTO: FAQ-sivu 'Usein kysyttyä' on saatavilla osoitteessa /fi/asiakaspalvelu/ukk/listaus/. Se sisältää kattavat kategoriat: Tilit ja maksut, Verkkopalvelut, Kortit, Lainat, Säästäminen, Asiakkaaksi tulo, Elämäntilanteet ja Turvallisuus.",
-    "mobiilisovellus": "HAVAINTO: S-mobiili-sovellus mainitaan useissa kohdissa verkkosivuilla. Se on ilmainen asiakasomistajille ja tarjoaa pääsyn reskontroihin, maksuihin ja muihin palveluihin.",
-    "kayttotili_kk_maksu_eur": "HAVAINTO: Kotisivulla mainitaan että S-Tili on ilmainen asiakasomistajille. Tämä hinta (0 euroa) koskee kuitenkin vain S-ryhmän asiakasomistajia. Muille asiakkaille hinnat ilmeisesti näkyvät vain ladattavissa PDF-dokumenteissa."
+    "palveluhinnasto_julkinen": "HAVAINTO: Palveluhinnastosivulle (https://www.s-pankki.fi/fi/palveluhinnasto) ohjataan useasta paikasta, mutta se palauttaa HTTP 404-virheen. Sivustolla mainitaan kuitenkin linkit hinnaston PDF-asiakirjoihin esimerkiksi korttiehdoissa.",
+    "tilin_ja_kortin_maksut_esilla": "HAVAINTO: Sivulla www.s-pankki.fi/fi/tilit/s-tili todetaan selkeästi 'Asiakasomistajana saat tilin käyttöösi ilmaiseksi'. Korttisivulla www.s-pankki.fi/fi/kortit mainitaan 'Asiakasomistajana saat kortin ilman kuukausi- tai vuosimaksua'. Kuukausimaksu on siis 0 euroa.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Käyttöehdot-sivulla (https://www.s-pankki.fi/fi/kayttoehdot) todetaan 'Verkkopankin käyttöön sovelletaan erillisiä S-Pankin digitaalisten palvelujen yleisiä ehtoja' ja sivustolla on linkki 'Ehdot ja muut asiakirjat'. Yleiset tiliehdot mainitaan S-Tili sivulla.",
+    "konttorit_ja_aukioloajat": "HAVAINTO: Toimipaikat-sivulla (https://www.s-pankki.fi/fi/toimipaikat) on toimipaikkahaun kartta ja tekstissä mainitaan 'käteispalvelut ma-pe klo 12 asti' sekä 'palvelemme ensisijaisesti ajanvarauksella'. Asiakaspalvelu tavoitettavissa 010 76 5800 ma-pe klo 9-16.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2557308-3 näkyy kaikilla sivuilla footerin osassa ja käyttöehdot-sivulla yritystiedoissa.",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita näkyy: pankkitunnusten sulkupalvelu 09 6964 6820, korttien sulkupalvelu 020 333, asiakaspalvelu 010 76 5800, sekä pääpuhelin 010 768 011.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt julkisesti näkyvillä sivuilla. Yhteystiedoissa ovat ainoastaan puhelinnumerot ja postiosoitteet.",
+    "chat_mainittu": "HAVAINTO: Verkkopankissa mainitaan 'virtuaaliavustaja Aulis' chat-palvelun kautta. Sivulla todetaan 'Verkkopankissa auttaa chatissa virtuaaliavustaja Aulis'.",
+    "aukioloajat_esilla": "HAVAINTO: Toimipaikat-sivulla mainitaan käteispalvelut ma-pe klo 12 asti, asiakaspalvelu ma-pe klo 9-16, ja sulkupalvelut 24h/vrk. Yksilöiden toimipaikkojen tarkemmat aukioloajat löytyvät toimipaikkahaussa.",
+    "ukk_osio": "HAVAINTO: Sivuilla on laajat usein kysytyt kysymykset -osiot, esimerkiksi S-Tili sivulla on 'Usein kysyttyä' -osio, jossa on viisi kysymys-vastaus -paria."
   }
 }

@@ -161,7 +161,7 @@ header.site{background:linear-gradient(180deg,var(--blue) 0%,var(--blue-deep) 10
 header.site .wrap{display:flex;align-items:center;gap:24px;height:66px}
 .brand{display:flex;align-items:center;gap:11px;font-weight:700;font-size:1.28rem;color:#fff;letter-spacing:.01em}
 .brand:hover{text-decoration:none}
-.brand img{width:46px;height:46px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25));transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
+.brand img{width:58px;height:58px;filter:drop-shadow(0 2px 3px rgba(0,0,0,.25));transition:transform .25s cubic-bezier(.3,1.6,.4,1)}
 .brand:hover img{transform:rotate(-8deg) scale(1.08)}
 .brand .tm{color:var(--gold-line)}
 nav.main{display:flex;gap:22px;margin-left:auto;align-items:center}
@@ -192,7 +192,7 @@ nav.main a.on{color:var(--gold-line)}
 .hero h1{font-size:clamp(2.1rem,4.8vw,3.4rem);line-height:1.08;letter-spacing:.01em;color:#fff;font-weight:800;max-width:660px}
 .hero h1 em{font-style:normal;color:var(--gold-line)}
 .hero p.lead{margin-top:16px;font-size:1.1rem;color:#D6E4FB;max-width:560px;font-weight:600}
-.hero-logo{width:132px;height:132px;margin-bottom:18px;filter:drop-shadow(0 8px 18px rgba(10,25,60,.4));animation:bounceIn .8s cubic-bezier(.3,1.5,.4,1) both}
+.hero-logo{width:184px;height:184px;margin-bottom:18px;filter:drop-shadow(0 8px 18px rgba(10,25,60,.4));animation:bounceIn .8s cubic-bezier(.3,1.5,.4,1) both}
 @keyframes bounceIn{from{opacity:0;transform:scale(.5) rotate(-12deg)}to{opacity:1;transform:none}}
 @keyframes fadeUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
 @keyframes spin{to{transform:translateX(-50%) rotate(360deg)}}
@@ -223,6 +223,22 @@ nav.main a.on{color:var(--gold-line)}
 .board-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 6px;transform:translateY(5px)}
 .board-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .board-foot{padding:12px 18px;font-size:.88rem;font-weight:700}
+.board{transition:opacity .26s ease}
+.board.lb-fade{opacity:0}
+/* front-page top-3 boards */
+.top-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:18px}
+.top-board{display:block;background:var(--card);border-radius:var(--r);border:2.5px solid var(--line);box-shadow:var(--shadow);overflow:hidden;color:var(--body);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}
+.top-board:hover{transform:translateY(-3px);border-color:var(--blue);text-decoration:none;box-shadow:0 10px 22px rgba(10,25,60,.14)}
+.tb-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px;padding:12px 16px;background:var(--cream);border-bottom:2px solid var(--line);font-family:'Baloo 2',sans-serif;font-weight:700;color:var(--ink);font-size:1.02rem}
+.tb-head .tb-n{font-family:'IBM Plex Mono',monospace;font-size:.68rem;color:var(--mut);font-weight:500;white-space:nowrap}
+.tb-row{display:flex;align-items:center;gap:10px;padding:9px 16px;border-bottom:1px solid var(--line);font-size:.92rem}
+.tb-row .pos{font-family:'Baloo 2',sans-serif;font-weight:600;width:20px;color:var(--mut)}
+.tb-row.gold{background:var(--gold-soft)}
+.tb-row.gold .pos{color:var(--gold-deep)}
+.tb-row .nm{font-weight:800;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tb-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 4px;transform:translateY(5px);min-width:14px}
+.tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
+.tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
 /* sections */
 section.band{padding:56px 0}
 h2.sec{font-size:1.65rem;color:var(--ink);font-weight:700;margin-bottom:6px}
@@ -427,7 +443,7 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   .wrap{padding:0 16px}
   header.site .wrap{flex-wrap:wrap;height:auto;padding:9px 16px 8px;gap:5px 16px}
   .brand{font-size:1.1rem}
-  .brand img{width:38px;height:38px}
+  .brand img{width:46px;height:46px}
   /* No overflow-x here: it would clip the category dropdown panel. The nav wraps to
      a second line on narrow screens instead of clipping the last link. */
   nav.main{margin-left:0;width:100%;gap:6px 14px;font-size:.86rem;flex-wrap:wrap}
@@ -435,7 +451,7 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   .navdd-panel{right:auto;left:0;min-width:min(250px,calc(100vw - 32px))}
   .demo-ribbon{font-size:.7rem;padding:5px 10px}
   .hero{padding:34px 0 44px}
-  .hero-logo{width:96px;height:96px;margin-bottom:14px}
+  .hero-logo{width:128px;height:128px;margin-bottom:14px}
   .hero-stats{gap:20px}
   section.band{padding:40px 0}
 }
@@ -683,13 +699,13 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=16">
-<script src="{root}assets/app.js?v=16" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=17">
+<script src="{root}assets/app.js?v=17" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
-    <a class="brand" href="{root}"><img src="{root}assets/logo-200.png" alt="Suomen Paras -logo" width="46" height="46"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
+    <a class="brand" href="{root}"><img src="{root}assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58"><span>Suomen&nbsp;Paras<span class="tm">.com</span></span></a>
     <nav class="main">
       <div class="navdd{' on-cat' if active in LIVE_SLUGS else ''}" id="navdd">
         <button class="navdd-btn" type="button" aria-expanded="false" aria-haspopup="true">Vertailupalvelut <span class="car">▼</span></button>
@@ -814,6 +830,28 @@ def build_index():
         sc = f"{c['score']:.1f}".replace(".", ",")
         rows.append(f'<div class="board-row{g}"><span class="pos">{i}</span><span class="nm">{esc(c["nimi"])}</span><span class="dots"></span><span class="sc">{sc}</span></div>')
 
+    # The hero board was always meant to showcase more than the flagship (its
+    # lb-* ids exist for live updates) — feed it every live vertical and rotate.
+    lb_data = json.dumps([
+        {"n": v["nimi"], "s": v["slug"], "u": v["updated"],
+         "top": [[c["nimi"], round(c["score"], 1)] for c in v["yritykset"][:5]]}
+        for v in VERTICALS
+    ], ensure_ascii=False)
+
+    def mini_board(v):
+        rws = ""
+        for i, c in enumerate(v["yritykset"][:3], 1):
+            sc = f"{c['score']:.1f}".replace(".", ",")
+            g = " gold" if i == 1 else ""
+            rws += (f'<div class="tb-row{g}"><span class="pos">{i}</span>'
+                    f'<span class="nm">{esc(c["nimi"])}</span><span class="dots"></span>'
+                    f'<span class="sc">{sc}</span></div>')
+        return (f'<a class="top-board" href="{v["slug"]}/">'
+                f'<div class="tb-head">{esc(v["nimi"])}<span class="tb-n">{len(v["yritykset"])} vertailtua</span></div>'
+                f'{rws}<div class="tb-foot">Koko vertailu →</div></a>')
+
+    top_boards = "".join(mini_board(v) for v in VERTICALS)
+
     steps = """
 <div class="steps">
   <div class="step"><span class="k">01 · KERUU</span><h3>Data kerätään automaattisesti</h3><p>Julkiset lähteet: yrityksen oma verkkosivu, YTJ/PRH-rekisterit ja tekniset mittaukset (Lighthouse). Sama prosessi jokaiselle — kukaan ei täytä lomakkeita.</p></div>
@@ -830,7 +868,7 @@ def build_index():
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
-      <img class="hero-logo" src="assets/logo-480.png" alt="Suomen Paras" width="132" height="132">
+      <img class="hero-logo" src="assets/logo-480.png?v=2" alt="Suomen Paras" width="184" height="184">
       <h1>Emme kerro mikä on paras.<br>Näytämme <em>mistä se johtuu</em>.</h1>
       <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
       <div class="hero-stats">
@@ -848,6 +886,43 @@ def build_index():
     </div>
   </div>
 </section>
+
+<section class="band">
+  <div class="wrap">
+    <h2 class="sec">Kategorioiden kärjet</h2>
+    <p class="sec-sub">Jokaisen live-kategorian kolme kärkeä suoraan etusivulla. Klikkaa kategoriaa nähdäksesi koko listan ja jokaisen pisteen perustelut.</p>
+    <div class="top-grid">{top_boards}</div>
+  </div>
+</section>
+
+<script>
+(function(){{
+  var DATA = {lb_data};
+  if (!DATA.length) return;
+  var cat=document.getElementById('lb-cat'), st=document.getElementById('lb-status'),
+      bd=document.getElementById('lb-body'), ft=document.getElementById('lb-foot'),
+      board=document.getElementById('liveboard');
+  if(!cat||!bd) return;
+  var i=0;
+  function fmt(n){{return n.toFixed(1).replace('.',',');}}
+  function show(k){{
+    var v=DATA[k];
+    cat.textContent=v.n;
+    st.textContent='TOP '+v.top.length+' · '+v.u;
+    var h='';
+    for(var j=0;j<v.top.length;j++){{
+      h+='<div class="board-row'+(j===0?' gold':'')+'"><span class="pos">'+(j+1)+'</span><span class="nm">'+v.top[j][0]+'</span><span class="dots"></span><span class="sc">'+fmt(v.top[j][1])+'</span></div>';
+    }}
+    bd.innerHTML=h;
+    if(ft) ft.innerHTML='<a href="'+v.s+'/">Koko vertailu ja pisteiden perustelut →</a>';
+  }}
+  setInterval(function(){{
+    i=(i+1)%DATA.length;
+    board.classList.add('lb-fade');
+    setTimeout(function(){{ show(i); board.classList.remove('lb-fade'); }}, 260);
+  }}, 6500);
+}})();
+</script>
 
 <section class="band">
   <div class="wrap">
