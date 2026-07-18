@@ -1,0 +1,46 @@
+{
+  "slug": "green-motion",
+  "fetched_ok": [
+    "https://greenmotion.com/fi",
+    "https://greenmotion.com/fi/about",
+    "https://greenmotion.com/fi/privacy-policy"
+  ],
+  "hinta_ilman_yhteystietoja": "osittain",
+  "omavastuu_ja_vakuutus": "osittain",
+  "vuokrausehdot_saatavilla": "osittain",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 35,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 40
+  },
+  "vahvuudet": [
+    "Ympäristöystävällinen liiketoiminta ja sähköajoneuvojen tarjonta korostettuna",
+    "Henkilökohtainen asiakaspalvelu, positiivisia arviota asiakaskanavista",
+    "Monikielinen sivusto ja kansainvälinen toimipisteverkon maine"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu piilossa varausenlaskimen taakse — julkinen hintaesimerkkejä puuttuu kokonaan",
+    "Sivusto on JavaScript-pohjainen SPA, monet linkitetyt sivut (ehdot, UKK, tarjoukset) eivät ole saatavilla",
+    "Y-tunnus, osoite ja yritystiedot puuttuvat kokonaan; Y-tunnus ei löytynyt julkisista rekistereistä"
+  ],
+  "yhteenveto": "Green Motion on kansainvälinen autonvuokraamo, joka tarjoaa Suomessa palvelua Helsingissä, Oulussa, Rovaniemellä, Kittilässä ja Ivalossa. Sivusto korostaa ympäristöystävällistä liiketoimintaa ja sähköajoneuvoja. Sivusto on kuitenkin rakennettu JavaScript-pohjaiseksi SPA:ksi, joka tekee sen haastavaksi jäljitettäväksi automaattisesti — hinnat, ehdot ja vakuutustiedot ovat piilossa varausenlaskimen taakse, ja Y-tunnus tai yritystiedot eivät ole saatavissa.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Hinnoittelu on nähtävissä vain varauslaskimen kautta, joka vaatii JavaScript-pohjaista interaktiota; static HTML:ään ei tule hintatietoja.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: Omavastuu- ja vakuutusvaihtoehdot eivät ole nähtävissä ladattujen sivujen perusteella; ne todennäköisesti ovat varausenlaskimen takana.",
+    "vuokrausehdot_saatavilla": "HAVAINTO: Vuokrausehdot-linkki navigaatiossa, mutta sivu palauttaa 404-virheen. Sivusto ei ole saavutettavissa automaattisille asiakkaille.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Pääsivulla mainitaan toimipisteet 'Helsingissä, Oulussa, Rovaniemellä, Kittilässä ja Ivalossa', mutta yksityiskohtaiset osoitteet ja aukioloajat eivät ole nähtävissä. Toimipistelistä-sivu palauttaa 404:n.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita missään ladatusta sivusta. Privacy policy mainitsee 'Green Motion Limited, Aspen Farm, Sheep Lane, Woburn, MK179HD, Yhdistynyt kuningaskunta' rekisterinpitäjänä, mutta Suomen Y-tunnusta ei löydy.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero +358 600 555 844 näkyy pääsivun footerissa ja privacy-politiikassa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite data@greenmotion.com mainitaan privacy-politiikassa tietosuojavastaavaa varten."
+  }
+}

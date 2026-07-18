@@ -135,7 +135,7 @@
     } else {
       form.addEventListener('submit', function(e){
         e.preventDefault();
-        if (!fiilis) { showErr('Valitse ensin, miltä yrityksestä jäi olo.'); return; }
+        if (!fiilis) { showErr('Valitse ensin, millainen kokemuksesi oli.'); return; }
         var payload = {
           vertical: vertical, slug: slug, fiilis: fiilis,
           luotettava: !!claims.luotettava, hintansa: !!claims.hintansa,

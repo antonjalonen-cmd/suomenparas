@@ -1,0 +1,51 @@
+{
+  "slug": "kiinteistomaailma",
+  "fetched_ok": [
+    "https://www.kiinteistomaailma.fi",
+    "https://www.kiinteistomaailma.fi/palvelut/palveluhinnasto",
+    "https://www.kiinteistomaailma.fi/asunnon-myynti",
+    "https://www.kiinteistomaailma.fi/kiinteistomaailma-lyhyesti",
+    "https://www.kiinteistomaailma.fi/kayttoehdot"
+  ],
+  "valityspalkkio_esilla": "kylla",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "toimistot_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "valityspalkkio_pct": 5.0,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Välityspalkkio ja muut maksut selkeästi esillä palveluhinnasto-sivulla (5,0% + kulut)",
+    "Laaja palveluiden kuvaus: Kotikäynti, hinta-arvio, videoesittelyt ja markkinointisuunnitelma",
+    "Yli 100 myymälää Suomessa maantieteellisesti laajalla alueella helpottaen paikallisen välittäjän löytämistä"
+  ],
+  "kehityskohteet": [
+    "Sopimuksenehdot eivät ole helposti löydettävissä; käyttöehdot ovat olemassa mutta linkitys on epäselvästi merkitty",
+    "Y-tunnus, sähköpostiosoite ja toimistokohtaiset yhteystiedot eivät ole julkisesti näkyvillä pääsivulla",
+    "UKK-osio puuttuu; asiakasvastaukset voitaisiin organisoida paremmin usein esitettyjen kysymysten osalta"
+  ],
+  "yhteenveto": "Kiinteistömaailma on Suomen suurin kiinteistönvälitysketju, jolla on yli 100 myymälää ja 500+ ammattilaista. Sivusto kuvaa palveluita selkeästi ja näyttää välityspalkkion (5,0%) avoimesti palveluhinnasto-sivulla. Sopimuksenehdot ovat saatavilla, mutta sivuston navigaatio on hieman haastava (client-side routing), ja joitakin tärkeitä tietoja kuten Y-tunnus ja välittäjäkohtaiset yhteystiedot puuttuvat tai ovat piilossa.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Palveluhinnasto-sivu ilmoittaa: 'Välityspalkkiomme ovh on 5,0% (sis. alv) + asiakirja- ja markkinointikulut. Vähimmäispalkkio on alkaen 3500 euroa.'",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Asunnon myynti -sivulla kerrotaan prosessista: kotikäynti, hinta-arvio, markkinointisuunnitelma, videoesittelyt ja perinteinen myyntitapa sekä Tarjouskauppa-palvelu.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Käyttöehdot-sivu sisältää palvelun sopimusehdot ja vastuun rajoitukset. Sivulla mainitaan myös 'Tietosuojaseloste' linkkeinä, vaikka suora linkitys näihin ei toimi HTTP-haun kautta.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Pääsivulla mainitaan 'Kiinteistönvälitys yli 100 myymälän voimin' ja 'Asuntomyymälät'-osio listaa toimistot aakkosjärjestyksessä (Espoo, Helsinki, Turku jne.). Johtoryhmän yhteystiedot näkyvät sivulla (Mika Laurikainen 040 560 7514, muut jäsenet).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy missään haetulla sivulla. Sivulla esiintyy teksti 'Kiinteistömaailma Oy' mutta Y-tunnusta ei julkaista.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät vain johtoryhmän yhteydessä (toimitusjohtaja 040 560 7514 jne.), ei yleistä asiakaspalvelun numeroa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole julkaisesti näkyvillä pääsivulla. Palveluhinnasto-sivulla on 'OTA YHTEYTTÄ' -painike joka johtaa lomakkeelle, mutta suoraa sähköpostiosoitetta ei ilmaista.",
+    "chat_mainittu": "HAVAINTO: Pääsivulla mainitaan 'Kima - asuntokauppa-apuri' chat-palvelu, mutta se on pikemminkin chatbot-apurin kuin asiakaspalvelun edustaja.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita sivuilla.",
+    "ukk_osio": "HAVAINTO: UKK:ta ei löydy. Sivulla on linkkejä 'Asunnon ostoon ja myyntiin liittyvät käytännöt' mutta varsinainen UKK-osio puuttuu."
+  }
+}

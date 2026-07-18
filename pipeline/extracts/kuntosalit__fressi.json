@@ -1,0 +1,50 @@
+{
+  "slug": "fressi",
+  "fetched_ok": [
+    "https://www.fressi.fi",
+    "https://www.fressi.fi/hanki-asiakkuus",
+    "https://www.fressi.fi/arabia",
+    "https://kauppa.fressi.fi",
+    "https://www.fressi.fi/asiakaspalvelu"
+  ],
+  "jasenyyden_hinta_esilla": "osittain",
+  "sopimusehdot_saatavilla": "osittain",
+  "liittymismaksut_kerrottu": "osittain",
+  "salit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "jasenyys_kk_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja verkosto: 91 toimipistettä ympäri Suomea, asiakkaat voivat harjoitella kaikissa saaleissa",
+    "Joustavat asiakkuusmallit: ilman sitoutumista tai määräaikainen merkittävällä hintaedulla; kokeilu 2 viikkoa ilmaiseksi",
+    "Hyvät kontaktivaihtoehdot: puhelimitse, verkossa ja hyvinvointikeskuksissa; Freshworks-pohjainen chat saatavilla"
+  ],
+  "kehityskohteet": [
+    "Hinnat eivät ole selvästi julkisesti esillä pääsivuilla—kauppa-osoitteella näkyy hintoja mutta asiakkaiden tulee siirtyä erilliseen järjestelmään",
+    "Kanta-asiakkuuden sopimusehdot eivät löydy helposti (\"yleiset kanta-asiakkuusehdot\" linkki footerissa on 404)",
+    "Email-osoite ja Y-tunnus puuttuvat julkisista sivuista; liittymismaksut eivät ole näkyvissä"
+  ],
+  "yhteenveto": "Fressi on suuri 24h-kuntosaliketju, jolla on 91 toimipistettä ympäri Suomea. Sivustolla korostetaan joustavuutta (ilman sitoutumista) ja kaksiviikoisen kokeilun tarjoamista. Asiakaspalvelun kontaktivaihtoehdot ovat kattavat (puhelin, netti, paikan päällä), mutta hinnat ja sopimusehdot vaativat navigointia erilliseen kauppa-järjestelmään ja osittain löytyvät vain silloin tällöin.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: kauppa.fressi.fi näyttää hinnan '-1.00€ / kk' ja 'Maksu nyt 29.00€' pääsivulla, mutta näytettävä sisältö on puutteellinen. Pääsivulla www.fressi.fi ei näy hintatietoja, vain linkki 'Hanki asiakkuus' -sivulle.",
+    "sopimusehdot_saatavilla": "HAVAINTO: FressiTV:n sopimusehdot (https://www.fressi.fi/sopimusehdot-fressitv/) löytyivät, mutta kanta-asiakkuuden sopimusehdot olivat 404. Asiakaspalvelu-sivulla mainitaan 'Fressin kanta-asiakkuuden sopimusehdot' linkki, mutta kohdesivut eivät löytyneet.",
+    "liittymismaksut_kerrottu": "HAVAINTO: Liittymismaksuja ei mainittu millään ladatulla sivulla. Kauppa-alustalla on hintoja, mutta liittymismaksut eivät ole erillisesti näkyvissä.",
+    "salit_ja_aukioloajat": "HAVAINTO: Arabia-sivulla (ja pääsivulla) lueteltu 91 toimipistettä ympäri Suomea. Arabia: 24h-salit avoinna joka päivä. Pääsivu: 'Auki 365 päivää vuodessa, hyvinvointikeskukset klo 5-23, ja 24h kuntosalit nimensä mukaisesti!'",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-sivulla todetaan 'Saat henkilökohtaista palvelua puhelimitse, verkossa ja hyvinvointikeskuksissa paikan päällä!' mutta puhelinnumeroa ei näy julkisesti mainituilla sivuilla.",
+    "chat_mainittu": "HAVAINTO: Evästetiedoissa mainitaan Freshworks Freshdesk -chat-widget. Asiakaspalvelu-sivulla mainitaan 'reaaliaikaisen chatin' tarjoaminen, joskin sen aktivointi vaatii nähtävästi evästeiden hyväksymisen.",
+    "aukioloajat_esilla": "HAVAINTO: Arabia-sivulla: '24h vuoden jokaisena päivänä'. Pääsivu: 'hyvinvointikeskukset klo 5-23, ja 24h kuntosalit nimensä mukaisesti'.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla linkki 'Usein kysyttyä' osioon, mutta sitä sivua ei ladattu (ei sisällytetty 5 pääsivun hakuun).",
+    "mobiilisovellus": "HAVAINTO: 'Oma Fressi' -sovellus/palvelu mainittu pääsivulla ('Hallitse asiakkuuttasi Oma Fressi -palvelussa') ja asiakaspalvelu-sivulla ('Hallitse asiakkuuttasi Oma Fressi -palvelussa')."
+  }
+}

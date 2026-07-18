@@ -1,0 +1,46 @@
+{
+  "slug": "opkoti",
+  "fetched_ok": [
+    "https://op-koti.fi/",
+    "https://op-koti.fi/palveluhinnasto",
+    "https://op-koti.fi/kayttoehdot",
+    "https://op-koti.fi/henkilotietojen-kasittely"
+  ],
+  "valityspalkkio_esilla": "osittain",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "toimistot_ja_yhteystiedot": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "valityspalkkio_pct": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Vahva brändi ja luottamuksellisuus (tutkitusti suomalaisten mieluisin valinta)",
+    "Kattava palvelupaletti (myynti, osto, vuokraus) ja laaja verkosto (yli 100 paikkakuntaa, yli 500 välittäjää)",
+    "Digitaalisia palveluita ja hinta-arviolaskuria saatavilla verkon kautta"
+  ],
+  "kehityskohteet": [
+    "Palkkiot ja hinnastot sijaitsevat alueellisten yhtiöiden sivuilla, ei pääsivustolla näkyvissä",
+    "Toimipisteiden tiedot ja aukioloajat eivät ole saatavilla pääsivustolla, vaativat alueen valintaa",
+    "Ei FAQ-osio tai asiakkaiden usein kysymillä vastauksilla"
+  ],
+  "yhteenveto": "OP Koti on OP Pohjolan omistama kiinteistönvälityspalvelu, joka operoi federaatiomallin mukaisesti ~19 alueellisen yhtiön kautta. Pääsivusto tarjoaa selkeän palvelukuvauksen ja laajat digitaaliset palvelut, mutta välityspalkkiot ja alueelliset tiedot löytyvät ainoastaan kunkin alueen yhtiöiden omilta sivuilta. Yhteystiedot ja perusalliset ehdot ovat helposti saatavilla.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Palveluhinnasto-sivulla todetaan 'Löydät palveluhinnastot paikallisten OP Koti -yhtiöiden sivuilta', mikä osoittaa palkkioiden olevan alueittain vaihtelevia ja paikallisten yhtiöiden sivuilla.",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Etusivulla kuvataan kolme pääpalvelua: 'Asunnon myynti' (myyntisuunnittelu ja markkinointi), 'Asunnon osto' (ammattitaitoinen apu), 'Vuokra-asunnot' (etsiminen). Lisäksi mainitaan 'hinta-arvio, hyvä myyntisuunnitelma, ammattitaitoinen kiinteistönvälittäjä ja aktiivinen markkinointi'.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Käyttöehdot-sivu sisältää 'Sivuston käyttöehdot' ja 'Palvelun sisällölle, kuten julkaistuille teksteille, kuville, äänitiedostoille...' maininta, joka viittaa toimeksiantosopimuksiin.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Pääsivustolla yhteystiedot: puhelin 010 252 010, sähköposti opkoti@op.fi, osoite PL 909, 00101 Helsinki. Sivuston navigaatiossa on linkki 'OP Koti -toimipisteet', mutta se on dynaamisesti renderöity eikä saatavilla perinteisen URL:n kautta.",
+    "y_tunnus_esilla": "HAVAINTO: Käyttöehdot-sivulla mainitaan 'Y-tunnus: 2241010-7' ja 'Nimi: OP Osuuskunta, Osoite: PL 909, 00101 Helsinki'.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla lainaus: 'Taloustutkimuksen Suomi tänään kiinteistönvälitys -tutkimus 2025: OP Koti ykkönen tärkeimmillä ominaisuuksilla, kuten paras asiantuntemus paikallisista asuntomarkkinoista'."
+  }
+}

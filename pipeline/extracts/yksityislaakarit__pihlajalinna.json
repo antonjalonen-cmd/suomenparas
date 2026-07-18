@@ -1,0 +1,55 @@
+{
+  "slug": "pihlajalinna",
+  "fetched_ok": [
+    "https://www.pihlajalinna.fi",
+    "https://www.pihlajalinna.fi/toimipisteet",
+    "https://www.pihlajalinna.fi/palvelut",
+    "https://www.pihlajalinna.fi/tyoterveys",
+    "https://www.pihlajalinna.fi/yhtio",
+    "https://www.pihlajalinna.fi/asiakkaalle",
+    "https://www.pihlajalinna.fi/asiakkaalle/hinnastot",
+    "https://www.pihlajalinna.fi/asiakkaalle/ajan-varaaminen-ja-peruminen",
+    "https://www.pihlajalinna.fi/asiakkaalle/yhteystiedot"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "kylla",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "yleislaakari_hinta_eur": 70,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Kattava hinnoittelu ja palvelumaksut selkeästi eritelty sivulla (palvelumaksu 32,90€, Kanta-maksu 4€ jne.)",
+    "Monikanavainen asiointimahdollisuus: verkkoajanvaraus, mobiilisovellus, chat-vastaanotot ja puhelinpalvelu 24/7",
+    "Laaja toimipisteverkkosto (yli 160 toimipistettä) ja selkeät yhteystiedot (010 312 010, chat klo 7-20)"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei julkisesti näkyvissä henkilöasiakkaiden sivuilla, maininta vain laskutustiedoissa",
+    "UKK-osio puuttuu kokonaan – ei vastauksia usein kysyttyihin kysymyksiin",
+    "Aukioloajat mainittiin vain yleisesti (arkisin klo 7-21), toimipistekohtaisesti tiedot piti hakea erillisestä listasta"
+  ],
+  "yhteenveto": "Pihlajalinna on suuri yksityinen terveyspalvelujen tuottaja, jonka verkkosivuilla vastaanottohinnat (yleislääkäri alkaen 70€) ja Kela-korvaus (-menettely selitetty yksityiskohtaisesti) ovat julkisesti näkyvissä. Ajanvaraus onnistuu verkossa ilman kirjautumista, ja asiakkaalla on useita yhteydenpitokanaavia. Etäpalvelut (chat, video, puhelin) ovat hyvin dokumentoituja.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Hinnastosivulla yleislääkärin vastaanotto 10 min alkaen 70€, 20 min alkaen 96€, 30 min alkaen 118€, 45 min alkaen 151€, 60 min alkaen 184€. Hinnat eivät sisällä palvelumaksua (32,90€), Kanta-maksua (4€) tai e-reseptimaksua (2€).",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Sivulla sanotaan 'Voit varata ajan helposti moniin Pihlajalinnan palveluihin verkossa' ja 'Pihlajalinna Terveyssovelluksessa'. Verkkoajanvaraus on mahdollinen ilman mainintaa kirjautumisen vaatimuksesta. Asiakaspalvelu auttaa myös puhelimitse 010 312 010.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hinnastosivulla laajat Kela-korvaus-osuudet. Yleislääkärin suorakorvaus 8€. Psykiatrian erikoislääkärin vastaanotto 50-60€ korvaus vastaanoton pituudesta riippuen. Fysioterapian korvaus 15€, enintään 4 käyntiä vuodessa. Jokaisen palvelun kohdalla mainittu omavastuu Kela-korvauksen jälkeen.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla luettelo yli 160 toimipisteestä kautta Suomen. Pääkonttorin osoite: Kehräsaari B, 33200 Tampere. Hinnaston sivulla maininta: 'Hinnat ovat voimassa arkisin klo 7–21' ja korotukset eri aikoina (yöllä +100%, lauantailla 30-100% jne.). Yksittäisten toimipisteiden aukioloajat eivät näkyvissä pääsivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainittu henkilöasiakkaiden sivuilla. Yhtiö-sivulla maininta konsernieittäin 'Pihlajalinna Oyj' ja osoite, mutta Y-tunnusta ei näkyvissä. Yhteystiedot-sivulla mainitaan 'y-tunnuksen' vaatimus laskuttajaportaalissa, mutta Pihlajalinnan omaa Y-tunnusta ei julkaistu.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun numero 010 312 010 näkyvissä kaikilla sivuilla. Mielen huoli -linja numeroon 010 312 023. Laskutusosoite 017 366 7041 (Ropo).",
+    "email_esilla": "HAVAINTO: Laskutusohjeet: [email protected], hoivalaskutus [email protected]. Yhteystiedot-sivulla: [email protected] markkinointi ja mainonta.",
+    "chat_mainittu": "HAVAINTO: Chat-vastaanotot mainittu monilla sivuilla. Asiakaspalvelu-chat avoinna klo 7-20. Mobiilisovelluksen kautta saa 'chat-vastaanotolle pikaisesti yhteys asiantuntijaan'.",
+    "aukioloajat_esilla": "HAVAINTO: Yleisesti mainittu arkisin klo 7-21, erityisaikojen korotukset selitetty. Asiakaspalvelu auttaa 24/7 numeroon 010 312 010. Mielen huoli -linja arkisin klo 8-18.",
+    "mobiilisovellus": "HAVAINTO: Pihlajalinna Terveyssovellus mainittu kaikilla sivuilla. Sovelluksella pääsee chat-vastaanotoille, voi varata aikoja, nähdä tutkimustulokset ja sähköiset reseptit. Ladattavissa App Storesta ja Google Playsta."
+  }
+}

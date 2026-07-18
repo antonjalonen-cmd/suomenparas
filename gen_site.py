@@ -623,7 +623,7 @@ APP_JS = r"""
     } else {
       form.addEventListener('submit', function(e){
         e.preventDefault();
-        if (!fiilis) { showErr('Valitse ensin, miltä yrityksestä jäi olo.'); return; }
+        if (!fiilis) { showErr('Valitse ensin, millainen kokemuksesi oli.'); return; }
         var payload = {
           vertical: vertical, slug: slug, fiilis: fiilis,
           luotettava: !!claims.luotettava, hintansa: !!claims.hintansa,
@@ -728,6 +728,7 @@ def page(title, desc, body, root="", active=""):
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
       <a href="{root}metodologia/"{on('metodologia')}>Näin pisteytämme</a>
       <a href="{root}sertifikaatti/"{on('sertifikaatti')}>Sertifikaatti</a>
+      <a href="{root}yhteiso/"{on('yhteiso')}>Liity mukaan</a>
     </nav>
   </div>
 </header>
@@ -958,6 +959,17 @@ def build_index():
 
 <section class="band" style="padding-top:0">
   <div class="wrap">
+    <div class="b2b" style="background:var(--card)">
+      <h3>Liity Suomen Paras -perheeseen</h3>
+      <p>Suomen Paras rakentuu lukijoiden kanssa: ehdota seuraavia kategorioita, bongaa virheitä ja kerro mikä toimii. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
+      <a class="btn" href="yhteiso/">Liity mukaan ja anna palautetta</a>
+      <small>Palaute ei koskaan vaikuta yritysten pisteisiin.</small>
+    </div>
+  </div>
+</section>
+
+<section class="band" style="padding-top:0">
+  <div class="wrap">
     <div class="b2b">
       <h3>Yrittäjä: haluatko nousta listalla?</h3>
       <p>Sijoitusta ei voi ostaa meiltä — eikä keneltäkään. Mutta voit pyytää analyysin, joka näyttää täsmälleen mitkä mittarit painavat sijoitustasi alas ja miten korjaat ne. Kun mittarit paranevat, sijoitus nousee seuraavassa päivityksessä — ansaitusti. Analyysi on avausvaiheessa maksuton.</p>
@@ -1136,8 +1148,8 @@ def build_profile(c, pos, v):
     <p class="sec-sub comm-sub">Oletko {esc(c['nimi'])}-palvelun asiakas? Kerro kokemuksesi. <b>Ei vaikuta Suomen Paras Scoreen</b> — pisteet perustuvat vain mitattavaan dataan.</p>
     <div id="agg" class="agg" hidden></div>
     <form class="arvio-form" id="aform">
-      <p class="q-label">Miltä yrityksestä jäi olo?</p>
-      <div class="feel-row" role="radiogroup" aria-label="Miltä yrityksestä jäi olo?">
+      <p class="q-label">Millainen kokemuksesi oli?</p>
+      <div class="feel-row" role="radiogroup" aria-label="Millainen kokemuksesi oli?">
         <button type="button" class="feel" data-v="5" role="radio" aria-checked="false"><span class="fe">😀</span>Erinomainen</button>
         <button type="button" class="feel" data-v="4" role="radio" aria-checked="false"><span class="fe">🙂</span>Hyvä</button>
         <button type="button" class="feel" data-v="3" role="radio" aria-checked="false"><span class="fe">😐</span>Ok</button>
@@ -1343,6 +1355,67 @@ def build_sertifikaatti():
                 "Suomen Paras -sertifikaatti: merkki jonka yritys voi ansaita, mutta ei ostaa. Tulossa.",
                 body, root="../", active="sertifikaatti")
 
+def build_yhteiso():
+    # Reuses the company-review widget (app.js #palaute) against a reserved
+    # vertical/slug pair, so site feedback lands in the same D1 + admin moderation.
+    # The claim keys MUST stay luotettava/hintansa/suosittelisin/uudelleen — they are
+    # DB columns — only the visible labels differ.
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Liity mukaan</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Liity Suomen Paras -perheeseen</h1>
+    <p class="lead">Suomen Paras rakentuu avoimesti ja lukijoiden kanssa. Kerro mitä kategorioita haluat seuraavaksi, mikä sivustossa toimii ja mikä ei. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
+  </div>
+
+  <div class="steps">
+    <div class="step"><span class="k">EHDOTA</span><h3>Uudet kategoriat</h3><p>109 kategoriaa on suunnitteilla, ja järjestyksen ratkaisee kysyntä. Kerro mikä vertailu auttaisi juuri sinua, niin nostamme sitä jonossa.</p></div>
+    <div class="step"><span class="k">KORJAA</span><h3>Bongasitko virheen?</h3><p>Jos jokin tieto on vanhentunut tai väärin, kerro se. Korjaamme datan seuraavassa päivityksessä ja merkitsemme korjauksen avoimesti sivulle.</p></div>
+    <div class="step"><span class="k">VAIKUTA</span><h3>Kehitä palvelua</h3><p>Mikä sivustossa on hyvää, mikä huonoa? Suorat ehdotukset menevät suoraan tekijälle, eivät tikettijonoon.</p></div>
+  </div>
+
+  <section id="palaute" data-vertical="suomenparas" data-slug="sivusto">
+    <h2 class="sec" style="margin-top:36px">Kerro mitä mieltä olet</h2>
+    <p class="sec-sub comm-sub">Palaute koskee Suomen Paras -palvelua itseään, ei mitään listattua yritystä. Julkaistut palautteet näkyvät alla.</p>
+    <div id="agg" class="agg" hidden></div>
+    <form class="arvio-form" id="aform">
+      <p class="q-label">Millainen kokemuksesi sivustosta oli?</p>
+      <div class="feel-row" role="radiogroup" aria-label="Millainen kokemuksesi sivustosta oli?">
+        <button type="button" class="feel" data-v="5" role="radio" aria-checked="false"><span class="fe">😀</span>Erinomainen</button>
+        <button type="button" class="feel" data-v="4" role="radio" aria-checked="false"><span class="fe">🙂</span>Hyvä</button>
+        <button type="button" class="feel" data-v="3" role="radio" aria-checked="false"><span class="fe">😐</span>Ok</button>
+        <button type="button" class="feel" data-v="2" role="radio" aria-checked="false"><span class="fe">🙁</span>Huono</button>
+        <button type="button" class="feel" data-v="1" role="radio" aria-checked="false"><span class="fe">😠</span>En palaisi</button>
+      </div>
+      <p class="q-label">Mitkä väittämät pitävät paikkansa? <span class="opt">valitse sopivat</span></p>
+      <div class="claim-row">
+        <button type="button" class="claim" data-k="luotettava" aria-pressed="false">Luotan pisteytykseen</button>
+        <button type="button" class="claim" data-k="hintansa" aria-pressed="false">Tiedoista oli hyötyä</button>
+        <button type="button" class="claim" data-k="suosittelisin" aria-pressed="false">Suosittelisin kaverille</button>
+        <button type="button" class="claim" data-k="uudelleen" aria-pressed="false">Palaan uudelleen</button>
+      </div>
+      <input type="text" id="animi" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ateksti" maxlength="600" placeholder="Mitä kategorioita haluaisit seuraavaksi? Mikä toimii, mikä ei? Kerro omin sanoin… (valinnainen)"></textarea>
+      <div class="a-err" id="aerr"></div>
+      <div class="cf-actions">
+        <span class="cf-note">Palautteet tarkistetaan ennen julkaisua. Asiaton sisältö poistetaan.</span>
+        <button type="submit" class="btn">Lähetä palaute</button>
+      </div>
+    </form>
+    <div id="alist" class="comment-list"></div>
+  </section>
+
+  <div class="b2b">
+    <h3>Oletko yrittäjä?</h3>
+    <p>Yrityksille perheeseen liittyminen alkaa maksuttomalla analyysilla: näet mittari mittarilta missä sivustosi on nyt ja miten sijoitus nousee. Tulossa oleva Suomen Paras -sertifikaatti myönnetään samalla julkisella datalla.</p>
+    <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
+    <small>Sijoitusta ei voi ostaa. Palaute ei vaikuta pisteisiin.</small>
+  </div>
+</div>"""
+    return page("Liity Suomen Paras -perheeseen | Suomen Paras",
+                "Kerro mitä kategorioita haluat seuraavaksi ja anna palautetta palvelusta. Suomen Paras rakentuu avoimesti.",
+                body, root="../", active="yhteiso")
+
 # ---------------------------------------------------------------- write
 def strip_em_dashes(html_text):
     # Site-wide copy rule (18.7.2026, Anton): no em dashes anywhere in published pages.
@@ -1366,6 +1439,7 @@ def main():
     w("metodologia/index.html", build_metodologia())
     w("analyysi/index.html", build_analyysi())
     w("sertifikaatti/index.html", build_sertifikaatti())
+    w("yhteiso/index.html", build_yhteiso())
     n = 3
     for v in VERTICALS:
         w(f"{v['slug']}/index.html", build_vertical(v))

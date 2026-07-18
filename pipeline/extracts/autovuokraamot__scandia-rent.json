@@ -1,0 +1,47 @@
+{
+  "slug": "scandia-rent",
+  "fetched_ok": [
+    "https://scandiarent.fi/",
+    "https://scandiarent.fi/toimipisteet/",
+    "https://scandiarent.fi/yhteystiedot/",
+    "https://scandiarent.fi/sopimusehdot/",
+    "https://scandiarent.fi/palvelut/"
+  ],
+  "hinta_ilman_yhteystietoja": "osittain",
+  "omavastuu_ja_vakuutus": "kylla",
+  "vuokrausehdot_saatavilla": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Laaja toimipisteverkosto (yli 100 paikkaa Hangosta Ivaloon) yksityiskohtaisesti dokumentoitu osoitteilla ja puhelinnumeroilla",
+    "Vuokrausehdot ja sopimustiedot täysin saatavilla suomeksi ja englanniksi",
+    "Selkeät yhteystiedot useille osastoille (asiakaspalvelu, myynti, leasing, markkinointi)"
+  ],
+  "kehityskohteet": [
+    "Vuokrahinnat eivät näy ilman varausjärjestelmään siirtymistä — vertailukelpoisen hintaselvityksen puuttuminen",
+    "FAQ-sivu (usein kysytyt kysymykset) palautuu HTTP 404:ksi, vaikka linkki näkyy navigaatiossa",
+    "Puuttuvat aukioloajat yksittäisille toimipisteille — vain asiakaspalvelun keskitetyt tunnit (ma-pe 8-16) näkyvät"
+  ],
+  "yhteenveto": "Mabi Mobility (entinen Scandia Rent) on pitkän historian autovuokraamoketju, jolla on yli 100 toimipistettä ympäri Suomea. Sivusto tarjoaa kattavat vuokrausehdot, laajat yhteystiedot ja selkeän toimipisteluettelon. Hinnoittelu ja yksittäisten toimipisteiden aukioloajat ovat kuitenkin saatavilla vain varausjärjestelmän kautta, ja FAQ-osio on saavutettavissa olevista sivuista poiketen viallinen.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Vuokrahinnat eivät ole saatavilla staattisella sivustolla. Sopimusehdot mainitsevat, että \"Sivustolla voi valita lisävarusteet ja ajokilometrit tarpeen mukaan sekä hyödyntää ajankohtaiset autonvuokraustarjoukset\", mutta konkreettisia hintoja ei näytetä ennen varausjärjestelmään siirtymistä.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: Sopimusehdot (kohta 2.2) ja palvelut-sivu mainitsevat: \"Vuokraamo voi tarjota erillisellä maksulla vuokraajalle mahdollisuutta omavastuun pienentämiseen.\" Vakuutusvaihtoehdot mainitaan yhteydessä omavastuun rajoihin (kohta 2.1).",
+    "vuokrausehdot_saatavilla": "HAVAINTO: Sopimusehdot-sivu (https://scandiarent.fi/sopimusehdot/) sisältää täysin dokumentoidut vuokrausehdot sekä suomeksi että englanniksi, sisältäen km-rajat, polttoainevastuu, ikärajat, vakuutusehdot ja peruutuspoliitiikan.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivu (https://scandiarent.fi/toimipisteet/) luettelee kaikki 70+ toimipiste osoitteilla ja puhelinnumeroilla. Puhelinnumerot toimivat asiakaspalvelun tiedustelunumeroina kunkin aluekohtaisen koodin avulla (esim. 0300 870 228 Tampereelle).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2509794-5 on näkyvissä sopimusehdot-sivulla kohdassa 'Vuokraamon yhteystiedot' ja myös sivuston alaosassa: \"Mabi Mobility Oy, Rantaperkiönkatu 1A, 33900 TAMPERE\".",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viitteitä riippumattomiin arvioihin, Google-arvioihin, kuluttajauutisiin tai muihin kolmansien osapuolten arvioinnin lähteisiin."
+  }
+}

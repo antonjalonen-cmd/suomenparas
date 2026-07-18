@@ -1,0 +1,46 @@
+{
+  "slug": "instrumentarium",
+  "fetched_ok": [
+    "https://instru.fi",
+    "https://instru.fi/myymala/",
+    "https://instru.fi/all-inclusive/"
+  ],
+  "silmalasien_hinnat_esilla": "kylla",
+  "nakotarkastuksen_hinta": "kylla",
+  "ajanvaraus_verkossa": "osittain",
+  "liikkeet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "naontarkastus_hinta_eur": 29,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 72,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Laaja myymäläverkko 140+ liikkeellä ympäri Suomea selkeällä kartalla ja suodatuksella",
+    "Näöntarkastuksen hinta ja All Inclusive -palvelun hinnoittelu selvästi esillä",
+    "Kattava opasmateriaali silmälaseista, linssistä ja näönhuollosta"
+  ],
+  "kehityskohteet": [
+    "Ajanvaraussivu ei ole saavutettavissa staattiselle crawlerille, vaikka linkki mainitaan",
+    "Y-tunnusta ei ole julkisesti esillä sivustolla",
+    "Sähköpostiosoite ja chattituki puuttuvat täysin, yhteydenotto vain puhelimitse"
+  ],
+  "yhteenveto": "Instrumentarium on kansallinen optikoiden ketju, jonka verkkosivuilta löytyvät silmälasien ja linssipalveluiden hinnat sekä näöntarkastuspalvelun hinnoittelu (29 €). Myymäläverkko on laaja (140+ paikkaa) ja helppo löytää kartalla. Ajanvaraus on mahdollista, mutta varausjärjestelmä ei ole crawlerin saavutettavissa, ja yhteydenottotavat rajoittuvat puhelimeen.",
+  "evidence": {
+    "silmalasien_hinnat_esilla": "HAVAINTO: Pääsivulla näkyvät aurinkolasien hintaesimerkit Ray-Ban (246 €), Versace (263 €), Miu Miu (390 €), Burberry (263 €), Giorgio Armani (389 €), Oakley (214 €), Prada (370 €). Hinnoittelu on julkisesti näkyvillä.",
+    "nakotarkastuksen_hinta": "HAVAINTO: Pääsivulla mainitaan 'Näöntarkastus nyt kaikille 0 €' ja 'Kattava näöntutkimus nyt 29 €'. Hinnat ovat selvästi esillä.",
+    "ajanvaraus_verkossa": "HAVAINTO: Pääsivulla on 'Varaa aika' -linkit, mutta varausjärjestelmä on dynaamisesti ladattu eikä staattisen crawlerin saavutettavissa. Ajanvaraus on mahdollista, mutta täysi näkyvyys on rajattu.",
+    "liikkeet_ja_aukioloajat": "HAVAINTO: Myymälä-sivulla listattu 140+ myymälää kaupungeittain (Alavus, Espoo, Forssa, Helsinki, Tampere, Turku jne.). Pääsivulla mainittu aukioloajat: ma–pe 8–20, la 9–17, su suljettu (puhelun hinta pvm/mpm).",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 09 4241 7000 näkyvissä pääsivulla ja usealla alasivulla (ma–pe 8–20, la 9–17, su suljettu).",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ilmoitettu pääsivulla: ma–pe 8–20, la 9–17, su suljettu. Perustuvat pääkonttorin puhelinpalvelun aikoihin.",
+    "ukk_osio": "HAVAINTO: Pääsivulla mainitaan 'Usein kysytyt kysymykset' -linkki, mutta erillinen UKK-sivu ei ole saavutettavissa (404). Sisältö voi olla osana muita sivuja tai dynaamisesti ladattua."
+  }
+}

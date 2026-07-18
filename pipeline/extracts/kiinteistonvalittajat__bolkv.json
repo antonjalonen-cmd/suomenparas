@@ -1,0 +1,49 @@
+{
+  "slug": "bolkv",
+  "fetched_ok": [
+    "https://bo.fi/",
+    "https://bo.fi/yhteystiedot/",
+    "https://bo.fi/tietosuojaseloste/",
+    "https://bo.fi/myymassa/asiakasedut/"
+  ],
+  "valityspalkkio_esilla": "osittain",
+  "palvelun_sisalto_kuvattu": "osittain",
+  "sopimusehdot_saatavilla": "osittain",
+  "toimistot_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "valityspalkkio_pct": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Laaja verkon peittävyys 16 toimistolla ympäri Suomea ja Espanjassa, selkeä paikalliset yhteystiedot helposti löytyvissä",
+    "Kattava palveluvalikko asiakassegmenteille (myyjät, ostajat, sijoittajat, yritykset) sekä lisäpalvelut kuten stailaus ja sisustussuunnittelu",
+    "Digitaaliset työkalut kuten Bo App ja ajanvarauskalenteri asiakkaiden omahoidolle sekä arviokäyntien varaamiselle"
+  ],
+  "kehityskohteet": [
+    "Välityspalkkion prosentti ei ole julkisesti näkyvissä – sivusto viittaa vain yleisesti 'hinnastoostamme' ilman konkreettisia lukuja",
+    "Toimeksiantosopimuksen ehdot eivät ole saatavilla verkon kautta, vaatii kontaktointia asiakaspalveluun",
+    "Kirjalliset usein kysytyt kysymykset (UKK) puuttuvat – sivusto viittaa FAQ:hin mutta piilottaa sisällön ajanvarauspalvelun taakse"
+  ],
+  "yhteenveto": "Bo LKV on Suomen suurimmista kiinteistönvälityspalveluista 16 toimistolla ja yli 250 ammattilaisella. Sivusto tarjoaa kattavan palvelukuvauksen ja helpot yhteystiedot kaikkiin toimistoihin, mutta ei julkaise palkkioprosentteja eikä sopimusehdot ole verkon kautta luettavissa. Palveluiden hinta- ja ostoehtojen tarkastelu vaatii suoraa kontaktointia asiakaspalveluun.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Sivuston pääsivulla mainitaan 'Arviokäynti on maksuton, kun harkitset asuntosi myyntiä. Jos tarvitset arvion esimerkiksi pankkia varten, veloitamme hinnastomme mukaisen palkkion.' Konkreettinen palkkioprosentti ei ole verkon kautta näkyvissä.",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Pääsivulla kuvataan laajasti myyntiin liittyviä palveluita (arviokäynti, stailaus, Bo App, asiakasedut), ostoon liittyviä (sneak peek, uudiskohteet, loma-asunnot) sekä yrityspalveluita. Kuitenkin yksityiskohtaiset palvelukuvaukset ovat linkkien takana, jotka eivät avaudu fetch-hakemuksilla.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Tietosuojaselosteesta käy ilmi, että Bo LKV ylläpitää toimeksiantopäiväkirjaa ja sopimussuhteita, mutta varsinaiset toimeksiantosopimuksen ehdot eivät ole verkon kautta julkisesti saatavilla. Viitataan asiakaspalveluun yhteydenotossa.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Yhteystiedot-sivulla on yksityiskohtainen lista kaikista 16 toimistosta osoitteineen, puhelinnumeroineen ja sähköpostiosoitteineen (esim. Espoo Spektri Business Park, puh. 040 808 6832, espoo@bo.fi).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2796763-3 on näkyvissä kaikissa toimistotiedoissa yhteystiedot-sivulla sekä tietosuojaselosteessa rekisterinpitäjän tunnuksena.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 040 808 6832 on näkyvissä useiden toimistojen yhteystiedoissa, samoin aluespesifiset numerot (esim. Hämeenlinna 040 523 9474).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä kaikille toimistoille alueittain (esim. espoo@bo.fi, helsinki@bo.fi, tampere@bo.fi).",
+    "chat_mainittu": "HAVAINTO: Sivuston pääsivulla mainitaan 'KYSY BOLTA' -palvelu, joka on 'Bon digitaalinen asiantuntija' tekoälyä käyttävä chat. Lisäksi mainitsee 15 minuutin puhelintapaamisen välittäjän kanssa, mutta varsinainen livechat-palvelu ei ole muuten näkyvissä.",
+    "aukioloajat_esilla": "HAVAINTO: Konkreettisia aukioloaikoja ei ole listattu. Ajanvarauskalenteri näyttää vapaat ajat alueittain, mutta kirjattuja toimiston aukioloaikoja ei ole näkyvissä."
+  }
+}

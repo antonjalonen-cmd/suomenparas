@@ -1,0 +1,53 @@
+{
+  "slug": "terveystalo",
+  "fetched_ok": [
+    "https://www.terveystalo.com",
+    "https://www.terveystalo.com/fi/asiakaspalvelu/hinnasto",
+    "https://www.terveystalo.com/fi/asiakaspalvelu",
+    "https://www.terveystalo.com/fi/toimipaikat",
+    "https://www.terveystalo.com/fi/yhtio/yhteystiedot"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "osittain",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "yleislaakari_hinta_eur": 128.73,
+  "ai_arviot": {
+    "selkeys": 90,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Kattava hinnasto ja läpinäkyvät Kela-korvaukset näkyvät selvästi jokaiselle palvelulle",
+    "Sovellus ja chat-palvelut (lääkäri-, hoitaja-, lasten yleislääkäri-chat) saatavilla 24/7 asioinnille",
+    "Sujuva online-ajanvaraus erillisellä ajanvaraussivustolla sekä Terveystalo-sovelluksessa"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ja muut yritystiedot puuttuvat verkkosivujen julkisista osioista",
+    "Toimipaikkojen yksittäiset aukioloajat ja osoitteet vaatisivat parempia hakutuloksia tai listaa",
+    "Riippumattomat asiakasarviot (esim. tähdet, arviot) puuttuvat sivustolta"
+  ],
+  "yhteenveto": "Terveystalo on merkittävä yksityinen lääkäriketju, joka tarjoaa laajoja palveluja yli 200 toimipaikassa. Verkkosivusto esittelee selkeästi ja läpinäkyvästi hinnaston Kela-korvauksilla, mutta Y-tunnus jää puuttuvaksi ja yksittäisten toimipaikkojen aukioloajat ovat vaikeasti löydettävissä. Sovellus ja 24/7 chat-palvelut parantavat merkittävästi asioinnin sujuvuutta.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Hinnasto-sivu (https://www.terveystalo.com/fi/asiakaspalvelu/hinnasto) esittelee yleislääkärin vastaanottokäyntien hinnat selkeästi (enintään 20 min: 102,60–224,10 €), muiden ammattilaisten hinnat ja chat-palveluiden hinnat.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Etusivulla ja asiakaspalvelu-sivulla mainitaan ajanvaraus-linkki (https://ajanvaraus.terveystalo.com/fi/). Kirjautumisvaatimuksesta ei ole selvää tietoa verkkoajanvarauksen osalta, mutta Terveystalo-sovellus ja verkkopalvelu vaativat kirjautumisen.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hinnasto-sivu esittelee jokaiselle palvelulle sekä suuntaa-antavat hinnat että 'Kela-korvauksen jälkeen' -hinnat (esim. yleislääkäri 20 min: 128,73 € / 120,73 € Kela-korvauksen jälkeen). Lasten yleislääkäri-chat mainitaan olevan 56 € ilman Kela-korvausta, 48 € Kela-korvauksen jälkeen.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Sivusto mainitsee 'asioi... yli 200 toimipaikassamme kautta maan', mutta yksittäisten toimipaikkojen osoitteita ja aukioloaikoja ei näytetä suoraan. Toimipaikat-sivu on pelkästään hakupohjainen, eikä varsinaisen listan toimipaikoista näy.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydetty yhteystiedot-sivulta (https://www.terveystalo.com/fi/yhtio/yhteystiedot), sijoittajatiedoista tai muista julkisista sivuista. Sivustolla näkyvät vain puhelinvaihde (030 63 311) ja sähköpostiosoitteet.",
+    "riippumaton_arvio": "HAVAINTO: Asiakasarviota, tähtiarvioita tai riippumattomia arviota ei näy verkkosivuilla.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu ja ajanvaraus puh. 0900 30 000 näkyy kaikilla sivuilla. Puhelinvaihde 030 63 311 mainitaan yhteystiedot-sivulla (pvm/mpm maksu).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite viestinta@terveystalo.com mainitaan yhteystiedot-sivulla. Yleiset osoitteet muotoa etunimi.sukunimi@terveystalo.com.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelut mainitaan useissa paikoissa: lääkäri-chat (60,70 € arkisin), hoitaja-chat (38,70 € arkisin), reseptin uusinta-chat, tekoälyavustaja. Lasten yleislääkäri-chat 56 € (48 € Kela-korvauksen jälkeen) on listattu hinnaston sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Hinnaston sivulla mainitaan yleisiä aukioloaikoja: arkisin klo 7–21, lauantaisin klo 7–18, sunnuntaisin/pyhinä. Yksittäisten toimipaikkojen aukioloaikoja ei ole näkyvissä verkkosivuilla ilman hakua.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla (https://www.terveystalo.com/fi/asiakaspalvelu) on 'Usein kysytyt kysymykset' -osio, jossa vastauksia kysymyksiin ajan peruuttamisesta, laskutuksesta, tutkimustuloksista ja profiilin hallinnasta.",
+    "mobiilisovellus": "HAVAINTO: Terveystalo-sovellus mainitaan monilla sivuilla. Saatavilla App Storesta ja Google Play -palvelusta. Sovelluksessa voi varata ajan, nähdä tutkimustulokset, käyttää chatiä ja hallita maksuja."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "sixt",
+  "fetched_ok": [
+    "https://www.sixt.fi",
+    "https://www.sixt.fi/pages/ota-yhteyttae/",
+    "https://www.sixt.fi/pages/yritystiedot/",
+    "https://www.sixt.fi/pages/vuokrausehdot/",
+    "https://www.sixt.fi/autonvuokraus/suomi/helsinki/"
+  ],
+  "hinta_ilman_yhteystietoja": "osittain",
+  "omavastuu_ja_vakuutus": "osittain",
+  "vuokrausehdot_saatavilla": "osittain",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Laaja toimipisteiden verkosto yli 2000 sijainnissa maailmanlaajuisesti",
+    "24/7 palvelu ja lentokenttien noutopalvelut Helsingin ja muilla paikoilla",
+    "Selkeät asiakasarviot ja palaute näkyvissä (4,6 tähteä 2657 arvosteluista)"
+  ],
+  "kehityskohteet": [
+    "Hintojen vertailu ilman varaustyökalua on vaikeaa - konkreettiset päivähinnat puuttuvat",
+    "Vakuutus- ja omavastuuvaihtoehdot mainittu, mutta yksityiskohdat saatavilla vain PDF:n muodossa",
+    "Vuokrausehdot eivät ole suoraan verkkoosion muodossa, vaan linkittävät PDF-dokumentteihin"
+  ],
+  "yhteenveto": "Sixt on kansainvälinen autovuokraamoketju, joka tarjoaa laajalti toimipisteitä ja 24/7-palvelua. Sivusto on selkeästi järjestetty ja sisältää asiakasarviointeja. Kuitenkin konkreettiset vuokrahinnat edellyttävät varaustyökalun käyttöä, ja vakuutus- sekä omavastuuvaihtoehdot löytyvät pääosin PDF-dokumenteista.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Pääsivulla näkyy 'ALKAEN 629 €/KUUKAUSI' SIXT+ Minileasing-tuotteelle, mutta tavallisen autonvuokrauksen päivä- tai tuntihinnat eivät ole näkyvissä ilman varaustyökalun käyttöä.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: Yhteydenotto-sivulla mainitaan 'Auton vuokrauksiin sisältyy omavastuun pienennys' ja 'voit lisätä muita turvatuotteita pienentääksesi omavastuuta', mutta yksityiskohdat (summat, vaihtoehdot) puuttuvat.",
+    "vuokrausehdot_saatavilla": "HAVAINTO: Vuokrausehdot-sivu (https://www.sixt.fi/pages/vuokrausehdot/) linkkaa PDF-dokumentteihin 'Vuokraustiedot Henkilöautot' ja 'Vuokraustiedot Pakettiauto', mutta ehdot eivät ole verkkosivulla luettavissa.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Helsinki-sivulla listattu 5 toimipistettä (Helsinki-Vantaa Lentoasema, Kalasatama/REDI, Toimituspalvelu, Hilton Kalastajatorp., Rautatieasema) ja mainittu '24h palautus' useimmissa. Yritystiedot-sivulla osoite: Transporent Oy, Äyritie 4, 01510 Vantaa.",
+    "y_tunnus_esilla": "HAVAINTO: Yritystiedot-sivulla näkyy selvästi 'Y-tunnus: 2275518-0'.",
+    "riippumaton_arvio": "HAVAINTO: Helsinki-sivulla näkyy '4,6 tähteä 2657 arvostelusta', ja sivulla on osio 'Asiakkaiden arvostelut & palaute' jossa näkyvät yksittäiset arvostelut."
+  }
+}

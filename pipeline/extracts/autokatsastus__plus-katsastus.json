@@ -1,0 +1,51 @@
+{
+  "slug": "plus-katsastus",
+  "fetched_ok": [
+    "https://plus.fi/",
+    "https://plus.fi/katsastusasemat/",
+    "https://plus.fi/yhteystiedot/",
+    "https://plus.fi/palvelumme/",
+    "https://plus.fi/yritys/",
+    "https://plus.fi/rekisteriseloste/",
+    "https://plus.fi/yrityksille/"
+  ],
+  "katsastushinta_esilla": "osittain",
+  "ajanvaraus_hinnalla": "osittain",
+  "asemat_ja_aukioloajat": "kylla",
+  "palveluvalikoima_kuvattu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "maaraaikaiskatsastus_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja asemaverkko: yli 70 asemaa ympäri Suomea, selkeästi lueteltuna hakukelpoisesti kartalla",
+    "Kattava palveluvalikoima: 11 erilaista katsastuslajia ja lisäpalveluja kuvattu selkeästi",
+    "Hyvä saatavuus: puhelinpalvelu joka päivä 8.00–20.00, WhatsApp-tuki, laaja sähköpostiosoiteluettelo asemittain"
+  ],
+  "kehityskohteet": [
+    "Hintojen puute: määräaikaiskatsastuksen hintaa ei ole julkisesti näkyvissä pääsivustolla, asiakkaan on soitettava tai varattava aika nähdäkseen hinnan",
+    "Y-tunnus ja yritystiedot: perustiedot puuttuvat (Y-tunnus, rekisteröintitiedot) eikä niitä ole yritysesittelysivulla",
+    "Asiakaspalautejärjestelmä: sivustolla ei ole katsastetuista löytämis FAQ-osiota (UKK), eikä riippumattomia arvioita tai asiakasarvioita näy"
+  ],
+  "yhteenveto": "Plus Katsastus on 100-prosenttisesti suomalaisten yrittäjien omistama katsastusketju, joka tarjoaa palvelua yli 70 asemalla ympäri Suomea. Sivusto on asiakkaalle hyvin saavutettava puhelimitse ja sähköpostitse, ja palveluvalikoima on kattavasti kuvattu. Haittapuolena on, että määräaikaiskatsastuksen hintaa ei ole asetettu julkisesti näkyville verkkosivuille, ja perustavat yritystiedot (Y-tunnus) puuttuvat verkkosivuilta.",
+  "evidence": {
+    "katsastushinta_esilla": "HAVAINTO: Sivustolla mainitaan ennakkovarauksella saavan edullisemman hinnan ja että hinnan voi maksaa etukäteen, mutta konkreettista euroa-hintaa ei ole esillä pääsivuilla. Hinta näkyy ainoastaan varausjärjestelmässä, jota ei ole mahdollista käyttää ilman vuorovaikutusta.",
+    "ajanvaraus_hinnalla": "HAVAINTO: Sivustolla on 'Varaa aika' -painike ja tekstit mainitsevat varausjärjestelmän (plus.fi -sivuston kautta), mutta renderoidun sisällön perusteella hinnat eivät näy etukäteen ennen varauksen tekemistä. Varausjärjestelmä on erillinen palvelu, jota ei voida lukea staattisesti.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei esiinny minkään fetkatun sivun sisällössä. Yritysesittelysivulla mainitaan 'Plus Katsastus Oy' ja osoite Tuotekatu 8 B, 21200 Raisio, mutta rekisteröintitunnusta ei ole. Rekisteriseloste-sivulla annetaan osoite ja puhelinnumero, mutta Y-tunnusta ei mainita.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole riippumattomia arvioita, asiakasarvioita tai kolmannen osapuolen tutkimuksien viittauksia. Ainoa maininta luvuista on sisäinen 'Plussan asiakaskokemuskysely' (n=75 801), joka on yrityksen oma tutkimus, ei riippumaton.",
+    "puhelin_esilla": "HAVAINTO: Pääpuhelin 044 4232 000 on esillä pääsivulla ja monilla muilla sivuilla. Numero toistetaan asiakaspalveluotsikon alla (joka päivä klo 8.00–20.00). Lisäksi jokaiselle asemalle on omat puhelinnumerot, jotka ovat lueteltu yhteystiedot-sivulla.",
+    "email_esilla": "HAVAINTO: Palaute-sähköposti palaute@plus.fi on esillä rekisteriseloste-sivulla. Lisäksi yhteystiedot-sivulla luetellaan kunkin aseman omat sähköpostiosoitteet muodossa 'asemanimi@plus.fi' (esim. helsinki.herttoniemi@plus.fi). Laskutuksen sähköposti on laskutus@plus.fi (yrityksille-sivulla).",
+    "chat_mainittu": "HAVAINTO: WhatsApp-chat mainitaan pääsivulla ja yhteystiedot-sivulla: 'Plus Katsastuksen asiakaspalvelu palvelee... WhatsApp 044 4232 000 (ARKISIN KLO 8.00 – 18.00)'. Muu chat-palvelu ei ole mainittu.",
+    "aukioloajat_esilla": "HAVAINTO: Pääpalvelun aukioloajat mainitaan: 'JOKA PÄIVÄ KLO 8.00 – 20.00' puhelinpalvelulle ja 'ARKISIN KLO 8.00 – 18.00' WhatsAppille. Yksittäisten asemien aukioloajat eivät ole näkyvissä staattisessa tekstissä; ne on ilmoitettava asemakohtaisesti (varausjärjestelmässä tai asemakohtaisesti)."
+  }
+}

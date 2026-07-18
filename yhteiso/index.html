@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Liity Suomen Paras -perheeseen | Suomen Paras</title>
+<meta name="description" content="Kerro mitä kategorioita haluat seuraavaksi ja anna palautetta palvelusta. Suomen Paras rakentuu avoimesti.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" type="image/png" href="../assets/favicon.png">
+<link rel="stylesheet" href="../assets/style.css?v=18">
+<script src="../assets/app.js?v=18" defer></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="../"><img src="../assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58"><span class="btxt"><span>suomenparas<span class="tm">.com</span></span><span class="oy">Suomen Paras Oy</span></span></a>
+    <nav class="main">
+      <a href="../">Etusivu</a>
+      <a href="../kategoriat/">Kaikki kategoriat</a>
+      <a href="../metodologia/">Näin pisteytämme</a>
+      <a href="../sertifikaatti/">Sertifikaatti</a>
+      <a href="../yhteiso/" class="on">Liity mukaan</a>
+    </nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Liity mukaan</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Liity Suomen Paras -perheeseen</h1>
+    <p class="lead">Suomen Paras rakentuu avoimesti ja lukijoiden kanssa. Kerro mitä kategorioita haluat seuraavaksi, mikä sivustossa toimii ja mikä ei. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
+  </div>
+
+  <div class="steps">
+    <div class="step"><span class="k">EHDOTA</span><h3>Uudet kategoriat</h3><p>109 kategoriaa on suunnitteilla, ja järjestyksen ratkaisee kysyntä. Kerro mikä vertailu auttaisi juuri sinua, niin nostamme sitä jonossa.</p></div>
+    <div class="step"><span class="k">KORJAA</span><h3>Bongasitko virheen?</h3><p>Jos jokin tieto on vanhentunut tai väärin, kerro se. Korjaamme datan seuraavassa päivityksessä ja merkitsemme korjauksen avoimesti sivulle.</p></div>
+    <div class="step"><span class="k">VAIKUTA</span><h3>Kehitä palvelua</h3><p>Mikä sivustossa on hyvää, mikä huonoa? Suorat ehdotukset menevät suoraan tekijälle, eivät tikettijonoon.</p></div>
+  </div>
+
+  <section id="palaute" data-vertical="suomenparas" data-slug="sivusto">
+    <h2 class="sec" style="margin-top:36px">Kerro mitä mieltä olet</h2>
+    <p class="sec-sub comm-sub">Palaute koskee Suomen Paras -palvelua itseään, ei mitään listattua yritystä. Julkaistut palautteet näkyvät alla.</p>
+    <div id="agg" class="agg" hidden></div>
+    <form class="arvio-form" id="aform">
+      <p class="q-label">Millainen kokemuksesi sivustosta oli?</p>
+      <div class="feel-row" role="radiogroup" aria-label="Millainen kokemuksesi sivustosta oli?">
+        <button type="button" class="feel" data-v="5" role="radio" aria-checked="false"><span class="fe">😀</span>Erinomainen</button>
+        <button type="button" class="feel" data-v="4" role="radio" aria-checked="false"><span class="fe">🙂</span>Hyvä</button>
+        <button type="button" class="feel" data-v="3" role="radio" aria-checked="false"><span class="fe">😐</span>Ok</button>
+        <button type="button" class="feel" data-v="2" role="radio" aria-checked="false"><span class="fe">🙁</span>Huono</button>
+        <button type="button" class="feel" data-v="1" role="radio" aria-checked="false"><span class="fe">😠</span>En palaisi</button>
+      </div>
+      <p class="q-label">Mitkä väittämät pitävät paikkansa? <span class="opt">valitse sopivat</span></p>
+      <div class="claim-row">
+        <button type="button" class="claim" data-k="luotettava" aria-pressed="false">Luotan pisteytykseen</button>
+        <button type="button" class="claim" data-k="hintansa" aria-pressed="false">Tiedoista oli hyötyä</button>
+        <button type="button" class="claim" data-k="suosittelisin" aria-pressed="false">Suosittelisin kaverille</button>
+        <button type="button" class="claim" data-k="uudelleen" aria-pressed="false">Palaan uudelleen</button>
+      </div>
+      <input type="text" id="animi" maxlength="40" placeholder="Nimesi (valinnainen)" autocomplete="off">
+      <textarea id="ateksti" maxlength="600" placeholder="Mitä kategorioita haluaisit seuraavaksi? Mikä toimii, mikä ei? Kerro omin sanoin… (valinnainen)"></textarea>
+      <div class="a-err" id="aerr"></div>
+      <div class="cf-actions">
+        <span class="cf-note">Palautteet tarkistetaan ennen julkaisua. Asiaton sisältö poistetaan.</span>
+        <button type="submit" class="btn">Lähetä palaute</button>
+      </div>
+    </form>
+    <div id="alist" class="comment-list"></div>
+  </section>
+
+  <div class="b2b">
+    <h3>Oletko yrittäjä?</h3>
+    <p>Yrityksille perheeseen liittyminen alkaa maksuttomalla analyysilla: näet mittari mittarilta missä sivustosi on nyt ja miten sijoitus nousee. Tulossa oleva Suomen Paras -sertifikaatti myönnetään samalla julkisella datalla.</p>
+    <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
+    <small>Sijoitusta ei voi ostaa. Palaute ei vaikuta pisteisiin.</small>
+  </div>
+</div>
+<footer class="site">
+  <div class="wrap">
+    <div class="cols">
+      <div>
+        <h4>Suomen Paras</h4>
+        <p>Suomen läpinäkyvin vertailupalvelu. Pisteytämme yritykset mitattavalla datalla, emme mielipiteillä. Sijoituksia ei voi ostaa.</p>
+      </div>
+      <div>
+        <h4>Palvelu</h4>
+        <p><a href="../lainavertailu/">Lainavertailupalvelut</a><br><a href="../vakuutukset/">Vakuutukset</a><br><a href="../sahkosopimukset/">Sähkösopimukset</a><br><a href="../laajakaista/">Laajakaista</a><br><a href="../autovakuutukset/">Autovakuutukset</a><br><a href="../kotivakuutukset/">Kotivakuutukset</a><br><a href="../kulutusluotot/">Kulutusluotot</a><br><a href="../lemmikkivakuutukset/">Lemmikkivakuutukset</a><br><a href="../luottokortit/">Luottokortit</a><br><a href="../matkavakuutukset/">Matkavakuutukset</a><br><a href="../pankit/">Pankit</a><br><a href="../puhelinliittymat/">Puhelinliittymät</a><br><a href="../sahkovertailupalvelut/">Sähkövertailupalvelut</a><br><a href="../sijoitusalustat/">Sijoitusalustat</a><br><a href="../vpn-palvelut/">VPN-palvelut</a><br><a href="../webhotellit/">Webhotellit</a><br><a href="../kategoriat/">Kaikki kategoriat</a><br><a href="../metodologia/">Pisteytysmetodologia</a></p>
+      </div>
+      <div>
+        <h4>Score v1.1</h4>
+        <p class="mono">Päivitetty 16.7.2026<br>120 palvelua pisteytetty<br>16 kategoriaa live</p>
+      </div>
+    </div>
+    <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin 16.7.2026: yritysten omat verkkosivut, viralliset rekisterit ja tekniset mittaukset. Emme anna sijoitus-, laina- tai muuta talousneuvontaa, vaan vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,53 @@
+{
+  "slug": "fitness24seven",
+  "fetched_ok": [
+    "https://fi.fitness24seven.com/fi",
+    "https://fi.fitness24seven.com/fi/jasenyys/jasenyytemme/",
+    "https://fi.fitness24seven.com/fi/kuntokeskuksemme/etsi-salisi/",
+    "https://fi.fitness24seven.com/fi/jasenyys/liikuntaedut",
+    "https://portal.fitness24seven.com/fi/faq"
+  ],
+  "jasenyyden_hinta_esilla": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "liittymismaksut_kerrottu": "kylla",
+  "salit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "jasenyys_kk_hinta_eur": 28.90,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeä ja vertailukelpoinen hinnoittelu eri jäsenyysvaihtoehdoille (standardi, opiskelija, eläkeläinen, nuoriso)",
+    "Laaja kansainvälinen salivalikoima – yli 290 salia ympäri maailmaa ja 24/7 aukioloajat",
+    "Sovellus treeneille ja liikuntaedut-integraatiot (Epassi, Edenred, Smartum) hyvin dokumentoidut"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero puuttuu kokonaan – asiakaspalveluun pääsee vain sähköpostilla ja Help Centeristä",
+    "Sopimusehdot-sivun linkitys rikkoutunut (Jäsenehdot-linkki johtaa 404:ään)",
+    "Help Center on challenge-wallattu ja sisältö ei lataudu kokonaan automaattisilla hakutyökaluilla"
+  ],
+  "yhteenveto": "Fitness24Seven on laajamittainen kansainvälinen kuntosaliketju, joka tarjoaa selkeät ja vertailukelpoiset jäsenyysvaihtoehdot eri asiakasryhmille. Hinnoittelu ja perusinfot ovat helposti löydettävät etusivulla ja jäsenyydet-sivulla, mutta asiakaspalvelun suora puhelinnumero ja jotkut sopimusehtojen linkitykset ovat puutteellisia.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: Jäsenyyden kuukausihinta 32,90 €/kk (standardi) on näkyvissä etusivulla suurella fontilla 'Vain 32,90 €/kk'. Jäsenyydet-sivulla näkyvät kaikki neljä vaihtoehtoa: standardi 32,90 €/kk, opiskelija 30,90 €/kk, eläkeläinen 30,90 €/kk, nuoriso 28,90 €/kk.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Jäsenyydet-sivulla näkyy sopimusehdot: 'Ei määräaikaisuutta, 2 kk irtisanomisaika' jokaisen jäsenyysvaihtoehdon yhteydessä. Footerissa on linkki 'Jäsenehdot', mutta se johtaa 404:ään.",
+    "liittymismaksut_kerrottu": "HAVAINTO: Aloitusmaksu 24,90 € mainitaan sekä etusivulla että jäsenyydet-sivulla jokaisen jäsenyysvaihtoehdon yhteydessä '+ aloitusmaksu 24,9€'.",
+    "salit_ja_aukioloajat": "HAVAINTO: Etusivulla mainitaan 'yli 290 kuntosalille, ympäri maapalloa'. Kuntosalien etsi-sivulla näkyy yksityiskohtainen lista salin sijainnista, osoitteesta ja aukioloajoista. Esim. Bangkok Happy Land: 'Maanantai - Perjantai: 08:00 - 22:00, Lauantai - Sunnuntai: 10:00 - 22:00', sekä 'Avoinna 24/7'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2402161 - 5 on näkyvissä kaikilla ladatuilla sivuilla footerissa osion 'Fitness24Seven OY' jälkeen.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei ole linkkilinkityksiä riippumattomiin arviointeihin, kuten Google Reviews tai muihin arviointisivustoihin. Help Center on olemassa, mutta se on challenge-wallattu.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei ole näkyvissä missään ladatussa sivussa eikä footerissa. Asiakaspalveluun pääsy on vain sähköpostilla (Info@f24s.fi) ja Help Centeriin (portal.fitness24seven.com).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite Info@f24s.fi on näkyvissä footerissa kaikilla sivuilla.",
+    "chat_mainittu": "HAVAINTO: Help Center-sivulla näkyy teksti 'Ota yhteyttä asiakaspalveluumme', mutta sivusto on challenge-wallattu eikä chat-kanavia tai muita yhteydenottokeinoja voida varmasti tunnistaa renderöidystä sisällöstä.",
+    "aukioloajat_esilla": "HAVAINTO: Etusivulla mainitaan 'Avoinna 24/7' ja 'vuorokauden ympäri'. Kuntosalien etsi-sivulla näkyvät yksittäisten salien aukioloajat, esim. monissa saaleissa 'Maanantai - Perjantai: 08:00 - 22:00, Lauantai - Sunnuntai: 10:00 - 22:00' ja 'Avoinna 24/7'.",
+    "ukk_osio": "HAVAINTO: Help Center on olemassa osoitteessa portal.fitness24seven.com/fi/faq ja siinä on 185 kategoriaa. Kategoria-kaikilta löytyy 58 jäsenyys-aiheista kysymystä ja vastaus.",
+    "mobiilisovellus": "HAVAINTO: Sovellusta mainitaan useissa paikoissa 'Lataa meidän sovellus' linkillä, ja sovellusominaisuuksista mainitaan: treeniohjelmat, liikevideot, mobiilisisäänkäynti ja ryhmäliikuntatunnin varaus."
+  }
+}
