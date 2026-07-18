@@ -4,3 +4,5 @@ __pycache__/
 
 # wrangler local state (palaute-worker)
 .wrangler/
+node_modules/
+package-lock.json
