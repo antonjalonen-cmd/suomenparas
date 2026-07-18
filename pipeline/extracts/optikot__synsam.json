@@ -1,0 +1,43 @@
+﻿{
+    "aukioloajat_esilla":  "osittain",
+    "ajanvaraus_verkossa":  "osittain",
+    "puhelin_esilla":  "osittain",
+    "y_tunnus_esilla":  "ei",
+    "nakotarkastuksen_hinta":  "osittain",
+    "yhteenveto":  "Synsam on suuri suomalainen optikkoketju joka tarjoaa silmälaseja, piilolinssejä ja näöntarkastuspalveluja. Etusivulla on hyvät hintatiedot, mutta sivusto on rakennettu täysin JavaScript-pohjaiseksi sovellukseksi eikä sisäiset sivut ole saavutettavissa automaattisilta pyynnöiltä. Yksityiskohtaiset tiedot näöntarkastuksesta, aukioloajoista ja yhteystiedoista vaativat interaktiivista selainta.",
+    "riippumaton_arvio":  "ei",
+    "fetched_ok":  [
+                       "https://www.synsam.fi/"
+                   ],
+    "kehityskohteet":  [
+                           "Sisäiset sivut eivät ole saavutettavissa automaattisilta klienteiltä – kaikki sivut palauttavat 404",
+                           "Näöntarkastuksen hintaa ei ole julkisesti näkyvissä etusivulla",
+                           "Liikkeiden aukioloaikoja tai yhteystietoja (puh, email) ei löydy ilman interaktiivista selainta"
+                       ],
+    "ai_arviot":  {
+                      "selkeys":  45,
+                      "sisallon_kattavuus":  35,
+                      "hintojen_loydettavyys":  60
+                  },
+    "liikkeet_ja_aukioloajat":  "osittain",
+    "chat_mainittu":  "ei",
+    "mobiilisovellus":  "osittain",
+    "ukk_osio":  "osittain",
+    "naontarkastus_hinta_eur":  null,
+    "silmalasien_hinnat_esilla":  "kylla",
+    "evidence":  {
+                     "liikkeet_ja_aukioloajat":  "HAVAINTO: Etusivulla lueteltu \u0027Synsam-optikkoliikkeet kaupungeittain\u0027: Helsinki, Espoo, Jyväskylä, Kuopio, Oulu, Pori, Tampere, Turku, Vantaa, Ahvenanmaa. Aukioloaikoja ei näy etusivulla.",
+                     "riippumaton_arvio":  "HAVAINTO: Arvioita kolmannen osapuolen palvelusta (esim. Google Reviews, Trustpilot) ei näy etusivulla.",
+                     "ajanvaraus_verkossa":  "HAVAINTO: \u0027Varaa näöntarkastus\u0027 -painike näkyy navigaatiossa, mutta varaussivu (https://www.synsam.fi/varaa-naontarkastus) antaa HTTP 404.",
+                     "nakotarkastuksen_hinta":  "HAVAINTO: Näöntarkastusta mainitaan \u0027Varaa aika Mehiläisen silmälääkärille\u0027, mutta hintaa ei ole etusivulla näkyvissä. Sisäiset sivut eivät ole saavutettavissa.",
+                     "y_tunnus_esilla":  "HAVAINTO: Y-tunnusta ei ole näkyvissä etusivulla tai footerissa. Sisäiset sivut eivät ole saavutettavissa.",
+                     "silmalasien_hinnat_esilla":  "HAVAINTO: Etusivulla näkyi Erling Haaland -lasimallistoa hinnoilla 139 €–249 € ja aurinkolaseja 70 €–356 €. Piilolinssejä hinnoilla 12,45 €–41 €."
+                 },
+    "vahvuudet":  [
+                      "Silmälasien ja piilolinssien hinnat selkeästi näkyvissä etusivulla (139–249 €, piilolinssit 12,45–41 €)",
+                      "Liikepaikat lueteltu kaupungeittain (Helsinki, Espoo, Turku, Tampere, Oulu jne)",
+                      "Varaa näöntarkastus -toiminto helposti löydettävissä ylänavigaatiosta"
+                  ],
+    "slug":  "synsam",
+    "email_esilla":  "osittain"
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "elixia",
+  "fetched_ok": [
+    "https://www.elixia.fi",
+    "https://www.elixia.fi/jasenyydet",
+    "https://www.elixia.fi/ehdot",
+    "https://www.elixia.fi/kuntosali",
+    "https://www.elixia.fi/asiakaspalvelu",
+    "https://www.elixia.fi/elixiasta",
+    "https://www.elixia.fi/elixia-sovellus"
+  ],
+  "jasenyyden_hinta_esilla": "osittain",
+  "sopimusehdot_saatavilla": "kylla",
+  "liittymismaksut_kerrottu": "kylla",
+  "salit_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "jasenyys_kk_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "30+ kuntosalin verkko koko Suomessa, kunkin aukioloajat ja sijainti selkeästi listattuna.",
+    "Perusteellinen ja kattava UKK-osio asiakaspalvelu-sivulla vastaa yleisimpiin jäsenten kysymyksiin.",
+    "Mobiilisovellus tarjoaa digitaalisen jäsenkortin, varaamisen, harjoitteluohjelmia ja haasteita."
+  ],
+  "kehityskohteet": [
+    "Jäsenmaksut näkyvät vain interaktiivisen hintalaskurin kautta; konkreettisia eurohintoja ei ole etusivulla.",
+    "Y-tunnus ei ole julkisesti näkyvillä (konserni SATS Group omistaa, mutta ELIXIAN oman Y-tunnuksen puuttuu).",
+    "Riippumaton arviolähde tai asiakasarviot puuttuvat kokonaan sivustolta."
+  ],
+  "yhteenveto": "ELIXIA on Pohjoismaiden johtava kuntoketju, jonka verkkosivusto tarjoaa kattavan tiedon jäsenyyksistä, kuntosaleista, palveluista ja soveltavista säännöistä. Sivusto on selkeästi organisoitu ja sisältää perusteellisen UKK-osion sekä laajalti kuvatun mobiilisovelluksen, mutta jäsenmaksujen hintahaarukka löytyy vain vuorovaikutteisen hintalaskurin kautta ja Y-tunnus puuttuu.",
+  "evidence": {
+    "jasenyyden_hinta_esilla": "HAVAINTO: Jäsenyydet (BASIC, FLEXIBLE - SUOSITUIN!, PREMIUM) kuvataan laajasti sivulla /jasenyydet, mutta eurohintoja ei näy teksteissä. Hintalaskuri saatavilla linkin 'Kokoa jäsenyys ja katso hinnat' takana, joka vaatii interaktiota.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Sivulla /ehdot on kattava lista sopimuksista ja säännöistä: ELIXIA-jäsenyyden yleiset ehdot, Boot campin ehdot, Cookie policy, Jäädytysehdot selkeässä muodossa, Lastenhoidon säännöt ja ehdot, Personal Training -palveluiden ehdot, Saunan turvallisuusohjeet, Tietosuojaseloste, Turvallisuus- ja järjestyssäännöt, Varaussäännöt.",
+    "y_tunnus_esilla": "HAVAINTO: ELIXIAN omaa Y-tunnusta ei näy mistään ladatusta sivusta. Sivusto mainitsee, että ELIXIA kuuluu SATS Group -konserniin, mutta organisaation omaa Y-tunnusta ei erikseen ilmoiteta.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy kolmannen osapuolen arviota, riippumattoman arviolaitoksen logoa tai asiakasarvioita.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumerot ilmoitettu sivulla /asiakaspalvelu: 0407507848 ja +358 942 451 355. Myös päänavigaatiossa 'Ota yhteyttä asiakaspalveluun' -linkki.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myyntipalvelut@elixia.fi näkyy asiakaspalvelu-sivulla jäsenyyspalvelun yhteystietojen yhteydessä.",
+    "chat_mainittu": "HAVAINTO: Live-chat saatavilla sivulla /asiakaspalvelu 'Chattaile kanssamme' -osiossa. Chat aukioloajat: ma-to 12:45-15:45, pe 9:00-15:00, kesällä 22.6-31.7 ma-pe 10:00-14:00.",
+    "aukioloajat_esilla": "HAVAINTO: Sivulla /kuntosali listataan kaikki 30+ ELIXIA-keskusta osoiteineen ja päivittäisine aukioloaikoina (esim. Centrum Turku, Circus Helsinki, Flamingo Vantaa). Jokaisen keskuksen kohdalla näkyy 'Avoinna' ja sulkemisaika.",
+    "ukk_osio": "HAVAINTO: Sivulla /asiakaspalvelu on 'Useimmin kysyttyjä kysymyksiä' -osio, jossa vastaukset mm. jäädytyksestä, irtisanomisesta, maksutavoista, hinnankorotuksista ja unohdetuista tavaroista.",
+    "mobiilisovellus": "HAVAINTO: ELIXIA-sovellus kuvattu laajalti omalla sivulla /elixia-sovellus. Sisältää digitaalisen jäsenkortin (QR-koodi), ryhmäliikuntatuntien varaamisen, harjoitteluohjelmia, tilastoja ja haasteita. Sovellus ladattavissa iOS:lle ja Androidille."
+  }
+}

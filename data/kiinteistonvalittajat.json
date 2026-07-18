@@ -1,0 +1,1285 @@
+{
+ "slug": "kiinteistonvalittajat",
+ "nimi": "Kiinteistönvälittäjät",
+ "nav": "Kiinteistönvälitys",
+ "h1": "Suomen paras kiinteistönvälitysketju 2026",
+ "yksikko": "valtakunnallista kiinteistönvälitysketjua",
+ "lead": "Pisteytimme {n} valtakunnallista kiinteistönvälitysketjua {m} mittarilla. Tärkein kysymys: kerrotaanko välityspalkkio ennen kuin luovutat yhteystietosi?",
+ "meta_title": "Suomen paras kiinteistönvälittäjä 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 kiinteistönvälitysketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Ketju ei aina ole yksi yhtiö.</b> OP Koti on noin 19 alueellisen osuuspankkien omistaman yhtiön federaatio ilman yhtä Y-tunnusta, ja Habitan kaupunkitoimistot ovat erillisiä osakeyhtiöitä. RE/MAX- ja Kiinteistömaailma-toimistot ovat itsenäisiä franchise-yrittäjiä. Bo LKV on poikkeus: yksi yhtiö koko maassa. Rakenne on merkitty jokaisen kohdalle, koska se vaikuttaa siihen, keneltä palkkiosta voi kysyä.",
+  "<b>Miksi SKV ei ole listalla?</b> Se sulautui Huoneistokeskukseen jo 2020 — skv.fi ohjaa nykyään Huoneistokeskuksen sivuille. Alueelliset ketjut (Aninkainen, Solid House, Roof Group) rajattiin pois valtakunnallisuussäännön perusteella.",
+  "Välityspalkkiot ovat aina neuvoteltavissa ja vaihtelevat kohteittain; vertailu mittaa kerrotaanko palkkiotaso ja palvelun sisältö avoimesti etukäteen, ei mikä palkkio on. Emme välitä asuntoja emmekä anna sijoitusneuvontaa. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "opkoti",
+   "nimi": "OP Koti",
+   "domain": "op-koti.fi",
+   "omistaja": "OP Ryhmä — noin 19 alueellista OP Koti Oy LKV -yhtiötä, ei yhtä Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 66.7,
+   "pillars": {
+    "digitaalinen": 73.5,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "49/100",
+       "paino": 40,
+       "pisteet": 49,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnasto-sivulla todetaan 'Löydät palveluhinnastot paikallisten OP Koti -yhtiöiden sivuilta', mikä osoittaa palkkioiden olevan alueittain vaihtelevia ja paikallisten yhtiöiden sivuilla."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla kuvataan kolme pääpalvelua: 'Asunnon myynti' (myyntisuunnittelu ja markkinointi), 'Asunnon osto' (ammattitaitoinen apu), 'Vuokra-asunnot' (etsiminen). Lisäksi mainitaan 'hinta-arvio, hyvä myyntisuunnitelma, ammattitaitoinen kiinteistönvälittäjä ja aktiivinen markkinointi'."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivu sisältää 'Sivuston käyttöehdot' ja 'Palvelun sisällölle, kuten julkaistuille teksteille, kuville, äänitiedostoille...' maininta, joka viittaa toimeksiantosopimuksiin."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivustolla yhteystiedot: puhelin 010 252 010, sähköposti opkoti@op.fi, osoite PL 909, 00101 Helsinki. Sivuston navigaatiossa on linkki 'OP Koti -toimipisteet', mutta se on dynaamisesti renderöity eikä saatavilla perinteisen URL:n kautta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivulla mainitaan 'Y-tunnus: 2241010-7' ja 'Nimi: OP Osuuskunta, Osoite: PL 909, 00101 Helsinki'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla lainaus: 'Taloustutkimuksen Suomi tänään kiinteistönvälitys -tutkimus 2025: OP Koti ykkönen tärkeimmillä ominaisuuksilla, kuten paras asiantuntemus paikallisista asuntomarkkinoista'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 49,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 9668.105499999998,
+    "cls": 0,
+    "tbt_ms": 415.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vahva brändi ja luottamuksellisuus (tutkitusti suomalaisten mieluisin valinta)",
+    "Kattava palvelupaletti (myynti, osto, vuokraus) ja laaja verkosto (yli 100 paikkakuntaa, yli 500 välittäjää)",
+    "Digitaalisia palveluita ja hinta-arviolaskuria saatavilla verkon kautta"
+   ],
+   "kehityskohteet": [
+    "Palkkiot ja hinnastot sijaitsevat alueellisten yhtiöiden sivuilla, ei pääsivustolla näkyvissä",
+    "Toimipisteiden tiedot ja aukioloajat eivät ole saatavilla pääsivustolla, vaativat alueen valintaa",
+    "Ei FAQ-osio tai asiakkaiden usein kysymillä vastauksilla"
+   ],
+   "yhteenveto": "OP Koti on OP Pohjolan omistama kiinteistönvälityspalvelu, joka operoi federaatiomallin mukaisesti ~19 alueellisen yhtiön kautta. Pääsivusto tarjoaa selkeän palvelukuvauksen ja laajat digitaaliset palvelut, mutta välityspalkkiot ja alueelliset tiedot löytyvät ainoastaan kunkin alueen yhtiöiden omilta sivuilta. Yhteystiedot ja perusalliset ehdot ovat helposti saatavilla."
+  },
+  {
+   "slug": "huoneistokeskus",
+   "nimi": "Huoneistokeskus",
+   "domain": "huoneistokeskus.fi",
+   "omistaja": "Realia/Retta-konserni — sisältää entisen SKV:n (sulautui 2020)",
+   "y_tunnus": "1831315-2",
+   "rekisteroity": 2003,
+   "score": 65.8,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu näyttää selkeästi: 'Välityspalkkiomme ovh on 4,95 % velattomasta kauppahinnasta (sis. alv) tai sopimuksen mukaan.' Vähimmäispalkkiot: pääkaupunkiseudulla 5 020€, Turku/Tampere 4 500€, muu Suomi 3 765-4 000€."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asunnon myynti -sivu kuvaa seitsemän vaiheen prosessin: 1) Arviokäynti (ilmainen, velvoitteeton), 2) Arviokäynnin jälkeen (toimeksianto, hinta), 3) Asunnon kuvaaminen (ammattilaisilla), 4) Sisäinen markkinointi ja Yhteismyynti TM, 5) Markkinointi omilla sivuilla, Facebookissa, Etuovella, Oikotiella, 6) Tarjouksista neuvottelu, 7) Kaupanteko DIAS-kaupalla tai pankissa."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Välityspalkkio-sivu mainitsee: 'Sopimus koostuu erillisestä sopimusosasta ja selostusliitteesta ja sisältää mm. perustiedot välitettävästä asunnosta ja myyjistä. Siinä sovitaan myös sopimuksen kestosta...'. Toimeksiantosopimuksen täysin tekstin ei ole linkitetty julkisesti saatavilla – asiakkaat saavat sen arviokäynnin yhteydessä."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivu kertoo: 'Huoneistokeskus palvelee sinua yli kolmellakymmenellä toimistolla ympäri Suomea.' Linkit toimistoihin: Helsinki, Espoo, Vantaa, Tampere, Turku. Sähköposti asiakaspalveluun: asiakaspalvelu@huoneistokeskus.fi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivu näyttää: 'Huoneistokeskus Oy, Y-tunnus: 1831315-2, Verkkolaskuosoite: 003718313152, Operaattori: Maventa, Välittäjän tunnus: DABAFIHH.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole mainintaa riippumattomista arviolähteistä (esim. Trustpilot-linkit, arvostelut, kolmannen osapuolen todentukset)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroita ei näy sivuston pääsivulla, yhteystiedot-sivulla tai hinnasto-sivulla. Vain sähköpostilinkkejä ja 'Katso tarkemmat yhteystiedot' -linkki on mainittu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 15621.179506318054,
+    "cls": 0.03836039862001066,
+    "tbt_ms": 2871.7265736819445
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä palveluhinnasto ja välityspalkkiot julkisesti näkyvillä (4,95% tai sopimuksen mukaan), sisältäen vähimmäispalkkiot eri alueille",
+    "Kattava palvelujen kuvaus seitsemän vaiheen prosessin avulla (arviokäynnistä kauppantekoon), ammattikuvaus, markkinointikanavat ja DIAS-digitaalikauppa",
+    "Toimeksiannon ehdoista mainittu, että sopimus on kirjallinen ja voi olla voimassa enintään 4 kuukautta, sekä sisältää sopimusosan ja selostusliitteen"
+   ],
+   "kehityskohteet": [
+    "Sopimusehtojen täysi teksti (toimeksiantosopimuksen liitteet) ei ole julkisesti saatavilla web-sivuilla – asiakkaat joutuvat pyytämään nähdä ne arviokäynnin yhteydessä",
+    "Puhelinnumeroita ei näy julkisesti etusivulla tai yhteystiedot-sivulla; vain sähköpostiosoite (asiakaspalvelu@huoneistokeskus.fi) ja linkki 'Katso tarkemmat yhteystiedot' on mainittu",
+    "Liveä chat- tai viestintäkanavaa ei ole mainittu; aukioloajat ja chatpalvelu puuttuvat sivustolta; UKK-osio tai FAQ puuttuu kokonaan"
+   ],
+   "yhteenveto": "Huoneistokeskus on Suomen kokenein kiinteistönvälityspalvelu, joka toimii yli 30 toimistolla ympäri Suomea. Sivustolla välityspalkkio (4,95% tai sopimuksen mukaan) ja palvelupaketti ovat selkeästi esillä, ja seitsemän vaiheen myyntiprosessi on kattavasti kuvattu. Y-tunnus (1831315-2) näkyy yhteystiedot-sivulla. Sopimusehtojen yksityiskohdat puuttuvat julkisesta näkyvyydestä, ja asiakastuen puhelinnumero sekä chat-palvelu eivät ole helposti saatavilla."
+  },
+  {
+   "slug": "bolkv",
+   "nimi": "Bo LKV",
+   "domain": "bo.fi",
+   "omistaja": "Bo LKV Oy — yksi yhtiö, kaupunkitoimistot aputoiminimiä",
+   "y_tunnus": "2796763-3",
+   "rekisteroity": 2016,
+   "score": 65.8,
+   "pillars": {
+    "digitaalinen": 71.1,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 58.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'Arviokäynti on maksuton, kun harkitset asuntosi myyntiä. Jos tarvitset arvion esimerkiksi pankkia varten, veloitamme hinnastomme mukaisen palkkion.' Konkreettinen palkkioprosentti ei ole verkon kautta näkyvissä."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla kuvataan laajasti myyntiin liittyviä palveluita (arviokäynti, stailaus, Bo App, asiakasedut), ostoon liittyviä (sneak peek, uudiskohteet, loma-asunnot) sekä yrityspalveluita. Kuitenkin yksityiskohtaiset palvelukuvaukset ovat linkkien takana, jotka eivät avaudu fetch-hakemuksilla."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteesta käy ilmi, että Bo LKV ylläpitää toimeksiantopäiväkirjaa ja sopimussuhteita, mutta varsinaiset toimeksiantosopimuksen ehdot eivät ole verkon kautta julkisesti saatavilla. Viitataan asiakaspalveluun yhteydenotossa."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla on yksityiskohtainen lista kaikista 16 toimistosta osoitteineen, puhelinnumeroineen ja sähköpostiosoitteineen (esim. Espoo Spektri Business Park, puh. 040 808 6832, espoo@bo.fi)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2796763-3 on näkyvissä kaikissa toimistotiedoissa yhteystiedot-sivulla sekä tietosuojaselosteessa rekisterinpitäjän tunnuksena."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 040 808 6832 on näkyvissä useiden toimistojen yhteystiedoissa, samoin aluespesifiset numerot (esim. Hämeenlinna 040 523 9474)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä kaikille toimistoille alueittain (esim. espoo@bo.fi, helsinki@bo.fi, tampere@bo.fi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'KYSY BOLTA' -palvelu, joka on 'Bon digitaalinen asiantuntija' tekoälyä käyttävä chat. Lisäksi mainitsee 15 minuutin puhelintapaamisen välittäjän kanssa, mutta varsinainen livechat-palvelu ei ole muuten näkyvissä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konkreettisia aukioloaikoja ei ole listattu. Ajanvarauskalenteri näyttää vapaat ajat alueittain, mutta kirjattuja toimiston aukioloaikoja ei ole näkyvissä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 6847.657499999999,
+    "cls": 0.004670090610911474,
+    "tbt_ms": 1201
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkon peittävyys 16 toimistolla ympäri Suomea ja Espanjassa, selkeä paikalliset yhteystiedot helposti löytyvissä",
+    "Kattava palveluvalikko asiakassegmenteille (myyjät, ostajat, sijoittajat, yritykset) sekä lisäpalvelut kuten stailaus ja sisustussuunnittelu",
+    "Digitaaliset työkalut kuten Bo App ja ajanvarauskalenteri asiakkaiden omahoidolle sekä arviokäyntien varaamiselle"
+   ],
+   "kehityskohteet": [
+    "Välityspalkkion prosentti ei ole julkisesti näkyvissä – sivusto viittaa vain yleisesti 'hinnastoostamme' ilman konkreettisia lukuja",
+    "Toimeksiantosopimuksen ehdot eivät ole saatavilla verkon kautta, vaatii kontaktointia asiakaspalveluun",
+    "Kirjalliset usein kysytyt kysymykset (UKK) puuttuvat – sivusto viittaa FAQ:hin mutta piilottaa sisällön ajanvarauspalvelun taakse"
+   ],
+   "yhteenveto": "Bo LKV on Suomen suurimmista kiinteistönvälityspalveluista 16 toimistolla ja yli 250 ammattilaisella. Sivusto tarjoaa kattavan palvelukuvauksen ja helpot yhteystiedot kaikkiin toimistoihin, mutta ei julkaise palkkioprosentteja eikä sopimusehdot ole verkon kautta luettavissa. Palveluiden hinta- ja ostoehtojen tarkastelu vaatii suoraa kontaktointia asiakaspalveluun."
+  },
+  {
+   "slug": "kiinteistomaailma",
+   "nimi": "Kiinteistömaailma",
+   "domain": "kiinteistomaailma.fi",
+   "omistaja": "Kiinteistömaailma Oy — franchise-ketju",
+   "y_tunnus": "0804835-9",
+   "rekisteroity": 1990,
+   "score": 65.0,
+   "pillars": {
+    "digitaalinen": 71.6,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 22.5,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnasto-sivu ilmoittaa: 'Välityspalkkiomme ovh on 5,0% (sis. alv) + asiakirja- ja markkinointikulut. Vähimmäispalkkio on alkaen 3500 euroa.'"
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asunnon myynti -sivulla kerrotaan prosessista: kotikäynti, hinta-arvio, markkinointisuunnitelma, videoesittelyt ja perinteinen myyntitapa sekä Tarjouskauppa-palvelu."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivu sisältää palvelun sopimusehdot ja vastuun rajoitukset. Sivulla mainitaan myös 'Tietosuojaseloste' linkkeinä, vaikka suora linkitys näihin ei toimi HTTP-haun kautta."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kiinteistönvälitys yli 100 myymälän voimin' ja 'Asuntomyymälät'-osio listaa toimistot aakkosjärjestyksessä (Espoo, Helsinki, Turku jne.). Johtoryhmän yhteystiedot näkyvät sivulla (Mika Laurikainen 040 560 7514, muut jäsenet)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy missään haetulla sivulla. Sivulla esiintyy teksti 'Kiinteistömaailma Oy' mutta Y-tunnusta ei julkaista."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät vain johtoryhmän yhteydessä (toimitusjohtaja 040 560 7514 jne.), ei yleistä asiakaspalvelun numeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole julkaisesti näkyvillä pääsivulla. Palveluhinnasto-sivulla on 'OTA YHTEYTTÄ' -painike joka johtaa lomakkeelle, mutta suoraa sähköpostiosoitetta ei ilmaista."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kima - asuntokauppa-apuri' chat-palvelu, mutta se on pikemminkin chatbot-apurin kuin asiakaspalvelun edustaja."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK:ta ei löydy. Sivulla on linkkejä 'Asunnon ostoon ja myyntiin liittyvät käytännöt' mutta varsinainen UKK-osio puuttuu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 12101.175,
+    "cls": 0,
+    "tbt_ms": 2406
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Välityspalkkio ja muut maksut selkeästi esillä palveluhinnasto-sivulla (5,0% + kulut)",
+    "Laaja palveluiden kuvaus: Kotikäynti, hinta-arvio, videoesittelyt ja markkinointisuunnitelma",
+    "Yli 100 myymälää Suomessa maantieteellisesti laajalla alueella helpottaen paikallisen välittäjän löytämistä"
+   ],
+   "kehityskohteet": [
+    "Sopimuksenehdot eivät ole helposti löydettävissä; käyttöehdot ovat olemassa mutta linkitys on epäselvästi merkitty",
+    "Y-tunnus, sähköpostiosoite ja toimistokohtaiset yhteystiedot eivät ole julkisesti näkyvillä pääsivulla",
+    "UKK-osio puuttuu; asiakasvastaukset voitaisiin organisoida paremmin usein esitettyjen kysymysten osalta"
+   ],
+   "yhteenveto": "Kiinteistömaailma on Suomen suurin kiinteistönvälitysketju, jolla on yli 100 myymälää ja 500+ ammattilaista. Sivusto kuvaa palveluita selkeästi ja näyttää välityspalkkion (5,0%) avoimesti palveluhinnasto-sivulla. Sopimuksenehdot ovat saatavilla, mutta sivuston navigaatio on hieman haastava (client-side routing), ja joitakin tärkeitä tietoja kuten Y-tunnus ja välittäjäkohtaiset yhteystiedot puuttuvat tai ovat piilossa."
+  },
+  {
+   "slug": "remax",
+   "nimi": "RE/MAX",
+   "domain": "remax.fi",
+   "omistaja": "REF Real Estate Franchises Oy — kansainvälisen RE/MAX-ketjun master-franchisoija; toimistot itsenäisiä",
+   "y_tunnus": "2019179-9",
+   "rekisteroity": 2006,
+   "score": 64.1,
+   "pillars": {
+    "digitaalinen": 73.0,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 52.5,
+    "ai_laatu": 72.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "88/100",
+       "paino": 15,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelupaketit esitellään kolmella tasolla (Basic 400€ + 2,9%, Boost 500€ + 3,4%, Premium 600€ + 4,4%). Sivulla mainitaan: 'Välityspalkkiopaketit voivat vaihdella alueittain. Pyydä yksilöllinen välityspalvelutarjous.' Palkkiot eivät siis ole täysin vakioitu."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokainen palvelupaketti sisältää perusteellisen kuvauksen sisällöstä, sekä taulukko joissa vertaillaan markkinointimateriaalien, lisämarkkinoinnin ja muiden palveluiden sisältöä paketeittain."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakasetujen sivulla mainitaan 'Saat toimeksiantosopimuksen solmimisen jälkeen oman henkilökohtaisen linkin asiakasetuihin'. Sopimusehdot annetaan sopimuksen solmimisen jälkeen, eivät etukäteen julkisesti."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja yhteystiedot-sivulla listataan toimistoja paikkakunnittain (yli 20 kaupunkia). Yhteystiedot: Runeberginkatu 58, puhelin 020 753 4000 (arkisin klo 9–16), sähköpostit info@remax.fi ja pasi.aalto@remax.fi (toimitusjohtaja)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa mainitaan 'Rekisterinpitäjä: REF Franchices Finland Oy', mutta virallista Y-tunnusta ei julkaista sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mediapalveluiden osalta mainitaan 'arkisin klo 9–16', mutta yleisiä toimistojen aukioloaikoja ei ole selkeästi julkaistu. Sivustolla mainitaan myös yksilöiden toimistot voivat vaihdella."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 89,
+    "seo": 85,
+    "best_practices": 88,
+    "lcp_ms": 3266.8257400000007,
+    "cls": 0.16685897589063917,
+    "tbt_ms": 2402.1904400000003
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Palvelupakettien sisältö on selkeästi kuvattu taulukkomuodossa kolmella eri tasolla (Basic, Boost, Premium)",
+    "Välityspalkkiot ovat näkyvillä prosenttiosuuksina ja kiinteillä summilla, mutta huomautus mahdollisista alueellisista vaihteluista",
+    "Yhteystiedot (puhelin ja sähköposti) helposti löydettävät; medialle nimetty vastuuhenkilö (toimitusjohtaja)"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä, vaikka REF Franchices Finland Oy nimellä toimii",
+    "Toimeksiantosopimuksen ehdot annetaan vasta sopimuksen solmimisen jälkeen, ei saatavilla etukäteen",
+    "Puuttuu erillinen UKK-osio vastaamaan asiakkaiden yleisiin kysymyksiin; chat-palvelu tai live-support ei mainittuna"
+   ],
+   "yhteenveto": "RE/MAX on valtakunnallinen kiinteistönvälitysketju, joka toimii franchise-mallilla itsenäisten toimistojen kanssa. Sivustolla esitellään selkeästi kolmen tason palvelupakettien sisältö ja välityspalkkiot (2,9–4,4 % + kiinteät maksut), mutta huomautus palkkioiden mahdollisista alueellisista vaihteluista heikentää läpinäkyvyyttä. Yhteystiedot ovat saatavilla, mutta toimeksiantosopimuksen ehdot annetaan vasta sopimuksen jälkeen."
+  },
+  {
+   "slug": "habita",
+   "nimi": "Habita",
+   "domain": "habita.com",
+   "omistaja": "Habita Finland Oy; kaupunkitoimistot erillisiä osakeyhtiöitä saman brändin alla",
+   "y_tunnus": "0980183-2",
+   "rekisteroity": 1994,
+   "score": 56.5,
+   "pillars": {
+    "digitaalinen": 70.9,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 48.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla teksti sanoo 'Kiinteistönvälityspalveluiden hinta riippuu aina maasta...Tarkasta eri maiden palveluhinnastot toimipistesivuiltamme.' Erilliseen hinnastosivuun ei ole linkkiä eikä sitä voi ladata (HTTP 404)."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja /sell ja /buy sivuilla kuvataan palvelun sisältö selkeästi — asunnon myynti, ostaminen, ilmainen arvio, markkinointi, asiakirjat."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /terms-of-use sivu on olemassa, mutta se on englanniksi. Sivu sisältää yleisiä käyttöehtoja mutta ei suomalaiseen toimeksiantosopimukseen viittaavia ehtoja."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivu näyttää Helsinki osoitteen (Elimäenkatu 17-19) ja puhelinnumeron (+358 10 5855 010). Muita suomalaisia toimistoja ei ole listattu. Teksti mainitsee +60 toimipistetta maailmanlaajuisesti, mutta suomalaiset toimistot ovat puuttuvat."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /terms-of-use sivulla mainitaan 'Habita International Estates Oy', mutta rekisteritunnusta (Y-tunnus) ei ole näkyvissä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei viitata riippumattomiin arviointilähteisiin (kuten asiakasarviot kolmannen osapuolen sivuilla)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla +358 10 5855 010 ja /terms-of-use sivulla +358 50 420 0000."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /terms-of-use sivulla jari.gardziella@habita.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei ole erillista UKK-osiota. /faq ja muut mahdolliset FAQ-polut palauttavat HTTP 404."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 6043.3278199999995,
+    "cls": 0.12505593944952567,
+    "tbt_ms": 1304
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä ja kattava kuvaus asunnon osto- ja myyntipalveluista",
+    "Puhelinnumero ja sähköpostiosoite helposti löydettävissä",
+    "Kansainvälinen verkosto (yli 30 maata) on hyvin esillä"
+   ],
+   "kehityskohteet": [
+    "Palvelun hinnat eivät ole julkisesti saatavilla — käyttäjät ohjataan ottamaan yhteyttä",
+    "Suomalaiset toimistot, osoitteet ja aukioloajat puuttuvat",
+    "Usein kysytyt kysymykset (UKK) osio puuttuu kokonaan"
+   ],
+   "yhteenveto": "Habita on kansainvälinen kiinteistönvälityspalvelu, joka tarjoaa asunnon osto- ja myyntipalveluita yli 30 maassa. Sivulla esitellään palveluiden sisältö selkeästi, mutta välityspalkkio-hinnat eivät ole julkisesti näkyvissä — sivun mukaan ne löytyvät maakohtaisesti toimipistesivuilla, joihin ei ole suoria linkkejä. Kontaktitiedot (puhelin ja sähköposti) on helposti saatavilla."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Välityspalkkio tai hinnasto julkisesti esillä (30), palvelun sisältö (mitä palkkiolla saa) kuvattu (20), toimeksiantosopimuksen ehdot julkisesti (15), toimistot ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

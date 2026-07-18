@@ -553,7 +553,9 @@ COMPANIES["autovuokraamot"] = [
          omistaja="Interrent Oy — osa Europcar Mobility Groupia"),
     dict(slug="scandia-rent", nimi="Scandia Rent", domain="scandiarent.fi", y_tunnus="2509794-5",
          omistaja="Mabi Mobility Oy — ruotsalainen Hedin Mobility Group; brändi vaihtumassa MABI Mobilityksi"),
-    dict(slug="green-motion", nimi="Green Motion", domain="greenmotion.fi", y_tunnus="1837195-0",
+    # domain greenmotion.com, not .fi: greenmotion.fi redirects to greenmotion.com/fi —
+    # the .com site IS where a Finnish visitor lands (same decision as pohjola.fi→op.fi).
+    dict(slug="green-motion", nimi="Green Motion", domain="greenmotion.com", y_tunnus="1837195-0",
          omistaja="Green Motion International -franchise, suomalaiset franchise-yrittäjät"),
 ]
 

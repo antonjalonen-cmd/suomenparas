@@ -1,0 +1,50 @@
+{
+  "slug": "avis",
+  "fetched_ok": [
+    "https://www.avis.fi",
+    "https://www.avis.fi/en/faqs",
+    "https://www.avis.fi/en/about-avis",
+    "https://www.avis.fi/en/avis-preferred"
+  ],
+  "hinta_ilman_yhteystietoja": "ei",
+  "omavastuu_ja_vakuutus": "kylla",
+  "vuokrausehdot_saatavilla": "osittain",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kattava FAQ-osio vastaa peruskysymyksiin vakuutuksista, vuokrauksesta ja maksuista",
+    "Vakuutusvaihtoehdot selkeästi kuvattu: omavastuu vaihtelee 1200-4000 euroa luokittain, Super Cover ja Super Cover Plus saatavilla",
+    "Avis Preferred -jäsenohjelma ilmainen, 10% alennus ja etusija-palvelu mainittu"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu näkyy ainoastaan varauskoneen sisällä, ei julkisia hintaesimerkkejä pienimmillä autoilla",
+    "Toimipisteiden aukioloajat puuttuvat; 9 paikkaa listattu ilman tarkempia tietoja",
+    "Vuokrausehdoista puuttuvat km-rajat, polttoaine-ehdot ja täsmälliset ikärajoitukset"
+  ],
+  "yhteenveto": "Avis on kansainvälinen autovuokraamo, jonka Suomen sivusto tarjoaa kattavat tiedot vakuutuksista ja vuokrausehdoista FAQ-osiossa. Hinnoittelua ei näy ilman varauskonetta, ja toimipisteiden yksityiskohtaiset tiedot (aukioloajat, tarkka sijainti) puuttuvat verkkosivuilta.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Etusivulla vuokrauslaskuri avautuu heti, mutta konkreettisia hintoja ei näy ilman varauslomakkeen täyttöä. Hinnat näkyvät vain interaktiivisesti valittujen päivämäärien ja sijaintien jälkeen.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: FAQ-sivu kuvailee yksityiskohtaisesti: 'Excess means the maximum sum of money that the renter has to pay in case of a theft or damage...The excess stated is the maximum meaning that the charge may be smaller depending on the extent of damage.' Omavastuu vaihtelee 1200-4000 euroa autojen luokan mukaan. Vakuutusvalinnat sisältävät Super Cover (omavastuu 400€ tai poistettu) ja Super Cover Plus (myös tieassistanssi).",
+    "vuokrausehdot_saatavilla": "HAVAINTO: FAQ mainitaan ikävaatimuksena 'driving license valid for at least one year' Suomessa. Talvirenkaat saatavilla 'between November and March, depending on the weather.' Polttoaineen osalta kolme vaihtoehtoa: palautus täydellä, ennakkomaksu tai maksu jälkikäteen. Km-rajoja ei mainittu FAQ-sivulla.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Sivulla mainitut Suomen paikat: Helsinki, Helsinki-Vantaa, Rovaniemi, Kittilä, Oulu, Tampere, Turku, Kuusamo ja Inari. Yksityiskohtaiset aukioloajat tai osoitteet eivät näky ladatuilla sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainittu etusivulla, FAQ-sivulla, About-sivulla eikä Avis Preferred -sivulla.",
+    "puhelin_esilla": "HAVAINTO: Etusivulla ja virheensivu-ilmoituksissa näkyvät numerot: '0600 96050' (Palvelukeskus, 0,98 €/min) ja '+358 (0) 10 436 2200' (varauksista ja avusta).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla, lukuun ottamatta rekisteröintilomakkeita.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu ei mainita ladatuilla sivuilla. Palvelut: puhelin, Preferred-asiakaspalvelu ja 'Contact Us' linkki.",
+    "aukioloajat_esilla": "HAVAINTO: Varauskeskuksen puhelinnumero 0600 96050 on listattu, ja 010 436 2200 mainitaan. Toimipisteiden aukioloajoja ei löytynyt.",
+    "ukk_osio": "HAVAINTO: Kattava 'Frequently Asked Questions' -sivu saatavilla osoitteessa https://www.avis.fi/en/faqs, sisältöä noin 21 000 merkkiä kattavasti peruskysymykset auton valinnasta palautukseen."
+  }
+}

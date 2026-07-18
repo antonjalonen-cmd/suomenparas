@@ -1,0 +1,50 @@
+{
+  "slug": "europcar",
+  "fetched_ok": [
+    "https://www.europcar.fi/",
+    "https://www.europcar.fi/yhteystiedot"
+  ],
+  "hinta_ilman_yhteystietoja": "ei",
+  "omavastuu_ja_vakuutus": "osittain",
+  "vuokrausehdot_saatavilla": "osittain",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 45,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 35
+  },
+  "vahvuudet": [
+    "Selkeä Y-tunnus ja kontakti-tiedot helposti saatavilla yhteystiedot-sivulla",
+    "Europcar-mobiilisovellus mainitaan pääsivulla, tarjoaa vaihtoehtoisen kanavan",
+    "Varauspalvelun puhelinnumero ja sähköpostiosoitteet näkyvät yhteystiedoissa"
+  ],
+  "kehityskohteet": [
+    "Pääsivulla ei näy hinnoittelutietoja ilman varauskaavakkeeseen syöttöä",
+    "Omavastuu- ja vakuutusvaihtoehdot eivät ole saatavilla ennen yhteystietojen antamista",
+    "Vuokrausehdot, toimipisteiden aukioloajat ja FAQ eivät lataudu (404-virheet tai timeout)"
+  ],
+  "yhteenveto": "Europcar on Suomen suurin autovuokraamo, jonka verkkosivusto on JavaScript-pohjainen SPA-sovellus. Yhteystiedot ja Y-tunnus ovat saatavilla, mutta hinnoittelua, vakuutusvaihtoehtoja ja vuokrausehtoja ei voi nähdä ilman suoraa vuorovaikutusta varauskaavakkeeseen tai yhteydenottoa palveluun. Sivuston käytettävyys vertailussa on heikko, koska kriittiset tiedot edellyttävät asiakkaan yhteystietojen antamista.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Pääsivulla näkyy varauskaavake, mutta varauksen tekeminen vaatii noutotiedot, päivämäärät ja ikä -tiedot. Hintoja ei näy ennen lomakkeen täyttämistä.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: Yhteystiedot-sivulla mainitaan laskutus ja asiakaspalveluun liittyvät puhelinumerot (0403 062 465), joten vakuutus- ja omavastuusta voidaan kysyä, mutta tiedot eivät ole julkisesti saatavilla verkkosivuilla.",
+    "vuokrausehdot_saatavilla": "HAVAINTO: Pääsivulla mainitaan linkki 'Vuokrausehdot', mutta sivua ei voida ladata (HTTP 404). Varauspalvelun yhteydessä kerrotaan, että vuokrausehdot ovat olemassa, mutta niitä ei saada näkyviin.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Pääsivulla mainitaan toimipisteet (Helsinki-Vantaa, Oulu, Rovaniemi, Kittilä) ja on linkki 'Etsi toimipiste', mutta toimipiste-sivu ei lataudu (timeout tai 404). Aukioloajat näkyvät vain varauspalvelulle (MA-PE 08:00-17:30).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0109269-9 näkyy yhteystiedot-sivulla selvästi, sekä verkkolaskutusosoite 003701092699.",
+    "riippumaton_arvio": "HAVAINTO: Pääsivulla näkyvät palkinnot 'Grand Travel Award Finland 2025 - Best Car Rental company', 'World's Leading Car Rental Company' ja 'KAYAK 2020 Best Cleanliness', mikä osoittaa riippumattomia arvioita.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyvät puhelinumerot: vaihde 0403 062 400, varauspalvelu 0200 12 154, laskutus 0403 062 465, ulkomaan vuokraukset 0403 062 766.",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyvät sähköpostiosoitteet: info@europcar.fi, varaukset@europcar.fi, customerservice@europcar.fi, myynti@europcar.fi, sijaisautopalvelu@europcar.fi.",
+    "chat_mainittu": "HAVAINTO: Verkkosivuilla ei mainittu chat-palvelua tai live-chat -ominaisuutta.",
+    "aukioloajat_esilla": "HAVAINTO: Varauspalvelun aukioloajat näkyvät yhteystiedoissa (MA-PE 08:00-17:30), mutta konttoreiden yleiset aukioloajat eivät ole saatavilla.",
+    "ukk_osio": "HAVAINTO: Pääsivulla on linkki 'Usein kysytyt kysymykset', mutta sivu ei lataudu (HTTP 404). FAQ-sivu ohjaa USA-sivulle, mikä on hyödytöntä suomalaisille asiakkaille.",
+    "mobiilisovellus": "HAVAINTO: Pääsivulla mainitaan 'Uusi älykäs sovellus' ja 'Europcar-sovelluksessa' voi tehdä varauksia. Sovellus on saatavilla, kuten yhteystiedoissa kerrotaan."
+  }
+}

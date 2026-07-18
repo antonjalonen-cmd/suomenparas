@@ -1,0 +1,50 @@
+{
+  "slug": "mehilainen",
+  "fetched_ok": [
+    "https://www.mehilainen.fi",
+    "https://www.mehilainen.fi/toimipisteet",
+    "https://www.mehilainen.fi/sairaalat",
+    "https://www.mehilainen.fi/omamehilainen",
+    "https://www.mehilainen.fi/palvelut",
+    "https://www.mehilainen.fi/hinnasto",
+    "https://www.mehilainen.fi/yritys",
+    "https://www.mehilainen.fi/tyoterveys"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "kylla",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "yleislaakari_hinta_eur": 49,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Kattava hinnasto ja läpinäkyvä hinnoittelu etävastaanottopalveluille (Digiklinikka 49 €, reseptin uusinta 35 €)",
+    "OmaMehiläinen-sovellus mahdollistaa helpon ajanvarauksen, tutkimustulosten katselun ja perheliitoksen ilman kirjautumista",
+    "24/7 saatavilla oleva Digiklinikka-etäpalvelu useiden erikoisalojen kanssa, asiakastyytyväisyys NPS 91"
+  ],
+  "kehityskohteet": [
+    "Yksittäisten toimipisteiden aukioloajat eivät ole suoraan näkyvissä etusivulla, hakutoiminnallisuus vaatii JavaScript-renderöintiä",
+    "Tavallisen lääkärikäynnin vastaanottohinta (ei Digiklinikkaa) vaatii navigoinnin lääkärin yksittäiselle sivulle tai puhelinsoitolla tiedustelun",
+    "Y-tunnus puuttuu julkisesti näkyvistä sivuista, ei merkittyä riippumatonta arviointilähteistä (NPS on oma mittari)"
+  ],
+  "yhteenveto": "Mehiläinen on laajasti toimiva yksityinen terveyspalveluiden tuottaja, jolla on vahva digitaalinen palvelutarjonta OmaMehiläinen-sovelluksen ja 24/7 Digiklinikan kautta. Sivusto esittelee selkeästi etävastaanottojen hinnat ja Kela-korvaukset, mutta fyysisten vastaanottojen hinnat ja toimipisteiden aukioloajat löytyvät vain yksittäisiä lääkäreitä selaillessa.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Digiklinikan etävastaanottojen hinnat esillä hinnasto-sivulla (49 €), samoin muiden palveluiden hinnat kuten kuvantamis- ja laboratoriotutkimukset, leikkaukset ja rokotukset.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: OmaMehiläinen-sovelluksella pääsee varamaan aikaa, myös chat-palvelun kautta voi varata aikaa, puhelinpalvelu 010 414 00 saatavilla pvm/mpm.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hinnasto-sivulla maininta Kela-korvauksesta, laboratoriotutkimuksissa Kelan vähennys mahdollinen lähettäessä, hinnastossa huomautus poliklinikkamaksusta ja Kanta-maksusta.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla on hakutoiminto sijainnin, toimipistetyyppin ja palvelun mukaan, mutta yksittäisten toimipisteiden aukioloajat eivät näy renderöidyssä sisällössä. Sairaala-sivu mainitsee 14 paikkakuntaa ympäri Suomen, leikkaussalit avoinna arkipäivisin.",
+    "riippumaton_arvio": "HAVAINTO: Etusivu raportoi NPS-indeksin arvoksi 91 (-100–+100 asteikolla, yli 50 erinomainen) ja asiakastyytyväisyysprosentti 76 %, mittaus jatkuva.",
+    "puhelin_esilla": "HAVAINTO: Henkilöasiakkaiden asiakaspalvelu 010 414 00 (pvm/mpm), yritysasiakkaiden 010 414 0800 (pvm/mpm), työterveyden myynti 010 414 0112 (pvm/mpm)."
+  }
+}

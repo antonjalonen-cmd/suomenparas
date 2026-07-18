@@ -1,0 +1,50 @@
+{
+  "slug": "habita",
+  "fetched_ok": [
+    "https://www.habita.com/fi",
+    "https://www.habita.com/sell",
+    "https://www.habita.com/buy",
+    "https://www.habita.com/contact",
+    "https://www.habita.com/terms-of-use"
+  ],
+  "valityspalkkio_esilla": "osittain",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "sopimusehdot_saatavilla": "osittain",
+  "toimistot_ja_yhteystiedot": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "valityspalkkio_pct": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 58
+  },
+  "vahvuudet": [
+    "Selkeä ja kattava kuvaus asunnon osto- ja myyntipalveluista",
+    "Puhelinnumero ja sähköpostiosoite helposti löydettävissä",
+    "Kansainvälinen verkosto (yli 30 maata) on hyvin esillä"
+  ],
+  "kehityskohteet": [
+    "Palvelun hinnat eivät ole julkisesti saatavilla — käyttäjät ohjataan ottamaan yhteyttä",
+    "Suomalaiset toimistot, osoitteet ja aukioloajat puuttuvat",
+    "Usein kysytyt kysymykset (UKK) osio puuttuu kokonaan"
+  ],
+  "yhteenveto": "Habita on kansainvälinen kiinteistönvälityspalvelu, joka tarjoaa asunnon osto- ja myyntipalveluita yli 30 maassa. Sivulla esitellään palveluiden sisältö selkeästi, mutta välityspalkkio-hinnat eivät ole julkisesti näkyvissä — sivun mukaan ne löytyvät maakohtaisesti toimipistesivuilla, joihin ei ole suoria linkkejä. Kontaktitiedot (puhelin ja sähköposti) on helposti saatavilla.",
+  "evidence": {
+    "valityspalkkio_esilla": "HAVAINTO: Pääsivulla teksti sanoo 'Kiinteistönvälityspalveluiden hinta riippuu aina maasta...Tarkasta eri maiden palveluhinnastot toimipistesivuiltamme.' Erilliseen hinnastosivuun ei ole linkkiä eikä sitä voi ladata (HTTP 404).",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Pääsivulla ja /sell ja /buy sivuilla kuvataan palvelun sisältö selkeästi — asunnon myynti, ostaminen, ilmainen arvio, markkinointi, asiakirjat.",
+    "sopimusehdot_saatavilla": "HAVAINTO: /terms-of-use sivu on olemassa, mutta se on englanniksi. Sivu sisältää yleisiä käyttöehtoja mutta ei suomalaiseen toimeksiantosopimukseen viittaavia ehtoja.",
+    "toimistot_ja_yhteystiedot": "HAVAINTO: Pääsivu näyttää Helsinki osoitteen (Elimäenkatu 17-19) ja puhelinnumeron (+358 10 5855 010). Muita suomalaisia toimistoja ei ole listattu. Teksti mainitsee +60 toimipistetta maailmanlaajuisesti, mutta suomalaiset toimistot ovat puuttuvat.",
+    "y_tunnus_esilla": "HAVAINTO: /terms-of-use sivulla mainitaan 'Habita International Estates Oy', mutta rekisteritunnusta (Y-tunnus) ei ole näkyvissä.",
+    "puhelin_esilla": "HAVAINTO: Pääsivulla +358 10 5855 010 ja /terms-of-use sivulla +358 50 420 0000.",
+    "email_esilla": "HAVAINTO: /terms-of-use sivulla jari.gardziella@habita.com.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata riippumattomiin arviointilähteisiin (kuten asiakasarviot kolmannen osapuolen sivuilla).",
+    "ukk_osio": "HAVAINTO: Sivulla ei ole erillista UKK-osiota. /faq ja muut mahdolliset FAQ-polut palauttavat HTTP 404."
+  }
+}

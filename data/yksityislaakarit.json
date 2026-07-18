@@ -1,0 +1,870 @@
+{
+ "slug": "yksityislaakarit",
+ "nimi": "Yksityislääkärit",
+ "nav": "Lääkärit",
+ "h1": "Suomen paras yksityinen lääkäriketju 2026",
+ "yksikko": "valtakunnallista lääkäriketjua",
+ "lead": "Pisteytimme {n} valtakunnallista yksityistä lääkäriketjua {m} mittarilla. Tärkein kysymys: näkyykö vastaanoton hinta ennen ajanvarausta?",
+ "meta_title": "Suomen paras yksityinen lääkäriketju 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "4 yksityistä lääkäriketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi listalla on vain 4 ketjua?</b> Suomessa on neljä aidosti valtakunnallista yksityistä lääkäriketjua. Tarkistimme myös muut ehdokkaat: <b>Diacor</b> sulautui Terveystaloon jo 2016 (diacor.fi palvelee nykyään täysin eri sivustoa), ja alueelliset tai yhden erikoisalan toimijat rajattiin pois. Pienempi oikea joukko on parempi kuin täytetty lista.",
+  "<b>Tämä ei ole hoitosuositus.</b> Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia: hintojen näkyvyyttä, ajanvarauksen sujuvuutta ja tavoitettavuutta. Se ei mittaa hoidon laatua, lääkäreiden osaamista eikä jonotusaikoja. Hätätilanteessa soita 112.",
+  "Vastaanottojen hinnat vaihtelevat toimipisteittäin ja lääkäreittäin; vertailu mittaa kerrotaanko hinnat avoimesti, ei mikä hinta on. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "mehilainen",
+   "nimi": "Mehiläinen",
+   "domain": "mehilainen.fi",
+   "omistaja": "Mehiläinen Oy — pääomasijoittajaomisteinen konserni",
+   "y_tunnus": "1927556-5",
+   "rekisteroity": 2004,
+   "score": 84.0,
+   "pillars": {
+    "digitaalinen": 71.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Vastaanottojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Digiklinikan etävastaanottojen hinnat esillä hinnasto-sivulla (49 €), samoin muiden palveluiden hinnat kuten kuvantamis- ja laboratoriotutkimukset, leikkaukset ja rokotukset."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaMehiläinen-sovelluksella pääsee varamaan aikaa, myös chat-palvelun kautta voi varata aikaa, puhelinpalvelu 010 414 00 saatavilla pvm/mpm."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla maininta Kela-korvauksesta, laboratoriotutkimuksissa Kelan vähennys mahdollinen lähettäessä, hinnastossa huomautus poliklinikkamaksusta ja Kanta-maksusta."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla on hakutoiminto sijainnin, toimipistetyyppin ja palvelun mukaan, mutta yksittäisten toimipisteiden aukioloajat eivät näy renderöidyssä sisällössä. Sairaala-sivu mainitsee 14 paikkakuntaa ympäri Suomen, leikkaussalit avoinna arkipäivisin."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu raportoi NPS-indeksin arvoksi 91 (-100–+100 asteikolla, yli 50 erinomainen) ja asiakastyytyväisyysprosentti 76 %, mittaus jatkuva."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Henkilöasiakkaiden asiakaspalvelu 010 414 00 (pvm/mpm), yritysasiakkaiden 010 414 0800 (pvm/mpm), työterveyden myynti 010 414 0112 (pvm/mpm)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 7719.529000000002,
+    "cls": 0,
+    "tbt_ms": 3658.4999999999945
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnasto ja läpinäkyvä hinnoittelu etävastaanottopalveluille (Digiklinikka 49 €, reseptin uusinta 35 €)",
+    "OmaMehiläinen-sovellus mahdollistaa helpon ajanvarauksen, tutkimustulosten katselun ja perheliitoksen ilman kirjautumista",
+    "24/7 saatavilla oleva Digiklinikka-etäpalvelu useiden erikoisalojen kanssa, asiakastyytyväisyys NPS 91"
+   ],
+   "kehityskohteet": [
+    "Yksittäisten toimipisteiden aukioloajat eivät ole suoraan näkyvissä etusivulla, hakutoiminnallisuus vaatii JavaScript-renderöintiä",
+    "Tavallisen lääkärikäynnin vastaanottohinta (ei Digiklinikkaa) vaatii navigoinnin lääkärin yksittäiselle sivulle tai puhelinsoitolla tiedustelun",
+    "Y-tunnus puuttuu julkisesti näkyvistä sivuista, ei merkittyä riippumatonta arviointilähteistä (NPS on oma mittari)"
+   ],
+   "yhteenveto": "Mehiläinen on laajasti toimiva yksityinen terveyspalveluiden tuottaja, jolla on vahva digitaalinen palvelutarjonta OmaMehiläinen-sovelluksen ja 24/7 Digiklinikan kautta. Sivusto esittelee selkeästi etävastaanottojen hinnat ja Kela-korvaukset, mutta fyysisten vastaanottojen hinnat ja toimipisteiden aukioloajat löytyvät vain yksittäisiä lääkäreitä selaillessa."
+  },
+  {
+   "slug": "aava",
+   "nimi": "Aava",
+   "domain": "aava.fi",
+   "omistaja": "Aava ja Pikkujätti Oy (nimi 3.6.2025 asti Lääkärikeskus Aava Oy) — suomalainen perheyritys",
+   "y_tunnus": "2311119-2",
+   "rekisteroity": 2010,
+   "score": 82.2,
+   "pillars": {
+    "digitaalinen": 78.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 81.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "64/100",
+       "paino": 40,
+       "pisteet": 64,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Vastaanottojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto löytyy osoitteesta https://www.aava.fi/asiakkaana/hinnastot/ ja sisältää hinnat kaikille palveluille. Yleislääkärin vastaanotto 20 min alk. 83,00€, 30 min alk. 108,00€."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan nettiajanvaraus, joka toimii ilman kirjautumista. Puhelinnumero 010 380 3838 (arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45)."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston sivulla eritelään Kela-korvaukset eri palveluille, esim. gynekologin vastaanotto 70,00€ Kela-korvaus (1.5.2025 alkaen), psykiatrin vastaanotto 50,00€ (45 min). Myös suorakorvaus on käytössä."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 15 Aava-lääkärikeskusta on listattu osoitteella https://www.aava.fi/laakarikeskukset/: Espoo Tapiola, Hämeenlinna, Helsinki Itäkeskus, Helsinki Kamppi, Helsinki Pasila, Hyvinkää, Järvenpää, Kerava, Kuopio, Oulu, Tampere Ratina, Turku Hansa, Tuusula, Vantaa Aviapolis, Vantaa Myyrmäki. Yhtenäiset aukioloajat: arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä pääsivulla tai hinnastossa. Virallinen nimi 'Aava ja Pikkujätti Oy' mainitaan hallitusmuutoksista kertovassa artikkelissa ja pääsivulla, mutta Y-tunnus jää löytämättä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 380 3838 on näkyvillä useilla sivuilla ja ajanvarauksessa. Toimii arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Leikkausten peruutuksille annetaan sähköpostiosoite '[email protected]' hinnastossa kohdassa 'Leikkausten peruutukset ja siirrot'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lääkäri-chat mainitaan hinnaston palveluissa (lääkäri-chat arkisin ma-pe 54,60€). Muista chat-palveluista ei ole selkeitä mainintoja, vaikka Aava-sovelluksessa saattaa olla muita chat-toimintoja."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat on selkeästi ilmoitettu: arkisin 7–21, lauantaisin 8–20.45, sunnuntaisin 8.30–20.45. Ne näkyvät sekä ajanvarauksessa että lääkärikeskukset-sivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aava-sovelluksesta mainitaan pääsivulla, jossa kerrotaan sovelluksessa voivansa varata aikoja, ilmoittautua vastaanotolle sekä tarkistaa reseptit, tutkimustulokset, lähetteet ja todistukset. Sovellusta kutsutaan 'Ei vain appi, vaan apu'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 64,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 5032.1759999999995,
+    "cls": 0.008528218993245127,
+    "tbt_ms": 356
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnasto on julkisesti näkyvillä erilaisille palveluille ja erikoisaloille",
+    "Aava-sovellus mahdollistaa ajanvarauksen, reseptien hallinnon ja etäpalvelut yhdessä paikassa",
+    "15 toimipistettä eri puolilla Suomea selkeillä osoitteilla ja yhtenäisillä aukioloajoilla"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole helposti saatavilla verkkosivuilta (ilmoitetaan vain virallisen nimen kautta)",
+    "Erillinen UKK-osio puuttuu, palveluhakemisto on laaja mutta navigointi vaatii aktiivista etsimistä",
+    "Chat-palvelusta tiedot ovat rajalliset – vain lääkäri-chat mainitussa hinnastossa, muista chat-muodoista ei selkeitä tietoja"
+   ],
+   "yhteenveto": "Lääkärikeskus Aava on suomalainen yksityinen lääkäripalveluiden tarjoaja, joka ylläpitää 15 toimipistettä eri kaupungeissa. Hinnasto on kattavasti näkyvillä, Kela-korvaukset kerrotaan selkeästi ja ajanvaraus on mahdollista ilman kirjautumista nettiajanvarauksessa. Palvelun saatavuus on kuitenkin vaihdellut osassa sivun alasivuista (404-virheet), ja Y-tunnus olisi selkeämpi löytää."
+  },
+  {
+   "slug": "pihlajalinna",
+   "nimi": "Pihlajalinna",
+   "domain": "pihlajalinna.fi",
+   "omistaja": "Pihlajalinna Oyj — pörssiyhtiö (Nasdaq Helsinki)",
+   "y_tunnus": "2617455-1",
+   "rekisteroity": 2014,
+   "score": 78.5,
+   "pillars": {
+    "digitaalinen": 72.1,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Vastaanottojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastosivulla yleislääkärin vastaanotto 10 min alkaen 70€, 20 min alkaen 96€, 30 min alkaen 118€, 45 min alkaen 151€, 60 min alkaen 184€. Hinnat eivät sisällä palvelumaksua (32,90€), Kanta-maksua (4€) tai e-reseptimaksua (2€)."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla sanotaan 'Voit varata ajan helposti moniin Pihlajalinnan palveluihin verkossa' ja 'Pihlajalinna Terveyssovelluksessa'. Verkkoajanvaraus on mahdollinen ilman mainintaa kirjautumisen vaatimuksesta. Asiakaspalvelu auttaa myös puhelimitse 010 312 010."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastosivulla laajat Kela-korvaus-osuudet. Yleislääkärin suorakorvaus 8€. Psykiatrian erikoislääkärin vastaanotto 50-60€ korvaus vastaanoton pituudesta riippuen. Fysioterapian korvaus 15€, enintään 4 käyntiä vuodessa. Jokaisen palvelun kohdalla mainittu omavastuu Kela-korvauksen jälkeen."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla luettelo yli 160 toimipisteestä kautta Suomen. Pääkonttorin osoite: Kehräsaari B, 33200 Tampere. Hinnaston sivulla maininta: 'Hinnat ovat voimassa arkisin klo 7–21' ja korotukset eri aikoina (yöllä +100%, lauantailla 30-100% jne.). Yksittäisten toimipisteiden aukioloajat eivät näkyvissä pääsivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainittu henkilöasiakkaiden sivuilla. Yhtiö-sivulla maininta konsernieittäin 'Pihlajalinna Oyj' ja osoite, mutta Y-tunnusta ei näkyvissä. Yhteystiedot-sivulla mainitaan 'y-tunnuksen' vaatimus laskuttajaportaalissa, mutta Pihlajalinnan omaa Y-tunnusta ei julkaistu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun numero 010 312 010 näkyvissä kaikilla sivuilla. Mielen huoli -linja numeroon 010 312 023. Laskutusosoite 017 366 7041 (Ropo)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laskutusohjeet: [email protected], hoivalaskutus [email protected]. Yhteystiedot-sivulla: [email protected] markkinointi ja mainonta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-vastaanotot mainittu monilla sivuilla. Asiakaspalvelu-chat avoinna klo 7-20. Mobiilisovelluksen kautta saa 'chat-vastaanotolle pikaisesti yhteys asiantuntijaan'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleisesti mainittu arkisin klo 7-21, erityisaikojen korotukset selitetty. Asiakaspalvelu auttaa 24/7 numeroon 010 312 010. Mielen huoli -linja arkisin klo 8-18."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pihlajalinna Terveyssovellus mainittu kaikilla sivuilla. Sovelluksella pääsee chat-vastaanotoille, voi varata aikoja, nähdä tutkimustulokset ja sähköiset reseptit. Ladattavissa App Storesta ja Google Playsta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6214.829972053527,
+    "cls": 0.003185900666620444,
+    "tbt_ms": 1759
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnoittelu ja palvelumaksut selkeästi eritelty sivulla (palvelumaksu 32,90€, Kanta-maksu 4€ jne.)",
+    "Monikanavainen asiointimahdollisuus: verkkoajanvaraus, mobiilisovellus, chat-vastaanotot ja puhelinpalvelu 24/7",
+    "Laaja toimipisteverkkosto (yli 160 toimipistettä) ja selkeät yhteystiedot (010 312 010, chat klo 7-20)"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei julkisesti näkyvissä henkilöasiakkaiden sivuilla, maininta vain laskutustiedoissa",
+    "UKK-osio puuttuu kokonaan – ei vastauksia usein kysyttyihin kysymyksiin",
+    "Aukioloajat mainittiin vain yleisesti (arkisin klo 7-21), toimipistekohtaisesti tiedot piti hakea erillisestä listasta"
+   ],
+   "yhteenveto": "Pihlajalinna on suuri yksityinen terveyspalvelujen tuottaja, jonka verkkosivuilla vastaanottohinnat (yleislääkäri alkaen 70€) ja Kela-korvaus (-menettely selitetty yksityiskohtaisesti) ovat julkisesti näkyvissä. Ajanvaraus onnistuu verkossa ilman kirjautumista, ja asiakkaalla on useita yhteydenpitokanaavia. Etäpalvelut (chat, video, puhelin) ovat hyvin dokumentoituja."
+  },
+  {
+   "slug": "terveystalo",
+   "nimi": "Terveystalo",
+   "domain": "terveystalo.com",
+   "omistaja": "Terveystalo Oyj — pörssiyhtiö (Nasdaq Helsinki)",
+   "y_tunnus": "2575979-3",
+   "rekisteroity": 2013,
+   "score": 77.3,
+   "pillars": {
+    "digitaalinen": 75.6,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 86.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Vastaanottojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu (https://www.terveystalo.com/fi/asiakaspalvelu/hinnasto) esittelee yleislääkärin vastaanottokäyntien hinnat selkeästi (enintään 20 min: 102,60–224,10 €), muiden ammattilaisten hinnat ja chat-palveluiden hinnat."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja asiakaspalvelu-sivulla mainitaan ajanvaraus-linkki (https://ajanvaraus.terveystalo.com/fi/). Kirjautumisvaatimuksesta ei ole selvää tietoa verkkoajanvarauksen osalta, mutta Terveystalo-sovellus ja verkkopalvelu vaativat kirjautumisen."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu esittelee jokaiselle palvelulle sekä suuntaa-antavat hinnat että 'Kela-korvauksen jälkeen' -hinnat (esim. yleislääkäri 20 min: 128,73 € / 120,73 € Kela-korvauksen jälkeen). Lasten yleislääkäri-chat mainitaan olevan 56 € ilman Kela-korvausta, 48 € Kela-korvauksen jälkeen."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee 'asioi... yli 200 toimipaikassamme kautta maan', mutta yksittäisten toimipaikkojen osoitteita ja aukioloaikoja ei näytetä suoraan. Toimipaikat-sivu on pelkästään hakupohjainen, eikä varsinaisen listan toimipaikoista näy."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydetty yhteystiedot-sivulta (https://www.terveystalo.com/fi/yhtio/yhteystiedot), sijoittajatiedoista tai muista julkisista sivuista. Sivustolla näkyvät vain puhelinvaihde (030 63 311) ja sähköpostiosoitteet."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakasarviota, tähtiarvioita tai riippumattomia arviota ei näy verkkosivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu ja ajanvaraus puh. 0900 30 000 näkyy kaikilla sivuilla. Puhelinvaihde 030 63 311 mainitaan yhteystiedot-sivulla (pvm/mpm maksu)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite viestinta@terveystalo.com mainitaan yhteystiedot-sivulla. Yleiset osoitteet muotoa etunimi.sukunimi@terveystalo.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelut mainitaan useissa paikoissa: lääkäri-chat (60,70 € arkisin), hoitaja-chat (38,70 € arkisin), reseptin uusinta-chat, tekoälyavustaja. Lasten yleislääkäri-chat 56 € (48 € Kela-korvauksen jälkeen) on listattu hinnaston sivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston sivulla mainitaan yleisiä aukioloaikoja: arkisin klo 7–21, lauantaisin klo 7–18, sunnuntaisin/pyhinä. Yksittäisten toimipaikkojen aukioloaikoja ei ole näkyvissä verkkosivuilla ilman hakua."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla (https://www.terveystalo.com/fi/asiakaspalvelu) on 'Usein kysytyt kysymykset' -osio, jossa vastauksia kysymyksiin ajan peruuttamisesta, laskutuksesta, tutkimustuloksista ja profiilin hallinnasta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terveystalo-sovellus mainitaan monilla sivuilla. Saatavilla App Storesta ja Google Play -palvelusta. Sovelluksessa voi varata ajan, nähdä tutkimustulokset, käyttää chatiä ja hallita maksuja."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "90/100",
+       "paino": 34,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 6246.842999999997,
+    "cls": 0.0027798967077449716,
+    "tbt_ms": 1504.2765
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnasto ja läpinäkyvät Kela-korvaukset näkyvät selvästi jokaiselle palvelulle",
+    "Sovellus ja chat-palvelut (lääkäri-, hoitaja-, lasten yleislääkäri-chat) saatavilla 24/7 asioinnille",
+    "Sujuva online-ajanvaraus erillisellä ajanvaraussivustolla sekä Terveystalo-sovelluksessa"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ja muut yritystiedot puuttuvat verkkosivujen julkisista osioista",
+    "Toimipaikkojen yksittäiset aukioloajat ja osoitteet vaatisivat parempia hakutuloksia tai listaa",
+    "Riippumattomat asiakasarviot (esim. tähdet, arviot) puuttuvat sivustolta"
+   ],
+   "yhteenveto": "Terveystalo on merkittävä yksityinen lääkäriketju, joka tarjoaa laajoja palveluja yli 200 toimipaikassa. Verkkosivusto esittelee selkeästi ja läpinäkyvästi hinnaston Kela-korvauksilla, mutta Y-tunnus jää puuttuvaksi ja yksittäisten toimipaikkojen aukioloajat ovat vaikeasti löydettävissä. Sovellus ja 24/7 chat-palvelut parantavat merkittävästi asioinnin sujuvuutta."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Vastaanottojen hinnat julkisesti esillä (30), ajanvaraus verkossa ilman kirjautumista (20), kela-korvaus ja todellinen omavastuu kerrottu (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

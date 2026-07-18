@@ -1,0 +1,1297 @@
+{
+ "slug": "kuntosalit",
+ "nimi": "Kuntosalit",
+ "nav": "Kuntosalit",
+ "h1": "Suomen paras kuntosaliketju 2026",
+ "yksikko": "valtakunnallista kuntosaliketjua",
+ "lead": "Pisteytimme {n} valtakunnallista kuntosaliketjua {m} mittarilla. Tärkein kysymys: kerrotaanko jäsenyyden hinta ja irtisanomisehdot ennen sopimuksen tekoa?",
+ "meta_title": "Suomen paras kuntosaliketju 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 kuntosaliketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> LadyLine ja EasyFit ovat saman franchisoijan (Ab LL International Oy) kaksi brändiä — kaksi listan nimeä on siis samaa järjestelmää, ja yksittäiset salit ovat itsenäisten yrittäjien yhtiöitä. Elixia on osa pohjoismaista SATS-konsernia. Näytämme omistajan jokaisen kohdalla.",
+  "<b>Miksi listalla ei ole enempää ketjuja?</b> Tarkistimme myös muut ehdokkaat: GOGO on Tampereen seudun paikallinen, ja \"Motion\"-ketjua ei ole olemassa. Paikalliset salit eivät kuulu valtakunnalliseen vertailuun.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei salien varustelua tai palvelun laatua. Jäsenhinnat vaihtelevat paikkakunnittain; vertailu mittaa kerrotaanko hinta ja ehdot avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "fitness24seven",
+   "nimi": "Fitness24Seven",
+   "domain": "fi.fitness24seven.com",
+   "omistaja": "Fitness24Seven Oy — ruotsalainen kansainvälinen ketju",
+   "y_tunnus": "2402161-5",
+   "rekisteroity": 2011,
+   "score": 80.9,
+   "pillars": {
+    "digitaalinen": 82.4,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jäsenyyden kuukausihinta 32,90 €/kk (standardi) on näkyvissä etusivulla suurella fontilla 'Vain 32,90 €/kk'. Jäsenyydet-sivulla näkyvät kaikki neljä vaihtoehtoa: standardi 32,90 €/kk, opiskelija 30,90 €/kk, eläkeläinen 30,90 €/kk, nuoriso 28,90 €/kk."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jäsenyydet-sivulla näkyy sopimusehdot: 'Ei määräaikaisuutta, 2 kk irtisanomisaika' jokaisen jäsenyysvaihtoehdon yhteydessä. Footerissa on linkki 'Jäsenehdot', mutta se johtaa 404:ään."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aloitusmaksu 24,90 € mainitaan sekä etusivulla että jäsenyydet-sivulla jokaisen jäsenyysvaihtoehdon yhteydessä '+ aloitusmaksu 24,9€'."
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'yli 290 kuntosalille, ympäri maapalloa'. Kuntosalien etsi-sivulla näkyy yksityiskohtainen lista salin sijainnista, osoitteesta ja aukioloajoista. Esim. Bangkok Happy Land: 'Maanantai - Perjantai: 08:00 - 22:00, Lauantai - Sunnuntai: 10:00 - 22:00', sekä 'Avoinna 24/7'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2402161 - 5 on näkyvissä kaikilla ladatuilla sivuilla footerissa osion 'Fitness24Seven OY' jälkeen."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei ole linkkilinkityksiä riippumattomiin arviointeihin, kuten Google Reviews tai muihin arviointisivustoihin. Help Center on olemassa, mutta se on challenge-wallattu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei ole näkyvissä missään ladatussa sivussa eikä footerissa. Asiakaspalveluun pääsy on vain sähköpostilla (Info@f24s.fi) ja Help Centeriin (portal.fitness24seven.com)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite Info@f24s.fi on näkyvissä footerissa kaikilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Center-sivulla näkyy teksti 'Ota yhteyttä asiakaspalveluumme', mutta sivusto on challenge-wallattu eikä chat-kanavia tai muita yhteydenottokeinoja voida varmasti tunnistaa renderöidystä sisällöstä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Avoinna 24/7' ja 'vuorokauden ympäri'. Kuntosalien etsi-sivulla näkyvät yksittäisten salien aukioloajat, esim. monissa saaleissa 'Maanantai - Perjantai: 08:00 - 22:00, Lauantai - Sunnuntai: 10:00 - 22:00' ja 'Avoinna 24/7'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Center on olemassa osoitteessa portal.fitness24seven.com/fi/faq ja siinä on 185 kategoriaa. Kategoria-kaikilta löytyy 58 jäsenyys-aiheista kysymystä ja vastaus."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sovellusta mainitaan useissa paikoissa 'Lataa meidän sovellus' linkillä, ja sovellusominaisuuksista mainitaan: treeniohjelmat, liikevideot, mobiilisisäänkäynti ja ryhmäliikuntatunnin varaus."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4188.661,
+    "cls": 0,
+    "tbt_ms": 829.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä ja vertailukelpoinen hinnoittelu eri jäsenyysvaihtoehdoille (standardi, opiskelija, eläkeläinen, nuoriso)",
+    "Laaja kansainvälinen salivalikoima – yli 290 salia ympäri maailmaa ja 24/7 aukioloajat",
+    "Sovellus treeneille ja liikuntaedut-integraatiot (Epassi, Edenred, Smartum) hyvin dokumentoidut"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero puuttuu kokonaan – asiakaspalveluun pääsee vain sähköpostilla ja Help Centeristä",
+    "Sopimusehdot-sivun linkitys rikkoutunut (Jäsenehdot-linkki johtaa 404:ään)",
+    "Help Center on challenge-wallattu ja sisältö ei lataudu kokonaan automaattisilla hakutyökaluilla"
+   ],
+   "yhteenveto": "Fitness24Seven on laajamittainen kansainvälinen kuntosaliketju, joka tarjoaa selkeät ja vertailukelpoiset jäsenyysvaihtoehdot eri asiakasryhmille. Hinnoittelu ja perusinfot ovat helposti löydettävät etusivulla ja jäsenyydet-sivulla, mutta asiakaspalvelun suora puhelinnumero ja jotkut sopimusehtojen linkitykset ovat puutteellisia."
+  },
+  {
+   "slug": "elixia",
+   "nimi": "Elixia",
+   "domain": "elixia.fi",
+   "omistaja": "SATS Finland Oy / SATS ASA — Oslon pörssissä noteerattu konserni",
+   "y_tunnus": "0459885-5",
+   "rekisteroity": 1982,
+   "score": 77.3,
+   "pillars": {
+    "digitaalinen": 81.6,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 66.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "54/100",
+       "paino": 40,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jäsenyydet (BASIC, FLEXIBLE - SUOSITUIN!, PREMIUM) kuvataan laajasti sivulla /jasenyydet, mutta eurohintoja ei näy teksteissä. Hintalaskuri saatavilla linkin 'Kokoa jäsenyys ja katso hinnat' takana, joka vaatii interaktiota."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /ehdot on kattava lista sopimuksista ja säännöistä: ELIXIA-jäsenyyden yleiset ehdot, Boot campin ehdot, Cookie policy, Jäädytysehdot selkeässä muodossa, Lastenhoidon säännöt ja ehdot, Personal Training -palveluiden ehdot, Saunan turvallisuusohjeet, Tietosuojaseloste, Turvallisuus- ja järjestyssäännöt, Varaussäännöt."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ELIXIAN omaa Y-tunnusta ei näy mistään ladatusta sivusta. Sivusto mainitsee, että ELIXIA kuuluu SATS Group -konserniin, mutta organisaation omaa Y-tunnusta ei erikseen ilmoiteta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy kolmannen osapuolen arviota, riippumattoman arviolaitoksen logoa tai asiakasarvioita."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumerot ilmoitettu sivulla /asiakaspalvelu: 0407507848 ja +358 942 451 355. Myös päänavigaatiossa 'Ota yhteyttä asiakaspalveluun' -linkki."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite myyntipalvelut@elixia.fi näkyy asiakaspalvelu-sivulla jäsenyyspalvelun yhteystietojen yhteydessä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Live-chat saatavilla sivulla /asiakaspalvelu 'Chattaile kanssamme' -osiossa. Chat aukioloajat: ma-to 12:45-15:45, pe 9:00-15:00, kesällä 22.6-31.7 ma-pe 10:00-14:00."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /kuntosali listataan kaikki 30+ ELIXIA-keskusta osoiteineen ja päivittäisine aukioloaikoina (esim. Centrum Turku, Circus Helsinki, Flamingo Vantaa). Jokaisen keskuksen kohdalla näkyy 'Avoinna' ja sulkemisaika."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /asiakaspalvelu on 'Useimmin kysyttyjä kysymyksiä' -osio, jossa vastaukset mm. jäädytyksestä, irtisanomisesta, maksutavoista, hinnankorotuksista ja unohdetuista tavaroista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ELIXIA-sovellus kuvattu laajalti omalla sivulla /elixia-sovellus. Sisältää digitaalisen jäsenkortin (QR-koodi), ryhmäliikuntatuntien varaamisen, harjoitteluohjelmia, tilastoja ja haasteita. Sovellus ladattavissa iOS:lle ja Androidille."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 54,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 16956.896000000004,
+    "cls": 0,
+    "tbt_ms": 147
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "30+ kuntosalin verkko koko Suomessa, kunkin aukioloajat ja sijainti selkeästi listattuna.",
+    "Perusteellinen ja kattava UKK-osio asiakaspalvelu-sivulla vastaa yleisimpiin jäsenten kysymyksiin.",
+    "Mobiilisovellus tarjoaa digitaalisen jäsenkortin, varaamisen, harjoitteluohjelmia ja haasteita."
+   ],
+   "kehityskohteet": [
+    "Jäsenmaksut näkyvät vain interaktiivisen hintalaskurin kautta; konkreettisia eurohintoja ei ole etusivulla.",
+    "Y-tunnus ei ole julkisesti näkyvillä (konserni SATS Group omistaa, mutta ELIXIAN oman Y-tunnuksen puuttuu).",
+    "Riippumaton arviolähde tai asiakasarviot puuttuvat kokonaan sivustolta."
+   ],
+   "yhteenveto": "ELIXIA on Pohjoismaiden johtava kuntoketju, jonka verkkosivusto tarjoaa kattavan tiedon jäsenyyksistä, kuntosaleista, palveluista ja soveltavista säännöistä. Sivusto on selkeästi organisoitu ja sisältää perusteellisen UKK-osion sekä laajalti kuvatun mobiilisovelluksen, mutta jäsenmaksujen hintahaarukka löytyy vain vuorovaikutteisen hintalaskurin kautta ja Y-tunnus puuttuu."
+  },
+  {
+   "slug": "liikku",
+   "nimi": "Kuntokeskus Liikku",
+   "domain": "liikku.fi",
+   "omistaja": "Kuntokeskus Liikku Oy — suomalainen, Oulu",
+   "y_tunnus": "2784989-9",
+   "rekisteroity": 2016,
+   "score": 77.3,
+   "pillars": {
+    "digitaalinen": 67.6,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 80.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "40/100",
+       "paino": 40,
+       "pisteet": 40,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy Jousto-Liikku-jäsenyyden hinta 36,90 €/kk. Muut vaihtoehdot (Järki-Liikku 34,90 €/kk, Reilu-Liikku 348 €/vuosi) löytyvät UKK-osiosta."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Täydellinen sopimusehdot-sivu on saatavilla, joka sisältää kolme jäsenyystyyppiä (Jousto-Liikku, Järki-Liikku, Reilu-Liikku), sitoutumisajat (1 jäsenkuukausi Jousto-Liikulle, 12 kk määräaikaiset), irtisanomisen (OmaLiikusta tai sähköpostitse info@liikku.fi), ja maksutavat (e-lasku, liikuntaedut)."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uusien jäsenten liittymismaksu on 29,90 € ja palaavien jäsenten 9,90 €. Maksu maksetaan liittymisen yhteydessä sopimusehtojen sivulla kuvatulla tavalla."
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuntosalit-sivulla lueteltu yli 70 keskusta, jotka sijaitsevat ympäri Suomea (mm. Espoo, Helsinki, Tampere, Turku, Oulu). Kaikille saileille ilmoitetaan avoinna jäsenille joka päivä klo 5-23."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei esiinny yhdelläkään ladatuista sivuista. Laskutuksen hoitaa ulkopuolinen yhteisö Cash-In Consulting (Y-tunnus: 0646115-8), mutta Liikun oma Y-tunnus puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei ole viitteitä riippumattomiin arvioihin, testeihin, sertifikaatteihin tai palkintoihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu vastaa sähköpostitse (info@liikku.fi) ja chatbotin (Liikkubotti) välityksellä. Vartijan numero mainitetaan vain kaapin avausongelmien yhteydessä. Yleistä asiakaspalvelun puhelinnumeroa ei ole saatavilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sähköpostiosoite info@liikku.fi on näkyvissä asiakaspalvelu-sivulla, sopimusehdoissa ja UKK:ssa useisiin otteisiin."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Liikkubotti', joka vastaa useimpiin kysymyksiin, mutta ei ole esillä säännöllisen chatpalvelun muodossa vaan pikemminkin chatbot-avustaja."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu ja kuntosalit-sivu ilmoittavat kaikkien salien olevan avoimia jäsenille joka päivä klo 05-23. Tutustumiskäynnit ovat avoinna ma-ke klo 16-19."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja Usein kysytyt kysymykset -osio sisältää kategorisoidut vastaukset jäsenkorttiin, jäsenyystyyppeistä, liittymistavoista, maksutavoista, liikuntaeduista ja muista aiheista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaLiikku-palvelua mainitaan toistuvasti kaikissa dokumenteissa sekä verkkosivuilla että sopimusehtoissa, mutta ei selvää eroa siitä, onko se pelkkä verkkosovellus vai natiiviapplikaatio."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 40,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 6718.152989999999,
+    "cls": 0.034370921143862816,
+    "tbt_ms": 2116.9999999999973
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja sopimusehdot ovat julkisesti kaikkien nähtävillä ilman kirjautumista",
+    "Kattava UKK-osio vastaa useimpiin jäsenyyteen, liittymiseen ja maksuihin liittyviin kysymyksiin",
+    "Yli 70 keskusta ympäri Suomea kaikkine osoitteineen ja aukioloaikojen (5-23 joka päivä) kanssa listattuna"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus puuttuu kokonaan julkisilta sivuilta",
+    "Yleistä asiakaspalvelun puhelinnumeroa ei ole saatavilla; vartijan numero mainitaan vain kaappiongelmakohdassa",
+    "Riippumattomia arvioita, testejä tai sertifikaatteja ei ole esillä"
+   ],
+   "yhteenveto": "Kuntokeskus Liikku on suomalainen kuntosaliketju, jolla on laaja verkko yli 70 keskuksella ympäri maata. Sivusto on selkeästi rakennettu ja tarjoaa avoimesti hinnoittelun, sopimusehdot ja perusteellisen UKK-osion. Puutteena on liiketunnisteen puuttuminen, yleisen asiakaspalvelun puhelinnumeron puuttuminen sekä riippumattomien arviointien tai sertifikaattien puuttuminen."
+  },
+  {
+   "slug": "ladyline",
+   "nimi": "LadyLine",
+   "domain": "ladyline.fi",
+   "omistaja": "Ab LL International Oy — sama franchisoija kuin EasyFitillä",
+   "y_tunnus": "1790020-8",
+   "rekisteroity": 2002,
+   "score": 74.9,
+   "pillars": {
+    "digitaalinen": 71.7,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jäsenyyshinnat näkyvät etusivulla kampanjahintoina ja toimipisteen sivuilla yksityiskohtaisissa hinnaston taulukoissa (esim. Joustava Kuntosali 6-24: 54,90 €/kk, ryhmäliikunta mukaan 64,90 €/kk)."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Täydelliset sopimusehdot (17 kohtaa) julkaisina ladyline.fi/sopimusehdot-sivulla, sisältäen irtisanomisajat (1 kuukausi), tauottamisen ehdot ja sopimustyypit."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aloitusmaksu 29 € mainitaan sopimusehdoissa ja toimipisteen sivun hinnaston kuvauksessa, mutta ei erillisessä, selvästi näkyvässä hinnaston yhteenvedossa. Myös kulkuavain maksaa kertamaksu 10 €."
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla 12 sallia osoitteineen (Espoo, Iisalmi, Joensuu, Kajaani, Kotka, Kouvola, Kuopio, Lahti, Loimaa, Mikkeli, Oulu, Porvoo, Rovaniemi, Vaasa). Espoo-Lippulaiva-sivulla asiakaspalvelun aukioloajat ma 13-19, ti-to 15-19, pe 14-18, la 10-13, ja pääsy kulkuavaimella 6-24."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1790020-8 julkaistu tietosuojaselosteessa (Ab LL International Oy, Nihtisillantie 3, 02630 Espoo)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät yhteystiedot-sivulla kaikille toimipisteille (esim. Espoo 044 793 6705, Iisalmi 050 468 3958)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet näkyvät yhteystiedot-sivulla kaikille toimipisteille (esim. lippulaiva@ladyline.fi, iisalmi@ladyline.fi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 11431.085000000001,
+    "cls": 0,
+    "tbt_ms": 1044.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä hinnasto useilla jäsenyysvaihtoehdoilla (naisille, opiskelijoille, eri aukioloajoille)",
+    "Kattavat yhteystiedot kaikille 12 toimipisteelle puhelinnumeroineen ja sähköpostiosoitteineen",
+    "Yksityiskohtaiset sopimusehdot irtisanomisajoista, tauottamismahdollisuuksista ja maksuista"
+   ],
+   "kehityskohteet": [
+    "UKK-osio puuttuu kokonaan – tavallisia kysymyksiä (sitoutumisaika, peruuttaminen) ei vastattavissa julkisesti",
+    "Aloitusmaksu (29 €) mainitaan vain tekstissä eikä erillisessä hinnaston yhteenvedossa",
+    "Chat-palvelu ei mainittu, asiakastukena vain puhelin ja sähköposti"
+   ],
+   "yhteenveto": "LadyLine on naisten kuntopalveluja tarjoava ketju, jolla on 12 toimipistettä ympäri Suomea. Sivusto esittelee jäsenyystyypit, hinnat ja kattavat sopimusehdot selkeästi, mutta UKK-osion puuttuminen rajoittaa asiakasselvitystä. Yhteystiedot ja Y-tunnus ovat helposti löydettävät."
+  },
+  {
+   "slug": "easyfit",
+   "nimi": "EasyFit",
+   "domain": "easyfit.fi",
+   "omistaja": "Ab LL International Oy (franchisoija, sama kuin LadyLine); yksittäiset salit itsenäisiä yrittäjiä",
+   "y_tunnus": "1790020-8",
+   "rekisteroity": 2002,
+   "score": 68.3,
+   "pillars": {
+    "digitaalinen": 60.1,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät selvästi kolme jäsenyystyyppiä hinnoittain: Basic 36,90 €/kk, Plus 46,90 €/kk, Premium 56,90 €/kk. Kaikkiin liittyy 29,90 € aloitusmaksu."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sopimusehdot-sivu sisältää 15 kappaleista koostuvat Asiakkuuksien sopimusehdot, Personal training sopimusehdot ja Alaikäisen palvelusopimus."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sopimusehdoissa kohta 4 'ALOITUSMAKSU' kertoo: 'Palvelusopimuksen alussa suoritetaan hinnaston mukainen kertaluonteinen aloitusmaksu BASIC-, PLUS- ja PREMIUM-asiakkuuksista.' Summa on 29,90 €."
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on lista 26 salipaikkakunnasta osoitteineen ja sähköpostiosoitteineen (Espoo, Helsinki, Hyvinkää, Järvenpää jne.). Aukioloajoista mainitaan vain yleisesti: 'EasyFit-keskukset ovat avoinna jopa 24/7 toimipisteestä riippuen'. Yksityiskohtaisia aukioloaikoja kunkin salin osalta ei näy."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa kohdassa 1 'Rekisterinpitäjä' on merkitty: 'Ab LL International Oy, Y-tunnus: 1790020-8'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Miten voimme auttaa' -sivulla kerrotaan: 'Meillä ei ole tällä hetkellä puhelinpalvelua.' Asiakkaille tarjotaan vain yhteydenottolomaketta tai sähköpostia."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaiselle 26 salille on julkaistu oma sähköpostiosoite, esim. nihtisilta@easyfit.fi, perkkaa@easyfit.fi, jne."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-osiossa kysymykseen 'Mitkä ovat aukioloajat?' vastataan: 'EasyFit-keskukset ovat avoinna jopa 24/7 toimipisteestä riippuen.' Spesifisiä sulkemisaikoja tai viikkoaikoja yksittäisille saileille ei ole listattu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on laaja UKK-osio otsikolla 'Usein kysyttyjä kysymyksiä' ryhmiteltynä kategorioihin: JÄSENYYS, KULKUAVAIN, VALMENNUS/PERSONAL TRAINING, MAKSAMINEN ja MUUT."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 88,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 12343.960499999997,
+    "cls": 0.1741815977480907,
+    "tbt_ms": 2142.500000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvillä etusivulla ilman rekisteröitymistä",
+    "Laaja sailiverkko 26:ssa paikkakunnassa Suomessa",
+    "Sopimusehdot täydellisenä saatavilla julkisesti"
+   ],
+   "kehityskohteet": [
+    "Yksityiskohtaiset aukioloajat kunkin salin osalta puuttuvat (vain yleinen 'jopa 24/7' mainittu)",
+    "Puhelinpalvelua ei ole; asiakkaita ohjataan yhteydenottolomakkeelle tai sähköpostille",
+    "Riippumattomia arvioita tai asiakastestimoniaaleja ei näy sivustolla"
+   ],
+   "yhteenveto": "EasyFit on suomalainen kuntosaliketju, jonka sivusto esittelee selkeästi jäsenyyshinnat (36,90–56,90 €/kk), sopimusehdot ja laajaa salien verkostoa. Hinnat ovat helposti löydettävissä etusivulla. Sivustolla on kuitenkin puutteita: yksityiskohtaiset aukioloajat puuttuvat (vain yleinen '24/7 toimipisteestä riippuen' mainittu), puhelinpalvelua ei ole tarjolla, ja riippumattomia arvioita ei näy."
+  },
+  {
+   "slug": "fressi",
+   "nimi": "Fressi",
+   "domain": "fressi.fi",
+   "omistaja": "Fysioline Fressi Oy — suomalainen, Tampere",
+   "y_tunnus": "2538910-4",
+   "rekisteroity": 2013,
+   "score": 58.7,
+   "pillars": {
+    "digitaalinen": 67.7,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 58.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Jäsenyyden hinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: kauppa.fressi.fi näyttää hinnan '-1.00€ / kk' ja 'Maksu nyt 29.00€' pääsivulla, mutta näytettävä sisältö on puutteellinen. Pääsivulla www.fressi.fi ei näy hintatietoja, vain linkki 'Hanki asiakkuus' -sivulle."
+      },
+      {
+       "mittari": "Sopimusehdot (sitoutumisaika, irtisanominen) julkisesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FressiTV:n sopimusehdot (https://www.fressi.fi/sopimusehdot-fressitv/) löytyivät, mutta kanta-asiakkuuden sopimusehdot olivat 404. Asiakaspalvelu-sivulla mainitaan 'Fressin kanta-asiakkuuden sopimusehdot' linkki, mutta kohdesivut eivät löytyneet."
+      },
+      {
+       "mittari": "Liittymis- ja muut kertamaksut kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Liittymismaksuja ei mainittu millään ladatulla sivulla. Kauppa-alustalla on hintoja, mutta liittymismaksut eivät ole erillisesti näkyvissä."
+      },
+      {
+       "mittari": "Salit ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Arabia-sivulla (ja pääsivulla) lueteltu 91 toimipistettä ympäri Suomea. Arabia: 24h-salit avoinna joka päivä. Pääsivu: 'Auki 365 päivää vuodessa, hyvinvointikeskukset klo 5-23, ja 24h kuntosalit nimensä mukaisesti!'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla todetaan 'Saat henkilökohtaista palvelua puhelimitse, verkossa ja hyvinvointikeskuksissa paikan päällä!' mutta puhelinnumeroa ei näy julkisesti mainituilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Evästetiedoissa mainitaan Freshworks Freshdesk -chat-widget. Asiakaspalvelu-sivulla mainitaan 'reaaliaikaisen chatin' tarjoaminen, joskin sen aktivointi vaatii nähtävästi evästeiden hyväksymisen."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Arabia-sivulla: '24h vuoden jokaisena päivänä'. Pääsivu: 'hyvinvointikeskukset klo 5-23, ja 24h kuntosalit nimensä mukaisesti'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla linkki 'Usein kysyttyä' osioon, mutta sitä sivua ei ladattu (ei sisällytetty 5 pääsivun hakuun)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Oma Fressi' -sovellus/palvelu mainittu pääsivulla ('Hallitse asiakkuuttasi Oma Fressi -palvelussa') ja asiakaspalvelu-sivulla ('Hallitse asiakkuuttasi Oma Fressi -palvelussa')."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11080.9292,
+    "cls": 0.02590214186113424,
+    "tbt_ms": 923.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkosto: 91 toimipistettä ympäri Suomea, asiakkaat voivat harjoitella kaikissa saaleissa",
+    "Joustavat asiakkuusmallit: ilman sitoutumista tai määräaikainen merkittävällä hintaedulla; kokeilu 2 viikkoa ilmaiseksi",
+    "Hyvät kontaktivaihtoehdot: puhelimitse, verkossa ja hyvinvointikeskuksissa; Freshworks-pohjainen chat saatavilla"
+   ],
+   "kehityskohteet": [
+    "Hinnat eivät ole selvästi julkisesti esillä pääsivuilla—kauppa-osoitteella näkyy hintoja mutta asiakkaiden tulee siirtyä erilliseen järjestelmään",
+    "Kanta-asiakkuuden sopimusehdot eivät löydy helposti (\"yleiset kanta-asiakkuusehdot\" linkki footerissa on 404)",
+    "Email-osoite ja Y-tunnus puuttuvat julkisista sivuista; liittymismaksut eivät ole näkyvissä"
+   ],
+   "yhteenveto": "Fressi on suuri 24h-kuntosaliketju, jolla on 91 toimipistettä ympäri Suomea. Sivustolla korostetaan joustavuutta (ilman sitoutumista) ja kaksiviikoisen kokeilun tarjoamista. Asiakaspalvelun kontaktivaihtoehdot ovat kattavat (puhelin, netti, paikan päällä), mutta hinnat ja sopimusehdot vaativat navigointia erilliseen kauppa-järjestelmään ja osittain löytyvät vain silloin tällöin."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Jäsenyyden hinta julkisesti esillä (30), sopimusehdot (sitoutumisaika, irtisanominen) julkisesti (20), liittymis- ja muut kertamaksut kerrottu (15), salit ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

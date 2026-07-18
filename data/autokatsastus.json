@@ -1,0 +1,861 @@
+{
+ "slug": "autokatsastus",
+ "nimi": "Autokatsastus",
+ "nav": "Katsastus",
+ "h1": "Suomen paras autokatsastus 2026",
+ "yksikko": "valtakunnallista katsastusketjua",
+ "lead": "Pisteytimme {n} valtakunnallista katsastusketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Tärkein kysymys: näkyykö katsastuksen hinta ennen ajanvarausta?",
+ "meta_title": "Suomen paras autokatsastus 2026 | katsastusketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "4 valtakunnallista katsastusketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi listalla on vain 4 ketjua?</b> Suomessa on satoja katsastusasemia, mutta vain neljä aidosti valtakunnallista ketjua, joilla on oma verkkosivusto. Alueelliset toimijat (Katsastajasi, Go-Katsastus) ja helmikuussa 2026 saksalaiselle TÜV SÜDille myyty Q-Katsastus rajattiin pois. Pienempi oikea joukko on parempi kuin täytetty lista.",
+  "<b>Omistus:</b> A-Katsastus osti K1 Katsastajat joulukuussa 2022, joten listan kaksi suurinta ovat samaa konsernia (yhteenlaskettu markkinaosuus noin 40 %, minkä Autoliitto nosti julkisesti esiin). Yhtiöt toimivat omilla Y-tunnuksillaan ja asemillaan, joten ne mitataan erikseen, mutta omistus näytetään molempien kohdalla.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei katsastuksen laatua tai hylkäysprosentteja. Katsastushinnat vaihtelevat asemittain; vertailu mittaa kerrotaanko hinta, ei mikä se on. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "k1-katsastajat",
+   "nimi": "K1 Katsastajat",
+   "domain": "k1katsastus.fi",
+   "omistaja": "A-Katsastus-konsernin tytäryhtiö 12/2022 alkaen — sama konserni kuin A-Katsastus",
+   "y_tunnus": "2046583-3",
+   "rekisteroity": 2006,
+   "score": 73.9,
+   "pillars": {
+    "digitaalinen": 85.8,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "69/100",
+       "paino": 40,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Määräaikaiskatsastuksen hinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Määräaikaiskatsastuksen hinta on asemakohtainen ja näytetään ajanvarausjärjestelmässä, mutta sitä ei julkaista käyttäjille avoimesti etukäteen. Kuntotarkastukselle löytyy hinta (59-79€), sähköauton kuntotutkimukselle 159€, mutta pääpalvelun hintaa ei ole staattisella sivulla."
+      },
+      {
+       "mittari": "Nettiajanvaraus näyttää hinnan ennen yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkoajanvaraus on saatavilla (Etsi asema ja varaa aika -sivu), mutta hinnat näkyvät vasta kun on valittu asema ja aika. Puhelimitse varauksen tekeminen (0306 100 100) tai WhatsApp-varaus (+358 45 4909630) ovat vaihtoehdot."
+      },
+      {
+       "mittari": "Asemat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on interaktiivinen asemanetsintä-työkalu, joka näyttää yli 70 asemaa ympäri Suomea. Aukioloajat: ma-pe 7:30-18, la 9-14 (pvm/mpm). Yksittäisten asemien tiedot löytyvät 'Etsi asema ja varaa aika' -sivulta."
+      },
+      {
+       "mittari": "Katsastuslajit ja lisäpalvelut hintoineen kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2046583-3 on julkisesti esillä Yhteystiedot-sivulla. Yrityksen nimi on K1 Katsastajat Oy, osoite Rieskalähteentie 76, 20300 Turku."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kansallinen ajanvarausnumero 0306 100 100 on esillä lähes jokaisella sivulla. Myös WhatsApp-varausmahdollisuus mainitaan (+358 45 4909630). Laskutusneuvonta: p. 09 4246 1352."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite myynti@k1katsastus.fi on esillä yrityksille -sivulla. Laskutukseen liittyvät sähköpostit: ostolaskut.fi@cgi.com tai purchaseinvoices.fi@cgi.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 69,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 5038.2595,
+    "cls": 0.02997297770071282,
+    "tbt_ms": 281.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava palvelujen kuvaus: määräaikais-, muutos-, rekisteröinti- ja yksittäishyväksynnät sekä lisäpalvelut selkeästi esitelty",
+    "Hyvä saavutettavuus: yli 70 asemaa ympäri Suomea, verkkoajanvaraus ja puhelinajanvaraus (ma-pe 7:30-18, la 9-14), sekä WhatsApp-varaus",
+    "Kattava UKK-osio: kysymyksiä ja vastauksia autoihin ja katsastukseen liittyen useissa kategorioissa"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelun julkisuus: Määräaikaiskatsastuksen hinta näytetään vain kuntotarkastuksen yhteydessä (59-79€), mutta pääpalvelun hinta jää piiloon – vain kuntotarkastukselle löytyi konkrettiset eurohinnit",
+    "Ajanvaraus näyttää hinnan vasta yhteystietojen jälkeen: Nettivarauspalvelussa katsastaja voi tehdä varauksen näkemättä etukäteen hintaa",
+    "Puuttuvat riippumattomat arviot: Sivustolla ei ole linkkejä palvelun tasoa mittaaviin arvioihin tai asiakaspalautteiden julkaisemiseen"
+   ],
+   "yhteenveto": "K1 Katsastajat on suuri valtakunnallinen katsastusketju, jolla on yli 70 asemaa Suomessa. Sivusto tarjoaa hyvän palvelukuvauksen, kattavan ajanvarauskäytännön ja laajan UKK-osion. Pääpalvelun (määräaikaiskatsastus) hinnoittelu jää kuitenkin piilotetuksi, mikä vaikeuttaa hintojen vertailua ennen varauksen tekemistä."
+  },
+  {
+   "slug": "dekra-katsastus",
+   "nimi": "DEKRA Katsastus",
+   "domain": "dekra-katsastus.fi",
+   "omistaja": "Saksalainen DEKRA-konserni",
+   "y_tunnus": "2467455-2",
+   "rekisteroity": 2012,
+   "score": 73.1,
+   "pillars": {
+    "digitaalinen": 74.8,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Määräaikaiskatsastuksen hinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluissa näkyy \"Henkilö- tai pakettiauton määräaikaiskatsastus Alkaen 40 €\" ja muita palveluita hintoineen selkeästi lueteltuna."
+      },
+      {
+       "mittari": "Nettiajanvaraus näyttää hinnan ennen yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivusto ohjaa ensin valitsemaan aseman ja syöttämään rekisterinumeron, vasta sen jälkeen näkyy palvelun valinta hinnan kanssa. Hinnat eivät siis ole näkyvillä prosessin alussa."
+      },
+      {
+       "mittari": "Asemat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivulla näkyy 20+ asemaa yksityiskohtaisilla osoitteilla ja aukioloajoilla (esim. \"Ma-Pe 9-17\") sekä puhelinnumeroilla. Ota yhteyttä -sivulla kerrotaan keskitetyn asiakaspalvelun aukioloajat Ma-Pe 8:30-16:00."
+      },
+      {
+       "mittari": "Katsastuslajit ja lisäpalvelut hintoineen kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelut-sivulla kuvataan yksityiskohtaisesti kaikki katsastuspalvelut kategorioittain (kevytkalusto, raskaskalusto, sähköautot, erikoiskatsastukset) hintojen kanssa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole näkyvissä missään ladatussa sivussa eikä ajanvaraus-järjestelmässä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä riippumatonta arviota tai kolmannen osapuolen antamia arvioita, vaan vain yhtiön omia asiakasarvosteluja etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 97,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 4230.181499999999,
+    "cls": 0.007789212575607699,
+    "tbt_ms": 1784.2446801147453
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavat palvelut ja hinnat näkyvillä selkeässä palveluvalikoimassa",
+    "Laaja asemaverkko 20 paikkakunnalla ja helppo ajanvarausjärjestelmä",
+    "Hyvinrakentuneet UKK-sivut ja selkeät ohjeistukset katsastusprosessista"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti näkyvissä sivuston missään osassa",
+    "Hintojen löydettävyys ajanvarauksessa huono: hinnat näkyvät vasta rekisterinumeron syöttämisen jälkeen",
+    "Ei riippumattomia arviota tai asiakaspalautteiden listausta etusivulla näkyvissä"
+   ],
+   "yhteenveto": "DEKRA Katsastus on Suomen johtava autokatsastuspalvelu, joka tarjoaa katsastuspalveluita 20 paikkakunnalla. Sivusto esittää palvelut ja hinnat (alkaen 40 euroa määräaikaiskatsastukselle) selkeästi palveluvalikoimassaan. Ajanvarausjärjestelmä on helppokäyttöinen, mutta hinnat ilmestyvät vasta ajanvarauksen loppuvaiheessa, mikä heikentää hintojen löydettävyyttä. Yhtiön Y-tunnus ei ole julkisesti näkyvissä."
+  },
+  {
+   "slug": "plus-katsastus",
+   "nimi": "Plus Katsastus",
+   "domain": "plus.fi",
+   "omistaja": "Suomalaisten yrittäjien omistama, riippumaton A-Katsastus-konsernista",
+   "y_tunnus": "2307508-0",
+   "rekisteroity": 2009,
+   "score": 68.7,
+   "pillars": {
+    "digitaalinen": 83.8,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 60.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "64/100",
+       "paino": 40,
+       "pisteet": 64,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Määräaikaiskatsastuksen hinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan ennakkovarauksella saavan edullisemman hinnan ja että hinnan voi maksaa etukäteen, mutta konkreettista euroa-hintaa ei ole esillä pääsivuilla. Hinta näkyy ainoastaan varausjärjestelmässä, jota ei ole mahdollista käyttää ilman vuorovaikutusta."
+      },
+      {
+       "mittari": "Nettiajanvaraus näyttää hinnan ennen yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Varaa aika' -painike ja tekstit mainitsevat varausjärjestelmän (plus.fi -sivuston kautta), mutta renderoidun sisällön perusteella hinnat eivät näy etukäteen ennen varauksen tekemistä. Varausjärjestelmä on erillinen palvelu, jota ei voida lukea staattisesti."
+      },
+      {
+       "mittari": "Asemat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Katsastuslajit ja lisäpalvelut hintoineen kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei esiinny minkään fetkatun sivun sisällössä. Yritysesittelysivulla mainitaan 'Plus Katsastus Oy' ja osoite Tuotekatu 8 B, 21200 Raisio, mutta rekisteröintitunnusta ei ole. Rekisteriseloste-sivulla annetaan osoite ja puhelinnumero, mutta Y-tunnusta ei mainita."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole riippumattomia arvioita, asiakasarvioita tai kolmannen osapuolen tutkimuksien viittauksia. Ainoa maininta luvuista on sisäinen 'Plussan asiakaskokemuskysely' (n=75 801), joka on yrityksen oma tutkimus, ei riippumaton."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääpuhelin 044 4232 000 on esillä pääsivulla ja monilla muilla sivuilla. Numero toistetaan asiakaspalveluotsikon alla (joka päivä klo 8.00–20.00). Lisäksi jokaiselle asemalle on omat puhelinnumerot, jotka ovat lueteltu yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palaute-sähköposti palaute@plus.fi on esillä rekisteriseloste-sivulla. Lisäksi yhteystiedot-sivulla luetellaan kunkin aseman omat sähköpostiosoitteet muodossa 'asemanimi@plus.fi' (esim. helsinki.herttoniemi@plus.fi). Laskutuksen sähköposti on laskutus@plus.fi (yrityksille-sivulla)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: WhatsApp-chat mainitaan pääsivulla ja yhteystiedot-sivulla: 'Plus Katsastuksen asiakaspalvelu palvelee... WhatsApp 044 4232 000 (ARKISIN KLO 8.00 – 18.00)'. Muu chat-palvelu ei ole mainittu."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääpalvelun aukioloajat mainitaan: 'JOKA PÄIVÄ KLO 8.00 – 20.00' puhelinpalvelulle ja 'ARKISIN KLO 8.00 – 18.00' WhatsAppille. Yksittäisten asemien aukioloajat eivät ole näkyvissä staattisessa tekstissä; ne on ilmoitettava asemakohtaisesti (varausjärjestelmässä tai asemakohtaisesti)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 64,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 9038.211800407411,
+    "cls": 0.0007812669430683663,
+    "tbt_ms": 174
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja asemaverkko: yli 70 asemaa ympäri Suomea, selkeästi lueteltuna hakukelpoisesti kartalla",
+    "Kattava palveluvalikoima: 11 erilaista katsastuslajia ja lisäpalveluja kuvattu selkeästi",
+    "Hyvä saatavuus: puhelinpalvelu joka päivä 8.00–20.00, WhatsApp-tuki, laaja sähköpostiosoiteluettelo asemittain"
+   ],
+   "kehityskohteet": [
+    "Hintojen puute: määräaikaiskatsastuksen hintaa ei ole julkisesti näkyvissä pääsivustolla, asiakkaan on soitettava tai varattava aika nähdäkseen hinnan",
+    "Y-tunnus ja yritystiedot: perustiedot puuttuvat (Y-tunnus, rekisteröintitiedot) eikä niitä ole yritysesittelysivulla",
+    "Asiakaspalautejärjestelmä: sivustolla ei ole katsastetuista löytämis FAQ-osiota (UKK), eikä riippumattomia arvioita tai asiakasarvioita näy"
+   ],
+   "yhteenveto": "Plus Katsastus on 100-prosenttisesti suomalaisten yrittäjien omistama katsastusketju, joka tarjoaa palvelua yli 70 asemalla ympäri Suomea. Sivusto on asiakkaalle hyvin saavutettava puhelimitse ja sähköpostitse, ja palveluvalikoima on kattavasti kuvattu. Haittapuolena on, että määräaikaiskatsastuksen hintaa ei ole asetettu julkisesti näkyville verkkosivuille, ja perustavat yritystiedot (Y-tunnus) puuttuvat verkkosivuilta."
+  },
+  {
+   "slug": "a-katsastus",
+   "nimi": "A-Katsastus",
+   "domain": "a-katsastus.fi",
+   "omistaja": "Tradeka — suomalainen osuuskuntataustainen konserni; omistaa myös K1 Katsastajat",
+   "y_tunnus": "1959705-4",
+   "rekisteroity": 2005,
+   "score": 66.7,
+   "pillars": {
+    "digitaalinen": 81.5,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 65.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Määräaikaiskatsastuksen hinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla todetaan 'Katsastushintamme vaihtelevat palvelupisteittäin ja ajankohdittain. Löydät kaikki palvelupisteemme ja niiden määräaikaiskatsastusten sekä lakisääteisten mittausten hinnat palvelupistehaulla ja varausta tehdessäsi.' Linkki 'Katsastuspalvelujen hinnasto' johtaa 404-virheeseen."
+      },
+      {
+       "mittari": "Nettiajanvaraus näyttää hinnan ennen yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvarausjärjestelmä on saatavilla osoitteessa https://www.a-katsastus.fi/katsastuspalvelut/ (linkki 'Varaa aika katsastuspalveluihin'), mutta en pystynyt vahvistamaan, näytetäänkö hinta ennen yhteystietojen antamista."
+      },
+      {
+       "mittari": "Asemat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa mainitaan 'Etsi lähin palvelupiste', mutta linkki johtaa 404-virheeseen. Sivulla kerrotaan, että A-Katsastuksella on 'noin 250 katsastusasemaa', mutta staattista lista ei ole julkaistu."
+      },
+      {
+       "mittari": "Katsastuslajit ja lisäpalvelut hintoineen kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla kuvataan kattavasti kevyen ajoneuvon katsastus, jälkitarkastus, lakisääteiset mittaukset (pakokaasupäästöjen tarkastus), erikoiskatsastukset, muutos- ja rekisteröintikatsastukset sekä Autotohtori-kuntotarkastus."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole julkaistu verkkosivuilla. Osoite on Valimotie 9-11, 00380 Helsinki, mutta yritysidentifioija puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa näkyvät kaikilla sivuilla: 075 323 2222 (katsastus- ja rekisteröintipalvelut, ma–pe 7.30–18, la 9-14) ja 029 534 5115 (ajokortti- ja kuljettajantutkintoasiat, ma-pe 7.30-15)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi sähköpostiosoitetta näkyy sivuilla: asiakaspalvelu@a-katsastus.fi ja info@a-katsastus.fi (pääkonttori, ma-pe klo 8-16)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näkyvät selvästi: 'Ajanvaraus ma–pe 7.30–18, la 9-14' ja pääkonttori 'ma-pe klo 8-16'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on erillinen 'Usein kysytyt kysymykset' -osio, joka sisältää alaotsikot: Katsastukset ja lakisääteiset mittaukset, Rekisteröinnit/vakuutukset/kilvet, Autotarvikkeet ja ilmaiset lisäpalvelut, Autotohtori ja muut lisäpalvelut, Lupapalvelut ja kuljettajantutkinnot."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 5760.3575,
+    "cls": 0,
+    "tbt_ms": 592.2064999999993
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä navigaatio ja laaja palveluvalikoima kuvattu yksityiskohtaisesti (kevyen ajoneuvon katsastus, jälkitarkastus, lakisääteiset mittaukset, erikoiskatsastukset)",
+    "Monipuoliset yhteydenottokeinot: puhelin, sähköposti ja verkkopohjainen ajanvaraus kaikkina arkipäivinä ja lauantaisin",
+    "Kattava asiakastuki: FAQ-osio, ohjeet ajanvaraukseen, preparointiehdotukset ja YouTube-videokanal neuvoa antamassa"
+   ],
+   "kehityskohteet": [
+    "Hinnasto puuttuu: siivu 'Katsastuspalvelujen hinnasto' johtaa 404-virheeseen; hinnat näytetään vain dynaamisesti ajanvarausjärjestelmässä",
+    "Palvelupistehaun URL ei toimi: 'Etsi lähin palvelupiste' -linkki palauttaa 404 eikä staattista palvelupisteluetteloa ole julkaistu",
+    "Y-tunnus ja itsenäiset arviot puuttuvat: yritysidentiteetti- ja luotettavuustiedot eivät ole julkisesti saatavilla"
+   ],
+   "yhteenveto": "A-Katsastus on Suomen johtava ajoneuvokatsastuspalvelun tarjoaja, jolla on n. 250 asemaa ja laaja palveluvalikoima. Sivusto tarjoaa selkeän navigaation, monipuoliset yhteydenottovaihtoehdot (puhelin 075 323 2222, sähköposti asiakaspalvelu@a-katsastus.fi) ja kattavat ohjeet. Heikkoutena on, että hintasivu ei toimi (404-virhe) ja palvelupistehaun URL ei ole toiminnassa; hinnat näytetään vain interaktiivisen ajanvarausjärjestelmän kautta."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Määräaikaiskatsastuksen hinta julkisesti esillä (30), nettiajanvaraus näyttää hinnan ennen yhteystietoja (20), asemat ja aukioloajat kerrottu (15), katsastuslajit ja lisäpalvelut hintoineen kuvattu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

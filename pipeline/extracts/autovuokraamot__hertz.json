@@ -1,0 +1,52 @@
+{
+  "slug": "hertz",
+  "fetched_ok": [
+    "https://www.hertz.fi",
+    "https://www.hertz.fi/p/faq",
+    "https://www.hertz.fi/rentacar/productservice/index.jsp?targetPage=fiFI_terms_conditions.jsp",
+    "https://www.hertz.fi/p/vuokra-autot/suomi",
+    "https://www.hertz.fi/rentacar/productservice/index.jsp?targetPage=fiFI_contactinformation.jsp",
+    "https://www.hertz.fi/rentacar/customersupport/index.jsp?targetPage=contactUsTypeSelectionView.jsp",
+    "https://www.hertz.fi/p/gold-plus-rewards-faqs"
+  ],
+  "hinta_ilman_yhteystietoja": "kylla",
+  "omavastuu_ja_vakuutus": "kylla",
+  "vuokrausehdot_saatavilla": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pienin_vuorokausihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Vuokrausehdot ja vakuutustiedot ovat julkisesti selkeästi saatavilla (omavastuu 1200–35 000 €, CDW/TP-hinnat)",
+    "Useita yhteystapoja: viisi puhelinnumeroa, kuusi sähköpostiosoitetta, 24h tiepalvelu",
+    "Selkeä sivuston organisaatio: erillisiä sivuja FAQ:lle, yhteystiedoille, vuokrausehtoille ja toimipisteille"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä missään sivun osassa",
+    "Mobiilisovellusta ei ole mainittu",
+    "Chat-palvelua ei ole saatavilla asiakastuen kautta"
+  ],
+  "yhteenveto": "Hertz on kansainvälinen autovuokraamopalvelu, joka tarjoaa laajan valikoimaa ajoneuvoja ja palkittua kanta-asiakasprogrammaa. Sivusto julkaisee selkeästi vuokrausehdot, omavastuu- ja vakuutusoptiot sekä tarjoaa useita yhteystapoja. Varaus-sivulla voi tarkastaa hintoja ilman yhteystietoja, ja FAQ-osio kattaa yleisiä kysymyksiä.",
+  "evidence": {
+    "hinta_ilman_yhteystietoja": "HAVAINTO: Etusivulla näkyy varauslomake, jolla voi syöttää kaupungin, noutopäivän ja palautuspäivän ilman yhteystietojen antoa. Hintoja on tarkastettavissa varaamisen alkuvaiheessa.",
+    "omavastuu_ja_vakuutus": "HAVAINTO: Vuokrausehdot-sivulla julkaistaan yksityiskohtainen taulukko: omavastuu 15 000–35 000 €, vakuutusoptiot CDW (12,55 €/vrk), TP (5,02 €/vrk) ja SuperCover (23–31 €/vrk). Henkilökohtainen vakuutus (PI) saatavissa 5 €/vrk.",
+    "vuokrausehdot_saatavilla": "HAVAINTO: Vuokrausehdot-sivulla selkeä kuvaus: vuokraajan minimi-ikä 18 v, jotkut luokat vaativat 24 v; polttoaine sisältyy vuokrahintaan; talvimaksu 1.11.–31.3., VLF-maksu 4,89 €/vrk.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Suomi-sivulla linkki 'Hertz toimipisteet Suomessa' ja maininta 1 275 vuokrauspaikasta maailmanlaajuisesti; Helsingissä seitsemän toimipistettä. Yhteystiedot-sivulla aukioloajat: varauspalvelu ma–pe 8:00–16:00, asiakaspalautteet ti–to 9:00–15:00, 24h tiepalvelu.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy yritysnimi 'First Rent A Car Finland Oy', mutta Y-tunnusta ei ole julkaistu.",
+    "puhelin_esilla": "HAVAINTO: Viisi puhelinnumeroa saatavilla: varauspalvelu 0200 11 22 33, asiakaspalautteet 09 6150 0595, pääkaupunkiseudun varaukset 020 555 2228, 24h tiepalvelu 0800 188 777, keskus 020 555 2000.",
+    "email_esilla": "HAVAINTO: Kuusi sähköpostiosoitetta eri tarkoituksiin: etunimi.sukunimi@hertz.fi, gold@hertz.fi, customer-relations@hertz.fi, helsinki.vak@hertz.fi, myynti@hertz.fi, paku@hertz.fi.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla ja 'Ota yhteyttä' -sivulla aukioloajat kullekin osastolle: varauspalvelu 8:00–16:00, asiakaspalautteet tiistai–torstai 9:00–15:00, 24h tiepalvelu saatavilla.",
+    "ukk_osio": "HAVAINTO: FAQ-sivu on olemassa osoitteessa https://www.hertz.fi/p/faq ja sisältää kategorioita varaus-asioista, vakuutuksista ja Hertz Gold+ -ohjelmasta."
+  }
+}

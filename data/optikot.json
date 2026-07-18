@@ -1,0 +1,1073 @@
+{
+ "slug": "optikot",
+ "nimi": "Optikot",
+ "nav": "Optikot",
+ "h1": "Suomen paras optikkoketju 2026",
+ "yksikko": "valtakunnallista optikkoketjua",
+ "lead": "Pisteytimme {n} valtakunnallista optikkoketjua {m} mittarilla. Tärkein kysymys: kerrotaanko silmälasien ja näöntarkastuksen hinnat ennen liikkeeseen astumista?",
+ "meta_title": "Suomen paras optikkoketju 2026 | optikot pisteytettynä | Suomen Paras",
+ "meta_desc": "5 optikkoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi Nissen ei ole listalla?</b> Koska se on jo. Instrumentarium ja Nissen ovat saman yhtiön (Instru Optiikka Oy, osa globaalia EssilorLuxottica-konsernia) kaksi brändiä — erikseen listattuna yksi yhtiö saisi kaksi sijoitusta.",
+  "<b>Silmäasema on kaupan alla:</b> Terveystalo ilmoitti 8.6.2026 ostavansa Silmäaseman, mutta kauppa ei ollut mittaushetkellä toteutunut. Silmäasema mitattiin itsenäisenä yhtiönä; omistustilanne tarkistetaan jokaisella päivityskierroksella.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei linssien tai kehysten laatua. Emme anna terveydenhuollon suosituksia. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "silmaasema",
+   "nimi": "Silmäasema",
+   "domain": "silmaasema.fi",
+   "omistaja": "Coronaria; Terveystalo ilmoitti ostavansa 8.6.2026 — kauppa ei vielä toteutunut",
+   "y_tunnus": "2627773-7",
+   "rekisteroity": 2014,
+   "score": 67.0,
+   "pillars": {
+    "digitaalinen": 56.8,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "75/100",
+       "paino": 30,
+       "pisteet": 75,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Silmälasien/linssien hintatietoja julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Piilolinssituotteiden hinnat löytyvät (23,90–101,90 €), mutta silmälasikehysten yksittäistuotteiden hinnat eivät ole esillä tuotekategorioissa – sivusto näyttää tuoteluettelot ilman hintoja."
+      },
+      {
+       "mittari": "Näöntarkastuksen hinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Optikon näöntutkimuksen hinta 35 € on selvästi esillä ajanvaraussivulla (silmälasien ostajalle 0 €). Muut tutkimukset kuten urheilunäöntutkimus (79 €) ja ikänäöntarkastus (35 €) on listattu."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen ajanvarausjärjestelmä (ajanvaraus.silmaasema.fi) mahdollistaa ajanvarauksen ilman sisäänkirjautumista; tarjolla on laaja valikoima palveluita ja paikkakunnia."
+      },
+      {
+       "mittari": "Liikkeet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla lueteltu noin 30 myymälää osoitteineen ympäri Suomea, mutta aukioloaikoja ei näy sivulla. Pääsivulla mainitaan asiakaspalvelu 010 190 200 (ma–pe 8–18, la 9–16), mutta yksittäisten liikkeiden aukioloajat puuttuvat."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 010 190 200 näkyy useissa paikoissa sivustolla (pääsivu, ajanvaraus, alasivu)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat (ma–pe 8–18, la 9–16) ovat esillä, mutta myymälöiden omat aukioloajat puuttuvat täysin."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -osio löytyy sivustolta; pääsivu linkittää aiheittain järjesteltyihin UKK-kategorioihin (Verkkokauppa, Myymälät, Silmäsairaalat, AI-chat)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaSilmä-mobiilisovellus mainitaan useissa paikoissa; sovelluksella pääsee asiointitietoihin ja voi varata aikoja."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 75,
+    "seo": 85,
+    "best_practices": 69,
+    "lcp_ms": 31795.670000000002,
+    "cls": 0.00011095582097767892,
+    "tbt_ms": 3512.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palvelujen esittely ja selkeä kategoriointi (näöntarkastus, silmälääkäripalvelut, leikkaukset)",
+    "Online-ajanvarausjärjestelmä on käytettävissä ja kattaa lukuisia paikkakunnia ja palveluita",
+    "Kattavat hintatiedot näöntarkastuksille (35 €) ja linssituotteille (23,90–101,90 €) löytyvät"
+   ],
+   "kehityskohteet": [
+    "Aukioloajat puuttuvat täysin toimipaikoista – liikkeet on lueteltu osoitteineen, mutta ei päivittäisiä aukioloaikoja",
+    "Silmälasien yksittäishinnat eivät ole esillä tuotekategorioissa (vain linssi- ja tarvikehinnastot näkyvät)",
+    "Sähköpostiosoite ja Y-tunnus puuttuvat – vain puhelinnumero 010 190 200 on esillä"
+   ],
+   "yhteenveto": "Silmäasema on suuri suomalainen optiikkaketju, joka tarjoaa laajaa palveluvalikoimaa silmälasista silmäleikkauksiin. Verkkosivusto on hyvin organisoitu ja sisältää hintatiedot näöntarkastuksille sekä piilolinsseille, ja online-ajanvaraus on integroitu erilliseen järjestelmään. Puutteita ovat aukioloaikojen puuttuminen toimipaikkasivuilta, silmälasien yksittäishintojen epätäydellisyys sekä yrityksen yhteystietojen osittainen puuttuminen."
+  },
+  {
+   "slug": "fenno-optiikka",
+   "nimi": "Fenno Optiikka",
+   "domain": "fennooptiikka.fi",
+   "omistaja": "Suomalainen franchise-yrittäjävetoinen ketju",
+   "y_tunnus": "2205389-1",
+   "rekisteroity": 2008,
+   "score": 65.3,
+   "pillars": {
+    "digitaalinen": 66.0,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 52.5,
+    "ai_laatu": 70.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Silmälasien/linssien hintatietoja julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Silmalasit-sivulla (https://fennooptiikka.fi/silmalasit) näkyy hintasuodattimet (Alle 100 €, 100–199 €, 200–299 €, Yli 300 €) ja konkreettiset tuotteet hinnoilla: Aamu alkaen € 285.00, Aamunkoi € 393.00, Aava € 283.00."
+      },
+      {
+       "mittari": "Näöntarkastuksen hinta kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Näöntarkastus-sivulla (https://fennooptiikka.fi/naontarkastus) kuvataan palvelu ja sen prosessi yksityiskohtaisesti, mutta hintaa ei mainita. Sivu ohjaa varaamaan ajan lähimmästä liikkeestä ilman hintaesittelyä."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja kaikilla sivuilla näkyy 'Varaa aika verkossa' -painike. Näöntarkastus-sivulla sanotaan 'Varaa aika verkossa'. Paikallisten liikkeiden sivuilla (esim. Fenno Optiikka Lappi) on konkreettinen ajanvarauslomake."
+      },
+      {
+       "mittari": "Liikkeet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälät-sivulla (JS-renderöitynä) listataan 50+ kaupunkia ja liikkeitä: Alajärvi (Liljamon Optiikka), Helsinki (Fenno Optiikka Aleksi), Tampere (Citykatse), Turku (Turun Fenno Optiikka) jne. Lappi-liikkeellä aukioloajat: ma-pe klo 10-17:30, la klo 10-15."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla (https://fennooptiikka.fi/yhteystiedot) näkyy selvästi: 'Fenno Optical Oy, Y-tunnus: 2205389-1, Ansatie 6a A (2 krs), 01740 VANTAA'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla listataan useat puhelinnumerot: johtaja 040 485 7578, kehitysjohtaja 040 580 0368, myyntipäällikkö 050 357 3696, markkinointipäällikkö 0400 396 920, tukkumyynti/linssit (09) 2763 6263, tukkumyynti/kehykset (09) 2763 6283. Paikallisilla liikkeillä omat numerot (esim. Lappi: 010 320 6310)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla sanotaan 'Fenno Optiikan hallinto ja markkinointi — Hallinnon ja markkinoinnin sähköpostit ovat muotoa: etunimi.sukunimi(at)fennooptiikka.fi'. Lappi-liikkeellä konkreettinen sähköposti: rovaniemi@fennooptiikka.fi. Yleisen yhteyshenkilön sähköpostia ei ole lisätty pääkontaktiksi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole FAQ-osiota. Reitit /ukk ja /faq palauttavat HTTP 404 -virheet."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 11144.815999999999,
+    "cls": 0.1743620464654376,
+    "tbt_ms": 1356
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja liikeverkon kattavuus (50+ liikkeitä ympäri Suomea selkeällä kartalla ja listalla)",
+    "Silmälasien hinnoittelu julkinen heti ostetussa järjestelmässä (hintasuodattimet saatavilla, hinnat €285–€393+)",
+    "Paikallisten liikkeiden yksityiskohtaiset tiedot (aukioloajat ma-pe 10-17:30, la 10-15, osoitteet, puhelinnumerot, henkilökunta)"
+   ],
+   "kehityskohteet": [
+    "Näöntarkastuksen hinta puuttuu kokonaan sivulta (asiakkaalle epäselvä kustannusarvio ennen käyntiä)",
+    "Usein kysytyt kysymykset -osio puuttuu (reitit /ukk ja /faq palauttavat 404)",
+    "Yhtenäinen verkkoajanvaraus pääsivulta puuttuu (ohjautuminen paikallis-liikkeiden sivuille vaaditaan)"
+   ],
+   "yhteenveto": "Fenno Optiikka on suomalainen optikkoketju, joka toimii 50+ liikkeellä ympäri maata. Sivusto tarjoaa silmälasien hinnat ja selkeän liikeverkon tiedot sekä paikallisten palveluiden yhteystiedot. Näöntarkastuksen hinnoittelua ei julkaista pääsivulla, eikä verkkosivulla ole usein kysyttyjen kysymysten osiota."
+  },
+  {
+   "slug": "instrumentarium",
+   "nimi": "Instrumentarium",
+   "domain": "instru.fi",
+   "omistaja": "Instru Optiikka Oy / EssilorLuxottica — sama yhtiö omistaa myös Nissen-brändin",
+   "y_tunnus": "1789727-2",
+   "rekisteroity": 2002,
+   "score": 65.2,
+   "pillars": {
+    "digitaalinen": 59.7,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 52.5,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "15/100",
+       "paino": 40,
+       "pisteet": 15,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "79/100",
+       "paino": 30,
+       "pisteet": 79,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Silmälasien/linssien hintatietoja julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyvät aurinkolasien hintaesimerkit Ray-Ban (246 €), Versace (263 €), Miu Miu (390 €), Burberry (263 €), Giorgio Armani (389 €), Oakley (214 €), Prada (370 €). Hinnoittelu on julkisesti näkyvillä."
+      },
+      {
+       "mittari": "Näöntarkastuksen hinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Näöntarkastus nyt kaikille 0 €' ja 'Kattava näöntutkimus nyt 29 €'. Hinnat ovat selvästi esillä."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla on 'Varaa aika' -linkit, mutta varausjärjestelmä on dynaamisesti ladattu eikä staattisen crawlerin saavutettavissa. Ajanvaraus on mahdollista, mutta täysi näkyvyys on rajattu."
+      },
+      {
+       "mittari": "Liikkeet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälä-sivulla listattu 140+ myymälää kaupungeittain (Alavus, Espoo, Forssa, Helsinki, Tampere, Turku jne.). Pääsivulla mainittu aukioloajat: ma–pe 8–20, la 9–17, su suljettu (puhelun hinta pvm/mpm)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 09 4241 7000 näkyvissä pääsivulla ja usealla alasivulla (ma–pe 8–20, la 9–17, su suljettu)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat ilmoitettu pääsivulla: ma–pe 8–20, la 9–17, su suljettu. Perustuvat pääkonttorin puhelinpalvelun aikoihin."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Usein kysytyt kysymykset' -linkki, mutta erillinen UKK-sivu ei ole saavutettavissa (404). Sisältö voi olla osana muita sivuja tai dynaamisesti ladattua."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 15,
+    "accessibility": 79,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 8385.169,
+    "cls": 0.23083496473618234,
+    "tbt_ms": 4717.583999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja myymäläverkko 140+ liikkeellä ympäri Suomea selkeällä kartalla ja suodatuksella",
+    "Näöntarkastuksen hinta ja All Inclusive -palvelun hinnoittelu selvästi esillä",
+    "Kattava opasmateriaali silmälaseista, linssistä ja näönhuollosta"
+   ],
+   "kehityskohteet": [
+    "Ajanvaraussivu ei ole saavutettavissa staattiselle crawlerille, vaikka linkki mainitaan",
+    "Y-tunnusta ei ole julkisesti esillä sivustolla",
+    "Sähköpostiosoite ja chattituki puuttuvat täysin, yhteydenotto vain puhelimitse"
+   ],
+   "yhteenveto": "Instrumentarium on kansallinen optikoiden ketju, jonka verkkosivuilta löytyvät silmälasien ja linssipalveluiden hinnat sekä näöntarkastuspalvelun hinnoittelu (29 €). Myymäläverkko on laaja (140+ paikkaa) ja helppo löytää kartalla. Ajanvaraus on mahdollista, mutta varausjärjestelmä ei ole crawlerin saavutettavissa, ja yhteydenottotavat rajoittuvat puhelimeen."
+  },
+  {
+   "slug": "specsavers",
+   "nimi": "Specsavers",
+   "domain": "specsavers.fi",
+   "omistaja": "Kansainvälinen Specsavers-franchisejärjestelmä",
+   "y_tunnus": "2006084-4",
+   "rekisteroity": 2005,
+   "score": 60.2,
+   "pillars": {
+    "digitaalinen": 59.0,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 37.5,
+    "ai_laatu": 70.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Silmälasien/linssien hintatietoja julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät kehysten hinnat esimerkiksi 'MESSYWEEKEND 180 €' ja uusissa tarjouksissa mainitaan hinnoittelun olevan selkeä: 'Valitse: 1. linssit, 2. kehykset ja 3. lisämukavuudet'."
+      },
+      {
+       "mittari": "Näöntarkastuksen hinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy selvästi 'Näöntarkastus 0 €' sekä teksti 'Optikon näöntarkastus ilmaiseksi'. Myös päävalikossa mainitaan tarjouksena 'Optikon näöntarkastus ilmaiseksi'."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät monet 'Varaa aika' -painikkeet ja linkit, mutta varsinainen varaussivu on Cloudflare-suojauksen takana (HTTP 403). Näyttää olevan mahdollista, mutta ei pystynyt varmistamaan toimintaa."
+      },
+      {
+       "mittari": "Liikkeet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyi '52 liikettä' -linkki ja 'Etsi liike' -valikko, mutta liikkeenhakusivu on Cloudflare-suojauksen takana. Aukioloaikojen haku ei onnistunut verkon estävän Cloudflaren takia."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löytynyt ladatuista sivuista. Monet linkit muihin sivuihin, joissa se voisi olla, olivat Cloudflare-suojattuja."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtään riippumatonta arviolähdettä (arvosteluja, sertifikaatteja) ei löytynyt ladatuista sivuista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigoinnissa näkyi 'Ota yhteyttä' -linkki, mutta yhteydenottosivulle ei päässyt (HTTP 403). Puhelinnumero ei näkynyt ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei löytynyt ladatuista sivuista. Yhteystietosivu oli Cloudflare-suojattu."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa näkyi linkki 'Ohje ja yleisimmät kysymykset', mutta sivu oli Cloudflare-suojattu (HTTP 403)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 54,
+    "lcp_ms": 8363.356000000002,
+    "cls": 0.028297883889283733,
+    "tbt_ms": 11894
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Näöntarkastus ilmainen ja selkeästi mainittu etusivulla",
+    "Laaja tuotevalikoima (silmälasit, piilolinssit, aurinkolasit) kuvattu hyvin",
+    "52 liikettä maanlaajuisesti ja maksumahdollisuudet (erämaksu jopa 12 kk) esillä"
+   ],
+   "kehityskohteet": [
+    "Liikkeenhaku ja aukioloajat taakse Cloudflare-suojauksen, vaikea päästä käsiksi",
+    "Ajanvarausta varten täytyy päästä JS-sivuille jotka eivät lataudu botille",
+    "Y-tunnus, yhteystiedot ja chat-mahdollisuus puuttuvat tai ovat piilossa"
+   ],
+   "yhteenveto": "Specsavers on laaja suomalainen optikoketju, joka tarjoaa silmälaseja, piilolinssejä ja näöntutkimusta. Etusivu ja tuotesivut ovat hyvin organisoituja ja sisältävät perushintatietoja sekä ilmaisen näöntarkastuksen maininnassa, mutta suurin osa toiminnollisista sivuista on Cloudflare-suojauksen takana, mikä vaikeuttaa liikkeenhakua, ajanvarausta ja yksityiskohtaisten yhteystietojen löytämistä."
+  },
+  {
+   "slug": "synsam",
+   "nimi": "Synsam",
+   "domain": "synsam.fi",
+   "omistaja": "Ruotsalainen Synsam Group — pörssiyhtiö",
+   "y_tunnus": "2446347-2",
+   "rekisteroity": 2011,
+   "score": 56.0,
+   "pillars": {
+    "digitaalinen": 72.2,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 42.5,
+    "ai_laatu": 46.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Silmälasien/linssien hintatietoja julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyi Erling Haaland -lasimallistoa hinnoilla 139 €–249 € ja aurinkolaseja 70 €–356 €. Piilolinssejä hinnoilla 12,45 €–41 €."
+      },
+      {
+       "mittari": "Näöntarkastuksen hinta kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Näöntarkastusta mainitaan 'Varaa aika Mehiläisen silmälääkärille', mutta hintaa ei ole etusivulla näkyvissä. Sisäiset sivut eivät ole saavutettavissa."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Varaa näöntarkastus' -painike näkyy navigaatiossa, mutta varaussivu (https://www.synsam.fi/varaa-naontarkastus) antaa HTTP 404."
+      },
+      {
+       "mittari": "Liikkeet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla lueteltu 'Synsam-optikkoliikkeet kaupungeittain': Helsinki, Espoo, Jyväskylä, Kuopio, Oulu, Pori, Tampere, Turku, Vantaa, Ahvenanmaa. Aukioloaikoja ei näy etusivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä etusivulla tai footerissa. Sisäiset sivut eivät ole saavutettavissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Arvioita kolmannen osapuolen palvelusta (esim. Google Reviews, Trustpilot) ei näy etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "45/100",
+       "paino": 34,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 98,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 12976.49889,
+    "cls": 0.0009482945777938407,
+    "tbt_ms": 2099.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Silmälasien ja piilolinssien hinnat selkeästi näkyvissä etusivulla (139–249 €, piilolinssit 12,45–41 €)",
+    "Liikepaikat lueteltu kaupungeittain (Helsinki, Espoo, Turku, Tampere, Oulu jne)",
+    "Varaa näöntarkastus -toiminto helposti löydettävissä ylänavigaatiosta"
+   ],
+   "kehityskohteet": [
+    "Sisäiset sivut eivät ole saavutettavissa automaattisilta klienteiltä – kaikki sivut palauttavat 404",
+    "Näöntarkastuksen hintaa ei ole julkisesti näkyvissä etusivulla",
+    "Liikkeiden aukioloaikoja tai yhteystietoja (puh, email) ei löydy ilman interaktiivista selainta"
+   ],
+   "yhteenveto": "Synsam on suuri suomalainen optikkoketju joka tarjoaa silmälaseja, piilolinssejä ja näöntarkastuspalveluja. Etusivulla on hyvät hintatiedot, mutta sivusto on rakennettu täysin JavaScript-pohjaiseksi sovellukseksi eikä sisäiset sivut ole saavutettavissa automaattisilta pyynnöiltä. Yksityiskohtaiset tiedot näöntarkastuksesta, aukioloajoista ja yhteystiedoista vaativat interaktiivista selainta."
+  }
+ ],
+ "updated": "18.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Silmälasien/linssien hintatietoja julkisesti esillä (30), näöntarkastuksen hinta kerrottu (20), ajanvaraus verkossa ilman kirjautumista (15), liikkeet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}
