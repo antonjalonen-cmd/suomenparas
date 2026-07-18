@@ -298,3 +298,22 @@ yhtiöt listattu 10 / y-tunnus 10 / riippumaton arvio 15); relabel "sähköyhti�
 vakuutusasiamiehet** rather than showing offers — the 30-point question ("do you see
 offers before handing over your data") may score a whole category of lead-forms `ei`,
 which is the honest result, not a calibration error.
+
+## BATCH 3 — BUILT 18.7.2026
+
+All 6 shipped: `autokatsastus` (4 — only 4 national chains exist, disclosed),
+`autovuokraamot` (6; Budget excluded = same company as Avis), `optikot` (5; Nissen
+excluded = same company as Instrumentarium; Silmäasema mid-acquisition by Terveystalo,
+disclosed), `yksityislaakarit` (4; Lysna cut as not national), `kuntosalit` (6;
+LadyLine+EasyFit same franchisor, disclosed), `kiinteistonvalittajat` (6; SKV merged
+into Huoneistokeskus 2020). 31 companies, all PRH-verified, measured 18.7.2026.
+Winners: K1 Katsastajat, Hertz, Silmäasema, Mehiläinen (84.0 — batch high), Fitness24Seven, OP Koti.
+
+Quality notes for the next batch:
+- Two extracts (Hertz, Elixia) claimed "ei" on fields from 2-page crawls and were
+  re-run: the rule "never claim absence from a page you could not load" needs the
+  gate to check it — consider flagging extracts with ≥4 "ei" and <4 fetched URLs.
+- SPA sites (synsam.fi, hertz.fi, habita.com, elixia.fi) 404 guessed deep paths;
+  the fix that works is: fetch front page --js --raw, grep hrefs, follow REAL nav links.
+- One agent stalled ~40 min then completed AFTER its replacement was launched —
+  last-writer-wins on the same file; wait for both before gating.
