@@ -245,7 +245,7 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
 /* front-page search */
-.sp-search{position:relative;margin-top:22px;max-width:560px;animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .3s both}
+.sp-search{position:relative;margin:0 0 24px;max-width:560px}
 .sp-search input{width:100%;padding:15px 18px;border-radius:14px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.35)}
 .sp-search input::placeholder{color:var(--mut);font-weight:600}
 .sp-search input:focus{outline:3px solid var(--gold);outline-offset:1px}
@@ -376,10 +376,14 @@ td.pts b{color:var(--ink)}
 .step h3{color:var(--ink);font-size:1.12rem;margin:8px 0 7px;font-weight:600}
 .step p{font-size:.9rem;color:var(--mut);font-weight:600}
 /* b2b */
-.b2b{background:linear-gradient(165deg,var(--blue) 0%,var(--blue-deep) 100%);border-radius:var(--r);border:3px solid var(--ink);box-shadow:0 5px 0 rgba(20,33,63,.3);color:#fff;padding:30px;margin:26px 0}
+.b2b{background:linear-gradient(165deg,var(--blue) 0%,var(--blue-deep) 100%);border-radius:var(--r);border:3px solid var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.3);color:#fff;padding:30px;margin:26px 0}
 .b2b h3{font-size:1.4rem;font-weight:700}
-.b2b p{color:#D6E4FB;margin:9px 0 16px;max-width:640px;font-size:.95rem;font-weight:600}
-.b2b small{display:block;margin-top:12px;color:#AFC6EC;font-size:.78rem;font-weight:600}
+.b2b p{color:#F8DCE9;margin:9px 0 16px;max-width:640px;font-size:.95rem;font-weight:600}
+.b2b small{display:block;margin-top:12px;color:#EBBCD3;font-size:.78rem;font-weight:600}
+.b2b.light{background:var(--card);color:var(--ink)}
+.b2b.light h3{color:var(--ink)}
+.b2b.light p{color:var(--body)}
+.b2b.light small{color:var(--mut)}
 /* misc */
 .crumb{font-size:.84rem;color:var(--mut);margin:22px 0 14px;font-weight:700}
 .crumb a{color:var(--mut)}
@@ -930,10 +934,6 @@ def build_index():
       <img class="hero-logo" src="assets/logo-480.png?v=3" alt="Suomen Paras" width="184" height="184">
       <h1>Löydä luotettavin, <em>vertaa läpinäkyvästi</em></h1>
       <p class="lead">Hyvä diili ei ole sattumaa: pisteytämme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
-      <div class="sp-search" id="sp-search">
-        <input type="search" id="sp-q" placeholder="Mitä haluat vertailla? Hae kategoriaa tai yritystä…" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
-        <div class="sp-results" id="sp-results" hidden></div>
-      </div>
       <div class="hero-stats">
         <div class="hero-stat"><b>{len(ALL_COMPANIES)}</b><span>palvelua pisteytetty</span></div>
         <div class="hero-stat"><b>{LIVE_COUNT}</b><span>kategoriaa live</span></div>
@@ -953,7 +953,11 @@ def build_index():
 <section class="band">
   <div class="wrap">
     <h2 class="sec">Haetuimpien kategorioiden kärjet</h2>
-    <p class="sec-sub">Kuusi haetuinta kategoriaa ja niiden kolme kärkeä. Loput {LIVE_COUNT} kategoriaa löydät hausta tai <a href="kategoriat/">kategoriasivulta</a>.</p>
+    <p class="sec-sub">Hae mitä tahansa kategoriaa tai yritystä, tai selaa kuutta haetuinta alta. Loput {LIVE_COUNT} kategoriaa löydät <a href="kategoriat/">kategoriasivulta</a>.</p>
+    <div class="sp-search" id="sp-search">
+      <input type="search" id="sp-q" placeholder="Mitä haluat vertailla? Hae kategoriaa tai yritystä…" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+      <div class="sp-results" id="sp-results" hidden></div>
+    </div>
     <div class="top-grid">{top_boards}</div>
   </div>
 </section>
@@ -1050,7 +1054,7 @@ def build_index():
 
 <section class="band" style="padding-top:0">
   <div class="wrap">
-    <div class="b2b" style="background:var(--card)">
+    <div class="b2b light">
       <h3>Liity Suomen Paras -perheeseen</h3>
       <p>Suomen Paras rakentuu lukijoiden kanssa: ehdota seuraavia kategorioita, bongaa virheitä ja kerro mikä toimii. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
       <a class="btn" href="yhteiso/">Liity mukaan ja anna palautetta</a>
