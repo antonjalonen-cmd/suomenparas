@@ -1,0 +1,45 @@
+{
+  "slug": "totalav",
+  "fetched_ok": [
+    "https://www.totalav.com/",
+    "https://www.totalav.com/product/antivirus-pro",
+    "https://www.totalav.com/awards"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "testitulokset_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "uusimishinta_vuosi_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Itsenäiset testitodistukset: VB100, ADVANCED+ Real World, TOP PRODUCT, Deceptor Fighter",
+    "Selkeä kolmen tason hinnoittelu (99–149 €/vuosi) perusominaisuuksilla jaoteltuna",
+    "Monialustainen: Windows, Mac, iOS, Android; mobiilisovellus saatavilla"
+  ],
+  "kehityskohteet": [
+    "Uusimishinta piilotettu: vain \"introductory pricing\" mainittu, varsinainen uusimishinta ei julkinen",
+    "Ei suomenkielistä sivustoa, vaikka 12 muuta kieli saatavilla",
+    "SPA-rakentelu tekee siirtymisen sisäisiin sivuihin mahdottomaksi; FAQ- ja support-sivut ohjautuvat etusivulle"
+  ],
+  "yhteenveto": "TotalAV on engelskielinen antivirus-tuote kolmella tilatasolla (99–149 €/vuosi), jonka omistaa Total Security US LLC (Bostonissa). Sivusto korostaa riippumattomia testitodistuksia (VB100, AV-TEST) ja tarjoaa laajoja ominaisuuksia (real-time-suojaus, järjestelmän siivous, datarikkojen seuranta). Aggressiivinen hinnoittelumalli tulee ilmi \"introductory pricing\" -maininnasta ja uusimishinnan puuttumisesta: sivustolla kerrotaan vain, että uusinnalla \"peritään tavallinen hinta\", numeroa ei paljasteta. Sivusto puuttuu suomesta kielipaloissa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pricing-sivu näyttää kolme suunnitelmaa: TotalAV Plus 99 €/vuosi (4 laitetta), Internet Security 129 €/vuosi (6 laitetta), Total Security 149 €/vuosi (8 laitetta).",
+    "uusimishinta_kerrottu": "HAVAINTO: FAQ:ssä sanotaan \"Renewals are billed at the then-regular rate\" ja \"Introductory pricing may be available to first-time customers\", mutta varsinaista EUR-hintalukua uusinnalle ei julkaista.",
+    "omistaja_kerrottu": "HAVAINTO: Sivuston alaosassa: Total Security US LLC, 250 Northern Avenue, Floor 3, Boston, MA 02210; Company Number: 10161957; © 2026 Total Security Limited.",
+    "testitulokset_kerrottu": "HAVAINTO: Awards-sivulla ja etusivulla mainitaan: TOP PRODUCT (November 2025), ADVANCED+ Real World (November 2025), VB100 (April 2025), Deceptor Fighter (November 2025).",
+    "suomenkielinen_palvelu": "HAVAINTO: Kielivalikossa näkyvät 12 kielipeliä (Dansk, Deutsch, Français, Español, Italiano, Nederlands, Norsk, Polski, Português, Svenska, Česky, Türkçe), mutta Suomi puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita kolmannen osapuolen vertailupalvelua tai yleistä arviointisivustoa."
+  }
+}

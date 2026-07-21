@@ -1,0 +1,1718 @@
+{
+ "slug": "virustorjuntaohjelmat",
+ "nimi": "Virustorjuntaohjelmat",
+ "nav": "Virustorjunta",
+ "h1": "Suomen paras virustorjunta 2026",
+ "yksikko": "Suomessa myytävää virustorjuntaohjelmaa",
+ "lead": "Pisteytimme {n} suomalaisille myytävää virustorjuntaohjelmaa {m} mittarilla. Tärkein kysymys: kerrotaanko ensimmäisen vuoden tarjouksen lisäksi myös uusimishinta, ja kuka ohjelmiston oikeasti omistaa?",
+ "meta_title": "Suomen paras virustorjunta 2026 | ohjelmat pisteytettynä | Suomen Paras",
+ "meta_desc": "8 virustorjuntaohjelmaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kolme listan kahdeksasta brändistä on samaa yhtiötä:</b> Gen Digital omistaa Nortonin, Avastin ja AVG:n — \"kilpailevat\" tuotteet voivat siis olla saman talon eri paketteja. F-Secure on listan ainoa suomalainen (sama pörssiyhtiö kuin F-Secure VPN vpn-vertailussamme). Kaspersky on venäläistaustainen; se myy edelleen Suomeen, eikä EU:lla ollut mittaushetkellä kuluttajamyynnin kieltoa.",
+  "<b>Miksi McAfee ei ole listalla?</b> Sen sivusto esti jokaisen hakutapamme (HTTP 403 myös renderöivällä selaimella), emmekä kierrä bottisuojauksia periaatteesta. Emme julkaise pisteitä sivustosta, jota mittarimme ei aidosti nähnyt — poissaolo on mittauksen rajoite, ei arvio McAfeen laadusta.",
+  "Alan tunnetuin kuvio on halpa ensimmäinen vuosi ja hiljaa moninkertaistuva uusimishinta — siksi uusimishinnan avoimuus on oma 20 pisteen mittarinsa. Vertailu kuvaa sivustojen läpinäkyvyyttä, ei tunnistustarkkuutta; riippumattomat testilaitokset (AV-TEST, AV-Comparatives) mittaavat suojaustehoa. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "totalav",
+   "nimi": "TotalAV",
+   "domain": "totalav.com",
+   "omistaja": "Total Security Limited (Iso-Britannia) / Total Security US LLC",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 77.5,
+   "pillars": {
+    "digitaalinen": 96.8,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "95/100",
+       "paino": 40,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivu näyttää kolme suunnitelmaa: TotalAV Plus 99 €/vuosi (4 laitetta), Internet Security 129 €/vuosi (6 laitetta), Total Security 149 €/vuosi (8 laitetta)."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ:ssä sanotaan \"Renewals are billed at the then-regular rate\" ja \"Introductory pricing may be available to first-time customers\", mutta varsinaista EUR-hintalukua uusinnalle ei julkaista."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alaosassa: Total Security US LLC, 250 Northern Avenue, Floor 3, Boston, MA 02210; Company Number: 10161957; © 2026 Total Security Limited."
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Awards-sivulla ja etusivulla mainitaan: TOP PRODUCT (November 2025), ADVANCED+ Real World (November 2025), VB100 (April 2025), Deceptor Fighter (November 2025)."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kielivalikossa näkyvät 12 kielipeliä (Dansk, Deutsch, Français, Español, Italiano, Nederlands, Norsk, Polski, Português, Svenska, Česky, Türkçe), mutta Suomi puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita kolmannen osapuolen vertailupalvelua tai yleistä arviointisivustoa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 95,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 2060.587,
+    "cls": 0.030543574162171294,
+    "tbt_ms": 205
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Itsenäiset testitodistukset: VB100, ADVANCED+ Real World, TOP PRODUCT, Deceptor Fighter",
+    "Selkeä kolmen tason hinnoittelu (99–149 €/vuosi) perusominaisuuksilla jaoteltuna",
+    "Monialustainen: Windows, Mac, iOS, Android; mobiilisovellus saatavilla"
+   ],
+   "kehityskohteet": [
+    "Uusimishinta piilotettu: vain \"introductory pricing\" mainittu, varsinainen uusimishinta ei julkinen",
+    "Ei suomenkielistä sivustoa, vaikka 12 muuta kieli saatavilla",
+    "SPA-rakentelu tekee siirtymisen sisäisiin sivuihin mahdottomaksi; FAQ- ja support-sivut ohjautuvat etusivulle"
+   ],
+   "yhteenveto": "TotalAV on engelskielinen antivirus-tuote kolmella tilatasolla (99–149 €/vuosi), jonka omistaa Total Security US LLC (Bostonissa). Sivusto korostaa riippumattomia testitodistuksia (VB100, AV-TEST) ja tarjoaa laajoja ominaisuuksia (real-time-suojaus, järjestelmän siivous, datarikkojen seuranta). Aggressiivinen hinnoittelumalli tulee ilmi \"introductory pricing\" -maininnasta ja uusimishinnan puuttumisesta: sivustolla kerrotaan vain, että uusinnalla \"peritään tavallinen hinta\", numeroa ei paljasteta. Sivusto puuttuu suomesta kielipaloissa."
+  },
+  {
+   "slug": "fsecure",
+   "nimi": "F-Secure",
+   "domain": "f-secure.com",
+   "omistaja": "F-Secure Oyj — suomalainen pörssiyhtiö (sama yhtiö kuin F-Secure VPN vpn-listalla)",
+   "y_tunnus": "3269349-7",
+   "rekisteroity": null,
+   "score": 76.8,
+   "pillars": {
+    "digitaalinen": 74.3,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: F-Secure Total mainitaan alkaen €69,99/vuosi, Internet Security €49,99/vuosi ja Scam Protection €4,99/kk pääsivulla (render_page.py, fi ja en versiot)."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Renew-sivu ohjaa login-sivulle jonka FAQ-osiossa kerrotaan että \"Näet vanhenemispäivämääräsi ja uusimisvalinnat\" My F-Secure -tilillä, mutta hintaluvut eivät näy ilman kirjautumista."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: F-Secure Oyj mainitaan sijoittajasivulla (investors.f-secure.com), pörssissä listattu suomalainen yritys, CFO Robin Pulkkinen, investor.relations@f-secure.com."
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: AV-TEST tai AV-Comparatives tuloksia ei löydy pääsivulta, support-sivulta, articles-sivulta tai Company-osiosta. Sivulla mainitaan \"award-winning\" mutta ei riippumattomia kolmannen osapuolen testituloksia."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: F-Secure.com/fi on suomenkielinen, hinnat ilmaistaan euroissa (€), tuotteet ja tuki saatavilla suomeksi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin vertailusivustoihin (kuten Trustpilot, G2, Capterra) tai sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla kerrotaan \"Call F-Secure support\" ja Suomi on valintojen joukossa, tuki 24/7."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: investor.relations@f-secure.com näkyvissä investors-sivulla, support-sivulla kehoitetaan ottamaan yhteyttä chatin ja puhelimen kautta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla mainitaan \"Chat with one of our support experts or meet our new chatbot\", availability 24/7."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla ilmoitetaan 24/7 saatavuus puhelimelle, chatille ja artikkeleille."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Renew-sivulla on \"Frequently asked questions\" -osio joka vastaa tavallisiin kysymyksiin (tilauksen uusiminen, My F-Secure, tili-asetukset)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan tuotteet ovat saatavilla \"For Windows | Mac | iOS | Android\"."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5382.716499999999,
+    "cls": 0,
+    "tbt_ms": 3140.999999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "35 vuoden kokemus virustorjunnasta ja yritys on suomalainen pörssissä listattu F-Secure Oyj",
+    "Kattavat tuotteet (Internet Security, Total, VPN, ID Protection, Scam Protection) kaikille laitteistoille",
+    "24/7 tuki puhelimella, chatilla ja FAQ-artikkeleilla usealla kielellä mukaan lukien suomi"
+   ],
+   "kehityskohteet": [
+    "Riippumattomia testituloksia (AV-TEST, AV-Comparatives) ei ole näkyvissä sivustolla",
+    "Uusimishinnat (renewal pricing) vaativat kirjautumista, eivät näy julkisesti",
+    "Suomalaisen sivuston tuotesivu-polut palauttavat 404:ä, ohjaus tapahtuu englanninkielisen version kautta"
+   ],
+   "yhteenveto": "F-Secure on suomalainen, pörssissä listattu virustorjuntayritys, jonka tuotteet ovat saatavilla Suomessa suomenkielisellä sivustolla ja hinnat euroissa. Hinnat on esitetty selvästi (alkaen €49,99/vuosi), mutta uusimishinnat vaativat kirjautumista. Sivusto tarjoaa kattavat tukipalvelut 24/7 monilla kielillä."
+  },
+  {
+   "slug": "avg",
+   "nimi": "AVG",
+   "domain": "avg.com",
+   "omistaja": "Gen Digital Inc. — sama omistaja kuin Norton ja Avast; ei suomenkielistä sivustoa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 75.0,
+   "pillars": {
+    "digitaalinen": 59.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 81.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat näkyvät selvästi kaikissa tuotteissa EUR-muodossa verkkokaupassa. Internet Security -tuotteelle näytetään sekä tarjoushinta (72,99 €) että uusimishinta (34,99 € vuodessa)."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto ilmoittaa selvästi \"Savings compared to renewal price 72,99 €/year\" ja näyttää realPricePerYearFormatted arvot. Uusimishinta 34,99 € vuodessa Internet Security -tuotteelle."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa lukee \"AVG is part of Gen - a global company\" ja \"Copyright © 2026 Gen Digital Inc. All rights reserved.\""
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja awards-sivu näyttää testilaboratorioiden tuloksia: AV-TEST (Home User Protection Test, Advanced Threat Protection Test, Consumer Mobile Security Test, Performance Test), VB100, sekä Trustpilot-arvioita (2024 Top Rated Product, Best Protection, Best Usability)."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritys www.avg.com/fi palauttaa HTTP 404. Kielivalikkoon ei sisälly Suomi-vaihtoehtoa (listattu kielissä: Español, Deutsch, Français, Čeština, Polski, Slovenčina, jne., mutta ei suomea)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan Trustpilot-arviot (\"2024 Top Rated product\") ja hyvin monet riippumattomat testitulokset. Sivusto näyttää useita AV-TEST sertifiointeja eri kategorioissa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla näkyvät puhelinnumerot: US +1 480 920 6811 (tech support), UK +44 (0)2035 434 457, US/CA +1 844 259 8811 (sales support), UK +44 (0)800 066 8173, AU +61 290 489 733."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy julkisesti verkkokaupassa tai avoimissa support-sivuilla. Support-sivusto on osittain huoltotilassa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei mainittu avatuissa sivuissa. Support-sivusto näyttää vain puhelintukea."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainittu saavutetuilla sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla listataan FAQ-osiota: \"FAQs\", \"Installing and activating an AVG product\", \"Requesting a refund for an AVG subscription\", \"Canceling an AVG subscription - FAQs\"."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 87,
+    "seo": 85,
+    "best_practices": 58,
+    "lcp_ms": 9800.2385,
+    "cls": 0.05719370960208106,
+    "tbt_ms": 3696.6389999999997
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja uusimishinnat selvästi esillä EUR-hinnoissa ilman salattuja kustannuksia",
+    "Laaja valikoima riippumattomia testilaboratorion tuloksia (AV-TEST, VB100, Trustpilot-arviot)",
+    "Omistaja Gen Digital selvästi ilmoitettu sivustolla"
+   ],
+   "kehityskohteet": [
+    "Tuki-sivusto on osittain huoltotilassa, kontaktilomakkeita ei helposti löydy",
+    "Sähköpostiosoitetta ei ole julkisesti näkyvissä (vain puhelinnumerot saatavilla)",
+    "Suomenkielinen palvelu ei ole saatavilla"
+   ],
+   "yhteenveto": "AVG on Gen Digitalin omistama laajalle levinnyt antivirus-ohjelmisto, jolla on monipuolinen tuotetarjonta Windows-, Mac- ja mobiilialustoille. Hinnoittelu on läpinäkyvä ja uusimishinnat kerrotaan selvästi, mutta suomenkielinen versio puuttuu kokonaan. Sivusto esittelee kattavasti riippumattomien testilaboratorioiden tuloksia."
+  },
+  {
+   "slug": "eset",
+   "nimi": "ESET",
+   "domain": "eset.com",
+   "omistaja": "ESET, spol. s r.o. (Slovakia)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.9,
+   "pillars": {
+    "digitaalinen": 63.1,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 65.0,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "21/100",
+       "paino": 40,
+       "pisteet": 21,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näytetään kolme pakettia: ESSENTIAL 39,98€/vuosi (1 laite), PREMIUM 69,99€/vuosi (suosituin, 1 laite), ULTIMATE 119,99€/vuosi (5 laitetta). Maininta: 'Hinta voimassa vain ensimmäisen kauden ajan.'"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uusimishinnan summaa ei erityisesti ilmoiteta. Sivulla lukee 'Hinta voimassa vain ensimmäisen kauden ajan', mikä viittaa hintojen olevan tarjoushintoja eikä uusimishintoja."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alaviitteessä '© 1992 - 2026 ESET, spol. s r.o.' ja yhteystiedot-sivulla: 'ESET, spol. s r.o., Aupark Tower, 16th Floor, Einsteinova 24, 851 01 Bratislava, Slovakian tasavalta'."
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Paras suoriutuja 11 vuoden ajan AV-Comparatives-testauksessa' ja 'Yli 100 peräkkäistä VB100-palkintoa'. Verkkosivustot mainittu: Gartner Peer Insights (4.6), TrustRadius (8.9), Capterra (4.7), G2 (4.6), Trustpilot (4.1)."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on täysin suomenkielinen, hinnat euroissa, paikallinen tuki sähköpostilla ja puhelimella."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla esille tuodut neljän alustan arvosanat: 'Consistently validated by customers worldwide — Gartner Peer Insights 4.6, TrustRadius 8.9, Capterra 4.7, G2 4.6, Trustpilot 4.1'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla 'ESET Suomi Tech Support — Puhelin: +358 41 400 0229, arkipäivisin kl 10–15'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla näytetään sähköpostit: sales@eset.fi (myynti), partners@eset.fi (kumppanit), marketing@eset.fi (markkinointi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Online Form' mainittu yhteystiedot-sivulla, mutta varsinaista live-chat-ominaisuutta ei näkynyt."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin-tuella on mainitut aukioloajat 'arkipäivisin kl 10–15', muuten ei varsinaista aukioloaikataulua."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hakeyritys osoitteeseen /fi/tuki/ukk/ palautti 404-virhe, osio on saavuttamattomissa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivun navigaatiossa mainitaan 'ESET Mobile Security' ja 'Android-tuotteet', mutta hakeyritys tuotesivuille palautti 404."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 21,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 8097.8330000000005,
+    "cls": 0.16687704231499723,
+    "tbt_ms": 13254.612999999994
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näytetty euroissa pääsivulla kolmelle kotitalouspaketille (39,98€–119,99€)",
+    "Yli 30 vuoden historia ja neljän riippumattoman arviostelupalvelun (Gartner, TrustRadius, Capterra, G2) vahvat arvosanat",
+    "Suomenkielinen sivusto, paikallinen puhelintuenta arkipäivisin klo 10–15, selkeä omistaja-tieto (ESET, Slovakia)"
+   ],
+   "kehityskohteet": [
+    "Uusimishinnan selkeä ilmoittaminen puuttuu — sivulla mainitaan vain ensimmäisen kauden hinta",
+    "FAQ- tai UKK-osio puuttuu kokonaan (hakeyritys palautti 404)",
+    "Mobiilisovellukset mainittu navigaatiossa (ESET Mobile Security) mutta ei omaa tuotesivua latautuu"
+   ],
+   "yhteenveto": "ESET on slovakialainen 30+ vuotta toiminut antivirus-yritys, jonka suomalainen sivusto tarjoaa kolme hinnoiteltua kotitaloustuotepakettia (ESSENTIAL, PREMIUM, ULTIMATE) euroissa. Sivusto on selkeä ja omistaja sekä tuoteominaisuudet esille tuodut, mutta uusimishinta-informaatio puuttuu ja UKK-osio on saavuttamattomissa — merkittävät puutteet läpinäkyvyydessä."
+  },
+  {
+   "slug": "norton",
+   "nimi": "Norton",
+   "domain": "norton.com",
+   "omistaja": "Gen Digital Inc. (Yhdysvallat) — omistaa myös Avastin ja AVG:n",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.5,
+   "pillars": {
+    "digitaalinen": 66.4,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 72.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja tuotesivuilla näytetään Norton 360:n eri versioiden hinnat euroissa (Norton AntiVirus Plus 14,90€/kk, Norton 360 Standard 4,08€/kk, Norton 360 Deluxe 4,99€/kk, Norton 360 Premium 5,83€/kk ensimmäinen vuosi). Norton VPN näytetään hinnalla 29,99€ ensimmäinen vuosi."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen tuotteen kohdalla näkyy teksti 'Säästö verrattuna uusimishintaan X €/vuosi' (esim. AntiVirus Plus 39,99€/vuosi, Standard 79,99€/vuosi, Deluxe 109,99€/vuosi, Premium 119,99€/vuosi). VPN Standard uusiutuu automaattisesti hintaan 49,99€/vuosi."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alaosassa lukee 'Norton on osa Geniä – maailmanlaajuista yritystä, joka omistaa joukon luotettuja brändejä' ja 'Copyright © 2026 Gen Digital Inc.'"
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyy AV-TEST -merkinnän kanssa teksti 'Norton 360 palkittiin vuoden 2023 parhaasta suojauksesta' (Tammikuu - Joulukuu 2023) ja SE Labs palkinto tekstillä 'Norton 360 palkittiin vuoden 2023 parhaana kodin haittaohjelmien torjuntaohjelmana'."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivusto on fi.norton.com, kaikki sisältö suomeksi, kaikki hinnat euroissa (€), tuotteen saatavuus sisältää Android ja iOS sovellukset."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Norton VPN -sivulla näytetään asiakasarvioita (LeaLa G. antoi arvion 10.3.2025, Len 7.3.2025), mutta sivuilla ei näy viittauksia riippumattomiin arviointipalveluihin tai kolmannen osapuolen arvosteluihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla viitataan tekstillä 'Tuen aukioloajat ja alueesi yhteystiedot ovat nähtävissä verkkosivustollamme osoitteessa https://www.norton.com/globalsupport', mutta puhelinnumeroa ei ole näkyvillä pääsivulla tai tuotesivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvillä pääsivulla, tuotesivuilla tai support.norton.com -sivuston etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivulla mainitaan 'Ota meihin yhteyttä' -osio, mutta chat-kanavan saatavuudesta tai linkistä ei ole tietoa näkyvillä sivuston hauissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Tuen aukioloajat ja alueesi yhteystiedot ovat nähtävissä verkkosivustollamme osoitteessa https://www.norton.com/globalsupport', mutta konkreettisia aukioloaikoja (esim. ma-pe 8-20) ei näy etusivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support.norton.com -sivuilla näkyy 'Miten voimme auttaa?' -osio kategorioilla kuten 'Lataaminen ja asentaminen' ja 'Ostaminen ja uusiminen', mutta varsinaista FAQ/UKK-sivua ei ole erillään."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Norton 360 -tuotteiden sivulla näytetään järjestelmävaatimukset Android 10.0+ ja iOS -versioille, Norton Family ja Mobile Security mainittavat erillisenä tuotteena."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 8931.9601,
+    "cls": 0,
+    "tbt_ms": 2982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja uusimishinnat selvästi näkyvillä kaikille tuotteille, alennukset merkitty",
+    "Riippumattomat testitulokset (AV-TEST ja SE Labs palkinnot) näkyvillä pääsivulla",
+    "Tuote on saatavilla suomenkielisellä sivustolla eurohinnoittelulla ja kaikilla laitealustoilla"
+   ],
+   "kehityskohteet": [
+    "Puhelinumeroa, sähköpostia tai chat-kanavaa ei ole näkyvillä julkisesti, vain viittaus globalsupport-sivulle",
+    "Varsinaista UKK-osiota ei ole, vain Support help center -sivusto johon ei ole suoraa linkkiä pääsivulta",
+    "Omistajatiedon (Gen Digital) löytää vain sivun alaosasta, ei tuotteen esittelystä"
+   ],
+   "yhteenveto": "Norton on Gen Digital Inc:n omistama virustorjuntapalvelu, joka myy useita tilaukseen perustuvia tuotteita Suomessa fi.norton.com -sivustolla. Sivusto on hyvin rakennettu ja hinnat ovat selkeästi esillä, mutta asiakastuen kontaktitiedot eivät ole helposti löydettävissä etusivulta."
+  },
+  {
+   "slug": "avast",
+   "nimi": "Avast",
+   "domain": "avast.com",
+   "omistaja": "Gen Digital Inc. — sama omistaja kuin Norton ja AVG",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 69.5,
+   "pillars": {
+    "digitaalinen": 60.4,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 74.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Premium Security -sivulla näkyvät selkeät hinnat: 1 laitteelle 1. vuosi 39,99 € (alennuksella), 10 laitteelle 1. vuosi 49,99 € (alennuksella)."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uusimishinnat näkyvät Premium Security -sivulla: '1 Windows-PC + 1 mobiililaite maksutta' tilaus uusitaan hintaan 72,99 €/vuosi, '10 laitetta' tilaus uusitaan hintaan 99,99 €/vuosi."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-osiossa kaikilla sivuilla näkyy: '© 2026 Gen Digital Inc. Kaikki oikeudet pidätetään.'"
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avast One ja Premium Security -sivuilla näkyvät sertifikaatit: AV-Comparatives (2025 'Parhaaksi arvioitu tuote vuonna 2025'), AVLab (2026 'Vuoden tuote vuonna 2026'), AV-Test ('100 % tosielämän uhkanäytteistä tunnistettiin ja estettiin'), SE Labs ('Tarkkuusaste yhteensä: 100 %, väärät positiiviset tulokset: 0 %')."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikki tutkitut sivut ovat täysin suomalaisiksi käännetyt, hinnat näkyvät euroissa ja tuotteet suunnattu suomalaisille."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avast One -sivulla näkyvät Trustpilot-arviot: 'Excellent' luokitus ja '44402 arvostelua palvelussa'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 9163.073,
+    "cls": 0.0006938075632516971,
+    "tbt_ms": 51490.992
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä hinnoittelu Premium Security -tuotteelle: ensimmäisen vuoden tarjous 39,99 € ja uusimishinta 72,99 € näkyvissä",
+    "Kattavat testitulokset: AV-Comparatives, AVLab, AV-Test ja SE Labs sertifioinnit näkyvissä tuotteiden yhteydessä",
+    "Avast One -sovellus integoi useita tuotteita yhdeksi pakettiksi: virustorjunta, VPN, puhdistus ja muita ominaisuuksia"
+   ],
+   "kehityskohteet": [
+    "Yhteystiedot puuttuvat: puhelinnumeroa, sähköpostiosoitetta tai chat-palvelua ei ole näkyvillä suomalaisille asiakkaille",
+    "Tuki-sivu (support.avast.com) ilmoittaa: 'Valitettavasti emme anna tukea kielellä: suomi', mikä rajoittaa palvelun saavutettavuutta",
+    "UKK-osiossa ei käsitellä Suomi-kohtaisia maksimaalisia kustannuksia tai paikallisia vaatimuksia"
+   ],
+   "yhteenveto": "Avast on Gen Digital Inc:n omistama virustorjunta-ohjelmisto, joka tarjoaa ilmaisen perusversion ja Premium Security -tuotteen. Sivusto on täysin suomalainen, hinnat näkyvät selkeästi, ja uusimishinta (72,99 € vuodessa 1 laitteelle) mainitaan selvästi. Testitulokset kansainvälisiltä testauslaitoksilta ovat näkyvillä. Heikkoutena on, ettei suomalaisille asiakkaille ole tarjolla puhelintuella tai sähköpostituella Suomen kielellä, vaan tuki ohjaa kansainväliseen support.avast.com-sivustoon."
+  },
+  {
+   "slug": "bitdefender",
+   "nimi": "Bitdefender",
+   "domain": "bitdefender.com",
+   "omistaja": "Bitdefender (Romania) — yksityisomisteinen",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 65.2,
+   "pillars": {
+    "digitaalinen": 69.6,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Total Security Individual maksaa 59,99 USD ensimmäinen vuosi (normaalihinta 109,99 USD), Premium Security 79,99 USD (normaalihinta 129,99 USD), Ultimate Security 89,99 USD (normaalihinta 159,99 USD). Hinnat näkyvät selkeästi tuotesivuilla, hinnoittelu on vuosittainen tai 2-vuotinen."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uusimissivu (renewal/) näyttää normaalit hinnat ilman first-year discounttia: Ultimate Security 159,99 USD/vuosi, Premium Security 129,99 USD/vuosi, Total Security 109,99 USD/vuosi. Uusimishinnat johdetaan normaalihintasarakkeen arvoista."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Company-sivulla paljastetaan, että Bitdefender perustettiin Romaniassa ja pääkonttori on Bukarest (15A Sos. Orhideelor, Orhideea Towers Building, District 6). Co-Founder ja CEO on Florin Talpeș. Yritys on toiminut vuodesta 2001."
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Awards-sivulla näkyy testituloksia ja palkintoja PCMag (Best Brands 2024, Editor's Choice), AV-TEST (Best Protection 2021), AV-Comparatives (Product of the Year 2020, Advanced+ 2022), Forrester ja Gartner. Company-sivulla mainitaan 'recognized by industry analyst firms and independent testing organizations'."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto ei tarjoa suomenkielistä versiota. Osoite https://www.bitdefender.com/fi-fi/ ohjautuu USA:n versioon (en-us) ja näyttää 404-virheen. Hinnat näytetään USD:ssä, ei EUR:ssa. Suomen kielinen tuki ei ole saatavilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Awards-sivu listaa testituloksia johtavista riippumattomista organisaatioista: AV-TEST, AV-Comparatives, PCMag, TechRadar, Tom's Guide. Sivulla mainitaan 'Best Brands for 2024' ja '25 new accolades in the past two years'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 99,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 11212.611073529051,
+    "cls": 0,
+    "tbt_ms": 785
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja tuotteet selkeästi esillä tuotesivuilla, useita vaihtoehtoja (Total Security, Premium Security, Ultimate Security) perheille ja yksilöille",
+    "Riippumattomat testitulokset näkyvillä awards-sivulla: PCMag, AV-TEST, AV-Comparatives, TechRadar ja muut johtavat testilaboratoriot",
+    "Mobiilisovellus Bitdefender Central saatavilla iOS:lle ja Androidille, 24/7 support mainittu, parental control ja paikannusominaisuudet"
+   ],
+   "kehityskohteet": [
+    "Suomenkielinen palvelu puuttuu kokonaan - sivusto ohjautuu USA:n versioon, hinnat näytetään USD:ssä eikä EUR:ssa",
+    "Puhelin- ja sähköpostiyhteydenottotiedot eivät ole julkisesti saatavilla pääsivuilta, live-chat-tuki ei näkyvissä",
+    "FAQ-sivu ja tarkat uusimisehdot puuttuvat; uusimishinta voidaan päätellä vain vertailemalla \"first year\" hintoja normaalihintasarakkeeseen"
+   ],
+   "yhteenveto": "Bitdefender on Romaniassa (Bukarest) perustettu globaali kyberturvallisuusyritys, joka myy consumer-antivirus-tuotteita monissa maissa. Sivustolla on selkeät hinnat tuotesivuilla, mutta Suomea ei tueta erikseen ja hinnat esitetään USD:ssä. Testitulokset johtavista lab-organisaatioista ovat näkyvillä, mutta suomenkielinen tuki, puhelin- ja sähköpostiyhteydenotto sekä FAQ-osio puuttuvat."
+  },
+  {
+   "slug": "kaspersky",
+   "nimi": "Kaspersky",
+   "domain": "kaspersky.fi",
+   "omistaja": "Kaspersky Lab — venäläistaustainen, perustajan ja johdon omistuksessa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 65.1,
+   "pillars": {
+    "digitaalinen": 65.7,
+    "lapinakyvyys": 87.5,
+    "tavoitettavuus": 12.5,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "83/100",
+       "paino": 30,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät selkeästi kolmen päätuotteen hinnat: Kaspersky Premium 27,99€ (ensimmäinen vuosi), Kaspersky Plus 20,99€, Kaspersky Standard 15,99€. Sivulla lukee 'Alkaen' + hinta kullekin tuotteelle."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen tuotteen hinnan yhteydessä eritellään uusimishinta: Premium 84,99€/vuosi, Plus 59,99€/vuosi, Standard 34,99€/vuosi. Teksti sanoo 'Tilaus uusitaan automaattisesti hintaan X€ vuodessa'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alaosassa näkyy copyright 'AO Kaspersky Lab'. Sivulla todetaan 'Kaspersky on nykyisin maailman suurin yksityisomisteinen kyberturvallisuusyritys'. Toimitusjohtajana maininta 'Eugene Kaspersky' (1997 perustettu), mutta omistajatiedot eivät ole yksityiskohtaisia."
+      },
+      {
+       "mittari": "Riippumattomat testitulokset (AV-TEST tms.) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla osio 'Testatuin. Palkituin VPN' kertoo: 'Kasperskyn tuotteet ovat olleet viimeisen vuoden aikana mukana 100 riippumattomassa testissä ja vieneet nimiinsä 93 ykköspalkintoa.' Mainitaan huipputulokset malwareista, tekoälyuhista ja verkko-ostosta."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan suomenkielisenä, kaikki hinnat näkyvät euroissa (€), ja kaikkien tuotteiden nimet ovat suomennettuja (esim. 'Virustorjunta Macille')."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 100 riippumatonta testiä ja 93 palkintoa, mutta testien organisaatioiden nimet (esim. AV-TEST, AV-Comparatives) eivät näy etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ei näy puhelinnumeroa. Valikossa on linkki 'Tuki' ja 'Ota yhteyttä' mutta näihin sivuihin ei pääse suoraan."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ei näy sähköpostiosoitetta. Sivustolla on yhteydenottolinkit mutta ne eivät ole käytettävissä etusivulta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Valikossa näkyy 'Tuki' (Support) -linkki, mutta FAQ-osio ei ole suoraan saavutettavissa etusivulla. Sivusto on SPA-pohjainen eikä tuensivuille pääse suoraan URL:n kautta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 83,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 5812.059700000002,
+    "cls": 0,
+    "tbt_ms": 1917.7186999999994
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja uusimishinnat selkeästi esillä kaikille tuotteille",
+    "Laajat testituloset mainittu - 100 riippumatonta testiä ja 93 ensimmäisen sijan palkintoa",
+    "Suomenkielinen sivusto ja hinnoittelu euroissa"
+   ],
+   "kehityskohteet": [
+    "Omistaja-tiedot puutteelliset - vain 'AO Kaspersky Lab' näkyy, yksityisomistuksesta mainitaan mutta omistajatietoja ei eritellä",
+    "Tuenta ja FAQ ei suoraan saavutettavissa - navigointilinkit näkyvät mutta sivuista ei vastaudu",
+    "Yhteystiedot puuttuvat etusivulta - puhelin, sähköposti ja chat eivät näy käyttäjälle"
+   ],
+   "yhteenveto": "Kaspersky tarjoaa antivirus-tuotteita suomalaisille käyttäjille suomenkielisellä sivustolla ja selkeillä eurohinnoilla. Hinnat ja erityisesti uusimishinnat on hyvin dokumentoitu kaikille kolmelle päätuotteelle (Standard, Plus, Premium), ja sivusto mainitaan voittaneen 93 itsenäistä testiakin. Sivuston heikkoutena on, että omistaja- ja tuentatiedot eivät ole helposti saavutettavissa etusivulta, ja tuen saantitavat (puhelin, sähköposti, chat) eivät näy."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinnat julkisesti esillä (30), uusimishinta kerrottu (ei vain tarjoushinta) (20), omistava yhtiö kerrottu sivustolla (15), riippumattomat testitulokset (AV-TEST tms.) esillä (15), suomenkielinen sivusto ja hinnat euroissa (10), riippumaton arviolähde esillä (10)"
+}

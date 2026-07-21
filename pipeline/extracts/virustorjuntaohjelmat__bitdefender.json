@@ -1,0 +1,50 @@
+{
+ "slug": "bitdefender",
+ "fetched_ok": [
+  "https://www.bitdefender.com/en-us/",
+  "https://www.bitdefender.com/en-us/company/",
+  "https://www.bitdefender.com/en-us/consumer/total-security",
+  "https://www.bitdefender.com/en-us/consumer/premium-security",
+  "https://www.bitdefender.com/en-us/consumer/ultimate-security",
+  "https://www.bitdefender.com/en-us/renewal/",
+  "https://www.bitdefender.com/en-us/consumer/awards",
+  "https://central.bitdefender.com/home"
+ ],
+ "hinnat_esilla": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "testitulokset_kerrottu": "kylla",
+ "suomenkielinen_palvelu": "ei",
+ "riippumaton_arvio": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "uusimishinta_vuosi_eur": null,
+ "ai_arviot": {
+  "selkeys": 75,
+  "sisallon_kattavuus": 70,
+  "hintojen_loydettavyys": 85
+ },
+ "vahvuudet": [
+  "Hinnat ja tuotteet selkeästi esillä tuotesivuilla, useita vaihtoehtoja (Total Security, Premium Security, Ultimate Security) perheille ja yksilöille",
+  "Riippumattomat testitulokset näkyvillä awards-sivulla: PCMag, AV-TEST, AV-Comparatives, TechRadar ja muut johtavat testilaboratoriot",
+  "Mobiilisovellus Bitdefender Central saatavilla iOS:lle ja Androidille, 24/7 support mainittu, parental control ja paikannusominaisuudet"
+ ],
+ "kehityskohteet": [
+  "Suomenkielinen palvelu puuttuu kokonaan - sivusto ohjautuu USA:n versioon, hinnat näytetään USD:ssä eikä EUR:ssa",
+  "Puhelin- ja sähköpostiyhteydenottotiedot eivät ole julkisesti saatavilla pääsivuilta, live-chat-tuki ei näkyvissä",
+  "FAQ-sivu ja tarkat uusimisehdot puuttuvat; uusimishinta voidaan päätellä vain vertailemalla \"first year\" hintoja normaalihintasarakkeeseen"
+ ],
+ "yhteenveto": "Bitdefender on Romaniassa (Bukarest) perustettu globaali kyberturvallisuusyritys, joka myy consumer-antivirus-tuotteita monissa maissa. Sivustolla on selkeät hinnat tuotesivuilla, mutta Suomea ei tueta erikseen ja hinnat esitetään USD:ssä. Testitulokset johtavista lab-organisaatioista ovat näkyvillä, mutta suomenkielinen tuki, puhelin- ja sähköpostiyhteydenotto sekä FAQ-osio puuttuvat.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Total Security Individual maksaa 59,99 USD ensimmäinen vuosi (normaalihinta 109,99 USD), Premium Security 79,99 USD (normaalihinta 129,99 USD), Ultimate Security 89,99 USD (normaalihinta 159,99 USD). Hinnat näkyvät selkeästi tuotesivuilla, hinnoittelu on vuosittainen tai 2-vuotinen.",
+  "uusimishinta_kerrottu": "HAVAINTO: Uusimissivu (renewal/) näyttää normaalit hinnat ilman first-year discounttia: Ultimate Security 159,99 USD/vuosi, Premium Security 129,99 USD/vuosi, Total Security 109,99 USD/vuosi. Uusimishinnat johdetaan normaalihintasarakkeen arvoista.",
+  "omistaja_kerrottu": "HAVAINTO: Company-sivulla paljastetaan, että Bitdefender perustettiin Romaniassa ja pääkonttori on Bukarest (15A Sos. Orhideelor, Orhideea Towers Building, District 6). Co-Founder ja CEO on Florin Talpeș. Yritys on toiminut vuodesta 2001.",
+  "testitulokset_kerrottu": "HAVAINTO: Awards-sivulla näkyy testituloksia ja palkintoja PCMag (Best Brands 2024, Editor's Choice), AV-TEST (Best Protection 2021), AV-Comparatives (Product of the Year 2020, Advanced+ 2022), Forrester ja Gartner. Company-sivulla mainitaan 'recognized by industry analyst firms and independent testing organizations'.",
+  "suomenkielinen_palvelu": "HAVAINTO: Sivusto ei tarjoa suomenkielistä versiota. Osoite https://www.bitdefender.com/fi-fi/ ohjautuu USA:n versioon (en-us) ja näyttää 404-virheen. Hinnat näytetään USD:ssä, ei EUR:ssa. Suomen kielinen tuki ei ole saatavilla.",
+  "riippumaton_arvio": "HAVAINTO: Awards-sivu listaa testituloksia johtavista riippumattomista organisaatioista: AV-TEST, AV-Comparatives, PCMag, TechRadar, Tom's Guide. Sivulla mainitaan 'Best Brands for 2024' ja '25 new accolades in the past two years'."
+ }
+}

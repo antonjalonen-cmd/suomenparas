@@ -73,7 +73,7 @@ CATEGORY_GROUPS = [
     ]),
     ("Digitaaliset palvelut", [
         ("Suoratoistopalvelut", "suoratoistopalvelut", True), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),
-        ("Virustorjuntaohjelmat", None, False), ("Salasananhallintapalvelut", "salasananhallintapalvelut", True),
+        ("Virustorjuntaohjelmat", "virustorjuntaohjelmat", True), ("Salasananhallintapalvelut", "salasananhallintapalvelut", True),
         ("Sähköpostipalvelut", None, False), ("Verkkotunnusvälittäjät", None, False),
         ("Kirjanpito-ohjelmat", None, False), ("Verkkokauppa-alustat", None, False),
     ]),
