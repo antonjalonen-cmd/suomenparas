@@ -1,0 +1,52 @@
+{
+ "slug": "aatos",
+ "fetched_ok": [
+  "https://aatos.app/",
+  "https://aatos.app/yrityksesta/",
+  "https://aatos.app/kayttoehdot/",
+  "https://aatos.app/tietosuojaseloste/",
+  "https://aatos.app/testamentti/",
+  "https://aatos.app/edunvalvontavaltuutus/"
+ ],
+ "hinnat_esilla": "kylla",
+ "palvelun_sisalto_kuvattu": "kylla",
+ "patevyys_kerrottu": "osittain",
+ "sopimusehdot_saatavilla": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "esimerkkihinta_eur": 79,
+ "ai_arviot": {
+  "selkeys": 90,
+  "sisallon_kattavuus": 85,
+  "hintojen_loydettavyys": 85
+ },
+ "vahvuudet": [
+  "Selkeä ja helppokäyttöinen palvelu, jokainen vaihe selitetty yksinkertaisesti ilman juridista jargonia",
+  "Hinnat ja palveluiden sisältö näkyvät selkeästi etusivulla, chat-tuki sisältyy hintaan eikä veloiteta erikseen",
+  "Laajat ja hyvin organisoidut UKK-osiot palveluittain, joissa käsitellään käytännön kysymyksiä ja juridisia käsitteitä"
+ ],
+ "kehityskohteet": [
+  "Juristien kelpoisuustasoa (asianajaja/varatuomari/lakimies) ei mainita, vain tutkinto ja nimet ilmoitettu",
+  "Palvelun asiakaspalvelun aukioloaikoja ei julkisesti ilmoiteta",
+  "Erilliset hinnasto- ja palvelu-alusivut palauttavat 404-virheitä, sisältö fragmentoitunut eri palvelusivuille"
+ ],
+ "yhteenveto": "Aatos on automatisoitu verkkopalvelu henkilökohtaisten lakiasiakirjojen tuottamiseen, perustettu 2020. Palvelu tarjoaa testamentteja, avioehtoja, edunvalvontavaltakirjoja ja muita asiakirjoja kiinteällä hinnalla (79–399 euroa), ilman yksittäisiä tunnin hintoja. Sivusto on hyvin selkeästi organisoitu, hinnat ja palveluiden sisältö näkyvät etusivulla, ja lakiapu sekä chat-tuki sisältyvät kaikkiin palveluihin. Juristien pätevyyksistä kerrotaan nimillä ja tutkinnolla (OTM), mutta suomalaista kuluttajaa varten tärkeitä nimikkeitä (asianajaja, varatuomari) ei mainita.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla esillä hinnat: Aatos Huoleton 79 €/vuosi, perunkirjoitus 399 €, avioero 199 €, yksittäinen asiakirja 99 €. Käyttöehdoissa: 'Hinnat löytyvät sivulta https://aatos.app/'.",
+  "palvelun_sisalto_kuvattu": "HAVAINTO: Jokaisella palveluella (testamentti, edunvalvontavaltuutus, avioero, perunkirjoitus jne.) oma yksityiskohtainen sivu, johon sisältyy prosessin vaiheet, mitä palveluun kuuluu ja laajat UKK-osiot.",
+  "patevyys_kerrottu": "HAVAINTO: Testamentti- ja edunvalvontavaltuutus-sivuilla mainitaan 'Perintöoikeuden asiantuntijoiden laatima ja tarkastama palvelu' ja nimetään 'OTM Tatu Mäenpää ja Sophie Pöllänen'. Kelpoisuustasoa (asianajaja/varatuomari/lakimies) ei erityisesti mainita.",
+  "sopimusehdot_saatavilla": "HAVAINTO: Yksityiskohtainen käyttöehdot-sivu (https://aatos.app/kayttoehdot) kuvailee palvelun ehdot, maksuehdot, peruutusoikeuden, tyytyväisyystakuun (30 pv), vastuunrajoitukset ja erimielisyyksien ratkaisun.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2901500-3 näkyy sivuston footerissa kaikilla sivuilla, käyttöehdoissa ('Aatos Legal Technology Oy (2901500-3)') ja tietosuojaselosteessa.",
+  "riippumaton_arvio": "OSITTAIN: Etusivulla näkyy '4.4/5.0' ja useita 'Vahvistettu' merkinnöillä olevia asiakasarvioita, joissa käytetään ★-symbolia. Arviointijärjestelmän lähde ei ole selkeästi ilmoitettu. Riippumattomasta kolmannen osapuolen arviosta (esim. tuotteiden vertailusivustosta) ei ole mainintaa.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero +358 45 2709 010 on mainittu käyttöehdoissa, mutta ei ole korostetusti esillä etusivulla tai yhteystiedoissa.",
+  "email_esilla": "HAVAINTO: Asiakaspalvelun sähköpostiosoite asiakaspalvelu@aatos.app näkyy sivuston footerissa kaikilla sivuilla ja käyttöehdoissa. Yrityksen pääsähköpostiosoite hello@aatos.app on mainittu Yrityksestä-sivulla.",
+  "chat_mainittu": "HAVAINTO: Monilla sivuilla mainitaan 'Lakitiimin tuki heti chatissa tai sähköpostitse'. Käyttöehdoissa ilmoitetaan: 'Aatos.app -verkkopalveluun voi olla yhteydessä sähköpostin tai chatin välityksellä.' Chat on saatavilla palvelun kautta.",
+  "ukk_osio": "HAVAINTO: Testamentti-sivulla on laaja 'Usein kysyttyjä kysymyksiä testamentista' -osio (n. 20 kysymystä), edunvalvontavaltuutus-sivulla vastaava UKK-osio (n. 15 kysymystä). UKK kattaa lain vaatimukset, prosessin, hinnat, käytännön ohjeet ja juridisia käsitteitä."
+ }
+}

@@ -1,0 +1,1290 @@
+{
+ "slug": "lakifirmat",
+ "nimi": "Lakifirmat",
+ "nav": "Lakifirmat",
+ "h1": "Suomen paras lakifirma 2026",
+ "yksikko": "valtakunnallista lakipalvelua",
+ "lead": "Pisteytimme {n} kuluttajille lakipalveluja tarjoavaa toimijaa {m} mittarilla. Tärkein kysymys: kerrotaanko hinta ennen kuin otat yhteyttä?",
+ "meta_title": "Suomen paras lakifirma 2026 | lakipalvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 valtakunnallista lakipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kaksi eri palvelumallia samalla listalla:</b> digitaaliset asiakirjapalvelut (Aatos, Lakitie, DIY Lakipalvelu) myyvät kiinteähintaisia asiakirjoja verkossa, perinteiset toimistot (Lindblad, Heikkilä &amp; Co) ja lakipuhelinpalvelu (Minilex) henkilökohtaista neuvontaa. Vertailu mittaa molemmilta samaa asiaa: kertooko sivusto hinnan ja tekijöiden pätevyyden etukäteen. <b>Asianajotoimisto</b> on valvottu nimike (Asianajajaliitto); lakiasiaintoimisto ja lakipalvelu eivät ole — siksi pätevyyden avoimuus on oma mittarinsa.",
+  "<b>Miksi listalla on vain 6 toimijaa?</b> Tarkistimme jokaisen ehdokkaan kaupparekisteristä 21.7.2026. <b>Lexly</b> (ent. Avtal24) on lakannut 22.12.2025 — domain ei vastaa, vaikka vanhoja suosituksia näkyy yhä verkossa. <b>Docue ja Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. <b>Fondia</b> on yritysjuridiikkaa. Alueelliset toimistot rajattiin pois valtakunnallisuussäännöllä.",
+  "<b>Tämä ei ole oikeudellista neuvontaa.</b> Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei juridisen työn laatua. Monimutkaisessa asiassa asiakirja-automaatti ei korvaa juristia. Hinnat vaihtelevat toimeksiannon mukaan; vertailu mittaa kerrotaanko hinnoittelu avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "aatos",
+   "nimi": "Aatos",
+   "domain": "aatos.app",
+   "omistaja": "Aatos Legal Technology Oy — itsenäinen suomalainen legal tech -yhtiö",
+   "y_tunnus": "2901500-3",
+   "rekisteroity": 2018,
+   "score": 83.1,
+   "pillars": {
+    "digitaalinen": 81.6,
+    "lapinakyvyys": 87.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 86.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "57/100",
+       "paino": 40,
+       "pisteet": 57,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla esillä hinnat: Aatos Huoleton 79 €/vuosi, perunkirjoitus 399 €, avioero 199 €, yksittäinen asiakirja 99 €. Käyttöehdoissa: 'Hinnat löytyvät sivulta https://aatos.app/'."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella palveluella (testamentti, edunvalvontavaltuutus, avioero, perunkirjoitus jne.) oma yksityiskohtainen sivu, johon sisältyy prosessin vaiheet, mitä palveluun kuuluu ja laajat UKK-osiot."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Testamentti- ja edunvalvontavaltuutus-sivuilla mainitaan 'Perintöoikeuden asiantuntijoiden laatima ja tarkastama palvelu' ja nimetään 'OTM Tatu Mäenpää ja Sophie Pöllänen'. Kelpoisuustasoa (asianajaja/varatuomari/lakimies) ei erityisesti mainita."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yksityiskohtainen käyttöehdot-sivu (https://aatos.app/kayttoehdot) kuvailee palvelun ehdot, maksuehdot, peruutusoikeuden, tyytyväisyystakuun (30 pv), vastuunrajoitukset ja erimielisyyksien ratkaisun."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2901500-3 näkyy sivuston footerissa kaikilla sivuilla, käyttöehdoissa ('Aatos Legal Technology Oy (2901500-3)') ja tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "OSITTAIN: Etusivulla näkyy '4.4/5.0' ja useita 'Vahvistettu' merkinnöillä olevia asiakasarvioita, joissa käytetään ★-symbolia. Arviointijärjestelmän lähde ei ole selkeästi ilmoitettu. Riippumattomasta kolmannen osapuolen arviosta (esim. tuotteiden vertailusivustosta) ei ole mainintaa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero +358 45 2709 010 on mainittu käyttöehdoissa, mutta ei ole korostetusti esillä etusivulla tai yhteystiedoissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sähköpostiosoite asiakaspalvelu@aatos.app näkyy sivuston footerissa kaikilla sivuilla ja käyttöehdoissa. Yrityksen pääsähköpostiosoite hello@aatos.app on mainittu Yrityksestä-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Monilla sivuilla mainitaan 'Lakitiimin tuki heti chatissa tai sähköpostitse'. Käyttöehdoissa ilmoitetaan: 'Aatos.app -verkkopalveluun voi olla yhteydessä sähköpostin tai chatin välityksellä.' Chat on saatavilla palvelun kautta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Testamentti-sivulla on laaja 'Usein kysyttyjä kysymyksiä testamentista' -osio (n. 20 kysymystä), edunvalvontavaltuutus-sivulla vastaava UKK-osio (n. 15 kysymystä). UKK kattaa lain vaatimukset, prosessin, hinnat, käytännön ohjeet ja juridisia käsitteitä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "90/100",
+       "paino": 34,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 57,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3274.9174999999996,
+    "cls": 0.00043345217756175823,
+    "tbt_ms": 3130.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä ja helppokäyttöinen palvelu, jokainen vaihe selitetty yksinkertaisesti ilman juridista jargonia",
+    "Hinnat ja palveluiden sisältö näkyvät selkeästi etusivulla, chat-tuki sisältyy hintaan eikä veloiteta erikseen",
+    "Laajat ja hyvin organisoidut UKK-osiot palveluittain, joissa käsitellään käytännön kysymyksiä ja juridisia käsitteitä"
+   ],
+   "kehityskohteet": [
+    "Juristien kelpoisuustasoa (asianajaja/varatuomari/lakimies) ei mainita, vain tutkinto ja nimet ilmoitettu",
+    "Palvelun asiakaspalvelun aukioloaikoja ei julkisesti ilmoiteta",
+    "Erilliset hinnasto- ja palvelu-alusivut palauttavat 404-virheitä, sisältö fragmentoitunut eri palvelusivuille"
+   ],
+   "yhteenveto": "Aatos on automatisoitu verkkopalvelu henkilökohtaisten lakiasiakirjojen tuottamiseen, perustettu 2020. Palvelu tarjoaa testamentteja, avioehtoja, edunvalvontavaltakirjoja ja muita asiakirjoja kiinteällä hinnalla (79–399 euroa), ilman yksittäisiä tunnin hintoja. Sivusto on hyvin selkeästi organisoitu, hinnat ja palveluiden sisältö näkyvät etusivulla, ja lakiapu sekä chat-tuki sisältyvät kaikkiin palveluihin. Juristien pätevyyksistä kerrotaan nimillä ja tutkinnolla (OTM), mutta suomalaista kuluttajaa varten tärkeitä nimikkeitä (asianajaja, varatuomari) ei mainita."
+  },
+  {
+   "slug": "heikkila-co",
+   "nimi": "Lakiasiaintoimisto Heikkilä & Co",
+   "domain": "heikkilaco.fi",
+   "omistaja": "Itsenäinen; vuoteen 2024 asti asianajotoimisto, nykyään lakiasiaintoimisto",
+   "y_tunnus": "1843393-9",
+   "rekisteroity": 2003,
+   "score": 76.2,
+   "pillars": {
+    "digitaalinen": 77.9,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "71/100",
+       "paino": 40,
+       "pisteet": 71,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla selvästi esillä yritysasiakkaiden hinta 260–350 e/h (alv 0 %) ja alennettu 239 e/h pienille yrityksille, kuluttaja-asiakkaiden 299–350 e/h (sis. alv)."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sopimukset-sivulla yksityiskohtainen kuvaus esimerkiksi sopimuksen laatimisesta: tutustuminen, etäpalaveri (30–120 min), sopimusvedos, viimeistelypalaveri, lopullinen sopimus. Hinnat tavanomaisten sopimusten osalta muutamasta sadasta kolmeen tuhanteen euroon."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käytetään nimityksiä 'kiinteistölakimies', 'yritysjuristi', 'juristi', 'asiantuntija', mutta pätevyystaso (asianajaja/varatuomari/lakimies) ei ole kirjaimellisesti mainittu. Meistä-sivulla mainitaan 18 hengen tiimi, 220 vuotta kokemusta yhteensä, perustettu 1994."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaseloste on saatavilla (linkki joka sivulla), mutta toimeksiantoehtojen sopimusta ei näy julkisesti. Etusivu mainitsee 'Ensimmäinen puhelu on veloitukseton kartoituspuhelu', mutta ehtoja ei ole listattuna."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1843393-9 näkyy etusivulla, tietosuojaselosteessa, yhteystiedoissa ja footerissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviointilähteisiin (kuten oikeusministeriön suosituksiin tai kolmannen osapuolen sertifiointeihin)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita puhelinnumeroita esillä: 010 289 9426 (tarvekartoitus), 010 289 9400 (asiakaspalvelu ma–pe 8–16), 010 289 9406 (laskutus 10–15), 010 289 9408 (perintä 12–15)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@heikkilaco.fi näkyy etusivulla, yhteystiedoissa ja footerissa. Mainitaan myös salattu sähköposti -vaihtoehto."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Evästeasetuksissa mainitaan 'Voit aloittaa CHATin asiakaspalveluumme kanssa. Jos hylkäät, CHAT palvelu ei toimi.' CHAT-palvelu viitataan evästeille riippuvaiseksi."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 71,
+    "accessibility": 86,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 3740.5225900000005,
+    "cls": 0.002603947590067766,
+    "tbt_ms": 258
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnaston selkeys ja asiakastyyppikohtaiset hinnat (yritys 239–350 e/h, kuluttaja 299–350 e/h alv sisältyen)",
+    "Palvelujen kattava kuvaus seikkaperäisesti (sopimukset, kiinteistöjuridiikka, yritysjuridiikka, yhteiskanteet) pääpalveluina",
+    "Saatavilla koko Suomessa neljältä konttorista (Helsinki, Turku, Tampere, Vaasa) ja etäpalvelulla 13 kaupunkiin"
+   ],
+   "kehityskohteet": [
+    "Juristien pätevyystaso (asianajaja/varatuomari/lakimies) ei ole mainittu, vaan käytetään yleisiä nimityksiä kuten 'lakimies' ja 'juristi'",
+    "Toimeksiantoehtojen sopimusta ei ole näkyvissä julkisesti (käytössä vain tietosuojaseloste)",
+    "UKK-osiota ei ole sivustolla (haku osoitteeseen /usein-kysytyt-kysymykset palauttaa 404)"
+   ],
+   "yhteenveto": "Lakiasiaintoimisto Heikkilä & Co on neljän konttorilla toimiva yritys- ja kiinteistöjuridiikan palveluntarjoaja, jonka hinnoittelu on avoimesti esillä sekä yrityksille että kuluttajille. Palvelut kuvataan seikkaperäisesti, mutta juristien pätevyystasoja (asianajaja/varatuomari) ei mainita, ja sopimusehdot ovat piilotetut nimeämättömille asiakkaille."
+  },
+  {
+   "slug": "lakitie",
+   "nimi": "Lakitie",
+   "domain": "lakitie.com",
+   "omistaja": "Lakitie Oy — nuori yhtiö (Oy rekisteröity 4/2026; palvelu toiminut vuodesta 2023)",
+   "y_tunnus": "3614565-8",
+   "rekisteroity": 2026,
+   "score": 73.2,
+   "pillars": {
+    "digitaalinen": 72.5,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 37.5,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat on lueteltu omalla hinnasto-sivulla sekä pääsivun palvelukuvauskorteissa. Edunvalvontavaltuutus 38 €, avioehto 58 €, testamentti 67 € / keskinäinen testamentti 89 €, lahjakirja 42 €."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja lakitie-sivulla mainitaan selkeästi kunkin asiakirjan palveluun kuuluvat osat: juristin laatiminen, lain muotovaatimuksien noudattaminen, räätälöinti, juristin neuvonta enintään 30 minuuttia sähköpostitse, laatutakuu, muokkauspyynnöt 30 päivän sisällä maksutta, toimitus sähköpostiin, kiinteä hinta ilman yllätyskustannuksia."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustoilla kerrotaan, että asiakirjat laaditaan 'oikeustieteen maisteri- tutkinnon omaava juristi' toimesta (lakitie-sivu). Palvelu- ja tilausehdoissa mainitaan 'oikeustieteen maisterin tutkinnon suorittanut lakimies'. Pätevyys on merkitty 'lakimies' eikä 'asianajaja'."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko palvelu- ja tilausehdot ovat julkisesti saatavilla omalla sivullaan. Ehdot kattavat palvelun tilaamiseen, maksamiseen, peruuttamisoikeuteen, laatu- ja tyytyväisyystakuuseen, vastuunrajoituksiin ja reklamaatioihin liittyvät asiat."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 3614565-8 mainitaan palvelu- ja tilausehdot -sivulla tekstissä 'Palveluntarjoaja on Lakitie Oy (y-tunnus 3614565-8)'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia riippumattomiin arviointisivustoihin (esim. Google Reviews, Trustpilot). Ainoa arviointi on sivustolle kerätyt asiakaspalautteet, jotka ovat sisäisesti hallittuja ja näyttävät kaikki 5 tähden arvostelu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@lakitie.fi on näkyvissä useissa paikoissa: yhteystiedot-sivulla, jokaisen sivun jalkaosassa ja palvelu- ja tilausehdoissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5662.3514000000005,
+    "cls": 0.00633702380969957,
+    "tbt_ms": 4362.81
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ovat selkeästi ja helposti löydettävissä sekä pääsivulla että omalla hinnasto-sivulla.",
+    "Palveluiden sisältö on hyvin kuvattu — jokaisen asiakirjatyypin kohdalla esitetään mitä palveluun sisältyy (esim. juristin neuvonta 30 min, laatutakuu, muokkauspyyntöjen kattavuus 30 pv).",
+    "Juridisen pätevyyden ilmoittaminen on näkyvää — sivustoilla mainitaan, että asiakirjat laaditaan oikeustieteen maisterin tutkinnon omaavan juristin toimesta."
+   ],
+   "kehityskohteet": [
+    "Puhelinnumeroa ei ole esillä; asiakaspalveluun pääsee vain sähköpostitse tai verkkolomakkeen kautta, mikä voi viivästyttää akuuttia ongelmaa.",
+    "Riippumattomia arviointeja tai ulkoisia laadun todentajia (kuten Google Reviews, Trustpilot tai oikeusalan sertifikaatteja) ei ole linkattu; sivustolle kerätyt asiakaspalautteet ovat sisäisiä.",
+    "Aukioloaikoja ei mainita, mikä saattaa hämmentää asiakkaita — erityisesti kun viestiä kerrotaan vastattavan sähköpostitse."
+   ],
+   "yhteenveto": "Lakitie on digitaalinen lakiasiaintoimisto, joka tarjoaa juridiset asiakirjat (avioehto, edunvalvontavaltuutus, testamentti, lahjakirja) kiinteähintaisesti etäpalveluna. Sivusto on selkeä, hinnat ovat näkyvät ja palveluiden kuvaus kattava; oikeustieteen maisterin pätevyys vahvistuu dokumentaatiossa. Kehityskohteet liittyvät puhelinyhteyden puuttumiseen ja riippumattomien arviointien vähäisyyteen."
+  },
+  {
+   "slug": "diy-lakipalvelu",
+   "nimi": "DIY Lakipalvelu",
+   "domain": "diylakipalvelu.fi",
+   "omistaja": "DIY Lakipalvelu Oy — henkilöomisteinen, sisällöstä vastaa varatuomari",
+   "y_tunnus": "2835849-3",
+   "rekisteroity": 2017,
+   "score": 72.2,
+   "pillars": {
+    "digitaalinen": 73.9,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 37.5,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla listataan yli 30 dokumenttityyppiä hintojen kanssa: Avioehtosopimus 72 €, Testamentti 79 €, Avioerohakemus 39 €, pienimmät palvelut 0 €, etäpalvelut enemmän (esim. lakimiehen neuvonta 100 €/30 min)."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla selitetään prosessi: valitse asiakirjatyyppi, täytä tietoihin pohjautuvat kenttät (ohjeistettu), tarkista esikatselu, maksa, saa sähköpostiin tai postitse. Jokaisen dokumenttityypin kuvaus näkyy tuoteluettelossa."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla sivuilla footerissa: 'Sisällön tuottaja ja tarkistaja: varatuomari Tiina Tikka'. Yritystiedot-sivulla lisäksi kerrotaan 30 vuoden kokemus lakiasiaintoimiston pyörittämisestä."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rekisteriehdot-sivulla yksityisyydensuoja ja evästekäytäntö. Toimitusehdot-sivulla maksu- ja toimitusprosessi, toimitusehdot (pdf sähköpostiin tai posti), reklamaatioprosessi määritelty."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yrityksen nimi 'DIY Lakipalvelu Oy' näkyy footerissa ja hinnaston sivulla, mutta konkreettinen Y-tunnus ei ole julkisesti näkyvissä sivustolla. Maksuproviderina mainitaan Paytrail Oyj (2122839-7, mutta se on Paytrailin tunnus, ei DIY:n)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia kolmannen osapuolen arviointeihin, vertailusivustoihin tai sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero ei ole näkyvissä DIY Lakipalvelun omissa yhteystiedoissa. Toimitusehdoissa mainitaan Paytrail:in puh. +358 207 181830 (ark 8–19), mutta se on maksupalvelun numero, ei palvelun omistajan."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot-sivulla: 'Mikäli lähetys ei ole saapunut... tulee asiakkaan ottaa yhteyttä sähköpostitse osoitteeseen info@diylakipalvelu.com'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla: 'Chatissa asiantunteva neuvonta' ja 'KLIKKAA JO TEKEMÄÄN!' Yritystiedot-sivulla: 'pulmatilanteissa voit kysyä neuvoa chatin kautta' ja 'Chatissa henkilöllisyyttäsi ei kysellä, keskustelu käydään kirjoittelemalla'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole DIY Lakipalvelun omia aukioloaikoja. Toimitusehdoissa mainitaan Paytrail:in asiakaspalvelun aukioloajat (ark 8–19, +358 207 181830)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4882.896070000001,
+    "cls": 0.09841944424349172,
+    "tbt_ms": 3884.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja palvelukuvaukset näkyvät selkeästi erillisellä hinnasto-sivulla (0–248 €)",
+    "Laaja valikoima asiakirjoja eri elämäntilanteisiin, kaikissa on ohjeita",
+    "Chat-tuki saatavilla ja varatuomari tarkistaa dokumentit pyynnöstä"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero ei ole julkisesti näkyvissä, vain email ja chat",
+    "Aukioloajat puuttuvat – näkyy vain Paytrailin aukioloajat (ark 8–19)",
+    "Konkreettinen Y-tunnus ei löydy sivustolta, vain yrityksen nimi"
+   ],
+   "yhteenveto": "DIY Lakipalvelu on digitaalinen dokumenttipalvelu, joka tarjoaa dokumentteja oikeusasioihin (avioerot, testamentit, valtakirjat jne.) kiinteillä hinnoilla. Palvelu on hyvin organisoitu hinnaston kanssa, varatuomari Tiina Tikka tarkistaa dokumentit, ja chat-tuki on saatavilla. Puhelinnumero ja aukioloajat kuitenkin puuttuvat julkisesta näkyvyydestä."
+  },
+  {
+   "slug": "minilex",
+   "nimi": "Minilex",
+   "domain": "minilex.fi",
+   "omistaja": "Minilex Oy — itsenäinen; lakipuhelin + juristiverkosto",
+   "y_tunnus": "2411251-7",
+   "rekisteroity": 2011,
+   "score": 69.8,
+   "pillars": {
+    "digitaalinen": 71.9,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 65.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lakipuhelimen numero (0600 12 450) ja asiakaspalvelun numero (+358 400 4111 43) ovat esillä, mutta lakipalveluiden tuntihintoja tai kiinteitä hintoja ei kerrota julkisesti. Sivuilla puhutaan 'maksuttomasta selvityksestä' ja tarjouspyynnöstä, joka tulee asiakkaiden pyynnöstä."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelun sisältö on selkeästi kuvattu: lakipuhelin maksuttomasta neuvonnasta, lakipalvelut oikeudellisen avun järjestämisestä juristiverkoston kautta, maksuton alkukartoitus ja lakikulujen selvitys, sekä laaja lakitietokanta."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'yksityiset lakimiehet' ja 'oikeustieteen opiskelijat', joilla käsittelevät asiakkaiden kysymyksiä. Käyttöehdoissa (kohta 5.4) todetaan että vastauksia antavat yksityiset lakimiehet sekä oikeustieteen opiskelijat, mutta ei eritellä heidän juridisia kelpoisuuksiaan asianajaja/varatuomari/lakimies-kategorioissa."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot ovat saatavilla sivuston alaosassa olevan linkin kautta. Ehdoissa kuvataan palvelun käyttöä, lakimiesten roolia riippumattomina toimijoina, sekä vastuu-rajoituksia."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2411251-7 on mainittu tietosuojaselostessa ja tietosuojanotifikaatioissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla on asiakaspalautteita, mutta nämä ovat Minilexin itse keräämää palautetta, eivät riippumattomasta lähteestä peräisin. Kolmannen osapuolen arviota tai sertifikaattia ei ole näkyvissä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa on esillä: lakipuhelin 0600 12 450 (avoinna klo 8-23 arkisin, 9-23 la-su) ja asiakaspalvelu +358 400 4111 43 (avoinna klo 8-19 arkisin, 10-17 la-su)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite tietosuoja@minilex.com on julkaistu tietosuojaselostessa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avoinkloajat on mainittu: lakipuhelin klo 8-23 arkisin ja 9-23 la-su; asiakaspalvelu klo 8-19 arkisin ja 10-17 la-su."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Kysy lakimiehelta' -osio toimii FAQ:na, jossa käyttäjät voivat esittää kysymyksiä ja lukea muiden esittämiä ja vastattuja kysymyksiä kategorioittain."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 9770.009250000003,
+    "cls": 0.005784826255075852,
+    "tbt_ms": 988.2132500000007
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja yksityisten lakimiesten verkosto yli 30 asiantuntijaa kautta koko maassa",
+    "Maksuton alkukartoitus ja lakikulujen selvitys ennen toimeksiantoa",
+    "Useita yhteydenottotapoja: lakipuhelin, asiakaspalvelu, chat-kanavat ja tarjouspyynnöt"
+   ],
+   "kehityskohteet": [
+    "Palvelun hinnoittelu ei ole julkisesti näkyvissä, vaan edellyttää tarjouspyyntöä tai puhelua",
+    "Juristiverkoston pätevyystiedot (asianajaja/varatuomari/lakimies-kategoriat) eivät ole yksityiskohtaiset",
+    "Mobiilisovelluksen puuttuminen digitaalisen palveluketjun kannalta"
+   ],
+   "yhteenveto": "Minilex on yksityisten lakimiesten verkostoa hyödyntävä palvelu, joka tarjoaa maksutonta alkukartoitusta ja lakikulujen selvitystä. Sivusto on selkeä ja tietoa löytää helposti, mutta hinnoittelu ei ole avoimesti julkaistu, vaan vaatii aktiivisen yhteydenoton."
+  },
+  {
+   "slug": "lindblad",
+   "nimi": "Asianajotoimisto Lindblad & Co",
+   "domain": "lindblad.fi",
+   "omistaja": "Itsenäinen suomalainen asianajotoimisto — Asianajajaliiton valvoma",
+   "y_tunnus": "1608041-2",
+   "rekisteroity": 2000,
+   "score": 54.7,
+   "pillars": {
+    "digitaalinen": 62.7,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Tarjoamme monia yritysten ja yksityisasiakkaiden tarvitsemia palveluita selkeästi hinnoiteltuina tuotepaketteina', mutta konkreettisia euroina ilmaistuja hintoja ei löydy. Yrityssivulla mainitaan että 'Toimeksiantosopimuksen yhteydessä asiakkaamme saa kirjallisena hinnastomme ja yleiset sopimusehtomme'."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on kattava yleiskuvaus viidestä pääpalvelualueesta (yritysjuridiikka, konkurssi/saneeraus/perintä, työ- ja virkaoikeus, kiinteistöoikeus, perhe ja perintö). Jokaisen palvelualueen sisältö on eritelty alatason sivuilla."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tiimimme-osiossa näkyvät neljä asianajajaa/juristi: Markku Lindblad (asianajaja, osakas), Juhani Tukia (neuvotteleva lakimies), Keijo Siiskonen (varatuomari), Lasse Jelekäinen (asianajaja). Markku Lindbladin profiilissa mainitaan hänen pätevyysksensä (asianajaja, välimies, Business Mentor)."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yrityssivulla todetaan 'Toimeksiantosopimuksen yhteydessä asiakkaamme saa kirjallisena hinnastomme ja yleiset sopimusehtomme', minkä perusteella sopimusehdot ovat saatavilla mutta ei julkisesti verkon kautta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy mistään ladatuista sivuista. Sivulla mainitaan 'Asianajotoimisto Lindblad & Co Oy' mutta Y-tunnusta ei kirjoiteta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen toimiston yhteystietojen yhteydessä on puhelinnumero (020 749 8160 Helsingissä, 020 749 8170 Lappeenrannassa, 020 749 8190 Tampereella jne). Lisäksi päivystävän juristi on tavoitettavissa numerosta 020 749 8150."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 80,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 8413.057499999999,
+    "cls": 0.004969614943976044,
+    "tbt_ms": 7391.469499999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palveluvalikoimaa kuvailtu selkeästi eri oikeuden aloittain ja tuotepaketteina",
+    "Asianajajien pätevyydet (asianajaja, varatuomari, neuvotteleva lakimies) selvästi mainittu",
+    "Kuusi toimistoa eri puolilla Suomea sekä puhelinnumerot julkisesti saatavilla"
+   ],
+   "kehityskohteet": [
+    "Konkreettisia hintoja ei löydy verkkosivuilta; hinnasto saatavilla vain toimeksiantosopimusta tehtäessä",
+    "Sähköpostiosoitteita ei ole julkaistu, yhteydenotto vain puhelimitse tai lomakkeella",
+    "Usein kysytyt kysymykset, chat-palvelu, aukioloajat ja mobiilisovellus puuttuvat"
+   ],
+   "yhteenveto": "Asianajotoimisto Lindblad & Co on yli 30 vuotta toiminut monipuolinen lakiasiantoimisto, joka tarjoaa palveluja yritysjuridiikassa, kiinteistö- ja asunto-oikeudessa, perhe- ja perintöoikeudessa sekä muilla oikeuden aloilla. Verkkosivulla kuvataan palvelut ja asianajajien pätevyydet selkeästi, mutta hinnoittelusta ja sopimusehdoista ei löydy julkista informaatiota ilman yhteydenottoa."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä (30), palvelun sisältö (mitä hintaan kuuluu) kuvattu (20), juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu (15), toimeksiannon ehdot julkisesti saatavilla (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

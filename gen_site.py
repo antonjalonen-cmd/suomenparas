@@ -90,14 +90,14 @@ CATEGORY_GROUPS = [
     ]),
     ("Auto ja liikenne", [
         ("Autokorjaamot", None, False), ("Autokatsastus", "autokatsastus", True),
-        ("Rengasliikkeet", None, False), ("Autopesulat", None, False),
+        ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", None, False),
         ("Autokoulut", None, False), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", None, False),
     ]),
     ("Terveys ja hyvinvointi", [
-        ("Hammaslääkärit", None, False), ("Yksityislääkärit", "yksityislaakarit", True),
+        ("Hammaslääkärit", "hammaslaakarit", True), ("Yksityislääkärit", "yksityislaakarit", True),
         ("Fysioterapeutit", None, False), ("Hierojat", None, False),
         ("Optikot", "optikot", True), ("Kuntosalit", "kuntosalit", True),
         ("Eläinlääkärit", None, False), ("Psykoterapeutit", None, False),
@@ -121,6 +121,7 @@ CATEGORY_GROUPS = [
         ("Työterveyspalvelut", None, False), ("Vakuutusmeklarit", None, False),
     ]),
     ("Vapaa-aika ja muut", [
+        ("Lakifirmat", "lakifirmat", True), ("Pakohuoneet", "pakohuoneet", True),
         ("Parturit ja kampaamot", None, False), ("Valokuvaajat", None, False),
         ("Juhlatilat", None, False), ("Catering-palvelut", None, False),
         ("Hääpalvelut", None, False), ("Ohjelmistokoulut lapsille", None, False),
@@ -951,7 +952,7 @@ def build_index():
     <div class="cat-grid">
       {live_tiles}
       <span class="cat-tile off">Autokorjaamot <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Hammaslääkärit <span class="st">TULOSSA</span></span>
+      <span class="cat-tile off">Muuttopalvelut <span class="st">TULOSSA</span></span>
       <a class="cat-tile" href="kategoriat/" style="justify-content:center;background:var(--ink);color:#fff">Kaikki {TOTAL_CATS} kategoriaa →</a>
     </div>
   </div>

@@ -1,0 +1,56 @@
+{
+ "slug": "oral",
+ "fetched_ok": [
+  "https://www.oral.fi/",
+  "https://www.oral.fi/tietoa-ja-ohjeita/asiakkuus/hinnasto/",
+  "https://www.oral.fi/toimipisteet/",
+  "https://www.oral.fi/tietoa-ja-ohjeita/oral-yrityksena/yhteystiedot/",
+  "https://www.oral.fi/omaoral/",
+  "https://www.oral.fi/tietoa-ja-ohjeita/asiakkuus/tietoa-ajanvarauksesta/",
+  "https://www.oral.fi/tietoa-ja-ohjeita/asiakkuus/maksutavat/",
+  "https://www.oral.fi/suun-terveys/"
+ ],
+ "vastaanottohinnat_esilla": "kylla",
+ "ajanvaraus_ilman_kirjautumista": "osittain",
+ "kela_korvaus_kerrottu": "kylla",
+ "toimipisteet_ja_aukioloajat": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "osittain",
+ "tarkastus_hinta_eur": 82.90,
+ "ai_arviot": {
+  "selkeys": 88,
+  "hintojen_loydettavyys": 92,
+  "sisallon_kattavuus": 85
+ },
+ "vahvuudet": [
+  "Kattava hinnasto kaikille palveluille näkyy etusivulla, Kela-korvauksien jälkeiset hinnat selkeästi merkitty",
+  "Lähes 70 toimipistettä ympäri Suomen, aukioloajat ja sijainnit täysin selkeät interaktiivisella kartalla",
+  "Chat-asiakaspalvelu ja verkkoajanvaraus helpottavat asiointia, OmaOral-palvelu mahdollistaa ajanvarauksen hallinnon"
+ ],
+ "kehityskohteet": [
+  "Ajanvaraus vaatii vahvaa tunnistautumista, mikä voi olla este ensikertalaisen asiakkaan nopealle ajanvaraukselle",
+  "Asiakkaiden sähköpostiosoite ei ole helposti saatavilla, yhteydenotot vaativat puhelinta tai chat-palvelua",
+  "Riippumattomia asiakasarviota (esim. Google-arviot, vertailusivusto-arviot) ei ole näkyvillä omalla sivustolla"
+ ],
+ "yhteenveto": "Oral Hammaslääkärit on Suomen suurin yksityinen hammaslääkäriketju, jolla on lähes 70 toimipistettä ympäri maata. Verkkosivut tarjoavat kattavat ja selkeät hinnat, useita ajanvaraus- ja asiointikeinoja sekä runsaasti tietoa hammashoitoon liittyen. Kela-korvausperusteet ja maksutavat on dokumentoitu, joskin riippumattomia asiakasarvioita sivulla ei ole.",
+ "evidence": {
+  "vastaanottohinnat_esilla": "HAVAINTO: Hinnasto-sivulla on yksityiskohtainen hintaluettelo kaikille hammashoidon palveluille, mukaan lukien hammaslääkärin tutkimuksen hinta (82,90 €) ja Kela-korvauksen jälkeinen omavastuu (52,90 €). Hinnaston otsikossa mainitaan 'muutamia esimerkkejä hinnoistamme ja hintatasomme'.",
+  "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Verkkoajanvaraus tapahtuu OmaOral-palvelussa, joka vaatii vahvaa tunnistautumista pankkitunnuksilla. OmaOral-sivulla todetaan 'Tunnistautuminen vain henkilökohtaisilla pankkitunnuksilla'. Ajanvaraus on myös mahdollista puhelimitse tai chattia kautta ilman kirjautumista, mikä tekee tästä osittaisen.",
+  "kela_korvaus_kerrottu": "HAVAINTO: Hinnastossa näkyy 'Kela-korvauksen jälkeen' -sarake kaikille palveluille, ja maksutavat-sivulla sanotaan 'Käytössämme on Kelan suorakorvaus. Hammashoidon korvauksista voit lukea lisää Kelan sivuilta'. Sivulla viitataan 'Kelan korvausperusteisiin' (kela.fi/korvaukset-yksityisesta-hammashoidosta).",
+  "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla luetellaan 'lähes 70 toimipistettä ympäri maan' yksityiskohtaisine osoitteineen. Etusivulla ja usealla sivulla toistetaan 'Asiakaspalvelumme on avoinna ma-pe klo 8–17 (poikkeuksena pyhäpäivät)'.",
+  "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla Y-tunnus on selvästi näkyvillä: 'Y-tunnus 2863321-3'. Se on myös osassa laskutusohjeisissa.",
+  "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan 'Oral Hammaslääkärit Suomen luotetuin hammaslääkäriketju jo neljättä kertaa' ja 'Oral Hammaslääkärit on Suomen kahdeksanneksi paras työpaikka', jotka viittaavat palkitukseen. Asiakkaiden antamia arviota (esim. Google-arviot, Tripadvisor, vertailusivusto-arviot) ei ole näkyvillä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero 010 400 3400 näkyy kaikkialla sivustolla ja on selvästi merkitty asiakaspalvelun numeroksi. Yhteystiedot-sivulla mainitaan myös 'Puh. 010 400 3010 (vaihde)'.",
+  "email_esilla": "HAVAINTO: Asiakkaiden yhteydenotot tapahtuvat puhelimitse tai chat-palvelun kautta. Vain viestinta@oral.fi on mainittu mediayhteystiedoissa. Asiakaspalautesivu viittaa 'oral.fi/palaute', mutta erillisen asiakassähköpostin osoitetta ei ole julkisesti esillä.",
+  "chat_mainittu": "HAVAINTO: 'Chat' -linkki näkyy päänavigaatiossa kaikilla sivuilla. OmaOral-sivulla mainitaan 'Chat-asiakaspalvelu' ja sivut tarjoavat chat-palvelua asiakaspalvelun kanssa.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloajat toistetaan usealla sivulla: 'Asiakaspalvelumme on avoinna ma-pe klo 8–17 (poikkeuksena pyhäpäivät)'. Ajanvaraus-sivulla mainitaan spesifisemmin 'Ajanvaraus on auki ma-pe klo 8.00-17.00'.",
+  "ukk_osio": "HAVAINTO: Suun terveys -sivu tarjoaa laajat artikkelit ja 'Uusimmat' ja 'Luetuimmat' artikkelit, jotka vastaavat UKK-osioon. Aiheet kattavat 'Hammaslääkäripelko', 'Lasten ja nuorten oikomishoito', 'Hampaiden valkaisu' ja muita asiakkaiden kysymyksiä.",
+  "mobiilisovellus": "HAVAINTO: OmaOral-palvelusta sanotaan 'Voit täyttää hoitoon liittyvät esitietosi nopeasti ja turvallisesti tietokoneella tai mobiilissa', mikä viittaa mobiili-yhteensopivuuteen web-sovelluksen kautta. Erillisen mobiilisovelluksen olemassaolosta ei ole mainintaa sovelluskaupoissa (App Store, Google Play)."
+ }
+}

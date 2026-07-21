@@ -1,0 +1,55 @@
+{
+  "slug": "truescape",
+  "fetched_ok": [
+    "https://www.truescape.fi",
+    "https://www.truescape.fi/kaupunki/helsinki",
+    "https://www.truescape.fi/kaupunki/espoo",
+    "https://www.truescape.fi/kaupunki/turku",
+    "https://www.truescape.fi/kaupunki/vaasa",
+    "https://www.mysteeri.com",
+    "https://www.mysteeri.com/meista",
+    "https://www.truescape.fi/rekisteriseloste"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "osittain",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": 26,
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Läpinäkyvä hinnoittelu – kaikki hinnat näkyvillä arkipäivistä sunnuntaihin ilman piiloisia maksuja",
+    "Laaja ja moniteemainen pelikirjasto – yli 20 peliä (Hannibal, Chernobyl, Diamond Robbery, Paranormal jne.) eri vaikeustasoineen",
+    "Vakiintunut monipaikkainen verkosto – neljä kaupunkia, 50+ työntekijää, yhteinen Y-tunnus (3016295-9)"
+  ],
+  "kehityskohteet": [
+    "UKK-osio puuttuu kokonaan – ei vastauksia pelaajien yleisimpiin kysymyksiin pelin sisällöstä tai varauksesta",
+    "Riippumattoman arvion linkkien puuttuminen – ei yhteyksiä TripAdvisor, Google Reviews tai muihin arviostelusivustoihin",
+    "Verkkovaraus vaatii kolmannen osapuolen palvelun – varauskalenteri (Slotti/Teonos Oy) on erillisessä järjestelmässä eikä integroitu pääsivuille"
+  ],
+  "yhteenveto": "Truescape Oy on vakiintunut pakohuoneverkon verkosto, joka toimii Helsingissä, Espoossa, Turussa ja Vaasassa. Sivusto tarjoaa läpinäkyvät hinnat, perusteelliset pelikuvaukset vaikeustasoineen ja pelaajamäärineen sekä julkiset yhteystiedot ja Y-tunnuksen. Sivustolta puuttuu kuitenkin UKK-osio ja linkit riippumattomiin arvosteluihin, mikä heikentää potentiaalisten asiakkaiden itsepalvelun tasoa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kaikilla kaupunkisivuilla näkyy selkeät hinnat kolmelle aikaperiodille (arkipäivät 09:30–15:50, arki-illat/lauantait, sunnuntait/arkipyhät) pelaajamäärittäin. Esimerkkeinä arkipäivät Turussa: 2 hlö 45€/hlö (90€ yhteensä), 6 hlö 26€/hlö (156€ yhteensä).",
+    "varaus_verkossa": "HAVAINTO: Sivulla näkyy 'Varaa tästä' -nappi, joka ohjaa Slotti-varausjärjestelmään (Teonos Oy 2624169-7, Amazon-palvelinten takana). Varauskalenteri ei ole integroitu truescape.fi-sivuille vaan kolmannen osapuolen palvelussa, joten asiakkaiden on siirtyminen erilliselle sivustolle varaamaan.",
+    "pelit_kuvattu": "HAVAINTO: Jokaisella pelillä näkyy nimi, tähtien arvostelut (2–4.5 tähteä), pelaajamäärät (2–6 tai 2–7 hlö), vaikeustasot (S/helppo, K-12/12+ vuotiaille, K-16/16+ vuotiaille), peliajan pituus (60–75 minuuttia) ja narratiivinen kuvaus. Esimerkiksi: 'Paranormal' = 4.5 tähtä, 2–6 hlö, K-16, 60 min.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Neljä kaupunkia merkitty sivulla (Helsinki, Espoo, Turku, Vaasa) osoitteineen. Aukioloajat näkyvillä: arkipäivät ma–pe klo 09:30–15:50, arki-illat ma–pe klo 16:00 alkaen ja lauantait, sunnuntait/arkipyhät eri hinnoilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3016295-9 näkyy Rekisteriseloste-sivulla sivun alussa: 'Truescape Oy (Y-tunnus: 3016295-9) Stenstrandintie 20 B, 02420 JORVAS'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä minkään riippumattoman arviopalvelun sivuille (ei TripAdvisor, Google Reviews, Varaukset.fi, Tripadvisor tyyppisiä linkkejä). Sivulla näkyy vain Truescape itse luomia asiakastestimonialeja.",
+    "puhelin_esilla": "HAVAINTO: Pääpuhelin 020 372 273 näkyy jokaisen kaupunkitoimipisteen yhteystiedoissa sivun alaosassa ja rekisteriselosteessa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvillä per toimipiste: helsinki@truescape.fi, espoo@truescape.fi, vaasa@truescape.fi, turku@mysteeri.com (Mysteeri on osa Truescape Oy:tä).",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvillä jokaisen kaupunkisivun hinnastossa kolmelle aikaperiodille: arkipäivät 09:30–15:50, arki-illat/lauantait, sunnuntait/arkipyhät.",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole erillista UKK- tai FAQ-osiota. Yritettiin hakea /ukk, /faq, /ohjeet polkuja – kaikki palauttivat 404-virheet.",
+    "pelin_hinta_alkaen_eur": "HAVAINTO: Alhaisin yksikköhinta on 26€/henkilö Turkussa arkipyhillä (6 henkilön ryhmä = 156€ yhteensä), tai 26€ Helsingin arkipyhillä vastaavasti. Muissa ajassa ja paikoissa hinnat vaihtelevat 26–80€:n välillä henkilöä kohti."
+  }
+}

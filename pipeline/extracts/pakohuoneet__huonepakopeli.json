@@ -1,0 +1,57 @@
+{
+  "slug": "huonepakopeli",
+  "fetched_ok": [
+    "https://huonepakopeli.fi/",
+    "https://huonepakopeli.fi/hinnasto/",
+    "https://huonepakopeli.fi/ota-yhteytta/",
+    "https://huonepakopeli.fi/kampanjat/",
+    "https://huonepakopeli.fi/taikakoulu/",
+    "https://huonepakopeli.fi/jungle/",
+    "https://huonepakopeli.fi/lahjakortit/",
+    "https://huonepakopeli.fi/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": 47,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Hinnaston selvä rakenne ryhmäkokojen mukaan ja myös lapsille tarjolla -5 € sekä alle 6-vuotiaille ilmainen osallistuminen",
+    "Laaja FAQ-osio osoitteessa https://huonepakopeli.fi/hinnasto/ vastaa yleisimpiin kysymyksiin varausehdoista, ryhmäkoosta ja erityisjärjestelyistä",
+    "Varausjärjestelmä verkossa kaikille toimipisteille (Joensuu 2 sijainti, Kuopio 1 sijainti); mahdollisuus varata 60 päivää etukäteen"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä verkkosivuilla",
+    "Yksittäisten huoneiden kuvaukset (Taikakoulu, Jungle, Abyss, Psykopaatti, Maya-Temppeli) löytyvät erilliset sivuista, mutta \"Katso huoneet\" -navigaatio johtaa 404-sivuille Joensuun sijainneille",
+    "Mobiilisovellus ei ole saatavilla, kaikki varaukset tehdään verkkosivuilla tai puhelimitse"
+  ],
+  "yhteenveto": "Huonepakopeli tarjoaa pakopelikokemuksia Joensuussa (2 sijaintia) ja Kuopiossa. Sivusto esittelee selkeästi hinnat ryhmäkoosta riippuen (alkaen 47 €/hlö kahdelle henkilölle), viisi erilaista huonetta vaativuuden ja teeman mukaan, sekä käytännöllisen varausjärjestelmän verkon kautta. Asiakastyytyväisyys on korkea (4,8/5). Sivuston navigaatio on osittain rikki yksittäisten sijainti-pakopelistä, mutta laajennettu FAQ ja useita käytännön ohjeita löytyy.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla selkeä taulukko hinnoista. Pelin hinta riippuu ryhmäkoosta: 2 henkeä 47 €/hlö (94 € yhteensä), 3 henkeä 37 €/hlö (111 €), 4 henkeä 31 €/hlö (124 €), jne. Alle 12-vuotiaat lapset -5 €, alle 6-vuotiaat ilmaiseksi vähintään 3 hengen ryhmässä.",
+    "varaus_verkossa": "HAVAINTO: Sivusto mainitsee varausjärjestelmää useaan otteeseen. Hinnasto-sivulla: 'Huonevaraus tehdään ennakkoon helppokäyttöisen varausjärjestelmämme kautta.' Pelin sivuilla linkki 'Pääset Joensuun ajanvarausjärjestelmään tästä linkistä.' Varaus mahdollista 60 päivää etukäteen.",
+    "pelit_kuvattu": "HAVAINTO: Viisi peliä nimetty: Taikakoulu (keskitaso, Joensuu), Jungle (Kuopio), Abyss (mainittu), Psykopaatti (mainittu), Maya-Temppeli (mainittu). Yksittäisten pelien sivuilla yksityiskohtaiset kuvaukset, vaikeustasot ja suositeltu ryhmäkoko (3-8 henkeä, paras 4-6). Alle 10-vuotiaat tarvitsevat aikuisen, yli 10-vuotiaat voivat pelata keskenään.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Joensuu - Koulukatu 47a, Teollisuuskatu 11. Kuopio - Haapaniemenkatu 38. Aukioloajat: ma-la klo 9-21, sunnuntaisin tilausmukainen (minimiveloitus 200 €). Paikan päällä vain kun pelejä on.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä verkkosivuilla, ei yhteydenottosivulla, hinnastolla, kontaktitiedoissa tai tietosuojaselosteessa.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla näkyy 'Asiakkaiden arvostelut: kpl Keskiarvolla 4,8 / 5' sekä useita asiakkaiden lainauksia myönteisistä kokemuksista.",
+    "puhelin_esilla": "HAVAINTO: Pääpuhelinnumero 050 409 3311 näkyvissä useassa paikassa. Joensuu-toimipisteille 050 349 6065.",
+    "email_esilla": "HAVAINTO: joensuu@huonepakopeli.fi ja info@huonepakopeli.fi näkyvät verkkosivuilla.",
+    "chat_mainittu": "HAVAINTO: Etusivulla WhatsApp-chat mainittu: 'Huonepakopelin Whatsapp' sekä 'Tarvitsetko apua? Laita meille viesti' ja live-chatissa maininta 'Aloita keskustelu'.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat mainittu FAQ:ssa: 'Tilauksesta olemme auki maanantaista lauantaihin klo 9.00 – 21.00. Sunnuntaisin minimiveloitushinta on 200€ vain tilauksesta.'",
+    "ukk_osio": "HAVAINTO: Laaja 'Usein kysyttyä' -osio hinnasto-sivulla vastaa 11 kysymykseen: aukioloajat, varaus ennakkoon, ryhmäkoko, lapset, peruutus, vaatteet, varausaika, varauksen kesto, lukitut huoneet, pakenematta jääminen, uudelleen pelaaminen, pyörätuoli-soveltuvuus, huoneen koko ja klaustroobian vaikutus.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita missään sivuilla. Varaukset tehdään verkkosivujen kautta tai puhelimitse.",
+    "pelin_hinta_alkaen_eur": "HAVAINTO: Halvin mainostettu hinta on 47 €/henkilö (2 hengen ryhmä). Lähde: hinnasto-sivu."
+  }
+}

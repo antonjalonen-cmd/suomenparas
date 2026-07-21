@@ -204,3 +204,35 @@ kiinteistonvalittajat__opkoti=op-koti.fi
 kiinteistonvalittajat__remax=remax.fi
 kiinteistonvalittajat__habita=habita.com/fi
 kiinteistonvalittajat__bolkv=bo.fi
+
+# ---------------------------------------------------------------- BATCH 4a (21.7.2026)
+# LAKIFIRMAT (6; Lexly dead 12/2025, Docue=Sopimustieto B2B — excluded)
+lakifirmat__aatos=aatos.app
+lakifirmat__lakitie=lakitie.com
+lakifirmat__diy-lakipalvelu=diylakipalvelu.fi
+lakifirmat__lindblad=lindblad.fi
+lakifirmat__heikkila-co=heikkilaco.fi
+lakifirmat__minilex=minilex.fi
+
+# PAKOHUONEET (5 = every multi-city operator in Finland; industry is structurally local)
+pakohuoneet__truescape=truescape.fi
+pakohuoneet__labyrinth-games=lgames.fi
+pakohuoneet__wayout=wayout.fi
+pakohuoneet__huonepakopeli=huonepakopeli.fi
+pakohuoneet__the-great-escape=thegreatescape.fi
+
+# HAMMASLAAKARIT (6; Oral≠Mehiläinen; Terveystalo→Hohde-kauppa kesken; mehilainen.fi vaatii JS:n)
+hammaslaakarit__oral=www.oral.fi
+hammaslaakarit__mehilainen=www.mehilainen.fi/hammas-mehilainen
+hammaslaakarit__terveystalo=www.terveystalo.com/fi/Palvelut/Hammashoito
+hammaslaakarit__plusterveys=www.plusterveys.fi
+hammaslaakarit__hammashohde=www.hammashohde.fi
+hammaslaakarit__coronaria=www.coronaria.fi/hammasklinikka/
+
+# RENGASLIIKKEET (6; 4/6 valmistajaomisteisia — julkistettu; Rengasmaailma kuollut → BestDrive)
+rengasliikkeet__vianor=www.vianor.fi
+rengasliikkeet__euromaster=www.euromaster.fi
+rengasliikkeet__bestdrive=bestdrive.fi
+rengasliikkeet__motonet=www.motonet.fi/palvelut/motonet-rengaspalvelut
+rengasliikkeet__rengascenter=rengascenter.fi
+rengasliikkeet__firststop=www.firststop.fi

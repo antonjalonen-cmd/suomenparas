@@ -48,6 +48,11 @@ MEASURED = {
     "yksityislaakarit": "18.7.2026",
     "kuntosalit": "18.7.2026",
     "kiinteistonvalittajat": "18.7.2026",
+    # batch 4
+    "lakifirmat": "21.7.2026",
+    "pakohuoneet": "21.7.2026",
+    "hammaslaakarit": "21.7.2026",
+    "rengasliikkeet": "21.7.2026",
 }
 
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}

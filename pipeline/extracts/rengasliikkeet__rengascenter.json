@@ -1,0 +1,57 @@
+{
+  "slug": "rengascenter",
+  "fetched_ok": [
+    "https://rengascenter.fi/",
+    "https://rengascenter.fi/liikkeet/",
+    "https://rengascenter.fi/palvelut/rengashotelli/",
+    "https://rengascenter.fi/yhteystiedot/",
+    "https://rengascenter.fi/renkaat-ja-vanteet/",
+    "https://rengascenter.fi/renkaat-ja-vanteet/henkiloauton-renkaat/",
+    "https://rengascenter.fi/renkaat-ja-vanteet/henkiloauton-renkaat/kesarenkaat/",
+    "https://rengascenter.fi/tietoa-meista/"
+  ],
+  "renkaiden_hinnat_esilla": "osittain",
+  "asennus_ja_sailytys_hinnat": "osittain",
+  "ajanvaraus_verkossa": "ei",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja ja selkeä toimipisteiden luettelo kaikilla aukioloajoilla ja yhteystiedoilla",
+    "Kattava rengaskatalogisovellus autojen malleittain haun kanssa",
+    "Yksityiskohtainen rengashotelli- ja palveluseloste usein kysyttyjen kysymysten osalta"
+  ],
+  "kehityskohteet": [
+    "Renkaiden hinnat näkyvät vain dynaamisesti ladatussa sisällössä, ei staattisessa HTML:ssä",
+    "Asennuksen ja rengashotellin hinnat eivät ole julkisesti näkyvissä, vain \"vaihtelevat paikan mukaan\"",
+    "Verkkoajanvaraus puuttuu kokonaan; varaus vaatii puhelinkontaktin tai paikan päälle minnä"
+  ],
+  "yhteenveto": "RengasCenter on suomalainen yrittäjäomisteinen rengasliikeketju, joka palvelee yli 60 toimipisteellä ympäri Suomea. Sivusto tarjoaa selkeän rengashakusovelluksen ja kattavat tiedot palveluista, mutta hintatiedot vaativat dynaamisesti ladattavaa sisältöä ja verkkoajanvaraus puuttuu kokonaan.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Rengaskatalogissa näkyy lukuisia rengas- ja merkkimalleja (Barum, Continental, Dynamo jne.), mutta yksittäiset hinnat ilmestyvät vain JavaScript-renderöinnin jälkeen. Staattisessa HTML:ssä näkyy vain \"Katso tiedot\" -linkit.",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Rengashotelli-sivulla sanotaan \"Rengashotellin hinta määräytyy paikallisen RengasCenter liikkeen mukaan.\" Asennuksen hintaa ei mainita missään yleisellä tasolla.",
+    "ajanvaraus_verkossa": "HAVAINTO: Navigaatioon kuuluu \"Ajanvaraus\"-painike, mutta siihen liittyvää sivua ei löytynyt (HTTP 404 /ajanvaraus/). Varaus edellyttää puhelinkontaktia.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: /liikkeet/ -sivulla näkyvät kaikki 60+ toimipiste täydellisin tiedoin: osoitteet, puhelinnumerot, sähköpostit ja detaljoidut aukioloajat jokaiselle liikkeelle.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita missään luetulla sivulla.",
+    "riippumaton_arvio": "HAVAINTO: Kolmannen osapuolen arvioita tai sertifiointeja ei näy sivuilla.",
+    "puhelin_esilla": "HAVAINTO: Pääkonttorin numero 03 8710 811 näkyy kaikilla sivuilla. Lisäksi jokaisen 60+ liikkeen omia numeroja näkyy liikkeet-sivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myyntirengascenter.fi näkyy sivuston Footer-osassa kaikilla sivuilla (muoto: myynti rengascenter.fi).",
+    "chat_mainittu": "HAVAINTO: Chatti tai live-chat -palvelua ei mainita missään.",
+    "aukioloajat_esilla": "HAVAINTO: Kaikilla 60+ toimipisteillä on listattu omat aukioloajat (ma-pe 08:00-17:00, la-su suljettu on yleisin malli, mutta vaihtelee).",
+    "ukk_osio": "HAVAINTO: Extensive FAQ-osiot löytyvät /renkaat-ja-vanteet/henkiloauton-renkaat/, /palvelut/rengashotelli/ ja muista sivuista. Esim. kysymykset renkaiden vaihdosta, säilytyksestä, valinnasta.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainitaan missään.",
+    "renkaanvaihto_hinta_eur": "HAVAINTO: Kausivaihdon hintaa ei ole julkisesti saatavilla. Sivusto ohjaa ottamaan yhteyttä lähimpään liikkeeseen."
+  }
+}

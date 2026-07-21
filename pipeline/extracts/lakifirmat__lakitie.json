@@ -1,0 +1,50 @@
+{
+  "slug": "lakitie",
+  "fetched_ok": [
+    "https://www.lakitie.com/",
+    "https://www.lakitie.com/hinnasto",
+    "https://www.lakitie.com/lakitie",
+    "https://www.lakitie.com/yhteystiedot",
+    "https://www.lakitie.com/usein-kysytyt-kysymykset",
+    "https://www.lakitie.com/palvelu-ja-tilausehdot",
+    "https://www.lakitie.com/palvelut"
+  ],
+  "hinnat_esilla": "kylla",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "patevyys_kerrottu": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "esimerkkihinta_eur": 38,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat ovat selkeästi ja helposti löydettävissä sekä pääsivulla että omalla hinnasto-sivulla.",
+    "Palveluiden sisältö on hyvin kuvattu — jokaisen asiakirjatyypin kohdalla esitetään mitä palveluun sisältyy (esim. juristin neuvonta 30 min, laatutakuu, muokkauspyyntöjen kattavuus 30 pv).",
+    "Juridisen pätevyyden ilmoittaminen on näkyvää — sivustoilla mainitaan, että asiakirjat laaditaan oikeustieteen maisterin tutkinnon omaavan juristin toimesta."
+  ],
+  "kehityskohteet": [
+    "Puhelinnumeroa ei ole esillä; asiakaspalveluun pääsee vain sähköpostitse tai verkkolomakkeen kautta, mikä voi viivästyttää akuuttia ongelmaa.",
+    "Riippumattomia arviointeja tai ulkoisia laadun todentajia (kuten Google Reviews, Trustpilot tai oikeusalan sertifikaatteja) ei ole linkattu; sivustolle kerätyt asiakaspalautteet ovat sisäisiä.",
+    "Aukioloaikoja ei mainita, mikä saattaa hämmentää asiakkaita — erityisesti kun viestiä kerrotaan vastattavan sähköpostitse."
+  ],
+  "yhteenveto": "Lakitie on digitaalinen lakiasiaintoimisto, joka tarjoaa juridiset asiakirjat (avioehto, edunvalvontavaltuutus, testamentti, lahjakirja) kiinteähintaisesti etäpalveluna. Sivusto on selkeä, hinnat ovat näkyvät ja palveluiden kuvaus kattava; oikeustieteen maisterin pätevyys vahvistuu dokumentaatiossa. Kehityskohteet liittyvät puhelinyhteyden puuttumiseen ja riippumattomien arviointien vähäisyyteen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat on lueteltu omalla hinnasto-sivulla sekä pääsivun palvelukuvauskorteissa. Edunvalvontavaltuutus 38 €, avioehto 58 €, testamentti 67 € / keskinäinen testamentti 89 €, lahjakirja 42 €.",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Pääsivulla ja lakitie-sivulla mainitaan selkeästi kunkin asiakirjan palveluun kuuluvat osat: juristin laatiminen, lain muotovaatimuksien noudattaminen, räätälöinti, juristin neuvonta enintään 30 minuuttia sähköpostitse, laatutakuu, muokkauspyynnöt 30 päivän sisällä maksutta, toimitus sähköpostiin, kiinteä hinta ilman yllätyskustannuksia.",
+    "patevyys_kerrottu": "HAVAINTO: Sivustoilla kerrotaan, että asiakirjat laaditaan 'oikeustieteen maisteri- tutkinnon omaava juristi' toimesta (lakitie-sivu). Palvelu- ja tilausehdoissa mainitaan 'oikeustieteen maisterin tutkinnon suorittanut lakimies'. Pätevyys on merkitty 'lakimies' eikä 'asianajaja'.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Koko palvelu- ja tilausehdot ovat julkisesti saatavilla omalla sivullaan. Ehdot kattavat palvelun tilaamiseen, maksamiseen, peruuttamisoikeuteen, laatu- ja tyytyväisyystakuuseen, vastuunrajoituksiin ja reklamaatioihin liittyvät asiat.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3614565-8 mainitaan palvelu- ja tilausehdot -sivulla tekstissä 'Palveluntarjoaja on Lakitie Oy (y-tunnus 3614565-8)'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia riippumattomiin arviointisivustoihin (esim. Google Reviews, Trustpilot). Ainoa arviointi on sivustolle kerätyt asiakaspalautteet, jotka ovat sisäisesti hallittuja ja näyttävät kaikki 5 tähden arvostelu.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@lakitie.fi on näkyvissä useissa paikoissa: yhteystiedot-sivulla, jokaisen sivun jalkaosassa ja palvelu- ja tilausehdoissa."
+  }
+}

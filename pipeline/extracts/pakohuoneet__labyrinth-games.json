@@ -1,0 +1,50 @@
+{
+  "slug": "labyrinth-games",
+  "fetched_ok": [
+    "https://lgames.fi",
+    "https://lgames.fi/tampere/",
+    "https://lgames.fi/turku/",
+    "https://lgames.fi/oulu/",
+    "https://lgames.fi/faq-fi/",
+    "https://lgames.fi/yhteystiedot-helsingissa/"
+  ],
+  "hinnat_esilla": "osittain",
+  "varaus_verkossa": "kylla",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": 70,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 87
+  },
+  "vahvuudet": [
+    "Kattavat pelikuvaukset vaikeustasoineen ja pelaajamäärillä jokaiselle pelille",
+    "Integroitu varauskalenteri näyttää vapaat ajat reaaliajassa jokaiselle kaupungille",
+    "Vahva TripAdvisor-läsnäolo (655 arvostelua, nykyinen #1-sijoitus Helsinki-kategoriassa)"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu näkyy vain JavaScript-renderoinnin jälkeen, ei staattisesti ladatussa HTML:ssä",
+    "Y-tunnus ei ole julkisesti näkyvissä sivustolla",
+    "Chat-palvelu mainitaan vain FAQ:ssä \"Kysy kysymys\" -linkkeinä, ei dedikoidua chat-ikonia"
+  ],
+  "yhteenveto": "Labyrinth Games on neljässä suomalaisessa kaupungissa toimiva pakohuonejärjestelmä, joka tarjoaa laajat pelikuvaukset ja integroidun varauskalenteri. Yritys korostaa TripAdvisor-menestystään ja positiivista asiakaspalauttaa. Hinnoittelu on osittain piiloutettua JavaScript-renderöinnin taakse, mutta varauskalenteri toimii verkossa ilman yhteydenottoa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat näkyvät varauskalenterissa (2-6 hlö, €70-165), mutta vain JavaScript-renderoinnin jälkeen; staattinen fetch_page.py ei paljasta hintoja, vaan näyttää vain 'Ladataan tietoja'",
+    "varaus_verkossa": "HAVAINTO: Varauskalenteri näyttää vapaat ajat pv-kohtaisesti kellonajoineen ja voi varata suoraan selaimesta; pelaajamäärän muutos vaatii sähköpostia, mutta varaus itse toimii verkossa",
+    "pelit_kuvattu": "HAVAINTO: Jokaisen pelin kohdalla näkyy pelaajamäärä (2-6), kesto (60 min) ja vaikeustaso (6-8.5/10); Helsingissä: Trapped, The Holy Grail, The Flying Dutchman; Tampereella: The Great Mind, The Holy Grail; Turussa: 5 peliä + uusi KOROBOX-brändi; Oulussa: The Great Mind, The Flying Dutchman",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Helsinki (Vuorimiehenkatu 3, 00140), Tampere (Satakunnankatu 33, 33210), Turku (kaksi osoitetta: Yliopistonkatu 33 ja Läntinen Rantakatu 35, 20100), Oulu (Asemakatu 10, 90100); aukioloajat ma-la 11-19 pääasiassa, Oulu ma-to 11-19 + pe-la 10-20",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy yhteystiedot-sivulla, FAQ:ssa tai muilla ladatuilla sivuilla; vain yritysnimi ja osoitteet näkyvät",
+    "riippumaton_arvio": "HAVAINTO: TripAdvisor-arvioita näkyy 655 kpl (Helsinki) ja 245 kpl (Turku); Facebook-arvioita mainitaan; yritys väittää olevan TripAdvisorin Helsinki-kategorian #1",
+    "chat_mainittu": "HAVAINTO: FAQ-sivulla on 'Kysy kysymys!' -linkki ja yhteystiedot-sivulla 'Laita meille viestiä!' -tekstikenttä, mutta dedikoidun chat-ikonia tai reaaliaikaisen chat-palvelun mainintaa ei näy",
+    "pelin_hinta_alkaen_eur": "HAVAINTO: Halvin hinta on €70 (KOROBOX DD-Device 2 henkilölle Turussa); peruspelit alkavat €90-100:sta riippuen kaupungista ja kellon ajasta"
+  }
+}

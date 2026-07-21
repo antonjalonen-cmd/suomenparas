@@ -1,0 +1,56 @@
+{
+  "slug": "wayout",
+  "fetched_ok": [
+    "https://wayout.fi/",
+    "https://wayout.fi/hinnasto/",
+    "https://wayout.fi/ukk/",
+    "https://wayout.fi/jyvaskyla/",
+    "https://wayout.fi/meista/",
+    "https://wayout.fi/tampere/",
+    "https://wayout.fi/hyvinkaa/",
+    "https://wayout.fi/varausehdot/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": 33,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Selkeä hinnaston rakenne: hinta määräytyy ryhmän koon mukaan, lapsille ja opiskelijoille erilliset alennukset",
+    "Laaja peli-valikoima: 14 peliä kolmessa kaupungissa, joista jokainen kuvattu teemoineen ja vaikeusasteineen",
+    "Online-varauskalenteri: 24 tuntia etukäteen varattavissa verkkokalenterin kautta, mahdollisuus verkkomaksuun"
+  ],
+  "kehityskohteet": [
+    "Aukioloajat puuttuvat: sivuilla vain mainitaan, että toimipisteet ovat auki \"vain varauksesta\", eikä konkreettisia aukioloaikoja ole listattu",
+    "Y-tunnus ei julkinen: yrityksen tunnistautuminen vaikeutuu ilman virallista Y-tunnusta sivulla",
+    "Riippumattomien arvioiden puuttuminen: sivulla vain sisäiset asiakastodistukset, ei linkkejä kolmannen osapuolen arvostelusivustoille"
+  ],
+  "yhteenveto": "WayOut on monipaikkainen pakohuoneyritys, jolla on yhteensä 14 peliä kolmessa suomalaisessa kaupungissa (Jyväskylä, Tampere, Hyvinkää). Hinnat ovat selkeästi esillä ja vaihtelevat ryhmän koon mukaan 33–42 euroon per henkilö. Pelit on kuvattu perusteellisesti teemoineen ja vaikeustasoineen, ja online-varauskalenteri mahdollistaa itsenäisen varaamisen. Sivulta puuttuvat kuitenkin tarkka aukioloaikataulukko, yrityksen Y-tunnus ja linkit kolmannen osapuolen arvostelusivustoille.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla selkeästi listattu: 2 hlö 42€/hlö (84€), 3 hlö 37€/hlö (111€), 4 hlö 36€/hlö (144€), 5 hlö 35€/hlö (175€), 6 hlö 33€/hlö (198€). Level 1 Ravengate 1881 -huoneella erillinen 75 min hinnasto. Lapset -10€ (alle 12v), alle 6v ilmaiseksi vähintään 3 hlön ryhmässä. Opiskelijat 25€/hlö ma-pe ryhmässä 3+.",
+    "varaus_verkossa": "HAVAINTO: Varausehdot-sivulla mainitaan 'Varauskalenterista voit varata pelin, joka alkaa aikaisintaan 24 tunnin päästä' ja 'Varauskalenterin kautta varauksia voi tehdä 24 tuntia ennen pelin alkua'. Lisäksi mainitaan mahdollisuus 'verkkomaksuun' ja että 'Maksu tapahtuu paikan päällä ilmoittamillamme maksuvälineillä, mikäli et ole maksanut peliä ennakkoon verkkomaksuna'.",
+    "pelit_kuvattu": "HAVAINTO: Jokaisen toimipisteen sivuilla pelit listataan nimillään ja teemoineen. Jyväskylä: MM95, Horizon, The Source, Diamond Heist. Tampere: Level 1 Ravengate 1881 (75 min), Royal Betty, The Train, The Dream, Back in Time. Hyvinkää: Midnight Heist, Back in Time, The Ward (K-15 kauhuhuone), Sveitsin Salaisuus, The Cave, Ulkopakopeli Metsään kadonneet. Pelit kuvattu teemoineen ja tarina-alustumiensa kanssa.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Kolme toimipistettä osoitteineen ja puhelinnumeroineen: Jyväskylä (Väinönkatu 30, 0400 188 663), Tampere (Rautatienkatu 27, 0400 235 694), Hyvinkää (Härkävehmaankatu 4, 0400 997 314). Konkreettisia aukioloaikoja ei ole listattu; vain mainitaan 'vain varauksesta' ja 'jos haluat tulla käymään paikan päällä, soita etukäteen'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy miltään julkiselta sivulta. Rekisteri-linkin kohta (Rekisteri- ja rekisteriseloste) johtaa 404-sivulle.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla on 'Kokemuksia pakohuoneista' -osio, jossa näytetään asiakastodistuksia. Kuitenkaan ei ole linkkejä ulkopuolisille arvostelu- tai vertailusivustoille kuten TripAdvisor, Google Reviews tai Trustpilot.",
+    "puhelin_esilla": "HAVAINTO: Kolmella toimipisteellä puhelinnumerot: Jyväskylä 0400 188 663, Tampere 0400 235 694, Hyvinkää 0400 997 314.",
+    "email_esilla": "HAVAINTO: Kolmella toimipisteellä sähköpostiosoitteet: Jyväskylä jyvaskyla@wayout.fi, Tampere tampere@wayout.fi, Hyvinkää sveitsi@wayout.fi. Lisäksi toimitusjohtajan sähköposti niko@wayout.fi.",
+    "chat_mainittu": "HAVAINTO: Sivuilla ei mainita chat-tukea tai chat-yhteydenottokanaavaa.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole eksplisiittisesti listattu. Vain mainitaan 'vain varauksesta' ja 'jos haluat tulla käymään paikan päällä, soita etukäteen'.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä' -sivu löytyy (https://wayout.fi/ukk/) ja sisältää laajat FAQ-vastaukset aiheista: pelin alkua ennen, pelin aikana, varausasiat, maksuasiat ja lahjakortin FAQ.",
+    "pelin_hinta_alkaen_eur": "HAVAINTO: Halvin julkisesti ilmoitettu hinta on 33€ per henkilö ryhmässä 6 henkilöä, jonka yhteenshintä on 198€. Opiskelijoille ma-pe 25€/hlö ryhmässä 3+, mutta vaatii voimassa olevaa opiskelijakorttia kassalla."
+  }
+}

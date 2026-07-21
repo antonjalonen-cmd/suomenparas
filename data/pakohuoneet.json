@@ -1,0 +1,1087 @@
+{
+ "slug": "pakohuoneet",
+ "nimi": "Pakohuoneet",
+ "nav": "Pakohuoneet",
+ "h1": "Suomen paras pakohuone 2026",
+ "yksikko": "monikaupunkista pakohuoneketjua",
+ "lead": "Pisteytimme {n} usealla paikkakunnalla toimivaa pakohuoneyritystä {m} mittarilla. Tärkein kysymys: näkyykö pelin hinta ja vapaat ajat ilman yhteydenottoa?",
+ "meta_title": "Suomen paras pakohuone 2026 | pakohuoneketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "5 monikaupunkista pakohuoneketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi listalla on vain 5 yritystä?</b> Pakohuoneala on rakenteellisesti paikallinen: valtaosa Suomen pakohuoneista on yhden kaupungin yrityksiä, joita ei voi asettaa valtakunnalliseen paremmuusjärjestykseen. Listalla ovat kaikki löytämämme usean paikkakunnan toimijat — kolme aitoa ketjua ja kaksi kahden paikkakunnan yritystä, joiden kattavuus on merkitty jokaisen kohdalle. <b>Room Escape Finland</b> on karsittu: yhtiö asetettiin konkurssiin 13.2.2026.",
+  "<b>Omistus:</b> Truescape ja Mysteeri ovat saman yhtiön (Truescape Oy) kaksi brändiä — yhdessä 9 kaupunkia, mitattu yhtenä rivinä. Pakotarinat on myynyt toimipisteensä (Espoo Truescapelle, Joensuu Huonepakopelille) eikä toimi enää omana ketjunaan, vaikka nimi näkyy yhä vanhoissa hakemistoissa.",
+  "Vertailu kuvaa yritysten julkisten verkkosivujen mitattavia ominaisuuksia, ei pelien hauskuutta tai huoneiden laatua. Pelikokemuksesta kertovat asiakasarviot, joiden näkyvyys sivustolla on yksi mittareistamme. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "huonepakopeli",
+   "nimi": "Huonepakopeli",
+   "domain": "huonepakopeli.fi",
+   "omistaja": "MooseFabric Oy — 2 kaupunkia (Joensuu, Kuopio)",
+   "y_tunnus": "2996282-8",
+   "rekisteroity": 2019,
+   "score": 80.5,
+   "pillars": {
+    "digitaalinen": 61.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 85.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla selkeä taulukko hinnoista. Pelin hinta riippuu ryhmäkoosta: 2 henkeä 47 €/hlö (94 € yhteensä), 3 henkeä 37 €/hlö (111 €), 4 henkeä 31 €/hlö (124 €), jne. Alle 12-vuotiaat lapset -5 €, alle 6-vuotiaat ilmaiseksi vähintään 3 hengen ryhmässä."
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee varausjärjestelmää useaan otteeseen. Hinnasto-sivulla: 'Huonevaraus tehdään ennakkoon helppokäyttöisen varausjärjestelmämme kautta.' Pelin sivuilla linkki 'Pääset Joensuun ajanvarausjärjestelmään tästä linkistä.' Varaus mahdollista 60 päivää etukäteen."
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Viisi peliä nimetty: Taikakoulu (keskitaso, Joensuu), Jungle (Kuopio), Abyss (mainittu), Psykopaatti (mainittu), Maya-Temppeli (mainittu). Yksittäisten pelien sivuilla yksityiskohtaiset kuvaukset, vaikeustasot ja suositeltu ryhmäkoko (3-8 henkeä, paras 4-6). Alle 10-vuotiaat tarvitsevat aikuisen, yli 10-vuotiaat voivat pelata keskenään."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Joensuu - Koulukatu 47a, Teollisuuskatu 11. Kuopio - Haapaniemenkatu 38. Aukioloajat: ma-la klo 9-21, sunnuntaisin tilausmukainen (minimiveloitus 200 €). Paikan päällä vain kun pelejä on."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole näkyvissä verkkosivuilla, ei yhteydenottosivulla, hinnastolla, kontaktitiedoissa tai tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy 'Asiakkaiden arvostelut: kpl Keskiarvolla 4,8 / 5' sekä useita asiakkaiden lainauksia myönteisistä kokemuksista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääpuhelinnumero 050 409 3311 näkyvissä useassa paikassa. Joensuu-toimipisteille 050 349 6065."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: joensuu@huonepakopeli.fi ja info@huonepakopeli.fi näkyvät verkkosivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla WhatsApp-chat mainittu: 'Huonepakopelin Whatsapp' sekä 'Tarvitsetko apua? Laita meille viesti' ja live-chatissa maininta 'Aloita keskustelu'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat mainittu FAQ:ssa: 'Tilauksesta olemme auki maanantaista lauantaihin klo 9.00 – 21.00. Sunnuntaisin minimiveloitushinta on 200€ vain tilauksesta.'"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja 'Usein kysyttyä' -osio hinnasto-sivulla vastaa 11 kysymykseen: aukioloajat, varaus ennakkoon, ryhmäkoko, lapset, peruutus, vaatteet, varausaika, varauksen kesto, lukitut huoneet, pakenematta jääminen, uudelleen pelaaminen, pyörätuoli-soveltuvuus, huoneen koko ja klaustroobian vaikutus."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita missään sivuilla. Varaukset tehdään verkkosivujen kautta tai puhelimitse."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 87,
+    "seo": 77,
+    "best_practices": 77,
+    "lcp_ms": 17017.810877380365,
+    "cls": 0.07392667317012927,
+    "tbt_ms": 13354.279999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnaston selvä rakenne ryhmäkokojen mukaan ja myös lapsille tarjolla -5 € sekä alle 6-vuotiaille ilmainen osallistuminen",
+    "Laaja FAQ-osio osoitteessa https://huonepakopeli.fi/hinnasto/ vastaa yleisimpiin kysymyksiin varausehdoista, ryhmäkoosta ja erityisjärjestelyistä",
+    "Varausjärjestelmä verkossa kaikille toimipisteille (Joensuu 2 sijainti, Kuopio 1 sijainti); mahdollisuus varata 60 päivää etukäteen"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä verkkosivuilla",
+    "Yksittäisten huoneiden kuvaukset (Taikakoulu, Jungle, Abyss, Psykopaatti, Maya-Temppeli) löytyvät erilliset sivuista, mutta \"Katso huoneet\" -navigaatio johtaa 404-sivuille Joensuun sijainneille",
+    "Mobiilisovellus ei ole saatavilla, kaikki varaukset tehdään verkkosivuilla tai puhelimitse"
+   ],
+   "yhteenveto": "Huonepakopeli tarjoaa pakopelikokemuksia Joensuussa (2 sijaintia) ja Kuopiossa. Sivusto esittelee selkeästi hinnat ryhmäkoosta riippuen (alkaen 47 €/hlö kahdelle henkilölle), viisi erilaista huonetta vaativuuden ja teeman mukaan, sekä käytännöllisen varausjärjestelmän verkon kautta. Asiakastyytyväisyys on korkea (4,8/5). Sivuston navigaatio on osittain rikki yksittäisten sijainti-pakopelistä, mutta laajennettu FAQ ja useita käytännön ohjeita löytyy."
+  },
+  {
+   "slug": "wayout",
+   "nimi": "WayOut",
+   "domain": "wayout.fi",
+   "omistaja": "WayOut Oy — perustajaomisteinen, 3 kaupunkia",
+   "y_tunnus": "2781348-2",
+   "rekisteroity": 2016,
+   "score": 75.3,
+   "pillars": {
+    "digitaalinen": 75.3,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 79.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla selkeästi listattu: 2 hlö 42€/hlö (84€), 3 hlö 37€/hlö (111€), 4 hlö 36€/hlö (144€), 5 hlö 35€/hlö (175€), 6 hlö 33€/hlö (198€). Level 1 Ravengate 1881 -huoneella erillinen 75 min hinnasto. Lapset -10€ (alle 12v), alle 6v ilmaiseksi vähintään 3 hlön ryhmässä. Opiskelijat 25€/hlö ma-pe ryhmässä 3+."
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varausehdot-sivulla mainitaan 'Varauskalenterista voit varata pelin, joka alkaa aikaisintaan 24 tunnin päästä' ja 'Varauskalenterin kautta varauksia voi tehdä 24 tuntia ennen pelin alkua'. Lisäksi mainitaan mahdollisuus 'verkkomaksuun' ja että 'Maksu tapahtuu paikan päällä ilmoittamillamme maksuvälineillä, mikäli et ole maksanut peliä ennakkoon verkkomaksuna'."
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen toimipisteen sivuilla pelit listataan nimillään ja teemoineen. Jyväskylä: MM95, Horizon, The Source, Diamond Heist. Tampere: Level 1 Ravengate 1881 (75 min), Royal Betty, The Train, The Dream, Back in Time. Hyvinkää: Midnight Heist, Back in Time, The Ward (K-15 kauhuhuone), Sveitsin Salaisuus, The Cave, Ulkopakopeli Metsään kadonneet. Pelit kuvattu teemoineen ja tarina-alustumiensa kanssa."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolme toimipistettä osoitteineen ja puhelinnumeroineen: Jyväskylä (Väinönkatu 30, 0400 188 663), Tampere (Rautatienkatu 27, 0400 235 694), Hyvinkää (Härkävehmaankatu 4, 0400 997 314). Konkreettisia aukioloaikoja ei ole listattu; vain mainitaan 'vain varauksesta' ja 'jos haluat tulla käymään paikan päällä, soita etukäteen'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy miltään julkiselta sivulta. Rekisteri-linkin kohta (Rekisteri- ja rekisteriseloste) johtaa 404-sivulle."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla on 'Kokemuksia pakohuoneista' -osio, jossa näytetään asiakastodistuksia. Kuitenkaan ei ole linkkejä ulkopuolisille arvostelu- tai vertailusivustoille kuten TripAdvisor, Google Reviews tai Trustpilot."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolmella toimipisteellä puhelinnumerot: Jyväskylä 0400 188 663, Tampere 0400 235 694, Hyvinkää 0400 997 314."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolmella toimipisteellä sähköpostiosoitteet: Jyväskylä jyvaskyla@wayout.fi, Tampere tampere@wayout.fi, Hyvinkää sveitsi@wayout.fi. Lisäksi toimitusjohtajan sähköposti niko@wayout.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei mainita chat-tukea tai chat-yhteydenottokanaavaa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei ole eksplisiittisesti listattu. Vain mainitaan 'vain varauksesta' ja 'jos haluat tulla käymään paikan päällä, soita etukäteen'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä' -sivu löytyy (https://wayout.fi/ukk/) ja sisältää laajat FAQ-vastaukset aiheista: pelin alkua ennen, pelin aikana, varausasiat, maksuasiat ja lahjakortin FAQ."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 69,
+    "lcp_ms": 1485.9990000000003,
+    "cls": 0,
+    "tbt_ms": 4399.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä hinnaston rakenne: hinta määräytyy ryhmän koon mukaan, lapsille ja opiskelijoille erilliset alennukset",
+    "Laaja peli-valikoima: 14 peliä kolmessa kaupungissa, joista jokainen kuvattu teemoineen ja vaikeusasteineen",
+    "Online-varauskalenteri: 24 tuntia etukäteen varattavissa verkkokalenterin kautta, mahdollisuus verkkomaksuun"
+   ],
+   "kehityskohteet": [
+    "Aukioloajat puuttuvat: sivuilla vain mainitaan, että toimipisteet ovat auki \"vain varauksesta\", eikä konkreettisia aukioloaikoja ole listattu",
+    "Y-tunnus ei julkinen: yrityksen tunnistautuminen vaikeutuu ilman virallista Y-tunnusta sivulla",
+    "Riippumattomien arvioiden puuttuminen: sivulla vain sisäiset asiakastodistukset, ei linkkejä kolmannen osapuolen arvostelusivustoille"
+   ],
+   "yhteenveto": "WayOut on monipaikkainen pakohuoneyritys, jolla on yhteensä 14 peliä kolmessa suomalaisessa kaupungissa (Jyväskylä, Tampere, Hyvinkää). Hinnat ovat selkeästi esillä ja vaihtelevat ryhmän koon mukaan 33–42 euroon per henkilö. Pelit on kuvattu perusteellisesti teemoineen ja vaikeustasoineen, ja online-varauskalenteri mahdollistaa itsenäisen varaamisen. Sivulta puuttuvat kuitenkin tarkka aukioloaikataulukko, yrityksen Y-tunnus ja linkit kolmannen osapuolen arvostelusivustoille."
+  },
+  {
+   "slug": "truescape",
+   "nimi": "Truescape",
+   "domain": "truescape.fi",
+   "omistaja": "Truescape Oy — omistaa myös Mysteeri-brändin (sama yhtiö); yhteensä 9 kaupunkia",
+   "y_tunnus": "3016295-9",
+   "rekisteroity": 2019,
+   "score": 75.0,
+   "pillars": {
+    "digitaalinen": 75.7,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla kaupunkisivuilla näkyy selkeät hinnat kolmelle aikaperiodille (arkipäivät 09:30–15:50, arki-illat/lauantait, sunnuntait/arkipyhät) pelaajamäärittäin. Esimerkkeinä arkipäivät Turussa: 2 hlö 45€/hlö (90€ yhteensä), 6 hlö 26€/hlö (156€ yhteensä)."
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näkyy 'Varaa tästä' -nappi, joka ohjaa Slotti-varausjärjestelmään (Teonos Oy 2624169-7, Amazon-palvelinten takana). Varauskalenteri ei ole integroitu truescape.fi-sivuille vaan kolmannen osapuolen palvelussa, joten asiakkaiden on siirtyminen erilliselle sivustolle varaamaan."
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella pelillä näkyy nimi, tähtien arvostelut (2–4.5 tähteä), pelaajamäärät (2–6 tai 2–7 hlö), vaikeustasot (S/helppo, K-12/12+ vuotiaille, K-16/16+ vuotiaille), peliajan pituus (60–75 minuuttia) ja narratiivinen kuvaus. Esimerkiksi: 'Paranormal' = 4.5 tähtä, 2–6 hlö, K-16, 60 min."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neljä kaupunkia merkitty sivulla (Helsinki, Espoo, Turku, Vaasa) osoitteineen. Aukioloajat näkyvillä: arkipäivät ma–pe klo 09:30–15:50, arki-illat ma–pe klo 16:00 alkaen ja lauantait, sunnuntait/arkipyhät eri hinnoilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 3016295-9 näkyy Rekisteriseloste-sivulla sivun alussa: 'Truescape Oy (Y-tunnus: 3016295-9) Stenstrandintie 20 B, 02420 JORVAS'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä minkään riippumattoman arviopalvelun sivuille (ei TripAdvisor, Google Reviews, Varaukset.fi, Tripadvisor tyyppisiä linkkejä). Sivulla näkyy vain Truescape itse luomia asiakastestimonialeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääpuhelin 020 372 273 näkyy jokaisen kaupunkitoimipisteen yhteystiedoissa sivun alaosassa ja rekisteriselosteessa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet näkyvillä per toimipiste: helsinki@truescape.fi, espoo@truescape.fi, vaasa@truescape.fi, turku@mysteeri.com (Mysteeri on osa Truescape Oy:tä)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näkyvillä jokaisen kaupunkisivun hinnastossa kolmelle aikaperiodille: arkipäivät 09:30–15:50, arki-illat/lauantait, sunnuntait/arkipyhät."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole erillista UKK- tai FAQ-osiota. Yritettiin hakea /ukk, /faq, /ohjeet polkuja – kaikki palauttivat 404-virheet."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4102.096600000001,
+    "cls": 0.001138187683959841,
+    "tbt_ms": 4013.5000000000036
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Läpinäkyvä hinnoittelu – kaikki hinnat näkyvillä arkipäivistä sunnuntaihin ilman piiloisia maksuja",
+    "Laaja ja moniteemainen pelikirjasto – yli 20 peliä (Hannibal, Chernobyl, Diamond Robbery, Paranormal jne.) eri vaikeustasoineen",
+    "Vakiintunut monipaikkainen verkosto – neljä kaupunkia, 50+ työntekijää, yhteinen Y-tunnus (3016295-9)"
+   ],
+   "kehityskohteet": [
+    "UKK-osio puuttuu kokonaan – ei vastauksia pelaajien yleisimpiin kysymyksiin pelin sisällöstä tai varauksesta",
+    "Riippumattoman arvion linkkien puuttuminen – ei yhteyksiä TripAdvisor, Google Reviews tai muihin arviostelusivustoihin",
+    "Verkkovaraus vaatii kolmannen osapuolen palvelun – varauskalenteri (Slotti/Teonos Oy) on erillisessä järjestelmässä eikä integroitu pääsivuille"
+   ],
+   "yhteenveto": "Truescape Oy on vakiintunut pakohuoneverkon verkosto, joka toimii Helsingissä, Espoossa, Turussa ja Vaasassa. Sivusto tarjoaa läpinäkyvät hinnat, perusteelliset pelikuvaukset vaikeustasoineen ja pelaajamäärineen sekä julkiset yhteystiedot ja Y-tunnuksen. Sivustolta puuttuu kuitenkin UKK-osio ja linkit riippumattomiin arvosteluihin, mikä heikentää potentiaalisten asiakkaiden itsepalvelun tasoa."
+  },
+  {
+   "slug": "labyrinth-games",
+   "nimi": "Labyrinth Games",
+   "domain": "lgames.fi",
+   "omistaja": "Labyrinth Games Room Escape Oy — perustajaomisteinen, 4 kaupunkia",
+   "y_tunnus": "2659780-2",
+   "rekisteroity": 2014,
+   "score": 72.0,
+   "pillars": {
+    "digitaalinen": 59.0,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 76.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "66/100",
+       "paino": 30,
+       "pisteet": 66,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat näkyvät varauskalenterissa (2-6 hlö, €70-165), mutta vain JavaScript-renderoinnin jälkeen; staattinen fetch_page.py ei paljasta hintoja, vaan näyttää vain 'Ladataan tietoja'"
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varauskalenteri näyttää vapaat ajat pv-kohtaisesti kellonajoineen ja voi varata suoraan selaimesta; pelaajamäärän muutos vaatii sähköpostia, mutta varaus itse toimii verkossa"
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen pelin kohdalla näkyy pelaajamäärä (2-6), kesto (60 min) ja vaikeustaso (6-8.5/10); Helsingissä: Trapped, The Holy Grail, The Flying Dutchman; Tampereella: The Great Mind, The Holy Grail; Turussa: 5 peliä + uusi KOROBOX-brändi; Oulussa: The Great Mind, The Flying Dutchman"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Helsinki (Vuorimiehenkatu 3, 00140), Tampere (Satakunnankatu 33, 33210), Turku (kaksi osoitetta: Yliopistonkatu 33 ja Läntinen Rantakatu 35, 20100), Oulu (Asemakatu 10, 90100); aukioloajat ma-la 11-19 pääasiassa, Oulu ma-to 11-19 + pe-la 10-20"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy yhteystiedot-sivulla, FAQ:ssa tai muilla ladatuilla sivuilla; vain yritysnimi ja osoitteet näkyvät"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: TripAdvisor-arvioita näkyy 655 kpl (Helsinki) ja 245 kpl (Turku); Facebook-arvioita mainitaan; yritys väittää olevan TripAdvisorin Helsinki-kategorian #1"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-sivulla on 'Kysy kysymys!' -linkki ja yhteystiedot-sivulla 'Laita meille viestiä!' -tekstikenttä, mutta dedikoidun chat-ikonia tai reaaliaikaisen chat-palvelun mainintaa ei näy"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "87/100",
+       "paino": 33,
+       "pisteet": 87,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 66,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 10058.736499999999,
+    "cls": 3.227335371445523e-05,
+    "tbt_ms": 3102.239000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavat pelikuvaukset vaikeustasoineen ja pelaajamäärillä jokaiselle pelille",
+    "Integroitu varauskalenteri näyttää vapaat ajat reaaliajassa jokaiselle kaupungille",
+    "Vahva TripAdvisor-läsnäolo (655 arvostelua, nykyinen #1-sijoitus Helsinki-kategoriassa)"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelu näkyy vain JavaScript-renderoinnin jälkeen, ei staattisesti ladatussa HTML:ssä",
+    "Y-tunnus ei ole julkisesti näkyvissä sivustolla",
+    "Chat-palvelu mainitaan vain FAQ:ssä \"Kysy kysymys\" -linkkeinä, ei dedikoidua chat-ikonia"
+   ],
+   "yhteenveto": "Labyrinth Games on neljässä suomalaisessa kaupungissa toimiva pakohuonejärjestelmä, joka tarjoaa laajat pelikuvaukset ja integroidun varauskalenteri. Yritys korostaa TripAdvisor-menestystään ja positiivista asiakaspalauttaa. Hinnoittelu on osittain piiloutettua JavaScript-renderöinnin taakse, mutta varauskalenteri toimii verkossa ilman yhteydenottoa."
+  },
+  {
+   "slug": "the-great-escape",
+   "nimi": "The Great Escape",
+   "domain": "thegreatescape.fi",
+   "omistaja": "Gr8 Escape Oy — 2 paikkakuntaa (Kajaani, Vuokatti)",
+   "y_tunnus": "2978448-6",
+   "rekisteroity": 2019,
+   "score": 63.2,
+   "pillars": {
+    "digitaalinen": 58.3,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "6/100",
+       "paino": 40,
+       "pisteet": 6,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto on esillä sivulla thegreatescape.fi/hinnasto/ PNG-kuvan (HINNASTO.png 1500×1000) muodossa. Tekstissä ei ole tarkkoja hintoja, mutta hinnat ovat julkisesti nähtävissä kuvassa."
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varauskalenteri ('Varauskalenteri' tai 'Calendar') on saatavilla sivulla thegreatescape.fi/varaa/. Vuokattiin voi tehdä online-varauksen samalle päivälle; Kajaaniin online-varaukset on tehtävä vähintään 24 h etukäteen. Laskutus mahdollista yritysasiakkaille."
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla thegreatescape.fi/rooms/ on kuvattu kaikki 11 peliä (6 Kajaanissa, 5 Vuokatissa) teemoilla ja lyhyillä kuvauksilla. Pelaajamäärät mainittu ('2 to 8 people' ja 'Collect a group of 2 to 8 people'). Kesto 60-75 minuuttia mainittu."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi toimipistettä on osoitteistolla: Kauppakatu 5, 87100 Kajaani ja Linturinteenkatu 1, 88610 Vuokatti. Aukioloaikoja ei mainita missään sivuilla. Puhelimitse tavoitettavissa +358 44 248 1177 (Kajaani) ja +358 45 180 9200 / +358 44 248 1177 (Vuokatti)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainita missään sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumatonta arviota tai arviointilähteistä ei mainintaa sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot ovat näkyvillä kaikilla sivuilla: +358 44 248 1177 (Kajaani) ja +358 45 180 9200 / +358 44 248 1177 (Vuokatti)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@thegreatescape.fi näkyy kaikilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Live-chatiä tai chat-toimintoa ei mainita sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita missään sivuilla. Varaus-sivulla viitataan vain online-varausten aikarajoituksiin (24 h Kajaani, sama päivä Vuokatti)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -osiota ei ole sivuilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovelluksesta ei mainintaa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 6,
+    "accessibility": 98,
+    "seo": 85,
+    "best_practices": 92,
+    "lcp_ms": 13867.572700000004,
+    "cls": 0.4592952612393681,
+    "tbt_ms": 2429
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Varauskalenteri toimii verkossa ilman rekisteröinnin vaatimusta; Vuokattiin online-varaus samalle päivälle.",
+    "11 eri teemaista peliä selkeästi kuvattu teemoittain ja paikkakunnittan; 60-75 minuutin kestot mainittu.",
+    "Kaksi toimipistettä osoitteistolla ja puhelinnumeroin sekä sähköpostiosoite helposti saatavilla."
+   ],
+   "kehityskohteet": [
+    "Hinnat esillä vain PNG-kuvana (HINNASTO.png), ei tekstimuodossa — hintojen löydettävyys heikkenee.",
+    "Aukioloaikoja ei mainita missään; vain varauskalenteri ja soittojen välittömyys ohjataan.",
+    "Y-tunnusta, riippumatonta arviota, chatia, FAQ-osiota eikä mobiilisovellusta; yhteydenotto pelkästään puhelimella tai sähköpostilla."
+   ],
+   "yhteenveto": "The Great Escape on Kajaanissa ja Vuokatissa toimiva pakohuoneyritys, joka tarjoaa 11 teemaista peliä. Verkkovaraus on helppoa ja kalenteri toimii hyvin, huoneet on kuvattu hyvin, mutta hinnat ovat nähtävissä vain kuvana, aukioloaikoja ei mainita ja yrityksen tunnistetiedot puuttuvat osittain."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Pelien hinnat julkisesti esillä (30), varauskalenteri toimii verkossa ilman yhteydenottoa (20), huoneet, vaikeustasot ja pelaajamäärät kuvattu (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

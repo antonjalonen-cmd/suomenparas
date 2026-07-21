@@ -1,0 +1,51 @@
+{
+  "slug": "diy-lakipalvelu",
+  "fetched_ok": [
+    "https://www.diylakipalvelu.fi",
+    "https://www.diylakipalvelu.fi/hinnasto",
+    "https://www.diylakipalvelu.fi/yritystiedot",
+    "https://www.diylakipalvelu.fi/rekisteriehdot",
+    "https://www.diylakipalvelu.fi/toimitusehdot"
+  ],
+  "hinnat_esilla": "kylla",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "patevyys_kerrottu": "kylla",
+  "sopimusehdot_saatavilla": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "esimerkkihinta_eur": 0,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat ja palvelukuvaukset näkyvät selkeästi erillisellä hinnasto-sivulla (0–248 €)",
+    "Laaja valikoima asiakirjoja eri elämäntilanteisiin, kaikissa on ohjeita",
+    "Chat-tuki saatavilla ja varatuomari tarkistaa dokumentit pyynnöstä"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero ei ole julkisesti näkyvissä, vain email ja chat",
+    "Aukioloajat puuttuvat – näkyy vain Paytrailin aukioloajat (ark 8–19)",
+    "Konkreettinen Y-tunnus ei löydy sivustolta, vain yrityksen nimi"
+  ],
+  "yhteenveto": "DIY Lakipalvelu on digitaalinen dokumenttipalvelu, joka tarjoaa dokumentteja oikeusasioihin (avioerot, testamentit, valtakirjat jne.) kiinteillä hinnoilla. Palvelu on hyvin organisoitu hinnaston kanssa, varatuomari Tiina Tikka tarkistaa dokumentit, ja chat-tuki on saatavilla. Puhelinnumero ja aukioloajat kuitenkin puuttuvat julkisesta näkyvyydestä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla listataan yli 30 dokumenttityyppiä hintojen kanssa: Avioehtosopimus 72 €, Testamentti 79 €, Avioerohakemus 39 €, pienimmät palvelut 0 €, etäpalvelut enemmän (esim. lakimiehen neuvonta 100 €/30 min).",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Pääsivulla selitetään prosessi: valitse asiakirjatyyppi, täytä tietoihin pohjautuvat kenttät (ohjeistettu), tarkista esikatselu, maksa, saa sähköpostiin tai postitse. Jokaisen dokumenttityypin kuvaus näkyy tuoteluettelossa.",
+    "patevyys_kerrottu": "HAVAINTO: Kaikilla sivuilla footerissa: 'Sisällön tuottaja ja tarkistaja: varatuomari Tiina Tikka'. Yritystiedot-sivulla lisäksi kerrotaan 30 vuoden kokemus lakiasiaintoimiston pyörittämisestä.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Rekisteriehdot-sivulla yksityisyydensuoja ja evästekäytäntö. Toimitusehdot-sivulla maksu- ja toimitusprosessi, toimitusehdot (pdf sähköpostiin tai posti), reklamaatioprosessi määritelty.",
+    "y_tunnus_esilla": "HAVAINTO: Yrityksen nimi 'DIY Lakipalvelu Oy' näkyy footerissa ja hinnaston sivulla, mutta konkreettinen Y-tunnus ei ole julkisesti näkyvissä sivustolla. Maksuproviderina mainitaan Paytrail Oyj (2122839-7, mutta se on Paytrailin tunnus, ei DIY:n).",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia kolmannen osapuolen arviointeihin, vertailusivustoihin tai sertifikaatteihin.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero ei ole näkyvissä DIY Lakipalvelun omissa yhteystiedoissa. Toimitusehdoissa mainitaan Paytrail:in puh. +358 207 181830 (ark 8–19), mutta se on maksupalvelun numero, ei palvelun omistajan.",
+    "email_esilla": "HAVAINTO: Toimitusehdot-sivulla: 'Mikäli lähetys ei ole saapunut... tulee asiakkaan ottaa yhteyttä sähköpostitse osoitteeseen info@diylakipalvelu.com'.",
+    "chat_mainittu": "HAVAINTO: Pääsivulla: 'Chatissa asiantunteva neuvonta' ja 'KLIKKAA JO TEKEMÄÄN!' Yritystiedot-sivulla: 'pulmatilanteissa voit kysyä neuvoa chatin kautta' ja 'Chatissa henkilöllisyyttäsi ei kysellä, keskustelu käydään kirjoittelemalla'.",
+    "aukioloajat_esilla": "HAVAINTO: Sivustolla ei ole DIY Lakipalvelun omia aukioloaikoja. Toimitusehdoissa mainitaan Paytrail:in asiakaspalvelun aukioloajat (ark 8–19, +358 207 181830)."
+  }
+}

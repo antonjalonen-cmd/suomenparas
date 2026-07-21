@@ -1,0 +1,55 @@
+{
+  "slug": "coronaria",
+  "fetched_ok": [
+    "https://www.coronaria.fi/hammasklinikka/",
+    "https://www.coronaria.fi/hammasklinikka/hinnasto-hanko-ja-tammisaari/",
+    "https://www.coronaria.fi/hammasklinikka/ajanvaraus/",
+    "https://www.coronaria.fi/yhteystiedot/",
+    "https://www.coronaria.fi/hammasklinikka/coronaria-tili/",
+    "https://www.coronaria.fi/hammasklinikka/maksutavat/",
+    "https://www.coronaria.fi/hammasklinikka/hammastarkastus/",
+    "https://www.coronaria.fi/hammasklinikka/hammaslaakaripelko/"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "kylla",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "tarkastus_hinta_eur": 81,
+  "ai_arviot": {
+    "selkeys": 76,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 74
+  },
+  "vahvuudet": [
+    "Hinnat julkisesti esillä kahdessa hinnaston versiossa (yleiset hinnat ja Hanko-Tammisaari), sisältäen Kela-korvauksen jälkeiset omavastuuosuudet",
+    "Verkkoajanvaraus 24/7 ilman kirjautumista, mahdollisuus varata aika jännittäjälle tai pelokkaille asiakkaille",
+    "Kela-korvaus selitetty hinnastoissa ja maksutavat-sivulla, myös suorakorvausjärjestelmä käytössä"
+  ],
+  "kehityskohteet": [
+    "Toimipisteiden osoitteet, aukioloajat ja puhelinnumerot puuttuvat hammasklinikka-osion sivuilta, löytyy vain pääkonttorin tiedot",
+    "Y-tunnus ei ole julkisesti esillä verkkosivuilla (sovelletaan briiffin periaatetta: ei löydetystä sivusta = ei)",
+    "Riippumaton arviolähde (esim. Trustpilot-linkki tai asiakasarvostelut) ei ole esillä hammasklinikka-osiossa"
+  ],
+  "yhteenveto": "Coronaria Hammasklinikka on monipaikkainen yksityinen hammashoitoyritys, joka tarjoaa laaja palveluvalikoiman perushammashoidosta suukirurgiaan asti. Verkkosivuilla on hinnat julkisesti esillä Kela-korvaustieto sekä asiakkaiden kannalta tärkeitä maksuvaihtoehtoja kuvattu selkeästi. Ajanvaraus on mahdollinen verkossa 24/7 ilman kirjautumista, mikä on seikka asiakkaiden kannalta. Suurimpana puutteena on toimipisteiden konkreettiset yhteystiedot ja aukioloajat, jotka puuttuvat hammasklinikka-osiosta.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Hinnat on julkaistu kahdessa hinnaston versiossa. Hanko-Tammisaari hinnaston mukaan hammastarkastus on 95,00€ alkaen, omavastuu Kela-korvauksen jälkeen 65,00€. Yleisellä hinnastolla hammastarkastus on 81,00€ alkaen, omavastuu 51,00€. Hinnat ilmaistaan 'alkaen'-hintoina ja kaikissa hintoihin liittyy 27,90€ palvelumaksu.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Ajanvaraus-sivulla selkeästi kerrotaan 'Verkkoajanvarauksemme kautta voit varata ajan vuorokauden ympäri, viikon jokaisena päivänä.' Ei mainita vaatimusta kirjautumiselle. Asiakkaalla on myös mahdollisuus varata aika jännittävän tai pelokkaan hammastarkastukseen erityisesti.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hammastarkastus-sivulla kerrotaan 'Hammaslääkärin tekemästä suun ja hampaiden tutkimuksesta voit saada korvausta joka toinen kalenterivuosi. Korvaus voidaan kuitenkin maksaa kerran kalenterivuodessa, jos terveydentilasi edellyttää sitä.' Hinnastoissa näkyy selkeästi 'Omavastuu Kela-korvauksen jälkeen'-sarake. Maksutavat-sivulla mainitaan 'Käytössämme on Kelan suorakorvaus.'",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipaikkojen konkreettisia osoitteita ja aukioloaikoja ei ole kuvattu hammasklinikka-osiossa. Etusivulla näkyy linkki 'Katso toimipaikat' mutta se ohjaa yleiselle Coronaria-sivustolle, ei hammasklinikka-kohtaisille tiedoille. Vain pääkonttorin osoite (Oulu) ja palveluajat 9.00-15.00 ovat saatavilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole esillä missään ladatussa hammasklinikka-osiosta. Yritystiedot puuttuvat.",
+    "riippumaton_arvio": "HAVAINTO: Hammasklinikka-osiossa ei ole linkkejä riippumattomiin arviointisivustoihin (esim. Trustpilot). Sivustoilla on 'Asiakaskokemuksia' -osiota, mutta nämä ovat Coronarian omia asiakastarinoita, eivät ulkopuolisen palvelun antamia arvosteluja.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla on pääkonttorin numero 020 780 6260 ja maininta 'etunimi.sukunimi@coronaria.fi'. Ajanvaraus-sivulla mainitaan soitto omalle klinikalleen, mutta yksittäisten klinikan numeroita ei ole etusivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite-muoto 'etunimi.sukunimi@coronaria.fi' on esillä yhteystiedot-sivulla.",
+    "chat_mainittu": "HAVAINTO: Chatin mahdollisuutta ei mainita missään ladatussa materiaalissa.",
+    "aukioloajat_esilla": "HAVAINTO: Pääkonttorin aukioloajat arkisin 9.00-15.00 on mainittu, mutta yksittäisten hammasklinikoiden aukioloajat puuttuvat.",
+    "ukk_osio": "HAVAINTO: Sivustoilla on useita tietoa-osiota, joissa vastataan yleisiin kysymyksiin. Hammaslääkäripelko-sivulla on kattava Q&A-osuus pelosta ja sen ylittämisestä. Hammastarkastus-sivulla kerrotaan säännöllisyydestä ja tarkastuksessa tutkittavista asioista. Puuttuva hammas -sivulla on kysymyksiä ja vastauksia."
+  }
+}

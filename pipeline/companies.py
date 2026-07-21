@@ -627,3 +627,89 @@ COMPANIES["kiinteistonvalittajat"] = [
     dict(slug="bolkv", nimi="Bo LKV", domain="bo.fi", y_tunnus="2796763-3",
          omistaja="Bo LKV Oy — yksi yhtiö, kaupunkitoimistot aputoiminimiä"),
 ]
+
+# LAKIFIRMAT (verified 21.7.2026, pipeline/verify_batch4/lakifirmat.md) — consumer legal
+# services with national reach: digital document services + multi-office firms.
+# EXCLUDED: Lexly (company LAKKANNUT 22.12.2025 per PRH — dead brand caught before
+# publishing), Docue/Sopimustieto (same company, pure B2B now), Fondia (B2B only),
+# Facta (2 cities), Kontturi & Co (regional, 3 offices), Perunkirja.fi (funeral-home
+# side product). NOTE: "asianajotoimisto" is a regulated title (Asianajajaliitto
+# supervision) — juristin pätevyys is a scored transparency criterion here.
+COMPANIES["lakifirmat"] = [
+    dict(slug="aatos", nimi="Aatos", domain="aatos.app", y_tunnus="2901500-3",
+         omistaja="Aatos Legal Technology Oy — itsenäinen suomalainen legal tech -yhtiö"),
+    dict(slug="lakitie", nimi="Lakitie", domain="lakitie.com", y_tunnus="3614565-8",
+         omistaja="Lakitie Oy — nuori yhtiö (Oy rekisteröity 4/2026; palvelu toiminut vuodesta 2023)"),
+    dict(slug="diy-lakipalvelu", nimi="DIY Lakipalvelu", domain="diylakipalvelu.fi", y_tunnus="2835849-3",
+         omistaja="DIY Lakipalvelu Oy — henkilöomisteinen, sisällöstä vastaa varatuomari"),
+    dict(slug="lindblad", nimi="Asianajotoimisto Lindblad & Co", domain="lindblad.fi", y_tunnus="1608041-2",
+         omistaja="Itsenäinen suomalainen asianajotoimisto — Asianajajaliiton valvoma"),
+    dict(slug="heikkila-co", nimi="Lakiasiaintoimisto Heikkilä & Co", domain="heikkilaco.fi", y_tunnus="1843393-9",
+         omistaja="Itsenäinen; vuoteen 2024 asti asianajotoimisto, nykyään lakiasiaintoimisto"),
+    dict(slug="minilex", nimi="Minilex", domain="minilex.fi", y_tunnus="2411251-7",
+         omistaja="Minilex Oy — itsenäinen; lakipuhelin + juristiverkosto"),
+]
+
+# PAKOHUONEET (verified 21.7.2026, pipeline/verify_batch4/pakohuoneet.md) — the industry
+# is STRUCTURALLY LOCAL: only 3 genuinely multi-city chains exist in Finland, plus two
+# two-city operators included with their reach labelled. Disclosed on-page.
+# OWNERSHIP: Truescape and Mysteeri are the SAME company (Truescape Oy, one Y-tunnus) —
+# measured as one row. EXCLUDED: Room Escape Finland (KONKURSSI 13.2.2026), Claustrophobia
+# (Tallinn only), Pakotarinat (sold both sites — Espoo→Truescape, Joensuu→Huonepakopeli),
+# and 8 single-city operators. Truescape's Seinäjoki site is "toistaiseksi suljettu" —
+# not counted in its 9 cities.
+COMPANIES["pakohuoneet"] = [
+    dict(slug="truescape", nimi="Truescape", domain="truescape.fi", y_tunnus="3016295-9",
+         omistaja="Truescape Oy — omistaa myös Mysteeri-brändin (sama yhtiö); yhteensä 9 kaupunkia"),
+    dict(slug="labyrinth-games", nimi="Labyrinth Games", domain="lgames.fi", y_tunnus="2659780-2",
+         omistaja="Labyrinth Games Room Escape Oy — perustajaomisteinen, 4 kaupunkia"),
+    dict(slug="wayout", nimi="WayOut", domain="wayout.fi", y_tunnus="2781348-2",
+         omistaja="WayOut Oy — perustajaomisteinen, 3 kaupunkia"),
+    dict(slug="huonepakopeli", nimi="Huonepakopeli", domain="huonepakopeli.fi", y_tunnus="2996282-8",
+         omistaja="MooseFabric Oy — 2 kaupunkia (Joensuu, Kuopio)"),
+    dict(slug="the-great-escape", nimi="The Great Escape", domain="thegreatescape.fi", y_tunnus="2978448-6",
+         omistaja="Gr8 Escape Oy — 2 paikkakuntaa (Kajaani, Vuokatti)"),
+]
+
+# HAMMASLÄÄKÄRIT (verified 21.7.2026, pipeline/verify_batch4/hammaslaakarit.md).
+# Oral is NOT Mehiläinen (Colosseum Dental Group / Jacobs Holding AG — the assumed
+# link was false). PENDING DEAL: Terveystalo signed 23.12.2025 to buy Hohde Group
+# (88 M€), KKV review pending at measurement time — if it closes, Terveystalo owns
+# 2/6 brands; disclosed on-page, re-check every run. Cor Group owns Coronaria AND a
+# stake in Silmäasema (optikot) — same parent investor across two categories.
+# mehilainen.fi is a Next.js shell — extraction MUST use --js.
+COMPANIES["hammaslaakarit"] = [
+    dict(slug="oral", nimi="Oral Hammaslääkärit", domain="oral.fi", y_tunnus="2863321-3",
+         omistaja="Colosseum Dental Group / Jacobs Holding AG (Sveitsi) — EI Mehiläinen"),
+    dict(slug="mehilainen", nimi="Hammas Mehiläinen", domain="mehilainen.fi", y_tunnus="1927556-5",
+         omistaja="Mehiläinen Oy — hammashoito on konsernin oma palvelulinja"),
+    dict(slug="terveystalo", nimi="Suun Terveystalo", domain="terveystalo.com", y_tunnus="2575979-3",
+         omistaja="Terveystalo Oyj — pörssiyhtiö; ostamassa Hammas Hohdetta (KKV-käsittely kesken)"),
+    dict(slug="plusterveys", nimi="PlusTerveys", domain="plusterveys.fi", y_tunnus="3265145-7",
+         omistaja="PlusTerveys Ryhmä Oy — ammattilaisomisteinen"),
+    dict(slug="hammashohde", nimi="Hammas Hohde", domain="hammashohde.fi", y_tunnus="2339589-3",
+         omistaja="Sentica Partners (~60 %); Terveystalo sopi ostosta 23.12.2025 — kauppa ei vielä toteutunut"),
+    dict(slug="coronaria", nimi="Coronaria Hammasklinikka", domain="coronaria.fi", y_tunnus="2207193-4",
+         omistaja="Coronaria Oy / Cor Group — samalla emosijoittajalla omistusta myös Silmäasemassa"),
+]
+
+# RENGASLIIKKEET (verified 21.7.2026, pipeline/verify_batch4/rengasliikkeet.md).
+# OWNERSHIP CONCENTRATION: 4 of 6 chains are tyre-manufacturer-owned (Vianor=Nokian
+# Renkaat, Euromaster=Michelin, BestDrive=Continental, First Stop=Bridgestone) — a
+# manufacturer-owned chain has an incentive to recommend its own brand; disclosed.
+# DEAD BRAND: Rengasmaailma → Rengasmarket → BestDrive (two rebrands) — replaced by
+# BestDrive. Teboil excluded (no chain-wide tyre service).
+COMPANIES["rengasliikkeet"] = [
+    dict(slug="vianor", nimi="Vianor", domain="vianor.fi", y_tunnus="1463013-4",
+         omistaja="Nokian Renkaat — valmistajan oma ketju"),
+    dict(slug="euromaster", nimi="Euromaster", domain="euromaster.fi", y_tunnus="0711042-1",
+         omistaja="Michelin — valmistajan oma ketju"),
+    dict(slug="bestdrive", nimi="BestDrive", domain="bestdrive.fi", y_tunnus="1095378-8",
+         omistaja="Continental-tuettu ketju (ent. Rengasmaailma/Rengasmarket)"),
+    dict(slug="motonet", nimi="Motonet Rengaspalvelut", domain="motonet.fi", y_tunnus="0699457-9",
+         omistaja="Motonet Oy — suomalainen perheyritys (Broman Group)"),
+    dict(slug="rengascenter", nimi="RengasCenter", domain="rengascenter.fi", y_tunnus="0782719-0",
+         omistaja="Yrittäjäomisteinen ketju (60+ liikettä) — ei valmistajan omistama"),
+    dict(slug="firststop", nimi="First Stop", domain="firststop.fi", y_tunnus="1806488-9",
+         omistaja="Bridgestone Europe NV/SA, Suomen sivuliike — valmistajan oma ketju"),
+]

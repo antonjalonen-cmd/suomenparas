@@ -1,0 +1,56 @@
+{
+  "slug": "the-great-escape",
+  "fetched_ok": [
+    "https://www.thegreatescape.fi/home/",
+    "https://www.thegreatescape.fi/price-list/",
+    "https://www.thegreatescape.fi/booking/",
+    "https://www.thegreatescape.fi/rooms/",
+    "https://www.thegreatescape.fi/",
+    "https://www.thegreatescape.fi/hinnasto/",
+    "https://www.thegreatescape.fi/varaa/",
+    "https://www.thegreatescape.fi/tyky-paivat/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Varauskalenteri toimii verkossa ilman rekisteröinnin vaatimusta; Vuokattiin online-varaus samalle päivälle.",
+    "11 eri teemaista peliä selkeästi kuvattu teemoittain ja paikkakunnittan; 60-75 minuutin kestot mainittu.",
+    "Kaksi toimipistettä osoitteistolla ja puhelinnumeroin sekä sähköpostiosoite helposti saatavilla."
+  ],
+  "kehityskohteet": [
+    "Hinnat esillä vain PNG-kuvana (HINNASTO.png), ei tekstimuodossa — hintojen löydettävyys heikkenee.",
+    "Aukioloaikoja ei mainita missään; vain varauskalenteri ja soittojen välittömyys ohjataan.",
+    "Y-tunnusta, riippumatonta arviota, chatia, FAQ-osiota eikä mobiilisovellusta; yhteydenotto pelkästään puhelimella tai sähköpostilla."
+  ],
+  "yhteenveto": "The Great Escape on Kajaanissa ja Vuokatissa toimiva pakohuoneyritys, joka tarjoaa 11 teemaista peliä. Verkkovaraus on helppoa ja kalenteri toimii hyvin, huoneet on kuvattu hyvin, mutta hinnat ovat nähtävissä vain kuvana, aukioloaikoja ei mainita ja yrityksen tunnistetiedot puuttuvat osittain.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto on esillä sivulla thegreatescape.fi/hinnasto/ PNG-kuvan (HINNASTO.png 1500×1000) muodossa. Tekstissä ei ole tarkkoja hintoja, mutta hinnat ovat julkisesti nähtävissä kuvassa.",
+    "varaus_verkossa": "HAVAINTO: Varauskalenteri ('Varauskalenteri' tai 'Calendar') on saatavilla sivulla thegreatescape.fi/varaa/. Vuokattiin voi tehdä online-varauksen samalle päivälle; Kajaaniin online-varaukset on tehtävä vähintään 24 h etukäteen. Laskutus mahdollista yritysasiakkaille.",
+    "pelit_kuvattu": "HAVAINTO: Sivulla thegreatescape.fi/rooms/ on kuvattu kaikki 11 peliä (6 Kajaanissa, 5 Vuokatissa) teemoilla ja lyhyillä kuvauksilla. Pelaajamäärät mainittu ('2 to 8 people' ja 'Collect a group of 2 to 8 people'). Kesto 60-75 minuuttia mainittu.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Kaksi toimipistettä on osoitteistolla: Kauppakatu 5, 87100 Kajaani ja Linturinteenkatu 1, 88610 Vuokatti. Aukioloaikoja ei mainita missään sivuilla. Puhelimitse tavoitettavissa +358 44 248 1177 (Kajaani) ja +358 45 180 9200 / +358 44 248 1177 (Vuokatti).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita missään sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arviota tai arviointilähteistä ei mainintaa sivuilla.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot ovat näkyvillä kaikilla sivuilla: +358 44 248 1177 (Kajaani) ja +358 45 180 9200 / +358 44 248 1177 (Vuokatti).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@thegreatescape.fi näkyy kaikilla sivuilla.",
+    "chat_mainittu": "HAVAINTO: Live-chatiä tai chat-toimintoa ei mainita sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita missään sivuilla. Varaus-sivulla viitataan vain online-varausten aikarajoituksiin (24 h Kajaani, sama päivä Vuokatti).",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osiota ei ole sivuilla.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovelluksesta ei mainintaa."
+  }
+}

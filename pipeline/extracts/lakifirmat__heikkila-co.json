@@ -1,0 +1,52 @@
+{
+  "slug": "heikkila-co",
+  "fetched_ok": [
+    "https://www.heikkilaco.fi/",
+    "https://www.heikkilaco.fi/hinnasto/",
+    "https://www.heikkilaco.fi/palvelut/",
+    "https://www.heikkilaco.fi/meista/",
+    "https://www.heikkilaco.fi/tietosuojaseloste/",
+    "https://www.heikkilaco.fi/palvelut/sopimukset/",
+    "https://www.heikkilaco.fi/ota-yhteytta-lakitoimistoon/"
+  ],
+  "hinnat_esilla": "kylla",
+  "palvelun_sisalto_kuvattu": "kylla",
+  "patevyys_kerrottu": "osittain",
+  "sopimusehdot_saatavilla": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "esimerkkihinta_eur": 239,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnaston selkeys ja asiakastyyppikohtaiset hinnat (yritys 239–350 e/h, kuluttaja 299–350 e/h alv sisältyen)",
+    "Palvelujen kattava kuvaus seikkaperäisesti (sopimukset, kiinteistöjuridiikka, yritysjuridiikka, yhteiskanteet) pääpalveluina",
+    "Saatavilla koko Suomessa neljältä konttorista (Helsinki, Turku, Tampere, Vaasa) ja etäpalvelulla 13 kaupunkiin"
+  ],
+  "kehityskohteet": [
+    "Juristien pätevyystaso (asianajaja/varatuomari/lakimies) ei ole mainittu, vaan käytetään yleisiä nimityksiä kuten 'lakimies' ja 'juristi'",
+    "Toimeksiantoehtojen sopimusta ei ole näkyvissä julkisesti (käytössä vain tietosuojaseloste)",
+    "UKK-osiota ei ole sivustolla (haku osoitteeseen /usein-kysytyt-kysymykset palauttaa 404)"
+  ],
+  "yhteenveto": "Lakiasiaintoimisto Heikkilä & Co on neljän konttorilla toimiva yritys- ja kiinteistöjuridiikan palveluntarjoaja, jonka hinnoittelu on avoimesti esillä sekä yrityksille että kuluttajille. Palvelut kuvataan seikkaperäisesti, mutta juristien pätevyystasoja (asianajaja/varatuomari) ei mainita, ja sopimusehdot ovat piilotetut nimeämättömille asiakkaille.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla selvästi esillä yritysasiakkaiden hinta 260–350 e/h (alv 0 %) ja alennettu 239 e/h pienille yrityksille, kuluttaja-asiakkaiden 299–350 e/h (sis. alv).",
+    "palvelun_sisalto_kuvattu": "HAVAINTO: Sopimukset-sivulla yksityiskohtainen kuvaus esimerkiksi sopimuksen laatimisesta: tutustuminen, etäpalaveri (30–120 min), sopimusvedos, viimeistelypalaveri, lopullinen sopimus. Hinnat tavanomaisten sopimusten osalta muutamasta sadasta kolmeen tuhanteen euroon.",
+    "patevyys_kerrottu": "HAVAINTO: Käytetään nimityksiä 'kiinteistölakimies', 'yritysjuristi', 'juristi', 'asiantuntija', mutta pätevyystaso (asianajaja/varatuomari/lakimies) ei ole kirjaimellisesti mainittu. Meistä-sivulla mainitaan 18 hengen tiimi, 220 vuotta kokemusta yhteensä, perustettu 1994.",
+    "sopimusehdot_saatavilla": "HAVAINTO: Tietosuojaseloste on saatavilla (linkki joka sivulla), mutta toimeksiantoehtojen sopimusta ei näy julkisesti. Etusivu mainitsee 'Ensimmäinen puhelu on veloitukseton kartoituspuhelu', mutta ehtoja ei ole listattuna.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1843393-9 näkyy etusivulla, tietosuojaselosteessa, yhteystiedoissa ja footerissa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviointilähteisiin (kuten oikeusministeriön suosituksiin tai kolmannen osapuolen sertifiointeihin).",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita esillä: 010 289 9426 (tarvekartoitus), 010 289 9400 (asiakaspalvelu ma–pe 8–16), 010 289 9406 (laskutus 10–15), 010 289 9408 (perintä 12–15).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@heikkilaco.fi näkyy etusivulla, yhteystiedoissa ja footerissa. Mainitaan myös salattu sähköposti -vaihtoehto.",
+    "chat_mainittu": "HAVAINTO: Evästeasetuksissa mainitaan 'Voit aloittaa CHATin asiakaspalveluumme kanssa. Jos hylkäät, CHAT palvelu ei toimi.' CHAT-palvelu viitataan evästeille riippuvaiseksi."
+  }
+}

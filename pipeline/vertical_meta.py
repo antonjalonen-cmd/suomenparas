@@ -641,3 +641,111 @@ META["kiinteistonvalittajat"] = {
          "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
     ],
 }
+
+# ---------------------------------------------------------------- batch 4a (21.7.2026)
+META["lakifirmat"] = {
+    "slug": "lakifirmat",
+    "nimi": "Lakifirmat",
+    "nav": "Lakifirmat",
+    "h1": "Suomen paras lakifirma 2026",
+    "yksikko": "valtakunnallista lakipalvelua",
+    "lead": ("Pisteytimme {n} kuluttajille lakipalveluja tarjoavaa toimijaa {m} mittarilla. "
+             "Tärkein kysymys: kerrotaanko hinta ennen kuin otat yhteyttä?"),
+    "meta_title": "Suomen paras lakifirma 2026 | lakipalvelut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} valtakunnallista lakipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Kaksi eri palvelumallia samalla listalla:</b> digitaaliset asiakirjapalvelut (Aatos, "
+         "Lakitie, DIY Lakipalvelu) myyvät kiinteähintaisia asiakirjoja verkossa, perinteiset "
+         "toimistot (Lindblad, Heikkilä &amp; Co) ja lakipuhelinpalvelu (Minilex) henkilökohtaista "
+         "neuvontaa. Vertailu mittaa molemmilta samaa asiaa: kertooko sivusto hinnan ja tekijöiden "
+         "pätevyyden etukäteen. <b>Asianajotoimisto</b> on valvottu nimike (Asianajajaliitto); "
+         "lakiasiaintoimisto ja lakipalvelu eivät ole — siksi pätevyyden avoimuus on oma mittarinsa."),
+        ("<b>Miksi listalla on vain {n} toimijaa?</b> Tarkistimme jokaisen ehdokkaan "
+         "kaupparekisteristä 21.7.2026. <b>Lexly</b> (ent. Avtal24) on lakannut 22.12.2025 — "
+         "domain ei vastaa, vaikka vanhoja suosituksia näkyy yhä verkossa. <b>Docue ja "
+         "Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. <b>Fondia</b> on "
+         "yritysjuridiikkaa. Alueelliset toimistot rajattiin pois valtakunnallisuussäännöllä."),
+        ("<b>Tämä ei ole oikeudellista neuvontaa.</b> Vertailu kuvaa palveluiden julkisten "
+         "verkkosivujen mitattavia ominaisuuksia, ei juridisen työn laatua. Monimutkaisessa "
+         "asiassa asiakirja-automaatti ei korvaa juristia. Hinnat vaihtelevat toimeksiannon "
+         "mukaan; vertailu mittaa kerrotaanko hinnoittelu avoimesti. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["pakohuoneet"] = {
+    "slug": "pakohuoneet",
+    "nimi": "Pakohuoneet",
+    "nav": "Pakohuoneet",
+    "h1": "Suomen paras pakohuone 2026",
+    "yksikko": "monikaupunkista pakohuoneketjua",
+    "lead": ("Pisteytimme {n} usealla paikkakunnalla toimivaa pakohuoneyritystä {m} mittarilla. "
+             "Tärkein kysymys: näkyykö pelin hinta ja vapaat ajat ilman yhteydenottoa?"),
+    "meta_title": "Suomen paras pakohuone 2026 | pakohuoneketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} monikaupunkista pakohuoneketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi listalla on vain {n} yritystä?</b> Pakohuoneala on rakenteellisesti "
+         "paikallinen: valtaosa Suomen pakohuoneista on yhden kaupungin yrityksiä, joita ei voi "
+         "asettaa valtakunnalliseen paremmuusjärjestykseen. Listalla ovat kaikki löytämämme "
+         "usean paikkakunnan toimijat — kolme aitoa ketjua ja kaksi kahden paikkakunnan "
+         "yritystä, joiden kattavuus on merkitty jokaisen kohdalle. <b>Room Escape Finland</b> "
+         "on karsittu: yhtiö asetettiin konkurssiin 13.2.2026."),
+        ("<b>Omistus:</b> Truescape ja Mysteeri ovat saman yhtiön (Truescape Oy) kaksi brändiä — "
+         "yhdessä 9 kaupunkia, mitattu yhtenä rivinä. Pakotarinat on myynyt toimipisteensä "
+         "(Espoo Truescapelle, Joensuu Huonepakopelille) eikä toimi enää omana ketjunaan, "
+         "vaikka nimi näkyy yhä vanhoissa hakemistoissa."),
+        ("Vertailu kuvaa yritysten julkisten verkkosivujen mitattavia ominaisuuksia, ei pelien "
+         "hauskuutta tai huoneiden laatua. Pelikokemuksesta kertovat asiakasarviot, joiden "
+         "näkyvyys sivustolla on yksi mittareistamme. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}
+
+META["hammaslaakarit"] = {
+    "slug": "hammaslaakarit",
+    "nimi": "Hammaslääkärit",
+    "nav": "Hammaslääkärit",
+    "h1": "Suomen paras hammaslääkäriketju 2026",
+    "yksikko": "valtakunnallista hammaslääkäriketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista yksityistä hammaslääkäriketjua {m} mittarilla. "
+             "Tärkein kysymys: näkyykö hoidon hinta ennen ajanvarausta?"),
+    "meta_title": "Suomen paras hammaslääkäri 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} hammaslääkäriketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Omistus kannattaa tietää:</b> Oral ei ole Mehiläisen omistama, vaan osa sveitsiläisen "
+         "Jacobs Holdingin Colosseum Dental Groupia. <b>Terveystalo sopi 23.12.2025 ostavansa "
+         "Hammas Hohteen</b> (88 M€) — kilpailuviranomaisen käsittely oli mittaushetkellä kesken. "
+         "Jos kauppa toteutuu, kaksi listan kuudesta brändistä on samaa konsernia; tilanne "
+         "tarkistetaan jokaisella päivityskierroksella. Coronarian emosijoittajalla (Cor Group) "
+         "on omistusta myös Silmäasemassa (optikot-kategoria)."),
+        ("<b>Tämä ei ole hoitosuositus.</b> Vertailu kuvaa ketjujen julkisten verkkosivujen "
+         "mitattavia ominaisuuksia: hintojen näkyvyyttä, ajanvarauksen sujuvuutta ja "
+         "tavoitettavuutta. Se ei mittaa hoidon laatua eikä hammaslääkäreiden osaamista."),
+        ("Hinnat vaihtelevat toimipisteittäin ja toimenpiteittäin; vertailu mittaa kerrotaanko "
+         "hinnat avoimesti, ei mikä hinta on. Demo voi sisältää affiliate-linkkejä; ne eivät "
+         "vaikuta pisteisiin."),
+    ],
+}
+META["rengasliikkeet"] = {
+    "slug": "rengasliikkeet",
+    "nimi": "Rengasliikkeet",
+    "nav": "Rengasliikkeet",
+    "h1": "Suomen paras rengasliike 2026",
+    "yksikko": "valtakunnallista rengasliikeketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista rengasliikeketjua {m} mittarilla. Tärkein kysymys: "
+             "näkyvätkö renkaiden ja asennuksen hinnat ennen yhteydenottoa?"),
+    "meta_title": "Suomen paras rengasliike 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} rengasliikeketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Kuka ketjun omistaa, vaikuttaa mitä renkaita sinulle suositellaan:</b> neljä kuudesta "
+         "ketjusta on rengasvalmistajan omistamia tai tukemia — Vianor (Nokian Renkaat), "
+         "Euromaster (Michelin), BestDrive (Continental) ja First Stop (Bridgestone). Motonet ja "
+         "RengasCenter ovat valmistajista riippumattomia. Näytämme omistajan jokaisen kohdalla."),
+        ("<b>Miksi Rengasmaailma ei ole listalla?</b> Brändi on kuollut kahden uudelleenbrändäyksen "
+         "jälkeen: Rengasmaailma → Rengasmarket → BestDrive. Teboil rajattiin pois, koska sillä ei "
+         "ole ketjumaista rengaspalvelua."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei renkaiden "
+         "tai asennustyön laatua. Hinnat vaihtelevat rengaskoon ja liikkeen mukaan; vertailu "
+         "mittaa kerrotaanko ne avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta "
+         "pisteisiin."),
+    ],
+}

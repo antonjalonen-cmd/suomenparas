@@ -1,0 +1,51 @@
+{
+  "slug": "terveystalo",
+  "fetched_ok": [
+    "https://www.terveystalo.com/fi/Palvelut/Hammashoito",
+    "https://ajanvaraus.terveystalo.com/fi/",
+    "https://www.terveystalo.com/fi/Yhteystiedot",
+    "https://www.terveystalo.com/fi/Yhtio"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "osittain",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "tarkastus_hinta_eur": 59,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laaja hammashoidon palveluvalikoima kuvataan selkeästi pääsivulla, 50+ palvelusta neljään pääkategoriaan jäsenneltyinä.",
+    "Kela-korvausten selitys näkyi suoraan pääsivulla hammaslääkärin ja suuhygienistin kohdalla.",
+    "Valtava toimipisteverkko (30+ paikkakuntaa) osoitteineen ja aukioloaikoina listattu kartalla ja listassa."
+  ],
+  "kehityskohteet": [
+    "Ajanvaraus siirtää erilliseen osoitteeseen (ajanvaraus.terveystalo.com) ja vaatii kirjautumista — ilmainen tutustumiskäynti ei ole varattavissa ilman tunnuksia.",
+    "Yrityksen Y-tunnus puuttuu kokonaan pääsivulta ja yhteystiedoista — vain sähköpostimuoto ja puhelinnumero näkyi.",
+    "Riippumattomat arviot (Google-arviot, Trustpilot jne.) puuttuvat sivulta kokonaan, vaikka ne olisivat asiakkaille hyödyllisiä."
+  ],
+  "yhteenveto": "Suun Terveystalo on Terveystalo Oyj:n hammashoidon yksikkö, joka tarjoaa laajasti hammaslääkärin- ja suuhygienistin palveluita. Pääsivulla hammashoidon osio esittelee palvelut selkeästi, näyttää Kela-korvaukset ja neljää toimipaikkaa. Myönteisesti hinnoittelu (59 € tutustumis­tarkastus) näkyy ilman sisäänkirjautumista. Negatiivisesti ajanvaraus vaatii kirjautumista toisessa domainissa, Y-tunnus puuttuu, ja riippumattomia arvioita ei ole.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Pääsivulla näkyi \"Tutustumistarkastus 59 €\" sekä linkit muihin palveluihin; hinta julkisesti luettavissa ilman kirjautumista.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: Ajanvaraus ohjaa sivulle ajanvaraus.terveystalo.com, joka näytti vain evästebannerin ja \"KIRJAUDU\" -napin. Sisäänkirjautuminen vaaditaan ajanvarauksen tekemiseen.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Pääsivun \"Kela-korvaus vastaanotolla\" -osio selitti: \"Kela korvaa hammaslääkärin tekemän suun ja hampaiston tutkimuksen yhden kerran joka toinen kalenterivuosi\" ja \"Kela korvaa suuhygienistin käynnit enintään 2 kertaa kalenterivuodessa\".",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Pääsivulla oli \"Etsi lähin Suun Terveystalo\" -kartta, jossa listattu 30+ paikkakuntaa (Alavus, Espoo, Helsinki, Tampere, Turku jne.) osoitteineen ja aukioloaikoina, kuten \"Helsinki Kamppi: ma–pe 8–20, la–su 9–16\".",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt pääsivulta, yhteystiedot-sivulta eikä yhtiö-sivulta. Näkyi vain yrityksen nimi ja sähköpostimuoto etunimi.sukunimi@terveystalo.com.",
+    "puhelin_esilla": "HAVAINTO: Sivulla mainittiin asiakaspalvelunumero 0900 30 000 useassa paikassa sekä pääsivulla että jalkaosassa.",
+    "email_esilla": "HAVAINTO: Email-muoto mainittu (etunimi.sukunimi@terveystalo.com), mutta konkreettisia hammashoito-osion sähköpostiosoitteita ei listattu.",
+    "chat_mainittu": "HAVAINTO: Pääsivulla kohta \"Ota yhteyttä chatilla\" ja \"Maksuttomassa Hammas-chatissa saat apua... Chatti on auki ma-to 8-18 pe 8-16.\"",
+    "aukioloajat_esilla": "HAVAINTO: Jokaisen toimipisteen kohdalla oli aukioloajat, esim. \"ma–pe 8–20\" tai \"ma–to 8–16, pe 8–15\".",
+    "ukk_osio": "HAVAINTO: Pääsivulla oli interaktiivinen testi \"Milloin viimeksi tarkistit suusi voinnin? Vastaamalla neljään kysymykseen voit kartoittaa tilanteesi\" sekä \"Tarvitsetko apua?\" -chatin mainittu.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei näkynyt Google-arvioita, Trustpilot-linkkejä tai muita kolmansien osapuolien arviointialustoja."
+  }
+}
