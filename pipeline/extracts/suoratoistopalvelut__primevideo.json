@@ -1,0 +1,48 @@
+{
+  "slug": "primevideo",
+  "fetched_ok": [
+    "https://www.primevideo.com",
+    "https://www.primevideo.com/help",
+    "https://www.primevideo.com/terms",
+    "https://www.primevideo.com/offers"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 6.99,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnat ja peruspalvelun erot (mainoset vs. mainokseton) selkeästi esillä pääsivulla",
+    "Laaja Help-osio (FAQ) käsittelee irtisanomista, laitteita, sovelluksia ja profiileja",
+    "Suomenkielinen sivusto euroissa ja helppo 7 päivän ilmainen kokeilu"
+  ],
+  "kehityskohteet": [
+    "Ad-Free tason yksityinen hinta ei ole pääsivulla näkyvillä, vain \"mainokseton\" -vaihtoehto mainittu",
+    "Suoran puhelinnumeron tai live-chatin puuttuminen – vain Help-osion artikkelit ja \"Ota meihin yhteyttä\" -linkki",
+    "Aukioloaika tai asiakaspalvelun saatavuus ei ole dokumentoitu"
+  ],
+  "yhteenveto": "Prime Video on Amazonin omistama suomalainen suoratoistpalvelu, joka tarjoaa elokuvia ja TV-sarjoja. Palvelu on selkeä ja käyttäjäystävällinen: hinnat (6,99 €/kk mainosten kanssa), laitteiden tuki (web, puhelin, tabletti, TV) ja irtisanomisen mahdollisuus \"milloin vain\" ovat hyvin dokumentoituja. Laaja Help-sivu vastaa moniin kysymyksiin, mutta suoraa kontaktitietoa (puhelin, email, live-chat) ei ole helposti saatavilla julkisesti, vain Help-artikkeleissa mainitut yhteydenottokeinot.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pääsivulla näkyy selkeästi \"hintaan 6,99 €/kk sekä mahdolliset verot\" ja \"7 päivän ilmainen kokeilu\". 7 päivän jälkeen tilauksesta peritään 6,99 € kuukaudessa.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Help-sivulla on erillinen osio \"Mainokset Prime Videossa\" jossa käsitellään \"Prime Video Ad Free\" -versiota. Pääsivulla mainitaan \"katso nyt mainosten kanssa\" ja mahdollisuus päivitä mainoksettomaan versioon.",
+    "irtisanominen_kerrottu": "HAVAINTO: Pääsivulla teksti \"Katso nyt, peruuta milloin vain\". Help-sivulla on erillinen artikkeli \"Peruuta Prime Video -tilaus\" joka kertoo kuinka peruuttaa tilaus helposti verkossa. Sitoutumisaikaa ei vaadita.",
+    "omistaja_kerrottu": "HAVAINTO: Terms-sivulla (primevideo.com/terms) selkeästi kirjoitettu: \"Amazon.com Inc., 410 Terry Avenue North, Seattle, WA 98109, USA\" on lopullinen todellinen omistaja. Suomessa myyjä on \"Amazon Digital UK Ltd\" (Euroopan unioni).",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on kokonaan suomeksi, navigointi, hinnat euroissa (€), kaikki teksti suomalaisille kirjoitettu.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole riippumattomia arviolähteita tai elokuvien/sarjojen arviointijärjestelmää näkyvissä. Asiakaspalaute tai ulkoiset arviot puuttuvat.",
+    "ukk_osio": "HAVAINTO: Erittäin laaja Help-osio osoitteessa primevideo.com/help sisältää kymmeniä ohje-artikkeleita kategorioiden mukaan: Asetukset, Mainokset, Peruutus, Laiteraja, Profilit jne.",
+    "mobiilisovellus": "HAVAINTO: Pääsivulla mainittu \"Prime Video -sovelluksessa puhelimella, tabletilla tai tietyillä älytelevisioilla\". Help-sivulla erillisiä ohjeet iOS- ja Android-sovelluksille."
+  }
+}

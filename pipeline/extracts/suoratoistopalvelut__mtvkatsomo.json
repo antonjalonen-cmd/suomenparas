@@ -1,0 +1,46 @@
+{
+  "slug": "mtvkatsomo",
+  "fetched_ok": [
+    "https://www.mtv.fi",
+    "https://www.mtv.fi/tuotteet",
+    "https://www.mtv.fi/kayttoehdot",
+    "https://www.mtv.fi/asiakaspalvelu"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "perustaso_kk_hinta_eur": 6.95,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Selkeä hinnoittelu kolmelle eri tilaustasolla, joista jokainen on vertailtu yksityiskohtaisessa taulukossa",
+    "Tarjoushinta saatavilla sarjakesään (5,95 €/kk 3 kk ajan etukoodilla SARJAKESA2026)",
+    "Irtisanominen tehtävissä helposti Oma tili -sivulla; 14 päivän peruuttamisoikeus kuluttajille"
+  ],
+  "kehityskohteet": [
+    "Asiakaspalvelun puhelinnumero ja sähköpostiosoite eivät näy pääsivulla, vaan piilotettu Asiakaspalvelu-linkin taakse",
+    "Asiakaspalvelun aukioloajat ovat linkitetyn sivun takana, eivätkä näy suoraan etusivulla",
+    "Mobiilisovelluksen tai smart TV -sovelluksen olemassaolosta ei ole selkeää mainintaa, vaikka käyttöehdoissa mainitaan 'mobiilipalvelut'"
+  ],
+  "yhteenveto": "MTV Katsomo on MTV Oy:n suomalainen streaming-palvelu, joka tarjoaa kolmea tilauspohjaa (MTV Katsomo maksutta, MTV Katsomo+ ja MTV Katsomo+ Urheilu maksuiksi). Hinnoittelu on selkeä ja helposti löydettävissä tuotteet-sivulla. Tilausten tasojen erot (mainokset, laatu, laitteet) on kuvattu vertailutaulukossa, ja irtisanominen on mahdollista helposti. Heikkouksina asiakaspalvelun yhteydetiedot ja aukioloajat ovat piilotettu linkkien taakse, eivätkä näy helposti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotteet-sivulla näkyy MTV Katsomo+ 6,95 €/kk (mainoksilla) ja 11,95 €/kk (ilman mainoksia). MTV Katsomo+ Urheilu 38,95 €/kk (mainoksilla) ja 43,95 €/kk (ilman mainoksia). Pääsivulla mainitaan myös tarjous 5,95 €/kk 3 kk ajan.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Tuotteet-sivulla olevan vertailutaulukon 'Vertaa tuotteita' -osassa kuvataan tarkalleen mitä sisältöä (uutiset, draamat, urheilulähetykset, offline-katselu jne.) kukin tilauspohjista sisältää ja mitkä eroavat.",
+    "irtisanominen_kerrottu": "HAVAINTO: Käyttöehdoissa kohdassa 5 mainitaan 'Palvelua koskeva tilaus on irtisanottavissa Palvelun Oma tili -sivun kautta.' Määrätaikaisen tilauksen voi irtisanoa määräaikaisen tilausjakson jälkeen.",
+    "omistaja_kerrottu": "HAVAINTO: Käyttöehdoissa alussa mainitaan 'MTV Oy:n (y-tunnus: 1093944-1) tarjoamiin...' ja käyttöehtojen lopussa 'Palveluntarjoajan yhteystiedot: MTV Oy, Konepajankuja 7, 00510 Helsinki'.",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto on suomeksi. Hinnat ja tuotteiden kuvaukset euroissa.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu-sivulla näkyy linkki 'Asiakaspalvelun aukioloajat' ja teksti 'MTV Katsomon asiakaspalvelu on avoinna laajoilla aukioloajoilla. Kurkkaa täältä lisätietoja!', mutta aukioajat eivät olleet näkyvissä ladattaessa."
+  }
+}

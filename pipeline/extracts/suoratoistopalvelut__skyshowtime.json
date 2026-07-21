@@ -1,0 +1,46 @@
+{
+  "slug": "skyshowtime",
+  "fetched_ok": [
+    "https://www.skyshowtime.com/fi",
+    "https://www.skyshowtime.com/fi/subscribe",
+    "https://www.skyshowtime.com/fi/help",
+    "https://www.skyshowtime.com/fi/sitemap"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 7.49,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 95,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Hinnat ja tilausvaihtoehdomat hyvin näkyvissä etusivulla, vertailu kolmen tason välillä selkeä",
+    "Peruutusmahdollisuus ja sitoutumisajat kerrottu avoimesti kunkin tilausvaihtoehdon yhteydessä",
+    "Suomenkielinen sivusto kokonaisuudessaan, sisältää laaja FAQ-osio yleisistä kysymyksistä"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero ja sähköpostiosoite eivät näy julkisesti, vain epäsuora linkki 'Ota yhteyttä SkyShowtimeen'",
+    "Omistajatiedot (Paramount/Skydance) löytyy vain pienellä tekstillä footerissa, ei erillisessä About-osiossa",
+    "Mobiilisovelluksen saatavuus mainitaan mutta ei ole linkkejä suoraan App Store tai Google Play -kauppoihin"
+  ],
+  "yhteenveto": "SkyShowtime on suomenkielinen suoratoistosivusto, joka tarjoaa elokuvia ja sarjoja kolmella tilaustyypillä (Normaali mainoksilla, Normaali, Premium). Sivusto on selkeä ja hinnoittelu helposti löydettävissä, sekä peruutus- ja sitoutumisaika-asiat kerrotaan avoimesti. Puutteet ovat lähinnä suoraan näkyvissä olevissa yhteystiedoissa ja omistajatietojen sijoittelussa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivu näyttää kolme hintatason vaihtoehtoa: Normaali mainoksilla (ei hintaa näkyvissä), Normaali 12 kk 7,49 €/kk tai jatkuva 9,99 €/kk, Premium 12 kk 10,99 €/kk tai jatkuva 14,99 €/kk.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Jokaisen tason alla luetellaan selkeästi ominaisuudet: Normaali mainoksilla (1 laite), Normaali (2 laitetta, 30 offline-latausta), Premium (5 laitetta, 100 offline-latausta, 4K, Dolby Atmos, ilman mainoksia).",
+    "irtisanominen_kerrottu": "HAVAINTO: Sivulla kerrotaan 'Peruuta milloin tahansa' jatkuville tilauksille ja '12 kuukauden minimitilauskauden jälkeen voit peruuttaa' määräaikaisille tilauksille. Peruutus tulee voimaan laskutuskauden lopussa.",
+    "omistaja_kerrottu": "HAVAINTO: Footerissa mainitaan 'Paramount, a Skydance Corporation' omistusmainintona. Myös 'Sky Limited' ja 'Showtime Networks Inc' nimetään tavaramerkkien hallinnasta.",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto on suomenkielinen, kaikki hinnat näytetään euroissa (€), ja käyttöliittymä on täysin suomeksi.",
+    "ukk_osio": "HAVAINTO: Sivulla on 'Usein kysyttyä' -osio, joka sisältää noin 15 kysymystä aihealueista kuten sisältö, hinnoittelu, peruutus, ominaisuudet ja sovelluksien saatavuus."
+  }
+}

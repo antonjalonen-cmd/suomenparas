@@ -1,0 +1,44 @@
+{
+  "slug": "hbomax",
+  "fetched_ok": [
+    "https://www.hbomax.com/fi/fi",
+    "https://help.hbomax.com/fi"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "osittain",
+  "omistaja_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "perustaso_kk_hinta_eur": 6.99,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Hinnat ja tilaustasojen erot esillä selvästi pääsivulla, hintojen vertailu kuukausi- ja vuositasoilla helppo",
+    "Suomenkielinen sivusto ja hinnat euroissa, palvelu toimii suomalaisille",
+    "Tasojen ominaisuudet kuvailtu yksityiskohtaisesti (laiteiden määrä, videoresoluutio, latausrajoitukset, kanavat)"
+  ],
+  "kehityskohteet": [
+    "Irtisanomista ja sitoutumisaikaa koskevia tietoja ei ole pääsivulla näkyvissä, uusiutuminen mainittava mutta tarkemmat ehdot piilossa",
+    "Omistajatahoa koskeva tieto on heikko: vain HBO Nordic AB ja Home Box Office, Inc. mainitaan, Warner Bros. Discovery -yhteyttä ei selvitetä",
+    "Asiakaspalvelun kanavat (puhelinnumero, sähköpostiosoite, chat) puuttuvat pääsivulta ja ohjekeskus ei ole saavutettavissa staattisen haun kautta"
+  ],
+  "yhteenveto": "HBO Max on suomalaisia käyttäjiä palveleva suoratoistpalvelu, jonka hinta- ja tasotiedot ovat julkisesti näkyvissä pääsivulla. Perustilauksesta peritään 6,99 euroa kuukaudessa ja palvelu uusiutuu automaattisesti, kunnes käyttäjä peruuttaa tilauksen. Palveluun sisältyy kolme eri tasoa (Basic mainoksilla, Standard, Premium), joista jokainen tarjoaa erilaisia laitteiden määriä, videoresoluutiota ja latauksien määrää.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pääsivulla näkyvät selvästi kolmen tason kuukausi- ja vuosihinnnat: Basic (mainoksilla) 6,99 €/kk, Standard 11,99 €/kk, Premium 16,99 €/kk.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Kunkin tason erot kuvataan yksityiskohtaisesti: katsolaitteiden määrä (2-4 laitetta), videoresoluutio (Full HD / 4K UHD), latausrajoitukset (0-100 lataus), ja sisältyvät kanavat (TV5, Kutonen Premium-tasolla).",
+    "irtisanominen_kerrottu": "HAVAINTO: Pääsivulla mainitaan 'Uusiutuu automaattisesti, ellei peruta' ja vuositilauksia voi perua '12 kuukauden jälkeen', mutta irtisanomisen prosessia ja täsmällistä sitoutumisaikaa kuukausitilauksille ei selitetä.",
+    "omistaja_kerrottu": "HAVAINTO: Sivun alatunnisteessa mainitaan '©2026 HBO Nordic AB. HBO Max and related elements are property of Home Box Office, Inc.' Omistaja kuvataan osittain: yhtiöt on nimetty, mutta Warner Bros. Discovery -yhteys, joka omistaa Home Box Office, Inc:n, ei ole selvä sivustolla.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on täysin suomenkielinen (hinnat euroissa, kaikki teksti suomeksi), palvelu on saatavilla suomalaisille käyttäjille.",
+    "ukk_osio": "HAVAINTO: Pääsivulla näkyy 'Lisää kysyttävää HBO Maxista?' -osio, jossa luetelaan FAQ-aiheet kuten 'Missä HBO Max on saatavilla?' ja 'Millä laitteilla HBO Max toimii?', mutta näiden vastausten linkit eivät avaudu staattisen haun kautta (sivuston navigaatio on JavaScript-pohjainen)."
+  }
+}

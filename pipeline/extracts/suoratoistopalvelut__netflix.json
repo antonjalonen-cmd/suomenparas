@@ -1,0 +1,48 @@
+{
+  "slug": "netflix",
+  "fetched_ok": [
+    "https://www.netflix.com/fi/",
+    "https://help.netflix.com/fi",
+    "https://help.netflix.com/fi/node/412",
+    "https://help.netflix.com/fi/node/24926",
+    "https://www.netflix.com/fi/login"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 10.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeä hinnoittelu: kolme tasoa, jotka eroavat laatu- ja laiteominaisuuksissa (720p/1080p/4K, 1-4 laitetta)",
+    "Nopea peruminen: kaksi klikkausta netissä, ei sitoumusta tai peruutusmaksuja",
+    "Kattava palvelun kuvaus: mobiilit sovellukset, latausominaisuus, perheprofiilit sisältyvät"
+  ],
+  "kehityskohteet": [
+    "Omistajatiedon puute: sivustolla ei mainita, että palvelun omistaa Netflix International B.V., löydetään vain help-keskuksesta",
+    "Sähköpostiyhteys puuttuu: vain puhelin (0800 05903) ja chat-linkki saatavilla, sähköpostiosoitetta ei julkista",
+    "Riippumattomien arvioiden puute: sivustolla ei viitata ulkopuolisiin arvioihin tai tunnustuksiin"
+  ],
+  "yhteenveto": "Netflix on suoratoistopalvelu, joka on kokonaisuudessaan hyvin dokumentoitu omilla verkkosivuillaan. Hinnoittelu, tilaustasot ja perumisohjeet ovat selkeästi esillä suomeksi, ja palvelu toimii useilla laitteilla mobiilisovelluksella ja latausominaisuudella. Omistajatiedon löytäminen vaatii ohjekeskuksen käyttöä, ja suorakontakti sähköpostilla ei ole saatavilla, mikä heikentää läpinäkyvyyttä hieman.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla mainitaan 'Hinta alkaen 10,99 €', ja ohjekeskuksessa näkyvät tarkka hinnoittelu: Basic 10,99 €/kk, Standard 15,99 €/kk, Premium 19,99 €/kk.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Hinnoittelusivulla (help.netflix.com/fi/node/24926) kuvataan selvästi jokaisen tason ominaisuudet: Basic (720p, 1 laite), Standard (1080p, 2 laitetta), Premium (4K, 4 laitetta). Kaikki ilman mainoksia.",
+    "irtisanominen_kerrottu": "HAVAINTO: Etusivulla FAQ-osassa: 'Voit sulkea tilisi helpesti netissä kahdella klikkauksella. Ei peruutusmaksuja – voit avata ja sulkea tilisi milloin haluat.'",
+    "omistaja_kerrottu": "HAVAINTO: Omistajatietoa (Netflix International B.V.) ei mainita etusivulla tai helpissa selvästi, vaan se löytyy vain käyttöehtojen sisällöstä. Markkina-alueella näkyvät linkit 'Käyttöehdot' ja 'Tietosuoja', mutta suorat URL:t osoittavat 404-sivuille.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sekä www.netflix.com/fi/ että help.netflix.com tarjoavat täyden suomenkielisen palvelun hintojen (€) ja sisällön osalta.",
+    "puhelin_esilla": "HAVAINTO: Etusivulla ja sisäänkirjautumissivulla näkyy 'Kysyttävää? Soita numeroon 0800 05903 (maksuton)'. Ohjekeskuksessa sama numero toistuu.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla kerrotaan: 'Voit myös ladata suosikkiohjelmasi iOS- tai Android-sovelluksella.' Lataamalla ohjelmat laitteeseesi voit katsoa niitä ilman nettiyhteyttä."
+  }
+}

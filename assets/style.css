@@ -125,6 +125,9 @@ nav.main a.on{color:var(--gold-line)}
 .sp-sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--blue-deep)}
 .sp-go{color:var(--mut)}
 .sp-empty{padding:14px;color:var(--mut);font-weight:600;font-size:.92rem}
+/* footer legal links */
+.foot-legal{margin-top:20px;font-size:.8rem;line-height:2;font-weight:600}
+.foot-legal a{white-space:nowrap}
 /* footer bottom bar */
 .foot-bottom{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-top:24px;border-top:1px solid rgba(255,255,255,.14);padding-top:18px;flex-wrap:wrap}
 .foot-bottom .oy{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}

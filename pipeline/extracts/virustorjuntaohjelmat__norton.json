@@ -1,0 +1,53 @@
+{
+  "slug": "norton",
+  "fetched_ok": [
+    "https://fi.norton.com/",
+    "https://fi.norton.com/products/norton-360",
+    "https://fi.norton.com/products/norton-vpn",
+    "https://support.norton.com/sp/fi/fi/home/current/help-center",
+    "https://www.norton.com/globalsupport"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "testitulokset_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "uusimishinta_vuosi_eur": 39,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 78,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Hinnat ja uusimishinnat selvästi näkyvillä kaikille tuotteille, alennukset merkitty",
+    "Riippumattomat testitulokset (AV-TEST ja SE Labs palkinnot) näkyvillä pääsivulla",
+    "Tuote on saatavilla suomenkielisellä sivustolla eurohinnoittelulla ja kaikilla laitealustoilla"
+  ],
+  "kehityskohteet": [
+    "Puhelinumeroa, sähköpostia tai chat-kanavaa ei ole näkyvillä julkisesti, vain viittaus globalsupport-sivulle",
+    "Varsinaista UKK-osiota ei ole, vain Support help center -sivusto johon ei ole suoraa linkkiä pääsivulta",
+    "Omistajatiedon (Gen Digital) löytää vain sivun alaosasta, ei tuotteen esittelystä"
+  ],
+  "yhteenveto": "Norton on Gen Digital Inc:n omistama virustorjuntapalvelu, joka myy useita tilaukseen perustuvia tuotteita Suomessa fi.norton.com -sivustolla. Sivusto on hyvin rakennettu ja hinnat ovat selkeästi esillä, mutta asiakastuen kontaktitiedot eivät ole helposti löydettävissä etusivulta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pääsivulla ja tuotesivuilla näytetään Norton 360:n eri versioiden hinnat euroissa (Norton AntiVirus Plus 14,90€/kk, Norton 360 Standard 4,08€/kk, Norton 360 Deluxe 4,99€/kk, Norton 360 Premium 5,83€/kk ensimmäinen vuosi). Norton VPN näytetään hinnalla 29,99€ ensimmäinen vuosi.",
+    "uusimishinta_kerrottu": "HAVAINTO: Jokaisen tuotteen kohdalla näkyy teksti 'Säästö verrattuna uusimishintaan X €/vuosi' (esim. AntiVirus Plus 39,99€/vuosi, Standard 79,99€/vuosi, Deluxe 109,99€/vuosi, Premium 119,99€/vuosi). VPN Standard uusiutuu automaattisesti hintaan 49,99€/vuosi.",
+    "omistaja_kerrottu": "HAVAINTO: Sivun alaosassa lukee 'Norton on osa Geniä – maailmanlaajuista yritystä, joka omistaa joukon luotettuja brändejä' ja 'Copyright © 2026 Gen Digital Inc.'",
+    "testitulokset_kerrottu": "HAVAINTO: Pääsivulla näkyy AV-TEST -merkinnän kanssa teksti 'Norton 360 palkittiin vuoden 2023 parhaasta suojauksesta' (Tammikuu - Joulukuu 2023) ja SE Labs palkinto tekstillä 'Norton 360 palkittiin vuoden 2023 parhaana kodin haittaohjelmien torjuntaohjelmana'.",
+    "suomenkielinen_palvelu": "HAVAINTO: Verkkosivusto on fi.norton.com, kaikki sisältö suomeksi, kaikki hinnat euroissa (€), tuotteen saatavuus sisältää Android ja iOS sovellukset.",
+    "riippumaton_arvio": "HAVAINTO: Norton VPN -sivulla näytetään asiakasarvioita (LeaLa G. antoi arvion 10.3.2025, Len 7.3.2025), mutta sivuilla ei näy viittauksia riippumattomiin arviointipalveluihin tai kolmannen osapuolen arvosteluihin.",
+    "puhelin_esilla": "HAVAINTO: Sivulla viitataan tekstillä 'Tuen aukioloajat ja alueesi yhteystiedot ovat nähtävissä verkkosivustollamme osoitteessa https://www.norton.com/globalsupport', mutta puhelinnumeroa ei ole näkyvillä pääsivulla tai tuotesivuilla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvillä pääsivulla, tuotesivuilla tai support.norton.com -sivuston etusivulla.",
+    "chat_mainittu": "HAVAINTO: Support-sivulla mainitaan 'Ota meihin yhteyttä' -osio, mutta chat-kanavan saatavuudesta tai linkistä ei ole tietoa näkyvillä sivuston hauissa.",
+    "aukioloajat_esilla": "HAVAINTO: Sivulla mainitaan 'Tuen aukioloajat ja alueesi yhteystiedot ovat nähtävissä verkkosivustollamme osoitteessa https://www.norton.com/globalsupport', mutta konkreettisia aukioloaikoja (esim. ma-pe 8-20) ei näy etusivulla.",
+    "ukk_osio": "HAVAINTO: Support.norton.com -sivuilla näkyy 'Miten voimme auttaa?' -osio kategorioilla kuten 'Lataaminen ja asentaminen' ja 'Ostaminen ja uusiminen', mutta varsinaista FAQ/UKK-sivua ei ole erillään.",
+    "mobiilisovellus": "HAVAINTO: Norton 360 -tuotteiden sivulla näytetään järjestelmävaatimukset Android 10.0+ ja iOS -versioille, Norton Family ja Mobile Security mainittavat erillisenä tuotteena."
+  }
+}

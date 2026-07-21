@@ -222,6 +222,22 @@ TRANSPARENCY = {
     ],
     # ---------------- batch 5 (21.7.2026) — global digital services follow the
     # vpn-palvelut convention: owner disclosure replaces Y-tunnus as the criterion.
+    "suoratoistopalvelut": [
+        ("hinnat_esilla", "Kuukausihinnat julkisesti esillä", 30),
+        ("tasojen_erot_kerrottu", "Tilaustasojen erot (mainokset, laatu, laitteet) kerrottu", 20),
+        ("irtisanominen_kerrottu", "Irtisanominen ja sitoutumisaika kerrottu", 15),
+        ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 15),
+        ("suomenkielinen_palvelu", "Suomenkielinen sivusto ja hinnat euroissa", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "virustorjuntaohjelmat": [
+        ("hinnat_esilla", "Hinnat julkisesti esillä", 30),
+        ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 20),
+        ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 15),
+        ("testitulokset_kerrottu", "Riippumattomat testitulokset (AV-TEST tms.) esillä", 15),
+        ("suomenkielinen_palvelu", "Suomenkielinen sivusto ja hinnat euroissa", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
     "pilvitallennuspalvelut": [
         ("hinnat_esilla", "Tallennustilan hinnat julkisesti esillä", 30),
         ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 15),

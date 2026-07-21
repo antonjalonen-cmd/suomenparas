@@ -1,0 +1,51 @@
+{
+  "slug": "eset",
+  "fetched_ok": [
+    "https://www.eset.com/fi/",
+    "https://www.eset.com/fi/tietoja/teknologia/",
+    "https://www.eset.com/fi/tietoja/yhteystiedot/"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "testitulokset_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "uusimishinta_vuosi_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näytetty euroissa pääsivulla kolmelle kotitalouspaketille (39,98€–119,99€)",
+    "Yli 30 vuoden historia ja neljän riippumattoman arviostelupalvelun (Gartner, TrustRadius, Capterra, G2) vahvat arvosanat",
+    "Suomenkielinen sivusto, paikallinen puhelintuenta arkipäivisin klo 10–15, selkeä omistaja-tieto (ESET, Slovakia)"
+  ],
+  "kehityskohteet": [
+    "Uusimishinnan selkeä ilmoittaminen puuttuu — sivulla mainitaan vain ensimmäisen kauden hinta",
+    "FAQ- tai UKK-osio puuttuu kokonaan (hakeyritys palautti 404)",
+    "Mobiilisovellukset mainittu navigaatiossa (ESET Mobile Security) mutta ei omaa tuotesivua latautuu"
+  ],
+  "yhteenveto": "ESET on slovakialainen 30+ vuotta toiminut antivirus-yritys, jonka suomalainen sivusto tarjoaa kolme hinnoiteltua kotitaloustuotepakettia (ESSENTIAL, PREMIUM, ULTIMATE) euroissa. Sivusto on selkeä ja omistaja sekä tuoteominaisuudet esille tuodut, mutta uusimishinta-informaatio puuttuu ja UKK-osio on saavuttamattomissa — merkittävät puutteet läpinäkyvyydessä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pääsivulla näytetään kolme pakettia: ESSENTIAL 39,98€/vuosi (1 laite), PREMIUM 69,99€/vuosi (suosituin, 1 laite), ULTIMATE 119,99€/vuosi (5 laitetta). Maininta: 'Hinta voimassa vain ensimmäisen kauden ajan.'",
+    "uusimishinta_kerrottu": "HAVAINTO: Uusimishinnan summaa ei erityisesti ilmoiteta. Sivulla lukee 'Hinta voimassa vain ensimmäisen kauden ajan', mikä viittaa hintojen olevan tarjoushintoja eikä uusimishintoja.",
+    "omistaja_kerrottu": "HAVAINTO: Sivuston alaviitteessä '© 1992 - 2026 ESET, spol. s r.o.' ja yhteystiedot-sivulla: 'ESET, spol. s r.o., Aupark Tower, 16th Floor, Einsteinova 24, 851 01 Bratislava, Slovakian tasavalta'.",
+    "testitulokset_kerrottu": "HAVAINTO: Pääsivulla mainitaan 'Paras suoriutuja 11 vuoden ajan AV-Comparatives-testauksessa' ja 'Yli 100 peräkkäistä VB100-palkintoa'. Verkkosivustot mainittu: Gartner Peer Insights (4.6), TrustRadius (8.9), Capterra (4.7), G2 (4.6), Trustpilot (4.1).",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on täysin suomenkielinen, hinnat euroissa, paikallinen tuki sähköpostilla ja puhelimella.",
+    "riippumaton_arvio": "HAVAINTO: Pääsivulla esille tuodut neljän alustan arvosanat: 'Consistently validated by customers worldwide — Gartner Peer Insights 4.6, TrustRadius 8.9, Capterra 4.7, G2 4.6, Trustpilot 4.1'.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla 'ESET Suomi Tech Support — Puhelin: +358 41 400 0229, arkipäivisin kl 10–15'.",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla näytetään sähköpostit: sales@eset.fi (myynti), partners@eset.fi (kumppanit), marketing@eset.fi (markkinointi).",
+    "chat_mainittu": "HAVAINTO: 'Online Form' mainittu yhteystiedot-sivulla, mutta varsinaista live-chat-ominaisuutta ei näkynyt.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelin-tuella on mainitut aukioloajat 'arkipäivisin kl 10–15', muuten ei varsinaista aukioloaikataulua.",
+    "ukk_osio": "HAVAINTO: Hakeyritys osoitteeseen /fi/tuki/ukk/ palautti 404-virhe, osio on saavuttamattomissa.",
+    "mobiilisovellus": "HAVAINTO: Pääsivun navigaatiossa mainitaan 'ESET Mobile Security' ja 'Android-tuotteet', mutta hakeyritys tuotesivuille palautti 404."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "disneyplus",
+  "fetched_ok": [
+    "https://www.disneyplus.com/fi-fi",
+    "https://help.disneyplus.com"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 6.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Tilaustasojen hinnat ja erot ovat erittäin selkeästi näkyvissä etusivulla",
+    "Ei sitoutumispakkoa ja helppo tilauksien peruuttaminen viidessä vaiheessa",
+    "Laaja laitetuenta TV:stä pelikonsoleihin ja mobiililaitteisiin saakka"
+  ],
+  "kehityskohteet": [
+    "Omistajatiedon (Disney) puute etusivulla – näkyy vain help-sivulla copyrightissa",
+    "Suora puhelinnumero tai sähköpostiosoite puuttuu – vain chat-tuki käytössä",
+    "Mobiilisovelluksen suora asennuslinkki puuttuu sivustolta"
+  ],
+  "yhteenveto": "Disney+ on kansainvälinen suoratoistopalvelu, joka tarjoaa elokuvia, sarjoja ja alkuperäistuotantoja. Sivusto on hyvin organisoitu ja hinnoittelu on näkyvillä jo etusivulla kolmen tason vaihtoehtoina. Palvelusta voi perua ilman sitoutumista, ja tuki on saatavilla chatin ja puhelinpalvelun kautta. Omistajatiedon näkyvyys ja suoran yhteystiedon saatavuus kaipaavat parannusta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät kolmen tason kuukausihinnat: STANDARD MAINOKSILLA alkaen 5,99 € kuukaudessa, STANDARD alkaen 8,99 € kuukaudessa, PREMIUM alkaen 11,99 € kuukaudessa.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Premium taso tarjoaa 4K UHD + HDR, 4 samanaikaista laitetta ja Dolby Atmos. Standard tarjoaa 1080p Full HD, 2 laitetta ja 5.1-äänen. Standard mainoksilla 1080p Full HD ja 2 laitetta ilman mainoksia.",
+    "irtisanominen_kerrottu": "HAVAINTO: Etusivun UKK-osiossa selitetään: 'Sitoudunko johonkin rekisteröitymällä Disney+ -palveluun? Mitään sitoutumispakkoa ei ole, ja voit perua tilauksen milloin tahansa päättymään kuluvan laskutuskautesi loppuun.'",
+    "omistaja_kerrottu": "HAVAINTO: Help-sivun footerissa ja pääsivulla näkyy copyright-teksti: '© 2026 Disney ja siihen sidossuhteessa olevat yhtiöt. Kaikki oikeudet pidätetään.' Omistaja = The Walt Disney Company.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on täysin suomeksi ja hinnat ovat euroissa. Kaikki pääsisällön ja hinnoittelun teksti on suomennettua.",
+    "puhelin_esilla": "HAVAINTO: Help-sivulla ilmoitetaan 'Chat ja puhelintuki ovat avoinna ma-su klo 9 - 20.' Puhelinnumeroa ei näy suoraan, mutta puhelin-tuella viitataan avoimella aukioloajalla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvissä millään ladatuista sivuista.",
+    "chat_mainittu": "HAVAINTO: Help-sivulla ja pääsivun footerissa mainitaan 'Ota yhteyttä – Haluatko keskustella kanssamme chatissa? Autamme sinua mielellämme.'",
+    "aukioloajat_esilla": "HAVAINTO: Help-sivulla ilmoitetaan selvästi tuen aukioloajat: 'Chat ja puhelintuki ovat avoinna ma-su klo 9 - 20.'",
+    "ukk_osio": "HAVAINTO: Pääsivulla on 'Usein kysytyt kysymykset' -osio, joka sisältää 8 kysymystä ja vastausta palvelusta, sisällöstä, hinnoista, laitteistoista ja irtisanomisesta.",
+    "mobiilisovellus": "HAVAINTO: Pääsivulla ja help-sivulla mainitaan 'Mitä laitteita tuetaan? Disney+ tukee mobiililaitteita, verkkoselaimia, pelikonsoleita, päätelaitteita ja älytelevisioita.'",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy yrityksen ulkopuolisia arviointilähteitä tai kolmansien osapuolten arvosteluja."
+  }
+}

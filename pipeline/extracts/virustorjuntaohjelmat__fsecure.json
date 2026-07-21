@@ -1,0 +1,53 @@
+{
+  "slug": "fsecure",
+  "fetched_ok": [
+    "https://www.f-secure.com/fi",
+    "https://www.f-secure.com/en",
+    "https://www.f-secure.com/en/support",
+    "https://www.f-secure.com/en/renew",
+    "https://investors.f-secure.com/en"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "testitulokset_kerrottu": "ei",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "uusimishinta_vuosi_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "35 vuoden kokemus virustorjunnasta ja yritys on suomalainen pörssissä listattu F-Secure Oyj",
+    "Kattavat tuotteet (Internet Security, Total, VPN, ID Protection, Scam Protection) kaikille laitteistoille",
+    "24/7 tuki puhelimella, chatilla ja FAQ-artikkeleilla usealla kielellä mukaan lukien suomi"
+  ],
+  "kehityskohteet": [
+    "Riippumattomia testituloksia (AV-TEST, AV-Comparatives) ei ole näkyvissä sivustolla",
+    "Uusimishinnat (renewal pricing) vaativat kirjautumista, eivät näy julkisesti",
+    "Suomalaisen sivuston tuotesivu-polut palauttavat 404:ä, ohjaus tapahtuu englanninkielisen version kautta"
+  ],
+  "yhteenveto": "F-Secure on suomalainen, pörssissä listattu virustorjuntayritys, jonka tuotteet ovat saatavilla Suomessa suomenkielisellä sivustolla ja hinnat euroissa. Hinnat on esitetty selvästi (alkaen €49,99/vuosi), mutta uusimishinnat vaativat kirjautumista. Sivusto tarjoaa kattavat tukipalvelut 24/7 monilla kielillä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: F-Secure Total mainitaan alkaen €69,99/vuosi, Internet Security €49,99/vuosi ja Scam Protection €4,99/kk pääsivulla (render_page.py, fi ja en versiot).",
+    "uusimishinta_kerrottu": "HAVAINTO: Renew-sivu ohjaa login-sivulle jonka FAQ-osiossa kerrotaan että \"Näet vanhenemispäivämääräsi ja uusimisvalinnat\" My F-Secure -tilillä, mutta hintaluvut eivät näy ilman kirjautumista.",
+    "omistaja_kerrottu": "HAVAINTO: F-Secure Oyj mainitaan sijoittajasivulla (investors.f-secure.com), pörssissä listattu suomalainen yritys, CFO Robin Pulkkinen, investor.relations@f-secure.com.",
+    "testitulokset_kerrottu": "HAVAINTO: AV-TEST tai AV-Comparatives tuloksia ei löydy pääsivulta, support-sivulta, articles-sivulta tai Company-osiosta. Sivulla mainitaan \"award-winning\" mutta ei riippumattomia kolmannen osapuolen testituloksia.",
+    "suomenkielinen_palvelu": "HAVAINTO: F-Secure.com/fi on suomenkielinen, hinnat ilmaistaan euroissa (€), tuotteet ja tuki saatavilla suomeksi.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin vertailusivustoihin (kuten Trustpilot, G2, Capterra) tai sertifikaatteihin.",
+    "puhelin_esilla": "HAVAINTO: Support-sivulla kerrotaan \"Call F-Secure support\" ja Suomi on valintojen joukossa, tuki 24/7.",
+    "email_esilla": "HAVAINTO: investor.relations@f-secure.com näkyvissä investors-sivulla, support-sivulla kehoitetaan ottamaan yhteyttä chatin ja puhelimen kautta.",
+    "chat_mainittu": "HAVAINTO: Support-sivulla mainitaan \"Chat with one of our support experts or meet our new chatbot\", availability 24/7.",
+    "aukioloajat_esilla": "HAVAINTO: Support-sivulla ilmoitetaan 24/7 saatavuus puhelimelle, chatille ja artikkeleille.",
+    "ukk_osio": "HAVAINTO: Renew-sivulla on \"Frequently asked questions\" -osio joka vastaa tavallisiin kysymyksiin (tilauksen uusiminen, My F-Secure, tili-asetukset).",
+    "mobiilisovellus": "HAVAINTO: Pääsivulla mainitaan tuotteet ovat saatavilla \"For Windows | Mac | iOS | Android\"."
+  }
+}

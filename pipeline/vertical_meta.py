@@ -901,3 +901,54 @@ META["autokorjaamot"] = {
          "ne eivät vaikuta pisteisiin."),
     ],
 }
+
+META["suoratoistopalvelut"] = {
+    "slug": "suoratoistopalvelut",
+    "nimi": "Suoratoistopalvelut",
+    "nav": "Suoratoisto",
+    "h1": "Suomen paras suoratoistopalvelu 2026",
+    "yksikko": "Suomessa myytävää suoratoistopalvelua",
+    "lead": ("Pisteytimme {n} suomalaisille myytävää suoratoistopalvelua {m} mittarilla. "
+             "Tärkein kysymys: kerrotaanko kuukausihinta, tasojen erot ja irtisanominen "
+             "selkeästi ennen tilaamista?"),
+    "meta_title": "Suomen paras suoratoistopalvelu 2026 | palvelut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} suoratoistopalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Omistus liikkuu tällä alalla nopeasti:</b> MTV Katsomo+ siirtyi norjalaisen "
+         "Schibstedin omistukseen 1.7.2025 (aiemmin Telia), HBO Max palasi vanhaan nimeensä ja "
+         "Apple pudotti plussan Apple TV:stä. Ruutu+ ja MTV Katsomo+ ovat listan ainoat "
+         "suomalaisyhtiöiden palvelut. Näytämme omistajan jokaisen kohdalla."),
+        ("Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei "
+         "sisältökirjaston laatua tai makuasioita. Hinnat ja mainostasot muuttuvat usein; "
+         "vertailu mittaa kerrotaanko ne avoimesti ennen tilaamista. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["virustorjuntaohjelmat"] = {
+    "slug": "virustorjuntaohjelmat",
+    "nimi": "Virustorjuntaohjelmat",
+    "nav": "Virustorjunta",
+    "h1": "Suomen paras virustorjunta 2026",
+    "yksikko": "Suomessa myytävää virustorjuntaohjelmaa",
+    "lead": ("Pisteytimme {n} suomalaisille myytävää virustorjuntaohjelmaa {m} mittarilla. "
+             "Tärkein kysymys: kerrotaanko ensimmäisen vuoden tarjouksen lisäksi myös "
+             "uusimishinta, ja kuka ohjelmiston oikeasti omistaa?"),
+    "meta_title": "Suomen paras virustorjunta 2026 | ohjelmat pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} virustorjuntaohjelmaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Kolme listan kahdeksasta brändistä on samaa yhtiötä:</b> Gen Digital omistaa "
+         "Nortonin, Avastin ja AVG:n — \"kilpailevat\" tuotteet voivat siis olla saman talon "
+         "eri paketteja. F-Secure on listan ainoa suomalainen (sama pörssiyhtiö kuin F-Secure "
+         "VPN vpn-vertailussamme). Kaspersky on venäläistaustainen; se myy edelleen Suomeen, "
+         "eikä EU:lla ollut mittaushetkellä kuluttajamyynnin kieltoa."),
+        ("<b>Miksi McAfee ei ole listalla?</b> Sen sivusto esti jokaisen hakutapamme (HTTP 403 "
+         "myös renderöivällä selaimella), emmekä kierrä bottisuojauksia periaatteesta. Emme "
+         "julkaise pisteitä sivustosta, jota mittarimme ei aidosti nähnyt — poissaolo on "
+         "mittauksen rajoite, ei arvio McAfeen laadusta."),
+        ("Alan tunnetuin kuvio on halpa ensimmäinen vuosi ja hiljaa moninkertaistuva "
+         "uusimishinta — siksi uusimishinnan avoimuus on oma 20 pisteen mittarinsa. Vertailu "
+         "kuvaa sivustojen läpinäkyvyyttä, ei tunnistustarkkuutta; riippumattomat testilaitokset "
+         "(AV-TEST, AV-Comparatives) mittaavat suojaustehoa. Demo voi sisältää "
+         "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "appletv",
+  "fetched_ok": [
+    "https://tv.apple.com/fi",
+    "https://tv.apple.com/fi/subscribe",
+    "https://support.apple.com/fi-fi/HT202039",
+    "https://support.apple.com/fi-fi/HT201232",
+    "https://support.apple.com/fi-fi/apple-tv",
+    "https://support.apple.com/fi-fi/contact"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "osittain",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 9.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Hinnat ja kokeilujakso näkyvät selkeästi etusivulla (9,99 €/kk, 7 päivää ilmaiseksi)",
+    "Tilauksen peruuttaminen on hyvin dokumentoitu support-sivustolla eri laitealustoille",
+    "Suomenkielinen sivusto ja hinnat euroissa, omistaja (Apple Inc.) selvästi mainittu"
+  ],
+  "kehityskohteet": [
+    "Tilaustasojen erot (mainokset, laatu, laitteiden määrä) eivät ole selkeästi näkyvissä — vain yksi taso esitetään",
+    "Email-yhteystiedot puuttuvat, tuki saatavilla vain puhelimitse ja sovellusten kautta",
+    "Riippumattomia arviolähteitä ei ole esillä sivustolla"
+  ],
+  "yhteenveto": "Apple TV on Applen suoratoistopalvelu, jonka kuukausihinnat ja kokeilujakso ovat selkeästi näkyvissä. Omistaja (Apple Inc.) on mainittu, sivusto on suomenkielinen ja hinnat euroissa. Tilauksen peruuttaminen on hyvin ohjeistettu. Puhelintuki on saatavilla Suomessa (0800 220325, 80081552), mutta email-yhteystietoja ei ole. Sivustolla ei kerrota tilaustasojen eroista, vaikka näyttää olevan vain yksi maksettu taso. Riippumattomia arviolähteitä ei ole näkyvissä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla ja subscribe-sivulla näkyvät selkeästi kaikki hinnat: '7 days free, then 9,99 €/month' sekä maininta Apple TV 4K ostosta (3 kk ilmaiseksi) ja Apple One -paketeista.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Sivustolla ei kerrota eri tilaustasoista (esim. mainokset/ei mainoksia, HD/4K, laitteiden määrä). Ainoastaan perushinnan 9,99 €/kk taso on esillä. Mainitaan vain 'no ads' ilman tasoja.",
+    "irtisanominen_kerrottu": "HAVAINTO: Support-sivulla (support.apple.com/fi-fi/HT202039) on yksityiskohtaiset ohjeet irtisanomisesta eri laitteilla. Maininta: 'Jos et löydä tilausta, jonka haluat peruuttaa' ja 24 tunnin peruutusvaatimus maksuttomasta kokeilusta.",
+    "omistaja_kerrottu": "HAVAINTO: Copyright-alaotsikoissa ja sivuston footerissa näkyvät 'Copyright © 2026 Apple Inc. All rights reserved.' Myös UKK:ssa mainitaan selvästi omistaja.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on kokonaan suomenkielinen (tv.apple.com/fi), hinnat näkyvät euroissa (€), ja kaikki sisältö on käännetty suomeksi.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviolähteisiin tai kolmannen osapuolen arvioihin.",
+    "puhelin_esilla": "HAVAINTO: Support-sivulla (support.apple.com/fi-fi/HT201232) näkyvät Suomen puhelinnumerot: 0800 220325 ja 80081552. Teksti: 'Tuki puhelimitse - Voit puhua Apple-neuvojalle soittamalla maasi tai alueesi Apple-tuen puhelinnumeroon.'",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei ole suoraan chat-tukea mainittu, mutta 'Tuki-appi' mainitaan, joka saattaa sisältää chat-ominaisuuden. Apple-yhteisöissä voidaan kysyä kysymyksiä. Ei selkeää chat-tukea kuitenkaan mainittu.",
+    "ukk_osio": "HAVAINTO: Pääsivulla on 'Questions? Answers' -osio, jossa käsitellään: 'What is Apple TV?', 'How much does an Apple TV subscription cost?', 'Can I get an Apple TV subscription for free?', 'Where can I watch Apple TV?' jne.",
+    "mobiilisovellus": "HAVAINTO: Maininta Apple TV -sovelluksesta useilla alustoilla (iPhone, iPad, Mac, Android) ja Tuki-apista (Apple Support app). Teksti: 'Find Apple TV on the TV app, available on your Apple devices, smart TVs, web and more.'"
+  }
+}

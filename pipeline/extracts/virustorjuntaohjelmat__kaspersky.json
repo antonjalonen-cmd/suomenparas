@@ -1,0 +1,46 @@
+{
+  "slug": "kaspersky",
+  "fetched_ok": [
+    "https://www.kaspersky.fi"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "omistaja_kerrottu": "osittain",
+  "testitulokset_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "uusimishinta_vuosi_eur": 34.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat ja uusimishinnat selkeästi esillä kaikille tuotteille",
+    "Laajat testituloset mainittu - 100 riippumatonta testiä ja 93 ensimmäisen sijan palkintoa",
+    "Suomenkielinen sivusto ja hinnoittelu euroissa"
+  ],
+  "kehityskohteet": [
+    "Omistaja-tiedot puutteelliset - vain 'AO Kaspersky Lab' näkyy, yksityisomistuksesta mainitaan mutta omistajatietoja ei eritellä",
+    "Tuenta ja FAQ ei suoraan saavutettavissa - navigointilinkit näkyvät mutta sivuista ei vastaudu",
+    "Yhteystiedot puuttuvat etusivulta - puhelin, sähköposti ja chat eivät näy käyttäjälle"
+  ],
+  "yhteenveto": "Kaspersky tarjoaa antivirus-tuotteita suomalaisille käyttäjille suomenkielisellä sivustolla ja selkeillä eurohinnoilla. Hinnat ja erityisesti uusimishinnat on hyvin dokumentoitu kaikille kolmelle päätuotteelle (Standard, Plus, Premium), ja sivusto mainitaan voittaneen 93 itsenäistä testiakin. Sivuston heikkoutena on, että omistaja- ja tuentatiedot eivät ole helposti saavutettavissa etusivulta, ja tuen saantitavat (puhelin, sähköposti, chat) eivät näy.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät selkeästi kolmen päätuotteen hinnat: Kaspersky Premium 27,99€ (ensimmäinen vuosi), Kaspersky Plus 20,99€, Kaspersky Standard 15,99€. Sivulla lukee 'Alkaen' + hinta kullekin tuotteelle.",
+    "uusimishinta_kerrottu": "HAVAINTO: Jokaisen tuotteen hinnan yhteydessä eritellään uusimishinta: Premium 84,99€/vuosi, Plus 59,99€/vuosi, Standard 34,99€/vuosi. Teksti sanoo 'Tilaus uusitaan automaattisesti hintaan X€ vuodessa'.",
+    "testitulokset_kerrottu": "HAVAINTO: Etusivulla osio 'Testatuin. Palkituin VPN' kertoo: 'Kasperskyn tuotteet ovat olleet viimeisen vuoden aikana mukana 100 riippumattomassa testissä ja vieneet nimiinsä 93 ykköspalkintoa.' Mainitaan huipputulokset malwareista, tekoälyuhista ja verkko-ostosta.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on kokonaan suomenkielisenä, kaikki hinnat näkyvät euroissa (€), ja kaikkien tuotteiden nimet ovat suomennettuja (esim. 'Virustorjunta Macille').",
+    "omistaja_kerrottu": "HAVAINTO: Sivuston alaosassa näkyy copyright 'AO Kaspersky Lab'. Sivulla todetaan 'Kaspersky on nykyisin maailman suurin yksityisomisteinen kyberturvallisuusyritys'. Toimitusjohtajana maininta 'Eugene Kaspersky' (1997 perustettu), mutta omistajatiedot eivät ole yksityiskohtaisia.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan 100 riippumatonta testiä ja 93 palkintoa, mutta testien organisaatioiden nimet (esim. AV-TEST, AV-Comparatives) eivät näy etusivulla.",
+    "puhelin_esilla": "HAVAINTO: Etusivulla ei näy puhelinnumeroa. Valikossa on linkki 'Tuki' ja 'Ota yhteyttä' mutta näihin sivuihin ei pääse suoraan.",
+    "email_esilla": "HAVAINTO: Etusivulla ei näy sähköpostiosoitetta. Sivustolla on yhteydenottolinkit mutta ne eivät ole käytettävissä etusivulta.",
+    "ukk_osio": "HAVAINTO: Valikossa näkyy 'Tuki' (Support) -linkki, mutta FAQ-osio ei ole suoraan saavutettavissa etusivulla. Sivusto on SPA-pohjainen eikä tuensivuille pääse suoraan URL:n kautta."
+  }
+}

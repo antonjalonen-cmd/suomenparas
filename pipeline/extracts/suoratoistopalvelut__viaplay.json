@@ -1,0 +1,47 @@
+{
+  "slug": "viaplay",
+  "fetched_ok": [
+    "https://viaplay.fi/fi-fi/",
+    "https://viaplay.fi/fi-fi/terms",
+    "https://viaplay.fi/fi-fi/privacy/",
+    "https://viaplay.fi/fi-fi/devices/"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 8.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat ja paketit erittäin selkeästi esillä etusivulla neljä eri vaihtoehtoa näkyvillä",
+    "Tasojen väliset erot kuvattu hyvin sisällön, urheilun, mainosten ja offline-katselun osalta",
+    "Irtisanomisehdot selkeästi kirjattu: tilaus jatkuu automaattisesti elleivät irtisanoa ennen laskutuspäivää"
+  ],
+  "kehityskohteet": [
+    "Suoraa puhelinnumeroa tai email-osoitetta ei ole näkyvillä sivustolla - vain viittaus \"asiakaspalveluun\"",
+    "Riippumattomia arviota tai sertifikaatteja ei löytynyt (esim. ulkopuolisen tahon tutkimukset)",
+    "Chat-support tai live-chat -ominaisuutta ei mainittu; yhteydenpito näyttää perustuvan sähköpostiin"
+  ],
+  "yhteenveto": "Viaplay on Ruotsalaisen Viaplay Group Sweden AB:n omistama suoratoistopalvelu, joka on täysin suomenkielinen euroissa hinnoiteltava. Sivusto esittelee neljä pakettia hyvin selkeästi (Total 37,99 €/kk, Medium 24,99-29,99 €/kk, Leffat & Sarjat 8,99-13,99 €/kk), kunkin ominaisuudet eritellään tarkasti. Käyttöehdoista selviää irtisanomisen toimivat perusteet ja sitoutumisajat. Palvelu tukee useita laitteita ja tarjoaa mobiilisovellukset.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvillä neljä pakettia: Viaplay Total 37,99 €/kk (12 kk sitova) tai 45,99 €/kk (milloin tahansa), Viaplay Medium 24,99 €/kk (12 kk) tai 29,99 €/kk (6 kk), Leffat & Sarjat 8,99 €/kk (mainoksia) tai 13,99 €/kk (ilman mainoksia).",
+    "tasojen_erot_kerrottu": "HAVAINTO: Total-paketti sisältää Valioliigan, F1:n ja NHL:n sekä muuta urheilua, Medium ei sisällä Valioliigia/F1/NHL:ää, Leffat & Sarjat ei sisällä urheilua. Kaikissa offline-katseluominaisuus lukuun ottamatta Medium-pakettia. Mainoksia sisältäviä ja ilman mainoksia olevia vaihtoehtoja.",
+    "irtisanominen_kerrottu": "HAVAINTO: Käyttöehdoista: 'Määräaikainen tilaus on vähimmäisjakso, jonka ajan olet sidottu Viaplay-tilaukseesi' ja 'Irtisanominen astuu voimaan seuraavan laskutuskauden päättyessä.' Määräaikaisten tilausten jälkeen muuttuu automaattisesti kuukausitilakukseksi jos ei irtisanota.",
+    "omistaja_kerrottu": "HAVAINTO: 'Viaplayn tarjoaa ruotsalainen yritys Viaplay Group Sweden AB, yritystunnus 556304-7041, osoite Box 171 04, 104 62 Tukholma, Ruotsi.' Myös altaallekirjoituksessa: '© 2026 Viaplay Group Sweden AB (org.no: 556304-7041)'.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto täysin suomenkielinen (UI, hinnoittelu, ehdot). Kaikki hinnat euroissa ja kuukausihintaisesti ilmoitettu.",
+    "ukk_osio": "HAVAINTO: Etusivulla näkyy 'Usein kysytyt kysymykset' -osio jossa aiheet: Mikä on Viaplay, alennus-/vuokrakoodit, Viaplay kumppanin kautta, Viaplay ulkomailla, lahjaksi, urheilu. Lisäksi devices-sivulla 'Liittyvät artikkelit' kuten toimi kun kaksi striimausta on käynnissä, kirjautumissongelmat.",
+    "mobiilisovellus": "HAVAINTO: Devices-sivulla luetellaan tuetut laitteet: iPhone & iPad, Android-puhelin & tabletti, Android TV & Google TV, mukana myös Chromecast, Apple TV."
+  }
+}

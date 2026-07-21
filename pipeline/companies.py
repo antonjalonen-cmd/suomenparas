@@ -835,3 +835,51 @@ COMPANIES["autokorjaamot"] = [
     dict(slug="euromaster", nimi="Euromaster Autohuolto", domain="euromaster.fi", y_tunnus="0711042-1",
          omistaja="Michelin — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu"),
 ]
+
+# SUORATOISTOPALVELUT (verified 21.7.2026, pipeline/verify_batch5/suoratoistopalvelut.md)
+# Global services, vpn convention. MTV Oy moved Telia -> Schibsted 1.7.2025. HBO Max
+# kept its name in FI; Apple dropped the "+" from Apple TV.
+COMPANIES["suoratoistopalvelut"] = [
+    dict(slug="netflix", nimi="Netflix", domain="netflix.com", y_tunnus=None,
+         omistaja="Netflix International B.V. (Alankomaat) / Netflix, Inc."),
+    dict(slug="disneyplus", nimi="Disney+", domain="disneyplus.com", y_tunnus=None,
+         omistaja="The Walt Disney Company (Yhdysvallat)"),
+    dict(slug="hbomax", nimi="HBO Max", domain="hbomax.com", y_tunnus=None,
+         omistaja="Warner Bros. Discovery, Inc. (Yhdysvallat)"),
+    dict(slug="viaplay", nimi="Viaplay", domain="viaplay.fi", y_tunnus=None,
+         omistaja="Viaplay Group AB (Ruotsi) — Canal+/PPF suurimpina omistajina"),
+    dict(slug="ruutuplus", nimi="Ruutu+", domain="ruutu.fi", y_tunnus="1515901-4",
+         omistaja="Sanoma Media Finland Oy / Sanoma Oyj"),
+    dict(slug="mtvkatsomo", nimi="MTV Katsomo+", domain="mtv.fi", y_tunnus="1093944-1",
+         omistaja="MTV Oy — siirtyi Schibstedin (Norja) omistukseen 1.7.2025 (aiemmin Telia)"),
+    dict(slug="primevideo", nimi="Prime Video", domain="primevideo.com", y_tunnus=None,
+         omistaja="Amazon.com, Inc. (Yhdysvallat)"),
+    dict(slug="appletv", nimi="Apple TV", domain="tv.apple.com", y_tunnus=None,
+         omistaja="Apple Inc. (Yhdysvallat) — palvelu tunnettiin aiemmin nimellä Apple TV+"),
+    dict(slug="skyshowtime", nimi="SkyShowtime", domain="skyshowtime.com", y_tunnus=None,
+         omistaja="Comcast (Sky) ja Paramount Global 50/50 -yhteisyritys"),
+]
+
+# VIRUSTORJUNTAOHJELMAT (verified 21.7.2026) — OWNERSHIP: Gen Digital owns Norton,
+# Avast AND AVG (3/8 rows) — disclosed. McAfee EXCLUDED: site serves HTTP 403 to every
+# fetch path incl. rendering browsers; bot-protection is not bypassed, so it cannot be
+# measured (documented, not a finding about McAfee's quality). Kaspersky still sells in
+# Finland (no EU consumer ban as of measurement).
+COMPANIES["virustorjuntaohjelmat"] = [
+    dict(slug="fsecure", nimi="F-Secure", domain="f-secure.com", y_tunnus="3269349-7",
+         omistaja="F-Secure Oyj — suomalainen pörssiyhtiö (sama yhtiö kuin F-Secure VPN vpn-listalla)"),
+    dict(slug="norton", nimi="Norton", domain="norton.com", y_tunnus=None,
+         omistaja="Gen Digital Inc. (Yhdysvallat) — omistaa myös Avastin ja AVG:n"),
+    dict(slug="bitdefender", nimi="Bitdefender", domain="bitdefender.com", y_tunnus=None,
+         omistaja="Bitdefender (Romania) — yksityisomisteinen"),
+    dict(slug="eset", nimi="ESET", domain="eset.com", y_tunnus=None,
+         omistaja="ESET, spol. s r.o. (Slovakia)"),
+    dict(slug="avast", nimi="Avast", domain="avast.com", y_tunnus=None,
+         omistaja="Gen Digital Inc. — sama omistaja kuin Norton ja AVG"),
+    dict(slug="avg", nimi="AVG", domain="avg.com", y_tunnus=None,
+         omistaja="Gen Digital Inc. — sama omistaja kuin Norton ja Avast; ei suomenkielistä sivustoa"),
+    dict(slug="kaspersky", nimi="Kaspersky", domain="kaspersky.fi", y_tunnus=None,
+         omistaja="Kaspersky Lab — venäläistaustainen, perustajan ja johdon omistuksessa"),
+    dict(slug="totalav", nimi="TotalAV", domain="totalav.com", y_tunnus=None,
+         omistaja="Total Security Limited (Iso-Britannia) / Total Security US LLC"),
+]

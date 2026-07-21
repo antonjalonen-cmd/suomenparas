@@ -60,6 +60,8 @@ MEASURED = {
     "pilvitallennuspalvelut": "21.7.2026",
     "salasananhallintapalvelut": "21.7.2026",
     "autokorjaamot": "21.7.2026",
+    "suoratoistopalvelut": "21.7.2026",
+    "virustorjuntaohjelmat": "21.7.2026",
 }
 
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}

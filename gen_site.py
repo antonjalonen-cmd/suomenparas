@@ -72,7 +72,7 @@ CATEGORY_GROUPS = [
         ("Säästötilit", None, False),
     ]),
     ("Digitaaliset palvelut", [
-        ("Suoratoistopalvelut", None, False), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),
+        ("Suoratoistopalvelut", "suoratoistopalvelut", True), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),
         ("Virustorjuntaohjelmat", None, False), ("Salasananhallintapalvelut", "salasananhallintapalvelut", True),
         ("Sähköpostipalvelut", None, False), ("Verkkotunnusvälittäjät", None, False),
         ("Kirjanpito-ohjelmat", None, False), ("Verkkokauppa-alustat", None, False),
@@ -264,6 +264,9 @@ nav.main a.on{color:var(--gold-line)}
 .sp-sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--blue-deep)}
 .sp-go{color:var(--mut)}
 .sp-empty{padding:14px;color:var(--mut);font-weight:600;font-size:.92rem}
+/* footer legal links */
+.foot-legal{margin-top:20px;font-size:.8rem;line-height:2;font-weight:600}
+.foot-legal a{white-space:nowrap}
 /* footer bottom bar */
 .foot-bottom{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-top:24px;border-top:1px solid rgba(255,255,255,.14);padding-top:18px;flex-wrap:wrap}
 .foot-bottom .oy{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}
@@ -800,6 +803,13 @@ def page(title, desc, body, root="", active=""):
       </div>
     </div>
     <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin {UPDATED}: yritysten omat verkkosivut, viralliset rekisterit ja tekniset mittaukset. Emme anna sijoitus-, laina- tai muuta talousneuvontaa, vaan vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+    <p class="foot-legal">
+      <a href="{root}tietosuoja/">Tietosuojaseloste</a> · <a href="{root}evasteet/">Evästekäytäntö</a> ·
+      <a href="{root}kayttoehdot/">Käyttöehdot</a> · <a href="{root}yritystiedot/">Yrityksen tiedot</a> ·
+      <a href="{root}analyysi/">Ota yhteyttä</a> · <a href="{root}mainonta/">Mainonta ja affiliate-käytännöt</a> ·
+      <a href="{root}metodologia/">Arviointiperiaatteet</a> · <a href="{root}sertifikaatti-ehdot/">Sertifikaatin käyttöehdot</a> ·
+      <a href="{root}korjauspyynto/">Tietojen korjauspyyntö</a> · <a href="{root}saavutettavuus/">Saavutettavuus ja palaute</a>
+    </p>
     <div class="foot-bottom">
       <a class="btn" href="{root}meista/">Meistä</a>
       <span class="oy">© Suomen Paras Oy 2026</span>
@@ -1597,6 +1607,78 @@ def build_meista():
                 "Suomen Paras Oy:n tarina: vertailu jossa sijoitusta ei voi ostaa, vaan jokainen piste perustellaan julkisella datalla.",
                 body, root="../", active="meista")
 
+
+# ---------------------------------------------------------------- legal/info pages
+# Footer-linked info pages (Anton 21.7.2026). Content is honest and minimal: this is
+# a demo-stage service — the pages state what actually happens, not boilerplate that
+# promises processes we don't have.
+LEGAL_PAGES = {
+    "tietosuoja": ("Tietosuojaseloste", [
+        "<b>Rekisterinpitäjä:</b> Suomen Paras Oy (yhteys: anton@antonjalonen.fi).",
+        "<b>Mitä tietoja keräämme:</b> Palautelomakkeet (yritysarviot ja sivustopalaute) tallentavat antamasi arvion, valinnaisen nimimerkin ja vapaamuotoisen tekstin sekä IP-osoitteesta lasketun tunnisteen, jota käytetään vain yhden arvion per yritys -rajoitukseen. Emme tallenna IP-osoitetta sellaisenaan emmekä yhdistä palautetta henkilöön.",
+        "<b>Analyysipyynnöt ja yhteydenotot</b> tapahtuvat sähköpostitse — käsittelemme viestisi vastataksemme siihen, emmekä käytä osoitettasi muuhun.",
+        "<b>Emme käytä</b> mainontaevästeitä, seurantapikseleitä tai analytiikkapalveluita, jotka profiloivat kävijöitä.",
+        "<b>Oikeutesi:</b> voit pyytää antamiesi tietojen poistamista sähköpostitse. Julkaistut palautteet poistetaan pyynnöstä.",
+        "Sivusto toimii GitHub Pages- ja Cloudflare-alustoilla, jotka käsittelevät liikennettä omien tietosuojakäytäntöjensä mukaisesti.",
+    ]),
+    "evasteet": ("Evästekäytäntö", [
+        "Suomen Paras <b>ei aseta seuranta- tai mainontaevästeitä.</b>",
+        "Selaimen paikallista tallennustilaa (localStorage) käytetään vain toiminnallisiin asioihin: esimerkiksi muistamaan, että olet jo tykännyt yrityksestä tai lähettänyt arvion. Nämä tiedot eivät lähde laitteeltasi minnekään.",
+        "Fontit ladataan Google Fonts -palvelusta, jolloin selaimesi tekee pyynnön Googlen palvelimelle. Jos tämä ei sovi, useimmat selaimet sallivat fonttilatausten estämisen.",
+        "Koska seurantaevästeitä ei ole, sivustolla ei myöskään ole evästebanneria — mielestämme paras evästekäytäntö on olla keräämättä turhaa.",
+    ]),
+    "kayttoehdot": ("Käyttöehdot", [
+        "Suomen Paras on esittelyvaiheen (demo) vertailupalvelu. Sisältö tuotetaan julkisista lähteistä automaattisella mittausprosessilla, ja sen tarkoitus on informatiivinen.",
+        "<b>Emme anna sijoitus-, laina-, vakuutus-, oikeudellista tai terveysneuvontaa.</b> Pisteet kuvaavat yritysten julkisten verkkosivujen mitattavia ominaisuuksia mittaushetkellä, eivät palvelun kokonaislaatua.",
+        "Teemme parhaamme datan oikeellisuuden eteen ja korjaamme virheet avoimesti, mutta emme takaa tietojen virheettömyyttä emmekä vastaa päätöksistä, joita teet vertailun perusteella. Tarkista aina ajantasaiset hinnat ja ehdot palveluntarjoajalta.",
+        "Sivuston sisältöä saa lainata lähde mainiten. Sijoituksia ei voi ostaa, eikä mikään kaupallinen yhteistyö vaikuta pisteisiin.",
+    ]),
+    "yritystiedot": ("Yrityksen tiedot", [
+        "<b>Suomen Paras Oy</b> — suomalainen yhtiö, joka rakentaa Suomen läpinäkyvintä vertailupalvelua.",
+        "Yhteydenotot: <a href=\"mailto:anton@antonjalonen.fi\">anton@antonjalonen.fi</a>",
+        "Palvelu: suomenparas.antonjalonen.fi — yli 30 kategoriaa ja yli 200 pisteytettyä yritystä, kaikki mitattu julkisella Suomen Paras Score -kaavalla.",
+        "Lue lisää: <a href=\"../meista/\">tarinamme</a> ja <a href=\"../metodologia/\">arviointiperiaatteemme</a>.",
+    ]),
+    "mainonta": ("Mainonta ja affiliate-käytännöt", [
+        "<b>Sijoitusta ei voi ostaa.</b> Mikään maksu, kumppanuus tai mainos ei vaikuta yhdenkään yrityksen pisteisiin tai sijoitukseen — pisteet lasketaan julkisella kaavalla julkisesta datasta.",
+        "Sivusto voi sisältää tai tulevaisuudessa sisältää affiliate-linkkejä, joista saamme palkkion, jos siirryt palveluun ja teet tilauksen. Palkkio ei koskaan muuta pisteitä, sijoituksia tai sitä, mitkä yritykset vertailussa ovat.",
+        "Jos jokin sisältö on kaupallista yhteistyötä, se merkitään selkeästi. Mittausdataan perustuva sisältö ei ole koskaan kaupallista.",
+        "Yritys voi pyytää <a href=\"../analyysi/\">maksuttoman analyysin</a> — analyysi kertoo miten pisteet paranevat, mutta ei koskaan muuta niitä suoraan.",
+    ]),
+    "sertifikaatti-ehdot": ("Sertifikaatin käyttöehdot", [
+        "Suomen Paras -sertifikaatti on tulossa oleva merkki, jonka yritys voi ansaita ylittämällä kategoriansa vaatimustason julkisessa Suomen Paras Score -mittauksessa.",
+        "<b>Sertifikaattia ei voi ostaa.</b> Se myönnetään ja uusitaan vain mittaustulosten perusteella, ja se poistuu, jos mittarit putoavat vaatimustason alle seuraavalla mittauskierroksella.",
+        "Merkkiä saa käyttää vain siihen kategoriaan ja ajankohtaan, jolle se on myönnetty, ja sen on aina linkitettävä yrityksen julkiseen pisteprofiiliin Suomen Paras -palvelussa.",
+        "Tarkemmat ehdot julkaistaan sertifikaatin lanseerauksen yhteydessä. Kiinnostuneet yritykset voivat aloittaa <a href=\"../analyysi/\">maksuttomalla analyysilla</a>.",
+    ]),
+    "korjauspyynto": ("Yrityksen tietojen korjauspyyntö", [
+        "Jos edustat vertailussa olevaa yritystä ja huomaat tiedoissa virheen, korjaamme sen seuraavassa päivityksessä ja merkitsemme olennaiset korjaukset avoimesti sivulle.",
+        "<b>Näin teet korjauspyynnön:</b> lähetä sähköpostia osoitteeseen <a href=\"mailto:anton@antonjalonen.fi?subject=Korjauspyynt%C3%B6\">anton@antonjalonen.fi</a> otsikolla Korjauspyyntö. Kerro yrityksen nimi, kategoria, virheellinen tieto ja linkki sivullenne, jolta oikea tieto löytyy.",
+        "Korjaamme mittausvirheet aina. Huomaa kuitenkin, että pisteet perustuvat siihen, mitä julkisella verkkosivullanne näkyy — jos tieto puuttuu sivultanne, oikea korjaus on lisätä se sinne, ja se nostaa pisteitänne seuraavassa mittauksessa.",
+        "Puuttuuko yrityksesi kokonaan listalta? Kerro se samalla osoitteella, niin otamme sen mukaan seuraavaan mittauskierrokseen.",
+    ]),
+    "saavutettavuus": ("Saavutettavuus ja palaute", [
+        "Tavoitteemme on, että Suomen Paras toimii kaikilla laitteilla ja avustavilla teknologioilla. Sivusto on rakennettu semanttisella HTML:llä, ja mittaamme oman sivustomme saavutettavuutta samoilla työkaluilla, joilla mittaamme muitakin.",
+        "Tunnetut rajoitteet: osa vuorovaikutteisista elementeistä (esimerkiksi hakutulokset ja arviolomake) on toteutettu JavaScriptillä, ja kehitämme niiden näppäimistö- ja ruudunlukijatukea jatkuvasti.",
+        "Jos kohtaat saavutettavuusongelman, kerro siitä <a href=\"mailto:anton@antonjalonen.fi?subject=Saavutettavuus\">sähköpostilla</a> tai <a href=\"../yhteiso/\">yhteisösivun palautelomakkeella</a> — korjaamme raportoidut ongelmat ensisijaisina.",
+    ]),
+}
+
+def build_legal(slug, title, paras):
+    body_paras = "".join(f"<p>{p}</p>" for p in paras)
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>{title}</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>{title}</h1>
+  </div>
+  <div class="opas" style="margin-top:8px">{body_paras}
+    <p style="margin-top:18px"><small>Päivitetty 21.7.2026 · <a href="../meista/">Suomen Paras Oy</a></small></p>
+  </div>
+</div>"""
+    return page(f"{title} | Suomen Paras", f"{title} — Suomen Paras -vertailupalvelu.",
+                body, root="../", active="")
+
 # ---------------------------------------------------------------- write
 def strip_em_dashes(html_text):
     # Site-wide copy rule (18.7.2026, Anton): no em dashes anywhere in published pages.
@@ -1622,6 +1704,8 @@ def main():
     w("sertifikaatti/index.html", build_sertifikaatti())
     w("yhteiso/index.html", build_yhteiso())
     w("meista/index.html", build_meista())
+    for _slug, (_title, _paras) in LEGAL_PAGES.items():
+        w(f"{_slug}/index.html", build_legal(_slug, _title, _paras))
     n = 3
     for v in VERTICALS:
         w(f"{v['slug']}/index.html", build_vertical(v))

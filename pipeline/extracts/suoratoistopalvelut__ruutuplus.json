@@ -1,0 +1,46 @@
+{
+  "slug": "ruutuplus",
+  "fetched_ok": [
+    "https://www.ruutu.fi/",
+    "https://www.ruutu.fi/plus",
+    "https://asiakastuki.ruutu.fi/article/152-ruudun-hinnasto",
+    "https://asiakastuki.ruutu.fi/article/153-ruudun-tilausehdot"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 9.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi esillä tilausivulla (9,99–17,99 €/kk), jakautuneet helposti vertailtaviin tasoihin",
+    "Tilausehtojen asiakirja kattaa irtisanomisen, maksut, peruuttamisoikeudet ja muutokset tarkasti",
+    "Suomenkielinen kokonaan, sekä sivusto että hinnastot euroissa"
+  ],
+  "kehityskohteet": [
+    "Asiakastuki-sivusto (asiakastuki.ruutu.fi) ei lataudu täydellisesti automaatioille, jää osittain mittaamatta",
+    "Suora sähköpostiosoite puuttuu, vain yhteydenottolomake ja puhelin (0203 34444) saatavilla",
+    "Mobiilisovelluksesta (Ruutu+) ei mainintaa omalla sivustolla, ainoastaan Supla-sovelluksesta kerrotaan"
+  ],
+  "yhteenveto": "Ruutu+ on Sanoma Media Finland Oy:n omistama suoratoistosarja- ja elokuvapalvelu (9,99 €/kk perusversion), joka tarjoaa kotimaisia draamoja, brittisisältöä, urheilua ja elokuvia. Hinnoittelu ja tilaustasot esitetään selkeästi tilausivulla, ja tilausehdot ovat kattavasti dokumentoidussa muodossa. Irtisanominen on mahdollista milloin tahansa kuukauden loppuun mennessä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tilaussivu https://www.ruutu.fi/plus näyttää Ruutu+ hinnaksi 9,99 €/kk, Premium-taso +6 €/kk ja Urheilu-lisä +8 €/kk. Hinnasto-artikkeli vahvistaa: Ruutu+ (mainoksilla) 9,99 €/kk, Premium +6 €/kk, Urheilu +8 €/kk.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Tilausivulla kuvattu Premium-tason ero: 'Ei mainoksia, paras kuvanlaatu, 2 laitetta' ja Urheilu-lisä: 'Lisää kaikki Ruudun urheilusisältö tilaukseesi'. Perustasojen sisältö samankaltainen, mutta Premium poistaa mainokset ja parantaa kuvanlaatua.",
+    "irtisanominen_kerrottu": "HAVAINTO: Tilausehdoissa (kohdassa 2.2) selvästi kerrottu: 'Asiakas voi irtisanoa jatkuvan tilauksen Palvelun itsepalvelussa kohdasta Tilaukset' tai asiakaspalveluun ottamalla yhteyttä. Tilaus päättyy jo maksetun tilausjakson loppuun. Jos irtisanominen tapahtuu myöhemmin kuin viisi arkipäivää ennen kuluvan jakson päättymistä, jatkuu tilaus seuraavaan jaksoon.",
+    "omistaja_kerrottu": "HAVAINTO: Tilausehdoissa (kohdassa 5) ja tilausivulla kerrottu, että palvelun tarjoaja on 'Sanoma Media Finland Oy / Nelonen Media, Y-tunnus 1515901–4'. Kirjautumisen yhteydessä mainitaan 'Sanoma-tili'.",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto www.ruutu.fi suomenkielinen, hinnat näkyy euroissa (€). Hinnasto-sivu, tilausehdot ja asiakastuki kaikki suomeksi.",
+    "puhelin_esilla": "HAVAINTO: Tilausehdoissa (kohdassa 5) ja asiakastuki-sivulla näkyy puhelin 0203 34444 asiakaspalveluun, sekä vaihde 09–45451."
+  }
+}
