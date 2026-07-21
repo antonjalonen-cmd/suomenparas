@@ -753,8 +753,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=19">
-<script src="{root}assets/app.js?v=19" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=20">
+<script src="{root}assets/app.js?v=20" defer></script>
 </head>
 <body>
 <header class="site">
@@ -959,7 +959,7 @@ def build_index():
     <h2 class="sec">Haetuimpien kategorioiden kärjet</h2>
     <p class="sec-sub">Hae mitä tahansa kategoriaa tai yritystä, tai selaa kuutta haetuinta alta. Loput {LIVE_COUNT} kategoriaa löydät <a href="kategoriat/">kategoriasivulta</a>.</p>
     <div class="sp-search" id="sp-search">
-      <svg class="sp-ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.6"/><line x1="15.6" y1="15.6" x2="21" y2="21" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>
+      <svg class="sp-ico" width="22" height="22" viewBox="0 0 24 24" fill="none" aria-hidden="true" style="max-width:22px;max-height:22px"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.6"/><line x1="15.6" y1="15.6" x2="21" y2="21" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>
       <input type="search" id="sp-q" placeholder="Mitä haluat vertailla?" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
       <button type="button" class="sp-btn" id="sp-go">Hae</button>
       <div class="sp-results" id="sp-results" hidden></div>
