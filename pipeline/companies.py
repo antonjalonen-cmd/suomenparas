@@ -770,3 +770,68 @@ COMPANIES["autokoulut"] = [
     dict(slug="ajokorttiverkosta", nimi="Ajokortti Verkosta", domain="ajokorttiverkosta.fi", y_tunnus="1440949-9",
          omistaja="RG Driving Consulting Oy — verkkopainotteinen autokoulu"),
 ]
+
+# ---------------------------------------------------------------------------
+# BATCH 5 (verified 21.7.2026, pipeline/verify_batch5/*.md)
+#
+# PILVITALLENNUSPALVELUT — global services, vpn-palvelut convention (y_tunnus=None,
+# owner disclosure is the criterion). Proton Drive = same Proton AG as published
+# Proton VPN — disclosed. Suomenkielisyys on oma mittari (Dropbox/pCloud/Internxt ei).
+COMPANIES["pilvitallennuspalvelut"] = [
+    dict(slug="googleone", nimi="Google One", domain="one.google.com", y_tunnus=None,
+         omistaja="Alphabet Inc. / Google (Yhdysvallat) — EU-laskutus Irlannin yksikön kautta"),
+    dict(slug="icloud", nimi="iCloud+", domain="apple.com", y_tunnus=None,
+         omistaja="Apple Inc. (Yhdysvallat) — EU-laskutus Apple Distribution International (Irlanti)"),
+    dict(slug="onedrive", nimi="Microsoft OneDrive", domain="microsoft.com", y_tunnus=None,
+         omistaja="Microsoft Corporation (Yhdysvallat) — EU-laskutus Microsoft Ireland Operations"),
+    dict(slug="dropbox", nimi="Dropbox", domain="dropbox.com", y_tunnus=None,
+         omistaja="Dropbox, Inc. — pörssiyhtiö (Nasdaq); ei suomenkielistä sivustoa"),
+    dict(slug="protondrive", nimi="Proton Drive", domain="proton.me", y_tunnus=None,
+         omistaja="Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Pass"),
+    dict(slug="mega", nimi="MEGA", domain="mega.io", y_tunnus=None,
+         omistaja="MEGA Limited (Uusi-Seelanti)"),
+    dict(slug="pcloud", nimi="pCloud", domain="pcloud.com", y_tunnus=None,
+         omistaja="pCloud AG (Sveitsi) — perustajaomisteinen; ei suomenkielistä sivustoa"),
+    dict(slug="internxt", nimi="Internxt", domain="internxt.com", y_tunnus=None,
+         omistaja="Internxt S.L. (Espanja) — VC-rahoitteinen; ei suomenkielistä sivustoa"),
+]
+
+# SALASANANHALLINTAPALVELUT — OWNERSHIP: NordPass = Nord Security (sama kuin NordVPN),
+# Proton Pass = Proton AG (sama kuin Proton VPN + Drive) — molemmat disclosed.
+# KeePass excluded (open source -projekti, ei yhtiötä eikä hinnoittelua).
+COMPANIES["salasananhallintapalvelut"] = [
+    dict(slug="1password", nimi="1Password", domain="1password.com", y_tunnus=None,
+         omistaja="1Password Inc. (Kanada)"),
+    dict(slug="bitwarden", nimi="Bitwarden", domain="bitwarden.com", y_tunnus=None,
+         omistaja="Bitwarden Inc. (Yhdysvallat) — avoin lähdekoodi, pääomasijoittajarahoitteinen"),
+    dict(slug="dashlane", nimi="Dashlane", domain="dashlane.com", y_tunnus=None,
+         omistaja="Dashlane SAS/Inc. (Ranska/Yhdysvallat)"),
+    dict(slug="nordpass", nimi="NordPass", domain="nordpass.com", y_tunnus=None,
+         omistaja="Nord Security (Liettua) — sama konserni kuin NordVPN"),
+    dict(slug="lastpass", nimi="LastPass", domain="lastpass.com", y_tunnus=None,
+         omistaja="LastPass US LP — Francisco Partners & Elliott Management (itsenäistyi GoTo:sta 2024)"),
+    dict(slug="keeper", nimi="Keeper", domain="keepersecurity.com", y_tunnus=None,
+         omistaja="Keeper Security, Inc. (Yhdysvallat)"),
+    dict(slug="proton-pass", nimi="Proton Pass", domain="proton.me", y_tunnus=None,
+         omistaja="Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Drive"),
+]
+
+# AUTOKORJAAMOT — ketjut ovat varaosatukkureiden/valmistajien konsepteja, joissa
+# yksittäiset korjaamot ovat itsenäisiä yrittäjiä; ketjuyhtiö kirjattu omistajaksi.
+# Motonet ja Euromaster esiintyvät myös rengasliikkeet-kategoriassa ERI sivuilla
+# mitattuna — disclosed. EXCLUDED: Bosch Car Service (löyhä verkosto ilman
+# vastuuyhtiötä), Mekonomen (sama MEKO kuin Fixus), Autoklinikka (kolarikorjaus, 3 kpl).
+COMPANIES["autokorjaamot"] = [
+    dict(slug="autoasi", nimi="Autoasi", domain="autoasi.fi", y_tunnus="2042810-0",
+         omistaja="Örum Oy Ab — ketjukonsepti; korjaamot itsenäisiä yrittäjiä"),
+    dict(slug="ad-finland", nimi="AD Autohuolto", domain="ad-finland.com", y_tunnus="0554943-0",
+         omistaja="AD FIN Oy — osa AD International -yhteenliittymää; korjaamot itsenäisiä"),
+    dict(slug="fixus", nimi="Fixus", domain="fixus.fi", y_tunnus="0110111-0",
+         omistaja="MEKO Finland Oy (ent. Koivunen) — Ruotsin pörssin MEKO-konserni"),
+    dict(slug="autofit", nimi="Autofit", domain="autofit.fi", y_tunnus="1630177-2",
+         omistaja="Atoy Automotive Finland Oy — perheyritys; korjaamot Autofit-yrittäjiä"),
+    dict(slug="motonet", nimi="Motonet-korjaamot", domain="motonet.fi", y_tunnus="0699457-9",
+         omistaja="Motonet Oy (Broman Group) — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu"),
+    dict(slug="euromaster", nimi="Euromaster Autohuolto", domain="euromaster.fi", y_tunnus="0711042-1",
+         omistaja="Michelin — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu"),
+]

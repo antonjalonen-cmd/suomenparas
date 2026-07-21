@@ -26,7 +26,9 @@ META = {
              "virheellisesti \"kirjautumisen takana\" -tilaan. Se oli mittausvirhe meidän päässämme, ei "
              "löydös Pohjolasta. Pohjolan rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä "
              "haulla; muiden yhtiöiden tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen "
-             "virheellinen arvio säilyy versiohistoriassa."),
+             "virheellinen arvio säilyy versiohistoriassa. Täsmennys 21.7.2026 faktantarkistuksessa: "
+             "hintalaskuri-kriteeri tarkennettiin tasolle Osittain, koska autovakuutuslaskuri pyytää "
+             "henkilötunnuksen ennen hinnan näyttämistä, ja omavastuu-havainnon vakuutuslajimerkintä korjattiin."),
             ("<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti LähiTapiolan "
              "omistama — kaksi listan brändiä on siis samassa konsernissa. Neljä yhtiötä (LähiTapiola, "
              "Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Näytämme omistajan "
@@ -818,5 +820,84 @@ META["autokoulut"] = {
          "laatua tai läpäisyprosentteja. Ajokortin kokonaishinta riippuu tarvittavien ajotuntien "
          "määrästä; vertailu mittaa kerrotaanko hinnoittelu ja kurssin sisältö avoimesti. Demo "
          "voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+
+# ---------------------------------------------------------------- batch 5 (21.7.2026)
+META["pilvitallennuspalvelut"] = {
+    "slug": "pilvitallennuspalvelut",
+    "nimi": "Pilvitallennuspalvelut",
+    "nav": "Pilvitallennus",
+    "h1": "Suomen paras pilvitallennuspalvelu 2026",
+    "yksikko": "Suomessa myytävää pilvitallennuspalvelua",
+    "lead": ("Pisteytimme {n} suomalaisille myytävää pilvitallennuspalvelua {m} mittarilla. "
+             "Tärkein kysymys: näkyykö hinta euroissa ennen tilin luomista, ja kerrotaanko "
+             "kuka dataasi säilyttää?"),
+    "meta_title": "Suomen paras pilvitallennus 2026 | palvelut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} pilvitallennuspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Omistus:</b> Proton Drive on saman sveitsiläisen Proton AG:n palvelu kuin listoillamme "
+         "jo olevat Proton VPN ja Proton Pass. Suurten yhdysvaltalaisten (Google, Apple, Microsoft, "
+         "Dropbox) EU-laskutus kulkee tyypillisesti Irlannin yksiköiden kautta — suomalaista "
+         "Y-tunnusta ei sopimuskumppanilla ole, joten mittaamme kerrotaanko omistaja ja "
+         "lainkäyttöalue avoimesti."),
+        ("<b>Suomenkielisyys on oma mittarinsa:</b> Dropbox, pCloud ja Internxt eivät tarjoa "
+         "suomenkielistä sivustoa — kolmen muun kilpailijan hinnat ja ehdot saa suomeksi. "
+         "Tämä vaikuttaa läpinäkyvyyspisteisiin, koska ehtojen ymmärtäminen on osa avoimuutta."),
+        ("Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei "
+         "tallennuksen teknistä laatua tai nopeutta. Hinnat ovat kampanjaherkkiä; vertailu "
+         "mittaa kerrotaanko myös normaali uusimishinta. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["salasananhallintapalvelut"] = {
+    "slug": "salasananhallintapalvelut",
+    "nimi": "Salasananhallintapalvelut",
+    "nav": "Salasanat",
+    "h1": "Suomen paras salasananhallinta 2026",
+    "yksikko": "Suomessa myytävää salasananhallintapalvelua",
+    "lead": ("Pisteytimme {n} salasananhallintapalvelua {m} mittarilla. Tärkein kysymys: "
+             "näkyykö hinta ennen tilin luomista, ja onko tietoturva auditoitu julkisesti?"),
+    "meta_title": "Suomen paras salasananhallinta 2026 | palvelut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} salasananhallintapalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Omistus kannattaa tietää:</b> NordPass on saman Nord Security -konsernin palvelu "
+         "kuin NordVPN, ja Proton Pass saman Proton AG:n kuin Proton VPN ja Proton Drive — "
+         "tuttu nimi listalla voi siis olla saman yhtiön toinen tuote. LastPass itsenäistyi "
+         "GoTo-konsernista 2024 pääomasijoittajien omistukseen."),
+        ("<b>Miksi KeePass ei ole listalla?</b> Se on avoimen lähdekoodin yhteisöprojekti ilman "
+         "yhtiötä, hinnoittelua tai kuluttajapalvelua — erinomainen työkalu osaajalle, mutta ei "
+         "vertailukelpoinen kaupallinen palvelu. Bitwarden on mukana, koska sen takana on yhtiö "
+         "ja julkinen hinnoittelu, vaikka koodi on avointa."),
+        ("Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia. "
+         "Salasanaturvassa auditointien julkisuus on poikkeuksellisen tärkeää — siksi se on "
+         "oma 20 pisteen mittarinsa. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta "
+         "pisteisiin."),
+    ],
+}
+META["autokorjaamot"] = {
+    "slug": "autokorjaamot",
+    "nimi": "Autokorjaamot",
+    "nav": "Autokorjaamot",
+    "h1": "Suomen paras autokorjaamoketju 2026",
+    "yksikko": "valtakunnallista korjaamoketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista autokorjaamoketjua {m} mittarilla. Tärkein "
+             "kysymys: saatko huollon hinnan ja ajan verkosta ilman soittoa?"),
+    "meta_title": "Suomen paras autokorjaamo 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} autokorjaamoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Ketju ei ole yksi yhtiö:</b> suomalaiset korjaamoketjut ovat varaosatukkureiden "
+         "konsepteja, joissa yksittäiset korjaamot ovat itsenäisiä yrittäjiä — Autoasin takana "
+         "on Örum, Fixuksen takana Ruotsin pörssin MEKO-konserni, Autofitin takana Atoy ja "
+         "AD Autohuollon takana AD FIN. Motonet-korjaamot ja Euromaster Autohuolto esiintyvät "
+         "myös rengasliikkeet-vertailussa: sama yhtiö, eri palvelu ja eri mittaussivu."),
+        ("<b>Miksi Bosch Car Service ei ole listalla?</b> Se on löyhä brändiverkosto ilman "
+         "suomalaista vastuuyhtiötä, jonka sivustoa voisi mitata — sama syy jolla karsimme "
+         "aiemmin OpusLex-verkoston. Mekonomen karsittiin, koska se on samaa MEKO-konsernia "
+         "kuin jo listattu Fixus."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei "
+         "korjaustyön laatua. Huoltojen hinnat riippuvat automallista; vertailu mittaa "
+         "kerrotaanko hinnoittelu avoimesti etukäteen. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
     ],
 }

@@ -1,6 +1,6 @@
 {
  "slug": "pohjola",
- "hintalaskuri_ilman_yhteystietoja": "kylla",
+ "hintalaskuri_ilman_yhteystietoja": "osittain",
  "vakuutusehdot_saatavilla": "kylla",
  "omavastuu_selkeasti": "kylla",
  "korvausprosessi_kuvattu": "kylla",
@@ -19,7 +19,17 @@
  "aukioloajat_esilla": "ei",
  "ukk_osio": "osittain",
  "mobiilisovellus": "kylla",
- "vakuutuslajit": ["koti", "auto", "matka", "henkilö", "henkivakuutus", "eläin", "vene", "metsä", "arvotavara"],
+ "vakuutuslajit": [
+  "koti",
+  "auto",
+  "matka",
+  "henkilö",
+  "henkivakuutus",
+  "eläin",
+  "vene",
+  "metsä",
+  "arvotavara"
+ ],
  "fetched_ok": [
   "https://www.op.fi/henkiloasiakkaat/vakuutukset",
   "https://www.op.fi/henkiloasiakkaat/vakuutukset/kotivakuutus",
@@ -28,14 +38,26 @@
   "https://www.op.fi/henkiloasiakkaat/vakuutukset/vakuutuslaskuri",
   "https://www.op.fi/henkiloasiakkaat/vakuutukset/koiravakuutus"
  ],
- "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 70, "sisallon_kattavuus": 75},
- "vahvuudet": ["Hintalaskuri saatavilla ilman pakollisia henkilöllisiä yhteystietoja", "Vakuutusehdot ja omavastuut selkeästi dokumentoidut, saatavilla PDF-muodossa", "Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun ja kumppaniverkostoa"],
- "kehityskohteet": ["Riippumattomien asiakasarviointipalveluiden (Trustpilot, EPSI) linkkien puute", "Sähköpostipalvelu ei ole ensisijainen yhteydenottokanava", "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelin ja viestipalvelu"],
+ "ai_arviot": {
+  "selkeys": 70,
+  "hintojen_loydettavyys": 70,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Hintalaskuri saatavilla ilman pakollisia henkilöllisiä yhteystietoja",
+  "Vakuutusehdot ja omavastuut selkeästi dokumentoidut, saatavilla PDF-muodossa",
+  "Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun ja kumppaniverkostoa"
+ ],
+ "kehityskohteet": [
+  "Riippumattomien asiakasarviointipalveluiden (Trustpilot, EPSI) linkkien puute",
+  "Sähköpostipalvelu ei ole ensisijainen yhteydenottokanava",
+  "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelin ja viestipalvelu"
+ ],
  "yhteenveto": "Pohjola Vakuutus on OP Pohjolan pääasiallinen vakuutusyhtiö. Sivusto tarjoaa kattavan vakuutustuotteiden valikoiman (koti-, auto-, matka-, henkilö-, eläin-, vene-, metsä- ja muut vakuutukset). Hintalaskuri on ladattavissa ilman pakollisia henkilöllisiä yhteystietoja, vakuutusehdot ja omavastuut ovat selkeästi dokumentoidut ja Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun. OP-mobiilisovellus mahdollistaa vakuutusasioinnin liikkeellä. Riippumattomien arvioiden puuttuminen ja rajalliset yhteydenottokanavat ovat heikkouksia.",
  "evidence": {
-  "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Vakuutuslaskuri-sivu näyttää kotivakuutuksen, autovakuutuksen, matkavakuutuksen, koiravakuutuksen ja muiden hintalaskureita. Laskureilla voi vertailla vakuutuksia ja laskea hintoja ilman pakollisia henkilöllisiä yhteystietoja etukäteen.",
+  "hintalaskuri_ilman_yhteystietoja": "HAVAINTO: Vakuutuslaskurit ovat julkisesti sivustolla, mutta autovakuutuslaskuri pyytää henkilötunnuksen ennen hinnan näyttämistä (\"Tarvitsemme henkilötunnuksesi, jotta voimme laskea tarkan hinnan\") — hinta ei siis näy täysin ilman henkilötietoja. Faktantarkistettu 21.7.2026.",
   "vakuutusehdot_saatavilla": "HAVAINTO: Jokaisella vakuutustyypillä (koti, auto, matka, koira) on linkitettävissä 'Tuoteopas ja ehdot (pdf)' ja 'vakuutustietoasiakirja (pdf)' dokumentit.",
-  "omavastuu_selkeasti": "HAVAINTO: Omavastuut on selostettu selkeästi; esim. kotivakuutuksella €150-250 vaihtoehtoja, autovakuutuksella €200 omavastuut kaskoissa ja €70+30% matkavakuutuksella, koiravakuutuksella €70 vakuutuskaudella ja 30-40% lisäkuluista.",
+  "omavastuu_selkeasti": "HAVAINTO: Omavastuut on selostettu tuotesivuilla: kotivakuutuksella 150-250 euron vaihtoehdot, autovakuutuksella 200 euron omavastuu kaskossa, koiravakuutuksella 70 euroa vakuutuskaudella + 30 %:n lisäomavastuu. (Täsmennys 21.7.2026: 70 € + 30 % koskee koiravakuutusta, ei matkavakuutusta.)",
   "korvausprosessi_kuvattu": "HAVAINTO: Pohjola Vahinkoapu mainitaan kaikissa vakuutustyypeissä 24/7 palveluna. Korjaamo- ja eläinklinikkakumppanit hoitavat vahinkoilmoitukset puolesta. Prosessi kuvattu arvoesimerkeillä.",
   "y_tunnus_esilla": "HAVAINTO: 'Pohjola Vakuutus Oy' mainitaan vakuutusten myöntäjänä, mutta Y-tunnusta ei näy kirjautumattomalla sivulla.",
   "mobiilisovellus": "HAVAINTO: OP-mobiilisovellus mainitaan useissa paikoissa vakuutusasioinnin välineenä; kuvattiin, että vakuutuskortit, vahinko-ohjeet ja yksityiskohdat löytyvät sovelluksesta."

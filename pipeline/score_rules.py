@@ -220,6 +220,32 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    # ---------------- batch 5 (21.7.2026) — global digital services follow the
+    # vpn-palvelut convention: owner disclosure replaces Y-tunnus as the criterion.
+    "pilvitallennuspalvelut": [
+        ("hinnat_esilla", "Tallennustilan hinnat julkisesti esillä", 30),
+        ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 15),
+        ("suomenkielinen_palvelu", "Suomenkielinen sivusto ja hinnat euroissa", 20),
+        ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 15),
+        ("datan_sijainti_kerrottu", "Datan säilytysmaa tai lainkäyttöalue kerrottu", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "salasananhallintapalvelut": [
+        ("hinnat_esilla", "Hinnat julkisesti esillä", 30),
+        ("ilmainen_versio_kerrottu", "Ilmaisversion rajoitukset kerrottu selkeästi", 15),
+        ("turvallisuusauditoinnit", "Riippumattomat tietoturva-auditoinnit julkaistu", 20),
+        ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 15),
+        ("uusimishinta_kerrottu", "Uusimishinta kerrottu (ei vain tarjoushinta)", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "autokorjaamot": [
+        ("hinnat_esilla", "Huoltojen hinnat tai hinnoitteluperusteet julkisesti", 30),
+        ("ajanvaraus_verkossa", "Ajanvaraus verkossa ilman yhteydenottoa", 20),
+        ("huoltopalvelut_kuvattu", "Palveluvalikoima kuvattu selkeästi", 15),
+        ("toimipisteet_ja_aukioloajat", "Korjaamot ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
     # ---------------- batch 4 (21.7.2026)
     "muuttopalvelut": [
         ("hinnat_esilla", "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä", 30),

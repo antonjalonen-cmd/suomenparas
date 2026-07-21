@@ -8,7 +8,7 @@
  "meta_title": "Suomen paras vakuutusyhtiö 2026 — vahinkovakuuttajat pisteytettynä | Suomen Paras",
  "meta_desc": "7 suomalaista vahinkovakuutusyhtiötä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
-  "<b>Korjaus 18.7.2026 — Pohjola Vakuutus mitattu uudelleen:</b> alkuperäinen 16.7. mittaus tehtiin hakumenetelmällä, joka ei suorittanut JavaScriptiä — op.fi:stä näkyi vain kirjautumiskuori, ja Pohjolan hintalaskuri, ehdot ja omavastuutiedot pisteytettiin virheellisesti \"kirjautumisen takana\" -tilaan. Se oli mittausvirhe meidän päässämme, ei löydös Pohjolasta. Pohjolan rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä haulla; muiden yhtiöiden tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen virheellinen arvio säilyy versiohistoriassa.",
+  "<b>Korjaus 18.7.2026 — Pohjola Vakuutus mitattu uudelleen:</b> alkuperäinen 16.7. mittaus tehtiin hakumenetelmällä, joka ei suorittanut JavaScriptiä — op.fi:stä näkyi vain kirjautumiskuori, ja Pohjolan hintalaskuri, ehdot ja omavastuutiedot pisteytettiin virheellisesti \"kirjautumisen takana\" -tilaan. Se oli mittausvirhe meidän päässämme, ei löydös Pohjolasta. Pohjolan rivi on mitattu uudelleen 18.7.2026 JavaScriptin renderöivällä haulla; muiden yhtiöiden tulokset ovat edelleen 16.7.2026 mittauksesta. Alkuperäinen virheellinen arvio säilyy versiohistoriassa. Täsmennys 21.7.2026 faktantarkistuksessa: hintalaskuri-kriteeri tarkennettiin tasolle Osittain, koska autovakuutuslaskuri pyytää henkilötunnuksen ennen hinnan näyttämistä, ja omavastuu-havainnon vakuutuslajimerkintä korjattiin.",
   "<b>Omistus:</b> POP Vakuutus (Suomen Vahinkovakuutus Oy) on 70-prosenttisesti LähiTapiolan omistama — kaksi listan brändiä on siis samassa konsernissa. Neljä yhtiötä (LähiTapiola, Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Näytämme omistajan jokaisen kohdalla.",
   "<b>Miksi listalla on vain 7 yhtiötä?</b> Tarkistimme jokaisen brändin olemassaolon kaupparekisteristä 16.7.2026. Listalta puuttuvat: <b>Säästöpankki</b> (vahinkovakuutusten myynti loppui 3.6.2025, siirtymä valmis 2.1.2026), <b>Folksam</b> (sulautui Fenniaan 2019), <b>A-Vakuutus</b> (Pohjola Vakuutuksen vanha nimi), <b>Nordea</b> (myy If:n vakuutuksia omalla kanavallaan, ei oma vahinkovakuuttaja) ja <b>Aktia</b> (vain henkivakuutus). Alandia (meri/vene) ja Ålands Försäkringar (vain Ahvenanmaa) rajattiin pois, koska ne eivät myy valtakunnallista koti-/auto-/matkavakuutusta.",
   "Emme anna vakuutusneuvontaa emmekä vertaile vakuutusmaksuja. Vertailu kuvaa yhtiöiden julkisten verkkosivujen mitattavia ominaisuuksia — todellinen vakuutusmaksu on aina henkilökohtainen ja riippuu kohteesta. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
@@ -434,220 +434,6 @@
     "Mobiilisovellusta ei ole saatavilla"
    ],
    "yhteenveto": "POP Vakuutus (Suomen Vahinkovakuutus Oy) on digitaalinen vakuutusyhtiö, joka tarjoaa auto-, koti-, matka-, tapaturma-, vene- ja moottoripyörävakuutuksia. Sivusto on selkeä ja vakuutusten ehdot ovat vapaasti saatavilla PDF-muodossa. EPSI Rating 2025 -tutkimuksessa yhtiö sijoittui 2. sijalle 78,5 pisteellä ja sai kiitosta erityisesti hinta-laatusuhteesta. Haittapuolia ovat henkilötunnuksen vaatiminen hintalaskurissa sekä Y-tunnuksen puuttuminen verkkosivuilta."
-  },
-  {
-   "slug": "pohjola",
-   "nimi": "Pohjola Vakuutus",
-   "domain": "op.fi",
-   "omistaja": "OP Osuuskunta (OP Ryhmä)",
-   "y_tunnus": "1458359-3",
-   "rekisteroity": 1998,
-   "score": 63.7,
-   "pillars": {
-    "digitaalinen": 62.8,
-    "lapinakyvyys": 80.0,
-    "tavoitettavuus": 32.5,
-    "ai_laatu": 71.7
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "17/100",
-       "paino": 40,
-       "pisteet": 17,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "100/100",
-       "paino": 30,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "73/100",
-       "paino": 15,
-       "pisteet": 73,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Hinta-arvio ilman yhteystietoja",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Vakuutuslaskuri-sivu näyttää kotivakuutuksen, autovakuutuksen, matkavakuutuksen, koiravakuutuksen ja muiden hintalaskureita. Laskureilla voi vertailla vakuutuksia ja laskea hintoja ilman pakollisia henkilöllisiä yhteystietoja etukäteen."
-      },
-      {
-       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Jokaisella vakuutustyypillä (koti, auto, matka, koira) on linkitettävissä 'Tuoteopas ja ehdot (pdf)' ja 'vakuutustietoasiakirja (pdf)' dokumentit."
-      },
-      {
-       "mittari": "Omavastuu kerrottu selkeästi",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Omavastuut on selostettu selkeästi; esim. kotivakuutuksella €150-250 vaihtoehtoja, autovakuutuksella €200 omavastuut kaskoissa ja €70+30% matkavakuutuksella, koiravakuutuksella €70 vakuutuskaudella ja 30-40% lisäkuluista."
-      },
-      {
-       "mittari": "Korvausprosessi ja -ajat kuvattu",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pohjola Vahinkoapu mainitaan kaikissa vakuutustyypeissä 24/7 palveluna. Korjaamo- ja eläinklinikkakumppanit hoitavat vahinkoilmoitukset puolesta. Prosessi kuvattu arvoesimerkeillä."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Osittain",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 5.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Pohjola Vakuutus Oy' mainitaan vakuutusten myöntäjänä, mutta Y-tunnusta ei näy kirjautumattomalla sivulla."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: OP-mobiilisovellus mainitaan useissa paikoissa vakuutusasioinnin välineenä; kuvattiin, että vakuutuskortit, vahinko-ohjeet ja yksityiskohdat löytyvät sovelluksesta."
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "70/100",
-       "paino": 34,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "75/100",
-       "paino": 33,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 17,
-    "accessibility": 100,
-    "seo": 100,
-    "best_practices": 73,
-    "lcp_ms": 18832.250000000004,
-    "cls": 0.7303333569664314,
-    "tbt_ms": 656.5
-   },
-   "facts_extra": [
-    {
-     "label": "Vakuutuslajit",
-     "value": "Koti, Auto, Matka, Henkilö, Henkivakuutus, Eläin, Vene, Metsä, Arvotavara"
-    }
-   ],
-   "vahvuudet": [
-    "Hintalaskuri saatavilla ilman pakollisia henkilöllisiä yhteystietoja",
-    "Vakuutusehdot ja omavastuut selkeästi dokumentoidut, saatavilla PDF-muodossa",
-    "Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun ja kumppaniverkostoa"
-   ],
-   "kehityskohteet": [
-    "Riippumattomien asiakasarviointipalveluiden (Trustpilot, EPSI) linkkien puute",
-    "Sähköpostipalvelu ei ole ensisijainen yhteydenottokanava",
-    "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelin ja viestipalvelu"
-   ],
-   "yhteenveto": "Pohjola Vakuutus on OP Pohjolan pääasiallinen vakuutusyhtiö. Sivusto tarjoaa kattavan vakuutustuotteiden valikoiman (koti-, auto-, matka-, henkilö-, eläin-, vene-, metsä- ja muut vakuutukset). Hintalaskuri on ladattavissa ilman pakollisia henkilöllisiä yhteystietoja, vakuutusehdot ja omavastuut ovat selkeästi dokumentoidut ja Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun. OP-mobiilisovellus mahdollistaa vakuutusasioinnin liikkeellä. Riippumattomien arvioiden puuttuminen ja rajalliset yhteydenottokanavat ovat heikkouksia."
   },
   {
    "slug": "pohjantahti",
@@ -1282,6 +1068,220 @@
     "Asiakasarvioita tai riippumattomia luokituksia puuttuu"
    ],
    "yhteenveto": "LähiTapiola Keskinäinen Vakuutusyhtiö on suuri suomalainen vakuutusyritys, joka tarjoaa laajan valikoiman vakuutustuotteita henkilöasiakkaille. Sivusto esittelee vakuutustyypit selkeästi, ohjaa asiakkaita FAQ-osion ja dokumentoitujen korvausaikojen kautta, mutta hintojen vertailu vaatii postinumeron syöttämisen ja Y-tunnus puuttuu julkisen näkyvyyden alueelta. Riippumattomia asiakasarvioita ei näy."
+  },
+  {
+   "slug": "pohjola",
+   "nimi": "Pohjola Vakuutus",
+   "domain": "op.fi",
+   "omistaja": "OP Osuuskunta (OP Ryhmä)",
+   "y_tunnus": "1458359-3",
+   "rekisteroity": 1998,
+   "score": 59.2,
+   "pillars": {
+    "digitaalinen": 62.8,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutuslaskurit ovat julkisesti sivustolla, mutta autovakuutuslaskuri pyytää henkilötunnuksen ennen hinnan näyttämistä (\"Tarvitsemme henkilötunnuksesi, jotta voimme laskea tarkan hinnan\") — hinta ei siis näy täysin ilman henkilötietoja. Faktantarkistettu 21.7.2026."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella vakuutustyypillä (koti, auto, matka, koira) on linkitettävissä 'Tuoteopas ja ehdot (pdf)' ja 'vakuutustietoasiakirja (pdf)' dokumentit."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omavastuut on selostettu tuotesivuilla: kotivakuutuksella 150-250 euron vaihtoehdot, autovakuutuksella 200 euron omavastuu kaskossa, koiravakuutuksella 70 euroa vakuutuskaudella + 30 %:n lisäomavastuu. (Täsmennys 21.7.2026: 70 € + 30 % koskee koiravakuutusta, ei matkavakuutusta.)"
+      },
+      {
+       "mittari": "Korvausprosessi ja -ajat kuvattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pohjola Vahinkoapu mainitaan kaikissa vakuutustyypeissä 24/7 palveluna. Korjaamo- ja eläinklinikkakumppanit hoitavat vahinkoilmoitukset puolesta. Prosessi kuvattu arvoesimerkeillä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Pohjola Vakuutus Oy' mainitaan vakuutusten myöntäjänä, mutta Y-tunnusta ei näy kirjautumattomalla sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OP-mobiilisovellus mainitaan useissa paikoissa vakuutusasioinnin välineenä; kuvattiin, että vakuutuskortit, vahinko-ohjeet ja yksityiskohdat löytyvät sovelluksesta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 18832.250000000004,
+    "cls": 0.7303333569664314,
+    "tbt_ms": 656.5
+   },
+   "facts_extra": [
+    {
+     "label": "Vakuutuslajit",
+     "value": "Koti, Auto, Matka, Henkilö, Henkivakuutus, Eläin, Vene, Metsä, Arvotavara"
+    }
+   ],
+   "vahvuudet": [
+    "Hintalaskuri saatavilla ilman pakollisia henkilöllisiä yhteystietoja",
+    "Vakuutusehdot ja omavastuut selkeästi dokumentoidut, saatavilla PDF-muodossa",
+    "Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun ja kumppaniverkostoa"
+   ],
+   "kehityskohteet": [
+    "Riippumattomien asiakasarviointipalveluiden (Trustpilot, EPSI) linkkien puute",
+    "Sähköpostipalvelu ei ole ensisijainen yhteydenottokanava",
+    "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelin ja viestipalvelu"
+   ],
+   "yhteenveto": "Pohjola Vakuutus on OP Pohjolan pääasiallinen vakuutusyhtiö. Sivusto tarjoaa kattavan vakuutustuotteiden valikoiman (koti-, auto-, matka-, henkilö-, eläin-, vene-, metsä- ja muut vakuutukset). Hintalaskuri on ladattavissa ilman pakollisia henkilöllisiä yhteystietoja, vakuutusehdot ja omavastuut ovat selkeästi dokumentoidut ja Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun. OP-mobiilisovellus mahdollistaa vakuutusasioinnin liikkeellä. Riippumattomien arvioiden puuttuminen ja rajalliset yhteydenottokanavat ovat heikkouksia."
   },
   {
    "slug": "turva",
