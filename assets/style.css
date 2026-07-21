@@ -106,11 +106,15 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
 /* front-page search */
-.sp-search{position:relative;margin:0 0 24px;max-width:560px}
-.sp-search input{width:100%;padding:15px 18px;border-radius:14px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.35)}
+.sp-search{position:relative;margin:0 0 24px;max-width:600px}
+.sp-search input{width:100%;padding:16px 96px 16px 52px;border-radius:999px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.25);appearance:none;-webkit-appearance:none}
+.sp-ico{position:absolute;left:18px;top:50%;transform:translateY(-50%);width:22px;height:22px;color:var(--blue-deep);pointer-events:none;z-index:2}
+.sp-btn{position:absolute;right:7px;top:50%;transform:translateY(-50%);background:linear-gradient(165deg,var(--blue) 0%,var(--blue-deep) 100%);color:#fff;border:2.5px solid var(--ink);border-radius:999px;padding:9px 20px;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:.95rem;cursor:pointer;z-index:2}
+.sp-btn:hover{filter:brightness(1.08)}
+.sp-search input::-webkit-search-cancel-button{display:none}
 .sp-search input::placeholder{color:var(--mut);font-weight:600}
 .sp-search input:focus{outline:3px solid var(--gold);outline-offset:1px}
-.sp-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:var(--card);border:2.5px solid var(--ink);border-radius:12px;box-shadow:5px 6px 0 rgba(74,14,44,.25);z-index:70;overflow:hidden;max-height:340px;overflow-y:auto}
+.sp-results{position:absolute;top:calc(100% + 10px);left:0;right:0;background:var(--card);border:2.5px solid var(--ink);border-radius:18px;box-shadow:5px 6px 0 rgba(74,14,44,.25);z-index:70;overflow:hidden;max-height:340px;overflow-y:auto}
 .sp-row{display:flex;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--line);color:var(--ink);font-weight:700;font-size:.95rem}
 .sp-row:hover{background:var(--blue-soft);text-decoration:none}
 .sp-row:last-child{border-bottom:none}

@@ -245,11 +245,15 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
 /* front-page search */
-.sp-search{position:relative;margin:0 0 24px;max-width:560px}
-.sp-search input{width:100%;padding:15px 18px;border-radius:14px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.35)}
+.sp-search{position:relative;margin:0 0 24px;max-width:600px}
+.sp-search input{width:100%;padding:16px 96px 16px 52px;border-radius:999px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.25);appearance:none;-webkit-appearance:none}
+.sp-ico{position:absolute;left:18px;top:50%;transform:translateY(-50%);width:22px;height:22px;color:var(--blue-deep);pointer-events:none;z-index:2}
+.sp-btn{position:absolute;right:7px;top:50%;transform:translateY(-50%);background:linear-gradient(165deg,var(--blue) 0%,var(--blue-deep) 100%);color:#fff;border:2.5px solid var(--ink);border-radius:999px;padding:9px 20px;font-family:'Baloo 2',sans-serif;font-weight:700;font-size:.95rem;cursor:pointer;z-index:2}
+.sp-btn:hover{filter:brightness(1.08)}
+.sp-search input::-webkit-search-cancel-button{display:none}
 .sp-search input::placeholder{color:var(--mut);font-weight:600}
 .sp-search input:focus{outline:3px solid var(--gold);outline-offset:1px}
-.sp-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:var(--card);border:2.5px solid var(--ink);border-radius:12px;box-shadow:5px 6px 0 rgba(74,14,44,.25);z-index:70;overflow:hidden;max-height:340px;overflow-y:auto}
+.sp-results{position:absolute;top:calc(100% + 10px);left:0;right:0;background:var(--card);border:2.5px solid var(--ink);border-radius:18px;box-shadow:5px 6px 0 rgba(74,14,44,.25);z-index:70;overflow:hidden;max-height:340px;overflow-y:auto}
 .sp-row{display:flex;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--line);color:var(--ink);font-weight:700;font-size:.95rem}
 .sp-row:hover{background:var(--blue-soft);text-decoration:none}
 .sp-row:last-child{border-bottom:none}
@@ -955,7 +959,9 @@ def build_index():
     <h2 class="sec">Haetuimpien kategorioiden kärjet</h2>
     <p class="sec-sub">Hae mitä tahansa kategoriaa tai yritystä, tai selaa kuutta haetuinta alta. Loput {LIVE_COUNT} kategoriaa löydät <a href="kategoriat/">kategoriasivulta</a>.</p>
     <div class="sp-search" id="sp-search">
-      <input type="search" id="sp-q" placeholder="Mitä haluat vertailla? Hae kategoriaa tai yritystä…" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+      <svg class="sp-ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.6"/><line x1="15.6" y1="15.6" x2="21" y2="21" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>
+      <input type="search" id="sp-q" placeholder="Mitä haluat vertailla?" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+      <button type="button" class="sp-btn" id="sp-go">Hae</button>
       <div class="sp-results" id="sp-results" hidden></div>
     </div>
     <div class="top-grid">{top_boards}</div>
@@ -989,13 +995,16 @@ def build_index():
     }});
     render(hits.slice(0, 8));
   }});
+  function go(){{
+    var first = box.querySelector('a.sp-row');
+    if (first && !box.hidden) location.href = first.getAttribute('href');
+    else q.focus();
+  }}
   q.addEventListener('keydown', function(e){{
-    if (e.key === 'Enter') {{
-      var first = box.querySelector('a.sp-row');
-      if (first && !box.hidden) location.href = first.getAttribute('href');
-    }}
+    if (e.key === 'Enter') go();
     if (e.key === 'Escape') box.hidden = true;
   }});
+  document.getElementById('sp-go').addEventListener('click', go);
   document.addEventListener('click', function(e){{
     if (!document.getElementById('sp-search').contains(e.target)) box.hidden = true;
   }});

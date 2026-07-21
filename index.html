@@ -52,7 +52,9 @@
     <h2 class="sec">Haetuimpien kategorioiden kärjet</h2>
     <p class="sec-sub">Hae mitä tahansa kategoriaa tai yritystä, tai selaa kuutta haetuinta alta. Loput 29 kategoriaa löydät <a href="kategoriat/">kategoriasivulta</a>.</p>
     <div class="sp-search" id="sp-search">
-      <input type="search" id="sp-q" placeholder="Mitä haluat vertailla? Hae kategoriaa tai yritystä…" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+      <svg class="sp-ico" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.6"/><line x1="15.6" y1="15.6" x2="21" y2="21" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>
+      <input type="search" id="sp-q" placeholder="Mitä haluat vertailla?" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+      <button type="button" class="sp-btn" id="sp-go">Hae</button>
       <div class="sp-results" id="sp-results" hidden></div>
     </div>
     <div class="top-grid"><a class="top-board" href="lainavertailu/"><div class="tb-head">Lainavertailupalvelut<span class="tb-n">9 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">Etua.fi</span><span class="dots"></span><span class="sc">69,4</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">Rahalaitos</span><span class="dots"></span><span class="sc">67,7</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">Sortter</span><span class="dots"></span><span class="sc">67,3</span></div><div class="tb-foot">Koko vertailu →</div></a><a class="top-board" href="vakuutukset/"><div class="tb-head">Vakuutukset<span class="tb-n">7 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">If</span><span class="dots"></span><span class="sc">76,2</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">POP Vakuutus</span><span class="dots"></span><span class="sc">68,5</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">Pohjola Vakuutus</span><span class="dots"></span><span class="sc">63,7</span></div><div class="tb-foot">Koko vertailu →</div></a><a class="top-board" href="sahkosopimukset/"><div class="tb-head">Sähkösopimukset<span class="tb-n">9 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">Turku Energia</span><span class="dots"></span><span class="sc">78,7</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">Omavoima</span><span class="dots"></span><span class="sc">78,6</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">Helen</span><span class="dots"></span><span class="sc">75,9</span></div><div class="tb-foot">Koko vertailu →</div></a><a class="top-board" href="laajakaista/"><div class="tb-head">Laajakaista<span class="tb-n">9 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">Valoo</span><span class="dots"></span><span class="sc">82,9</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">BLC</span><span class="dots"></span><span class="sc">79,4</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">Kaisanet</span><span class="dots"></span><span class="sc">77,2</span></div><div class="tb-foot">Koko vertailu →</div></a><a class="top-board" href="pankit/"><div class="tb-head">Pankit<span class="tb-n">9 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">Danske Bank</span><span class="dots"></span><span class="sc">83,4</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">Ålandsbanken</span><span class="dots"></span><span class="sc">80,3</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">S-Pankki</span><span class="dots"></span><span class="sc">74,4</span></div><div class="tb-foot">Koko vertailu →</div></a><a class="top-board" href="puhelinliittymat/"><div class="tb-head">Puhelinliittymät<span class="tb-n">7 vertailtua</span></div><div class="tb-row gold"><span class="pos">1</span><span class="nm">Giga Mobiili</span><span class="dots"></span><span class="sc">76,6</span></div><div class="tb-row"><span class="pos">2</span><span class="nm">DNA</span><span class="dots"></span><span class="sc">76,5</span></div><div class="tb-row"><span class="pos">3</span><span class="nm">Telia</span><span class="dots"></span><span class="sc">70,7</span></div><div class="tb-foot">Koko vertailu →</div></a></div>
@@ -86,13 +88,16 @@
     });
     render(hits.slice(0, 8));
   });
+  function go(){
+    var first = box.querySelector('a.sp-row');
+    if (first && !box.hidden) location.href = first.getAttribute('href');
+    else q.focus();
+  }
   q.addEventListener('keydown', function(e){
-    if (e.key === 'Enter') {
-      var first = box.querySelector('a.sp-row');
-      if (first && !box.hidden) location.href = first.getAttribute('href');
-    }
+    if (e.key === 'Enter') go();
     if (e.key === 'Escape') box.hidden = true;
   });
+  document.getElementById('sp-go').addEventListener('click', go);
   document.addEventListener('click', function(e){
     if (!document.getElementById('sp-search').contains(e.target)) box.hidden = true;
   });
