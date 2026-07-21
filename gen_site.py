@@ -139,14 +139,14 @@ LIVE_COUNT = sum(1 for _, cats in CATEGORY_GROUPS for _, slug, _ in cats if slug
 # ---------------------------------------------------------------- shared css
 CSS = """
 :root{
-  --bg:#EAF2FE; --card:#FFFFFF; --ink:#14213F; --body:#2C3A5C; --mut:#5D6E92;
-  --blue:#2E6BD6; --blue-deep:#1E4FA8; --blue-soft:#D9E7FC;
-  --line:#C9D9F2; --gold:#F7B500; --gold-deep:#D89B00; --gold-soft:#FFF3CE; --gold-line:#FFC61A;
-  --silver:#93A2BC; --silver-soft:#EEF3FA; --bronze:#C08447; --bronze-soft:#F9EFE2;
-  --ok:#1F9D55; --warn:#C2410C; --cream:#FFF9EC;
+  --bg:#FDF0F6; --card:#FFFFFF; --ink:#43112B; --body:#5C2743; --mut:#9A6480;
+  --blue:#D6336C; --blue-deep:#A61E4D; --blue-soft:#FBDCE8;
+  --line:#F2C4D8; --gold:#F7B500; --gold-deep:#D89B00; --gold-soft:#FFF3CE; --gold-line:#FFC61A;
+  --silver:#B48EA0; --silver-soft:#F9EEF4; --bronze:#C08447; --bronze-soft:#F9EFE2;
+  --ok:#1F9D55; --warn:#C2410C; --cream:#FFF6FB;
   --r:20px;
-  --shadow:0 2px 0 rgba(20,33,63,.06),0 8px 20px rgba(30,79,168,.10);
-  --pop:0 4px 0 rgba(20,33,63,.16);
+  --shadow:0 2px 0 rgba(67,17,43,.06),0 8px 20px rgba(166,30,77,.12);
+  --pop:0 4px 0 rgba(67,17,43,.16);
 }
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -158,7 +158,7 @@ a:hover{text-decoration:underline}
 :focus-visible{outline:3px solid var(--gold);outline-offset:2px;border-radius:6px}
 .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
 /* header — graphite/silver to match the logo */
-header.site{background:linear-gradient(180deg,#2B3444 0%,#1D2532 100%);color:#fff;position:sticky;top:0;z-index:50;border-bottom:3px solid #10151E}
+header.site{background:linear-gradient(180deg,#B03068 0%,#8A1F4E 100%);color:#fff;position:sticky;top:0;z-index:50;border-bottom:3px solid #4A0E2C}
 header.site .wrap{display:flex;align-items:center;gap:24px;height:66px}
 .brand{display:flex;align-items:center;gap:12px;font-weight:700;font-size:1.28rem;color:#fff;letter-spacing:.01em}
 .brand:hover{text-decoration:none}
@@ -188,13 +188,13 @@ nav.main a.on{color:var(--gold-line)}
 .navdd-panel .all{color:var(--blue-deep)}
 .demo-ribbon{background:var(--ink);color:var(--gold-line);text-align:center;font-size:.8rem;font-weight:800;padding:6px 12px;letter-spacing:.03em}
 /* hero */
-.hero{background:linear-gradient(170deg,#333E50 0%,#232B38 62%,#171D27 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
+.hero{background:linear-gradient(170deg,#C2417A 0%,#96285C 62%,#5E1638 100%);color:#fff;padding:58px 0 74px;position:relative;overflow:hidden}
 .hero::before{content:"";position:absolute;width:1700px;height:1700px;left:50%;top:-560px;transform:translateX(-50%);background:repeating-conic-gradient(rgba(255,255,255,.55) 0 9deg,transparent 9deg 18deg);border-radius:50%;pointer-events:none;opacity:.045;animation:spin 140s linear infinite;-webkit-mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%);mask-image:radial-gradient(closest-side at 50% 42%,#000 34%,transparent 74%)}
 .hero .wrap{position:relative}
 .kicker{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;color:var(--gold-line);margin-bottom:16px;font-weight:600}
 .hero h1{font-size:clamp(2.1rem,4.8vw,3.4rem);line-height:1.08;letter-spacing:.01em;color:#fff;font-weight:800;max-width:660px}
 .hero h1 em{font-style:normal;color:var(--gold-line)}
-.hero p.lead{margin-top:16px;font-size:1.1rem;color:#CFD8E4;max-width:560px;font-weight:600}
+.hero p.lead{margin-top:16px;font-size:1.1rem;color:#F8DCE9;max-width:560px;font-weight:600}
 .hero-logo{width:240px;height:240px;margin-bottom:18px;filter:drop-shadow(0 10px 24px rgba(0,0,0,.45));animation:bounceIn .8s cubic-bezier(.3,1.5,.4,1) both,logoPulse 3.2s ease-in-out .9s infinite}
 @keyframes logoPulse{0%,100%{transform:scale(1);filter:drop-shadow(0 10px 24px rgba(0,0,0,.45))}50%{transform:scale(1.05);filter:drop-shadow(0 14px 34px rgba(255,198,26,.28))}}
 @media(prefers-reduced-motion:reduce){.hero-logo{animation:none}}
@@ -210,9 +210,9 @@ nav.main a.on{color:var(--gold-line)}
 @media(max-width:840px){.hero-grid{grid-template-columns:1fr}}
 .hero-stats{display:flex;gap:26px;margin-top:26px;flex-wrap:wrap}
 .hero-stat b{display:block;font-family:'Baloo 2',sans-serif;font-size:1.5rem;color:var(--gold-line);font-weight:600}
-.hero-stat span{font-size:.84rem;color:#A9B5C8;font-weight:600}
+.hero-stat span{font-size:.84rem;color:#EBBCD3;font-weight:600}
 /* live board */
-.board{background:var(--card);border-radius:var(--r);border:3px solid var(--ink);box-shadow:0 6px 0 rgba(10,22,50,.35);color:var(--body);overflow:hidden}
+.board{background:var(--card);border-radius:var(--r);border:3px solid var(--ink);box-shadow:0 6px 0 rgba(74,14,44,.35);color:var(--body);overflow:hidden}
 .board-head{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:2px solid var(--line);background:var(--cream)}
 .board-head .cat{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.05rem}
 .board-head .live{display:flex;align-items:center;gap:7px;font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
@@ -225,7 +225,7 @@ nav.main a.on{color:var(--gold-line)}
 .board-row.gold{background:var(--gold-soft)}
 .board-row.gold .pos{color:var(--gold-deep)}
 .board-row .nm{font-weight:800;color:var(--ink)}
-.board-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 6px;transform:translateY(5px)}
+.board-row .dots{flex:1;border-bottom:2px dotted #EFC6DA;height:2px;margin:0 6px;transform:translateY(5px)}
 .board-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .board-foot{padding:12px 18px;font-size:.88rem;font-weight:700}
 .board{transition:opacity .26s ease}
@@ -241,9 +241,30 @@ nav.main a.on{color:var(--gold-line)}
 .tb-row.gold{background:var(--gold-soft)}
 .tb-row.gold .pos{color:var(--gold-deep)}
 .tb-row .nm{font-weight:800;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.tb-row .dots{flex:1;border-bottom:2px dotted #BFD1EC;height:2px;margin:0 4px;transform:translateY(5px);min-width:14px}
+.tb-row .dots{flex:1;border-bottom:2px dotted #EFC6DA;height:2px;margin:0 4px;transform:translateY(5px);min-width:14px}
 .tb-row .sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink)}
 .tb-foot{padding:10px 16px;font-size:.84rem;font-weight:800;color:var(--blue)}
+/* front-page search */
+.sp-search{position:relative;margin-top:22px;max-width:560px;animation:fadeUp .65s cubic-bezier(.2,.7,.2,1) .3s both}
+.sp-search input{width:100%;padding:15px 18px;border-radius:14px;border:3px solid var(--ink);font-family:inherit;font-size:1.02rem;font-weight:700;background:#fff;color:var(--ink);box-shadow:0 5px 0 rgba(74,14,44,.35)}
+.sp-search input::placeholder{color:var(--mut);font-weight:600}
+.sp-search input:focus{outline:3px solid var(--gold);outline-offset:1px}
+.sp-results{position:absolute;top:calc(100% + 8px);left:0;right:0;background:var(--card);border:2.5px solid var(--ink);border-radius:12px;box-shadow:5px 6px 0 rgba(74,14,44,.25);z-index:70;overflow:hidden;max-height:340px;overflow-y:auto}
+.sp-row{display:flex;align-items:center;gap:10px;padding:11px 14px;border-bottom:1px solid var(--line);color:var(--ink);font-weight:700;font-size:.95rem}
+.sp-row:hover{background:var(--blue-soft);text-decoration:none}
+.sp-row:last-child{border-bottom:none}
+.sp-tag{font-family:'IBM Plex Mono',monospace;font-size:.6rem;background:var(--blue-soft);color:var(--blue-deep);padding:2px 7px;border-radius:6px;font-weight:600;white-space:nowrap;letter-spacing:.05em}
+.sp-tag.y{background:var(--gold-soft);color:#7A5A0E}
+.sp-nm{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sp-nm small{color:var(--mut);font-weight:600}
+.sp-sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--blue-deep)}
+.sp-go{color:var(--mut)}
+.sp-empty{padding:14px;color:var(--mut);font-weight:600;font-size:.92rem}
+/* footer bottom bar */
+.foot-bottom{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-top:24px;border-top:1px solid rgba(255,255,255,.14);padding-top:18px;flex-wrap:wrap}
+.foot-bottom .oy{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}
+.foot-bottom .btn{background:var(--gold);color:var(--ink);padding:9px 20px;border-radius:10px;font-weight:800;border:2.5px solid var(--ink)}
+.foot-bottom .btn:hover{text-decoration:none;transform:translateY(-1px)}
 /* analyysi form */
 .aform{max-width:640px;margin-bottom:22px}
 .aform label{display:block;font-weight:800;color:var(--ink);font-size:.92rem;margin:14px 0 0}
@@ -261,7 +282,7 @@ p.sec-sub{color:var(--mut);margin-bottom:26px;max-width:640px;font-weight:600}
 /* score stamp */
 .stamp{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:var(--blue-deep);color:#fff;border-radius:16px;border:2.5px solid var(--ink);box-shadow:var(--pop);padding:9px 14px 7px;min-width:80px}
 .stamp .n{font-family:'Baloo 2',sans-serif;font-weight:600;font-size:1.6rem;line-height:1}
-.stamp .l{font-size:.56rem;letter-spacing:.13em;color:#B9CFF3;margin-top:4px;font-weight:700;font-family:'IBM Plex Mono',monospace}
+.stamp .l{font-size:.56rem;letter-spacing:.13em;color:#F0C4D9;margin-top:4px;font-weight:700;font-family:'IBM Plex Mono',monospace}
 .stamp.gold{background:linear-gradient(160deg,var(--gold-line),var(--gold));color:var(--ink)}
 .stamp.gold .l{color:#7A5A0E}
 /* ranking cards */
@@ -365,10 +386,10 @@ td.pts b{color:var(--ink)}
 .upd{display:inline-flex;align-items:center;gap:7px;font-family:'IBM Plex Mono',monospace;font-size:.74rem;color:var(--ink);background:var(--card);border:2px solid var(--line);border-radius:99px;padding:5px 13px;font-weight:600}
 .upd::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--ok)}
 .note{font-size:.82rem;color:var(--mut);background:var(--blue-soft);border:1.5px solid var(--line);border-radius:14px;padding:12px 16px;margin:18px 0;font-weight:600}
-footer.site{background:var(--ink);color:#93A2BC;padding:36px 0;margin-top:64px;font-size:.84rem}
+footer.site{background:var(--ink);color:#D9A8C1;padding:36px 0;margin-top:64px;font-size:.84rem}
 footer.site .cols{display:grid;grid-template-columns:2fr 1fr 1fr;gap:32px}
 @media(max-width:700px){footer.site .cols{grid-template-columns:1fr}}
-footer.site a{color:#C8D6EE;font-weight:700}
+footer.site a{color:#F3CFE0;font-weight:700}
 footer.site h4{color:var(--gold-line);font-size:.95rem;margin-bottom:9px;font-weight:600}
 footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255,255,255,.12);font-size:.75rem;line-height:1.6}
 .pageh{padding:40px 0 8px}
@@ -465,7 +486,14 @@ footer.site .fine{margin-top:26px;padding-top:18px;border-top:1px solid rgba(255
   .navdd-panel{right:auto;left:0;min-width:min(250px,calc(100vw - 32px))}
   .demo-ribbon{font-size:.7rem;padding:5px 10px}
   .hero{padding:34px 0 44px}
-  .hero-logo{width:168px;height:168px;margin-bottom:14px}
+  .hero-logo{width:min(250px,64vw);height:auto;margin:0 auto 16px;display:block}
+  .hero h1{text-align:center}
+  .hero p.lead{text-align:center;margin-left:auto;margin-right:auto}
+  .hero-stats{justify-content:center}
+  .sp-search{max-width:none}
+  header.site .wrap{flex-wrap:wrap;height:auto;min-height:60px;padding-top:8px;padding-bottom:8px;gap:8px 16px}
+  nav.main{gap:6px 14px;flex-wrap:wrap;font-size:.88rem}
+  .top-grid{grid-template-columns:1fr}
   .hero-stats{gap:20px}
   section.band{padding:40px 0}
 }
@@ -706,7 +734,7 @@ def page(title, desc, body, root="", active=""):
     # The front page shows the big pulsing hero logo, so its header is text-only —
     # one logo per page. Subpages keep the small header logo.
     brand_img = "" if root == "" else (
-        f'<img src="{root}assets/logo-200.png?v=2" alt="Suomen Paras -logo" width="58" height="58">')
+        f'<img src="{root}assets/logo-200.png?v=3" alt="Suomen Paras -logo" width="58" height="58">')
     return f"""<!DOCTYPE html>
 <html lang="fi">
 <head>
@@ -717,13 +745,13 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=18">
-<script src="{root}assets/app.js?v=18" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=19">
+<script src="{root}assets/app.js?v=19" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
-    <a class="brand" href="{root}">{brand_img}<span class="btxt"><span>suomenparas<span class="tm">.com</span></span><span class="oy">Suomen Paras Oy</span></span></a>
+    <a class="brand" href="{root}">{brand_img}<span>SuomenParas<span class="tm">.com</span></span></a>
     <nav class="main">
       <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
@@ -751,6 +779,10 @@ def page(title, desc, body, root="", active=""):
       </div>
     </div>
     <p class="fine">Tämä on Suomen Paras -palvelun esittelyversio (demo). Pisteet perustuvat julkisiin lähteisiin {UPDATED}: yritysten omat verkkosivut, viralliset rekisterit ja tekniset mittaukset. Emme anna sijoitus-, laina- tai muuta talousneuvontaa, vaan vertailu on informatiivinen. Sivusto voi tulevaisuudessa sisältää affiliate-linkkejä, jotka eivät koskaan vaikuta sijoituksiin. Virheen huomatessasi: korjaamme datan seuraavassa päivityksessä.</p>
+    <div class="foot-bottom">
+      <a class="btn" href="{root}meista/">Meistä</a>
+      <span class="oy">© Suomen Paras Oy 2026</span>
+    </div>
   </div>
 </footer>
 </body>
@@ -851,6 +883,15 @@ def build_index():
         for v in VERTICALS
     ], ensure_ascii=False)
 
+    # Search index: every category and every scored company. A company owner must be
+    # able to find their own row (name + score + link) straight from the front page.
+    search_index = json.dumps(
+        [{"t": "k", "n": v["nimi"], "u": f"{v['slug']}/"} for v in VERTICALS] +
+        [{"t": "y", "n": c["nimi"], "k": v["nimi"], "sc": round(c["score"], 1),
+          "u": f"yritys/{v['slug']}/{c['slug']}/"}
+         for v in VERTICALS for c in v["yritykset"]],
+        ensure_ascii=False)
+
     def mini_board(v):
         rws = ""
         for i, c in enumerate(v["yritykset"][:3], 1):
@@ -863,7 +904,12 @@ def build_index():
                 f'<div class="tb-head">{esc(v["nimi"])}<span class="tb-n">{len(v["yritykset"])} vertailtua</span></div>'
                 f'{rws}<div class="tb-foot">Koko vertailu →</div></a>')
 
-    top_boards = "".join(mini_board(v) for v in VERTICALS)
+    # Front page shows only the most-searched categories' podiums — the full list
+    # lives behind Kaikki kategoriat and the search box covers everything else.
+    HAETUIMMAT = ["lainavertailu", "vakuutukset", "sahkosopimukset",
+                  "laajakaista", "pankit", "puhelinliittymat"]
+    by_slug = {v["slug"]: v for v in VERTICALS}
+    top_boards = "".join(mini_board(by_slug[s]) for s in HAETUIMMAT if s in by_slug)
 
     steps = """
 <div class="steps">
@@ -881,9 +927,13 @@ def build_index():
 <section class="hero">
   <div class="wrap hero-grid">
     <div>
-      <img class="hero-logo" src="assets/logo-480.png?v=2" alt="Suomen Paras" width="184" height="184">
-      <h1>Hyvä diili <em>ei ole sattumaa!</em></h1>
-      <p class="lead">Vertailemme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
+      <img class="hero-logo" src="assets/logo-480.png?v=3" alt="Suomen Paras" width="184" height="184">
+      <h1>Löydä luotettavin, <em>vertaa läpinäkyvästi</em></h1>
+      <p class="lead">Hyvä diili ei ole sattumaa: pisteytämme suomalaiset palvelut mitattavalla datalla, samalla kaavalla ja julkisin perustein. Näet jokaisen pisteen alkuperän.</p>
+      <div class="sp-search" id="sp-search">
+        <input type="search" id="sp-q" placeholder="Mitä haluat vertailla? Hae kategoriaa tai yritystä…" autocomplete="off" aria-label="Hae kategoriaa tai yritystä">
+        <div class="sp-results" id="sp-results" hidden></div>
+      </div>
       <div class="hero-stats">
         <div class="hero-stat"><b>{len(ALL_COMPANIES)}</b><span>palvelua pisteytetty</span></div>
         <div class="hero-stat"><b>{LIVE_COUNT}</b><span>kategoriaa live</span></div>
@@ -902,11 +952,51 @@ def build_index():
 
 <section class="band">
   <div class="wrap">
-    <h2 class="sec">Kategorioiden kärjet</h2>
-    <p class="sec-sub">Jokaisen live-kategorian kolme kärkeä suoraan etusivulla. Klikkaa kategoriaa nähdäksesi koko listan ja jokaisen pisteen perustelut.</p>
+    <h2 class="sec">Haetuimpien kategorioiden kärjet</h2>
+    <p class="sec-sub">Kuusi haetuinta kategoriaa ja niiden kolme kärkeä. Loput {LIVE_COUNT} kategoriaa löydät hausta tai <a href="kategoriat/">kategoriasivulta</a>.</p>
     <div class="top-grid">{top_boards}</div>
   </div>
 </section>
+
+<script>
+(function(){{
+  var IX = {search_index};
+  var q = document.getElementById('sp-q'), box = document.getElementById('sp-results');
+  if (!q) return;
+  function norm(t){{ return t.toLowerCase().replace(/[äå]/g,'a').replace(/ö/g,'o'); }}
+  function fmt(n){{ return n.toFixed(1).replace('.',','); }}
+  function render(list){{
+    if (!list.length) {{ box.innerHTML = '<div class="sp-empty">Ei osumia. Puuttuuko yrityksesi? <a href="analyysi/">Ota yhteyttä</a>.</div>'; box.hidden = false; return; }}
+    box.innerHTML = list.map(function(r){{
+      if (r.t === 'k') return '<a class="sp-row" href="' + r.u + '"><span class="sp-tag">Kategoria</span><span class="sp-nm">' + r.n + '</span><span class="sp-go">→</span></a>';
+      return '<a class="sp-row" href="' + r.u + '"><span class="sp-tag y">Yritys</span><span class="sp-nm">' + r.n + '<small> · ' + r.k + '</small></span><span class="sp-sc">' + fmt(r.sc) + '</span></a>';
+    }}).join('');
+    box.hidden = false;
+  }}
+  q.addEventListener('input', function(){{
+    var t = norm(q.value.trim());
+    if (t.length < 2) {{ box.hidden = true; return; }}
+    var hits = IX.filter(function(r){{ return norm(r.n + ' ' + (r.k || '')).indexOf(t) !== -1; }});
+    hits.sort(function(a, b){{
+      var an = norm(a.n).indexOf(t) === 0 ? 0 : 1, bn = norm(b.n).indexOf(t) === 0 ? 0 : 1;
+      if (an !== bn) return an - bn;
+      if (a.t !== b.t) return a.t === 'k' ? -1 : 1;
+      return 0;
+    }});
+    render(hits.slice(0, 8));
+  }});
+  q.addEventListener('keydown', function(e){{
+    if (e.key === 'Enter') {{
+      var first = box.querySelector('a.sp-row');
+      if (first && !box.hidden) location.href = first.getAttribute('href');
+    }}
+    if (e.key === 'Escape') box.hidden = true;
+  }});
+  document.addEventListener('click', function(e){{
+    if (!document.getElementById('sp-search').contains(e.target)) box.hidden = true;
+  }});
+}})();
+</script>
 
 <script>
 (function(){{
@@ -1417,6 +1507,33 @@ def build_yhteiso():
                 "Kerro mitä kategorioita haluat seuraavaksi ja anna palautetta palvelusta. Suomen Paras rakentuu avoimesti.",
                 body, root="../", active="yhteiso")
 
+def build_meista():
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> › <b>Meistä</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Tarinamme</h1>
+    <p class="lead">Suomen Paras syntyi yksinkertaisesta havainnosta: suomalaiset vertailusivut myyvät sijoituksia, eivät totuutta. Me päätimme rakentaa vertailun, jossa jokainen piste voidaan perustella.</p>
+  </div>
+
+  <div class="steps">
+    <div class="step"><span class="k">MIKSI</span><h3>Hyvä diili ei ole sattumaa</h3><p>Kun etsit lainaa, vakuutusta tai vaikka pakohuonetta, joku on yleensä maksanut siitä, mitä näet ensimmäisenä. Meillä sijoitusta ei voi ostaa: jokainen sijoitus lasketaan julkisella kaavalla julkisesta datasta, ja jokaisen pisteen alkuperän voi tarkistaa yrityksen profiilista.</p></div>
+    <div class="step"><span class="k">MITEN</span><h3>Mittaamme, emme mielipiteile</h3><p>Keräämme datan yritysten omilta verkkosivuilta, virallisista rekistereistä ja teknisillä mittauksilla, samalla prosessilla jokaiselle. Tärkein kysymyksemme on aina sama: kerrotaanko hinta ennen kuin luovutat tietosi? Kun löydämme virheen, korjaamme sen ja kerromme siitä avoimesti sivulla.</p></div>
+    <div class="step"><span class="k">KUKA</span><h3>Suomen Paras Oy</h3><p>Olemme suomalainen yhtiö, joka rakentaa Suomen läpinäkyvintä vertailupalvelua kategoria kerrallaan. Tavoitteena on kattaa yli sata kategoriaa, ja jokainen niistä avataan oikealla, tarkistetulla datalla, ei koskaan täytelistoilla.</p></div>
+  </div>
+
+  <div class="b2b">
+    <h3>Haluatko mukaan matkalle?</h3>
+    <p>Lukijana voit ehdottaa uusia kategorioita ja antaa palautetta yhteisösivulla. Yrittäjänä pääset alkuun maksuttomalla analyysilla, ja tulossa oleva Suomen Paras -sertifikaatti myönnetään samalla julkisella datalla, jolla kaikki muukin täällä mitataan.</p>
+    <a class="btn" href="../yhteiso/">Liity mukaan</a>
+    <a class="btn" href="../analyysi/" style="margin-left:10px">Pyydä maksuton analyysi</a>
+    <small>Sijoitusta ei voi ostaa. Sitä ei ole koskaan voinut, eikä koskaan voi.</small>
+  </div>
+</div>"""
+    return page("Meistä | Suomen Paras",
+                "Suomen Paras Oy:n tarina: vertailu jossa sijoitusta ei voi ostaa, vaan jokainen piste perustellaan julkisella datalla.",
+                body, root="../", active="meista")
+
 # ---------------------------------------------------------------- write
 def strip_em_dashes(html_text):
     # Site-wide copy rule (18.7.2026, Anton): no em dashes anywhere in published pages.
@@ -1441,6 +1558,7 @@ def main():
     w("analyysi/index.html", build_analyysi())
     w("sertifikaatti/index.html", build_sertifikaatti())
     w("yhteiso/index.html", build_yhteiso())
+    w("meista/index.html", build_meista())
     n = 3
     for v in VERTICALS:
         w(f"{v['slug']}/index.html", build_vertical(v))
