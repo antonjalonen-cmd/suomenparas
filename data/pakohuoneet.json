@@ -6,13 +6,222 @@
  "yksikko": "monikaupunkista pakohuoneketjua",
  "lead": "Pisteytimme {n} usealla paikkakunnalla toimivaa pakohuoneyritystä {m} mittarilla. Tärkein kysymys: näkyykö pelin hinta ja vapaat ajat ilman yhteydenottoa?",
  "meta_title": "Suomen paras pakohuone 2026 | pakohuoneketjut pisteytettynä | Suomen Paras",
- "meta_desc": "5 monikaupunkista pakohuoneketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "meta_desc": "6 monikaupunkista pakohuoneketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
-  "<b>Miksi listalla on vain 5 yritystä?</b> Pakohuoneala on rakenteellisesti paikallinen: valtaosa Suomen pakohuoneista on yhden kaupungin yrityksiä, joita ei voi asettaa valtakunnalliseen paremmuusjärjestykseen. Listalla ovat kaikki löytämämme usean paikkakunnan toimijat — kolme aitoa ketjua ja kaksi kahden paikkakunnan yritystä, joiden kattavuus on merkitty jokaisen kohdalle. <b>Room Escape Finland</b> on karsittu: yhtiö asetettiin konkurssiin 13.2.2026.",
+  "<b>Keitä listalla on?</b> Pakohuoneala on rakenteellisesti paikallinen: valtaosa Suomen pakohuoneista on yhden kaupungin yrityksiä. Listalla ovat kaikki löytämämme usean paikkakunnan toimijat sekä helsinkiläinen Amazed — jokaisen rivin kattavuus (montako kaupunkia) on merkitty omistajatietoon, joten yhden ja yhdeksän kaupungin toimijaa ei sekoiteta keskenään. <b>Room Escape Finland</b> on karsittu: yhtiö asetettiin konkurssiin 13.2.2026.",
   "<b>Omistus:</b> Truescape ja Mysteeri ovat saman yhtiön (Truescape Oy) kaksi brändiä — yhdessä 9 kaupunkia, mitattu yhtenä rivinä. Pakotarinat on myynyt toimipisteensä (Espoo Truescapelle, Joensuu Huonepakopelille) eikä toimi enää omana ketjunaan, vaikka nimi näkyy yhä vanhoissa hakemistoissa.",
   "Vertailu kuvaa yritysten julkisten verkkosivujen mitattavia ominaisuuksia, ei pelien hauskuutta tai huoneiden laatua. Pelikokemuksesta kertovat asiakasarviot, joiden näkyvyys sivustolla on yksi mittareistamme. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
  ],
  "yritykset": [
+  {
+   "slug": "amazed",
+   "nimi": "Amazed",
+   "domain": "amazed.fi",
+   "omistaja": "Amazed Oy — 1 kaupunki (Helsinki)",
+   "y_tunnus": "2716466-2",
+   "rekisteroity": 2015,
+   "score": 81.7,
+   "pillars": {
+    "digitaalinen": 65.1,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 85.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "83/100",
+       "paino": 30,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pelien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla näkyvät ryhmän koon mukaiset hinnat 105€–165€, myös alennukset (opiskelijat, lapset) ja maksumuodot listattu."
+      },
+      {
+       "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varaa-sivulla oleva varauskalenteri, asiakkaat voivat varata seuraavalle päivälle klo 22.00 asti verkkopohjaisesti."
+      },
+      {
+       "mittari": "Huoneet, vaikeustasot ja pelaajamäärät kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuusi peliä kuvattu teemoineen ja vaikeustasoineen (ALCHEMIA 4/5, TEETH 3.5/5, VOYAGE 3/5, MISSION 3.5/5, KGB 4/5, PELASTAKAA BENNY 4/5). FAQ:ssa mainitaan huoneen kapasiteetti max 6 henkeä."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Osoite Köydenpunojankatu 4a, 00180 Helsinki näkyy usealla sivulla. Aukioloajat: ma-la 11:00–17:00."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus FI27164662 näkyy sivuston alatunnisteessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: TripAdvisor-arviot integroitu etusivulle, näkyvät 488 arvostelua ja uusimpia asiakasarvioita pelistä 'KGB - The red dot'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 83,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 25935.732849999993,
+    "cls": 0.002341480647886665,
+    "tbt_ms": 2274.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja varauskalenteri selkeästi esillä, verkkovaraus yksinkertainen",
+    "Kaikki 6 peliä kuvattu vaikeustasoineen ja teemoineen, FAQ-osio laaja",
+    "Toimipiste ja aukioloajat näkyvät, TripAdvisor-arviot integroitu"
+   ],
+   "kehityskohteet": [
+    "Chat-tuki tai live-chat puuttuu, asiakkaat voivat ottaa yhteyttä vain puhelimitse tai sähköpostilla",
+    "Mobiilisovellusta ei ole, varaus vaatii verkkoselaimessa käynnin",
+    "Pelaajamäärät näkyvät FAQ:ssa (max 6/huone) mutta eivät pelin kuvauksissa"
+   ],
+   "yhteenveto": "aMazed Games on helsinkiläinen pakohuonepalvelu (1 toimipiste Kampissa), joka tarjoaa 6 peliä eri vaikeustasoineen. Sivusto on selkeä ja käyttöystävällinen: hinnat, varauskalenteri ja FAQ ovat helposti löydettävissä. Varaus toimii verkossa ilman yhteydenottoa, ja pelit on hyvin kuvattu teemoineen. Heikkouksina chat-tuki puuttuu ja pelaajamäärät eivät näy pelikuvausten yhteydessä."
+  },
   {
    "slug": "huonepakopeli",
    "nimi": "Huonepakopeli",

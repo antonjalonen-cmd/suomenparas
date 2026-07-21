@@ -1,0 +1,48 @@
+{
+  "slug": "amazed",
+  "fetched_ok": [
+    "https://www.amazed.fi/",
+    "https://www.amazed.fi/hinnasto",
+    "https://www.amazed.fi/pakohuoneet",
+    "https://www.amazed.fi/varaa",
+    "https://www.amazed.fi/faq",
+    "https://www.amazed.fi/yhteys"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "pelit_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pelin_hinta_alkaen_eur": 105,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Hinnat ja varauskalenteri selkeästi esillä, verkkovaraus yksinkertainen",
+    "Kaikki 6 peliä kuvattu vaikeustasoineen ja teemoineen, FAQ-osio laaja",
+    "Toimipiste ja aukioloajat näkyvät, TripAdvisor-arviot integroitu"
+  ],
+  "kehityskohteet": [
+    "Chat-tuki tai live-chat puuttuu, asiakkaat voivat ottaa yhteyttä vain puhelimitse tai sähköpostilla",
+    "Mobiilisovellusta ei ole, varaus vaatii verkkoselaimessa käynnin",
+    "Pelaajamäärät näkyvät FAQ:ssa (max 6/huone) mutta eivät pelin kuvauksissa"
+  ],
+  "yhteenveto": "aMazed Games on helsinkiläinen pakohuonepalvelu (1 toimipiste Kampissa), joka tarjoaa 6 peliä eri vaikeustasoineen. Sivusto on selkeä ja käyttöystävällinen: hinnat, varauskalenteri ja FAQ ovat helposti löydettävissä. Varaus toimii verkossa ilman yhteydenottoa, ja pelit on hyvin kuvattu teemoineen. Heikkouksina chat-tuki puuttuu ja pelaajamäärät eivät näy pelikuvausten yhteydessä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla näkyvät ryhmän koon mukaiset hinnat 105€–165€, myös alennukset (opiskelijat, lapset) ja maksumuodot listattu.",
+    "varaus_verkossa": "HAVAINTO: Varaa-sivulla oleva varauskalenteri, asiakkaat voivat varata seuraavalle päivälle klo 22.00 asti verkkopohjaisesti.",
+    "pelit_kuvattu": "HAVAINTO: Kuusi peliä kuvattu teemoineen ja vaikeustasoineen (ALCHEMIA 4/5, TEETH 3.5/5, VOYAGE 3/5, MISSION 3.5/5, KGB 4/5, PELASTAKAA BENNY 4/5). FAQ:ssa mainitaan huoneen kapasiteetti max 6 henkeä.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Osoite Köydenpunojankatu 4a, 00180 Helsinki näkyy usealla sivulla. Aukioloajat: ma-la 11:00–17:00.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus FI27164662 näkyy sivuston alatunnisteessa.",
+    "riippumaton_arvio": "HAVAINTO: TripAdvisor-arviot integroitu etusivulle, näkyvät 488 arvostelua ja uusimpia asiakasarvioita pelistä 'KGB - The red dot'."
+  }
+}

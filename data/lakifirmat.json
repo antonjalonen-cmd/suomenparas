@@ -6,10 +6,10 @@
  "yksikko": "valtakunnallista lakipalvelua",
  "lead": "Pisteytimme {n} kuluttajille lakipalveluja tarjoavaa toimijaa {m} mittarilla. Tärkein kysymys: kerrotaanko hinta ennen kuin otat yhteyttä?",
  "meta_title": "Suomen paras lakifirma 2026 | lakipalvelut pisteytettynä | Suomen Paras",
- "meta_desc": "6 valtakunnallista lakipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "meta_desc": "7 valtakunnallista lakipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
   "<b>Kaksi eri palvelumallia samalla listalla:</b> digitaaliset asiakirjapalvelut (Aatos, Lakitie, DIY Lakipalvelu) myyvät kiinteähintaisia asiakirjoja verkossa, perinteiset toimistot (Lindblad, Heikkilä &amp; Co) ja lakipuhelinpalvelu (Minilex) henkilökohtaista neuvontaa. Vertailu mittaa molemmilta samaa asiaa: kertooko sivusto hinnan ja tekijöiden pätevyyden etukäteen. <b>Asianajotoimisto</b> on valvottu nimike (Asianajajaliitto); lakiasiaintoimisto ja lakipalvelu eivät ole — siksi pätevyyden avoimuus on oma mittarinsa.",
-  "<b>Miksi listalla on vain 6 toimijaa?</b> Tarkistimme jokaisen ehdokkaan kaupparekisteristä 21.7.2026. <b>Lexly</b> (ent. Avtal24) on lakannut 22.12.2025 — domain ei vastaa, vaikka vanhoja suosituksia näkyy yhä verkossa. <b>Docue ja Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. <b>Fondia</b> on yritysjuridiikkaa. Alueelliset toimistot rajattiin pois valtakunnallisuussäännöllä.",
+  "<b>Miksi listalla on juuri nämä toimijat?</b> Tarkistimme jokaisen ehdokkaan kaupparekisteristä 21.7.2026. <b>Lexly</b> (ent. Avtal24) on lakannut 22.12.2025 — domain ei vastaa, vaikka vanhoja suosituksia näkyy yhä verkossa. <b>Docue ja Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. <b>Eversheds Sutherland</b> on mukana kansainvälisenä asianajotoimistona, vaikka sen asiakaskunta on pääosin yrityksiä — se mitataan samoilla kuluttajan läpinäkyvyysmittareilla kuin muutkin. Alueelliset toimistot rajattiin pois valtakunnallisuussäännöllä.",
   "<b>Tämä ei ole oikeudellista neuvontaa.</b> Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei juridisen työn laatua. Monimutkaisessa asiassa asiakirja-automaatti ei korvaa juristia. Hinnat vaihtelevat toimeksiannon mukaan; vertailu mittaa kerrotaanko hinnoittelu avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
  ],
  "yritykset": [
@@ -1282,6 +1282,215 @@
     "Usein kysytyt kysymykset, chat-palvelu, aukioloajat ja mobiilisovellus puuttuvat"
    ],
    "yhteenveto": "Asianajotoimisto Lindblad & Co on yli 30 vuotta toiminut monipuolinen lakiasiantoimisto, joka tarjoaa palveluja yritysjuridiikassa, kiinteistö- ja asunto-oikeudessa, perhe- ja perintöoikeudessa sekä muilla oikeuden aloilla. Verkkosivulla kuvataan palvelut ja asianajajien pätevyydet selkeästi, mutta hinnoittelusta ja sopimusehdoista ei löydy julkista informaatiota ilman yhteydenottoa."
+  },
+  {
+   "slug": "eversheds",
+   "nimi": "Eversheds Sutherland",
+   "domain": "eversheds-sutherland.com",
+   "omistaja": "Eversheds Asianajotoimisto Oy — kansainvälisen Eversheds Sutherland -verkoston itsenäinen suomalainen jäsen",
+   "y_tunnus": "2556202-6",
+   "rekisteroity": 2013,
+   "score": 52.9,
+   "pillars": {
+    "digitaalinen": 67.0,
+    "lapinakyvyys": 42.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 55.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoista ei ole mitään mainintaa ladatuilla sivuilla. 'Miten voimme auttaa?' -kehotus ohjaa yhteydenottoon."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä hintaan kuuluu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivut kuvaavat 20+ palvelualan erikoistumiset: rahoitusoikeus, kilpailuoikeus, yrityskaupat, riidanratkaisu, yksityishenkilöjuridiikka, verotus jne."
+      },
+      {
+       "mittari": "Juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Eversheds Asianajotoimisto Oy on liikejuridiikkaan erikoistunut täyden palvelun toimisto.' Sivuilla käytetään termejä 'asianajajamme', 'Partner', 'Managing Partner' osoittaen juridista pätevyyttä."
+      },
+      {
+       "mittari": "Toimeksiannon ehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa linkit 'Käyttöehdot' ja 'Lailliset huomautukset', mutta URL:t johtavat 404-sivuille (HTTP tutkimusvaiheessa 21.7.2026)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: +358 10 684 1300 listattu Helsinki-toimiston yhteystiedoissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: mail@eversheds.fi sekä secure.eversheds.fi salattujen sähköpostien lähettämiseen."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 6429.25,
+    "cls": 0.07978460467781598,
+    "tbt_ms": 791.0000000000018
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palvelutarjonta yli 20 oikeuden erikoistumisalalla",
+    "Kansainvälinen kaksitasoinen rakenne paikallisten asiantuntijoiden kanssa",
+    "Hyvin organisoitu sivusto selkeine navigointipolkuineen"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelu ei ole julkisesti näkyvissä, asiakkaan on otettava yhteyttä",
+    "Sopimusehdot ja lailliset huomautukset -linkit johtavat 404-sivulle",
+    "Chat- tai muita reaaliaikaisia viestintäkanavia ei tarjota"
+   ],
+   "yhteenveto": "Eversheds Asianajotoimisto Oy on liikejuridiikkaan erikoistunut kansainvälinen asianajotoimisto Helsingissä (Fabianinkatu 29 B). Sivusto esittelee laajaa palvelutarjontaa ja kansainvälistä osaamista selkein sanakääntein, mutta hinnoittelu on neuvoteltava erikseen ja jotkut sopimusehdot eivät ole saatavilla."
   }
  ],
  "updated": "21.7.2026",

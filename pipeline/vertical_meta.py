@@ -660,11 +660,14 @@ META["lakifirmat"] = {
          "neuvontaa. Vertailu mittaa molemmilta samaa asiaa: kertooko sivusto hinnan ja tekijöiden "
          "pätevyyden etukäteen. <b>Asianajotoimisto</b> on valvottu nimike (Asianajajaliitto); "
          "lakiasiaintoimisto ja lakipalvelu eivät ole — siksi pätevyyden avoimuus on oma mittarinsa."),
-        ("<b>Miksi listalla on vain {n} toimijaa?</b> Tarkistimme jokaisen ehdokkaan "
+        ("<b>Miksi listalla on juuri nämä toimijat?</b> Tarkistimme jokaisen ehdokkaan "
          "kaupparekisteristä 21.7.2026. <b>Lexly</b> (ent. Avtal24) on lakannut 22.12.2025 — "
          "domain ei vastaa, vaikka vanhoja suosituksia näkyy yhä verkossa. <b>Docue ja "
-         "Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. <b>Fondia</b> on "
-         "yritysjuridiikkaa. Alueelliset toimistot rajattiin pois valtakunnallisuussäännöllä."),
+         "Sopimustieto</b> ovat sama yhtiö, joka palvelee nykyään vain yrityksiä. "
+         "<b>Eversheds Sutherland</b> on mukana kansainvälisenä asianajotoimistona, vaikka sen "
+         "asiakaskunta on pääosin yrityksiä — se mitataan samoilla kuluttajan "
+         "läpinäkyvyysmittareilla kuin muutkin. Alueelliset toimistot rajattiin pois "
+         "valtakunnallisuussäännöllä."),
         ("<b>Tämä ei ole oikeudellista neuvontaa.</b> Vertailu kuvaa palveluiden julkisten "
          "verkkosivujen mitattavia ominaisuuksia, ei juridisen työn laatua. Monimutkaisessa "
          "asiassa asiakirja-automaatti ei korvaa juristia. Hinnat vaihtelevat toimeksiannon "
@@ -683,12 +686,12 @@ META["pakohuoneet"] = {
     "meta_title": "Suomen paras pakohuone 2026 | pakohuoneketjut pisteytettynä | Suomen Paras",
     "meta_desc": "{n} monikaupunkista pakohuoneketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
     "notes": [
-        ("<b>Miksi listalla on vain {n} yritystä?</b> Pakohuoneala on rakenteellisesti "
-         "paikallinen: valtaosa Suomen pakohuoneista on yhden kaupungin yrityksiä, joita ei voi "
-         "asettaa valtakunnalliseen paremmuusjärjestykseen. Listalla ovat kaikki löytämämme "
-         "usean paikkakunnan toimijat — kolme aitoa ketjua ja kaksi kahden paikkakunnan "
-         "yritystä, joiden kattavuus on merkitty jokaisen kohdalle. <b>Room Escape Finland</b> "
-         "on karsittu: yhtiö asetettiin konkurssiin 13.2.2026."),
+        ("<b>Keitä listalla on?</b> Pakohuoneala on rakenteellisesti paikallinen: valtaosa "
+         "Suomen pakohuoneista on yhden kaupungin yrityksiä. Listalla ovat kaikki löytämämme "
+         "usean paikkakunnan toimijat sekä helsinkiläinen Amazed — jokaisen rivin kattavuus "
+         "(montako kaupunkia) on merkitty omistajatietoon, joten yhden ja yhdeksän kaupungin "
+         "toimijaa ei sekoiteta keskenään. <b>Room Escape Finland</b> on karsittu: yhtiö "
+         "asetettiin konkurssiin 13.2.2026."),
         ("<b>Omistus:</b> Truescape ja Mysteeri ovat saman yhtiön (Truescape Oy) kaksi brändiä — "
          "yhdessä 9 kaupunkia, mitattu yhtenä rivinä. Pakotarinat on myynyt toimipisteensä "
          "(Espoo Truescapelle, Joensuu Huonepakopelille) eikä toimi enää omana ketjunaan, "

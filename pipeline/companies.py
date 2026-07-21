@@ -648,6 +648,11 @@ COMPANIES["lakifirmat"] = [
          omistaja="Itsenäinen; vuoteen 2024 asti asianajotoimisto, nykyään lakiasiaintoimisto"),
     dict(slug="minilex", nimi="Minilex", domain="minilex.fi", y_tunnus="2411251-7",
          omistaja="Minilex Oy — itsenäinen; lakipuhelin + juristiverkosto"),
+    # Added 21.7.2026 by owner request. International network's Finnish member firm;
+    # serves mainly businesses and private wealth — no public prices, which the
+    # transparency pillar scores as found.
+    dict(slug="eversheds", nimi="Eversheds Sutherland", domain="eversheds-sutherland.com", y_tunnus="2556202-6",
+         omistaja="Eversheds Asianajotoimisto Oy — kansainvälisen Eversheds Sutherland -verkoston itsenäinen suomalainen jäsen"),
 ]
 
 # PAKOHUONEET (verified 21.7.2026, pipeline/verify_batch4/pakohuoneet.md) — the industry
@@ -669,6 +674,11 @@ COMPANIES["pakohuoneet"] = [
          omistaja="MooseFabric Oy — 2 kaupunkia (Joensuu, Kuopio)"),
     dict(slug="the-great-escape", nimi="The Great Escape", domain="thegreatescape.fi", y_tunnus="2978448-6",
          omistaja="Gr8 Escape Oy — 2 paikkakuntaa (Kajaani, Vuokatti)"),
+    # Added 21.7.2026 by owner request. SINGLE-CITY operator (Helsinki/Kamppi) — the
+    # category is otherwise multi-city; its coverage is labelled on the row and the
+    # category note was reworded so the published claim stays true.
+    dict(slug="amazed", nimi="Amazed", domain="amazed.fi", y_tunnus="2716466-2",
+         omistaja="Amazed Oy — 1 kaupunki (Helsinki)"),
 ]
 
 # HAMMASLÄÄKÄRIT (verified 21.7.2026, pipeline/verify_batch4/hammaslaakarit.md).
