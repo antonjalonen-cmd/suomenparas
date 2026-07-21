@@ -1,0 +1,51 @@
+{
+  "slug": "onedrive",
+  "fetched_ok": [
+    "https://www.microsoft.com/fi-fi/microsoft-365/onedrive/compare-onedrive-plans",
+    "https://www.microsoft.com/fi-fi/microsoft-365/onedrive",
+    "https://support.microsoft.com/fi-fi/onedrive/",
+    "https://privacy.microsoft.com/fi-fi/",
+    "https://privacy.microsoft.com/fi-fi/privacystatement",
+    "https://www.microsoft.com/fi-fi/servicesagreement"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 10,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 95,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näkyvissä euroissa ennen rekisteröitymistä",
+    "Kattava suomenkielinen dokumentaatio ja tuki-resursssit",
+    "Mobiilisovellukset saatavilla iOS:lle ja Android-laitteille"
+  ],
+  "kehityskohteet": [
+    "Riippumatonta auditointiraporttia tai tietoturva-arviota ei löydy julkisesti",
+    "Puhelintuen yhteystiedot puuttuvat hinnoittelusivuilta",
+    "EU-datarajatoiminnon saatavuus ei ole selvästi selitettynä kuluttajapuolella"
+  ],
+  "yhteenveto": "Microsoft OneDrive on Microsoft 365:n pilvipalvelu, jonka hinnoittelu on selkeästi esillä euroissa kaikilla pääsivuilla. Suomenkielinen sivusto ja dokumentaatio ovat kattavat, mutta riippumatonta arviointia palvelun tietoturvasta ei ole julkisesti saatavilla. Uusimishinta ja automaattinen uusiutuminen kerrotaan eksplisiittisesti käyttöehdoissa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnaston verkkosivulla listataan kolme hinnoitteluvaihtoehto: Microsoft 365 Basic 20,00 €/vuosi, Microsoft 365 Personal 99,00 €/vuosi (1 Tt tallennustila), Microsoft 365 Family 129,00 €/vuosi (jopa 6 Tt). Hinnat näkyvät välittömästi render_page.py -haun jälkeen ilman rekisteröitymisen vaatimusta.",
+    "uusimishinta_kerrottu": "HAVAINTO: Hinnoittelusivulla mainitaan 'Tilaus uusitaan automaattisesti, ellei sitä peruuteta Microsoft-tilillä.' Käyttöehdoissa (servicesagreement) todetaan myös 'Tilauksen hintaan sisältyvät sovellukset' ja mainitaan kuukausihinta (esim. 2,00 € kuukaudessa Basic-paketille, eli 20 €/vuosi).",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto on suomenksi ja hinnat ovat euroissa. URL-osoitteet sisältävät '/fi-fi/' ja kaikki teksti, mukaan lukien kuvauskentät ja hinnat, ovat suomeksi. Sivusto renderöi oikein suomenkielisen käyttöliittymän.",
+    "omistaja_kerrottu": "HAVAINTO: Sivustolla mainitaan 'Microsoft' ja palvelua markkinoidaan 'Microsoft 365' -brändillä. Tietosuojalausekkeessa mainitaan 'Microsoft Ireland Operations Limited' vastuuhenkilönä GDPR-yhteydessä. Yrityksen omistajuus on implisiittinen (Microsoft Corporation), mutta laillinen yhteisö EU:ssa on selvennetty.",
+    "datan_sijainti_kerrottu": "HAVAINTO: Tietosuojalausekkeessa lukee 'Microsoft voi tallentaa ja käsitellä henkilökohtaisia tietojasi alueellasi, Yhdysvalloissa ja millä tahansa muulla lainkäyttöalueella, jossa Microsoftilla tai sen tytäryhtiöillä, osakkuusyrityksillä tai palveluntarjoajilla on toimitiloja.' Lisäksi mainitaan 'Microsoft Cloudin avulla asiakkaat voivat pitää henkilökohtaisia tietoja Euroopan tietorajan sisällä (EU data border).'",
+    "riippumaton_arvio": "HAVAINTO: Julkisilla hinnoittelu- tai tukisivuilla ei mainita riippumatonta auditointia (esim. Deloitte, Big Four -auditointia). Ainoastaan Microsoftin omat turvallisuus- ja yksityisyyskuvaukset on saatavilla. Kolmannen osapuolen sertifiointeja tai arviointeja ei löydy etsimisilläni sivuilla.",
+    "ukk_osio": "HAVAINTO: Support.microsoft.com-sivulla on laaja 'OneDriven ohje' -osio, joka sisältää kategorioita: Aloittaminen, Tiedostot, Jakaminen ja yhteiskäyttö, Synkronointi, Tilit ja tallennus, sekä Vianmääritys. Lisäksi mainitaan oppimiskeskus ja blogiartikkelit.",
+    "mobiilisovellus": "HAVAINTO: Pääsivulla mainitaan 'Hanki OneDrive-mobiilisovellus' ja linkit 'Lataa iOS:lle' ja 'Lataa Android™-käyttöjärjestelmää varten'. Sivulla kuvataan iOS- ja Android-sovellusten ominaisuuksia kuten kuvien automaattinen varmuuskopiointi.",
+    "hinta_2tt_kk_eur": "HAVAINTO: Personal-paketti tarjoaa 1 Tt tallennustilaa hintaan 99,00 €/vuosi (10,00 €/kuukausi). 2 Tt:n vertailukelpoinen paketti ei ole kuluttajapuolella saatavilla suoraan; lähimpänä on Personal-taso 1 Tt:lla tai Family 1 Tt per käyttäjä. Kerrotaan 10 € kuukauden hintana Personal-paketin perusteella (1 Tt)."
+  }
+}

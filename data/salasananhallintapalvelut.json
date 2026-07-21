@@ -1,0 +1,1514 @@
+{
+ "slug": "salasananhallintapalvelut",
+ "nimi": "Salasananhallintapalvelut",
+ "nav": "Salasanat",
+ "h1": "Suomen paras salasananhallinta 2026",
+ "yksikko": "Suomessa myytävää salasananhallintapalvelua",
+ "lead": "Pisteytimme {n} salasananhallintapalvelua {m} mittarilla. Tärkein kysymys: näkyykö hinta ennen tilin luomista, ja onko tietoturva auditoitu julkisesti?",
+ "meta_title": "Suomen paras salasananhallinta 2026 | palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "7 salasananhallintapalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus kannattaa tietää:</b> NordPass on saman Nord Security -konsernin palvelu kuin NordVPN, ja Proton Pass saman Proton AG:n kuin Proton VPN ja Proton Drive — tuttu nimi listalla voi siis olla saman yhtiön toinen tuote. LastPass itsenäistyi GoTo-konsernista 2024 pääomasijoittajien omistukseen.",
+  "<b>Miksi KeePass ei ole listalla?</b> Se on avoimen lähdekoodin yhteisöprojekti ilman yhtiötä, hinnoittelua tai kuluttajapalvelua — erinomainen työkalu osaajalle, mutta ei vertailukelpoinen kaupallinen palvelu. Bitwarden on mukana, koska sen takana on yhtiö ja julkinen hinnoittelu, vaikka koodi on avointa.",
+  "Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia. Salasanaturvassa auditointien julkisuus on poikkeuksellisen tärkeää — siksi se on oma 20 pisteen mittarinsa. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "keeper",
+   "nimi": "Keeper",
+   "domain": "keepersecurity.com",
+   "omistaja": "Keeper Security, Inc. (Yhdysvallat)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 80.7,
+   "pillars": {
+    "digitaalinen": 79.6,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 79.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "59/100",
+       "paino": 40,
+       "pisteet": 59,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "91/100",
+       "paino": 15,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat näkyvät selkeästi omalla sivullaan (https://www.keepersecurity.com/pricing/personal-and-family.html). Personal-taso: $4.50/kk (vuotuislaskutus $53.95), Family-taso: $9.62/kk (vuotuislaskutus $115.45). Valuutan valitsija näyttää vaihtoehdot USD, CAD, EUR, GBP, JPY, AUD, mutta sivulla näytetyt hinnat ovat USD."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 30 päivän ilmainen kokeilu mainitaan hinnoittelysivun FAQ-osiossa kohdassa 'How much does Keeper cost?' sekä 'Try It Free' -painikkeet ovat näkyvissä sivuston navigaatiossa."
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Security-sivulla (https://www.keepersecurity.com/security.html) näytetään: FIPS 140-3 -sertifikaatti (NIST CMVP), penetrointitestaus NCC Group, CyberTest ja riippumattomien tutkijoiden kanssa neljännesvuosittain, bug bounty -ohjelma Bugcrowdin kanssa. Homepage mainitsee myös FedRAMP High, ISO 27001/27017/27018, SOC 2, HIPAA, PCI DSS ja TrustArc sertifikaatit."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Keeper Security, Inc. mainitaan sivustolla. About-sivulla (https://www.keepersecurity.com/company/about/) todetaan: 'Keeper is backed by Insight Partners, a leading, global venture capital and private equity firm.' CEO & Co-Founder on Darren Guccione."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vuosittaiset hinnat ovat näkyvissä ('$53.95 billed annually' ja '$115.45 billed annually'), jonka voidaan katsoa olevan uusimishinta. Kuukausittainen hinnoittelu näytetään myös ($4.50/kk ja $9.62/kk)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelysivulla näytetään kolmannen osapuolen arvosteluja (US News & World Report, PCMag.com, PCWorld Editors' Choice, käyttäjäarvostelu 5.0/5). Trust Center -linkki (https://trust.keeper.io/) ei kuitenkaan lataudu ja palauttaa tyhjää sisältöä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät sivuston footerissa: Americas & APAC +1 708 515 4062, Federal & SLED +1 202 946 4575, EMEA +353 21 237 5250. Business Supportissa: Americas +1 312 226 4782, EMEA +353 21 237 5250, APAC +81 3 4520 3524."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei löydetty otsikosta tai footerista. Kontaktilomake on saatavilla (/contact.html?t=b&r=sales), mutta suora sähköpostiosoite henkilöpalveluille ei ole näkyvissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tuki ei ole mainittu henkilöpalveluiden (Personal/Family) kuvauksissa. Sivustolla on chat-widget, mutta se on liiketoiminnan tukea varten."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erityisiä aukioloaikoja ei ole näkyvissä. Sivustossa mainitaan 24/7 customer support tuotteen ominaisuuksina."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelysivulla on laaja FAQ-osio 'Frequently asked questions' viidellä kysymyksellä: 'How much does Keeper cost?', 'What is the best password manager for personal use?', 'How do I share passwords with family members using Keeper?', 'How safe are password managers?', 'How do I protect myself from the dark web?'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelysivulla mainitaan 'Web app and browser extensions'. Download-osio (https://www.keepersecurity.com/download.html) näyttää saatavuuden: Mac, Windows, Linux, Chrome, Firefox, Safari, Edge, Opera ja Beta Program."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 59,
+    "accessibility": 91,
+    "seo": 91,
+    "best_practices": 100,
+    "lcp_ms": 3198.6454500000004,
+    "cls": 0.6610912818955041,
+    "tbt_ms": 184.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelu selkeästi esillä dedikoidulla sivulla, kaksi tasoetettua henkilöpalvelua (Personal ja Family)",
+    "Laajat turvallisuussertifikaatit ja kolmannen osapuolen auditoinnit (FIPS 140-3, penetration testing, bug bounty) näkyvillä",
+    "Ilmaisversio (30 päivän kokeilu) ja mobiilisovellukset (macOS, Windows, Linux, selainlaajennukset) selkeästi dokumentoitu"
+   ],
+   "kehityskohteet": [
+    "EUR-hintojen puuttuminen – vain USD-hinnat esillä (Personal $4.50/kk eli noin 4,15€, Family $9.62/kk eli noin 8,86€ vuotuislaskutuksella)",
+    "Trust Center -linkki ei toimi – promise-sivun sisältö ei lataudu",
+    "Tuki-yhteydenottotavat (puhelinnumerot ovat esillä) mutta sähköpostiosoite ja chat-tuki eivät ole selkeästi näkyvissä henkilöpalveluiden osalta"
+   ],
+   "yhteenveto": "Keeper on tunnettu salasananhallintapalvelu, jota tukee pääomasijoitusyhtiö Insight Partners. Palvelun turvallisuus on vahva: FIPS 140-3 -sertifioidut kryptografiset moduulit, säännölliset penetrointitestit ja bug bounty -ohjelma ovat näkyvissä. Hinnoittelu on selkeä (Personal $4.50/kk, Family $9.62/kk vuosittain laskutettuna), vaikka EUR-hinnat puuttuvat."
+  },
+  {
+   "slug": "bitwarden",
+   "nimi": "Bitwarden",
+   "domain": "bitwarden.com",
+   "omistaja": "Bitwarden Inc. (Yhdysvallat) — avoin lähdekoodi, pääomasijoittajarahoitteinen",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 77.2,
+   "pillars": {
+    "digitaalinen": 77.8,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 86.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "52/100",
+       "paino": 40,
+       "pisteet": 52,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivulla esitetään Premium-suunnitelma €1,65 kuukaudessa (vuosittain laskutettava €19,80), Families-suunnitelma €3,99 kuukaudessa ja Business-suunnitelmat alkavat €4 kuukaudessa per käyttäjä."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla todetaan 'Get basic password management today. Always free.' Ilmainen versio sisältää yhdessä ilmaisen organisaation (kaksi käyttäjää), rajattomat laitteet, selaimen laajennukset, mobiili- ja pöytäsovellukset, kaksivaiheisen kirjautumisen sekä Bitwarden Sendin."
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Compliance-sivulla ilmoitetaan ISO 27001 -sertifikaatti, SOC2 Type II ja SOC3 -sertifikaatit, HIPAA-vaatimustenmukaisuus sekä vuosittaiset kolmannen osapuolen auditoinnit (source code assessments ja penetration tests)."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About-sivulla ilmoitetaan 'Bitwarden, Inc.' pääkonttorilla Santa Barbarassa (1 North Calle Cesar Chavez, Suite 102, Santa Barbara, CA 93103 USA). Terms of Service määrittelee, että Bitwarden, Inc. on Delawaren osavaltio-perustettu yritys, joka omistaa 8bit Solutions LLC:tä."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terms of Service -sivulla mainitaan 'prices are subject to change at the end of a payment term', mutta sivulla ei esitetä erillistä uusimishintaa alkuperäisen sopimushinnasta poikkeavaksi. Pricing-sivulla näkyvät hinnat koskevat vuosittaisia sopimuksia."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on Media Spotlight -osio ja viittaukset asiakasarviointeihin (customer reviews) ja käyttäjäarviointeihin. Compliance-sivulla mainitaan säännöllisesti tehtävät kolmannen osapuolen auditoinnit ja HackerOne bug bounty -ohjelma."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terms of Service -sivulla ilmoitetaan selkeästi 'We do not offer telephone support' ja 'We only offer support via email, in-Service communications, and electronic messages.'"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Center ja About-sivu mainitsevat sähköpostituella saatavilla 'Contact support'. Ehdoissa mainitaan sähköpostituella saatava tuki."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mitään mainintaa chat-tuesta tai reaaliaikaisen chatin saatavuudesta sivuston missään osassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei ole mainintaa aukioloajoista. Tuen saatavuus näyttää olevan 24/7 sähköpostilla, mutta tarkkoja aukioloaikoja ei ilmoiteta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About-sivulla on FAQ-osio, jossa vastaillaan usein esitettäviin kysymyksiin hinnoittelusta, turvallisuudesta, salasananimportista ja muista aiheista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivulla todetaan 'Browser, Mobile, Desktop apps' sekä all core features sisältävät mainitaan mobiilisovellukset ilmaiselle ja maksetuille suunnitelmille."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 52,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 3008.6005,
+    "cls": 0.0724467874147062,
+    "tbt_ms": 2039.4999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelu on erittäin selkeä ja helposti saatavilla ilman kirjautumista (Premium €1,65/kk, Families €3,99/kk)",
+    "Laaja riippumattomien turvallisuusauditoinnien dokumentointi (ISO 27001, SOC2 Type II, SOC3, HIPAA)",
+    "Ilmainen versio tarjoaa hyödyllisen joukon perusominaisuuksia, mukaan lukien rajattomat laitteet ja kaksisuuntainen todennus"
+   ],
+   "kehityskohteet": [
+    "Puhelintuella ei ole palvelua, vain sähköpostetuki ja Help Center -kanava",
+    "Uusimishinnoittelusta ei ole tarkkaa eriteltyä tietoa sivulla",
+    "Terms of Service sisältää laajat vastuunrajoitukset ja ilmoitustapojen koskevat ehdot, jotka voivat olla asiakkaalle epäedullisia"
+   ],
+   "yhteenveto": "Bitwarden on kansainvälinen, avoimen lähdekoodin salasananhallintapalvelu, jonka hinnoittelun läpinäkyvyys on erinomainen. Ilmaisversio tarjoaa lähes täydet perusfunktiot kahden käyttäjän organisaatioilla, ja maksulliset suunnitelmat alkavat kohtuullisesta hinnasta. Palvelun turvallisuusväitteet perustuvat riippumattomiin kolmannen osapuolen auditoinneihin ja kansainvälisiin sertifiointeihin."
+  },
+  {
+   "slug": "nordpass",
+   "nimi": "NordPass",
+   "domain": "nordpass.com",
+   "omistaja": "Nord Security (Liettua) — sama konserni kuin NordVPN",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 76.4,
+   "pillars": {
+    "digitaalinen": 73.6,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla näkyvät Premium-hinnat €28.56/kk (kampanjahinta 24 kuukaudelle) ja €71.76/kk (uusimishinta). Family-plan €52.56/kk kampanjalla, €143.76/kk normaalihinta."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Free-plan listattu plans-sivulla ja password-manager-sivulla, selkeästi näkyvät rajoitukset (ei Password Health, Data Breach Scanner, Authenticator, File Attachments ilmaisversiossa)."
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan ISO/IEC 27001:2022 sertifikaatti, SOC 2 Type 2 -auditointi ja riippumaton Cure53-auditointi. ISO 27001 ja SOC 2 omilla detailed-sivuillaan."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About Us -sivulla selkeästi kerrotaan: 'NordPass is developed by Nord Security, a company leading the global market of cybersecurity products.'"
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Plans-sivulla näkyvät sekä kampanjahinta (60% säästö €28.56/kk) että uusimishinta (€71.76/kk) 2-vuotiselle paketille."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Cure53:n riippumaton tietoturva-auditointi mainitaan sekä ISO 27001- että SOC 2 -sivuilla, mutta Trustpilot-ratingeja tai muita kuluttaja-arvioita ei ole näkyvissä kotisivulla. YouTube-videoista löytyy influencer-arvioita."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei löydy contact-us -sivulta eikä pääsivulta. Contact Us -sivu ohjaa eri ryhmiä (business, media, customer support) eri kanaviin, mutta puhelinnumero puuttuu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sähköpostiosoite support@nordpass.com on näkyvissä contact-us -sivulla FAQ-osion linkissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei mainita contact-us -sivulla. Saatavilla on vain email-tuki ja Help Center -linkki."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan '24/7 live support', mutta tarkkoja aukioloaikoja tai tarkempaa kuvausta tuen saatavuudesta ei ole näkyvissä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sovellukset saatavilla: iOS, Android, Windows, macOS, Linux ja selaimen laajennokset Chrome, Firefox, Safari, Opera, Edge."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 6417.640815000001,
+    "cls": 0.005387753297729845,
+    "tbt_ms": 1880.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Turvallisuusauditoinnit ja sertifikaatit (ISO 27001, SOC 2 Type 2, Cure53) hyvin dokumentoitu omilla sivuillaan",
+    "Hinnoittelu selkeä ja näkyvissä ennen rekisteröitymistä, kampanjahinta ja uusimishinta molemmat näkyvät",
+    "Ilmaisversion rajoitukset ja Premium-version lisäominaisuudet selkeästi listattu vertailutaulukkoon"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumero tai suora chat-kanava asiakastuelle ei näkyvissä - vain email-osoite (support@nordpass.com) ja Contact Us -sivu",
+    "Asiakastuen aukioloajat eivät selkeästi määritelty sivustolla, vaikka 24/7 live support mainitaan",
+    "Riippumattoman arvioita (kuten Trustpilot tai muut ratings) ei ole näkyvissä pricing-sivulla tai pääsivulla"
+   ],
+   "yhteenveto": "NordPass on Nord Security -yhtiön hallinnoimasta salasananhallintapalvelu, joka tarjoaa sekä ilmaisen että maksullisen version henkilö- ja yritysasiakkaille. Sivusto on selkeästi rakennettu hintojen ja turvallisuustietojen osalta, ja useita riippumattomia tietoturva-auditointeja (ISO 27001, SOC 2 Type 2, Cure53) on dokumentoitu. Asiakastuen saatavuus sivustolla voisi olla selkeämpi, etenkin puhelinnumeroa ja chat-optiota koskevan tiedon osalta."
+  },
+  {
+   "slug": "dashlane",
+   "nimi": "Dashlane",
+   "domain": "dashlane.com",
+   "omistaja": "Dashlane SAS/Inc. (Ranska/Yhdysvallat)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 76.1,
+   "pillars": {
+    "digitaalinen": 78.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 80.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla näkyvät selvästi: 'RECOMMENDED Premium – Individual protection plus VPN – €3.87 + VAT Per month Billed annually' ja 'Friends & Family – 10 accounts, one subscription – €5.85 + VAT Per month for 10 members Billed annually'."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Features-sivulla: 'Get started with a free Dashlane account and enjoy peace of mind with easy and secure access to up to 25 passwords' ja 'Seamlessly sync up to 25 passwords, passkeys, payment information, notes, and IDs across an unlimited number of devices.'"
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Security-sivulla mainitaan 'Penetration testing: Independent annual tests cover all apps and cloud infrastructure' ja 'Bug bounty: Dashlane's decade-long HackerOne program' sekä 'Code transparency: Portions of Dashlane's code (iOS, Android, and web extension) are publicly available'. Konkreettisia sertifikaatteja (SOC 2, ISO 27001) ei ole nimetty."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terms-sivulla selvästi mainittu: 'The Services are provided by either Dashlane USA, Inc. a Delaware corporation with offices at 44 West 18th Street, New York, NY 10011 USA, or Dashlane SAS, a French company with offices at 21 Rue Pierre Picard, 75018 Paris'. Footer: 'Dashlane Inc. Dashlane SAS'."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla Premium ja Family plan näyttävät saman hinnan uusimiselle kuin alkuperäisen ostoksen, koska se on merkitty 'Billed annually' jatkuvasti ilman lisäalennusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Industry-recognition-sivulla luetellaan palkinnot: '2025 Best Password Manager', '2025 Best Password Manager for Security', 'Cybersecurity Award Winner, Authentication & Identity', 'Best Security Features', sekä maininta että 'Backed by industry experts' -kohta sisältää PC Magazine ja muiden arvioita."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei ole näkyvissä verkkosivuilla. Kontakti on vain sähköpostitse ja verkkolomakkeen kautta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terms-sivulla mainittu 'legal@dashlane.com' ja footer näyttää 'Contact Sales' ja tuki-sivusto support.dashlane.com (vaikka se onkin Cloudflare-suojattu)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-linkki ohjaa support.dashlane.com, joka näyttää Cloudflare-haaste eikä varsinaista sivua. Privacy-sivulla mainitaan 'Customer Support', mutta live-chat-vaihtoehtoa ei ole nimetty. Feature-sivulla FAQ mainitsee 'Support Center' mutta se ei ole julkisesti saatavilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei ole julkaistuissa tiedoissa. Sivusto näyttää vain 'Contact Sales' -linkin."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Security-sivulla erillinen 'Dashlane security FAQs' -osio kysymyksillä: 'How does Dashlane operate securely?', 'How does Dashlane prevent unauthorized access to corporate vaults?', 'What role does confidential computing play in Dashlane's enterprise security?'. Pricing-sivulla mainitaan 'Unlimited devices', 'Unlimited passwords & passkeys' jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy-sivulla mainitaan 'web extensions and mobile and web applications' ja Terms-sivulla 'download and install the Apps in object code format on one or more devices'. Pricing-sivulla tekstit 'Unlimited devices' ja 'across an unlimited number of devices'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 86,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 2549.661,
+    "cls": 0.06275236997087087,
+    "tbt_ms": 3475.5000000000055
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat näkyvät selvästi ja houkuttelevasti (€3.87/kk Premium, €5.85/kk Family-plan vuosilaskutuksella) heti pääsivulla ja pricing-sivulla",
+    "Ilmainen versio kuvattu kattavasti: 25 salasanaa, rajattomasti laitteita, autofill, antamatta kerta-avainoita",
+    "Laaja turvallisuuskuvaus: nolla-tietoarkkitehtuuri, AWS Nitro Enclaves, riippumattomat vuosittaiset penetraatio- ja soveltuvuustestit sekä HackerOne-bugihyödyntämisohjelma"
+   ],
+   "kehityskohteet": [
+    "Riippumattomat auditoinnit ei ole nimetty: sivusto mainitsee 'independent annual penetration tests' mutta ei kerro SOC 2 / ISO 27001 sertifikaatteja tai audit-raportteja (toisin kuin 1Password)",
+    "Puhelinnumero puuttuu: ainoastaan sähköpostikontakti ja contact-lomake, ei suoraa puhelinnumeroa",
+    "Chat-tuki epäselvä: support.dashlane.com on Cloudflare-suojattu eikä selvästi mainita live-chat-vaihtoehtoa hinnoittelusivulla"
+   ],
+   "yhteenveto": "Dashlane on USA:n ja Ranskan välillä operoiva salasananhallintapalvelu, joka tarjoaa selkeät hinnat, 14 päivän ilmaisen kokeilun ja nolla-tietoarkkitehtuurilla rakennetun palvelun. Sivustolla näkyy kattava turvallisuuskuvaus ja useita alan palkintoja (Best Password Manager 2025). Heikkoutena on, että riippumattomien turva-auditointien nimet ja todisteet eivät ole julkaistussa muodossa näkyvissä, ja asiakaspalvelun kontakti vaatii verkkolomakkeen täyttämistä."
+  },
+  {
+   "slug": "1password",
+   "nimi": "1Password",
+   "domain": "1password.com",
+   "omistaja": "1Password Inc. (Kanada)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 75.2,
+   "pillars": {
+    "digitaalinen": 67.2,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla näkyvät selkeästi paketit (Individual $2.99–$3.99/kk, Families $4.49–$5.99/kk, Teams Starter Pack $24.95/kk, Business $8.99/kk per käyttäjä), kaikki USD:ssä. Vuosimaksu mainitsee 'Paid annually' tai 'monthly'."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Does 1Password have a free version?' FAQ vastaa: '1Password is free to try for 14 days, so you have plenty of time to decide if it's right for you.' Lisäksi maininta ilmaisesta Password Generatorista."
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Security-sivulla: 'SOC 2 type 2 certified', 'ISO/IEC 27001, 27017, 27018, and 27701 certifications'. Legal Centerissa: 'Security Assessments—1Password hosted services have been reviewed by multiple independent security firms' ja 'Open and verified—We collaborate with other security experts'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About-sivulla: '1Password Inc.' CEO David Faugno, perustaja Sara Teare. Perustettu 2005: 'When we founded 1Password in 2005, our goal was to make sure we're making everything easier and more secure'. Footer: '4711 Yonge St, 10th Floor, Toronto Ontario, M2N 6K8, Canada'."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla maininta: 'Promotions are limited time discounts available for new 1Password customers only for the first year with annual billing'. Uusimisen hinta (renewal price) ei ole eksplisiittisesti mainittuna."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä kolmannen osapuolen arviota. Näkyvät vain 1Passwordn omat turva-auditoinnit ja customer stories (Red Bull Racing -lainaus)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla tiimille: 'Call our expert support team Monday to Friday, 9 AM–5 PM EST'. Henkilökohtaisille: '24/7 support via email, forum, and social media'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla 'Frequently Asked Questions' -osio, joka vastaa: vertailu kilpailijoihin, Teams vs. Business ero, ilmainen versio, hinta per vuosi, arvo, alennukset, maksutavat."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Downloads-linkissä (footer ja sivut) näkyvät: iOS, Android, Windows, macOS, Linux, Web browser, CLI. Pricing-sivulla: 'Use on all of your devices'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 17864.578500000003,
+    "cls": 0,
+    "tbt_ms": 3062.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Turva-auditoinnit ja sertifikaatit näkyvät selvästi (SOC 2 Type II, ISO 27001/27017/27018/27701)",
+    "14 päivän ilmainen kokeilu antaa nolla-riskin aloituksen kaikille paketille",
+    "Hintavaihtoehdot useille käyttäjätyypeille ja organisaation koolle"
+   ],
+   "kehityskohteet": [
+    "Uusimishinta ei näy selkeästi—vain maininta 'uusille asiakkaille alennuksesta ensimmäisen vuoden' mutta ei renewal-hintaa",
+    "Sähköpostiosoite ja puhelinnumero eivät ole suoraan näkyvissä, vain contact-lomakkeet",
+    "Chat-tukea ei mainita, vain email/forum/sosiaalinen media"
+   ],
+   "yhteenveto": "1Password on kanadalainen salasananhallintapalvelu (perustettu 2005), joka tarjoaa selkeästi hinnoitellut paketit yksilöille, perheille ja yrityksille. Sivustolla näkyvät USD-hinnat ja 14 päivän ilmainen kokeilu. Turvallisuusauditoinnit (SOC 2 Type II, ISO-sertifikaatit) ja riippumattomat tietoturva-arvioinnit ovat julkaistu näkyvästi. Uusimishintoja ei kuitenkaan mainita erikseen, ja asiakaspalvelun kontaktitiedot vaativat contact-lomakkeen täyttämistä."
+  },
+  {
+   "slug": "lastpass",
+   "nimi": "LastPass",
+   "domain": "lastpass.com",
+   "omistaja": "LastPass US LP — Francisco Partners & Elliott Management (itsenäistyi GoTo:sta 2024)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 74.5,
+   "pillars": {
+    "digitaalinen": 61.6,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "33/100",
+       "paino": 40,
+       "pisteet": 33,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "75/100",
+       "paino": 30,
+       "pisteet": 75,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat näkyvät etusivulla ja /pricing-sivulla. Premium €2,90/kk (vuosilaskutus), Families €3,90/kk, Teams €4,42/käyttäjä/kk, Business €6,50/käyttäjä/kk, Business Max €8,50/käyttäjä/kk."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Limited to 1 device type. Simple password management with unlimited password storage, autofill, dark web monitoring, and basic password sharing.' Ilmainen versio sisältää 30 päivän Premium-kokeilujakson."
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /security-sivulla listaus: 'ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe'. Maininta 'Regular expert security audits' ja 'trusted, world-class security organizations conduct routine audits'. Trust Center viittaa 2022 tietoturva-insidenttiin."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer näyttää '© 2026 LastPass US LP'. About Us -sivulla mainitaan: '2024: LastPass formally separates from GoTo, backed by new leadership'. Aiemmin omisti LogMeIn (nyt GoTo), joka osti LastPassin 2015."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivulla näkyy vuosihinta ('billed annually') mutta ei selkeää uusiutumishintaa. Mainitaan 'Promotional pricing is subject to separate promotion terms'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla '79,300+ reviews' Chrome ja App Store -arvosteluja. Maininta 'Leader in Password Management Based on 1,599+ reviews'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suoraa puhelinnumeroa ei näy etusivulla. 'Contact sales' -painike vie sales-sivuille. Support-kanavissa mainitaan Reddit community, Community forum ja Support Center."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support Center mainitaan mutta suoraa email-osoitetta ei näy etusivulla. Footer näyttää 'Contact support' -linkin."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla 'Chat with sales experts' -painike näkyvissä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla osio 'Frequently asked questions' kysymyksillä: 'How can I access LastPass?', 'How does LastPass securely store passwords?', 'Does LastPass have access to my passwords?' jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla linkki 'Google Play download', 'App Store download' ja 'Browser Extensions'. Maininta: 'Free users can only use LastPass on one device type (computer or mobile)'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 33,
+    "accessibility": 75,
+    "seo": 77,
+    "best_practices": 96,
+    "lcp_ms": 8796.203500000001,
+    "cls": 0.31210702025504605,
+    "tbt_ms": 419
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Zero-knowledge -salaus ja AES-256 -vahvistus näkyvät selkeästi hinnoittelusivulla",
+    "Ilmaisversio ja sen rajoitukset (1 laitetyyppi) kerrotaan avoimesti",
+    "Riippumattomien arvioiden määrä korkea (79 300+ Chrome-arvostelua, 1 599+ johtajuusarvioita)"
+   ],
+   "kehityskohteet": [
+    "Monet ohjeistus- ja politiikka-sivut (Terms of Service, Privacy Notice, Support FAQ) palauttavat 404-virheen",
+    "Suoran yhteydenoton kanavat (puhelin, sähköposti) eivät näy etusivulla, vain 'Contact Sales' -painike",
+    "Omistajatiedot (LastPass US LP, 2024 erottautuminen GoTo:sta) edellyttävät About Us -sivun etsimistä"
+   ],
+   "yhteenveto": "LastPass on laajasti käytetty salasananhallintapalvelu, jonka hinnoittelu ja ilmaisversion rajoitukset ovat selkeästi esillä. Palvelu korostaa zero-knowledge -arkkitehtuuria ja listaa kattavan määrän tietoturva-sertifikaatteja (ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe). Kuitenkin monet sisäiset sivut (ehdot, yksityisyyskäytäntö, laaja UKK) eivät ole saavutettavissa normaalilla selauksella, ja suora yhteydenotto vaatii navigointia sales-sivuille."
+  },
+  {
+   "slug": "proton-pass",
+   "nimi": "Proton Pass",
+   "domain": "proton.me",
+   "omistaja": "Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Drive",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 73.2,
+   "pillars": {
+    "digitaalinen": 81.9,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "60/100",
+       "paino": 40,
+       "pisteet": 60,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelu näkyy selvästi https://proton.me/pass/pricing sivulla. Pass Plus €2.99/kk (ale 40% listahinnasta €4.99), Pass Family €4.99/kk (ale 29%), Proton Unlimited €9.99/kk (ale 23%). Vuosihinnot näkyvät myös: Pass Plus €35.88/vuosi, Family €59.88/vuosi, Unlimited €119.88/vuosi."
+      },
+      {
+       "mittari": "Ilmaisversion rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Proton Free -versio on selvästi dokumentoitu: 'No credit card required, Unlimited logins, notes and credit cards, Unlimited devices, Browser, mobile, and desktop apps, Password generator, 10 hide-my-email aliases, Alerts for weak and reused passwords.'"
+      },
+      {
+       "mittari": "Riippumattomat tietoturva-auditoinnit julkaistu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Security-sivulla mainitaan 'Like all Proton services, Proton Pass has been audited by independent third-party experts, and such security reports are available to the public.' Kuitenkaan varsinaiset audit-raportit eivät ole suoraan linkitetty sivustolle. Sivulla mainitaan myös 'public bug bounty program'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omistaja mainitaan footerissa jokaisella sivulla: 'Proton AG, Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland'. Sivulla kerrotaan myös, että Proton on Sveitsin yritys, joka on suojeltu vahvoilla tietosuojalaeilla."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sekä kuukausittaiset että vuosittaiset hinnat näkyvät pricing-sivulla. Pass Plus: €2.99/kk tai €35.88/vuosi. Family: €4.99/kk tai €59.88/vuosi. Unlimited: €9.99/kk tai €119.88/vuosi. 30 päivän rahanpalautustakuu mainitaan."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on kolme riippumatonta arviota: ZDNET ('Best free password manager for privacy'), Linus Tech Tips ('Proton has a password manager that got really good'), Digital Trends ('recommend Proton Pass as the best password manager'). Lisäksi viisi case study-esimerkkiä eri yrityksistä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 60,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3449.9894999999997,
+    "cls": 0.001578974149632035,
+    "tbt_ms": 1422.1539999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelua on erittäin helppo vertailla taulukkomuodossa sekä kuukausittain että vuosittain, alennukset näkyvät selkeästi",
+    "Ilmaisversio on hyvin dokumentoitu ja sen rajoitukset (2 holvoa, 10 alias-osoitetta) näkyvät selvästi",
+    "Avoin lähdekoodi ja riippumaton auditointi mainitaan, tunnettujen audit-yritysten linkkejä käyttäjät pystyvät etsimään"
+   ],
+   "kehityskohteet": [
+    "Turvallisuusauditointien raportit eivät ole suoraan linkitetty sivustolle, vain mainittu \"independently audited\"",
+    "Puuttuva suora yhteystietojen näyttäminen: ei puhelinnumeroa, ei live-chatti, vain kontaktilinkkejä footerissa",
+    "Ei informaatiota aukioloajoista tai vastausajoista tuen osalta"
+   ],
+   "yhteenveto": "Proton Pass on salasanahallintapalvelu, jonka omistaa Sveitsissä sijaitseva Proton AG. Sivusto on erittäin selkeä ja hinnoittelua on helppo vertailla, ilmaisversio on hyvin dokumentoitu ja premium-tason sisältö on kattava. Turvallisuusauditointien raportteja ei kuitenkaan ole suoraan saatavilla sivulta, ja asiakastuki on pinpointed vain kontaktilomakkeiden kautta."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinnat julkisesti esillä (30), ilmaisversion rajoitukset kerrottu selkeästi (15), riippumattomat tietoturva-auditoinnit julkaistu (20), omistava yhtiö kerrottu sivustolla (15), uusimishinta kerrottu (ei vain tarjoushinta) (10), riippumaton arviolähde esillä (10)"
+}

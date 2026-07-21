@@ -1,0 +1,1292 @@
+{
+ "slug": "autokorjaamot",
+ "nimi": "Autokorjaamot",
+ "nav": "Autokorjaamot",
+ "h1": "Suomen paras autokorjaamoketju 2026",
+ "yksikko": "valtakunnallista korjaamoketjua",
+ "lead": "Pisteytimme {n} valtakunnallista autokorjaamoketjua {m} mittarilla. Tärkein kysymys: saatko huollon hinnan ja ajan verkosta ilman soittoa?",
+ "meta_title": "Suomen paras autokorjaamo 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 autokorjaamoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Ketju ei ole yksi yhtiö:</b> suomalaiset korjaamoketjut ovat varaosatukkureiden konsepteja, joissa yksittäiset korjaamot ovat itsenäisiä yrittäjiä — Autoasin takana on Örum, Fixuksen takana Ruotsin pörssin MEKO-konserni, Autofitin takana Atoy ja AD Autohuollon takana AD FIN. Motonet-korjaamot ja Euromaster Autohuolto esiintyvät myös rengasliikkeet-vertailussa: sama yhtiö, eri palvelu ja eri mittaussivu.",
+  "<b>Miksi Bosch Car Service ei ole listalla?</b> Se on löyhä brändiverkosto ilman suomalaista vastuuyhtiötä, jonka sivustoa voisi mitata — sama syy jolla karsimme aiemmin OpusLex-verkoston. Mekonomen karsittiin, koska se on samaa MEKO-konsernia kuin jo listattu Fixus.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei korjaustyön laatua. Huoltojen hinnat riippuvat automallista; vertailu mittaa kerrotaanko hinnoittelu avoimesti etukäteen. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "euromaster",
+   "nimi": "Euromaster Autohuolto",
+   "domain": "euromaster.fi",
+   "omistaja": "Michelin — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu",
+   "y_tunnus": "0711042-1",
+   "rekisteroity": 1988,
+   "score": 80.0,
+   "pillars": {
+    "digitaalinen": 78.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnasto näyttää hinnat esimerkiksi öljynvaihdolle (169 €), vuosihuollolle (199 €), ilmastoinnin täytölle (99 €), rengaspalveluille (59-250 €). Jokaisella palveluiden sivulla näkyy myös hinnat."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivu tarjoaa mahdollisuuden varata ajan verkossa lukuisiin huoltopalveluihin. Sivu kertoo selvästi 'Voit varata ajan itse helposti verkkopalvelussamme' ja että voi varata puhelinitse tai sähköpostitse."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autohuolto-sivulla kuvataan selkeästi eri huoltopalveluja kuten öljynvaihto, ilmastointi, vuosihuolto, kuntotarkastus, jarrut, ohjauskulmat ja monia muita. Jokaiselle palvelulle on oma lyhyt kuvaus ja linkki lisätietoihin."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelupisteet-sivu antaa hakutoiminnon palvelupisteiden löytämiseen alueittain. UKK-sivu mainitsee, että 'kevään ja syksyn sesongin aikana palvelemme monella alueella laajentuneet aukioloajat'. Palvelupisteiden osoitteet ja puhelinnumerot näkyvät haun tuloksissa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-osion 'Yritystiedot' -osiossa näkyy selvästi: 'Suomen Euromaster Oy 0711042-1 NUOLIHAUKANTIE 5 28220 PORI'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivu ilmoittaa pääpuhelinnumeron '0207 700 800' (ma-pe klo 8-17) ja hallinnon numeron '02 6340 600'. Puhelinlinkit ovat klikkaamiskelvollisia."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivu ohjaa aukioloaikojen löytämiseen palvelupisteisiin. UKK mainitsee sesonkivariaatiot (kevät, syksy laajemmat). Yksityiset palvelupisteet näyttävät omat aukioloaikansa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Täysi 'Usein kysytyt kysymykset' -osio on saatavilla osoitteesta /ukk. Se sisältää kymmeniä kysymyksiä ja vastauksia kategorioittain: palvelupisteet, renkaat ja määräykset, verkkokauppa, maksutavat, ajanvaraukset, hinnat ja asiakaspalvelu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 4907.485000000001,
+    "cls": 0.03434341995709102,
+    "tbt_ms": 755.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja ja selkeästi jäsennelty palveluiden kuvailu, kattaa kaikki pääasiallisen autohuollon kategoria",
+    "Verkkoajanvaraus toimii selkeästi; palveluita voi varata helposti ilman yhteydenottoa",
+    "Hintatiedot ovat näkyvillä palveluhinnastolla sekä yksittäisten palveluiden sivuilla (esim. 169 € öljynvaihto)"
+   ],
+   "kehityskohteet": [
+    "Sähköpostin yhteystiedot eivät ole selkeästi näkyvillä asiakaspalvelu-sivulla; vain puhelinnumero 0207 700 800",
+    "Mobiilisovellus puuttuu kokonaan, vaikka ajanvaraus tapahtuu verkossa",
+    "Palvelupisteiden tarkemmat aukioloajat ja sijainti vaativat erillisen hakusivuston käyttöä"
+   ],
+   "yhteenveto": "Euromaster on valtakunnallinen autohuoltopalveluiden tarjoaja, jolla on kattava palveluiden kuvaus ja selkeä hintalistasivu. Verkkoajanvaraus on helppoa ja hinnat sekä palveluiden kuvaukset ovat julkisesti näkyvillä, mikä tekee palvelun valitsemisesta yksinkertaista asiakkaalle."
+  },
+  {
+   "slug": "ad-finland",
+   "nimi": "AD Autohuolto",
+   "domain": "ad-finland.com",
+   "omistaja": "AD FIN Oy — osa AD International -yhteenliittymää; korjaamot itsenäisiä",
+   "y_tunnus": "0554943-0",
+   "rekisteroity": 1984,
+   "score": 69.8,
+   "pillars": {
+    "digitaalinen": 82.2,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "69/100",
+       "paino": 40,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy AD-Ajoturvan hinta (49€/vuosi) ja AD-Tili-rahoituksen hinnat (3,90€/kk käsittelymaksu), mutta huoltopalvelujen yksittäisiä hintoja (esim. öljynvaihto, rengastyöt) ei löytynyt pääsivuilta – asiakkaat ohjataan ottamaan yhteyttä korjaamoihin."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on upotettu iframe-varausjärjestelmä (autokorjaamo.fi/embed-reservations), mutta sivuilla ei ole selvää kuvausta siitä, onko verkkovaraus täysin toimintava vai vaatiiko se puhelinsoiton."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla kuvataan laaja palveluvalikoima: autot- ja sähköautojen huollot, korjaukset, ajoakunvaihto, AD-Ajoturva (tiepalvelu), AD-Lasku (koroton maksuaika), AD-Tili (12 kk koroton), AD-Hinauspalvelu ja sijaisautot."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autokorjaamo-sivulla (ad-finland.com/autokorjaamo/) näkyy laaja hakemisto yli 150 korjaamosta, joissa jokaisella on osoite, aukioloajat (esim. ma-pe 8-17) ja puhelinnumero."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot-sivulla (ad-finland.com/toimitusehdot/) näkyy Y-tunnus FI05549430 ja yhtiön nimi AD FIN OY."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei löytynyt ulkopuolisia arviointilähteita (esim. Google-arviot, Trustpilot), vain omat kuvaukset."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita puhelinnumeroita näkyy: pääkonttori 020 720 9470, AD-Ajoturvan tiepalvelu 0200 02323 (24/7), AD-Hinauspalvelu 0200 02320 (24/7)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@ad-finland.com näkyy rekry-, tietosuoja- ja toimitusehdot-sivuilla sekä korjaamohaussa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Korjaamohaussa (autokorjaamo.fi) näkyy jokaisen korjaamon aukioloajat esim. 'ma-pe 8-17, la 10-15'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 69,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 6305.39349,
+    "cls": 0.0002335883953744883,
+    "tbt_ms": 113
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja korjaamoverkosto: yli 150 valtuutettua korjaamoa ympäri Suomen, helppo hakeminen osoitteella ja paikkakunnan nimellä",
+    "Selkeä palveluvalikoima kuvattu sivuilla: huollot, sähköautojen korjaukset, AD-Ajoturva (49€/vuosi), AD-Lasku (30 vrk koroton maksuaika), AD-Tili (12 kk koroton) ja AD-Hinauspalvelu",
+    "Korjaamohakuun integroitu aukioloajat ja puhelinnumerot, mikä mahdollistaa nopean yhteydenoton"
+   ],
+   "kehityskohteet": [
+    "Huoltojen yksittäiset hinnat puuttuvat pääsivulta – asiakkaiden tulee ottaa yhteyttä kunkin korjaamoon hinnoittelusta neuvottelemiseksi",
+    "Suora ajanvaraus verkossa ei ole selvästi toimintava – integroitu varaussysteemi (autokorjaamo.fi/embed-reservations) vaatii HTML5-tuen mutta ei selkeä, toimiiko se täysin",
+    "Ei itsenäisiä asiakasarvioita tai arviointilähteita luottamuksen rakentamiseksi – pelkästään omien kuvausten varassa"
+   ],
+   "yhteenveto": "AD Finland on Suomen johtava autokorjaamoketju, joka tarjoaa yli 150 valtuutettua korjaamoa ympäri Suomen ja palvelee asiakkaita monipuolisilla palveluilla kuten huolloilla, sähköautojen korjauksella ja AD-Ajoturvalla. Sivusto esittelee palvelut selkeästi ja mahdollistaa korjaamohakemisen osoitteilla ja aukioloajoilla, mutta yksittäisten palvelujen hintatiedot puuttuvat pääsivulta ja asiakkaan tulee ottaa yhteyttä suoraan korjaamoihin hinnoittelusta."
+  },
+  {
+   "slug": "motonet",
+   "nimi": "Motonet-korjaamot",
+   "domain": "motonet.fi",
+   "omistaja": "Motonet Oy (Broman Group) — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu",
+   "y_tunnus": "0699457-9",
+   "rekisteroity": 1988,
+   "score": 67.6,
+   "pillars": {
+    "digitaalinen": 65.7,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 66.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Motomaatti-pikapalveluiden hinnaston (polttimoiden vaihto 10€, OBD-testit 15-20€) näkee sivustolla, mutta korjaamopalveluiden (öljynvaihto, määräaikaishuolto) hinnat eivät ole julkisesti näkyvissä – edellyttävät yhteydenottoa."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivu kertoo 'Yhteystiedot ajanvaraukseen löytyvät korjaamoiden omilta sivuilta', mutta verkkopohjaista ajanvarausjärjestelmää ei ole nähtävissä. Ajanvaraus vaatii puhelun tai yhteydenoton suoraan korjaamoon."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla kuvattu kattava palveluluettelo: määräaikaishuollot, yleiset huollot, vikadiagnoosit, ilmastointihuolto, pyöränkulmien mittaukset, katsastuspalvelut, rengastyöt, sijaisauto, nelipyöräsuuntaus, OBD-testit."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tavarataloluettelo JS-renderöinnillä paljastaa 39 paikkakuntaa (Espoo, Helsinki, Tampere, Turku, Oulu, Kuopio jne.). Aukioloajat: ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua (asiakaspalvelulle). Motomaatin paikkakuntakohtaiset aukioloajat löytyvät valitsemalla tavaratalo."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy millään ladatulla sivulla (pääsivu, asiakaspalvelu, tavaratalot, palvelut, motomaatti, yhteystiedot, etusivu)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumatonta arvio-linkkiä (esim. Autoliitto, arviopalvelu) ei ole näkyvissä sivustolla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 030 621 20 (ma-pe klo 9-17, la klo 10-16) on nähtävissä asiakaspalvelusivulla ja useimmilla muilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun email asiakaspalvelu@motonet.fi on nähtävissä asiakaspalvelusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelun aukioloajat ilmoitettu: ma-pe klo 8:00-19:45, la klo 9:00-17:45, su klo 10:00-17:45."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalveluaika: ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua. Motomaatin aukioloajat paikkakuntakohtaisesti valittavissa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla kattava 'Usein kysytyt kysymykset' -osio, jossa vastaukset mm. ajanvaraukseen, palveluihin, maksutapoihin, palautuksiin ja huijausviesteistä varoitteluun."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 91,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 23404.118500000004,
+    "cls": 0.001181109918518179,
+    "tbt_ms": 4512
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja korjaamoketju kattavasti ympäri Suomea (40+ paikkakuntaa)",
+    "Selkeä palveluvalikoiman kuvaus (huollot, diagnostiikka, katsastus, nelipyöräsuuntaus)",
+    "Asiakaspalvelun monikanavaisuus (puhelin, email, chat, avoinna myös la-su)"
+   ],
+   "kehityskohteet": [
+    "Korjaamoiden hinnat piilossa – vain Motomaatti-palvelun hinnat julkisia (ei oljynvaihdon hintaa)",
+    "Ajanvaraus vaatii yhteydenottoa suoraan korjaamoon – ei verkkovarausjärjestelmää",
+    "Y-tunnus ja riippumaton arvio puuttuvat sivustolta, ei myöskään mobiilisovellusta"
+   ],
+   "yhteenveto": "Motonet-korjaamot on laajakatvaa monimerkkikorjaamoketjua, jolla on toimipisteet lähes kaikilla Motonetin tavaratalopaikkakunnilla. Sivusto kuvaa palveluvalikoiman selkeästi (määräaikaishuollot, diagnostiikka, katsastus, nelipyöräsuuntaus), mutta konkreettisista hinnoista puuttuu tärkeä tieto – korjaamopalveluiden hinnat on jätettävä yhteydenottoa varten, vaikka Motomaatti-pikapalvelun hinnat ovatkin julkisia."
+  },
+  {
+   "slug": "autofit",
+   "nimi": "Autofit",
+   "domain": "autofit.fi",
+   "omistaja": "Atoy Automotive Finland Oy — perheyritys; korjaamot Autofit-yrittäjiä",
+   "y_tunnus": "1630177-2",
+   "rekisteroity": 2000,
+   "score": 61.6,
+   "pillars": {
+    "digitaalinen": 69.6,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 52.5,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "45/100",
+       "paino": 40,
+       "pisteet": 45,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hintalaskuri saatavilla varaus-sivulla, joka arvioi huollon hinnan rekisterinumeron perusteella. Korjauksista hinta-arvio saadaan sähköpostitse tai puhelimitse. Kiinteitä hintoja ei ole julkaisesti esillä ilman interaktiota."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varaa aika -sivu tarjoaa 5-vaiheisen ajanvarausjärjestelmän: 1) valitse korjaamo, 2) valitse palvelu, 3) anna auton tiedot, 4) saa hinta-arvio, 5) varaa aika. Järjestelmä toimii ilman välitöntä yhteydenottoa."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: eHuolto-sivulla on yli 50 palvelua yksityiskohtaisesti kuvattuina, mukaan lukien öljynvaihto, jarruhuolto, diagnostiikka, sähköauton akun testaus, ADAS-kalibrointi. Palvelumme-sivulla kerrotaan myös rahoitusvaihtoehdoista ja ajoturvasta."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autohuollot-sivulla näkyy korjaamoiden luettelo osoitteineen (esim. Autokorjaamo Lappalainen, Niittytie 1, 71800 Siilinjärvi). Hakujärjestelmällä voi etsiä osoitteen tai palvelun perusteella. Yksittäisten korjaamoiden aukioloajat eivät ole näkyvissä lataamissani sivuissa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei julkaista verkkosivuilla. Sivuilla mainitaan vain 'Autofit-ketju c/o Atoy Automotive Finland Oy', mutta yrityksen tunnistenumero puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arviointeja (esim. Avainlippu-merkki, auditoinnit) ei ole julkaistu sivulla, vaikka ajoturva-sivulla mainitaan Redgo-yhteistyökumppani palvelun tarjoajana."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinvaihde (09) 68 271 on näkyvissä useilla sivuilla sekä yhteystiedot-sivulla, jossa lueteltu myös henkilökohtaiset puhelinumerot (Roni Tuovola 044 364 4011, Janne Kuuma)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite autofit@atoy.fi on julkaistu yhteystiedot-sivulla. Lisäksi Svea Bankin ja Resurs Bankin asiakaspalvelun puhelinnumerot ovat näkyvissä rahoitus-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei ole mainittu ladatuilta sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yksittäisten korjaamoiden aukioloajat eivät näy hakujärjestelmään tai lataamillani sivuilla. Ketjun pääkonttorin osoite (Olarinluoma 20, 02200 Espoo) näkyy, mutta sen aukioloajat eivät."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-sivu (/ukk) palauttaa 404-virheen. UKK-osiota ei ole verkkosivuilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 45,
+    "accessibility": 91,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 9261.301,
+    "cls": 0,
+    "tbt_ms": 750.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palveluvalikoima ja yksityiskohtaiset palvelukuvaukset, eHuolto-osiossa yli 50 palvelua sisältäen myös sähkö- ja hybridiautojen huollot",
+    "Selkeä online-ajanvarausjärjestelmä, joka laskee palvelun hinnan rekisterinumeron perusteella ja sallii varauksen ilman yhteydenottoa",
+    "Kattava korjaamoverkosto ympäri Suomea, joka löytyy hakujärjestelmän kautta osoitteen tai palvelun perusteella"
+   ],
+   "kehityskohteet": [
+    "Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat verkkosivuilta",
+    "Palveluiden hinnat näkyvät vain interaktiivisen hintalaskurin kautta rekisterinumerolla, ei kiinteitä peruspalvelun hintoja",
+    "Riippumattomien arviointien, asiakaspalautteen tai sertifiointitietojen puuttuminen sivulla"
+   ],
+   "yhteenveto": "Autofit on laaja suomalainen autohuolto- ja korjaamoketji, joka tarjoaa kattavat huolto- ja korjauspalvelut sekä erikoistuneesti sähkö- ja hybridiautojen huoltoon. Sivusto esittää palvelut yksityiskohtaisesti ja tarjoaa selkeän online-ajanvarausjärjestelmän hintalaskurineen, mutta konkreettiset palvelun hinnat ilmestyvät vain interaktiivisen laskin kautta rekisterinumerolla. Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat julkisen sivuston tiedoista."
+  },
+  {
+   "slug": "fixus",
+   "nimi": "Fixus",
+   "domain": "fixus.fi",
+   "omistaja": "MEKO Finland Oy (ent. Koivunen) — Ruotsin pörssin MEKO-konserni",
+   "y_tunnus": "0110111-0",
+   "rekisteroity": 1978,
+   "score": 55.4,
+   "pillars": {
+    "digitaalinen": 66.1,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hintatiedot eivät ole yleisesti näkyvillä. Asiakkaille ilmoitetaan vain, että hinnat näkyvät ajanvarausjärjestelmässä auton tietojen syöttämisen jälkeen."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla selvästi mainittu 'Varaa huolto, korjaus tai rengaspalvelut! Hinnan ja vapaat ajat näet täytettyäsi auton tiedot.' Järjestelmä on verkossa käytettävissä ilman erillistä yhteydenottoa."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Fixus-ketju sivulla ja etusivulla listattu kuusi pääpalvelua: Huoltopalvelut, Korjaukset, Asennukset, Vauriokorjaukset, Sijaisauto ja Katsastuspalvelu. Lisäksi mainittu sähkö- ja hybridiautot."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainittu 'yli 350 toimipistettä' ja kuvakollaasissa näkyy kartta-symboli 'keltainen merkki paikantaa myymälän, sininen merkki korjaamon'. Aukioloajat eivät kuitenkaan näy pääsivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuoja- ja evästepolitiikan sivulla mainittu rekisterinpitäjän sähköpostiosoite tietosuoja@fi.meko.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Liity Fixus-ketjuun!' -sivulla on osio 'Useimmiten kysytyt kysymykset' seitsemällä kysymyksellä ketjuun liittymisestä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 13990.431000000004,
+    "cls": 0.23038156716286234,
+    "tbt_ms": 1059.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palveluvalikko: Huollot, korjaukset, asennukset, varustepalvelut, sijaisbussi ja katsastus sekä sähkö- ja hybridiautot",
+    "Kattava ketjun toimipisteiden verkko: yli 350 toimipistettä ympäri Suomea mukaisesti verkkosivujen tietojen",
+    "Verkkoajanvaraus: asiakkaat voivat varata huoltoajat verkossa ilman yhteydenottoa"
+   ],
+   "kehityskohteet": [
+    "Hintatiedot julkisesti näkemättömät: hinnat paljastuvat vasta ajanvarauskaavakkeella auton tietojen syöttämisen jälkeen",
+    "Aukioloaikatiedot puuttuvat: yksittäisten korjaamojen aukioloajat eivät näy verkkosivuilla",
+    "Puhelinnumero puuttuu: asiakaspalvelun puhelinnumero ei ole näkyvillä verkkosivuilla"
+   ],
+   "yhteenveto": "Fixus on Suomen laajin autokorjaamo- ja varaosamyymäläketju, joka palvelee yli 350 toimipisteessä. Verkkosivut esittävät kattavaa palveluvalikoiman ja tarjoavat verkkoajanvarauksen. Hinnat ja aukioloajat ovat kuitenkin paikallisten toimipisteiden tasolla eikä pääsivulla, mikä vähentää läpinäkyvyyttä."
+  },
+  {
+   "slug": "autoasi",
+   "nimi": "Autoasi",
+   "domain": "autoasi.fi",
+   "omistaja": "Örum Oy Ab — ketjukonsepti; korjaamot itsenäisiä yrittäjiä",
+   "y_tunnus": "2042810-0",
+   "rekisteroity": 2006,
+   "score": 52.7,
+   "pillars": {
+    "digitaalinen": 73.5,
+    "lapinakyvyys": 37.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 51.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei löydy yhtään konkreettista hintaa, vaikka mainita hinnoittelusta. Pääsivulla todetaan 'Hinta rehellisesti aina kohdallaan', mutta tariffeja ei avata. Asiakkaat joutuvat lähettämään tarjouspyynnön saadakseen hintatiedot."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Korjaamot-sivulla on tarjouspyyntölomake, jonka kautta voi lähettää 'ajanvaraustoiveen', mutta varsinaista online-ajanvarausjärjestelmää ei ole. Ajanvaraus vaatii siis yhteydenottoa korjaamon kanssa."
+      },
+      {
+       "mittari": "Palveluvalikoima kuvattu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelut-sivulla ja niihin liitetyillä alasivuilla kuvataan laajasti määräaikaishuollot, ilmastointihuollot, jarrupalojen/levyjen vaihto, jakohihnan vaihto, ohjauskulmien säätö, renkaiden vaihto ja lisäpalvelut (rahoitus, sijaisauto)."
+      },
+      {
+       "mittari": "Korjaamot ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Korjaamot-sivulla on alueittainen lista 50+ korjaamo-paikkakunnasta, mutta aukioloaikoja ei mainita missään. Käyttäjä voi tehdä karttahaun ja saada osoitteita."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla yritys tunnistetaan nimellä 'Autoasi-ketju, Örum Oy Ab', mutta varsinaista Y-tunnusta (1234567-8 formaatissa) ei näytetä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin 010 770 2070 näkyy usealla sivulla (yhteystiedot, pääsivu, jokaisen sivun footer)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköposti info@autoasi.fi näkyy usealla sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita missään sivulla, vaikka käyttäjä voisi tarvita niitä korjaamoon menemisen suunnitteluun."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole erityistä UKK/FAQ-osiota. Usein kysytyt aiheet käsitellään uutis-artikkeleissa (esim. renkaiden vaihto, määräaikaishuollot), mutta strukturoitua Q&A-osiota ei ole."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 4305.948,
+    "cls": 0,
+    "tbt_ms": 585.5000000000009
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palveluvalikoima selkeästi kuvattu (määräaikaishuollot, ilmastointihuollot, renkaiden vaihto, etc.)",
+    "Helppo korjaamohaku kartalla osoitteen, postinumeron tai kaupungin perusteella",
+    "Selkeä navigaatio ja informatiiviset artikkelit huoltoaiheista"
+   ],
+   "kehityskohteet": [
+    "Palvelun hinnoitteluperuste ei ole julkinen – ainoastaan tarjouspyyntö via lomake",
+    "Korjaamojen aukioloajat puuttuvat kokonaan, vain listaus paikoista saatavilla",
+    "Verkkoajanvaraus puuttuu: ajanvaraus edellyttää tarjouspyynnön tai suoraa yhteydenottoa"
+   ],
+   "yhteenveto": "Autoasi-ketju on kotimaan monimerkkikorjaamo-ketju, joka tarjoaa kattavan palveluvalikoiman. Sivusto on selkeä ja sisältää hyviä ohjeita huolto-asioista, mutta hinnoittelutiedot ja aukioloajat puuttuvat kokonaan. Verkkoajanvaraus puuttuu – asiakkaiden on lähetettävä tarjouspyyntö lomakkeen kautta."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Huoltojen hinnat tai hinnoitteluperusteet julkisesti (30), ajanvaraus verkossa ilman yhteydenottoa (20), palveluvalikoima kuvattu selkeästi (15), korjaamot ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

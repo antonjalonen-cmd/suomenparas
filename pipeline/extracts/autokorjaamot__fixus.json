@@ -1,0 +1,47 @@
+{
+  "slug": "fixus",
+  "fetched_ok": [
+    "https://fixus.fi",
+    "https://fixus.fi/tietosuoja-ja-evasteseloste",
+    "https://fixus.fi/tule-mukaan",
+    "https://fixus.fi/meille-toihin",
+    "https://fixus.fi/fixus-ketju"
+  ],
+  "hinnat_esilla": "osittain",
+  "ajanvaraus_verkossa": "kylla",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja palveluvalikko: Huollot, korjaukset, asennukset, varustepalvelut, sijaisbussi ja katsastus sekä sähkö- ja hybridiautot",
+    "Kattava ketjun toimipisteiden verkko: yli 350 toimipistettä ympäri Suomea mukaisesti verkkosivujen tietojen",
+    "Verkkoajanvaraus: asiakkaat voivat varata huoltoajat verkossa ilman yhteydenottoa"
+  ],
+  "kehityskohteet": [
+    "Hintatiedot julkisesti näkemättömät: hinnat paljastuvat vasta ajanvarauskaavakkeella auton tietojen syöttämisen jälkeen",
+    "Aukioloaikatiedot puuttuvat: yksittäisten korjaamojen aukioloajat eivät näy verkkosivuilla",
+    "Puhelinnumero puuttuu: asiakaspalvelun puhelinnumero ei ole näkyvillä verkkosivuilla"
+  ],
+  "yhteenveto": "Fixus on Suomen laajin autokorjaamo- ja varaosamyymäläketju, joka palvelee yli 350 toimipisteessä. Verkkosivut esittävät kattavaa palveluvalikoiman ja tarjoavat verkkoajanvarauksen. Hinnat ja aukioloajat ovat kuitenkin paikallisten toimipisteiden tasolla eikä pääsivulla, mikä vähentää läpinäkyvyyttä.",
+  "evidence": {
+    "ajanvaraus_verkossa": "HAVAINTO: Etusivulla selvästi mainittu 'Varaa huolto, korjaus tai rengaspalvelut! Hinnan ja vapaat ajat näet täytettyäsi auton tiedot.' Järjestelmä on verkossa käytettävissä ilman erillistä yhteydenottoa.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: Fixus-ketju sivulla ja etusivulla listattu kuusi pääpalvelua: Huoltopalvelut, Korjaukset, Asennukset, Vauriokorjaukset, Sijaisauto ja Katsastuspalvelu. Lisäksi mainittu sähkö- ja hybridiautot.",
+    "hinnat_esilla": "HAVAINTO: Hintatiedot eivät ole yleisesti näkyvillä. Asiakkaille ilmoitetaan vain, että hinnat näkyvät ajanvarausjärjestelmässä auton tietojen syöttämisen jälkeen.",
+    "email_esilla": "HAVAINTO: Tietosuoja- ja evästepolitiikan sivulla mainittu rekisterinpitäjän sähköpostiosoite tietosuoja@fi.meko.com.",
+    "ukk_osio": "HAVAINTO: 'Liity Fixus-ketjuun!' -sivulla on osio 'Useimmiten kysytyt kysymykset' seitsemällä kysymyksellä ketjuun liittymisestä.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Etusivulla mainittu 'yli 350 toimipistettä' ja kuvakollaasissa näkyy kartta-symboli 'keltainen merkki paikantaa myymälän, sininen merkki korjaamon'. Aukioloajat eivät kuitenkaan näy pääsivuilla."
+  }
+}

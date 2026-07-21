@@ -1,0 +1,1716 @@
+{
+ "slug": "pilvitallennuspalvelut",
+ "nimi": "Pilvitallennuspalvelut",
+ "nav": "Pilvitallennus",
+ "h1": "Suomen paras pilvitallennuspalvelu 2026",
+ "yksikko": "Suomessa myytävää pilvitallennuspalvelua",
+ "lead": "Pisteytimme {n} suomalaisille myytävää pilvitallennuspalvelua {m} mittarilla. Tärkein kysymys: näkyykö hinta euroissa ennen tilin luomista, ja kerrotaanko kuka dataasi säilyttää?",
+ "meta_title": "Suomen paras pilvitallennus 2026 | palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "8 pilvitallennuspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus:</b> Proton Drive on saman sveitsiläisen Proton AG:n palvelu kuin listoillamme jo olevat Proton VPN ja Proton Pass. Suurten yhdysvaltalaisten (Google, Apple, Microsoft, Dropbox) EU-laskutus kulkee tyypillisesti Irlannin yksiköiden kautta — suomalaista Y-tunnusta ei sopimuskumppanilla ole, joten mittaamme kerrotaanko omistaja ja lainkäyttöalue avoimesti.",
+  "<b>Suomenkielisyys on oma mittarinsa:</b> Dropbox, pCloud ja Internxt eivät tarjoa suomenkielistä sivustoa — kolmen muun kilpailijan hinnat ja ehdot saa suomeksi. Tämä vaikuttaa läpinäkyvyyspisteisiin, koska ehtojen ymmärtäminen on osa avoimuutta.",
+  "Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei tallennuksen teknistä laatua tai nopeutta. Hinnat ovat kampanjaherkkiä; vertailu mittaa kerrotaanko myös normaali uusimishinta. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "icloud",
+   "nimi": "iCloud+",
+   "domain": "apple.com",
+   "omistaja": "Apple Inc. (Yhdysvallat) — EU-laskutus Apple Distribution International (Irlanti)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 80.2,
+   "pillars": {
+    "digitaalinen": 75.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 82.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy viisi iCloud+-tasoa selkeillä hinnoilla: 0,99 € (50 Gt), 2,99 € (200 Gt), 9,99 € (2 Tt), 29,99 € (6 Tt), 59,99 € (12 Tt) kuukaudessa."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdoissa mainitaan 'Kokeilujakson jälkeen tilaus uusitaan automaattisesti' ja hinnat pysyvät samoina uusimisen yhteydessä (ilman alkuperäistä alennusta)."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko iCloud+ etusivu ja support-sivustot ovat suomeksi, hinnat esitetään euroissa ja maksutavat suomalaisille tutut."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omistaja Apple Inc. on merkitty sivuston footeriin ('Copyright © 2026 Apple Inc.')."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suomen-sivustolla datalokaation juridista sijaintia ei ilmoiteta. Käyttöehdot ja tietosuojakäytäntö ohjautuvat englanniksi (apple.com/legal/internet-services/icloud/ HTTP 200 eng), joissa saattaa olla tietoa, mutta nämä eivät ole suomeksi saatavilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä mihinkään riippumattomiin turvasertifikaatteihin, auditointeihin tai kolmannen osapuolen arviointeihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support-sivuston 'Ota yhteyttä' -osiossa mainitaan puhelinnumero 0800 922 72, jonka kautta voi puhua Apple-neuvojalle."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: iCloud+-osoitteiksi mainitaan @icloud.com-sähköpostiosoitteet, ja käyttäjä voi luoda omia sähköpostiosoitteita sekä käyttää custom-domainin."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Live-chat-palvelua ei mainita support-sivustolla eikä pääsivulla. Tuella on vain puhelintuki, tuki-appi ja online-apua."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelintuki on saatavilla, mutta aukioloaikojen tarkkaa ilmoitusta ei löydy Suomen-sivustolla. Tuki-appissa voi olla tunteja, mutta niitä ei listattu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on 'Vastauksia kysymyksiin' -osio, joka sisältää kuusi kysymystä (Mikä on iCloud+, miten päivität, perhejakaminen, ilmainen iCloud, Apple One sisältyminen, ehdot)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "76/100",
+       "paino": 33,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 14144.741,
+    "cls": 0,
+    "tbt_ms": 852
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeät hinnat näkyvät etusivulla: 0,99 € (50 Gt) kaikista 9,99 € (2 Tt) asti, hinnat euroissa",
+    "Suomenkielinen sivusto kokonaisuudessaan ja tukipalvelut suomeksi; iCloud+ sisältää perhejaon jopa 5 henkilölle",
+    "Kattava UKK-osio etusivulla vastaa pääkysymyksiin (tilauksen vaihtaminen, perhejakaminen, ilmaisen version saatavuus)"
+   ],
+   "kehityskohteet": [
+    "Datan säilytyskohde tai lainkäyttöalue ei ole ilmoitettu Suomen-sivustolla: käyttöehdot ja tietosuojakäytäntö ohjautuvat englanniksi",
+    "Chat-tuki puuttuu: vain puhelintuki (0800 922 72) ja tuki-appi mainitaan, live-chat ei löydy",
+    "Arviointilähde puuttuu: ei riippumattomia auditointeja tai sertifikaatteja näkyvillä"
+   ],
+   "yhteenveto": "Apple iCloud+ on suomeksi saatavilla oleva pilvitallennuspalvelu selkeillä eurohinnoilla (2 Tt 9,99 €/kk). Sivuston rakenne on looginen ja hinnoittelu näkyy helposti, mutta datan säilytyspaikan juridinen sijainti jää epäselväksi Suomen-sivuston osalta, koska siihen liittyvät dokumentit ohjautuvat englanniksi. Omistaja (Apple Inc.) on tunnistettavissa, mutta riippumattomia arviointilähteita tai turvasertifikaatteja ei ole merkitty."
+  },
+  {
+   "slug": "protondrive",
+   "nimi": "Proton Drive",
+   "domain": "proton.me",
+   "omistaja": "Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Pass",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 76.4,
+   "pillars": {
+    "digitaalinen": 82.5,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "60/100",
+       "paino": 40,
+       "pisteet": 60,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelu-sivulla /fi/drive/pricing näkyvät kuukausittaiset hinnat Drive Plus 3,99 €, Proton Unlimited 9,99 €, ja Proton Duo 14,99 € sekä vuosittaiset laskutusmäärät (47,88 €, 119,88 €, 179,88 €). JavaScript-renderöinti vaaditaan hintojen näkemiseen, koska staattisessa HTML:ssä näkyy vain \"0,00 $\" paikanvaraimet."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen tilauspaketin kohdalla näkyy vuosittainen laskutussumma: \"Laskutetaan 47,88 € 12 kuukauden välein\" Drive Plus -paketille, \"Laskutetaan 119,88 € 12 kuukauden välein\" Unlimited-paketille, ja \"Laskutetaan 179,88 € 12 kuukauden välein\" Duo-paketille."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivusto on saatavilla suomalaisessa versiossa (proton.me/fi/drive), ja kaikki hinnat on ilmoitettu euroissa (€). Kaikki sisältö on suomalaiksi käännetty."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alareunassa ja tietoa-sivulla selkeästi ilmoitettu: \"Proton AG, Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland\". Lisäksi About-sivulla kerrotaan, että \"Proton syntyi Sveitsissä vuonna 2014\" ja että palvelua ylläpitää \"Proton AG, sveitsiläinen yhtiö, jonka ensisijainen osakkeenomistaja on Genevessä, Sveitsissä sijaitseva voittoa tavoittelematon Proton Foundation\"."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan \"Yksityisyyttä sveitsiläiseen tapaan - Protonin kotipaikka on Sveitsi, joten tiedostosi hyötyvät joistakin maailman tiukimmista yksityisyyslaeista, pysyen Yhdysvaltojen ja Yhdistyneen kuningaskunnan lainkäyttövallan ulkopuolella.\""
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan, että \"Riippumattomat asiantuntijat tarkastavat säännöllisesti salatun pilvitallennuksemme, ja koodimme on julkisesti kaikkien tarkastettavissa ja varmennettavissa.\" Kuitenkaan yksityisiä auditointi-raportteja tai sertifikaatteja ei ole linkitetty julkisesti saatavilla olevilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on \"Usein kysytyt kysymykset\" -osio, jossa on ainakin kuusi kysymystä: \"Voinko synkronoida tiedostoja tietokoneeltani Proton Driveen?\", \"Mitä voin tallentaa Proton Driveen?\", \"Tarjoaako Proton Drive hyvän pilvitallennuksen yrityksille?\", \"Voinko jakaa Proton Driveen tallennettuja tiedostoja?\", \"Voinko siirtää suuria tiedostoja turvallisesti Proton Drivessa?\", ja \"Kuinka varmuuskopioin tiedostoni Proton Driveen?\""
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla useita kertoja mainittu mobiilisovelluksista: \"Mobiilisovellukset iOS (uusi ikkuna) Android (uusi ikkuna)\" sekä \"Työpöytäsovellukset Windows macOS Linux\"."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 60,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3692.209,
+    "cls": 0.0008168888204463085,
+    "tbt_ms": 1650
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi esillä euroissa kuukausittaisella ja vuosittaisella laskutuksella sekä alennusprosentit näkyvissä",
+    "Omistaja ja sijainti (Proton AG, Geneve, Sveitsi) julkisesti esillä verkkosivuston pääsy- ja tietosivuilla",
+    "Mobiili- ja työpöytäsovellukset saatavilla kaikille pääalustoille (iOS, Android, Windows, macOS)"
+   ],
+   "kehityskohteet": [
+    "Puhelin- tai live chat -tuki ei ole julkisesti näkyvissä; tuki näyttää olevan vain tukikeskuslinkkien takana",
+    "Riippumattomat tietoturva-auditoinnit mainitaan yleisellä tasolla ('riippumattomat asiantuntijat tarkastavat'), mutta yksityisiä raportteja tai sertifikaatteja ei ole linkitetty",
+    "Vuosien tai käyttöoikeuksien avulla ei ole kerrottu, kuinka kauan tiedostot voidaan palauttaa premium-tilauksessa"
+   ],
+   "yhteenveto": "Proton Drive on Sveitsissä sijaitseva Proton AG:n hallinnoimaa päästä päähän -salattua pilvitallennuspalvelua. Palvelun hinnat ja omistajatiedot ovat selkeästi julkisesti saatavilla suomalaisessa versiossa euroissa. Sivusto on selkeä ja hintojen löytäminen on helppoa, mutta riippumattomien arviointien linkkejä ja suoraa tukiyhteyttä ei ole helposti löydettävissä."
+  },
+  {
+   "slug": "internxt",
+   "nimi": "Internxt",
+   "domain": "internxt.com",
+   "omistaja": "Internxt S.L. (Espanja) — VC-rahoitteinen; ei suomenkielistä sivustoa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 71.1,
+   "pillars": {
+    "digitaalinen": 68.8,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston löytää helposti, €9,99/kk, €380/€580/€780/vuosi, €1900/€2900/€3900 elinikäiset."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston sivulla maininta '30-day money-back guarantee' ja 'Annual' / 'Lifetime' -vaihtoehdot selkeästi eritelty."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kielivalikossa ei suomea, vaihtoehdot: English, Español, Français, Deutsch, Italiano, 简体中文, Русский, 繁體中文."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Copyright-rivillä 'Internxt Universal Technologies SL', About-sivulla 'Founded in 2020 by Fran Villalba Segarra' ja 'based in Valencia, Spain'."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotisivulla mainittu 'European data centres under GDPR', mutta tarkempia datakeskusten sijainteja ei ilmoiteta julkisesti."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy-sivulla 'independently audited and verified by Europe's leading penetration testing company, Securitum', kotisivulla 'Deloitte Technology Fast 50', 'ISO 27001:2022 certification', 'HIPAA compliance'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei löydetty mistään julkisesta sivusta, tuki tarjotaan vain sähköpostitse ja live-chatissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston FAQ:ssa 'contact our Customer Success team via live chat or by sending an email to hello@internxt.com'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston FAQ-osiossa 'You can contact our Customer Success team via live chat'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukikanavan aukioloaikoja ei ole mainittu missään julkisessa sivussa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston sivulla 'Questions? We have answers' -osio, jossa 13+ usein kysyttävää kysymystä ja vastauksia."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotisivulla 'Download Internxt' -linkki, 'Internxt mobile app for iOS or Android' mainittu useilla sivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 17339.074250000005,
+    "cls": 0.0552444390381511,
+    "tbt_ms": 3160.2079000000012
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnasto selkeästi esillä euroissa kolmella tasolla: kuukausittain (9,99 €/kk), vuosittain (380-780 €) ja elinikäisesti (1900-3900 €)",
+    "Riippumaton sertifiointi: Securitum-auditoitu, ISO 27001:2022, HIPAA-compliant, Deloitte Fast 50 -palkittu",
+    "Post-kvantti-salaus ja nolla-tietoa-arkkitehtuuri selkeästi kuvattu, avoimen lähdekoodin koodi GitHubissa"
+   ],
+   "kehityskohteet": [
+    "Suomenkielistä versiota sivustosta ei ole, hintojen löytäminen vaatii englanninkielisten sivustojen käyttöä",
+    "Tietojen säilytyspaikka kuvataan vain \"eurooppalaisina datakeskuksina\", eikä tarkempia sijainteja ole mainittu",
+    "Puhelintukea ei ole saatavilla, tuki rajoittuu sähköpostiin ja live-chattiin"
+   ],
+   "yhteenveto": "Internxt on espanjalaisella Internxt Universal Technologies SL -yhtiöllä omistama pilvipalvelun tarjoaja, joka on perustettu 2020 ja sijaitsee Valenciassa. Sivusto esittelee hinnastoa selkeästi euroissa useilla vaihtoehdoilla ja tarjoaa 30 päivän rahanpalautuetakuun. Palvelua on itsenäisesti auditoitu Securitum-yhtiön toimesta, ja se noudattaa GDPR-vaatimuksia sekä muita kansainvälisiä standardeja. Sivustolla ei ole suomenkielistä versiota eikä tarkempia tietoja tietojen säilytyssijainnista."
+  },
+  {
+   "slug": "dropbox",
+   "nimi": "Dropbox",
+   "domain": "dropbox.com",
+   "omistaja": "Dropbox, Inc. — pörssiyhtiö (Nasdaq); ei suomenkielistä sivustoa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 69.3,
+   "pillars": {
+    "digitaalinen": 62.4,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "24/100",
+       "paino": 40,
+       "pisteet": 24,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "76/100",
+       "paino": 30,
+       "pisteet": 76,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Plus-paketti maksaa 9,99 € kuukaudessa ja sisältää 2 teratavua tallennustilaa. Standard-paketti 12 € käyttäjältä kuukaudessa, Advanced 18 € käyttäjältä. Hinnat näkyvät päähinnoittelusivulla ilman rekisteröintiä."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ehdoissa (https://www.dropbox.com/en/terms) mainitaan, että järjestelmä varoittaa 30 päivää ennen uusintaa ja hinnat voivat muuttua, mutta tarkkaa uusimishintaa ei erityisesti dokumentoida — oletataan olevan sama kuin alkuperäinen."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on vain englanniksi, ei suomenkielistä versiota. Hinnat näkyvät euroissa, mutta palvelun kuvaus, ehdot ja tuki ovat vain englanniksi."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: https://www.dropbox.com/about sivulla todetaan että Dropbox perustettiin 2007 ja sitä johtavat Co-CEOt Drew Houston ja Ashraf Alkarmi. Ehdoissa mainitaan 'Dropbox, Inc.' (Pohjois-Amerikassa) ja 'Dropbox International Unlimited Company' (muualla)."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy Policy -sivulla (https://www.dropbox.com/privacy) sanotaan 'we may store, process, and transmit data in the United States and locations around the world'. Tarkka lainkäyttöalue tai palvelinten sijainti ei ole erityisesti määritelty."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivulla mainitaan 'Phone support during business hours' Standard- ja Advanced-paketeille, mutta puhelinnumeroa ei anneta sivuston julkisilla sivuilla. Puhelintuki saatavilla vain ilmoittautuneiden asiakkaiden kautta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy Policy -sivulla mainitaan 'privacy@dropbox.com' sähköpostiosoite tietosuoja-asioihin. Ehdoissa copyright-asioiden yhteyshenkilö on 'copyright@dropbox.com'. Yleinen tukisähköposti on saatavilla 'Contact us' -sivun kautta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Center mainitsee 'Contact support' -vaihtoehdon, mutta selvää live-chat-mainitaa ei ole näkyvissä. Tuki tarjotaan pääasiassa sähköpostin ja support-portalin kautta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Center https://help.dropbox.com/ sisältää laajan FAQ-osion ja tueksi osiota, jossa on sekä artikkeleja että kontaktointivaihtoehtoja."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 24,
+    "accessibility": 76,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 16064.4545,
+    "cls": 0.06970452727530398,
+    "tbt_ms": 7958.44125
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvissä ennen rekisteröintiä, Plus-paketti 9,99 €/kk on houkutteleva henkilökohtaisille käyttäjille",
+    "Laaja ja hyvin organisoitu tuotesivu vertailuineen eri plan-tason välillä",
+    "Tietoturvapolitiikka ja ehdot ovat avoimesti saatavilla"
+   ],
+   "kehityskohteet": [
+    "Uusimishinnan prosessi ja -hinta eivät ole selkeästi dokumentoituja, vaan vain mainittu 30 päivän varoitusaika",
+    "Ei suomenkielistä sivustoa tai hintojen näyttöä euroissa — palvelu on vain englanniksi",
+    "Tiedon sijainnista sanotaan vain 'Yhdysvallat ja muualla maailmalla', tarkka lainkäyttöalue puuttuu"
+   ],
+   "yhteenveto": "Dropbox on yhdysvaltalainen pilvitallennuspalvelu, jonka Plus-paketti tarjoaa 2 teratavua tallennus­tilaa 9,99 eurolla kuukaudessa. Sivusto on selkeä ja hinnat helposti löydettävissä, mutta palvelu on vain englanniksi, uusimishinnoittelu jää epäselväksi, ja tiedon fyysistä sijainti­paikkaa ei täsmennetä tarkasti."
+  },
+  {
+   "slug": "onedrive",
+   "nimi": "Microsoft OneDrive",
+   "domain": "microsoft.com",
+   "omistaja": "Microsoft Corporation (Yhdysvallat) — EU-laskutus Microsoft Ireland Operations",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 67.4,
+   "pillars": {
+    "digitaalinen": 56.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "10/100",
+       "paino": 40,
+       "pisteet": 10,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "50/100",
+       "paino": 15,
+       "pisteet": 50,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnaston verkkosivulla listataan kolme hinnoitteluvaihtoehto: Microsoft 365 Basic 20,00 €/vuosi, Microsoft 365 Personal 99,00 €/vuosi (1 Tt tallennustila), Microsoft 365 Family 129,00 €/vuosi (jopa 6 Tt). Hinnat näkyvät välittömästi render_page.py -haun jälkeen ilman rekisteröitymisen vaatimusta."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivulla mainitaan 'Tilaus uusitaan automaattisesti, ellei sitä peruuteta Microsoft-tilillä.' Käyttöehdoissa (servicesagreement) todetaan myös 'Tilauksen hintaan sisältyvät sovellukset' ja mainitaan kuukausihinta (esim. 2,00 € kuukaudessa Basic-paketille, eli 20 €/vuosi)."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivusto on suomenksi ja hinnat ovat euroissa. URL-osoitteet sisältävät '/fi-fi/' ja kaikki teksti, mukaan lukien kuvauskentät ja hinnat, ovat suomeksi. Sivusto renderöi oikein suomenkielisen käyttöliittymän."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Microsoft' ja palvelua markkinoidaan 'Microsoft 365' -brändillä. Tietosuojalausekkeessa mainitaan 'Microsoft Ireland Operations Limited' vastuuhenkilönä GDPR-yhteydessä. Yrityksen omistajuus on implisiittinen (Microsoft Corporation), mutta laillinen yhteisö EU:ssa on selvennetty."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojalausekkeessa lukee 'Microsoft voi tallentaa ja käsitellä henkilökohtaisia tietojasi alueellasi, Yhdysvalloissa ja millä tahansa muulla lainkäyttöalueella, jossa Microsoftilla tai sen tytäryhtiöillä, osakkuusyrityksillä tai palveluntarjoajilla on toimitiloja.' Lisäksi mainitaan 'Microsoft Cloudin avulla asiakkaat voivat pitää henkilökohtaisia tietoja Euroopan tietorajan sisällä (EU data border).'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkisilla hinnoittelu- tai tukisivuilla ei mainita riippumatonta auditointia (esim. Deloitte, Big Four -auditointia). Ainoastaan Microsoftin omat turvallisuus- ja yksityisyyskuvaukset on saatavilla. Kolmannen osapuolen sertifiointeja tai arviointeja ei löydy etsimisilläni sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Support.microsoft.com-sivulla on laaja 'OneDriven ohje' -osio, joka sisältää kategorioita: Aloittaminen, Tiedostot, Jakaminen ja yhteiskäyttö, Synkronointi, Tilit ja tallennus, sekä Vianmääritys. Lisäksi mainitaan oppimiskeskus ja blogiartikkelit."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Hanki OneDrive-mobiilisovellus' ja linkit 'Lataa iOS:lle' ja 'Lataa Android™-käyttöjärjestelmää varten'. Sivulla kuvataan iOS- ja Android-sovellusten ominaisuuksia kuten kuvien automaattinen varmuuskopiointi."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 10,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 50,
+    "lcp_ms": 10867.888750000002,
+    "cls": 0.4109937711215672,
+    "tbt_ms": 1805.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvissä euroissa ennen rekisteröitymistä",
+    "Kattava suomenkielinen dokumentaatio ja tuki-resursssit",
+    "Mobiilisovellukset saatavilla iOS:lle ja Android-laitteille"
+   ],
+   "kehityskohteet": [
+    "Riippumatonta auditointiraporttia tai tietoturva-arviota ei löydy julkisesti",
+    "Puhelintuen yhteystiedot puuttuvat hinnoittelusivuilta",
+    "EU-datarajatoiminnon saatavuus ei ole selvästi selitettynä kuluttajapuolella"
+   ],
+   "yhteenveto": "Microsoft OneDrive on Microsoft 365:n pilvipalvelu, jonka hinnoittelu on selkeästi esillä euroissa kaikilla pääsivuilla. Suomenkielinen sivusto ja dokumentaatio ovat kattavat, mutta riippumatonta arviointia palvelun tietoturvasta ei ole julkisesti saatavilla. Uusimishinta ja automaattinen uusiutuminen kerrotaan eksplisiittisesti käyttöehdoissa."
+  },
+  {
+   "slug": "mega",
+   "nimi": "MEGA",
+   "domain": "mega.io",
+   "omistaja": "MEGA Limited (Uusi-Seelanti)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 67.1,
+   "pillars": {
+    "digitaalinen": 75.1,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivu näyttää Pro-tasot selkeästi euroissa (€): Pro I €9.99/kk kuukausiveloituksella tai €8.33/kk vuosiveloituksella; 3TB tallennusta ja 36TB siirtoa. Hinnat näkyvät JavaScript-renderöinnin jälkeen."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Terms of Service mainitsee että hinnat voivat muuttua ilmoituksella, mutta uusimishintaa ei ole eksplisiittisesti kirjoitettu julkisesti näkyviin. Hinnat näkyvät nykyisille tarjouksille, mutta uusimisen hinta selviää ilmeisesti maksun yhteydessä."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kielivalikossa ovat English, العربية, Deutsch, Español, Français, Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Română, русский, ไทย, Tiếng Việt, 中文, Türkçe — suomea ei ole listalla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy Policy mainitsee 'Mega Cloud (..owned by) MEGA Privacy LLC (Hungarian Cg. 13-09-239012)' ja 'Mega Privacy (NZ) Limited (NZ company number 9324253)'. About-sivu mainitsee perustajiksi Mathias Ortmannin ja Bram van der Kolkin."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Privacy Policy: 'We store Personal Data in our primary data centres in Japan, Canada and/or the European Union.' Reliability-sivu lisää: 'MEGA operates CloudRAID datacentres in Luxembourg, Germany, France, Netherlands, Spain, Belgium, Canada, and soon in Sweden.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla mainittu lainaus 'With its strong dedication to privacy and security, it is one of the safest cloud services around.' — Cloudwards — mutta ei linkkiä arvio-sivustoihin tai viralliseen kolmannen osapuolen arvioon."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Contact-sivulla listataan email-osoitteet (privacy@mega.io, security@mega.io, legal@mega.io, jne.), mutta puhelinnumeroa ei mainita."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useat sähköpostiosoitteet ovat saatavissa: privacy@mega.io, security@mega.io, support-kysymysten osalta Help Centre-linkki."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Help Centre ja Contact-sivu eivät mainitse live-chat-tukea. Tuki näyttää olevan sähköpostin ja Help Centre-dokumentaation varassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pricing-sivulla on Frequently asked questions -osio (esim. 'Can I use MEGA for free?', 'What is transfer quota?'). Help Centre sisältää laajan FAQ-dokumentaation."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useat sivut mainitsevat 'mobile apps (Android and iOS)' ja About-sivulla mainitaan 'desktop app' ja 'mobile apps'. Pricing-sivulla luetellaan Platform: Mobile apps, Desktop app, Browser extensions."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 98,
+    "seo": 85,
+    "best_practices": 92,
+    "lcp_ms": 7933.6645,
+    "cls": 0.0034026819071605457,
+    "tbt_ms": 515
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelu selkeä ja näkyvä heti etusivulla, hinnat euroissa (€)",
+    "Yrityksen omistajuus, toimipisteet ja datan sijainti kirjattu julkisesti saatavissa asiakirjoissa",
+    "Laaja FAQ ja Help Centre-dokumentaatio tuoteominaisuuksista ja hinnoittelusta"
+   ],
+   "kehityskohteet": [
+    "Suomenkielistä sivustoa ei ole (kielivalikoimas ei ole suomea)",
+    "Uusimishintaa ei eksplisiittisesti kerrottu – Terms-ehdoissa mainitaan hintojen muutosmahdollisuus",
+    "Puhelintukea ja live-chat-tukea ei ole julkisesti tarjolla, tuki vain sähköpostitse"
+   ],
+   "yhteenveto": "MEGA on nolla-tiedon salausperiaatteella toimiva pilvitallennuspalvelu, jonka hinnoittelu on euroissa ja julkisesti näkyvissä. Yritys on omistettu MEGA Privacy LLC:n (Unkari) ja Mega Privacy (NZ) Limited:in toimesta, ja käyttäjän tiedot säilytetään Euroopassa, Kanadassa ja Japanissa. Sivusto on käyttäjäystävällinen, mutta puuttuu suomenkielinen vaihtoehto ja eksplisiittinen uusimishinta-tiedotus."
+  },
+  {
+   "slug": "googleone",
+   "nimi": "Google One",
+   "domain": "one.google.com",
+   "omistaja": "Alphabet Inc. / Google (Yhdysvallat) — EU-laskutus Irlannin yksikön kautta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 66.2,
+   "pillars": {
+    "digitaalinen": 77.2,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "53/100",
+       "paino": 40,
+       "pisteet": 53,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pakettivertailussa esillä Basic 100 Gt 1,99 €/kk, Google AI Plus 400 Gt 9,99 €/kk, Google AI Pro 5 Tt 22,99 €/kk ja Google AI Ultra 20+ Tt kuukausihinnoilla. Hinnat näkyvät selkeästi ennen kirjautumista."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelun hinnoittelu perustuu kuukausi- ja vuositilausoptioihin, mutta erillisestä uusimishinnoittelusta ei tietoa. Vuositilausohje mainitsee 'Säästä jopa 16 %'."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelun omistajasta mainitaan vain 'Google' ja 'Googlen palvelut', mutta ei eksplisiittisesti Google LLC:tä. Käyttöehdoissa mainitaan 'Maaversio: Suomi' ja Google-yhtiö yleisesti."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuoja- ja käyttöehtosivuilla viitataan EU/UK GDPR:iin ja kansainväliseen datan siirtelyyn, mutta säilytysmaa tai lainkäyttöalue ei erikseen ilmoitettu. Privacy Policy mainitsee 'Eurooppalaiset vaatimukset' -osion."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arvioihin tai sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä' -osio about-sivulla vastaa kysymyksiin Google Onen ja Google Driven eroista, perhejäsenten kanssa jakamisesta ja pakettien eroista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 53,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 4394.9285,
+    "cls": 0.01811822615006887,
+    "tbt_ms": 2379.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvissä euroissa ennen kirjautumista",
+    "Laaja pakettivalikoima Google AI -integroinneilla",
+    "UKK-osio vastaa yleisiin kysymyksiin tallennustilasta ja paketista"
+   ],
+   "kehityskohteet": [
+    "Uusimishinnoittelusta ei erillistä tietoa, pelkät perustilauksen hinnat esillä",
+    "Tukeen pääsy vaatii kirjautumisen, julkinen yhteydenotto puuttuu",
+    "Datan säilytysmaa tai lainkäyttöalue ei eksplisiittisesti ilmoitettu"
+   ],
+   "yhteenveto": "Google One on Google-yhtiön pilvipalvelu, joka tarjoaa lisätallennustilaa ja tekoälyominaisuuksia. Hinnoittelu on selkeä ja euroissa, ja palvelu on saatavilla suomeksi. Sivusto esittelee paketteja kattavasti, mutta uusimishinnoittelusta ja datan sijainnista puuttuu julkinen tieto."
+  },
+  {
+   "slug": "pcloud",
+   "nimi": "pCloud",
+   "domain": "pcloud.com",
+   "omistaja": "pCloud AG (Sveitsi) — perustajaomisteinen; ei suomenkielistä sivustoa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 59.3,
+   "pillars": {
+    "digitaalinen": 68.4,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 12.5,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tallennustilan hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Elinikäisen 2 TB -paketin hinta 599 EUR näkyy selkeästi https://www.pcloud.com/cloud-storage-pricing-plans.html -sivulla, samoin 500 GB/299€ ja 10 TB/1890€ paketit."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näkyvät kuukausittaisen (MONTHLY) ja vuosittaisen (ANNUAL) välilehdet, mutta niiden hinnat eivät ole saatavilla staattisella haulla. Elinikäisen sopimuksen uusintaehtojen hinta puuttuu."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat esitetään euroissa, mutta koko sivusto on englanniksi. Sivun alatunnisteessa näkyy vain 'English' kielivalinnoissa, ja suomenkielistä versiota ei löydy."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alatunnisteessa lukee '© 2026 pCloud International AG'. Data Regions -sivulla mainitaan 'Swiss privacy law', mikä vahvistaa Sveitsin rekisteröinnin."
+      },
+      {
+       "mittari": "Datan säilytysmaa tai lainkäyttöalue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: https://www.pcloud.com/data-regions -sivulla selkeästi mainitaan kahden alueen valinnat: 'European Union (Luxembourg)' ja 'United States (Dallas, Texas)'. Sivulla kerrotaan, että kaikki tiedostot ja metatiedot tallennetaan valittuun alueeseen."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla lainataan kolmea arviota kolmansilta osapuolilta, esim. 'pCloud is a great value cloud storage service with a fantastic free plan...' ja 'pCloud provides excellent backup options...', mutta lähteitä ei ole linkitetty."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaation 'Apps' -linkki viittaa mobiilisovelluksiin, mutta sovelluksen yksityiskohdat tai kelpoisuus eivät ole saatavilla staattisella haulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 4154.4775,
+    "cls": 0.11393534756872035,
+    "tbt_ms": 4533.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Elämänkaaren hinnoittelu (lifetime plans) selkeästi näkyvillä euroissa",
+    "Tietojen säilytyspaikan valinnanvapaus (EU/US) kattavasti dokumentoitu",
+    "Sveitsiläinen omistus ja GDPR-vaatimustenmukaisuus mainittuna"
+   ],
+   "kehityskohteet": [
+    "Kuukausittaisten EUR-hintojen saatavuus vaatii vuorovaikutusta - ei näkyvissä staattisessa sisällössä",
+    "Asiakastuki (puhelin, sähköposti, chat) puuttuu kokonaan julkisesta sivustosta",
+    "Suomenkielinen palvelu tai käyttöliittymä ei saatavilla"
+   ],
+   "yhteenveto": "pCloud on Sveitsissä rekisteröity pilvipalvelun tarjoaja, joka keskittyy elinikäisiin tallennussopimuisiin. Sivustolla näkyvät selkeästi EUR-hinnat ja tietojen säilytyssijainnin valintavapaus, mutta kuukausittaisten tilaushintojen löytäminen vaatii JavaScript-vuorovaikutusta. Asiakastuen yhteystiedot (puhelin, sähköposti, chat) puuttuvat kokonaan, ja sivusto on saatavilla vain englanniksi."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tallennustilan hinnat julkisesti esillä (30), uusimishinta kerrottu (ei vain tarjoushinta) (15), suomenkielinen sivusto ja hinnat euroissa (20), omistava yhtiö kerrottu sivustolla (15), datan säilytysmaa tai lainkäyttöalue kerrottu (10), riippumaton arviolähde esillä (10)"
+}

@@ -72,8 +72,8 @@ CATEGORY_GROUPS = [
         ("Säästötilit", None, False),
     ]),
     ("Digitaaliset palvelut", [
-        ("Suoratoistopalvelut", None, False), ("Pilvitallennuspalvelut", None, False),
-        ("Virustorjuntaohjelmat", None, False), ("Salasananhallintapalvelut", None, False),
+        ("Suoratoistopalvelut", None, False), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),
+        ("Virustorjuntaohjelmat", None, False), ("Salasananhallintapalvelut", "salasananhallintapalvelut", True),
         ("Sähköpostipalvelut", None, False), ("Verkkotunnusvälittäjät", None, False),
         ("Kirjanpito-ohjelmat", None, False), ("Verkkokauppa-alustat", None, False),
     ]),
@@ -89,7 +89,7 @@ CATEGORY_GROUPS = [
         ("Ilmanvaihtohuollot", None, False),
     ]),
     ("Auto ja liikenne", [
-        ("Autokorjaamot", None, False), ("Autokatsastus", "autokatsastus", True),
+        ("Autokorjaamot", "autokorjaamot", True), ("Autokatsastus", "autokatsastus", True),
         ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", None, False),
         ("Autokoulut", "autokoulut", True), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),

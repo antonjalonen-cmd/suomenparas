@@ -1,0 +1,46 @@
+{
+  "slug": "pcloud",
+  "fetched_ok": [
+    "https://www.pcloud.com/cloud-storage-pricing-plans.html",
+    "https://www.pcloud.com/data-regions",
+    "https://www.pcloud.com/"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "hinta_2tt_kk_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Elämänkaaren hinnoittelu (lifetime plans) selkeästi näkyvillä euroissa",
+    "Tietojen säilytyspaikan valinnanvapaus (EU/US) kattavasti dokumentoitu",
+    "Sveitsiläinen omistus ja GDPR-vaatimustenmukaisuus mainittuna"
+  ],
+  "kehityskohteet": [
+    "Kuukausittaisten EUR-hintojen saatavuus vaatii vuorovaikutusta - ei näkyvissä staattisessa sisällössä",
+    "Asiakastuki (puhelin, sähköposti, chat) puuttuu kokonaan julkisesta sivustosta",
+    "Suomenkielinen palvelu tai käyttöliittymä ei saatavilla"
+  ],
+  "yhteenveto": "pCloud on Sveitsissä rekisteröity pilvipalvelun tarjoaja, joka keskittyy elinikäisiin tallennussopimuisiin. Sivustolla näkyvät selkeästi EUR-hinnat ja tietojen säilytyssijainnin valintavapaus, mutta kuukausittaisten tilaushintojen löytäminen vaatii JavaScript-vuorovaikutusta. Asiakastuen yhteystiedot (puhelin, sähköposti, chat) puuttuvat kokonaan, ja sivusto on saatavilla vain englanniksi.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Elinikäisen 2 TB -paketin hinta 599 EUR näkyy selkeästi https://www.pcloud.com/cloud-storage-pricing-plans.html -sivulla, samoin 500 GB/299€ ja 10 TB/1890€ paketit.",
+    "uusimishinta_kerrottu": "HAVAINTO: Sivulla näkyvät kuukausittaisen (MONTHLY) ja vuosittaisen (ANNUAL) välilehdet, mutta niiden hinnat eivät ole saatavilla staattisella haulla. Elinikäisen sopimuksen uusintaehtojen hinta puuttuu.",
+    "suomenkielinen_palvelu": "HAVAINTO: Hinnat esitetään euroissa, mutta koko sivusto on englanniksi. Sivun alatunnisteessa näkyy vain 'English' kielivalinnoissa, ja suomenkielistä versiota ei löydy.",
+    "omistaja_kerrottu": "HAVAINTO: Sivun alatunnisteessa lukee '© 2026 pCloud International AG'. Data Regions -sivulla mainitaan 'Swiss privacy law', mikä vahvistaa Sveitsin rekisteröinnin.",
+    "datan_sijainti_kerrottu": "HAVAINTO: https://www.pcloud.com/data-regions -sivulla selkeästi mainitaan kahden alueen valinnat: 'European Union (Luxembourg)' ja 'United States (Dallas, Texas)'. Sivulla kerrotaan, että kaikki tiedostot ja metatiedot tallennetaan valittuun alueeseen.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla lainataan kolmea arviota kolmansilta osapuolilta, esim. 'pCloud is a great value cloud storage service with a fantastic free plan...' ja 'pCloud provides excellent backup options...', mutta lähteitä ei ole linkitetty.",
+    "mobiilisovellus": "HAVAINTO: Navigaation 'Apps' -linkki viittaa mobiilisovelluksiin, mutta sovelluksen yksityiskohdat tai kelpoisuus eivät ole saatavilla staattisella haulla."
+  }
+}

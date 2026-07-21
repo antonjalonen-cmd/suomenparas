@@ -1,0 +1,48 @@
+{
+  "slug": "protondrive",
+  "fetched_ok": [
+    "https://proton.me/fi/drive",
+    "https://proton.me/fi/drive/pricing",
+    "https://proton.me/fi/about",
+    "https://proton.me/fi"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 14.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi esillä euroissa kuukausittaisella ja vuosittaisella laskutuksella sekä alennusprosentit näkyvissä",
+    "Omistaja ja sijainti (Proton AG, Geneve, Sveitsi) julkisesti esillä verkkosivuston pääsy- ja tietosivuilla",
+    "Mobiili- ja työpöytäsovellukset saatavilla kaikille pääalustoille (iOS, Android, Windows, macOS)"
+  ],
+  "kehityskohteet": [
+    "Puhelin- tai live chat -tuki ei ole julkisesti näkyvissä; tuki näyttää olevan vain tukikeskuslinkkien takana",
+    "Riippumattomat tietoturva-auditoinnit mainitaan yleisellä tasolla ('riippumattomat asiantuntijat tarkastavat'), mutta yksityisiä raportteja tai sertifikaatteja ei ole linkitetty",
+    "Vuosien tai käyttöoikeuksien avulla ei ole kerrottu, kuinka kauan tiedostot voidaan palauttaa premium-tilauksessa"
+  ],
+  "yhteenveto": "Proton Drive on Sveitsissä sijaitseva Proton AG:n hallinnoimaa päästä päähän -salattua pilvitallennuspalvelua. Palvelun hinnat ja omistajatiedot ovat selkeästi julkisesti saatavilla suomalaisessa versiossa euroissa. Sivusto on selkeä ja hintojen löytäminen on helppoa, mutta riippumattomien arviointien linkkejä ja suoraa tukiyhteyttä ei ole helposti löydettävissä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnoittelu-sivulla /fi/drive/pricing näkyvät kuukausittaiset hinnat Drive Plus 3,99 €, Proton Unlimited 9,99 €, ja Proton Duo 14,99 € sekä vuosittaiset laskutusmäärät (47,88 €, 119,88 €, 179,88 €). JavaScript-renderöinti vaaditaan hintojen näkemiseen, koska staattisessa HTML:ssä näkyy vain \"0,00 $\" paikanvaraimet.",
+    "uusimishinta_kerrottu": "HAVAINTO: Jokaisen tilauspaketin kohdalla näkyy vuosittainen laskutussumma: \"Laskutetaan 47,88 € 12 kuukauden välein\" Drive Plus -paketille, \"Laskutetaan 119,88 € 12 kuukauden välein\" Unlimited-paketille, ja \"Laskutetaan 179,88 € 12 kuukauden välein\" Duo-paketille.",
+    "suomenkielinen_palvelu": "HAVAINTO: Verkkosivusto on saatavilla suomalaisessa versiossa (proton.me/fi/drive), ja kaikki hinnat on ilmoitettu euroissa (€). Kaikki sisältö on suomalaiksi käännetty.",
+    "omistaja_kerrottu": "HAVAINTO: Sivuston alareunassa ja tietoa-sivulla selkeästi ilmoitettu: \"Proton AG, Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland\". Lisäksi About-sivulla kerrotaan, että \"Proton syntyi Sveitsissä vuonna 2014\" ja että palvelua ylläpitää \"Proton AG, sveitsiläinen yhtiö, jonka ensisijainen osakkeenomistaja on Genevessä, Sveitsissä sijaitseva voittoa tavoittelematon Proton Foundation\".",
+    "datan_sijainti_kerrottu": "HAVAINTO: Sivulla mainitaan \"Yksityisyyttä sveitsiläiseen tapaan - Protonin kotipaikka on Sveitsi, joten tiedostosi hyötyvät joistakin maailman tiukimmista yksityisyyslaeista, pysyen Yhdysvaltojen ja Yhdistyneen kuningaskunnan lainkäyttövallan ulkopuolella.\"",
+    "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan, että \"Riippumattomat asiantuntijat tarkastavat säännöllisesti salatun pilvitallennuksemme, ja koodimme on julkisesti kaikkien tarkastettavissa ja varmennettavissa.\" Kuitenkaan yksityisiä auditointi-raportteja tai sertifikaatteja ei ole linkitetty julkisesti saatavilla olevilla sivuilla.",
+    "ukk_osio": "HAVAINTO: Sivulla on \"Usein kysytyt kysymykset\" -osio, jossa on ainakin kuusi kysymystä: \"Voinko synkronoida tiedostoja tietokoneeltani Proton Driveen?\", \"Mitä voin tallentaa Proton Driveen?\", \"Tarjoaako Proton Drive hyvän pilvitallennuksen yrityksille?\", \"Voinko jakaa Proton Driveen tallennettuja tiedostoja?\", \"Voinko siirtää suuria tiedostoja turvallisesti Proton Drivessa?\", ja \"Kuinka varmuuskopioin tiedostoni Proton Driveen?\"",
+    "mobiilisovellus": "HAVAINTO: Sivulla useita kertoja mainittu mobiilisovelluksista: \"Mobiilisovellukset iOS (uusi ikkuna) Android (uusi ikkuna)\" sekä \"Työpöytäsovellukset Windows macOS Linux\"."
+  }
+}

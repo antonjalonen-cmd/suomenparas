@@ -1,0 +1,53 @@
+{
+  "slug": "mega",
+  "fetched_ok": [
+    "https://mega.io/pricing",
+    "https://mega.io/about",
+    "https://mega.io/privacy",
+    "https://mega.io/contact",
+    "https://mega.io/reliability",
+    "https://mega.io/terms"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "ei",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 8.33,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Hinnoittelu selkeä ja näkyvä heti etusivulla, hinnat euroissa (€)",
+    "Yrityksen omistajuus, toimipisteet ja datan sijainti kirjattu julkisesti saatavissa asiakirjoissa",
+    "Laaja FAQ ja Help Centre-dokumentaatio tuoteominaisuuksista ja hinnoittelusta"
+  ],
+  "kehityskohteet": [
+    "Suomenkielistä sivustoa ei ole (kielivalikoimas ei ole suomea)",
+    "Uusimishintaa ei eksplisiittisesti kerrottu – Terms-ehdoissa mainitaan hintojen muutosmahdollisuus",
+    "Puhelintukea ja live-chat-tukea ei ole julkisesti tarjolla, tuki vain sähköpostitse"
+  ],
+  "yhteenveto": "MEGA on nolla-tiedon salausperiaatteella toimiva pilvitallennuspalvelu, jonka hinnoittelu on euroissa ja julkisesti näkyvissä. Yritys on omistettu MEGA Privacy LLC:n (Unkari) ja Mega Privacy (NZ) Limited:in toimesta, ja käyttäjän tiedot säilytetään Euroopassa, Kanadassa ja Japanissa. Sivusto on käyttäjäystävällinen, mutta puuttuu suomenkielinen vaihtoehto ja eksplisiittinen uusimishinta-tiedotus.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pricing-sivu näyttää Pro-tasot selkeästi euroissa (€): Pro I €9.99/kk kuukausiveloituksella tai €8.33/kk vuosiveloituksella; 3TB tallennusta ja 36TB siirtoa. Hinnat näkyvät JavaScript-renderöinnin jälkeen.",
+    "uusimishinta_kerrottu": "HAVAINTO: Terms of Service mainitsee että hinnat voivat muuttua ilmoituksella, mutta uusimishintaa ei ole eksplisiittisesti kirjoitettu julkisesti näkyviin. Hinnat näkyvät nykyisille tarjouksille, mutta uusimisen hinta selviää ilmeisesti maksun yhteydessä.",
+    "suomenkielinen_palvelu": "HAVAINTO: Kielivalikossa ovat English, العربية, Deutsch, Español, Français, Indonesia, Italiano, 日本語, 한국어, Nederlands, Polski, Português, Română, русский, ไทย, Tiếng Việt, 中文, Türkçe — suomea ei ole listalla.",
+    "omistaja_kerrottu": "HAVAINTO: Privacy Policy mainitsee 'Mega Cloud (..owned by) MEGA Privacy LLC (Hungarian Cg. 13-09-239012)' ja 'Mega Privacy (NZ) Limited (NZ company number 9324253)'. About-sivu mainitsee perustajiksi Mathias Ortmannin ja Bram van der Kolkin.",
+    "datan_sijainti_kerrottu": "HAVAINTO: Privacy Policy: 'We store Personal Data in our primary data centres in Japan, Canada and/or the European Union.' Reliability-sivu lisää: 'MEGA operates CloudRAID datacentres in Luxembourg, Germany, France, Netherlands, Spain, Belgium, Canada, and soon in Sweden.'",
+    "riippumaton_arvio": "HAVAINTO: Pricing-sivulla mainittu lainaus 'With its strong dedication to privacy and security, it is one of the safest cloud services around.' — Cloudwards — mutta ei linkkiä arvio-sivustoihin tai viralliseen kolmannen osapuolen arvioon.",
+    "puhelin_esilla": "HAVAINTO: Contact-sivulla listataan email-osoitteet (privacy@mega.io, security@mega.io, legal@mega.io, jne.), mutta puhelinnumeroa ei mainita.",
+    "email_esilla": "HAVAINTO: Useat sähköpostiosoitteet ovat saatavissa: privacy@mega.io, security@mega.io, support-kysymysten osalta Help Centre-linkki.",
+    "chat_mainittu": "HAVAINTO: Help Centre ja Contact-sivu eivät mainitse live-chat-tukea. Tuki näyttää olevan sähköpostin ja Help Centre-dokumentaation varassa.",
+    "ukk_osio": "HAVAINTO: Pricing-sivulla on Frequently asked questions -osio (esim. 'Can I use MEGA for free?', 'What is transfer quota?'). Help Centre sisältää laajan FAQ-dokumentaation.",
+    "mobiilisovellus": "HAVAINTO: Useat sivut mainitsevat 'mobile apps (Android and iOS)' ja About-sivulla mainitaan 'desktop app' ja 'mobile apps'. Pricing-sivulla luetellaan Platform: Mobile apps, Desktop app, Browser extensions."
+  }
+}

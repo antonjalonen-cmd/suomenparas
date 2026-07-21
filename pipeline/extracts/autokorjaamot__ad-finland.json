@@ -1,0 +1,57 @@
+{
+  "slug": "ad-finland",
+  "fetched_ok": [
+    "https://ad-finland.com/",
+    "https://ad-finland.com/huollot-ja-korjaukset/",
+    "https://ad-finland.com/ev-korjaukset/",
+    "https://ad-finland.com/ad-palvelut/",
+    "https://ad-finland.com/ad-lasku/",
+    "https://ad-finland.com/ad-ajoturva/",
+    "https://ad-finland.com/ad-hinauspalvelu/",
+    "https://ad-finland.com/ad-tili/",
+    "https://ad-finland.com/rekry/",
+    "https://ad-finland.com/autokorjaamo/",
+    "https://ad-finland.com/tietosuoja/",
+    "https://ad-finland.com/toimitusehdot/"
+  ],
+  "hinnat_esilla": "osittain",
+  "ajanvaraus_verkossa": "osittain",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 50,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja korjaamoverkosto: yli 150 valtuutettua korjaamoa ympäri Suomen, helppo hakeminen osoitteella ja paikkakunnan nimellä",
+    "Selkeä palveluvalikoima kuvattu sivuilla: huollot, sähköautojen korjaukset, AD-Ajoturva (49€/vuosi), AD-Lasku (30 vrk koroton maksuaika), AD-Tili (12 kk koroton) ja AD-Hinauspalvelu",
+    "Korjaamohakuun integroitu aukioloajat ja puhelinnumerot, mikä mahdollistaa nopean yhteydenoton"
+  ],
+  "kehityskohteet": [
+    "Huoltojen yksittäiset hinnat puuttuvat pääsivulta – asiakkaiden tulee ottaa yhteyttä kunkin korjaamoon hinnoittelusta neuvottelemiseksi",
+    "Suora ajanvaraus verkossa ei ole selvästi toimintava – integroitu varaussysteemi (autokorjaamo.fi/embed-reservations) vaatii HTML5-tuen mutta ei selkeä, toimiiko se täysin",
+    "Ei itsenäisiä asiakasarvioita tai arviointilähteita luottamuksen rakentamiseksi – pelkästään omien kuvausten varassa"
+  ],
+  "yhteenveto": "AD Finland on Suomen johtava autokorjaamoketju, joka tarjoaa yli 150 valtuutettua korjaamoa ympäri Suomen ja palvelee asiakkaita monipuolisilla palveluilla kuten huolloilla, sähköautojen korjauksella ja AD-Ajoturvalla. Sivusto esittelee palvelut selkeästi ja mahdollistaa korjaamohakemisen osoitteilla ja aukioloajoilla, mutta yksittäisten palvelujen hintatiedot puuttuvat pääsivulta ja asiakkaan tulee ottaa yhteyttä suoraan korjaamoihin hinnoittelusta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivustolla näkyy AD-Ajoturvan hinta (49€/vuosi) ja AD-Tili-rahoituksen hinnat (3,90€/kk käsittelymaksu), mutta huoltopalvelujen yksittäisiä hintoja (esim. öljynvaihto, rengastyöt) ei löytynyt pääsivuilta – asiakkaat ohjataan ottamaan yhteyttä korjaamoihin.",
+    "ajanvaraus_verkossa": "HAVAINTO: Etusivulla on upotettu iframe-varausjärjestelmä (autokorjaamo.fi/embed-reservations), mutta sivuilla ei ole selvää kuvausta siitä, onko verkkovaraus täysin toimintava vai vaatiiko se puhelinsoiton.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: Sivuilla kuvataan laaja palveluvalikoima: autot- ja sähköautojen huollot, korjaukset, ajoakunvaihto, AD-Ajoturva (tiepalvelu), AD-Lasku (koroton maksuaika), AD-Tili (12 kk koroton), AD-Hinauspalvelu ja sijaisautot.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Autokorjaamo-sivulla (ad-finland.com/autokorjaamo/) näkyy laaja hakemisto yli 150 korjaamosta, joissa jokaisella on osoite, aukioloajat (esim. ma-pe 8-17) ja puhelinnumero.",
+    "y_tunnus_esilla": "HAVAINTO: Toimitusehdot-sivulla (ad-finland.com/toimitusehdot/) näkyy Y-tunnus FI05549430 ja yhtiön nimi AD FIN OY.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei löytynyt ulkopuolisia arviointilähteita (esim. Google-arviot, Trustpilot), vain omat kuvaukset.",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita näkyy: pääkonttori 020 720 9470, AD-Ajoturvan tiepalvelu 0200 02323 (24/7), AD-Hinauspalvelu 0200 02320 (24/7).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@ad-finland.com näkyy rekry-, tietosuoja- ja toimitusehdot-sivuilla sekä korjaamohaussa.",
+    "aukioloajat_esilla": "HAVAINTO: Korjaamohaussa (autokorjaamo.fi) näkyy jokaisen korjaamon aukioloajat esim. 'ma-pe 8-17, la 10-15'."
+  }
+}

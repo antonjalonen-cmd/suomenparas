@@ -1,0 +1,51 @@
+{
+  "slug": "dropbox",
+  "fetched_ok": [
+    "https://www.dropbox.com/plans",
+    "https://www.dropbox.com/help",
+    "https://www.dropbox.com/about",
+    "https://www.dropbox.com/en/terms",
+    "https://www.dropbox.com/privacy",
+    "https://www.dropbox.com/contact"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 9.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näkyvissä ennen rekisteröintiä, Plus-paketti 9,99 €/kk on houkutteleva henkilökohtaisille käyttäjille",
+    "Laaja ja hyvin organisoitu tuotesivu vertailuineen eri plan-tason välillä",
+    "Tietoturvapolitiikka ja ehdot ovat avoimesti saatavilla"
+  ],
+  "kehityskohteet": [
+    "Uusimishinnan prosessi ja -hinta eivät ole selkeästi dokumentoituja, vaan vain mainittu 30 päivän varoitusaika",
+    "Ei suomenkielistä sivustoa tai hintojen näyttöä euroissa — palvelu on vain englanniksi",
+    "Tiedon sijainnista sanotaan vain 'Yhdysvallat ja muualla maailmalla', tarkka lainkäyttöalue puuttuu"
+  ],
+  "yhteenveto": "Dropbox on yhdysvaltalainen pilvitallennuspalvelu, jonka Plus-paketti tarjoaa 2 teratavua tallennus­tilaa 9,99 eurolla kuukaudessa. Sivusto on selkeä ja hinnat helposti löydettävissä, mutta palvelu on vain englanniksi, uusimishinnoittelu jää epäselväksi, ja tiedon fyysistä sijainti­paikkaa ei täsmennetä tarkasti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Plus-paketti maksaa 9,99 € kuukaudessa ja sisältää 2 teratavua tallennustilaa. Standard-paketti 12 € käyttäjältä kuukaudessa, Advanced 18 € käyttäjältä. Hinnat näkyvät päähinnoittelusivulla ilman rekisteröintiä.",
+    "uusimishinta_kerrottu": "HAVAINTO: Ehdoissa (https://www.dropbox.com/en/terms) mainitaan, että järjestelmä varoittaa 30 päivää ennen uusintaa ja hinnat voivat muuttua, mutta tarkkaa uusimishintaa ei erityisesti dokumentoida — oletataan olevan sama kuin alkuperäinen.",
+    "suomenkielinen_palvelu": "HAVAINTO: Sivusto on vain englanniksi, ei suomenkielistä versiota. Hinnat näkyvät euroissa, mutta palvelun kuvaus, ehdot ja tuki ovat vain englanniksi.",
+    "omistaja_kerrottu": "HAVAINTO: https://www.dropbox.com/about sivulla todetaan että Dropbox perustettiin 2007 ja sitä johtavat Co-CEOt Drew Houston ja Ashraf Alkarmi. Ehdoissa mainitaan 'Dropbox, Inc.' (Pohjois-Amerikassa) ja 'Dropbox International Unlimited Company' (muualla).",
+    "datan_sijainti_kerrottu": "HAVAINTO: Privacy Policy -sivulla (https://www.dropbox.com/privacy) sanotaan 'we may store, process, and transmit data in the United States and locations around the world'. Tarkka lainkäyttöalue tai palvelinten sijainti ei ole erityisesti määritelty.",
+    "puhelin_esilla": "HAVAINTO: Hinnoittelusivulla mainitaan 'Phone support during business hours' Standard- ja Advanced-paketeille, mutta puhelinnumeroa ei anneta sivuston julkisilla sivuilla. Puhelintuki saatavilla vain ilmoittautuneiden asiakkaiden kautta.",
+    "email_esilla": "HAVAINTO: Privacy Policy -sivulla mainitaan 'privacy@dropbox.com' sähköpostiosoite tietosuoja-asioihin. Ehdoissa copyright-asioiden yhteyshenkilö on 'copyright@dropbox.com'. Yleinen tukisähköposti on saatavilla 'Contact us' -sivun kautta.",
+    "chat_mainittu": "HAVAINTO: Help Center mainitsee 'Contact support' -vaihtoehdon, mutta selvää live-chat-mainitaa ei ole näkyvissä. Tuki tarjotaan pääasiassa sähköpostin ja support-portalin kautta.",
+    "ukk_osio": "HAVAINTO: Help Center https://help.dropbox.com/ sisältää laajan FAQ-osion ja tueksi osiota, jossa on sekä artikkeleja että kontaktointivaihtoehtoja."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "dashlane",
+  "fetched_ok": [
+    "https://www.dashlane.com/personal-pricing",
+    "https://www.dashlane.com/features/free-password-manager",
+    "https://www.dashlane.com/",
+    "https://www.dashlane.com/privacy",
+    "https://www.dashlane.com/security",
+    "https://www.dashlane.com/why-dashlane/industry-recognition",
+    "https://www.dashlane.com/terms"
+  ],
+  "hinnat_esilla": "kylla",
+  "ilmainen_versio_kerrottu": "kylla",
+  "turvallisuusauditoinnit": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "premium_kk_hinta_eur": 3.87,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selvästi ja houkuttelevasti (€3.87/kk Premium, €5.85/kk Family-plan vuosilaskutuksella) heti pääsivulla ja pricing-sivulla",
+    "Ilmainen versio kuvattu kattavasti: 25 salasanaa, rajattomasti laitteita, autofill, antamatta kerta-avainoita",
+    "Laaja turvallisuuskuvaus: nolla-tietoarkkitehtuuri, AWS Nitro Enclaves, riippumattomat vuosittaiset penetraatio- ja soveltuvuustestit sekä HackerOne-bugihyödyntämisohjelma"
+  ],
+  "kehityskohteet": [
+    "Riippumattomat auditoinnit ei ole nimetty: sivusto mainitsee 'independent annual penetration tests' mutta ei kerro SOC 2 / ISO 27001 sertifikaatteja tai audit-raportteja (toisin kuin 1Password)",
+    "Puhelinnumero puuttuu: ainoastaan sähköpostikontakti ja contact-lomake, ei suoraa puhelinnumeroa",
+    "Chat-tuki epäselvä: support.dashlane.com on Cloudflare-suojattu eikä selvästi mainita live-chat-vaihtoehtoa hinnoittelusivulla"
+  ],
+  "yhteenveto": "Dashlane on USA:n ja Ranskan välillä operoiva salasananhallintapalvelu, joka tarjoaa selkeät hinnat, 14 päivän ilmaisen kokeilun ja nolla-tietoarkkitehtuurilla rakennetun palvelun. Sivustolla näkyy kattava turvallisuuskuvaus ja useita alan palkintoja (Best Password Manager 2025). Heikkoutena on, että riippumattomien turva-auditointien nimet ja todisteet eivät ole julkaistussa muodossa näkyvissä, ja asiakaspalvelun kontakti vaatii verkkolomakkeen täyttämistä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pricing-sivulla näkyvät selvästi: 'RECOMMENDED Premium – Individual protection plus VPN – €3.87 + VAT Per month Billed annually' ja 'Friends & Family – 10 accounts, one subscription – €5.85 + VAT Per month for 10 members Billed annually'.",
+    "ilmainen_versio_kerrottu": "HAVAINTO: Features-sivulla: 'Get started with a free Dashlane account and enjoy peace of mind with easy and secure access to up to 25 passwords' ja 'Seamlessly sync up to 25 passwords, passkeys, payment information, notes, and IDs across an unlimited number of devices.'",
+    "turvallisuusauditoinnit": "HAVAINTO: Security-sivulla mainitaan 'Penetration testing: Independent annual tests cover all apps and cloud infrastructure' ja 'Bug bounty: Dashlane's decade-long HackerOne program' sekä 'Code transparency: Portions of Dashlane's code (iOS, Android, and web extension) are publicly available'. Konkreettisia sertifikaatteja (SOC 2, ISO 27001) ei ole nimetty.",
+    "omistaja_kerrottu": "HAVAINTO: Terms-sivulla selvästi mainittu: 'The Services are provided by either Dashlane USA, Inc. a Delaware corporation with offices at 44 West 18th Street, New York, NY 10011 USA, or Dashlane SAS, a French company with offices at 21 Rue Pierre Picard, 75018 Paris'. Footer: 'Dashlane Inc. Dashlane SAS'.",
+    "uusimishinta_kerrottu": "HAVAINTO: Pricing-sivulla Premium ja Family plan näyttävät saman hinnan uusimiselle kuin alkuperäisen ostoksen, koska se on merkitty 'Billed annually' jatkuvasti ilman lisäalennusta.",
+    "riippumaton_arvio": "HAVAINTO: Industry-recognition-sivulla luetellaan palkinnot: '2025 Best Password Manager', '2025 Best Password Manager for Security', 'Cybersecurity Award Winner, Authentication & Identity', 'Best Security Features', sekä maininta että 'Backed by industry experts' -kohta sisältää PC Magazine ja muiden arvioita.",
+    "email_esilla": "HAVAINTO: Terms-sivulla mainittu 'legal@dashlane.com' ja footer näyttää 'Contact Sales' ja tuki-sivusto support.dashlane.com (vaikka se onkin Cloudflare-suojattu).",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei ole näkyvissä verkkosivuilla. Kontakti on vain sähköpostitse ja verkkolomakkeen kautta.",
+    "chat_mainittu": "HAVAINTO: Support-linkki ohjaa support.dashlane.com, joka näyttää Cloudflare-haaste eikä varsinaista sivua. Privacy-sivulla mainitaan 'Customer Support', mutta live-chat-vaihtoehtoa ei ole nimetty. Feature-sivulla FAQ mainitsee 'Support Center' mutta se ei ole julkisesti saatavilla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole julkaistuissa tiedoissa. Sivusto näyttää vain 'Contact Sales' -linkin.",
+    "ukk_osio": "HAVAINTO: Security-sivulla erillinen 'Dashlane security FAQs' -osio kysymyksillä: 'How does Dashlane operate securely?', 'How does Dashlane prevent unauthorized access to corporate vaults?', 'What role does confidential computing play in Dashlane's enterprise security?'. Pricing-sivulla mainitaan 'Unlimited devices', 'Unlimited passwords & passkeys' jne.",
+    "mobiilisovellus": "HAVAINTO: Privacy-sivulla mainitaan 'web extensions and mobile and web applications' ja Terms-sivulla 'download and install the Apps in object code format on one or more devices'. Pricing-sivulla tekstit 'Unlimited devices' ja 'across an unlimited number of devices'."
+  }
+}

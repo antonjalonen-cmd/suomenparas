@@ -1,0 +1,52 @@
+{
+  "slug": "icloud",
+  "fetched_ok": [
+    "https://www.apple.com/fi/icloud/",
+    "https://support.apple.com/fi-fi/icloud",
+    "https://support.apple.com/fi-fi/contact",
+    "https://www.apple.com/legal/internet-services/",
+    "https://www.apple.com/legal/internet-services/icloud/"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "datan_sijainti_kerrottu": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 9.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Selkeät hinnat näkyvät etusivulla: 0,99 € (50 Gt) kaikista 9,99 € (2 Tt) asti, hinnat euroissa",
+    "Suomenkielinen sivusto kokonaisuudessaan ja tukipalvelut suomeksi; iCloud+ sisältää perhejaon jopa 5 henkilölle",
+    "Kattava UKK-osio etusivulla vastaa pääkysymyksiin (tilauksen vaihtaminen, perhejakaminen, ilmaisen version saatavuus)"
+  ],
+  "kehityskohteet": [
+    "Datan säilytyskohde tai lainkäyttöalue ei ole ilmoitettu Suomen-sivustolla: käyttöehdot ja tietosuojakäytäntö ohjautuvat englanniksi",
+    "Chat-tuki puuttuu: vain puhelintuki (0800 922 72) ja tuki-appi mainitaan, live-chat ei löydy",
+    "Arviointilähde puuttuu: ei riippumattomia auditointeja tai sertifikaatteja näkyvillä"
+  ],
+  "yhteenveto": "Apple iCloud+ on suomeksi saatavilla oleva pilvitallennuspalvelu selkeillä eurohinnoilla (2 Tt 9,99 €/kk). Sivuston rakenne on looginen ja hinnoittelu näkyy helposti, mutta datan säilytyspaikan juridinen sijainti jää epäselväksi Suomen-sivuston osalta, koska siihen liittyvät dokumentit ohjautuvat englanniksi. Omistaja (Apple Inc.) on tunnistettavissa, mutta riippumattomia arviointilähteita tai turvasertifikaatteja ei ole merkitty.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy viisi iCloud+-tasoa selkeillä hinnoilla: 0,99 € (50 Gt), 2,99 € (200 Gt), 9,99 € (2 Tt), 29,99 € (6 Tt), 59,99 € (12 Tt) kuukaudessa.",
+    "uusimishinta_kerrottu": "HAVAINTO: Käyttöehdoissa mainitaan 'Kokeilujakson jälkeen tilaus uusitaan automaattisesti' ja hinnat pysyvät samoina uusimisen yhteydessä (ilman alkuperäistä alennusta).",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko iCloud+ etusivu ja support-sivustot ovat suomeksi, hinnat esitetään euroissa ja maksutavat suomalaisille tutut.",
+    "omistaja_kerrottu": "HAVAINTO: Omistaja Apple Inc. on merkitty sivuston footeriin ('Copyright © 2026 Apple Inc.').",
+    "datan_sijainti_kerrottu": "HAVAINTO: Suomen-sivustolla datalokaation juridista sijaintia ei ilmoiteta. Käyttöehdot ja tietosuojakäytäntö ohjautuvat englanniksi (apple.com/legal/internet-services/icloud/ HTTP 200 eng), joissa saattaa olla tietoa, mutta nämä eivät ole suomeksi saatavilla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä mihinkään riippumattomiin turvasertifikaatteihin, auditointeihin tai kolmannen osapuolen arviointeihin.",
+    "puhelin_esilla": "HAVAINTO: Support-sivuston 'Ota yhteyttä' -osiossa mainitaan puhelinnumero 0800 922 72, jonka kautta voi puhua Apple-neuvojalle.",
+    "email_esilla": "HAVAINTO: iCloud+-osoitteiksi mainitaan @icloud.com-sähköpostiosoitteet, ja käyttäjä voi luoda omia sähköpostiosoitteita sekä käyttää custom-domainin.",
+    "chat_mainittu": "HAVAINTO: Live-chat-palvelua ei mainita support-sivustolla eikä pääsivulla. Tuella on vain puhelintuki, tuki-appi ja online-apua.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelintuki on saatavilla, mutta aukioloaikojen tarkkaa ilmoitusta ei löydy Suomen-sivustolla. Tuki-appissa voi olla tunteja, mutta niitä ei listattu.",
+    "ukk_osio": "HAVAINTO: Etusivulla on 'Vastauksia kysymyksiin' -osio, joka sisältää kuusi kysymystä (Mikä on iCloud+, miten päivität, perhejakaminen, ilmainen iCloud, Apple One sisältyminen, ehdot)."
+  }
+}

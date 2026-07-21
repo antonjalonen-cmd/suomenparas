@@ -1,0 +1,46 @@
+{
+  "slug": "googleone",
+  "fetched_ok": [
+    "https://one.google.com/about/plans",
+    "https://one.google.com/about",
+    "https://policies.google.com/privacy",
+    "https://policies.google.com/terms"
+  ],
+  "hinnat_esilla": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "kylla",
+  "omistaja_kerrottu": "osittain",
+  "datan_sijainti_kerrottu": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "hinta_2tt_kk_eur": 9.99,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näkyvissä euroissa ennen kirjautumista",
+    "Laaja pakettivalikoima Google AI -integroinneilla",
+    "UKK-osio vastaa yleisiin kysymyksiin tallennustilasta ja paketista"
+  ],
+  "kehityskohteet": [
+    "Uusimishinnoittelusta ei erillistä tietoa, pelkät perustilauksen hinnat esillä",
+    "Tukeen pääsy vaatii kirjautumisen, julkinen yhteydenotto puuttuu",
+    "Datan säilytysmaa tai lainkäyttöalue ei eksplisiittisesti ilmoitettu"
+  ],
+  "yhteenveto": "Google One on Google-yhtiön pilvipalvelu, joka tarjoaa lisätallennustilaa ja tekoälyominaisuuksia. Hinnoittelu on selkeä ja euroissa, ja palvelu on saatavilla suomeksi. Sivusto esittelee paketteja kattavasti, mutta uusimishinnoittelusta ja datan sijainnista puuttuu julkinen tieto.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pakettivertailussa esillä Basic 100 Gt 1,99 €/kk, Google AI Plus 400 Gt 9,99 €/kk, Google AI Pro 5 Tt 22,99 €/kk ja Google AI Ultra 20+ Tt kuukausihinnoilla. Hinnat näkyvät selkeästi ennen kirjautumista.",
+    "uusimishinta_kerrottu": "HAVAINTO: Palvelun hinnoittelu perustuu kuukausi- ja vuositilausoptioihin, mutta erillisestä uusimishinnoittelusta ei tietoa. Vuositilausohje mainitsee 'Säästä jopa 16 %'.",
+    "omistaja_kerrottu": "HAVAINTO: Palvelun omistajasta mainitaan vain 'Google' ja 'Googlen palvelut', mutta ei eksplisiittisesti Google LLC:tä. Käyttöehdoissa mainitaan 'Maaversio: Suomi' ja Google-yhtiö yleisesti.",
+    "datan_sijainti_kerrottu": "HAVAINTO: Tietosuoja- ja käyttöehtosivuilla viitataan EU/UK GDPR:iin ja kansainväliseen datan siirtelyyn, mutta säilytysmaa tai lainkäyttöalue ei erikseen ilmoitettu. Privacy Policy mainitsee 'Eurooppalaiset vaatimukset' -osion.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arvioihin tai sertifikaatteihin.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä' -osio about-sivulla vastaa kysymyksiin Google Onen ja Google Driven eroista, perhejäsenten kanssa jakamisesta ja pakettien eroista."
+  }
+}
