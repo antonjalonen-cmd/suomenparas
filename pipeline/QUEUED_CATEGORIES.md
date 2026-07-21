@@ -317,3 +317,22 @@ Quality notes for the next batch:
   the fix that works is: fetch front page --js --raw, grep hrefs, follow REAL nav links.
 - One agent stalled ~40 min then completed AFTER its replacement was launched —
   last-writer-wins on the same file; wait for both before gating.
+
+## BATCH 4 — BUILT 21.7.2026 (7 new + 1 refused)
+
+Shipped: `lakifirmat` (6; Anton's ask — Lexly DEAD 22.12.2025, Docue=Sopimustieto B2B),
+`pakohuoneet` (5; Anton's ask — the industry is structurally local: 3 real chains + 2
+two-city operators = every multi-city operator in Finland; Room Escape Finland KONKURSSI
+2/2026), `hammaslaakarit` (6; Oral≠Mehiläinen, Terveystalo→Hohde deal pending KKV),
+`rengasliikkeet` (6; 4/6 manufacturer-owned — disclosed; Rengasmaailma→BestDrive),
+`muuttopalvelut` (4; Muuttopalvelu.com dead-domain trap, Grundell→Martela),
+`siivouspalvelut` (5; SOL/ISS/RTK/L&T have NO consumer product — verified from own pages),
+`autokoulut` (4; sector consolidated by PE roll-ups, contrary to the "too local" caution).
+**`elainlaakarit` NOT BUILT:** Univet, Omaeläinklinikka and Mevet are all Evidensia
+trade names (same Y-tunnus), AniCura has no FI operations — 2 genuine operators is not
+a ranking. Record scores: Koti Puhtaaksi 88.4, Antin Autokoulu 86.3, Suomen Muuttofirma 86.0.
+
+Ops notes: a network outage killed 7 extraction agents AND a whole 12-site Lighthouse
+run mid-batch (exit 0 but every site ERRORED_DOCUMENT_REQUEST — check the log, not the
+exit code); later 10 agents died to the session usage limit (resets on the clock — a
+background `until [ $(date +%H%M) -ge HHMM ]` timer + relaunch worked well).
