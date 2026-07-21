@@ -1043,7 +1043,7 @@ def build_index():
 <section class="band">
   <div class="wrap">
     <h2 class="sec">Miten Suomen Paras toimii</h2>
-    <p class="sec-sub">Perinteiset vertailusivut myyvät sijoituksia. Me myymme vain yhtä asiaa: läpinäkyvää dataa.</p>
+    <p class="sec-sub">Perinteiset vertailusivut myyvät sijoituksia. Me tarjoamme vain yhtä asiaa: läpinäkyvää dataa.</p>
     {steps}
   </div>
 </section>
