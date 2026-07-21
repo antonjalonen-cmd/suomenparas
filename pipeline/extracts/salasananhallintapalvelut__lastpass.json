@@ -1,0 +1,52 @@
+{
+  "slug": "lastpass",
+  "fetched_ok": [
+    "https://www.lastpass.com/pricing",
+    "https://www.lastpass.com",
+    "https://www.lastpass.com/security",
+    "https://www.lastpass.com/trust-center",
+    "https://www.lastpass.com/company/about-us"
+  ],
+  "hinnat_esilla": "kylla",
+  "ilmainen_versio_kerrottu": "kylla",
+  "turvallisuusauditoinnit": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "premium_kk_hinta_eur": 2.90,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Zero-knowledge -salaus ja AES-256 -vahvistus näkyvät selkeästi hinnoittelusivulla",
+    "Ilmaisversio ja sen rajoitukset (1 laitetyyppi) kerrotaan avoimesti",
+    "Riippumattomien arvioiden määrä korkea (79 300+ Chrome-arvostelua, 1 599+ johtajuusarvioita)"
+  ],
+  "kehityskohteet": [
+    "Monet ohjeistus- ja politiikka-sivut (Terms of Service, Privacy Notice, Support FAQ) palauttavat 404-virheen",
+    "Suoran yhteydenoton kanavat (puhelin, sähköposti) eivät näy etusivulla, vain 'Contact Sales' -painike",
+    "Omistajatiedot (LastPass US LP, 2024 erottautuminen GoTo:sta) edellyttävät About Us -sivun etsimistä"
+  ],
+  "yhteenveto": "LastPass on laajasti käytetty salasananhallintapalvelu, jonka hinnoittelu ja ilmaisversion rajoitukset ovat selkeästi esillä. Palvelu korostaa zero-knowledge -arkkitehtuuria ja listaa kattavan määrän tietoturva-sertifikaatteja (ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe). Kuitenkin monet sisäiset sivut (ehdot, yksityisyyskäytäntö, laaja UKK) eivät ole saavutettavissa normaalilla selauksella, ja suora yhteydenotto vaatii navigointia sales-sivuille.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat näkyvät etusivulla ja /pricing-sivulla. Premium €2,90/kk (vuosilaskutus), Families €3,90/kk, Teams €4,42/käyttäjä/kk, Business €6,50/käyttäjä/kk, Business Max €8,50/käyttäjä/kk.",
+    "ilmainen_versio_kerrottu": "HAVAINTO: Etusivulla mainitaan 'Limited to 1 device type. Simple password management with unlimited password storage, autofill, dark web monitoring, and basic password sharing.' Ilmainen versio sisältää 30 päivän Premium-kokeilujakson.",
+    "turvallisuusauditoinnit": "HAVAINTO: /security-sivulla listaus: 'ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe'. Maininta 'Regular expert security audits' ja 'trusted, world-class security organizations conduct routine audits'. Trust Center viittaa 2022 tietoturva-insidenttiin.",
+    "omistaja_kerrottu": "HAVAINTO: Footer näyttää '© 2026 LastPass US LP'. About Us -sivulla mainitaan: '2024: LastPass formally separates from GoTo, backed by new leadership'. Aiemmin omisti LogMeIn (nyt GoTo), joka osti LastPassin 2015.",
+    "uusimishinta_kerrottu": "HAVAINTO: Hinnoittelusivulla näkyy vuosihinta ('billed annually') mutta ei selkeää uusiutumishintaa. Mainitaan 'Promotional pricing is subject to separate promotion terms'.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla '79,300+ reviews' Chrome ja App Store -arvosteluja. Maininta 'Leader in Password Management Based on 1,599+ reviews'.",
+    "puhelin_esilla": "HAVAINTO: Suoraa puhelinnumeroa ei näy etusivulla. 'Contact sales' -painike vie sales-sivuille. Support-kanavissa mainitaan Reddit community, Community forum ja Support Center.",
+    "email_esilla": "HAVAINTO: Support Center mainitaan mutta suoraa email-osoitetta ei näy etusivulla. Footer näyttää 'Contact support' -linkin.",
+    "chat_mainittu": "HAVAINTO: Etusivulla 'Chat with sales experts' -painike näkyvissä.",
+    "ukk_osio": "HAVAINTO: Etusivulla osio 'Frequently asked questions' kysymyksillä: 'How can I access LastPass?', 'How does LastPass securely store passwords?', 'Does LastPass have access to my passwords?' jne.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla linkki 'Google Play download', 'App Store download' ja 'Browser Extensions'. Maininta: 'Free users can only use LastPass on one device type (computer or mobile)'."
+  }
+}

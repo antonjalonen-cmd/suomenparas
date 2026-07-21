@@ -269,6 +269,19 @@ nav.main a.on{color:var(--gold-line)}
 .foot-bottom .oy{font-family:'IBM Plex Mono',monospace;font-size:.7rem;letter-spacing:.16em;text-transform:uppercase}
 .foot-bottom .btn{background:var(--gold);color:var(--ink);padding:9px 20px;border-radius:10px;font-weight:800;border:2.5px solid var(--ink)}
 .foot-bottom .btn:hover{text-decoration:none;transform:translateY(-1px)}
+/* category guide */
+.opas-intro{margin-top:14px;color:var(--body);font-weight:600;max-width:720px}
+.opas{margin:40px 0 8px;background:var(--card);border:2.5px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:28px}
+.opas h3{color:var(--ink);font-size:1.12rem;margin:20px 0 8px}
+.opas h3:first-of-type{margin-top:12px}
+.opas ul{margin:0 0 6px 22px}
+.opas li{margin:6px 0;font-weight:600;color:var(--body);font-size:.95rem}
+.opas p{color:var(--body);font-weight:600;font-size:.95rem;max-width:720px}
+details.ukk{border:2px solid var(--line);border-radius:12px;margin:8px 0;background:var(--cream)}
+details.ukk summary{cursor:pointer;padding:12px 16px;font-weight:800;color:var(--ink);list-style:none;position:relative;padding-right:38px}
+details.ukk summary::after{content:"+";position:absolute;right:16px;top:50%;transform:translateY(-50%);font-family:'Baloo 2',sans-serif;font-size:1.3rem;color:var(--blue-deep)}
+details.ukk[open] summary::after{content:"−"}
+details.ukk p{padding:0 16px 14px;margin:0}
 /* analyysi form */
 .aform{max-width:640px;margin-bottom:22px}
 .aform label{display:block;font-weight:800;color:var(--ink);font-size:.92rem;margin:14px 0 0}
@@ -1094,6 +1107,41 @@ def build_vertical(v):
     cards = "".join(rank_card(c, i, "../", v["slug"]) for i, c in enumerate(cs, 1))
     lead = v["lead"].replace("{n}", str(len(cs))).replace("{m}", str(v["mittarit"]))
     notes = "".join(f'<p class="note">{n}</p>' for n in v["notes"])
+
+    # Category guide (dad's structure 21.7.2026): short intro ABOVE the table so the
+    # ranking stays the hook; the deep guide + expert tips + FAQ (with FAQPage
+    # schema for search engines) BELOW it.
+    opas = v.get("opas") or {}
+    opas_intro = f'<p class="opas-intro">{opas["johdanto"]}</p>' if opas.get("johdanto") else ""
+    opas_body = ""
+    if opas:
+        import json as _json
+        parts = ['<section class="opas" id="opas"><h2 class="sec">Vertailuopas</h2>']
+        if opas.get("huomioita"):
+            parts.append('<h3>Mitä vertailussa kannattaa huomioida</h3><ul>')
+            parts += [f"<li>{h}</li>" for h in opas["huomioita"]]
+            parts.append("</ul>")
+        parts.append('<h3>Miten Suomen Paras arvioi ja pisteyttää</h3>'
+                     '<p>Jokainen yritys mitataan samalla julkisella kaavalla neljästä pilarista: '
+                     'tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Sijoitusta ei '
+                     'voi ostaa, ja jokaisen pisteen alkuperän näet yrityksen profiilista. '
+                     '<a href="../metodologia/">Lue koko metodologia →</a></p>')
+        if opas.get("vinkit"):
+            parts.append('<h3>Asiantuntijan vinkit</h3><ul>')
+            parts += [f"<li>{h}</li>" for h in opas["vinkit"]]
+            parts.append("</ul>")
+        if opas.get("ukk"):
+            parts.append('<h3>Usein kysytyt kysymykset</h3>')
+            for qa in opas["ukk"]:
+                parts.append(f'<details class="ukk"><summary>{qa["q"]}</summary><p>{qa["a"]}</p></details>')
+            faq_ld = {"@context": "https://schema.org", "@type": "FAQPage",
+                      "mainEntity": [{"@type": "Question", "name": qa["q"],
+                                      "acceptedAnswer": {"@type": "Answer", "text": qa["a"]}}
+                                     for qa in opas["ukk"]]}
+            parts.append('<script type="application/ld+json">' +
+                         _json.dumps(faq_ld, ensure_ascii=False) + "</script>")
+        parts.append("</section>")
+        opas_body = "".join(parts)
     body = f"""
 <div class="wrap">
   <p class="crumb"><a href="../">Etusivu</a> › <b>{esc(v['nimi'])}</b></p>
@@ -1104,6 +1152,7 @@ def build_vertical(v):
       <span class="upd">Mitattu {v['updated']} · Score {SCORE_VERSION}</span>
       <a class="count-pill" href="../metodologia/">Miten pisteet lasketaan →</a>
     </div>
+    {opas_intro}
   </div>
 
   <div class="chips" role="tablist" aria-label="Järjestä ranking">
@@ -1117,6 +1166,7 @@ def build_vertical(v):
 
   <p class="note"><b>Lue pisteet oikein:</b> tämän demon AI-ekstraktio ei ole täysin toistettava — mittasimme kolme yritystä kahdesti ja ero oli jopa ±15 pistettä (<a href="../metodologia/">selitys metodologiassa</a>). Käytä pisteitä suuruusluokkana, älä tarkkana paremmuusjärjestyksenä: muutaman pisteen ero on kohinaa, mutta iso ero (esim. hinta julkisesti vs. kirjautumisen takana) on todellinen.</p>
   {notes}
+  {opas_body}
 
   <div class="b2b">
     <h3>Oletko listalla ja haluaisit korkeammalle?</h3>

@@ -1,0 +1,51 @@
+{
+  "slug": "autoasi",
+  "fetched_ok": [
+    "https://www.autoasi.fi/",
+    "https://www.autoasi.fi/palvelut/",
+    "https://www.autoasi.fi/korjaamot/",
+    "https://www.autoasi.fi/yhteystiedot/",
+    "https://www.autoasi.fi/palvelut/maaraaikaishuollot-kaikille-automerkeille/",
+    "https://www.autoasi.fi/palvelut/renkaiden-vaihto-edessa/"
+  ],
+  "hinnat_esilla": "ei",
+  "ajanvaraus_verkossa": "osittain",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Laaja palveluvalikoima selkeästi kuvattu (määräaikaishuollot, ilmastointihuollot, renkaiden vaihto, etc.)",
+    "Helppo korjaamohaku kartalla osoitteen, postinumeron tai kaupungin perusteella",
+    "Selkeä navigaatio ja informatiiviset artikkelit huoltoaiheista"
+  ],
+  "kehityskohteet": [
+    "Palvelun hinnoitteluperuste ei ole julkinen – ainoastaan tarjouspyyntö via lomake",
+    "Korjaamojen aukioloajat puuttuvat kokonaan, vain listaus paikoista saatavilla",
+    "Verkkoajanvaraus puuttuu: ajanvaraus edellyttää tarjouspyynnön tai suoraa yhteydenottoa"
+  ],
+  "yhteenveto": "Autoasi-ketju on kotimaan monimerkkikorjaamo-ketju, joka tarjoaa kattavan palveluvalikoiman. Sivusto on selkeä ja sisältää hyviä ohjeita huolto-asioista, mutta hinnoittelutiedot ja aukioloajat puuttuvat kokonaan. Verkkoajanvaraus puuttuu – asiakkaiden on lähetettävä tarjouspyyntö lomakkeen kautta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivuilla ei löydy yhtään konkreettista hintaa, vaikka mainita hinnoittelusta. Pääsivulla todetaan 'Hinta rehellisesti aina kohdallaan', mutta tariffeja ei avata. Asiakkaat joutuvat lähettämään tarjouspyynnön saadakseen hintatiedot.",
+    "ajanvaraus_verkossa": "HAVAINTO: Korjaamot-sivulla on tarjouspyyntölomake, jonka kautta voi lähettää 'ajanvaraustoiveen', mutta varsinaista online-ajanvarausjärjestelmää ei ole. Ajanvaraus vaatii siis yhteydenottoa korjaamon kanssa.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: Palvelut-sivulla ja niihin liitetyillä alasivuilla kuvataan laajasti määräaikaishuollot, ilmastointihuollot, jarrupalojen/levyjen vaihto, jakohihnan vaihto, ohjauskulmien säätö, renkaiden vaihto ja lisäpalvelut (rahoitus, sijaisauto).",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Korjaamot-sivulla on alueittainen lista 50+ korjaamo-paikkakunnasta, mutta aukioloaikoja ei mainita missään. Käyttäjä voi tehdä karttahaun ja saada osoitteita.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla yritys tunnistetaan nimellä 'Autoasi-ketju, Örum Oy Ab', mutta varsinaista Y-tunnusta (1234567-8 formaatissa) ei näytetä.",
+    "puhelin_esilla": "HAVAINTO: Puhelin 010 770 2070 näkyy usealla sivulla (yhteystiedot, pääsivu, jokaisen sivun footer).",
+    "email_esilla": "HAVAINTO: Sähköposti info@autoasi.fi näkyy usealla sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita missään sivulla, vaikka käyttäjä voisi tarvita niitä korjaamoon menemisen suunnitteluun.",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole erityistä UKK/FAQ-osiota. Usein kysytyt aiheet käsitellään uutis-artikkeleissa (esim. renkaiden vaihto, määräaikaishuollot), mutta strukturoitua Q&A-osiota ei ole."
+  }
+}

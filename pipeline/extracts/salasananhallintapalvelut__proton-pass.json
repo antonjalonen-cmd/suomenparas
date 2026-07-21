@@ -1,0 +1,45 @@
+{
+  "slug": "proton-pass",
+  "fetched_ok": [
+    "https://proton.me/pass/pricing",
+    "https://proton.me/pass",
+    "https://proton.me/pass/security"
+  ],
+  "hinnat_esilla": "kylla",
+  "ilmainen_versio_kerrottu": "kylla",
+  "turvallisuusauditoinnit": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "premium_kk_hinta_eur": 2.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Hinnoittelua on erittäin helppo vertailla taulukkomuodossa sekä kuukausittain että vuosittain, alennukset näkyvät selkeästi",
+    "Ilmaisversio on hyvin dokumentoitu ja sen rajoitukset (2 holvoa, 10 alias-osoitetta) näkyvät selvästi",
+    "Avoin lähdekoodi ja riippumaton auditointi mainitaan, tunnettujen audit-yritysten linkkejä käyttäjät pystyvät etsimään"
+  ],
+  "kehityskohteet": [
+    "Turvallisuusauditointien raportit eivät ole suoraan linkitetty sivustolle, vain mainittu \"independently audited\"",
+    "Puuttuva suora yhteystietojen näyttäminen: ei puhelinnumeroa, ei live-chatti, vain kontaktilinkkejä footerissa",
+    "Ei informaatiota aukioloajoista tai vastausajoista tuen osalta"
+  ],
+  "yhteenveto": "Proton Pass on salasanahallintapalvelu, jonka omistaa Sveitsissä sijaitseva Proton AG. Sivusto on erittäin selkeä ja hinnoittelua on helppo vertailla, ilmaisversio on hyvin dokumentoitu ja premium-tason sisältö on kattava. Turvallisuusauditointien raportteja ei kuitenkaan ole suoraan saatavilla sivulta, ja asiakastuki on pinpointed vain kontaktilomakkeiden kautta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnoittelu näkyy selvästi https://proton.me/pass/pricing sivulla. Pass Plus €2.99/kk (ale 40% listahinnasta €4.99), Pass Family €4.99/kk (ale 29%), Proton Unlimited €9.99/kk (ale 23%). Vuosihinnot näkyvät myös: Pass Plus €35.88/vuosi, Family €59.88/vuosi, Unlimited €119.88/vuosi.",
+    "ilmainen_versio_kerrottu": "HAVAINTO: Proton Free -versio on selvästi dokumentoitu: 'No credit card required, Unlimited logins, notes and credit cards, Unlimited devices, Browser, mobile, and desktop apps, Password generator, 10 hide-my-email aliases, Alerts for weak and reused passwords.'",
+    "turvallisuusauditoinnit": "HAVAINTO: Security-sivulla mainitaan 'Like all Proton services, Proton Pass has been audited by independent third-party experts, and such security reports are available to the public.' Kuitenkaan varsinaiset audit-raportit eivät ole suoraan linkitetty sivustolle. Sivulla mainitaan myös 'public bug bounty program'.",
+    "omistaja_kerrottu": "HAVAINTO: Omistaja mainitaan footerissa jokaisella sivulla: 'Proton AG, Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland'. Sivulla kerrotaan myös, että Proton on Sveitsin yritys, joka on suojeltu vahvoilla tietosuojalaeilla.",
+    "uusimishinta_kerrottu": "HAVAINTO: Sekä kuukausittaiset että vuosittaiset hinnat näkyvät pricing-sivulla. Pass Plus: €2.99/kk tai €35.88/vuosi. Family: €4.99/kk tai €59.88/vuosi. Unlimited: €9.99/kk tai €119.88/vuosi. 30 päivän rahanpalautustakuu mainitaan.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla on kolme riippumatonta arviota: ZDNET ('Best free password manager for privacy'), Linus Tech Tips ('Proton has a password manager that got really good'), Digital Trends ('recommend Proton Pass as the best password manager'). Lisäksi viisi case study-esimerkkiä eri yrityksistä."
+  }
+}

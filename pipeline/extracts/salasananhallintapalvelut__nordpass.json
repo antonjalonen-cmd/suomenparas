@@ -1,0 +1,56 @@
+{
+  "slug": "nordpass",
+  "fetched_ok": [
+    "https://nordpass.com/plans/",
+    "https://nordpass.com/password-manager/",
+    "https://nordpass.com/about-us/",
+    "https://nordpass.com/security/",
+    "https://nordpass.com/contact-us/",
+    "https://nordpass.com/iso-standard/",
+    "https://nordpass.com/soc2/",
+    "https://my.nordaccount.com/legal/terms-of-service/",
+    "https://my.nordaccount.com/legal/privacy-policy/"
+  ],
+  "hinnat_esilla": "kylla",
+  "ilmainen_versio_kerrottu": "kylla",
+  "turvallisuusauditoinnit": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "uusimishinta_kerrottu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "premium_kk_hinta_eur": 28.56,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 78,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Turvallisuusauditoinnit ja sertifikaatit (ISO 27001, SOC 2 Type 2, Cure53) hyvin dokumentoitu omilla sivuillaan",
+    "Hinnoittelu selkeä ja näkyvissä ennen rekisteröitymistä, kampanjahinta ja uusimishinta molemmat näkyvät",
+    "Ilmaisversion rajoitukset ja Premium-version lisäominaisuudet selkeästi listattu vertailutaulukkoon"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero tai suora chat-kanava asiakastuelle ei näkyvissä - vain email-osoite (support@nordpass.com) ja Contact Us -sivu",
+    "Asiakastuen aukioloajat eivät selkeästi määritelty sivustolla, vaikka 24/7 live support mainitaan",
+    "Riippumattoman arvioita (kuten Trustpilot tai muut ratings) ei ole näkyvissä pricing-sivulla tai pääsivulla"
+  ],
+  "yhteenveto": "NordPass on Nord Security -yhtiön hallinnoimasta salasananhallintapalvelu, joka tarjoaa sekä ilmaisen että maksullisen version henkilö- ja yritysasiakkaille. Sivusto on selkeästi rakennettu hintojen ja turvallisuustietojen osalta, ja useita riippumattomia tietoturva-auditointeja (ISO 27001, SOC 2 Type 2, Cure53) on dokumentoitu. Asiakastuen saatavuus sivustolla voisi olla selkeämpi, etenkin puhelinnumeroa ja chat-optiota koskevan tiedon osalta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Pricing-sivulla näkyvät Premium-hinnat €28.56/kk (kampanjahinta 24 kuukaudelle) ja €71.76/kk (uusimishinta). Family-plan €52.56/kk kampanjalla, €143.76/kk normaalihinta.",
+    "ilmainen_versio_kerrottu": "HAVAINTO: Free-plan listattu plans-sivulla ja password-manager-sivulla, selkeästi näkyvät rajoitukset (ei Password Health, Data Breach Scanner, Authenticator, File Attachments ilmaisversiossa).",
+    "turvallisuusauditoinnit": "HAVAINTO: Sivustolla mainitaan ISO/IEC 27001:2022 sertifikaatti, SOC 2 Type 2 -auditointi ja riippumaton Cure53-auditointi. ISO 27001 ja SOC 2 omilla detailed-sivuillaan.",
+    "omistaja_kerrottu": "HAVAINTO: About Us -sivulla selkeästi kerrotaan: 'NordPass is developed by Nord Security, a company leading the global market of cybersecurity products.'",
+    "uusimishinta_kerrottu": "HAVAINTO: Plans-sivulla näkyvät sekä kampanjahinta (60% säästö €28.56/kk) että uusimishinta (€71.76/kk) 2-vuotiselle paketille.",
+    "riippumaton_arvio": "HAVAINTO: Cure53:n riippumaton tietoturva-auditointi mainitaan sekä ISO 27001- että SOC 2 -sivuilla, mutta Trustpilot-ratingeja tai muita kuluttaja-arvioita ei ole näkyvissä kotisivulla. YouTube-videoista löytyy influencer-arvioita.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei löydy contact-us -sivulta eikä pääsivulta. Contact Us -sivu ohjaa eri ryhmiä (business, media, customer support) eri kanaviin, mutta puhelinnumero puuttuu.",
+    "email_esilla": "HAVAINTO: Support-sähköpostiosoite support@nordpass.com on näkyvissä contact-us -sivulla FAQ-osion linkissä.",
+    "chat_mainittu": "HAVAINTO: Chat-tukea ei mainita contact-us -sivulla. Saatavilla on vain email-tuki ja Help Center -linkki.",
+    "aukioloajat_esilla": "HAVAINTO: Sivustolla mainitaan '24/7 live support', mutta tarkkoja aukioloaikoja tai tarkempaa kuvausta tuen saatavuudesta ei ole näkyvissä.",
+    "mobiilisovellus": "HAVAINTO: Sovellukset saatavilla: iOS, Android, Windows, macOS, Linux ja selaimen laajennokset Chrome, Firefox, Safari, Opera, Edge."
+  }
+}

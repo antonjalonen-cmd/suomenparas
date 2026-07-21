@@ -1,0 +1,51 @@
+{
+  "slug": "euromaster",
+  "fetched_ok": [
+    "https://www.euromaster.fi/autohuolto",
+    "https://www.euromaster.fi/ajanvaraus",
+    "https://www.euromaster.fi/asiakaspalvelu/hinnasto",
+    "https://www.euromaster.fi/asiakaspalvelu",
+    "https://www.euromaster.fi/autohuolto/oljynvaihto",
+    "https://www.euromaster.fi/ukk",
+    "https://www.euromaster.fi/palvelupisteet"
+  ],
+  "hinnat_esilla": "kylla",
+  "ajanvaraus_verkossa": "kylla",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": 169,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laaja ja selkeästi jäsennelty palveluiden kuvailu, kattaa kaikki pääasiallisen autohuollon kategoria",
+    "Verkkoajanvaraus toimii selkeästi; palveluita voi varata helposti ilman yhteydenottoa",
+    "Hintatiedot ovat näkyvillä palveluhinnastolla sekä yksittäisten palveluiden sivuilla (esim. 169 € öljynvaihto)"
+  ],
+  "kehityskohteet": [
+    "Sähköpostin yhteystiedot eivät ole selkeästi näkyvillä asiakaspalvelu-sivulla; vain puhelinnumero 0207 700 800",
+    "Mobiilisovellus puuttuu kokonaan, vaikka ajanvaraus tapahtuu verkossa",
+    "Palvelupisteiden tarkemmat aukioloajat ja sijainti vaativat erillisen hakusivuston käyttöä"
+  ],
+  "yhteenveto": "Euromaster on valtakunnallinen autohuoltopalveluiden tarjoaja, jolla on kattava palveluiden kuvaus ja selkeä hintalistasivu. Verkkoajanvaraus on helppoa ja hinnat sekä palveluiden kuvaukset ovat julkisesti näkyvillä, mikä tekee palvelun valitsemisesta yksinkertaista asiakkaalle.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Palveluhinnasto näyttää hinnat esimerkiksi öljynvaihdolle (169 €), vuosihuollolle (199 €), ilmastoinnin täytölle (99 €), rengaspalveluille (59-250 €). Jokaisella palveluiden sivulla näkyy myös hinnat.",
+    "ajanvaraus_verkossa": "HAVAINTO: Ajanvaraus-sivu tarjoaa mahdollisuuden varata ajan verkossa lukuisiin huoltopalveluihin. Sivu kertoo selvästi 'Voit varata ajan itse helposti verkkopalvelussamme' ja että voi varata puhelinitse tai sähköpostitse.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: Autohuolto-sivulla kuvataan selkeästi eri huoltopalveluja kuten öljynvaihto, ilmastointi, vuosihuolto, kuntotarkastus, jarrut, ohjauskulmat ja monia muita. Jokaiselle palvelulle on oma lyhyt kuvaus ja linkki lisätietoihin.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Palvelupisteet-sivu antaa hakutoiminnon palvelupisteiden löytämiseen alueittain. UKK-sivu mainitsee, että 'kevään ja syksyn sesongin aikana palvelemme monella alueella laajentuneet aukioloajat'. Palvelupisteiden osoitteet ja puhelinnumerot näkyvät haun tuloksissa.",
+    "y_tunnus_esilla": "HAVAINTO: UKK-osion 'Yritystiedot' -osiossa näkyy selvästi: 'Suomen Euromaster Oy 0711042-1 NUOLIHAUKANTIE 5 28220 PORI'.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-sivu ilmoittaa pääpuhelinnumeron '0207 700 800' (ma-pe klo 8-17) ja hallinnon numeron '02 6340 600'. Puhelinlinkit ovat klikkaamiskelvollisia.",
+    "aukioloajat_esilla": "HAVAINTO: Ajanvaraus-sivu ohjaa aukioloaikojen löytämiseen palvelupisteisiin. UKK mainitsee sesonkivariaatiot (kevät, syksy laajemmat). Yksityiset palvelupisteet näyttävät omat aukioloaikansa.",
+    "ukk_osio": "HAVAINTO: Täysi 'Usein kysytyt kysymykset' -osio on saatavilla osoitteesta /ukk. Se sisältää kymmeniä kysymyksiä ja vastauksia kategorioittain: palvelupisteet, renkaat ja määräykset, verkkokauppa, maksutavat, ajanvaraukset, hinnat ja asiakaspalvelu."
+  }
+}

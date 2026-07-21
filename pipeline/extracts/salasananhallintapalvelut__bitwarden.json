@@ -1,0 +1,54 @@
+{
+  "slug": "bitwarden",
+  "fetched_ok": [
+    "https://bitwarden.com/pricing/",
+    "https://bitwarden.com/compliance/",
+    "https://bitwarden.com/terms/",
+    "https://bitwarden.com/about/",
+    "https://bitwarden.com/help/",
+    "https://bitwarden.com/privacy/"
+  ],
+  "hinnat_esilla": "kylla",
+  "ilmainen_versio_kerrottu": "kylla",
+  "turvallisuusauditoinnit": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "uusimishinta_kerrottu": "osittain",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "premium_kk_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 95,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinnoittelu on erittäin selkeä ja helposti saatavilla ilman kirjautumista (Premium €1,65/kk, Families €3,99/kk)",
+    "Laaja riippumattomien turvallisuusauditoinnien dokumentointi (ISO 27001, SOC2 Type II, SOC3, HIPAA)",
+    "Ilmainen versio tarjoaa hyödyllisen joukon perusominaisuuksia, mukaan lukien rajattomat laitteet ja kaksisuuntainen todennus"
+  ],
+  "kehityskohteet": [
+    "Puhelintuella ei ole palvelua, vain sähköpostetuki ja Help Center -kanava",
+    "Uusimishinnoittelusta ei ole tarkkaa eriteltyä tietoa sivulla",
+    "Terms of Service sisältää laajat vastuunrajoitukset ja ilmoitustapojen koskevat ehdot, jotka voivat olla asiakkaalle epäedullisia"
+  ],
+  "yhteenveto": "Bitwarden on kansainvälinen, avoimen lähdekoodin salasananhallintapalvelu, jonka hinnoittelun läpinäkyvyys on erinomainen. Ilmaisversio tarjoaa lähes täydet perusfunktiot kahden käyttäjän organisaatioilla, ja maksulliset suunnitelmat alkavat kohtuullisesta hinnasta. Palvelun turvallisuusväitteet perustuvat riippumattomiin kolmannen osapuolen auditoinneihin ja kansainvälisiin sertifiointeihin.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnoittelusivulla esitetään Premium-suunnitelma €1,65 kuukaudessa (vuosittain laskutettava €19,80), Families-suunnitelma €3,99 kuukaudessa ja Business-suunnitelmat alkavat €4 kuukaudessa per käyttäjä.",
+    "ilmainen_versio_kerrottu": "HAVAINTO: Sivulla todetaan 'Get basic password management today. Always free.' Ilmainen versio sisältää yhdessä ilmaisen organisaation (kaksi käyttäjää), rajattomat laitteet, selaimen laajennukset, mobiili- ja pöytäsovellukset, kaksivaiheisen kirjautumisen sekä Bitwarden Sendin.",
+    "turvallisuusauditoinnit": "HAVAINTO: Compliance-sivulla ilmoitetaan ISO 27001 -sertifikaatti, SOC2 Type II ja SOC3 -sertifikaatit, HIPAA-vaatimustenmukaisuus sekä vuosittaiset kolmannen osapuolen auditoinnit (source code assessments ja penetration tests).",
+    "omistaja_kerrottu": "HAVAINTO: About-sivulla ilmoitetaan 'Bitwarden, Inc.' pääkonttorilla Santa Barbarassa (1 North Calle Cesar Chavez, Suite 102, Santa Barbara, CA 93103 USA). Terms of Service määrittelee, että Bitwarden, Inc. on Delawaren osavaltio-perustettu yritys, joka omistaa 8bit Solutions LLC:tä.",
+    "uusimishinta_kerrottu": "HAVAINTO: Terms of Service -sivulla mainitaan 'prices are subject to change at the end of a payment term', mutta sivulla ei esitetä erillistä uusimishintaa alkuperäisen sopimushinnasta poikkeavaksi. Pricing-sivulla näkyvät hinnat koskevat vuosittaisia sopimuksia.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla on Media Spotlight -osio ja viittaukset asiakasarviointeihin (customer reviews) ja käyttäjäarviointeihin. Compliance-sivulla mainitaan säännöllisesti tehtävät kolmannen osapuolen auditoinnit ja HackerOne bug bounty -ohjelma.",
+    "puhelin_esilla": "HAVAINTO: Terms of Service -sivulla ilmoitetaan selkeästi 'We do not offer telephone support' ja 'We only offer support via email, in-Service communications, and electronic messages.'",
+    "email_esilla": "HAVAINTO: Help Center ja About-sivu mainitsevat sähköpostituella saatavilla 'Contact support'. Ehdoissa mainitaan sähköpostituella saatava tuki.",
+    "chat_mainittu": "HAVAINTO: Ei mitään mainintaa chat-tuesta tai reaaliaikaisen chatin saatavuudesta sivuston missään osassa.",
+    "aukioloajat_esilla": "HAVAINTO: Sivulla ei ole mainintaa aukioloajoista. Tuen saatavuus näyttää olevan 24/7 sähköpostilla, mutta tarkkoja aukioloaikoja ei ilmoiteta.",
+    "ukk_osio": "HAVAINTO: About-sivulla on FAQ-osio, jossa vastaillaan usein esitettäviin kysymyksiin hinnoittelusta, turvallisuudesta, salasananimportista ja muista aiheista.",
+    "mobiilisovellus": "HAVAINTO: Hinnoittelusivulla todetaan 'Browser, Mobile, Desktop apps' sekä all core features sisältävät mainitaan mobiilisovellukset ilmaiselle ja maksetuille suunnitelmille."
+  }
+}

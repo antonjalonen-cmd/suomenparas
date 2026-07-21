@@ -1,0 +1,54 @@
+{
+  "slug": "motonet",
+  "fetched_ok": [
+    "https://www.motonet.fi/palvelut/motonet-korjaamot",
+    "https://www.motonet.fi/asiakaspalvelu",
+    "https://www.motonet.fi/tavaratalot",
+    "https://www.motonet.fi/palvelut",
+    "https://www.motonet.fi/palvelut/motomaatti",
+    "https://www.motonet.fi/yhteystiedot",
+    "https://www.motonet.fi/"
+  ],
+  "hinnat_esilla": "osittain",
+  "ajanvaraus_verkossa": "osittain",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja korjaamoketju kattavasti ympäri Suomea (40+ paikkakuntaa)",
+    "Selkeä palveluvalikoiman kuvaus (huollot, diagnostiikka, katsastus, nelipyöräsuuntaus)",
+    "Asiakaspalvelun monikanavaisuus (puhelin, email, chat, avoinna myös la-su)"
+  ],
+  "kehityskohteet": [
+    "Korjaamoiden hinnat piilossa – vain Motomaatti-palvelun hinnat julkisia (ei oljynvaihdon hintaa)",
+    "Ajanvaraus vaatii yhteydenottoa suoraan korjaamoon – ei verkkovarausjärjestelmää",
+    "Y-tunnus ja riippumaton arvio puuttuvat sivustolta, ei myöskään mobiilisovellusta"
+  ],
+  "yhteenveto": "Motonet-korjaamot on laajakatvaa monimerkkikorjaamoketjua, jolla on toimipisteet lähes kaikilla Motonetin tavaratalopaikkakunnilla. Sivusto kuvaa palveluvalikoiman selkeästi (määräaikaishuollot, diagnostiikka, katsastus, nelipyöräsuuntaus), mutta konkreettisista hinnoista puuttuu tärkeä tieto – korjaamopalveluiden hinnat on jätettävä yhteydenottoa varten, vaikka Motomaatti-pikapalvelun hinnat ovatkin julkisia.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Motomaatti-pikapalveluiden hinnaston (polttimoiden vaihto 10€, OBD-testit 15-20€) näkee sivustolla, mutta korjaamopalveluiden (öljynvaihto, määräaikaishuolto) hinnat eivät ole julkisesti näkyvissä – edellyttävät yhteydenottoa.",
+    "ajanvaraus_verkossa": "HAVAINTO: Asiakaspalvelusivu kertoo 'Yhteystiedot ajanvaraukseen löytyvät korjaamoiden omilta sivuilta', mutta verkkopohjaista ajanvarausjärjestelmää ei ole nähtävissä. Ajanvaraus vaatii puhelun tai yhteydenoton suoraan korjaamoon.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: Pääsivulla kuvattu kattava palveluluettelo: määräaikaishuollot, yleiset huollot, vikadiagnoosit, ilmastointihuolto, pyöränkulmien mittaukset, katsastuspalvelut, rengastyöt, sijaisauto, nelipyöräsuuntaus, OBD-testit.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Tavarataloluettelo JS-renderöinnillä paljastaa 39 paikkakuntaa (Espoo, Helsinki, Tampere, Turku, Oulu, Kuopio jne.). Aukioloajat: ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua (asiakaspalvelulle). Motomaatin paikkakuntakohtaiset aukioloajat löytyvät valitsemalla tavaratalo.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy millään ladatulla sivulla (pääsivu, asiakaspalvelu, tavaratalot, palvelut, motomaatti, yhteystiedot, etusivu).",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arvio-linkkiä (esim. Autoliitto, arviopalvelu) ei ole näkyvissä sivustolla.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 030 621 20 (ma-pe klo 9-17, la klo 10-16) on nähtävissä asiakaspalvelusivulla ja useimmilla muilla sivuilla.",
+    "email_esilla": "HAVAINTO: Asiakaspalvelun email asiakaspalvelu@motonet.fi on nähtävissä asiakaspalvelusivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelun aukioloajat ilmoitettu: ma-pe klo 8:00-19:45, la klo 9:00-17:45, su klo 10:00-17:45.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalveluaika: ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua. Motomaatin aukioloajat paikkakuntakohtaisesti valittavissa.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelusivulla kattava 'Usein kysytyt kysymykset' -osio, jossa vastaukset mm. ajanvaraukseen, palveluihin, maksutapoihin, palautuksiin ja huijausviesteistä varoitteluun."
+  }
+}

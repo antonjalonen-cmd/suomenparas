@@ -1,0 +1,55 @@
+{
+  "slug": "autofit",
+  "fetched_ok": [
+    "https://autofit.fi/",
+    "https://autofit.fi/yhteystiedot/",
+    "https://autofit.fi/autohuollot-ja-autokorjaamot/",
+    "https://autofit.fi/varaa-aika/",
+    "https://autofit.fi/palvelumme/",
+    "https://autofit.fi/ehuolto/",
+    "https://autofit.fi/rahoitus/",
+    "https://autofit.fi/autofit-ajoturva/"
+  ],
+  "hinnat_esilla": "osittain",
+  "ajanvaraus_verkossa": "kylla",
+  "huoltopalvelut_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "oljynvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 50,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Laaja palveluvalikoima ja yksityiskohtaiset palvelukuvaukset, eHuolto-osiossa yli 50 palvelua sisältäen myös sähkö- ja hybridiautojen huollot",
+    "Selkeä online-ajanvarausjärjestelmä, joka laskee palvelun hinnan rekisterinumeron perusteella ja sallii varauksen ilman yhteydenottoa",
+    "Kattava korjaamoverkosto ympäri Suomea, joka löytyy hakujärjestelmän kautta osoitteen tai palvelun perusteella"
+  ],
+  "kehityskohteet": [
+    "Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat verkkosivuilta",
+    "Palveluiden hinnat näkyvät vain interaktiivisen hintalaskurin kautta rekisterinumerolla, ei kiinteitä peruspalvelun hintoja",
+    "Riippumattomien arviointien, asiakaspalautteen tai sertifiointitietojen puuttuminen sivulla"
+  ],
+  "yhteenveto": "Autofit on laaja suomalainen autohuolto- ja korjaamoketji, joka tarjoaa kattavat huolto- ja korjauspalvelut sekä erikoistuneesti sähkö- ja hybridiautojen huoltoon. Sivusto esittää palvelut yksityiskohtaisesti ja tarjoaa selkeän online-ajanvarausjärjestelmän hintalaskurineen, mutta konkreettiset palvelun hinnat ilmestyvät vain interaktiivisen laskin kautta rekisterinumerolla. Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat julkisen sivuston tiedoista.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hintalaskuri saatavilla varaus-sivulla, joka arvioi huollon hinnan rekisterinumeron perusteella. Korjauksista hinta-arvio saadaan sähköpostitse tai puhelimitse. Kiinteitä hintoja ei ole julkaisesti esillä ilman interaktiota.",
+    "ajanvaraus_verkossa": "HAVAINTO: Varaa aika -sivu tarjoaa 5-vaiheisen ajanvarausjärjestelmän: 1) valitse korjaamo, 2) valitse palvelu, 3) anna auton tiedot, 4) saa hinta-arvio, 5) varaa aika. Järjestelmä toimii ilman välitöntä yhteydenottoa.",
+    "huoltopalvelut_kuvattu": "HAVAINTO: eHuolto-sivulla on yli 50 palvelua yksityiskohtaisesti kuvattuina, mukaan lukien öljynvaihto, jarruhuolto, diagnostiikka, sähköauton akun testaus, ADAS-kalibrointi. Palvelumme-sivulla kerrotaan myös rahoitusvaihtoehdoista ja ajoturvasta.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Autohuollot-sivulla näkyy korjaamoiden luettelo osoitteineen (esim. Autokorjaamo Lappalainen, Niittytie 1, 71800 Siilinjärvi). Hakujärjestelmällä voi etsiä osoitteen tai palvelun perusteella. Yksittäisten korjaamoiden aukioloajat eivät ole näkyvissä lataamissani sivuissa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei julkaista verkkosivuilla. Sivuilla mainitaan vain 'Autofit-ketju c/o Atoy Automotive Finland Oy', mutta yrityksen tunnistenumero puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arviointeja (esim. Avainlippu-merkki, auditoinnit) ei ole julkaistu sivulla, vaikka ajoturva-sivulla mainitaan Redgo-yhteistyökumppani palvelun tarjoajana.",
+    "puhelin_esilla": "HAVAINTO: Puhelinvaihde (09) 68 271 on näkyvissä useilla sivuilla sekä yhteystiedot-sivulla, jossa lueteltu myös henkilökohtaiset puhelinumerot (Roni Tuovola 044 364 4011, Janne Kuuma).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite autofit@atoy.fi on julkaistu yhteystiedot-sivulla. Lisäksi Svea Bankin ja Resurs Bankin asiakaspalvelun puhelinnumerot ovat näkyvissä rahoitus-sivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei ole mainittu ladatuilta sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Yksittäisten korjaamoiden aukioloajat eivät näy hakujärjestelmään tai lataamillani sivuilla. Ketjun pääkonttorin osoite (Olarinluoma 20, 02200 Espoo) näkyy, mutta sen aukioloajat eivät.",
+    "ukk_osio": "HAVAINTO: FAQ-sivu (/ukk) palauttaa 404-virheen. UKK-osiota ei ole verkkosivuilla."
+  }
+}
