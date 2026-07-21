@@ -1,0 +1,51 @@
+{
+  "slug": "freska",
+  "fetched_ok": [
+    "https://www.freska.fi",
+    "https://www.freska.fi/tilaa-kotisiivous",
+    "https://www.freska.fi/tilausehdot",
+    "https://www.freska.fi/kotisiivous",
+    "https://www.freska.fi/ikkunanpesu"
+  ],
+  "hinnat_esilla": "osittain",
+  "varaus_verkossa": "kylla",
+  "kotitalousvahennys_kerrottu": "kylla",
+  "toimialue_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "tuntihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kotitalousvähennys selkeästi selitetty ja sovelluksessa automaattisesti toimiva.",
+    "Laaja toimialue 17 kaupungissa, monipuoliset palvelut (kotisiivous, ikkunanpesu, muuttosiivous, toimistosiivous).",
+    "Riippumattomat arvostelut näkyvissä: 500 000+ viisi tähden arvostelu ja nimetyt asiakastodistajat."
+  ],
+  "kehityskohteet": [
+    "Hinnat vaativat interaktiivisen lomakkeen: postinumero ja asunnon koko täytyy valita nähdäkseen hinta-arviota.",
+    "Suora puhelinnumero ja sähköpostiosoite puuttuvat: yhteydenotto vaatii lomaketta tai sovellusta.",
+    "Usein kysytyt kysymykset (UKK) -osio puuttuu kokonaan."
+  ],
+  "yhteenveto": "Freska on suomalainen kotisiivouspalveluyritys, joka tarjoaa säännöllistä kotisiivouspalvelua sekä ikkunanpesua ja muuttosiivouspalveluita 17 kaupungissa. Palvelun voi tilata verkon kautta tai puhelimitse, ja asiakkaat voivat hyödyntää kotitalousvähennystä sovelluksen kautta automaattisesti. Sivusto on selkeä ja asiakaslähtöinen, mutta hinnat vaativat vuorovaikutteista lomaketta eikä suoraa puhelinnumeroa ole näkyvissä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivulla on hintalaski eli 'Mitä kotisiivous maksaisi kotiini?' jossa voi valita asunnon kokoluokan ja siivousfrekvenssin (joka viikko, joka toinen viikko, joka neljäs viikko, kertasiivous), mutta konkreettiset hinnat eivät näy ennen valintoja.",
+    "varaus_verkossa": "HAVAINTO: Sivulla useita kautta: 'Tilaa kotisiivous helposti ja turvallisesti netistä', 'Katso vapaat ajat' -painike, ja muoto postinumeron ja asunnon koon valinnalla, sekä 'Tilaa puhelimitse' -vaihtoehto.",
+    "kotitalousvahennys_kerrottu": "HAVAINTO: Kotisiivous-sivulla kokonaisuus 'Muista kotitalousvähennys' jossa selitetään: '35 % palvelun hinnasta takaisin verottajalta (omavastuu 150 €). Enimmäisvähennys on 1 600 € per henkilö vuodessa'. Lisäksi: 'Freskan asiakkaana kotitalousvähennykseen hyödyntäminen hoituu automaattisesti Freska-sovelluksen kautta'.",
+    "toimialue_ja_yhteystiedot": "HAVAINTO: Toimialue listattu kaikkien sivujen alalaidassa: Helsinki, Espoo, Vantaa, Kauniainen, Kirkkonummi, Kerava, Turku, Lieto, Naantali, Raisio, Tampere, Kangasala, Lempäälä, Nokia, Pirkkala, Valkeakoski, Ylöjärvi. Yhteystiedot saatavilla yhteydenottolomakkeiden kautta jokaisella sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus näkyy kaikkien sivujen alalaidassa selkeästi: 'Freska Finland Oy Y-tunnus : 3246808-9'.",
+    "riippumaton_arvio": "HAVAINTO: Pääsivulla näkyy '500 000+ 5-tähden arvostelua' ja kotisiivous-sivulla '4,84/5 laatuarvio asiakkailtamme'. Lisäksi sivuilla nimetyt asiakastodistajat (Krista Kosonen, Petra Gargano, Jarkko Niemi, Armi Toivanen) selkeästi tunnistettujen henkilöiden kanssa.",
+    "puhelin_esilla": "HAVAINTO: 'Tilaa puhelimitse' -vaihtoehto ja puhelinnumero-kentät yhteydenottolomakkeissa, mutta varsinaista yrityksen puhelinnumeroa ei näy sivuilla. Ilmaistaan 'soitamme sinulle' ja asiakaspalvelusta voi ottaa yhteyttä, mutta ei suoraa numeroa.",
+    "email_esilla": "HAVAINTO: Sähköpostikenttä näkyy ikkunanpesu-sivun yhteydenottolomakkeessa ja pääsivulla, mutta yrityksen sähköpostiosoitetta ei ole näkyvissä.",
+    "chat_mainittu": "HAVAINTO: Tilaa-kotisiivous -sivulla mainitaan 'Ota yhteyttä asiakaspalveluun chatissä'. Sovelluksella on myös chat-ominaisuus.",
+    "mobiilisovellus": "HAVAINTO: Freska-sovellus mainittu kaikilla sivuilla omalla 'Freska-sovellus' osiosella. 'Kotitalousvähennys automaattisesti', 'Muokkaa maksutietojasi', 'Näe ja saa muistutuksia tulevista siivouksista', 'Hallinnoi siivouksiasi' ym. ominaisuudet listattu."
+  }
+}

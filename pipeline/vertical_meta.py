@@ -749,3 +749,71 @@ META["rengasliikkeet"] = {
          "pisteisiin."),
     ],
 }
+
+META["muuttopalvelut"] = {
+    "slug": "muuttopalvelut",
+    "nimi": "Muuttopalvelut",
+    "nav": "Muuttopalvelut",
+    "h1": "Suomen paras muuttopalvelu 2026",
+    "yksikko": "valtakunnallista muuttopalvelua",
+    "lead": ("Pisteytimme {n} valtakunnallista muuttopalvelua {m} mittarilla. Tärkein kysymys: "
+             "saatko hinta-arvion näkyviin ilman soittoa?"),
+    "meta_title": "Suomen paras muuttopalvelu 2026 | muuttofirmat pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} valtakunnallista muuttopalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi listalla on vain {n} yritystä?</b> Muuttoala on enimmäkseen paikallisia "
+         "perheyrityksiä, joita ei voi asettaa valtakunnalliseen järjestykseen. Listalla ovat "
+         "löytämämme aidosti valtakunnalliset toimijat. Karsituista kaksi oli ansoja: "
+         "<b>Muuttopalvelu.com</b>-domain mainostaa yhä, vaikka sen yhtiö on lakannut 3.12.2024, "
+         "ja <b>Grundell</b> on sulautunut Martela Palveluihin (6/2026) eikä palvele enää "
+         "kuluttajamuuttoja."),
+        ("Vertailu kuvaa yritysten julkisten verkkosivujen mitattavia ominaisuuksia, ei muuton "
+         "laatua tai varovaisuutta. Muuton todellinen hinta riippuu aina kohteesta; vertailu "
+         "mittaa kerrotaanko hinnoittelu ja vastuut avoimesti etukäteen. Muista kotitalousvähennys "
+         "muuttopalveluista. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["siivouspalvelut"] = {
+    "slug": "siivouspalvelut",
+    "nimi": "Siivouspalvelut",
+    "nav": "Siivous",
+    "h1": "Suomen paras kotisiivous 2026",
+    "yksikko": "valtakunnallista kotisiivouspalvelua",
+    "lead": ("Pisteytimme {n} valtakunnallista kotisiivouspalvelua {m} mittarilla. Tärkein "
+             "kysymys: näkyykö siivouksen hinta ja voiko sen tilata verkossa?"),
+    "meta_title": "Suomen paras kotisiivous 2026 | siivouspalvelut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} kotisiivouspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi SOL, ISS, RTK tai L&amp;T eivät ole listalla?</b> Tarkistimme jokaisen omilta "
+         "palvelusivuilta: yhdelläkään ei ole kuluttajille suunnattua kotisiivoustuotetta — ne "
+         "palvelevat yrityksiä ja julkisia tiloja. Tämä on kotisiivouksen vertailu. "
+         "<b>Onni kotisiivous</b> on hoivapalvelukonserni Med Groupin aputoiminimi, mikä on "
+         "merkitty sen kohdalle."),
+        ("Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei "
+         "siivouksen laatua. Kotitalousvähennys pienentää todellista hintaa merkittävästi — "
+         "sen avoin kertominen on yksi mittareistamme. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}
+META["autokoulut"] = {
+    "slug": "autokoulut",
+    "nimi": "Autokoulut",
+    "nav": "Autokoulut",
+    "h1": "Suomen paras autokoulu 2026",
+    "yksikko": "valtakunnallista autokouluketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista autokouluketjua {m} mittarilla. Tärkein kysymys: "
+             "näkyykö ajokortin kokonaishinta ennen ilmoittautumista?"),
+    "meta_title": "Suomen paras autokoulu 2026 | ketjut pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} autokouluketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Miksi listalla on vain {n} ketjua?</b> Autokouluala oli pitkään paikallinen, mutta "
+         "on ketjuuntunut nopeasti: CAP ja Epic ovat kasvaneet yritysostoilla yli sadan "
+         "toimipisteen ketjuiksi (Epicin taustalla pääomasijoittaja Korona Invest, jonka "
+         "konserniin kuuluu myös Autokoulu Safiiri). Paikalliset yhden kaupungin autokoulut "
+         "eivät kuulu valtakunnalliseen vertailuun."),
+        ("Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei opetuksen "
+         "laatua tai läpäisyprosentteja. Ajokortin kokonaishinta riippuu tarvittavien ajotuntien "
+         "määrästä; vertailu mittaa kerrotaanko hinnoittelu ja kurssin sisältö avoimesti. Demo "
+         "voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}

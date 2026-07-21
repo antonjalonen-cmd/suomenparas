@@ -1,0 +1,47 @@
+{
+  "slug": "euromaster",
+  "fetched_ok": [
+    "https://www.euromaster.fi",
+    "https://www.euromaster.fi/asiakaspalvelu",
+    "https://www.euromaster.fi/ajanvaraus",
+    "https://www.euromaster.fi/palvelupisteet",
+    "https://www.euromaster.fi/rengashotelli"
+  ],
+  "renkaiden_hinnat_esilla": "kylla",
+  "asennus_ja_sailytys_hinnat": "osittain",
+  "ajanvaraus_verkossa": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Laaja palveluverkko yli 80 toimipisteellä ympäri Suomen",
+    "Ajanvaraus mahdollinen sekä verkossa että puhelimitse",
+    "Rengashotellin säilytyspalvelu kaikkialla saatavilla, sisältää vakuutuksen"
+  ],
+  "kehityskohteet": [
+    "Palveluhinnastosta ei ole saatavilla tietoja verkossa, hintoihin pitää pyytää tarjousta",
+    "Asennushintojen ei ole julkisesti ilmoitettuja, vaatii yhteydenoton",
+    "Ei sähköpostiosoitetta julkaistussa osassa, vain puhelinyhteystiedot"
+  ],
+  "yhteenveto": "Euromaster on Suomen suurin rengasliikkeketju, jolla on noin 80 toimipistettä koko maassa. Renkaat ovat hinnoiteltuja verkkokaupassa, mutta asennuspalvelun hinnat on saatavilla vain tarjouspyynnöin. Ajanvaraus onnistuu verkossa sekä puhelimitse, ja rengashotellin palvelu (renkaiden säilytys, pesu, kuntotarkastus) on tarjolla kaikissa toimipisteissä alueellisesti hinnoiteltuna.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Etusivulla näkyvät konkreettiset tuotteen hinnat (esim. Michelin PremiumContact 7 alkaen 112,50€, Nokian Hakka Green 3 alkaen 95,01€, BFGoodrich Advantage 2 alkaen 95,01€, Yartu ZuperEco Z-107 alkaen 46,57€).",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Palveluhinnasto-sivu ei lataudu verkosta. Rengashotellin säilytyshinnat ovat alueellisia ja saatavilla vain pyytämällä tarjousta (\"Euromasterin rengashotellin alueellisen hinnan saat selville valitsemalla toimipisteesi ja pyytämällä tarjouksen\").",
+    "ajanvaraus_verkossa": "HAVAINTO: Ajanvaraus-sivulla selvästi kerrotaan \"Voit varata ajan itse helposti verkkopalvelussamme lukuisiin autohuollon palveluihin ja rengaspalveluihin.\" Myös puhelinvarauksesta mainitaan.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Palvelupisteet-sivulla mainitaan 19 aluetta (Etelä-Karjala, Lappi, Uusimaa jne). Asiakaspalvelun aukioloajat: ma-pe 8-18 (puhelinnumero 0207 700 800), hallinnon aukioloajat: ma-pe 8-16.",
+    "y_tunnus_esilla": "HAVAINTO: Yhtiön nimi mainitaan useassa kohdassa: \"Suomen Euromaster Oy, Nuolihaukantie 5, 28220 Pori.\" Etusivulla tekstissä sanotaan \"Copyright 2024 Suomen Euromaster Oy\".",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelussa valtakunnallinen numero 0207 700 800 (ma-pe 8-18) näkyy selvästi. Lisäksi hallinnon numero 02 6340 600 (ma-pe 8-16) mainitaan."
+  }
+}

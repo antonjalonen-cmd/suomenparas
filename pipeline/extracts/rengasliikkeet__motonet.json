@@ -1,0 +1,52 @@
+{
+  "slug": "motonet",
+  "fetched_ok": [
+    "https://www.motonet.fi/palvelut/motonet-rengaspalvelut",
+    "https://www.motonet.fi",
+    "https://www.motonet.fi/asiakaspalvelu",
+    "https://www.motonet.fi/tavaratalot",
+    "https://www.motonet.fi/palvelut/motonet-korjaamot"
+  ],
+  "renkaiden_hinnat_esilla": "osittain",
+  "asennus_ja_sailytys_hinnat": "osittain",
+  "ajanvaraus_verkossa": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laaja tavarataloverkko 33 paikkakunnalla toimipisteet ja osoitteet selkeästi esillä",
+    "Kattava rengaspalvelun kuvaus: kausisäilytys, renkaanvaihto, aurauskulmien tarkistus ja säätö",
+    "Monikanavainen asiakaspalvelu: chat ma-pe klo 8:00-19:45 ja la-su, puhelin 030 621 20, sähköposti asiakaspalvelu@motonet.fi"
+  ],
+  "kehityskohteet": [
+    "Renkaiden myyntihinnat eivät ole nähtävissä verkkokaupassa — harvoja konkreettisia hintoja (esim. renkaanvaihdosta tai säilytyksestä) julkaisella",
+    "Ajanvaraus rengaspalveluihin mainitaan mahdolliseksi, mutta linkkiä verkkovaraukseen ei löydy etusivulta — edellyttää syvempää navigointia",
+    "Y-tunnus puuttuu kokonaan — yritystietojen löytäminen vaatii ulkopuolisen lähteen käyttöä"
+  ],
+  "yhteenveto": "Motonet on laajasti Suomessa toimiva autovaraosien ja -tarvikkeiden ketju, joka tarjoaa rengaspalveluja useammalla paikkakunnalla. Sivusto kuvaa palvelut kattavasti ja tarjoaa monikanavaisen asiakaspalvelun, mutta konkreettisia hintoja renkaiden myyntiin tai asennukseen ei ole julkisesti esillä, eikä Y-tunnus ole nähtävissä.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Rengaspalvelut kuvataan yksityiskohtaisesti (rengashotellit, säilytys, vaihto), mutta kunkin palvelun hinta- tai tuotehinnat eivät ole näkyvissä sivuilla — verkkokauppaan tai hinnaston linkki puuttuu.",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Sivulla mainitaan rengashotellin palveluihin kuuluvan 'rengasyhdistelmän alle laitto, rengaspainevalon kuittaus, alta otettujen renkaiden koneellinen pesu, ilmanpaineiden tarkastus sekä vakuutus', mutta eurohintoja ei ole näkyvissä.",
+    "ajanvaraus_verkossa": "HAVAINTO: 'Voit myös itse varata ajan verkossa haluamaasi ajankohtaan' mainitaan rengaspalvelu-sivulla, ja ajanvaraus on mainittu mahdolliseksi, mutta suora linkki verkkovaraukseen puuttuu etusivulta.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: 33 tavaratalopaikkakuntaa on listattu täydellisinä osoitteina tavaratalot-sivulla (Espoo Hannus, Hämeenlinna, Helsinki Konala/Roihupelto jne.). Aukioloajat mainitaan näiden paikkakuntien kohdalla, mutta tarkentamisen vuoksi asiakkaita ohjataan tavaratalot-sivulle.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy missään kerätyistä sivuista (etusivu, rengaspalvelut, asiakaspalvelu, tavaratalot, korjaamot).",
+    "puhelin_esilla": "HAVAINTO: Keskitetty asiakaspalvelun numero 030 621 20 näkyy asiakaspalvelu-sivulla ja muilla sivuilla. Mainitaan, että tavaratalon suoranumeroon ei voi soittaa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@motonet.fi on näkyvissä asiakaspalvelu-sivulla ja muilla sivuilla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu on mainittu asiakaspalvelu-sivulla: 'Chat on auki ma-pe klo 8:00-19:45, la 9:00-17:45 ja su 10:00-17:45.'",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua on näkyvissä. Tavaratalojen yksittäisiä aukioloaikoja ei mainittu yksityiskohtaisesti.",
+    "ukk_osio": "HAVAINTO: Laaja UKK-osio asiakaspalvelu-sivulla sisältää Q&A-muodossa vastauksia maksuista, toimitustavoista, huollosta, varauksista, palautuksista ja muista yleisistä kysymyksistä.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole linkkejä riippumattomiin arvioihin tai reviews-sivustoihin — ei Google Reviews, Trustpilot tai vastaavaa."
+  }
+}

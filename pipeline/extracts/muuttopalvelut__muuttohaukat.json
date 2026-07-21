@@ -1,0 +1,53 @@
+{
+  "slug": "muuttohaukat",
+  "fetched_ok": [
+    "https://muuttohaukat.com/",
+    "https://muuttohaukat.com/kotimuutto/",
+    "https://muuttohaukat.com/kotimuutto/toimitusehdot/",
+    "https://muuttohaukat.com/hyvinkaa-uusimaa/",
+    "https://muuttohaukat.com/turku-varsinais-suomi/",
+    "https://muuttohaukat.com/tampere-pirkanmaa/",
+    "https://muuttohaukat.com/muuttolaatikot/"
+  ],
+  "hinnat_esilla": "osittain",
+  "tarjouslaskuri_verkossa": "osittain",
+  "vakuutus_ja_vastuu_kerrottu": "kylla",
+  "toimialue_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "tuntihinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laajalti saatavilla koko Suomessa neljällä toimipisteellä (Hyvinkää, Tampere, Turku, pääkaupunkiseutu)",
+    "Selkeät toimitusehdot ja vakuutustiedot julkisesti esillä; kaikki kuljetukset vakuutettu",
+    "Riippumaton arviointi nähtävissä sivuilla (174 arviota, 4.2 tähteä Google Reviewsissa)"
+  ],
+  "kehityskohteet": [
+    "Konkreettisia tuntihintoja tai hintaluokkia ei julkaistu verkkosivuilla; tarjouslaskuri saatavilla vain kolmannen osapuolen palvelussa (tilaamuutto.fi)",
+    "Y-tunnusta ei ole esillä sivuilla; tieto jää julkisesti puuttuvaksi",
+    "UKK-osio puuttuu kokonaan, vaikka navigaatiossa se näkyy linkkeinä"
+  ],
+  "yhteenveto": "Muuttohaukat Oy on 30+ vuotta toiminut kotimuuttojen ja yritysmuuttojen erikoistunut palveluyritys, jolla on laaja maantieteellinen kattavuus. Verkkosivuilla käydään läpi palvelun sisältöä, vakuutusta ja vastuuta selkeästi, ja asiakkaille tarjotaan useita palvelupaketteja. Hinnoittelu perustuu tarjouslaskuriin eikä tuotettuja hintoja julkaista avoimesti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivuilla mainitaan 'Saat tarjouksen alle 60m2 asunnon muutostasi välittömästi' ja 'Tuntihinnalla tai urakkana', mutta konkreettisia €/tunti-hintoja ei ole nähtävissä; hintaopas-sivulle johtava linkki ei toimi (404).",
+    "tarjouslaskuri_verkossa": "HAVAINTO: Etusivulla mainitaan, että pienille muutoille (<80m2) voi tilata suoraan tilaamuutto.fi-palvelusta. Omilla sivuilla on tarjouspyynnön lomake, mutta se vaatii yhteystietojen antamisen, ei etukäteen laskettua hintaa.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: Toimitusehdoissa sanotaan: 'Yrityksellä on tiekuljetussopimuslain mukainen vakuutus kuljetettavaa tavaraa koskevan vastuun varalta (tiekuljetusvakuutus) sekä vastuuvakuutus kolmannelle osapuolelle aiheutettujen henkilö- ja esinevahinkojen varalta (toiminnanvastuuvakuutus).' Myös korvausvastuusta (max 20 euroa/kg) kerrotaan selkeästi.",
+    "toimialue_ja_yhteystiedot": "HAVAINTO: Toimipisteet sijaitsevat Hyvinkäällä (Kerkkolankatu 31), Vantaalla (Taivaltie 4), Tampereella (Tietohallinnonkatu 17) ja Turussa (Lemminkäisenkatu 36). Puhelin 010 400 4500 ja sähköposti muuttohaukat@muuttohaukat.com näkyvät kaikilla sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainittu ladatuilla sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Google Reviewsissa näkyy 174 arviota keskiarvoilla 4.2 tähteä. Asiakkaiden kokemuksia lainataan sivuilla ja etusivulla näkyvät suoria arvioita (esim. 'Upea porukka! Kaikki positiivisia loppuun asti!').",
+    "puhelin_esilla": "HAVAINTO: Puhelin 010 400 4500 näkyy kaikilla sivuilla, lisäksi aluekohtaiset numerot Hyvinkäällä, Turussa ja Tampereella.",
+    "email_esilla": "HAVAINTO: muuttohaukat@muuttohaukat.com näkyy kaikilla sivuilla, lisäksi aluekohtaiset sähköpostiosoitteet (esim. jere.sarkkinen@muuttohaukat.com).",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat (ma–to 8:00–16:00, pe 9:00–15:00) näkyvät kaikilla alueellisilla sivuilla ja muuttolaatikoiden noutosivulla.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa on linkki 'Usein kysyttyjä kysymyksiä' ('Palaute & UKK' -osassa), mutta yritys kokeilleet URL:t (esim. /usein-kysyttavat-kysymykset) palauttavat 404:n."
+  }
+}

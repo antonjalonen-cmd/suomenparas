@@ -713,3 +713,50 @@ COMPANIES["rengasliikkeet"] = [
     dict(slug="firststop", nimi="First Stop", domain="firststop.fi", y_tunnus="1806488-9",
          omistaja="Bridgestone Europe NV/SA, Suomen sivuliike — valmistajan oma ketju"),
 ]
+
+# MUUTTOPALVELUT (verified 21.7.2026, pipeline/verify_batch4/muuttopalvelut.md) — only 4
+# genuine national operators; the sector is mostly local family movers (disclosed, same
+# precedent as autokatsastus). DEAD CATCHES: Muuttopalvelu.com (MLP Moving Oy lakannut
+# 3.12.2024, domain still advertises), Grundell (renamed Martela Palvelut 2.6.2026,
+# B2B office relocation now, grundell.fi dead).
+COMPANIES["muuttopalvelut"] = [
+    dict(slug="niemi-palvelut", nimi="Niemi Palvelut", domain="niemi.fi", y_tunnus="1944860-6",
+         omistaja="Niemi Palvelut Oy — itsenäinen suomalainen yhtiö"),
+    dict(slug="muuttohaukat", nimi="Muuttohaukat", domain="muuttohaukat.com", y_tunnus="0887272-7",
+         omistaja="Muuttohaukat Oy — itsenäinen"),
+    dict(slug="suomen-muuttofirma", nimi="Suomen Muuttofirma", domain="muuttofirma.fi", y_tunnus="2292440-7",
+         omistaja="Suomen Muuttofirma Oy — itsenäinen"),
+    dict(slug="victor-ek", nimi="Victor Ek", domain="victorek.fi", y_tunnus="0215408-9",
+         omistaja="Oy Victor Ek Ab — perheomisteinen vuodesta 1885"),
+]
+
+# SIIVOUSPALVELUT (verified 21.7.2026) — CONSUMER home cleaning only. SOL, RTK, ISS ja
+# L&T EXCLUDED: none has a consumer home-cleaning product (verified from each company's
+# own service pages, not search results). Onni kotisiivous is a Med Group Oy trade name
+# (care-services group) — labelled.
+COMPANIES["siivouspalvelut"] = [
+    dict(slug="freska", nimi="Freska", domain="freska.fi", y_tunnus="3246808-9",
+         omistaja="Freska Finland Oy — toimii myös Ruotsissa ja Norjassa"),
+    dict(slug="kotirinki", nimi="Kotirinki", domain="kotirinki.fi", y_tunnus="1784293-3",
+         omistaja="Kotirinki Oy — franchise-malli, paikalliset yrittäjät"),
+    dict(slug="keradur", nimi="Keradur", domain="keradur.fi", y_tunnus="2315098-4",
+         omistaja="Keradur Oy — itsenäinen"),
+    dict(slug="onni-kotisiivous", nimi="Onni kotisiivous", domain="onnion.fi", y_tunnus="2080120-0",
+         omistaja="Med Group Oy — hoivapalvelukonserni; kotisiivous on yksi ONNI-aputoiminimistä"),
+    dict(slug="koti-puhtaaksi", nimi="Koti Puhtaaksi", domain="kotipuhtaaksi.fi", y_tunnus="2395527-2",
+         omistaja="Sahera Koti Puhtaaksi Oy — itsenäinen, perustettu 2011"),
+]
+
+# AUTOKOULUT (verified 21.7.2026) — the sector HAS consolidated into national chains
+# (contrary to the queue's caution): CAP and Epic are PE-backed roll-ups with 100+
+# locations. 4 confirmed (autokatsastus precedent, disclosed).
+COMPANIES["autokoulut"] = [
+    dict(slug="cap-autokoulu", nimi="CAP-Autokoulu", domain="cap.fi", y_tunnus="0841716-9",
+         omistaja="CAP-Group Oy — osin sopimusyrittäjämalli"),
+    dict(slug="epic-autokoulu", nimi="Epic Autokoulu", domain="epicautokoulu.fi", y_tunnus="2551291-8",
+         omistaja="Korona Invest -pääomasijoittaja; konserniin kuuluu myös Autokoulu Safiiri"),
+    dict(slug="antin-autokoulu", nimi="Antin Autokoulu", domain="antinautokoulu.fi", y_tunnus="2763674-6",
+         omistaja="Antin Autokoulu Oy — itsenäinen, kotipaikka Raahe"),
+    dict(slug="ajokorttiverkosta", nimi="Ajokortti Verkosta", domain="ajokorttiverkosta.fi", y_tunnus="1440949-9",
+         omistaja="RG Driving Consulting Oy — verkkopainotteinen autokoulu"),
+]

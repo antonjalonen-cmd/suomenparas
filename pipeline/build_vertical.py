@@ -53,6 +53,9 @@ MEASURED = {
     "pakohuoneet": "21.7.2026",
     "hammaslaakarit": "21.7.2026",
     "rengasliikkeet": "21.7.2026",
+    "muuttopalvelut": "21.7.2026",
+    "siivouspalvelut": "21.7.2026",
+    "autokoulut": "21.7.2026",
 }
 
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}

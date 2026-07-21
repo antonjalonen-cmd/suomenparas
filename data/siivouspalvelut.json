@@ -1,0 +1,1085 @@
+{
+ "slug": "siivouspalvelut",
+ "nimi": "Siivouspalvelut",
+ "nav": "Siivous",
+ "h1": "Suomen paras kotisiivous 2026",
+ "yksikko": "valtakunnallista kotisiivouspalvelua",
+ "lead": "Pisteytimme {n} valtakunnallista kotisiivouspalvelua {m} mittarilla. Tärkein kysymys: näkyykö siivouksen hinta ja voiko sen tilata verkossa?",
+ "meta_title": "Suomen paras kotisiivous 2026 | siivouspalvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "5 kotisiivouspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi SOL, ISS, RTK tai L&amp;T eivät ole listalla?</b> Tarkistimme jokaisen omilta palvelusivuilta: yhdelläkään ei ole kuluttajille suunnattua kotisiivoustuotetta — ne palvelevat yrityksiä ja julkisia tiloja. Tämä on kotisiivouksen vertailu. <b>Onni kotisiivous</b> on hoivapalvelukonserni Med Groupin aputoiminimi, mikä on merkitty sen kohdalle.",
+  "Vertailu kuvaa palveluiden julkisten verkkosivujen mitattavia ominaisuuksia, ei siivouksen laatua. Kotitalousvähennys pienentää todellista hintaa merkittävästi — sen avoin kertominen on yksi mittareistamme. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "koti-puhtaaksi",
+   "nimi": "Koti Puhtaaksi",
+   "domain": "kotipuhtaaksi.fi",
+   "omistaja": "Sahera Koti Puhtaaksi Oy — itsenäinen, perustettu 2011",
+   "y_tunnus": "2395527-2",
+   "rekisteroity": 2011,
+   "score": 88.4,
+   "pillars": {
+    "digitaalinen": 70.4,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 86.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu sisältää täydelliset hinnat alueittain – Uusimaa 67,80–72,00 €/h, Tampere 62,80–68,00 €/h, Oulu 58,80–64,00 €/h. Esimerkkilaskelmat näyttävät kokonaiskustannuksen ennen ja jälkeen kotitalousvähennysten."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla linkki 'Tilaa suoraan verkkokaupasta', hinnastolla 'Tilaa tästä' -painikkeet, ja maininta asiakassovelluksesta. Yhteystiedot-sivulla useita tilaus- ja tarjouspyynnön lomakkeita."
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastolla esimerkkilaskelmat näyttävät 35 % vähennyskelpoisuuden (vuonna 2026). Usein kysytyssä -sivulla yksityiskohtaiset ohjeet: 'Asiakkaanamme voit antaa meille suostumuksen, jonka jälkeen ilmoitamme kotitalousvähennykset puolestasi.' Sovellus voi automatisoida vähennysten ilmoituksen."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla kattavat tiedot viidestä toimialueesta – Uusimaa (11 kaupunkia), Tampere-seutu (7 kaupunkia), Turku-seutu (8 kaupunkia), Oulu-seutu (6 kaupunkia), Jyväskylä-seutu (3 kaupunkia). Toimistojen osoitteet, puhelinnumerot ja aukioloajat täysimittaisesti."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2395527-2 näkyy footer-osassa kaikilla sivuilla ja yhteystiedot-sivulla verkkolaskun tiedoissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla maininta 'Yli 1800 asiakasarvion jälkeen asiakastyytyväisyytemme keskiarvo on 4,8/5.' Arvioiden lähde sivulla epäselvä, mutta linkkiä 'Kokemuksia' -sivulle mainitaan navigaatiossa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin 050 1209 (ma-pe 7-13) näkyy footer-osassa kaikilla sivuilla ja yhteystiedot-sivulla erillisen yhteyskanavaksi."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite [email protected] näkyy footer-osassa kaikilla sivuilla, yhteystiedot-sivulla ja useissa lomakkeissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Live Chat (ma-pe 7-17) mainittu footer-osassa, yhteystiedot-sivulla ja usein kysytyssä -sivulla. Linkki 'Avaa chat' on saatavilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimistojen aukioloajat näkyvät yhteystiedot-sivulla – Tampere ja Helsinki 8–15 (ma–pe), muut alueet sovitusti. Siivoukset tehdään arkisin klo 7–17 välillä (mainittu UKK:ssa)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja 'Usein kysyttyä' -sivu, joka kattaa kategoriat: yleistä palvelusta (15+ kysymystä), maksaminen/laskutus (5+ kysymystä), tilaus ja sopimukset (6+ kysymystä)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Koti Puhtaaksi -sovellus' mainitaan monesti (pääsivu, UKK, yhteystiedot), kerrotaan että sovelluksessa voi hallita varauksia, antaa toiveita ja automatisoida kotitalousvähennykset. Linkkiä latauspalveluihin ei kuitenkaan ole näkyvissä tekstisivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 5353.043999999999,
+    "cls": 0.008410283815123215,
+    "tbt_ms": 1247.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat täysin läpinäkyviä alueittain ja sopimustyypin mukaan, sisältää kotitalousvähennyklaskelmat",
+    "Kotitalousvähennyksestä kattavat ohjeet ja sovelluksella voi antaa suostumuksen ilmoitukseen puolestaan",
+    "Riippumaton asiakaspalaute näkyvissä (4,8/5 keskiarvo 1800+ arvion jälkeen)"
+   ],
+   "kehityskohteet": [
+    "Mobiilisovellusta mainitaan monesti mutta suoralinkki sovelluksen latauspalveluihin puuttuu",
+    "Asiakastyytyväisyyden lähde epäselvä – ei mainita mistä sivustosta tai palvelusta arviot tulevat",
+    "Tilaus verkossa aloitetaan postinumerokentällä, joten toimialueen tarkistus on välttämätöntä"
+   ],
+   "yhteenveto": "Koti Puhtaaksi on vakiintunut siivouspalvelu, jonka sivusto on hyvin organisoitu ja informatiivinen. Hinnat ovat täysin julkisesti saatavilla alueittain (58,80–72,00 €/h) ja kotitalousvähennysten vaikutus näkyy selkeissä laskelmissa. Asiakas voi tehdä tilaukset verkossa sekä sovelluksella. Palvelun laajuus (viisi toimialuetta) ja asiakastyytyväisyys (4,8/5) ovat voimakas viesti luotettavuudesta."
+  },
+  {
+   "slug": "kotirinki",
+   "nimi": "Kotirinki",
+   "domain": "kotirinki.fi",
+   "omistaja": "Kotirinki Oy — franchise-malli, paikalliset yrittäjät",
+   "y_tunnus": "1784293-3",
+   "rekisteroity": 2002,
+   "score": 83.8,
+   "pillars": {
+    "digitaalinen": 74.2,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 72.5,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kertasiivous 59,90 €/h, säännöllinen kotiapu alv 0% -palvelut 40–48 €/h (riippuen käyntikertojen määrästä), kotihoiva alv 0% -palvelut 42–52 €/h. Hinnat näkyvät etusivulla ja erityisesti hinnasto-sivulla."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät 'Laske hinta ja tilaa heti' -painikkeet jokaiselle palvelutyypille. Asiakassivulla voi hallita tilauksia ja viestejä; sitä kuvataan 'helppokäyttöiseksi Asiakassivu-sovellukseksi'."
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Hyödynnä 35 % kotitalousvähennys' näkyy etusivulla. Hinnasto-sivulla kuvataan: 'Kotitalousvähennyksen ansiosta maksat vain 65 % palvelusta, enimmillään 1600 € vuodessa/henkilö. Kotitalousvähennyksen tiedot kulkeutuvat kauttamme automaattisesti verottajalle.'"
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Palvelemme noin 60 paikkakunnalla yli 65 palvelupisteessä.' Palvelupisteet-sivulla yksityiskohtainen lista kaupungeista alueittain (Uusimaa, Kanta-Häme, Pirkanmaa, Varsinais-Suomi, Keski-Suomi, Pohjois-Savo, Pohjois-Pohjanmaa). Osoite: Pitkätanhuankatu 2 A 1, 13130 Hämeenlinna."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1784293-3 näkyy kaikilla sivuilla footer-osiossa ja hinnasto-sivulla: 'Kotirinki Oy y-tunnus 1784293-3.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakastyytyväisyys 4,9/5 perustuu 1264 asiakasarvioon (3 kuukauden laskenta-aika). Yrittäjätyytyväisyys 4,6/5. Palvelupisteet-sivulla yksityiskohtainen luettelo kunkin alueen arviosta (vaihtelee 3,4–5,0 välillä)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa esillä: 03 339 99 903 (asiakaspalvelu) ja 03 339 99 905 (myynti). Myynti-osiossa määritelty aukioloaika: 'ma-to 8–16, pe 9–16'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi sähköpostiosoitetta: asiakaspalvelu@kotirinki.fi ja myynti@kotirinki.fi. Asiakassivulla huomautus: 'ole yhteydessä Kotiringin asiakaspalveluun: kotirinki@kotirinki.fi (010 425 3900)'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suoraa chat-linkkiä etusivulla ei ole. Asiakassivulla mainitaan 'Viesti' -toiminto: 'Kätevä pikaviestijärjestelmä tallessa yhdessä paikassa Kotirinki-yrittäjän ja sinun välillä.' Etusivulla 'Pyydä yhteydenottoa' -painike ja yhteydenottolomake."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myyntipalvelun aukioloajat selkeästi ilmoitettu: 'ma-to 8–16, pe 9–16'. Myynti-osiossa ja useilla sivuilla toistettu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erityistä FAQ- tai UKK-osiota ei löydy. Sivuilla on lukuisia 'Lue lisää' -linkkejä artikkeleihin (esim. 'Kotiapu vai Kotihoiva – mikä palvelu sopii ikäihmiselle?'), mutta ei keskitettyä kysymykset-ja-vastaukset-kokoelmaa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 4713.00875,
+    "cls": 0.0009213165768476052,
+    "tbt_ms": 2199.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kertasiivous ja säännölliset palvelut hinnoitellaan avoimesti (59,90 €/h kertasiivous); kotitalousvähennyksen 35 % vaikutus hintaan selkeästi kuvattu.",
+    "Laaja toiminta-alue noin 60 paikkakunnalla ja yli 65 palvelupisteellä; paikallisen pienyrittäjän malli takaa henkilökohtaisen palvelun.",
+    "Asiakastyytyväisyys (4,9/5) ja yrittäjätyytyväisyys (4,6/5) näkyvät avoimesti julkisesti 1264 asiakasarvioon perustuvan 3 kuukauden keskiarvon kanssa."
+   ],
+   "kehityskohteet": [
+    "Suora chat-palvelu ei ole selvästi esillä; asiakkaat voivat ottaa yhteyttä vain puhelimitse, sähköpostitse tai yhteydenottolomakkeella.",
+    "Alueittaiset hintojen vaihtelut eivät ole täysin avoimia; mikrofranchising-malli tarkoittaa paikallisen yrittäjän hintaasetantaa, mutta etusivulla tämä rajoitus ei korostuu.",
+    "Usein kysyttyjen kysymysten osio (FAQ) puuttuu; sivuilla on linkkejä artikkeleihin, mutta ei strukturoitua vastausten kokoelmaa."
+   ],
+   "yhteenveto": "Kotirinki on paikallisiin pienyrittäjiin perustuva siivouspalveluketju, joka toimii noin 60 paikkakunnalla. Hinnat ovat avoimesti esillä ja kotitalousvähennyksen vaikutus selkeästi kuvattu, mikä antaa asiakkaille täydellisen ennustettavuuden kustannuksista. Verkon kautta tilaaminen on mahdollista laskurilta ja asiakassivulle."
+  },
+  {
+   "slug": "keradur",
+   "nimi": "Keradur",
+   "domain": "keradur.fi",
+   "omistaja": "Keradur Oy — itsenäinen",
+   "y_tunnus": "2315098-4",
+   "rekisteroity": 2010,
+   "score": 79.1,
+   "pillars": {
+    "digitaalinen": 52.5,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 95.0,
+    "ai_laatu": 86.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "17/100",
+       "paino": 40,
+       "pisteet": 17,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "68/100",
+       "paino": 30,
+       "pisteet": 68,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat luetellaan kotisiivous-sivulla neljässä eri tiheydessä (3kk kokeilu 37 €/h, 1x/viikko 37 €/h, 2x/kk 41 €/h, 1x/kk 47 €/h), kaikki sisältävät ALV:n ja ammattilaisten siivousaineet."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen hinnoittelun alla on 'Tilaa kotisiivous' -nappi, jonka takana on lomake (neliömäärä, siivouksen kesto, tiheysvaihtoehto, toivottu päivä/kellonaika). Lomakkeessa on myös 'Kysy tarjous' -vaihtoehto."
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen 'Kotitalousvähennys' -sivu selittää 35 % vähennysprosentin, 150 € omavastuun, vuotuisen 1600 € rajan ja ilmoitusprosessin OmaVero-palvelussa. Lisäksi maininta, että Keradur toimittaa kuittien koonnin seuraavan vuoden helmikuussa."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu mainitsee Tampere, Turku, Helsinki, Espoo nimiä; kotisiivous-sivulla lueteltu 11 kaupunkia (Helsinki, Vantaa, Espoo, Kauniainen, Järvenpää, Kerava, Nurmijärvi, Sipoo, Tampere, Turku + mainittu Uusimaa, Tampereen ja Turun alueet). Yhteystiedot (asiakaspalvelu@keradur.fi, 020 730 1590) näkyy usealla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2315098-4 näkyy etusivulla, kotisiivous-sivulla, yhteystiedot-sivulla ja kotitalousvähennys-sivulla jalanottosisällössä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole Google Reviews, Facebook Ratings, Trustpilot-linkkejä tai muita ulkoisia arviointipalveluja. Ainoa maininta on Helsingin Sanomat -haastattelu, jossa yhtiön työntekijöitä haastateltiin (ei kolmannen osapuolen arviointia)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 020 730 1590 näkyy etusivulla 'Service Center (ark. 8-16)' -yhteydessä ja kotisiivous-sivulla 'Puhelinajat: ma-pe klo 8-16' -tekstillä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolme sähköpostiosoitetta näkyy: asiakaspalvelu@keradur.fi (etusivu, yhteystiedot), myynti@keradur.fi (etusivu, yhteystiedot), kotisiivous@keradur.fi (kotisiivous-sivu)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu sisältää Leadoo-chat-widgetin (bot.leadoo.com) ja mainitsee WhatsApp-keskustelun ('keskustele asiantuntijamme kanssa WhatsAppissa täällä', linkki: wa.me/358406883221)."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotisiivous-sivulla näkyy 'Toimisto avoinna: MA-PE klo 8-16'. Etusivu mainitaan 'Service Center (ark. 8-16)'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen 'Usein kysyttyä' -sivu sisältää 12+ kysymystä (mitä työtunti tarkoittaa, miten useampi siivooja vaikuttaa, voinko olla kotona, lemmikit, mitä siivoukseen sisältyy, kotitalousvähennys, siirtyminen/peruminen, ikkunapesut, arkipyhät, hintavaihtelu, paljonko maksaa)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: HTML-metataggit osoittavat mobiilikäyttöä (site.webmanifest, apple-touch-icon, apple-mobile-web-app-title 'Keradur', application-name 'Keradur'), mutta sivustolla ei ole selkeää mainintaa mobiilisovelluksesta eikä linkkiä App Storeen tai Google Playhin."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "87/100",
+       "paino": 34,
+       "pisteet": 87,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 17,
+    "accessibility": 68,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 6627.358,
+    "cls": 0.8805670678485439,
+    "tbt_ms": 976.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksityiskohtainen kotitalousvähennys-sivu, jonka avulla asiakas ymmärtää veroedun (35 % vähennys, 150 € omavastuu, kuittien koonnin toimitus)",
+    "Kattava ja selkeä hinnoittelu katettuna taajuuksittain (1x/viikko 37 €/h, 2x/kk 41 €/h, 1x/kk 47 €/h), hinnat sisältävät ALV:n",
+    "Laaja usein kysytyt -osio (12+ kysymystä), joka vastaa käytännöllisiin asiakaskysymyksiin (mitä työtunti tarkoittaa, miten useampi siivooja vaikuttaa, lemmikit jne.)"
+   ],
+   "kehityskohteet": [
+    "Riippumattomia arvioita (Google Reviews, Trustpilot, Facebook-arviot) ei ole näkyvillä sivulla – vain sisäinen HS:n haastattelu mainittu",
+    "Mobiilisovellus on osittain valmis (site.webmanifest, apple-touch-icon), mutta ei ole selkeää mainintaa sovelluksesta tai linkkiä lataussivulle",
+    "Chat ei ole 24/7 saatavilla – vain WhatsApp (wa.me) ja Leadoo-widget, jonka palveluajat eivät näy, sekä paikalliset yhteystiedot mainittu (MA-PE 8-16)"
+   ],
+   "yhteenveto": "Keradur on kotimainen siivouspalvelu, joka tarjoaa kotisiivouksen palvelut Helsinki-, Tampere- ja Turku-alueilla. Sivusto on erityisen vahva hinnoittelun ja kotitalousvähennyksen selityksessä: hinnat on lueteltu selkeästi asiakkaan valitsemien tiheyssarjojen mukaan, ja omalla sivullaan kerrotaan yksityiskohtaisesti, miten 35 % kotitalousvähennys toimii käytännössä. Verkkovaraus onnistuu helppohintaisesti, ja FAQ-osio on hyvin kattava. Heikkouksina näkyy riippumattomien arviointien puuttuminen sekä mobiilisovelluksen epäselvä status."
+  },
+  {
+   "slug": "freska",
+   "nimi": "Freska",
+   "domain": "freska.fi",
+   "omistaja": "Freska Finland Oy — toimii myös Ruotsissa ja Norjassa",
+   "y_tunnus": "3246808-9",
+   "rekisteroity": 2021,
+   "score": 72.0,
+   "pillars": {
+    "digitaalinen": 77.6,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on hintalaski eli 'Mitä kotisiivous maksaisi kotiini?' jossa voi valita asunnon kokoluokan ja siivousfrekvenssin (joka viikko, joka toinen viikko, joka neljäs viikko, kertasiivous), mutta konkreettiset hinnat eivät näy ennen valintoja."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla useita kautta: 'Tilaa kotisiivous helposti ja turvallisesti netistä', 'Katso vapaat ajat' -painike, ja muoto postinumeron ja asunnon koon valinnalla, sekä 'Tilaa puhelimitse' -vaihtoehto."
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotisiivous-sivulla kokonaisuus 'Muista kotitalousvähennys' jossa selitetään: '35 % palvelun hinnasta takaisin verottajalta (omavastuu 150 €). Enimmäisvähennys on 1 600 € per henkilö vuodessa'. Lisäksi: 'Freskan asiakkaana kotitalousvähennykseen hyödyntäminen hoituu automaattisesti Freska-sovelluksen kautta'."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimialue listattu kaikkien sivujen alalaidassa: Helsinki, Espoo, Vantaa, Kauniainen, Kirkkonummi, Kerava, Turku, Lieto, Naantali, Raisio, Tampere, Kangasala, Lempäälä, Nokia, Pirkkala, Valkeakoski, Ylöjärvi. Yhteystiedot saatavilla yhteydenottolomakkeiden kautta jokaisella sivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus näkyy kaikkien sivujen alalaidassa selkeästi: 'Freska Finland Oy Y-tunnus : 3246808-9'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyy '500 000+ 5-tähden arvostelua' ja kotisiivous-sivulla '4,84/5 laatuarvio asiakkailtamme'. Lisäksi sivuilla nimetyt asiakastodistajat (Krista Kosonen, Petra Gargano, Jarkko Niemi, Armi Toivanen) selkeästi tunnistettujen henkilöiden kanssa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tilaa puhelimitse' -vaihtoehto ja puhelinnumero-kentät yhteydenottolomakkeissa, mutta varsinaista yrityksen puhelinnumeroa ei näy sivuilla. Ilmaistaan 'soitamme sinulle' ja asiakaspalvelusta voi ottaa yhteyttä, mutta ei suoraa numeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostikenttä näkyy ikkunanpesu-sivun yhteydenottolomakkeessa ja pääsivulla, mutta yrityksen sähköpostiosoitetta ei ole näkyvissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaa-kotisiivous -sivulla mainitaan 'Ota yhteyttä asiakaspalveluun chatissä'. Sovelluksella on myös chat-ominaisuus."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Freska-sovellus mainittu kaikilla sivuilla omalla 'Freska-sovellus' osiosella. 'Kotitalousvähennys automaattisesti', 'Muokkaa maksutietojasi', 'Näe ja saa muistutuksia tulevista siivouksista', 'Hallinnoi siivouksiasi' ym. ominaisuudet listattu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 4227.757,
+    "cls": 0.01735830232191159,
+    "tbt_ms": 1934
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kotitalousvähennys selkeästi selitetty ja sovelluksessa automaattisesti toimiva.",
+    "Laaja toimialue 17 kaupungissa, monipuoliset palvelut (kotisiivous, ikkunanpesu, muuttosiivous, toimistosiivous).",
+    "Riippumattomat arvostelut näkyvissä: 500 000+ viisi tähden arvostelu ja nimetyt asiakastodistajat."
+   ],
+   "kehityskohteet": [
+    "Hinnat vaativat interaktiivisen lomakkeen: postinumero ja asunnon koko täytyy valita nähdäkseen hinta-arviota.",
+    "Suora puhelinnumero ja sähköpostiosoite puuttuvat: yhteydenotto vaatii lomaketta tai sovellusta.",
+    "Usein kysytyt kysymykset (UKK) -osio puuttuu kokonaan."
+   ],
+   "yhteenveto": "Freska on suomalainen kotisiivouspalveluyritys, joka tarjoaa säännöllistä kotisiivouspalvelua sekä ikkunanpesua ja muuttosiivouspalveluita 17 kaupungissa. Palvelun voi tilata verkon kautta tai puhelimitse, ja asiakkaat voivat hyödyntää kotitalousvähennystä sovelluksen kautta automaattisesti. Sivusto on selkeä ja asiakaslähtöinen, mutta hinnat vaativat vuorovaikutteista lomaketta eikä suoraa puhelinnumeroa ole näkyvissä."
+  },
+  {
+   "slug": "onni-kotisiivous",
+   "nimi": "Onni kotisiivous",
+   "domain": "onnion.fi",
+   "omistaja": "Med Group Oy — hoivapalvelukonserni; kotisiivous on yksi ONNI-aputoiminimistä",
+   "y_tunnus": "2080120-0",
+   "rekisteroity": 2006,
+   "score": 71.1,
+   "pillars": {
+    "digitaalinen": 67.0,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla: \"Kotisiivouksen hinta alkaen 49,50 €/tunti\" ja Tradekan jäsenedulla \"alkaen 37,13 €/tunti\"."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotitalousvähennys-sivu selittää että Onnin palvelut ovat 35 % kotitalousvähennyskelpoisia, omavastuu 150 euroa vuodessa, maksimi 1600 euroa/henkilö. Sivulle linkki päänavigaatiosta."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla listattu toimialueet alueittain (Uusimaa, Tampereen seutu, Oulu jne). Kotisiivouspalvelun yhteystiedot: p. 09 8564 6541, kotisiivous@onnion.fi, arkisin klo 8-16."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole nähtävillä kotisiivous-sivuilla, yhteystiedot-sivulla, arvot ja avainluvut -sivulla (500-virhe), organisaatio-sivulla (404) tai pääsivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla on \"Onni kotisiivouksen asiakkaiden kokemuksia\" -osio, mutta nämä ovat Onnin omalla sivulla julkaistuja palautteita, ei kolmannen osapuolen arviointisivuston (Trustpilot, Google Reviews) linkkejä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: onnion.fi:n etusivulla ja kotisiivous-sivulla ei mainita mobiilisovellusta, App Storea tai Google Playta (tarkistettu 21.7.2026)."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 6697.107899999999,
+    "cls": 0.000974415682777498,
+    "tbt_ms": 1713.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat, kotitalousvähennys ja arvonlisäveroton palvelu selkeästi esillä",
+    "Laaja toimialue kattaa suurimman osan Suomesta alueellisten palvelupäälliköiden kanssa",
+    "Kattava UKK-osio ja selkeä kartoitusprosessi säännöllisille asiakkaille"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus puuttuu – yrityksen perustiedot eivät näy oman verkkosivuston julkisilla sivuilla",
+    "Verkkovaraus ei ole suora – tilaus ja muuttosiivous merkitään \"verkkokaupasta\" mutta linkkiä ei löydy navigaatiosta",
+    "Chat-tukea ei ole mainittu – asiakaspalvelu saatavilla vain puhelimitse ja sähköpostitse arkisin"
+   ],
+   "yhteenveto": "Onni Kotisiivous on suuri, kotimainen sosiaali- ja terveyspalvelu-yritys, joka tarjoaa kotisiivousta laajalla alueella Suomessa. Kotisiivous on kotitalousvähennyskelpoista (35 %) ja saatavilla myös arvonlisäverottomasti. Sivusto on selkeä ja sisältää kattavia tietoja palvelun sisällöstä, hinnasta ja prosesseista, mutta puuttuu y-tunnus ja suora verkkovaraus-linkki."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Siivouksen hinnat julkisesti esillä (30), tilaus tai varaus onnistuu verkossa (20), kotitalousvähennys ja sen vaikutus hintaan kerrottu (15), toimialue ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

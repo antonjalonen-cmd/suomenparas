@@ -1,0 +1,48 @@
+{
+ "slug": "onni-kotisiivous",
+ "fetched_ok": [
+  "https://www.onnion.fi/kotisiivous",
+  "https://www.onnion.fi/yhteystiedot",
+  "https://www.onnion.fi/kotitalousvahennys",
+  "https://www.onnion.fi/palveluseteli",
+  "https://www.onnion.fi/arvonlisaveroton-palvelu"
+ ],
+ "hinnat_esilla": "kylla",
+ "varaus_verkossa": "osittain",
+ "kotitalousvahennys_kerrottu": "kylla",
+ "toimialue_ja_yhteystiedot": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "tuntihinta_eur": 49.5,
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 72,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Hinnat, kotitalousvähennys ja arvonlisäveroton palvelu selkeästi esillä",
+  "Laaja toimialue kattaa suurimman osan Suomesta alueellisten palvelupäälliköiden kanssa",
+  "Kattava UKK-osio ja selkeä kartoitusprosessi säännöllisille asiakkaille"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus puuttuu – yrityksen perustiedot eivät näy oman verkkosivuston julkisilla sivuilla",
+  "Verkkovaraus ei ole suora – tilaus ja muuttosiivous merkitään \"verkkokaupasta\" mutta linkkiä ei löydy navigaatiosta",
+  "Chat-tukea ei ole mainittu – asiakaspalvelu saatavilla vain puhelimitse ja sähköpostitse arkisin"
+ ],
+ "yhteenveto": "Onni Kotisiivous on suuri, kotimainen sosiaali- ja terveyspalvelu-yritys, joka tarjoaa kotisiivousta laajalla alueella Suomessa. Kotisiivous on kotitalousvähennyskelpoista (35 %) ja saatavilla myös arvonlisäverottomasti. Sivusto on selkeä ja sisältää kattavia tietoja palvelun sisällöstä, hinnasta ja prosesseista, mutta puuttuu y-tunnus ja suora verkkovaraus-linkki.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Pääsivulla: \"Kotisiivouksen hinta alkaen 49,50 €/tunti\" ja Tradekan jäsenedulla \"alkaen 37,13 €/tunti\".",
+  "varaus_verkosta": "HAVAINTO: Pääsivulla mainitaan \"Osta edullinen sarjakortti verkkokaupasta\" ja \"Tai osta kertasiivous tai muuttosiivous suoraan verkkokaupastamme\", mutta suoraa linkkiä verkkokauppaan ei ole navigaatiossa tai etusivulla nähtävillä.",
+  "kotitalousvahennys_kerrottu": "HAVAINTO: Kotitalousvähennys-sivu selittää että Onnin palvelut ovat 35 % kotitalousvähennyskelpoisia, omavastuu 150 euroa vuodessa, maksimi 1600 euroa/henkilö. Sivulle linkki päänavigaatiosta.",
+  "toimialue_ja_yhteystiedot": "HAVAINTO: Yhteystiedot-sivulla listattu toimialueet alueittain (Uusimaa, Tampereen seutu, Oulu jne). Kotisiivouspalvelun yhteystiedot: p. 09 8564 6541, kotisiivous@onnion.fi, arkisin klo 8-16.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole nähtävillä kotisiivous-sivuilla, yhteystiedot-sivulla, arvot ja avainluvut -sivulla (500-virhe), organisaatio-sivulla (404) tai pääsivulla.",
+  "riippumaton_arvio": "HAVAINTO: Pääsivulla on \"Onni kotisiivouksen asiakkaiden kokemuksia\" -osio, mutta nämä ovat Onnin omalla sivulla julkaistuja palautteita, ei kolmannen osapuolen arviointisivuston (Trustpilot, Google Reviews) linkkejä.",
+  "mobiilisovellus": "HAVAINTO: onnion.fi:n etusivulla ja kotisiivous-sivulla ei mainita mobiilisovellusta, App Storea tai Google Playta (tarkistettu 21.7.2026)."
+ },
+ "mobiilisovellus": "ei"
+}

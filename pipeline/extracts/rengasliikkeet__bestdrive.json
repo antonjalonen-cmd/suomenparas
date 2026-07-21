@@ -1,0 +1,48 @@
+{
+  "slug": "bestdrive",
+  "fetched_ok": [
+    "https://bestdrive.fi/",
+    "https://bestdrive.fi/palvelut/rengaspalvelut/renkaanvaihto/",
+    "https://bestdrive.fi/palvelut/rengaspalvelut/rengashotelli/",
+    "https://bestdrive.fi/liikkeet/",
+    "https://bestdrive.fi/liikkeet/bestdrive-helsinki/",
+    "https://bestdrive.fi/bestdrive-yrityksena/yhteystiedot/"
+  ],
+  "renkaiden_hinnat_esilla": "kylla",
+  "asennus_ja_sailytys_hinnat": "ei",
+  "ajanvaraus_verkossa": "ei",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 60,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Renkaat näytetään selkeillä hinnoilla etusivulla, online-myynti mahdollinen",
+    "Laaja liikkeitä verkosto (noin 30 liikettä) ja niiden aukioloajat selvästi näytetään",
+    "Palvelut kuvattu yksityiskohtaisesti (renkaanvaihto, rengashotelli, tasapainotus, paikkaus)"
+  ],
+  "kehityskohteet": [
+    "Renkaanvaihdon ja rengashotellin hinnat eivät ole julkisesti esillä, vaan neuvotteluasia",
+    "Online-ajanvaraus puuttuu kokonaan, varaus vaatii yhteydenoton puhelimitse tai sähköpostilla",
+    "Pääyhtiön puhelinnumeroa ei ole esillä, vain liikkeiden yhteystiedot saatavilla"
+  ],
+  "yhteenveto": "BestDrive on Continentalin tukema kansallinen rengasliike ketju, jolla on noin 30 liikettä ympäri Suomea. Renkaiden hinnat näytetään selkeästi verkkosivulla, ja jokaisen liikkeen aukioloajat ja yhteystiedot ovat löydettävissä. Kuitenkin palvelun hinnat (renkaanvaihto, rengashotelli) ja online-ajanvaraus puuttuvat, mikä vaatii asiakkaalta suoraa yhteydenottoa liikkeeseen.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Etusivulla näytetään kolme rengasmallilla hintoja: BestDrive Summer 2 alkaen 91,00 €/kpl, Continental PremiumContact 7 alkaen 118,00 €/kpl, Continental UltraContact NXT alkaen 162,00 €/kpl.",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Renkaanvaihto- ja rengashotelli-sivuilla kuvataan palvelut yksityiskohtaisesti, mutta hintoja ei mainita. Liikkeelle on yhteydenottolomake, mutta ei julkista hinnastoa.",
+    "ajanvaraus_verkossa": "HAVAINTO: Sivustolla ei ole online-ajanvaraukseen omistettua sivua. Helsinki-liikkeellä on yhteydenottolomake, mutta se on vapaamuotoinen, ei ajanvarausta.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Liikkeet-sivulla luetellaan noin 30 liikettä (Kuusamo, Helsinki, Joensuu, Tampere, Turku, jne.). Kunkin liikkeen sivulla näytetään aukioloajat, esim. Helsinki: ma-pe 08:00–17:00, la-su suljettu.",
+    "y_tunnus_esilla": "HAVAINTO: Pääsivulla näytetään 'BestDrive Finland Oy' nimi ja osoite (Hevosenkenkä 3, 02600 Espoo), mutta Y-tunnusta ei mainita pääsivulla. Helsinki-liikkeen sivulla näytetään paikallinen Y-tunnus 3561189-9.",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla näytetään keskus@bestdrive.fi. Helsingin liikkeellä oma sähköpostiosoite myynti@bestdrivehelsinki.fi."
+  }
+}

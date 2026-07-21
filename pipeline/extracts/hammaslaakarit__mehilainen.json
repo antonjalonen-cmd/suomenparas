@@ -1,0 +1,53 @@
+﻿{
+    "aukioloajat_esilla":  "kylla",
+    "ukk_osio":  "kylla",
+    "y_tunnus_esilla":  "ei",
+    "riippumaton_arvio":  "osittain",
+    "fetched_ok":  [
+                       "https://www.mehilainen.fi/hammas-mehilainen",
+                       "https://www.mehilainen.fi/toimipisteet?palvelu=hammas",
+                       "https://www.mehilainen.fi/yhteystiedot",
+                       "https://www.mehilainen.fi/tietosuoja",
+                       "https://www.mehilainen.fi/ajanvaraus?palvelu=hammas"
+                   ],
+    "kehityskohteet":  [
+                           "Y-tunnus ja yritysrekisteritiedot eivät ole näkyvillä verkkosivuilla, vain Mehiläinen Oy -konsernin yleiset tiedot",
+                           "Potilasarvioista ja riippumattomista arvioinneista ei ole näyttöä verkkosivuilla, vain sisäisen asiakaspalautteen maininta",
+                           "Yleinen sähköpostiosoite hammashoitoon liittyville kyselyille puuttuu, asiakkaita ohjeistetaan soittamaan tai käyttämään chatiä"
+                       ],
+    "ai_arviot":  {
+                      "selkeys":  82,
+                      "sisallon_kattavuus":  80,
+                      "hintojen_loydettavyys":  85
+                  },
+    "yhteenveto":  "Hammas Mehiläinen on merkittävä yksityinen hammashoidon ketju, joka tarjoaa laajan palveluvalikoiman kuuden toimipisteensä kautta. Verkkosivusto on selkeä ja informaatiorikas: hinnaston kattavuus ja Kela-korvausten selitys ovat erityisesti kehuja ansaittuja. Toimipisteissä on otettu huomioon käyttäjien tarpeet monilla asiointitavoilla, mutta yritysidentiteettitiedot ovat rajallisia ja kolmannen osapuolen arvioita ei ole integroitu markkinointimateriaaliksi.",
+    "email_esilla":  "osittain",
+    "mobiilisovellus":  "kylla",
+    "vahvuudet":  [
+                      "Laaja ja yksityiskohtainen hinnasto kaiken hammashoitoon liittyville palveluille, Kela-korvaukset selkeästi eritellyt",
+                      "Monipuoliset yhteystietojen ja asiointitavat: puhelin, chat, OmaMehiläinen-sovellus, soittopyyntö ja Digiklinikka 24/7",
+                      "Selkeät aukioloajat ja seitsemän Hammas Mehiläinen -toimipistettä useilla paikkakunnilla, verkkoon perustuva ajanvaraus"
+                  ],
+    "kela_korvaus_kerrottu":  "kylla",
+    "puhelin_esilla":  "kylla",
+    "evidence":  {
+                     "ajanvaraus_ilman_kirjautumista":  "HAVAINTO: Verkkoajanvaraus-palvelussa näkyvät vapaat ajat ilman kirjautumista. Käyttäjä voi selata vapaita aikoja ja palveluita suoraan. Puhelimitse ajanvaraus myös mahdollinen: 010 273 8000.",
+                     "mobiilisovellus":  "HAVAINTO: OmaMehiläinen-sovellus mainitaan useissa paikoissa. Sovelluksella voi tehdä ajanvarauksen, peruuttaa ajan, hallita omia tietoja ja kommunikoida hoitohenkilökunnan kanssa.",
+                     "riippumaton_arvio":  "HAVAINTO: Sivustolla mainitaan \u0027Asiakkaamme suosittelevat Mehiläisen palveluita\u0027 sekä \u0027Asiakkaamme ovat tyytyväisiä palveluihimme\u0027, mutta näyttöä numerolla ei anneta. Kolmannen osapuolen arviointisivustoja (esim. Google, Trustpilot) ei ole linkitetty.",
+                     "kela_korvaus_kerrottu":  "HAVAINTO: Jokaisen palvelun kohdalla näytetään sekä Kela-korvauksella että ilman hinnat. Esim. röntgenkuvalla mainitaan \u0027Hinta lääkärin lähetteellä Kela-korvauksen jälkeen 80 €\u0027. Poliklinikkamaksusta ilmoitetaan, että yli viiden käynnin jälkeen se on vapaa kalenterivuoden loppuosan ajan.",
+                     "vastaanottohinnat_esilla":  "HAVAINTO: Hammastarkastus 56,00 € (Kela-korvauksen jälkeen), 86,00 € (ilman Kela-korvausta). Sivustolla listataan yli 30 hammaslääketieteellistä palvelua hintatiedoineen, esim. hampaan paikkaus 97-216 €, hammaskiven poisto 122-169 €, kruunu 627-812 €.",
+                     "toimipisteet_ja_aukioloajat":  "HAVAINTO: Seitsemän nimettyä Hammas Mehiläinen -klinikkaa: Nokia (Nuijamiestentie 5), Mikkeli (Porrassalmenkatu 16), Hyvinkää (Hämeenkatu 9, 5.krs), Lohja (Laurinkatu 34), Espoo Iso Omena (Piispansilta 11, 3.krs), Joensuu (Rantakatu 24, 2.kerros). Aukioloajat: ma-pe klo 7.00–20.00, la-su klo 8.00–20.00.",
+                     "email_esilla":  "HAVAINTO: Yleiset hammaslääkäripalveluja koskevat sähköpostiosoitteet eivät ole näkyvillä. Maininta: \u0027Mehiläisen asiakaspalvelulla ei ole käytössä yleistä sähköpostiosoitetta\u0027, mutta terveyssopimusta koskevaa palveluneuvontaa varten: terveyssopimus@mehilainen.fi.",
+                     "aukioloajat_esilla":  "HAVAINTO: Aukioloajat näytetään hammaslääkärikohtaisesti: ma-pe klo 7.00–20.00 ja la-su klo 8.00–20.00. Toimipisteissä näytetään myös \u0027Avoinna klo 19:30 asti\u0027 -tyyppisiä sulkemisaikoja.",
+                     "puhelin_esilla":  "HAVAINTO: Hammas Mehiläisen asiakaspalvelun numero 010 273 8000 näkyy useissa paikoissa. Lisäksi yleinen puhelinnumero 010 414 00.",
+                     "y_tunnus_esilla":  "HAVAINTO: Y-tunnus ei ole näkyvillä verkkosivuilla. Sivustoilla mainitaan Mehiläinen Oy, mutta liiketoimintarekisteri- tai yritystunnusta ei listata.",
+                     "chat_mainittu":  "HAVAINTO: \u0027Digiklinikan chat -asiakaspalveluun\u0027 mainitaan olevan käytettävissä ympäri vuorokauden. Myös Facebook-sivuilla päivystetään päivittäin klo 8-16.",
+                     "ukk_osio":  "HAVAINTO: \u0027Usein kysyttyä suun terveyden palveluista\u0027 -osio sisältää kahdeksan kysymys-vastaus-paria, esim. \u0027Kuinka usein hammastarkastuksessa kannattaa käydä?\u0027 ja \u0027Miten huomioimme hammaslääkäripelon?\u0027"
+                 },
+    "toimipisteet_ja_aukioloajat":  "kylla",
+    "chat_mainittu":  "kylla",
+    "slug":  "mehilainen",
+    "vastaanottohinnat_esilla":  "kylla",
+    "ajanvaraus_ilman_kirjautumista":  "kylla",
+    "tarkastus_hinta_eur":  86
+}

@@ -1,0 +1,869 @@
+{
+ "slug": "muuttopalvelut",
+ "nimi": "Muuttopalvelut",
+ "nav": "Muuttopalvelut",
+ "h1": "Suomen paras muuttopalvelu 2026",
+ "yksikko": "valtakunnallista muuttopalvelua",
+ "lead": "Pisteytimme {n} valtakunnallista muuttopalvelua {m} mittarilla. Tärkein kysymys: saatko hinta-arvion näkyviin ilman soittoa?",
+ "meta_title": "Suomen paras muuttopalvelu 2026 | muuttofirmat pisteytettynä | Suomen Paras",
+ "meta_desc": "4 valtakunnallista muuttopalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi listalla on vain 4 yritystä?</b> Muuttoala on enimmäkseen paikallisia perheyrityksiä, joita ei voi asettaa valtakunnalliseen järjestykseen. Listalla ovat löytämämme aidosti valtakunnalliset toimijat. Karsituista kaksi oli ansoja: <b>Muuttopalvelu.com</b>-domain mainostaa yhä, vaikka sen yhtiö on lakannut 3.12.2024, ja <b>Grundell</b> on sulautunut Martela Palveluihin (6/2026) eikä palvele enää kuluttajamuuttoja.",
+  "Vertailu kuvaa yritysten julkisten verkkosivujen mitattavia ominaisuuksia, ei muuton laatua tai varovaisuutta. Muuton todellinen hinta riippuu aina kohteesta; vertailu mittaa kerrotaanko hinnoittelu ja vastuut avoimesti etukäteen. Muista kotitalousvähennys muuttopalveluista. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "suomen-muuttofirma",
+   "nimi": "Suomen Muuttofirma",
+   "domain": "muuttofirma.fi",
+   "omistaja": "Suomen Muuttofirma Oy — itsenäinen",
+   "y_tunnus": "2292440-7",
+   "rekisteroity": 2009,
+   "score": 86.0,
+   "pillars": {
+    "digitaalinen": 74.5,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinta-arviota varten annetaan kolme konkreettista esimerkkiä (249€, 589€, 1599€) eri muuttotyypeille. Sivulla todetaan myös 'Yleiset kotimuuton hinnat ovat muuttotyön osalta 200–500 €'."
+      },
+      {
+       "mittari": "Hinta-arvion saa verkossa ilman soittoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Easy Move -sovellus on ladattavissa sovelluskaupasta ja se toimii myös verkkoselaimen kautta osoitteessa easymoving.fi. Sovelluksen kuvauksen mukaan 'Ota kuvat muutettavista tavaroista, valitse palvelut ja saat hinnan.'"
+      },
+      {
+       "mittari": "Vakuutus ja vastuu vahingoista kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutus-sivulla selitetään yksityiskohtaisesti, että asiakkaan omaisuus pitää vakuuttaa itse, ja Suomen Muuttofirmalla on lakisääteiset vakuutukset. Kerrotaan, että tiekuljetuslain mukainen vastuu on 'erittäin rajattu' ja annetaan konkreettinen esimerkki vahingotilanteesta (rikkoutuva perintömaljakko)."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on kaksi toimipistettä: Joensuu (Pilkontie 5, 80130 Joensuu, puh. 010 209 8400) ja Kuopio (Kumpusaarentie 52, 70760 Kuopio, puh. 010 209 8401). Yhtiö mainitaan 'valtakunnallisesti palvelevaksi'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2292440-7 näkyy yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näytetään Google-arvioita tekstillä '9.6/10 asiakkaistamme suosittelee meitä' ja 'Lähetetty Google -sivustolla'. Mukana on neljä konkreettista nimettyä asiakaspalaute Google-palvelusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 010 209 8400 näkyy kaikilla sivuilla 'Valtakunnallinen palvelunumero'. Kuopion toimipisteelle erillinen numero 010 209 8401."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite muutot@muuttofirma.fi näkyy kaikilla sivuilla ja laskutukselle laskutus@muuttofirma.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palveluista ei ole mainintaa sivuilla. Yhteystapoja ovat puhelin, sähköposti ja yhteydenottolomake."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat 'Ma-pe 8-17, la-su (sopimuksen mukaan)' näkyvät kaikilla sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on oma UKK-sivu, jossa käsitellään kysymyksiä muuttoautoista, muuttolaatikoista, pianon muuttamisesta, kierrätyspalvelusta ja maksutavoista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Easy Move -sovellus mainittaan 'ladattavaksi maksutta sovelluskaupastasi'. Sovelluksen kuvauksen mukaan se on 'Suomen Muuttofirman kehittämä mobiilisovellus'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 4275.82,
+    "cls": 0.0036399919202907906,
+    "tbt_ms": 2176.1479999999992
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Easy Move -sovellus ja easymoving.fi mahdollistavat hinnan saamisen verkossa ilman puhelua",
+    "Perustettu 2009, valtakunnallisesti palveleva, yli 100 muuttomiestä ja 25 muuttoautoa - kokemusta ja resursseja",
+    "Kattavat lisäpalvelut pakkaamisesta kierrätyspalveluihin - ei tarvitse etsiä useammasta paikasta"
+   ],
+   "kehityskohteet": [
+    "Tuntihinta ei ole esillä - tekee hintavertailua vaikeammaksi",
+    "Tarjouslaskuri (Easy Move) vaatii kuvien ottamisen - ei nopein tapa ilman puhelun soittamista",
+    "Asiakasarvioiden määrä ja jakauma piiloitettu - vain keskiarvo 9.6/10 näkyvissä"
+   ],
+   "yhteenveto": "Suomen Muuttofirma Oy on Joensuussa vuonna 2009 perustettu valtakunnallinen muuttopalveluyhtiö. Sivustonsa kautta he tarjoavat selkeät hintatiedot esimerkkeinä, Easy Move -sovelluksen verkkohintasille sekä kattavan tiedot vakuutuksista ja vastuusta. Sivusto on hyvin organisoitu ja vastaa moniin asiakkaan kysymyksiin, mutta tarkat tuntitaksat vaativat edelleen tarjouspyynnön."
+  },
+  {
+   "slug": "niemi-palvelut",
+   "nimi": "Niemi Palvelut",
+   "domain": "niemi.fi",
+   "omistaja": "Niemi Palvelut Oy — itsenäinen suomalainen yhtiö",
+   "y_tunnus": "1944860-6",
+   "rekisteroity": 2005,
+   "score": 80.9,
+   "pillars": {
+    "digitaalinen": 68.6,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 80.0,
+    "ai_laatu": 79.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Kotimuutto verkosta -15 %' -kampanja ja linkit muuttoverkkokauppaan. Kotimuutto-sivulla ilmoitetaan, että alle 100 m² asunnon muuttoon saa hinnan helposti muuttoverkkokaupasta tai voi pyytää tarjous isommasta asunnosta."
+      },
+      {
+       "mittari": "Hinta-arvion saa verkossa ilman soittoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Muuttoverkkokaupastamme voit ostaa alle 100 neliön asunnon muuton' sekä selkeä 'Pyydä tarjous' -lomake, jossa voi valita kotimuuton, yritysmuuton tai ulkomaanmuuton tyyppi ja täyttää osoitteet, alueet ja valikoidut palvelut."
+      },
+      {
+       "mittari": "Vakuutus ja vastuu vahingoista kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotimuutto-sivu sisältää UKK-osion 'Miten omaisuuteni on vakuutettu muuton aikana?' jossa kerrotaan lisävakuutuksesta. Toimitusehdot (kohta 11) ilmoittavat yksityiskohtaisesti: 'Korvausvastuu on rajoitettu kotimaankuljetuksissa enintään 20 €/kg' ilman lisävakuutusta, ja asiakkaiden voi ottaa erillisen kertakuljetusvakuutuksen."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivu listaa 9 toimipistettä: Helsinki, Tampere, Turku, Oulu, Jyväskylä, Lahti, Kuopio, Vaasa ja Rovaniemi. Asiakaspalvelu 020 554 5610, myyntipalvelu 020 554 554, sähköposti niemi@niemi.fi. Osoite: Paperitie 7, 00390 Helsinki."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1944860-6 on näkyvillä sekä etusivulla että yhteystiedot-sivulla ja toimitusehdot-sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Niemi arvioitiin Taloustutkimus Oy:n TEP 2025 -tutkimuksessa alansa ykköseksi, jo 22. kerran peräkkäin' sekä 'Asiakkaidemme suositteluhalukkuus on huipputasolla: NPS 93', mutta ei linkkiä riippumattomaan lähteeseen."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 020 554 5610 mainitaan useilla sivuilla, myyntipalvelun numero 020 554 554."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite niemi@niemi.fi on näkyvillä kaikilla sivuilla ja myös UKK-osion lopussa ilmoitetaan 'Etkö löytänyt vastausta kysymykseesi? Ota meihin yhteyttä sähköpostilla.'"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla ilmoitetaan 'Kaikkien toimipisteidemme asiakaspalvelu on avoinna arkisin 8-16' ja muuttolaatikoiden toimitukset arkipäivisin klo 8-21."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotimuutto-sivulla on laaja 'USEIN KYSYTTYÄ KOTIMUUTOISTA' -osio, joka sisältää yli 15 kysymystä ja vastausta aiheista kuten hinnoittelu, vakuutus, palvelujen räätälöinti, muuttoprosessi ja peruutukset."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 19565.04892,
+    "cls": 0.05003949909644375,
+    "tbt_ms": 7301.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava verkkopalvelu: Muutot alle 100 m2 asunnoille voidaan tilata kokonaan verkkokaupasta kiinteällä hinnalla ilman puhelua.",
+    "Selkeät toimitusehdot ja vastuu: Vakuutus ja vahinkojen korvausperusteet on dokumentoitu yksityiskohtaisesti, vakuutus enintään 20 €/kg kotimaan kuljetuksissa.",
+    "Laaja toiminta-alue ja saatavuus: 9 toimipistettä koko Suomessa, asiakaspalvelu arkisin 8-16, asiakaspalvelun numeroiden selkeä ilmoittaminen."
+   ],
+   "kehityskohteet": [
+    "Tuntihinta puuttuu: Sivuilla ei ilmoiteta konkreettisia tuntihintojen tasoja, vaan vain viitata räätälöityihin tarjouksiin.",
+    "Mobiilisovellus ei ole erityisesti mainittu tai korostettu, ainoastaan verkkokauppa mainitaan.",
+    "Chat-palvelua ei ole saatavilla; asiakkaiden on käytettävä puhelinta, sähköpostia tai verkkolomaketta."
+   ],
+   "yhteenveto": "Niemi Palvelut Oy on Suomen johtava muuttopalveluyritys, joka tarjoaa kotimuutot, yritysmuutot ja logistiikkapalvelut. Sivusto on selkeä ja hinnoittelu on helposti saatavilla, erityisesti alle 100 neliön asuntojen verkkokaupan kautta. Vakuutus ja vahinkojen vastuu on hyvin dokumentoitu toimitusehdoissa, mikä antaa asiakkaalle selkeyttä."
+  },
+  {
+   "slug": "victor-ek",
+   "nimi": "Victor Ek",
+   "domain": "victorek.fi",
+   "omistaja": "Oy Victor Ek Ab — perheomisteinen vuodesta 1885",
+   "y_tunnus": "0215408-9",
+   "rekisteroity": 1978,
+   "score": 70.7,
+   "pillars": {
+    "digitaalinen": 75.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 67.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "50/100",
+       "paino": 40,
+       "pisteet": 50,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla kerrotaan, että 'muuttopalvelun hinta määräytyy muuttoerän koon, muuttomateriaalien määrän ja palvelukokonaisuuden mukaan' ja että hinnoitus on joko tuntipohjainen tai kiinteähintainen, mutta konkreettisia eurohintoja ei ole listattu."
+      },
+      {
+       "mittari": "Hinta-arvion saa verkossa ilman soittoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Pyydä tarjous' -lomake ja mainitaan 'täytä lomake ja saat meiltä selkeän kuvan muuton kustannuksista', mutta automaattista laskuria ei näy olevan; tarjouksen tekee yhtiö, ei asiakas."
+      },
+      {
+       "mittari": "Vakuutus ja vastuu vahingoista kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Muuttovakuutus-sivulla kerrotaan perusturvan sisältävän tiekuljetusvakuutuksen 20 €/kg asti ja vastuuvakuutuksen kiinteälle omaisuudelle 1 000 000 € asti, sekä mahdollisuus ottaa Täysturva-muuttovakuutus."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan palvelualueet Uusimaa ja Pirkanmaa kaupunkeineen, kaksi toimipistettä (Helsinki, Tampere) täysin osoitteilla ja asiakaspalvelun puhelinnumero +358 9 125 11 sekä email victorek@victorek.fi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2729547-8 näkyy kaikilla sivujen alalaidoilla ja yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy omia asiakaskokemuksia ('9,8/10 asiakastyytyväisyys' ja suosittelut), mutta ulkopuolisen lähteen (esim. Google-arviot tai muun arviointisivuston) arvioita ei näy."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 50,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3776.62432,
+    "cls": 0,
+    "tbt_ms": 2268.9316399999993
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava ja hyvin organisoitu UKK-osio, joka vastaa sekä kotikäyttäjien että yritysten kysymyksiin",
+    "Selkeä vaiheittainen kuvaus muuttoprosessista arviokäynnistä kalusteiden asennukseen asti",
+    "Vakuutukset ja vastuut kerrottu avoimesti, myös lisävakuutusvaihtoehdot selvä"
+   ],
+   "kehityskohteet": [
+    "Konkreettisia hintaesimerkkejä puuttuu kokonaan; hinnoittelu on täysin tarjouspyynnön varaan",
+    "Chat- tai pikaviestipalvelua ei tarjota; asiakaspalveluun saa yhteyden vain sähköpostilla tai puhelimitse",
+    "Mobiilisovellusta ei mainita, vaikka nykyaikaiset muuttofirmat tarjoavat usein mobiiliratkaisuja"
+   ],
+   "yhteenveto": "Victor Ek on 140 vuoden kokemuksella toimiva perinteinen muuttofirma, joka palvelee pääasiassa Uusimaa- ja Pirkanmaa-alueilla. Sivusto on selkeästi organisoitu yksityiskohtaisella UKK-osiolla ja kuvaa palveluprosessia hyvin, mutta konkreettiset hinnat puuttuvat kokonaan ja kaikki tarjoukset vaativat asiakkaan aktiivista yhteydenottoa."
+  },
+  {
+   "slug": "muuttohaukat",
+   "nimi": "Muuttohaukat",
+   "domain": "muuttohaukat.com",
+   "omistaja": "Muuttohaukat Oy — itsenäinen",
+   "y_tunnus": "0887272-7",
+   "rekisteroity": 1992,
+   "score": 65.1,
+   "pillars": {
+    "digitaalinen": 66.3,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Saat tarjouksen alle 60m2 asunnon muutostasi välittömästi' ja 'Tuntihinnalla tai urakkana', mutta konkreettisia €/tunti-hintoja ei ole nähtävissä; hintaopas-sivulle johtava linkki ei toimi (404)."
+      },
+      {
+       "mittari": "Hinta-arvion saa verkossa ilman soittoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan, että pienille muutoille (<80m2) voi tilata suoraan tilaamuutto.fi-palvelusta. Omilla sivuilla on tarjouspyynnön lomake, mutta se vaatii yhteystietojen antamisen, ei etukäteen laskettua hintaa."
+      },
+      {
+       "mittari": "Vakuutus ja vastuu vahingoista kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa sanotaan: 'Yrityksellä on tiekuljetussopimuslain mukainen vakuutus kuljetettavaa tavaraa koskevan vastuun varalta (tiekuljetusvakuutus) sekä vastuuvakuutus kolmannelle osapuolelle aiheutettujen henkilö- ja esinevahinkojen varalta (toiminnanvastuuvakuutus).' Myös korvausvastuusta (max 20 euroa/kg) kerrotaan selkeästi."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet sijaitsevat Hyvinkäällä (Kerkkolankatu 31), Vantaalla (Taivaltie 4), Tampereella (Tietohallinnonkatu 17) ja Turussa (Lemminkäisenkatu 36). Puhelin 010 400 4500 ja sähköposti muuttohaukat@muuttohaukat.com näkyvät kaikilla sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainittu ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Google Reviewsissa näkyy 174 arviota keskiarvoilla 4.2 tähteä. Asiakkaiden kokemuksia lainataan sivuilla ja etusivulla näkyvät suoria arvioita (esim. 'Upea porukka! Kaikki positiivisia loppuun asti!')."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin 010 400 4500 näkyy kaikilla sivuilla, lisäksi aluekohtaiset numerot Hyvinkäällä, Turussa ja Tampereella."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: muuttohaukat@muuttohaukat.com näkyy kaikilla sivuilla, lisäksi aluekohtaiset sähköpostiosoitteet (esim. jere.sarkkinen@muuttohaukat.com)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat (ma–to 8:00–16:00, pe 9:00–15:00) näkyvät kaikilla alueellisilla sivuilla ja muuttolaatikoiden noutosivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on linkki 'Usein kysyttyjä kysymyksiä' ('Palaute & UKK' -osassa), mutta yritys kokeilleet URL:t (esim. /usein-kysyttavat-kysymykset) palauttavat 404:n."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 10961.1935,
+    "cls": 0.03173100240060591,
+    "tbt_ms": 1553.824999999997
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laajalti saatavilla koko Suomessa neljällä toimipisteellä (Hyvinkää, Tampere, Turku, pääkaupunkiseutu)",
+    "Selkeät toimitusehdot ja vakuutustiedot julkisesti esillä; kaikki kuljetukset vakuutettu",
+    "Riippumaton arviointi nähtävissä sivuilla (174 arviota, 4.2 tähteä Google Reviewsissa)"
+   ],
+   "kehityskohteet": [
+    "Konkreettisia tuntihintoja tai hintaluokkia ei julkaistu verkkosivuilla; tarjouslaskuri saatavilla vain kolmannen osapuolen palvelussa (tilaamuutto.fi)",
+    "Y-tunnusta ei ole esillä sivuilla; tieto jää julkisesti puuttuvaksi",
+    "UKK-osio puuttuu kokonaan, vaikka navigaatiossa se näkyy linkkeinä"
+   ],
+   "yhteenveto": "Muuttohaukat Oy on 30+ vuotta toiminut kotimuuttojen ja yritysmuuttojen erikoistunut palveluyritys, jolla on laaja maantieteellinen kattavuus. Verkkosivuilla käydään läpi palvelun sisältöä, vakuutusta ja vastuuta selkeästi, ja asiakkaille tarjotaan useita palvelupaketteja. Hinnoittelu perustuu tarjouslaskuriin eikä tuotettuja hintoja julkaista avoimesti."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Muuton hinnat tai hinnoitteluperusteet julkisesti esillä (30), hinta-arvion saa verkossa ilman soittoa (20), vakuutus ja vastuu vahingoista kerrottu (15), toimialue ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

@@ -1,0 +1,1294 @@
+{
+ "slug": "rengasliikkeet",
+ "nimi": "Rengasliikkeet",
+ "nav": "Rengasliikkeet",
+ "h1": "Suomen paras rengasliike 2026",
+ "yksikko": "valtakunnallista rengasliikeketjua",
+ "lead": "Pisteytimme {n} valtakunnallista rengasliikeketjua {m} mittarilla. Tärkein kysymys: näkyvätkö renkaiden ja asennuksen hinnat ennen yhteydenottoa?",
+ "meta_title": "Suomen paras rengasliike 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 rengasliikeketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kuka ketjun omistaa, vaikuttaa mitä renkaita sinulle suositellaan:</b> neljä kuudesta ketjusta on rengasvalmistajan omistamia tai tukemia — Vianor (Nokian Renkaat), Euromaster (Michelin), BestDrive (Continental) ja First Stop (Bridgestone). Motonet ja RengasCenter ovat valmistajista riippumattomia. Näytämme omistajan jokaisen kohdalla.",
+  "<b>Miksi Rengasmaailma ei ole listalla?</b> Brändi on kuollut kahden uudelleenbrändäyksen jälkeen: Rengasmaailma → Rengasmarket → BestDrive. Teboil rajattiin pois, koska sillä ei ole ketjumaista rengaspalvelua.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei renkaiden tai asennustyön laatua. Hinnat vaihtelevat rengaskoon ja liikkeen mukaan; vertailu mittaa kerrotaanko ne avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "vianor",
+   "nimi": "Vianor",
+   "domain": "vianor.fi",
+   "omistaja": "Nokian Renkaat — valmistajan oma ketju",
+   "y_tunnus": "1463013-4",
+   "rekisteroity": 1998,
+   "score": 80.4,
+   "pillars": {
+    "digitaalinen": 72.6,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät rengashinnat eri merkeille ja malleille, esim. Nokian Hakka Black 3 alkaen 143,50 €/kpl ja 4 kpl asennettuna alkaen 689,00 €."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Renkaanvaihto alkaen 42,00 € (palvelun sivulla), rengashotelli alkaen 37,00 € per kausi (rengashotelli-sivulla näkyvät hinnat)."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluiden ostamisen sivulla löytyy 5-vaiheinen ohje online-ajanvarauksesta: valitse palvelu, ajoneuvotyyppi ja toimipiste, syötä rekisteritunnus, valitse aika kalenterista, ja maksa."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla listattu yli 100 Vianor-toimipistettä eri kaupungeissa (Espoo, Helsinki, Tampere, Turku, Kuopio jne.). Aukioloajat ma-su 7-21 mainittu asiakaspalvelua kuvaavassa osiossa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla näkyy Y-tunnus 1463013-4 (Vianor Oy)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyvät asiakasarviot (keskiarvosanalla 4-5 tähteä) ovat Vianorin omasta arvostelujärjestelmästä, ei riippumattomasta lähteestä kuten Trustpilot tai Google Reviewsista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 401 401 (liittymäsopimuksen mukainen hinta) näkyy etusivulla ja yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköposteja on saatavilla ainoastaan yritysasiakkaille ([email protected]) ja erilaisiin tekniikka-asioihin. Yksityisasiakkaiden on käytettävä palaute-lomaketta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Näin ostat palvelun' -sivulla mainitaan 'Saat myös aina apua chatista'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat ma-su 7-21 näkyvät etusivulla ja yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Rengasvinkit' -osio, joka sisältää artikkeleita aiheista kuten renkaiden valinta, säilytys ja huolto, mutta varsinaista Q&A formaatteja FAQ/UKK-osiota ei ole."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovelluksesta ei mainita sivustolla missään."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 9402.982499999998,
+    "cls": 0.001259347924192868,
+    "tbt_ms": 1161.1495
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja rengasvalikoimasta näkyviä hintoja suoraan etusivulla useista merkeistä ja malleista",
+    "Joustavat rahoitusvaihtoehto Vianor Tilillä (10 kuukauden koroton maksuaika)",
+    "Kattava toimipisteverkko koko Suomeen sekä online-ajanvaraus järjestelmä"
+   ],
+   "kehityskohteet": [
+    "Mobiilisovellusta ei ole saatavilla palveluiden varaamisen helpottamiseksi",
+    "Varsinaista FAQ tai UKK-osiota sivustolla ei ole, asiakkaat joutuvat etsimään tietoa artikkelista",
+    "Yksityisasiakkaiden sähköpostiosoite ei näy etusivulla, vain palaute-lomake on käytettävissä"
+   ],
+   "yhteenveto": "Vianor on yksi Suomen suurimmista renkaaliikkeiden ketjuista, joka tarjoaa kattavan verkkokaupan rengaille ja autohuoltopalveluille. Rengashintoja, asennuspalvelun hintoja ja rengashotellin palveluita on näkyvissä ilman kirjautumista. Online-ajanvaraus on helppokäyttöinen, ja toimipisteet sijaitsevat laajasti eri puolilla maata. Kattavat maksuaikaoptiot parantavat saavutettavuutta."
+  },
+  {
+   "slug": "motonet",
+   "nimi": "Motonet Rengaspalvelut",
+   "domain": "motonet.fi",
+   "omistaja": "Motonet Oy — suomalainen perheyritys (Broman Group)",
+   "y_tunnus": "0699457-9",
+   "rekisteroity": 1988,
+   "score": 68.4,
+   "pillars": {
+    "digitaalinen": 67.3,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rengaspalvelut kuvataan yksityiskohtaisesti (rengashotellit, säilytys, vaihto), mutta kunkin palvelun hinta- tai tuotehinnat eivät ole näkyvissä sivuilla — verkkokauppaan tai hinnaston linkki puuttuu."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan rengashotellin palveluihin kuuluvan 'rengasyhdistelmän alle laitto, rengaspainevalon kuittaus, alta otettujen renkaiden koneellinen pesu, ilmanpaineiden tarkastus sekä vakuutus', mutta eurohintoja ei ole näkyvissä."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Voit myös itse varata ajan verkossa haluamaasi ajankohtaan' mainitaan rengaspalvelu-sivulla, ja ajanvaraus on mainittu mahdolliseksi, mutta suora linkki verkkovaraukseen puuttuu etusivulta."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 33 tavaratalopaikkakuntaa on listattu täydellisinä osoitteina tavaratalot-sivulla (Espoo Hannus, Hämeenlinna, Helsinki Konala/Roihupelto jne.). Aukioloajat mainitaan näiden paikkakuntien kohdalla, mutta tarkentamisen vuoksi asiakkaita ohjataan tavaratalot-sivulle."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy missään kerätyistä sivuista (etusivu, rengaspalvelut, asiakaspalvelu, tavaratalot, korjaamot)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei ole linkkejä riippumattomiin arvioihin tai reviews-sivustoihin — ei Google Reviews, Trustpilot tai vastaavaa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Keskitetty asiakaspalvelun numero 030 621 20 näkyy asiakaspalvelu-sivulla ja muilla sivuilla. Mainitaan, että tavaratalon suoranumeroon ei voi soittaa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@motonet.fi on näkyvissä asiakaspalvelu-sivulla ja muilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu on mainittu asiakaspalvelu-sivulla: 'Chat on auki ma-pe klo 8:00-19:45, la 9:00-17:45 ja su 10:00-17:45.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat ma-pe klo 9-17, la klo 10-16, su ei puhelinpalvelua on näkyvissä. Tavaratalojen yksittäisiä aukioloaikoja ei mainittu yksityiskohtaisesti."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja UKK-osio asiakaspalvelu-sivulla sisältää Q&A-muodossa vastauksia maksuista, toimitustavoista, huollosta, varauksista, palautuksista ja muista yleisistä kysymyksistä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 91,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 21192.463499999998,
+    "cls": 0.001181109918518179,
+    "tbt_ms": 9393.499999999985
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja tavarataloverkko 33 paikkakunnalla toimipisteet ja osoitteet selkeästi esillä",
+    "Kattava rengaspalvelun kuvaus: kausisäilytys, renkaanvaihto, aurauskulmien tarkistus ja säätö",
+    "Monikanavainen asiakaspalvelu: chat ma-pe klo 8:00-19:45 ja la-su, puhelin 030 621 20, sähköposti asiakaspalvelu@motonet.fi"
+   ],
+   "kehityskohteet": [
+    "Renkaiden myyntihinnat eivät ole nähtävissä verkkokaupassa — harvoja konkreettisia hintoja (esim. renkaanvaihdosta tai säilytyksestä) julkaisella",
+    "Ajanvaraus rengaspalveluihin mainitaan mahdolliseksi, mutta linkkiä verkkovaraukseen ei löydy etusivulta — edellyttää syvempää navigointia",
+    "Y-tunnus puuttuu kokonaan — yritystietojen löytäminen vaatii ulkopuolisen lähteen käyttöä"
+   ],
+   "yhteenveto": "Motonet on laajasti Suomessa toimiva autovaraosien ja -tarvikkeiden ketju, joka tarjoaa rengaspalveluja useammalla paikkakunnalla. Sivusto kuvaa palvelut kattavasti ja tarjoaa monikanavaisen asiakaspalvelun, mutta konkreettisia hintoja renkaiden myyntiin tai asennukseen ei ole julkisesti esillä, eikä Y-tunnus ole nähtävissä."
+  },
+  {
+   "slug": "euromaster",
+   "nimi": "Euromaster",
+   "domain": "euromaster.fi",
+   "omistaja": "Michelin — valmistajan oma ketju",
+   "y_tunnus": "0711042-1",
+   "rekisteroity": 1988,
+   "score": 64.6,
+   "pillars": {
+    "digitaalinen": 59.2,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 69.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "70/100",
+       "paino": 30,
+       "pisteet": 70,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät konkreettiset tuotteen hinnat (esim. Michelin PremiumContact 7 alkaen 112,50€, Nokian Hakka Green 3 alkaen 95,01€, BFGoodrich Advantage 2 alkaen 95,01€, Yartu ZuperEco Z-107 alkaen 46,57€)."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnasto-sivu ei lataudu verkosta. Rengashotellin säilytyshinnat ovat alueellisia ja saatavilla vain pyytämällä tarjousta (\"Euromasterin rengashotellin alueellisen hinnan saat selville valitsemalla toimipisteesi ja pyytämällä tarjouksen\")."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivulla selvästi kerrotaan \"Voit varata ajan itse helposti verkkopalvelussamme lukuisiin autohuollon palveluihin ja rengaspalveluihin.\" Myös puhelinvarauksesta mainitaan."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelupisteet-sivulla mainitaan 19 aluetta (Etelä-Karjala, Lappi, Uusimaa jne). Asiakaspalvelun aukioloajat: ma-pe 8-18 (puhelinnumero 0207 700 800), hallinnon aukioloajat: ma-pe 8-16."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtiön nimi mainitaan useassa kohdassa: \"Suomen Euromaster Oy, Nuolihaukantie 5, 28220 Pori.\" Etusivulla tekstissä sanotaan \"Copyright 2024 Suomen Euromaster Oy\"."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelussa valtakunnallinen numero 0207 700 800 (ma-pe 8-18) näkyy selvästi. Lisäksi hallinnon numero 02 6340 600 (ma-pe 8-16) mainitaan."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 70,
+    "seo": 85,
+    "best_practices": 92,
+    "lcp_ms": 15352.967,
+    "cls": 0,
+    "tbt_ms": 2062.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja palveluverkko yli 80 toimipisteellä ympäri Suomen",
+    "Ajanvaraus mahdollinen sekä verkossa että puhelimitse",
+    "Rengashotellin säilytyspalvelu kaikkialla saatavilla, sisältää vakuutuksen"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnastosta ei ole saatavilla tietoja verkossa, hintoihin pitää pyytää tarjousta",
+    "Asennushintojen ei ole julkisesti ilmoitettuja, vaatii yhteydenoton",
+    "Ei sähköpostiosoitetta julkaistussa osassa, vain puhelinyhteystiedot"
+   ],
+   "yhteenveto": "Euromaster on Suomen suurin rengasliikkeketju, jolla on noin 80 toimipistettä koko maassa. Renkaat ovat hinnoiteltuja verkkokaupassa, mutta asennuspalvelun hinnat on saatavilla vain tarjouspyynnöin. Ajanvaraus onnistuu verkossa sekä puhelimitse, ja rengashotellin palvelu (renkaiden säilytys, pesu, kuntotarkastus) on tarjolla kaikissa toimipisteissä alueellisesti hinnoiteltuna."
+  },
+  {
+   "slug": "rengascenter",
+   "nimi": "RengasCenter",
+   "domain": "rengascenter.fi",
+   "omistaja": "Yrittäjäomisteinen ketju (60+ liikettä) — ei valmistajan omistama",
+   "y_tunnus": "0782719-0",
+   "rekisteroity": 1990,
+   "score": 63.8,
+   "pillars": {
+    "digitaalinen": 80.3,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "59/100",
+       "paino": 40,
+       "pisteet": 59,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rengaskatalogissa näkyy lukuisia rengas- ja merkkimalleja (Barum, Continental, Dynamo jne.), mutta yksittäiset hinnat ilmestyvät vain JavaScript-renderöinnin jälkeen. Staattisessa HTML:ssä näkyy vain \"Katso tiedot\" -linkit."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rengashotelli-sivulla sanotaan \"Rengashotellin hinta määräytyy paikallisen RengasCenter liikkeen mukaan.\" Asennuksen hintaa ei mainita missään yleisellä tasolla."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatioon kuuluu \"Ajanvaraus\"-painike, mutta siihen liittyvää sivua ei löytynyt (HTTP 404 /ajanvaraus/). Varaus edellyttää puhelinkontaktia."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /liikkeet/ -sivulla näkyvät kaikki 60+ toimipiste täydellisin tiedoin: osoitteet, puhelinnumerot, sähköpostit ja detaljoidut aukioloajat jokaiselle liikkeelle."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainita missään luetulla sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolmannen osapuolen arvioita tai sertifiointeja ei näy sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääkonttorin numero 03 8710 811 näkyy kaikilla sivuilla. Lisäksi jokaisen 60+ liikkeen omia numeroja näkyy liikkeet-sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite myyntirengascenter.fi näkyy sivuston Footer-osassa kaikilla sivuilla (muoto: myynti rengascenter.fi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chatti tai live-chat -palvelua ei mainita missään."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla 60+ toimipisteillä on listattu omat aukioloajat (ma-pe 08:00-17:00, la-su suljettu on yleisin malli, mutta vaihtelee)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Extensive FAQ-osiot löytyvät /renkaat-ja-vanteet/henkiloauton-renkaat/, /palvelut/rengashotelli/ ja muista sivuista. Esim. kysymykset renkaiden vaihdosta, säilytyksestä, valinnasta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainitaan missään."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 59,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 5563.243000000002,
+    "cls": 0.02415421564432549,
+    "tbt_ms": 448.50000000000045
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja ja selkeä toimipisteiden luettelo kaikilla aukioloajoilla ja yhteystiedoilla",
+    "Kattava rengaskatalogisovellus autojen malleittain haun kanssa",
+    "Yksityiskohtainen rengashotelli- ja palveluseloste usein kysyttyjen kysymysten osalta"
+   ],
+   "kehityskohteet": [
+    "Renkaiden hinnat näkyvät vain dynaamisesti ladatussa sisällössä, ei staattisessa HTML:ssä",
+    "Asennuksen ja rengashotellin hinnat eivät ole julkisesti näkyvissä, vain \"vaihtelevat paikan mukaan\"",
+    "Verkkoajanvaraus puuttuu kokonaan; varaus vaatii puhelinkontaktin tai paikan päälle minnä"
+   ],
+   "yhteenveto": "RengasCenter on suomalainen yrittäjäomisteinen rengasliikeketju, joka palvelee yli 60 toimipisteellä ympäri Suomea. Sivusto tarjoaa selkeän rengashakusovelluksen ja kattavat tiedot palveluista, mutta hintatiedot vaativat dynaamisesti ladattavaa sisältöä ja verkkoajanvaraus puuttuu kokonaan."
+  },
+  {
+   "slug": "firststop",
+   "nimi": "First Stop",
+   "domain": "firststop.fi",
+   "omistaja": "Bridgestone Europe NV/SA, Suomen sivuliike — valmistajan oma ketju",
+   "y_tunnus": "1806488-9",
+   "rekisteroity": 2003,
+   "score": 62.1,
+   "pillars": {
+    "digitaalinen": 59.7,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 63.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "78/100",
+       "paino": 30,
+       "pisteet": 78,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulle on linkki 'Osta renkaat' ja myymälöiden yhteydessä 'Osta renkaat verkosta', mutta nämä eivät johda hintaluetteloon. Rengaskoon mukaan voi hakea, mutta hinnat näkyvät vain varausjärjestelmässä tai yhteydenotolla."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Renkaanvaihto- ja rengashotelli-sivuilla kerrotaan palveluista laajasti, mutta ei mainita niiden hintoja. Sanotaan, että 'Hinta, jonka saat on se hinta, minkä maksat', mutta konkreettisia eurohintoja ei ole."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan '24/7 turvallinen ja helppo varausjärjestelmä' ja 'onlinevaraus'. Jokaisen myymälän sivulla on 'Varaa renkaiden vaihto' -nappi, joka johtaa verkkoperustaiseen varausjärjestelmään."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälät-sivulla lueteltu yli 60 toimipistettä eri puolilla Suomea osoitteineen ja puhelinnumeroineen. Yksittäisen myymälän sivulla näkyy yksityiskohtaiset aukioloajat, esim. First Stop Herttoniemellä ma-pe 8:00-17:00, la-su suljettu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy verkkosivuilla missään."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella myymälällä näkyy Google-arvioita: First Stop Herttoniemellä 3.9 tähteä sekä asiakkaiden tekstiarvioit. Etusivulla mainitaan 'Google Rating keskiarvo: 4.6' ja 'Yli 10,000 arvostelua'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikkien myymälöiden yhteydessä on puhelinnumerot. Esim. First Stop Herttoniemi +358 10 4239550. Myymälöiden listassa yhteensä yli 60 numeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Meistä-sivulla sähköpostiosoite suvi.tasanen@firststop.eu kumpppanuuksiin ja rekrytoinnin yhteystiedoiksi. Yksittäisen myymälän sivulla näkyy myymälän oma sähköposti, esim. First Stop Herttoniemella helsinki@aallonauto.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yksittäisten myymälöiden sivuilla näkyy aukioloajat selkeästi listattuna. Esimerkkisivulla First Stop Herttoniemi: ma-to ja pe 8:00-17:00, la-su suljettu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 78,
+    "seo": 92,
+    "best_practices": 54,
+    "lcp_ms": 19785.40425,
+    "cls": 0.04015879076819834,
+    "tbt_ms": 4775.95175
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja ja selkeä myymäläverkko yli 60 toimipisteellä Suomessa, joista jokaisen yhteystiedot ja aukioloajat löytyvät",
+    "24/7 online-varausjärjestelmä renkaiden vaihdolle ja muille palveluille, helppo käyttää ilman yhteydenottoa",
+    "Google-arvioihin perustuva riippumaton arviointijärjestelmä (4.6 tähteä, yli 10 000 arvostelua) näkyvissä kaikilla myymälillä"
+   ],
+   "kehityskohteet": [
+    "Renkaan ja asennuspalvelun hintoja ei ole julkisesti verkkosivuilla esillä, hinnat näkyvät vain varausjärjestelmässä tai yhteydenotolla",
+    "Rengashotellin säilytyshintoja ei ilmoiteta verkkosivuilla, ainoastaan palvelun kuvaus ilman hintatieto",
+    "UKK-osio puuttuu kokonaan; asiakkaiden yleisiin kysymyksiin vastaava informaatio on vain tekstimuodossa palvelusivuilla"
+   ],
+   "yhteenveto": "First Stop on laaja, eurooppalaisiin verkostoihin kuuluva renkaaliike, jolla on yli 60 toimipistettä Suomessa. Palvelut ovat monipuoliset ja varausjärjestelmä toimii verkon kautta 24/7. Kuitenkin renkaille ja palveluille hinnat eivät ole julkisesti saatavilla sivustolla, vaan ne ilmoitetaan vasta varausvaiheessa, mikä heikentää läpinäkyvyyttä."
+  },
+  {
+   "slug": "bestdrive",
+   "nimi": "BestDrive",
+   "domain": "bestdrive.fi",
+   "omistaja": "Continental-tuettu ketju (ent. Rengasmaailma/Rengasmarket)",
+   "y_tunnus": "1095378-8",
+   "rekisteroity": 1997,
+   "score": 58.8,
+   "pillars": {
+    "digitaalinen": 70.4,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Renkaiden hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näytetään kolme rengasmallilla hintoja: BestDrive Summer 2 alkaen 91,00 €/kpl, Continental PremiumContact 7 alkaen 118,00 €/kpl, Continental UltraContact NXT alkaen 162,00 €/kpl."
+      },
+      {
+       "mittari": "Asennuksen ja rengassäilytyksen hinnat kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Renkaanvaihto- ja rengashotelli-sivuilla kuvataan palvelut yksityiskohtaisesti, mutta hintoja ei mainita. Liikkeelle on yhteydenottolomake, mutta ei julkista hinnastoa."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman yhteydenottoa",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole online-ajanvaraukseen omistettua sivua. Helsinki-liikkeellä on yhteydenottolomake, mutta se on vapaamuotoinen, ei ajanvarausta."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Liikkeet-sivulla luetellaan noin 30 liikettä (Kuusamo, Helsinki, Joensuu, Tampere, Turku, jne.). Kunkin liikkeen sivulla näytetään aukioloajat, esim. Helsinki: ma-pe 08:00–17:00, la-su suljettu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näytetään 'BestDrive Finland Oy' nimi ja osoite (Hevosenkenkä 3, 02600 Espoo), mutta Y-tunnusta ei mainita pääsivulla. Helsinki-liikkeen sivulla näytetään paikallinen Y-tunnus 3561189-9."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla näytetään keskus@bestdrive.fi. Helsingin liikkeellä oma sähköpostiosoite myynti@bestdrivehelsinki.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6677.7779999999975,
+    "cls": 0.24683148809515018,
+    "tbt_ms": 2023.4630000000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Renkaat näytetään selkeillä hinnoilla etusivulla, online-myynti mahdollinen",
+    "Laaja liikkeitä verkosto (noin 30 liikettä) ja niiden aukioloajat selvästi näytetään",
+    "Palvelut kuvattu yksityiskohtaisesti (renkaanvaihto, rengashotelli, tasapainotus, paikkaus)"
+   ],
+   "kehityskohteet": [
+    "Renkaanvaihdon ja rengashotellin hinnat eivät ole julkisesti esillä, vaan neuvotteluasia",
+    "Online-ajanvaraus puuttuu kokonaan, varaus vaatii yhteydenoton puhelimitse tai sähköpostilla",
+    "Pääyhtiön puhelinnumeroa ei ole esillä, vain liikkeiden yhteystiedot saatavilla"
+   ],
+   "yhteenveto": "BestDrive on Continentalin tukema kansallinen rengasliike ketju, jolla on noin 30 liikettä ympäri Suomea. Renkaiden hinnat näytetään selkeästi verkkosivulla, ja jokaisen liikkeen aukioloajat ja yhteystiedot ovat löydettävissä. Kuitenkin palvelun hinnat (renkaanvaihto, rengashotelli) ja online-ajanvaraus puuttuvat, mikä vaatii asiakkaalta suoraa yhteydenottoa liikkeeseen."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Renkaiden hinnat julkisesti esillä (30), asennuksen ja rengassäilytyksen hinnat kerrottu (20), ajanvaraus verkossa ilman yhteydenottoa (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

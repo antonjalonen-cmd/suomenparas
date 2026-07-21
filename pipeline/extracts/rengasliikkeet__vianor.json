@@ -1,0 +1,55 @@
+{
+  "slug": "vianor",
+  "fetched_ok": [
+    "https://www.vianor.fi",
+    "https://www.vianor.fi/rengaspalvelut/rengashotelli/",
+    "https://www.vianor.fi/rengaspalvelut/renkaiden-vaihto/",
+    "https://www.vianor.fi/vianor/yhteystiedot/",
+    "https://www.vianor.fi/vianor/nain-ostat-palvelun/",
+    "https://www.vianor.fi/autoiluvinkit/rengasvinkit/",
+    "https://www.vianor.fi/palvelupisteet/"
+  ],
+  "renkaiden_hinnat_esilla": "kylla",
+  "asennus_ja_sailytys_hinnat": "kylla",
+  "ajanvaraus_verkossa": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": 42,
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Laaja rengasvalikoimasta näkyviä hintoja suoraan etusivulla useista merkeistä ja malleista",
+    "Joustavat rahoitusvaihtoehto Vianor Tilillä (10 kuukauden koroton maksuaika)",
+    "Kattava toimipisteverkko koko Suomeen sekä online-ajanvaraus järjestelmä"
+  ],
+  "kehityskohteet": [
+    "Mobiilisovellusta ei ole saatavilla palveluiden varaamisen helpottamiseksi",
+    "Varsinaista FAQ tai UKK-osiota sivustolla ei ole, asiakkaat joutuvat etsimään tietoa artikkelista",
+    "Yksityisasiakkaiden sähköpostiosoite ei näy etusivulla, vain palaute-lomake on käytettävissä"
+  ],
+  "yhteenveto": "Vianor on yksi Suomen suurimmista renkaaliikkeiden ketjuista, joka tarjoaa kattavan verkkokaupan rengaille ja autohuoltopalveluille. Rengashintoja, asennuspalvelun hintoja ja rengashotellin palveluita on näkyvissä ilman kirjautumista. Online-ajanvaraus on helppokäyttöinen, ja toimipisteet sijaitsevat laajasti eri puolilla maata. Kattavat maksuaikaoptiot parantavat saavutettavuutta.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Etusivulla näkyvät rengashinnat eri merkeille ja malleille, esim. Nokian Hakka Black 3 alkaen 143,50 €/kpl ja 4 kpl asennettuna alkaen 689,00 €.",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Renkaanvaihto alkaen 42,00 € (palvelun sivulla), rengashotelli alkaen 37,00 € per kausi (rengashotelli-sivulla näkyvät hinnat).",
+    "ajanvaraus_verkossa": "HAVAINTO: Palveluiden ostamisen sivulla löytyy 5-vaiheinen ohje online-ajanvarauksesta: valitse palvelu, ajoneuvotyyppi ja toimipiste, syötä rekisteritunnus, valitse aika kalenterista, ja maksa.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Etusivulla listattu yli 100 Vianor-toimipistettä eri kaupungeissa (Espoo, Helsinki, Tampere, Turku, Kuopio jne.). Aukioloajat ma-su 7-21 mainittu asiakaspalvelua kuvaavassa osiossa.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy Y-tunnus 1463013-4 (Vianor Oy).",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 401 401 (liittymäsopimuksen mukainen hinta) näkyy etusivulla ja yhteystiedot-sivulla.",
+    "email_esilla": "HAVAINTO: Sähköposteja on saatavilla ainoastaan yritysasiakkaille ([email protected]) ja erilaisiin tekniikka-asioihin. Yksityisasiakkaiden on käytettävä palaute-lomaketta.",
+    "chat_mainittu": "HAVAINTO: 'Näin ostat palvelun' -sivulla mainitaan 'Saat myös aina apua chatista'.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat ma-su 7-21 näkyvät etusivulla ja yhteystiedot-sivulla.",
+    "ukk_osio": "HAVAINTO: Sivustolla on 'Rengasvinkit' -osio, joka sisältää artikkeleita aiheista kuten renkaiden valinta, säilytys ja huolto, mutta varsinaista Q&A formaatteja FAQ/UKK-osiota ei ole.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovelluksesta ei mainita sivustolla missään.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näkyvät asiakasarviot (keskiarvosanalla 4-5 tähteä) ovat Vianorin omasta arvostelujärjestelmästä, ei riippumattomasta lähteestä kuten Trustpilot tai Google Reviewsista."
+  }
+}

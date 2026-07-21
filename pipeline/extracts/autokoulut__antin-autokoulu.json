@@ -1,0 +1,53 @@
+{
+  "slug": "antin-autokoulu",
+  "fetched_ok": [
+    "https://antinautokoulu.fi/",
+    "https://antinautokoulu.fi/hinnasto/",
+    "https://antinautokoulu.fi/toimipaikat/",
+    "https://antinautokoulu.fi/asiakaspalvelu/",
+    "https://antinautokoulu.fi/nain-opetus-etenee/",
+    "https://antinautokoulu.fi/sopimusehdot/",
+    "https://antinautokoulu.fi/tietosuojaseloste/"
+  ],
+  "kurssihinnat_esilla": "kylla",
+  "ilmoittautuminen_verkossa": "kylla",
+  "kurssisisalto_kuvattu": "kylla",
+  "toimipisteet_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "b_kortti_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "OmaOpettaja-malli tarjoaa henkilökohtaisen opetuksen ja jatkuvan tuen koko autokoulumatkalla",
+    "Laaja toimipaikkaverkko (33 toimipistettä) ja ajotuntipysäkkien joustavuus helpottavat opiskelua",
+    "Monipuoliset maksutavat (verkkomaksu, lasku, SVEA-erämaksu jopa 36 kk:n ajalle) tekevät kurssista saavutettavan"
+  ],
+  "kehityskohteet": [
+    "B-kortin kokonaiskurssin hinta ei ole selkeästi näkyvissä etusivulla, vaatii navigointia hinnasto-sivulle",
+    "Henkilöautokurssien yksityiskohtainen sisältökuvaus puuttuu (ajotuntien lukumäärä, teorian laajuus)",
+    "Ilmoittautumissivulle pääsy ei ole suoraa linkkiä vaan piilotettu nappula, mikä vaikeuttaa löytämistä"
+  ],
+  "yhteenveto": "Antin Autokoulu on valtakunnallinen autokouluketju, joka tarjoaa kattavat opetus- ja koulutuspalvelut Suomessa 33 toimipisteessään. Sivusto esittelee hyvin OmaOpettaja-opetusmallin ja toimipisteiden verkoston, mutta B-kortin kokonaishinta ja yksityiskohtainen kurssisisältö vaativat käyttäjältä lisänavigointia. Asiakaspalvelun yhteystiedot, maksutavat ja joitakin usein kysyttyjä kysymyksiä ovat helposti saatavilla.",
+  "evidence": {
+    "kurssihinnat_esilla": "HAVAINTO: Hinnasto-sivu näyttää B-kortin yksittäisten ajotuntien hinnat (1 tunti 99 €) sekä lisäpalvelut, mutta kokonaiskurssin peruspakettihinta (B-kortti) puuttuu sivustolta.",
+    "ilmoittautuminen_verkossa": "HAVAINTO: Etusivulla on näkyvissä 'Ilmoittaudu Antin Autokouluun' -nappula, joka mahdollistaa verkko-ilmoittautumisen. Asiakaspalvelu-sivulla mainitaan ilmoittautumislomake ja -ehdot.",
+    "kurssisisalto_kuvattu": "HAVAINTO: Etusivulla kuvataan OmaOpettaja-malli, joka sisältää aloituskeskustelun, henkilökohtaisen ajotuntisuunnitelman ja teoriatunnit. 'Näin opetus etenee' -sivu linkittää eri kurssityyppeihin (henkilöauto, mopo, moottoripyörä), mutta yksityiskohtaiset tuntimäärät puuttuvat.",
+    "toimipisteet_ja_yhteystiedot": "HAVAINTO: Toimipisteet-sivu listaa 33 toimipaikkaaa (Espoo, Helsinki, Hollola, Jyväskylä, Järvenpää jne.). Asiakaspalvelu-sivu ilmoittaa puhelin 044 022 1265 (ma-to 10.00-18.00, pe 10.00-15.00) ja sähköposti info@antinautokoulu.fi.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteella ilmoitetaan Antin Autokoulu Oy:n Y-tunnus (2763674-6) ja osoite (Isokatu 11 C 14, 90100 Oulu).",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla on Google-arvioita näkyvissä (19 arvostelua, teksti kuten 'Paras autokoulu!', 'Oli TODELLA hyvä, suosittelen'). Arviot ovat selkeästi näkyvissä sivulla.",
+    "puhelin_esilla": "HAVAINTO: Puhelin 044 022 1265 näkyy sivuston alatunnisteessa ja asiakaspalvelu-sivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@antinautokoulu.fi näkyy sivuston alatunnisteessa ja asiakaspalvelu-sivulla.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'sivun alanurkassa olevan chatin kautta' palvelu aukioloaikojen puitteissa (ma-to 10.00-18.00, pe 10.00-15.00).",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu-sivulla ilmoitetaan valtakunnallisen asiakaspalvelun aukioloajat ma-to 10.00-18.00, pe 10.00-15.00. Simulaattorivalvomo: ma-to 8.00-20.00, pe 8.00-18.00, la 10.00-14.00."
+  }
+}

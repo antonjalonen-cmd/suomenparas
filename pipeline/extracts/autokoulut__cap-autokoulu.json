@@ -1,0 +1,54 @@
+{
+  "slug": "cap-autokoulu",
+  "fetched_ok": [
+    "https://cap.fi/",
+    "https://cap.fi/hinnasto/",
+    "https://cap.fi/toimipisteet/",
+    "https://cap.fi/asiakaspalvelu/",
+    "https://cap.fi/usein-kysyttya/maksutavat-ja-ehdot/",
+    "https://cap.fi/yhtio/",
+    "https://cap.fi/sopimusehdot/"
+  ],
+  "kurssihinnat_esilla": "kylla",
+  "ilmoittautuminen_verkossa": "kylla",
+  "kurssisisalto_kuvattu": "osittain",
+  "toimipisteet_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "b_kortti_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja toimipisteverkko (135 toimipistettä) ja selkeä yhteystietojen esittäminen jokaiselle paikkakunnalle",
+    "Monipuoliset maksuvaihtoehdot (verkkomaksu, osamaksu 36 kk asti, lasku) ja selkeä hinnan laskemisen apuväline maksusivulla",
+    "CAP-äppi ja verkko-oppimisympäristö mainitaan, mikä viestii modernista oppimisympäristöstä"
+  ],
+  "kehityskohteet": [
+    "B-kortin peruskurssin kokonaishinta ei ole selvästi esillä hinnastosivulla – näkyy vain yksittäisten ajotuntien hinnat",
+    "Kurssin sisältöä (ajotuntien tarkkaa määrää, teoriatuntien rakennetta, maksuerätietojen yhteyttä kurssin etenemiseen) ei kuvata riittävästi",
+    "Usein kysytyt kysymykset -osio ja ilmoittautumissivut palauttavat 404-virheitä, mikä heikentää asiakkaan navigointi-kokemusta"
+  ],
+  "yhteenveto": "CAP-Autokoulu on Suomen suurin autokoulu, joka tarjoaa kurssihinnat ja ilmoittautumisen selkeästi verkossa. Toimipisteverkko on laaja (135 paikkaa ympäri Suomea) ja yhteystiedot löytyvät helposti. Maksuvaihtoehdot ovat monipuoliset ja hyvin selitettyjä. Sivusto kuitenkin kaipaa selkeyttä kurssin sisällön kuvaamiseen ja B-kortin perushintaa on vaikea löytää yksittäisten ajotuntien hintojen seasta.",
+  "evidence": {
+    "kurssihinnat_esilla": "HAVAINTO: Hinnastossa näkyvät yksittäisten ajotuntien hinnat (B-kortti 1 ajotunti 98 €, 2 ajotuntia 189 €, 3 ajotuntia 269 €, 5 ajotuntia 409 €), mutta peruskurssin kokonaishinta ei ole suoraan näkyvissä.",
+    "ilmoittautuminen_verkossa": "HAVAINTO: Maksutavat-sivulla (cap.fi/usein-kysyttya/maksutavat-ja-ehdot/) kehotetaan valitsemaan kurssi ja aloittamaan ilmoittautuminen, verkkomaksu mainitaan, ja sopimusehdoissa mainitaan tilauksen tekeminen cap.fi-nettisivuilla.",
+    "kurssisisalto_kuvattu": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan teoriatunnit, ajotunnit ja simulaattoriajotunnit, mutta tarkkaa ajotuntien määrää, teorian rakennetta tai maksuerätietojen yhteyttä kurssin etenemiseen ei kuvata.",
+    "toimipisteet_ja_yhteystiedot": "HAVAINTO: Toimipisteet-sivulla listataan kaikki 135 toimipistettä osoitteella, puhelinnumerolla, sähköpostilla ja aukioloajoilla.",
+    "y_tunnus_esilla": "HAVAINTO: Mikään ladattu sivu ei näytä Y-tunnusta. Yrityksen nimi CAP-Group Oy mainitaan, mutta Y-tunnus puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy linkkejä riippumattomiin arviointipalveluihin tai asiakasarvioihin, kuten Google Reviews tai Trustpilot.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-sivulla näkyy puhelin 050 913 0300 ja molempiin toimipisteitä listataan puhelin numeroita.",
+    "email_esilla": "HAVAINTO: Asiakaspalvelu-sivulla näkyy sähköposti asiakaspalvelu@cap.fi ja funktionaaliset sähköpostit (esim. laskutus@cap.fi) eri toimipisteille.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Voit olla yhteydessä myös nettisivujemme chat-palvelun avulla aukioloaikojen puitteissa'.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu-sivulla näkyy ma-to 10.00-18.00, pe 10.00-15.00, ja toimipisteet-sivulla jokaisella toimipisteellä on aukioloajat.",
+    "ukk_osio": "HAVAINTO: Maksutavat-sivulla on otsikko 'Usein kysyttyja kysymyksia maksamisesta' ja kysymyslistaa, mutta erillinen UKK-sivu palauttaa 404-virheen."
+  }
+}

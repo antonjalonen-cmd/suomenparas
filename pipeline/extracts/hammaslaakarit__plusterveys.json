@@ -1,0 +1,51 @@
+{
+  "slug": "plusterveys",
+  "fetched_ok": [
+    "https://www.plusterveys.fi/",
+    "https://www.plusterveys.fi/hammashoito/hinnasto/",
+    "https://www.plusterveys.fi/hammashoito/",
+    "https://www.plusterveys.fi/hammashoito/asiakkaalle/",
+    "https://www.plusterveys.fi/tietoa-meista/",
+    "https://www.plusterveys.fi/hammashoito/pluspalvelu/",
+    "https://www.plusterveys.fi/ajankohtaista/suunterveys-ja-perussairaudet/",
+    "https://www.plusterveys.fi/hammashoito/palvelut/",
+    "https://www.plusterveys.fi/tietoa-meista/ota-yhteytta/"
+  ],
+  "vastaanottohinnat_esilla": "kylla",
+  "ajanvaraus_ilman_kirjautumista": "kylla",
+  "kela_korvaus_kerrottu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "tarkastus_hinta_eur": 81,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattava ja yksityiskohtainen hinnasto kaikille hammashoidon toimenpiteille, Kela-korvauksien jälkeiset hinnat selkeästi esillä",
+    "Verkkoajanvaraus PlusPalvelun kautta toimii ilman kirjautumista, ajanperuminen 24h ennen käyntiä",
+    "Laaja palveluverkosto noin 80 hammaslääkäriasemalla ympäri Suomea, monipuolinen palveluvalikoima perushoidosta erikoispalveluihin"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä sivustolla, yksityiskohtaiset aukioloajat toimipisteittäin vaativat erilliseen sivuun siirtymistä",
+    "Chat-palvelua ei mainittu, asiakastuki näyttäisi olevan puhelin- ja sähköpostipohjainen",
+    "Yksittäisten toimipisteiden tiedot (osoitteet, puhelinnumerot, aukioloajat) vaativat klikkaamisen lisätiedoiksi, ei suoraan näkyvissä"
+  ],
+  "yhteenveto": "PlusTerveys on yksi Suomen suurimmista yksityisistä hammashoitopalvelujen tuottajista, perustettu 1978, jonka sivusto tarjoaa selkeän hinnaston ja toimivat verkkoajanvarauspalvelut. Kela-korvaustiedot ovat hyvin dokumentoituja hinnastossa, mutta yksityiskohtaiset aukioloajat ja yhteystiedot vaativat navigointia ja klikkaamista.",
+  "evidence": {
+    "vastaanottohinnat_esilla": "HAVAINTO: Hinnasto-sivulla esitellään yksityiskohtainen viitehinnasto kaikille hammashoidon toimenpiteille (hammastarkastus 81 €, hampaan paikkaus 101,90–251,70 €, hammasimplantti alk. 2600 € jne.), hinnat Kela-korvauksen jälkeen eritelty omassa sarakkeessa.",
+    "ajanvaraus_ilman_kirjautumista": "HAVAINTO: PlusPalvelu-sivulla kuvataan verkossa ajanvaraus: 'Pysyt hallita ja muuttaa omia ajanvarauksiasi sekä varata myös uusia aikoja' tunnistautumisen jälkeen. Pääsivulla 'Varaa aika' -painikeet näkyvät ilman sisäänkirjautumista.",
+    "kela_korvaus_kerrottu": "HAVAINTO: Hinnasto-sivun jokaisessa toimenpiteessä on erillinen 'Hinta Kela-korvauksen jälkeen' -sarake. Asiakkaalle-sivulla mainitaan 'PlusTerveyden viitehinnasto kattaa yleisesti tarjoamamme hammashoidon toimenpiteet ja niiden viitehinnat, hinnat kela-korvauksien jälkeen sekä muut vastaanottokäynteihin liittyvät veloitukset.'",
+    "riippumaton_arvio": "HAVAINTO: 'Tietoa meistä' -sivulla mainitaan 'Asiakastyytyväisyys 96,8 NPS', mikä osoittaa asiakkaiden tyytyväisyyden mittaamisen.",
+    "puhelin_esilla": "HAVAINTO: 'Ota yhteyttä' -sivulla PlusTerveys Oy:n yhteystiedoissa vaihde 09 351 040.",
+    "email_esilla": "HAVAINTO: 'Ota yhteyttä' -sivulla mainitaan 'Sähköpostiosoittemme ovat muotoa: [email protected]' ja tietosuojavastuuhenkilöt on lueteltu sähköpostiosoitteineen."
+  }
+}

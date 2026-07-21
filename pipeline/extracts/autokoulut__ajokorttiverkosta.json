@@ -1,0 +1,47 @@
+{
+  "slug": "ajokorttiverkosta",
+  "fetched_ok": [
+    "https://ajokorttiverkosta.fi/",
+    "https://ajokorttiverkosta.fi/paikkakunnat/",
+    "https://ajokorttiverkosta.fi/kauppa/",
+    "https://ajokorttiverkosta.fi/tuote/henkiloautokurssi-kattava/",
+    "https://ajokorttiverkosta.fi/ota-yhteytta/"
+  ],
+  "kurssihinnat_esilla": "osittain",
+  "ilmoittautuminen_verkossa": "kylla",
+  "kurssisisalto_kuvattu": "osittain",
+  "toimipisteet_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "b_kortti_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 45,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 50
+  },
+  "vahvuudet": [
+    "Laaja verkko 30+ kaupungissa koko Suomessa, selkeä alueittainen jäsennys",
+    "Monipuolinen kurssivalikoimasta ajokieltoista riskientunnistamiskoulutukseen",
+    "Verkkokauppa mahdollistaa kursseille ilmoittautumisen sähköisesti"
+  ],
+  "kehityskohteet": [
+    "Kurssien hinnat eivät ole staattisesti saatavilla ennen sisäänkirjautumista tai kaupan avautumista",
+    "Kurssin sisällön yksityiskohdat (ajotuntien määrä, teoriasisällön laajuus, maksuerät) puuttuvat tai vaativat sisäänkirjautumista",
+    "Yhteystiedot (puhelin, sähköposti) ovat vain osittain näkyvillä sivustolla"
+  ],
+  "yhteenveto": "Ajokortti Verkosta (NetDriving) on kotimainen autokoulu, jolla on laajat toimipisteet ympäri Suomea. Sivuston vahvuutena on selkeä paikkakuntaluettelo ja monipuolinen kurssivalikoimasta ajokieltojen koulutuksesta riskientunnistamiskoulutukseen. Heikkoutena hintojen saatavuus: kurssihinnat eivät näy staattisesti vaan ne vaativat rekisteröitymisen tai kaupan avautumista, mikä tekee verailusta haastavaa.",
+  "evidence": {
+    "kurssihinnat_esilla": "HAVAINTO: Sivuston verkkokaupassa ja tuotesivuilla (tuote/henkiloautokurssi-kattava) kurssien hinnat näyttävät olevan JavaScript-renderöityjä eivätkä näy staattisesti ladattavassa sisällössä. Hintojen näkemiseksi vaaditaan sisäänkirjautuminen tai kauppaympäristön interaktiivinen käyttö.",
+    "ilmoittautuminen_verkossa": "HAVAINTO: Sivustolla on aktiivinen verkkokauppa (ajokorttiverkosta.fi/kauppa/) josta voi lisätä kursseja ostoskoriin ja lähestulkoon varmasti ilmoittautua verkossa. Kauppaympäristö on käytössä ja kurssilinkit johtavat kauppa-alustalle.",
+    "kurssisisalto_kuvattu": "HAVAINTO: Kurssien nimet ovat selvästi esillä (Henkilöautokurssi, Henkilöautokurssi KATTAVA, EAS-koulutus, RTK), mutta yksityiskohdat kuten ajotuntien lukumäärä, teoriasisällön laajuus ja maksuerät eivät näy staattisesti ladattavassa sisällössä ja vaativat sisäänkirjautumista.",
+    "toimipisteet_ja_yhteystiedot": "HAVAINTO: Sivuston paikkakunnat-osiossa listataan 30+ toimipaikka 8 alueella: Etelä-Pohjanmaa, Kanta-Häme, Keski-Suomi, Pirkanmaa, Pohjanmaa, Pohjois-Karjala, Pohjois-Pohjanmaa, Pohjois-Savo ja Uusimaa. Erityisiä yhteystietoja (puhelinnumero, sähköpostiosoite) ei näy pääsivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy missään ladatussa sivun osassa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy riippumattomia arviota tai asiakkaspalautteiden osaa. Google Reviewsin tai muiden arviointisivustojen linkkejä ei ole näkyvissä."
+  }
+}

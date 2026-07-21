@@ -1,0 +1,1301 @@
+{
+ "slug": "hammaslaakarit",
+ "nimi": "Hammaslääkärit",
+ "nav": "Hammaslääkärit",
+ "h1": "Suomen paras hammaslääkäriketju 2026",
+ "yksikko": "valtakunnallista hammaslääkäriketjua",
+ "lead": "Pisteytimme {n} valtakunnallista yksityistä hammaslääkäriketjua {m} mittarilla. Tärkein kysymys: näkyykö hoidon hinta ennen ajanvarausta?",
+ "meta_title": "Suomen paras hammaslääkäri 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 hammaslääkäriketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Omistus kannattaa tietää:</b> Oral ei ole Mehiläisen omistama, vaan osa sveitsiläisen Jacobs Holdingin Colosseum Dental Groupia. <b>Terveystalo sopi 23.12.2025 ostavansa Hammas Hohteen</b> (88 M€) — kilpailuviranomaisen käsittely oli mittaushetkellä kesken. Jos kauppa toteutuu, kaksi listan kuudesta brändistä on samaa konsernia; tilanne tarkistetaan jokaisella päivityskierroksella. Coronarian emosijoittajalla (Cor Group) on omistusta myös Silmäasemassa (optikot-kategoria).",
+  "<b>Tämä ei ole hoitosuositus.</b> Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia: hintojen näkyvyyttä, ajanvarauksen sujuvuutta ja tavoitettavuutta. Se ei mittaa hoidon laatua eikä hammaslääkäreiden osaamista.",
+  "Hinnat vaihtelevat toimipisteittäin ja toimenpiteittäin; vertailu mittaa kerrotaanko hinnat avoimesti, ei mikä hinta on. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "mehilainen",
+   "nimi": "Hammas Mehiläinen",
+   "domain": "mehilainen.fi",
+   "omistaja": "Mehiläinen Oy — hammashoito on konsernin oma palvelulinja",
+   "y_tunnus": "1927556-5",
+   "rekisteroity": 2004,
+   "score": 84.3,
+   "pillars": {
+    "digitaalinen": 79.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 82.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hammastarkastus 56,00 € (Kela-korvauksen jälkeen), 86,00 € (ilman Kela-korvausta). Sivustolla listataan yli 30 hammaslääketieteellistä palvelua hintatiedoineen, esim. hampaan paikkaus 97-216 €, hammaskiven poisto 122-169 €, kruunu 627-812 €."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkoajanvaraus-palvelussa näkyvät vapaat ajat ilman kirjautumista. Käyttäjä voi selata vapaita aikoja ja palveluita suoraan. Puhelimitse ajanvaraus myös mahdollinen: 010 273 8000."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen palvelun kohdalla näytetään sekä Kela-korvauksella että ilman hinnat. Esim. röntgenkuvalla mainitaan 'Hinta lääkärin lähetteellä Kela-korvauksen jälkeen 80 €'. Poliklinikkamaksusta ilmoitetaan, että yli viiden käynnin jälkeen se on vapaa kalenterivuoden loppuosan ajan."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Seitsemän nimettyä Hammas Mehiläinen -klinikkaa: Nokia (Nuijamiestentie 5), Mikkeli (Porrassalmenkatu 16), Hyvinkää (Hämeenkatu 9, 5.krs), Lohja (Laurinkatu 34), Espoo Iso Omena (Piispansilta 11, 3.krs), Joensuu (Rantakatu 24, 2.kerros). Aukioloajat: ma-pe klo 7.00–20.00, la-su klo 8.00–20.00."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole näkyvillä verkkosivuilla. Sivustoilla mainitaan Mehiläinen Oy, mutta liiketoimintarekisteri- tai yritystunnusta ei listata."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Asiakkaamme suosittelevat Mehiläisen palveluita' sekä 'Asiakkaamme ovat tyytyväisiä palveluihimme', mutta näyttöä numerolla ei anneta. Kolmannen osapuolen arviointisivustoja (esim. Google, Trustpilot) ei ole linkitetty."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hammas Mehiläisen asiakaspalvelun numero 010 273 8000 näkyy useissa paikoissa. Lisäksi yleinen puhelinnumero 010 414 00."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleiset hammaslääkäripalveluja koskevat sähköpostiosoitteet eivät ole näkyvillä. Maininta: 'Mehiläisen asiakaspalvelulla ei ole käytössä yleistä sähköpostiosoitetta', mutta terveyssopimusta koskevaa palveluneuvontaa varten: terveyssopimus@mehilainen.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Digiklinikan chat -asiakaspalveluun' mainitaan olevan käytettävissä ympäri vuorokauden. Myös Facebook-sivuilla päivystetään päivittäin klo 8-16."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näytetään hammaslääkärikohtaisesti: ma-pe klo 7.00–20.00 ja la-su klo 8.00–20.00. Toimipisteissä näytetään myös 'Avoinna klo 19:30 asti' -tyyppisiä sulkemisaikoja."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä suun terveyden palveluista' -osio sisältää kahdeksan kysymys-vastaus-paria, esim. 'Kuinka usein hammastarkastuksessa kannattaa käydä?' ja 'Miten huomioimme hammaslääkäripelon?'"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaMehiläinen-sovellus mainitaan useissa paikoissa. Sovelluksella voi tehdä ajanvarauksen, peruuttaa ajan, hallita omia tietoja ja kommunikoida hoitohenkilökunnan kanssa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3738.5139999999997,
+    "cls": 0.0005590480190271075,
+    "tbt_ms": 3433.0000000000023
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja ja yksityiskohtainen hinnasto kaiken hammashoitoon liittyville palveluille, Kela-korvaukset selkeästi eritellyt",
+    "Monipuoliset yhteystietojen ja asiointitavat: puhelin, chat, OmaMehiläinen-sovellus, soittopyyntö ja Digiklinikka 24/7",
+    "Selkeät aukioloajat ja seitsemän Hammas Mehiläinen -toimipistettä useilla paikkakunnilla, verkkoon perustuva ajanvaraus"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ja yritysrekisteritiedot eivät ole näkyvillä verkkosivuilla, vain Mehiläinen Oy -konsernin yleiset tiedot",
+    "Potilasarvioista ja riippumattomista arvioinneista ei ole näyttöä verkkosivuilla, vain sisäisen asiakaspalautteen maininta",
+    "Yleinen sähköpostiosoite hammashoitoon liittyville kyselyille puuttuu, asiakkaita ohjeistetaan soittamaan tai käyttämään chatiä"
+   ],
+   "yhteenveto": "Hammas Mehiläinen on merkittävä yksityinen hammashoidon ketju, joka tarjoaa laajan palveluvalikoiman kuuden toimipisteensä kautta. Verkkosivusto on selkeä ja informaatiorikas: hinnaston kattavuus ja Kela-korvausten selitys ovat erityisesti kehuja ansaittuja. Toimipisteissä on otettu huomioon käyttäjien tarpeet monilla asiointitavoilla, mutta yritysidentiteettitiedot ovat rajallisia ja kolmannen osapuolen arvioita ei ole integroitu markkinointimateriaaliksi."
+  },
+  {
+   "slug": "oral",
+   "nimi": "Oral Hammaslääkärit",
+   "domain": "oral.fi",
+   "omistaja": "Colosseum Dental Group / Jacobs Holding AG (Sveitsi) — EI Mehiläinen",
+   "y_tunnus": "2863321-3",
+   "rekisteroity": 2017,
+   "score": 80.4,
+   "pillars": {
+    "digitaalinen": 70.9,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 80.0,
+    "ai_laatu": 88.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "40/100",
+       "paino": 40,
+       "pisteet": 40,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla on yksityiskohtainen hintaluettelo kaikille hammashoidon palveluille, mukaan lukien hammaslääkärin tutkimuksen hinta (82,90 €) ja Kela-korvauksen jälkeinen omavastuu (52,90 €). Hinnaston otsikossa mainitaan 'muutamia esimerkkejä hinnoistamme ja hintatasomme'."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkoajanvaraus tapahtuu OmaOral-palvelussa, joka vaatii vahvaa tunnistautumista pankkitunnuksilla. OmaOral-sivulla todetaan 'Tunnistautuminen vain henkilökohtaisilla pankkitunnuksilla'. Ajanvaraus on myös mahdollista puhelimitse tai chattia kautta ilman kirjautumista, mikä tekee tästä osittaisen."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastossa näkyy 'Kela-korvauksen jälkeen' -sarake kaikille palveluille, ja maksutavat-sivulla sanotaan 'Käytössämme on Kelan suorakorvaus. Hammashoidon korvauksista voit lukea lisää Kelan sivuilta'. Sivulla viitataan 'Kelan korvausperusteisiin' (kela.fi/korvaukset-yksityisesta-hammashoidosta)."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla luetellaan 'lähes 70 toimipistettä ympäri maan' yksityiskohtaisine osoitteineen. Etusivulla ja usealla sivulla toistetaan 'Asiakaspalvelumme on avoinna ma-pe klo 8–17 (poikkeuksena pyhäpäivät)'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla Y-tunnus on selvästi näkyvillä: 'Y-tunnus 2863321-3'. Se on myös osassa laskutusohjeisissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Oral Hammaslääkärit Suomen luotetuin hammaslääkäriketju jo neljättä kertaa' ja 'Oral Hammaslääkärit on Suomen kahdeksanneksi paras työpaikka', jotka viittaavat palkitukseen. Asiakkaiden antamia arviota (esim. Google-arviot, Tripadvisor, vertailusivusto-arviot) ei ole näkyvillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 010 400 3400 näkyy kaikkialla sivustolla ja on selvästi merkitty asiakaspalvelun numeroksi. Yhteystiedot-sivulla mainitaan myös 'Puh. 010 400 3010 (vaihde)'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakkaiden yhteydenotot tapahtuvat puhelimitse tai chat-palvelun kautta. Vain viestinta@oral.fi on mainittu mediayhteystiedoissa. Asiakaspalautesivu viittaa 'oral.fi/palaute', mutta erillisen asiakassähköpostin osoitetta ei ole julkisesti esillä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Chat' -linkki näkyy päänavigaatiossa kaikilla sivuilla. OmaOral-sivulla mainitaan 'Chat-asiakaspalvelu' ja sivut tarjoavat chat-palvelua asiakaspalvelun kanssa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat toistetaan usealla sivulla: 'Asiakaspalvelumme on avoinna ma-pe klo 8–17 (poikkeuksena pyhäpäivät)'. Ajanvaraus-sivulla mainitaan spesifisemmin 'Ajanvaraus on auki ma-pe klo 8.00-17.00'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suun terveys -sivu tarjoaa laajat artikkelit ja 'Uusimmat' ja 'Luetuimmat' artikkelit, jotka vastaavat UKK-osioon. Aiheet kattavat 'Hammaslääkäripelko', 'Lasten ja nuorten oikomishoito', 'Hampaiden valkaisu' ja muita asiakkaiden kysymyksiä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaOral-palvelusta sanotaan 'Voit täyttää hoitoon liittyvät esitietosi nopeasti ja turvallisesti tietokoneella tai mobiilissa', mikä viittaa mobiili-yhteensopivuuteen web-sovelluksen kautta. Erillisen mobiilisovelluksen olemassaolosta ei ole mainintaa sovelluskaupoissa (App Store, Google Play)."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "88/100",
+       "paino": 34,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 40,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 15877.844999999998,
+    "cls": 0.01674529370967805,
+    "tbt_ms": 1735
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnasto kaikille palveluille näkyy etusivulla, Kela-korvauksien jälkeiset hinnat selkeästi merkitty",
+    "Lähes 70 toimipistettä ympäri Suomen, aukioloajat ja sijainnit täysin selkeät interaktiivisella kartalla",
+    "Chat-asiakaspalvelu ja verkkoajanvaraus helpottavat asiointia, OmaOral-palvelu mahdollistaa ajanvarauksen hallinnon"
+   ],
+   "kehityskohteet": [
+    "Ajanvaraus vaatii vahvaa tunnistautumista, mikä voi olla este ensikertalaisen asiakkaan nopealle ajanvaraukselle",
+    "Asiakkaiden sähköpostiosoite ei ole helposti saatavilla, yhteydenotot vaativat puhelinta tai chat-palvelua",
+    "Riippumattomia asiakasarviota (esim. Google-arviot, vertailusivusto-arviot) ei ole näkyvillä omalla sivustolla"
+   ],
+   "yhteenveto": "Oral Hammaslääkärit on Suomen suurin yksityinen hammaslääkäriketju, jolla on lähes 70 toimipistettä ympäri maata. Verkkosivut tarjoavat kattavat ja selkeät hinnat, useita ajanvaraus- ja asiointikeinoja sekä runsaasti tietoa hammashoitoon liittyen. Kela-korvausperusteet ja maksutavat on dokumentoitu, joskin riippumattomia asiakasarvioita sivulla ei ole."
+  },
+  {
+   "slug": "plusterveys",
+   "nimi": "PlusTerveys",
+   "domain": "plusterveys.fi",
+   "omistaja": "PlusTerveys Ryhmä Oy — ammattilaisomisteinen",
+   "y_tunnus": "3265145-7",
+   "rekisteroity": 2022,
+   "score": 80.0,
+   "pillars": {
+    "digitaalinen": 89.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "79/100",
+       "paino": 40,
+       "pisteet": 79,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla esitellään yksityiskohtainen viitehinnasto kaikille hammashoidon toimenpiteille (hammastarkastus 81 €, hampaan paikkaus 101,90–251,70 €, hammasimplantti alk. 2600 € jne.), hinnat Kela-korvauksen jälkeen eritelty omassa sarakkeessa."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: PlusPalvelu-sivulla kuvataan verkossa ajanvaraus: 'Pysyt hallita ja muuttaa omia ajanvarauksiasi sekä varata myös uusia aikoja' tunnistautumisen jälkeen. Pääsivulla 'Varaa aika' -painikeet näkyvät ilman sisäänkirjautumista."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivun jokaisessa toimenpiteessä on erillinen 'Hinta Kela-korvauksen jälkeen' -sarake. Asiakkaalle-sivulla mainitaan 'PlusTerveyden viitehinnasto kattaa yleisesti tarjoamamme hammashoidon toimenpiteet ja niiden viitehinnat, hinnat kela-korvauksien jälkeen sekä muut vastaanottokäynteihin liittyvät veloitukset.'"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tietoa meistä' -sivulla mainitaan 'Asiakastyytyväisyys 96,8 NPS', mikä osoittaa asiakkaiden tyytyväisyyden mittaamisen."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ota yhteyttä' -sivulla PlusTerveys Oy:n yhteystiedoissa vaihde 09 351 040."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ota yhteyttä' -sivulla mainitaan 'Sähköpostiosoittemme ovat muotoa: [email protected]' ja tietosuojavastuuhenkilöt on lueteltu sähköpostiosoitteineen."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 79,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 1506.3095,
+    "cls": 0.004716842729208462,
+    "tbt_ms": 889
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava ja yksityiskohtainen hinnasto kaikille hammashoidon toimenpiteille, Kela-korvauksien jälkeiset hinnat selkeästi esillä",
+    "Verkkoajanvaraus PlusPalvelun kautta toimii ilman kirjautumista, ajanperuminen 24h ennen käyntiä",
+    "Laaja palveluverkosto noin 80 hammaslääkäriasemalla ympäri Suomea, monipuolinen palveluvalikoima perushoidosta erikoispalveluihin"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti esillä sivustolla, yksityiskohtaiset aukioloajat toimipisteittäin vaativat erilliseen sivuun siirtymistä",
+    "Chat-palvelua ei mainittu, asiakastuki näyttäisi olevan puhelin- ja sähköpostipohjainen",
+    "Yksittäisten toimipisteiden tiedot (osoitteet, puhelinnumerot, aukioloajat) vaativat klikkaamisen lisätiedoiksi, ei suoraan näkyvissä"
+   ],
+   "yhteenveto": "PlusTerveys on yksi Suomen suurimmista yksityisistä hammashoitopalvelujen tuottajista, perustettu 1978, jonka sivusto tarjoaa selkeän hinnaston ja toimivat verkkoajanvarauspalvelut. Kela-korvaustiedot ovat hyvin dokumentoituja hinnastossa, mutta yksityiskohtaiset aukioloajat ja yhteystiedot vaativat navigointia ja klikkaamista."
+  },
+  {
+   "slug": "hammashohde",
+   "nimi": "Hammas Hohde",
+   "domain": "hammashohde.fi",
+   "omistaja": "Sentica Partners (~60 %); Terveystalo sopi ostosta 23.12.2025 — kauppa ei vielä toteutunut",
+   "y_tunnus": "2339589-3",
+   "rekisteroity": 2010,
+   "score": 79.0,
+   "pillars": {
+    "digitaalinen": 70.5,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 86.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla (hammashohde.fi/hinnasto) on yksityiskohtainen hintaluettelo, joka sisältää hammaslääkärin tutkimuksen (82,30 €), suuhygienistin palvelut, paikkaushoito, röntgenkuvat ja muut hoidot konkreettisine hintojen kanssa."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Nettiajanvaraus-ohjeista (tietoa-ajanvarauksesta): 'Voit varata ajan myös netissä. Nettiajanvaraus palvelee vuorokauden ympäri osoitteessa omahohde.fi. Turvallisen asioinnin varmistamiseksi käytämme verkkoajanvarauksessamme vahvaa tunnistautumista.' Ajanvaraus vaatii siis kirjautumisen, mutta puhelimitse varaaminen on mahdollista ilman kirjautumista."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla selitetään yksityiskohtaisesti: 'Hammashoidon kelakorvaukset muuttuvat 1.5.2025. Kela korvaa 1.5.2025 alkaen suuhygienistin antamaa hoitoa ja tutkimuksia ilman lääkärin lähetettä enintään 2 kertaa kalenterivuodessa.' Jokaisen hinnan kohdalla on eritelty omavastuu Kela-korvauksen jälkeen."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla listataan 24 toimipistettä kaikkien aukioloaikojen kanssa (esim. 'Hohde Helsinki Gaselli, Aleksanterinkatu 19, 00100 Helsinki, 09 6811 3800, Avoinna ma-to 8-20 | pe 8-15')."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laskutustiedot-sivulla Y-tunnus on selkeästi näkyvissä: 'Hammas Hohde Oy, Verkkolaskutusosoite: 003723395893, Välittäjän tunnus: 003721291126'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä linkkejä riippumattomiin arviolähteisiin kuten Google Reviews, Trustpilot tai muihin kolmannen osapuolen arviopalveluihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen 24 toimipisteen kohdalla on puhelinnumero listattu (esim. 010 274 4700, 010 571 1901 jne.). Lisäksi asiakaspalvelun puhelinnumero mainitaan: 'Asiakaspalvelumme on avoinna ma-to 8-17 ja pe 8-16'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan sähköpostiosoitteita: laskut@hammashohde.fi, palaute@hammashohde.fi ja hallinnon johtajien sähköpostit (ville.pesonen@hammashohde.fi jne.), mutta yleistä asiakaspalvelun sähköpostiosoitetta ei ole pääsivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: OmaHohde-palvelu tarjoaa 'Maksuton Chat' -palvelua: 'OmaHohteessa voit maksutta keskustella suun terveyden ammattilaisen kanssa.' Chat vaatii kirjautumisen omahohde.fi-palveluun."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat mainitaan: 'Asiakaspalvelumme on avoinna ma-to 8-17 ja pe 8-16. Puhelun hinta pvm/mpm.' Jokaisen toimipisteen omat aukioloajat ovat myös listattu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tietoa ajanvarauksesta' -sivu (hammashohde.fi/tietoa-ajanvarauksesta) sisältää UKK-tyyppisiä ohjeita aiheista kuten ajan peruminen, nettiajanvaraus, esitietolomake ja Kanta-palvelut."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 94,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 11822.823749999996,
+    "cls": 0.0260818597756777,
+    "tbt_ms": 3023.0000000000005
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkko 24:llä toimipisteellä ympäri Suomen, kattaa pääkaupunkiseudun ja muut suuret kaupungit.",
+    "Yksityiskohtainen ja läpinäkyvä hintaluettelo Kela-korvauksien ja omavastuuosuuksien selityksineen.",
+    "Monipuoliset maksuvaihtoehdot: kortti, lasku, rahoitus, Smartum, Edenred, ePassi sekä joustavat maksusuunnitelmat."
+   ],
+   "kehityskohteet": [
+    "Riippumattomia arvioita (Google Reviews, Trustpilot jne.) ei ole näkyvissä missään sivustolla.",
+    "Nettiajanvaraus vaatii kirjautumisen OmaHohde-palveluun, ei ole täysin ilmaista varausta kirjautumatta.",
+    "Asiakaspalvelun pääsähköpostiosoite puuttuu - näkyvissä vain laskut@ ja palaute@ -osoitteet."
+   ],
+   "yhteenveto": "Hammas Hohde Oy on vuonna 2014 perustettu suomalainen erikoishammaslääkäriklinikka, jolla on laaja verkko 24 toimipisteen verran ympäri Suomen. Sivusto tarjoaa selkeää ja yksityiskohtaista tietoa hinnoista, Kela-korvauksista ja toimipisteistä. Ajanvaraus on mahdollinen verkossa, mutta vaatii kirjautumisen OmaHohde-palveluun. Sivustolta löytyvät monipuoliset maksuvaihtoehdot ja riittävät yhteystiedot."
+  },
+  {
+   "slug": "terveystalo",
+   "nimi": "Suun Terveystalo",
+   "domain": "terveystalo.com",
+   "omistaja": "Terveystalo Oyj — pörssiyhtiö; ostamassa Hammas Hohdetta (KKV-käsittely kesken)",
+   "y_tunnus": "2575979-3",
+   "rekisteroity": 2013,
+   "score": 76.7,
+   "pillars": {
+    "digitaalinen": 71.8,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 78.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "88/100",
+       "paino": 15,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyi \"Tutustumistarkastus 59 €\" sekä linkit muihin palveluihin; hinta julkisesti luettavissa ilman kirjautumista."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus ohjaa sivulle ajanvaraus.terveystalo.com, joka näytti vain evästebannerin ja \"KIRJAUDU\" -napin. Sisäänkirjautuminen vaaditaan ajanvarauksen tekemiseen."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivun \"Kela-korvaus vastaanotolla\" -osio selitti: \"Kela korvaa hammaslääkärin tekemän suun ja hampaiston tutkimuksen yhden kerran joka toinen kalenterivuosi\" ja \"Kela korvaa suuhygienistin käynnit enintään 2 kertaa kalenterivuodessa\"."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla oli \"Etsi lähin Suun Terveystalo\" -kartta, jossa listattu 30+ paikkakuntaa (Alavus, Espoo, Helsinki, Tampere, Turku jne.) osoitteineen ja aukioloaikoina, kuten \"Helsinki Kamppi: ma–pe 8–20, la–su 9–16\"."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löytynyt pääsivulta, yhteystiedot-sivulta eikä yhtiö-sivulta. Näkyi vain yrityksen nimi ja sähköpostimuoto etunimi.sukunimi@terveystalo.com."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei näkynyt Google-arvioita, Trustpilot-linkkejä tai muita kolmansien osapuolien arviointialustoja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainittiin asiakaspalvelunumero 0900 30 000 useassa paikassa sekä pääsivulla että jalkaosassa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Email-muoto mainittu (etunimi.sukunimi@terveystalo.com), mutta konkreettisia hammashoito-osion sähköpostiosoitteita ei listattu."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla kohta \"Ota yhteyttä chatilla\" ja \"Maksuttomassa Hammas-chatissa saat apua... Chatti on auki ma-to 8-18 pe 8-16.\""
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen toimipisteen kohdalla oli aukioloajat, esim. \"ma–pe 8–20\" tai \"ma–to 8–16, pe 8–15\"."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla oli interaktiivinen testi \"Milloin viimeksi tarkistit suusi voinnin? Vastaamalla neljään kysymykseen voit kartoittaa tilanteesi\" sekä \"Tarvitsetko apua?\" -chatin mainittu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 88,
+    "seo": 100,
+    "best_practices": 88,
+    "lcp_ms": 5175.2435,
+    "cls": 0.0011840376090625651,
+    "tbt_ms": 2684.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja hammashoidon palveluvalikoima kuvataan selkeästi pääsivulla, 50+ palvelusta neljään pääkategoriaan jäsenneltyinä.",
+    "Kela-korvausten selitys näkyi suoraan pääsivulla hammaslääkärin ja suuhygienistin kohdalla.",
+    "Valtava toimipisteverkko (30+ paikkakuntaa) osoitteineen ja aukioloaikoina listattu kartalla ja listassa."
+   ],
+   "kehityskohteet": [
+    "Ajanvaraus siirtää erilliseen osoitteeseen (ajanvaraus.terveystalo.com) ja vaatii kirjautumista — ilmainen tutustumiskäynti ei ole varattavissa ilman tunnuksia.",
+    "Yrityksen Y-tunnus puuttuu kokonaan pääsivulta ja yhteystiedoista — vain sähköpostimuoto ja puhelinnumero näkyi.",
+    "Riippumattomat arviot (Google-arviot, Trustpilot jne.) puuttuvat sivulta kokonaan, vaikka ne olisivat asiakkaille hyödyllisiä."
+   ],
+   "yhteenveto": "Suun Terveystalo on Terveystalo Oyj:n hammashoidon yksikkö, joka tarjoaa laajasti hammaslääkärin- ja suuhygienistin palveluita. Pääsivulla hammashoidon osio esittelee palvelut selkeästi, näyttää Kela-korvaukset ja neljää toimipaikkaa. Myönteisesti hinnoittelu (59 € tutustumis­tarkastus) näkyy ilman sisäänkirjautumista. Negatiivisesti ajanvaraus vaatii kirjautumista toisessa domainissa, Y-tunnus puuttuu, ja riippumattomia arvioita ei ole."
+  },
+  {
+   "slug": "coronaria",
+   "nimi": "Coronaria Hammasklinikka",
+   "domain": "coronaria.fi",
+   "omistaja": "Coronaria Oy / Cor Group — samalla emosijoittajalla omistusta myös Silmäasemassa",
+   "y_tunnus": "2207193-4",
+   "rekisteroity": 2008,
+   "score": 72.4,
+   "pillars": {
+    "digitaalinen": 72.3,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 77.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hammashoidon hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat on julkaistu kahdessa hinnaston versiossa. Hanko-Tammisaari hinnaston mukaan hammastarkastus on 95,00€ alkaen, omavastuu Kela-korvauksen jälkeen 65,00€. Yleisellä hinnastolla hammastarkastus on 81,00€ alkaen, omavastuu 51,00€. Hinnat ilmaistaan 'alkaen'-hintoina ja kaikissa hintoihin liittyy 27,90€ palvelumaksu."
+      },
+      {
+       "mittari": "Ajanvaraus verkossa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ajanvaraus-sivulla selkeästi kerrotaan 'Verkkoajanvarauksemme kautta voit varata ajan vuorokauden ympäri, viikon jokaisena päivänä.' Ei mainita vaatimusta kirjautumiselle. Asiakkaalla on myös mahdollisuus varata aika jännittävän tai pelokkaan hammastarkastukseen erityisesti."
+      },
+      {
+       "mittari": "Kela-korvaus ja todellinen omavastuu kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hammastarkastus-sivulla kerrotaan 'Hammaslääkärin tekemästä suun ja hampaiden tutkimuksesta voit saada korvausta joka toinen kalenterivuosi. Korvaus voidaan kuitenkin maksaa kerran kalenterivuodessa, jos terveydentilasi edellyttää sitä.' Hinnastoissa näkyy selkeästi 'Omavastuu Kela-korvauksen jälkeen'-sarake. Maksutavat-sivulla mainitaan 'Käytössämme on Kelan suorakorvaus.'"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikkojen konkreettisia osoitteita ja aukioloaikoja ei ole kuvattu hammasklinikka-osiossa. Etusivulla näkyy linkki 'Katso toimipaikat' mutta se ohjaa yleiselle Coronaria-sivustolle, ei hammasklinikka-kohtaisille tiedoille. Vain pääkonttorin osoite (Oulu) ja palveluajat 9.00-15.00 ovat saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole esillä missään ladatussa hammasklinikka-osiosta. Yritystiedot puuttuvat."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hammasklinikka-osiossa ei ole linkkejä riippumattomiin arviointisivustoihin (esim. Trustpilot). Sivustoilla on 'Asiakaskokemuksia' -osiota, mutta nämä ovat Coronarian omia asiakastarinoita, eivät ulkopuolisen palvelun antamia arvosteluja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla on pääkonttorin numero 020 780 6260 ja maininta 'etunimi.sukunimi@coronaria.fi'. Ajanvaraus-sivulla mainitaan soitto omalle klinikalleen, mutta yksittäisten klinikan numeroita ei ole etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite-muoto 'etunimi.sukunimi@coronaria.fi' on esillä yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chatin mahdollisuutta ei mainita missään ladatussa materiaalissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääkonttorin aukioloajat arkisin 9.00-15.00 on mainittu, mutta yksittäisten hammasklinikoiden aukioloajat puuttuvat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustoilla on useita tietoa-osiota, joissa vastataan yleisiin kysymyksiin. Hammaslääkäripelko-sivulla on kattava Q&A-osuus pelosta ja sen ylittämisestä. Hammastarkastus-sivulla kerrotaan säännöllisyydestä ja tarkastuksessa tutkittavista asioista. Puuttuva hammas -sivulla on kysymyksiä ja vastauksia."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "76/100",
+       "paino": 34,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "74/100",
+       "paino": 33,
+       "pisteet": 74,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5105.0942,
+    "cls": 0,
+    "tbt_ms": 3133.681400000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat julkisesti esillä kahdessa hinnaston versiossa (yleiset hinnat ja Hanko-Tammisaari), sisältäen Kela-korvauksen jälkeiset omavastuuosuudet",
+    "Verkkoajanvaraus 24/7 ilman kirjautumista, mahdollisuus varata aika jännittäjälle tai pelokkaille asiakkaille",
+    "Kela-korvaus selitetty hinnastoissa ja maksutavat-sivulla, myös suorakorvausjärjestelmä käytössä"
+   ],
+   "kehityskohteet": [
+    "Toimipisteiden osoitteet, aukioloajat ja puhelinnumerot puuttuvat hammasklinikka-osion sivuilta, löytyy vain pääkonttorin tiedot",
+    "Y-tunnus ei ole julkisesti esillä verkkosivuilla (sovelletaan briiffin periaatetta: ei löydetystä sivusta = ei)",
+    "Riippumaton arviolähde (esim. Trustpilot-linkki tai asiakasarvostelut) ei ole esillä hammasklinikka-osiossa"
+   ],
+   "yhteenveto": "Coronaria Hammasklinikka on monipaikkainen yksityinen hammashoitoyritys, joka tarjoaa laaja palveluvalikoiman perushammashoidosta suukirurgiaan asti. Verkkosivuilla on hinnat julkisesti esillä Kela-korvaustieto sekä asiakkaiden kannalta tärkeitä maksuvaihtoehtoja kuvattu selkeästi. Ajanvaraus on mahdollinen verkossa 24/7 ilman kirjautumista, mikä on seikka asiakkaiden kannalta. Suurimpana puutteena on toimipisteiden konkreettiset yhteystiedot ja aukioloajat, jotka puuttuvat hammasklinikka-osiosta."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hammashoidon hinnat julkisesti esillä (30), ajanvaraus verkossa ilman kirjautumista (20), kela-korvaus ja todellinen omavastuu kerrottu (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

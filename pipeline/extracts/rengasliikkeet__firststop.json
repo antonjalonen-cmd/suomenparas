@@ -1,0 +1,51 @@
+{
+  "slug": "firststop",
+  "fetched_ok": [
+    "https://www.firststop.fi/",
+    "https://www.firststop.fi/myymalat",
+    "https://www.firststop.fi/rengaspalvelut/rengashotelli",
+    "https://www.firststop.fi/rengaspalvelut/renkaanvaihto",
+    "https://www.firststop.fi/meista",
+    "https://www.firststop.fi/myymalat/first-stop-herttoniemi"
+  ],
+  "renkaiden_hinnat_esilla": "osittain",
+  "asennus_ja_sailytys_hinnat": "osittain",
+  "ajanvaraus_verkossa": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "renkaanvaihto_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laaja ja selkeä myymäläverkko yli 60 toimipisteellä Suomessa, joista jokaisen yhteystiedot ja aukioloajat löytyvät",
+    "24/7 online-varausjärjestelmä renkaiden vaihdolle ja muille palveluille, helppo käyttää ilman yhteydenottoa",
+    "Google-arvioihin perustuva riippumaton arviointijärjestelmä (4.6 tähteä, yli 10 000 arvostelua) näkyvissä kaikilla myymälillä"
+  ],
+  "kehityskohteet": [
+    "Renkaan ja asennuspalvelun hintoja ei ole julkisesti verkkosivuilla esillä, hinnat näkyvät vain varausjärjestelmässä tai yhteydenotolla",
+    "Rengashotellin säilytyshintoja ei ilmoiteta verkkosivuilla, ainoastaan palvelun kuvaus ilman hintatieto",
+    "UKK-osio puuttuu kokonaan; asiakkaiden yleisiin kysymyksiin vastaava informaatio on vain tekstimuodossa palvelusivuilla"
+  ],
+  "yhteenveto": "First Stop on laaja, eurooppalaisiin verkostoihin kuuluva renkaaliike, jolla on yli 60 toimipistettä Suomessa. Palvelut ovat monipuoliset ja varausjärjestelmä toimii verkon kautta 24/7. Kuitenkin renkaille ja palveluille hinnat eivät ole julkisesti saatavilla sivustolla, vaan ne ilmoitetaan vasta varausvaiheessa, mikä heikentää läpinäkyvyyttä.",
+  "evidence": {
+    "renkaiden_hinnat_esilla": "HAVAINTO: Etusivulle on linkki 'Osta renkaat' ja myymälöiden yhteydessä 'Osta renkaat verkosta', mutta nämä eivät johda hintaluetteloon. Rengaskoon mukaan voi hakea, mutta hinnat näkyvät vain varausjärjestelmässä tai yhteydenotolla.",
+    "asennus_ja_sailytys_hinnat": "HAVAINTO: Renkaanvaihto- ja rengashotelli-sivuilla kerrotaan palveluista laajasti, mutta ei mainita niiden hintoja. Sanotaan, että 'Hinta, jonka saat on se hinta, minkä maksat', mutta konkreettisia eurohintoja ei ole.",
+    "ajanvaraus_verkossa": "HAVAINTO: Etusivulla mainitaan '24/7 turvallinen ja helppo varausjärjestelmä' ja 'onlinevaraus'. Jokaisen myymälän sivulla on 'Varaa renkaiden vaihto' -nappi, joka johtaa verkkoperustaiseen varausjärjestelmään.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Myymälät-sivulla lueteltu yli 60 toimipistettä eri puolilla Suomea osoitteineen ja puhelinnumeroineen. Yksittäisen myymälän sivulla näkyy yksityiskohtaiset aukioloajat, esim. First Stop Herttoniemellä ma-pe 8:00-17:00, la-su suljettu.",
+    "riippumaton_arvio": "HAVAINTO: Jokaisella myymälällä näkyy Google-arvioita: First Stop Herttoniemellä 3.9 tähteä sekä asiakkaiden tekstiarvioit. Etusivulla mainitaan 'Google Rating keskiarvo: 4.6' ja 'Yli 10,000 arvostelua'.",
+    "puhelin_esilla": "HAVAINTO: Kaikkien myymälöiden yhteydessä on puhelinnumerot. Esim. First Stop Herttoniemi +358 10 4239550. Myymälöiden listassa yhteensä yli 60 numeroa.",
+    "email_esilla": "HAVAINTO: Meistä-sivulla sähköpostiosoite suvi.tasanen@firststop.eu kumpppanuuksiin ja rekrytoinnin yhteystiedoiksi. Yksittäisen myymälän sivulla näkyy myymälän oma sähköposti, esim. First Stop Herttoniemella helsinki@aallonauto.com.",
+    "aukioloajat_esilla": "HAVAINTO: Yksittäisten myymälöiden sivuilla näkyy aukioloajat selkeästi listattuna. Esimerkkisivulla First Stop Herttoniemi: ma-to ja pe 8:00-17:00, la-su suljettu.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy verkkosivuilla missään."
+  }
+}

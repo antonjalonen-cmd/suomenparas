@@ -1,0 +1,53 @@
+{
+  "slug": "keradur",
+  "fetched_ok": [
+    "https://www.keradur.fi",
+    "https://www.keradur.fi/kotisiivous",
+    "https://www.keradur.fi/kotitalousvahennys",
+    "https://www.keradur.fi/usein-kysytty",
+    "https://www.keradur.fi/yhteystiedot"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "kotitalousvahennys_kerrottu": "kylla",
+  "toimialue_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "tuntihinta_eur": 37,
+  "ai_arviot": {
+    "selkeys": 87,
+    "hintojen_loydettavyys": 88,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Yksityiskohtainen kotitalousvähennys-sivu, jonka avulla asiakas ymmärtää veroedun (35 % vähennys, 150 € omavastuu, kuittien koonnin toimitus)",
+    "Kattava ja selkeä hinnoittelu katettuna taajuuksittain (1x/viikko 37 €/h, 2x/kk 41 €/h, 1x/kk 47 €/h), hinnat sisältävät ALV:n",
+    "Laaja usein kysytyt -osio (12+ kysymystä), joka vastaa käytännöllisiin asiakaskysymyksiin (mitä työtunti tarkoittaa, miten useampi siivooja vaikuttaa, lemmikit jne.)"
+  ],
+  "kehityskohteet": [
+    "Riippumattomia arvioita (Google Reviews, Trustpilot, Facebook-arviot) ei ole näkyvillä sivulla – vain sisäinen HS:n haastattelu mainittu",
+    "Mobiilisovellus on osittain valmis (site.webmanifest, apple-touch-icon), mutta ei ole selkeää mainintaa sovelluksesta tai linkkiä lataussivulle",
+    "Chat ei ole 24/7 saatavilla – vain WhatsApp (wa.me) ja Leadoo-widget, jonka palveluajat eivät näy, sekä paikalliset yhteystiedot mainittu (MA-PE 8-16)"
+  ],
+  "yhteenveto": "Keradur on kotimainen siivouspalvelu, joka tarjoaa kotisiivouksen palvelut Helsinki-, Tampere- ja Turku-alueilla. Sivusto on erityisen vahva hinnoittelun ja kotitalousvähennyksen selityksessä: hinnat on lueteltu selkeästi asiakkaan valitsemien tiheyssarjojen mukaan, ja omalla sivullaan kerrotaan yksityiskohtaisesti, miten 35 % kotitalousvähennys toimii käytännössä. Verkkovaraus onnistuu helppohintaisesti, ja FAQ-osio on hyvin kattava. Heikkouksina näkyy riippumattomien arviointien puuttuminen sekä mobiilisovelluksen epäselvä status.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat luetellaan kotisiivous-sivulla neljässä eri tiheydessä (3kk kokeilu 37 €/h, 1x/viikko 37 €/h, 2x/kk 41 €/h, 1x/kk 47 €/h), kaikki sisältävät ALV:n ja ammattilaisten siivousaineet.",
+    "varaus_verkossa": "HAVAINTO: Jokaisen hinnoittelun alla on 'Tilaa kotisiivous' -nappi, jonka takana on lomake (neliömäärä, siivouksen kesto, tiheysvaihtoehto, toivottu päivä/kellonaika). Lomakkeessa on myös 'Kysy tarjous' -vaihtoehto.",
+    "kotitalousvahennys_kerrottu": "HAVAINTO: Erillinen 'Kotitalousvähennys' -sivu selittää 35 % vähennysprosentin, 150 € omavastuun, vuotuisen 1600 € rajan ja ilmoitusprosessin OmaVero-palvelussa. Lisäksi maininta, että Keradur toimittaa kuittien koonnin seuraavan vuoden helmikuussa.",
+    "toimialue_ja_yhteystiedot": "HAVAINTO: Etusivu mainitsee Tampere, Turku, Helsinki, Espoo nimiä; kotisiivous-sivulla lueteltu 11 kaupunkia (Helsinki, Vantaa, Espoo, Kauniainen, Järvenpää, Kerava, Nurmijärvi, Sipoo, Tampere, Turku + mainittu Uusimaa, Tampereen ja Turun alueet). Yhteystiedot (asiakaspalvelu@keradur.fi, 020 730 1590) näkyy usealla sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2315098-4 näkyy etusivulla, kotisiivous-sivulla, yhteystiedot-sivulla ja kotitalousvähennys-sivulla jalanottosisällössä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole Google Reviews, Facebook Ratings, Trustpilot-linkkejä tai muita ulkoisia arviointipalveluja. Ainoa maininta on Helsingin Sanomat -haastattelu, jossa yhtiön työntekijöitä haastateltiin (ei kolmannen osapuolen arviointia).",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 020 730 1590 näkyy etusivulla 'Service Center (ark. 8-16)' -yhteydessä ja kotisiivous-sivulla 'Puhelinajat: ma-pe klo 8-16' -tekstillä.",
+    "email_esilla": "HAVAINTO: Kolme sähköpostiosoitetta näkyy: asiakaspalvelu@keradur.fi (etusivu, yhteystiedot), myynti@keradur.fi (etusivu, yhteystiedot), kotisiivous@keradur.fi (kotisiivous-sivu).",
+    "chat_mainittu": "HAVAINTO: Etusivu sisältää Leadoo-chat-widgetin (bot.leadoo.com) ja mainitsee WhatsApp-keskustelun ('keskustele asiantuntijamme kanssa WhatsAppissa täällä', linkki: wa.me/358406883221).",
+    "aukioloajat_esilla": "HAVAINTO: Kotisiivous-sivulla näkyy 'Toimisto avoinna: MA-PE klo 8-16'. Etusivu mainitaan 'Service Center (ark. 8-16)'.",
+    "ukk_osio": "HAVAINTO: Erillinen 'Usein kysyttyä' -sivu sisältää 12+ kysymystä (mitä työtunti tarkoittaa, miten useampi siivooja vaikuttaa, voinko olla kotona, lemmikit, mitä siivoukseen sisältyy, kotitalousvähennys, siirtyminen/peruminen, ikkunapesut, arkipyhät, hintavaihtelu, paljonko maksaa).",
+    "mobiilisovellus": "HAVAINTO: HTML-metataggit osoittavat mobiilikäyttöä (site.webmanifest, apple-touch-icon, apple-mobile-web-app-title 'Keradur', application-name 'Keradur'), mutta sivustolla ei ole selkeää mainintaa mobiilisovelluksesta eikä linkkiä App Storeen tai Google Playhin."
+  }
+}

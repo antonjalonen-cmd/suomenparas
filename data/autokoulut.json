@@ -1,0 +1,870 @@
+{
+ "slug": "autokoulut",
+ "nimi": "Autokoulut",
+ "nav": "Autokoulut",
+ "h1": "Suomen paras autokoulu 2026",
+ "yksikko": "valtakunnallista autokouluketjua",
+ "lead": "Pisteytimme {n} valtakunnallista autokouluketjua {m} mittarilla. Tärkein kysymys: näkyykö ajokortin kokonaishinta ennen ilmoittautumista?",
+ "meta_title": "Suomen paras autokoulu 2026 | ketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "4 autokouluketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi listalla on vain 4 ketjua?</b> Autokouluala oli pitkään paikallinen, mutta on ketjuuntunut nopeasti: CAP ja Epic ovat kasvaneet yritysostoilla yli sadan toimipisteen ketjuiksi (Epicin taustalla pääomasijoittaja Korona Invest, jonka konserniin kuuluu myös Autokoulu Safiiri). Paikalliset yhden kaupungin autokoulut eivät kuulu valtakunnalliseen vertailuun.",
+  "Vertailu kuvaa ketjujen julkisten verkkosivujen mitattavia ominaisuuksia, ei opetuksen laatua tai läpäisyprosentteja. Ajokortin kokonaishinta riippuu tarvittavien ajotuntien määrästä; vertailu mittaa kerrotaanko hinnoittelu ja kurssin sisältö avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "antin-autokoulu",
+   "nimi": "Antin Autokoulu",
+   "domain": "antinautokoulu.fi",
+   "omistaja": "Antin Autokoulu Oy — itsenäinen, kotipaikka Raahe",
+   "y_tunnus": "2763674-6",
+   "rekisteroity": 2016,
+   "score": 86.3,
+   "pillars": {
+    "digitaalinen": 75.5,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kurssien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu näyttää B-kortin yksittäisten ajotuntien hinnat (1 tunti 99 €) sekä lisäpalvelut, mutta kokonaiskurssin peruspakettihinta (B-kortti) puuttuu sivustolta."
+      },
+      {
+       "mittari": "Ilmoittautuminen onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on näkyvissä 'Ilmoittaudu Antin Autokouluun' -nappula, joka mahdollistaa verkko-ilmoittautumisen. Asiakaspalvelu-sivulla mainitaan ilmoittautumislomake ja -ehdot."
+      },
+      {
+       "mittari": "Kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla kuvataan OmaOpettaja-malli, joka sisältää aloituskeskustelun, henkilökohtaisen ajotuntisuunnitelman ja teoriatunnit. 'Näin opetus etenee' -sivu linkittää eri kurssityyppeihin (henkilöauto, mopo, moottoripyörä), mutta yksityiskohtaiset tuntimäärät puuttuvat."
+      },
+      {
+       "mittari": "Toimipisteet ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivu listaa 33 toimipaikkaaa (Espoo, Helsinki, Hollola, Jyväskylä, Järvenpää jne.). Asiakaspalvelu-sivu ilmoittaa puhelin 044 022 1265 (ma-to 10.00-18.00, pe 10.00-15.00) ja sähköposti info@antinautokoulu.fi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteella ilmoitetaan Antin Autokoulu Oy:n Y-tunnus (2763674-6) ja osoite (Isokatu 11 C 14, 90100 Oulu)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on Google-arvioita näkyvissä (19 arvostelua, teksti kuten 'Paras autokoulu!', 'Oli TODELLA hyvä, suosittelen'). Arviot ovat selkeästi näkyvissä sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin 044 022 1265 näkyy sivuston alatunnisteessa ja asiakaspalvelu-sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@antinautokoulu.fi näkyy sivuston alatunnisteessa ja asiakaspalvelu-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'sivun alanurkassa olevan chatin kautta' palvelu aukioloaikojen puitteissa (ma-to 10.00-18.00, pe 10.00-15.00)."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla ilmoitetaan valtakunnallisen asiakaspalvelun aukioloajat ma-to 10.00-18.00, pe 10.00-15.00. Simulaattorivalvomo: ma-to 8.00-20.00, pe 8.00-18.00, la 10.00-14.00."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5304.4925,
+    "cls": 0,
+    "tbt_ms": 1282.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "OmaOpettaja-malli tarjoaa henkilökohtaisen opetuksen ja jatkuvan tuen koko autokoulumatkalla",
+    "Laaja toimipaikkaverkko (33 toimipistettä) ja ajotuntipysäkkien joustavuus helpottavat opiskelua",
+    "Monipuoliset maksutavat (verkkomaksu, lasku, SVEA-erämaksu jopa 36 kk:n ajalle) tekevät kurssista saavutettavan"
+   ],
+   "kehityskohteet": [
+    "B-kortin kokonaiskurssin hinta ei ole selkeästi näkyvissä etusivulla, vaatii navigointia hinnasto-sivulle",
+    "Henkilöautokurssien yksityiskohtainen sisältökuvaus puuttuu (ajotuntien lukumäärä, teorian laajuus)",
+    "Ilmoittautumissivulle pääsy ei ole suoraa linkkiä vaan piilotettu nappula, mikä vaikeuttaa löytämistä"
+   ],
+   "yhteenveto": "Antin Autokoulu on valtakunnallinen autokouluketju, joka tarjoaa kattavat opetus- ja koulutuspalvelut Suomessa 33 toimipisteessään. Sivusto esittelee hyvin OmaOpettaja-opetusmallin ja toimipisteiden verkoston, mutta B-kortin kokonaishinta ja yksityiskohtainen kurssisisältö vaativat käyttäjältä lisänavigointia. Asiakaspalvelun yhteystiedot, maksutavat ja joitakin usein kysyttyjä kysymyksiä ovat helposti saatavilla."
+  },
+  {
+   "slug": "epic-autokoulu",
+   "nimi": "Epic Autokoulu",
+   "domain": "epicautokoulu.fi",
+   "omistaja": "Korona Invest -pääomasijoittaja; konserniin kuuluu myös Autokoulu Safiiri",
+   "y_tunnus": "2551291-8",
+   "rekisteroity": 2013,
+   "score": 79.3,
+   "pillars": {
+    "digitaalinen": 81.6,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "60/100",
+       "paino": 40,
+       "pisteet": 60,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kurssien hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Henkilöautokurssin hintasivu saatavilla, mutta yksittäiset kurssien hinnat vaativat toimipisteen valintaa ja JavaScript-renderöintiä staattisesti ladattavasta HTML:stä. Sivulla mainitaan 'Sinun on ensin valittava sijainti nähdäksesi kurssien hinnat' ja 'Muiden kurssien hinnoista sekä korttien korotuksista voit tiedustella meiltä sähköpostilla'. B-kortin hinta ei ollut saatavilla automatisoitujen fetch-menetelmien avulla."
+      },
+      {
+       "mittari": "Ilmoittautuminen onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla useaan otteeseen kehotetaan ilmoittautumaan verkossa: 'Voit ilmoittautua suoraan verkkosivuillamme valitsemalla lähimmän toimipisteen ja sopivan kurssipaketin.' Kurssi-ilmoittautumisen jälkeen asiakkaalle luodaan tunnukset Streamways-oppimissovellukseen."
+      },
+      {
+       "mittari": "Kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: B-ajokortin sisältö kuvattu yksityiskohtaisesti: 'Kortin suorittamiseen kuuluu teoriaopetusta, ajo-opetusta sekä teoria- ja ajokoe.' Lisäksi jaettu seitsemän vaihe prosessi: ilmoittautuminen, ajokorttilupahakemus, teoriaopinnot sovelluksella, teoriakoe, ajotunnit, ajokoe, ajokortti. Verkkoteoriatunnit ovat saatavilla arkisin klo 8-22 ja perjantaista lauantaihin klo 8-16."
+      },
+      {
+       "mittari": "Toimipisteet ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 127 toimipistettä mainittu pääsivulla. Y-tunnus 2551291-8 ja osoite 'Tykistökatu 4, 20520 Turku' sopimusehtojen alussa. Asiakaspalvelun puhelin 010 524 5400 (arkisin klo. 10-14) näkyvissä usealla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2551291-8 mainittu sopimusehtojen sivulla: 'Y-tunnus 2551291-8, arvonlisäverotunniste FI25512918, osoite Tykistökatu 4, 20520 Turku'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä riippumattomia arvioita, asiakastyytyväisyyden arviointeja tai kolmansien osapuolten palautteita. Sivuilla mainitaan että asiakasfeedbackia voidaan antaa, mutta sisäisesti - ei kolmansien osapuolten arviointilähteisiin linkkejä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 524 5400 näkyy useilla sivuilla ja aukioloajat mainitaan 'arkisin klo. 10-14'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita sähköpostiosoitteita saatavilla: asiakaspalvelu@epicautokoulu.fi, palaute@epicautokoulu.fi, laskutus@epicautokoulu.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainittu: 'Asiakaspalvelumme palvelee viikon jokaisena arkipäivänä chätissä, puhelimessa sekä sähköpostitse.' Lisäksi: 'Chat löytyy sivun oikeasta alakulmasta.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat mainittu useasti: 'arkisin klo. 10-14' puhelinpalvelulle. Chat saatavilla 'viikon jokaisena arkipäivänä'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja Usein kysytyt kysymykset -osio henkilöautokurssien sivulla, joka kattaa ilmoittautumisen, ajotuntien varaukset, maksamisen, toimipisteet ja muita aiheita."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Streamways-oppimissovellusta käytetään teoriatuntien ja ajotuntivarausten hallintaan. Sovellus mainittu useasti: 'Teoriaopinnot hoituvat verkkotunteina sinulle sopivina ajankohtina' ja 'Ajotunnit varataan suoraan Streamways -sovelluksesta'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 60,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 3187.06271,
+    "cls": 0.021172606948392247,
+    "tbt_ms": 1637.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Verkkoteoriat omassa tahdissa omaan aikatauluun - ei tarvitse tulla paikalle harjoitteluun",
+    "Laaja toimipisteiden verkko (127 paikkakunnan toimipisteessä) koko Suomen alueella",
+    "Monipuoliset joustavat maksutavat (Epic-lasku 1-4 erässä, Klarna, verkkopankki)"
+   ],
+   "kehityskohteet": [
+    "B-kortin kurssien hinnat vaativat JavaScript-interaktiota ja toimipisteen valintaa - ei näkyvissä staattisesta HTML:stä",
+    "Ei riippumattomia arvioita tai asiakaspalautteiden näyttöä sivustolla - ei sosiaalisen todisteen elementtejä",
+    "Tietosuoja-sivu on \"Coming Soon\" -tilassa eikä sisällä tietosuojan kannalta vaadittavia tietoja"
+   ],
+   "yhteenveto": "Epic Autokoulu on Suomen suurin suomalaisomisteinen autokouluketju, joka palvelee yli 25 000 asiakasta vuosittain 127 toimipisteellä maanlaajuisesti. Verkkosivusto mahdollistaa kursseille ilmoittautumisen verkossa ja tarjoaa yksityiskohtaiset tiedot kurssisisällöstä, maksuista ja aukioloajoista. Kurssien hintatiedot ovat sivustolla saatavilla, mutta ne vaativat käyttäjän tekemää toimipisteen valintaa JavaScript-renderöinnin kautta."
+  },
+  {
+   "slug": "cap-autokoulu",
+   "nimi": "CAP-Autokoulu",
+   "domain": "cap.fi",
+   "omistaja": "CAP-Group Oy — osin sopimusyrittäjämalli",
+   "y_tunnus": "0841716-9",
+   "rekisteroity": 1991,
+   "score": 77.0,
+   "pillars": {
+    "digitaalinen": 75.7,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 92.5,
+    "ai_laatu": 70.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kurssien hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastossa näkyvät yksittäisten ajotuntien hinnat (B-kortti 1 ajotunti 98 €, 2 ajotuntia 189 €, 3 ajotuntia 269 €, 5 ajotuntia 409 €), mutta peruskurssin kokonaishinta ei ole suoraan näkyvissä."
+      },
+      {
+       "mittari": "Ilmoittautuminen onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Maksutavat-sivulla (cap.fi/usein-kysyttya/maksutavat-ja-ehdot/) kehotetaan valitsemaan kurssi ja aloittamaan ilmoittautuminen, verkkomaksu mainitaan, ja sopimusehdoissa mainitaan tilauksen tekeminen cap.fi-nettisivuilla."
+      },
+      {
+       "mittari": "Kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan teoriatunnit, ajotunnit ja simulaattoriajotunnit, mutta tarkkaa ajotuntien määrää, teorian rakennetta tai maksuerätietojen yhteyttä kurssin etenemiseen ei kuvata."
+      },
+      {
+       "mittari": "Toimipisteet ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla listataan kaikki 135 toimipistettä osoitteella, puhelinnumerolla, sähköpostilla ja aukioloajoilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mikään ladattu sivu ei näytä Y-tunnusta. Yrityksen nimi CAP-Group Oy mainitaan, mutta Y-tunnus puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy linkkejä riippumattomiin arviointipalveluihin tai asiakasarvioihin, kuten Google Reviews tai Trustpilot."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla näkyy puhelin 050 913 0300 ja molempiin toimipisteitä listataan puhelin numeroita."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla näkyy sähköposti asiakaspalvelu@cap.fi ja funktionaaliset sähköpostit (esim. laskutus@cap.fi) eri toimipisteille."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla mainitaan 'Voit olla yhteydessä myös nettisivujemme chat-palvelun avulla aukioloaikojen puitteissa'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla näkyy ma-to 10.00-18.00, pe 10.00-15.00, ja toimipisteet-sivulla jokaisella toimipisteellä on aukioloajat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Maksutavat-sivulla on otsikko 'Usein kysyttyja kysymyksia maksamisesta' ja kysymyslistaa, mutta erillinen UKK-sivu palauttaa 404-virheen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4921.659,
+    "cls": 0,
+    "tbt_ms": 1836.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja toimipisteverkko (135 toimipistettä) ja selkeä yhteystietojen esittäminen jokaiselle paikkakunnalle",
+    "Monipuoliset maksuvaihtoehdot (verkkomaksu, osamaksu 36 kk asti, lasku) ja selkeä hinnan laskemisen apuväline maksusivulla",
+    "CAP-äppi ja verkko-oppimisympäristö mainitaan, mikä viestii modernista oppimisympäristöstä"
+   ],
+   "kehityskohteet": [
+    "B-kortin peruskurssin kokonaishinta ei ole selvästi esillä hinnastosivulla – näkyy vain yksittäisten ajotuntien hinnat",
+    "Kurssin sisältöä (ajotuntien tarkkaa määrää, teoriatuntien rakennetta, maksuerätietojen yhteyttä kurssin etenemiseen) ei kuvata riittävästi",
+    "Usein kysytyt kysymykset -osio ja ilmoittautumissivut palauttavat 404-virheitä, mikä heikentää asiakkaan navigointi-kokemusta"
+   ],
+   "yhteenveto": "CAP-Autokoulu on Suomen suurin autokoulu, joka tarjoaa kurssihinnat ja ilmoittautumisen selkeästi verkossa. Toimipisteverkko on laaja (135 paikkaa ympäri Suomea) ja yhteystiedot löytyvät helposti. Maksuvaihtoehdot ovat monipuoliset ja hyvin selitettyjä. Sivusto kuitenkin kaipaa selkeyttä kurssin sisällön kuvaamiseen ja B-kortin perushintaa on vaikea löytää yksittäisten ajotuntien hintojen seasta."
+  },
+  {
+   "slug": "ajokorttiverkosta",
+   "nimi": "Ajokortti Verkosta",
+   "domain": "ajokorttiverkosta.fi",
+   "omistaja": "RG Driving Consulting Oy — verkkopainotteinen autokoulu",
+   "y_tunnus": "1440949-9",
+   "rekisteroity": 1998,
+   "score": 50.6,
+   "pillars": {
+    "digitaalinen": 68.2,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 22.5,
+    "ai_laatu": 41.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kurssien hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston verkkokaupassa ja tuotesivuilla (tuote/henkiloautokurssi-kattava) kurssien hinnat näyttävät olevan JavaScript-renderöityjä eivätkä näy staattisesti ladattavassa sisällössä. Hintojen näkemiseksi vaaditaan sisäänkirjautuminen tai kauppaympäristön interaktiivinen käyttö."
+      },
+      {
+       "mittari": "Ilmoittautuminen onnistuu verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on aktiivinen verkkokauppa (ajokorttiverkosta.fi/kauppa/) josta voi lisätä kursseja ostoskoriin ja lähestulkoon varmasti ilmoittautua verkossa. Kauppaympäristö on käytössä ja kurssilinkit johtavat kauppa-alustalle."
+      },
+      {
+       "mittari": "Kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kurssien nimet ovat selvästi esillä (Henkilöautokurssi, Henkilöautokurssi KATTAVA, EAS-koulutus, RTK), mutta yksityiskohdat kuten ajotuntien lukumäärä, teoriasisällön laajuus ja maksuerät eivät näy staattisesti ladattavassa sisällössä ja vaativat sisäänkirjautumista."
+      },
+      {
+       "mittari": "Toimipisteet ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston paikkakunnat-osiossa listataan 30+ toimipaikka 8 alueella: Etelä-Pohjanmaa, Kanta-Häme, Keski-Suomi, Pirkanmaa, Pohjanmaa, Pohjois-Karjala, Pohjois-Pohjanmaa, Pohjois-Savo ja Uusimaa. Erityisiä yhteystietoja (puhelinnumero, sähköpostiosoite) ei näy pääsivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy missään ladatussa sivun osassa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy riippumattomia arviota tai asiakkaspalautteiden osaa. Google Reviewsin tai muiden arviointisivustojen linkkejä ei ole näkyvissä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "45/100",
+       "paino": 34,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 86,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 9837.798999999999,
+    "cls": 0.001662454875939239,
+    "tbt_ms": 1196.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkko 30+ kaupungissa koko Suomessa, selkeä alueittainen jäsennys",
+    "Monipuolinen kurssivalikoimasta ajokieltoista riskientunnistamiskoulutukseen",
+    "Verkkokauppa mahdollistaa kursseille ilmoittautumisen sähköisesti"
+   ],
+   "kehityskohteet": [
+    "Kurssien hinnat eivät ole staattisesti saatavilla ennen sisäänkirjautumista tai kaupan avautumista",
+    "Kurssin sisällön yksityiskohdat (ajotuntien määrä, teoriasisällön laajuus, maksuerät) puuttuvat tai vaativat sisäänkirjautumista",
+    "Yhteystiedot (puhelin, sähköposti) ovat vain osittain näkyvillä sivustolla"
+   ],
+   "yhteenveto": "Ajokortti Verkosta (NetDriving) on kotimainen autokoulu, jolla on laajat toimipisteet ympäri Suomea. Sivuston vahvuutena on selkeä paikkakuntaluettelo ja monipuolinen kurssivalikoimasta ajokieltojen koulutuksesta riskientunnistamiskoulutukseen. Heikkoutena hintojen saatavuus: kurssihinnat eivät näy staattisesti vaan ne vaativat rekisteröitymisen tai kaupan avautumista, mikä tekee verailusta haastavaa."
+  }
+ ],
+ "updated": "21.7.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kurssien hinnat julkisesti esillä (30), ilmoittautuminen onnistuu verkossa (20), kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu (15), toimipisteet ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

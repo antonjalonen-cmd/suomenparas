@@ -1,0 +1,53 @@
+{
+  "slug": "epic-autokoulu",
+  "fetched_ok": [
+    "https://www.epicautokoulu.fi/",
+    "https://www.epicautokoulu.fi/ajokortti/henkiloautokurssit/",
+    "https://www.epicautokoulu.fi/maksutavat/",
+    "https://www.epicautokoulu.fi/tietoa-meista/",
+    "https://www.epicautokoulu.fi/sopimusehdot/"
+  ],
+  "kurssihinnat_esilla": "osittain",
+  "ilmoittautuminen_verkossa": "kylla",
+  "kurssisisalto_kuvattu": "kylla",
+  "toimipisteet_ja_yhteystiedot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "b_kortti_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Verkkoteoriat omassa tahdissa omaan aikatauluun - ei tarvitse tulla paikalle harjoitteluun",
+    "Laaja toimipisteiden verkko (127 paikkakunnan toimipisteessä) koko Suomen alueella",
+    "Monipuoliset joustavat maksutavat (Epic-lasku 1-4 erässä, Klarna, verkkopankki)"
+  ],
+  "kehityskohteet": [
+    "B-kortin kurssien hinnat vaativat JavaScript-interaktiota ja toimipisteen valintaa - ei näkyvissä staattisesta HTML:stä",
+    "Ei riippumattomia arvioita tai asiakaspalautteiden näyttöä sivustolla - ei sosiaalisen todisteen elementtejä",
+    "Tietosuoja-sivu on \"Coming Soon\" -tilassa eikä sisällä tietosuojan kannalta vaadittavia tietoja"
+  ],
+  "yhteenveto": "Epic Autokoulu on Suomen suurin suomalaisomisteinen autokouluketju, joka palvelee yli 25 000 asiakasta vuosittain 127 toimipisteellä maanlaajuisesti. Verkkosivusto mahdollistaa kursseille ilmoittautumisen verkossa ja tarjoaa yksityiskohtaiset tiedot kurssisisällöstä, maksuista ja aukioloajoista. Kurssien hintatiedot ovat sivustolla saatavilla, mutta ne vaativat käyttäjän tekemää toimipisteen valintaa JavaScript-renderöinnin kautta.",
+  "evidence": {
+    "kurssihinnat_esilla": "HAVAINTO: Henkilöautokurssin hintasivu saatavilla, mutta yksittäiset kurssien hinnat vaativat toimipisteen valintaa ja JavaScript-renderöintiä staattisesti ladattavasta HTML:stä. Sivulla mainitaan 'Sinun on ensin valittava sijainti nähdäksesi kurssien hinnat' ja 'Muiden kurssien hinnoista sekä korttien korotuksista voit tiedustella meiltä sähköpostilla'. B-kortin hinta ei ollut saatavilla automatisoitujen fetch-menetelmien avulla.",
+    "ilmoittautuminen_verkossa": "HAVAINTO: Sivuilla useaan otteeseen kehotetaan ilmoittautumaan verkossa: 'Voit ilmoittautua suoraan verkkosivuillamme valitsemalla lähimmän toimipisteen ja sopivan kurssipaketin.' Kurssi-ilmoittautumisen jälkeen asiakkaalle luodaan tunnukset Streamways-oppimissovellukseen.",
+    "kurssisisalto_kuvattu": "HAVAINTO: B-ajokortin sisältö kuvattu yksityiskohtaisesti: 'Kortin suorittamiseen kuuluu teoriaopetusta, ajo-opetusta sekä teoria- ja ajokoe.' Lisäksi jaettu seitsemän vaihe prosessi: ilmoittautuminen, ajokorttilupahakemus, teoriaopinnot sovelluksella, teoriakoe, ajotunnit, ajokoe, ajokortti. Verkkoteoriatunnit ovat saatavilla arkisin klo 8-22 ja perjantaista lauantaihin klo 8-16.",
+    "toimipisteet_ja_yhteystiedot": "HAVAINTO: 127 toimipistettä mainittu pääsivulla. Y-tunnus 2551291-8 ja osoite 'Tykistökatu 4, 20520 Turku' sopimusehtojen alussa. Asiakaspalvelun puhelin 010 524 5400 (arkisin klo. 10-14) näkyvissä usealla sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2551291-8 mainittu sopimusehtojen sivulla: 'Y-tunnus 2551291-8, arvonlisäverotunniste FI25512918, osoite Tykistökatu 4, 20520 Turku'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä riippumattomia arvioita, asiakastyytyväisyyden arviointeja tai kolmansien osapuolten palautteita. Sivuilla mainitaan että asiakasfeedbackia voidaan antaa, mutta sisäisesti - ei kolmansien osapuolten arviointilähteisiin linkkejä.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 010 524 5400 näkyy useilla sivuilla ja aukioloajat mainitaan 'arkisin klo. 10-14'.",
+    "email_esilla": "HAVAINTO: Useita sähköpostiosoitteita saatavilla: asiakaspalvelu@epicautokoulu.fi, palaute@epicautokoulu.fi, laskutus@epicautokoulu.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainittu: 'Asiakaspalvelumme palvelee viikon jokaisena arkipäivänä chätissä, puhelimessa sekä sähköpostitse.' Lisäksi: 'Chat löytyy sivun oikeasta alakulmasta.'",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat mainittu useasti: 'arkisin klo. 10-14' puhelinpalvelulle. Chat saatavilla 'viikon jokaisena arkipäivänä'.",
+    "ukk_osio": "HAVAINTO: Laaja Usein kysytyt kysymykset -osio henkilöautokurssien sivulla, joka kattaa ilmoittautumisen, ajotuntien varaukset, maksamisen, toimipisteet ja muita aiheita.",
+    "mobiilisovellus": "HAVAINTO: Streamways-oppimissovellusta käytetään teoriatuntien ja ajotuntivarausten hallintaan. Sovellus mainittu useasti: 'Teoriaopinnot hoituvat verkkotunteina sinulle sopivina ajankohtina' ja 'Ajotunnit varataan suoraan Streamways -sovelluksesta'."
+  }
+}

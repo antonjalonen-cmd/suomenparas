@@ -80,8 +80,8 @@ CATEGORY_GROUPS = [
     ("Koti ja asuminen", [
         ("Lämpöpumppuasentajat", None, False), ("Aurinkopaneeliasentajat", None, False),
         ("Putkiliikkeet", None, False), ("Sähköasentajat", None, False),
-        ("Kattoremontit", None, False), ("Muuttopalvelut", None, False),
-        ("Siivouspalvelut", None, False), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
+        ("Kattoremontit", None, False), ("Muuttopalvelut", "muuttopalvelut", True),
+        ("Siivouspalvelut", "siivouspalvelut", True), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
         ("Rakennusliikkeet", None, False), ("Maalausliikkeet", None, False),
         ("Ikkunaremontit", None, False), ("Keittiöremontit", None, False),
         ("Lukkoliikkeet", None, False), ("Kodinkonehuolto", None, False),
@@ -91,7 +91,7 @@ CATEGORY_GROUPS = [
     ("Auto ja liikenne", [
         ("Autokorjaamot", None, False), ("Autokatsastus", "autokatsastus", True),
         ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", None, False),
-        ("Autokoulut", None, False), ("Autovuokraamot", "autovuokraamot", True),
+        ("Autokoulut", "autokoulut", True), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", None, False),
@@ -952,7 +952,7 @@ def build_index():
     <div class="cat-grid">
       {live_tiles}
       <span class="cat-tile off">Autokorjaamot <span class="st">TULOSSA</span></span>
-      <span class="cat-tile off">Muuttopalvelut <span class="st">TULOSSA</span></span>
+      <span class="cat-tile off">Autopesulat <span class="st">TULOSSA</span></span>
       <a class="cat-tile" href="kategoriat/" style="justify-content:center;background:var(--ink);color:#fff">Kaikki {TOTAL_CATS} kategoriaa →</a>
     </div>
   </div>
