@@ -264,6 +264,27 @@ nav.main a.on{color:var(--gold-line)}
 .sp-sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--blue-deep)}
 .sp-go{color:var(--mut)}
 .sp-empty{padding:14px;color:var(--mut);font-weight:600;font-size:.92rem}
+/* certificate showcase */
+.cert-wrap{display:grid;grid-template-columns:auto 1fr;gap:34px;align-items:start;margin:10px 0 30px}
+@media(max-width:860px){.cert-wrap{grid-template-columns:1fr}}
+.cert-demo{max-width:360px}
+.cert-inner{background:linear-gradient(160deg,#FFF6FB 0%,#FDEFF5 100%);border:3px solid var(--ink);border-radius:18px;box-shadow:0 8px 0 rgba(74,14,44,.25);padding:30px 26px;text-align:center;position:relative;overflow:hidden}
+.cert-inner::before{content:"";position:absolute;inset:8px;border:2px dashed var(--line);border-radius:12px;pointer-events:none}
+.cert-crown{font-size:2rem;line-height:1}
+.cert-brand{font-family:'Baloo 2',sans-serif;font-weight:800;color:var(--ink);font-size:1.05rem;margin-top:4px}
+.cert-brand span{color:var(--gold-deep)}
+.cert-title{font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.42em;color:var(--mut);margin:10px 0 14px}
+.cert-company{font-family:'Baloo 2',sans-serif;font-weight:700;font-size:1.35rem;color:var(--ink)}
+.cert-rank{color:var(--gold-deep);font-weight:800;font-size:.9rem;margin-top:2px}
+.cert-score{margin:14px 0 6px}
+.cert-score b{font-family:'Baloo 2',sans-serif;font-size:3rem;color:var(--blue-deep);font-weight:700}
+.cert-score span{color:var(--mut);font-weight:700;margin-left:4px}
+.cert-meta{font-size:.74rem;color:var(--mut);font-weight:700}
+.cert-verify{font-family:'IBM Plex Mono',monospace;font-size:.62rem;color:var(--body);margin-top:12px;padding-top:12px;border-top:1.5px solid var(--line)}
+.cert-stamp{position:absolute;top:18px;right:-34px;transform:rotate(38deg);background:var(--gold);color:var(--ink);font-family:'IBM Plex Mono',monospace;font-size:.56rem;font-weight:700;letter-spacing:.1em;padding:5px 40px;border:1.5px solid var(--ink)}
+.cert-note{font-size:.76rem;color:var(--mut);font-weight:600;margin-top:10px;text-align:center}
+.cert-list{margin:14px 0 0 22px}
+.cert-list li{margin:10px 0;font-weight:600;color:var(--body)}
 /* footer legal links */
 .foot-legal{margin-top:20px;font-size:.8rem;line-height:2;font-weight:600}
 .foot-legal a{white-space:nowrap}
@@ -1517,21 +1538,48 @@ def build_sertifikaatti():
   <p class="crumb"><a href="../">Etusivu</a> › <b>Sertifikaatti</b></p>
   <div class="pageh" style="padding-top:0">
     <h1>Suomen Paras -sertifikaatti</h1>
-    <p class="lead">Merkki, jonka yritys voi ansaita, mutta ei ostaa. Sertifikaatti on tulossa.</p>
+    <p class="lead">Ladattava digitaalinen sertifikaatti, joka näyttää yrityksesi mitatun Scoren ja sijoituksen kategoriassaan. Sen voi ansaita, mutta ei ostaa. Lataus avautuu pian.</p>
     <div class="meta-row"><span class="upd">TULOSSA</span></div>
   </div>
 
+  <div class="cert-wrap">
+    <div class="cert-demo" aria-label="Esimerkki sertifikaatista">
+      <div class="cert-inner">
+        <div class="cert-crown">👑</div>
+        <div class="cert-brand">SuomenParas<span>.com</span></div>
+        <div class="cert-title">SERTIFIKAATTI</div>
+        <div class="cert-company">Esimerkki Yritys Oy</div>
+        <div class="cert-rank">#1 · Kategoriansa paras</div>
+        <div class="cert-score"><b>88,4</b><span>/ 100</span></div>
+        <div class="cert-meta">Suomen Paras Score {SCORE_VERSION} · Mitattu 21.7.2026</div>
+        <div class="cert-verify">Vahvista pisteet: suomenparas.antonjalonen.fi</div>
+        <div class="cert-stamp">ANSAITTU, EI OSTETTU</div>
+      </div>
+      <div class="cert-note">Esimerkkikuva. Oikea sertifikaatti tehdään yrityksesi mitatuista pisteistä.</div>
+    </div>
+    <div class="cert-info">
+      <h2 class="sec">Mitä sertifikaatti sisältää</h2>
+      <ul class="cert-list">
+        <li><b>Mitattu Score ja sijoitus</b> kategoriassasi (esim. #1 / 9 vertailtua)</li>
+        <li><b>Mittauspäivä ja Score-versio</b>, jotta lukija tietää mihin hetkeen tulos perustuu</li>
+        <li><b>Vahvistuslinkki</b> julkiseen pisteprofiiliisi, josta kuka tahansa voi tarkistaa jokaisen pisteen alkuperän</li>
+        <li><b>Ladattava tiedosto</b>, jonka voit laittaa verkkosivullesi, someen, tarjouksiin tai toimitilan seinälle</li>
+      </ul>
+    </div>
+  </div>
+
   <div class="steps">
-    <div class="step"><span class="k">MIKÄ SE ON</span><h3>Todiste läpinäkyvyydestä</h3><p>Suomen Paras -sertifikaatti myönnetään yritykselle, jonka mitattu Score ylittää kategoriansa vaatimustason. Merkin voi näyttää omalla sivustolla, ja jokainen merkki linkittyy yrityksen julkiseen pisteprofiiliin, josta kuka tahansa voi tarkistaa mihin se perustuu.</p></div>
-    <div class="step"><span class="k">MITEN SEN SAA</span><h3>Mittaamalla, ei maksamalla</h3><p>Sertifikaattia ei voi ostaa. Se ansaitaan samalla julkisella pisteytyksellä, jolla koko kategoria on mitattu, ja se päivittyy jokaisen mittauskierroksen mukana. Jos mittarit heikkenevät, merkki poistuu.</p></div>
-    <div class="step"><span class="k">MILLOIN</span><h3>Tulossa</h3><p>Sertifikaatti julkaistaan, kun kategorioiden mittaus on vakiintunut. Jos haluat yrityksesi ensimmäisten joukkoon, pyydä maksuton analyysi niin näet jo nyt, missä mittarisi ovat.</p></div>
+    <div class="step"><span class="k">MITEN SEN SAA</span><h3>Mittaamalla, ei maksamalla</h3><p>Sertifikaatti ansaitaan samalla julkisella pisteytyksellä, jolla koko kategoria on mitattu. Sitä ei voi ostaa, eikä mikään maksu vaikuta pisteisiin.</p></div>
+    <div class="step"><span class="k">PYSYYKÖ SE</span><h3>Elää mittausten mukana</h3><p>Sertifikaatti päivittyy jokaisen mittauskierroksen mukana. Jos mittarit heikkenevät, sertifikaatti vanhenee, ja siksi siihen on aina merkitty mittauspäivä.</p></div>
+    <div class="step"><span class="k">MIKSI SIIHEN VOI LUOTTAA</span><h3>Jokainen piste on tarkistettavissa</h3><p>Sertifikaatin vahvistuslinkki vie yrityksen julkiseen profiiliin, jossa näkyy mittari mittarilta mistä pisteet tulevat. Väite, jonka kuka tahansa voi tarkistaa, on enemmän kuin logo.</p></div>
   </div>
 
   <div class="b2b">
-    <h3>Haluatko olla mukana ensimmäisten joukossa?</h3>
-    <p>Pyydä maksuton analyysi, niin näet jo ennen sertifikaatin julkaisua, mitkä mittarit ovat kunnossa ja mitkä vaativat korjausta.</p>
+    <h3>Haluatko sertifikaatin ensimmäisten joukossa?</h3>
+    <p>Lataus avataan pian. Pyydä maksuton analyysi, niin näet jo nyt mitkä mittarit ovat kunnossa ja mitkä korjaamalla nouset, ja saat tiedon heti kun sertifikaatit julkaistaan.</p>
     <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
-    <small>Sertifikaattia ei voi ostaa. Sijoitusta ei voi ostaa. Molemmat ansaitaan.</small>
+    <a class="btn" href="../yhteiso/" style="margin-left:10px;background:var(--card);color:var(--ink)">Liity paneeliin, saat tiedon julkaisusta</a>
+    <small>Sertifikaattia ei voi ostaa. Sijoitusta ei voi ostaa. Molemmat ansaitaan. <a href="../sertifikaatti-ehdot/" style="color:#F8DCE9">Käyttöehdot</a></small>
   </div>
 </div>"""
     return page("Suomen Paras -sertifikaatti (tulossa) | Suomen Paras",

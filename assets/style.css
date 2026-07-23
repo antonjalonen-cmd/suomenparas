@@ -125,6 +125,27 @@ nav.main a.on{color:var(--gold-line)}
 .sp-sc{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--blue-deep)}
 .sp-go{color:var(--mut)}
 .sp-empty{padding:14px;color:var(--mut);font-weight:600;font-size:.92rem}
+/* certificate showcase */
+.cert-wrap{display:grid;grid-template-columns:auto 1fr;gap:34px;align-items:start;margin:10px 0 30px}
+@media(max-width:860px){.cert-wrap{grid-template-columns:1fr}}
+.cert-demo{max-width:360px}
+.cert-inner{background:linear-gradient(160deg,#FFF6FB 0%,#FDEFF5 100%);border:3px solid var(--ink);border-radius:18px;box-shadow:0 8px 0 rgba(74,14,44,.25);padding:30px 26px;text-align:center;position:relative;overflow:hidden}
+.cert-inner::before{content:"";position:absolute;inset:8px;border:2px dashed var(--line);border-radius:12px;pointer-events:none}
+.cert-crown{font-size:2rem;line-height:1}
+.cert-brand{font-family:'Baloo 2',sans-serif;font-weight:800;color:var(--ink);font-size:1.05rem;margin-top:4px}
+.cert-brand span{color:var(--gold-deep)}
+.cert-title{font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.42em;color:var(--mut);margin:10px 0 14px}
+.cert-company{font-family:'Baloo 2',sans-serif;font-weight:700;font-size:1.35rem;color:var(--ink)}
+.cert-rank{color:var(--gold-deep);font-weight:800;font-size:.9rem;margin-top:2px}
+.cert-score{margin:14px 0 6px}
+.cert-score b{font-family:'Baloo 2',sans-serif;font-size:3rem;color:var(--blue-deep);font-weight:700}
+.cert-score span{color:var(--mut);font-weight:700;margin-left:4px}
+.cert-meta{font-size:.74rem;color:var(--mut);font-weight:700}
+.cert-verify{font-family:'IBM Plex Mono',monospace;font-size:.62rem;color:var(--body);margin-top:12px;padding-top:12px;border-top:1.5px solid var(--line)}
+.cert-stamp{position:absolute;top:18px;right:-34px;transform:rotate(38deg);background:var(--gold);color:var(--ink);font-family:'IBM Plex Mono',monospace;font-size:.56rem;font-weight:700;letter-spacing:.1em;padding:5px 40px;border:1.5px solid var(--ink)}
+.cert-note{font-size:.76rem;color:var(--mut);font-weight:600;margin-top:10px;text-align:center}
+.cert-list{margin:14px 0 0 22px}
+.cert-list li{margin:10px 0;font-weight:600;color:var(--body)}
 /* footer legal links */
 .foot-legal{margin-top:20px;font-size:.8rem;line-height:2;font-weight:600}
 .foot-legal a{white-space:nowrap}
