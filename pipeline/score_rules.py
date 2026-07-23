@@ -43,6 +43,48 @@ AI = [
 # The 30-point "price before your data" criterion is deliberately the heaviest in
 # every vertical — it is the site's core question, expressed in each domain's terms.
 TRANSPARENCY = {
+    "fysioterapia": [
+        ("hinnat_esilla", "Fysioterapiakäyntien hinnat julkisesti esillä", 30),
+        ("varaus_verkossa", "Ajanvaraus toimii verkossa ilman puhelua", 20),
+        ("palvelut_kuvattu", "Palvelut ja erikoisalat kuvattu", 15),
+        ("terapeutit_esitelty", "Terapeutit ja pätevyydet esitelty", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "autopesulat": [
+        ("hinnat_esilla", "Pesujen hinnat julkisesti esillä", 30),
+        ("pesuohjelmat_kuvattu", "Pesuohjelmien sisältö kuvattu", 20),
+        ("toimipisteet_ja_aukioloajat", "Pesupaikat ja aukioloajat kerrottu", 20),
+        ("osto_verkossa", "Pesun voi ostaa tai varata verkossa", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+
+    "hautaustoimistot": [
+        ("hinnat_esilla", "Hautauspalvelujen hinnat julkisesti esillä", 30),
+        ("paketit_kuvattu", "Palvelupakettien sisältö kuvattu", 20),
+        ("prosessi_kuvattu", "Hautausjärjestelyjen eteneminen kuvattu", 15),
+        ("toimialue_kerrottu", "Toimialue ja toimipisteet kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "matkatoimistot": [
+        ("hinnat_esilla", "Matkojen hinnat julkisesti esillä", 25),
+        ("varaus_verkossa", "Matkan voi varata verkossa ilman yhteydenottoa", 20),
+        ("ehdot_saatavilla", "Matkapaketti- ja peruutusehdot julkisesti saatavilla", 20),
+        ("vakuus_kerrottu", "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "tilitoimistot": [
+        ("hinnat_esilla", "Hinnoittelu (kuukausipaketit tai tuntihinnat) julkisesti esillä", 30),
+        ("palvelut_kuvattu", "Palvelujen sisältö kuvattu", 20),
+        ("ohjelmistot_kerrottu", "Käytetyt ohjelmistot ja integraatiot kerrottu", 15),
+        ("auktorisointi_kerrottu", "Auktorisointi tai KLT-pätevyydet kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+
     "vakuutukset": [
         ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),
         ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),

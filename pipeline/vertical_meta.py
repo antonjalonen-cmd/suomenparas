@@ -952,3 +952,136 @@ META["virustorjuntaohjelmat"] = {
          "affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
     ],
 }
+
+
+META["hautaustoimistot"] = {
+    "slug": "hautaustoimistot",
+    "nimi": "Hautaustoimistot",
+    "nav": "Hautaustoimistot",
+    "h1": "Suomen paras hautaustoimisto 2026",
+    "yksikko": "usealla paikkakunnalla palvelevaa hautaustoimistoa",
+    "lead": ("Pisteytimme {n} usealla paikkakunnalla tai verkossa koko maahan palvelevaa "
+             "hautaustoimistoa {m} mittarilla. Tärkein kysymys: näkyvätkö hinnat ja pakettien "
+             "sisältö ennen yhteydenottoa, vaikeimmalla mahdollisella hetkellä?"),
+    "meta_title": "Suomen paras hautaustoimisto 2026 | hautaustoimistot pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} monipaikkakuntaista hautaustoimistoa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Hautausala on rakenteellisesti paikallinen: valtaosa Suomen "
+         "hautaustoimistoista palvelee yhtä seutua. Listalla ovat löytämämme usean paikkakunnan "
+         "toimijat ja koko maahan verkossa palvelevat yritykset; jokaisen rivin kattavuus on "
+         "merkitty omistajatietoon. Memoria on 30+ itsenäisen perheyrityksen verkosto, jonka "
+         "yhteistä sivustoa mittaus koskee."),
+        ("<b>Miksi hintojen näkyvyys painaa eniten?</b> Hautajaisia järjestetään harvoin ja "
+         "kesken surun. Selkeästi julkaistut hinnat ja pakettien sisältö suojaavat ostajaa "
+         "tilanteessa, jossa vertailu on raskasta. Siksi hintojen ja pakettien läpinäkyvyys on "
+         "puolet kategorian läpinäkyvyyspisteistä."),
+        ("<b>Karsitut:</b> ArvoHautaus on vertailuportaali eikä hautaustoimisto. Muistovalkea on "
+         "tietopankki. Yhden seudun paikalliset toimistot on rajattu pois, jotta vertailu pysyy "
+         "reiluna: paikallinen erikoistuminen ja valtakunnallinen kattavuus ovat eri asioita."),
+    ],
+}
+
+META["matkatoimistot"] = {
+    "slug": "matkatoimistot",
+    "nimi": "Matkatoimistot",
+    "nav": "Matkatoimistot",
+    "h1": "Suomen paras matkatoimisto 2026",
+    "yksikko": "valtakunnallista matkatoimistoa",
+    "lead": ("Pisteytimme {n} valtakunnallisesti palvelevaa matkatoimistoa ja matkanjärjestäjää "
+             "{m} mittarilla. Tärkein kysymys: näkyvätkö matkojen hinnat ja ehdot ennen "
+             "varausta, ja onnistuuko varaus verkossa?"),
+    "meta_title": "Suomen paras matkatoimisto 2026 | matkatoimistot pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} valtakunnallista matkatoimistoa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Suomessa valmismatkoja ja matkapalveluja myyvät sekä suuret "
+         "kansainväliset konsernit (TUI, Tjäreborg/Ving, Apollomatkat/DERTOUR) että kotimaiset "
+         "yhtiöt (Aurinkomatkat/Finnair, Matkapojat, Lomalinja, Pohjolan Matka, Olympia, "
+         "Aventura, IMT). Omistus on merkitty jokaiselle riville."),
+        ("<b>Kuolleet brändit karsittu:</b> Detur Finland asetettiin konkurssiin lokakuussa 2022. "
+         "Matkavekka-brändi kuoli Primera Travelin romahduksessa, ja domain on nykyään "
+         "ulkopuolisen SEO-sivusto, jolla ei ole tekemistä matkatoimiston kanssa. Matka-Agentit "
+         "on sama yhtiö kuin Matkapojat, joten se ei ole listalla erikseen."),
+        ("<b>Mittausrajoite:</b> tui.fi käyttää botti-estoa, joka rajoittaa automaattista "
+         "mittausta. Sivusto mitattiin selainpohjaisella haulla; jos jokin mittari jäi "
+         "vahvistamatta, se on merkitty puuttuvana tietona eikä puutteena."),
+    ],
+}
+
+META["tilitoimistot"] = {
+    "slug": "tilitoimistot",
+    "nimi": "Tilitoimistot",
+    "nav": "Tilitoimistot",
+    "h1": "Suomen paras tilitoimisto 2026",
+    "yksikko": "valtakunnallista tilitoimistoketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista tai monikaupunkista tilitoimistoketjua {m} "
+             "mittarilla. Tärkein kysymys: kertooko tilitoimisto hintansa ja palvelunsa "
+             "julkisesti, vai vasta tarjouspyynnön jälkeen?"),
+    "meta_title": "Suomen paras tilitoimisto 2026 | tilitoimistot pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} valtakunnallista tilitoimistoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Suurimmat valtakunnalliset ja monikaupunkiset ketjut: "
+         "pörssiyhtiöt Talenom, Aallon Group ja Administer, pohjoismaiset Aspia ja Azets sekä "
+         "kotimaiset Rantalainen, Greenstep, Balanco ja Gallant. Rantalainen on konserni, jolla "
+         "on kymmeniä alueyhtiöitä; mittaus koskee yhteistä sivustoa."),
+        ("<b>Accountor ei ole listalla</b>, koska sen tilitoimistoliiketoiminta siirtyi "
+         "Aspia-konserniin ja brändi poistui käytöstä; vanha osoite ohjaa Aspian sivulle. "
+         "Fennoa on taloushallinnon ohjelmisto eikä tilitoimisto, joten sitä ei mitata tässä "
+         "kategoriassa."),
+        ("<b>Huomio kohdeyleisöstä:</b> tilitoimistopalvelut ostaa tyypillisesti yritys, ei "
+         "kuluttaja. Mittaamme silti samaa asiaa kuin muissakin kategorioissa: kertooko "
+         "palveluntarjoaja hinnat, sisällön ja ehdot julkisesti ennen yhteydenottoa."),
+    ],
+}
+
+
+META["fysioterapia"] = {
+    "slug": "fysioterapia",
+    "nimi": "Fysioterapia",
+    "nav": "Fysioterapia",
+    "h1": "Suomen paras fysioterapiaketju 2026",
+    "yksikko": "monikaupunkista fysioterapiaketjua",
+    "lead": ("Pisteytimme {n} usealla paikkakunnalla toimivaa fysioterapiaketjua {m} mittarilla. "
+             "Tärkein kysymys: näkyvätkö käyntihinnat ja terapeuttien pätevyydet ilman "
+             "puhelinsoittoa, ja onnistuuko ajanvaraus verkossa?"),
+    "meta_title": "Suomen paras fysioterapiaketju 2026 | fysioterapia pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} monikaupunkista fysioterapiaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Fysioterapiaan erikoistuneet ketjut (Coronaria Fysioterapia, "
+         "Kotifysio) sekä terveysjätit, joiden lääkärikeskuksissa fysioterapia on osa palvelua "
+         "(Mehiläinen, Terveystalo, Pihlajalinna, Aava) ja kuntokeskusketju Fressi. Suurten "
+         "terveystalojen rivit mittaavat koko sivustoa, jolta fysioterapiatiedot löytyvät."),
+        ("<b>Fysios ei ole oma rivinsä</b>, koska Fysios Mehiläinen Oy sulautui Mehiläinen "
+         "Oy:hyn huhtikuussa 2026 ja fysios.fi ohjaa Mehiläisen sivulle. Auron-brändi sulautui "
+         "Fysiokseen jo 2020. Kela-korvaus yksityisestä fysioterapiasta päättyi vuoden 2023 "
+         "alussa, joten hintojen läpinäkyvyys ratkaisee aiempaa enemmän."),
+        ("<b>Mittausrajoite:</b> mehilainen.fi rajoittaa automaattista hakua, joten se "
+         "mitattiin selainpohjaisella haulla. Vahvistamatta jäänyt mittari merkitään "
+         "puuttuvana tietona eikä puutteena."),
+    ],
+}
+
+META["autopesulat"] = {
+    "slug": "autopesulat",
+    "nimi": "Autopesulat",
+    "nav": "Autopesulat",
+    "h1": "Suomen paras autopesuketju 2026",
+    "yksikko": "valtakunnallista tai monikaupunkista autopesuketjua",
+    "lead": ("Pisteytimme {n} usealla paikkakunnalla toimivaa autopesuketjua {m} mittarilla. "
+             "Tärkein kysymys: näkyvätkö pesujen hinnat ja ohjelmien sisältö verkossa, vai "
+             "selviävätkö ne vasta pesukadulla?"),
+    "meta_title": "Suomen paras autopesuketju 2026 | autopesulat pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} autopesuketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Asemaketjujen pesuverkostot (ABC CarWash, Neste, St1), "
+         "pesuun erikoistuneet ketjut (Carwash, GoWash, KORREK Pro Center, CarStation) ja "
+         "Hesburgerin Hese-Pesu. St1 Suomi Oy operoi myös Shell-asemien pesut, joten Shell ei "
+         "ole listalla erikseen. Osa riveistä mittaa koko ketjun sivustoa, jonka osa autopesu on."),
+        ("<b>Teboil ei ole listalla:</b> Lukoilin omistama Teboil on ollut marraskuusta 2025 "
+         "alkaen pakotteiden kohteena, kymmeniä asemia on suljettu ja yrityskauppa on kesken. "
+         "Tilanne on liian epävakaa reiluun pisteytykseen; palaamme asiaan kun omistus on "
+         "selvinnyt."),
+        ("<b>Karsitut:</b> Prowash myy pesulaitteita yrityksille eikä ole kuluttajaketju. "
+         "Yhden kaupungin pesulat (mm. CleanCar Kuopio, Pesuparoni Lahti) on rajattu pois, "
+         "jotta vertailu pysyy reiluna."),
+    ],
+}

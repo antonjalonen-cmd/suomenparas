@@ -883,3 +883,132 @@ COMPANIES["virustorjuntaohjelmat"] = [
     dict(slug="totalav", nimi="TotalAV", domain="totalav.com", y_tunnus=None,
          omistaja="Total Security Limited (Iso-Britannia) / Total Security US LLC"),
 ]
+
+
+# HAUTAUSTOIMISTOT (verified 23.7.2026, agent + PRH). Multi-city / nationwide-online
+# operators only; the field is structurally local so coverage is written on each row.
+# EXCLUDED: Muistovalkea (tietopankki, ei hautaustoimisto), ArvoHautaus (vertailuportaali
+# eli kilpaileva palvelu), Lund/Kaarna/Tähtinen (yhden seudun paikallisia), Pietas +
+# hyvastit.fi + fenixhautaus.fi (domainit kuolleet), Hautaustoimistojen Liitto (yhdistys).
+COMPANIES["hautaustoimistot"] = [
+    dict(slug="memoria", nimi="Memoria", domain="memoria.fi", y_tunnus="0875310-3",
+         omistaja="Memoria Oy — 30+ itsenäisen perhehautaustoimiston verkosto, palvelua koko maassa"),
+    dict(slug="humat", nimi="Humat", domain="humat.fi", y_tunnus="3370342-3",
+         omistaja="Hautaustoimisto Humat Oy — Helsinki, Espoo, Vantaa, Tampere, Turku"),
+    dict(slug="toro", nimi="Hautaustoimisto Toro", domain="hautaustoimistotoro.fi", y_tunnus="2740478-5",
+         omistaja="Torowit Oy — Uusimaa, Varsinais-Suomi ja useita kaupunkeja (Tampere, Jyväskylä, Lahti, Kuopio, Vaasa, Oulu)"),
+    dict(slug="hok-elannon-hautauspalvelu", nimi="HOK-Elannon Hautauspalvelu", domain="hok-elannonhautauspalvelu.fi", y_tunnus="1837957-3",
+         omistaja="HOK-Elanto Liiketoiminta Oy — S-ryhmän osuuskauppa, 12 toimistoa paakaupunkiseudulla"),
+    dict(slug="lohtu", nimi="Lohtu", domain="lohtu.fi", y_tunnus="3340382-6",
+         omistaja="Lohtu Oy — verkkohautaustoimisto, palvelee lähes koko Suomessa"),
+    dict(slug="hautauspalvelusi", nimi="Hautauspalvelusi.fi", domain="hautauspalvelusi.fi", y_tunnus="3518496-2",
+         omistaja="Hautauspalvelusi Oy — perheyritys, verkkopalvelu Etelä-, Keski- ja Länsi-Suomessa"),
+    dict(slug="pietet", nimi="Pietét", domain="pietet.fi", y_tunnus="1010277-2",
+         omistaja="Hautauspalvelu Pietét Oy — Helsinki ja Espoo, useita toimipisteitä (suppein kattavuus listalla)"),
+]
+
+# MATKATOIMISTOT (verified 23.7.2026, agent + PRH). EXCLUDED: Detur (Detur Finland Oy
+# konkurssi 10/2022, domain ohjaa nykyään aventours.fi:hin), Matkavekka (brändi kuoli
+# Primera Travel -romahduksessa, domain on nyt geneerinen SEO-blogi = kaapattu),
+# Matka-Agentit (sama yhtiö kuin Matkapojat, domain pelkkä redirect). tui.fi:ssä
+# botti-esto (Akamai) — mitattava fetch_page.py --js:llä.
+COMPANIES["matkatoimistot"] = [
+    dict(slug="aurinkomatkat", nimi="Aurinkomatkat", domain="aurinkomatkat.fi", y_tunnus="0200991-4",
+         omistaja="Oy Aurinkomatkat - Suntours Ltd Ab — Finnair-konserni, valmismatkojen markkinajohtaja"),
+    dict(slug="tui", nimi="TUI", domain="tui.fi", y_tunnus="0709785-3",
+         omistaja="TUI Finland Oy Ab — osa kansainvälistä TUI Groupia"),
+    dict(slug="tjareborg", nimi="Tjäreborg", domain="tjareborg.fi", y_tunnus="0114101-6",
+         omistaja="Oy Tjäreborg Ab — osa Nordic Leisure Travel Groupia (Ving)"),
+    dict(slug="apollomatkat", nimi="Apollomatkat", domain="apollomatkat.fi", y_tunnus="2322685-4",
+         omistaja="DERTOUR Nordic AB, filial i Finland — sivuliike, REWE-konserni (DERTOUR)"),
+    dict(slug="matkapojat", nimi="Matkapojat", domain="matkapojat.fi", y_tunnus="0975148-4",
+         omistaja="Matkapojat Oy — omistaa myös Matka-Agentit-brändin; risteilyt ja lähialuematkat"),
+    dict(slug="lomalinja", nimi="Lomalinja", domain="lomalinja.fi", y_tunnus="0205870-8",
+         omistaja="Lomalinja Oy Holiday Tours Ltd — kierto- ja ryhmämatkat valtakunnallisesti"),
+    dict(slug="pohjolan-matka", nimi="Pohjolan Matka", domain="pohjolanmatka.fi", y_tunnus="0179285-5",
+         omistaja="Pohjolan Turistiauto Oy — 12 toimipaikkaa eri puolilla Suomea"),
+    dict(slug="olympia", nimi="Olympia Kaukomatkat", domain="olympia.fi", y_tunnus="2150319-2",
+         omistaja="Oy Lentomatkatoimisto Olympia Flygresebyrå Ab — kaukomatkat, yli 70 vuotta alalla"),
+    dict(slug="kilroy", nimi="KILROY", domain="kilroy.fi", y_tunnus="0115306-8",
+         omistaja="OY KILROY Finland AB — osa tanskalaista KILROY Internationalia"),
+    dict(slug="aventura", nimi="Aventura", domain="aventura.fi", y_tunnus="1654907-3",
+         omistaja="Matkatoimisto Aventura Oy — räätälöidyt kauko- ja kiertomatkat"),
+    dict(slug="imt", nimi="IMT (Ikaalisten Matkatoimisto)", domain="imt.fi", y_tunnus="0838997-0",
+         omistaja="Ikaalisten Matkatoimisto Oy — brändi nykyään IMT, valtakunnallinen verkkomyynti"),
+]
+
+# TILITOIMISTOT (verified 23.7.2026, agent + PRH). EXCLUDED: Accountor (tilitoimisto-
+# liiketoiminta siirtyi Aspiaan 2024-2026, accountor.com/fi ohjaa aspia.fi:hin — brändi
+# poistui), Fennoa (ohjelmisto, ei tilitoimisto), Tietotili (sulautunut HLB Finlandiin),
+# Premium Group (domain ei vastaa). Rantalainen listataan konsernin ydinyhtiöllä
+# (Tilipalvelu Rantalainen Oy) — konserniin kuuluu kymmeniä alueyhtiöitä.
+# aallongroup.fi renderöityy JS:llä — asiakassivusto on aallon.fi, sitä mitataan.
+COMPANIES["tilitoimistot"] = [
+    dict(slug="aspia", nimi="Aspia", domain="aspia.fi", y_tunnus="0932167-9",
+         omistaja="Aspia Oy (ent. Accountor Services Oy) — osa pohjoismaista Aspia-konsernia"),
+    dict(slug="rantalainen", nimi="Rantalainen", domain="rantalainen.fi", y_tunnus="0362167-0",
+         omistaja="Tilipalvelu Rantalainen Oy — Rantalainen-konserni, Suomen suurin tilitoimistoketju, toimistoja koko maassa"),
+    dict(slug="talenom", nimi="Talenom", domain="talenom.com", y_tunnus="2551454-2",
+         omistaja="Talenom Oyj — pörssiyhtiö, valtakunnallinen"),
+    dict(slug="azets", nimi="Azets", domain="azets.com", y_tunnus="0220227-1",
+         omistaja="Azets Insight Oy — osa kansainvälistä Azets-konsernia"),
+    dict(slug="greenstep", nimi="Greenstep", domain="greenstep.fi", y_tunnus="2306461-3",
+         omistaja="Greenstep Oy — kotimainen, toimistoja useissa kaupungeissa ja Pohjoismaissa"),
+    dict(slug="aallon-group", nimi="Aallon Group", domain="aallon.fi", y_tunnus="2931805-5",
+         omistaja="Aallon Group Oyj — pörssiyhtiö, toimistoja useissa kaupungeissa"),
+    dict(slug="administer", nimi="Administer", domain="administer.fi", y_tunnus="0593027-4",
+         omistaja="Administer Oyj — pörssilistattu Administer Group, johon kuuluvat myös Silta ja Econia"),
+    dict(slug="balanco", nimi="Balanco", domain="balanco.fi", y_tunnus="0964752-1",
+         omistaja="Balanco Oy — kasvava ketju, useita toimipisteitä"),
+    dict(slug="gallant", nimi="Gallant", domain="gallant.fi", y_tunnus="2994701-1",
+         omistaja="Gallant Group Oy — monikaupunkiketju (alueyhtiöitä mm. Espoossa ja Lahdessa)"),
+]
+
+
+# FYSIOTERAPIA (verified 23.7.2026, agent + PRH). Fysios Mehiläinen Oy sulautui
+# Mehiläinen Oy:hyn 30.4.2026 ja fysios.fi ohjaa mehilainen.fi:hin — siksi Fysios ei ole
+# oma rivi. Auron sulautui Fysiokseen 2020 (auron.fi ohjaa nykyään hieronta.fi:hin).
+# Debora ostettu Mehiläiselle. Verve ei kuluttajafysioterapiaa. Kunnonpaikka yhden
+# paikkakunnan. Lääkärikeskus Aava Oy nimenmuutos 3.6.2025 -> Aava ja Pikkujätti Oy.
+# mehilainen.fi vaatii --js-haun (botti-rajoitus curlille).
+COMPANIES["fysioterapia"] = [
+    dict(slug="coronaria", nimi="Coronaria Fysioterapia", domain="coronaria.fi", y_tunnus="0530530-5",
+         omistaja="Coronaria Fysioterapia Oy — osa Coronaria-konsernia, klinikoita kymmenilla paikkakunnilla"),
+    dict(slug="kotifysio", nimi="Kotifysio", domain="kotifysio.fi", y_tunnus="2643758-5",
+         omistaja="Three E. Champs Oy Ab — kotikäyntifysioterapia, toimintaa useissa kaupungeissa"),
+    dict(slug="mehilainen", nimi="Mehiläinen (Fysios)", domain="mehilainen.fi", y_tunnus="1927556-5",
+         omistaja="Mehiläinen Oy — Fysios Mehiläinen sulautui emoyhtiöön 4/2026, Suomen suurin fysioterapiaketju"),
+    dict(slug="terveystalo", nimi="Terveystalo", domain="terveystalo.com", y_tunnus="1093863-3",
+         omistaja="Suomen Terveystalo Oy — valtakunnallinen verkosto, fysioterapiaa lääkärikeskuksissa"),
+    dict(slug="pihlajalinna", nimi="Pihlajalinna", domain="pihlajalinna.fi", y_tunnus="2617455-1",
+         omistaja="Pihlajalinna Oyj — pörssiyhtiö, fysioterapiaa lääkärikeskuksissa useissa kaupungeissa"),
+    dict(slug="aava", nimi="Lääkärikeskus Aava", domain="aava.fi", y_tunnus="2311119-2",
+         omistaja="Aava ja Pikkujätti Oy (ent. Lääkärikeskus Aava Oy) — perheomisteinen, pääkaupunkiseutu ja Etelä-Suomi"),
+    dict(slug="fressi", nimi="Fressi", domain="fressi.fi", y_tunnus="2538910-4",
+         omistaja="Fysioline Fressi Oy — kuntokeskusketju, fysioterapiapalvelut keskuksissa useissa kaupungeissa"),
+]
+
+# AUTOPESULAT (verified 23.7.2026, agent + PRH). EXCLUDED: Teboil (Lukoil-pakotteet
+# 11/2025 alkaen, asemaverkosto romahtamassa, Carlyle-kauppa kesken — liian epavakaa
+# pisteytettavaksi), Prowash (myy pesukoneita b2b, ei kuluttajaketju), CleanCar/
+# Pesuparoni/Pesukunkku (yhden kaupungin), Hurja Pesu + PesuExpress + Uudenmaan
+# Pikapesu (domainit kuolleet), Shell-pesut = St1 Suomi Oy operoi (sama omistaja,
+# ei omaa rivia). St1 Oy (2082259-7) on rahoitusyhtiö — asemaoperaattori on St1 Suomi Oy.
+COMPANIES["autopesulat"] = [
+    dict(slug="abc-carwash", nimi="ABC CarWash", domain="abcasemat.fi", y_tunnus="0116323-1",
+         omistaja="SOK — pesulat alueosuuskauppojen operoimia, Suomen laajin pesuverkosto"),
+    dict(slug="neste", nimi="Neste", domain="neste.fi", y_tunnus="1626490-8",
+         omistaja="Neste Markkinointi Oy — pesut asemilla valtakunnallisesti"),
+    dict(slug="st1", nimi="St1", domain="autopesu.st1.fi", y_tunnus="0201124-8",
+         omistaja="St1 Suomi Oy — yli 60 pesupaikkaa, operoi myös Shell-asemien pesut Suomessa"),
+    dict(slug="carwash", nimi="Carwash", domain="carwash.fi", y_tunnus="1859137-1",
+         omistaja="DD Group Oy — franchise-ketju, 16 toimipistettä pääkaupunkiseudulla ja Tampereella"),
+    dict(slug="gowash", nimi="GoWash", domain="gowash.fi", y_tunnus="2654393-5",
+         omistaja="M. Jordan Oy — usean yhtiön franchise-ketju (mm. GoWash Länsi-Suomi Oy), useita kaupunkeja"),
+    dict(slug="korrek-pro-center", nimi="KORREK Pro Center", domain="korrekprocenter.fi", y_tunnus="0107011-5",
+         omistaja="Berner Oy:n KORREK-konsepti — yrittäjävetoiset pesukeskukset, 9 toimipistettä"),
+    dict(slug="hese-pesu", nimi="Hesburger Hese-Pesu", domain="hesburger.fi", y_tunnus="2031967-6",
+         omistaja="Burger-In Oy — pesulinjat Hesburger-ravintoloiden yhteydessä useissa kaupungeissa"),
+    dict(slug="carstation", nimi="CarStation", domain="carstation.fi", y_tunnus="2605487-5",
+         omistaja="Nura Autopesu Oy — pesukeskuksia Espoossa, Helsingissä ja Turussa"),
+]
