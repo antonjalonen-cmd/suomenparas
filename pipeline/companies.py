@@ -1012,3 +1012,25 @@ COMPANIES["autopesulat"] = [
     dict(slug="carstation", nimi="CarStation", domain="carstation.fi", y_tunnus="2605487-5",
          omistaja="Nura Autopesu Oy — pesukeskuksia Espoossa, Helsingissä ja Turussa"),
 ]
+
+# TAVARANSAILYTYS (6 consumer self-storage operators; verified 23.7.2026 against PRH v3 + live domains).
+# Bot-protection note: cityvarasto.fi returns 404 to a plain curl UA but serves full HTML with a
+# browser UA (Cookiebot script visible) — this is a WAF/bot-gate, not a dead site. Lighthouse
+# (real Chrome) can render it. Warasto Finland Oy (warasto.fi, Y 2130922-6) excluded: B2B
+# logistics/warehousing company, no consumer self-storage product. 24varasto.fi excluded: 403
+# to all fetch paths, not bypassable. Tokkovarasto.fi 301-redirects to www.tokkovarasto.fi.
+# Kotivarasto.fi 301-redirects to www.kotivarasto.fi. Flexistore.fi 301-redirects to www.
+COMPANIES["tavaransailytys"] = [
+    dict(slug="cityvarasto", nimi="Cityvarasto", domain="cityvarasto.fi", y_tunnus="1561027-4",
+         omistaja="Cityvarasto Oyj — julkinen osakeyhtiö, Vantaa; Suomen suurin pienvarastoketju, 58+ toimipistettä 15+ kaupungissa"),
+    dict(slug="pelican", nimi="Pelican Self Storage", domain="pelican.fi", y_tunnus="3224338-1",
+         omistaja="Pelican Finland OpCo 2 Oy — Pohjoismaiden johtava self-storage-yhtiö, 14 toimipistettä Helsingissä, Espoossa, Vantaalla ja Turussa"),
+    dict(slug="tokkovarasto", nimi="Tokko Vuokravarasto", domain="tokkovarasto.fi", y_tunnus="3108947-4",
+         omistaja="Tokko Group Oy, Helsinki — automatisoidut varasto Helsingissä (Hakaniemi, Lauttasaari, Punavuori, Toolo) ja Espoossa"),
+    dict(slug="m2selfstorage", nimi="M2 Self Storage", domain="m2selfstorage.fi", y_tunnus="2778522-3",
+         omistaja="Helsinki Varastot Oy — toimipisteet Helsingissä (Vuorimiehenkatu) ja Raumalla"),
+    dict(slug="kotivarasto", nimi="Kotivarasto", domain="kotivarasto.fi", y_tunnus="1708316-4",
+         omistaja="Helsingin Kotivarasto Oy (per. 1993) — toimipisteet Helsingissä (Valuraudantie) ja Oulussa"),
+    dict(slug="flexistore", nimi="Flexistore", domain="flexistore.fi", y_tunnus="3380916-4",
+         omistaja="Flexistore Finland Oy Ab, Siuntio — sovellusohjattu avainkoodi-varasto, toimintaa Helsingissä ja Siuntiossa"),
+]

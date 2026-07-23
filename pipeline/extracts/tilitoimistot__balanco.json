@@ -1,0 +1,52 @@
+{
+  "slug": "balanco",
+  "fetched_ok": [
+    "https://balanco.fi/",
+    "https://balanco.fi/yhteystiedot/",
+    "https://balanco.fi/meista/",
+    "https://balanco.fi/teknologia/"
+  ],
+  "hinnat_esilla": "ei",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "ei",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattava palveluiden kuvaus monista taloushallinnon osa-alueista, kirjanpidosta asiantuntijapalveluihin ja kansainvälisiin ratkaisuihin",
+    "Selkeät yhteystiedot useille osastoille ja toimipisteille, aukioloajat määritelty tukipalveluille",
+    "Käytetyt ohjelmistot ja teknologiavisio dokumentoitu, modernit työkalut (Procountor, Netvisor, Balanco BI) mainittu"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu puuttuu kokonaan – ei kuukausipakettihinnoittelua, tuntihinnoittelua tai malliesimerkkilaskelmia näkyvissä",
+    "Kelpuutukset tai ammattiliitto-jäsenyys (KLT, Taloushallintoliitto) eivät ole näkyvissä; vain sisäinen NPS-mittaus (71) raportoitu",
+    "FAQ-osio puuttuu; asiakkaiden tavallisten kysymysten vastauksia ei ole dokumentoitu"
+  ],
+  "yhteenveto": "Balanco on kansainvälinen tilitoimistoketju (220 työntekijää, perustettu 2015, 16,6 M€ liikevaihto), joka tarjoaa kattavasti taloushallinnon palveluita kirjanpidosta CFO-palveluihin. Sivusto on selkeä ja hyvin organisoitu palveluiden kuvausten, tehtävä- ja tapaamisen varauslomakkeen ja laajoin yhteystietojen osalta. Silti julkisia hintoja tai kelpuutuksista tietoa ei ole, mikä rajoittaa läpinäkyvyyttä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla, yhteystietojen sivulla, teknologia-sivulla ja palvelun kuvaus -sivuilla ei ole kuukausipakettihinnoittelua, tuntihinnoittelua tai esimerkilaskelmia. Hinnoittelun tiedustelu ohjataan yhteydenottolomakkeella.",
+    "palvelut_kuvattu": "HAVAINTO: Sivustolla kuvataan yksityiskohtaisesti taloushallinnon palvelut (kirjanpito, palkanlaskenta, raportointi), talousjohdon palvelut (CFO, Controller), asiantuntijapalvelut (liikejuridiikka, yritysjärjestelyt, verosuunnittelu), HR-palvelut ja kansainväliset ratkaisut.",
+    "ohjelmistot_kerrottu": "HAVAINTO: Teknologia-sivulla ja etusivulla mainitaan käytetyt ohjelmistot: Procountor, Netvisor ja Balanco BI omassa kehitettävässä järjestelmässä.",
+    "auktorisointi_kerrottu": "HAVAINTO: Sivustolla ei mainita Taloushallintoliittoa (KLT), ammattikelpuutuksia tai vastaavia sertifiointeja. Vain 'henkilökohtaiset, nimetyt asiantuntijat' mainitaan, mutta heidän kelpuutuksensa eivät ole dokumentoituja.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus näkyy epäsuorasti yhteystietojen sivulla laskutusosoitteen yhteydessä: 'OVT: 003726999836' (josta paljastuu Y-tunnus 726999836).",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näkyvät asiakastodistukset ovat Balancon omia kuvauksia referenssiasiakkaista. Myös mainittu NPS-indeksi (71) on Balancon oma mittaus. Ulkopuolisia arvosteluja tai riippumattomia vertailusivuston arvioita ei ole näkyvissä.",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita listattu yhteystietojen sivulla: 050 330 5444 (myynti), 09 3154 3110 (tukipalvelut), 09 3154 3111 (palkanlaskenta), sekä muiden asiantuntijoiden numerot.",
+    "email_esilla": "HAVAINTO: Useita sähköpostiosoitteita näkyvissä: marko.salmi@balanco.fi, assistentti@balanco.fi, palkat@balanco.fi sekä muiden kontaktihenkilöiden osoitteita.",
+    "chat_mainittu": "HAVAINTO: Slack mainitaan yhteyskanavien joukossa etusivulla: 'Olemme helposti tavoitettavissa esimerkiksi sähköpostilla, puhelimella tai Slackin kautta'.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystietojen sivulla listataan palvelun aukioloajat: taloushallinnon tukipalvelut ma-pe klo 9-14, palkanlaskennan asiakaspalvelu ma-pe klo 8-16.",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole erillistä FAQ-osiota tai usein kysyttyjen kysymysten ja vastausten kokoelmaa.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta tai mobiiliversiosta ei mainita sivustolla."
+  }
+}

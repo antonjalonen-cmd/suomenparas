@@ -1,0 +1,54 @@
+{
+  "slug": "greenstep",
+  "fetched_ok": [
+    "https://greenstep.fi/",
+    "https://greenstep.fi/yhteystiedot/",
+    "https://greenstep.fi/palvelut/",
+    "https://greenstep.fi/kirjanpidon-palvelut/",
+    "https://greenstep.fi/palkanlaskennan-palvelut/",
+    "https://greenstep.fi/toimipisteet-yhteystiedot/",
+    "https://greenstep.fi/me-olemme-greenstep/compliance/"
+  ],
+  "hinnat_esilla": "ei",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Kattava palveluportfolio (kirjanpito, palkanlaskenta, verot, HR, teknologia) yhdessä paikassa",
+    "Vahva auktorisointi ja compliance: Taloushallintoliitto-jäsen, KLT-ammattilaiset, ISO 27001 -sertifioitu",
+    "Yksityiskohtainen palvelukuvaus ja FAQ-osio, joka vastaa kirjanpidon ulkoistukseen liittyviin kysymyksiin"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu on täysin salattu - vaatii yhteydenottopyynnön; ei kuukausi- tai tuntihintojen esimerkkejä",
+    "Puuttuu chat-tuki ja aukioloajat - asiakkaat eivät tiedä, milloin saa nopeaa apua",
+    "Mobiilisovellusta ei mainittu, vaikka nykyaikaiset tilitoimistot usein tarjoavat mobiileja ratkaisuja"
+  ],
+  "yhteenveto": "Greenstep on kansainvälinen konsulttitalo, joka tarjoaa laajaa kirjanpidon, palkanlaskennan ja talousjohtamisen palveluita. Palvelut kuvataan hyvin, ja auktorisointi (Taloushallintoliitto, KLT-ammattilaiset) on näkyvillä. Sivusto heikkenee merkittävästi hinnastoltaan - julkista hinnoittelua ei ole lainkaan, mikä vaikeuttaa yrityksiä vertaamasta palveluita. Puuttuvat myös välittömän tuen tavat (chat) ja operatiiviset tiedot (aukioloajat).",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivustolla mainitaan 'Tarkemman hinnan esimerkiksi Greenstepin palveluihin liittyen saat ottamalla meihin yhteyttä' ja 'Ulkoistetun palkanlaskennan hinta määräytyy yrityksen tarpeiden ja henkilöstömäärän perusteella', mutta konkreettisia kuukausi- tai tuntihintalukuja ei näytetä.",
+    "palvelut_kuvattu": "HAVAINTO: Kirjanpidon palvelut, palkanlaskenta, veropalvelut, CFO-palvelut ja HR-palvelut kuvataan yksityiskohtaisesti omilla sivuillaan. Jokaisen palvelun sisältö, hyödyt ja prosessit selitetään perusteellisesti.",
+    "ohjelmistot_kerrottu": "HAVAINTO: Käytetyt järjestelmät mainitaan: Netvisor, NetSuite, Procountor, AARO, BI Book, Power BI, Mepco, sekä Salesforce. Integraatioista mainitaan myös RPA-automaatiota ja tietojen liikku minään järjestelmien välillä.",
+    "auktorisointi_kerrottu": "HAVAINTO: 'Greenstep on an authorized service provider for accounting and payroll services in Finland. As a member of the Financial Management Association of Finland (Taloushallintoliitto), our accounting and payroll processes are subject to regular audits... We employ multiple authorized accounting (KLT) and payroll (PHT) professionals.' ISO 27001-sertifiointi myös mainittu.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2306461-3 ja VAT-numero FI23064613 näkyvät toimipisteet-yhteystiedot-sivulla laskutusosioissa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näkyy asiakaspalaute 'Asiakastyytyväisyytemme on 3,5/4' sekä kolme nimettyä asiakastarinoiden todistusta (Jussi Mäntylä, Terhi Ilvonen, Peter Engblom).",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla listataan useat myyntipäälliköt ja kontaktihenkilöt puhelinnumeroilla (esim. +358406657494, +358451511771).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät yhteystiedot-sivulla jokaisen kontaktihenkilön kohdalla (esim. melinda.benedek@greenstep.fi), sekä laskutusosoitteissa 23064613@scan.netvisor.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu missään sivuston osassa. Ainoa pikakontakti on 'Varaa tapaaminen' -painike.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainittu missään sivuston osassa.",
+    "ukk_osio": "HAVAINTO: Kirjanpidon palvelut -sivulla on 'Useimmin kysyttyjä kysymyksiä kirjanpidon ulkoistamiseen liittyen' -osio, joka vastaa kuuteen kysymykseen (laadun varmistus, automaation hyödyt, aloitusnopeuden, palvelun osittaminen, aikataulut, tilitoimiston rooli)."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "rantalainen",
+  "fetched_ok": [
+    "https://www.rantalainen.fi/",
+    "https://www.rantalainen.fi/palvelut/",
+    "https://www.rantalainen.fi/ohjelmistot/",
+    "https://www.rantalainen.fi/ota-yhteytta/",
+    "https://www.rantalainen.fi/meista/",
+    "https://www.rantalainen.fi/toimipisteet/",
+    "https://www.rantalainen.fi/meista/laskutusosoitteet/",
+    "https://www.rantalainen.fi/asiakastarinat/",
+    "https://www.rantalainen.fi/taloushallinto/",
+    "https://www.rantalainen.fi/palkkahallinto-ja-hr/",
+    "https://www.rantalainen.fi/hintalaskuri/"
+  ],
+  "hinnat_esilla": "osittain",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Laajasti kuvatut palvelut: taloushallinnon perustoiminnoista CFO-palveluihin ja vastuullisuuspalveluihin asti",
+    "Monipuoliset ohjelmistoratkaisut: lueteltu 25+ eri taloushallinnon ja palkkahallinnon järjestelmää, joita käyttävät",
+    "Kattavasti saatavilla olevat yhteystiedot: 50+ toimipisteet ja niiden puhelinnumerot sekä henkilökohtaiset sähköpostiosoitteet"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu vaatii laskurin käyttöä: julkaistuilla sivuilla ei mainita konkreettisia kuukausihintojen alkuarvoja, vain palkanlaskentapalvelun hintoja 29-39€/kk",
+    "Rajoitettu aukioloaikatieto: vain yksi toimipiste mainitsee aukioloajat, muiden osalta puuttuu",
+    "Puuttuva chat-vaihtoehto: asiakkaat joutuvat käyttämään vain puhelinta, sähköpostia tai yhteydenottolomaketta"
+  ],
+  "yhteenveto": "Rantalainen on laaja kansainvälinen tilitoimistopalveluiden tarjoaja, joka palvelee yritysten talous- ja palkkahallinnon tarpeita yli 50 toimipisteestä Suomessa. Yritys on Taloushallintoliiton auktorisoima ja tarjoaa perinteisten kirjanpitopalveluiden lisäksi CFO-, HR-, veropalvelut sekä vastuullisuuspalvelut. Ohjelmistoratkaisut ja yhteystiedot ovat hyvin dokumentoituja, mutta hinnoittelu on osittain piilotettu interaktiivisen hintalaskurin taakse.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hintalaskurissa mainitaan palkanlaskentapalvelun hinta 29-39€/kk ja tilinpäätöksestä 400-600€/vuosi, mutta peruspaketin kuukausihinnan alkuarvoa ei julkaista ilman laskurin käyttöä. Hintalaskuri on suunnattu alle 500 000€ liikevaihdon yrityksille.",
+    "palvelut_kuvattu": "HAVAINTO: Palveluista löytyy laaja kuvaus etusivulla ja palvelusivuilla: taloushallinto, CFO-palvelut, palkkahallinto, HR-palvelut, veroneuvonta, asiantuntijapalvelut ja vastuullisuuspalvelut. Palvelujen sisältö on kuvattu yksityiskohtaisesti, esim. kirjanpitopalvelun sisältö kirjanpidosta BI-raportointiin.",
+    "ohjelmistot_kerrottu": "HAVAINTO: Sivulla 'Ohjelmistot' lueteltu 25+ eri järjestelmää, joita käytetään, kuten Visma Fivaldi, Netvisor, Procountor, Fennoa, OnTime, Finago, SAP Business One, Microsoft Dynamics 365 ja raportointijärjestelmät (Power BI). Maininta myös että 'käytämme mm. Procountoria, Netvisoria, Lemonsoftia, Fennoa ja Fivaldia'.",
+    "auktorisointi_kerrottu": "HAVAINTO: Taloushallinto-sivulla tekstissä: 'Olemme Taloushallintoliiton auktorisoima tilitoimisto'. Tämä on merkittävä auktorisointi alan standardoinnissa.",
+    "y_tunnus_esilla": "HAVAINTO: Laskutusosoitteet-sivulla lueteltu seitsemän konserniyhtiön Y-tunnukset selkeästi: 0362167-0, 0350975-0, 2287552-9, 2787495-5, 3333030-5, 2915080-3, 3267131-9, 0145030-2.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla mainitaan NPS-arvo 60, mutta ei ole linkkejä riippumattomiin arviointipalveluihin (esim. Google Reviews, Trustpilot, jne.). Ainoastaan asiakastarinat, jotka eivät ole riippumattomia lähteitä.",
+    "puhelin_esilla": "HAVAINTO: Toimipisteet-sivulla lueteltu 50+ toimipisteen puhelinnumerot, esim. Helsinki 010 321 6700, Tampere 0103216639, Oulu 010 2077 829. Kaikilla toimipisteillä näkyy puhelinnumero.",
+    "email_esilla": "HAVAINTO: Toimipisteet-sivulla mainittu sähköpostiosoitteiden muoto 'etunimi.sukunimi@rantalainen.fi' ja Helsinki-toimiston yhteysosoite info@rantalainen.fi. Monilla toimipisteillä henkilökohtaiset sähköpostit.",
+    "chat_mainittu": "HAVAINTO: Kaikilla tutkituilla sivuilla ei löydy mitään mainintaa chat-palvelusta, live-chatista tai chat-botista. Kommunikaation kanavat rajoittuvat puhelimeen, sähköpostiin ja yhteydenottolomakkeeseen.",
+    "aukioloajat_esilla": "HAVAINTO: Pietarsaari-toimiston osalta mainittu 'ma-pe klo 8-11 ja 11.30-16' sulkujen sisällä, mutta muiden 50+ toimipisteen aukioloajat puuttuvat. Pääsääntöisesti aukioloajat eivät ole julkisesti näkyvissä.",
+    "ukk_osio": "HAVAINTO: Taloushallinto-sivulla 'Usein kysyttyä taloushallinnosta' -osio, jossa vastaukset kysymyksiin palvelun ulkoistamisesta, käytetyistä järjestelmistä, käyttöönottoprosessista. Hintalaskuri-sivulla myös FAQ-osuus: 'Miten hintalaskuri toimii?', 'Sitoudunko johonkin?', 'Onko ohjelmisto sisällytetty?'",
+    "mobiilisovellus": "HAVAINTO: Missään tutkituissa sivuissa ei mainittu mobiilisovellusta tai sovelluksen saatavuudesta iOS/Android-alustoilla. RAN Connect -palvelukanava mainitaan ohjelmistosivulla, mutta ilman mainintaa siitä, olisiko se mobiilisovellus vai web-palvelu."
+  }
+}

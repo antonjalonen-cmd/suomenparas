@@ -1,0 +1,55 @@
+{
+  "slug": "pietet",
+  "fetched_ok": [
+    "https://www.pietet.fi/",
+    "https://www.pietet.fi/hautajaisten-jarjestaminen",
+    "https://www.pietet.fi/hyva-tietaa",
+    "https://www.pietet.fi/tietoa-meista",
+    "https://www.pietet.fi/tarjouspyynto",
+    "https://www.pietet.fi/tuotteet",
+    "https://www.pietet.fi/toimipisteet"
+  ],
+  "hinnat_esilla": "ei",
+  "paketit_kuvattu": "osittain",
+  "prosessi_kuvattu": "kylla",
+  "toimialue_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "paketti_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kattava FAQ-osio (Hyvä tietää) selvittää hautajaisjärjestelyprosessia yksityiskohtaisesti",
+    "Helposti tavoitettavissa 24/7 puhelimitse ja sähköpostitse useista paikkakunnista",
+    "Kolme fyysistä toimipistettä pääkaupunkiseudulla ja selkeästi määritelty palvelualue"
+  ],
+  "kehityskohteet": [
+    "Palvelupakettien hinnat eivät ole julkisesti näkyvissä – tarjouslinkkiin johtaa pyyntölomake",
+    "Navigaatiossa mainittujen palvelukokonaisuuksien (paketit) yksityiskohtaiset kuvaukset puuttuvat",
+    "Toimistojärjestelmän aukioloajat eivät ole määriteltyjä – ilmoitetaan vain 24/7 päivystys"
+  ],
+  "yhteenveto": "Hautaustoimisto Pietét on pääkaupunkiseudulla toimiva perheyritys, joka tarjoaa hautauspalveluja ja liittyviä palveluja. Sivusto selittää hautajaisjärjestelyprosessia hyvin ja on helposti saavutettavissa, mutta konkreettisia hintoja ja palvelupakettien sisältöä ei ole julkisesti esillä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tarjouspyyntö-sivu sisältää lomakkeen kustannusarvion saamiseksi, mutta mitään konkreettisia hintoja ei ole julkisesti listattu. Tuotteet-sivulla mainitaan arkut, uurnat ja muut tuotteet, mutta hinnat puuttuvat.",
+    "paketit_kuvattu": "HAVAINTO: Navigaatiossa on linkki 'Palvelukokonaisuudet', mutta kyseinen sivu palauttaa 404-virheen. Pääsivulla mainitaan 'Valmiit palvelukokonaisuutemme', mutta yksityiskohdat ja sisällöt eivät ole saatavilla.",
+    "prosessi_kuvattu": "HAVAINTO: 'Hyvä tietää hautajaisista' -sivu sisältää laajan FAQ-osion, jossa käsitellään kuolintodistusta, hautaustapoja, siunaustilaisuutta, muistotilaisuuksien järjestämistä, kukkia, kantajia, kutsuja ja muita järjestelyjä.",
+    "toimialue_kerrottu": "HAVAINTO: Sivuilla toistuvasti mainitaan palvelevansa 'koko pääkaupunkiseudulla' ja 'tarvittaessa pidemmänkin matkan päässä'. Kolme toimipistettä: Helsinki Haaga (Tunnelitie 2, 00320), Helsinki Munkkiniemi (Huopalahdentie 3, 00330), Espoo Tapiola (Tapiontori 3 B, 02100).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1010277-2 on näkyvissä kaikilla sivuilla 'Hautauspalvelu Pietét Oy' -tunnuksen alla.",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita on lueteltu: 09 488 140 (Munkkiniemi), 09 455 950 (Espoo), 09 726 0711 (Haaga). Pääsivulla mainitaan 'Päivystämme 24/7'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä: laura.kivisto@pietet.fi (Munkkiniemi), irene.kalliomaki@pietet.fi (Espoo), laura.pellinen@pietet.fi (Haaga).",
+    "aukioloajat_esilla": "HAVAINTO: Toimistojen virallisia aukioloaikoja ei ole mainittu. Kaikilla sivuilla mainitaan vain '24/7 päivystys'.",
+    "ukk_osio": "HAVAINTO: 'Hyvä tietää hautajaisista' -sivu sisältää laajan FAQ-osion useiden kysymysten ja vastausten muodossa hautajaisjärjestelyistä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arvioihin, arvosteluihin tai sertifiointeihin.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei ole mainittu kontaktivaihtoehdoissa.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei ole mainittu."
+  }
+}

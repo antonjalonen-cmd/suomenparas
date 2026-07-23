@@ -1,0 +1,49 @@
+{
+  "slug": "aspia",
+  "fetched_ok": [
+    "https://www.aspia.fi/finland",
+    "https://www.aspia.fi/finland/palvelut",
+    "https://www.aspia.fi/finland/tietoa-meista",
+    "https://www.aspia.fi/finland/ota-yhteytta"
+  ],
+  "hinnat_esilla": "ei",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "ei",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Kattavat palvelukuvaukset taloushallinnosta, palkkahallinnosta ja HR-palveluista",
+    "Laaja järjestelmien integraatioiden lista (Netvisor, Procountor, Microsoft Dynamics 365, SAP, Mepco, Nepton)",
+    "Maanlaajuinen toimipisteverkon kanssa 30+ paikkakunnalla ja 3000 asiantuntijaa"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu ei ole julkisesti saatavilla - asiakkaat joutuvat pyytämään tarjousta myynnistä",
+    "Taloushallintoliitto (KLT) tai muita alan pätevyyksiä ei mainittu sivustolla",
+    "Y-tunnus ei ole julkaistu verkkosivuilla"
+  ],
+  "yhteenveto": "Aspia (entinen Accountor) on suurempi tilitoimistoketju, joka tarjoaa kattavan palveluvalikoiman pienistä suuriin yrityksiin. Sivusto esittelee palvelut selvästi, mutta hinnoittelusta ei löydy julkisia tietoja, vaan asiakkaat joutuvat ottamaan yhteyttä myyntiin.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivustolla ei ole julkisia hintatietoja. 'Ota yhteyttä' -sivulla kehotus täyttää lomake tai ottaa yhteyttä myyntiin myynti@aspia.fi tai 020 744 2000.",
+    "palvelut_kuvattu": "HAVAINTO: Palveluista löytyy laajat kuvaukset sivustolla: taloushallinto, palkanlaskenta, HR-palvelut, laki- ja veropalvelut sekä Advisor-palvelut. Jokaisen palvelun alla on yksityiskohtainen kuvaus.",
+    "ohjelmistot_kerrottu": "HAVAINTO: Sivuston navigaatiossa ja palvelusivulla lueteltu käytetyt järjestelmät: Netvisor, Procountor, Microsoft Dynamics 365, SAP, Mepco, Nepton, M2, SD Worx W, TyövuoroVelho.",
+    "auktorisointi_kerrottu": "HAVAINTO: Sivustolla ei mainita Taloushallintoliittoa (KLT), muita alan sertifiointeja tai auktorisoinnin vaatimuksista. Ainoastaan palveluista ja kokemuksesta puhutaan.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä sivustolla, ei edes footer-osassa tai yhteystiedot-sivulla.",
+    "puhelin_esilla": "HAVAINTO: Puhelin +358 20 744 2400 näkyy sivustolla useissa paikoissa, esim. footer ja kontaktisivulla. Lisäksi myyntilinjan puhelin 020 744 2000 mainitaan kontaktisivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myynti@aspia.fi mainitaan kontaktisivulla ilmoituksessa 'Voit myös lähettää sähköpostia myyntiin myynti@aspia.fi'.",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei mainita chat-palvelua. Yhteydenottovaihtoehtoina mainita vain lomake, puhelin ja sähköposti.",
+    "ukk_osio": "HAVAINTO: 'Tietoa meistä' -sivulla on 'Meistä usein kysytyt kysymykset' -osio, joka vastaa kysymyksiin mm. 'Mikä Aspia on?', 'Onko Aspia sama kuin Accountor?' ja 'Mitä palveluita Aspia tarjoaa?'"
+  }
+}

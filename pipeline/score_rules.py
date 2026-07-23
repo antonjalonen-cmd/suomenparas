@@ -84,6 +84,15 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    "tavaransailytys": [
+        # Core question: can you see the price for a storage unit without handing over your data?
+        ("hinta_esilla_ilman_yhteystietoja", "Varastotilan hinta julkisesti esillä ilman yhteystietoja", 30),
+        ("varaus_verkossa", "Varauksen tai sopimuksen voi tehdä verkossa", 20),
+        ("sopimusehdot_kerrottu", "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu", 15),
+        ("vakuutus_ja_vastuu_kerrottu", "Vakuutusturva tai vastuu tavaroiden osalta kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
 
     "vakuutukset": [
         ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),

@@ -1,0 +1,55 @@
+{
+  "slug": "administer",
+  "fetched_ok": [
+    "https://www.administer.fi/",
+    "https://www.administer.fi/palvelut/",
+    "https://www.administer.fi/palvelut/palvelupaketit/",
+    "https://www.administer.fi/asiakkaaksi/",
+    "https://www.administer.fi/ota-yhteytta/",
+    "https://www.administer.fi/palvelut/kirjanpito/",
+    "https://www.administer.fi/palvelut/palkkahallinto/"
+  ],
+  "hinnat_esilla": "osittain",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laajat palvelut kaikenkokoisille yrityksille (kirjanpito, palkka, HR, lakiasiat, talousjohto)",
+    "Selkeä palvelun kuvaus ja asiakastarinat, henkilökohtainen kumppani-malli",
+    "eFina-järjestelmä ilmainen, sähköinen ostolaskujen käsittely osittain maksuton"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelu vain osittain nähtävissä - pakettihinnat vaativat tarjouspyynnön",
+    "KLT-pätevyyksien tai Taloushallintoliitto-jäsenyyden maininnoilla ei löydy",
+    "Ei näkyvillä olevaa chat-palvelua tai yksityiskohtaista FAQ-osiota"
+  ],
+  "yhteenveto": "Administer on suuressa mittakaavassa toimiva auktorisoitu tilitoimisto, joka tarjoaa kattavat palvelut kirjanpidosta lakipalveluihin aina CFO-palveluihin saakka. Sivusto on selkeä ja palvelut hyvin kuvattu, mutta kuukausittaisten peruspalvelupakettien hinnat eivät ole julkisesti nähtävissä - hintojen saaminen vaatii tarjouspyynnön. Järjestelmät ja integraatiot mainitaan, mutta niistä puuttuu yksityiskohtainen dokumentaatio.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivulla mainitaan 'Palvelupaketit kiinteällä kk-veloituksella' ja nimetään paketti-tyypit (Startti 10 laskua/kk, Small 20, Medium 50, Large 100 laskua/kk). Lisäpalvelujen hinnat näkyvät: palkanlaskenta 16,50€/maksettava palkka, kassamyynnin kirjaaminen 36€/kk, verkkokauppamyynnin kirjaaminen 36€/kk. Pakettien perushintoja ei kuitenkaan julkaista verkkosivuilla.",
+    "palvelut_kuvattu": "HAVAINTO: Palvelut hyvin kuvattu: Taloushallintopalvelut (kirjanpito, palkkahallinto, ostolaskut, myyntilaskut, ulkoistus), Talousjohtopalvelut (CFO, verotus, sukupolvenvaihdos, yrityksen arvonmääritys), Lakipalvelut (yritysasiat, työsuhdeoikeus, kiinteistöoikeus, riita-asiat). HR-palvelut mainittu navigaatiossa.",
+    "ohjelmistot_kerrottu": "HAVAINTO: eFina-järjestelmä ja eFina Mobiili selkeästi mainittu. Integraatiot mainittu navigaatiossa, mutta yksityiskohtainen sivu ei ole saavutettavissa.",
+    "auktorisointi_kerrottu": "HAVAINTO: Pääotsikossa sanotaan 'suomalainen auktorisoitu tilitoimisto', mutta KLT-pätevyyksiä tai Taloushallintoliitto-jäsenyyden mainintoja ei löydy sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0593027-4 löytyy contact-sivulta 'Laskutusosoitteet'-osiosta.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei ole riippumattomia arviota tai sertifikaatteja, kuten Trustpilot, Google Reviews tai kolmannen osapuolen arvioita.",
+    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa: Vaihde +358 20 703 2000 ja Palvelukeskus +358 20 703 2010 (näkyvissä contact-sivulla ja footer-alueella).",
+    "email_esilla": "HAVAINTO: Kaksi sähköpostiosoitetta: helpdesk@administer.fi ja laskut@administer.fi (contact-sivulla).",
+    "chat_mainittu": "HAVAINTO: Chat ei ole aktiivinen sivuilla. Evästekäytännössä mainitaan 'reaaliaikainen chat' mahdollisuudesta, mutta se ei ole nähtävissä main-sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Palvelukeskus auki maanantai-perjantai kello 9–15:30 mainittu contact-sivulla, mutta muiden osastojen tai toimipisteiden aukioloajat eivät ole julkisesti nähtävissä.",
+    "ukk_osio": "HAVAINTO: FAQ-osio 'Usein kysyttyä' mainittu navigaatiossa, mutta sivu ei ole saavutettavissa (404 virhe).",
+    "mobiilisovellus": "HAVAINTO: eFina Mobiili-sovellus selkeästi mainittu ja kuvattu useilla sivuilla palkkahallinto- ja kirjanpito-osiossa."
+  }
+}

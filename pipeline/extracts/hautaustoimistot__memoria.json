@@ -1,0 +1,53 @@
+{
+  "slug": "memoria",
+  "fetched_ok": [
+    "https://www.memoria.fi/",
+    "https://www.memoria.fi/hautajaiset/",
+    "https://www.memoria.fi/memoriasta/",
+    "https://www.memoria.fi/hautajaiset/arkut/",
+    "https://www.memoria.fi/hautakivipalvelu/",
+    "https://www.memoria.fi/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "ei",
+  "paketit_kuvattu": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "toimialue_kerrottu": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "paketti_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattava palvelukuvaus: Sivustolla selvästi kuvataan kaikki hautajaisiin liittyvät palvelut (arkut, uurnat, kuljetus, koristelu, muistotilaisuus) ja prosessin vaiheet.",
+    "Laaja toimistoverkko: Yli 30 hautaustoimiston lista koko Suomessa helposti löydettävissä, jokainen omilla yhteystiedoilla ja paikalla.",
+    "Selkeä käyttöliittymä: Verkkosovellus hautajaisten suunnitteluun saatavilla, jonka kautta voi saada alustavan hinta-arvion ilman sitoutumista."
+  ],
+  "kehityskohteet": [
+    "Puuttuvat hinnat: Konkreettisia hintatietoja ei julkaista etukäteen, vaan ne näytetään vain suunnittelusovelluksessa tai kontaktoinnin jälkeen.",
+    "Puutteellinen Y-tunnus: Pääsivulla ei mainittu pääyhtiö 'Hautaustoimistojen Yhteistyö Oy Memoria:n' Y-tunnusta, vain tietosuojaselosteessa mainittu osoite ja nimi.",
+    "Ei riippumattomia arvioita: Sivustolla ei ole linkkejä ulkopuolisiin arvioihin tai sertifiointeihin, vain sisäisiä asiakaspalautteita."
+  ],
+  "yhteenveto": "Memoria on valtakunnallinen 31 itsenäisen perhehautaustoimiston verkosto, joka tarjoaa laajat hautaus- ja muistamispalvelut Suomessa. Sivusto esittelee palvelut selkeästi ja tarjoaa verkkosuunnittelusovelluksen, mutta konkreettisia hintoja ei julkaista etukäteen, mikä vaatii potentiaalisen asiakkaan ottamaan aktiivisesti yhteyttä hinta-arvioon. Paikallisten toimistojen tiedot ovat helposti saatavilla, ja sivusto on hyvin organisoitu palvelun kuvaukselta, mutta hintatietouden suhteen epäläpinäkyvämpi kuin vertailussa toivottavaa olisi.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivustoilla ei julkaista konkreettisia hautauspalvelujen hintatietoja. Suunnittelusovelluksen kautta sanotaan annettavan 'alustava hinta-arvio', mutta varsinaiset hinnat eivät näy julkisesti. Arkkujen sivuilla mainitaan hintaero hilitysten ja materiaalien mukaan, mutta konkreettisia summia ei ilmoiteta.",
+    "paketit_kuvattu": "HAVAINTO: Hautajaispalvelujen sisältö kuvataan laajasti. Pääpalvelut: arkut, uurnat, vainajan kuljetus, kukat ja koristelu, siunaus-/saattotilaisuus, muistotilaisuus. Kaikista on olemassa erillisiä sivuja, joilla kerrotaan vaihtoehdoista ja prosessista.",
+    "prosessi_kuvattu": "HAVAINTO: Hautajaisjärjestelyjen eteneminen kuvataan selkeillä askelilla: 1) Hautauslupa, 2) Hautaustavan ja -paikan valinta, 3) Arkun ja uurnan valinta, 4) Vainajan kuljetus, 5) Kukat, 6) Muistotilaisuus, 7) Hautakivi, 8) Perunkirjoitus.",
+    "toimialue_kerrottu": "HAVAINTO: Sivustolla listataan yli 30 Memoria-hautaustoimistoa koko Suomessa, järjestettynä maakuntittain. Jokaisen toimiston nimi, puhelin, sähköposti ja osoite näkyy. Etsiväksi tarjotaan myös aakkosellinen kuntalista kaikista palvelualueista.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa mainitaan 'Hautaustoimistojen Yhteistyö Oy Memoria, Tangotie 22, 44150 Äänekoski' mutta Y-tunnusta (FI-tunnus) ei ilmoiteta pääsivulla. Hautakivipalvelussa ilmoitetaan Y-tunnus 0875310-3, mutta se on eri yhteisö.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole mainintoja riippumattomista arviointiyhteisöistä, auditoinneista tai sertifioinnista. Sivustolla näytetään asiakaspalautteita, mutta nämä ovat sisäisiä, ei riippumattomista lähteistä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät jokaisella paikallisella toimistolla (esim. +358 505499511 Tampereen toimistossa). Hautakivipalvelun puhelinnumero on 0207909255.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät paikallisten toimistojen yhteydessä (esim. info@ainanlinnankukka.fi). Pääyhteystiedot: info@memoria.fi ja hautakivipalvelulle hautakivipalvelu@memoria.fi.",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei mainita chat-palvelua. Ainoastaan puhelinnumero, sähköposti ja verkkosovellus ovat saatavilla kommunikaatiovälineiksi.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelujen aukioloajat ilmoitaan: 'Asiakaspalvelumme on avoinna arkisin 10-15'. Hautakivipalvelulle erillinen aikataulu: ma-pe klo 9-20 ja la klo 10-14.",
+    "ukk_osio": "HAVAINTO: Usein kysyttyä -osiota löytyy arkut-sivulla (8 kysymystä arkuista) ja hautakivipalvelusivulla (8 kysymystä hautakivistä). Molissa käsitellään yleisiä asiakkaiden kysymyksiä."
+  }
+}

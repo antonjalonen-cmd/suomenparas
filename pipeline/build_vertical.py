@@ -58,10 +58,13 @@ MEASURED = {
     "autokoulut": "21.7.2026",
     # batch 5
     "pilvitallennuspalvelut": "21.7.2026",
+    # batch 6
+    "tavaransailytys": "23.7.2026",
     "salasananhallintapalvelut": "21.7.2026",
     "autokorjaamot": "21.7.2026",
     "suoratoistopalvelut": "21.7.2026",
     "virustorjuntaohjelmat": "21.7.2026",
+    "hautaustoimistot": "23.7.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

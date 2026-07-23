@@ -1085,3 +1085,33 @@ META["autopesulat"] = {
          "jotta vertailu pysyy reiluna."),
     ],
 }
+
+META["tavaransailytys"] = {
+    "slug": "tavaransailytys",
+    "nimi": "Tavaransailytys",
+    "nav": "Tavaransailytys",
+    "h1": "Suomen paras tavaransailytys 2026",
+    "yksikko": "suomalaista tavaransailytyspalvelua",
+    "lead": ("Pisteytimme {n} suomalaista itsepalveluvarastoyhtiota {m} mittarilla: tekninen laatu, "
+             "lapinakyvyys, tavoitettavuus ja AI-laatuarvio. Tarkein kysymys: nakyvatko "
+             "varastotilan hinta ja sopimusehdot ennen kuin annat yhteystietosi?"),
+    "meta_title": "Suomen paras tavaransailytys 2026 | vuokravarastot pisteytettyna | Suomen Paras",
+    "meta_desc": ("{n} suomalaista tavaransailytyspalvelua pisteytetty lapinakyvalla kaavalla. "
+                  "Katso mista jokainen piste tulee."),
+    "notes": [
+        ("<b>Cityvarasto on Suomen suurin:</b> Cityvarasto Oyj (per. 1999) on julkinen "
+         "osakeyhtiö, jolla on yli 58 toimipistettä yli 15 kaupungissa. Pelican Self Storage "
+         "on Pohjoismainen ketju, jolla on 14 toimipistettä paakaupunkiseudulla ja Turussa. "
+         "Muut listalla olevat palvelevat useammalla kuin yhdella paikkakunnalla."),
+        ("<b>Miksi listalla on vain {n} yhtiota?</b> Etsimme kansallisesti tai useassa "
+         "kaupungissa toimivia kuluttajapalveluita, joilla on oma verkkosivusto. 24varasto.fi "
+         "palvelee Joensuussa ja Pirkkalassa mutta sivusto oli botti-estojen takana eika "
+         "ollut mitattavissa. Warasto Finland (warasto.fi) on B2B-logistiikkayhtiö ilman "
+         "kuluttajatuotetta. Yhden kaupungin toimijat rajattiin pois."),
+        ("Vertailu kuvaa yhtiöiden julkisten verkkosivujen mitattavia ominaisuuksia, ei "
+         "varastojen fyysistä kuntoa, turvallisuuslaitteita tai kulkuyhteyksistä. Todellinen "
+         "varastotilan hinta riippuu koosta, sijainnista ja sopimuksen kestosta; vertailu "
+         "mittaa kerrotaanko hinta, ei mika se on. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}
