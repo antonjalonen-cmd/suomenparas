@@ -23,7 +23,7 @@
    "omistaja": "Etua Group Oy",
    "y_tunnus": "2167036-1",
    "rekisteroity": 2008,
-   "score": 69.4,
+   "score": 72.4,
    "pillars": {
     "digitaalinen": 62.4,
     "lapinakyvyys": 100,
@@ -229,7 +229,246 @@
     "Korkotasot vaikea arvioida ennen hakemusta",
     "Mobiilisovellusta ei mainittu"
    ],
-   "yhteenveto": "Etua.fi on vuonna 2008 perustettu lainavertailupalvelu, joka kilpailuttaa yli 20 lainantarjoajaa yhdellä hakemuksella. Prosessi on nopea ja riippumattomat Trustpilot-arviot ovat esillä. Puhelintuen puuttuminen ja korkotietojen niukkuus ennen hakemusta ovat kehityskohteita."
+   "yhteenveto": "Etua.fi on vuonna 2008 perustettu lainavertailupalvelu, joka kilpailuttaa yli 20 lainantarjoajaa yhdellä hakemuksella. Prosessi on nopea ja riippumattomat Trustpilot-arviot ovat esillä. Puhelintuen puuttuminen ja korkotietojen niukkuus ennen hakemusta ovat kehityskohteita.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: etua.fi/tietoa-meista -sivulla lukee 'Palvelullemme on myönnetty Avainlippu merkkinä suomalaisesta työstä.'"
+    },
+    {
+     "mittari": "Suomen Vahvimmat -sertifikaatti (Suomen Asiakastieto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: etua.fi/tietoa-meista -sivulla lukee 'Suomen Asiakastieto on myöntänyt Suomen Vahvimmat-sertifikaatin Etua Oy:lle. Tunnustus myönnetään ainoastaan parhaista parhaille: vain 12 % suomalaisista yrityksistä täyttää sertifikaatin tiukat kriteerit.'"
+    }
+   ]
+  },
+  {
+   "slug": "sortter",
+   "nimi": "Sortter",
+   "domain": "sortter.fi",
+   "omistaja": "Sortter Oy",
+   "y_tunnus": "2954352-7",
+   "rekisteroity": 2018,
+   "score": 68.8,
+   "pillars": {
+    "digitaalinen": 75.8,
+    "lapinakyvyys": 92,
+    "tavoitettavuus": 15,
+    "ai_laatu": 69.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Hakukoneoptimointi",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lakisääteinen korkoesimerkki esillä",
+       "arvo": "Kyllä (6.7 %)",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30,
+       "lahde": "AI-analyysi (Haiku)",
+       "quote": "Kun lainasumma on 20 000 €, korko 6 %, takaisinmaksuaika 9 vuotta – – todellinen vuosikorko on 6,7 %"
+      },
+      {
+       "mittari": "Korkoväli kerrottu",
+       "arvo": "4–20 %",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Lainaehdot kerrottu (summa ja aika)",
+       "arvo": "1 000–70 000 €, 1–20 v",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Y-tunnus näkyvillä sivustolla",
+       "arvo": "2954352-7",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Kumppanipankkien määrä kerrottu",
+       "arvo": "20 kpl",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15,
+       "lahde": "AI-analyysi (Haiku)",
+       "quote": "valikoimassamme on yli 20 lainanantajaa"
+      },
+      {
+       "mittari": "Riippumaton asiakasarviolähde",
+       "arvo": "4.7/5 (1299 arviota, oma kooste)",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7,
+       "lahde": "AI-analyysi (Haiku)",
+       "quote": "4,7 – perustuu 1299 arvosteluun"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Chat-palvelu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Aukioloajat kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15,
+       "lahde": "AI-analyysi (Haiku)"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 2765.009,
+    "cls": 0.00029068907722877845,
+    "tbt_ms": 8926.194573577888
+   },
+   "facts_extra": [
+    {
+     "label": "Lainasummat",
+     "value": "1 000–70 000 €"
+    },
+    {
+     "label": "Kumppanipankkeja",
+     "value": "20 kpl"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja kumppaniverkosto (yli 20 lainanantajaa) yhdessä hakemuksessa",
+    "Selkeä selitys lainakäsitteistä ja todellisen vuosikoron merkityksestä",
+    "Kattava FAQ-osio ja interaktiivinen lainalaskuri"
+   ],
+   "kehityskohteet": [
+    "Nykyiset markkinakorot eivät näy ilman hakemuslomakkeen täyttöä",
+    "Asiakaspalvelukanavat (puhelin, sähköposti, chat) puuttuvat etusivulta",
+    "Mobiilisovelluksen olemassaolo jää epäselväksi"
+   ],
+   "yhteenveto": "Sortter on suomalainen lainavertailupalvelu, joka vertaa lainatarjouksia yli 20 lainanantajalta maksutta. Käyttäjä voi hakea lainaa yhdellä hakemuksella ja saada lainapäätöksiä useista pankeista. Sivustolla on kattava sisältö, lainalaskuri ja monipuolinen FAQ, mutta asiakaspalvelun yhteystiedot puuttuvat etusivulta.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sortter.fi/yritys/ -sivulla lukee arvolupausten listassa 'suomalainen – meille on myönnetty avainlippu-merkki'"
+    }
+   ]
   },
   {
    "slug": "rahalaitos",
@@ -447,18 +686,18 @@
    "yhteenveto": "Rahalaitos on lainojen kilpailutuspalvelu, joka välittää hakemuksen jopa 25 luotonantajalle yhdellä lomakkeella. Palvelu on maksuton, prosessi nopea ja lakisääteinen korkoesimerkki selkeästi esillä. Asiakaspalvelun yhteystiedot ja riippumaton arviolähde puuttuvat etusivulta."
   },
   {
-   "slug": "sortter",
-   "nimi": "Sortter",
-   "domain": "sortter.fi",
-   "omistaja": "Sortter Oy",
-   "y_tunnus": "2954352-7",
-   "rekisteroity": 2018,
-   "score": 67.3,
+   "slug": "rahoitu",
+   "nimi": "Rahoitu.fi",
+   "domain": "rahoitu.fi",
+   "omistaja": "Sambla Group Oy",
+   "y_tunnus": "2521965-8",
+   "rekisteroity": 2013,
+   "score": 67.7,
    "pillars": {
-    "digitaalinen": 75.8,
-    "lapinakyvyys": 92,
-    "tavoitettavuus": 15,
-    "ai_laatu": 69.7
+    "digitaalinen": 64.6,
+    "lapinakyvyys": 50,
+    "tavoitettavuus": 90,
+    "ai_laatu": 69.0
    },
    "breakdown": {
     "digitaalinen": {
@@ -466,30 +705,30 @@
      "rivit": [
       {
        "mittari": "Suorituskyky (mobiili)",
-       "arvo": "56/100",
+       "arvo": "25/100",
        "paino": 40,
-       "pisteet": 56,
+       "pisteet": 25,
        "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
-       "arvo": "99/100",
+       "arvo": "88/100",
        "paino": 30,
-       "pisteet": 99,
+       "pisteet": 88,
        "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Hakukoneoptimointi",
-       "arvo": "100/100",
+       "arvo": "92/100",
        "paino": 15,
-       "pisteet": 100,
+       "pisteet": 92,
        "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
-       "arvo": "58/100",
+       "arvo": "96/100",
        "paino": 15,
-       "pisteet": 58,
+       "pisteet": 96,
        "lahde": "Tekninen mittaus"
       }
      ]
@@ -499,16 +738,16 @@
      "rivit": [
       {
        "mittari": "Lakisääteinen korkoesimerkki esillä",
-       "arvo": "Kyllä (6.7 %)",
+       "arvo": "Osittain (arvot eivät näy ilman JavaScriptiä)",
        "paino": 30,
        "pisteet_max": 30,
-       "pisteet": 30,
+       "pisteet": 15,
        "lahde": "AI-analyysi (Haiku)",
-       "quote": "Kun lainasumma on 20 000 €, korko 6 %, takaisinmaksuaika 9 vuotta – – todellinen vuosikorko on 6,7 %"
+       "quote": "Kaikkien uusien lainojen nimelliskorko 4,5 % – 10 %"
       },
       {
        "mittari": "Korkoväli kerrottu",
-       "arvo": "4–20 %",
+       "arvo": "4.5–10.0 %",
        "paino": 15,
        "pisteet_max": 15,
        "pisteet": 15,
@@ -516,15 +755,15 @@
       },
       {
        "mittari": "Lainaehdot kerrottu (summa ja aika)",
-       "arvo": "1 000–70 000 €, 1–20 v",
+       "arvo": "1 000–70 000 €",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 15,
+       "pisteet": 10,
        "lahde": "AI-analyysi (Haiku)"
       },
       {
        "mittari": "Y-tunnus näkyvillä sivustolla",
-       "arvo": "2954352-7",
+       "arvo": "2521965-8",
        "paino": 10,
        "pisteet_max": 10,
        "pisteet": 10,
@@ -532,21 +771,19 @@
       },
       {
        "mittari": "Kumppanipankkien määrä kerrottu",
-       "arvo": "20 kpl",
+       "arvo": "Ei kerrottu",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)",
-       "quote": "valikoimassamme on yli 20 lainanantajaa"
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
       },
       {
        "mittari": "Riippumaton asiakasarviolähde",
-       "arvo": "4.7/5 (1299 arviota, oma kooste)",
+       "arvo": "Ei esillä",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 7,
-       "lahde": "AI-analyysi (Haiku)",
-       "quote": "4,7 – perustuu 1299 arvosteluun"
+       "pisteet": 0,
+       "lahde": "AI-analyysi (Haiku)"
       }
      ]
     },
@@ -555,34 +792,34 @@
      "rivit": [
       {
        "mittari": "Puhelinnumero esillä",
-       "arvo": "Ei",
+       "arvo": "045 493 3200",
        "paino": 30,
        "pisteet_max": 30,
-       "pisteet": 0,
+       "pisteet": 30,
        "lahde": "AI-analyysi (Haiku)"
       },
       {
        "mittari": "Sähköposti esillä",
-       "arvo": "Ei",
+       "arvo": "Kyllä",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 0,
+       "pisteet": 15,
        "lahde": "AI-analyysi (Haiku)"
       },
       {
        "mittari": "Chat-palvelu",
-       "arvo": "Ei",
+       "arvo": "Kyllä",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 0,
+       "pisteet": 15,
        "lahde": "AI-analyysi (Haiku)"
       },
       {
        "mittari": "Aukioloajat kerrottu",
-       "arvo": "Ei",
+       "arvo": "Kyllä",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 0,
+       "pisteet": 15,
        "lahde": "AI-analyysi (Haiku)"
       },
       {
@@ -615,29 +852,29 @@
       },
       {
        "mittari": "Hintatietojen löydettävyys",
-       "arvo": "55/100",
+       "arvo": "65/100",
        "paino": 33,
-       "pisteet": 55,
+       "pisteet": 65,
        "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
-       "arvo": "82/100",
+       "arvo": "70/100",
        "paino": 33,
-       "pisteet": 82,
+       "pisteet": 70,
        "lahde": "AI-analyysi"
       }
      ]
     }
    },
    "lh": {
-    "performance": 56,
-    "accessibility": 99,
-    "seo": 100,
-    "best_practices": 58,
-    "lcp_ms": 2765.009,
-    "cls": 0.00029068907722877845,
-    "tbt_ms": 8926.194573577888
+    "performance": 25,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 11296.13425,
+    "cls": 0.22411086455282297,
+    "tbt_ms": 1265.0000000000018
    },
    "facts_extra": [
     {
@@ -646,20 +883,29 @@
     },
     {
      "label": "Kumppanipankkeja",
-     "value": "20 kpl"
+     "value": "Ei kerrottu"
     }
    ],
    "vahvuudet": [
-    "Laaja kumppaniverkosto (yli 20 lainanantajaa) yhdessä hakemuksessa",
-    "Selkeä selitys lainakäsitteistä ja todellisen vuosikoron merkityksestä",
-    "Kattava FAQ-osio ja interaktiivinen lainalaskuri"
+    "Poikkeuksellisen selkeä ja kapea korkoväli (4,5–10 %) suoraan etusivulla",
+    "Asiakaspalvelu puhelimella ja chatilla, aukioloajat esillä",
+    "Selkeä lainojen yhdistelyn ohjeistus"
    ],
    "kehityskohteet": [
-    "Nykyiset markkinakorot eivät näy ilman hakemuslomakkeen täyttöä",
-    "Asiakaspalvelukanavat (puhelin, sähköposti, chat) puuttuvat etusivulta",
-    "Mobiilisovelluksen olemassaolo jää epäselväksi"
+    "Todellisen vuosikoron esimerkki puuttuu",
+    "Kumppanipankkien määrä ei näy etusivulla",
+    "Trustpilot mainittu mutta arvosana ei esillä"
    ],
-   "yhteenveto": "Sortter on suomalainen lainavertailupalvelu, joka vertaa lainatarjouksia yli 20 lainanantajalta maksutta. Käyttäjä voi hakea lainaa yhdellä hakemuksella ja saada lainapäätöksiä useista pankeista. Sivustolla on kattava sisältö, lainalaskuri ja monipuolinen FAQ, mutta asiakaspalvelun yhteystiedot puuttuvat etusivulta."
+   "yhteenveto": "Rahoitu.fi on Sambla Groupin lainapalvelu, joka erottuu poikkeuksellisen kapealla ja selkeällä korkovälillä (4,5–10 %). Asiakaspalvelukanavat ovat hyvin esillä, mutta todellisen vuosikoron esimerkki ja kumppanien määrä puuttuvat.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: rahoitu.fi/about_fi -sivulla lukee 'Meille on myös myönnetty oikeus käyttää avainlipputunnusta. Avainlipulla merkittyihin tuotteisiin ja palveluihin voit luottaa - ne on suunniteltu juuri suomalaisia varten.'"
+    }
+   ]
   },
   {
    "slug": "omalaina",
@@ -874,219 +1120,6 @@
     "Kumppanipankkien määrää ei kerrota"
    ],
    "yhteenveto": "Omalaina.fi on Sambla Groupin lainojen vertailupalvelu, joka kilpailuttaa lainoja 500–70 000 euron välillä. Puhelinpalvelu ja aukioloajat ovat selkeästi esillä, mutta asiakasarviot ja kumppanien määrä puuttuvat sivulta."
-  },
-  {
-   "slug": "rahoitu",
-   "nimi": "Rahoitu.fi",
-   "domain": "rahoitu.fi",
-   "omistaja": "Sambla Group Oy",
-   "y_tunnus": "2521965-8",
-   "rekisteroity": 2013,
-   "score": 66.2,
-   "pillars": {
-    "digitaalinen": 64.6,
-    "lapinakyvyys": 50,
-    "tavoitettavuus": 90,
-    "ai_laatu": 69.0
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "25/100",
-       "paino": 40,
-       "pisteet": 25,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "88/100",
-       "paino": 30,
-       "pisteet": 88,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Hakukoneoptimointi",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "96/100",
-       "paino": 15,
-       "pisteet": 96,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Lakisääteinen korkoesimerkki esillä",
-       "arvo": "Osittain (arvot eivät näy ilman JavaScriptiä)",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)",
-       "quote": "Kaikkien uusien lainojen nimelliskorko 4,5 % – 10 %"
-      },
-      {
-       "mittari": "Korkoväli kerrottu",
-       "arvo": "4.5–10.0 %",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Lainaehdot kerrottu (summa ja aika)",
-       "arvo": "1 000–70 000 €",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 10,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Y-tunnus näkyvillä sivustolla",
-       "arvo": "2521965-8",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Kumppanipankkien määrä kerrottu",
-       "arvo": "Ei kerrottu",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Riippumaton asiakasarviolähde",
-       "arvo": "Ei esillä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0,
-       "lahde": "AI-analyysi (Haiku)"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "045 493 3200",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Chat-palvelu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Aukioloajat kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15,
-       "lahde": "AI-analyysi (Haiku)"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0,
-       "lahde": "AI-analyysi (Haiku)"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "72/100",
-       "paino": 34,
-       "pisteet": 72,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "65/100",
-       "paino": 33,
-       "pisteet": 65,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 25,
-    "accessibility": 88,
-    "seo": 92,
-    "best_practices": 96,
-    "lcp_ms": 11296.13425,
-    "cls": 0.22411086455282297,
-    "tbt_ms": 1265.0000000000018
-   },
-   "facts_extra": [
-    {
-     "label": "Lainasummat",
-     "value": "1 000–70 000 €"
-    },
-    {
-     "label": "Kumppanipankkeja",
-     "value": "Ei kerrottu"
-    }
-   ],
-   "vahvuudet": [
-    "Poikkeuksellisen selkeä ja kapea korkoväli (4,5–10 %) suoraan etusivulla",
-    "Asiakaspalvelu puhelimella ja chatilla, aukioloajat esillä",
-    "Selkeä lainojen yhdistelyn ohjeistus"
-   ],
-   "kehityskohteet": [
-    "Todellisen vuosikoron esimerkki puuttuu",
-    "Kumppanipankkien määrä ei näy etusivulla",
-    "Trustpilot mainittu mutta arvosana ei esillä"
-   ],
-   "yhteenveto": "Rahoitu.fi on Sambla Groupin lainapalvelu, joka erottuu poikkeuksellisen kapealla ja selkeällä korkovälillä (4,5–10 %). Asiakaspalvelukanavat ovat hyvin esillä, mutta todellisen vuosikoron esimerkki ja kumppanien määrä puuttuvat."
   },
   {
    "slug": "sambla",

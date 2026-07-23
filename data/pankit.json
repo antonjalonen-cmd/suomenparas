@@ -475,7 +475,7 @@
    "omistaja": "S-ryhmä (SOK ja alueosuuskaupat) — osti Handelsbankenin Suomen henkilöasiakkaat 1.12.2024",
    "y_tunnus": "2557308-3",
    "rekisteroity": 2013,
-   "score": 74.4,
+   "score": 75.9,
    "pillars": {
     "digitaalinen": 65.2,
     "lapinakyvyys": 75.0,
@@ -692,7 +692,16 @@
     "Sähköpostiosoitetta ei ole julkisesti näkyvillä - yhteystiedoissa vain puhelinnumerot",
     "Riippumatonta arviota ja ulkopuolisten organisaatioiden sertifiointeja ei mainita julkisesti"
    ],
-   "yhteenveto": "S-Pankki on suomalainen pankki, joka tarjoaa maksuttomia peruspalveluita asiakasomistajille. Sivusto on hyvin organisoitu useilla asiointikanavilla (S-mobiili, verkkopankki, toimipaikat), mutta palveluhinnastoa on vaikea löytää ja sähköpostiosoitetta ei ole julkisesti näkyvillä. Perustiedot hinnoittelusta (käyttötili ja kortti ilmaiseksi) ja yhteystiedoista ovat saatavilla, mutta jotkut läpinäkyvyyden mittarit jäävät puutteellisiksi."
+   "yhteenveto": "S-Pankki on suomalainen pankki, joka tarjoaa maksuttomia peruspalveluita asiakasomistajille. Sivusto on hyvin organisoitu useilla asiointikanavilla (S-mobiili, verkkopankki, toimipaikat), mutta palveluhinnastoa on vaikea löytää ja sähköpostiosoitetta ei ole julkisesti näkyvillä. Perustiedot hinnoittelusta (käyttötili ja kortti ilmaiseksi) ja yhteystiedoista ovat saatavilla, mutta jotkut läpinäkyvyyden mittarit jäävät puutteellisiksi.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Finanssiala ry:n jäsen",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: s-pankki.fi/fi/tiedotteet/2017/s-pankki-finanssiala-ryn-jaseneksi/ -tiedotteessa S-Pankki kertoo liittyneensä Finanssiala ry:n jäseneksi; tiedote on edelleen julkisesti luettavissa yhtiön omalla sivustolla."
+    }
+   ]
   },
   {
    "slug": "omasp",
@@ -1375,6 +1384,254 @@
    "yhteenveto": "Säästöpankki ei ole yksi pankki vaan ryhmä itsenäisiä paikallisia pankkeja ympäri Suomea. Pääsivusto tarjoaa yhtenäisen asiakaspalvelun (puhelin 010 311 6400, chat, verkkotapaaminen) ja selkeää konttoriverkkoa, mutta hinnaston ja sopimusehtojen osalta ohjaa asiakkaita paikallisten pankkien sivustoille. Säästöpankki Mobiili -sovellusta kehutaan. Ryhmärakenteen vuoksi yksittäisen Y-tunnuksen tai palveluhinnastojen toimittaminen on mahdotonta: jokaisen paikallisen Säästöpankin hinnasto poikkeaa."
   },
   {
+   "slug": "aktia",
+   "nimi": "Aktia",
+   "domain": "aktia.fi",
+   "omistaja": "Aktia Bank Abp — pörssiyhtiö, ei määräysvaltaista omistajaa",
+   "y_tunnus": "2181702-8",
+   "rekisteroity": 2008,
+   "score": 68.5,
+   "pillars": {
+    "digitaalinen": 71.8,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 48.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu mainitaan navigaatiossa (www.aktia.fi/fi/hinnasto) mutta antaa HTTP 404 -virheen. Hinnaston saatavuus vaatii joko kirjautumisen tai yhteydenoton."
+      },
+      {
+       "mittari": "Tilin- ja kortinhoitomaksut esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilit- ja kortit-sivut antavat HTTP 404 -virheitä. Maksutiedot eivät ole julkisesti saatavilla staattisen haun perusteella."
+      },
+      {
+       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleiset käyttöehdot ovat ladattavissa osoitteesta www.aktia.fi/kayttoehdot (HTTP 200, sisältää pankkisopimuksen ehdot)."
+      },
+      {
+       "mittari": "Konttorit ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivu (www.aktia.fi/fi/asiakastuki/toimipisteet) antaa HTTP 404 -virheen. Osoite (Arkadiankatu 4-6, Helsinki) näkyy sivuston alalaidassa, mutta konttorien listaa ja yksityisiä aukioloaikoja ei saada."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2181702-8 näkyy sivuston alalaidassa (Aktia Pankki Oyj, PL 207, 00101 HELSINKI)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkisella sivustolla ei ole näkyviä riippumattomia audiitteja tai pankkipalveluiden ulkopuolisten tahojen tekemiä arviointeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu 010 247 010 (arkisin 8-18), Korttien sulkupalvelu 24h +358 800 0 2477, Verkkopankin sulku 24h +358 20 333."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite mainitaan turvallisuusohjeissa suojatussa muodossa (aktia(at)aktia.fi). Ei julkista yleistä sähköpostia näkyvissä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Siirry chattiin' -linkki näkyy pääsivun navigaatiossa. Aktiabot-chat mainitaan."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvissä (arkisin 8-18). Korttien ja verkkopankin sulkupalvelut 24/7."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aktian Mobiilipankki mainitaan turvallisuusohjeissa ladattavaksi sovelluskaupoista."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "25/100",
+       "paino": 33,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6159.293500000001,
+    "cls": 0.1072881716539583,
+    "tbt_ms": 2581.8047499999993
+   },
+   "facts_extra": [
+    {
+     "label": "Pankkityyppi",
+     "value": "Liikepankki"
+    },
+    {
+     "label": "Palveluhinnasto",
+     "value": "Osittain julkinen"
+    },
+    {
+     "label": "Käyttötilin kk-maksu",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Kattavat turvallisuusohjeet ja tietoturvainformaatio julkisesti saatavilla",
+    "Useita yhteydenottokeinoja: puhelin 24/7 sulkupalveluille, chat ja toimipisteet",
+    "Selkeä sivusto-navigaatio ja hyvät asiakastuen turvallisuusresursit"
+   ],
+   "kehityskohteet": [
+    "Palveluhinnasto ei ole julkisesti saatavilla - hintaarvioihin tulee ottaa yhteyttä tai kirjautua",
+    "Monet navigaation linkit johtavat 404:ään, mikä vaikeuttaa palvelun tutkimista ilman kirjautumista",
+    "Sivuston sisältö on hyvin JavaScript-renderöityä, joten staattinen pääsy epäluotettava"
+   ],
+   "yhteenveto": "Aktia Pankki Oyj on suomalainen pankkikonserni, jonka julkinen sivusto tarjoaa hyvät turvallisuusohjeet ja kattavat yhteystiedot. Palveluhinnasto ja tilin/kortin kuukausikulut eivät ole julkisesti näkyvissä staattisen haun kautta. Sivusto käyttää laajasti JavaScript-renderöintiä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "FINSIF (Suomen vastuullisen sijoittamisen foorumi) -jäsen",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama aktia.fi/fi/vastuullinen-sijoittaminen -sivun jäsenyys-/aloitelista mainitsee FINSIF:n."
+    },
+    {
+     "mittari": "FIBS ry -jäsen",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama aktia.fi/fi/vastuullinen-sijoittaminen -sivun jäsenyys-/aloitelista mainitsee FIBS:n (yritysvastuuverkosto)."
+    },
+    {
+     "mittari": "Green Building Council Finland -jäsen",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama aktia.fi/fi/vastuullinen-sijoittaminen -sivun jäsenyys-/aloitelista mainitsee Green Building Council Finlandin."
+    }
+   ]
+  },
+  {
    "slug": "nordea",
    "nimi": "Nordea",
    "domain": "nordea.fi",
@@ -1822,233 +2079,6 @@
     "Y-tunnus puuttuu kokonaan; ainoastaan BIC-koodi (OKOYFIHH) näkyvissä käyttöehdoissa"
    ],
    "yhteenveto": "OP Pohjola on Suomen suurimpia pankkeja, jonka verkkosivut op.fi ovat JavaScript-renderöityä sisältöä. Sivustolla on kattavat tiedot pankkipalveluista, erityisesti mobiilisovelluksesta ja maksukortista, sekä selkeät asiakaspalvelun yhteystiedot. Palveluhinnastoa ja sopimuksehtoja voi hakea, mutta joitain olennaisia tietoja, kuten fyysisten konttorien sijainnit ja Y-tunnuksen, ei löydy julkisesta sivustosta."
-  },
-  {
-   "slug": "aktia",
-   "nimi": "Aktia",
-   "domain": "aktia.fi",
-   "omistaja": "Aktia Bank Abp — pörssiyhtiö, ei määräysvaltaista omistajaa",
-   "y_tunnus": "2181702-8",
-   "rekisteroity": 2008,
-   "score": 65.5,
-   "pillars": {
-    "digitaalinen": 71.8,
-    "lapinakyvyys": 57.5,
-    "tavoitettavuus": 85.0,
-    "ai_laatu": 48.4
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "37/100",
-       "paino": 40,
-       "pisteet": 37,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "90/100",
-       "paino": 30,
-       "pisteet": 90,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnasto-sivu mainitaan navigaatiossa (www.aktia.fi/fi/hinnasto) mutta antaa HTTP 404 -virheen. Hinnaston saatavuus vaatii joko kirjautumisen tai yhteydenoton."
-      },
-      {
-       "mittari": "Tilin- ja kortinhoitomaksut esillä",
-       "arvo": "Osittain",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tilit- ja kortit-sivut antavat HTTP 404 -virheitä. Maksutiedot eivät ole julkisesti saatavilla staattisen haun perusteella."
-      },
-      {
-       "mittari": "Yleiset sopimusehdot julkisesti saatavilla",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yleiset käyttöehdot ovat ladattavissa osoitteesta www.aktia.fi/kayttoehdot (HTTP 200, sisältää pankkisopimuksen ehdot)."
-      },
-      {
-       "mittari": "Konttorit ja aukioloajat kerrottu",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Toimipisteet-sivu (www.aktia.fi/fi/asiakastuki/toimipisteet) antaa HTTP 404 -virheen. Osoite (Arkadiankatu 4-6, Helsinki) näkyy sivuston alalaidassa, mutta konttorien listaa ja yksityisiä aukioloaikoja ei saada."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus 2181702-8 näkyy sivuston alalaidassa (Aktia Pankki Oyj, PL 207, 00101 HELSINKI)."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Julkisella sivustolla ei ole näkyviä riippumattomia audiitteja tai pankkipalveluiden ulkopuolisten tahojen tekemiä arviointeja."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Asiakaspalvelu 010 247 010 (arkisin 8-18), Korttien sulkupalvelu 24h +358 800 0 2477, Verkkopankin sulku 24h +358 20 333."
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sähköpostiosoite mainitaan turvallisuusohjeissa suojatussa muodossa (aktia(at)aktia.fi). Ei julkista yleistä sähköpostia näkyvissä."
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Siirry chattiin' -linkki näkyy pääsivun navigaatiossa. Aktiabot-chat mainitaan."
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvissä (arkisin 8-18). Korttien ja verkkopankin sulkupalvelut 24/7."
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Aktian Mobiilipankki mainitaan turvallisuusohjeissa ladattavaksi sovelluskaupoista."
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "55/100",
-       "paino": 34,
-       "pisteet": 55,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "25/100",
-       "paino": 33,
-       "pisteet": 25,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "65/100",
-       "paino": 33,
-       "pisteet": 65,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 37,
-    "accessibility": 90,
-    "seo": 100,
-    "best_practices": 100,
-    "lcp_ms": 6159.293500000001,
-    "cls": 0.1072881716539583,
-    "tbt_ms": 2581.8047499999993
-   },
-   "facts_extra": [
-    {
-     "label": "Pankkityyppi",
-     "value": "Liikepankki"
-    },
-    {
-     "label": "Palveluhinnasto",
-     "value": "Osittain julkinen"
-    },
-    {
-     "label": "Käyttötilin kk-maksu",
-     "value": "Ei julkisesti esillä"
-    }
-   ],
-   "vahvuudet": [
-    "Kattavat turvallisuusohjeet ja tietoturvainformaatio julkisesti saatavilla",
-    "Useita yhteydenottokeinoja: puhelin 24/7 sulkupalveluille, chat ja toimipisteet",
-    "Selkeä sivusto-navigaatio ja hyvät asiakastuen turvallisuusresursit"
-   ],
-   "kehityskohteet": [
-    "Palveluhinnasto ei ole julkisesti saatavilla - hintaarvioihin tulee ottaa yhteyttä tai kirjautua",
-    "Monet navigaation linkit johtavat 404:ään, mikä vaikeuttaa palvelun tutkimista ilman kirjautumista",
-    "Sivuston sisältö on hyvin JavaScript-renderöityä, joten staattinen pääsy epäluotettava"
-   ],
-   "yhteenveto": "Aktia Pankki Oyj on suomalainen pankkikonserni, jonka julkinen sivusto tarjoaa hyvät turvallisuusohjeet ja kattavat yhteystiedot. Palveluhinnasto ja tilin/kortin kuukausikulut eivät ole julkisesti näkyvissä staattisen haun kautta. Sivusto käyttää laajasti JavaScript-renderöintiä."
   }
  ],
  "updated": "18.7.2026",

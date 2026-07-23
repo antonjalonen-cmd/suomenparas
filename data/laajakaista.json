@@ -243,7 +243,7 @@
    "omistaja": "Savonlinnan BLC-osuuskunta (BLC Telecom Oy)",
    "y_tunnus": "3262182-1",
    "rekisteroity": 2022,
-   "score": 79.4,
+   "score": 80.9,
    "pillars": {
     "digitaalinen": 73.3,
     "lapinakyvyys": 82.5,
@@ -457,7 +457,16 @@
     "Ei riippumatonta asiakasarviointia (Trustpilot, EPSI Rating tai muu ulkopuolinen lähde puuttuu",
     "Mobiilisovellusta tai itsepalveluportaalia ei mainittu verkkosivuilla"
    ],
-   "yhteenveto": "BLC Telecom on Savonlinnan osuuskuntaomistama alueellinen kuituoperaattori Itä-Suomessa. Sivusto tarjoaa kuitu- (BLC Valo) ja kaapelipalveluja (BLC Kaapeli) selkeällä kampanjahinnoittelulla: 12 kuukauden alennusperiodi, jonka jälkeen hinta nousee kirjaimellisesti näkyviin. Omakotitaloille nolla avausmaksu pitkillä sopimuksilla on vahva tarjous, mutta hinnat vaativat osoitteen syöttämisen nähdäkseen. Asiakaspalvelu on saatavilla arkisin puhelimitse, sähköpostitse ja chatilla."
+   "yhteenveto": "BLC Telecom on Savonlinnan osuuskuntaomistama alueellinen kuituoperaattori Itä-Suomessa. Sivusto tarjoaa kuitu- (BLC Valo) ja kaapelipalveluja (BLC Kaapeli) selkeällä kampanjahinnoittelulla: 12 kuukauden alennusperiodi, jonka jälkeen hinta nousee kirjaimellisesti näkyviin. Omakotitaloille nolla avausmaksu pitkillä sopimuksilla on vahva tarjous, mutta hinnat vaativat osoitteen syöttämisen nähdäkseen. Asiakaspalvelu on saatavilla arkisin puhelimitse, sähköpostitse ja chatilla.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Luotettava Kumppani® -luottamusmerkki",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: blc.fi/telecom/tietoa-meista sivulla teksti 'BLC Telecomille on myönnetty Luotettava Kumppani® Luottamusmerkki, joka on tarkoitettu yrityksille, jotka ovat osoittaneet pitkäaikaista vastuullisuutta ja luotettavuutta.' (Suomen Tilaajavastuu Oy:n myöntämä, tilaajavastuulain velvoitteiden riippumaton vahvistus)"
+    }
+   ]
   },
   {
    "slug": "kaisanet",
@@ -466,7 +475,7 @@
    "omistaja": "Kainuun Puhelinosuuskunta 66 % + Puhelinosuuskunta IPY",
    "y_tunnus": "2366937-2",
    "rekisteroity": 2010,
-   "score": 77.2,
+   "score": 78.7,
    "pillars": {
     "digitaalinen": 57.2,
     "lapinakyvyys": 90.0,
@@ -680,7 +689,16 @@
     "Mobiilisovelluksen puuttuminen (vain web-pohjainen OmaKaisanet-portaali)",
     "Valikoiman ja palvelun kokonaisuuden esittäminen vaatii usean sivun selaamista"
    ],
-   "yhteenveto": "Kaisanet on Kainuun ja Ylä-Savon alueella toimiva kuitu- ja kaapeliverkkojen laajakaistanpalvelun tarjoaja. Sivusto esittelee palvelut läpinäkyvine hinnastoineen ja selkeinä sopimuksen ehdoineen. Vahvuuksina ovat selkeät hinnat ja monipuoliset kontaktikanavat, mutta sivustolta puuttuu asiakasarvioiden näyttäminen ja mobiilisovellus."
+   "yhteenveto": "Kaisanet on Kainuun ja Ylä-Savon alueella toimiva kuitu- ja kaapeliverkkojen laajakaistanpalvelun tarjoaja. Sivusto esittelee palvelut läpinäkyvine hinnastoineen ja selkeinä sopimuksen ehdoineen. Vahvuuksina ovat selkeät hinnat ja monipuoliset kontaktikanavat, mutta sivustolta puuttuu asiakasarvioiden näyttäminen ja mobiilisovellus.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001:2013",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: kaisanet.fi/kaisanet/laatu/ sivun 'Laatuasiat ja -sertifikaatit' -osiossa teksti 'Konesali- ja infrapalveluissamme noudatamme tietoturvastandardi ISO/IEC 27001:2013 vaatimuksia.'"
+    }
+   ]
   },
   {
    "slug": "elisa",
@@ -689,7 +707,7 @@
    "omistaja": "Pörssiyhtiö (Nasdaq Helsinki) — myös Saunalahti-brändi",
    "y_tunnus": "0116510-6",
    "rekisteroity": 1978,
-   "score": 64.4,
+   "score": 67.4,
    "pillars": {
     "digitaalinen": 70.5,
     "lapinakyvyys": 47.5,
@@ -903,7 +921,34 @@
     "Kampanjoiden jälkeinen hinta ei ole selkeästi esillä — Black Friday-kampanjoita mainitaan, mutta normaali hinta puuttuu",
     "Ei näkyviä kolmannen osapuolen asiakasarvioita tai riippumattomia arvioita (esim. EPSI Rating, Trustpilot) — johtaa luottamuspuutteeseen"
    ],
-   "yhteenveto": "Elisa on merkittävä suomalainen teleoperaattori, joka tarjoaa kotiin annettavaa laajakaistaa useilla teknologioilla (kuitu, kaapeli, 5G). Sivusto sisältää kattavat palvelun kuvaukset, asiakastuen yhteystiedot ja FAQ-osiosta, mutta hinnoittelu on osittain piilotettu verkkokaupan takana eikä kolmannen osapuolen arvioita ole näkyvillä. Saatavuuden tarkistaminen on mahdollista ilman yhteystietoja (osoitehakulla), mikä on käyttäjäystävällistä."
+   "yhteenveto": "Elisa on merkittävä suomalainen teleoperaattori, joka tarjoaa kotiin annettavaa laajakaistaa useilla teknologioilla (kuitu, kaapeli, 5G). Sivusto sisältää kattavat palvelun kuvaukset, asiakastuen yhteystiedot ja FAQ-osiosta, mutta hinnoittelu on osittain piilotettu verkkokaupan takana eikä kolmannen osapuolen arvioita ole näkyvillä. Saatavuuden tarkistaminen on mahdollista ilman yhteystietoja (osoitehakulla), mikä on käyttäjäystävällistä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: elisa.fi/yhtiotieto/vastuullisuus/trust-center/ sivulla teksti 'Elisan omaa toimintaa auditoidaan ISO 27001 -standardin mukaisessa turvallisuusauditoinnissa... Elisalla on neljä eri ISO/IEC 27001 -sertifikaattia.' Vahvistettu myös vanhemmalla tiedotteella elisa.fi/yhtiotieto/uutishuone/tiedotteet/ (14.12.2017), jossa kuvataan myönnetyt ISO/IEC 27001:2013 -sertifikaatit."
+    },
+    {
+     "mittari": "ISO/IEC 20000-1:2011",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: elisa.fi:n tiedote 'Elisa sai kansainvälisesti tunnustetun ISO/IEC 27001 -tietoturvasertifikaatin' (elisa.fi/yhtiotieto/uutishuone/tiedotteet/, 14.12.2017): 'Elisalle on aiemmin myönnetty... IT-palveluiden johtamisen ja hallinnan laatua kuvaava ISO/IEC 20000-1:2011 -laatusertifikaatti.'"
+    },
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: elisa.fi/yhtiotieto/vastuullisuus/ymparistovastuu/ sivulla teksti 'Elisan ISO 14001 (ympäristöjohtaminen)... -sertifikaatit osoittavat sitoutumisemme vastuulliseen toimintaan.' Kattaa 2025 suomalaiset verkot, datakeskukset ja toimistot."
+    },
+    {
+     "mittari": "ISO 50001",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: elisa.fi/yhtiotieto/vastuullisuus/ymparistovastuu/ sivulla teksti '...ja ISO 50001 (energianhallinta) -sertifikaatit... ISO 50001 -sertifikaatti kattaa seuraavat kohteet: suomalaiset verkot ja datakeskukset.'"
+    }
+   ]
   },
   {
    "slug": "lounea",
@@ -912,7 +957,7 @@
    "omistaja": "Noin 16 000 yksityistä osakkeenomistajaa",
    "y_tunnus": "0139471-8",
    "rekisteroity": 1978,
-   "score": 64.2,
+   "score": 65.7,
    "pillars": {
     "digitaalinen": 80.9,
     "lapinakyvyys": 32.5,
@@ -1126,7 +1171,16 @@
     "Y-tunnusta ei näytetä verkkosivuilla",
     "Kampanjoiden jälkeisiä normaalihintoja ei selvästi ilmoiteta"
    ],
-   "yhteenveto": "Lounea on kotimainen kuituoperaattori, joka tarjoaa valokuituliittymiä koko Suomeen. Verkkosivuilla esitellään palvelun laatu ja luotettavuus (99,999% toimintavarmuus), mutta hinnoittelu on piilotettu saatavuustarkistuksen taakse. Sivusto on hyvin organisoitu ja tarjoaa kattavat ohjeet sekä asiakastukea monella kanavalla, mutta puuttuvat Y-tunnus ja kampanjoiden jälkeiset hinnat heikentävät läpinäkyvyyttä."
+   "yhteenveto": "Lounea on kotimainen kuituoperaattori, joka tarjoaa valokuituliittymiä koko Suomeen. Verkkosivuilla esitellään palvelun laatu ja luotettavuus (99,999% toimintavarmuus), mutta hinnoittelu on piilotettu saatavuustarkistuksen taakse. Sivusto on hyvin organisoitu ja tarjoaa kattavat ohjeet sekä asiakastukea monella kanavalla, mutta puuttuvat Y-tunnus ja kampanjoiden jälkeiset hinnat heikentävät läpinäkyvyyttä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: lounea.fi/fi/lounea-oy/vastuullisuus/ sivulla otsikon 'ISO27001' alla teksti 'Lounealla on ISO/IEC 27001 -tietoturvasertifikaatti, joka kattaa koko Lounea-konsernin toiminnan.'"
+    }
+   ]
   },
   {
    "slug": "mpy",
@@ -1135,7 +1189,7 @@
    "omistaja": "Infranode (pohjoismainen infrastruktuurisijoittaja)",
    "y_tunnus": "3363506-1",
    "rekisteroity": 2023,
-   "score": 60.1,
+   "score": 61.6,
    "pillars": {
     "digitaalinen": 72.5,
     "lapinakyvyys": 40.0,
@@ -1349,7 +1403,16 @@
     "Ei itsenäisiä asiakasarvioita – 'Mitä asiakkaamme sanovat' -osio on tyhjä",
     "Saatavuustarkistus (OmaMPY-portaali) vaatii sisäänkirjautumisen tai epäselviä yhteystietoja"
    ],
-   "yhteenveto": "MPY Telecom on itäsuomalainen valokuituverkko-operaattori, joka tarjoaa kotinetti- ja televisiopalveluja. Hinnoittelu on osittain läpinäkymätön: etuhinnat (30,50–101,11 €/kk) näkyvät selvästi, mutta kampanjan jälkeiset hinnat ovat piilotettu PDF-dokumentteihin. Asiakaspalvelu on saatavilla 24/7 ja sivustolla on kattavat ohjeet, mutta itsenäisiä asiakasarvioita ei ole näkyvissä."
+   "yhteenveto": "MPY Telecom on itäsuomalainen valokuituverkko-operaattori, joka tarjoaa kotinetti- ja televisiopalveluja. Hinnoittelu on osittain läpinäkymätön: etuhinnat (30,50–101,11 €/kk) näkyvät selvästi, mutta kampanjan jälkeiset hinnat ovat piilotettu PDF-dokumentteihin. Asiakaspalvelu on saatavilla 24/7 ja sivustolla on kattavat ohjeet, mutta itsenäisiä asiakasarvioita ei ole näkyvissä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001:2022",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: mpy.fi/yritykset/ajankohtaista/mpylle-iso-iec-270012022/ (29.1.2026): 'MPY on saavuttanut kansainvälisen ISO/IEC 27001:2022 -tietoturvasertifikaatin, joka vahvistaa sitoutumisemme turvalliseen ja luotettavaan toimintaan.'"
+    }
+   ]
   },
   {
    "slug": "lennu",
@@ -1578,7 +1641,7 @@
    "omistaja": "Telenor ASA (Norja) — myös Moi Mobiili -brändi",
    "y_tunnus": "0592509-6",
    "rekisteroity": 1985,
-   "score": 53.2,
+   "score": 56.2,
    "pillars": {
     "digitaalinen": 60.1,
     "lapinakyvyys": 17.5,
@@ -1792,7 +1855,22 @@
     "Sopimuksen pituus ja avausmaksu eivät julkisesti näkyvillä ilman osoitehaun suorittamista",
     "Kampanjahintojen jälkeiset normaalit hinnat ja promootiohintojen ehdot eivät näkyvissä"
    ],
-   "yhteenveto": "DNA Oyj on Suomen johtava laajakaistanpalvelun tarjoaja, joka tarjoaa nopean kuitu-, kaapeli- ja 5G-yhteyden. Sivusto painottaa asiakaspalvelua ja takuita, mutta peittää kaikki kuukausihinnat, sopimustiedot ja avausmaksut osoitehaun taakse, mikä estää anonymyn verailun täysin. EPSI Rating -tutkimuksessa DNA johtaa asiakastyytyväisyydessä."
+   "yhteenveto": "DNA Oyj on Suomen johtava laajakaistanpalvelun tarjoaja, joka tarjoaa nopean kuitu-, kaapeli- ja 5G-yhteyden. Sivusto painottaa asiakaspalvelua ja takuita, mutta peittää kaikki kuukausihinnat, sopimustiedot ja avausmaksut osoitehaun taakse, mikä estää anonymyn verailun täysin. EPSI Rating -tutkimuksessa DNA johtaa asiakastyytyväisyydessä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: corporate.dna.fi/awardsandcertificates sivulla otsikon 'DNA's certificates' alla: 'ISO 27001 Certification for Information Security... ISO 27001 is valid until July 7, 2027.'"
+    },
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: corporate.dna.fi/awardsandcertificates sivulla: 'ISO 14001 Certification for Environmental Management... ISO 14001 is valid until January 4, 2029.' Vahvistettu myös corporate.dna.fi/vastuullisuus/vastuullisuus-dnalla sivulla: 'DNA:n ympäristöjohtamiselle ISO 14001 -sertifikaatti.'"
+    }
+   ]
   },
   {
    "slug": "telia",
@@ -1801,7 +1879,7 @@
    "omistaja": "Telia Company AB (Ruotsi)",
    "y_tunnus": "1475607-9",
    "rekisteroity": 1998,
-   "score": 48.7,
+   "score": 51.7,
    "pillars": {
     "digitaalinen": 60.0,
     "lapinakyvyys": 30.0,
@@ -2015,7 +2093,34 @@
     "Kampanjoiden jälkeiset normaalit hinnat täysin dokumentoimatta",
     "Asiakasarvioiden ja riippumattomien arviointien puute heikentää luottamusta"
    ],
-   "yhteenveto": "Telia on Suomen suurimpia teleoperaattoreita (Telia Company omistama). Netti kotiin -palvelu tarjoaa kuitua, kaapelia, 5G- ja VDSL2-yhteyksiä paketteina S–XXL nopeuksiin asti 1000 Mbps. Pääongelma: hinnat näkyvät vasta osoitteen syöttämisen jälkeen, kampanjahintojen jälkeisiä normaalihintoja ei julkaista, ja sivustolla ei ole asiakasarvioita tai riippumattomia arviointeja."
+   "yhteenveto": "Telia on Suomen suurimpia teleoperaattoreita (Telia Company omistama). Netti kotiin -palvelu tarjoaa kuitua, kaapelia, 5G- ja VDSL2-yhteyksiä paketteina S–XXL nopeuksiin asti 1000 Mbps. Pääongelma: hinnat näkyvät vasta osoitteen syöttämisen jälkeen, kampanjahintojen jälkeisiä normaalihintoja ei julkaista, ja sivustolla ei ole asiakasarvioita tai riippumattomia arviointeja.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001 (laadunhallinta)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: telia.fi/telia-yrityksena/telialle-myonnetyt-sertifikaatit-ja-palkinnot sivulla 'Laadunhallinnan ISO 9001 sertifikaatti... Telia Finlandilla on laadunhallinnan sertifikaatti, joka kattaa Telia Finland Oyj:n toiminnot.'"
+    },
+    {
+     "mittari": "ISO/IEC 27001 (tietoturvallisuudenhallinta)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: telia.fi/telia-yrityksena/telialle-myonnetyt-sertifikaatit-ja-palkinnot sivulla 'Tietoturvallisuudenhallinnan ISO/IEC 27001 sertifikaatti... kattaa Telia Finland Oyj:n toiminnot, joilla hallitaan ja tuotetaan sähköisiä viestintäpalveluita.'"
+    },
+    {
+     "mittari": "ISO 14001 (ympäristönhallinta)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: telia.fi/telia-yrityksena/telialle-myonnetyt-sertifikaatit-ja-palkinnot sivulla 'Ympäristönhallinnan ISO 14001 sertifikaatti... kattaa Telia Finland Oyj:n toiminnot, Telia Towers Finland Oy:n, Telia Rooftop Oy:n toiminnot ja Telia Cygate Oy:n toiminnot.'"
+    },
+    {
+     "mittari": "ISO 50001 (energianhallinta)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: telia.fi/telia-yrityksena/telialle-myonnetyt-sertifikaatit-ja-palkinnot sivulla 'Energianhallinnan ISO 50001 sertifikaatti... kattaa Telia Finland Oyj:n toiminnot, Telia Towers Finland Oy:n, Telia Rooftop Oy:n toiminnot ja Telia Cygate Oy:n toiminnot.'"
+    }
+   ]
   }
  ],
  "updated": "16.7.2026",

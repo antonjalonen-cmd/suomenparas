@@ -444,6 +444,248 @@
    "yhteenveto": "Hostaan Oy on suomalainen webhotelli-palveluntarjoaja, jonka verkkosivuilla esitellään WordPress-optimoituja webhotellipalveluja 6,98-31,98 euron kuukausihintavälillä. Palvelujen perusominaisuudet (levytila, kaistanleveys, sähköpostit, tietokannat) ovat selkeästi näkyvillä kaikissa paketeissa. Yritys tarjoaa poikkeuksellisen laajaa asiakastukea puhelimitse, sähköpostitse ja 24/7 AI-chatilla, sekä omistaa koko palvelininfrastruktuurin Suomessa. Sopimusehdot ovat julkisesti saatavilla ja asiakkaat voivat perua sopimuksen milloin tahansa ilman sanomisaikaa."
   },
   {
+   "slug": "zoner",
+   "nimi": "Zoner",
+   "domain": "zoner.fi",
+   "omistaja": "One.com Group AB (Tanska/Ruotsi) — osti Telian webhotellit 1.8.2024",
+   "y_tunnus": "1985221-1",
+   "rekisteroity": 2005,
+   "score": 73.6,
+   "pillars": {
+    "digitaalinen": 67.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnat näkyvät yksittäisillä tuotesivuilla (Mini 1,95€/kk -50%, Startti 4,9€/kk, Professional 9,9€/kk, Enterprise 19,9€/kk 12kk sopimuksella), mutta päävertailutaulukossa www.zoner.fi/webhotellit/ sanotaan 'Kaikki hinnat alv. 0%' ilman konkreettisia euroja."
+      },
+      {
+       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Uusintahinta eli normaalin sopimuskertautumisen hinta ei ole missään näkyvillä. Sopimusehdoissa (sopimusehdot-sivulla) mainitaan hinnanmuutosmahdollisuus kuukauden varoitusajalla, mutta uusia hintoja ei julkaista etukäteen."
+      },
+      {
+       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki neljä pakettia on esitelty tarkan taulukon muodossa: Mini 1 GB/3 emails/1 DB, Startti 20 GB/10 emails/1 DB, Sopiva 40 GB/20 emails/2 DB, Yritys 60 GB/unlimited emails/unlimited DB. Myös kaistanleveys mainitaan (10 GB, 100 GB, 200 GB, 400 GB)."
+      },
+      {
+       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 6155.5064999999995,
+    "cls": 0.22385953826062963,
+    "tbt_ms": 1359
+   },
+   "facts_extra": [
+    {
+     "label": "Halvin kk-hinta",
+     "value": "1,95 €/kk"
+    },
+    {
+     "label": "Palvelimet Suomessa",
+     "value": "Kyllä"
+    }
+   ],
+   "vahvuudet": [
+    "Selkeät resurssirajoitukset kaikissa paketeissa - levytila, sähköpostit ja tietokannat määritelty tarkasti (Mini 1 GB–Yritys 60 GB)",
+    "Suomalaiset palvelimet Helsingissä (Pitäjänmäki) uusiutuvalla energialla, 24/7 asiakaspalvelu chat-tuella",
+    "Kattava sopimusehdoissa - 30 päivän irtisanomisaika, automaattinen uusiminen, hinnanmuutossuoja"
+   ],
+   "kehityskohteet": [
+    "Uusintahinta täysin näkymätön - ensimmäisen vuoden kampanjahinta näkyy selvästi, mutta uusimiskustannukset jäävät täysin epäselväksi, typillinen pimeyden malli",
+    "Hinnat piilotettu vertailutaulukosta - pääsivulla ei näy euroja, vaan ne löytyvät vain yksittäisiltä tuotesivuilta tai hakemalla",
+    "Ulkomainen omistajuus vain pienellä tekstillä - One.com Groupin omistajuus mainitaan vain yksityisyyskäytäntöjen pienellä tekstillä, ei päälähteissä"
+   ],
+   "yhteenveto": "Zoner Oy on suomalainen webhotelli-palveluntarjoaja (omistaja: One.com Group/group.ONE). Sivusto esittelee neljä pakettia selkeillä resurssirajoituksilla ja Suomen palvelimilla, palvelutaso on kattava. Pääongelma on pricing-strategia: kampanjahinta näkyy (Mini 1,95€/kk -50% alennuksella), mutta uusintahinta ja varsinaiset hinnat eivät ole näkyvillä vertailutaulukossa, mikä on merkittävä dark pattern. Trustpilot-arvostelut ovat sekalaiset (90+ reviews).",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001 (tietoturvallisuuden hallintajärjestelmä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: zoner.fi/meista/laitetilat/ listaa nimetyt sertifikaatit Zonerin käyttämälle Telia Helsinki Data Center -laitetilalle: \"ISO/IEC 27001 tietoturvallisuuden johtamisjärjestelmä\". Sama sertifikaatti mainitaan myös Saksan VPS-laitetiloille (\"ISO27001-sertifioiduissa laitetiloissa Saksassa\") ja Tanskan WP.one-laitesalille (\"ISO 27001 -sertifiointi\")."
+    },
+    {
+     "mittari": "ISO 9001 (laatujärjestelmä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: zoner.fi/meista/laitetilat/ listaa Telia Helsinki Data Centerille myönnetyn \"ISO 9001 laatujärjestelmä (B2B-palvelut)\" -sertifikaatin osana sivulla lueteltua sertifikaattilistaa."
+    },
+    {
+     "mittari": "ISO 14001 (ympäristöjärjestelmä)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: zoner.fi/meista/laitetilat/ mainitsee Telia Helsinki Data Centerille myönnetyn \"ISO 14001 ympäristöjärjestelmä\" -sertifikaatin, sekä erikseen kultatason LEED- ja CEEDA-ympäristösertifikaatit samalle laitetilalle."
+    },
+    {
+     "mittari": "ISAE 3000 Type II varmennuslausunto",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: zoner.fi/meista/laitetilat/ listaa Telia Helsinki Data Centerin sertifikaattien joukossa \"ISAE 3000 Type II varmennuslausunto\" - riippumattoman kolmannen osapuolen varmennusraportin."
+    }
+   ]
+  },
+  {
    "slug": "louhi",
    "nimi": "Louhi",
    "domain": "louhi.fi",
@@ -660,228 +902,13 @@
    "yhteenveto": "Louhi Net Oy on itsenäinen suomalainen webhotelli-palvelun tarjoaja, joka sijaitsee Espoossa. Palvelun hinnoittelu on erittäin selkeä - vertailutaulukossa näkyvät sekä käyttöönottohinta että normaali uusintahinta kaikille neljälle paketille (Mini 1,95/3,90 €, Perus 4,45/8,90 €, Rajaton 7,35/14,70 €, Voima 11,85/23,70 €). Resurssirajoitukset on dokumentoitu täydellisesti taulukossa. Palvelun etuna ovat suomalaiset palvelimet ja kotimainen tuki, sopimuksen irtisanomisehto selkeä (30 päivää etukäteen). Negatiivista: riippumatonta asiakasarviota ei ole näkyvissä millään kanavalla."
   },
   {
-   "slug": "zoner",
-   "nimi": "Zoner",
-   "domain": "zoner.fi",
-   "omistaja": "One.com Group AB (Tanska/Ruotsi) — osti Telian webhotellit 1.8.2024",
-   "y_tunnus": "1985221-1",
-   "rekisteroity": 2005,
-   "score": 70.6,
-   "pillars": {
-    "digitaalinen": 67.5,
-    "lapinakyvyys": 65.0,
-    "tavoitettavuus": 82.5,
-    "ai_laatu": 71.7
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "30/100",
-       "paino": 40,
-       "pisteet": 30,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "89/100",
-       "paino": 30,
-       "pisteet": 89,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Hinta esillä ilman yhteystietoja",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Hinnat näkyvät yksittäisillä tuotesivuilla (Mini 1,95€/kk -50%, Startti 4,9€/kk, Professional 9,9€/kk, Enterprise 19,9€/kk 12kk sopimuksella), mutta päävertailutaulukossa www.zoner.fi/webhotellit/ sanotaan 'Kaikki hinnat alv. 0%' ilman konkreettisia euroja."
-      },
-      {
-       "mittari": "Uusimishinta kerrottu (ei vain tarjoushinta)",
-       "arvo": "Ei",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Uusintahinta eli normaalin sopimuskertautumisen hinta ei ole missään näkyvillä. Sopimusehdoissa (sopimusehdot-sivulla) mainitaan hinnanmuutosmahdollisuus kuukauden varoitusajalla, mutta uusia hintoja ei julkaista etukäteen."
-      },
-      {
-       "mittari": "Levytila- ja liikennerajat kerrottu selkeästi",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Kaikki neljä pakettia on esitelty tarkan taulukon muodossa: Mini 1 GB/3 emails/1 DB, Startti 20 GB/10 emails/1 DB, Sopiva 40 GB/20 emails/2 DB, Yritys 60 GB/unlimited emails/unlimited DB. Myös kaistanleveys mainitaan (10 GB, 100 GB, 200 GB, 400 GB)."
-      },
-      {
-       "mittari": "Sopimusehdot ja irtisanominen kerrottu",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "75/100",
-       "paino": 34,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "60/100",
-       "paino": 33,
-       "pisteet": 60,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "80/100",
-       "paino": 33,
-       "pisteet": 80,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 30,
-    "accessibility": 89,
-    "seo": 92,
-    "best_practices": 100,
-    "lcp_ms": 6155.5064999999995,
-    "cls": 0.22385953826062963,
-    "tbt_ms": 1359
-   },
-   "facts_extra": [
-    {
-     "label": "Halvin kk-hinta",
-     "value": "1,95 €/kk"
-    },
-    {
-     "label": "Palvelimet Suomessa",
-     "value": "Kyllä"
-    }
-   ],
-   "vahvuudet": [
-    "Selkeät resurssirajoitukset kaikissa paketeissa - levytila, sähköpostit ja tietokannat määritelty tarkasti (Mini 1 GB–Yritys 60 GB)",
-    "Suomalaiset palvelimet Helsingissä (Pitäjänmäki) uusiutuvalla energialla, 24/7 asiakaspalvelu chat-tuella",
-    "Kattava sopimusehdoissa - 30 päivän irtisanomisaika, automaattinen uusiminen, hinnanmuutossuoja"
-   ],
-   "kehityskohteet": [
-    "Uusintahinta täysin näkymätön - ensimmäisen vuoden kampanjahinta näkyy selvästi, mutta uusimiskustannukset jäävät täysin epäselväksi, typillinen pimeyden malli",
-    "Hinnat piilotettu vertailutaulukosta - pääsivulla ei näy euroja, vaan ne löytyvät vain yksittäisiltä tuotesivuilta tai hakemalla",
-    "Ulkomainen omistajuus vain pienellä tekstillä - One.com Groupin omistajuus mainitaan vain yksityisyyskäytäntöjen pienellä tekstillä, ei päälähteissä"
-   ],
-   "yhteenveto": "Zoner Oy on suomalainen webhotelli-palveluntarjoaja (omistaja: One.com Group/group.ONE). Sivusto esittelee neljä pakettia selkeillä resurssirajoituksilla ja Suomen palvelimilla, palvelutaso on kattava. Pääongelma on pricing-strategia: kampanjahinta näkyy (Mini 1,95€/kk -50% alennuksella), mutta uusintahinta ja varsinaiset hinnat eivät ole näkyvillä vertailutaulukossa, mikä on merkittävä dark pattern. Trustpilot-arvostelut ovat sekalaiset (90+ reviews)."
-  },
-  {
    "slug": "seravo",
    "nimi": "Seravo",
    "domain": "seravo.com",
    "omistaja": "Seravo Oy — itsenäinen suomalainen (Tampere)",
    "y_tunnus": "2392019-2",
    "rekisteroity": 2011,
-   "score": 69.0,
+   "score": 72.0,
    "pillars": {
     "digitaalinen": 88.4,
     "lapinakyvyys": 65.0,
@@ -1087,7 +1114,22 @@
     "Y-tunnus ei näkyvissä, yritystiedot puutteelliset",
     "Palvelimien sijainti Suomessa mainitaan vain osittain (ei eksplisiittiä tekstiä)"
    ],
-   "yhteenveto": "Seravo Oy on Tampereella sijaitseva WordPress-palvelun tarjoaja, joka keskittyy premium-laajuiseen WordPress-hostingiin yrityksille. Hinnat alkavat 25 eurosta kuukaudessa, mutta hinta sisältää asteriskin, mikä viittaa vuosittaiseen laskutukseen. Sivustolla ei ole perinteistä webhotelli-vertailua, vaan fokus on WordPress-palvelun eri tasoilla (Start, Pro, Business, Corporate). Sopimusehdot ja tyytyväisyystakuu ovat selkeästi esillä, mutta yrityksen tunnustiedot ja palvelimen sijainti vaativat tarkempaa tutkintaa."
+   "yhteenveto": "Seravo Oy on Tampereella sijaitseva WordPress-palvelun tarjoaja, joka keskittyy premium-laajuiseen WordPress-hostingiin yrityksille. Hinnat alkavat 25 eurosta kuukaudessa, mutta hinta sisältää asteriskin, mikä viittaa vuosittaiseen laskutukseen. Sivustolla ei ole perinteistä webhotelli-vertailua, vaan fokus on WordPress-palvelun eri tasoilla (Start, Pro, Business, Corporate). Sopimusehdot ja tyytyväisyystakuu ovat selkeästi esillä, mutta yrityksen tunnustiedot ja palvelimen sijainti vaativat tarkempaa tutkintaa.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Tilaajavastuu Luotettava Kumppani -sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: seravo.com/en/about-us/ toteaa: \"Since 2023, Seravo has been a Reliable Partner.\" (Luotettava Kumppani on Tilaajavastuu.fi:n myöntämä, tilaajavastuulain mukaisuutta osoittava kolmannen osapuolen sertifikaatti)."
+    },
+    {
+     "mittari": "Suomen Kauppakamarin ilmastositoumus (Climate Commitment)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: seravo.com/en/features/sustainable/ toteaa: \"Seravo is part of the Finnish Chamber of Commerce's Climate Commitment. As part of this commitment, we have calculated our carbon emissions yearly so that we are carbon neutral in 2035.\""
+    }
+   ]
   },
   {
    "slug": "kotisivut",
@@ -1311,7 +1353,7 @@
    "omistaja": "team.blue (Hg Capital) — sama yhtiö kuin Domainhotelli ja Hostingpalvelu.fi",
    "y_tunnus": "1753494-9",
    "rekisteroity": 2002,
-   "score": 57.1,
+   "score": 60.1,
    "pillars": {
     "digitaalinen": 64.4,
     "lapinakyvyys": 52.5,
@@ -1518,7 +1560,22 @@
     "Uusimishintoja ei eritellä hintalausekkeissa, vain ensimmäinen termi näkyy julkisesti",
     "Resurssirajoja (levytila, liikenne, tietokannat) ei yksityiskohtaisesti eritellä planeetta.fi-sivuilla"
    ],
-   "yhteenveto": "Planeetta on suomalainen webhotelli- ja verkkotunnuspalvelun tarjoaja, joka on osa eurooppalaista team.blue-konsernia. Yritys näyttää hinnaston julkisesti ilman yhteydenottopyyntöä (alkaen 8,90 €/kk), mutta ei erittelee uusimishintoja tai tarkempia resurssirajoja etusivullaan. Palvelun kuvausmateriaalit ja hinnoittelu siirtyvät kotisivut.com-alustalle, joten asiakkaalle ei ole täysin selkeää, onko kyseessä erillinen palvelu vai samansisältöinen uudelleenbrändäys."
+   "yhteenveto": "Planeetta on suomalainen webhotelli- ja verkkotunnuspalvelun tarjoaja, joka on osa eurooppalaista team.blue-konsernia. Yritys näyttää hinnaston julkisesti ilman yhteydenottopyyntöä (alkaen 8,90 €/kk), mutta ei erittelee uusimishintoja tai tarkempia resurssirajoja etusivullaan. Palvelun kuvausmateriaalit ja hinnoittelu siirtyvät kotisivut.com-alustalle, joten asiakkaalle ei ole täysin selkeää, onko kyseessä erillinen palvelu vai samansisältöinen uudelleenbrändäys.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "The Green Web Foundation -tunnustus",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: planeetta.fi/yritys/ toteaa: \"Planeetta on saanut The Green Web Foundationin tunnustuksen ympäristövastuullisena palveluntuottajana.\" - riippumattoman kolmannen osapuolen (Green Web Foundation) myöntämä vihreän hostingin tunnustus."
+    },
+    {
+     "mittari": "EU:n uusiutuvan energian alkuperätakuut (Direktiivi 2009/28/EY)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: planeetta.fi/yritys/ toteaa: \"Uusiutuva energia on tuotettu Euroopan unionin Uusiutuvan Energian Direktiivin 2009/28/EC alkuperätakuiden mukaisesti, joilla sähkön alkuperä varmennetaan tuotetuksi täysimääräisesti uusiutuvilla energialähteillä.\""
+    }
+   ]
   }
  ],
  "updated": "16.7.2026",

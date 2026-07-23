@@ -20,7 +20,7 @@
    "omistaja": "Turun kaupunki (100 %)",
    "y_tunnus": "0984944-9",
    "rekisteroity": 1994,
-   "score": 78.7,
+   "score": 81.7,
    "pillars": {
     "digitaalinen": 78.0,
     "lapinakyvyys": 67.5,
@@ -36,28 +36,28 @@
        "arvo": "55/100",
        "paino": 40,
        "pisteet": 55,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "100/100",
        "paino": 30,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "73/100",
        "paino": 15,
        "pisteet": 73,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -178,21 +178,21 @@
        "arvo": "85/100",
        "paino": 34,
        "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "95/100",
        "paino": 33,
        "pisteet": 95,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -230,7 +230,28 @@
     "Y-tunnus ei näy julkisesti verkkosivuilla, vaikka se olisi olennainen yritystiedon kannalta",
     "Mobiilisovellus puuttuu, kun monella kilpailijalla on oma sovellus asiakkaiden hallinnoimiseen"
    ],
-   "yhteenveto": "Turku Energia on Turun kaupungin omistama energiayhtiö, joka tarjoaa sähkösopimuksia, kaukolämpöä ja muita energiapalveluita koko Suomessa. Verkkosivuilla hinnat, perusmaksut ja sopimustyypit ovat selkeästi esillä ilman kirjautumista. Asiakaspalvelu on helposti saavutettavissa puhelimen, sähköpostin ja chatbotin kautta. Puutteita ovat sähkön alkuperän osittainen kuvaaminen ja mobiilisovelluksen puuttuminen."
+   "yhteenveto": "Turku Energia on Turun kaupungin omistama energiayhtiö, joka tarjoaa sähkösopimuksia, kaukolämpöä ja muita energiapalveluita koko Suomessa. Verkkosivuilla hinnat, perusmaksut ja sopimustyypit ovat selkeästi esillä ilman kirjautumista. Asiakaspalvelu on helposti saavutettavissa puhelimen, sähköpostin ja chatbotin kautta. Puutteita ovat sähkön alkuperän osittainen kuvaaminen ja mobiilisovelluksen puuttuminen.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001:2015 (Laatujärjestelmä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: turkuenergia.fi/vastuullisuus/turku-energian-sertifikaatit sivulla lukee 'Turku Energian johtamisjärjestelmään kuuluvat laatu-, ympäristö- ja työturvallisuusjärjestelmät, jotka kaikki sertifioitiin vuonna 2004' ja listaa 'Laatujärjestelmä ISO 9001:2015'."
+    },
+    {
+     "mittari": "ISO 14001:2015 (Ympäristöjärjestelmä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama turkuenergia.fi/vastuullisuus/turku-energian-sertifikaatit sivu listaa 'Ympäristöjärjestelmä ISO 14001:2015'."
+    },
+    {
+     "mittari": "ISO 45001:2018 (Työterveys- ja työturvallisuusjärjestelmä)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama turkuenergia.fi/vastuullisuus/turku-energian-sertifikaatit sivu listaa 'Työterveys- ja työturvallisuusjärjestelmä ISO 45001:2018'."
+    }
+   ]
   },
   {
    "slug": "omavoima",
@@ -255,28 +276,28 @@
        "arvo": "31/100",
        "paino": 40,
        "pisteet": 31,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "91/100",
        "paino": 30,
        "pisteet": 91,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -397,21 +418,21 @@
        "arvo": "82/100",
        "paino": 34,
        "pisteet": 82,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "90/100",
        "paino": 33,
        "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -452,6 +473,480 @@
    "yhteenveto": "Omavoima Oy on paikallis-omistuksinen sähköyhtiö, jonka perusti 2009 Lännen Omavoiman nimellä. Verkkosivulla näkyy selkeästi viiden sähkösopimustyypin hinnat (8,35–8,98 snt/kWh) ilman yhteystietojen antamista. EPSI-tutkimus antaa yleisen asiakastyytyväisyyden 73,5 pisteeksi, mutta asiakaspalvelu saa erityiskiitosta. Pääongelmat ovat digitaalipalvelut ja vastuullisuusviestintä, joissa kehitystä odotetaan."
   },
   {
+   "slug": "vaasansahko",
+   "nimi": "Vaasan Sähkö",
+   "domain": "vaasansahko.fi",
+   "omistaja": "Vaasan kaupunki (99,9 %)",
+   "y_tunnus": "3484498-1",
+   "rekisteroity": 2024,
+   "score": 76.7,
+   "pillars": {
+    "digitaalinen": 70.2,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta (c/kWh) esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kiinteä Vaikuttaja (Fixed Influencer): Starting from 8,92 c/kWh + Perusmaksu"
+      },
+      {
+       "mittari": "Perusmaksu (€/kk) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "€5.90/month base"
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisehdot selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähkön alkuperä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki myymämme sähkö on tuotettu ilman hiilidioksidipäästöjä"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 8582.81374,
+    "cls": 0.06849011196527847,
+    "tbt_ms": 1200.0000000000005
+   },
+   "facts_extra": [
+    {
+     "label": "Sopimustyypit",
+     "value": "Kiinteä, Pörssisähkö, Maara-aikainen, Toistaiseksi voimassa, Vaikuttaja, Perussahko, Tuulisahko"
+    },
+    {
+     "label": "Hinta / marginaali (esillä)",
+     "value": "8,92 snt/kWh"
+    },
+    {
+     "label": "Perusmaksu",
+     "value": "5,9 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Kattava sähkön ja kaukolämmön palveluntarjonta",
+    "Selkeät hinnat ja sopimustyypit näkyvillä pääsivuilla",
+    "Hyvä asiakaspalvelu: puhelimella, sähköpostilla, chatilla ja palvelupisteen kautta"
+   ],
+   "kehityskohteet": [
+    "Usein kysytyt kysymykset -osio puuttuu",
+    "Y-tunnus ei näkyvissä verkkosivuilla",
+    "Sopimusehdot-sivu ei löytynyt tai on saavuttamaton"
+   ],
+   "yhteenveto": "Vaasan Sähkö on Vaasan kaupungin omistama sähköyhtiö, joka myy sähköä ja kaukolämpöä koko maassa. Verkkosivuilla esitetään selkeat hinnat eri sopimustyyppien mukaan ja asiakaspalvelu on tavoitettavissa monella kanavalla. Kuitenkin joitakin tärkeitä sivuja ei löydy, Y-tunnus puuttuu julkisista tiedoista, ja usein kysytyt kysymykset -osio olisi hyödyllinen.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001 (Laatu)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: vaasansahko.fi/yritykset/tietoa-meista -sivun 'Sertifikaatit'-osiossa lukee 'Vaasan Sähkölle on myönnetty seuraavat ISO-sertifikaatit: ISO-9001 Laatu Voimassaolo: 13.3.2026-12.3.2029', laajuudessa mm. 'Sähkön ja kaukolämmön myynti'."
+    },
+    {
+     "mittari": "ISO 14001 (Ympäristö)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama vaasansahko.fi/yritykset/tietoa-meista -sivu listaa 'ISO-14001 Ympäristö Voimassaolo: 13.3.2026-12.3.2029'."
+    },
+    {
+     "mittari": "ISO 45001 (Työterveys ja työturvallisuus)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama vaasansahko.fi/yritykset/tietoa-meista -sivu listaa 'ISO-45001 Työterveys ja työturvallisuus Voimassaolo: 13.3.2026-12.3.2029'."
+    },
+    {
+     "mittari": "ISO 27001 (Tietoturva)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama vaasansahko.fi/yritykset/tietoa-meista -sivu listaa 'ISO-27001 Tietoturva Voimassaolo: 5.3.2026-4.3.2029', laajuudessa 'Sähkön myynti ja jakelu sekä niihin liittyvät tukipalvelut'."
+    }
+   ]
+  },
+  {
+   "slug": "nordicgreen",
+   "nimi": "Nordic Green Energy",
+   "domain": "nordicgreen.fi",
+   "omistaja": "Switch Nordic Green AB (Ruotsi) — Suomen sivuliike",
+   "y_tunnus": "2220675-5",
+   "rekisteroity": 2008,
+   "score": 76.0,
+   "pillars": {
+    "digitaalinen": 46.3,
+    "lapinakyvyys": 92.5,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 86.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "6/100",
+       "paino": 40,
+       "pisteet": 6,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "83/100",
+       "paino": 30,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "35/100",
+       "paino": 15,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta (c/kWh) esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "marginaali: 0.34 snt/kWh + spot"
+      },
+      {
+       "mittari": "Perusmaksu (€/kk) esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kuukausimaksu 2,99 €/kk (norm. 5,98 €/kk)"
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisehdot selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähkön alkuperä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Aina 100 % ilmastoystävällistä sähköä! - 100 % uusiutuvaa energiaa"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 6,
+    "accessibility": 83,
+    "seo": 92,
+    "best_practices": 35,
+    "lcp_ms": 15669.335970000006,
+    "cls": 1.0582896904565868,
+    "tbt_ms": 1512.5
+   },
+   "facts_extra": [
+    {
+     "label": "Sopimustyypit",
+     "value": "Pörssisähkö, Hybridi, Kiinteä, Opiskelijasähkö, Muutto"
+    },
+    {
+     "label": "Hinta / marginaali (esillä)",
+     "value": "0,34 snt/kWh"
+    },
+    {
+     "label": "Perusmaksu",
+     "value": "2,99 €/kk"
+    }
+   ],
+   "vahvuudet": [
+    "Läpinäkyvä hintavertailu: Neljä eri sähkösopimusta näkyvät rinnakkain kaikilla hintatiedoilla ilman yhteydenottoa",
+    "Vihreän sähkön korostaminen: Jokaisen tuotteen yhteydessä korostetaan ilmastoystävällisyyttä (100% uusiutuvaa energiaa) erillisen energia-alkuperä-sivun kera",
+    "Kehittynyt mobiilisovellus: Nordic Green Energy Suomi -sovellus tarjoaa kulutuksenseuranta-, spot-hinnan ennuste- ja älylataaus-ominaisuudet"
+   ],
+   "kehityskohteet": [
+    "Elävän asiakastuen puuttuminen: Verkkosivuilla ei ole live-chat-ominaisuutta, vaan asiakkaat turvautuvat vain puhelimeen tai sähköpostilomakkeeseen",
+    "Suoran sähköpostiyhteyden puute: Asiakaspalvelun suoraa sähköpostiosoitetta ei näy verkkosivuilla, mikä vaikeuttaa oikean yhteydenottotavan löytämistä",
+    "Ulkoisten arvioiden näkyvyys: Sivuilla mainitaan vain sisäinen tutkimus (94%) ja EPSI Rating, mutta kolmannen osapuolen arvostelualustat (kuten Trustpilot) puuttuvat"
+   ],
+   "yhteenveto": "Nordic Green Energy on vaasalainen sähköyhtiö, joka on erikoistunut ilmastoystävälliseen ja uusiutuvaan sähköön. Yrityksen verkkosivut tarjoavat selkeän ja läpinäkyvän esityksen eri sopimustyypeistä, hinnoista ja palveluista ilman pakollisia yhteydenottolomakkeita. Yrityksen asiakastyytyväisyys on korkea EPSI Ratingin ja omien tutkimusten mukaan, ja se tarjoaa monipuolisen mobiilisovelluksen sekä kattavaa tukea FAQ-osioissa.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "EKOenergia-merkintä",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: nordicgreen.fi/sahkosopimus/lisapalvelut/ekoenergia/ -sivulla lukee 'Suomen luonnosuojeluliiton sertifioimaa sähköä' ja 'EKOenergia-merkintä on ensimmäinen ja ainoa yleiseurooppalainen sähkön ympäristömerkki'. Merkintä on valinnainen lisä sähkösopimukseen."
+    }
+   ]
+  },
+  {
    "slug": "helen",
    "nimi": "Helen",
    "domain": "helen.fi",
@@ -474,28 +969,28 @@
        "arvo": "24/100",
        "paino": 40,
        "pisteet": 24,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "99/100",
        "paino": 30,
        "pisteet": 99,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "58/100",
        "paino": 15,
        "pisteet": 58,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -616,21 +1111,21 @@
        "arvo": "85/100",
        "paino": 34,
        "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "80/100",
        "paino": 33,
        "pisteet": 80,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -693,28 +1188,28 @@
        "arvo": "58/100",
        "paino": 40,
        "pisteet": 58,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "89/100",
        "paino": 30,
        "pisteet": 89,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "77/100",
        "paino": 15,
        "pisteet": 77,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -836,21 +1331,21 @@
        "arvo": "75/100",
        "paino": 34,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "35/100",
        "paino": 33,
        "pisteet": 35,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "70/100",
        "paino": 33,
        "pisteet": 70,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -891,444 +1386,6 @@
    "yhteenveto": "Vattenfall on Ruotsalaisen valtionyhtiön omistama sähköntoimittaja, joka myy vain fossiilivapaata sähköä. Sivuilla on hyvä sopimusten valikoima ja riippumattomia palkintoja, mutta hinnoittelu on hyvin suljettu: konkreettisia hintoja näytetään vain rajoitetusti. Asiakaspalvelu on helposti saavutettavissa puhelimitse (020 722 9000), chat-kautta ja mobiilisovelluksen avulla."
   },
   {
-   "slug": "nordicgreen",
-   "nimi": "Nordic Green Energy",
-   "domain": "nordicgreen.fi",
-   "omistaja": "Switch Nordic Green AB (Ruotsi) — Suomen sivuliike",
-   "y_tunnus": "2220675-5",
-   "rekisteroity": 2008,
-   "score": 74.5,
-   "pillars": {
-    "digitaalinen": 46.3,
-    "lapinakyvyys": 92.5,
-    "tavoitettavuus": 77.5,
-    "ai_laatu": 86.6
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "6/100",
-       "paino": 40,
-       "pisteet": 6,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "83/100",
-       "paino": 30,
-       "pisteet": 83,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "35/100",
-       "paino": 15,
-       "pisteet": 35,
-       "lahde": "Lighthouse 13"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Hinta (c/kWh) esillä ilman yhteystietoja",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "marginaali: 0.34 snt/kWh + spot"
-      },
-      {
-       "mittari": "Perusmaksu (€/kk) esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Kuukausimaksu 2,99 €/kk (norm. 5,98 €/kk)"
-      },
-      {
-       "mittari": "Sopimusaika ja irtisanomisehdot selkeästi",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähkön alkuperä kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Aina 100 % ilmastoystävällistä sähköä! - 100 % uusiutuvaa energiaa"
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "85/100",
-       "paino": 34,
-       "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "90/100",
-       "paino": 33,
-       "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "85/100",
-       "paino": 33,
-       "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 6,
-    "accessibility": 83,
-    "seo": 92,
-    "best_practices": 35,
-    "lcp_ms": 15669.335970000006,
-    "cls": 1.0582896904565868,
-    "tbt_ms": 1512.5
-   },
-   "facts_extra": [
-    {
-     "label": "Sopimustyypit",
-     "value": "Pörssisähkö, Hybridi, Kiinteä, Opiskelijasähkö, Muutto"
-    },
-    {
-     "label": "Hinta / marginaali (esillä)",
-     "value": "0,34 snt/kWh"
-    },
-    {
-     "label": "Perusmaksu",
-     "value": "2,99 €/kk"
-    }
-   ],
-   "vahvuudet": [
-    "Läpinäkyvä hintavertailu: Neljä eri sähkösopimusta näkyvät rinnakkain kaikilla hintatiedoilla ilman yhteydenottoa",
-    "Vihreän sähkön korostaminen: Jokaisen tuotteen yhteydessä korostetaan ilmastoystävällisyyttä (100% uusiutuvaa energiaa) erillisen energia-alkuperä-sivun kera",
-    "Kehittynyt mobiilisovellus: Nordic Green Energy Suomi -sovellus tarjoaa kulutuksenseuranta-, spot-hinnan ennuste- ja älylataaus-ominaisuudet"
-   ],
-   "kehityskohteet": [
-    "Elävän asiakastuen puuttuminen: Verkkosivuilla ei ole live-chat-ominaisuutta, vaan asiakkaat turvautuvat vain puhelimeen tai sähköpostilomakkeeseen",
-    "Suoran sähköpostiyhteyden puute: Asiakaspalvelun suoraa sähköpostiosoitetta ei näy verkkosivuilla, mikä vaikeuttaa oikean yhteydenottotavan löytämistä",
-    "Ulkoisten arvioiden näkyvyys: Sivuilla mainitaan vain sisäinen tutkimus (94%) ja EPSI Rating, mutta kolmannen osapuolen arvostelualustat (kuten Trustpilot) puuttuvat"
-   ],
-   "yhteenveto": "Nordic Green Energy on vaasalainen sähköyhtiö, joka on erikoistunut ilmastoystävälliseen ja uusiutuvaan sähköön. Yrityksen verkkosivut tarjoavat selkeän ja läpinäkyvän esityksen eri sopimustyypeistä, hinnoista ja palveluista ilman pakollisia yhteydenottolomakkeita. Yrityksen asiakastyytyväisyys on korkea EPSI Ratingin ja omien tutkimusten mukaan, ja se tarjoaa monipuolisen mobiilisovelluksen sekä kattavaa tukea FAQ-osioissa."
-  },
-  {
-   "slug": "vaasansahko",
-   "nimi": "Vaasan Sähkö",
-   "domain": "vaasansahko.fi",
-   "omistaja": "Vaasan kaupunki (99,9 %)",
-   "y_tunnus": "3484498-1",
-   "rekisteroity": 2024,
-   "score": 73.7,
-   "pillars": {
-    "digitaalinen": 70.2,
-    "lapinakyvyys": 67.5,
-    "tavoitettavuus": 85.0,
-    "ai_laatu": 76.7
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "41/100",
-       "paino": 40,
-       "pisteet": 41,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "91/100",
-       "paino": 30,
-       "pisteet": 91,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Lighthouse 13"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "77/100",
-       "paino": 15,
-       "pisteet": 77,
-       "lahde": "Lighthouse 13"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Hinta (c/kWh) esillä ilman yhteystietoja",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Kiinteä Vaikuttaja (Fixed Influencer): Starting from 8,92 c/kWh + Perusmaksu"
-      },
-      {
-       "mittari": "Perusmaksu (€/kk) esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "€5.90/month base"
-      },
-      {
-       "mittari": "Sopimusaika ja irtisanomisehdot selkeästi",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähkön alkuperä kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Kaikki myymämme sähkö on tuotettu ilman hiilidioksidipäästöjä"
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "75/100",
-       "paino": 34,
-       "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "85/100",
-       "paino": 33,
-       "pisteet": 85,
-       "lahde": "Claude Haiku 4.5"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "Claude Haiku 4.5"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 41,
-    "accessibility": 91,
-    "seo": 100,
-    "best_practices": 77,
-    "lcp_ms": 8582.81374,
-    "cls": 0.06849011196527847,
-    "tbt_ms": 1200.0000000000005
-   },
-   "facts_extra": [
-    {
-     "label": "Sopimustyypit",
-     "value": "Kiinteä, Pörssisähkö, Maara-aikainen, Toistaiseksi voimassa, Vaikuttaja, Perussahko, Tuulisahko"
-    },
-    {
-     "label": "Hinta / marginaali (esillä)",
-     "value": "8,92 snt/kWh"
-    },
-    {
-     "label": "Perusmaksu",
-     "value": "5,9 €/kk"
-    }
-   ],
-   "vahvuudet": [
-    "Kattava sähkön ja kaukolämmön palveluntarjonta",
-    "Selkeät hinnat ja sopimustyypit näkyvillä pääsivuilla",
-    "Hyvä asiakaspalvelu: puhelimella, sähköpostilla, chatilla ja palvelupisteen kautta"
-   ],
-   "kehityskohteet": [
-    "Usein kysytyt kysymykset -osio puuttuu",
-    "Y-tunnus ei näkyvissä verkkosivuilla",
-    "Sopimusehdot-sivu ei löytynyt tai on saavuttamaton"
-   ],
-   "yhteenveto": "Vaasan Sähkö on Vaasan kaupungin omistama sähköyhtiö, joka myy sähköä ja kaukolämpöä koko maassa. Verkkosivuilla esitetään selkeat hinnat eri sopimustyyppien mukaan ja asiakaspalvelu on tavoitettavissa monella kanavalla. Kuitenkin joitakin tärkeitä sivuja ei löydy, Y-tunnus puuttuu julkisista tiedoista, ja usein kysytyt kysymykset -osio olisi hyödyllinen."
-  },
-  {
    "slug": "pks",
    "nimi": "PKS",
    "domain": "pks.fi",
@@ -1351,28 +1408,28 @@
        "arvo": "34/100",
        "paino": 40,
        "pisteet": 34,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "88/100",
        "paino": 30,
        "pisteet": 88,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -1493,21 +1550,21 @@
        "arvo": "78/100",
        "paino": 34,
        "pisteet": 78,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "90/100",
        "paino": 33,
        "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "75/100",
        "paino": 33,
        "pisteet": 75,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -1570,28 +1627,28 @@
        "arvo": "55/100",
        "paino": 40,
        "pisteet": 55,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "92/100",
        "paino": 30,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "58/100",
        "paino": 15,
        "pisteet": 58,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -1712,21 +1769,21 @@
        "arvo": "80/100",
        "paino": 34,
        "pisteet": 80,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "90/100",
        "paino": 33,
        "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "70/100",
        "paino": 33,
        "pisteet": 70,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }
@@ -1789,28 +1846,28 @@
        "arvo": "36/100",
        "paino": 40,
        "pisteet": 36,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Saavutettavuus",
        "arvo": "99/100",
        "paino": 30,
        "pisteet": 99,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Löydettävyys (SEO)",
        "arvo": "100/100",
        "paino": 15,
        "pisteet": 100,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       },
       {
        "mittari": "Tekniset käytännöt",
        "arvo": "92/100",
        "paino": 15,
        "pisteet": 92,
-       "lahde": "Lighthouse 13"
+       "lahde": "Tekninen mittaus"
       }
      ]
     },
@@ -1931,21 +1988,21 @@
        "arvo": "72/100",
        "paino": 34,
        "pisteet": 72,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Hintatietojen löydettävyys",
        "arvo": "90/100",
        "paino": 33,
        "pisteet": 90,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
        "arvo": "58/100",
        "paino": 33,
        "pisteet": 58,
-       "lahde": "Claude Haiku 4.5"
+       "lahde": "AI-analyysi"
       }
      ]
     }

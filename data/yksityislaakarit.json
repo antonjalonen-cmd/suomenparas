@@ -20,7 +20,7 @@
    "omistaja": "Mehiläinen Oy — pääomasijoittajaomisteinen konserni",
    "y_tunnus": "1927556-5",
    "rekisteroity": 2004,
-   "score": 84.0,
+   "score": 87.0,
    "pillars": {
     "digitaalinen": 71.2,
     "lapinakyvyys": 90.0,
@@ -220,7 +220,34 @@
     "Tavallisen lääkärikäynnin vastaanottohinta (ei Digiklinikkaa) vaatii navigoinnin lääkärin yksittäiselle sivulle tai puhelinsoitolla tiedustelun",
     "Y-tunnus puuttuu julkisesti näkyvistä sivuista, ei merkittyä riippumatonta arviointilähteistä (NPS on oma mittari)"
    ],
-   "yhteenveto": "Mehiläinen on laajasti toimiva yksityinen terveyspalveluiden tuottaja, jolla on vahva digitaalinen palvelutarjonta OmaMehiläinen-sovelluksen ja 24/7 Digiklinikan kautta. Sivusto esittelee selkeästi etävastaanottojen hinnat ja Kela-korvaukset, mutta fyysisten vastaanottojen hinnat ja toimipisteiden aukioloajat löytyvät vain yksittäisiä lääkäreitä selaillessa."
+   "yhteenveto": "Mehiläinen on laajasti toimiva yksityinen terveyspalveluiden tuottaja, jolla on vahva digitaalinen palvelutarjonta OmaMehiläinen-sovelluksen ja 24/7 Digiklinikan kautta. Sivusto esittelee selkeästi etävastaanottojen hinnat ja Kela-korvaukset, mutta fyysisten vastaanottojen hinnat ja toimipisteiden aukioloajat löytyvät vain yksittäisiä lääkäreitä selaillessa.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001 -laatusertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit mainitaan ISO 9001 -laatu- ja johtamisjärjestelmän sertifikaatti, joka kattaa kaikki Mehiläisen toimialat."
+    },
+    {
+     "mittari": "ISO 14001 -ympäristösertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit mainitaan ISO 14001 -ympäristösertifikaatti, joka kattaa kaikki Mehiläisen toimialat."
+    },
+    {
+     "mittari": "ISO 27001 -tietoturvasertifikaatti",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit todetaan, että Mehiläisen Digitaaliset palvelut sekä tytäryhtiö BeeHealthy ovat saaneet ISO 27001 -tietoturvasertifikaatin."
+    },
+    {
+     "mittari": "ETJ+ -energiatehokkuussertifikaatti",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit mainitaan ETJ+-energiatehokkuussertifikaatti, joka osoittaa sitoutumisen energiatehokkaisiin toimintatapoihin."
+    }
+   ]
   },
   {
    "slug": "aava",
@@ -229,7 +256,7 @@
    "omistaja": "Aava ja Pikkujätti Oy (nimi 3.6.2025 asti Lääkärikeskus Aava Oy) — suomalainen perheyritys",
    "y_tunnus": "2311119-2",
    "rekisteroity": 2010,
-   "score": 82.2,
+   "score": 83.7,
    "pillars": {
     "digitaalinen": 78.5,
     "lapinakyvyys": 85.0,
@@ -433,7 +460,16 @@
     "Erillinen UKK-osio puuttuu, palveluhakemisto on laaja mutta navigointi vaatii aktiivista etsimistä",
     "Chat-palvelusta tiedot ovat rajalliset – vain lääkäri-chat mainitussa hinnastossa, muista chat-muodoista ei selkeitä tietoja"
    ],
-   "yhteenveto": "Lääkärikeskus Aava on suomalainen yksityinen lääkäripalveluiden tarjoaja, joka ylläpitää 15 toimipistettä eri kaupungeissa. Hinnasto on kattavasti näkyvillä, Kela-korvaukset kerrotaan selkeästi ja ajanvaraus on mahdollista ilman kirjautumista nettiajanvarauksessa. Palvelun saatavuus on kuitenkin vaihdellut osassa sivun alasivuista (404-virheet), ja Y-tunnus olisi selkeämpi löytää."
+   "yhteenveto": "Lääkärikeskus Aava on suomalainen yksityinen lääkäripalveluiden tarjoaja, joka ylläpitää 15 toimipistettä eri kaupungeissa. Hinnasto on kattavasti näkyvillä, Kela-korvaukset kerrotaan selkeästi ja ajanvaraus on mahdollista ilman kirjautumista nettiajanvarauksessa. Palvelun saatavuus on kuitenkin vaihdellut osassa sivun alasivuista (404-virheet), ja Y-tunnus olisi selkeämpi löytää.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 27001 -tietoturvasertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla aava.fi/aava/laatu/vastuullisuus todetaan, että Aavalle ja Pikkujätille on myönnetty ISO 27001 -tietoturvasertifiointi."
+    }
+   ]
   },
   {
    "slug": "pihlajalinna",
@@ -442,7 +478,7 @@
    "omistaja": "Pihlajalinna Oyj — pörssiyhtiö (Nasdaq Helsinki)",
    "y_tunnus": "2617455-1",
    "rekisteroity": 2014,
-   "score": 78.5,
+   "score": 81.5,
    "pillars": {
     "digitaalinen": 72.1,
     "lapinakyvyys": 85.0,
@@ -646,7 +682,22 @@
     "UKK-osio puuttuu kokonaan – ei vastauksia usein kysyttyihin kysymyksiin",
     "Aukioloajat mainittiin vain yleisesti (arkisin klo 7-21), toimipistekohtaisesti tiedot piti hakea erillisestä listasta"
    ],
-   "yhteenveto": "Pihlajalinna on suuri yksityinen terveyspalvelujen tuottaja, jonka verkkosivuilla vastaanottohinnat (yleislääkäri alkaen 70€) ja Kela-korvaus (-menettely selitetty yksityiskohtaisesti) ovat julkisesti näkyvissä. Ajanvaraus onnistuu verkossa ilman kirjautumista, ja asiakkaalla on useita yhteydenpitokanaavia. Etäpalvelut (chat, video, puhelin) ovat hyvin dokumentoituja."
+   "yhteenveto": "Pihlajalinna on suuri yksityinen terveyspalvelujen tuottaja, jonka verkkosivuilla vastaanottohinnat (yleislääkäri alkaen 70€) ja Kela-korvaus (-menettely selitetty yksityiskohtaisesti) ovat julkisesti näkyvissä. Ajanvaraus onnistuu verkossa ilman kirjautumista, ja asiakkaalla on useita yhteydenpitokanaavia. Etäpalvelut (chat, video, puhelin) ovat hyvin dokumentoituja.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001:2015 -sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla pihlajalinna.fi/yhtio/laatu-ja-turvallisuus/laatupolitiikka mainitaan ISO9001:2015-sertifikaatti, joka kattaa lääkärikeskukset, Ikipihlaja-kodit sekä nimetyt vuodeosastot/kuntoutusosasto."
+    },
+    {
+     "mittari": "ISO 14001:2015 -ympäristösertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla pihlajalinna.fi/yhtio/laatu-ja-turvallisuus/laatupolitiikka todetaan, että Pihlajalinnan yksityiset terveyspalvelut (työterveys-, lääkärikeskukset ja sairaalat) on sertifioitu ISO 14001 -ympäristöjohtamisstandardin mukaan."
+    }
+   ]
   },
   {
    "slug": "terveystalo",
@@ -655,7 +706,7 @@
    "omistaja": "Terveystalo Oyj — pörssiyhtiö (Nasdaq Helsinki)",
    "y_tunnus": "2575979-3",
    "rekisteroity": 2013,
-   "score": 77.3,
+   "score": 78.8,
    "pillars": {
     "digitaalinen": 75.6,
     "lapinakyvyys": 62.5,
@@ -861,7 +912,16 @@
     "Toimipaikkojen yksittäiset aukioloajat ja osoitteet vaatisivat parempia hakutuloksia tai listaa",
     "Riippumattomat asiakasarviot (esim. tähdet, arviot) puuttuvat sivustolta"
    ],
-   "yhteenveto": "Terveystalo on merkittävä yksityinen lääkäriketju, joka tarjoaa laajoja palveluja yli 200 toimipaikassa. Verkkosivusto esittelee selkeästi ja läpinäkyvästi hinnaston Kela-korvauksilla, mutta Y-tunnus jää puuttuvaksi ja yksittäisten toimipaikkojen aukioloajat ovat vaikeasti löydettävissä. Sovellus ja 24/7 chat-palvelut parantavat merkittävästi asioinnin sujuvuutta."
+   "yhteenveto": "Terveystalo on merkittävä yksityinen lääkäriketju, joka tarjoaa laajoja palveluja yli 200 toimipaikassa. Verkkosivusto esittelee selkeästi ja läpinäkyvästi hinnaston Kela-korvauksilla, mutta Y-tunnus jää puuttuvaksi ja yksittäisten toimipaikkojen aukioloajat ovat vaikeasti löydettävissä. Sovellus ja 24/7 chat-palvelut parantavat merkittävästi asioinnin sujuvuutta.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 14001 -ympäristösertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla terveystalo.com/fi/yhtio/laatu-ja-vastuullisuus (ja alasivulla Vastuullisuus Terveystalossa) todetaan, että ympäristövaikutuksia hallitaan ISO 14001 -järjestelmän avulla."
+    }
+   ]
   }
  ],
  "updated": "18.7.2026",

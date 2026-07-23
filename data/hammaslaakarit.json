@@ -20,7 +20,7 @@
    "omistaja": "Mehiläinen Oy — hammashoito on konsernin oma palvelulinja",
    "y_tunnus": "1927556-5",
    "rekisteroity": 2004,
-   "score": 84.3,
+   "score": 87.3,
    "pillars": {
     "digitaalinen": 79.5,
     "lapinakyvyys": 85.0,
@@ -226,7 +226,28 @@
     "Potilasarvioista ja riippumattomista arvioinneista ei ole näyttöä verkkosivuilla, vain sisäisen asiakaspalautteen maininta",
     "Yleinen sähköpostiosoite hammashoitoon liittyville kyselyille puuttuu, asiakkaita ohjeistetaan soittamaan tai käyttämään chatiä"
    ],
-   "yhteenveto": "Hammas Mehiläinen on merkittävä yksityinen hammashoidon ketju, joka tarjoaa laajan palveluvalikoiman kuuden toimipisteensä kautta. Verkkosivusto on selkeä ja informaatiorikas: hinnaston kattavuus ja Kela-korvausten selitys ovat erityisesti kehuja ansaittuja. Toimipisteissä on otettu huomioon käyttäjien tarpeet monilla asiointitavoilla, mutta yritysidentiteettitiedot ovat rajallisia ja kolmannen osapuolen arvioita ei ole integroitu markkinointimateriaaliksi."
+   "yhteenveto": "Hammas Mehiläinen on merkittävä yksityinen hammashoidon ketju, joka tarjoaa laajan palveluvalikoiman kuuden toimipisteensä kautta. Verkkosivusto on selkeä ja informaatiorikas: hinnaston kattavuus ja Kela-korvausten selitys ovat erityisesti kehuja ansaittuja. Toimipisteissä on otettu huomioon käyttäjien tarpeet monilla asiointitavoilla, mutta yritysidentiteettitiedot ovat rajallisia ja kolmannen osapuolen arvioita ei ole integroitu markkinointimateriaaliksi.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001 -laatu- ja johtamisjärjestelmän sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit todetaan: 'Tämä sertifikaatti osoittaa, että Mehiläisen johtamisjärjestelmä täyttää kansainväliset laatuvaatimukset. Sertifikaatti kattaa laajasti Mehiläisen kaikki toimialat' (mukaan lukien Hammas Mehiläinen, joka listataan samalla sivulla yhtenä Mehiläisen palvelulinjoista)."
+    },
+    {
+     "mittari": "ISO 14001 -ympäristösertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit todetaan: 'Tämä sertifikaatti vahvistaa, että Mehiläinen noudattaa ympäristöystävällisiä toimintamalleja ... Myös ympäristösertifikaatti kattaa kaikki toimialat.'"
+    },
+    {
+     "mittari": "ETJ+ -energiatehokkuussertifikaatti",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit mainitaan: 'ETJ+ - Energiatehokkuussertifikaatti. Tämä sertifikaatti osoittaa Mehiläisen sitoutumisen energiatehokkaisiin toimintatapoihin' (konsernitason sertifikaatti, kattaa Mehiläinen Oy:n toiminnan)."
+    }
+   ]
   },
   {
    "slug": "oral",

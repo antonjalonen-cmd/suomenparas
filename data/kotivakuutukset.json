@@ -469,7 +469,7 @@
    "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
    "y_tunnus": "0196826-7",
    "rekisteroity": 1978,
-   "score": 68.2,
+   "score": 71.2,
    "pillars": {
     "digitaalinen": 83.8,
     "lapinakyvyys": 45.0,
@@ -684,7 +684,28 @@
     "Omavastuun vaihtoehdot ja niiden vaikutus hintaan eivät ole selkeästi näkyvissä tuotesivulla; tiedot hajotettu eri dokumentteihin",
     "Korvausrajat (ikävähennykset, payout limits) ovat täysin piilotettu tuotedokumenttien ja ehdoissa, ei näkyvä yhteenvetoa tuotesivulla"
    ],
-   "yhteenveto": "Fenniaturvan kotivakuutus on perustuote, jonka tiedot ovat jakautuneet laajasti eri osioihin. Sivuston vahvuus on kattava FAQ ja selkeät yhteydenottokanavat. Hintavertailu edellyttää henkilötunnusta jo ensimmäisellä laskurilla, mikä rajoittaa läpinäkyvyyttä. Tuotteen yksityiskohdat (omavastuu, korvausrajat, ikävähennykset) löytyvät pääosin vakuutusehdoista, ei tuotesivulta."
+   "yhteenveto": "Fenniaturvan kotivakuutus on perustuote, jonka tiedot ovat jakautuneet laajasti eri osioihin. Sivuston vahvuus on kattava FAQ ja selkeät yhteydenottokanavat. Hintavertailu edellyttää henkilötunnusta jo ensimmäisellä laskurilla, mikä rajoittaa läpinäkyvyyttä. Tuotteen yksityiskohdat (omavastuu, korvausrajat, ikävähennykset) löytyvät pääosin vakuutusehdoista, ei tuotesivulta.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "WWF Green Office -sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: fennia.fi/vastuullisuus-fenniassa -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
+    },
+    {
+     "mittari": "Finanssiala ry:n jäsen",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: fennia.fi/vastuullisuus-fenniassa/sitoumukset-ja-linjaukset -sivun kohdassa 'Vastuullisuusaiheiset yhteistyöt ja verkostot': 'Fennia on Finanssiala ry:n eli FA:n jäsen.'"
+    },
+    {
+     "mittari": "FIBS ry -Pro-jäsen (yritysvastuuverkosto)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu: 'Fennia on suuren pohjoismaisen yritysvastuuverkosto FIBS ry:n Pro-jäsen.'"
+    }
+   ]
   },
   {
    "slug": "turva",
@@ -693,7 +714,7 @@
    "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
    "y_tunnus": "0211695-5",
    "rekisteroity": 1978,
-   "score": 65.7,
+   "score": 68.7,
    "pillars": {
     "digitaalinen": 62.3,
     "lapinakyvyys": 65.0,
@@ -907,231 +928,28 @@
     "Puhelinnumero ja sähköpostiosoite eivät näy pääsisällössä",
     "Hintalaskurin toteutus ei selviä staattisesta HTML:stä, vaatimukset epäselvät"
    ],
-   "yhteenveto": "Turva on vakuutusyhtiö, joka tarjoaa kotivakuutuksia kolmella kattavuuden tasolla. Tuotesivulla on kattava selitys vakuutusturvista, hintaan vaikuttavista tekijöistä ja usein kysytyistä asioista. Vahvuutena ovat selkeä tuotteiden vertailu ja laaja FAQ-osio, mutta yrityksen perustieto puuttuu, eikä yhteystietoja ole helposti näkyvissä."
-  },
-  {
-   "slug": "pohjantahti",
-   "nimi": "Pohjantähti",
-   "domain": "pohjantahti.fi",
-   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
-   "y_tunnus": "0146905-4",
-   "rekisteroity": 1978,
-   "score": 62.6,
-   "pillars": {
-    "digitaalinen": 84.0,
-    "lapinakyvyys": 60.0,
-    "tavoitettavuus": 30.0,
-    "ai_laatu": 66.8
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "73/100",
-       "paino": 40,
-       "pisteet": 73,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "96/100",
-       "paino": 30,
-       "pisteet": 96,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "73/100",
-       "paino": 15,
-       "pisteet": 73,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Hinta-arvio ilman yhteystietoja",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivusto mainitsee 'Kerros-, rivi- ja paritaloon voit ostaa kotivakuutuksen myös verkkokaupasta. Laske hinta ja osta ›'. Muille asuntotyypeille sanotaan 'Pyydä tarjous kotivakuutuksesta', mikä edellyttää yhteystietojen jättämistä lomakkeelle (nimi, osoite, puhelin, sähköposti vaaditaan)."
-      },
-      {
-       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla näkyy 'Lataa tiedosto - Vakuutusehdot' -linkki, jonka kautta vakuutusehdot ovat ladattavissa PDF-muodossa."
-      },
-      {
-       "mittari": "Omavastuu kerrottu selkeästi",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivusto mainitsee 'Voit valita yksilöllisesti omavastuut ja vakuutusmäärät valitsemillesi turville', mutta konkreettisia omavastuurahoja ei kerrota etusivulla. Tarkat määrät löytyvät ladattavasta tuoteselosteesta."
-      },
-      {
-       "mittari": "Korvauskatot ja rajoitukset kerrottu",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla viitataan korvausrajoihin: 'Tutustu irtaimiston enimmäiskorvausmääriin tuoteselosteessa'. Tarkat rajat eivät näy tuotesivulla vaan vaativat tuoteselosteen lataamisen."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus 0146905-4 näkyy sivun alalaidassa: 'Pohjantähti Keskinäinen Vakuutusyhtiö • Raatihuoneenkatu 19, 13100 Hämeenlinna • Y-tunnus: 0146905-4'."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei mainita riippumattomia arvioita, sertifikaatteja eikä ulkopuolisten tahojen auditointeja."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla mainitaan puhelinpalvelu ('Soittaessasi maksat vain puhelinoperaattorisi hinnaston mukaisen matkapuhelinmaksun'), mutta puhelinnumeroa ei näy tuotesivulla. Numero löytynee erillisellä kontaktisivulla."
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla. Yhteydenotto tapahtuu lomakkeen kautta, jossa asiakas valitsee haluamansa yhteystavan (puhelimitse tai sähköpostitse)."
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei mainita chat-palvelua."
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Aukioloaikoja ei kerrota tuotesivulla."
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla on laaja 'Usein kysyttyä kotivakuutuksesta' -osio, jossa käsitellään muuttoa, asumisen keskeytymistä, mökkivakuutusta, perheenjäseniä, sähkökatkojen korvaamista jne."
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Mobiilisovellusta ei mainita tuotesivulla."
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "76/100",
-       "paino": 34,
-       "pisteet": 76,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "52/100",
-       "paino": 33,
-       "pisteet": 52,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "72/100",
-       "paino": 33,
-       "pisteet": 72,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 73,
-    "accessibility": 96,
-    "seo": 100,
-    "best_practices": 73,
-    "lcp_ms": 3537.85,
-    "cls": 0.0002345855722162927,
-    "tbt_ms": 423
-   },
-   "facts_extra": [
+   "yhteenveto": "Turva on vakuutusyhtiö, joka tarjoaa kotivakuutuksia kolmella kattavuuden tasolla. Tuotesivulla on kattava selitys vakuutusturvista, hintaan vaikuttavista tekijöistä ja usein kysytyistä asioista. Vahvuutena ovat selkeä tuotteiden vertailu ja laaja FAQ-osio, mutta yrityksen perustieto puuttuu, eikä yhteystietoja ole helposti näkyvissä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
     {
-     "label": "Hinta-arvio ilman yhteystietoja",
-     "value": "Osittain"
+     "mittari": "WWF Green Office -sertifikaatti (pääkonttori)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/ymparistopolitiikka/ -sivulla: 'Turvan pääkonttorille on myönnetty WWF:n Green Office -sertifikaatti, ja tavoittelemme sen mukaista toimintaa myös muissa toimipaikoissamme.'"
     },
     {
-     "label": "Pienin omavastuu (esillä)",
-     "value": "Ei julkisesti esillä"
+     "mittari": "Avainlippu-merkki (Suomalaisen Työn Liitto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: turva.fi/turva-yrityksena/sisallot/avainlippu/ -sivun otsikko ja teksti: 'Turvalla on Avainlippu-merkki... Kotimaisuuden tunnistaa Suomalaisen Työn Liiton (STL) myöntämästä Avainlippu-merkistä.'"
+    },
+    {
+     "mittari": "Sitoutunut Finanssiala ry:n Vastuullisen finanssialan periaatteisiin",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/liiketoimintaperiaatteet/ -sivulla: 'Olemme sitoutuneet noudattamaan Finanssiala ry:n yhteisiä Vastuullisen finanssialan periaatteita ja Hyvän vakuutustavan periaatteita vakuutus- ja korvaustoiminnassa.'"
     }
-   ],
-   "vahvuudet": [
-    "Laaja tuoteseloste ja vakuutusehdot ladattavissa PDF-muodossa",
-    "Selkeä ja yksityiskohtainen kuvaus vakuutuksen kattavuudesta eri riskeille (tulipalo, rikos, putkivuoto, luonnonilmiö, rikkoutuminen)",
-    "Kattava UKK-osio, joka vastaa käytännöllisiin kysymyksiin kotivakuutuksesta"
-   ],
-   "kehityskohteet": [
-    "Hintalaskuri saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot) – omakotaloille ja muille tyypeille vaaditaan tarjouspyyntö",
-    "Puhelinnumero ja sähköpostiosoite eivät näy tuotesivulla – asiakkaan tulee käyttää yhteydenottolomaketta tai etsiä contact-sivu",
-    "Omavastuiden ja korvausrajojen tarkat määrät vaativat tuoteselosteen lataamisen – etusivulla ei konkreettisia lukuja"
-   ],
-   "yhteenveto": "Pohjantähti tarjoaa perinteistä, joustavaa kotivakuutusta, joka mukautuu asiakkaan tarpeisiin. Sivusto on selkeästi organisoitu, sisältää hyvin dokumentoidun tuoteselosteen ja laajat vakuutustiedot PDF-muodossa sekä kattavan UKK-osion. Kuitenkin hintalaskuri on saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot), ja muille on pyydettävä tarjous yhteystiedot edellyttävällä lomakkeella. Tarkkojen omavastuiden ja korvausrajojen löytäminen vaatii tuoteselosteen lataamista."
+   ]
   },
   {
    "slug": "lahitapiola",
@@ -1140,7 +958,7 @@
    "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
    "y_tunnus": "0211034-2",
    "rekisteroity": 1978,
-   "score": 62.2,
+   "score": 65.2,
    "pillars": {
     "digitaalinen": 59.5,
     "lapinakyvyys": 50.0,
@@ -1355,7 +1173,267 @@
     "Omavastuun vähimmäismäärää tai vaihteluvälillä ei ilmoiteta tuotesivulla - tieto vain PDF-dokumenteissa",
     "Yhtiön Y-tunnus ei ole näkyvillä verkkosivulla - vain muodollinen copyright-teksti"
    ],
-   "yhteenveto": "LähiTapiolan kotivakuutuksen tuotesivu on selkeästi rakennettu ja tarjoaa hyvän yleiskuvan eri vakuutusvaihtoehtoista (Laaja, Perus, Suppea) ja niiden kattavuuden eroista. Sivulla on hinta-laskin ja kattava FAQ-osio sekä konkreettiset esimerkit vahinkojen käsittelystä. Hintatiedot edellyttävät kuitenkin laskimeen syöttämistä, josta ei ole varmuutta ilman yhteystietoja. Omavastuut ja korvausrajat mainitaan, mutta yksityiskohtaiset numerot löytyvät vain PDF-dokumenteista."
+   "yhteenveto": "LähiTapiolan kotivakuutuksen tuotesivu on selkeästi rakennettu ja tarjoaa hyvän yleiskuvan eri vakuutusvaihtoehtoista (Laaja, Perus, Suppea) ja niiden kattavuuden eroista. Sivulla on hinta-laskin ja kattava FAQ-osio sekä konkreettiset esimerkit vahinkojen käsittelystä. Hintatiedot edellyttävät kuitenkin laskimeen syöttämistä, josta ei ole varmuutta ilman yhteystietoja. Omavastuut ja korvausrajat mainitaan, mutta yksityiskohtaiset numerot löytyvät vain PDF-dokumenteista.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ICMIF-jäsenyys (keskinäisten vakuutusyhtiöiden globaali yhteistyöjärjestö)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: lahitapiola.fi/tietoa-lahitapiolasta/vastuullisuus/yhteiskuntasuhteet/ -sivun kohdassa 'Jäsenyydet järjestöissä': 'LähiTapiola on jäsen myös keskinäisten vakuutusyhtiöiden globaalissa yhteistyöjärjestössä ICMIFissä.'"
+    },
+    {
+     "mittari": "Geneva Association -jäsenyys",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama sivu: '...sekä vakuutusalan johtavassa kansainvälisessä ajatuspajassa Geneva Associations -ajatuspajassa.'"
+    },
+    {
+     "mittari": "FIBS ry -jäsenyys (yritysvastuuverkosto)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu: 'Olemme myös yritysvastuuverkosto FIBSin jäsen.'"
+    },
+    {
+     "mittari": "FINSIF ry -perustajajäsen (LähiTapiola Varainhoito)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu: 'LähiTapiola Varainhoito on Suomen vastuullisen sijoittamisen foorumi FINSIF ry:n perustajajäsen.'"
+    }
+   ]
+  },
+  {
+   "slug": "pohjantahti",
+   "nimi": "Pohjantähti",
+   "domain": "pohjantahti.fi",
+   "omistaja": "Keskinäinen yhtiö — asiakkaiden omistama",
+   "y_tunnus": "0146905-4",
+   "rekisteroity": 1978,
+   "score": 64.1,
+   "pillars": {
+    "digitaalinen": 84.0,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 66.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "73/100",
+       "paino": 40,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinta-arvio ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee 'Kerros-, rivi- ja paritaloon voit ostaa kotivakuutuksen myös verkkokaupasta. Laske hinta ja osta ›'. Muille asuntotyypeille sanotaan 'Pyydä tarjous kotivakuutuksesta', mikä edellyttää yhteystietojen jättämistä lomakkeelle (nimi, osoite, puhelin, sähköposti vaaditaan)."
+      },
+      {
+       "mittari": "Vakuutusehdot/tuoteseloste julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy 'Lataa tiedosto - Vakuutusehdot' -linkki, jonka kautta vakuutusehdot ovat ladattavissa PDF-muodossa."
+      },
+      {
+       "mittari": "Omavastuu kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee 'Voit valita yksilöllisesti omavastuut ja vakuutusmäärät valitsemillesi turville', mutta konkreettisia omavastuurahoja ei kerrota etusivulla. Tarkat määrät löytyvät ladattavasta tuoteselosteesta."
+      },
+      {
+       "mittari": "Korvauskatot ja rajoitukset kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla viitataan korvausrajoihin: 'Tutustu irtaimiston enimmäiskorvausmääriin tuoteselosteessa'. Tarkat rajat eivät näy tuotesivulla vaan vaativat tuoteselosteen lataamisen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0146905-4 näkyy sivun alalaidassa: 'Pohjantähti Keskinäinen Vakuutusyhtiö • Raatihuoneenkatu 19, 13100 Hämeenlinna • Y-tunnus: 0146905-4'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita riippumattomia arvioita, sertifikaatteja eikä ulkopuolisten tahojen auditointeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan puhelinpalvelu ('Soittaessasi maksat vain puhelinoperaattorisi hinnaston mukaisen matkapuhelinmaksun'), mutta puhelinnumeroa ei näy tuotesivulla. Numero löytynee erillisellä kontaktisivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy tuotesivulla. Yhteydenotto tapahtuu lomakkeen kautta, jossa asiakas valitsee haluamansa yhteystavan (puhelimitse tai sähköpostitse)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita chat-palvelua."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei kerrota tuotesivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on laaja 'Usein kysyttyä kotivakuutuksesta' -osio, jossa käsitellään muuttoa, asumisen keskeytymistä, mökkivakuutusta, perheenjäseniä, sähkökatkojen korvaamista jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita tuotesivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "76/100",
+       "paino": 34,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "52/100",
+       "paino": 33,
+       "pisteet": 52,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 73,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 3537.85,
+    "cls": 0.0002345855722162927,
+    "tbt_ms": 423
+   },
+   "facts_extra": [
+    {
+     "label": "Hinta-arvio ilman yhteystietoja",
+     "value": "Osittain"
+    },
+    {
+     "label": "Pienin omavastuu (esillä)",
+     "value": "Ei julkisesti esillä"
+    }
+   ],
+   "vahvuudet": [
+    "Laaja tuoteseloste ja vakuutusehdot ladattavissa PDF-muodossa",
+    "Selkeä ja yksityiskohtainen kuvaus vakuutuksen kattavuudesta eri riskeille (tulipalo, rikos, putkivuoto, luonnonilmiö, rikkoutuminen)",
+    "Kattava UKK-osio, joka vastaa käytännöllisiin kysymyksiin kotivakuutuksesta"
+   ],
+   "kehityskohteet": [
+    "Hintalaskuri saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot) – omakotaloille ja muille tyypeille vaaditaan tarjouspyyntö",
+    "Puhelinnumero ja sähköpostiosoite eivät näy tuotesivulla – asiakkaan tulee käyttää yhteydenottolomaketta tai etsiä contact-sivu",
+    "Omavastuiden ja korvausrajojen tarkat määrät vaativat tuoteselosteen lataamisen – etusivulla ei konkreettisia lukuja"
+   ],
+   "yhteenveto": "Pohjantähti tarjoaa perinteistä, joustavaa kotivakuutusta, joka mukautuu asiakkaan tarpeisiin. Sivusto on selkeästi organisoitu, sisältää hyvin dokumentoidun tuoteselosteen ja laajat vakuutustiedot PDF-muodossa sekä kattavan UKK-osion. Kuitenkin hintalaskuri on saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot), ja muille on pyydettävä tarjous yhteystiedot edellyttävällä lomakkeella. Tarkkojen omavastuiden ja korvausrajojen löytäminen vaatii tuoteselosteen lataamista.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "WWF Green Office -sertifikaatti (pääkonttori)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
+    }
+   ]
   }
  ],
  "updated": "17.7.2026",

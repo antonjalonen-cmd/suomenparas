@@ -1,0 +1,78 @@
+{
+ "totalav": [
+  {
+   "nimi": "AV-TEST Top Product -sertifiointi",
+   "lahde": "HAVAINTO: totalav.com/app/windows -sivulla tuotekuvan yhteydessä lukee 'TOP PRODUCT November 2025' osana Windows-antivirusohjelman esittelyä."
+  },
+  {
+   "nimi": "VB100-sertifiointi (Virus Bulletin)",
+   "lahde": "HAVAINTO: sama sivu listaa badgien joukossa 'VB100 April 2025'."
+  }
+ ],
+ "fsecure": [
+  {
+   "nimi": "AV-Comparatives Anti-Phishing Certification",
+   "lahde": "HAVAINTO: f-secure.com/us-en/awards -sivulla: 'F-Secure Internet Security has earned AV‑Comparatives Anti-Phishing Certification 2026 for its ability to protect users from phishing websites... AV-Comparatives (June 2026).'"
+  },
+  {
+   "nimi": "AV-TEST Certified for Android / Top Product -sertifioinnit",
+   "lahde": "HAVAINTO: sama sivu: 'F‑Secure Total has received the Certified for Android commendation by AV-TEST' ja 'F‑Secure Total was tested by the independent organization AV‑TEST and rated as a Top Product for Windows security.'"
+  }
+ ],
+ "avg": [
+  {
+   "nimi": "VB100-sertifiointi ja AV-TEST/AV-Comparatives-testisertifikaatit",
+   "lahde": "HAVAINTO: avg.com/en-se/awards -sivu listaa toistuvasti mm. 'AVG Internet Security — VB100 — August 2024' ja useita AV-TEST-organisaation myöntämiä 'Home User Protection Test' -sertifikaatteja."
+  }
+ ],
+ "eset": [
+  {
+   "nimi": "ISO 27001:2022 -sertifiointi",
+   "lahde": "HAVAINTO: eset.com/us/business/cybersecurity-compliance-for-business/ -sivulla: 'ESET strengthens security with ISO 27001 certification. ...ESET has achieved ISO 27001 certification for our core processes and services.' UKK: 'ESET is ISO 27001:2022 and ISO 9001:2015 certified.'"
+  },
+  {
+   "nimi": "SOC 2 Type 2 -attestaatio",
+   "lahde": "HAVAINTO: sama sivu: 'SOC 2 Type 2 — ESET has achieved SOC 2 Type 2 attestation, demonstrating our continuous commitment to effectively safeguard customer data.'"
+  }
+ ],
+ "norton": [
+  {
+   "nimi": "AV-Comparatives Advanced+ -sertifioinnit",
+   "lahde": "HAVAINTO: us.norton.com/awards -sivulla listataan mm. '2026 AV-Comparatives — Advanced+ Malware Protection — March 2026' ja 'Advanced+ Performance — April 2026'."
+  },
+  {
+   "nimi": "AV-TEST Best Usability / Best MacOS Security -sertifioinnit",
+   "lahde": "HAVAINTO: sama sivu: '2025 AV-TEST — Norton 360 — Best Usability 2025' ja 'AV-TEST — Norton 360 — Best MacOS Security 2025'."
+  }
+ ],
+ "avast": [
+  {
+   "nimi": "AV-TEST- ja AV-Comparatives-sertifioinnit",
+   "lahde": "HAVAINTO: avast.com/awards-certifications -sivulla: 'Best Protection — AV-Test — December 2024', 'Corporate Endpoint Protection Test — AV-Test — December 2024', 'Business Security Test — AV-Comparatives'."
+  },
+  {
+   "nimi": "SE Labs -sertifiointi",
+   "lahde": "HAVAINTO: sama sivu listaa myös 'Security Evaluation Test: Home Anti-Malware — SE Labs — 2025'."
+  }
+ ],
+ "bitdefender": [
+  {
+   "nimi": "AV-Comparatives Certified",
+   "lahde": "HAVAINTO: bitdefender.com/en-us/partners/certifications/av-comparatives-certified -sivulla: 'AV-COMPARATIVES CERTIFIED. Certification by AV-Comparatives provides an official and independent seal of approval for software performance which is globally recognized.'"
+  },
+  {
+   "nimi": "SOC 2 Type 2 -vaatimustenmukaisuus",
+   "lahde": "HAVAINTO: bitdefender.com/en-us/partners/certifications/soc2-tyoe2-compliant -sivulla: 'Bitdefender is Service Organization Control 2 (SOC2) Type 2 certified... Our security controls are audited each year, following the AICPA SSAE-16 SOC 2 guidelines.'"
+  }
+ ],
+ "kaspersky": [
+  {
+   "nimi": "ISO/IEC 27001:2013 -sertifiointi (TÜV AUSTRIA)",
+   "lahde": "HAVAINTO: kaspersky.com/about/press-releases/kaspersky-achieves-iso-27001-certification -sivulla: 'Kaspersky...has achieved ISO/IEC 27001:2013 certification... Issued by TÜV AUSTRIA, the certification confirms that the company's data security systems, including Kaspersky Security Network, meet industry best practices.'"
+  },
+  {
+   "nimi": "SOC 2 Type 1 -auditointi (Big Four -tilintarkastusyhteisö)",
+   "lahde": "HAVAINTO: sama sivu: 'In 2019 the company achieved the SOC 2 Type 1 audit, issued by one of the Big Four accounting firms, which confirms that the development and release of Kaspersky's AV databases are protected from unauthorized changes by strong security controls.'"
+  }
+ ]
+}

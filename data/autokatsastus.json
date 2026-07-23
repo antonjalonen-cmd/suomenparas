@@ -20,7 +20,7 @@
    "omistaja": "A-Katsastus-konsernin tytäryhtiö 12/2022 alkaen — sama konserni kuin A-Katsastus",
    "y_tunnus": "2046583-3",
    "rekisteroity": 2006,
-   "score": 73.9,
+   "score": 76.9,
    "pillars": {
     "digitaalinen": 85.8,
     "lapinakyvyys": 65.0,
@@ -220,7 +220,22 @@
     "Ajanvaraus näyttää hinnan vasta yhteystietojen jälkeen: Nettivarauspalvelussa katsastaja voi tehdä varauksen näkemättä etukäteen hintaa",
     "Puuttuvat riippumattomat arviot: Sivustolla ei ole linkkejä palvelun tasoa mittaaviin arvioihin tai asiakaspalautteiden julkaisemiseen"
    ],
-   "yhteenveto": "K1 Katsastajat on suuri valtakunnallinen katsastusketju, jolla on yli 70 asemaa Suomessa. Sivusto tarjoaa hyvän palvelukuvauksen, kattavan ajanvarauskäytännön ja laajan UKK-osion. Pääpalvelun (määräaikaiskatsastus) hinnoittelu jää kuitenkin piilotetuksi, mikä vaikeuttaa hintojen vertailua ennen varauksen tekemistä."
+   "yhteenveto": "K1 Katsastajat on suuri valtakunnallinen katsastusketju, jolla on yli 70 asemaa Suomessa. Sivusto tarjoaa hyvän palvelukuvauksen, kattavan ajanvarauskäytännön ja laajan UKK-osion. Pääpalvelun (määräaikaiskatsastus) hinnoittelu jää kuitenkin piilotetuksi, mikä vaikeuttaa hintojen vertailua ennen varauksen tekemistä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla k1katsastus.fi/k1-katsastus/tutustu-meihin/ todetaan: \"Työtämme ohjaa sertifioitu ISO 9001 laatujärjestelmä (Scandinavian Business Certification AB).\""
+    },
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Etusivulla ja sivupalkissa näkyy Avainlippu-logo (alt-teksti \"Avainlippu - Suomalaista palvelua\")."
+    }
+   ]
   },
   {
    "slug": "dekra-katsastus",
@@ -438,7 +453,7 @@
    "omistaja": "Suomalaisten yrittäjien omistama, riippumaton A-Katsastus-konsernista",
    "y_tunnus": "2307508-0",
    "rekisteroity": 2009,
-   "score": 68.7,
+   "score": 70.2,
    "pillars": {
     "digitaalinen": 83.8,
     "lapinakyvyys": 55.0,
@@ -640,7 +655,16 @@
     "Y-tunnus ja yritystiedot: perustiedot puuttuvat (Y-tunnus, rekisteröintitiedot) eikä niitä ole yritysesittelysivulla",
     "Asiakaspalautejärjestelmä: sivustolla ei ole katsastetuista löytämis FAQ-osiota (UKK), eikä riippumattomia arvioita tai asiakasarvioita näy"
    ],
-   "yhteenveto": "Plus Katsastus on 100-prosenttisesti suomalaisten yrittäjien omistama katsastusketju, joka tarjoaa palvelua yli 70 asemalla ympäri Suomea. Sivusto on asiakkaalle hyvin saavutettava puhelimitse ja sähköpostitse, ja palveluvalikoima on kattavasti kuvattu. Haittapuolena on, että määräaikaiskatsastuksen hintaa ei ole asetettu julkisesti näkyville verkkosivuille, ja perustavat yritystiedot (Y-tunnus) puuttuvat verkkosivuilta."
+   "yhteenveto": "Plus Katsastus on 100-prosenttisesti suomalaisten yrittäjien omistama katsastusketju, joka tarjoaa palvelua yli 70 asemalla ympäri Suomea. Sivusto on asiakkaalle hyvin saavutettava puhelimitse ja sähköpostitse, ja palveluvalikoima on kattavasti kuvattu. Haittapuolena on, että määräaikaiskatsastuksen hintaa ei ole asetettu julkisesti näkyville verkkosivuille, ja perustavat yritystiedot (Y-tunnus) puuttuvat verkkosivuilta.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla plus.fi/yritys todetaan: \"Sertifikaatti osoittaa, että toimipaikkamme laatujärjestelmä täyttää ISO 9001:2015 standardin vaatimukset.\""
+    }
+   ]
   },
   {
    "slug": "a-katsastus",
@@ -649,7 +673,7 @@
    "omistaja": "Tradeka — suomalainen osuuskuntataustainen konserni; omistaa myös K1 Katsastajat",
    "y_tunnus": "1959705-4",
    "rekisteroity": 2005,
-   "score": 66.7,
+   "score": 69.7,
    "pillars": {
     "digitaalinen": 81.5,
     "lapinakyvyys": 47.5,
@@ -852,7 +876,22 @@
     "Palvelupistehaun URL ei toimi: 'Etsi lähin palvelupiste' -linkki palauttaa 404 eikä staattista palvelupisteluetteloa ole julkaistu",
     "Y-tunnus ja itsenäiset arviot puuttuvat: yritysidentiteetti- ja luotettavuustiedot eivät ole julkisesti saatavilla"
    ],
-   "yhteenveto": "A-Katsastus on Suomen johtava ajoneuvokatsastuspalvelun tarjoaja, jolla on n. 250 asemaa ja laaja palveluvalikoima. Sivusto tarjoaa selkeän navigaation, monipuoliset yhteydenottovaihtoehdot (puhelin 075 323 2222, sähköposti asiakaspalvelu@a-katsastus.fi) ja kattavat ohjeet. Heikkoutena on, että hintasivu ei toimi (404-virhe) ja palvelupistehaun URL ei ole toiminnassa; hinnat näytetään vain interaktiivisen ajanvarausjärjestelmän kautta."
+   "yhteenveto": "A-Katsastus on Suomen johtava ajoneuvokatsastuspalvelun tarjoaja, jolla on n. 250 asemaa ja laaja palveluvalikoima. Sivusto tarjoaa selkeän navigaation, monipuoliset yhteydenottovaihtoehdot (puhelin 075 323 2222, sähköposti asiakaspalvelu@a-katsastus.fi) ja kattavat ohjeet. Heikkoutena on, että hintasivu ei toimi (404-virhe) ja palvelupistehaun URL ei ole toiminnassa; hinnat näytetään vain interaktiivisen ajanvarausjärjestelmän kautta.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla a-katsastus.fi/laatu/ todetaan: \"A-Katsastus Oy on ISO 9001 -sertifioitu (Scandinavian Business Certification AB).\""
+    },
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla a-katsastus.fi/tietoa-meista/ todetaan: \"Suomalaisen Työn liitto on myöntänyt kaikille A-Katsastus-konserniin kuuluville yrityksille Avainlippu-tunnuksen merkiksi suomalaisesta työstä.\""
+    }
+   ]
   }
  ],
  "updated": "18.7.2026",

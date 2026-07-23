@@ -20,7 +20,7 @@
    "omistaja": "Apple Inc. (Yhdysvallat) — EU-laskutus Apple Distribution International (Irlanti)",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 80.2,
+   "score": 81.7,
    "pillars": {
     "digitaalinen": 75.5,
     "lapinakyvyys": 85.0,
@@ -225,7 +225,16 @@
     "Chat-tuki puuttuu: vain puhelintuki (0800 922 72) ja tuki-appi mainitaan, live-chat ei löydy",
     "Arviointilähde puuttuu: ei riippumattomia auditointeja tai sertifikaatteja näkyvillä"
    ],
-   "yhteenveto": "Apple iCloud+ on suomeksi saatavilla oleva pilvitallennuspalvelu selkeillä eurohinnoilla (2 Tt 9,99 €/kk). Sivuston rakenne on looginen ja hinnoittelu näkyy helposti, mutta datan säilytyspaikan juridinen sijainti jää epäselväksi Suomen-sivuston osalta, koska siihen liittyvät dokumentit ohjautuvat englanniksi. Omistaja (Apple Inc.) on tunnistettavissa, mutta riippumattomia arviointilähteita tai turvasertifikaatteja ei ole merkitty."
+   "yhteenveto": "Apple iCloud+ on suomeksi saatavilla oleva pilvitallennuspalvelu selkeillä eurohinnoilla (2 Tt 9,99 €/kk). Sivuston rakenne on looginen ja hinnoittelu näkyy helposti, mutta datan säilytyspaikan juridinen sijainti jää epäselväksi Suomen-sivuston osalta, koska siihen liittyvät dokumentit ohjautuvat englanniksi. Omistaja (Apple Inc.) on tunnistettavissa, mutta riippumattomia arviointilähteita tai turvasertifikaatteja ei ole merkitty.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO/IEC 27001- ja ISO/IEC 27018 -sertifioinnit",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: support.apple.com/guide/certifications/apple-internet-services-security -sivun listalla iCloud mainitaan yhtenä Applen ISO/IEC-sertifioinneilla katettuna internetpalveluna: 'Standardien ISO/IEC 27001 ja ISO/IEC 27018 kattamat Applen palvelut... iCloud... Osoitukset Applen ISO/IEC 27001- ja 27018-sertifioinneista ovat julkisesti saatavilla.'"
+    }
+   ]
   },
   {
    "slug": "protondrive",
@@ -234,7 +243,7 @@
    "omistaja": "Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Pass",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 76.4,
+   "score": 77.9,
    "pillars": {
     "digitaalinen": 82.5,
     "lapinakyvyys": 95.0,
@@ -436,7 +445,16 @@
     "Riippumattomat tietoturva-auditoinnit mainitaan yleisellä tasolla ('riippumattomat asiantuntijat tarkastavat'), mutta yksityisiä raportteja tai sertifikaatteja ei ole linkitetty",
     "Vuosien tai käyttöoikeuksien avulla ei ole kerrottu, kuinka kauan tiedostot voidaan palauttaa premium-tilauksessa"
    ],
-   "yhteenveto": "Proton Drive on Sveitsissä sijaitseva Proton AG:n hallinnoimaa päästä päähän -salattua pilvitallennuspalvelua. Palvelun hinnat ja omistajatiedot ovat selkeästi julkisesti saatavilla suomalaisessa versiossa euroissa. Sivusto on selkeä ja hintojen löytäminen on helppoa, mutta riippumattomien arviointien linkkejä ja suoraa tukiyhteyttä ei ole helposti löydettävissä."
+   "yhteenveto": "Proton Drive on Sveitsissä sijaitseva Proton AG:n hallinnoimaa päästä päähän -salattua pilvitallennuspalvelua. Palvelun hinnat ja omistajatiedot ovat selkeästi julkisesti saatavilla suomalaisessa versiossa euroissa. Sivusto on selkeä ja hintojen löytäminen on helppoa, mutta riippumattomien arviointien linkkejä ja suoraa tukiyhteyttä ei ole helposti löydettävissä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Securitum-tietoturva-auditointi (julkaistu raportti)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: proton.me/drive/security -sivulla: 'Proton Drive has been audited by Securitum, a leading European security auditor. We always publish these audit reports so you can see a professional third-party evaluation of our apps.'"
+    }
+   ]
   },
   {
    "slug": "internxt",
@@ -445,7 +463,7 @@
    "omistaja": "Internxt S.L. (Espanja) — VC-rahoitteinen; ei suomenkielistä sivustoa",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 71.1,
+   "score": 72.6,
    "pillars": {
     "digitaalinen": 68.8,
     "lapinakyvyys": 75.0,
@@ -651,7 +669,16 @@
     "Tietojen säilytyspaikka kuvataan vain \"eurooppalaisina datakeskuksina\", eikä tarkempia sijainteja ole mainittu",
     "Puhelintukea ei ole saatavilla, tuki rajoittuu sähköpostiin ja live-chattiin"
    ],
-   "yhteenveto": "Internxt on espanjalaisella Internxt Universal Technologies SL -yhtiöllä omistama pilvipalvelun tarjoaja, joka on perustettu 2020 ja sijaitsee Valenciassa. Sivusto esittelee hinnastoa selkeästi euroissa useilla vaihtoehdoilla ja tarjoaa 30 päivän rahanpalautuetakuun. Palvelua on itsenäisesti auditoitu Securitum-yhtiön toimesta, ja se noudattaa GDPR-vaatimuksia sekä muita kansainvälisiä standardeja. Sivustolla ei ole suomenkielistä versiota eikä tarkempia tietoja tietojen säilytyssijainnista."
+   "yhteenveto": "Internxt on espanjalaisella Internxt Universal Technologies SL -yhtiöllä omistama pilvipalvelun tarjoaja, joka on perustettu 2020 ja sijaitsee Valenciassa. Sivusto esittelee hinnastoa selkeästi euroissa useilla vaihtoehdoilla ja tarjoaa 30 päivän rahanpalautuetakuun. Palvelua on itsenäisesti auditoitu Securitum-yhtiön toimesta, ja se noudattaa GDPR-vaatimuksia sekä muita kansainvälisiä standardeja. Sivustolla ei ole suomenkielistä versiota eikä tarkempia tietoja tietojen säilytyssijainnista.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Securitum-tietoturva-auditointi (riippumaton penetraatiotestaus)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: internxt.com/security -sivulla: 'Internxt has been independently audited and verified by Europe's leading penetration testing company, Securitum.'"
+    }
+   ]
   },
   {
    "slug": "dropbox",
@@ -660,7 +687,7 @@
    "omistaja": "Dropbox, Inc. — pörssiyhtiö (Nasdaq); ei suomenkielistä sivustoa",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 69.3,
+   "score": 70.8,
    "pillars": {
     "digitaalinen": 62.4,
     "lapinakyvyys": 67.5,
@@ -863,7 +890,16 @@
     "Ei suomenkielistä sivustoa tai hintojen näyttöä euroissa — palvelu on vain englanniksi",
     "Tiedon sijainnista sanotaan vain 'Yhdysvallat ja muualla maailmalla', tarkka lainkäyttöalue puuttuu"
    ],
-   "yhteenveto": "Dropbox on yhdysvaltalainen pilvitallennuspalvelu, jonka Plus-paketti tarjoaa 2 teratavua tallennus­tilaa 9,99 eurolla kuukaudessa. Sivusto on selkeä ja hinnat helposti löydettävissä, mutta palvelu on vain englanniksi, uusimishinnoittelu jää epäselväksi, ja tiedon fyysistä sijainti­paikkaa ei täsmennetä tarkasti."
+   "yhteenveto": "Dropbox on yhdysvaltalainen pilvitallennuspalvelu, jonka Plus-paketti tarjoaa 2 teratavua tallennus­tilaa 9,99 eurolla kuukaudessa. Sivusto on selkeä ja hinnat helposti löydettävissä, mutta palvelu on vain englanniksi, uusimishinnoittelu jää epäselväksi, ja tiedon fyysistä sijainti­paikkaa ei täsmennetä tarkasti.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SOC 1, 2 ja 3 -vaatimustenmukaisuusraportit",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: dropbox.com/features/security -sivulla kohdassa Compliance: 'SOC 1, 2, and 3 compliance reports — when you have high volumes of sensitive data in the cloud, you require superior security, privacy, and compliance controls— and regular reports on their effectiveness.'"
+    }
+   ]
   },
   {
    "slug": "onedrive",
@@ -872,7 +908,7 @@
    "omistaja": "Microsoft Corporation (Yhdysvallat) — EU-laskutus Microsoft Ireland Operations",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 67.4,
+   "score": 68.9,
    "pillars": {
     "digitaalinen": 56.2,
     "lapinakyvyys": 90.0,
@@ -1074,7 +1110,16 @@
     "Puhelintuen yhteystiedot puuttuvat hinnoittelusivuilta",
     "EU-datarajatoiminnon saatavuus ei ole selvästi selitettynä kuluttajapuolella"
    ],
-   "yhteenveto": "Microsoft OneDrive on Microsoft 365:n pilvipalvelu, jonka hinnoittelu on selkeästi esillä euroissa kaikilla pääsivuilla. Suomenkielinen sivusto ja dokumentaatio ovat kattavat, mutta riippumatonta arviointia palvelun tietoturvasta ei ole julkisesti saatavilla. Uusimishinta ja automaattinen uusiutuminen kerrotaan eksplisiittisesti käyttöehdoissa."
+   "yhteenveto": "Microsoft OneDrive on Microsoft 365:n pilvipalvelu, jonka hinnoittelu on selkeästi esillä euroissa kaikilla pääsivuilla. Suomenkielinen sivusto ja dokumentaatio ovat kattavat, mutta riippumatonta arviointia palvelun tietoturvasta ei ole julkisesti saatavilla. Uusimishinta ja automaattinen uusiutuminen kerrotaan eksplisiittisesti käyttöehdoissa.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SOC 2 Type 2 -auditointi (OneDrive listattu kattavuuden piirissä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: learn.microsoft.com/en-us/compliance/regulatory/offering-soc-2 -sivun In-scope services -listalla (Commercial): '...Office Online, Office Services Infrastructure, OneDrive, Planner...' eli OneDrive kuuluu Microsoftin SOC 2 Type 2 -auditoinnin piiriin."
+    }
+   ]
   },
   {
    "slug": "mega",

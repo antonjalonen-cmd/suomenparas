@@ -14,6 +14,233 @@
  ],
  "yritykset": [
   {
+   "slug": "bolkv",
+   "nimi": "Bo LKV",
+   "domain": "bo.fi",
+   "omistaja": "Bo LKV Oy — yksi yhtiö, kaupunkitoimistot aputoiminimiä",
+   "y_tunnus": "2796763-3",
+   "rekisteroity": 2016,
+   "score": 68.8,
+   "pillars": {
+    "digitaalinen": 71.1,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 58.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'Arviokäynti on maksuton, kun harkitset asuntosi myyntiä. Jos tarvitset arvion esimerkiksi pankkia varten, veloitamme hinnastomme mukaisen palkkion.' Konkreettinen palkkioprosentti ei ole verkon kautta näkyvissä."
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla kuvataan laajasti myyntiin liittyviä palveluita (arviokäynti, stailaus, Bo App, asiakasedut), ostoon liittyviä (sneak peek, uudiskohteet, loma-asunnot) sekä yrityspalveluita. Kuitenkin yksityiskohtaiset palvelukuvaukset ovat linkkien takana, jotka eivät avaudu fetch-hakemuksilla."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteesta käy ilmi, että Bo LKV ylläpitää toimeksiantopäiväkirjaa ja sopimussuhteita, mutta varsinaiset toimeksiantosopimuksen ehdot eivät ole verkon kautta julkisesti saatavilla. Viitataan asiakaspalveluun yhteydenotossa."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla on yksityiskohtainen lista kaikista 16 toimistosta osoitteineen, puhelinnumeroineen ja sähköpostiosoitteineen (esim. Espoo Spektri Business Park, puh. 040 808 6832, espoo@bo.fi)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2796763-3 on näkyvissä kaikissa toimistotiedoissa yhteystiedot-sivulla sekä tietosuojaselosteessa rekisterinpitäjän tunnuksena."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 040 808 6832 on näkyvissä useiden toimistojen yhteystiedoissa, samoin aluespesifiset numerot (esim. Hämeenlinna 040 523 9474)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä kaikille toimistoille alueittain (esim. espoo@bo.fi, helsinki@bo.fi, tampere@bo.fi)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'KYSY BOLTA' -palvelu, joka on 'Bon digitaalinen asiantuntija' tekoälyä käyttävä chat. Lisäksi mainitsee 15 minuutin puhelintapaamisen välittäjän kanssa, mutta varsinainen livechat-palvelu ei ole muuten näkyvissä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konkreettisia aukioloaikoja ei ole listattu. Ajanvarauskalenteri näyttää vapaat ajat alueittain, mutta kirjattuja toimiston aukioloaikoja ei ole näkyvissä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 6847.657499999999,
+    "cls": 0.004670090610911474,
+    "tbt_ms": 1201
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkon peittävyys 16 toimistolla ympäri Suomea ja Espanjassa, selkeä paikalliset yhteystiedot helposti löytyvissä",
+    "Kattava palveluvalikko asiakassegmenteille (myyjät, ostajat, sijoittajat, yritykset) sekä lisäpalvelut kuten stailaus ja sisustussuunnittelu",
+    "Digitaaliset työkalut kuten Bo App ja ajanvarauskalenteri asiakkaiden omahoidolle sekä arviokäyntien varaamiselle"
+   ],
+   "kehityskohteet": [
+    "Välityspalkkion prosentti ei ole julkisesti näkyvissä – sivusto viittaa vain yleisesti 'hinnastoostamme' ilman konkreettisia lukuja",
+    "Toimeksiantosopimuksen ehdot eivät ole saatavilla verkon kautta, vaatii kontaktointia asiakaspalveluun",
+    "Kirjalliset usein kysytyt kysymykset (UKK) puuttuvat – sivusto viittaa FAQ:hin mutta piilottaa sisällön ajanvarauspalvelun taakse"
+   ],
+   "yhteenveto": "Bo LKV on Suomen suurimmista kiinteistönvälityspalveluista 16 toimistolla ja yli 250 ammattilaisella. Sivusto tarjoaa kattavan palvelukuvauksen ja helpot yhteystiedot kaikkiin toimistoihin, mutta ei julkaise palkkioprosentteja eikä sopimusehdot ole verkon kautta luettavissa. Palveluiden hinta- ja ostoehtojen tarkastelu vaatii suoraa kontaktointia asiakaspalveluun.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla bo.fi/vastuullisuus/ todetaan: 'Olemme Avainlippu -yritys.'"
+    },
+    {
+     "mittari": "Design from Finland -tunnus",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla bo.fi/vastuullisuus/ todetaan: 'Meillä on Design from Finland -tunnus. Se kertoo meidän panostaneen edelläkävijänä kotimaiseen muotoiluun.'"
+    }
+   ]
+  },
+  {
    "slug": "opkoti",
    "nimi": "OP Koti",
    "domain": "op-koti.fi",
@@ -221,6 +448,228 @@
     "Ei FAQ-osio tai asiakkaiden usein kysymillä vastauksilla"
    ],
    "yhteenveto": "OP Koti on OP Pohjolan omistama kiinteistönvälityspalvelu, joka operoi federaatiomallin mukaisesti ~19 alueellisen yhtiön kautta. Pääsivusto tarjoaa selkeän palvelukuvauksen ja laajat digitaaliset palvelut, mutta välityspalkkiot ja alueelliset tiedot löytyvät ainoastaan kunkin alueen yhtiöiden omilta sivuilta. Yhteystiedot ja perusalliset ehdot ovat helposti saatavilla."
+  },
+  {
+   "slug": "kiinteistomaailma",
+   "nimi": "Kiinteistömaailma",
+   "domain": "kiinteistomaailma.fi",
+   "omistaja": "Kiinteistömaailma Oy — franchise-ketju",
+   "y_tunnus": "0804835-9",
+   "rekisteroity": 1990,
+   "score": 66.5,
+   "pillars": {
+    "digitaalinen": 71.6,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 22.5,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluhinnasto-sivu ilmoittaa: 'Välityspalkkiomme ovh on 5,0% (sis. alv) + asiakirja- ja markkinointikulut. Vähimmäispalkkio on alkaen 3500 euroa.'"
+      },
+      {
+       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asunnon myynti -sivulla kerrotaan prosessista: kotikäynti, hinta-arvio, markkinointisuunnitelma, videoesittelyt ja perinteinen myyntitapa sekä Tarjouskauppa-palvelu."
+      },
+      {
+       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivu sisältää palvelun sopimusehdot ja vastuun rajoitukset. Sivulla mainitaan myös 'Tietosuojaseloste' linkkeinä, vaikka suora linkitys näihin ei toimi HTTP-haun kautta."
+      },
+      {
+       "mittari": "Toimistot ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kiinteistönvälitys yli 100 myymälän voimin' ja 'Asuntomyymälät'-osio listaa toimistot aakkosjärjestyksessä (Espoo, Helsinki, Turku jne.). Johtoryhmän yhteystiedot näkyvät sivulla (Mika Laurikainen 040 560 7514, muut jäsenet)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy missään haetulla sivulla. Sivulla esiintyy teksti 'Kiinteistömaailma Oy' mutta Y-tunnusta ei julkaista."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät vain johtoryhmän yhteydessä (toimitusjohtaja 040 560 7514 jne.), ei yleistä asiakaspalvelun numeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole julkaisesti näkyvillä pääsivulla. Palveluhinnasto-sivulla on 'OTA YHTEYTTÄ' -painike joka johtaa lomakkeelle, mutta suoraa sähköpostiosoitetta ei ilmaista."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kima - asuntokauppa-apuri' chat-palvelu, mutta se on pikemminkin chatbot-apurin kuin asiakaspalvelun edustaja."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK:ta ei löydy. Sivulla on linkkejä 'Asunnon ostoon ja myyntiin liittyvät käytännöt' mutta varsinainen UKK-osio puuttuu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 12101.175,
+    "cls": 0,
+    "tbt_ms": 2406
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Välityspalkkio ja muut maksut selkeästi esillä palveluhinnasto-sivulla (5,0% + kulut)",
+    "Laaja palveluiden kuvaus: Kotikäynti, hinta-arvio, videoesittelyt ja markkinointisuunnitelma",
+    "Yli 100 myymälää Suomessa maantieteellisesti laajalla alueella helpottaen paikallisen välittäjän löytämistä"
+   ],
+   "kehityskohteet": [
+    "Sopimuksenehdot eivät ole helposti löydettävissä; käyttöehdot ovat olemassa mutta linkitys on epäselvästi merkitty",
+    "Y-tunnus, sähköpostiosoite ja toimistokohtaiset yhteystiedot eivät ole julkisesti näkyvillä pääsivulla",
+    "UKK-osio puuttuu; asiakasvastaukset voitaisiin organisoida paremmin usein esitettyjen kysymysten osalta"
+   ],
+   "yhteenveto": "Kiinteistömaailma on Suomen suurin kiinteistönvälitysketju, jolla on yli 100 myymälää ja 500+ ammattilaista. Sivusto kuvaa palveluita selkeästi ja näyttää välityspalkkion (5,0%) avoimesti palveluhinnasto-sivulla. Sopimuksenehdot ovat saatavilla, mutta sivuston navigaatio on hieman haastava (client-side routing), ja joitakin tärkeitä tietoja kuten Y-tunnus ja välittäjäkohtaiset yhteystiedot puuttuvat tai ovat piilossa.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Aktiivinen toimija Kiinteistönvälitysalan Keskusliiton (KVKL) lakivaliokunnassa",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla kiinteistomaailma.fi/vastuullisuus todetaan: 'Toimimme aktiivisesti Kiinteistönvälitysalan Keskusliiton Lakivaliokunnassa, joka ylläpitää hyvän välitystavan ohjeita ja muita alaa koskevia ohjeita (rahanpesu ja tietosuoja) ... Osallistuminen KVKL:n lakivaliokunnan kokoukseen oli mahtava kokemus.'"
+    }
+   ]
   },
   {
    "slug": "huoneistokeskus",
@@ -431,431 +880,6 @@
     "Liveä chat- tai viestintäkanavaa ei ole mainittu; aukioloajat ja chatpalvelu puuttuvat sivustolta; UKK-osio tai FAQ puuttuu kokonaan"
    ],
    "yhteenveto": "Huoneistokeskus on Suomen kokenein kiinteistönvälityspalvelu, joka toimii yli 30 toimistolla ympäri Suomea. Sivustolla välityspalkkio (4,95% tai sopimuksen mukaan) ja palvelupaketti ovat selkeästi esillä, ja seitsemän vaiheen myyntiprosessi on kattavasti kuvattu. Y-tunnus (1831315-2) näkyy yhteystiedot-sivulla. Sopimusehtojen yksityiskohdat puuttuvat julkisesta näkyvyydestä, ja asiakastuen puhelinnumero sekä chat-palvelu eivät ole helposti saatavilla."
-  },
-  {
-   "slug": "bolkv",
-   "nimi": "Bo LKV",
-   "domain": "bo.fi",
-   "omistaja": "Bo LKV Oy — yksi yhtiö, kaupunkitoimistot aputoiminimiä",
-   "y_tunnus": "2796763-3",
-   "rekisteroity": 2016,
-   "score": 65.8,
-   "pillars": {
-    "digitaalinen": 71.1,
-    "lapinakyvyys": 57.5,
-    "tavoitettavuus": 77.5,
-    "ai_laatu": 58.5
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "41/100",
-       "paino": 40,
-       "pisteet": 41,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "94/100",
-       "paino": 30,
-       "pisteet": 94,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "77/100",
-       "paino": 15,
-       "pisteet": 77,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'Arviokäynti on maksuton, kun harkitset asuntosi myyntiä. Jos tarvitset arvion esimerkiksi pankkia varten, veloitamme hinnastomme mukaisen palkkion.' Konkreettinen palkkioprosentti ei ole verkon kautta näkyvissä."
-      },
-      {
-       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
-       "arvo": "Osittain",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pääsivulla kuvataan laajasti myyntiin liittyviä palveluita (arviokäynti, stailaus, Bo App, asiakasedut), ostoon liittyviä (sneak peek, uudiskohteet, loma-asunnot) sekä yrityspalveluita. Kuitenkin yksityiskohtaiset palvelukuvaukset ovat linkkien takana, jotka eivät avaudu fetch-hakemuksilla."
-      },
-      {
-       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tietosuojaselosteesta käy ilmi, että Bo LKV ylläpitää toimeksiantopäiväkirjaa ja sopimussuhteita, mutta varsinaiset toimeksiantosopimuksen ehdot eivät ole verkon kautta julkisesti saatavilla. Viitataan asiakaspalveluun yhteydenotossa."
-      },
-      {
-       "mittari": "Toimistot ja yhteystiedot kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yhteystiedot-sivulla on yksityiskohtainen lista kaikista 16 toimistosta osoitteineen, puhelinnumeroineen ja sähköpostiosoitteineen (esim. Espoo Spektri Business Park, puh. 040 808 6832, espoo@bo.fi)."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus 2796763-3 on näkyvissä kaikissa toimistotiedoissa yhteystiedot-sivulla sekä tietosuojaselosteessa rekisterinpitäjän tunnuksena."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Puhelinnumero 040 808 6832 on näkyvissä useiden toimistojen yhteystiedoissa, samoin aluespesifiset numerot (esim. Hämeenlinna 040 523 9474)."
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sähköpostiosoitteet ovat näkyvissä kaikille toimistoille alueittain (esim. espoo@bo.fi, helsinki@bo.fi, tampere@bo.fi)."
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston pääsivulla mainitaan 'KYSY BOLTA' -palvelu, joka on 'Bon digitaalinen asiantuntija' tekoälyä käyttävä chat. Lisäksi mainitsee 15 minuutin puhelintapaamisen välittäjän kanssa, mutta varsinainen livechat-palvelu ei ole muuten näkyvissä."
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Konkreettisia aukioloaikoja ei ole listattu. Ajanvarauskalenteri näyttää vapaat ajat alueittain, mutta kirjattuja toimiston aukioloaikoja ei ole näkyvissä."
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "75/100",
-       "paino": 34,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "35/100",
-       "paino": 33,
-       "pisteet": 35,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "65/100",
-       "paino": 33,
-       "pisteet": 65,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 41,
-    "accessibility": 94,
-    "seo": 100,
-    "best_practices": 77,
-    "lcp_ms": 6847.657499999999,
-    "cls": 0.004670090610911474,
-    "tbt_ms": 1201
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Laaja verkon peittävyys 16 toimistolla ympäri Suomea ja Espanjassa, selkeä paikalliset yhteystiedot helposti löytyvissä",
-    "Kattava palveluvalikko asiakassegmenteille (myyjät, ostajat, sijoittajat, yritykset) sekä lisäpalvelut kuten stailaus ja sisustussuunnittelu",
-    "Digitaaliset työkalut kuten Bo App ja ajanvarauskalenteri asiakkaiden omahoidolle sekä arviokäyntien varaamiselle"
-   ],
-   "kehityskohteet": [
-    "Välityspalkkion prosentti ei ole julkisesti näkyvissä – sivusto viittaa vain yleisesti 'hinnastoostamme' ilman konkreettisia lukuja",
-    "Toimeksiantosopimuksen ehdot eivät ole saatavilla verkon kautta, vaatii kontaktointia asiakaspalveluun",
-    "Kirjalliset usein kysytyt kysymykset (UKK) puuttuvat – sivusto viittaa FAQ:hin mutta piilottaa sisällön ajanvarauspalvelun taakse"
-   ],
-   "yhteenveto": "Bo LKV on Suomen suurimmista kiinteistönvälityspalveluista 16 toimistolla ja yli 250 ammattilaisella. Sivusto tarjoaa kattavan palvelukuvauksen ja helpot yhteystiedot kaikkiin toimistoihin, mutta ei julkaise palkkioprosentteja eikä sopimusehdot ole verkon kautta luettavissa. Palveluiden hinta- ja ostoehtojen tarkastelu vaatii suoraa kontaktointia asiakaspalveluun."
-  },
-  {
-   "slug": "kiinteistomaailma",
-   "nimi": "Kiinteistömaailma",
-   "domain": "kiinteistomaailma.fi",
-   "omistaja": "Kiinteistömaailma Oy — franchise-ketju",
-   "y_tunnus": "0804835-9",
-   "rekisteroity": 1990,
-   "score": 65.0,
-   "pillars": {
-    "digitaalinen": 71.6,
-    "lapinakyvyys": 80.0,
-    "tavoitettavuus": 22.5,
-    "ai_laatu": 75.0
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "41/100",
-       "paino": 40,
-       "pisteet": 41,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "90/100",
-       "paino": 30,
-       "pisteet": 90,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "96/100",
-       "paino": 15,
-       "pisteet": 96,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Välityspalkkio tai hinnasto julkisesti esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Palveluhinnasto-sivu ilmoittaa: 'Välityspalkkiomme ovh on 5,0% (sis. alv) + asiakirja- ja markkinointikulut. Vähimmäispalkkio on alkaen 3500 euroa.'"
-      },
-      {
-       "mittari": "Palvelun sisältö (mitä palkkiolla saa) kuvattu",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Asunnon myynti -sivulla kerrotaan prosessista: kotikäynti, hinta-arvio, markkinointisuunnitelma, videoesittelyt ja perinteinen myyntitapa sekä Tarjouskauppa-palvelu."
-      },
-      {
-       "mittari": "Toimeksiantosopimuksen ehdot julkisesti",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Käyttöehdot-sivu sisältää palvelun sopimusehdot ja vastuun rajoitukset. Sivulla mainitaan myös 'Tietosuojaseloste' linkkeinä, vaikka suora linkitys näihin ei toimi HTTP-haun kautta."
-      },
-      {
-       "mittari": "Toimistot ja yhteystiedot kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kiinteistönvälitys yli 100 myymälän voimin' ja 'Asuntomyymälät'-osio listaa toimistot aakkosjärjestyksessä (Espoo, Helsinki, Turku jne.). Johtoryhmän yhteystiedot näkyvät sivulla (Mika Laurikainen 040 560 7514, muut jäsenet)."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus ei näy missään haetulla sivulla. Sivulla esiintyy teksti 'Kiinteistömaailma Oy' mutta Y-tunnusta ei julkaista."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Osittain",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Puhelinnumerot näkyvät vain johtoryhmän yhteydessä (toimitusjohtaja 040 560 7514 jne.), ei yleistä asiakaspalvelun numeroa."
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole julkaisesti näkyvillä pääsivulla. Palveluhinnasto-sivulla on 'OTA YHTEYTTÄ' -painike joka johtaa lomakkeelle, mutta suoraa sähköpostiosoitetta ei ilmaista."
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pääsivulla mainitaan 'Kima - asuntokauppa-apuri' chat-palvelu, mutta se on pikemminkin chatbot-apurin kuin asiakaspalvelun edustaja."
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Aukioloaikoja ei mainita sivuilla."
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: UKK:ta ei löydy. Sivulla on linkkejä 'Asunnon ostoon ja myyntiin liittyvät käytännöt' mutta varsinainen UKK-osio puuttuu."
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "75/100",
-       "paino": 34,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "80/100",
-       "paino": 33,
-       "pisteet": 80,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 41,
-    "accessibility": 90,
-    "seo": 92,
-    "best_practices": 96,
-    "lcp_ms": 12101.175,
-    "cls": 0,
-    "tbt_ms": 2406
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Välityspalkkio ja muut maksut selkeästi esillä palveluhinnasto-sivulla (5,0% + kulut)",
-    "Laaja palveluiden kuvaus: Kotikäynti, hinta-arvio, videoesittelyt ja markkinointisuunnitelma",
-    "Yli 100 myymälää Suomessa maantieteellisesti laajalla alueella helpottaen paikallisen välittäjän löytämistä"
-   ],
-   "kehityskohteet": [
-    "Sopimuksenehdot eivät ole helposti löydettävissä; käyttöehdot ovat olemassa mutta linkitys on epäselvästi merkitty",
-    "Y-tunnus, sähköpostiosoite ja toimistokohtaiset yhteystiedot eivät ole julkisesti näkyvillä pääsivulla",
-    "UKK-osio puuttuu; asiakasvastaukset voitaisiin organisoida paremmin usein esitettyjen kysymysten osalta"
-   ],
-   "yhteenveto": "Kiinteistömaailma on Suomen suurin kiinteistönvälitysketju, jolla on yli 100 myymälää ja 500+ ammattilaista. Sivusto kuvaa palveluita selkeästi ja näyttää välityspalkkion (5,0%) avoimesti palveluhinnasto-sivulla. Sopimuksenehdot ovat saatavilla, mutta sivuston navigaatio on hieman haastava (client-side routing), ja joitakin tärkeitä tietoja kuten Y-tunnus ja välittäjäkohtaiset yhteystiedot puuttuvat tai ovat piilossa."
   },
   {
    "slug": "remax",

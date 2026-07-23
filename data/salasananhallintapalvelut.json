@@ -20,7 +20,7 @@
    "omistaja": "Keeper Security, Inc. (Yhdysvallat)",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 80.7,
+   "score": 82.2,
    "pillars": {
     "digitaalinen": 79.6,
     "lapinakyvyys": 95.0,
@@ -226,7 +226,16 @@
     "Trust Center -linkki ei toimi – promise-sivun sisältö ei lataudu",
     "Tuki-yhteydenottotavat (puhelinnumerot ovat esillä) mutta sähköpostiosoite ja chat-tuki eivät ole selkeästi näkyvissä henkilöpalveluiden osalta"
    ],
-   "yhteenveto": "Keeper on tunnettu salasananhallintapalvelu, jota tukee pääomasijoitusyhtiö Insight Partners. Palvelun turvallisuus on vahva: FIPS 140-3 -sertifioidut kryptografiset moduulit, säännölliset penetrointitestit ja bug bounty -ohjelma ovat näkyvissä. Hinnoittelu on selkeä (Personal $4.50/kk, Family $9.62/kk vuosittain laskutettuna), vaikka EUR-hinnat puuttuvat."
+   "yhteenveto": "Keeper on tunnettu salasananhallintapalvelu, jota tukee pääomasijoitusyhtiö Insight Partners. Palvelun turvallisuus on vahva: FIPS 140-3 -sertifioidut kryptografiset moduulit, säännölliset penetrointitestit ja bug bounty -ohjelma ovat näkyvissä. Hinnoittelu on selkeä (Personal $4.50/kk, Family $9.62/kk vuosittain laskutettuna), vaikka EUR-hinnat puuttuvat.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "FIPS 140-3 -validointi (NIST CMVP)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: keepersecurity.com/security.html -sivulla: 'FIPS 140-3 Validated. Keeper is certified by the NIST Cryptographic Module Verification Program (CMVP) to meet the FIPS 140-3 standard.'"
+    }
+   ]
   },
   {
    "slug": "bitwarden",
@@ -235,7 +244,7 @@
    "omistaja": "Bitwarden Inc. (Yhdysvallat) — avoin lähdekoodi, pääomasijoittajarahoitteinen",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 77.2,
+   "score": 80.2,
    "pillars": {
     "digitaalinen": 77.8,
     "lapinakyvyys": 95.0,
@@ -441,7 +450,28 @@
     "Uusimishinnoittelusta ei ole tarkkaa eriteltyä tietoa sivulla",
     "Terms of Service sisältää laajat vastuunrajoitukset ja ilmoitustapojen koskevat ehdot, jotka voivat olla asiakkaalle epäedullisia"
    ],
-   "yhteenveto": "Bitwarden on kansainvälinen, avoimen lähdekoodin salasananhallintapalvelu, jonka hinnoittelun läpinäkyvyys on erinomainen. Ilmaisversio tarjoaa lähes täydet perusfunktiot kahden käyttäjän organisaatioilla, ja maksulliset suunnitelmat alkavat kohtuullisesta hinnasta. Palvelun turvallisuusväitteet perustuvat riippumattomiin kolmannen osapuolen auditoinneihin ja kansainvälisiin sertifiointeihin."
+   "yhteenveto": "Bitwarden on kansainvälinen, avoimen lähdekoodin salasananhallintapalvelu, jonka hinnoittelun läpinäkyvyys on erinomainen. Ilmaisversio tarjoaa lähes täydet perusfunktiot kahden käyttäjän organisaatioilla, ja maksulliset suunnitelmat alkavat kohtuullisesta hinnasta. Palvelun turvallisuusväitteet perustuvat riippumattomiin kolmannen osapuolen auditoinneihin ja kansainvälisiin sertifiointeihin.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 27001 -sertifiointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: bitwarden.com/help/is-bitwarden-audited/ -sivulla: 'ISO 27001. Bitwarden is ISO 27001 certified and in compliance with ISO 27001 control sets surrounding data security.'"
+    },
+    {
+     "mittari": "SOC 2 Type 2 ja SOC 3 -vaatimustenmukaisuus",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama sivu: 'SOC 2 Type 2 and SOC 3. Bitwarden has completed SOC Type 2 and SOC 3 compliance.'"
+    },
+    {
+     "mittari": "Cure53-tietoturva-auditoinnit (useita julkaistuja raportteja 2018-2023)",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu listaa mm.: '2023 Bitwarden Web App Security Assessment Report — Bitwarden completed a dedicated source code audit and penetration test of the web app by security firm Cure53. Read the report.'"
+    }
+   ]
   },
   {
    "slug": "nordpass",
@@ -450,7 +480,7 @@
    "omistaja": "Nord Security (Liettua) — sama konserni kuin NordVPN",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 76.4,
+   "score": 79.4,
    "pillars": {
     "digitaalinen": 73.6,
     "lapinakyvyys": 95.0,
@@ -655,7 +685,22 @@
     "Asiakastuen aukioloajat eivät selkeästi määritelty sivustolla, vaikka 24/7 live support mainitaan",
     "Riippumattoman arvioita (kuten Trustpilot tai muut ratings) ei ole näkyvissä pricing-sivulla tai pääsivulla"
    ],
-   "yhteenveto": "NordPass on Nord Security -yhtiön hallinnoimasta salasananhallintapalvelu, joka tarjoaa sekä ilmaisen että maksullisen version henkilö- ja yritysasiakkaille. Sivusto on selkeästi rakennettu hintojen ja turvallisuustietojen osalta, ja useita riippumattomia tietoturva-auditointeja (ISO 27001, SOC 2 Type 2, Cure53) on dokumentoitu. Asiakastuen saatavuus sivustolla voisi olla selkeämpi, etenkin puhelinnumeroa ja chat-optiota koskevan tiedon osalta."
+   "yhteenveto": "NordPass on Nord Security -yhtiön hallinnoimasta salasananhallintapalvelu, joka tarjoaa sekä ilmaisen että maksullisen version henkilö- ja yritysasiakkaille. Sivusto on selkeästi rakennettu hintojen ja turvallisuustietojen osalta, ja useita riippumattomia tietoturva-auditointeja (ISO 27001, SOC 2 Type 2, Cure53) on dokumentoitu. Asiakastuen saatavuus sivustolla voisi olla selkeämpi, etenkin puhelinnumeroa ja chat-optiota koskevan tiedon osalta.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 27001 -sertifiointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: nordpass.com/security/ -sivun UKK-osiossa: 'industry certifications, such as ISO 27001 and SOC 2 Type 2' mainitaan osana NordPassin turvallisuusperustaa."
+    },
+    {
+     "mittari": "SOC 2 Type 2 -sertifiointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama lause nordpass.com/security/ -sivulla mainitsee myös SOC 2 Type 2 -sertifioinnin nimeltä."
+    }
+   ]
   },
   {
    "slug": "dashlane",
@@ -664,7 +709,7 @@
    "omistaja": "Dashlane SAS/Inc. (Ranska/Yhdysvallat)",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 76.1,
+   "score": 79.1,
    "pillars": {
     "digitaalinen": 78.2,
     "lapinakyvyys": 90.0,
@@ -870,7 +915,22 @@
     "Puhelinnumero puuttuu: ainoastaan sähköpostikontakti ja contact-lomake, ei suoraa puhelinnumeroa",
     "Chat-tuki epäselvä: support.dashlane.com on Cloudflare-suojattu eikä selvästi mainita live-chat-vaihtoehtoa hinnoittelusivulla"
    ],
-   "yhteenveto": "Dashlane on USA:n ja Ranskan välillä operoiva salasananhallintapalvelu, joka tarjoaa selkeät hinnat, 14 päivän ilmaisen kokeilun ja nolla-tietoarkkitehtuurilla rakennetun palvelun. Sivustolla näkyy kattava turvallisuuskuvaus ja useita alan palkintoja (Best Password Manager 2025). Heikkoutena on, että riippumattomien turva-auditointien nimet ja todisteet eivät ole julkaistussa muodossa näkyvissä, ja asiakaspalvelun kontakti vaatii verkkolomakkeen täyttämistä."
+   "yhteenveto": "Dashlane on USA:n ja Ranskan välillä operoiva salasananhallintapalvelu, joka tarjoaa selkeät hinnat, 14 päivän ilmaisen kokeilun ja nolla-tietoarkkitehtuurilla rakennetun palvelun. Sivustolla näkyy kattava turvallisuuskuvaus ja useita alan palkintoja (Best Password Manager 2025). Heikkoutena on, että riippumattomien turva-auditointien nimet ja todisteet eivät ole julkaistussa muodossa näkyvissä, ja asiakaspalvelun kontakti vaatii verkkolomakkeen täyttämistä.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "SOC 2 Type II -auditointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: support.dashlane.com/hc/en-us/articles/32877605633042-9-Compliance-certifications -sivulla: 'SOC 2 Type II. Dashlane undergoes annual SOC 2 Type II audits conducted by independent assessors.'"
+    },
+    {
+     "mittari": "ISO/IEC 27001 -sertifiointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama sivu: 'ISO/IEC 27001. Dashlane maintains an ISO/IEC 27001 certification for its Information Security Management System (ISMS).'"
+    }
+   ]
   },
   {
    "slug": "1password",
@@ -879,7 +939,7 @@
    "omistaja": "1Password Inc. (Kanada)",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 75.2,
+   "score": 76.7,
    "pillars": {
     "digitaalinen": 67.2,
     "lapinakyvyys": 85.0,
@@ -1082,7 +1142,16 @@
     "Sähköpostiosoite ja puhelinnumero eivät ole suoraan näkyvissä, vain contact-lomakkeet",
     "Chat-tukea ei mainita, vain email/forum/sosiaalinen media"
    ],
-   "yhteenveto": "1Password on kanadalainen salasananhallintapalvelu (perustettu 2005), joka tarjoaa selkeästi hinnoitellut paketit yksilöille, perheille ja yrityksille. Sivustolla näkyvät USD-hinnat ja 14 päivän ilmainen kokeilu. Turvallisuusauditoinnit (SOC 2 Type II, ISO-sertifikaatit) ja riippumattomat tietoturva-arvioinnit ovat julkaistu näkyvästi. Uusimishintoja ei kuitenkaan mainita erikseen, ja asiakaspalvelun kontaktitiedot vaativat contact-lomakkeen täyttämistä."
+   "yhteenveto": "1Password on kanadalainen salasananhallintapalvelu (perustettu 2005), joka tarjoaa selkeästi hinnoitellut paketit yksilöille, perheille ja yrityksille. Sivustolla näkyvät USD-hinnat ja 14 päivän ilmainen kokeilu. Turvallisuusauditoinnit (SOC 2 Type II, ISO-sertifikaatit) ja riippumattomat tietoturva-arvioinnit ovat julkaistu näkyvästi. Uusimishintoja ei kuitenkaan mainita erikseen, ja asiakaspalvelun kontaktitiedot vaativat contact-lomakkeen täyttämistä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SOC 2 Type 2 -sertifiointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: 1password.com/security -sivulla: '1Password is SOC 2 type 2 certified and complies with the most stringent industry standards for data confidentiality, integrity, and availability. Read our SOC 2 report.'"
+    }
+   ]
   },
   {
    "slug": "lastpass",
@@ -1091,7 +1160,7 @@
    "omistaja": "LastPass US LP — Francisco Partners & Elliott Management (itsenäistyi GoTo:sta 2024)",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 74.5,
+   "score": 76.0,
    "pillars": {
     "digitaalinen": 61.6,
     "lapinakyvyys": 95.0,
@@ -1296,7 +1365,16 @@
     "Suoran yhteydenoton kanavat (puhelin, sähköposti) eivät näy etusivulla, vain 'Contact Sales' -painike",
     "Omistajatiedot (LastPass US LP, 2024 erottautuminen GoTo:sta) edellyttävät About Us -sivun etsimistä"
    ],
-   "yhteenveto": "LastPass on laajasti käytetty salasananhallintapalvelu, jonka hinnoittelu ja ilmaisversion rajoitukset ovat selkeästi esillä. Palvelu korostaa zero-knowledge -arkkitehtuuria ja listaa kattavan määrän tietoturva-sertifikaatteja (ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe). Kuitenkin monet sisäiset sivut (ehdot, yksityisyyskäytäntö, laaja UKK) eivät ole saavutettavissa normaalilla selauksella, ja suora yhteydenotto vaatii navigointia sales-sivuille."
+   "yhteenveto": "LastPass on laajasti käytetty salasananhallintapalvelu, jonka hinnoittelu ja ilmaisversion rajoitukset ovat selkeästi esillä. Palvelu korostaa zero-knowledge -arkkitehtuuria ja listaa kattavan määrän tietoturva-sertifikaatteja (ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe). Kuitenkin monet sisäiset sivut (ehdot, yksityisyyskäytäntö, laaja UKK) eivät ole saavutettavissa normaalilla selauksella, ja suora yhteydenotto vaatii navigointia sales-sivuille.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 27001, SOC2 Type II, SOC3 ja BSI C5 -sertifioinnit",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: lastpass.com/security -sivulla: 'LastPass holds third-party security certifications like ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe, and more.'"
+    }
+   ]
   },
   {
    "slug": "proton-pass",
@@ -1305,7 +1383,7 @@
    "omistaja": "Proton AG (Sveitsi) — sama yhtiö kuin Proton VPN ja Proton Drive",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 73.2,
+   "score": 74.7,
    "pillars": {
     "digitaalinen": 81.9,
     "lapinakyvyys": 90.0,
@@ -1505,7 +1583,16 @@
     "Puuttuva suora yhteystietojen näyttäminen: ei puhelinnumeroa, ei live-chatti, vain kontaktilinkkejä footerissa",
     "Ei informaatiota aukioloajoista tai vastausajoista tuen osalta"
    ],
-   "yhteenveto": "Proton Pass on salasanahallintapalvelu, jonka omistaa Sveitsissä sijaitseva Proton AG. Sivusto on erittäin selkeä ja hinnoittelua on helppo vertailla, ilmaisversio on hyvin dokumentoitu ja premium-tason sisältö on kattava. Turvallisuusauditointien raportteja ei kuitenkaan ole suoraan saatavilla sivulta, ja asiakastuki on pinpointed vain kontaktilomakkeiden kautta."
+   "yhteenveto": "Proton Pass on salasanahallintapalvelu, jonka omistaa Sveitsissä sijaitseva Proton AG. Sivusto on erittäin selkeä ja hinnoittelua on helppo vertailla, ilmaisversio on hyvin dokumentoitu ja premium-tason sisältö on kattava. Turvallisuusauditointien raportteja ei kuitenkaan ole suoraan saatavilla sivulta, ja asiakastuki on pinpointed vain kontaktilomakkeiden kautta.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Riippumaton kolmannen osapuolen tietoturva-auditointi (julkaistu raportti)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: proton.me/pass/security -sivulla: 'Independently audited. Like all Proton services, Proton Pass has been audited by independent third-party experts, and such security reports are available to the public.'"
+    }
+   ]
   }
  ],
  "updated": "21.7.2026",

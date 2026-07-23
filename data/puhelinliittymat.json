@@ -14,6 +14,234 @@
  ],
  "yritykset": [
   {
+   "slug": "dna",
+   "nimi": "DNA",
+   "domain": "dna.fi",
+   "omistaja": "Telenor ASA (Norja)",
+   "y_tunnus": "0592509-6",
+   "rekisteroity": 1985,
+   "score": 78.0,
+   "pillars": {
+    "digitaalinen": 65.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "DNA Huoleton Plus Mini -liittymä (19.99 €/kk), DNA Huoleton Plus 20M (26.99 €/kk ensimmäiset 12 kk), DNA Huoleton Plus 5G 400M (34.99 €/kk kampanja-aikana) ja muut hinnat näkyvät dna.fi/liittymat-sivulla kirjautumatta."
+      },
+      {
+       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "DNA Huoleton Plus 20M näyttää 26.99 €/kk 12 kuukautta, sitten 30.99 €/kk. DNA Huoleton Plus 5G 400M näyttää 34.99 €/kk 12 kuukautta, sitten 40.99 €/kk. Kampanjahintojen jälkeiset säännölliset hinnat kerrotaan selvästi."
+      },
+      {
+       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sopimuksen kesto ilmenee: DNA Huoleton Plus Mini ilman sopimusta, muut tarjoukset 12 kuukauden kampanjajaksoilla. Irtisanomisaikaa koskevaa tietoa ei löydy julkisista sivuista (dna.fi/sopimusehdot palautti 404-virheen)."
+      },
+      {
+       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 9315.441700000003,
+    "cls": 0.026121510811018732,
+    "tbt_ms": 4037.000000000002
+   },
+   "facts_extra": [
+    {
+     "label": "Verkko",
+     "value": "Oma verkko"
+    },
+    {
+     "label": "Halvin kk-hinta",
+     "value": "19,99 €/kk"
+    },
+    {
+     "label": "Nopein liittymä",
+     "value": "1000 Mbit/s"
+    }
+   ],
+   "vahvuudet": [
+    "Hinnat näkyvät selvästi ilman kirjautumista",
+    "Laaja palveluvalikoima puhelinliittymistä (Mini-tasosta 5G 1000M:iin)",
+    "Kampanjan jälkeinen hinta kerrottu selkeästi jokaisen tarjouksen yhteydessä"
+   ],
+   "kehityskohteet": [
+    "Irtisanomisaikaa ja sopimuksen peruutusperiaatteita ei löydy julkisesti",
+    "Sähköpostiosoite näkyy vain kaavamaisesti eikä ole klikkauksen päässä",
+    "Kauppojen aukioloajat edellyttävät interaktiivista karttatyökalua"
+   ],
+   "yhteenveto": "DNA Oyj on Telenor-omistama suomalainen tietoliikenneyritys, joka tarjoaa laajan valikoiman puhelinliittymiä 5G-palveluista prepaid-vaihtoehtoihin. Hinnat (19.99–48.99 €/kk) ja nopeudet (10–1000 Mbps) näkyvät selkeästi liittymät-sivulla, ja kampanjoiden jälkeiset hinnat on kerrottu avoimesti. Asiakaspalvelu tavoitettavissa puhelimella ja chatilla, mutta irtisanomisaikoja koskevat tiedot puuttuvat julkisista sivuista.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: dna.fi/vastuullisuus (corporate.dna.fi/vastuullisuus/vastuullisuus-dnalla) toteaa suoraan otsikolla \"DNA:n ympäristöjohtamiselle ISO 14001 -sertifikaatti\": \"Sertifikaatti on maailmanlaajuisesti tunnettu standardi ympäristöjärjestelmille, ja sen saavuttaminen osoittaa DNA:n sitoutumista ympäristövastuuseen.\""
+    }
+   ]
+  },
+  {
    "slug": "gigamobiili",
    "nimi": "Giga Mobiili",
    "domain": "gigamobiili.fi",
@@ -233,232 +461,13 @@
    "yhteenveto": "Giga Mobiili on DNA:n verkolla toimiva uusi (2025) puhelinliittymäpalvelu, joka tarjoaa neljä pakettia hinnoilla €21,99–€37,99. Hinnoitus on erittäin selkeä, kampanjahintoineen näkyvät, ja tekniset spesifikaatiot (nopeus, EU-data) on ilmoitettu. Puutteita on sopimusehtojen ja irtisanomisaikojen näkyvyydessä - ne viitataan löytyvän, mutta allekirjoitetuissa ehdoissa olevat sivut eivät ole julkisesti saavutettavissa."
   },
   {
-   "slug": "dna",
-   "nimi": "DNA",
-   "domain": "dna.fi",
-   "omistaja": "Telenor ASA (Norja)",
-   "y_tunnus": "0592509-6",
-   "rekisteroity": 1985,
-   "score": 76.5,
-   "pillars": {
-    "digitaalinen": 65.8,
-    "lapinakyvyys": 82.5,
-    "tavoitettavuus": 85.0,
-    "ai_laatu": 75.0
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "26/100",
-       "paino": 40,
-       "pisteet": 26,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "94/100",
-       "paino": 30,
-       "pisteet": 94,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "81/100",
-       "paino": 15,
-       "pisteet": 81,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Kuukausihinta esillä ilman yhteystietoja",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "DNA Huoleton Plus Mini -liittymä (19.99 €/kk), DNA Huoleton Plus 20M (26.99 €/kk ensimmäiset 12 kk), DNA Huoleton Plus 5G 400M (34.99 €/kk kampanja-aikana) ja muut hinnat näkyvät dna.fi/liittymat-sivulla kirjautumatta."
-      },
-      {
-       "mittari": "Kampanjan jälkeinen normaalihinta kerrottu",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "DNA Huoleton Plus 20M näyttää 26.99 €/kk 12 kuukautta, sitten 30.99 €/kk. DNA Huoleton Plus 5G 400M näyttää 34.99 €/kk 12 kuukautta, sitten 40.99 €/kk. Kampanjahintojen jälkeiset säännölliset hinnat kerrotaan selvästi."
-      },
-      {
-       "mittari": "Sopimusaika ja irtisanomisaika kerrottu",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Sopimuksen kesto ilmenee: DNA Huoleton Plus Mini ilman sopimusta, muut tarjoukset 12 kuukauden kampanjajaksoilla. Irtisanomisaikaa koskevaa tietoa ei löydy julkisista sivuista (dna.fi/sopimusehdot palautti 404-virheen)."
-      },
-      {
-       "mittari": "Nopeus ja datarajat kerrottu selkeästi",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "75/100",
-       "paino": 34,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "80/100",
-       "paino": 33,
-       "pisteet": 80,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 26,
-    "accessibility": 94,
-    "seo": 100,
-    "best_practices": 81,
-    "lcp_ms": 9315.441700000003,
-    "cls": 0.026121510811018732,
-    "tbt_ms": 4037.000000000002
-   },
-   "facts_extra": [
-    {
-     "label": "Verkko",
-     "value": "Oma verkko"
-    },
-    {
-     "label": "Halvin kk-hinta",
-     "value": "19,99 €/kk"
-    },
-    {
-     "label": "Nopein liittymä",
-     "value": "1000 Mbit/s"
-    }
-   ],
-   "vahvuudet": [
-    "Hinnat näkyvät selvästi ilman kirjautumista",
-    "Laaja palveluvalikoima puhelinliittymistä (Mini-tasosta 5G 1000M:iin)",
-    "Kampanjan jälkeinen hinta kerrottu selkeästi jokaisen tarjouksen yhteydessä"
-   ],
-   "kehityskohteet": [
-    "Irtisanomisaikaa ja sopimuksen peruutusperiaatteita ei löydy julkisesti",
-    "Sähköpostiosoite näkyy vain kaavamaisesti eikä ole klikkauksen päässä",
-    "Kauppojen aukioloajat edellyttävät interaktiivista karttatyökalua"
-   ],
-   "yhteenveto": "DNA Oyj on Telenor-omistama suomalainen tietoliikenneyritys, joka tarjoaa laajan valikoiman puhelinliittymiä 5G-palveluista prepaid-vaihtoehtoihin. Hinnat (19.99–48.99 €/kk) ja nopeudet (10–1000 Mbps) näkyvät selkeästi liittymät-sivulla, ja kampanjoiden jälkeiset hinnat on kerrottu avoimesti. Asiakaspalvelu tavoitettavissa puhelimella ja chatilla, mutta irtisanomisaikoja koskevat tiedot puuttuvat julkisista sivuista."
-  },
-  {
    "slug": "telia",
    "nimi": "Telia",
    "domain": "telia.fi",
    "omistaja": "Telia Company AB (Ruotsi) — myös entinen Sonera ja Tele Finland",
    "y_tunnus": "1475607-9",
    "rekisteroity": 1998,
-   "score": 70.7,
+   "score": 73.7,
    "pillars": {
     "digitaalinen": 56.5,
     "lapinakyvyys": 72.5,
@@ -668,7 +677,34 @@
     "Sopimuksien irtisanomisajat eivät ole selkeästi näkyvissä kaupan sivulla",
     "Sähköpostiosoite puuttuu; asiakkaat ohjataan käyttämään yhteystietolomakkeita"
    ],
-   "yhteenveto": "Telia Finland Oyj on merkittävä suomalainen telekommunikaatiopalvelun tarjoaja, joka tarjoaa 4G- ja 5G-puhelinliittymiä. Verkkosivusto näyttää hinnat selkeästi sekä kampanjahinnoilla että normaalihinnalla kampanjien jälkeen, mikä antaa asiakkaille selkeän kuvan hintavertailuista. Laajennus- ja palveluyhteystiedot ovat helposti saatavilla, mutta joitain lakisääteisiä tietoja (Y-tunnus) ja sopimustietojen (irtisanomisaika) puutteita on huomattavissa."
+   "yhteenveto": "Telia Finland Oyj on merkittävä suomalainen telekommunikaatiopalvelun tarjoaja, joka tarjoaa 4G- ja 5G-puhelinliittymiä. Verkkosivusto näyttää hinnat selkeästi sekä kampanjahinnoilla että normaalihinnalla kampanjien jälkeen, mikä antaa asiakkaille selkeän kuvan hintavertailuista. Laajennus- ja palveluyhteystiedot ovat helposti saatavilla, mutta joitain lakisääteisiä tietoja (Y-tunnus) ja sopimustietojen (irtisanomisaika) puutteita on huomattavissa.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: telia.fi/telia-yrityksena/telialle-myonnetyt-sertifikaatit-ja-palkinnot, kohdassa \"Laadunhallinnan ISO 9001 sertifikaatti\": \"Telia Finlandilla on laadunhallinnan sertifikaatti, joka kattaa Telia Finland Oyj:n toiminnot... sekä lisäksi Telia Cygate Oy:n toiminnot.\""
+    },
+    {
+     "mittari": "ISO/IEC 27001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: sama sivu, kohdassa \"Tietoturvallisuudenhallinnan ISO/IEC 27001 sertifikaatti\": \"Telia Finlandin tietoturvanhallinnan sertifikaatti kattaa Telia Finland Oyj:n toiminnot, joilla hallitaan ja tuotetaan sähköisiä viestintäpalveluita, IT- ja laitepalveluita ja luottamuspalveluita... Myös Telia Cygatella on oma tietoturvanhallinnan sertifikaattinsa.\""
+    },
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu, kohdassa \"Ympäristönhallinnan ISO 14001 sertifikaatti\": \"Telia Finlandilla on ympäristönhallinnan ISO 14001 sertifikaatti, joka kattaa Telia Finland Oyj:n toiminnot, Telia Towers Finland Oy:n, Telia Rooftop Oy:n toiminnot ja Telia Cygate Oy:n toiminnot.\""
+    },
+    {
+     "mittari": "PCI DSS 4.0",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: sama sivu, kohdassa \"PCI DSS 4.0: Payment Card Industry Data Security Standard\": \"Telia Finlandin PCI DSS sertifikaatti kattaa Telia DataNet, DataNet Maksuvarmennus ja Managed LAN -palvelut. Lisäksi osa Telia Finland Helsinki Data Centerin tiloista on PCI DSS auditoituja.\""
+    }
+   ]
   },
   {
    "slug": "moi",
@@ -1334,7 +1370,7 @@
    "omistaja": "Pörssiyhtiö (Nasdaq Helsinki) — myös Saunalahti-brändi",
    "y_tunnus": "0116510-6",
    "rekisteroity": 1978,
-   "score": 62.3,
+   "score": 63.8,
    "pillars": {
     "digitaalinen": 71.7,
     "lapinakyvyys": 62.5,
@@ -1544,7 +1580,16 @@
     "Sopimuksen pituus ja irtisanomisehdot vain osittain kuvattu",
     "Y-tunnus ja yritystiedot puuttuvat palvelun esittelystä"
    ],
-   "yhteenveto": "Elisan puhelinliittymäpalvelut esitellään pääasiassa verkkokaupassa selkeillä nopeusvalinnoilla (400M–1000M) ja hinnoittelulla. Alennushinnat uusille asiakkaille (31,99 €/kk) ovat näkyvillä, mutta normaalihinnat kampanjien jälkeen vaativat linkkien seuraamista. Sopimuksen ehdot ja irtisanomismahdollisuudet löytyvät osittain, ja tietoturvaominaisuuksien maininta on plussapiste."
+   "yhteenveto": "Elisan puhelinliittymäpalvelut esitellään pääasiassa verkkokaupassa selkeillä nopeusvalinnoilla (400M–1000M) ja hinnoittelulla. Alennushinnat uusille asiakkaille (31,99 €/kk) ovat näkyvillä, mutta normaalihinnat kampanjien jälkeen vaativat linkkien seuraamista. Sopimuksen ehdot ja irtisanomismahdollisuudet löytyvät osittain, ja tietoturvaominaisuuksien maininta on plussapiste.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: elisa.fi/tietoturva/ toteaa: \"Elisa Tietoturva on täysin kotimainen palvelu ja sille on myönnetty Avainlippu-merkki. Lisäksi se perustuu suomalaisen F-Securen teknologiaan.\""
+    }
+   ]
   }
  ],
  "updated": "16.7.2026",

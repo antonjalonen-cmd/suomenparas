@@ -64,6 +64,21 @@ MEASURED = {
     "virustorjuntaohjelmat": "21.7.2026",
 }
 
+# Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships
+# and published independent audits found on the company's OWN site (or an official
+# registry) add credibility: +1.5 points each, at most two counted (max +3.0), total
+# capped at 100. Data lives in pipeline/certs/<vertical>.json ({slug: [{nimi, lahde}]}),
+# collected in its own measurement pass — a missing file or empty list means bonus 0,
+# never a penalty.
+CERT_BONUS_PER = 1.5
+CERT_BONUS_MAX = 3.0
+
+def load_certs(vertical):
+    p = os.path.join(BASE, "pipeline", "certs", f"{vertical}.json")
+    if not os.path.exists(p):
+        return {}
+    return json.load(open(p, encoding="utf-8-sig"))
+
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}
 TERNARY_LABEL = {"kylla": "Kyllä", "osittain": "Osittain", "ei": "Ei"}
 PRH_CACHE = os.path.join(BASE, "pipeline", "prh_cache.json")
@@ -324,7 +339,13 @@ def build(vertical):
         base = meta["domain"].replace("www.", "").lower()
         got = (lh.get("fetched_url") or "").lower()
         host = got.split("//")[-1].split("/")[0].replace("www.", "")
-        if host and base not in host and host not in base:
+        # VERIFIED same-company redirects (23.7.2026): fortum.fi is Fortum Oyj's own
+        # Finnish domain and 301-redirects to the group's global fortum.com/fi/sahkoa.
+        # Same owner, not a sold brand — allowed explicitly instead of loosening the guard.
+        SAME_COMPANY = {("fortum.fi", "fortum.com")}
+        if (base, host) in SAME_COMPANY:
+            pass
+        elif host and base not in host and host not in base:
             raise SystemExit(
                 f"{vertical}/{slug}: lighthouse measured {got} but the declared domain is "
                 f"{meta['domain']}. The brand may have been sold/redirected. Verify before "
@@ -369,6 +390,20 @@ def build(vertical):
             "yhteenveto": e["yhteenveto"],
         })
 
+    certs_all = load_certs(vertical)
+    for c in out:
+        certs = certs_all.get(c["slug"]) or []
+        if not certs:
+            continue
+        bonus = round(min(CERT_BONUS_MAX, CERT_BONUS_PER * min(2, len(certs))), 1)
+        c["sertifikaatti_bonus"] = bonus
+        c["score"] = round(min(100.0, c["score"] + bonus), 1)
+        c["sertifikaatit"] = [
+            {"mittari": s.get("nimi", "?"),
+             "arvo": "Vahvistettu" + ("" if i < 2 else " (ei laskettu, max 2)"),
+             "pisteet": (CERT_BONUS_PER if i < 2 else 0),
+             "lahde": s.get("lahde", "Yrityksen oma sivusto")}
+            for i, s in enumerate(certs)]
     out.sort(key=lambda c: -c["score"])
     v = dict(META[vertical])
     v["yritykset"] = out

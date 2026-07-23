@@ -1,0 +1,35 @@
+{
+  "mullvad": [
+    {"nimi": "MASA-tietoturva-arviointi (Android-sovellus)", "lahde": "HAVAINTO: mullvad.net/en/blog -sivun \"External audits\" -tagilla luetellussa artikkelissa \"2026 security assessment of our Android app\" (1.6.2026) Mullvad kertoo Android-sovelluksensa läpäisseen toisen kerran MASA-arvioinnin (Mobile App Security Assessment), jonka teki nimetty kolmas osapuoli Leviathan Security Group."},
+    {"nimi": "GotaTun-tietoturva-auditointi", "lahde": "HAVAINTO: mullvad.net/en/blog artikkelissa \"A security audit of GotaTun is now available\" (6.3.2026, tagi External audits) Mullvad kertoo nimetyn auditoijan Assured Security Consultants tehneen riippumattoman tietoturva-auditoinnin heidän GotaTun-WireGuard-toteutuksestaan, ja raportti on julkaistu."},
+    {"nimi": "X41 D-Sec GmbH -auditointi (maksu- ja tilipalvelut)", "lahde": "HAVAINTO: mullvad.net/en/blog artikkelissa \"New security audit of account and payment services\" (21.1.2026, tagi External audits) Mullvad kertoo, että nimetty auditoija X41 D-Sec GmbH teki white-box-lähdekoodiauditoinnin Mullvadin maksu- ja tili-API:sta sekä taustajärjestelmistä."}
+  ],
+  "protonvpn": [
+    {"nimi": "Securitum-auditoitu ei-lokipolitiikka (vuosittainen, 5. kerta)", "lahde": "HAVAINTO: protonvpn.com/blog/no-logs-audit -sivulla (\"Proton VPN passes 5th annual external audit of no-logs policy\") Proton kertoo nimetyn auditoijan Securitum tekevän vuosittain kolmannen osapuolen auditoinnin, joka vahvistaa ei-lokien-politiikan; sivu linkittää julkaistuihin raportteihin vuosilta 2022-2026 (\"Proton VPN no-logs audit 2026\" jne.)."},
+    {"nimi": "Securitum-tietoturva-auditointi (Proton-sovellukset)", "lahde": "HAVAINTO: samalla sivulla (protonvpn.com/blog/no-logs-audit) mainitaan erillinen, tuorein tietoturva-auditointi kaikista Proton-sovelluksista, jonka teki nimetty auditoija Securitum ja jossa ei löytynyt merkittäviä tietoturvaongelmia."}
+  ],
+  "fsecure": [
+    {"nimi": "ISO 27001 -sertifikaatti", "lahde": "HAVAINTO: company.f-secure.com/en/about-us/trust -sivulla F-Secure listaa oman ISO 27001 -sertifikaattinsa (sertifikaattinumero FI241106-169), jonka kattavuus ulottuu kaikkiin yhtiön toimintoihin mukaan lukien Product, Technology ja Services -toiminnot (johon VPN-tuote kuuluu)."}
+  ],
+  "pia": [
+    {"nimi": "Deloitte-auditoitu ei-lokipolitiikka", "lahde": "HAVAINTO: privateinternetaccess.com/blog/privacy-audit/ -artikkelissa \"PIA Announces Completion of Independent Audit Conducted by a Big Four Firm\" PIA kertoo, että nimetty auditoija Deloitte (Deloitte Audit Romania) tarkasti palvelinympäristön ja vahvisti, ettei lokeja tai käyttäjiä tunnistavia tietoja tallenneta; auditointi tehtiin ISAE 3000 -standardin mukaisesti."}
+  ],
+  "cyberghost": [
+    {"nimi": "Deloitte-auditoitu ei-lokipolitiikka (kolmas auditointi)", "lahde": "HAVAINTO: CyberGhostin Privacy Hub -blogin hakutuloksissa (cyberghostvpn.com/privacyhub) artikkeli \"Third Deloitte Romania Audit Verifies Our Commitment to Privacy\" kertoo CyberGhostin läpikäyneen kolmannen riippumattoman auditoinnin, jonka teki nimetty auditoija Deloitte Audit Romania (yksi Big Four -yhtiöistä), koskien palvelininfrastruktuuria ja ei-lokien politiikkaa."}
+  ],
+  "expressvpn": [
+    {"nimi": "ISO 9001 (laadunhallinta) -sertifikaatti", "lahde": "HAVAINTO: expressvpn.com/trust (Trust Center) -sivulla ExpressVPN kertoo, että se ja Kape Group hankkivat vuonna 2025 kansainvälisesti tunnustettuja sertifikaatteja, joihin kuuluu ISO 9001 (Quality Management) -sertifikaatti."},
+    {"nimi": "ioXt Alliance -sertifiointi", "lahde": "HAVAINTO: expressvpn.com/trust -sivulla ExpressVPN kertoo olevansa yksi harvoista VPN-sovelluksista, jotka ioXt Alliance on sertifioinut tietoturvastandardien mukaisesti (\"ioXT certified\")."},
+    {"nimi": "KPMG-auditoitu ei-lokipolitiikka", "lahde": "HAVAINTO: expressvpn.com/trust -sivun auditointilistassa mainitaan nimeltä useita KPMG:n tekemiä auditointeja, mm. \"The third KPMG security audit of our privacy commitments (June 2025)\" ja \"An audit by KPMG of our no-logs policy (September 2022)\"."},
+    {"nimi": "Cure53-tietoturva-auditoinnit (jatkuva ohjelma)", "lahde": "HAVAINTO: expressvpn.com/trust -sivulla ExpressVPN listaa kronologisesti kymmeniä nimettyjä Cure53-auditointeja vuosilta 2018-2026 koskien mm. VPN-protokolla Lightwaytä, selainlaajennuksia, Aircove-reititintä ja mobiilisovelluksia."}
+  ],
+  "nordvpn": [
+    {"nimi": "PwC (PricewaterhouseCoopers AG Switzerland) -auditoitu ei-lokipolitiikka", "lahde": "HAVAINTO: nordvpn.com/blog/nordvpn-audit/ -artikkelissa NordVPN kertoo tilanneensa nimetyltä auditoijalta PricewaterhouseCoopers AG Switzerland laajennetun assurance-auditoinnin (toisen kerran, edellinen 2018), joka kattoi mm. Double VPN- ja obfuskoidut palvelimet, ja jonka raportti (assurance report, toukokuu 2020/2022) on käyttäjien saatavilla."}
+  ],
+  "surfshark": [
+    {"nimi": "Deloitte-auditoitu ei-lokipolitiikka", "lahde": "HAVAINTO: surfshark.com/trust-center -sivulla Surfshark kertoo nimetyn auditoijan Deloitte (Big Four -yhtiö) vahvistaneen ei-lokien politiikan noudattamisen vuosina 2023 ja 2025, ja linkittää julkaistuihin raportteihin (\"Deloitte report 2025\", \"Deloitte report 2023\")."},
+    {"nimi": "Cure53-infrastruktuuriauditointi", "lahde": "HAVAINTO: surfshark.com/trust-center -sivulla kerrotaan nimetyn saksalaisen auditointiyhtiön Cure53 tehneen useita auditointeja (2018, 2021 ja 2026 uudesta Dausos-protokollasta), joissa ei löytynyt merkittäviä ongelmia."},
+    {"nimi": "SecuRing-infrastruktuuriauditointi", "lahde": "HAVAINTO: surfshark.com/trust-center -sivulla kerrotaan nimetyn auditoijan SecuRing tehneen vuonna 2025 (valmistui joulukuussa 2025) infrastruktuuriauditoinnin, joka vahvisti verkon suojauksen luvatonta pääsyä ja hyökkäyksiä vastaan."},
+    {"nimi": "MASA-sertifikaatti", "lahde": "HAVAINTO: surfshark.com/trust-center -sivun UKK-osiossa Surfshark kertoo saaneensa MASA-sertifikaatin (Mobile Application Security Assessment) joulukuussa 2023 ja tammikuussa 2025 läpäistyään tietoturva-auditoinnin."}
+  ]
+}

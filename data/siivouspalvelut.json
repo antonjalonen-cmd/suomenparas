@@ -19,7 +19,7 @@
    "omistaja": "Sahera Koti Puhtaaksi Oy — itsenäinen, perustettu 2011",
    "y_tunnus": "2395527-2",
    "rekisteroity": 2011,
-   "score": 88.4,
+   "score": 89.9,
    "pillars": {
     "digitaalinen": 70.4,
     "lapinakyvyys": 100.0,
@@ -225,7 +225,16 @@
     "Asiakastyytyväisyyden lähde epäselvä – ei mainita mistä sivustosta tai palvelusta arviot tulevat",
     "Tilaus verkossa aloitetaan postinumerokentällä, joten toimialueen tarkistus on välttämätöntä"
    ],
-   "yhteenveto": "Koti Puhtaaksi on vakiintunut siivouspalvelu, jonka sivusto on hyvin organisoitu ja informatiivinen. Hinnat ovat täysin julkisesti saatavilla alueittain (58,80–72,00 €/h) ja kotitalousvähennysten vaikutus näkyy selkeissä laskelmissa. Asiakas voi tehdä tilaukset verkossa sekä sovelluksella. Palvelun laajuus (viisi toimialuetta) ja asiakastyytyväisyys (4,8/5) ovat voimakas viesti luotettavuudesta."
+   "yhteenveto": "Koti Puhtaaksi on vakiintunut siivouspalvelu, jonka sivusto on hyvin organisoitu ja informatiivinen. Hinnat ovat täysin julkisesti saatavilla alueittain (58,80–72,00 €/h) ja kotitalousvähennysten vaikutus näkyy selkeissä laskelmissa. Asiakas voi tehdä tilaukset verkossa sekä sovelluksella. Palvelun laajuus (viisi toimialuetta) ja asiakastyytyväisyys (4,8/5) ovat voimakas viesti luotettavuudesta.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Luotettava Kumppani",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivun kotipuhtaaksi.fi alatunnisteessa (footer) näkyy kuvalogo alt-tekstillä \"Luotettava Kumppani\" (kuva vastuugroup.fi-domainilta, luotettava-kumppani-logo-vihrea.png)."
+    }
+   ]
   },
   {
    "slug": "kotirinki",
@@ -234,7 +243,7 @@
    "omistaja": "Kotirinki Oy — franchise-malli, paikalliset yrittäjät",
    "y_tunnus": "1784293-3",
    "rekisteroity": 2002,
-   "score": 83.8,
+   "score": 85.3,
    "pillars": {
     "digitaalinen": 74.2,
     "lapinakyvyys": 100.0,
@@ -439,7 +448,16 @@
     "Alueittaiset hintojen vaihtelut eivät ole täysin avoimia; mikrofranchising-malli tarkoittaa paikallisen yrittäjän hintaasetantaa, mutta etusivulla tämä rajoitus ei korostuu.",
     "Usein kysyttyjen kysymysten osio (FAQ) puuttuu; sivuilla on linkkejä artikkeleihin, mutta ei strukturoitua vastausten kokoelmaa."
    ],
-   "yhteenveto": "Kotirinki on paikallisiin pienyrittäjiin perustuva siivouspalveluketju, joka toimii noin 60 paikkakunnalla. Hinnat ovat avoimesti esillä ja kotitalousvähennyksen vaikutus selkeästi kuvattu, mikä antaa asiakkaille täydellisen ennustettavuuden kustannuksista. Verkon kautta tilaaminen on mahdollista laskurilta ja asiakassivulle."
+   "yhteenveto": "Kotirinki on paikallisiin pienyrittäjiin perustuva siivouspalveluketju, joka toimii noin 60 paikkakunnalla. Hinnat ovat avoimesti esillä ja kotitalousvähennyksen vaikutus selkeästi kuvattu, mikä antaa asiakkaille täydellisen ennustettavuuden kustannuksista. Verkon kautta tilaaminen on mahdollista laskurilta ja asiakassivulle.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla kotirinki.fi etusivulla näkyy kuva alt-tekstillä \"Avainlippu\" (/img/avainlippu.svg) pääsisällön yhteydessä."
+    }
+   ]
   },
   {
    "slug": "keradur",
@@ -657,13 +675,237 @@
    "yhteenveto": "Keradur on kotimainen siivouspalvelu, joka tarjoaa kotisiivouksen palvelut Helsinki-, Tampere- ja Turku-alueilla. Sivusto on erityisen vahva hinnoittelun ja kotitalousvähennyksen selityksessä: hinnat on lueteltu selkeästi asiakkaan valitsemien tiheyssarjojen mukaan, ja omalla sivullaan kerrotaan yksityiskohtaisesti, miten 35 % kotitalousvähennys toimii käytännössä. Verkkovaraus onnistuu helppohintaisesti, ja FAQ-osio on hyvin kattava. Heikkouksina näkyy riippumattomien arviointien puuttuminen sekä mobiilisovelluksen epäselvä status."
   },
   {
+   "slug": "onni-kotisiivous",
+   "nimi": "Onni kotisiivous",
+   "domain": "onnion.fi",
+   "omistaja": "Med Group Oy — hoivapalvelukonserni; kotisiivous on yksi ONNI-aputoiminimistä",
+   "y_tunnus": "2080120-0",
+   "rekisteroity": 2006,
+   "score": 74.1,
+   "pillars": {
+    "digitaalinen": 67.0,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siivouksen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla: \"Kotisiivouksen hinta alkaen 49,50 €/tunti\" ja Tradekan jäsenedulla \"alkaen 37,13 €/tunti\"."
+      },
+      {
+       "mittari": "Tilaus tai varaus onnistuu verkossa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotitalousvähennys-sivu selittää että Onnin palvelut ovat 35 % kotitalousvähennyskelpoisia, omavastuu 150 euroa vuodessa, maksimi 1600 euroa/henkilö. Sivulle linkki päänavigaatiosta."
+      },
+      {
+       "mittari": "Toimialue ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla listattu toimialueet alueittain (Uusimaa, Tampereen seutu, Oulu jne). Kotisiivouspalvelun yhteystiedot: p. 09 8564 6541, kotisiivous@onnion.fi, arkisin klo 8-16."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole nähtävillä kotisiivous-sivuilla, yhteystiedot-sivulla, arvot ja avainluvut -sivulla (500-virhe), organisaatio-sivulla (404) tai pääsivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla on \"Onni kotisiivouksen asiakkaiden kokemuksia\" -osio, mutta nämä ovat Onnin omalla sivulla julkaistuja palautteita, ei kolmannen osapuolen arviointisivuston (Trustpilot, Google Reviews) linkkejä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: onnion.fi:n etusivulla ja kotisiivous-sivulla ei mainita mobiilisovellusta, App Storea tai Google Playta (tarkistettu 21.7.2026)."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 6697.107899999999,
+    "cls": 0.000974415682777498,
+    "tbt_ms": 1713.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat, kotitalousvähennys ja arvonlisäveroton palvelu selkeästi esillä",
+    "Laaja toimialue kattaa suurimman osan Suomesta alueellisten palvelupäälliköiden kanssa",
+    "Kattava UKK-osio ja selkeä kartoitusprosessi säännöllisille asiakkaille"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus puuttuu – yrityksen perustiedot eivät näy oman verkkosivuston julkisilla sivuilla",
+    "Verkkovaraus ei ole suora – tilaus ja muuttosiivous merkitään \"verkkokaupasta\" mutta linkkiä ei löydy navigaatiosta",
+    "Chat-tukea ei ole mainittu – asiakaspalvelu saatavilla vain puhelimitse ja sähköpostitse arkisin"
+   ],
+   "yhteenveto": "Onni Kotisiivous on suuri, kotimainen sosiaali- ja terveyspalvelu-yritys, joka tarjoaa kotisiivousta laajalla alueella Suomessa. Kotisiivous on kotitalousvähennyskelpoista (35 %) ja saatavilla myös arvonlisäverottomasti. Sivusto on selkeä ja sisältää kattavia tietoja palvelun sisällöstä, hinnasta ja prosesseista, mutta puuttuu y-tunnus ja suora verkkovaraus-linkki.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla onnion.fi/yritys/laatu todetaan: \"Palvelumme laadusta kertoo myös konserninlaajuinen ISO 9001 -laatusertifikaatti... osoitus Onnin tavasta toimia asiakaslähtöisesti ja järjestelmällisesti laadun kehittämisessä.\""
+    },
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla onnion.fi etusivulla todetaan: \"Suomalaisen Työn Liitto on myöntänyt Onnille Avainlippu-tunnuksen osoituksena Suomessa tuotetusta ja Suomessa työllistävästä palvelusta.\""
+    }
+   ]
+  },
+  {
    "slug": "freska",
    "nimi": "Freska",
    "domain": "freska.fi",
    "omistaja": "Freska Finland Oy — toimii myös Ruotsissa ja Norjassa",
    "y_tunnus": "3246808-9",
    "rekisteroity": 2021,
-   "score": 72.0,
+   "score": 73.5,
    "pillars": {
     "digitaalinen": 77.6,
     "lapinakyvyys": 85.0,
@@ -867,216 +1109,16 @@
     "Suora puhelinnumero ja sähköpostiosoite puuttuvat: yhteydenotto vaatii lomaketta tai sovellusta.",
     "Usein kysytyt kysymykset (UKK) -osio puuttuu kokonaan."
    ],
-   "yhteenveto": "Freska on suomalainen kotisiivouspalveluyritys, joka tarjoaa säännöllistä kotisiivouspalvelua sekä ikkunanpesua ja muuttosiivouspalveluita 17 kaupungissa. Palvelun voi tilata verkon kautta tai puhelimitse, ja asiakkaat voivat hyödyntää kotitalousvähennystä sovelluksen kautta automaattisesti. Sivusto on selkeä ja asiakaslähtöinen, mutta hinnat vaativat vuorovaikutteista lomaketta eikä suoraa puhelinnumeroa ole näkyvissä."
-  },
-  {
-   "slug": "onni-kotisiivous",
-   "nimi": "Onni kotisiivous",
-   "domain": "onnion.fi",
-   "omistaja": "Med Group Oy — hoivapalvelukonserni; kotisiivous on yksi ONNI-aputoiminimistä",
-   "y_tunnus": "2080120-0",
-   "rekisteroity": 2006,
-   "score": 71.1,
-   "pillars": {
-    "digitaalinen": 67.0,
-    "lapinakyvyys": 70.0,
-    "tavoitettavuus": 75.0,
-    "ai_laatu": 75.0
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "35/100",
-       "paino": 40,
-       "pisteet": 35,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "90/100",
-       "paino": 30,
-       "pisteet": 90,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "73/100",
-       "paino": 15,
-       "pisteet": 73,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Siivouksen hinnat julkisesti esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pääsivulla: \"Kotisiivouksen hinta alkaen 49,50 €/tunti\" ja Tradekan jäsenedulla \"alkaen 37,13 €/tunti\"."
-      },
-      {
-       "mittari": "Tilaus tai varaus onnistuu verkossa",
-       "arvo": "Osittain",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Kotitalousvähennys ja sen vaikutus hintaan kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Kotitalousvähennys-sivu selittää että Onnin palvelut ovat 35 % kotitalousvähennyskelpoisia, omavastuu 150 euroa vuodessa, maksimi 1600 euroa/henkilö. Sivulle linkki päänavigaatiosta."
-      },
-      {
-       "mittari": "Toimialue ja yhteystiedot kerrottu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yhteystiedot-sivulla listattu toimialueet alueittain (Uusimaa, Tampereen seutu, Oulu jne). Kotisiivouspalvelun yhteystiedot: p. 09 8564 6541, kotisiivous@onnion.fi, arkisin klo 8-16."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus ei ole nähtävillä kotisiivous-sivuilla, yhteystiedot-sivulla, arvot ja avainluvut -sivulla (500-virhe), organisaatio-sivulla (404) tai pääsivulla."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Pääsivulla on \"Onni kotisiivouksen asiakkaiden kokemuksia\" -osio, mutta nämä ovat Onnin omalla sivulla julkaistuja palautteita, ei kolmannen osapuolen arviointisivuston (Trustpilot, Google Reviews) linkkejä."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: onnion.fi:n etusivulla ja kotisiivous-sivulla ei mainita mobiilisovellusta, App Storea tai Google Playta (tarkistettu 21.7.2026)."
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "78/100",
-       "paino": 34,
-       "pisteet": 78,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "72/100",
-       "paino": 33,
-       "pisteet": 72,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "75/100",
-       "paino": 33,
-       "pisteet": 75,
-       "lahde": "AI-analyysi"
-      }
-     ]
+   "yhteenveto": "Freska on suomalainen kotisiivouspalveluyritys, joka tarjoaa säännöllistä kotisiivouspalvelua sekä ikkunanpesua ja muuttosiivouspalveluita 17 kaupungissa. Palvelun voi tilata verkon kautta tai puhelimitse, ja asiakkaat voivat hyödyntää kotitalousvähennystä sovelluksen kautta automaattisesti. Sivusto on selkeä ja asiakaslähtöinen, mutta hinnat vaativat vuorovaikutteista lomaketta eikä suoraa puhelinnumeroa ole näkyvissä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Luotettava Kumppani",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla freska.fi etusivun alaosassa on osio \"Sertifikaatit ja jäsenyydet\", jossa kuvalogo alt-tekstillä \"Luotettava Kumppani\" linkittää Zeckit-selvitykseen (zeckit.com/selvitys/FI/3246808-9) ja logo on Vastuu Groupin (vastuugroup.fi)."
     }
-   },
-   "lh": {
-    "performance": 35,
-    "accessibility": 90,
-    "seo": 100,
-    "best_practices": 73,
-    "lcp_ms": 6697.107899999999,
-    "cls": 0.000974415682777498,
-    "tbt_ms": 1713.000000000001
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Hinnat, kotitalousvähennys ja arvonlisäveroton palvelu selkeästi esillä",
-    "Laaja toimialue kattaa suurimman osan Suomesta alueellisten palvelupäälliköiden kanssa",
-    "Kattava UKK-osio ja selkeä kartoitusprosessi säännöllisille asiakkaille"
-   ],
-   "kehityskohteet": [
-    "Y-tunnus puuttuu – yrityksen perustiedot eivät näy oman verkkosivuston julkisilla sivuilla",
-    "Verkkovaraus ei ole suora – tilaus ja muuttosiivous merkitään \"verkkokaupasta\" mutta linkkiä ei löydy navigaatiosta",
-    "Chat-tukea ei ole mainittu – asiakaspalvelu saatavilla vain puhelimitse ja sähköpostitse arkisin"
-   ],
-   "yhteenveto": "Onni Kotisiivous on suuri, kotimainen sosiaali- ja terveyspalvelu-yritys, joka tarjoaa kotisiivousta laajalla alueella Suomessa. Kotisiivous on kotitalousvähennyskelpoista (35 %) ja saatavilla myös arvonlisäverottomasti. Sivusto on selkeä ja sisältää kattavia tietoja palvelun sisällöstä, hinnasta ja prosesseista, mutta puuttuu y-tunnus ja suora verkkovaraus-linkki."
+   ]
   }
  ],
  "updated": "21.7.2026",

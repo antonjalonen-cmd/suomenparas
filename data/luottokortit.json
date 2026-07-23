@@ -21,7 +21,7 @@
    "omistaja": "Nordea Bank Abp",
    "y_tunnus": "2858394-9",
    "rekisteroity": 2017,
-   "score": 81.5,
+   "score": 83.0,
    "pillars": {
     "digitaalinen": 80.6,
     "lapinakyvyys": 90.0,
@@ -231,7 +231,16 @@
     "Konttoreiden aukioloajat eivät ole suoraan näkyvissä pääsivulla vaan vaativat konttorihakutyökalua",
     "Riippumattomia arvioita (Trustpilot, EPSI) ei ole saatavilla sivustolta; vain oman palaute-lomakkeen kautta"
    ],
-   "yhteenveto": "Nordea Credit on Nordea-pankin liikkeeseenlaskema revolving-luottokortti, jonka hinnoittelu ja ehdot ovat julkisesti hyvin dokumentoidut. Korko (3kk euribor + 14,90%), vuosimaksu (2,99 €/kk) ja muut kulut näkyvät selvästi, ja ehdot vastaavat osin kuluttajansuojalakia. Asiakaspalvelu on monikanavainen (chat, puhelin, Omaposti), mutta sähköpostiosoitetta ei ole julkaistu. Riippumattomia asiakasarvioita (Trustpilot, EPSI) ei ole sivustolla näkyvissä."
+   "yhteenveto": "Nordea Credit on Nordea-pankin liikkeeseenlaskema revolving-luottokortti, jonka hinnoittelu ja ehdot ovat julkisesti hyvin dokumentoidut. Korko (3kk euribor + 14,90%), vuosimaksu (2,99 €/kk) ja muut kulut näkyvät selvästi, ja ehdot vastaavat osin kuluttajansuojalakia. Asiakaspalvelu on monikanavainen (chat, puhelin, Omaposti), mutta sähköpostiosoitetta ei ole julkaistu. Riippumattomia asiakasarvioita (Trustpilot, EPSI) ei ole sivustolla näkyvissä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Finanssiala ry:n jäsen",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: nordea.fi/henkiloasiakkaat/nordea.html -sivulla lukee: 'Nordea Bank Oyj kuuluu jäsenenä Finanssiala ry:hyn' — jäsenyys, erillinen valvojalistauksesta."
+    }
+   ]
   },
   {
    "slug": "s-etukortti",
@@ -1341,7 +1350,7 @@
    "omistaja": "Bonum Pankki Oyj — POP Pankki -ryhmän keskuspankki",
    "y_tunnus": "2192977-5",
    "rekisteroity": 2008,
-   "score": 56.9,
+   "score": 59.9,
    "pillars": {
     "digitaalinen": 72.2,
     "lapinakyvyys": 32.5,
@@ -1551,7 +1560,22 @@
     "Ei selvää tietoa Bonum Pankki Oyj:n roolista luotonmyöntäjänä (joka on välttämätöntä Kuluttajansuojalakiselvitystä)",
     "Ei itsenäisiä asiakasarviota tai ratingia (POP Vakuutuksen arvioportaali on erillinen)"
    ],
-   "yhteenveto": "POP Visa Credit/Debit on POP Pankin ryhmään kuuluvan osuuspankin liikkeeseen laskema yhdistelmäkortti, jonka liikkeeseen laskija on formaalisti Bonum Pankki Oyj. Sivusto esittelee kortin ominaisuudet selvästi, mutta korkotiedot ja vuosimaksu löytyvät vain pankki-kohtaisissa hinnaastoissa, joita kukin alueellinen osuuspankki hallinnoi erikseen. Luotonmyöntäjää (Bonum Pankki Oyj) ei mainita pääsivulla, mikä on kuluttajansuojalain velvoitteen kannalta puutteellista."
+   "yhteenveto": "POP Visa Credit/Debit on POP Pankin ryhmään kuuluvan osuuspankin liikkeeseen laskema yhdistelmäkortti, jonka liikkeeseen laskija on formaalisti Bonum Pankki Oyj. Sivusto esittelee kortin ominaisuudet selvästi, mutta korkotiedot ja vuosimaksu löytyvät vain pankki-kohtaisissa hinnaastoissa, joita kukin alueellinen osuuspankki hallinnoi erikseen. Luotonmyöntäjää (Bonum Pankki Oyj) ei mainita pääsivulla, mikä on kuluttajansuojalain velvoitteen kannalta puutteellista.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu (Suomalaisen Työn Liitto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: poppankki.fi:n vastuullisuussivulla lukee: 'Kotimaisena toimijana palveluillemme on myönnetty Avainlippu-tunnus.'"
+    },
+    {
+     "mittari": "WWF Green Office -sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: poppankki.fi:n vastuullisuussivulla lukee: 'POP Pankkikeskuksen ja Bonum Pankki Oyj:n Espoon toimistoilla on WWF:n Green Office -sertifikaatit.' Bonum Pankki on POP Visan myöntäjä."
+    }
+   ]
   },
   {
    "slug": "danske-mastercard",

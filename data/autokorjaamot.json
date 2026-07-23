@@ -20,7 +20,7 @@
    "omistaja": "Michelin — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu",
    "y_tunnus": "0711042-1",
    "rekisteroity": 1988,
-   "score": 80.0,
+   "score": 83.0,
    "pillars": {
     "digitaalinen": 78.2,
     "lapinakyvyys": 90.0,
@@ -222,7 +222,22 @@
     "Mobiilisovellus puuttuu kokonaan, vaikka ajanvaraus tapahtuu verkossa",
     "Palvelupisteiden tarkemmat aukioloajat ja sijainti vaativat erillisen hakusivuston käyttöä"
    ],
-   "yhteenveto": "Euromaster on valtakunnallinen autohuoltopalveluiden tarjoaja, jolla on kattava palveluiden kuvaus ja selkeä hintalistasivu. Verkkoajanvaraus on helppoa ja hinnat sekä palveluiden kuvaukset ovat julkisesti näkyvillä, mikä tekee palvelun valitsemisesta yksinkertaista asiakkaalle."
+   "yhteenveto": "Euromaster on valtakunnallinen autohuoltopalveluiden tarjoaja, jolla on kattava palveluiden kuvaus ja selkeä hintalistasivu. Verkkoajanvaraus on helppoa ja hinnat sekä palveluiden kuvaukset ovat julkisesti näkyvillä, mikä tekee palvelun valitsemisesta yksinkertaista asiakkaalle.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla euromaster.fi/vastuullisuus/hyva-hallintotapa todetaan: \"Rengas- ja autohuoltopalvelumme on auditoitu ja toimii ISO:9001 -laatujärjestelmän mukaisesti.\""
+    },
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Samalla sivulla todetaan: \"Myös pinnoittamomme on ISO:9001- ja ISO:14001 -sertifioitu, ja sillä on myös Traficomin myöntämä E109-hyväksyntä.\""
+    }
+   ]
   },
   {
    "slug": "ad-finland",
@@ -443,7 +458,7 @@
    "omistaja": "Motonet Oy (Broman Group) — sama yhtiö myös rengasliikkeet-kategoriassa, eri palvelu",
    "y_tunnus": "0699457-9",
    "rekisteroity": 1988,
-   "score": 67.6,
+   "score": 69.1,
    "pillars": {
     "digitaalinen": 65.7,
     "lapinakyvyys": 55.0,
@@ -648,7 +663,16 @@
     "Ajanvaraus vaatii yhteydenottoa suoraan korjaamoon – ei verkkovarausjärjestelmää",
     "Y-tunnus ja riippumaton arvio puuttuvat sivustolta, ei myöskään mobiilisovellusta"
    ],
-   "yhteenveto": "Motonet-korjaamot on laajakatvaa monimerkkikorjaamoketjua, jolla on toimipisteet lähes kaikilla Motonetin tavaratalopaikkakunnilla. Sivusto kuvaa palveluvalikoiman selkeästi (määräaikaishuollot, diagnostiikka, katsastus, nelipyöräsuuntaus), mutta konkreettisista hinnoista puuttuu tärkeä tieto – korjaamopalveluiden hinnat on jätettävä yhteydenottoa varten, vaikka Motomaatti-pikapalvelun hinnat ovatkin julkisia."
+   "yhteenveto": "Motonet-korjaamot on laajakatvaa monimerkkikorjaamoketjua, jolla on toimipisteet lähes kaikilla Motonetin tavaratalopaikkakunnilla. Sivusto kuvaa palveluvalikoiman selkeästi (määräaikaishuollot, diagnostiikka, katsastus, nelipyöräsuuntaus), mutta konkreettisista hinnoista puuttuu tärkeä tieto – korjaamopalveluiden hinnat on jätettävä yhteydenottoa varten, vaikka Motomaatti-pikapalvelun hinnat ovatkin julkisia.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla motonet.fi etusivun kuvassa alt-teksti \"Suomalainen verkkokauppa avainlippu\" (Avainlippu-logo osoitteesta datocms-assets.com/.../suomalainen-verkkokauppa-avainlippu.svg)."
+    }
+   ]
   },
   {
    "slug": "autofit",
@@ -871,7 +895,7 @@
    "omistaja": "MEKO Finland Oy (ent. Koivunen) — Ruotsin pörssin MEKO-konserni",
    "y_tunnus": "0110111-0",
    "rekisteroity": 1978,
-   "score": 55.4,
+   "score": 56.9,
    "pillars": {
     "digitaalinen": 66.1,
     "lapinakyvyys": 57.5,
@@ -1071,7 +1095,16 @@
     "Aukioloaikatiedot puuttuvat: yksittäisten korjaamojen aukioloajat eivät näy verkkosivuilla",
     "Puhelinnumero puuttuu: asiakaspalvelun puhelinnumero ei ole näkyvillä verkkosivuilla"
    ],
-   "yhteenveto": "Fixus on Suomen laajin autokorjaamo- ja varaosamyymäläketju, joka palvelee yli 350 toimipisteessä. Verkkosivut esittävät kattavaa palveluvalikoiman ja tarjoavat verkkoajanvarauksen. Hinnat ja aukioloajat ovat kuitenkin paikallisten toimipisteiden tasolla eikä pääsivulla, mikä vähentää läpinäkyvyyttä."
+   "yhteenveto": "Fixus on Suomen laajin autokorjaamo- ja varaosamyymäläketju, joka palvelee yli 350 toimipisteessä. Verkkosivut esittävät kattavaa palveluvalikoiman ja tarjoavat verkkoajanvarauksen. Hinnat ja aukioloajat ovat kuitenkin paikallisten toimipisteiden tasolla eikä pääsivulla, mikä vähentää läpinäkyvyyttä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla fixus.fi meta-kuvauksessa todetaan: \"Fixus-ketjulle myönnetty Avainlippu on osoitus aidosti kotimaisesta palvelusta.\""
+    }
+   ]
   },
   {
    "slug": "autoasi",

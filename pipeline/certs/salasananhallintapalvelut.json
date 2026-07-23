@@ -1,0 +1,60 @@
+{
+ "keeper": [
+  {
+   "nimi": "FIPS 140-3 -validointi (NIST CMVP)",
+   "lahde": "HAVAINTO: keepersecurity.com/security.html -sivulla: 'FIPS 140-3 Validated. Keeper is certified by the NIST Cryptographic Module Verification Program (CMVP) to meet the FIPS 140-3 standard.'"
+  }
+ ],
+ "bitwarden": [
+  {
+   "nimi": "ISO 27001 -sertifiointi",
+   "lahde": "HAVAINTO: bitwarden.com/help/is-bitwarden-audited/ -sivulla: 'ISO 27001. Bitwarden is ISO 27001 certified and in compliance with ISO 27001 control sets surrounding data security.'"
+  },
+  {
+   "nimi": "SOC 2 Type 2 ja SOC 3 -vaatimustenmukaisuus",
+   "lahde": "HAVAINTO: sama sivu: 'SOC 2 Type 2 and SOC 3. Bitwarden has completed SOC Type 2 and SOC 3 compliance.'"
+  },
+  {
+   "nimi": "Cure53-tietoturva-auditoinnit (useita julkaistuja raportteja 2018-2023)",
+   "lahde": "HAVAINTO: sama sivu listaa mm.: '2023 Bitwarden Web App Security Assessment Report — Bitwarden completed a dedicated source code audit and penetration test of the web app by security firm Cure53. Read the report.'"
+  }
+ ],
+ "nordpass": [
+  {
+   "nimi": "ISO 27001 -sertifiointi",
+   "lahde": "HAVAINTO: nordpass.com/security/ -sivun UKK-osiossa: 'industry certifications, such as ISO 27001 and SOC 2 Type 2' mainitaan osana NordPassin turvallisuusperustaa."
+  },
+  {
+   "nimi": "SOC 2 Type 2 -sertifiointi",
+   "lahde": "HAVAINTO: sama lause nordpass.com/security/ -sivulla mainitsee myös SOC 2 Type 2 -sertifioinnin nimeltä."
+  }
+ ],
+ "dashlane": [
+  {
+   "nimi": "SOC 2 Type II -auditointi",
+   "lahde": "HAVAINTO: support.dashlane.com/hc/en-us/articles/32877605633042-9-Compliance-certifications -sivulla: 'SOC 2 Type II. Dashlane undergoes annual SOC 2 Type II audits conducted by independent assessors.'"
+  },
+  {
+   "nimi": "ISO/IEC 27001 -sertifiointi",
+   "lahde": "HAVAINTO: sama sivu: 'ISO/IEC 27001. Dashlane maintains an ISO/IEC 27001 certification for its Information Security Management System (ISMS).'"
+  }
+ ],
+ "1password": [
+  {
+   "nimi": "SOC 2 Type 2 -sertifiointi",
+   "lahde": "HAVAINTO: 1password.com/security -sivulla: '1Password is SOC 2 type 2 certified and complies with the most stringent industry standards for data confidentiality, integrity, and availability. Read our SOC 2 report.'"
+  }
+ ],
+ "lastpass": [
+  {
+   "nimi": "ISO 27001, SOC2 Type II, SOC3 ja BSI C5 -sertifioinnit",
+   "lahde": "HAVAINTO: lastpass.com/security -sivulla: 'LastPass holds third-party security certifications like ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe, and more.'"
+  }
+ ],
+ "proton-pass": [
+  {
+   "nimi": "Riippumaton kolmannen osapuolen tietoturva-auditointi (julkaistu raportti)",
+   "lahde": "HAVAINTO: proton.me/pass/security -sivulla: 'Independently audited. Like all Proton services, Proton Pass has been audited by independent third-party experts, and such security reports are available to the public.'"
+  }
+ ]
+}

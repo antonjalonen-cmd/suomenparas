@@ -13,7 +13,7 @@ Run:  python gen_site.py
 import json, os, html, glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-SCORE_VERSION = "v1.1"
+SCORE_VERSION = "v1.2"
 # Site-wide "latest measurement" date. Each vertical carries its own `updated` —
 # never relabel a vertical with a date it wasn't measured on (methodology promises
 # results are not rewritten retroactively).
@@ -1235,6 +1235,20 @@ def build_profile(c, pos, v):
     receipts += receipt("Läpinäkyvyys", 30, c["pillars"]["lapinakyvyys"], lap_rows)
     receipts += receipt("Tavoitettavuus", 20, c["pillars"]["tavoitettavuus"], b["tavoitettavuus"]["rivit"])
     receipts += receipt("AI-laatuarvio", 20, c["pillars"]["ai_laatu"], b["ai_laatu"]["rivit"])
+    if c.get("sertifikaatti_bonus"):
+        cert_rows = "".join(
+            f'<tr><td>{esc(r["mittari"])}<div class="quote">{esc(r["lahde"])}</div></td>'
+            f'<td class="src">{esc(r["arvo"])}</td>'
+            f'<td class="pts"><b>+{str(r["pisteet"]).replace(".", ",")}</b></td></tr>'
+            for r in c.get("sertifikaatit", []))
+        sb = str(c["sertifikaatti_bonus"]).replace(".", ",")
+        receipts += f"""
+  <div class="receipt">
+    <div class="receipt-head"><h3>Sertifioinnit (bonus)</h3><span class="sub">+{sb} p</span></div>
+    <table class="rows"><thead><tr><th>Sertifiointi</th><th>Tila</th><th class="pts">Bonus</th></tr></thead>
+    <tbody>{cert_rows}</tbody></table>
+    <p class="note" style="margin:12px 14px">Vahvistetut sertifioinnit ja auditoinnit lisäävät kokonaispisteitä (max +3,0). <a href="../../../metodologia/">Miten bonus lasketaan →</a></p>
+  </div>"""
 
     vah = "".join(f"<li>{esc(x)}</li>" for x in c["vahvuudet"])
     keh = "".join(f"<li>{esc(x)}</li>" for x in c["kehityskohteet"])
@@ -1382,6 +1396,11 @@ def build_metodologia():
     <h1>Näin Suomen Paras Score lasketaan</h1>
     <p class="lead">Score {SCORE_VERSION} on deterministinen: sama julkinen data tuottaa aina saman tuloksen. Tällä sivulla on koko kaava — koska läpinäkyvyys ei ole markkinointisana, se on tuote.</p>
     <div class="meta-row"><span class="upd">Score {SCORE_VERSION} · voimassa {UPDATED} alkaen</span></div>
+  </div>
+
+  <div class="receipt">
+    <div class="receipt-head"><h3>Sertifiointibonus (uutta Score v1.2:ssa, 23.7.2026 alkaen)</h3><span class="sub">max +3,0 p</span></div>
+    <p class="note" style="margin:14px"><b>Vahvistetut sertifioinnit lisäävät uskottavuutta ja pisteitä.</b> Yritys saa +1,5 pistettä jokaisesta sen omalta sivustolta tai virallisesta rekisteristä vahvistetusta sertifioinnista, laatujärjestelmästä, alan liiton jäsenyydestä tai julkaistusta riippumattomasta auditoinnista — enintään kahdesta lasketaan (max +3,0), ja kokonaispisteet on rajattu sataan. Sertifiointien puuttuminen ei koskaan vähennä pisteitä. Jokainen laskettu sertifiointi näkyy lähteineen yrityksen kuitissa, ja data kerätään omana mittauskierroksenaan kategoria kerrallaan.</p>
   </div>
 
   <div class="receipt">

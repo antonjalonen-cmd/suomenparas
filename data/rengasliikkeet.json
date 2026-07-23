@@ -235,7 +235,7 @@
    "omistaja": "Motonet Oy — suomalainen perheyritys (Broman Group)",
    "y_tunnus": "0699457-9",
    "rekisteroity": 1988,
-   "score": 68.4,
+   "score": 69.9,
    "pillars": {
     "digitaalinen": 67.3,
     "lapinakyvyys": 55.0,
@@ -440,7 +440,16 @@
     "Ajanvaraus rengaspalveluihin mainitaan mahdolliseksi, mutta linkkiä verkkovaraukseen ei löydy etusivulta — edellyttää syvempää navigointia",
     "Y-tunnus puuttuu kokonaan — yritystietojen löytäminen vaatii ulkopuolisen lähteen käyttöä"
    ],
-   "yhteenveto": "Motonet on laajasti Suomessa toimiva autovaraosien ja -tarvikkeiden ketju, joka tarjoaa rengaspalveluja useammalla paikkakunnalla. Sivusto kuvaa palvelut kattavasti ja tarjoaa monikanavaisen asiakaspalvelun, mutta konkreettisia hintoja renkaiden myyntiin tai asennukseen ei ole julkisesti esillä, eikä Y-tunnus ole nähtävissä."
+   "yhteenveto": "Motonet on laajasti Suomessa toimiva autovaraosien ja -tarvikkeiden ketju, joka tarjoaa rengaspalveluja useammalla paikkakunnalla. Sivusto kuvaa palvelut kattavasti ja tarjoaa monikanavaisen asiakaspalvelun, mutta konkreettisia hintoja renkaiden myyntiin tai asennukseen ei ole julkisesti esillä, eikä Y-tunnus ole nähtävissä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla motonet.fi etusivun kuvassa alt-teksti \"Suomalainen verkkokauppa avainlippu\" (Avainlippu-logo osoitteesta datocms-assets.com/.../suomalainen-verkkokauppa-avainlippu.svg)."
+    }
+   ]
   },
   {
    "slug": "euromaster",
@@ -449,7 +458,7 @@
    "omistaja": "Michelin — valmistajan oma ketju",
    "y_tunnus": "0711042-1",
    "rekisteroity": 1988,
-   "score": 64.6,
+   "score": 67.6,
    "pillars": {
     "digitaalinen": 59.2,
     "lapinakyvyys": 80.0,
@@ -649,7 +658,22 @@
     "Asennushintojen ei ole julkisesti ilmoitettuja, vaatii yhteydenoton",
     "Ei sähköpostiosoitetta julkaistussa osassa, vain puhelinyhteystiedot"
    ],
-   "yhteenveto": "Euromaster on Suomen suurin rengasliikkeketju, jolla on noin 80 toimipistettä koko maassa. Renkaat ovat hinnoiteltuja verkkokaupassa, mutta asennuspalvelun hinnat on saatavilla vain tarjouspyynnöin. Ajanvaraus onnistuu verkossa sekä puhelimitse, ja rengashotellin palvelu (renkaiden säilytys, pesu, kuntotarkastus) on tarjolla kaikissa toimipisteissä alueellisesti hinnoiteltuna."
+   "yhteenveto": "Euromaster on Suomen suurin rengasliikkeketju, jolla on noin 80 toimipistettä koko maassa. Renkaat ovat hinnoiteltuja verkkokaupassa, mutta asennuspalvelun hinnat on saatavilla vain tarjouspyynnöin. Ajanvaraus onnistuu verkossa sekä puhelimitse, ja rengashotellin palvelu (renkaiden säilytys, pesu, kuntotarkastus) on tarjolla kaikissa toimipisteissä alueellisesti hinnoiteltuna.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla euromaster.fi/vastuullisuus/hyva-hallintotapa todetaan: \"Rengas- ja autohuoltopalvelumme on auditoitu ja toimii ISO:9001 -laatujärjestelmän mukaisesti.\""
+    },
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Samalla sivulla todetaan: \"Myös pinnoittamomme on ISO:9001- ja ISO:14001 -sertifioitu, ja sillä on myös Traficomin myöntämä E109-hyväksyntä. Recamic auditoi vuosittain pinnoittamon tuotantoprosessit.\""
+    }
+   ]
   },
   {
    "slug": "rengascenter",
@@ -658,7 +682,7 @@
    "omistaja": "Yrittäjäomisteinen ketju (60+ liikettä) — ei valmistajan omistama",
    "y_tunnus": "0782719-0",
    "rekisteroity": 1990,
-   "score": 63.8,
+   "score": 66.8,
    "pillars": {
     "digitaalinen": 80.3,
     "lapinakyvyys": 40.0,
@@ -864,7 +888,22 @@
     "Asennuksen ja rengashotellin hinnat eivät ole julkisesti näkyvissä, vain \"vaihtelevat paikan mukaan\"",
     "Verkkoajanvaraus puuttuu kokonaan; varaus vaatii puhelinkontaktin tai paikan päälle minnä"
    ],
-   "yhteenveto": "RengasCenter on suomalainen yrittäjäomisteinen rengasliikeketju, joka palvelee yli 60 toimipisteellä ympäri Suomea. Sivusto tarjoaa selkeän rengashakusovelluksen ja kattavat tiedot palveluista, mutta hintatiedot vaativat dynaamisesti ladattavaa sisältöä ja verkkoajanvaraus puuttuu kokonaan."
+   "yhteenveto": "RengasCenter on suomalainen yrittäjäomisteinen rengasliikeketju, joka palvelee yli 60 toimipisteellä ympäri Suomea. Sivusto tarjoaa selkeän rengashakusovelluksen ja kattavat tiedot palveluista, mutta hintatiedot vaativat dynaamisesti ladattavaa sisältöä ja verkkoajanvaraus puuttuu kokonaan.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla rengascenter.fi/tietoa-meista/ todetaan: \"Avainlippu-merkki viestii RengasCenterin palveluiden kotimaisuudesta... Suomalaisomisteisen yrityksen Suomessa tuotetusta palvelusta.\""
+    },
+    {
+     "mittari": "Luotettava Kumppani",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivun alatunnisteessa (footer) näkyy kuvalogo alt-tekstillä \"Luotettava kumppani\" (LK_valkoinen_rgb.svg, Vastuu Groupin/Tilaajavastuun tunnus) joka rivissä joka sivulla."
+    }
+   ]
   },
   {
    "slug": "firststop",
