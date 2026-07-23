@@ -19,8 +19,8 @@ yksityislaakarit, lakifirmat, pakohuoneet. ÄLÄ rakenna näitä uudestaan.
 - [~] tilitoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
 - [~] fysioterapia — varattu: päätyösessio 23.7.2026 (batch 6)
 - [~] autopesulat — varattu: päätyösessio 23.7.2026 (batch 6)
-- [~] kielikoulut — varattu: päätyösessio 23.7.2026 (batch 6)
-- [ ] tavaransailytys — kandidaatit: Pelican Self Storage, Cityvarasto, 24Storage?, Lokalen?, Varastohotelli?
+- [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
+- [~] tavaransailytys — varattu: autopilot-tikki 23.7.2026
 - [ ] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
 - [ ] catering-palvelut — kandidaatit: Fazer Food?, Compass Group?, Sodexo? (b2b-paino, arvioi kuluttajakulma)
 - [ ] festivaalit-lipunmyynti — kandidaatit: Ticketmaster, Lippu.fi, Tiketti, Kide.app, Tikettikauppa?
