@@ -209,6 +209,37 @@ async function adminAction(req, env) {
   return json({ ok: true }, req);
 }
 
+
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
+
+async function submitPaneli(req, env) {
+  let body;
+  try { body = await req.json(); } catch { return json({ error: "invalid json" }, req, 400); }
+  const email = String(body.email || "").trim().toLowerCase().slice(0, 120);
+  const nimi = String(body.nimi || "").trim().slice(0, 60) || null;
+  if (!EMAIL_RE.test(email)) return json({ error: "bad email", message: "Tarkista sähköpostiosoite." }, req, 400);
+  const hash = await ipHash(req, env);
+  const dup = await env.DB.prepare("SELECT id FROM paneli WHERE email=?1 LIMIT 1").bind(email).first();
+  if (dup) return json({ ok: true, message: "Olet jo paneelissa — kiitos!" }, req);
+  await env.DB.prepare(
+    "INSERT INTO paneli (email, nimi, ip_hash, created_at) VALUES (?1, ?2, ?3, ?4)"
+  ).bind(email, nimi, hash, new Date().toISOString()).run();
+  return json({ ok: true, message: "Tervetuloa paneeliin!" }, req);
+}
+
+async function adminPaneli(req, env, url) {
+  if (url.searchParams.get("key") !== env.ADMIN_KEY) return json({ error: "forbidden" }, req, 403);
+  const rows = (await env.DB.prepare("SELECT email, nimi, created_at FROM paneli ORDER BY id DESC").all()).results || [];
+  const esc = (t) => String(t || "").replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
+  const list = rows.map((r) => `<tr><td>${esc(r.email)}</td><td>${esc(r.nimi)}</td><td>${esc(r.created_at)}</td></tr>`).join("");
+  const html = `<!doctype html><meta charset="utf-8"><title>Paneeli (${rows.length})</title>
+<style>body{font-family:system-ui;margin:24px}table{border-collapse:collapse}td,th{border:1px solid #ccc;padding:6px 10px;font-size:14px}</style>
+<h1>Tutkimuspaneeli — ${rows.length} jäsentä</h1>
+<p><a download="paneeli.csv" href="data:text/csv;charset=utf-8,${encodeURIComponent("email;nimi;liittyi\n" + rows.map((r) => [r.email, r.nimi || "", r.created_at].join(";")).join("\n"))}">Lataa CSV</a></p>
+<table><tr><th>Email</th><th>Nimi</th><th>Liittyi</th></tr>${list}</table>`;
+  return new Response(html, { headers: { "content-type": "text/html; charset=utf-8", ...corsHeaders(req) } });
+}
+
 export default {
   async fetch(req, env) {
     const url = new URL(req.url);
@@ -219,6 +250,8 @@ export default {
     if (path === "/api/arvio" && req.method === "POST") return submitArvio(req, env);
     if (path === "/api/arvio" && req.method === "GET") return getArvio(req, env, url);
     if (path === "/api/counts" && req.method === "GET") return getCounts(req, env, url);
+    if (path === "/api/paneli" && req.method === "POST") return submitPaneli(req, env);
+    if (path === "/api/paneli-admin" && req.method === "GET") return adminPaneli(req, env, url);
     if (path === "/api/admin" && req.method === "GET") return adminPage(req, env, url);
     if (path === "/api/admin/paatos" && req.method === "POST") return adminAction(req, env);
 

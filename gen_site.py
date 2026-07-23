@@ -1088,7 +1088,7 @@ def build_index():
   <div class="wrap">
     <div class="b2b light">
       <h3>Liity Suomen Paras -perheeseen</h3>
-      <p>Suomen Paras rakentuu lukijoiden kanssa: ehdota seuraavia kategorioita, bongaa virheitä ja kerro mikä toimii. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
+      <p>Suomen Paras rakentuu lukijoiden kanssa: liity tutkimuspaneeliin (kyselyihin vastanneiden kesken arvotaan palkintoja), ehdota seuraavia kategorioita ja kerro mikä toimii. Jokainen palaute luetaan.</p>
       <a class="btn" href="yhteiso/">Liity mukaan ja anna palautetta</a>
       <small>Palaute ei koskaan vaikuta yritysten pisteisiin.</small>
     </div>
@@ -1529,13 +1529,26 @@ def build_yhteiso():
   <p class="crumb"><a href="../">Etusivu</a> › <b>Liity mukaan</b></p>
   <div class="pageh" style="padding-top:0">
     <h1>Liity Suomen Paras -perheeseen</h1>
-    <p class="lead">Suomen Paras rakentuu avoimesti ja lukijoiden kanssa. Kerro mitä kategorioita haluat seuraavaksi, mikä sivustossa toimii ja mikä ei. Jokainen palaute luetaan, ja parhaat ehdotukset näkyvät suoraan seuraavissa päivityksissä.</p>
+    <p class="lead">Suomen Paras rakentuu avoimesti ja lukijoiden kanssa. Liity tutkimuspaneeliin, ehdota kategorioita ja kerro mikä toimii. Paneelikyselyihin vastanneiden kesken arvotaan palkintoja, ja jokainen palaute luetaan.</p>
   </div>
 
   <div class="steps">
     <div class="step"><span class="k">EHDOTA</span><h3>Uudet kategoriat</h3><p>109 kategoriaa on suunnitteilla, ja järjestyksen ratkaisee kysyntä. Kerro mikä vertailu auttaisi juuri sinua, niin nostamme sitä jonossa.</p></div>
     <div class="step"><span class="k">KORJAA</span><h3>Bongasitko virheen?</h3><p>Jos jokin tieto on vanhentunut tai väärin, kerro se. Korjaamme datan seuraavassa päivityksessä ja merkitsemme korjauksen avoimesti sivulle.</p></div>
     <div class="step"><span class="k">VAIKUTA</span><h3>Kehitä palvelua</h3><p>Mikä sivustossa on hyvää, mikä huonoa? Suorat ehdotukset menevät suoraan tekijälle, eivät tikettijonoon.</p></div>
+  </div>
+
+  <div class="panel aform" id="paneli">
+    <h2 class="sec">Liity tutkimuspaneeliin</h2>
+    <p class="aform-note">Paneelin jäsenenä saat silloin tällöin sähköpostiisi lyhyitä kyselyitä suomalaisista palveluista. Vastaajien kesken arvotaan palkintoja, ja mielipiteesi ohjaa mitä vertailemme seuraavaksi. Liittyminen on maksutonta ja voit poistua milloin vain vastaamalla mihin tahansa viestiimme.</p>
+    <label>Sähköpostiosoite<input type="email" id="pl-email" placeholder="oma@sahkoposti.fi" autocomplete="email"></label>
+    <label>Etunimi (valinnainen)<input type="text" id="pl-nimi" maxlength="60" placeholder="Etunimi" autocomplete="given-name"></label>
+    <div class="a-err" id="pl-err"></div>
+    <div class="cf-actions">
+      <span class="cf-note">Käytämme osoitettasi vain paneelikyselyihin ja arvontoihin. <a href="../tietosuoja/">Tietosuojaseloste</a></span>
+      <button type="button" class="btn" id="pl-send">Liity paneeliin</button>
+    </div>
+    <p class="aform-note" id="pl-ok" hidden style="color:var(--ok);font-weight:800"></p>
   </div>
 
   <section id="palaute" data-vertical="suomenparas" data-slug="sivusto">
@@ -1575,7 +1588,32 @@ def build_yhteiso():
     <a class="btn" href="../analyysi/">Pyydä maksuton analyysi</a>
     <small>Sijoitusta ei voi ostaa. Palaute ei vaikuta pisteisiin.</small>
   </div>
-</div>"""
+</div>
+
+<script>
+(function(){{
+  var API = (location.hostname === "localhost" || location.hostname === "127.0.0.1")
+    ? "https://suomenparas-palaute.anton-jalonen.workers.dev/api" : "/api";
+  var email = document.getElementById("pl-email"), nimi = document.getElementById("pl-nimi"),
+      btn = document.getElementById("pl-send"), err = document.getElementById("pl-err"),
+      ok = document.getElementById("pl-ok");
+  btn.addEventListener("click", function(){{
+    err.textContent = "";
+    var e = (email.value || "").trim();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]{{2,}}$/.test(e)) {{ err.textContent = "Tarkista sähköpostiosoite."; return; }}
+    btn.disabled = true; btn.textContent = "Liitytään…";
+    fetch(API + "/paneli", {{ method: "POST", headers: {{ "Content-Type": "application/json" }},
+      body: JSON.stringify({{ email: e, nimi: (nimi.value || "").trim() }}) }})
+      .then(function(r){{ return r.json(); }})
+      .then(function(d){{
+        if (d.ok) {{ ok.textContent = d.message || "Tervetuloa paneeliin!"; ok.hidden = false;
+          email.value = ""; nimi.value = ""; btn.textContent = "Liitytty ✓"; }}
+        else {{ err.textContent = d.message || "Jokin meni pieleen, yritä uudelleen."; btn.disabled = false; btn.textContent = "Liity paneeliin"; }}
+      }})
+      .catch(function(){{ err.textContent = "Yhteysvirhe, yritä hetken päästä uudelleen."; btn.disabled = false; btn.textContent = "Liity paneeliin"; }});
+  }});
+}})();
+</script>"""
     return page("Liity Suomen Paras -perheeseen | Suomen Paras",
                 "Kerro mitä kategorioita haluat seuraavaksi ja anna palautetta palvelusta. Suomen Paras rakentuu avoimesti.",
                 body, root="../", active="yhteiso")
@@ -1617,6 +1655,7 @@ LEGAL_PAGES = {
         "<b>Rekisterinpitäjä:</b> Suomen Paras Oy (yhteys: anton@antonjalonen.fi).",
         "<b>Mitä tietoja keräämme:</b> Palautelomakkeet (yritysarviot ja sivustopalaute) tallentavat antamasi arvion, valinnaisen nimimerkin ja vapaamuotoisen tekstin sekä IP-osoitteesta lasketun tunnisteen, jota käytetään vain yhden arvion per yritys -rajoitukseen. Emme tallenna IP-osoitetta sellaisenaan emmekä yhdistä palautetta henkilöön.",
         "<b>Analyysipyynnöt ja yhteydenotot</b> tapahtuvat sähköpostitse — käsittelemme viestisi vastataksemme siihen, emmekä käytä osoitettasi muuhun.",
+        "<b>Tutkimuspaneeli:</b> jos liityt paneeliin, tallennamme sähköpostiosoitteesi ja halutessasi etunimesi. Käytämme niitä vain paneelikyselyiden lähettämiseen ja arvontojen toteuttamiseen — emme luovuta osoitteita kolmansille emmekä käytä niitä muuhun markkinointiin. Voit poistua paneelista milloin tahansa vastaamalla mihin tahansa viestiimme tai sähköpostilla, jolloin tietosi poistetaan.",
         "<b>Emme käytä</b> mainontaevästeitä, seurantapikseleitä tai analytiikkapalveluita, jotka profiloivat kävijöitä.",
         "<b>Oikeutesi:</b> voit pyytää antamiesi tietojen poistamista sähköpostitse. Julkaistut palautteet poistetaan pyynnöstä.",
         "Sivusto toimii GitHub Pages- ja Cloudflare-alustoilla, jotka käsittelevät liikennettä omien tietosuojakäytäntöjensä mukaisesti.",

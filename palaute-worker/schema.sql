@@ -16,3 +16,12 @@ CREATE TABLE IF NOT EXISTS arviot (
 );
 CREATE INDEX IF NOT EXISTS idx_arviot_company ON arviot (vertical, slug, approved);
 CREATE INDEX IF NOT EXISTS idx_arviot_pending ON arviot (approved);
+
+-- Tutkimuspaneeli: email signups for surveys + prize draws (23.7.2026)
+CREATE TABLE IF NOT EXISTS paneli (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  email TEXT NOT NULL UNIQUE,
+  nimi TEXT,
+  ip_hash TEXT,
+  created_at TEXT NOT NULL
+);
