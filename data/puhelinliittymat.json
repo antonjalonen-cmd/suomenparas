@@ -1593,6 +1593,40 @@
   }
  ],
  "updated": "16.7.2026",
+ "opas": {
+  "johdanto": "Halvin puhelinliittymä käyttää usein täsmälleen samaa verkkoa kuin kalliimpi kilpailija, koska vain kolmella yhtiöllä on oma verkko Suomessa. Vertailemalla useampaa brändiä näet, kuka verkon omistaa ja kertooko myyjä kampanjan jälkeisen normaalihinnan avoimesti.",
+  "huomioita": [
+   "Kenen verkossa liittymä toimii: vain <b>Elisalla, Telialla ja DNA:lla</b> on oma verkko, muut vuokraavat verkkokapasiteettia näiltä kolmelta.",
+   "Kampanjan jälkeinen normaalihinta, ei vain ensimmäisen kuukauden houkutinhinta.",
+   "Datamäärä ja se, mitä tapahtuu kun raja täyttyy: nopeus hidastuu vai lisädatasta veloitetaan erikseen.",
+   "Sopimuksen kesto ja irtisanomisaika ennen liittymän valintaa.",
+   "Kuka brändin omistaa: esimerkiksi <b>Moi Mobiili on DNA:n omistama</b> ja <b>Giga Mobiili Gigantin</b>, ja molemmat toimivat DNA:n verkossa."
+  ],
+  "vinkit": [
+   "Tarkista kuuluvuus omalla asuinalueellasi ennen liittymän ottamista. Halvin brändi voi käyttää samaa verkkoa kuin kalliin.",
+   "Vertaile aina datamäärää ja mahdollisen rajattoman datan nopeusrajoitusta pienellä painettua tekstiä.",
+   "Kysy irtisanomisaika ja -maksu ennen sopimuksen tekoa, erityisesti jos liittymä on määräaikainen.",
+   "Jos vaihdat operaattoria, numeron siirto onnistuu maksutta eikä vaadi puhelinnumeron vaihtamista."
+  ],
+  "ukk": [
+   {
+    "q": "Onko halvempi puhelinliittymä huonompi kuin kalliimpi?",
+    "a": "Ei välttämättä. Moni edullinen brändi käyttää täsmälleen samaa verkkoa kuin kalliimpi kilpailija, koska vain Elisalla, Telialla ja DNA:lla on oma verkko. Muut vuokraavat verkkokapasiteettia näiltä."
+   },
+   {
+    "q": "Voinko vaihtaa operaattoria ja pitää saman numeron?",
+    "a": "Kyllä. Numeron siirto operaattorista toiseen on maksutonta ja hoituu yleensä uuden operaattorin kautta ilman katkoksia."
+   },
+   {
+    "q": "Mitä tapahtuu kun datamäärä loppuu kesken kuukauden?",
+    "a": "Riippuu liittymästä. Osa hidastaa nopeutta rajan jälkeen, osa veloittaa lisädatasta erikseen. Tarkista tämä liittymän ehdoista ennen valintaa."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää puhelinliittymät?",
+    "a": "Mittaamme operaattoreiden verkkosivujen läpinäkyvyyttä ja teknistä laatua, emme verkon kuuluvuutta omalla paikkakunnallasi. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Kuukausihinta esillä ilman yhteystietoja (30), kampanjan jälkeinen normaalihinta kerrottu (20), sopimusaika ja irtisanomisaika kerrottu (15), nopeus ja datarajat kerrottu selkeästi (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

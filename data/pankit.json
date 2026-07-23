@@ -2082,6 +2082,40 @@
   }
  ],
  "updated": "18.7.2026",
+ "opas": {
+  "johdanto": "Pankin valinta on pitkäaikainen päätös, mutta hinnastoa on usein vaikea nähdä ennen kuin sinusta on jo tullut asiakas. Vertailemalla pankkien verkkosivuja näet, kuka julkaisee palveluhinnastonsa ja ehtonsa avoimesti jo ennen kirjautumista.",
+  "huomioita": [
+   "<b>Tämä ei mittaa asiakaspalvelun laatua:</b> pisteet kertovat, kuinka läpinäkyvästi pankki julkaisee hintansa, ehtonsa ja yhteystietonsa ennen kuin sinusta tulee asiakas. Se on eri asia kuin hyvä palvelu, mutta se on asia, jonka voi tarkistaa verkkosivulta.",
+   "<b>Säästöpankki ja POP Pankki eivät ole yhtiöitä vaan pankkiryhmiä:</b> jokainen jäsenpankki on itsenäinen yhtiö omalla palveluhinnastollaan. Yhtä yhteistä hinnastoa ei ole olemassa.",
+   "<b>Oma Säästöpankki on kokonaan eri yhtiö</b> kuin Säästöpankkiryhmä, vaikka nimet muistuttavat toisiaan.",
+   "<b>Handelsbanken ei enää palvele suomalaisia henkilöasiakkaita:</b> tili- ja maksupalvelut päättyivät 31.3.2025, ja asiakkaat siirtyivät S-Pankkiin ja Oma Säästöpankkiin.",
+   "<b>Palveluhinnaston pitäisi löytyä ilman kirjautumista:</b> hyvä pankki julkaisee käyttötilin ja kortin kuukausimaksut selkeästi verkkosivullaan, ei vasta kirjautumisen takana."
+  ],
+  "vinkit": [
+   "Etsi pankin palveluhinnasto ennen asiakkaaksi ryhtymistä. Jos se vaatii kirjautumista tai konttorikäyntiä, se kertoo jotain pankin läpinäkyvyydestä.",
+   "Jos vertailet Säästöpankki- tai POP Pankki-ryhmää, tarkista nimenomaan oman alueesi jäsenpankin hinnasto, ei ryhmän yleistä sivua.",
+   "Selvitä, onko kyseessä suomalainen talletuspankki vai ulkomaisen pankin sivuliike, sillä se voi vaikuttaa esimerkiksi talletussuojaan.",
+   "Vertaa käyttötilin ja kortin kuukausimaksuja useasta pankista, sillä erot voivat olla yllättävän suuria."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi Handelsbanken ei ole listalla?",
+    "a": "Handelsbanken lopetti tili- ja maksupalvelunsa suomalaisille henkilöasiakkaille 31.3.2025. Henkilöasiakkaat siirtyivät S-Pankkiin 1.12.2024 ja pk-yritysasiakkaat Oma Säästöpankkiin 1.9.2024."
+   },
+   {
+    "q": "Onko Säästöpankki yksi yhtiö?",
+    "a": "Ei. Säästöpankki on pankkiryhmä, jonka Y-tunnus kuuluu ryhmän keskusyhteisölle Säästöpankkiliitolle. Jokainen paikallinen säästöpankki on itsenäinen yhtiö omalla Y-tunnuksellaan ja omalla palveluhinnastollaan."
+   },
+   {
+    "q": "Mittaako tämä vertailu, kuinka hyvää asiakaspalvelua pankista saa?",
+    "a": "Ei. Emme tiedä, kuinka kauan jonotat tai kuinka nopeasti reklamaatiosi ratkeaa, eikä sitä voi mitata verkkosivulta. Vertailu kertoo, kuinka avoimesti pankki julkaisee hintansa ja ehtonsa ennen asiakkuutta."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää pankit?",
+    "a": "Mittaamme jokaisen pankin julkisen verkkosivuston samalla kaavalla: onko palveluhinnasto saatavilla ilman kirjautumista, näkyvätkö tilin- ja kortinhoitomaksut, ovatko sopimusehdot julkisia, ja toimiiko sivusto teknisesti hyvin. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet pankin profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Palveluhinnasto julkisesti saatavilla ilman kirjautumista (30), tilin- ja kortinhoitomaksut esillä (20), yleiset sopimusehdot julkisesti saatavilla (15), konttorit ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

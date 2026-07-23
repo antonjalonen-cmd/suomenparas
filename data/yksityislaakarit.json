@@ -925,6 +925,40 @@
   }
  ],
  "updated": "18.7.2026",
+ "opas": {
+  "johdanto": "Yksityisten lääkäriketjujen vastaanottohinnat ja ajanvarauksen sujuvuus vaihtelevat, ja osa tunnetuista nimistä on jo sulautunut toiseen ketjuun. Vertailu auttaa löytämään ketjun, joka kertoo hinnan ja Kela-korvauksen avoimesti ennen ajanvarausta. Tämä ei ole hoitosuositus eikä korvaa lääkärin arviota.",
+  "huomioita": [
+   "Sulautumiset: Diacor sulautui Terveystaloon jo 2016, joten diacor.fi ei enää ole itsenäinen ketju vaan ohjaa toiseen palveluun.",
+   "Kela-korvaus: yksityislääkärin käynnistä saa usein osan kustannuksista takaisin Kelalta, mutta korvaus kattaa vain osan todellisesta hinnasta, joten kysy omavastuu aina etukäteen.",
+   "Hinnan vaihtelu: vastaanoton hinta vaihtelee toimipisteen, erikoisalan ja lääkärin mukaan, joten vertailu mittaa kerrotaanko hinta avoimesti, ei mikä hinta on.",
+   "Ajanvaraus verkossa: mahdollisuus varata aika ilman puhelinsoittoa tai kirjautumista kertoo palvelun sujuvuudesta, erityisesti kiireellisissä tilanteissa.",
+   "Hätätilanteet: vertailu ei koske päivystystä tai hätätilanteita, joissa oikea kanava on aina hätänumero 112."
+  ],
+  "vinkit": [
+   "Kysy vastaanoton kokonaishinta (käyntimaksu ja mahdolliset tutkimukset) ennen ajan varaamista, ei pelkkää käyntimaksua.",
+   "Selvitä Kela-korvauksen määrä etukäteen, jotta tiedät todellisen omavastuun ennen kuin varaat ajan.",
+   "Vertaa ajanvarauksen nopeutta useasta ketjusta, jos aika on kriittinen, sillä jonotusaika vaihtelee toimipisteittäin.",
+   "Tarkista, kattaako työterveyshuolto tai vakuutuksesi käynnin, ennen kuin maksat itse."
+  ],
+  "ukk": [
+   {
+    "q": "Onko tämä vertailu hoitosuositus?",
+    "a": "Ei. Vertailu mittaa ketjujen verkkosivujen hintojen näkyvyyttä, ajanvarauksen sujuvuutta ja tavoitettavuutta, ei hoidon laatua tai lääkäreiden osaamista. Hätätilanteessa soita aina 112."
+   },
+   {
+    "q": "Miksi Diacor ei ole listalla?",
+    "a": "Diacor sulautui Terveystaloon jo vuonna 2016, eikä se enää toimi itsenäisenä valtakunnallisena ketjuna."
+   },
+   {
+    "q": "Kattaako Kela-korvaus koko vastaanoton hinnan?",
+    "a": "Ei, Kela korvaa yleensä vain osan yksityislääkärin käynnin hinnasta, ja loppuosa jää omavastuulle. Tarkista korvauksen määrä ja omavastuu aina etukäteen suoraan ketjulta tai Kelalta."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää yksityiset lääkäriketjut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: näkyykö vastaanoton hinta, toimiiko ajanvaraus verkossa ja kerrotaanko Kela-korvaus avoimesti. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet palvelun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Vastaanottojen hinnat julkisesti esillä (30), ajanvaraus verkossa ilman kirjautumista (20), kela-korvaus ja todellinen omavastuu kerrottu (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

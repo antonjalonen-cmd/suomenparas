@@ -874,6 +874,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Ajokortin kokonaishinta riippuu tarvittavien ajotuntien määrästä, joten pelkkä ilmoitettu peruspaketin hinta ei kerro koko totuutta. Autokouluala on ketjuuntunut nopeasti yritysostoilla, ja osa \"kilpailevista\" ketjuista kuuluu samaan konserniin.",
+  "huomioita": [
+   "Ajokortin kokonaishinta riippuu oppilaan omasta oppimisvauhdista: peruspaketin hinta ei aina sisällä kaikkia tarvittavia lisäajotunteja.",
+   "Epic ja Autokoulu Safiiri kuuluvat samaan konserniin (Korona Invest) - kahden eri nimen takana voi olla sama omistaja.",
+   "Autokoulualan ketjuuntuminen on tuore ilmiö: paikalliset yhden kaupungin autokoulut eivät kuulu tähän valtakunnalliseen vertailuun.",
+   "Vertailu mittaa sivuston hinnoittelun avoimuutta, ei opetuksen laatua eikä läpäisyprosentteja.",
+   "Kysy aina kirjallinen hinta-arvio ennen ilmoittautumista, sillä lopullinen hinta riippuu tarvittavien ajotuntien määrästä."
+  ],
+  "vinkit": [
+   "Pyydä kirjallinen hinta-arvio, joka sisältää kaikki pakolliset osat: teoriaopetuksen, ajotunnit ja kokeet.",
+   "Vertaile vähintään kahta ketjua ennen ilmoittautumista, koska hintarakenteet ja sisällöt eroavat toisistaan.",
+   "Selvitä sisältyykö hintaan mahdollinen uusintakoe tai lisäajotunnit, jos ensimmäinen ajokoe ei mene läpi.",
+   "Tarkista, onko lähin toimipiste todella lähelläsi: ketju voi markkinoida itseään valtakunnallisena, vaikka toimipisteitä on vain suurimmissa kaupungeissa."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi ajokortin hinta vaihtelee niin paljon eri tarjousten välillä?",
+    "a": "Peruspaketin hinta kattaa yleensä vain pakollisen vähimmäismäärän ajotunteja. Jos tarvitset enemmän harjoitusta, kokonaishinta nousee. Siksi kannattaa kysyä arvio omaan tilanteeseen, ei pelkkää ilmoitettua alkaen-hintaa."
+   },
+   {
+    "q": "Onko eri nimillä toimivat autokouluketjut aina eri yrityksiä?",
+    "a": "Ei aina. Osa tunnetuista ketjuista on saman konsernin omistuksessa yritysostojen kautta, vaikka ne markkinoivat itseään erillisinä brändeinä. Kannattaa tarkistaa omistaja, jos vertailee \"kilpailevia\" vaihtoehtoja."
+   },
+   {
+    "q": "Kannattaako valita valtakunnallinen ketju vai paikallinen autokoulu?",
+    "a": "Tämä vertailu kattaa vain valtakunnalliset ketjut, koska niiden verkkosivuja voi mitata yhtenäisellä kaavalla. Paikallinen autokoulu voi silti olla hyvä vaihtoehto: kysy tarjous myös lähialueen pienemmiltä toimijoilta."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää autokoulut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: kerrotaanko hinnoittelu ja kurssin sisältö avoimesti, toimiiko sivusto teknisesti hyvin ja tavoittaako asiakaspalvelun. Emme arvioi opetuksen laatua tai läpäisyprosentteja, ja jokaisen pisteen perustelun näet ketjun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Kurssien hinnat julkisesti esillä (30), ilmoittautuminen onnistuu verkossa (20), kurssin sisältö (ajotunnit, teoria, maksuerät) kuvattu (15), toimipisteet ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

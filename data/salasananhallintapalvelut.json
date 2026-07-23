@@ -1596,6 +1596,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Salasananhallintapalvelu säilyttää kaikkien tiliesi tunnistetietoja, joten julkisten tietoturva-auditointien avoimuus on tällä alalla erityisen tärkeää. Osa tunnetuista brändeistä kuuluu myös samaan konserniin kuin muut listalla olevat palvelut.",
+  "huomioita": [
+   "NordPass on saman Nord Security -konsernin palvelu kuin NordVPN, ja Proton Pass saman Proton AG:n kuin Proton VPN ja Proton Drive: tuttu nimi listalla voi olla saman yhtiön toinen tuote.",
+   "LastPass itsenäistyi GoTo-konsernista vuonna 2024 pääomasijoittajien omistukseen.",
+   "Julkisten tietoturva-auditointien avoimuus on erityisen tärkeää salasanoja säilyttävälle palvelulle, siksi se on oma 20 pisteen mittarinsa.",
+   "KeePass ei ole mukana vertailussa, koska se on avoimen lähdekoodin yhteisöprojekti ilman yhtiötä tai kaupallista hinnoittelua. Bitwarden sen sijaan on mukana, koska sen takana on yhtiö ja julkinen hinnoittelu.",
+   "Vertailu kuvaa palveluiden julkisten verkkosivujen ominaisuuksia, ei salauksen teknistä murtamattomuutta."
+  ],
+  "vinkit": [
+   "Tarkista, onko palvelun tietoturva-auditointi julkinen ja kenen ulkopuolisen tahon tekemä, ei vain yleinen \"auditoitu\"-väite.",
+   "Vertaile perheen tai organisaation hintaa erikseen yksittäistilauksesta, sillä nämä hinnoitellaan usein hyvin eri tavoin.",
+   "Selvitä toimiiko kaksivaiheinen tunnistautuminen ja miten tilin voi palauttaa, jos unohdat pääsalasanan.",
+   "Kysy irtisanomisen ja tallennettujen tietojen viennin helppoutta ennen tilaamista, jotta lukkiutuminen yhteen palveluun ei jää ongelmaksi."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi salasananhallintapalvelun tietoturva-auditoinnit ovat tärkeitä?",
+    "a": "Palvelu säilyttää kaikkien tiliesi salasanoja yhdessä paikassa, joten ulkopuolisen tahon tekemä julkinen auditointi antaa riippumattoman vahvistuksen siitä, ettei ohjelmistossa ole tunnettuja tietoturva-aukkoja. Pelkkä yhtiön oma väite auditoinnista ei ole sama asia kuin julkinen raportti."
+   },
+   {
+    "q": "Onko avoimen lähdekoodin salasananhallinta turvallisempi kuin kaupallinen?",
+    "a": "Avoin lähdekoodi mahdollistaa ulkopuolisen tarkastelun, mutta ei yksin takaa turvallisuutta tai käyttömukavuutta. Tässä vertailussa mukana ovat kaupalliset palvelut, joilla on yhtiö ja julkinen hinnoittelu; puhtaat yhteisöprojektit ilman kaupallista palvelua on rajattu pois."
+   },
+   {
+    "q": "Mitä tarkoittaa, että kaksi eri brändiä kuuluu samaan konserniin?",
+    "a": "Sama yhtiö voi myydä useita tuotteita eri nimillä, esimerkiksi VPN- ja salasananhallintapalvelun omilla brändeillään. Tämä ei tee palveluista huonompia, mutta kannattaa tietää, ettet vertaile todellisuudessa kahta eri toimijaa."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää salasananhallintapalvelut?",
+    "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: näkyykö hinta ennen tilin luomista, onko tietoturva auditoitu julkisesti ja toimiiko sivusto teknisesti hyvin. Emme mittaa salauksen teknistä murtamattomuutta, ja jokaisen pisteen perustelun näet palvelun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinnat julkisesti esillä (30), ilmaisversion rajoitukset kerrottu selkeästi (15), riippumattomat tietoturva-auditoinnit julkaistu (20), omistava yhtiö kerrottu sivustolla (15), uusimishinta kerrottu (ei vain tarjoushinta) (10), riippumaton arviolähde esillä (10)"
 }

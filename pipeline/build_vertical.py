@@ -79,6 +79,15 @@ def load_certs(vertical):
         return {}
     return json.load(open(p, encoding="utf-8-sig"))
 
+
+def load_opas(vertical):
+    """Category guide content (dad's structure): johdanto/huomioita/vinkit/ukk.
+    Authored as JSON in pipeline/opas/ so content agents never touch Python source."""
+    p = os.path.join(BASE, "pipeline", "opas", f"{vertical}.json")
+    if not os.path.exists(p):
+        return None
+    return json.load(open(p, encoding="utf-8-sig"))
+
 TERNARY = {"kylla": 1.0, "osittain": 0.5, "ei": 0.0}
 TERNARY_LABEL = {"kylla": "Kyllä", "osittain": "Osittain", "ei": "Ei"}
 PRH_CACHE = os.path.join(BASE, "pipeline", "prh_cache.json")
@@ -411,6 +420,9 @@ def build(vertical):
         raise SystemExit(f"{vertical}: add it to MEASURED with the date it was actually "
                          f"measured — never inherit today's date by accident.")
     v["updated"] = MEASURED[vertical]
+    opas = load_opas(vertical)
+    if opas:
+        v["opas"] = opas
     v["mittarit"] = len(DIGITAL) + len(TRANSPARENCY[vertical]) + len(REACH) + len(AI)
     v["lapinakyvyys_kriteerit"] = criteria_text(vertical)
     # Any {n} in copy resolves to the real company count, so the prose can never

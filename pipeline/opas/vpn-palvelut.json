@@ -1,0 +1,34 @@
+{
+  "johdanto": "VPN-palvelun tehtävä on suojata yksityisyyttäsi, joten sillä kenen käsissä palvelu on ja missä maassa se toimii, on väliä. Vertailemalla useampaa palvelua näet, mitkä kertovat omistajansa ja lainkäyttöalueensa avoimesti ja mitkä eivät.",
+  "huomioita": [
+    "<b>Omistus on keskittynyt:</b> Kape Technologies omistaa ExpressVPN:n, CyberGhostin ja Private Internet Accessin, kolme näennäisesti kilpailevaa brändiä. NordVPN ja Surfshark kuuluvat samaan hollantilaiseen holding-yhtiöön.",
+    "<b>Lainkäyttöalue vaikuttaa:</b> esimerkiksi Yhdysvallat ja Kanada kuuluvat niin sanottuihin Five Eyes -maihin, kun taas Sveitsi ja Ruotsi eivät. Tämä voi vaikuttaa siihen, miten viranomaiset voivat vaatia tietoja.",
+    "<b>Ei-lokien lupaus ei riitä yksin:</b> jokainen palvelu voi väittää, ettei se tallenna käyttäjätietoja. Riippumaton kolmannen osapuolen auditointi on ainoa julkinen tapa tarkistaa, pitääkö lupaus paikkansa.",
+    "<b>Brändejä katoaa:</b> Atlas VPN lopetettiin 24.4.2024 ja käyttäjät siirrettiin NordVPN:ään, Zenmate sulautettiin CyberGhostiin, ja F-Securen Freedome päättyi ja on nyt osa F-Secure-sovellusta.",
+    "Vertailu kuvaa verkkosivujen läpinäkyvyyttä emmekä testaa yhteyden nopeutta emmekä pysty itse todentamaan lokikäytäntöjä, vaan nojaamme julkisiin auditointeihin."
+  ],
+  "vinkit": [
+    "Tarkista ennen tilaamista, kuka VPN-palvelun oikeasti omistaa. Kolme eri nimistä palvelua voi kuulua samaan konserniin.",
+    "Suosi palvelua, jonka ei-lokien politiikan on vahvistanut nimetty, riippumaton kolmas osapuoli, ei pelkkä oma markkinointiteksti.",
+    "Jos yksityisyys on tärkein syy VPN:n hankintaan, ota selvää palvelun lainkäyttöalueesta ennen tilaamista.",
+    "Vertaa uusimishintaa etkä pelkkää ensimmäisen tilausjakson tarjoushintaa, sillä VPN-palveluissa hintaerot voivat olla suuria."
+  ],
+  "ukk": [
+    {
+      "q": "Miksi VPN-palvelun omistajalla on väliä?",
+      "a": "Yksityisyyttä myyvän palvelun kohdalla omistus ei ole sivuseikka. Sama konserni voi omistaa useita näennäisesti kilpailevia brändejä, jolloin valinta niiden välillä ei välttämättä tarkoita eri käytäntöjä tai eri infrastruktuuria."
+    },
+    {
+      "q": "Mitä tarkoittaa ei-lokien politiikka, ja voiko siihen luottaa sellaisenaan?",
+      "a": "Ei-lokien politiikka tarkoittaa, ettei palvelu tallenna tietoja käyttäjän toiminnasta. Väitteeseen kannattaa suhtautua varauksella, ellei sitä ole vahvistanut nimetty, riippumaton auditoija, jonka raportti on julkisesti luettavissa."
+    },
+    {
+      "q": "Miksi Atlas VPN tai Zenmate eivät ole listalla?",
+      "a": "Kumpikaan ei ole enää olemassa itsenäisenä palveluna. Nord Security lopetti Atlas VPN:n 24.4.2024 ja siirsi käyttäjät NordVPN:ään, ja Zenmate sulautettiin CyberGhostiin vuonna 2023."
+    },
+    {
+      "q": "Miten Suomen Paras pisteyttää VPN-palvelut?",
+      "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: kerrotaanko omistaja, lainkäyttöalue ja lokikäytäntö avoimesti, onko ei-lokien politiikka riippumattoman tahon vahvistama, ja toimiiko sivusto teknisesti hyvin. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet palvelun profiilista."
+    }
+  ]
+}

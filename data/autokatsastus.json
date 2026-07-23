@@ -895,6 +895,40 @@
   }
  ],
  "updated": "18.7.2026",
+ "opas": {
+  "johdanto": "Suomessa on satoja katsastusasemia, mutta vain neljä valtakunnallista ketjua, joilla on oma verkkosivusto ja jotka voi tästä syystä mitata luotettavasti samalla kaavalla. Vertailu kuvaa ketjujen julkisten sivujen läpinäkyvyyttä ja tavoitettavuutta, ei katsastuksen teknistä laatua tai hylkäysprosentteja.",
+  "huomioita": [
+   "Hinta vaihtelee asemittain: sama ketju voi hinnoitella katsastuksen eri tavalla eri paikkakunnilla. Mittaamme, kerrotaanko hinta ennen ajanvarausta, emme mikä hinta on.",
+   "Kaksi suurinta samaa konsernia: A-Katsastus osti K1 Katsastajat joulukuussa 2022, joten listan kaksi suurinta ketjua ovat samaa konsernia, ja niiden yhteenlaskettu markkinaosuus on Autoliiton mukaan noin 40 prosenttia.",
+   "Ketjut mitataan erikseen: vaikka omistus on yhteinen, A-Katsastus ja K1 Katsastajat toimivat omilla Y-tunnuksillaan ja asemillaan, joten niiden pisteet lasketaan ja näytetään erillisinä.",
+   "Pienempi lista on tarkoituksellinen: alueelliset toimijat ja helmikuussa 2026 saksalaiselle TÜV SÜDille myyty Q-Katsastus rajattiin pois, koska vertailu koskee vain aidosti valtakunnallisia ketjuja.",
+   "Vertailu ei arvioi katsastuksen lopputulosta: emme mittaa hylkäysprosentteja tai teknisen tarkastuksen tasoa, vaan sivuston läpinäkyvyyttä ja tavoitettavuutta."
+  ],
+  "vinkit": [
+   "Tarkista hinta suoraan asemakohtaisesta ajanvarauksesta ennen varausta, sillä sama ketju voi hinnoitella eri asemat eri tavalla.",
+   "Varaa katsastusaika hyvissä ajoin ennen määräpäivää, sillä suosituimmat ajat ja asemat täyttyvät usein nopeasti.",
+   "Jos vertailet A-Katsastusta ja K1 Katsastajia, muista että ne ovat samaa konsernia, joten hintakilpailu niiden välillä voi olla rajallista.",
+   "Ota mukaan katsastukseen tarvittavat asiakirjat ja tarkista etukäteen, korjaako asema mahdolliset pienet puutteet paikan päällä."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi vertailussa on mukana vain neljä katsastusketjua?",
+    "a": "Suomessa toimii vain neljä aidosti valtakunnallista katsastusketjua, joilla on oma verkkosivusto ja jotka voi mitata yhtenäisellä kaavalla. Alueelliset toimijat ja saksalaiselle TÜV SÜDille helmikuussa 2026 myyty Q-Katsastus rajattiin pois, jotta lista pysyy vertailukelpoisena eikä täytettynä."
+   },
+   {
+    "q": "Ovatko A-Katsastus ja K1 Katsastajat sama yritys?",
+    "a": "A-Katsastus osti K1 Katsastajat joulukuussa 2022, joten ne kuuluvat samaan konserniin, jonka yhteenlaskettu markkinaosuus on Autoliiton mukaan noin 40 prosenttia. Ne toimivat kuitenkin omilla Y-tunnuksillaan ja asemillaan, joten mittaamme ja näytämme ne erillisinä listalla."
+   },
+   {
+    "q": "Kertooko vertailu, mikä katsastus on halvin tai paras laadultaan?",
+    "a": "Ei. Vertailu mittaa ketjujen julkisten verkkosivujen ominaisuuksia, kuten näkyykö hinta ennen ajanvarausta, ei katsastuksen teknistä laatua tai hylkäysprosentteja. Katsastushinnat vaihtelevat asemittain, joten tarkista hinta aina suoraan varausta tehdessäsi."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää katsastusketjut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatuarvio, mukaan lukien näkyykö hinta ennen ajanvarausta. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet ketjun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Määräaikaiskatsastuksen hinta julkisesti esillä (30), nettiajanvaraus näyttää hinnan ennen yhteystietoja (20), asemat ja aukioloajat kerrottu (15), katsastuslajit ja lisäpalvelut hintoineen kuvattu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

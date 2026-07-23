@@ -1,0 +1,34 @@
+{
+  "johdanto": "Autovakuutus jakautuu pakolliseen liikennevakuutukseen ja vapaaehtoiseen kaskovakuutukseen, ja kaskon tasoja (osa- tai täyskasko) sekä niiden sisältöjä kannattaa vertailla useammalta yhtiöltä. Bonusjärjestelmä ja aiempi vahinkohistoria vaikuttavat hintaan enemmän kuin mikään yksittäinen sivustovertailu voi kertoa, joten tämä opas keskittyy siihen, mitä yhtiö kertoo sinulle ennen kuin annat henkilötunnuksesi.",
+  "huomioita": [
+    "Bonusprosentti siirtyy: kysy aina, siirtyykö nykyisen vakuutuksesi bonus uuteen yhtiöön sellaisenaan, sillä bonuksen menettäminen vaihdon yhteydessä voi syödä säästön kokonaan.",
+    "Kaskon taso ratkaisee korvauksen: osakasko kattaa esimerkiksi varkauden ja lasivahingot, täyskasko myös oman auton kolarivahingot. Vertaa, kertooko yhtiö selkeästi mitä kukin taso sisältää.",
+    "Omavastuu vaihtelee: pienempi omavastuu nostaa yleensä vuosimaksua. Tarkista omavastuun suuruus tarjouksesta, ei pelkästä hintalapusta.",
+    "Bottisuojaus tai JavaScript-toteutus ei ole merkki huonosta yhtiöstä: osa sivuista on teknisesti vaikeampi mitata automaattisesti, vaikka ihminen näkee sisällön normaalisti.",
+    "Sama yhtiö, eri sivu: autovakuutussivun pisteet kuvaavat vain sitä sivua, eivät koko yhtiötä tai sen koti- tai matkavakuutussivua."
+  ],
+  "vinkit": [
+    "Pyydä tarjous nykyiseltä vakuuttajaltasi ja 1–2 kilpailijalta samalla viikolla, ja vertaa kaskotasoa sekä omavastuuta, älä pelkkää euromäärää.",
+    "Selvitä ennen vaihtoa, siirtyykö bonuksesi täysimääräisenä, ja kysy tämä suoraan uudelta yhtiöltä ennen sopimuksen allekirjoittamista.",
+    "Lue kaskon rajoitukset: esimerkiksi eläinvahingot, ilkivalta tai vuokra-auto vahingon sattuessa kuuluvat vaihtelevasti eri tasoihin.",
+    "Tarkista ehdot suoraan vakuuttajalta ennen päätöstä, sillä hinta ja sisältö riippuvat aina autosta, ajokokemuksesta ja asuinpaikasta."
+  ],
+  "ukk": [
+    {
+      "q": "Mikä ero on osakaskolla ja täyskaskolla?",
+      "a": "Osakasko kattaa tyypillisesti esimerkiksi varkauden, palon ja lasivahingot, kun taas täyskasko kattaa lisäksi oman auton kolarivahingot, vaikka syy olisi kuljettajan oma. Tarkista aina tarkka sisältö suoraan vakuuttajalta, sillä nimitykset ja rajaukset vaihtelevat yhtiöittäin."
+    },
+    {
+      "q": "Siirtyykö bonukseni, jos vaihdan vakuutusyhtiötä?",
+      "a": "Useimmat yhtiöt hyväksyvät toisen yhtiön kartuttaman bonuksen, mutta käytäntö ei ole automaattinen. Kysy asia suoraan uudelta vakuuttajalta ennen vaihtoa, jotta et menetä kertynyttä etua."
+    },
+    {
+      "q": "Miksi Pohjola Vakuutus ei ole mukana vertailussa?",
+      "a": "Emme onnistuneet mittaamaan pohjola.fi:n autovakuutussivua, koska se ohjaa op.fi:hin, joka rakentaa sisältönsä JavaScriptillä. Kyse on meidän mittausongelmastamme, ei havainnosta OP:n palvelun laadusta, joten jätimme yhtiön kokonaan pois arvaamisen sijaan."
+    },
+    {
+      "q": "Miten Suomen Paras pisteyttää autovakuutuspalvelut?",
+      "a": "Mittaamme jokaisen yhtiön julkisen autovakuutussivun samalla kaavalla: kerrotaanko hinta-arvio ja kaskotasot avoimesti, toimiiko sivu teknisesti hyvin ja onko asiakaspalvelu tavoitettavissa. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet yhtiön profiilista."
+    }
+  ]
+}

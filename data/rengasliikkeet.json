@@ -1328,6 +1328,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Rengasliikkeen valinta vaikuttaa paitsi hintaan myös siihen, minkä valmistajan renkaita sinulle todennäköisimmin suositellaan. Vertailu kokoaa valtakunnalliset rengasliikeketjut ja niiden omistustaustan, jotta näet ennen ajanvarausta ketkä ovat riippumattomia ja ketkä valmistajan omia myyntikanavia.",
+  "huomioita": [
+   "Rengasvalmistajien omistus: osa ketjuista on rengasvalmistajan itsensä omistamia tai tukemia, kun taas osa toimii valmistajista riippumattomasti. Tämä ei tarkoita huonompaa palvelua, mutta kannattaa tietää kenen renkaita sinulle todennäköisimmin tarjotaan.",
+   "Hinnat vaihtelevat rengaskoon, -merkin ja liikkeen mukaan, joten kokonaishinta (renkaat + asennus + mahdollinen säilytys) kannattaa aina tarkistaa etukäteen, ei pelkkää rengashintaa.",
+   "Rengassäilytys on monelle asiakkaalle merkittävä lisäpalvelu ja sen hinta kannattaa selvittää erikseen, koska se ei aina sisälly asennushintaan.",
+   "Ajanvarauksen sujuvuus verkossa säästää aikaa, mutta hinta ja saatavuus kannattaa silti vahvistaa ennen käyntiä.",
+   "Brändit muuttuvat ja katoavat: alalla on tapahtunut uudelleenbrändäyksiä ja lopettamisia, joten vanhasta hakemistosta löytyvä nimi ei aina vastaa nykyistä tilannetta."
+  ],
+  "vinkit": [
+   "Kysy asennuksen ja mahdollisen säilytyksen hinta erikseen renkaiden hinnasta, jotta näet kokonaiskustannuksen.",
+   "Vertaa sekä valmistajaomisteista että riippumatonta liikettä, jos haluat varmistaa laajan valikoiman eri merkkejä.",
+   "Varaa aika verkossa ruuhka-aikojen (kevät ja syksy) ulkopuolella, jos haluat enemmän vapaita aikoja valittavaksi.",
+   "Tarkista, sisältyykö rengaspaineiden ja kunnon tarkastus asennushintaan vai veloitetaanko se erikseen."
+  ],
+  "ukk": [
+   {
+    "q": "Vaikuttaako rengasliikkeen omistus siihen, mitä renkaita minulle suositellaan?",
+    "a": "Se voi vaikuttaa. Valmistajan omistama tai tukema ketju painottaa usein oman emoyhtiönsä rengasmerkkiä, kun taas riippumaton liike voi tarjota laajemman valikoiman eri merkkejä. Kumpikaan malli ei ole automaattisesti parempi, mutta omistustausta kannattaa tietää."
+   },
+   {
+    "q": "Miksi sama rengaskoko maksaa eri liikkeissä eri hinnan?",
+    "a": "Hintaan vaikuttavat muun muassa rengasmerkki, liikkeen sijainti, asennuskulut ja mahdolliset lisäpalvelut kuten säilytys. Siksi kokonaishinta kannattaa aina vertailla, ei pelkkää rengashintaa."
+   },
+   {
+    "q": "Kannattaako rengassäilytys ottaa samasta liikkeestä?",
+    "a": "Se on usein käytännöllistä, mutta hinta kannattaa tarkistaa erikseen, koska säilytys ei aina sisälly asennushintaan ja hinnoittelu vaihtelee liikkeittäin."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää rengasliikkeet?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: näkyvätkö renkaiden ja asennuksen hinnat avoimesti, onnistuuko ajanvaraus verkossa, sekä toimiiko sivusto teknisesti hyvin ja tavoittaako asiakaspalvelun. Jokaisen pisteen perustelun näet ketjun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Renkaiden hinnat julkisesti esillä (30), asennuksen ja rengassäilytyksen hinnat kerrottu (20), ajanvaraus verkossa ilman yhteydenottoa (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

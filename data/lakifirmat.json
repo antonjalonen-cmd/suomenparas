@@ -1512,6 +1512,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Lakipalveluita voi hankkia monella tavalla: kiinteähintaisena asiakirjana verkosta, puhelinneuvontana tai perinteisenä toimeksiantona lakitoimistolta. Vertailemalla palveluita etukäteen näet, kerrotaanko hinta ja tekijän pätevyys jo ennen yhteydenottoa, mikä helpottaa oikean avun valintaa.",
+  "huomioita": [
+   "Asianajaja vai lakimies: <b>asianajaja</b> on Asianajajaliiton valvoma ja auktorisoima nimike, kun taas lakimies tai juristi voi toimia ilman tätä valvontaa. Nimike ei yksin kerro osaamisesta, mutta sen avoin ilmoittaminen kertoo palvelun läpinäkyvyydestä.",
+   "Kiinteä hinta vai tuntiveloitus: digitaaliset asiakirjapalvelut myyvät usein kiinteähintaisia dokumentteja, kun taas toimeksiannot lakitoimistolta laskutetaan yleensä tunneittain. Kysy aina etukäteen, mihin hinta-arvio perustuu.",
+   "Mitä hintaan sisältyy: selvitä, kattaako hinta koko asian vai vain yhden vaiheen, ja veloitetaanko lisäkonsultaatiosta erikseen.",
+   "Palveluntarjoajan tyyppi vaikuttaa siihen, minkälaista apua saat: asiakirja-automaatti sopii yksinkertaiseen ja vakiomuotoiseen tarpeeseen, henkilökohtainen neuvonta monimutkaisempaan tilanteeseen.",
+   "Kaupparekisteritiedot (Y-tunnus) ja yhteystiedot kannattaa tarkistaa aina, sillä lakialalla toimii myös lakanneita tai uudelleenbrändättyjä yhtiöitä."
+  ],
+  "vinkit": [
+   "Pyydä hinta-arvio kirjallisena ennen toimeksiannon aloittamista, jotta tiedät mitä se kattaa.",
+   "Jos asiasi on yksinkertainen ja vakiomuotoinen, kiinteähintainen asiakirjapalvelu voi olla nopeampi ja edullisempi vaihtoehto kuin toimeksianto.",
+   "Vertaa vähintään kahta palvelua ennen valintaa: kysy sekä hinnoittelusta että vastuuhenkilön pätevyydestä.",
+   "Monimutkaisessa tai riitaisessa asiassa kannattaa varata aikaa henkilökohtaiseen keskusteluun ennen kuin sitoudut mihinkään."
+  ],
+  "ukk": [
+   {
+    "q": "Onko asianajaja ja lakimies sama asia?",
+    "a": "Ei. Asianajaja on Asianajajaliiton valvoma ja auktorisoima nimike, jonka saamiseksi on täytettävä laissa säädetyt vaatimukset. Lakimies tai juristi on yleisnimitys, joka ei edellytä tätä valvontaa. Molemmat voivat olla päteviä, mutta nimikkeen tausta kannattaa tietää."
+   },
+   {
+    "q": "Kannattaako valita asiakirjapalvelu vai perinteinen lakitoimisto?",
+    "a": "Se riippuu asian luonteesta. Yksinkertaiseen ja vakiomuotoiseen tarpeeseen kiinteähintainen asiakirjapalvelu voi riittää. Monimutkaisemmassa tai riitaisessa asiassa henkilökohtainen neuvonta lakitoimistolta on usein tarpeen."
+   },
+   {
+    "q": "Miksi hinnat eivät näy suoraan verkkosivulla?",
+    "a": "Monen toimeksiannon hinta riippuu asian laajuudesta ja vaikeudesta, joten sitä ei voi aina ilmoittaa kiinteänä etukäteen. Läpinäkyvä palvelu kertoo kuitenkin vähintään hinnoitteluperusteen tai tuntiveloituksen tason ilman yhteydenottoa."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää lakifirmat?",
+    "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: kerrotaanko hinta tai hinnoitteluperuste avoimesti, näkyykö tekijöiden pätevyys ja toimeksiannon ehdot, sekä toimiiko sivusto teknisesti hyvin ja tavoittaako asiakaspalvelun. Emme anna oikeudellista neuvontaa, ja jokaisen pisteen perustelun näet palvelun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinnat (tuntihinta tai kiinteä hinta) julkisesti esillä (30), palvelun sisältö (mitä hintaan kuuluu) kuvattu (20), juristien pätevyys (asianajaja/varatuomari/lakimies) kerrottu (15), toimeksiannon ehdot julkisesti saatavilla (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

@@ -1291,6 +1291,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Pakohuoneala on Suomessa pääosin paikallista: valtaosa pelihuoneista on yhden kaupungin yrityksiä, eikä niitä voi laittaa suoraan valtakunnalliseen järjestykseen. Vertailu kattaa usealla paikkakunnalla toimivat ketjut, joten kannattaa aina tarkistaa myös oman kaupunkisi paikalliset vaihtoehdot.",
+  "huomioita": [
+   "Kattavuus vaihtelee: joku ketju toimii kahdessa kaupungissa, toinen yhdeksässä. Tarkista, onko toimipiste lähelläsi ennen kuin vertaat hintoja tai arvioita.",
+   "Sama yhtiö voi omistaa useita brändejä: esimerkiksi kaksi tunnettua nimeä voivat kuulua saman yhtiön alle, vaikka ne markkinoivat itseään erillisinä. Tarkista omistaja ennen kuin oletat kilpailevasi tarjouksia.",
+   "Hinnat ja varauskalenteri kannattaa löytyä verkosta ilman soittoa: jos hintaa ei näy, se voi vaihdella tuntuvasti ryhmäkoon tai ajankohdan mukaan.",
+   "Riippumattomat asiakasarviot (esimerkiksi Google tai TripAdvisor) kertovat pelikokemuksesta enemmän kuin markkinointiteksti, koska vertailu mittaa vain sivuston avoimuutta, ei huoneiden laatua.",
+   "Ala elää nopeasti: yrityksiä myydään, sulautetaan ja lopetetaan. Varmista, että yritys on yhä toiminnassa ennen varausta, jos löydät sen vanhasta hakemistosta tai suosituksesta."
+  ],
+  "vinkit": [
+   "Varaa aika suoraan verkossa, jos mahdollista, se vahvistaa että kalenteri ja hinnat pitävät paikkansa juuri nyt.",
+   "Kysy ryhmäkoon vaikutus hintaan etukäteen, monessa paikassa hinta on porrastettu pelaajamäärän mukaan.",
+   "Vertaa vaikeustasoja ja kestoja, eivätkä kaikki huoneet sovi samalle kokemustasolle tai ryhmäkoolle.",
+   "Tarkista peruutusehdot ennen maksua, erityisesti jos varaat isommalle ryhmälle etukäteen."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi listalla ei ole kaikkia Suomen pakohuoneita?",
+    "a": "Valtaosa Suomen pakohuoneyrityksistä toimii vain yhdellä paikkakunnalla, eikä niitä voi vertailla samalla valtakunnallisella mittarilla kuin usean kaupungin ketjuja. Vertailu kattaa löytämämme monikaupunkiset toimijat."
+   },
+   {
+    "q": "Miten tiedän, mitkä brändit kuuluvat samaan yhtiöön?",
+    "a": "Näytämme jokaisen yrityksen kohdalla sen virallisen omistajan ja Y-tunnuksen, jotta näet suoraan jos kaksi näennäisesti erillistä brändiä kuuluu saman konsernin alle."
+   },
+   {
+    "q": "Kertooko arvosana pelin hauskuudesta?",
+    "a": "Ei suoraan. Vertailu mittaa verkkosivun avoimuutta eli näkyvätkö hinnat, varauskalenteri ja toimipisteet ilman yhteydenottoa. Pelikokemuksesta kertovat parhaiten riippumattomat asiakasarviot, joiden esilläolo on yksi mittareistamme."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää pakohuoneketjut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: näkyvätkö hinnat ja varauskalenteri verkossa, kuvataanko huoneet ja vaikeustasot, sekä toimiiko sivusto teknisesti hyvin ja tavoittaako asiakaspalvelun. Jokaisen pisteen perustelun näet yrityksen profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Pelien hinnat julkisesti esillä (30), varauskalenteri toimii verkossa ilman yhteydenottoa (20), huoneet, vaikeustasot ja pelaajamäärät kuvattu (15), toimipisteet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

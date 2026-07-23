@@ -1544,6 +1544,40 @@
   }
  ],
  "updated": "16.7.2026",
+ "opas": {
+  "johdanto": "Vakuutusyhtiöiden hintalaskurit toimivat eri tavoin: osa näyttää arvion heti, osa vasta kun olet luovuttanut henkilötunnuksesi. Vertailemalla useampaa yhtiötä näet myös, kuka yhtiön oikeasti omistaa, sillä moni tuttu brändi kuuluu samaan konserniin kuin kilpailijansa.",
+  "huomioita": [
+   "Näkyykö hinta-arvio ilman henkilötunnusta: monilla hintalaskureilla arvio lasketaan vasta rekisteritietojen perusteella, mikä hidastaa vertailua.",
+   "Omavastuun taso ja mitä se käytännössä tarkoittaa vahinkotilanteessa: pienempi omavastuu nostaa yleensä vakuutusmaksua.",
+   "Kuka yhtiön omistaa: <b>POP Vakuutus on 70-prosenttisesti LähiTapiolan omistama</b>, ja neljä listan yhtiötä (LähiTapiola, Fennia, Turva, Pohjantähti) on keskinäisiä eli asiakkaidensa omistamia. Näytämme omistajan jokaisen kohdalla.",
+   "Ehtojen ja rajausten löydettävyys sivustolla ilman kirjautumista: hyvä yhtiö kertoo mitä vakuutus ei korvaa jo ennen ostopäätöstä.",
+   "Asiakaspalvelun tavoitettavuus: chat, puhelin ja niiden aukioloajat kannattaa tarkistaa etukäteen, ei vasta vahingon sattuessa."
+  ],
+  "vinkit": [
+   "Pyydä tarjous useammalta yhtiöltä samalla omavastuulla ja samoilla lisäturvilla, jotta tarjoukset ovat oikeasti vertailukelpoisia.",
+   "Tarkista yhdistelyalennus: usean vakuutuksen kokoaminen samaan yhtiöön voi vaikuttaa lopulliseen hintaan enemmän kuin peruslistahinta.",
+   "Lue korvauskäytäntö ja rajaukset etukäteen ehdoista, ei vasta kun vahinko on jo sattunut.",
+   "Vertaile myös keskinäisiä yhtiöitä osakeyhtiöiden rinnalla: niissä ei ole ulkopuolisia osakkeenomistajia jaettavaksi voittoa varten."
+  ],
+  "ukk": [
+   {
+    "q": "Vaikuttaako vakuutusyhtiön valinta korvauksen saamiseen vahinkotilanteessa?",
+    "a": "Kyllä epäsuorasti. Ehdot, omavastuu ja rajaukset vaihtelevat yhtiöittäin ja vaikuttavat siihen, mitä vahingosta korvataan. Lue ehdot etukäteen, älä vasta kun vahinko on jo sattunut."
+   },
+   {
+    "q": "Onko keskinäinen vakuutusyhtiö parempi kuin osakeyhtiö?",
+    "a": "Yhtiömuodot eivät ole suoraan verrannollisia keskenään. Keskinäisessä yhtiössä asiakkaat omistavat yhtiön eikä ulkopuolisia osakkeenomistajia ole, mutta käytännössä hinta, ehdot ja palvelu ratkaisevat enemmän kuin yhtiömuoto."
+   },
+   {
+    "q": "Miksi vakuutusyhtiön hintalaskuri pyytää henkilötunnuksen?",
+    "a": "Vakuutusmaksu lasketaan usein riskitietojen perusteella, jotka haetaan rekistereistä henkilötunnuksella. Tämä ei tarkoita, että sopimus olisi jo syntynyt, vaan pelkkä hinta-arvion pyytäminen ei sido mihinkään."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää vakuutusyhtiöt?",
+    "a": "Mittaamme jokaisen yhtiön julkisen verkkosivuston samalla julkisella kaavalla: näkyykö hintalaskuri, ehdot ja tavoitettavuus ilman kirjautumista. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet yhtiön profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinta-arvio ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), omavastuu kerrottu selkeästi (15), korvausprosessi ja -ajat kuvattu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (15)"
 }

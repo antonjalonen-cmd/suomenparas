@@ -1798,6 +1798,40 @@
   }
  ],
  "updated": "16.7.2026",
+ "opas": {
+  "johdanto": "Kortin logo ei kerro, kuka luoton oikeasti myöntää tai kuinka paljon se todellisuudessa maksaa. Vertailemalla useampaa korttia näet todellisen vuosikoron, joka sisältää kaikki kulut ja on ainoa oikeasti vertailukelpoinen luku.",
+  "huomioita": [
+   "Todellinen vuosikorko, ei pelkkä nimelliskorko tai kuukausikorko: vain todellinen vuosikorko sisältää kaikki kulut.",
+   "Kuka kortin oikeasti myöntää: kortin logo ei aina kerro tätä, esimerkiksi <b>OP-Visan ja K-Plussa Mastercardin myöntää sama yhtiö</b>.",
+   "Vuosimaksu ja muut kulut, kuten nosto- ja valuutanvaihtokulut ulkomailla käytettäessä.",
+   "Luottoraja ja sen korottamisen ehdot: liian iso luottoraja voi houkutella ylikuluttamaan.",
+   "Etuohjelman todellinen arvo suhteessa vuosimaksuun ja korkoon: bonus tai pisteet eivät korvaa korkeaa korkoa."
+  ],
+  "vinkit": [
+   "Vertaile aina todellista vuosikorkoa, se sisältää kaikki kulut ja on ainoa vertailukelpoinen luku eri korttien välillä.",
+   "Maksa luottokortin lasku aina kokonaan eräpäivänä, jos mahdollista. Osamaksu tekee kortista nopeasti kalliin.",
+   "Tarkista vuosimaksu suhteessa etuohjelman arvoon: kallis kortti ei aina maksa itseään takaisin bonuksilla.",
+   "Muista kuluttajaluoton korkokatto: viitekorko lisättynä enintään 15 prosenttiyksiköllä, kuitenkin enintään 20 prosenttia."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä ero on maksuaikakortilla ja luottokortilla?",
+    "a": "Luottokortilla voit maksaa laskun osissa korkoa vastaan. Maksuaikakortilla (charge card) koko summa erääntyy yleensä kerralla eikä siihen liity korkoa. Nämä eivät ole sama tuote, vaikka kortti näyttää samalta."
+   },
+   {
+    "q": "Miksi kortin logo ei kerro, kuka luoton myöntää?",
+    "a": "Monet kortit ovat yhteistyökumppanuuksia, joissa yksi yhtiö myöntää luoton ja toinen tuo mukaan oman brändinsä tai etuohjelmansa. Esimerkiksi OP-Visan ja K-Plussa Mastercardin myöntää sama yhtiö, vaikka Kesko tuo vain Plussa-edun."
+   },
+   {
+    "q": "Onko kuluttajaluoton korolle yläraja?",
+    "a": "Kyllä. Kuluttajaluoton koron yläraja on viitekorko lisättynä enintään 15 prosenttiyksiköllä, kuitenkin enintään 20 prosenttia."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää luottokortit?",
+    "a": "Mittaamme, näkyykö todellinen vuosikorko ja luotonmyöntäjä julkisesti verkkosivulla. Emme anna talousneuvontaa emmekä suosittele luoton ottamista, ja jokaisen pisteen perustelun näet kortin profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Korko ja todellinen vuosikorko esillä (30), vuosimaksu esillä (20), muut kulut (nosto, valuutanvaihto) esillä (15), luoton todellinen myöntäjä kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

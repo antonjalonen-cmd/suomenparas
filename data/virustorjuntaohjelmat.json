@@ -1827,6 +1827,40 @@
   }
  ],
  "updated": "21.7.2026",
+ "opas": {
+  "johdanto": "Virustorjuntaohjelmien alalla yleisin kuvio on halpa ensimmäinen vuosi, jonka jälkeen uusimishinta nousee hiljaa moninkertaiseksi. Osa tunnetuista brändeistä kuuluu myös samaan yhtiöön, vaikka ne markkinoivat itseään erillisinä kilpailijoina.",
+  "huomioita": [
+   "Kolme listan brändeistä on samaa yhtiötä: Gen Digital omistaa Nortonin, Avastin ja AVG:n, jotka voivat siis olla saman talon eri paketteja.",
+   "F-Secure on listan ainoa suomalainen toimija, sama pörssiyhtiö kuin F-Secure VPN vpn-vertailussamme.",
+   "Kaspersky on venäläistaustainen, mutta se myy edelleen Suomeen, eikä EU:lla ollut mittaushetkellä kuluttajamyynnin kieltoa.",
+   "Alan yleisin kuvio on halpa ensimmäinen vuosi ja hiljaa moninkertaistuva uusimishinta, siksi uusimishinnan avoimuus on oma 20 pisteen mittarinsa.",
+   "Vertailu ei mittaa tunnistustarkkuutta: riippumattomat testilaitokset kuten AV-TEST ja AV-Comparatives mittaavat varsinaisen suojaustehon."
+  ],
+  "vinkit": [
+   "Tarkista aina uusimishinta ensimmäisen vuoden tarjoushinnan lisäksi, ja laske mitä maksat toisena vuonna.",
+   "Selvitä kuka ohjelmiston oikeasti omistaa, sillä moni \"eri\" brändi on saman konsernin tuote.",
+   "Vertaa riippumattomien testilaitosten (AV-TEST, AV-Comparatives) tuloksia suojaustehosta, koska tämä vertailu mittaa vain sivuston avoimuutta, ei tunnistuskykyä.",
+   "Tarkista irtisanomisen helppous ja kytke automaattinen uusiminen pois, jos et halua sitä ensi vuodelle."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi virustorjuntaohjelman hinta nousee reippaasti toisena vuonna?",
+    "a": "Monet ohjelmistot myydään ensimmäisenä vuonna alennettuun tarjoushintaan, ja tilaus jatkuu automaattisesti normaalilla, usein moninkertaisella uusimishinnalla, jos et itse peru sitä. Kannattaa merkitä muistiin milloin ensimmäinen tilausjakso päättyy."
+   },
+   {
+    "q": "Onko väliä kuka virustorjuntaohjelman oikeasti omistaa?",
+    "a": "Kyllä, koska useampi tunnettu brändi voi olla saman konsernin tuote, vaikka ne markkinoivat itseään toistensa kilpailijoina. Tämä ei tee ohjelmasta huonoa, mutta kannattaa tietää ettet oikeasti vertaile kahta erillistä yhtiötä."
+   },
+   {
+    "q": "Miksi jotkut tunnetut virustorjuntaohjelmat eivät ole vertailussa mukana?",
+    "a": "Emme julkaise pisteitä sivustosta, jota mittarimme ei aidosti pystynyt tarkastelemaan, esimerkiksi jos sivusto esti kaikki hakuyrityksemme teknisesti. Poissaolo listalta kertoo mittauksen rajoitteesta, ei arvio ohjelmiston laadusta."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää virustorjuntaohjelmat?",
+    "a": "Mittaamme jokaisen ohjelmiston julkisen verkkosivuston samalla kaavalla: kerrotaanko ensimmäisen vuoden tarjouksen lisäksi myös uusimishinta, kuka ohjelmiston omistaa ja toimiiko sivusto teknisesti hyvin. Emme mittaa tunnistustarkkuutta, ja jokaisen pisteen perustelun näet ohjelmiston profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinnat julkisesti esillä (30), uusimishinta kerrottu (ei vain tarjoushinta) (20), omistava yhtiö kerrottu sivustolla (15), riippumattomat testitulokset (AV-TEST tms.) esillä (15), suomenkielinen sivusto ja hinnat euroissa (10), riippumaton arviolähde esillä (10)"
 }

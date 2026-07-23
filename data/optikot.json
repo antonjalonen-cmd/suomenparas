@@ -1077,6 +1077,40 @@
   }
  ],
  "updated": "18.7.2026",
+ "opas": {
+  "johdanto": "Optikkoketjujen hinnat ja palvelun sisältö vaihtelevat, ja osa tunnetuista brändeistä kuuluu samaan konserniin. Vertailemalla löydät ketjun, joka kertoo silmälasien ja näöntarkastuksen hinnat avoimesti jo ennen liikkeeseen menoa.",
+  "huomioita": [
+   "Omistus: Instrumentarium ja Nissen ovat saman yhtiön (Instru Optiikka Oy, osa EssilorLuxottica-konsernia) kaksi brändiä, vaikka ne markkinoivat itseään erikseen.",
+   "Omistusmuutokset: Terveystalo ilmoitti 8.6.2026 ostavansa Silmäaseman, mutta kauppa ei ollut mittaushetkellä vielä toteutunut. Ketjujen omistus voi vaihtua, joten kannattaa tarkistaa tilanne ennen asiointia.",
+   "Näöntarkastuksen hinta: monissa ketjuissa näöntarkastus on maksuton tai hyvitetään lasien ostoon, mutta ehdot vaihtelevat, joten selvitä tämä etukäteen.",
+   "Silmälasien kokonaishinta: kehyksen ja linssien hinta ilmoitetaan usein erikseen, joten pyydä aina kokonaishinta ennen ostopäätöstä.",
+   "Ajanvaraus: mahdollisuus varata näöntarkastusaika verkossa ilman puhelinsoittoa tai kirjautumista kertoo palvelun sujuvuudesta."
+  ],
+  "vinkit": [
+   "Pyydä kirjallinen kokonaishinta-arvio (kehys, linssit ja mahdolliset lisät) ennen ostopäätöstä, äläkä tyydy pelkkään kehyshintaan.",
+   "Vertaa vähintään kahden ketjun hinnastoa samalle linssityypille, sillä hintaerot voivat olla suuria.",
+   "Kysy, sisältyykö näöntarkastukseen jälkitarkastus tai takuuaika, jos lasit eivät tunnu sopivilta.",
+   "Selvitä, onko ketjulla työterveyshuollon sopimusta tai muuta korvausta, jos työnantajasi tukee näöntarkastuksia."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi Instrumentarium ja Nissen näyttävät niin samanlaisilta valikoimiltaan?",
+    "a": "Ne ovat saman yhtiön, Instru Optiikka Oy:n, kaksi brändiä osana kansainvälistä EssilorLuxottica-konsernia. Valikoimat ja hinnoittelu voivat olla lähellä toisiaan, vaikka markkinointi on erillistä."
+   },
+   {
+    "q": "Onko näöntarkastus aina maksullinen?",
+    "a": "Käytäntö vaihtelee ketjuittain: osa tarjoaa maksuttoman tarkastuksen lasien oston yhteydessä, osa perii erillisen maksun. Kysy hinta ja ehdot aina etukäteen suoraan ketjulta."
+   },
+   {
+    "q": "Miksi Silmäaseman omistustilanne on merkitty epäselväksi?",
+    "a": "Terveystalo ilmoitti 8.6.2026 ostavansa Silmäaseman, mutta kauppa ei ollut mittaushetkellä vielä toteutunut. Päivitämme omistustiedot jokaisella tarkistuskierroksella."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää optikkoketjut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: kerrotaanko silmälasien ja näöntarkastuksen hinnat avoimesti, toimiiko ajanvaraus verkossa ja tavoittaako asiakaspalvelun. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet palvelun profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Silmälasien/linssien hintatietoja julkisesti esillä (30), näöntarkastuksen hinta kerrottu (20), ajanvaraus verkossa ilman kirjautumista (15), liikkeet ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

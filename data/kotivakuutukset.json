@@ -1437,6 +1437,40 @@
   }
  ],
  "updated": "17.7.2026",
+ "opas": {
+  "johdanto": "Kotivakuutuksen hinta ja sisältö riippuvat asunnon tyypistä, koosta, sijainnista ja rakennusvuodesta, joten yhtä oikeaa hintaa ei voi lukea verkkosivulta. Sen sijaan kannattaa vertailla, mitä turvataso käytännössä kattaa ja miten selkeästi yhtiö kertoo korvausrajoituksista, kuten vuotovahinkojen ikävähennyksistä.",
+  "huomioita": [
+   "Ikävähennykset yllättävät: erityisesti vuotovahingoissa vanhat putket ja rakenteet voivat pienentää korvausta merkittävästi iän perusteella. Kysy tämä ehdoista ennen vahinkoa, ei sen jälkeen.",
+   "Omavastuun suuruus vaihtelee vahinkotyypeittäin: sama vakuutus voi sisältää eri omavastuun esimerkiksi vuoto-, murto- ja palovahingoille.",
+   "Turvataso ei ole yhteismitallinen: laaja ja suppea kotivakuutus voivat kattaa eri asioita eri yhtiöissä, vaikka nimikkeet muistuttavat toisiaan.",
+   "Bottisuojaus tai JavaScript-toteutus ei ole merkki huonosta yhtiöstä: osa sivuista on teknisesti vaikeampi mitata automaattisesti, vaikka ihminen näkee sisällön normaalisti.",
+   "Sama yhtiö, eri sivu: kotivakuutussivun pisteet kuvaavat vain sitä sivua, eivät koko yhtiötä tai sen auto- tai matkavakuutussivua."
+  ],
+  "vinkit": [
+   "Kysy suoraan, onko vuotovahingoissa käytössä ikävähennys ja missä iässä se alkaa vaikuttaa korvaukseen.",
+   "Vertaa omavastuita eri vahinkotyypeille, älä pelkkää vuosimaksua, sillä pienempi maksu voi tarkoittaa suurempaa omavastuuta vahingon sattuessa.",
+   "Tarkista, kattaako vakuutus irtaimiston myös kodin ulkopuolella, esimerkiksi matkalla tai autossa, jos tämä on sinulle tärkeää.",
+   "Tarkista ehdot suoraan vakuuttajalta ennen päätöstä, sillä hinta ja korvauskatot riippuvat aina asunnosta ja valitusta turvatasosta."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on ikävähennys kotivakuutuksessa?",
+    "a": "Ikävähennys tarkoittaa, että korvausta pienennetään vahingoittuneen rakenteen tai laitteen iän perusteella, ja se koskee tyypillisimmin vuotovahinkoja. Käytäntö ja rajat vaihtelevat yhtiöittäin, joten tarkista tarkka ikävähennystaulukko ehdoista."
+   },
+   {
+    "q": "Kattaako kotivakuutus omaisuuden myös kodin ulkopuolella?",
+    "a": "Osa vakuutuksista kattaa irtaimiston rajoitetusti myös kodin ulkopuolella, esimerkiksi matkalla, mutta kattavuus ja euromääräiset rajat vaihtelevat. Tarkista tämä suoraan ehdoista, jos se on sinulle tärkeää."
+   },
+   {
+    "q": "Miksi Pohjola Vakuutus ei ole mukana vertailussa?",
+    "a": "Emme onnistuneet mittaamaan pohjola.fi:n kotivakuutussivua, koska se ohjaa op.fi:hin, joka rakentaa sisältönsä JavaScriptillä. Kyse on meidän mittausongelmastamme, ei havainnosta OP:n palvelun laadusta, joten jätimme yhtiön kokonaan pois arvaamisen sijaan."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää kotivakuutuspalvelut?",
+    "a": "Mittaamme jokaisen yhtiön julkisen kotivakuutussivun samalla kaavalla: kerrotaanko hinta-arvio, turvatasot ja korvausrajoitukset avoimesti, toimiiko sivu teknisesti hyvin ja onko asiakaspalvelu tavoitettavissa. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet yhtiön profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinta-arvio ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), omavastuu kerrottu selkeästi (15), korvauskatot ja rajoitukset kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }

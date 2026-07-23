@@ -1423,6 +1423,40 @@
   }
  ],
  "updated": "17.7.2026",
+ "opas": {
+  "johdanto": "Matkavakuutuksessa itse hintaa tärkeämpää on usein se, mitä vakuutus rajaa pois: urheilulajit, riskimaat, ikärajat ja jo olemassa olevat sairaudet ovat kohtia, joista korvauskiistat useimmin syntyvät. Eurooppalainen sairaanhoitokortti kattaa vain osan tilanteista, joten sen ja vapaaehtoisen matkavakuutuksen eroa kannattaa ymmärtää ennen matkaa.",
+  "huomioita": [
+   "Rajoitukset löytyvät ehdoista, ei mainoksesta: urheilulajien rajaukset, ikärajat ja riskimaat vaikuttavat siihen, korvataanko vahinko vai ei.",
+   "Jo olemassa olevat sairaudet: monissa vakuutuksissa on erillisehtoja aiemmin todetuille sairauksille, ja korvausta voidaan rajata tai evätä niiden perusteella.",
+   "Peruutusturva ei ole itsestäänselvyys: tarkista, kattaako vakuutus matkan peruuntumisen sairauden vuoksi ja mikä on korvauksen yläraja.",
+   "Kela-kortti ei riitä yksin: eurooppalainen sairaanhoitokortti kattaa julkisen terveydenhuollon EU- ja ETA-maissa, mutta ei esimerkiksi kotiinkuljetusta tai yksityistä hoitoa, eikä se kata matkoja EU:n ulkopuolelle.",
+   "Bottisuojaus tai JavaScript-toteutus ei ole merkki huonosta yhtiöstä: osa sivuista on teknisesti vaikeampi mitata automaattisesti, vaikka ihminen näkee sisällön normaalisti."
+  ],
+  "vinkit": [
+   "Tarkista ennen matkaa, riittääkö Kela-kortti vai tarvitsetko erillisen matkavakuutuksen, erityisesti EU:n ulkopuolelle matkustaessa.",
+   "Jos harrastat urheilua matkalla, lue erikseen lajikohtaiset rajaukset, sillä esimerkiksi laskettelu tai sukellus on usein rajattu perustason vakuutuksesta.",
+   "Ilmoita mahdolliset aiemmat sairaudet vakuuttajalle etukäteen, jos vakuutusehdot sitä edellyttävät, jotta korvausoikeus ei myöhemmin ole epäselvä.",
+   "Tarkista ehdot suoraan vakuuttajalta ennen matkaa, sillä korvauskatot ja rajoitukset ovat juuri se kohta, jossa yhtiöt eroavat eniten."
+  ],
+  "ukk": [
+   {
+    "q": "Riittääkö eurooppalainen sairaanhoitokortti ulkomaanmatkalle?",
+    "a": "Emme kerro riittääkö eurooppalainen sairaanhoitokortti juuri sinun matkallesi. Kortti kattaa julkisen terveydenhuollon EU- ja ETA-maissa, mutta ei esimerkiksi kotiinkuljetusta, yksityistä hoitoa tai matkoja kortin kattaman alueen ulkopuolelle, joten tarkista turvan riittävyys ehdoista ennen matkaa."
+   },
+   {
+    "q": "Korvaako matkavakuutus, jos matka peruuntuu sairauden vuoksi?",
+    "a": "Monissa matkavakuutuksissa on peruutusturva, joka korvaa peruuntuneen matkan kuluja sairaustapauksessa, mutta kattavuus ja euromääräinen yläraja vaihtelevat yhtiöittäin. Tarkista peruutusturvan ehdot ja rajat ennen matkan varaamista."
+   },
+   {
+    "q": "Miksi Pohjola Vakuutus ei ole mukana vertailussa?",
+    "a": "Emme onnistuneet mittaamaan pohjola.fi:n matkavakuutussivua, koska se ohjaa op.fi:hin, joka rakentaa sisältönsä JavaScriptillä. Kyse on meidän mittausongelmastamme, ei havainnosta OP:n palvelun laadusta, joten jätimme yhtiön kokonaan pois arvaamisen sijaan."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää matkavakuutuspalvelut?",
+    "a": "Mittaamme jokaisen yhtiön julkisen matkavakuutussivun samalla kaavalla: kerrotaanko hinta-arvio, korvauskatot ja rajoitukset avoimesti, toimiiko sivu teknisesti hyvin ja onko asiakaspalvelu tavoitettavissa. Sijoitusta ei voi ostaa, ja jokaisen pisteen perustelun näet yhtiön profiilista."
+   }
+  ]
+ },
  "mittarit": 19,
  "lapinakyvyys_kriteerit": "Hinta esillä ilman yhteystietoja (30), vakuutusehdot/tuoteseloste julkisesti saatavilla (20), korvauskatot (sairaus, matkatavara) kerrottu (15), rajoitukset (urheilulajit, ikä, riskimaat) kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
 }
