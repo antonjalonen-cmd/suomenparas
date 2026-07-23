@@ -3,18 +3,18 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (34 kpl, 23.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (35 kpl, 23.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
 virustorjuntaohjelmat, suoratoistopalvelut, kiinteistonvalittajat,
 muuttopalvelut, siivouspalvelut, autokoulut, autokatsastus, autokorjaamot,
 autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
-yksityislaakarit, lakifirmat, pakohuoneet. ÄLÄ rakenna näitä uudestaan.
+yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot. ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
 
-- [~] hautaustoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
+- [x] hautaustoimistot — julkaistu 23.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts OK, LH 7/7)
 - [~] matkatoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
 - [~] tilitoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
 - [~] fysioterapia — varattu: päätyösessio 23.7.2026 (batch 6)
