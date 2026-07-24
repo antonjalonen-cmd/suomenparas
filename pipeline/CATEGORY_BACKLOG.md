@@ -3,7 +3,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (37 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (41 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -11,7 +11,8 @@ virustorjuntaohjelmat, suoratoistopalvelut, kiinteistonvalittajat,
 muuttopalvelut, siivouspalvelut, autokoulut, autokatsastus, autokorjaamot,
 autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
 yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
-matkatoimistot. ÄLÄ rakenna näitä uudestaan.
+matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
+ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
 
@@ -24,7 +25,7 @@ matkatoimistot. ÄLÄ rakenna näitä uudestaan.
 - [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
 - [s] kodinkonehuolto — hylätty 24.7.2026: alle 6 valtakunnallista kuluttajapalvelua — vain Hakonen ja Huoltolux ovat aidosti kansallisia; loput ovat paikallisia tai valmistajan yksimerkkisiä huoltopalveluita, joita ei voi mielekkäasti vertailla keskenaan
 - [s] catering-palvelut — hylätty 24.7.2026: markkina on b2b-painotteinen (Fazer Food + Compass = sama konserni, Sodexo); kuluttajatapahtumapalvelut ovat paikallisia, ei valtakunnallisia ketjuja
-- [~] festivaalit-lipunmyynti — työn alla 24.7.2026 (slug: tapahtumaliput); kandidaatit: Ticketmaster, Lippu.fi, Tiketti, NetTicket, Kide.app, Eventbrite
+- [x] festivaalit-lipunmyynti — julkaistu 24.7.2026 (slug: tapahtumaliput; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Tiketti #1 78.9, NetTicket #2 78.2, Ticketmaster viimeinen 39.3; Lippu.fi Akamai CDN mittausaukko)
 - [ ] ruokakassipalvelut — kandidaatit: HelloFresh?, Sannan Ruokakassi?, Fiksuruoka, Matsmart (tarkista mitkä elävät 2026)
 - [ ] ruoan-kotiinkuljetus — kandidaatit: Wolt, Foodora; vain 2 isoa? → tarkista K-Ruoka/S-kaupat toimitus, ellei ≥6 → [s]
 - [ ] apteekkien-verkkokaupat — kandidaatit: Yliopiston Apteekki, Apteekki.fi?, Hyvän Mielen Apteekit?, Avainapteekit? (sääntely huomioon)
