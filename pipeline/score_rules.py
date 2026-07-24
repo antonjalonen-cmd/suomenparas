@@ -93,6 +93,16 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    "tapahtumaliput": [
+        # Core question: can you see the TOTAL price including all service/booking fees
+        # BEFORE you have to commit to a purchase or create an account?
+        ("palvelumaksut_esilla", "Palvelumaksut (lisät) esillä ennen maksuprosessia", 30),
+        ("kokonaishinta_ilman_ostoa", "Kokonaishinnan (lippu + maksut) saa tietää ilman ostoprosessia", 20),
+        ("peruutusehdot_esilla", "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä", 20),
+        ("ostaa_ilman_rekisteroitymista", "Liput voi tilata ilman rekisteröitymistä", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä (tai omistava yhtiö selkeästi kerrottu)", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
 
     "vakuutukset": [
         ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),

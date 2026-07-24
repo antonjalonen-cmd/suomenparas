@@ -1035,3 +1035,30 @@ COMPANIES["tavaransailytys"] = [
     dict(slug="flexistore", nimi="Flexistore", domain="flexistore.fi", y_tunnus="3380916-4",
          omistaja="Flexistore Finland Oy Ab, Siuntio — sovellusohjattu avainkoodi-varasto, toimintaa Helsingissä ja Siuntiossa"),
 ]
+
+# ---------------------------------------------------------------- BATCH 7 (24.7.2026)
+# TAPAHTUMALIPUT (6 lipunmyyntipalvelua; kodinkonehuolto+catering hylätty viabiliteettitarkistuksessa)
+# Lippu.fi botti-esto Akamai-CDN:llä (HTTP-yhteys avautuu, sivu ei vastaa koskaan) —
+# kirjattu mittausaukoksi, ei pisteeksi. Kide.app (Treanglo Oy) on opiskelija/yhteisö-
+# painotteinen mutta toimii yli 20 kaupungissa ja 170 000+ käyttäjällä — mukana.
+# EXCLUDED: fanSALE.fi = Lippupiste Oy:n oma jälleenmyyntialusta (SAME_COMPANY lippu.fi).
+COMPANIES["tapahtumaliput"] = [
+    dict(slug="ticketmaster", nimi="Ticketmaster", domain="ticketmaster.fi",
+         y_tunnus="0110928-6",
+         omistaja="Live Nation Entertainment Inc. (Yhdysvallat) — Suomessa Ticketmaster Suomi Oy (ent. Lippupalvelu Oy, perustettu 1945)"),
+    dict(slug="lippu", nimi="Lippu.fi", domain="lippu.fi",
+         y_tunnus="1789232-4",
+         omistaja="CTS Eventim SE & Co. KGaA (Saksa) — Suomessa Lippupiste Oy (rek. 1997); myös Liigalippu-brändi; botti-esto CDN:llä, ei mitattavissa digitaalisesti"),
+    dict(slug="tiketti", nimi="Tiketti", domain="tiketti.fi",
+         y_tunnus="0116189-3",
+         omistaja="Tiketti Oy — Suomen suurin suomalainen lipunvälittäjä (per. 1975); liput saatavilla kaikista R-kioskeista"),
+    dict(slug="netticket", nimi="NetTicket", domain="netticket.fi",
+         y_tunnus="1028658-3",
+         omistaja="Oy NetTicket Finland Ab — suomalainen (Vaasa, per. 1989); teatteri- ja tapahtumalippujen erikoisalusta"),
+    dict(slug="kide", nimi="Kide.app", domain="kide.app",
+         y_tunnus="2623329-1",
+         omistaja="Treanglo Oy — suomalainen startup; pääfokus opiskelijatapahtumat, yli 500 yhteisöä 20+ kaupungissa"),
+    dict(slug="eventbrite", nimi="Eventbrite", domain="eventbrite.fi",
+         y_tunnus=None,
+         omistaja="Eventbrite Inc. (Yhdysvallat) — ei suomalaista rekisteröintiä; toimii Suomessa eventbrite.fi-osoitteessa"),
+]

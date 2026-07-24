@@ -65,6 +65,8 @@ MEASURED = {
     "pilvitallennuspalvelut": "21.7.2026",
     # batch 6
     "tavaransailytys": "23.7.2026",
+    # batch 7
+    "tapahtumaliput": "24.7.2026",
     "salasananhallintapalvelut": "21.7.2026",
     "autokorjaamot": "21.7.2026",
     "suoratoistopalvelut": "21.7.2026",

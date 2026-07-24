@@ -1119,3 +1119,40 @@ META["tavaransailytys"] = {
          "ne eivät vaikuta pisteisiin."),
     ],
 }
+
+META["tapahtumaliput"] = {
+    "slug": "tapahtumaliput",
+    "nimi": "Tapahtumaliput",
+    "nav": "Tapahtumaliput",
+    "h1": "Suomen paras lipunmyyntipalvelu 2026",
+    "yksikko": "Suomessa toimivaa tapahtumien lipunmyyntipalvelua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa tapahtumien lipunmyyntipalvelua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö kokonaishinnan palvelumaksuineen ennen kuin sitoudut ostoon?"),
+    "meta_title": "Suomen paras lipunmyyntipalvelu 2026 | tapahtumaliput pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} tapahtumien lipunmyyntipalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Miksi listalla on vain {n} palvelua?</b> Etsimme palveluita, joista suomalaiset "
+         "kuluttajat oikeasti ostavat tapahtumaliput. Kolme suurinta (Ticketmaster, Lippu.fi, "
+         "Tiketti) kattavat ylivoimaisen enemmistön konsertti-, festivaali-, teatteri- ja "
+         "urheilulipuista. NetTicket on pienempien tapahtumajärjestäjien suosittu alusta, "
+         "Kide.app palvelee opiskelijajärjestöjen tapahtumia yli 20 kaupungissa, ja Eventbrite "
+         "on kansainvälinen alusta, jota kautta myydään myös suomalaisia tapahtumia."),
+        ("<b>Lippu.fi ei ollut digitaalisesti mitattavissa.</b> Lippupiste Oy:n lippu.fi on "
+         "Akamai-CDN:n suojaama niin, että automaattinen mittaus ei saa vastausta lainkaan. "
+         "Tämä on mittausaukko meidan puoleltamme, ei havainto palvelusta. Läpinäkyvyys-, "
+         "tavoitettavuus- ja AI-pillarit mitataan sivuston julkisesta sisällöstä; ne ovat "
+         "mitattavissa, mutta Lighthouse-suorituskyky merkitään 'ei mitattavissa'."),
+        ("<b>Omistus:</b> Ticketmaster Suomi Oy on yhdysvaltalaisen Live Nation Entertainmentin "
+         "omistama (ent. Lippupalvelu Oy, perustettu 1945). Lippu.fi on saksalaisen CTS Eventiamin "
+         "omistaman Lippupiste Oy:n palvelu. Tiketti Oy on Suomen suurin suomalainen lipunvälittäjä "
+         "ja sen liput saa kaikista R-kioskeista. NetTicket on vaasalainen Oy NetTicket Finland Ab. "
+         "Kide.app on tamperelaisen Treanglo Oy:n alusta. Eventbrite on yhdysvaltalainen eika silla "
+         "ole suomalaista rekisteröintia."),
+        ("Vertailu kuvaa lipunmyyntipalvelujen julkisten verkkosivujen mitattavia ominaisuuksia, "
+         "ei tapahtumavalikoimaa, jonotusaikoja tai asiakaspalvelun nopeutta. Palvelumaksut "
+         "vaihtelevat tapahtumittain ja ovat palvelun asettamia; vertailu mittaa kerrotaanko "
+         "ne avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
+    ],
+}

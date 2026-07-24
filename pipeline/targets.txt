@@ -355,3 +355,13 @@ tavaransailytys__tokkovarasto=tokkovarasto.fi
 tavaransailytys__m2selfstorage=m2selfstorage.fi
 tavaransailytys__kotivarasto=kotivarasto.fi
 tavaransailytys__flexistore=flexistore.fi
+
+# TAPAHTUMALIPUT (6 lipunmyyntipalvelua; verified 24.7.2026)
+# lippu.fi botti-esto (Akamai CDN hang) — root domain silti mukana, LH mittaa sen miten voi
+# tiketti: www.tiketti.fi (ei-www 000)
+tapahtumaliput__ticketmaster=ticketmaster.fi
+tapahtumaliput__lippu=lippu.fi
+tapahtumaliput__tiketti=www.tiketti.fi
+tapahtumaliput__netticket=netticket.fi
+tapahtumaliput__kide=kide.app
+tapahtumaliput__eventbrite=eventbrite.fi

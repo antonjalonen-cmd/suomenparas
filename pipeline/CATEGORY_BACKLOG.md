@@ -22,9 +22,9 @@ matkatoimistot. ÄLÄ rakenna näitä uudestaan.
 - [x] autopesulat — julkaistu 24.7.2026 (paatyosessio batch 6; portit OK)
 - [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
 - [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
-- [~] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
-- [ ] catering-palvelut — kandidaatit: Fazer Food?, Compass Group?, Sodexo? (b2b-paino, arvioi kuluttajakulma)
-- [ ] festivaalit-lipunmyynti — kandidaatit: Ticketmaster, Lippu.fi, Tiketti, Kide.app, Tikettikauppa?
+- [s] kodinkonehuolto — hylätty 24.7.2026: alle 6 valtakunnallista kuluttajapalvelua — vain Hakonen ja Huoltolux ovat aidosti kansallisia; loput ovat paikallisia tai valmistajan yksimerkkisiä huoltopalveluita, joita ei voi mielekkäasti vertailla keskenaan
+- [s] catering-palvelut — hylätty 24.7.2026: markkina on b2b-painotteinen (Fazer Food + Compass = sama konserni, Sodexo); kuluttajatapahtumapalvelut ovat paikallisia, ei valtakunnallisia ketjuja
+- [~] festivaalit-lipunmyynti — työn alla 24.7.2026 (slug: tapahtumaliput); kandidaatit: Ticketmaster, Lippu.fi, Tiketti, NetTicket, Kide.app, Eventbrite
 - [ ] ruokakassipalvelut — kandidaatit: HelloFresh?, Sannan Ruokakassi?, Fiksuruoka, Matsmart (tarkista mitkä elävät 2026)
 - [ ] ruoan-kotiinkuljetus — kandidaatit: Wolt, Foodora; vain 2 isoa? → tarkista K-Ruoka/S-kaupat toimitus, ellei ≥6 → [s]
 - [ ] apteekkien-verkkokaupat — kandidaatit: Yliopiston Apteekki, Apteekki.fi?, Hyvän Mielen Apteekit?, Avainapteekit? (sääntely huomioon)
