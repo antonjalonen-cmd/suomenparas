@@ -1,0 +1,53 @@
+{
+  "slug": "talenom",
+  "fetched_ok": [
+    "https://talenom.com/fi-fi/",
+    "https://talenom.com/fi-fi/kirjanpito/",
+    "https://talenom.com/fi-fi/usein-kysytyt-kysymykset/",
+    "https://talenom.com/fi-fi/hintalaskuri/",
+    "https://talenom.com/fi-fi/palkanlaskenta/"
+  ],
+  "hinnat_esilla": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "ei",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kk_hinta_alkaen_eur": 153.5,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattavat palvelut yhdestä paikasta: kirjanpito, palkanlaskenta, HR ja konsultointi selkeästi kuvattu",
+    "Hyvä asiakaspalvelu-korostus: nimetty asiantuntija, säännölliset tapaamiset, 29 paikkakuntaa",
+    "Selkeä hinta-arkkitehtuuri: kolme palvelutasoa (Perus, Kasvu, Pro) hintalaskurilla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus puuttuu: julkisilla sivuilla ei näy yhtiön rekisteritiedot",
+    "Auktorisointi/KLT-pätevyydet sivuutetaan: vain ISO27001 ja ISAE3402 standardit mainitaan",
+    "Riippumattomat arviot puuttuvat: pelkästään omat asiakastarinat, ei kolmannen osapuolen lähteillä mitattavia arvioita"
+  ],
+  "yhteenveto": "Talenom on laaja tilitoimistopalvelujen tarjoaja, joka palvelee 29 paikkakunnalla ympäri Suomea. Sivusto esittelee monipuolisesti kattavat palvelut (kirjanpito, palkanlaskenta, HR, konsultointi) ja integraatiot useisiin taloushallinto-ohjelmistoihin (Netvisor, Easor, Admicom, Procountor, Fennoa). Hinnoittelu on selkeästi näkyvillä kolmiportaisen palvelutason kautta, mutta Y-tunnus ja KLT-auktorisoinnin statusta ei julkisesti ilmaista.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Talenom Pro -palvelu hinnoiteltuna 153,5 €/kk, hintalaskuri saatavilla kolmen palvelutason (Perus, Kasvu, Pro) vertailulle eri yrityskokojen mukaan.",
+    "palvelut_kuvattu": "HAVAINTO: Sivustolla kuvataan kuusi pääpalvelua: Kirjanpito (välitilinpäätöstasoinen kuukausiraportointi), Palkanlaskenta (Mepco HRM -järjestelmällä), HR-palvelut, Myyntilaskutus, Konsultointi (laki- ja veroneuvonta), Talouspäällikköpalvelut (CFO/controller-palvelut).",
+    "ohjelmistot_kerrottu": "HAVAINTO: Listataan viisi integroitavaa ohjelmistoa: Netvisor, Easor App, Admicom Ultima, Finnea ja Finago Procountor. Palkanlaskennassa käytetään Mepco HRM -järjestelmää. Sivulla todetaan asiakkaiden voivan valita omansa tai Talenomin ehdotuksista.",
+    "auktorisointi_kerrottu": "HAVAINTO: Sivustolla mainitaan ISO27001 -tietoturvastandardi ja ISAE3402 -varmennusstandardi, mutta KLT-pätevyyksiä tai Taloushallintoliitto-jäsenyyttä ei nimenomaisesti mainiteta.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy Talenom.com-sivuston julkisilla sivuilla, myöskään footerissa tai yhteystiedoissa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näytetään omia asiakastarinoita (Jokerit, Pelaajat.com, Huovisen Leipomo ym.), mutta riippumattomia arvioita (esim. Trustpilot, Google Reviews) ei ole linkitetty tai näkyvillä julkisesti.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-puhelin näkyy jokaisella sivulla: 0207 525 000, arkisin klo. 8:00 – 18:00 (FAQ:ssä mainitaan klo. 07:00–21:00).",
+    "email_esilla": "HAVAINTO: Asiakaspalvelun sähköpostiosoite näkyy jokaisella sivulla: info@talenom.fi.",
+    "chat_mainittu": "HAVAINTO: Sivusto sisältää Tawk.to-chat-widgetin (näkyvissä frontend-koodissa embed.tawk.to), mutta chat-palvelusta ei ole erityisesti mainittu teksti-muodossa.",
+    "aukioloajat_esilla": "HAVAINTO: Julkisesti näkyy kaksi eri aukioloaikaa: Footerissa 'arkisin klo. 8:00 – 18:00' ja FAQ:ssä asiakaspalvelun osalta 'kello 07:00–21:00 välisenä aikana'.",
+    "ukk_osio": "HAVAINTO: Omistettu FAQ-sivu 'Usein kysytyt kysymykset' sisältää 20+ kysymystä-vastaus-paria kategorioissa: Talenomin palvelut, Talenomin toimintatavat, Talenom yrittäjän tukena.",
+    "mobiilisovellus": "HAVAINTO: Easor App mainitaan jokaiseen ratkaisuun sisältyväksi ja kuvataan 'sähköiseksi asiakaskäyttöliittymäksi', joka 'kulkee mukana mobiilissa'."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "pelican",
+  "fetched_ok": [
+    "https://pelican.fi/",
+    "https://pelican.fi/ukk-usein-kysytyt-kysymykset/",
+    "https://pelican.fi/yleiset-ehdot",
+    "https://pelican.fi/vakuutusehdot",
+    "https://pelican.fi/tietoa-meista"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "ei",
+  "varaus_verkossa": "kylla",
+  "sopimusehdot_kerrottu": "kylla",
+  "vakuutus_ja_vastuu_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "nelio_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattavat yleiset ehdot ja vakuutusehdot saatavilla verkossa yksityiskohtaisesti",
+    "Laajalti dokumentoitu UKK-osio vastaa moninaisiin asiakaiskysymyksiin",
+    "Selkeä kuvaus varastointipalvelun ehdoista, turvallisuudesta ja vakuutuksesta"
+  ],
+  "kehityskohteet": [
+    "Hinnat ei julkisesti näkyvissä; vaatii kontaktin ottamisen tai MyPelican-sovellukseen kirjautumisen",
+    "Y-tunnus puuttuu footerista ja yritystiedoista",
+    "Mobiilisovellus mainitaan vain viitteellisesti eikä ole suoraan linkitetty"
+  ],
+  "yhteenveto": "Pelican Self Storage tarjoaa kattavan informaation varastointipalveluistaan, vakuutuksista ja sopimusehdoista. Hinnat eivät kuitenkaan ole julkisesti näkyvissä ilman yhteydenottoa tai kirjautumista sovellukseen. Yritys tarjoaa 50% alennusta ensimmäisille kahdelle kuukaudelle ja verkkovuokrausta MyPelican-järjestelmän kautta.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Etusivu mainostaa '50% 2KK' alennusta, mutta varsinaisia kuukausihinnoitteluja ei löydy. Käyttäjä ohjataan ottamaan yhteyttä puhelimitse (0207 007 700) tai lähettämään varauspyyntö verkon kautta. Henkilökohtainen tarjous vaaditaan.",
+    "varaus_verkossa": "HAVAINTO: UKK-osiossa sanotaan 'Voit varata varaston sähköisesti etusivultamme, jolloin saat varaston käyttöösi kymmenessä minuutissa' ja mainitaan MyPelican-sovellus. Sähköinen varaus on mahdollista.",
+    "sopimusehdot_kerrottu": "HAVAINTO: Erillinen 'Yleiset ehdot' -sivu dokumentoi sopimustermit, mukaan lukien irtisanomispolitiikka ('irtisanoa sopimuksesi päättymään saman kuukauden loppuun, kun ilmoitat meille viimeistään saman kuun 15. päivä'). Vähimmäiskausi ei ole mainittu, mutta joustavuus korostetaan.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: Laaja 'Vakuutusehdot' -sivu käsittelee vakuutusta. Vakuutus on pakollinen: 'Pelican vaatii, että varastosi on vakuutettu'. Vakuutussuoja sisältyy palveluihin (Amica for AXA). Hinta määritellään varaston koon ja irtaimiston kokonaisarvon perusteella. Vakuutusvapautukset luetellaan yksityiskohtaisesti.",
+    "y_tunnus_esilla": "HAVAINTO: Yritystiedot näkyvät footerissa (Kantelettarentie 1 A, 00420 Helsinki, puhelin 0207 007 700, sähköposti info@pelican.fi), mutta Y-tunnusta ei näytetä.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei näy ulkoisia arvosteluja, Google-tähteä tai Trustpilot-widgetia. Palvelua markkinoidaan omilla vahvuuksilla, mutta itsenäisiä arvioita ei näytetä julkisesti."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "kotifysio",
+  "fetched_ok": [
+    "https://kotifysio.fi/",
+    "https://kotifysio.fi/hinnasto/",
+    "https://kotifysio.fi/palvelut/",
+    "https://kotifysio.fi/henkilosto/",
+    "https://kotifysio.fi/ukk/",
+    "https://kotifysio.fi/yritys/",
+    "https://kotifysio.fi/yhteystiedot/",
+    "https://kotifysio.fi/palaute/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "osittain",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "kaynti_hinta_alkaen_eur": 79,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 88,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Laaja terapeuttien esittely niiden pätevyydet näkyvissä (kaikkiaan 40+ terapeuttia Fysioterapeutti AMK -pätevyydellä)",
+    "Selkeä hinnasto kotikäyntien hinnoilla ja palvelutalojen erilaisilla hinnoilla sekä lisäpalvelut eritelty",
+    "Kattava UKK-osio käsittelee useita asiakkaan huolenaiheita (peruminen, lääkärin lähete, veloitus, ryhmäliikunta)"
+  ],
+  "kehityskohteet": [
+    "Ajanvaraus vaatii puhelun tai yhteydenottolomaketta - ei täysin verkkopohjaista varausjärjestelmää",
+    "Ei riippumattomia arviota tai kolmannen osapuolen arvosteluja näkyvissä (esim. Google Reviews, Trustpilot)",
+    "Terapeutin erikoisaloja tai erityisiä pätevyyksiä (esim. urheilufysioterapia, neurorehab) ei kuvattu henkilöstökuvauksissa"
+  ],
+  "yhteenveto": "Kotifysio on Helsinkiin perustettu fysioterapiapalvelujen tarjoaja, joka keskittyy kotikäynteihin senioreille ympäri Suomea. Sivustolla esitetään laaja terapeuttien joukko ja selkeä hinnasto sekä kattava palveluiden kuvaus. Ajanvaraus edellyttää puhelintaksi tai lomakkeen täyttöä, eikä sivustolla näy riippumattomia arviota.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla esitetään selkea hinnoittelu: 45 minuuttia 79€, 60 minuuttia 95€. Lisäpalvelut (harjoitusohjelma, lausunto) eritelty. Lahjakorttien hinnat näkyvissä.",
+    "varaus_verkossa": "HAVAINTO: Etusivulla kehotetaan 'Voit varata käynnin soittamalla meidän asiakaspalveluun nro. 040 1526501 tai yhteydenottolomakkeen avulla.' Täysin automatisoitua online-varausta ei näy.",
+    "palvelut_kuvattu": "HAVAINTO: Palvelut-sivulla ja navigaatiossa luetellaan: fysioterapia kotikäynti, palvelutaloissa, veteraanikuntoutus, Lotta Svärd kuntoutus, Kela vaativa kuntoutus, allasterapia ja hieronta.",
+    "terapeutit_esitelty": "HAVAINTO: Henkilöstö-sivulla esitetään 40+ terapeuttia nimiä, pätevyyksiä (Fysioterapeutti AMK, yksi Liikuntatieteiden maisteri) ja maantieteellisiä alueita (pääkaupunkiseutu, pohjanmaa, turku jne). Jokaisen terapeuttien kohdalla on 'Tutustu minuun' -linkki.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla: Y-tunnus: 2643758-5. Postiosoite: Itälahdenkatu 20 A, 00210 HELSINKI.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näkyy asiakkailta lainattuja testimoniaaleja (Espoolainen rouva 86v, Inga 73v jne), mutta ei linkkejä ulkopuolisiin arviointipalveluihin (Google Reviews, Trustpilot ym).",
+    "puhelin_esilla": "HAVAINTO: Puhelin 040 152 6501 näkyy jokaisella sivulla oikeassa yläkulmassa ja useilla sisällön osioilla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@kotifysio.fi näkyy jokaisella sivulla ja useissa yhteydenottomuodoissa.",
+    "chat_mainittu": "HAVAINTO: Sivustolle on integroitu Crisp Chat -palvelu (dns-prefetch link löytyy sivun lähdekoodeista).",
+    "aukioloajat_esilla": "HAVAINTO: 'Tavoitatte meidät parhaiten arkisin klo. 9.00-16.30' mainittu jokaisella sivulla yhteystietojen yhteydessä.",
+    "ukk_osio": "HAVAINTO: UKK-sivulla vastauksia kahdeksaan usein kysyttyyn kysymykseen: milloin fysioterapiaa suositellaan, käyntien tiheys, perussairaudet, peruutus, 'terveydellinen turva', asuinpaikka, lääkärin lähete, laskutus, vastaanotto, hieronta, ryhmäliikunta.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla ei mainittu mobiilisovellusta. Sivusto on responsiivinen, mutta omaa sovellusta ei ole mainittu."
+  }
+}

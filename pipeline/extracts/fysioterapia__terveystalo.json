@@ -1,0 +1,54 @@
+﻿{
+  "slug": "terveystalo",
+  "fetched_ok": [
+    "https://www.terveystalo.com/fi/palvelut/fysioterapia",
+    "https://www.terveystalo.com/fi/asiantuntijat",
+    "https://www.terveystalo.com/fi/yhtio/yhteystiedot",
+    "https://www.terveystalo.com/fi/kayttoehdot",
+    "https://www.terveystalo.com/fi/tietosuojaseloste"
+  ],
+  "hinnat_esilla": "osittain",
+  "varaus_verkossa": "osittain",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kaynti_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattava palveluvalikoima: OMT-, MDT- ja Maitland-terapioita sekä erikoistuneita palveluja (lymfaterapia, psykofyysinen, lantionpohjafysioterapia) jne.",
+    "Laaja verkosto: Fysioterapiapalvelut saatavilla yli 100 toimipisteessä ympäri Suomen monissa kaupungeissa",
+    "Hyvä käytettävyys: Verkkoajanvaraus, mobiilisovellus, Kela-korvaustieto selkeästi, etäpalvelut ja kotikäynnit käytettävissä"
+  ],
+  "kehityskohteet": [
+    "Hintojen näkyvyys: Vain Kela-korvaus (15€/käynti) näkyy; yksityisten potilaiden käyntihinta ei julkaistu",
+    "Terapeutin valinta: Asiantuntijat-sivulla vain aakkosellinen hakemisto ilman profiileja tai pätevyystietoja",
+    "Verkkovarauksen selkeys: Ajanvarauksen toiminta verkossa ei ole eksplisiittisesti selvitetty (puhelin vs. online)"
+  ],
+  "yhteenveto": "Suomen Terveystalo Oy on merkittävä monilääkärikeskus, jonka fysioterapiaosuus tarjoaa laajat, hyvin dokumentoidut palvelut useassa erikoisuudessa. Sivusto on selkeä, sisältää paljon käytännön tietoa, toimipaikkatietoja ja FAQ:ia. Heikkoutena on yksityispotilaiden käyntihintojen puuttuminen ja terapeutin kelpoisuustietojen rajoittuneisuus julkisella sivulla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivulla mainitaan Kela-korvaus 15€/käynti (enintään 4 käyntiä vuodessa), mutta yksityispotilaiden maksullisen käynnin hinta ei ole näkyvillä.",
+    "varaus_verkossa": "HAVAINTO: Sivulla on linkit 'Varaa aika' ja 'Katso vapaat ajat', sekä asiakaspalvelun puhelinumero 0900 30 000. Ajanvarauksen täysin verkkomainen toiminta (ilman puhelua) ei ole eksplisiittisesti dokumentoitu.",
+    "palvelut_kuvattu": "HAVAINTO: Sivulla listataan yksityiskohtaisesti: OMT-fysioterapia, McKenzie/MDT-terapia, Maitland-terapia, leikkausta välttävä ja jälkeinen terapia, lymfaterapia, psykofyysinen fysioterapia, lantionpohjafysioterapia, käsiterapia, tukipohjallisten toimitus jne.",
+    "terapeutit_esitelty": "HAVAINTO: Sivulla todetaan 'Voit lukea lisää fysioterapeuteistamme fysioterapeuttisivullamme'. Asiantuntijat-sivu löytyy, mutta sisältää vain aakkosellisen nimiluettelon ilman profiilikuvia, pätevyystietoja tai erikoisuuksien kuvauksia.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy fysioterapian palvelusivulla, yhteystiedot-sivulla, käyttöehdoissa tai tietosuojaselostesivulla. Sivuilla mainitaan yrityksen nimenä 'Suomen Terveystalo Oy'.",
+    "riippumaton_arvio": "HAVAINTO: Julkisella sivulla ei ole riippumattoman tahon arviota, arvosteluja tai sertifiointeja näkyvillä.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinumero 0900 30 000 on selvästi näkyvillä; puhelinvaihde 030 63 311 mainittu yhteystiedot-sivulla.",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla kerrotaan sähköpostiosoitteiden muoto: etunimi.sukunimi(at)terveystalo.com, sekä listataan useita spesifisiä sähköpostiosoitteita eri osastoille.",
+    "chat_mainittu": "HAVAINTO: Fysioterapia-sivulla mainitaan 'chatissa' asiointimahdollisuus: 'Muina aikoina voit hoitaa käyntiisi liittyviä asioita asiakasneuvojiemme kanssa chatissa'.",
+    "aukioloajat_esilla": "HAVAINTO: Sivulla listataan yksityiskohtaisesti yli 100 toimipisteen aukioloajat (esim. Alajärvi ma–to 8–16, pe 8–14; Helsinki Kamppi 24/7 jne.)",
+    "ukk_osio": "HAVAINTO: Fysioterapia-sivulla on kolme Q&A-otsikkoa: 'Milloin kannattaa hakeutua fysioterapiaan?', 'Millainen fysioterapia sopii sinulle?', 'Saako fysioterapiasta Kela-korvausta?'",
+    "mobiilisovellus": "HAVAINTO: Sivun pohjassa näkyy 'Lataa Terveystalo-sovellus' -teksti ja linkki.",
+    "kaynti_hinta_alkaen_eur": "HAVAINTO: Vain Kela-korvauksen määrä (15€) mainitaan. Yksityisen käynnin hinta ei ole julkaistu."
+  }
+}

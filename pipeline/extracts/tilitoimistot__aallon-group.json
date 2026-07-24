@@ -1,0 +1,50 @@
+{
+  "slug": "aallon-group",
+  "fetched_ok": [
+    "https://aallon.fi/",
+    "https://aallon.fi/ (JS-rendered)"
+  ],
+  "hinnat_esilla": "ei",
+  "palvelut_kuvattu": "kylla",
+  "ohjelmistot_kerrottu": "kylla",
+  "auktorisointi_kerrottu": "ei",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Kattava palveluiden kuvaus – kaikki taloushallinnon palvelut yksityiskohtaisesti kuvattu kirjanpidosta CFO-palveluihin",
+    "Selkeä toimialakohtainen erikoistuminen – rakentaminen, ravintola-ala, kiinteistöala ja muut erikoisratkaisut nimetty",
+    "Laaja ohjelmistointegraaatioiden listaus – 10+ käytettyä järjestelmää kuvattu (Aallon Portti, Netvisor, Finago Procountor, Fivaldi jne.)"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelun julkisuus puuttuu – vain \"Pyydä tarjous\" -toimintomalli, ei konkreettisia kuukausi- tai tuntihintoihin",
+    "KLT-pätevyyksien tai Taloushallintoliitto-jäsenyyden maininta puuttuu kokonaan",
+    "Sähköpostiosoite ja chat-yhteydenotto eivät ole näkyvillä pääsivulla – pelkästään puhelinmyynti"
+  ],
+  "yhteenveto": "Aallon Group on suuri valtakunnallinen tilitoimistoketju (26 toimistoa, 450+ ammattilaista), jonka verkkosivut esittelevät laajasti tarjottavat palvelut, toimialakohtaiset ratkaisut ja käytetyt ohjelmistojärjestelmät. Sivusto on selkeästi rakennettu ja asiakaskokemusta kuvaavat arvostukset (korkeat tyytyväisyysluvut) näkyvät. Puutteina ovat hinnoittelun täydellinen puuttuminen, ammattikelpoisuuksien (KLT) mainitsemisen puuttuminen ja sähköpostiyhteydenoton puuttuminen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivuilla ei näy mitään konkreettisia hintoja kuukausi- tai tuntihinnoista. Ainoastaan \"Pyydä tarjous\" -painike.",
+    "palvelut_kuvattu": "HAVAINTO: Yksityiskohtaisesti kuvattu palvelut: taloushallinnon päivittäiset palvelut, ulkoistettu taloushallinto, kirjanpito (yritys, yhdistys, säätiö), palkahallinto, talouden johtamispalvelut, CFO/controller-palvelut, vero- ja lakipalvelut.",
+    "ohjelmistot_kerrottu": "HAVAINTO: Sivuilla mainitaan 10+ järjestelmää: Aallon Portti, Netvisor palvelut, Finago Procountor palvelut, Fivaldi-tilitoimisto, Heeros-tilitoimisto, Fennoa-tilitoimisto, Lemonsoft-tilitoimisto, Maestro-tilitoimisto, Confirma NetBaron -tilitoimisto, Admicom-tilitoimisto, EG Jydacom -tilitoimisto, Mepco-palkkahallinto.",
+    "auktorisointi_kerrottu": "HAVAINTO: Taloushallintoliitto-pätevyyden tai KLT-jäsenyyden maininta puuttuu kokonaan. Sivuilla ei mainita mitään ammattikelpoisuuksista tai sertifioinneista.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy sivuilla. Yritys mainitaan nimillä \"Aallon Group\" ja \"Aallon Group Oyj\" (julkinen osakeyhtiö), mutta Y-tunnusta ei listata.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arviointeja kolmannen osapuolen sivustoilta ei näy. Sivuilla näkyvät vain sisäiset asiakastyytyväisyysluvut (esim. 87% antaa arvosanaksi hyvä/erinomainen).",
+    "puhelin_esilla": "HAVAINTO: Myyntipuhelinumero 010 384 6088 näkyy sivun yläreunassa ja useissa kohdissa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy pääsivulla. \"Ota yhteyttä\" -osio ohjaa lomakkeelle, mutta sähköpostiosoitetta ei mainita.",
+    "chat_mainittu": "HAVAINTO: Chat-yhteydenottoa ei mainita sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei näy pääsivulla. Sivuissa on linkki \"Toimistojen yhteystiedot\", mutta näitä ei voitu hakea.",
+    "ukk_osio": "HAVAINTO: Sivuilla mainitaan \"Asiakkaalle\" -osiossa linkki \"Asunto-osakeyhtiön kirjanpito usein kysytyt kysymykset\" ja \"Perustajaurakoinnin talousjohtamisen käsikirja\", mutta ei yleistä FAQ-osiota kaikille palveluille.",
+    "mobiilisovellus": "HAVAINTO: Aallon Portti kuvataan digitaaliseksi asiakasportaaliksi ja sähköisen taloushallinnon ratkaisuksi, mutta ei mainita, onko se saatavilla mobiilisovelluksena vai pelkästään web-portaalina."
+  }
+}

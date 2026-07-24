@@ -1,0 +1,46 @@
+{
+  "slug": "flexistore",
+  "fetched_ok": [
+    "https://www.flexistore.fi/",
+    "https://www.flexistore.fi/hinnat/",
+    "https://www.flexistore.fi/ehdot/",
+    "https://www.flexistore.fi/vakuutusehdot/",
+    "https://www.flexistore.fi/arvostelut/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "varaus_verkossa": "kylla",
+  "sopimusehdot_kerrottu": "kylla",
+  "vakuutus_ja_vastuu_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "nelio_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Digitaalinen avain sovelluksessa, nopea ja kätevä pääsy 24/7",
+    "Läpinäkyvä hinnoittelu ilman aloitusmaksuja, minimivuokra vain 1 kuukausi",
+    "Kattavat sopimusehdot ja vakuutussuoja selkeästi dokumentoitu"
+  ],
+  "kehityskohteet": [
+    "Hinnat näkyvät vain interaktiivisesti valitsemalla sijainti ja koko, ei kiinteää hintaa julkisesti näkyvissä",
+    "Erillisiä FAQ-sivuja ei ole saatavilla, vaikka navigoinnissa ne mainitaan",
+    "Vakuutusehdot-sivu on osin tyhjä, vakuutussuojan yksityiskohdat puuttuvat"
+  ],
+  "yhteenveto": "Flexistore on Suomessa toimiva digitaalinen pienvarasto-palvelu, joka tarjoaa verkon kautta varattavia varastotiloja älykkäillä kulkuoikeuksilla. Palvelu on avoin ja läpinäkyvä sopimusehdoissaan sekä vakuutustarjouksessaan, mutta hintojen julkinen näkyvyys on rajoitettu dynaamiseen hinnoitteluun. Asiakasarvostelut ovat erittäin positiivisia (4.9/5 tähteä).",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Hinnat-sivulla kerrotaan 'Näet hinnat valitsemalla lähimmän Flexistore-pienvaraston ja sopivan varastokoon.' Todellista hintaa ei näy ilman interaktiivista valintaa, vaan vain 'vakuutusmaksu alkaen 5 €/kk' mainitaan.",
+    "varaus_verkossa": "HAVAINTO: Pääsivulla ja hinnat-sivulla selkeästi sanotaan 'Varaa nyt' ja 'Maksa verkossa ja lataa Flexistore-sovellus', eli online-varaus on mahdollinen.",
+    "sopimusehdot_kerrottu": "HAVAINTO: Ehdot-sivu (https://www.flexistore.fi/ehdot/) sisältää kattavat sopimusehdot: minimivuokra-aika yksi kuukausi, automaattinen uusiminen 14 päivän purkaamisaikalla, vuokran maksu etukäteen.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: Ehdot-sivulla 'Vakuutus'-kohta kertoo 'Vuokraan lisätään vakuutusmaksu, joka alkaa 5 eurosta kuukaudessa ja suojaa säilyttämäsi tavarat. Asiakas on velvollinen pitämään omaisuuden vakuutettuna.' Vakuutusehdot-sivu on olemassa mutta pääosin tyhjä.",
+    "y_tunnus_esilla": "HAVAINTO: Jokaisen sivun alareunassa on 'Flexistore Finland Oy Ab' ja 'Y-tunnus FI-3380916-4' näkyvissä."
+  }
+}

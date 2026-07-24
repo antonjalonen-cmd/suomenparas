@@ -907,7 +907,9 @@ COMPANIES["hautaustoimistot"] = [
          omistaja="Hautauspalvelu Pietét Oy — Helsinki ja Espoo, useita toimipisteitä (suppein kattavuus listalla)"),
 ]
 
-# MATKATOIMISTOT (verified 23.7.2026, agent + PRH). EXCLUDED: Detur (Detur Finland Oy
+# MATKATOIMISTOT (verified 23.7.2026, agent + PRH). TUI PUDOTETTU 23.7.2026:
+# Akamai-botti-esto palauttaa 403 myos headless-Chromelle -> koko lapinakyvyys-
+# mittaus mahdoton, ei pisteyteta arvaamalla (McAfee-precedentti). EXCLUDED: Detur (Detur Finland Oy
 # konkurssi 10/2022, domain ohjaa nykyään aventours.fi:hin), Matkavekka (brändi kuoli
 # Primera Travel -romahduksessa, domain on nyt geneerinen SEO-blogi = kaapattu),
 # Matka-Agentit (sama yhtiö kuin Matkapojat, domain pelkkä redirect). tui.fi:ssä
@@ -915,8 +917,6 @@ COMPANIES["hautaustoimistot"] = [
 COMPANIES["matkatoimistot"] = [
     dict(slug="aurinkomatkat", nimi="Aurinkomatkat", domain="aurinkomatkat.fi", y_tunnus="0200991-4",
          omistaja="Oy Aurinkomatkat - Suntours Ltd Ab — Finnair-konserni, valmismatkojen markkinajohtaja"),
-    dict(slug="tui", nimi="TUI", domain="tui.fi", y_tunnus="0709785-3",
-         omistaja="TUI Finland Oy Ab — osa kansainvälistä TUI Groupia"),
     dict(slug="tjareborg", nimi="Tjäreborg", domain="tjareborg.fi", y_tunnus="0114101-6",
          omistaja="Oy Tjäreborg Ab — osa Nordic Leisure Travel Groupia (Ving)"),
     dict(slug="apollomatkat", nimi="Apollomatkat", domain="apollomatkat.fi", y_tunnus="2322685-4",
@@ -988,7 +988,10 @@ COMPANIES["fysioterapia"] = [
          omistaja="Fysioline Fressi Oy — kuntokeskusketju, fysioterapiapalvelut keskuksissa useissa kaupungeissa"),
 ]
 
-# AUTOPESULAT (verified 23.7.2026, agent + PRH). EXCLUDED: Teboil (Lukoil-pakotteet
+# AUTOPESULAT (verified 23.7.2026, agent + PRH). Hesburger/Hese-Pesu PUDOTETTU
+# 23.7.2026: hesburger.fi:lla EI ole autopesusisaltoa lainkaan (tarkistettu kasin:
+# ei pesu-linkkeja, /hese-pesu 404, hesepesu.fi ei vastaa) — fyysisia pesulinjoja
+# voi olla, mutta kategoria mittaa julkista verkkosisaltoa. EXCLUDED: Teboil (Lukoil-pakotteet
 # 11/2025 alkaen, asemaverkosto romahtamassa, Carlyle-kauppa kesken — liian epavakaa
 # pisteytettavaksi), Prowash (myy pesukoneita b2b, ei kuluttajaketju), CleanCar/
 # Pesuparoni/Pesukunkku (yhden kaupungin), Hurja Pesu + PesuExpress + Uudenmaan
@@ -1007,8 +1010,6 @@ COMPANIES["autopesulat"] = [
          omistaja="M. Jordan Oy — usean yhtiön franchise-ketju (mm. GoWash Länsi-Suomi Oy), useita kaupunkeja"),
     dict(slug="korrek-pro-center", nimi="KORREK Pro Center", domain="korrekprocenter.fi", y_tunnus="0107011-5",
          omistaja="Berner Oy:n KORREK-konsepti — yrittäjävetoiset pesukeskukset, 9 toimipistettä"),
-    dict(slug="hese-pesu", nimi="Hesburger Hese-Pesu", domain="hesburger.fi", y_tunnus="2031967-6",
-         omistaja="Burger-In Oy — pesulinjat Hesburger-ravintoloiden yhteydessä useissa kaupungeissa"),
     dict(slug="carstation", nimi="CarStation", domain="carstation.fi", y_tunnus="2605487-5",
          omistaja="Nura Autopesu Oy — pesukeskuksia Espoossa, Helsingissä ja Turussa"),
 ]

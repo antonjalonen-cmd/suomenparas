@@ -1,0 +1,52 @@
+{
+  "slug": "coronaria",
+  "fetched_ok": [
+    "https://www.coronaria.fi/fysioterapia/",
+    "https://www.coronaria.fi/yhteystiedot/",
+    "https://www.coronaria.fi/yhteystiedot/yritykset-ja-laskutusosoitteet/",
+    "https://www.coronaria.fi/toimipaikat/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "kaynti_hinta_alkaen_eur": 65,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 72,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja palveluvalikoima: 59 toimipistettä ympäri Suomea ja 13+ erilaista fysioterapiapalvelua (neurologinen, laitehoidot, lasten fysioterapia jne)",
+    "Online-ajanvaraus integroitu pääsivulle ja selkeät hinnat: Ensikäynti 65€, Kela-korvaus 15€/käynti näkyy suoraan",
+    "Terapeutit esitelty nimillä ja ammattinimikkeillä: yli 200 terapeuttia listattu hakutuloissa"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei näkyvillä fysioterapia-sivulla (löytyy vain erilliseltä yritystiedot-sivulta)",
+    "Sähköpostiosoite vain kaavana (etunimi.sukunimi@coronaria.fi), ei suoraa yhteyshenkilön sähköpostia fysioterapialle",
+    "FAQ-osio ja mobiilisovellus puuttuvat; hinnaston tarkemmat tiedot sijaitsevat vain toimipaikkasivuilla"
+  ],
+  "yhteenveto": "Coronaria on kattava fysioterapiapalvelun tuottaja 59 toimipisteellään ympäri Suomea. Sivusto esittelee palvelut hyvin jäsennellyllä tavalla, hintavertailu on helppo (65€ ensikäynti), ja online-ajanvaraus on selvästi saatavilla. Terapeutit on esitelty nimillä ja pätevyyksillä. Puutteina Y-tunnus ja suora sähköpostiosoite eivät ole näkyvillä fysioterapia-osiossa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Fysioterapian ensikäynti hinnoiteltu 65€ (sisältää 8€ toimistomaksun). Kela-korvaus näkyy 15€/käynti. Lisäksi mainitaan sarjakortin hankinta verkkokaupasta.",
+    "varaus_verkossa": "HAVAINTO: 'Varaa aika' -nappi näkyy sivun yläreunassa, linkki ajanvaraus.coronaria.fi. Tekstissä: 'Varaa aika nopeasti verkkoajanvarauksemme kautta'.",
+    "palvelut_kuvattu": "HAVAINTO: 13 eri fysioterapiapalvelua esitelty navigaatiossa: ikääntyvien fysioterapia, kipukuntoutus, laitehoidot, lasten ja nuorten fysioterapia, neurologinen fysioterapia, OMT-fysioterapia, psykofyysinen fysioterapia, tuki- ja liikuntaelimistön fysioterapia, äitiysfysioterapia, hieronta, etäkuntoutus, vammaisurheilun tuki, seniorijumppa.",
+    "terapeutit_esitelty": "HAVAINTO: Asiantuntijalistalla yli 200 terapeuttia nimillä ja ammattinimikkeillä, esim. 'Anna Holmberg, Fysioterapeutti', 'Annamari Tihinen, Fysioterapeutti'. Lista on jaettu 25 sivulle.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0530530-5 löytyy vain sivulta 'Yritykset ja laskutusosoitteet', ei näkyvillä fysioterapia-palvelusivulla.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan 'Asiakkaamme ovat erittäin tyytyväisiä fysioterapiapalveluihimme', mutta mitään linkkiä riippumattomaan arviopalveluun (Google Reviews, Trustpilot jne) ei näy.",
+    "puhelin_esilla": "HAVAINTO: Pääpuhelin 010 525 8801, aukioloajat ma-pe 8-16. Lisäksi maininta 'Soita 010 525 8801'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite ilmoitettu kaavana 'etunimi.sukunimi@coronaria.fi', ei suoraa yhteyshenkilön sähköpostia. Laskutusosoitteissa mainitaan taloushallinto@coronaria.fi.",
+    "chat_mainittu": "HAVAINTO: Sivulla ei mainittu chat-palvelua tai live-chat-ominaisuutta.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat ma-pe 8-16 näkyvillä. Yksittäisten toimipaikkojen aukioloajat löytyvät toimipaikkakohtaisilla sivuilla.",
+    "ukk_osio": "HAVAINTO: Erillistä FAQ/UKK-osiota ei löydy pääsivulla. Sivuilla on tietoa 'Milloin fysioterapiaan?' mutta se ei ole omaksi osakseen jäsennelty.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu sivulla. Online-ajanvaraus toimii verkkoselaimella."
+  }
+}

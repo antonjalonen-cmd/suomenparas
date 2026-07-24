@@ -1,0 +1,54 @@
+{
+  "slug": "lomalinja",
+  "fetched_ok": [
+    "https://www.lomalinja.fi/",
+    "https://www.lomalinja.fi/yritysesittely/",
+    "https://www.lomalinja.fi/ota-yhteytta/",
+    "https://www.lomalinja.fi/yritysesittely/palseluhinnasto/",
+    "https://www.lomalinja.fi/yritysesittely/matkaehdot/",
+    "https://www.lomalinja.fi/matkakalenteri/",
+    "https://www.lomalinja.fi/yritysesittely/vastuullisuus/"
+  ],
+  "hinnat_esilla": "osittain",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "kylla",
+  "vakuus_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 50,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Laajat matkatarjoukset kuvauksineen ja asiantuntija-oppaiden esittelyineen",
+    "Selkeä palveluhinnasto, matkaehdot ja vakuutustieto helposti saatavilla PDF-muodossa",
+    "Kattava usein kysyttyjen kysymysten osio booking- ja maksutavoista sekä runsaat asiakaspalautteet"
+  ],
+  "kehityskohteet": [
+    "Matkojen hinnat eivät näy etusivulla tai matkakalenterissa vaan vaativat klikkaamista yksittäisiin matkoihin",
+    "Y-tunnus puuttuu verkkosivuilta, eikä matkavakuus tai KKV-rekisteri ole eksplisiittisesti mainittu",
+    "Ei omaa mobiilisovellusta eikä linkkejä riippumattomiin arviointilähteisiin"
+  ],
+  "yhteenveto": "Lomalinja on vuodesta 1977 toimiva matkatoimisto, joka tarjoaa noin 250 teemamatkaa vuosittain suomenkielisten asiantuntija-oppaiden johdolla. Verkkosivusto on hyvin organisoitu, matkaehdot ja palveluhinnasto ovat saatavilla, ja asiakkaat voivat varata matkan verkossa itsenäisesti. Hinnoittelun näkyvyys vaatii kuitenkin yksittäisten matkojen sivuille klikkaamista, ja yhtiön tunnustieto sekä virallinen matkavakuustieto puuttuvat.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivuilla mainitaan, että 'Jokaisen matkan matkakohtaiset maksu- ja peruutusehdot on kerrottu matkan sivuilla Matkan hinta ja lisätiedot -osiossa', mikä tarkoittaa hintojen olevan näkyvillä matkakohtaisilla sivuilla, mutta pääsivulla tai matkakalenterissa niitä ei näy.",
+    "varaus_verkossa": "HAVAINTO: Sivulla todetaan 'Kaikki Lomalinjan oman tuotannon matkat ovat varattavissa verkkosivuillamme', ja FAQ-osiossa kuvataan verkkomaksutavat (verkkopankki, luottokortti, mobiilimaksut).",
+    "ehdot_saatavilla": "HAVAINTO: Matkaehdot ovat saatavilla PDF-muodossa osoitteessa /yritysesittely/matkaehdot/. Sivulla mainitaan, että ehdot ovat yhdistelmä Suomen matkailualan liiton ja Kilpailu- ja kuluttajaviraston (KKV) neuvottelemia yleisiä matkapakettiehtoja sekä Lomalinjan lisäehtoja.",
+    "vakuus_kerrottu": "HAVAINTO: Vastuullisuus-sivulla mainitaan, että noudatetaan Kilpailu- ja kuluttajaviraston neuvottelemia yleisiä matkapakettiehtoja, sekä viittaus kuluttajariitalautakuntaan ja kuluttajaneuvontaan. Kuitenkaan selkeää viittausta KKV:n matkavakuusrekisteriin tai vakuusvaatimuksiin ei ole saatavilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy millään käytetyillä verkkosivuilla. Yhtiön nimi on Lomalinja Oy, mutta rekisteritunnus puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla näkyy runsaasti asiakaspalautteet (asiakaskokemuksia), mutta mitään linkkiä riippumattomiin arviointilähteisiin, kuten Google Reviews, TripAdvisor tai muihin kolmannen osapuolen arviosteita ei ole.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät selkeästi sivuston eri paikoissa: Tampere 010 289 8100, Helsinki 010 289 8102 ja asiakaspalvelunumero 040 6797 110 jo tehdyille varauksille.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite lomalinja@lomalinja.fi näkyy verkkosivuilla useissa paikoissa, sekä henkilökunnan yksittäiset sähköpostiosoitteet muodossa etunimi.sukunimi@lomalinja.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei ole mainittu millään verkkosivun osalla. Yhteydenpito tapahtuu puhelimitse (klo 10-16 ma-pe), sähköpostitse tai yhteydenottolomakkeella.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelinpalvelun aukioloajat mainitaan selkeästi: maanantai – perjantai klo 10.00 – 16.00. Huomautetaan, että toimistoissa tapaamiset vain ajanvarauksella.",
+    "ukk_osio": "HAVAINTO: Sivuilla on 'Usein kysyttyä' -osio, joka sisältää kysymyksiä matkavarauksen tekemisestä, tarvittavista tiedoista, maksutavoista ja muista yleisistä asioista.",
+    "mobiilisovellus": "HAVAINTO: Omaa mobiilisovellusta ei ole mainittu sivuilla. Varaukset tehdään verkkosivun kautta."
+  }
+}

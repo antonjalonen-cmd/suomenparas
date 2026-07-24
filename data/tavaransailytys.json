@@ -1,0 +1,1306 @@
+{
+ "slug": "tavaransailytys",
+ "nimi": "Tavaransailytys",
+ "nav": "Tavaransailytys",
+ "h1": "Suomen paras tavaransailytys 2026",
+ "yksikko": "suomalaista tavaransailytyspalvelua",
+ "lead": "Pisteytimme {n} suomalaista itsepalveluvarastoyhtiota {m} mittarilla: tekninen laatu, lapinakyvyys, tavoitettavuus ja AI-laatuarvio. Tarkein kysymys: nakyvatko varastotilan hinta ja sopimusehdot ennen kuin annat yhteystietosi?",
+ "meta_title": "Suomen paras tavaransailytys 2026 | vuokravarastot pisteytettyna | Suomen Paras",
+ "meta_desc": "6 suomalaista tavaransailytyspalvelua pisteytetty lapinakyvalla kaavalla. Katso mista jokainen piste tulee.",
+ "notes": [
+  "<b>Cityvarasto on Suomen suurin:</b> Cityvarasto Oyj (per. 1999) on julkinen osakeyhtiö, jolla on yli 58 toimipistettä yli 15 kaupungissa. Pelican Self Storage on Pohjoismainen ketju, jolla on 14 toimipistettä paakaupunkiseudulla ja Turussa. Muut listalla olevat palvelevat useammalla kuin yhdella paikkakunnalla.",
+  "<b>Miksi listalla on vain 6 yhtiota?</b> Etsimme kansallisesti tai useassa kaupungissa toimivia kuluttajapalveluita, joilla on oma verkkosivusto. 24varasto.fi palvelee Joensuussa ja Pirkkalassa mutta sivusto oli botti-estojen takana eika ollut mitattavissa. Warasto Finland (warasto.fi) on B2B-logistiikkayhtiö ilman kuluttajatuotetta. Yhden kaupungin toimijat rajattiin pois.",
+  "Vertailu kuvaa yhtiöiden julkisten verkkosivujen mitattavia ominaisuuksia, ei varastojen fyysistä kuntoa, turvallisuuslaitteita tai kulkuyhteyksistä. Todellinen varastotilan hinta riippuu koosta, sijainnista ja sopimuksen kestosta; vertailu mittaa kerrotaanko hinta, ei mika se on. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "kotivarasto",
+   "nimi": "Kotivarasto",
+   "domain": "kotivarasto.fi",
+   "omistaja": "Helsingin Kotivarasto Oy (per. 1993) — toimipisteet Helsingissä (Valuraudantie) ja Oulussa",
+   "y_tunnus": "1708316-4",
+   "rekisteroity": 2001,
+   "score": 75.3,
+   "pillars": {
+    "digitaalinen": 64.3,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "78/100",
+       "paino": 30,
+       "pisteet": 78,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla näkyvät yksityiskohtaiset kuukausivuokrat kaikille varastokooille (1m² = 39€ verkko-varasto, 48€ tavallinen varasto Helsingissä) ilman yhteystietojen antamisen vaatimusta"
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja useilla sivuilla näkyy 'Varaus/tiedustelu' -lomake, jossa voi valita kaupungin, käyttötarkoituksen ja varaston koon, sekä 'Vuokraa heti' -nappi; prosessi vaatii kuitenkin yhteydenottoa asiakaspalveluun"
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla on 'Yleiset vuokraehdot' -osio, joka detaljoi 6 kohtaa: varaston kunto, lämpö/vakuutukset, muutostyöt, määräaikainen/toistaiseksi sopimus, vuokranmaksu, sopimuksen siirtäminen; irtisanomisaika 30 päivää toistaiseksi sopimukselle"
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kohdassa 2 'Lämpö, valo ja vakuutukset' mainitaan: 'Vuokranantaja ei vastaa säilytettävistä tavaroista vakuutuksella eikä muutenkaan ole vastuussa niistä. Vuokralainen vastaa omaisuutensa vakuuttamisesta ja oven lukitsemisesta.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa mainitaan 'Kotivarasto Oy, Valuraudantie 3, 00700 Helsinki' mutta Y-tunnusta ei näytetä millään sivulla; se on vain yhtiömuoto ja osittain osoite"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy Google-tähtiä, Trustpilot-widgetti, Facebook-arvioita tai muita riippumattomia arviointeja; asiakastarinat-sivu mainittuna navigaatiossa mutta ei auettu tämän ekstraktioissa"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 78,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 4876.6605,
+    "cls": 0.02934110657091726,
+    "tbt_ms": 4963.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnaston sivulla on erittäin selkeät, hinnasto-taulukot kaikille varastokooille ilman piilokuluja",
+    "Yksityiskohtaiset vuokraehdot ja vastuunjaot selkeästi dokumentoitu hinnasto-sivulla",
+    "Laaja FAQ-osio sekä yksityisille että yrityksille, vastaa yleisimpiin kysymyksiin"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei näkyvillä sivustolla; ainoastaan yhtiön nimi 'Kotivarasto Oy' mainittuna tietosuojaselosteessa",
+    "Riippumatonta arviota tai asiakasarvioita (Trustpilot, Google-arviot) ei näytetä",
+    "Verkkovaraus-prosessi vaatii tiedustelulomakkeen lähettämisen; välitöntä online-kauppaa ei ole vaan tarvitsee yhteyttä asiakaspalveluun"
+   ],
+   "yhteenveto": "Kotivarasto Oy tarjoaa lämmitettyjä varastotiloja Helsingissä ja Oulussa selkeällä hinnoittelulla (alkaen 39€/kk) ja joustavilla vuokraehdoilla. Hinnaston, sopimusolosuhteiden ja asiakastuen tiedot ovat hyvin saatavilla, mutta Y-tunnusta ei julkaista verkossa ja riippumattomia arvioita ei näytetä."
+  },
+  {
+   "slug": "flexistore",
+   "nimi": "Flexistore",
+   "domain": "flexistore.fi",
+   "omistaja": "Flexistore Finland Oy Ab, Siuntio — sovellusohjattu avainkoodi-varasto, toimintaa Helsingissä ja Siuntiossa",
+   "y_tunnus": "3380916-4",
+   "rekisteroity": 2023,
+   "score": 75.2,
+   "pillars": {
+    "digitaalinen": 59.1,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "24/100",
+       "paino": 40,
+       "pisteet": 24,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat-sivulla kerrotaan 'Näet hinnat valitsemalla lähimmän Flexistore-pienvaraston ja sopivan varastokoon.' Todellista hintaa ei näy ilman interaktiivista valintaa, vaan vain 'vakuutusmaksu alkaen 5 €/kk' mainitaan."
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja hinnat-sivulla selkeästi sanotaan 'Varaa nyt' ja 'Maksa verkossa ja lataa Flexistore-sovellus', eli online-varaus on mahdollinen."
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ehdot-sivu (https://www.flexistore.fi/ehdot/) sisältää kattavat sopimusehdot: minimivuokra-aika yksi kuukausi, automaattinen uusiminen 14 päivän purkaamisaikalla, vuokran maksu etukäteen."
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ehdot-sivulla 'Vakuutus'-kohta kertoo 'Vuokraan lisätään vakuutusmaksu, joka alkaa 5 eurosta kuukaudessa ja suojaa säilyttämäsi tavarat. Asiakas on velvollinen pitämään omaisuuden vakuutettuna.' Vakuutusehdot-sivu on olemassa mutta pääosin tyhjä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen sivun alareunassa on 'Flexistore Finland Oy Ab' ja 'Y-tunnus FI-3380916-4' näkyvissä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 24,
+    "accessibility": 86,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 27914.182295501705,
+    "cls": 0.0686793007526838,
+    "tbt_ms": 10779.529683380128
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Digitaalinen avain sovelluksessa, nopea ja kätevä pääsy 24/7",
+    "Läpinäkyvä hinnoittelu ilman aloitusmaksuja, minimivuokra vain 1 kuukausi",
+    "Kattavat sopimusehdot ja vakuutussuoja selkeästi dokumentoitu"
+   ],
+   "kehityskohteet": [
+    "Hinnat näkyvät vain interaktiivisesti valitsemalla sijainti ja koko, ei kiinteää hintaa julkisesti näkyvissä",
+    "Erillisiä FAQ-sivuja ei ole saatavilla, vaikka navigoinnissa ne mainitaan",
+    "Vakuutusehdot-sivu on osin tyhjä, vakuutussuojan yksityiskohdat puuttuvat"
+   ],
+   "yhteenveto": "Flexistore on Suomessa toimiva digitaalinen pienvarasto-palvelu, joka tarjoaa verkon kautta varattavia varastotiloja älykkäillä kulkuoikeuksilla. Palvelu on avoin ja läpinäkyvä sopimusehdoissaan sekä vakuutustarjouksessaan, mutta hintojen julkinen näkyvyys on rajoitettu dynaamiseen hinnoitteluun. Asiakasarvostelut ovat erittäin positiivisia (4.9/5 tähteä)."
+  },
+  {
+   "slug": "m2selfstorage",
+   "nimi": "M2 Self Storage",
+   "domain": "m2selfstorage.fi",
+   "omistaja": "Helsinki Varastot Oy — toimipisteet Helsingissä (Vuorimiehenkatu) ja Raumalla",
+   "y_tunnus": "2778522-3",
+   "rekisteroity": 2016,
+   "score": 70.8,
+   "pillars": {
+    "digitaalinen": 76.6,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 66.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "52/100",
+       "paino": 40,
+       "pisteet": 52,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla todetaan 'Kaikki käytettävissä olevat varastot ja hinnat näkyvät verkossa', mutta varauspalveluun (varauskoneeseen) täytyy siirtyä nähdäkseen konkreettisia hintoja. Ei julkisesti näkyvää hintalistaa etusivulla tai hinnoittelu-sivulla."
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Varaa kätevästi netistä ja saat sisäänpääsy koodin omaan varastoosi' ja 'Verkossa varaaminen on helppoa. Kaikki käytettävissä olevat varastot ja hinnat näkyvät verkossa'. Varauspalvelu on saatavilla."
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa selitettynä: 'Vuokrasopimus jatkuu automaattisesti kuukauden kerrallaan kunnes sanot sen irti. Voit aloittaa vuokrasopimuksen kesken kuukauden, irtisanomisaika (1kk) lasketaan siitä päivästä kun sanot sopimuksen irti. Vuokra veloitetaan automaattisesti luottokortiltasi kerran kuussa.' Myös: 'ei piilokuluja, ei takuuvuokraa, ei sidottu kalenterikuukauteen'."
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa kysymys 'Onko vakuutus pakollinen?' - vastaus: 'Mahdollistaaksemme alhaisen hinnan, emme vaadi sinua ostamaan vakuutusta. Voit tarkistaa vakuutusyhtiöltäsi korvaako kotivakuutuksesi kodin ulkopuolella säilytettävät tavarat tai hankkia oman vakuutuksen tavaroillesi'. Turvallisuudesta: 'Kaikissa tiloissamme on tallentava videovalvonta ja kulunvalvonta.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy sivustolla missään - ei footer-osiossa, ei yhteydenotto-sivulla, ei yritystiedoissa. Sivuston alaosassa ainoastaan yritysnimi 'M²selfstorage', sähköpostiosoite ja puhelinnumero."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy Google-arvioita, Trustpilot-widgettiä tai muita riippumattomia arvioita. Facebook-kuvake on footer-osiossa, mutta linkitetyt arviot puuttuvat."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 52,
+    "accessibility": 88,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 3944.6765,
+    "cls": 0.0019319053186454675,
+    "tbt_ms": 2449.0000000000005
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Varaston varaaminen verkossa on selkeästi mahdollista ja hinnat näkyvät varauspalvelusta",
+    "Vuokrasopimuksen ehdot (1 kk irtisanomisaika, kuukauden maksuväli, ei piilokustannuksia) ovat hyvin dokumentoituna",
+    "Vakuutuskysymys käsitelty FAQ:ssa ja neuvotaan tarkistamaan oman kotivakuutuksen kattavuus"
+   ],
+   "kehityskohteet": [
+    "Hinnat eivät näy julkisesti ilman varausjärjestelmään siirtymistä - neliöhinta puuttuu",
+    "Y-tunnus ei ole näkyvissä sivustolla - yritystietojen avoimuus puutteellista",
+    "Vertailtavia asiakastarkastuksia (Google-arviot, Trustpilot-widget) tai riippumattomia arvioita ei näytetä"
+   ],
+   "yhteenveto": "M2 Self Storage tarjoaa selkeän, käyttäjäystävällisen sivuston, jossa sopimuksen ehdot ja vakuutustiedot ovat hyvin dokumentoituja. Verkossa varaaminen on mahdollista, mutta tarkat hinnat edellyttävät siirtymistä varauspalveluun. Yrityksen tunnistustiedot ja riippumattomien arviointien puuttuminen heikentävät läpinäkyvyyttä."
+  },
+  {
+   "slug": "pelican",
+   "nimi": "Pelican Self Storage",
+   "domain": "pelican.fi",
+   "omistaja": "Pelican Finland OpCo 2 Oy — Pohjoismaiden johtava self-storage-yhtiö, 14 toimipistettä Helsingissä, Espoossa, Vantaalla ja Turussa",
+   "y_tunnus": "3224338-1",
+   "rekisteroity": 2021,
+   "score": 64.2,
+   "pillars": {
+    "digitaalinen": 66.0,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu mainostaa '50% 2KK' alennusta, mutta varsinaisia kuukausihinnoitteluja ei löydy. Käyttäjä ohjataan ottamaan yhteyttä puhelimitse (0207 007 700) tai lähettämään varauspyyntö verkon kautta. Henkilökohtainen tarjous vaaditaan."
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-osiossa sanotaan 'Voit varata varaston sähköisesti etusivultamme, jolloin saat varaston käyttöösi kymmenessä minuutissa' ja mainitaan MyPelican-sovellus. Sähköinen varaus on mahdollista."
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen 'Yleiset ehdot' -sivu dokumentoi sopimustermit, mukaan lukien irtisanomispolitiikka ('irtisanoa sopimuksesi päättymään saman kuukauden loppuun, kun ilmoitat meille viimeistään saman kuun 15. päivä'). Vähimmäiskausi ei ole mainittu, mutta joustavuus korostetaan."
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja 'Vakuutusehdot' -sivu käsittelee vakuutusta. Vakuutus on pakollinen: 'Pelican vaatii, että varastosi on vakuutettu'. Vakuutussuoja sisältyy palveluihin (Amica for AXA). Hinta määritellään varaston koon ja irtaimiston kokonaisarvon perusteella. Vakuutusvapautukset luetellaan yksityiskohtaisesti."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritystiedot näkyvät footerissa (Kantelettarentie 1 A, 00420 Helsinki, puhelin 0207 007 700, sähköposti info@pelican.fi), mutta Y-tunnusta ei näytetä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei näy ulkoisia arvosteluja, Google-tähteä tai Trustpilot-widgetia. Palvelua markkinoidaan omilla vahvuuksilla, mutta itsenäisiä arvioita ei näytetä julkisesti."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 8526.04,
+    "cls": 0.0004532858700107978,
+    "tbt_ms": 4314.533871673585
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavat yleiset ehdot ja vakuutusehdot saatavilla verkossa yksityiskohtaisesti",
+    "Laajalti dokumentoitu UKK-osio vastaa moninaisiin asiakaiskysymyksiin",
+    "Selkeä kuvaus varastointipalvelun ehdoista, turvallisuudesta ja vakuutuksesta"
+   ],
+   "kehityskohteet": [
+    "Hinnat ei julkisesti näkyvissä; vaatii kontaktin ottamisen tai MyPelican-sovellukseen kirjautumisen",
+    "Y-tunnus puuttuu footerista ja yritystiedoista",
+    "Mobiilisovellus mainitaan vain viitteellisesti eikä ole suoraan linkitetty"
+   ],
+   "yhteenveto": "Pelican Self Storage tarjoaa kattavan informaation varastointipalveluistaan, vakuutuksista ja sopimusehdoista. Hinnat eivät kuitenkaan ole julkisesti näkyvissä ilman yhteydenottoa tai kirjautumista sovellukseen. Yritys tarjoaa 50% alennusta ensimmäisille kahdelle kuukaudelle ja verkkovuokrausta MyPelican-järjestelmän kautta."
+  },
+  {
+   "slug": "cityvarasto",
+   "nimi": "Cityvarasto",
+   "domain": "cityvarasto.fi",
+   "omistaja": "Cityvarasto Oyj — julkinen osakeyhtiö, Vantaa; Suomen suurin pienvarastoketju, 58+ toimipistettä 15+ kaupungissa",
+   "y_tunnus": "1561027-4",
+   "rekisteroity": 1999,
+   "score": 62.1,
+   "pillars": {
+    "digitaalinen": 64.0,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyy 'Varastot aina edullisesti alk. 1€/kk' ilman että tarvitaan yhteystietojen antamista hintojen näkemiseksi. Kuitenkin tarkemmat hinnat löytyvät vain kirjautumisen/haun kautta."
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uusilla cityvarasto.fi-sivuilla mainitaan 'Vuokraa parilla klikkauksella' ja 'Oma tili' -portaali on linkitetty. Varhaisista teksteistä löytyy maininta 'Varaston vuokraaminen onnistuu meillä helposti'."
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About-sivulla mainitaan 'Voit vuokrata ja irtisanoa pienvaraston koska tahansa, kun sinulle sopii (irtisanomisajan puitteissa)' mutta linkit vuokraehtoihin johtavat 404:ään. Osittain saatavilla vain tekstissä."
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: About-sivulla kerrotaan 'Varastomme ovat myös vakuutusyhtiöiden hyväksymiä' ja mainitaan 'turvallisuus ja olemmekin turvanneet asiakkaiden omaisuuden kulunvalvontajärjestelmällä, kameravalvonnalla sekä säännöllisillä tarkastuskäynneillä'. Vakuutus siis mainittu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer näyttää 'Copyright - Cityvarasto Oyj' mutta Y-tunnus (numerot) ei ole millään sivulla näkyvillä. Ainoastaan osakeyhtiön muoto on mainittu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyy 'Asiakaskokemuksia' -osio mutta ei ulkoisia arvioita (Google Stars, Trustpilot jne). Maininta 'Suuri tavaratutkimus 2026' on oman tutkimuksen linkki, ei riippumaton arvio."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 91,
+    "seo": 83,
+    "best_practices": 92,
+    "lcp_ms": 16211.001500000002,
+    "cls": 0.03258085976689105,
+    "tbt_ms": 7210.63948
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä hinnoittelu, alkaen 1€/kk - läpinäkyvä ja houkutteleva",
+    "Verkkovaraus mahdollinen omassa Oma tili -portaalissa ilman piilokuluja",
+    "Laaja toimipisteverkon (75 paikkaa) myötä helppo saatavuus ympäri Suomea"
+   ],
+   "kehityskohteet": [
+    "Vuokrausehdot (peruutuspolitiikka, vähimmäisaika) eivät saatavilla julkisesti",
+    "Y-tunnus puuttuu verkkosivuilta - läpinäkyvyyttä voisi parantaa",
+    "Nelio-hinnat löytyvät vain promokoodalla - kiinteä hinnoittelu olisi selkeämpää"
+   ],
+   "yhteenveto": "Cityvarasto on suurin pienvarastoketju Suomessa, jolla on 75 toimipistettä ja selkeä 1€/kk-hinnoittelu. Varaus onnistuu helposti omassa Oma tili -portaalissa, mutta yksityiskohtaiset vuokrausehdot ja vakuutustiedot vaatisivat paremman saatavuuden."
+  },
+  {
+   "slug": "tokkovarasto",
+   "nimi": "Tokko Vuokravarasto",
+   "domain": "tokkovarasto.fi",
+   "omistaja": "Tokko Group Oy, Helsinki — automatisoidut varasto Helsingissä (Hakaniemi, Lauttasaari, Punavuori, Toolo) ja Espoossa",
+   "y_tunnus": "3108947-4",
+   "rekisteroity": 2020,
+   "score": 47.6,
+   "pillars": {
+    "digitaalinen": 63.7,
+    "lapinakyvyys": 35.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 30.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Varastotilan hinta julkisesti esillä ilman yhteystietoja",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat eivät näy millään sivulla ilman kontaktia. Varastolaskuri-sivu mainitsee hintojen laskennan, mutta ei näytä varsinaisia hintoja. Kaikki hintayhteydenoton kutsu ohjaa puhelinnumeroihin tai sähköpostiin."
+      },
+      {
+       "mittari": "Varauksen tai sopimuksen voi tehdä verkossa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Vuokraa varasto' -linkit, mutta ne johtavat 404-sivuille. Ota yhteyttä -sivulla neuvotaan soittamaan puhelimeen tai lähettämään sähköpostia. Verkkovaraus ei ole saatavilla."
+      },
+      {
+       "mittari": "Sopimusehdot (irtisanominen, sitoutumisaika) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sopimustermejä ei käsitellä julkaisesti. Tietosuojaseloste käsittelee henkilötietoja, mutta ei sopimushintoja tai peruutusehtoja."
+      },
+      {
+       "mittari": "Vakuutusturva tai vastuu tavaroiden osalta kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vakuutuksen tai vastuun ehdoista ei mainita yhdelläkään julkaisesti saatavilla olevalla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 3108947-4 näkyy jokaisella sivulla footer-osiossa sekä tietosuojaselosteessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Arviot-sivu palauttaa 404-virheen. Google-tähtiä tai muita riippumattomia arviointeja ei näy sivuston millään osassa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "35/100",
+       "paino": 34,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 17324.652500000004,
+    "cls": 0.007199875490373831,
+    "tbt_ms": 5840.499999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeät yhteystiedot ja puhelin-/sähköpostiyhteys saatavilla",
+    "Y-tunnus näkyvissä footer-osiossa",
+    "Useita varastointipisteitä Helsingissä ja Espoossa"
+   ],
+   "kehityskohteet": [
+    "Hinnat eivät ole näkyvissä ilman yhteydenottoa",
+    "Verkkovaraus ei ole saatavilla; vaatii puhelun tai sähköpostia",
+    "Sopimustermit, vakuutustiedot ja UKK-osio puuttuvat julkiselta sivustolta"
+   ],
+   "yhteenveto": "Tokko Vuokravarasto tarjoaa varastointipalveluja Helsingissä ja Espoossa, mutta julkaisesti saatavilla on vain perustieto sijainnista ja yhteystiedoista. Yksityiskohtaiset hinnat, sopimustermit ja vakuutustiedot vaativat suoraan yhteydenottoa puhelimitse tai sähköpostilla."
+  }
+ ],
+ "updated": "23.7.2026",
+ "opas": {
+  "johdanto": "Vuokravarasto eli tavaransailytys on palvelu, jossa vuokraat suljetun varastotilan omien tavaroidesi sailyttamiseen. Suomessa palvelua tarjoaa useita valtakunnallisia ketjuja erikokoisilla varastoilla muutamasta neliosta kymmeniin nelioihin. Tavallisimpia kayttotarkoituksia ovat muutot, remontti, sesonkitavaroiden sailytys ja liiketoiminnan tarpeet.",
+  "huomioita": [
+   "Hinta ilmoitetaan yleensa kuukausivuokrana neliometria kohti (eur/m2/kk). Kokonaiskuluun voi liittya avainkortin tai lukkokoodi-kulunvalvonnan maksu, joka voi olla kertamaksu tai kuukausittainen lisy.",
+   "Sopimukset ovat tyypillisesti toistaiseksi voimassa olevia irtisanomisajalla yksi kuukausi, mika tekee palvelusta joustavan lyhytaikaiseen tarpeeseen. Jotkin operaattorit tarjoavat myos maaraaikaisia sopimuksia.",
+   "Tavaravakuutus ei sisally kaikkien tarjoajien vuokraan oletuksena. Tarkista, kattaako kotiisi vakuutus tai kotivakuutus sahkoinen murto, palo ja vesivahinko myos ulkopuolisessa varastossa sailytettaville tavaroille.",
+   "Kulunvalvonnan laajuus vaihtelee: osa tarjoaa 24/7-paasyn ilman henkilokunnan paikaolaoa (koodilukolukitus tai sovelluskontrolli), toisilla on rajoitetut aukioloajat. Tarkista aukioloajat ennen sopimuksen tekemista.",
+   "Sisailmastoitu varasto suojaa kosteus- ja lampotilaherkkia tavaroita paremmin kuin kylma tai lasittamaton tila."
+  ],
+  "vinkit": [
+   "Vertaile kokonaiskuluja, ei vain neliohintaa. Lisy kulunvalvontamaksuihin, vakuutuksiin ja mahdollisiin rekisteroitymismaksuihin.",
+   "Mittaa tavaramaarasi ennen varaston valintaa. Useimmat ketjut tarjoavat online-laskurin tai hakukriteeriston neliomaaraksi.",
+   "Kysy irtisanomisaika ja sopimusehdot kirjallisena ennen sopimuksen tekemista. Monet tarjoajat julkaisevat ehdot sivustollaan."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi varastotilan hintaa ei aina nakyvissa verkossa?",
+    "a": "Osa operaattoreista kayttaa dynaamista hinnoittelua, jossa hinta vaihtelee varaston taytteasteen mukaan. Tamakin malli on laillinen, mutta kuluttajan kannalta on helpompi vertailla palveluita, jotka julkaisevat hinnat avoimesti etukateena."
+   },
+   {
+    "q": "Kattaako kotivakuutukseni varastossa sailytettavat tavarat?",
+    "a": "Monien kotivakuutusten korvauspiiri rajoittuu omaan asuntoon. Tarkista vakuutuksesi ehdoista, onko ulkopuolinen varastointipaikka katettu, ja mikali ei ole, selvita varastooperaattorin tarjoama vakuutusvaihtoehto."
+   },
+   {
+    "q": "Onko vuokravarasto verovahennyskelpoinen?",
+    "a": "Yksityishenkilolla kotitalouskaytolle tarkoitettu varasto ei yleensa ole verovahennyskelpoinen. Yrittajalle se voi olla kuluvahennys, mika edellyttaa, etta varasto on yksinomaan yrityskaytossa."
+   },
+   {
+    "q": "Mita tapahtuu, jos en maksa vuokraa?",
+    "a": "Sopimuksen mukaisesti operaattorilla on oikeus rajoittaa paasy varastoon maksamattomien vuokrien tapauksessa. Pidemman maksulukon seurauksena varasto voidaan myyda tavaroiden kattamiseksi kuluille, yksityiskohdista riippuen kunkin operaattorin ehdoista."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Varastotilan hinta julkisesti esillä ilman yhteystietoja (30), varauksen tai sopimuksen voi tehdä verkossa (20), sopimusehdot (irtisanominen, sitoutumisaika) kerrottu (15), vakuutusturva tai vastuu tavaroiden osalta kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

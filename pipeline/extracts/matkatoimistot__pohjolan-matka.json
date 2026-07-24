@@ -1,0 +1,56 @@
+{
+  "slug": "pohjolan-matka",
+  "fetched_ok": [
+    "https://pohjolanmatka.fi/",
+    "https://pohjolanmatka.fi/matkainfo/matkapakettiehdot/",
+    "https://pohjolanmatka.fi/linjaliikenne/liput-ja-hinnat/",
+    "https://pohjolanmatka.fi/tietoa-meista/ukk-usein-kysytyt-kysymykset/",
+    "https://pohjolanmatka.fi/yhteystiedot/",
+    "https://pohjolanmatka.fi/matkainfo/palvelumaksut/",
+    "https://pohjolanmatka.fi/henkiloliikennepalveluntarjoajan-tiedonanto-palveluistaan/",
+    "https://pohjolanmatka.fi/tietosuojaseloste/",
+    "https://pohjolanmatka.fi/matkapaketit/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "kylla",
+  "vakuus_kerrottu": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Matkapaketit ja hinnat selkeästi näkyvissä omalla kalentari-UI:lla eri matkakohteille",
+    "Laaja informaatio matkaehdoista, peruutusehdoista ja matkanvälityspalvelusta julkisesti saatavilla",
+    "Monipuoliset yhteydenottokanavat: puhelin, sähköposti ja useita toimipisteitä eri paikkakunnilla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei näkyvissä sivustolla, vain yritysnimi (Pohjolan Matka/Pohjolan Turistiauto Oy)",
+    "Ei itsenäisiä arviota tai asiakaspalautteiden näkyviä järjestelmiä sivustolla",
+    "Chat-palvelu puuttuu asiakaspalvelun yhteydenpitokeinoista"
+  ],
+  "yhteenveto": "Pohjolan Matka on suuri suomalainen matkanjärjestäjä ja tilausajo-yhtiö, joka tarjoaa laajan valikoiman matkapalveluita bussilla, risteilyitä ja hotelli-matkapaketteja. Sivusto julkaisee matkapakettien hinnat avoimesti, mahdollistaa verkkovarauksen ja sisältää perusteellisen tiedon matkapakettiehdoista sekä peruutusehdoista. Yhtiö on rekisteröity Kilpailu- ja kuluttajaviraston matkapalveluiden vakuusrekisteriin (rek. no 3631/00/MjMv), mikä osoittaa lain mukaisen vakuuden. Asiakaspalvelulle on saatavilla useita puhelinnumeroita ja sähköpostiosoitteita sekä kymmeniä toimipisteitä eri puolella Suomea.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Matkapaketit-sivulla näkyvät hinnat kaikille paketeille alkaen-muodossa (esim. 'Alk. 14,60€', 'Alk. 698€'). Liput ja hinnat -sivulla listataan käteishinnat reiteittäin ja Matkahuollon hinnat.",
+    "varaus_verkossa": "HAVAINTO: Matkapaketit-sivulla kaikilla paketeilla on 'TUTUSTU'-nappi, jonka kautta voi katsoa ja varata matkaa ilman yhteydenottopyyntöä. Verkkokauppa käytössä Matkahuollon järjestelmän kautta.",
+    "ehdot_saatavilla": "HAVAINTO: Matkapakettiehdot-sivulla julkisesti näkyvät kaikki ehdot (soveltamisala, hinnanmuutokset, peruutusehdot, matkanmuutokset yms.) sekä peruutusmaksut porrastetusti (45 vrk ennen -> vain toimistokulut, 3 vrk ennen -> 95% hinnasta).",
+    "vakuus_kerrottu": "HAVAINTO: Matkapakettiehdot-sivulla mainitaan: 'Pohjolan Matka on Kilpailu- ja kuluttajavirastoon rekisteröity ja matkapakettilain mukaisen vakuuden asettanut virallinen matkanjärjestäjä (rekisterinumero 3631/00/Mj)'. Henkilöliikenne-sivulla: 'Yhtiömme löytyy Kilpailu- ja kuluttajaviraston ylläpitämästä matkapalveluyhdistelmien tarjoajien vakuusrekisteristä rek. no 3631/00/MjMv.'",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaseloste-sivulla mainitaan 'Pohjolan Matka/Pohjolan Turistiauto Oy' rekisterinpitäjänä osoitteella Yrittäjäntie 8, 74130 Iisalmi, mutta varsinaista Y-tunnusta (numeroa) ei ole julkisesti näkyvissä sivustolla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä itsenäisiin arviointilähteisiin (kuten Google-arviot, Trustpilot, TripAdvisor) eikä asiakaspalautteiden keräämisen ja näyttämisen järjestelmää.",
+    "puhelin_esilla": "HAVAINTO: Sivuston joka sivulla näkyvät puhelinnumerot: Matkamyynti 0201 303 303, Tilausajomyynti 0201 303 313, Ryhmämyynti 0201 303 304, Aikataulut 0200 4000. Lisäksi asiakaspäivystys 0600 14990 ja neuvonta 020 690 152.",
+    "email_esilla": "HAVAINTO: Sivustolla näkyvät sähköpostiosoitteet myynti@pohjolanmatka.fi (Yhteystiedot-sivulla), tilausajot@pohjolanmatka.fi, ryhmat@pohjolanmatka.fi ja info@pohjolanmatka.fi.",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei mainita chat-palvelua. Asiakaspalvelu toteutetaan puhelimella, sähköpostilla ja toimistoissa.",
+    "aukioloajat_esilla": "HAVAINTO: Sivuston lähes jokaisella sivulla näkyvät aukioloajat: 'Matkamyyntimme asiakaspalvelu palvelee puhelimitse ma-pe klo 9-16 ja tilausajomyyntimme ma-pe klo 8-16. Toimistomme ovat suljettuina uudenvuoden ja juhannuksen aattoina.' Matkahuollon aikataulupalvelu avoinna ma-pe 8-18, la 10-18, su 10-20.",
+    "ukk_osio": "HAVAINTO: 'UKK – Usein kysytyt kysymykset' -sivu löytyy navigaatiosta, jossa on 40+ kysymystä kolmella kategorialla: Bussi- ja laivapohjaiset matkapaketit, Linjaliikenne ja FAQ-vastaukset käytännön kysymyksiin.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla mainitaan useaan otteeseen 'Reitit ja liput' -mobiilisovellus sekä Matkahuollon sovellus, joista voi ostaa lippuja ja varata matkapaketista reittejä."
+  }
+}

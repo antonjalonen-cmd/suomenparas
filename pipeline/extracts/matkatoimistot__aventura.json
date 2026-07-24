@@ -1,0 +1,46 @@
+{
+  "slug": "aventura",
+  "fetched_ok": [
+    "https://aventura.fi",
+    "https://aventura.fi/"
+  ],
+  "hinnat_esilla": "osittain",
+  "varaus_verkossa": "osittain",
+  "ehdot_saatavilla": "osittain",
+  "vakuus_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Laaja matkatarjonta - 122 itsenäiseen valtioon kiertomatkoja suomalaisilla matkanjohtajilla",
+    "Kokeneet asiantuntijat - yli 25 vuoden kokemus kaukomatkajärjestämisestä näkyy sivustolla",
+    "Monipuoliset matkateemiot - safari, vaellus, luksus, aktiivimatkat ja kestävä matkailu"
+  ],
+  "kehityskohteet": [
+    "Hintojen näkyvyys - matkakohteiden hinnat eivät ole julkisesti esillä, vaan vaativat tarjouspyynnön",
+    "Ehdolliset sivut - matkaehdot ja muut tärkeät tiedot linkitetään navigaatiossa mutta sivut palauttavat virheen",
+    "Verkkovaraus - verkkovarausjärjestelmää ei näy; asiakkaat joutuvat pyytämään tarjousta yhteydenottosähköpostilla"
+  ],
+  "yhteenveto": "Aventura on perustettu vuonna 2000 ja se on suomalainen kaukomatkatoimisto, joka on palkittu Vuoden matkatoimistoksi 2024. Sivusto esittelee laajaa matkatarjontaa yli 25 vuoden kokemuksella, mutta hintojen saatavuus ja suora verkkovaraus puuttuvat - matkoista pitää pyytää tarjousta erikseen. Monia tärkeitä tietoja, kuten matkapakettiehtoja, ei pystytä lataamaan sivustolta teknisten ongelmien vuoksi.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Matkakuvauksissa esiintyvät vain päivämäärät ja kohteiden kuvaukset, hintoja ei näy. Sivustolla kehottaa 'Pyydä matkatarjous' -lomakkeella ottamaan yhteyttä hintatarjouksista.",
+    "varaus_verkossa": "HAVAINTO: Sivustolla mainitaan 'Pyydä matkatarjous' -toiminto, mutta suoraa online-varausta ei näy. Varaus näyttää vaativan yhteydenottoa tai tarjouspyynnön lähettämistä.",
+    "ehdot_saatavilla": "HAVAINTO: Navigaatiossa näkyvät linkit 'Yleiset matkapakettiehdot' ja 'Aventuran lisä- ja erityismatkaehdot', mutta linkkien kohdalla olevat sivut palauttavat HTTP 404 -virheen eikä ehtoja voida lukea.",
+    "vakuus_kerrottu": "HAVAINTO: Sivusto mainitsee 'Aventura on 100 % suomalainen matkanjärjestäjä, jolla on korkein luottoluokitus AAA', mutta KKV:n matkanjärjestäjärekisteriin tai matkaturvaksi osaan liittyvää tietoa ei ole julkisesti saatavilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy sivustolla. Osoite on Lönnrotinkatu 9, 00120 Helsinki.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 0207 435 100 on näkyvillä sivustolla (asiakaspalvelun puhelumaksu 8,4 snt/min).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@aventura.fi on näkyvillä sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Toimiston aukioloajat näkyvät: ma-pe klo 9-17.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa näkyy 'Usein kysyttyä' -osion linkki, mutta sivu palauttaa HTTP 404 -virheen."
+  }
+}

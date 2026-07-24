@@ -1,0 +1,56 @@
+{
+  "slug": "aava",
+  "fetched_ok": [
+    "https://www.aava.fi/",
+    "https://www.aava.fi/palvelut/",
+    "https://www.aava.fi/palvelut/fysioterapia/",
+    "https://www.aava.fi/asiakkaana/hinnastot/",
+    "https://www.aava.fi/laakarikeskukset/",
+    "https://www.aava.fi/asiakkaana/",
+    "https://www.aava.fi/asiakkaana/asiointiohjeet/",
+    "https://www.aava.fi/asiakkaana/oma-aava/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "kaynti_hinta_alkaen_eur": 84.0,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja fysioterapiapalvelu monipuolisilla erikoisaloilla (OMT, neurologinen, psykofyysinen, lantionpohjan, urheilufysioterapia jne.)",
+    "Selkeä online-ajanvaraus verkossa ja Aava-sovelluksessa ilman puhelua",
+    "Monipaikkainen palvelu 15 lääkärikeskuksessa ympäri Suomea"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus (business ID) ei ole näkyvissä julkisen verkkosivuston sisällöstä",
+    "Riippumattomia arvioita tai asiakaspalautteiden yhteenvetoja ei ole sivustolla",
+    "Säännöllisesti päivitettävä FAQ-osio puuttuu - vastauksia yleisiin kysymyksiin"
+  ],
+  "yhteenveto": "Lääkärikeskus Aava on suomalainen perheyritys, joka tarjoaa laaja-alaisia fysioterapiapalveluita 15 toimipisteessä ympäri Suomea. Verkkosivusto esittelee fysioterapiapalvelut selkeästi ja mahdollistaa online-ajanvarauksen sekä sovelluksen kautta, hinnat ovat julkisesti saatavilla. Sivustolla on kattava terapiapalveluiden kuvaus, mutta puuttuvat Y-tunnus, riippumattomat arviot ja FAQ-osio.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Fysioterapeutin vastaanotto 45 min 84,00€ (omavastuu 69,00€ Kela-korvauksen jälkeen), 60 min 97,70€ (omavastuu 82,70€). OMT-fysioterapia 45 min 97,00€, 60 min 113,00€. Lantionpohjan fysioterapia 60 min 116,00€. Palvelumaksu terapiapalveluissa 9,90€. Kaikki hinnat näkyvät hinnaston sivulla.",
+    "varaus_verkossa": "HAVAINTO: Aava-sovelluksesta ja Oma Aava -palvelusta voi varata ajan verkossa 24/7, sekä puhelimitse 010 380 3838. Asiointiohjeet-sivulla mainitaan, että ajanvaraus tapahtuu verkosta, sovelluksesta tai puhelimitse ilman väliintulovaatimusta.",
+    "palvelut_kuvattu": "HAVAINTO: Fysioterapia-sivulla kuvattu monipuoliset palvelut: Fysioterapeutti, OMT-fysioterapeutti, Alaraajafysioterapia, Neurologinen fysioterapia, Psykofyysinen fysioterapia, Kipufysioterapia, Ikääntyneiden fysioterapia, Lonkkakipu ja -kuntoutus, Polvikipu ja -kuntoutus, Akupunktio, kehon liikehallinnan arviointi, K5-testi, Psykofyysinen fysioterapia organisaatioille, Terapeuttinen harjoittelu, LPG-hoito, Hengitysfysioterapia, Sydänfysioterapia, Purenta- ja leukanivelen fysioterapia, Urheilufysioterapia, Pre- ja postoperatiivinen fysioterapia, Äitiysfysioterapia ja sen alaosat.",
+    "terapeutit_esitelty": "HAVAINTO: Fysioterapia-sivulla esitellään neljä nimettyä terapeutin: Mirja Kiiskilä (Fysioterapeutti, Seksuaaliterapeutti), Susanna Nissinen (Lasten ja nuorten fysioterapeutti), Heidi Koski (Työfysioterapeutti, fysioterapeutti), Sanni Mattila (Fysioterapeutti), Ari Rahikkala (Fysioterapeutti). Sivulla on linkki 'Näytä lisää asiantuntijoita'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt julkisesti saatavilla olevista sivuista. Yrityksen laillinen nimi JSON-LD-skeemassa on 'Aava ja Pikkujätti Oy', mutta numerotunnusta ei ole näkyvissä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointipalveluihin, asiakasarvioihin tai ulkoisiin kuten Google-, Trustpilot- tai muiden arviopalveluiden linkkeihin. Facebook-linkki löytyy sivulta, mutta arvioita ei ole kattavasti esillä verkkosivustolla.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 010 380 3838 on näkyvillä jokaisen sivun alareunassa ja asiointiohjeet-sivulla. Aukioloajat: arkisin 7-21, lauantaisin 8-20:45, sunnuntaisin 8:30-20:45. Puhelun hinta on normaalin matkapuhelinmaksun verran.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite [email protected] löytyy asiointiohjeet-sivulta leikkausten peruutuksiin ja siirtoihin. Yleinen sähköpostiosoite asiakaspalveluun ei ole näkyvissä verkkosivustolla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita missään tarkastetuissa sivuissa. Yhteydenpito tapahtuu puhelimitse, sähköpostitse (leikkausten osalta), tai Oma Aava -portaalin kautta (työterveysasiakkaille viesti-funktio).",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat esillä jokaisen sivun alareunassa ja asiointiohjeet-sivulla: arkisin 7-21, lauantaisin 8-20:45, sunnuntaisin 8:30-20:45. Klinikkakohtaisia aukioloaikoja ei ole erillään esillä fysioterapia-sivulla.",
+    "ukk_osio": "HAVAINTO: Erillista FAQ-osiota ei löytynyt. Asiointiohjeet-sivulla on kyllä vastauksia yleisiin kysymyksiin (ajan varaaminen, valmistautuminen, maksaminen jne.), mutta se ei ole nimenomaisesti merkitty FAQ-osioksi.",
+    "mobiilisovellus": "HAVAINTO: Aava-sovellus mainitaan monella sivulla. Se mahdollistaa ajanvarauksen, ilmoittautumisen vastaanotolle tekstiviestillä tai sovelluksessa, tulosten tarkistamisen ja reseptien hallinnan. Sovellus on ladattavissa iOS- ja Android-ympäristöihin."
+  }
+}

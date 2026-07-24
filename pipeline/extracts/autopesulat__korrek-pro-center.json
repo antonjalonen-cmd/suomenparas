@@ -1,0 +1,54 @@
+{
+  "slug": "korrek-pro-center",
+  "fetched_ok": [
+    "https://korrekprocenter.fi/",
+    "https://korrekprocenter.fi/ketjukampanjat/",
+    "https://korrekprocenter.fi/tietoa-korrek-pro-centerista/",
+    "https://korrekprocenter.fi/toimipiste/p-toolo-helsinki/",
+    "https://korrekprocenter.fi/toimipiste/keilaniemi-espoo/",
+    "https://korrekprocenter.fi/ota-yhteytta/"
+  ],
+  "hinnat_esilla": "kylla",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "osto_verkossa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pesun_hinta_alkaen_eur": 33,
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Palveluvalikoima kattaa pesuista pinnoituksiin, rengas- ja tuulilasipalveluihin asti",
+    "Hinnat selkeästi esillä kaikilla toimipisteillä, ajanvaraus mahdollinen verkossa ja puhelimitse",
+    "Yhdeksän toimipistettä Helsingissä, Espoossa, Vantaalla, Turussa ja Porissa, aukioloajat julkisesti näkyvät"
+  ],
+  "kehityskohteet": [
+    "Riippumattomia asiakasarvioita tai tähteä-arviointeja ei ole näkyvissä verkkosivuilla",
+    "Y-tunnus ja muut yritystiedot eivät ole julkisesti esillä pääsivustolla",
+    "Mobiilisovellusta ei ole mainittu, FAQ-osio puuttuu (usein-kysyttyja-sivu palauttaa 404)"
+  ],
+  "yhteenveto": "KORREK Pro Center on vuonna 2022 perustettu autonhoitoalan franchise-ketja, joka omistaa Berner Oy. Verkkosivusto on hyvin organisoitu ja tarjoaa selkeästi hinnat, palvelut, toimipisteet ja aukioloajat. Ajanvaraus on mahdollista verkossa sekä puhelimitse. Sivustolta puuttuvat kuitenkin riippumattomat asiakasarviot, Y-tunnus, mobiilisovellus ja FAQ-osio.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Toimipistesivuilla näkyy yksityiskohtainen hinnasto. Halvimmat pesupalvelut alkavat 33€:sta (KORREK-pesu) ja kalleimmat kestopinnoitteet 849€:sta (KORREK Pro Ceramic TFC Evo). Kampanjasivulla näkyy seuraavat promootiot: Polymatrix-kevytpinnoite 59€ (norm. 98€), Cure-kestopinnoite alk. 399€ (norm. alk. 549€), Ceramic Wax 129€ (norm. 149€).",
+    "pesuohjelmat_kuvattu": "HAVAINTO: Kunkin pesuohjelman sisältö on yksityiskohtaisesti kuvailtu. Esimerkiksi 'KORREK-pesu' määritellään 'laadukkaksi käsinpesuksi, jossa pesemme myös ovikynnykset', ja 'KORREK Plus-pesu' sisältää 'kauden parasta käsinpesua ja jalkatilojen imurointia'.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Sivustolla on yhdeksän toimipistettä: P-Töölö Helsinki, Keilaranta, Keilaniemi, Lippulaiva ja Olari Espoossa, Airport ja P-HOTT Colony Vantaalla, Louhi Turussa ja Puuvilla Porissa. Kaikilla on omat sivunsa aukioloaikojen kanssa. P-Töölön aukioloajat ovat ma-pe 9-18, la 11-17. Keilaniemen aukioloajat ovat ma-pe 8-16, la-su suljettu.",
+    "osto_verkossa": "HAVAINTO: Jokaisella palvelulla on 'Varaa aika' -linkki. Maininta 'Ajanvarauksella tai ilman' esiintyy useilla sivuilla, kuten P-Töölön sivulla: 'Tuo autosi osaaviin käsiin ajanvarauksella tai ilman!'",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole julkisesti näkyvissä verkkosivuilla, kuten kotiutus-, tietoa- tai yhteystiedot-sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustoilla ei ole näkyvissä riippumattomia asiakasarvioita, tähtiarviointeja tai linkkejä arviointisivustoihin (esim. Google Reviews, Trustpilot).",
+    "puhelin_esilla": "HAVAINTO: Kaikilla toimipisteillä on puhelinnumero näkyvissä. P-Töölö: 040 322 6315, Keilaniemi: 040 484 2886. Myös pääkontakti saatavilla: vesseli.sirvio(at)berner.fi, 040 707 1866.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät toimipistesivuilla. P-Töölö: ptoolo@korrekprocenter.fi, Keilaniemi: keilaniemi@korrekprocenter.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-tukea ei mainita verkkosivuilla. Yhteystapoja ovat ajanvaraus, puhelin ja sähköposti.",
+    "aukioloajat_esilla": "HAVAINTO: Jokaisen toimipisteen aukioloajat on selkeästi listattu omalla sivullaan. Esimerkiksi P-Töölö: ma-pe 9-18, la 11-17, su 'sopimuksen mukaan'.",
+    "ukk_osio": "HAVAINTO: Linkki 'Usein kysyttyä autonhoidosta' navigaatiossa näkyi, mutta /usein-kysyttyja/ -sivu palauttaa HTTP 404 -virheen.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei ole mainittu verkkosivuilla."
+  }
+}

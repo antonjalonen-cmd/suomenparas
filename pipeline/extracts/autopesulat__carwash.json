@@ -1,0 +1,54 @@
+{
+  "slug": "carwash",
+  "fetched_ok": [
+    "https://www.carwash.fi",
+    "https://www.carwash.fi/toimipisteet",
+    "https://www.carwash.fi/autopalvelut",
+    "https://www.carwash.fi/faq",
+    "https://www.carwash.fi/ota-yhteytta",
+    "https://www.carwash.fi/rajoittamaton-pesu",
+    "https://www.carwash.fi/meista",
+    "https://www.carwash.fi/rengaspalvelut",
+    "https://www.carwash.fi/pesulat/nouto-palautus-carwash"
+  ],
+  "hinnat_esilla": "osittain",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "osto_verkossa": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "pesun_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattava palveluvalikoimaa ulko- ja sisäpesusta detailingiin sekä rengaspalveluihin; pesuohjelmien sisältö selkeästi kuvattu FAQ-osiossa (Basic-ulko, Super-ulko, Basic-sisä, Super-sisä, Total-sisä)",
+    "Laaja toimipisteverkon ja avoimet aukioloajat 8 kaupunkiin (Helsinki, Vantaa, Espoo, Tampere) sekä noutopalvelu-vaihtoehto",
+    "Online-ajanvaraus mahdollinen verkkosivuilla sekä kuukausittaiset rajoittamattomat pesupakettialustakin tarjolla (alk. 19€/kk)"
+  ],
+  "kehityskohteet": [
+    "Yksittäisten pesutöiden hintalistat puuttuvat julkisesti – vain pakettihinnat ja kuukausimaksut näkyvät; hinnoitteluun tulee soittaa",
+    "Verkkokaupan puuttuessa lahjakortteja voi ostaa vain paikanpäällä palvelupisteissä, ei netissä",
+    "Mobiilisovellusta tai chat-tukea ei mainita sivuston missään osiossa"
+  ],
+  "yhteenveto": "Carwash on Suomen suurin autopesula-franchise, jolla on 13+ palvelupistettä pääkaupunkiseudulla ja Tampereella. Sivusto esittelee kattavasti palveluita ja pesuohjelmia sekä mahdollistaa online-varaukset ja tarjoaa kuukausipaketteja. Hinnoittelun täydellinen näkyminen vaatii joko pakettivalinnan tai puhelinyhteydenottoa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Verkkosivuilla näkyvät vain kuukausittaisten rajoittamattomien pesupakettien hinnat (19–49€/kk), pakettipalvelut (98–950€) ja rengastilat (129€). Yksittäisten pesujen hintalistat puuttuvat; FAQ:n kysymys 'Mistä löydän hinnaston?' vastaa vain 'Soita meille'.",
+    "pesuohjelmat_kuvattu": "HAVAINTO: Pesuohjelmien sisältö kuvailtu perusteellisesti FAQ-osiossa: Basic-ulko (esipesu, painehuuhtel, vaahtipesu, kuivaus), Super-ulko (lisäksi liuotinpesu ja takaluukkujen pesu), Basic-sisä (imurointi, kojelaudan pyyhkiminen), Super-sisä (verhoilun pesu, kemiallinen puhdistus), Total-sisä (super-sisä + tekstiilien märkäpesu), täysfixi (maalipinnan kiillotus, vahaus/pinnoitus, sisustapuhdistus).",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla lueteltuna 13+ paikkaa aukioloaikojen kanssa: Helsinki 4 kpl (Autotalo, Ruoholahti, Munkkivuori, Itis), Vantaa 3 kpl (Kivistö, Gate8, Jumbo), Espoo 1 kpl (Keilaranta), lisäksi noutopalvelu. Aukioloajat vaihtelevat ma-la 08–20 väleillä, joissain su-aukioloajat 12–17.",
+    "osto_verkossa": "HAVAINTO: FAQ-osiossa todetaan: 'Verkkosivuillamme carwash.fi näet valikkorivillä kohdan Ajanvaraus, napsauta sen alta löytyvää Varaa nyt valintaa aloittaaksesi ajanvarauksen.' Kuukausipaketteja voi myös tilata netissa (rajoittamaton pesu, Standard/Premium-paketit).",
+    "y_tunnus_esilla": "HAVAINTO: Footer-osiossa todetaan '© 2026 DD Carwash Oy ● PL 166, 00931 Helsinki ● info@carwash.fi'. Y-tunnus ei näy, mutta yritysmuoto (Oy) ja posti-osoite lueteltuna.",
+    "puhelin_esilla": "HAVAINTO: Noutopalvelu-sivulla näkyy puhelinnumero '040 7568890'. Muilla sivuilla kehotus 'Soita meille' ilman numeroa näkyvissä; email-ohjaukset painotetaan enemmän.",
+    "email_esilla": "HAVAINTO: Email-osoite info@carwash.fi näkyvät footer-osiossa, toimipisteet-sivulla sekä usein FAQ:ssa. Lisäksi toimisto@carwash.fi yritysasiakkaille ja eri palvelupisteille omat sähköpostit (autotalo@, ruoholahti@, joycarwashoy@gmail.com, jne).",
+    "aukioloajat_esilla": "HAVAINTO: Toimipisteet-sivulla kunkin paikan aukioloajat lueteltu, esim. Helsinki-toimistot ma-pe 08–19, la 10–16, su suljettu. Noutopalvelun aukioloajat ma-pe 09:30–16.",
+    "ukk_osio": "HAVAINTO: /faq-sivulla FAQ-osio kokonaisuudessaan, jossa 15+ kysymystä ja vastauksia liittyen pesuihin, varauksen tekemiseen, lahjakortteihin, rengastallentoon, palveluihin, hintaukseen ja yritystietoihin."
+  }
+}

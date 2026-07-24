@@ -1,0 +1,51 @@
+{
+  "slug": "matkapojat",
+  "fetched_ok": [
+    "https://www.matkapojat.fi/",
+    "https://www.matkapojat.fi/yritysinfo",
+    "https://www.matkapojat.fi/yhteystiedot",
+    "https://www.matkapojat.fi/risteilyt/tallinna/22-h-risteily-tallinnaan"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "osittain",
+  "vakuus_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laaja valikoima matkatuotteita yhdessä paikassa, risteilyt, kaupunkilomat, kiertomatkat ja kaukomatkat",
+    "Hinnat selkeästi näkyvissä jo hakutuloksissa ja tuotesivuilla, verkkovakaus varaus nopeasti toteutettavissa",
+    "Kattavat yhteystiedot: puhelinnumero, sähköpostiosoite, avoinajat ja yritystiedot helposti löydettävissä"
+  ],
+  "kehityskohteet": [
+    "Matkaehdot ja peruutusehdot merkityt footerissa mutta sivut eivät ole saatavilla (404-virhe)",
+    "Usein kysyttyä -osio mainitaan mutta sivu ei ole käytettävissä",
+    "Matkanjärjestäjän vakuuden tai KKV-rekisteröinnin merkinnän puuttuminen helposti näkyviltä paikoilta"
+  ],
+  "yhteenveto": "Matkapojat on Suomen suurin laiva- ja lähialuematkojen myyjä, joka tarjoaa laajan valikoiman matkatuotteita yhdessä paikassa. Sivustolla matkojen hinnat ovat selkeästi näkyvissä ja verkkovaraus on helppo toteuttaa hakuformin kautta. Yhteystiedot ja aukioloajat löytyvät helposti, mutta matkaehdot ja peruutusehdot eivät ole verkon kautta saatavilla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Matkojen hinnat näkyvät selkeästi sivustolla. Esimerkiksi hakulomakkeessa näkyvät tarjoukset (50 €/hlö Viking Line päiväristeilylle, 56€ B-hytille Victorialla), ja hintatiedot löytyvät tuotesivuilta.",
+    "varaus_verkossa": "HAVAINTO: Verkkovakaus on mahdollinen hakuformin kautta. Sivulla näkyy haku-lomake, jossa valitaan matkatyyppi, kohde, matkustajien määrä ja lähtöpäivä. Lomakkeen lopussa on 'HAE' -painike varauksen aloittamiseksi.",
+    "ehdot_saatavilla": "HAVAINTO: Footerissa näkyy linkki 'Matkaehdot ja ikäsäännöt' ja 'Usein kysyttyä', mutta kummatkin sivut palauttavat 404-virheen. Ehdot eivät ole julkisesti saatavilla sivustolla.",
+    "vakuus_kerrottu": "HAVAINTO: Yritysinfosivulla sanotaan, että Matkapojat on 'Suomen suurin laiva- ja lähialuematkojen myyjä' ja toimii 50 vuoden kokemuksella. KuVi-tunnus 4808/04/MjMvUSMAL-tunnus 19395 ja KKV-rekisteröintitunnus 19395 mainitaan, mutta matkanjärjestäjän vakuuden osalta ei ole erityistä mainintaa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1842916-3 näkyy sekä yritysinfosivulla että yhteystietosivulla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä linkitystä riippumattomiin arviolähteisiin, kuten Trustpilotiin tai muihin arviointi-palveluihin.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 010 2323 200 näkyy sekä etusivulla että yhteystietosivulla. Aukioloajat ma-pe 9-16.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myyntipalvelu@matkapojat.fi näkyy monella sivulla, myös yhteystietosivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ma-pe 9-16 (ulkomailta +358 10 2323 200) näkyvät yhteystietosivulla. Ryhmämatkoille erillinen numero 010 2323 440, ma-pe 8-16.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä' -osio mainitaan footerissa, mutta sivu palauttaa 404-virheen.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita sivustolla."
+  }
+}

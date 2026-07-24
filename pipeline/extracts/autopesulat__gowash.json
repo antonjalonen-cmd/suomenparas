@@ -1,0 +1,56 @@
+{
+  "slug": "gowash",
+  "fetched_ok": [
+    "https://gowash.fi/",
+    "https://gowash.fi/hinnasto/",
+    "https://gowash.fi/yhteystiedot/",
+    "https://gowash.fi/pesuohjeita/",
+    "https://gowash.fi/gowash-itsepalvelupesut/",
+    "https://gowash.fi/jasenedut/",
+    "https://gowash.fi/yrityksille/",
+    "https://gowash.fi/autopesut-takseille/",
+    "https://gowash.fi/dogwash-koirapesula-espoon-bembolessa/"
+  ],
+  "hinnat_esilla": "kylla",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "osto_verkossa": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pesun_hinta_alkaen_eur": 14.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja hinnoittelu näkyvillä kaikille jäsenyystyypeille (EXCLUSIVE, 24/7, NIGHT) ja kertapesuille (LIGHT 14,99€ - EXCLUSIVE 29,99€)",
+    "Kahdeksan toimipiste kattavasti jaettu pääkaupunkiseudulle ja Turkuun, jokaisen kohdalla puhelinnumero ja sähköposti sekä aukioloajat selvästi näkyvillä",
+    "Selkeä pesuohjelmien kuvaus (BASIC, SUPER, EXCLUSIVE, LIGHT) sisältöineen sekä itsepalvelu-optioiden hinnaston esittäminen (poletit ja pesuohjelmat)"
+  ],
+  "kehityskohteet": [
+    "Verkkovaraus tai -tilaus puuttuu – jäsenyys tilataan lomakkeella ja tullaan allekirjoittamaan sopimus paikan päällä, eikä online-maksua ole",
+    "Ei omaa mobiilisovellusta tai chat-palvelua – asiakaspalvelu saavutettavissa vain puhelimitse tai sähköpostilla",
+    "FAQ-osio puuttuu – yleisiä kysymyksiä ei ole dokumentoitu sivulle, vaikka pesuohjeissa käsitellään joitain perusasioita"
+  ],
+  "yhteenveto": "GoWash on monipaikkainen autopesuketju, joka tarjoaa joustavaa kuukausijäsenyyttä alkaen 19,99 eurosta sekä kertapesuja 14,99 eurosta. Hinnoittelun ja toimipisteiden tiedot ovat selkeästi esillä, ja pesuohjelmien sisältö on kuvattu. Palveluiden tilaaminenkaan ei ole täysin online-pohjaista, vaan vaatii käytännön käyntiä sopimuksen allekirjoitukseen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla esitetään kolme jäsenyystyyppiä (EXCLUSIVE 49,99€, 24/7 29,99€, NIGHT 19,99€) sekä kertapesujen hinnat (LIGHT 14,99€, BASIC 19,99€, SUPER 24,99€, EXCLUSIVE 29,99€). Lisäksi taksi-jäsenyyksien hinnat 39,99€ (24/7) ja 59,99€ (EXCLUSIVE). Itsepalveluhinnat kuvattu polettien hinnoin (1 poletti 2,5€, 10 polettia 20€ jne.).",
+    "pesuohjelmat_kuvattu": "HAVAINTO: Hinnasto-sivulla kuvataan kunkin pesuohjelman sisältö: LIGHT sisältää esipesuaineen ja harjattomat/pehmoharjalliset vaihtoehdot, BASIC lisää killotusvahan, SUPER ja EXCLUSIVE lisäävät ShineTecs-vahaa. Itsepalvelusivulla listataan pesuohjelmat: esipesu, korkeapaine, vaahto, huuhtelu, vaha.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla luetellaan kahdeksan toimipistettä osoitteineen: Konala, Tammisto, Espoonlahti, Bemböle, Ilola, Oulunkylä, Vartiokylä, Turku. Asiakaspalvelun aukioloajat ma-pe 7-21, la-su 10-19. Itsepalvelu-hallit avoinna ma-pe 8-20, la-su 11-18.",
+    "osto_verkossa": "HAVAINTO: Tilauslomakkeella voi tehdä jäsenyyshakemus sekä henkilö- että taaksijäsenyyksille. Sivulla sanotaan 'Täytä tilauslomake ja GoWash-tiimi on sinuun yhteydessä, kun tilauksesi on valmis noudettavaksi.' Sopimus allekirjoitetaan paikan päällä, eikä online-maksua näy. Ei varausmahdollisuutta yksittäisille pesuille.",
+    "y_tunnus_esilla": "HAVAINTO: Jokaisen sivun alareunassa näkyy 'Y-tunnus: 2654393-5'. Lisäksi mainittu 'GoWash Turku 3468259-9'.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla kukin toimipiste listataan puhelinnumerolla (050 328 XXXX -muodossa). Yritysmyynti 050 328 1621, laskutus 040 0363 101. Pesuohje-sivulla mainitaan että henkilökuntaan voi ottaa yhteyttä.",
+    "email_esilla": "HAVAINTO: Asiakaspalvelu asiakaspalvelu@gowash.fi näkyy jokaisen sivun alareunassa. Jokaisella toimipisteellä oma sähköpostiosoite (konala@gowash.fi, tammisto@gowash.fi jne.). Yritysmyynti myynti@gowash.fi, rekrytointi rekry@gowash.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita missään sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla asiakaspalvelun aukioloajat ma-pe 7-21, la-su 10-19. Itsepalvelu-hallit ma-pe 8-20, la-su 11-18. Jäsenyydet 12 kuukauden mittaisia.",
+    "ukk_osio": "HAVAINTO: Erillinen FAQ-osio ei ole näkyvillä. Pesuohje-sivu sisältää joitain ohjeita (esim. peilit käännettävä, antenni irrotettava), mutta ei laajaa usein kysyttyjä kysymyksiä -osiota.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu missään sivulla. Sivuston kautta näkyy verkkolomakkeita, mutta ei erillisen sovelluksen latausohjetta."
+  }
+}

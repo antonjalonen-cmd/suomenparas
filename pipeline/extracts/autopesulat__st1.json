@@ -1,0 +1,52 @@
+{
+  "slug": "st1",
+  "fetched_ok": [
+    "https://autopesu.st1.fi/",
+    "https://autopesu.st1.fi/asiakaspalvelu",
+    "https://autopesu.st1.fi/pesuohjelmien-vertailu",
+    "https://autopesu.st1.fi/toimitusehdot",
+    "https://www.st1.fi"
+  ],
+  "hinnat_esilla": "kylla",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "osto_verkossa": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "pesun_hinta_alkaen_eur": 15,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Hinnat ja pesuohjelmat täysin näkyvät jo etusivulla, nopeasti löydettävät",
+    "Selkeä online-ostomahdollisuus pesukoodien ostamiseen paketteittain",
+    "Mobiilisovellus (St1 Way) integroituna pesukoodien hallintaan ja käyttöön"
+  ],
+  "kehityskohteet": [
+    "Kaikkien 65 pesupaikoista puuttuvat yksilölliset aukioloajat ja sijainnit (vain 24h pesukadut listattu)",
+    "Y-tunnus ei näkyvissä julkisesti verkkosivuilla",
+    "Riippumattomia asiakasarvioita tai palautteista ei ole nähtävissä sivustolla"
+  ],
+  "yhteenveto": "St1 Autopesu on suuri pesuverkosto 65 asemalla ympäri Suomea. Verkkosivut tarjoavat selkeät hinnat (19,90–44,90€) ja yksityiskohtaiset kuvaukset viidestä pesuohjelmasta. Online-ostaminen on mahdollista pesukoodien muodossa, joita voi käyttää kaikilla asemilla viiden kuukauden ajan. Sivuston pääheikkous on vaillinainen tieto pesupaikoista: vaikka sanotaan olevan 65 asemaa, niiden tarkka sijainti ja aukioloajat ovat huonosti dokumentoidut.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät viiden pääpesuohjelman hinnat: Tornado 44,90€, Super 34,90€, Kiilto 29,90€, Pika 19,90€, Harjaton 21,90€. Lisäksi kesäpaketti 35€ ja yöpesu alkaen 15€.",
+    "pesuohjelmat_kuvattu": "HAVAINTO: Jokaisen pesuohjelman sisältö on listattu yksityiskohtaisesti (esim. Tornado sisältää: korkeapainepesu, pesuvaahto, pehmoharjaus, alustanpesu, rainlux-pinnoite, ceramic-vaha, tehokuivaus). Pesuohjelmien vertailu -sivulla on lisäksi pidempi kuvaus kunkin ohjelman tarkoituksesta ja käytöstä.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Sivulla mainitaan 'St1 Autopesuloita löytyy 65:ltä St1-asemalta' mutta yksittäisiä pesupaikkojen osoitteita tai aukioloaikoja ei listata. Ainoastaan 24h pesukadut mainitaan: Itäkeskus ja Tullinpuomi avattu 24 tuntia vuorokaudessa.",
+    "osto_verkossa": "HAVAINTO: Kaikille pesuohjelmille näkyvät 'Osta' -painikkeet. Pesukoodit voidaan ostaa yksittäin tai paketeittain (3 kpl, 5 kpl), ja koodit ovat voimassa 5 kuukautta käytettäväksi millä tahansa St1 asemalla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy käytetyiltä sivuilta. Yritys mainitaan nimellä 'St1 Oy' toimitusehdoissa ja kotisivuilla, mutta virallista Y-tunnusta (rekisterinumero) ei ole näkyvissä.",
+    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa: 24h-asiakaspalvelu 0800 131 031 ja palautteen/yhteydenoton numero 0100 304 00. Numerot näkyvät asiakaspalvelu-sivulla ja 404-virheiden yhteydessä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@st1.fi on näkyvissä toimitusehdoissa (Terms & Conditions) reklamaatioiden ja peruutusten osalta.",
+    "chat_mainittu": "HAVAINTO: Chatin merkintää ei löydy. Asiakaspalvelun yhteydessä mainitaan vain puhelimitse ja sähköpostilla tavoitettavuus sekä sosiaalisen median kanava (Facebook ja Instagram).",
+    "aukioloajat_esilla": "HAVAINTO: Vain kahden 24h pesukadun (Itäkeskus, Tullinpuomi) aukioloajat mainitaan. Muiden 65 asemista aukioloaika on oletettavasti St1-asemien mukaan, mutta ei erikseen dokumentoitu autopesun sivuilla.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa mainitaan 'Usein kysyttyä' -linkki, mutta suora URL ei toimi (404). Sisältö voi olla dynaamisesti ladattu tai saavutettavissa pääsivulla kautta klikkaamisen.",
+    "mobiilisovellus": "HAVAINTO: St1 Way -sovellusta mainitaan useasti. Sekä iOS- että Android-versio voidaan ladata sovelluskaupoista. Sovelluksessa voidaan hallita ja käyttää pesukoodeja sekä seurata niiden voimassaoloa."
+  }
+}

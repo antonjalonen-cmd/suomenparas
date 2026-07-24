@@ -21,6 +21,11 @@ LH = json.load(open(os.path.join(BASE, "pipeline", "lh_cache", "_summary.json"),
 # rebuilding an old category must never stamp it with today's date. A vertical missing
 # from here is a vertical nobody dated — fail instead of guessing.
 MEASURED = {
+    "hautaustoimistot": "23.7.2026",
+    "matkatoimistot": "23.7.2026",
+    "tilitoimistot": "23.7.2026",
+    "fysioterapia": "23.7.2026",
+    "autopesulat": "23.7.2026",
     "lainavertailu": "15.7.2026",
     "vakuutukset": "16.7.2026",
     "sahkosopimukset": "16.7.2026",

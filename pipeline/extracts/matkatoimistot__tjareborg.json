@@ -1,0 +1,52 @@
+{
+  "slug": "tjareborg",
+  "fetched_ok": [
+    "https://www.tjareborg.fi/",
+    "https://www.tjareborg.fi/tietoa-meista",
+    "https://www.tjareborg.fi/asiakaspalvelu",
+    "https://www.tjareborg.fi/matkaehdot",
+    "https://www.tjareborg.fi/vastuullinen-matkailu",
+    "https://www.tjareborg.fi/matkat/kaupunkilomat"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "kylla",
+  "vakuus_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja valikoima matkakohteita noin 60 maassa ja monipuoliset matkapaketit",
+    "Matkapaketit saatavilla verkossa helpoin varausjärjestelmällä ja selkeillä hinnoilla",
+    "Kattava asiakaspalvelu 24/7 ja vakuusturva matkapakettilain nojalla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, vain yritysnimi \"Oy Tjäreborg Ab\" mainitaan",
+    "Chat-palvelua ei ole tarjolla, asiakasyhteys vain puhelimitse ja sähköpostitse",
+    "Useiden sivujen puuttuminen (yritystiedot, henkilötietokäytäntö, FAQ) palauttaa 404-virheitä"
+  ],
+  "yhteenveto": "Tjäreborg on Suomen suurimpia matkanjärjestäjiä, joka tarjoaa pakettimatka- ja lentopalveluja lähes 60 maahan. Verkkosivusto esittelee hinnat selkeästi, toimii online-varausjärjestelmällä ja julkaisee kattavat matkapakettiehdot. Palvelun turvallisuus on dokumentoitu matkapakettilain vakuuden kautta Kilpailu- ja kuluttavirastoon. Pääasialliset kehityskohteet liittyvät puuttuviin tietoihin (Y-tunnus) ja rajoittuneisiin yhteydenottovaihtoehdoihin.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy hinnat: 'Varaa talviloma nyt alk. 570,-', 'Lomaviikko alk. 300,-', 'Sisilia 5 pv alk. 735,-', 'Costa del Sol 5 pv alk. 525,-'. Kaupunkilomien sivulla hinnat näkyvät selkeästi: London 3 pv 395,-, Rooma 3 pv 415,-, Pariisi 3 pv 435,-, Barcelona 3 pv 465,-, New York 4 pv 865,-, Prag 3 pv 355,-, Lissabon 4 pv 495,-, Riika 3 pv 245,-, Budapest 3 pv 395,-.",
+    "varaus_verkossa": "HAVAINTO: Sivustolla näkyy 'Varaa nyt' -painikkeet kaupunkilomapaketteille. Etusivulla linkit 'Lomahaku' ja 'Maksa matka' osoittavat online-varausjärjestelmään. Kaupunkilomien sivulla teksti: 'Varaa nyt – maksa osissa joustavilla maksuvaihtoehdoilla'.",
+    "ehdot_saatavilla": "HAVAINTO: Matkaehdot-sivu (https://www.tjareborg.fi/matkaehdot) sisältää täydelliset 'Yleiset matkapakettiehdot sekä Tjäreborgin lisä- ja erityisehdot', sisällysluettelo 25 osalla, PDF-versiot saatavilla. Ehdoissa mainitaan EU 2015/2302 direktiivi ja laki 901/2017.",
+    "vakuus_kerrottu": "HAVAINTO: Kaupunkilomien sivulla teksti: 'Lomamatkallasi on aina myös matkapakettilain turva. Se tarkoittaa monia oikeuksia sinulle kuluttajana sekä muun muassa sitä, että maksamasi rahat on suojattu Tjäreborgin Kilpailu- ja kuluttajavirastolle asettamalla vakuudella.' Matkaehdot-sivu mainitsee matkapaketteja ja yhdistettyjä matkajärjestelyjä koskevan direktiivin.",
+    "y_tunnus_esilla": "HAVAINTO: Footer mainitsee 'Oy Tjäreborg Ab' mutta Y-tunnusta ei näy. Haettu sivut: /yritystiedot, /yrityksesta, /tietoa-yrityksesta, /henkilotietokayanto, /tietosuoja, /yritystiedot – kaikki palautuu 404-virheen.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla teksti: 'Tjäreborgilla on tyytyväisimmät asiakkaat EPSI Ratingin vuoden 2026 matkatoimistotutkimuksen mukaan' ja maininta '*EPSI Rating on riippumaton ja voittoa tavoittelematon tutkimusorganisaatio.'",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 09 12371 näkyy asiakaspalvelu-sivulla ja 404-virhesivulla. Asiakaspalvelu-sivulla: 'Maanantai-perjantai: klo 9-18, Lauantai: klo 9-15' sekä 'Jos et Lomahausta löytänyt sopivaa matkaa ja tarvitset apua soita meille p. 09 12371 (pvm/mpm)'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@tjareborg.fi näkyy 404-virhesivulla: 'olisimme kiitollisia jos kertoisit siitä meille sähköpostilla: info@tjareborg.fi'.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu-sivulla selkeästi näkyvät aukioloajat: 'Maanantai-perjantai: klo 9-18, Lauantai: klo 9-15' ja teksti 'Tavoitettavissa 24 h' etusivulla.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla näkyy 'FAQ' otsikko ja sen alla kysymysosio. Vastuullinen-matkailu-sivulla mainitaan 'Usein kysyttyä' (Frequently asked) linkki.",
+    "mobiilisovellus": "HAVAINTO: Etusivun ja useiden sivujen footerissa: 'Lataa Tjäreborg-sovellus! / Tjäreborg-sovellus App Storessa / Tjäreborg-sovellus Google Playssa' sekä asiakaspalvelu-sivulla: 'Yhteystiedot löytyvät myös... sovelluksestamme.'"
+  }
+}

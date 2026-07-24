@@ -1,0 +1,46 @@
+{
+  "slug": "m2selfstorage",
+  "fetched_ok": [
+    "https://m2selfstorage.fi/",
+    "https://m2selfstorage.fi/varastot-hinnat/",
+    "https://m2selfstorage.fi/yhteystiedot/",
+    "https://m2selfstorage.fi/kysymyksia-vastauksia/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "varaus_verkossa": "kylla",
+  "sopimusehdot_kerrottu": "kylla",
+  "vakuutus_ja_vastuu_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "nelio_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Varaston varaaminen verkossa on selkeästi mahdollista ja hinnat näkyvät varauspalvelusta",
+    "Vuokrasopimuksen ehdot (1 kk irtisanomisaika, kuukauden maksuväli, ei piilokustannuksia) ovat hyvin dokumentoituna",
+    "Vakuutuskysymys käsitelty FAQ:ssa ja neuvotaan tarkistamaan oman kotivakuutuksen kattavuus"
+  ],
+  "kehityskohteet": [
+    "Hinnat eivät näy julkisesti ilman varausjärjestelmään siirtymistä - neliöhinta puuttuu",
+    "Y-tunnus ei ole näkyvissä sivustolla - yritystietojen avoimuus puutteellista",
+    "Vertailtavia asiakastarkastuksia (Google-arviot, Trustpilot-widget) tai riippumattomia arvioita ei näytetä"
+  ],
+  "yhteenveto": "M2 Self Storage tarjoaa selkeän, käyttäjäystävällisen sivuston, jossa sopimuksen ehdot ja vakuutustiedot ovat hyvin dokumentoituja. Verkossa varaaminen on mahdollista, mutta tarkat hinnat edellyttävät siirtymistä varauspalveluun. Yrityksen tunnistustiedot ja riippumattomien arviointien puuttuminen heikentävät läpinäkyvyyttä.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Sivustolla todetaan 'Kaikki käytettävissä olevat varastot ja hinnat näkyvät verkossa', mutta varauspalveluun (varauskoneeseen) täytyy siirtyä nähdäkseen konkreettisia hintoja. Ei julkisesti näkyvää hintalistaa etusivulla tai hinnoittelu-sivulla.",
+    "varaus_verkossa": "HAVAINTO: 'Varaa kätevästi netistä ja saat sisäänpääsy koodin omaan varastoosi' ja 'Verkossa varaaminen on helppoa. Kaikki käytettävissä olevat varastot ja hinnat näkyvät verkossa'. Varauspalvelu on saatavilla.",
+    "sopimusehdot_kerrottu": "HAVAINTO: FAQ-osiossa selitettynä: 'Vuokrasopimus jatkuu automaattisesti kuukauden kerrallaan kunnes sanot sen irti. Voit aloittaa vuokrasopimuksen kesken kuukauden, irtisanomisaika (1kk) lasketaan siitä päivästä kun sanot sopimuksen irti. Vuokra veloitetaan automaattisesti luottokortiltasi kerran kuussa.' Myös: 'ei piilokuluja, ei takuuvuokraa, ei sidottu kalenterikuukauteen'.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: FAQ-osiossa kysymys 'Onko vakuutus pakollinen?' - vastaus: 'Mahdollistaaksemme alhaisen hinnan, emme vaadi sinua ostamaan vakuutusta. Voit tarkistaa vakuutusyhtiöltäsi korvaako kotivakuutuksesi kodin ulkopuolella säilytettävät tavarat tai hankkia oman vakuutuksen tavaroillesi'. Turvallisuudesta: 'Kaikissa tiloissamme on tallentava videovalvonta ja kulunvalvonta.'",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy sivustolla missään - ei footer-osiossa, ei yhteydenotto-sivulla, ei yritystiedoissa. Sivuston alaosassa ainoastaan yritysnimi 'M²selfstorage', sähköpostiosoite ja puhelinnumero.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy Google-arvioita, Trustpilot-widgettiä tai muita riippumattomia arvioita. Facebook-kuvake on footer-osiossa, mutta linkitetyt arviot puuttuvat."
+  }
+}

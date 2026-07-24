@@ -1,0 +1,57 @@
+{
+  "slug": "abc-carwash",
+  "fetched_ok": [
+    "https://www.abcasemat.fi",
+    "https://www.abcasemat.fi/asemat",
+    "https://www.abcasemat.fi/autopesu",
+    "https://www.abcasemat.fi/autopesu/maksaminen",
+    "https://www.abcasemat.fi/autopesu/sarjapesu",
+    "https://www.abcasemat.fi/autopesu/kuukausipesu",
+    "https://www.abcasemat.fi/tietosuojaseloste",
+    "https://www.abcasemat.fi/usein-kysytyt-kysymykset",
+    "https://www.abcasemat.fi/artikkelit"
+  ],
+  "hinnat_esilla": "osittain",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "osto_verkossa": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "pesun_hinta_alkaen_eur": 49.90,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Laaja autopesuverkosto - ABC Carwash:n pesupaikat sijaitsevat ABC-asemien ja S-ryhmän ruokakauppojen läheisyydessä ympäri Suomea",
+    "Monipuoliset pesuprogrammat - Tarjolla Premium, Loisto, Teho, Perus, Harjaton pesu sekä erikoispesut suksilaatikolla ja avolava-autoille",
+    "ABC-mobiili sovellus - Kätevä mobiilisovellus pesun ostamiseen, hintojen tarkasteluun ja asemakohtaisten tietojen saamiseen"
+  ],
+  "kehityskohteet": [
+    "Hinnat piilossa sovelluksen takana - Pesun hinnat ovat vain ABC-mobiili -sovelluksessa, julkisella verkkosivulla näkyy vain 49,90 € kesäpaketti",
+    "Dynaamiset sisällöt eivät lataudu - FAQ-osio, palaute- ja yrityksille-sivut eivät näytä sisältöä staattisella kyselyllä",
+    "Asiakastuen yhteystiedot rajalliset - Ainoastaan SOK:n päävaihde (010 76 8011) ja tietosuojavastaavan sähköposti saatavilla, ei erillistä autopesun asiakaspalvelun numeroa"
+  ],
+  "yhteenveto": "ABC Carwash on SOK ABC-ketjuohjauksen ylläpitämä autopesuverkosto, jolla on useita pesupisteitä ympäri Suomea. Verkkosivustolla kuvataan monipuoliset pesuprogrammat, luetellaan asemat ja aukioloajat, sekä tarjotaan ostos ABC-mobiili -sovelluksen kautta. Yksittäisten pesuperusohjelmien hinnat eivät ole julkisesti näkyvillä verkkosivulla, vaan ne löytyvät vain mobiilisovelluksesta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Verkkosivulla mainitaan 'ABC-mobiilista löydät myös aina asemakohtaiset hintatiedot'. Ainoastaan yksi hinta on näkyvillä julkisesti: 49,90 € kesäpaketti. Perusohjelmien hinnat piilotettu sovelluksessa.",
+    "pesuohjelmat_kuvattu": "HAVAINTO: Sivulla luetelaan Premium pesu (~13 min), Loisto pesu (~11 min), Teho pesu (~10 min), Perus pesu (~8 min), Harjaton pesu (~10 min), sekä erikoispesut (Suksilaatikko ja Pickup ~11 min). Kuukausipesut myös tarjolla.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Asemat-sivulla listataan kymmeniä ABC-asemia osoitteineen, esim. ABC Ahtiala (Lahti), ABC Akaa Toijala, ABC Alajärvi, ABC Alavus, ABC Alepa -asemat Vantaalla ja Helsingissä. Jokaisen aseman aukioloajat näytetään, esim. 24H tai 5.30-24.",
+    "osto_verkossa": "HAVAINTO: 'Autopesun maksaminen ei ole koskaan ollut yhtä helppoa ja nopeaa kuin nyt! Maksat autopesun kätevimmin ABC-mobiililla.' Voi ostaa pesut ennakkoon tai asemalla mobiilisovelluksen kautta.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa mainitaan 'SOK ABC-ketjuohjaus, Y-tunnus: 0116323-1'. Käyntiosoite: Fleminginkatu 34, 00510 Helsinki.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivulla ei ole linkkejä riippumattomiin arviointipalveluihin, kuten Googleen, Trustpilotiin tai muihin arviopalveluihin.",
+    "puhelin_esilla": "HAVAINTO: Tietosuojaselosteessa mainitaan 'SOK-vaihde: 010 76 8011'.",
+    "email_esilla": "HAVAINTO: Tietosuojaselosteesta löytyy 'tietosuojavastaava@sok.fi' ja 'tietosuoja.abc@sok.fi'. Asiakaspalvelun omaa sähköpostiosoitetta ei ole julkisesti näkyvillä.",
+    "chat_mainittu": "HAVAINTO: Verkkosivulla ei mainita chat-palvelua asiakaspalveluun yhteydenpidosta.",
+    "aukioloajat_esilla": "HAVAINTO: Asemat-sivulla näytetään kunkin aseman aukioloajat ja myös erilliset aukioloajat pesupalveluille, esim. ABC Ahtiala: 24H tankkaus, 24H lataus, 5.30-24 pesu, 5.30-24 ravintola.",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osio on olemassa ja sisältää kategoriat: Sähköauton lataus, Ravintola, Autopesu, ABC-mobiili, Polttoaineet. Autopesu-osion sisältö ei latautunut staattisesti.",
+    "mobiilisovellus": "HAVAINTO: ABC-mobiili -sovellusta mainitaan useita kertoja: 'Lataa ABC-mobiili puhelimeesi tästä'. Sovelluksella voi ostaa pesuja, katsoa hintoja, varata pesuja ja kerryttää Bonusta."
+  }
+}

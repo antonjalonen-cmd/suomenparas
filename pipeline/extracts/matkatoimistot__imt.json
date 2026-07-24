@@ -1,0 +1,52 @@
+{
+  "slug": "imt",
+  "fetched_ok": [
+    "https://www.imt.fi/",
+    "https://www.imt.fi/yhteystiedot/",
+    "https://www.imt.fi/yleisetmatkapakettiehdot/",
+    "https://www.imt.fi/usein-kysytyt-kysymykset",
+    "https://www.imt.fi/rekisteri-ja-tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "kylla",
+  "vakuus_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Matkojen hinnat ja saatavuudet näkyvät heti verkkohaussa ilman kirjautumista",
+    "Verkossa varaaminen on yksinkertainen ja maksuvaihtoehdot monipuoliset (pankit, kortit, osamaksu)",
+    "Laajat matkapakettiehdot ja tietosuojaseloste helposti saatavilla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, kunkin asiakkaan täytyy etsiä se rekisteristä",
+    "Riippumattomia arvioita tai asiakasarvosteluja ei julkaista verkkosivuilla",
+    "Asiakaspalvelun aukioloajat rajalliset (ma-pe 10:00-15:00), ei 24/7-tukea normaalin varausprosessin aikana"
+  ],
+  "yhteenveto": "IMT (Ikaalisten Matkatoimisto) on matkapalveluja tarjoava yritys, joka on uudestaan brändännyt itsensä IMT.fi:ksi. Verkkosivut tarjoavat helppokäyttöisen matkahaun ja varausjärjestelmän, joista hinnat, saatavuudet ja peruutusmahdollisuudet (24h riskitön varaus) ovat julkisia. Matkapakettilaista määrätyt ehdot ja vakuus Suomen Kuluttajavirastolle ovat dokumentoitu. Sivuilla on kattava FAQ-osio ja mobiilisovellus asiakaspalvelulle.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivun matkahaulla näkyvät hinnat jokaisen kohteen kohdalla (esim. 'Alk. 247 €' Pärnulle, 'Alk. 68 €' Tallinnalle). FAQ-osion vastaus 'Kaikki IMT:n matkat ovat varattavissa verkkosivuillamme. Näet päivän hinnat ja saatavuudet suoraan verkkopalvelustamme'.",
+    "varaus_verkossa": "HAVAINTO: Etusivu ja FAQ osoittavat, että 'Kaikki IMT:n matkat ovat varattavissa verkkosivuillamme'. Maksuvaihtoehdot verkkokaupassaan sisältävät pankkeja, luottokortteja, Mobile Payta ja Walley-osamaksua. Varaus vahvistuu maksulinkin kautta.",
+    "ehdot_saatavilla": "HAVAINTO: Yleiset matkapakettiehdot ovat ladattavissa verkkosivuilta täydessä pituudessaan (42 000+ merkkiä). Sivulla mainitaan myös 'Lisä- ja erityisehdot' sekä 'Kanta-asiakasohjelman ehdot', jotka ovat saatavilla.",
+    "vakuus_kerrottu": "HAVAINTO: Matkapakettiehdoissa sanotaan: 'Ikaalisten Matkatoimisto Oy on antanut vakuuden Suomen Kuluttajavirastolle.' Vakuus koskee yli 24 tuntia kestäviä, yksityiseen tarkoitukseen hankittuja matkapaketteja.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy verkkosivuilla. Tietosuojaselosteessa mainita yrityksen nimi (Ikaalisten Matkatoimisto Oy) ja osoite (Itsenäisyydenkatu 7, 39500 Ikaalinen), mutta Y-tunnus puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei ole sektion asiakkaiden arvioille eikä arvosteluja julkaista. Sivuilla on linkki 'Anna palautetta' mutta palautteet eivät ole julkisia.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 03-45800 näkyy etusivun yhteystiedoissa. Palvelun aukioloajat ma-pe klo 10:00-15:00, kiireellisissä tapauksissa päivystys numerossa +358 600 301 220.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite matkat@imt.fi mainitaan FAQ:ssa ('Varausjärjestelmämme lähettää aina matkainfon automaattisesti... varaajalle sähköpostiin'). Lisäksi johtaja Esa Talonen on tavoitettavissa osoitteessa esa.talonen@imt.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan useaan otteeseen verkkosivuilla. 'Löydät Oma loma -sovelluksestamme chatin, joka palvelee arkipäivisin klo 10-15.' Chat toteutetaan Crisp-palvelun kautta.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvät yhteystiedoissa: 'ma–pe klo 10:00–15:00'. Kiireellisissä tapauksissa päivystys 24/7 numerossa +358 600 301 220.",
+    "ukk_osio": "HAVAINTO: Laaja UKK-osio (30 000+ merkkiä) saatavilla osoitteessa imt.fi/usein-kysytyt-kysymykset. Sisältää osiot matkan varaamisesta, maksuvaihtoehdoista, kanta-asiakkuudesta, matkustusasiakirjoista ja kuljetuksista.",
+    "mobiilisovellus": "HAVAINTO: 'IMT Oma Loma' -sovellus mainitaan useasti verkkosivuilla. Sovellus on kanta-asiakkaille saatavilla sovelluskaupasta, sisältää matkaoppaan, kartat ja chat-palvelun sekä mahdollisuuden lisätä maksuja matkan aikana."
+  }
+}

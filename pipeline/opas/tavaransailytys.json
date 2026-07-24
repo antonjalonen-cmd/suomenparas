@@ -1,0 +1,33 @@
+{
+  "johdanto": "Vuokravarasto eli tavaransailytys on palvelu, jossa vuokraat suljetun varastotilan omien tavaroidesi sailyttamiseen. Suomessa palvelua tarjoaa useita valtakunnallisia ketjuja erikokoisilla varastoilla muutamasta neliosta kymmeniin nelioihin. Tavallisimpia kayttotarkoituksia ovat muutot, remontti, sesonkitavaroiden sailytys ja liiketoiminnan tarpeet.",
+  "huomioita": [
+    "Hinta ilmoitetaan yleensa kuukausivuokrana neliometria kohti (eur/m2/kk). Kokonaiskuluun voi liittya avainkortin tai lukkokoodi-kulunvalvonnan maksu, joka voi olla kertamaksu tai kuukausittainen lisy.",
+    "Sopimukset ovat tyypillisesti toistaiseksi voimassa olevia irtisanomisajalla yksi kuukausi, mika tekee palvelusta joustavan lyhytaikaiseen tarpeeseen. Jotkin operaattorit tarjoavat myos maaraaikaisia sopimuksia.",
+    "Tavaravakuutus ei sisally kaikkien tarjoajien vuokraan oletuksena. Tarkista, kattaako kotiisi vakuutus tai kotivakuutus sahkoinen murto, palo ja vesivahinko myos ulkopuolisessa varastossa sailytettaville tavaroille.",
+    "Kulunvalvonnan laajuus vaihtelee: osa tarjoaa 24/7-paasyn ilman henkilokunnan paikaolaoa (koodilukolukitus tai sovelluskontrolli), toisilla on rajoitetut aukioloajat. Tarkista aukioloajat ennen sopimuksen tekemista.",
+    "Sisailmastoitu varasto suojaa kosteus- ja lampotilaherkkia tavaroita paremmin kuin kylma tai lasittamaton tila."
+  ],
+  "vinkit": [
+    "Vertaile kokonaiskuluja, ei vain neliohintaa. Lisy kulunvalvontamaksuihin, vakuutuksiin ja mahdollisiin rekisteroitymismaksuihin.",
+    "Mittaa tavaramaarasi ennen varaston valintaa. Useimmat ketjut tarjoavat online-laskurin tai hakukriteeriston neliomaaraksi.",
+    "Kysy irtisanomisaika ja sopimusehdot kirjallisena ennen sopimuksen tekemista. Monet tarjoajat julkaisevat ehdot sivustollaan."
+  ],
+  "ukk": [
+    {
+      "q": "Miksi varastotilan hintaa ei aina nakyvissa verkossa?",
+      "a": "Osa operaattoreista kayttaa dynaamista hinnoittelua, jossa hinta vaihtelee varaston taytteasteen mukaan. Tamakin malli on laillinen, mutta kuluttajan kannalta on helpompi vertailla palveluita, jotka julkaisevat hinnat avoimesti etukateena."
+    },
+    {
+      "q": "Kattaako kotivakuutukseni varastossa sailytettavat tavarat?",
+      "a": "Monien kotivakuutusten korvauspiiri rajoittuu omaan asuntoon. Tarkista vakuutuksesi ehdoista, onko ulkopuolinen varastointipaikka katettu, ja mikali ei ole, selvita varastooperaattorin tarjoama vakuutusvaihtoehto."
+    },
+    {
+      "q": "Onko vuokravarasto verovahennyskelpoinen?",
+      "a": "Yksityishenkilolla kotitalouskaytolle tarkoitettu varasto ei yleensa ole verovahennyskelpoinen. Yrittajalle se voi olla kuluvahennys, mika edellyttaa, etta varasto on yksinomaan yrityskaytossa."
+    },
+    {
+      "q": "Mita tapahtuu, jos en maksa vuokraa?",
+      "a": "Sopimuksen mukaisesti operaattorilla on oikeus rajoittaa paasy varastoon maksamattomien vuokrien tapauksessa. Pidemman maksulukon seurauksena varasto voidaan myyda tavaroiden kattamiseksi kuluille, yksityiskohdista riippuen kunkin operaattorin ehdoista."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "tokkovarasto",
+  "fetched_ok": [
+    "https://www.tokkovarasto.fi/",
+    "https://www.tokkovarasto.fi/varastolaskuri/",
+    "https://www.tokkovarasto.fi/ota-yhteytta/",
+    "https://www.tokkovarasto.fi/tietosuojaseloste/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "ei",
+  "varaus_verkossa": "osittain",
+  "sopimusehdot_kerrottu": "osittain",
+  "vakuutus_ja_vastuu_kerrottu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "nelio_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 35,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 40
+  },
+  "vahvuudet": [
+    "Selkeät yhteystiedot ja puhelin-/sähköpostiyhteys saatavilla",
+    "Y-tunnus näkyvissä footer-osiossa",
+    "Useita varastointipisteitä Helsingissä ja Espoossa"
+  ],
+  "kehityskohteet": [
+    "Hinnat eivät ole näkyvissä ilman yhteydenottoa",
+    "Verkkovaraus ei ole saatavilla; vaatii puhelun tai sähköpostia",
+    "Sopimustermit, vakuutustiedot ja UKK-osio puuttuvat julkiselta sivustolta"
+  ],
+  "yhteenveto": "Tokko Vuokravarasto tarjoaa varastointipalveluja Helsingissä ja Espoossa, mutta julkaisesti saatavilla on vain perustieto sijainnista ja yhteystiedoista. Yksityiskohtaiset hinnat, sopimustermit ja vakuutustiedot vaativat suoraan yhteydenottoa puhelimitse tai sähköpostilla.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Hinnat eivät näy millään sivulla ilman kontaktia. Varastolaskuri-sivu mainitsee hintojen laskennan, mutta ei näytä varsinaisia hintoja. Kaikki hintayhteydenoton kutsu ohjaa puhelinnumeroihin tai sähköpostiin.",
+    "varaus_verkossa": "HAVAINTO: Sivustolla on 'Vuokraa varasto' -linkit, mutta ne johtavat 404-sivuille. Ota yhteyttä -sivulla neuvotaan soittamaan puhelimeen tai lähettämään sähköpostia. Verkkovaraus ei ole saatavilla.",
+    "sopimusehdot_kerrottu": "HAVAINTO: Sopimustermejä ei käsitellä julkaisesti. Tietosuojaseloste käsittelee henkilötietoja, mutta ei sopimushintoja tai peruutusehtoja.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: Vakuutuksen tai vastuun ehdoista ei mainita yhdelläkään julkaisesti saatavilla olevalla sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3108947-4 näkyy jokaisella sivulla footer-osiossa sekä tietosuojaselosteessa.",
+    "riippumaton_arvio": "HAVAINTO: Arviot-sivu palauttaa 404-virheen. Google-tähtiä tai muita riippumattomia arviointeja ei näy sivuston millään osassa."
+  }
+}

@@ -994,16 +994,17 @@ META["matkatoimistot"] = {
     "meta_desc": "{n} valtakunnallista matkatoimistoa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
     "notes": [
         ("<b>Keitä listalla on?</b> Suomessa valmismatkoja ja matkapalveluja myyvät sekä suuret "
-         "kansainväliset konsernit (TUI, Tjäreborg/Ving, Apollomatkat/DERTOUR) että kotimaiset "
+         "kansainväliset konsernit (Tjäreborg/Ving, Apollomatkat/DERTOUR) että kotimaiset "
          "yhtiöt (Aurinkomatkat/Finnair, Matkapojat, Lomalinja, Pohjolan Matka, Olympia, "
          "Aventura, IMT). Omistus on merkitty jokaiselle riville."),
         ("<b>Kuolleet brändit karsittu:</b> Detur Finland asetettiin konkurssiin lokakuussa 2022. "
          "Matkavekka-brändi kuoli Primera Travelin romahduksessa, ja domain on nykyään "
          "ulkopuolisen SEO-sivusto, jolla ei ole tekemistä matkatoimiston kanssa. Matka-Agentit "
          "on sama yhtiö kuin Matkapojat, joten se ei ole listalla erikseen."),
-        ("<b>Mittausrajoite:</b> tui.fi käyttää botti-estoa, joka rajoittaa automaattista "
-         "mittausta. Sivusto mitattiin selainpohjaisella haulla; jos jokin mittari jäi "
-         "vahvistamatta, se on merkitty puuttuvana tietona eikä puutteena."),
+        ("<b>TUI ei ole listalla:</b> tui.fi estää automaattisen mittauksen kokonaan "
+         "botti-estolla, myös selainpohjaisen haun. Emme pisteytä arvaamalla, joten TUI "
+         "jätettiin pois sen sijaan että sille julkaistaisiin epäluotettava pistemäärä. "
+         "Lisäämme sen heti, kun mittaus on mahdollinen."),
     ],
 }
 
@@ -1052,8 +1053,9 @@ META["fysioterapia"] = {
          "terveystalojen rivit mittaavat koko sivustoa, jolta fysioterapiatiedot löytyvät."),
         ("<b>Fysios ei ole oma rivinsä</b>, koska Fysios Mehiläinen Oy sulautui Mehiläinen "
          "Oy:hyn huhtikuussa 2026 ja fysios.fi ohjaa Mehiläisen sivulle. Auron-brändi sulautui "
-         "Fysiokseen jo 2020. Kela-korvaus yksityisestä fysioterapiasta päättyi vuoden 2023 "
-         "alussa, joten hintojen läpinäkyvyys ratkaisee aiempaa enemmän."),
+         "Fysiokseen jo 2020. Kela-korvaus yksityisestä fysioterapiasta palasi 1.5.2025: "
+         "korvaus on 15 euroa käynniltä enintään neljästä käynnistä vuodessa, eikä lääkärin "
+         "lähetettä tarvita. Loppuosa maksetaan itse, joten hintojen läpinäkyvyys ratkaisee."),
         ("<b>Mittausrajoite:</b> mehilainen.fi rajoittaa automaattista hakua, joten se "
          "mitattiin selainpohjaisella haulla. Vahvistamatta jäänyt mittari merkitään "
          "puuttuvana tietona eikä puutteena."),
@@ -1072,10 +1074,12 @@ META["autopesulat"] = {
     "meta_title": "Suomen paras autopesuketju 2026 | autopesulat pisteytettyna | Suomen Paras",
     "meta_desc": "{n} autopesuketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
     "notes": [
-        ("<b>Keitä listalla on?</b> Asemaketjujen pesuverkostot (ABC CarWash, Neste, St1), "
-         "pesuun erikoistuneet ketjut (Carwash, GoWash, KORREK Pro Center, CarStation) ja "
-         "Hesburgerin Hese-Pesu. St1 Suomi Oy operoi myös Shell-asemien pesut, joten Shell ei "
-         "ole listalla erikseen. Osa riveistä mittaa koko ketjun sivustoa, jonka osa autopesu on."),
+        ("<b>Keitä listalla on?</b> Asemaketjujen pesuverkostot (ABC CarWash, Neste, St1) ja "
+         "pesuun erikoistuneet ketjut (Carwash, GoWash, KORREK Pro Center, CarStation). "
+         "St1 Suomi Oy operoi myös Shell-asemien pesut, joten Shell ei ole listalla erikseen. "
+         "Hesburgerin pesulinjat rajattiin pois, koska yhtiön sivustolla ei ole lainkaan "
+         "autopesua koskevaa sisältöä, jota voisi mitata. Osa riveistä mittaa koko ketjun "
+         "sivustoa, jonka osa autopesu on."),
         ("<b>Teboil ei ole listalla:</b> Lukoilin omistama Teboil on ollut marraskuusta 2025 "
          "alkaen pakotteiden kohteena, kymmeniä asemia on suljettu ja yrityskauppa on kesken. "
          "Tilanne on liian epävakaa reiluun pisteytykseen; palaamme asiaan kun omistus on "

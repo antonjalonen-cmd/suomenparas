@@ -1,0 +1,49 @@
+{
+  "slug": "mehilainen",
+  "fetched_ok": [
+    "https://www.mehilainen.fi/",
+    "https://www.mehilainen.fi/terapiapalvelut/fysioterapiapalvelut",
+    "https://www.mehilainen.fi/yritys",
+    "https://www.mehilainen.fi/yritys/omistus-ja-johto",
+    "https://www.mehilainen.fi/tietosuoja",
+    "https://www.mehilainen.fi/asiakaspalvelu",
+    "https://www.mehilainen.fi/terapiapalvelut"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "kaynti_hinta_alkaen_eur": 47.00,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja valikoima fysioterapiapalveluita ja erikoistumisvaihtoehtoja (OMT, urheilufysioterapia, neurologinen, etc.)",
+    "Verkon kautta saatavilla olevan ajanvarausjärjestelmän lisäksi OmaMehiläinen-sovellus helpottaa asiointia",
+    "Hinnat selvästi ja läpinäkyvästi esillä, Kela-korvausten kuvaus mukaan lukien"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, vain pääkonttorin osoite (Arkadiankatu 6, Helsinki)",
+    "Yleinen sähköpostiosoite puuttuu asiakaspalveluun; vain chat ja puhelin 010 414 00 käytössä",
+    "Yksittäisten terapeutin profiilisivut eivät toimi (404-virhe), joten niiden osaamisen yksityiskohdat eivät ole saavutettavissa"
+  ],
+  "yhteenveto": "Mehiläisen fysioterapiapalvelu on laaja-alainen ja hyvin organisoitu valtakunnallinen palvelu, joka tarjoaa useita erikoistumisvaihtoehtoja. Hinnat ja verkkoajanvaraus ovat julkisesti saatavilla sekä sovelluksen kautta. Sivusto on informatiivinen, mutta puuttavat Y-tunnus, yleinen asiakaspalvelun sähköposti ja yksittäisten terapeutin profiilit heikentävät läpinäkyvyyttä.",
+  "evidence": {
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä millään tutkituilla sivuilla; yritystiedoissa mainitaan vain pääkonttorin osoite Arkadiankatu 6, 00100 Helsinki ja omistus- tiedot.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei mainiteta riippumattomia arviolähteitä tai asiakastyytyväisyysarvioita kolmannen osapuolen palvelusta; sisäisen NPS-mittauksen maininta löytyy pääsivulta, mutta se ei ole riippumaton.",
+    "email_esilla": "HAVAINTO: Vain erityisen asiointitarkoituksen sähköposti löytyi (terveyssopimus@mehilainen.fi); yleistä asiakaspalvelun sähköpostia ei ole saatavilla, asiakkaita ohjataan puhelimeen (010 414 00) tai chatiin.",
+    "puhelin_esilla": "HAVAINTO: Puhelin 010 414 00 on selvästi näkyvissä kaikilla sivuilla; palvelu on avoinna vuorokauden ympäri joka päivä.",
+    "chat_mainittu": "HAVAINTO: Digiklinikan chat-asiakaspalvelu mainitaan useilla sivuilla; se on avoinna 24/7 ja saatavissa myös Digiklinikan etävastaanoton kautta.",
+    "hinnat_esilla": "HAVAINTO: Hinnasto on julkisesti näkyvissä sivulla https://www.mehilainen.fi/terapiapalvelut/fysioterapiapalvelut; hinnat vaihtelevat 47-152 EUR välillä riippuen käynnin pituudesta ja terapeuttityypistä (OMT, naprapaatti, osteopaatti ym.); Kela-korvaukset (4 kertaa vuodessa 15 EUR) selvästi merkitty."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "carstation",
+  "fetched_ok": [
+    "https://carstation.fi",
+    "https://carstation.fi/autopesu",
+    "https://carstation.fi/toimipisteet",
+    "https://carstation.fi/ajanvaraus/",
+    "https://carstation.fi/yhteydenotto/"
+  ],
+  "hinnat_esilla": "osittain",
+  "pesuohjelmat_kuvattu": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "osto_verkossa": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "pesun_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Selkeät toimipisteen tiedot ja aukioloajat kauppakeskusten paikoitusalueilla",
+    "Online-ajanvaraus mahdollinen kaikissa toimipisteissä",
+    "Pesupalvelun kuvaus sekä sisäpuhdistus- ja lisäpalvelut mainittu"
+  ],
+  "kehityskohteet": [
+    "Pesuhinnoilla ei ole julkista hintalistaa — hinnat näkyvät vain ajanvarauksessa valintojen jälkeen",
+    "Kohtuullisen usein kysyttyjen kysymysten osio puuttuu",
+    "Ei mobiilisovellusta eikä riippumattomia asiakasarvioita linkitettynä"
+  ],
+  "yhteenveto": "CarStation on kolmen kauppakeskuksen pesupiste (Espoo, Helsinki, Turku), joka tarjoaa käsin pesiä autopesupalveluita. Sivusto on selkeä ja tarjoaa helposti löydettävät toimipisteen tiedot, puhelinnumerot ja sähköpostiosoitteet, sekä online-ajanvarausmahdollisuuden. Pääasiallinen heikkous on, että pesun hinnat eivät ole julkisesti näkyvissä ilman ajanvarauslomakkeella tehtäviä valintoja.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: /ajanvaraus/-sivulla voi valita toimipisteen ja auton tyypin, minkä jälkeen klikkaamalla 'Näytä hinnasto' -painiketta hinnat näyttävät. Ilman näitä valintoja hinnat eivät ole näkyvissä. Omalla sivulla ei ole erillisiä hintaluetteloita.",
+    "pesuohjelmat_kuvattu": "HAVAINTO: /autopesu/-sivulla kuvataan pesuprosessia: 'Meille hyvin pesty auto on kunnia-asia. Käsinpesty auto on taatusti puhdas ja kiiltävä.' Mainitaan käsinpesun lisäksi sisäpuhdistus, laadukkaiden pesukemikaalien käyttö ja ympäristöstandardit.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: /toimipisteet/-sivulla luetellaan neljä toimipistettä: Espoo (Sello), Helsinki (Easton), Turku (Skanssi) ja kaksi ei-käytössä olevaa (Toyota Helsinki, Toyota Airport). Jokaiselle on annettu osoite, puhelinnumero ja sähköpostiosoite.",
+    "aukioloajat_esilla": "HAVAINTO: Kaikille toimipisteille annetaan avautumiset ja sulkeutumisajat: Espoo Ma-Pe 10:00-20:00, La 10:00-18:00, Su suljettu. Helsinki Ma-Pe 10:00-18:00, La 10:00-18:00, Su suljettu. Turku Ma-Pe 10:00-20:00, La 10:00-19:00, Su suljettu.",
+    "osto_verkossa": "HAVAINTO: /ajanvaraus/-sivulla on online-ajanvarauspalvelu, joka vaatii toimipisteen ja auton tyypin valinnan. Sivulla näkyy teksti 'Palveluiden hinnat ja saatavuus vaihtelevat toimipisteittäin' sekä painike 'Siirry tilaamaan'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2605487-5 näkyy jokaisella sivulla footerissa osoitteen 'Kutojantie 11, 02630 Espoo' yhteydessä.",
+    "puhelin_esilla": "HAVAINTO: /toimipisteet/-sivulla on puhelinnumerot kunkin toimipisteen kohdalla: Sello 0401258112, Easton 040 458 9616, Skanssi 050 462 2280.",
+    "email_esilla": "HAVAINTO: /toimipisteet/-sivulla on sähköpostiosoitteet: sello@carstation.fi, Easton@CarStation.fi, skanssi@carstation.fi.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkitetty mistään riippumattomasta arviolähteestä, kuten Google Reviewsista, Trustpilotista tai muista arvostelualustoista.",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei ole chat-toimintoa tai chat-palvelun mainintaa. Kommunikaation kanavat ovat puhelin ja sähköposti.",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole erillisiä usein kysyttyjen kysymysten osiota.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla ei mainita mobiilisovellusta eikä ole linkkejä App Storeen tai Google Playhn."
+  }
+}

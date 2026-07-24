@@ -1,0 +1,50 @@
+{
+  "slug": "apollomatkat",
+  "fetched_ok": [
+    "https://www.apollomatkat.fi",
+    "https://www.apollomatkat.fi/#/tietoa-yrityksesta",
+    "https://www.apollomatkat.fi/#/asiakaspalveluun"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "osittain",
+  "vakuus_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnat ja valinnat näkyvät heti pääsivulla ilman login-vaatimusta",
+    "Verkkovaru-järjestelmä toimii sujuvasti ja matkakohteiden haku on intuitiivinen",
+    "Kattava ohjausmateriaalin kirjasto (Matkaehdot, Hyvä tietää, Passi ja viisumi, Matkavakuutus) helposti löydettävissä"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ja tarkat yritystiedot puuttuvat – ei näkyvillä verkkosivuilla",
+    "Sähköpostiosoitetta ei ole esillä; asiakaspalvelu saatavilla vain puhelimitse ja chatilla",
+    "FAQ-osio puuttuu – asiakkaat joutuvat ottamaan yhteyttä kysymysten takia"
+  ],
+  "yhteenveto": "Apollomatkat on osa REWE-konsernia ja sen DERTOUR Group -divisioonaa, joka on Keski-Euroopan suurin matkailualan konserni. Verkkopalvelun vahvuus on heti näkyvät matkahinnat, intuitiivinen haku ja selkeä varausprosessi. Pakettimatkalain mukainen turva on mainittu. Heikkouksia ovat puuttuva Y-tunnus, sähköpostiosoitteen puuttuminen ja no FAQ-osio.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat esillä etusivulla monissa muodoissa – per hlö alkaen 445 €, 382 €, 486 € jne. riippuen kohteesta ja ajanjaksosta.",
+    "varaus_verkossa": "HAVAINTO: Etusivulla näkyvät painikkeet 'Hae', 'Varmista paikkasi nyt', 'Varaa omasi' ja 'Varaa talven lomamatka nyt' osoittavat verkkovarausprosessia.",
+    "ehdot_saatavilla": "HAVAINTO: 'Matkaehdot' linkki näkyy navigaatiossa ja alatunnisteessa. Sivun sisältöä ei voitu ladata SPA-arkkitehtuurin ja Cloudflare-suojauksen vuoksi – merkitty 'osittain'.",
+    "vakuus_kerrottu": "HAVAINTO: Etusivulla mainitaan 'Pakettimatkalaki turvanasi koko matkan ajan' selvästi yhdessä pääviestissä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy etusivulla eikä saatavilla olevissa osissa. Yritystiedot mainitsevat vain 'Olemme osa REWE-konsernia ja sen DERTOUR Group -divisioonaa'.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arviota tai ulkoista review-palvelun mainintaa ei löytynyt.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 09 6154 7400 näkyy mainoksessa 'Soita matka-asiantuntijoillemme' sekä alatunnisteessa 'OTA YHTEYTTÄ' -osiossa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvissä etusivulla. Asiakaspalvelu mainitaan vain puhelimitse (09 6154 7400) ja chatilla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu mainitaan alatunnisteessa: 'Chat Huomenna: 10.00-16.00' sekä 'Asiakaspalveluun' linkin yhteydessä.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyy alatunnisteessa – Puhelin: Huomenna 09.00-16.00, Chat: Huomenna 10.00-16.00.",
+    "ukk_osio": "HAVAINTO: FAQ-osio tai kysymys-vastaus-sivua ei näy navigaatiossa tai etusivulla.",
+    "mobiilisovellus": "HAVAINTO: 'APOLLO APP' mainitaan alatunnisteessa teksti 'Lataa ja katso vinkit' kanssa."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "cityvarasto",
+  "fetched_ok": [
+    "https://cityvarasto.fi/",
+    "https://cityvarasto.fi/tietoa-meista/",
+    "https://uusi.cityvarasto.fi/"
+  ],
+  "hinta_esilla_ilman_yhteystietoja": "osittain",
+  "varaus_verkossa": "kylla",
+  "sopimusehdot_kerrottu": "osittain",
+  "vakuutus_ja_vastuu_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "nelio_hinta_eur": 1,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Selkeä hinnoittelu, alkaen 1€/kk - läpinäkyvä ja houkutteleva",
+    "Verkkovaraus mahdollinen omassa Oma tili -portaalissa ilman piilokuluja",
+    "Laaja toimipisteverkon (75 paikkaa) myötä helppo saatavuus ympäri Suomea"
+  ],
+  "kehityskohteet": [
+    "Vuokrausehdot (peruutuspolitiikka, vähimmäisaika) eivät saatavilla julkisesti",
+    "Y-tunnus puuttuu verkkosivuilta - läpinäkyvyyttä voisi parantaa",
+    "Nelio-hinnat löytyvät vain promokoodalla - kiinteä hinnoittelu olisi selkeämpää"
+  ],
+  "yhteenveto": "Cityvarasto on suurin pienvarastoketju Suomessa, jolla on 75 toimipistettä ja selkeä 1€/kk-hinnoittelu. Varaus onnistuu helposti omassa Oma tili -portaalissa, mutta yksityiskohtaiset vuokrausehdot ja vakuutustiedot vaatisivat paremman saatavuuden.",
+  "evidence": {
+    "hinta_esilla_ilman_yhteystietoja": "HAVAINTO: Pääsivulla näkyy 'Varastot aina edullisesti alk. 1€/kk' ilman että tarvitaan yhteystietojen antamista hintojen näkemiseksi. Kuitenkin tarkemmat hinnat löytyvät vain kirjautumisen/haun kautta.",
+    "varaus_verkossa": "HAVAINTO: Uusilla cityvarasto.fi-sivuilla mainitaan 'Vuokraa parilla klikkauksella' ja 'Oma tili' -portaali on linkitetty. Varhaisista teksteistä löytyy maininta 'Varaston vuokraaminen onnistuu meillä helposti'.",
+    "sopimusehdot_kerrottu": "HAVAINTO: About-sivulla mainitaan 'Voit vuokrata ja irtisanoa pienvaraston koska tahansa, kun sinulle sopii (irtisanomisajan puitteissa)' mutta linkit vuokraehtoihin johtavat 404:ään. Osittain saatavilla vain tekstissä.",
+    "vakuutus_ja_vastuu_kerrottu": "HAVAINTO: About-sivulla kerrotaan 'Varastomme ovat myös vakuutusyhtiöiden hyväksymiä' ja mainitaan 'turvallisuus ja olemmekin turvanneet asiakkaiden omaisuuden kulunvalvontajärjestelmällä, kameravalvonnalla sekä säännöllisillä tarkastuskäynneillä'. Vakuutus siis mainittu.",
+    "y_tunnus_esilla": "HAVAINTO: Footer näyttää 'Copyright - Cityvarasto Oyj' mutta Y-tunnus (numerot) ei ole millään sivulla näkyvillä. Ainoastaan osakeyhtiön muoto on mainittu.",
+    "riippumaton_arvio": "HAVAINTO: Pääsivulla näkyy 'Asiakaskokemuksia' -osio mutta ei ulkoisia arvioita (Google Stars, Trustpilot jne). Maininta 'Suuri tavaratutkimus 2026' on oman tutkimuksen linkki, ei riippumaton arvio."
+  }
+}

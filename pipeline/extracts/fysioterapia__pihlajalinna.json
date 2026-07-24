@@ -1,0 +1,52 @@
+{
+  "slug": "pihlajalinna",
+  "fetched_ok": [
+    "https://www.pihlajalinna.fi",
+    "https://www.pihlajalinna.fi/palvelut/fysioterapia",
+    "https://www.pihlajalinna.fi/toimipisteet",
+    "https://www.pihlajalinna.fi/toimipisteet/pihlajalinna-tampella"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "terapeutit_esitelty": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "kaynti_hinta_alkaen_eur": 69,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kattavat hinnat näkyvissä eri käyntiduaatioille (30-60 min), verkkoajanvaraus toimii selkeästi",
+    "Laaja fysiotherapiapalveluiden kuvaus specialisaatioiden kanssa (urheilufysioterapia, lantionpohjan fysioterapia, post-op kuntoutus)",
+    "Terveyssovellus integroitu, chat-vastaanotto saatavilla päivittäin 7-20"
+  ],
+  "kehityskohteet": [
+    "Sähköpostiosoitetta ei ole julkisesti saatavilla, vain puhelinnumero ja chat",
+    "Paikallisten toimipisteiden aukioloajat eivät ole näkyvillä palveluista tai pääsivulla",
+    "Y-tunnus ja riippumattomia arvioita/referenssejä ei ole saatavilla"
+  ],
+  "yhteenveto": "Pihlajalinna on suuri monitoimipisteinen terveydenhuollon yritys, joka tarjoaa fysioterapiapalveluita laajasti Suomessa. Hinnasto on täysin näkyvillä verkkosivuilla (69-108€ 45 min käynnille), verkkoajanvaraus toimii hyvin ja palveluita kuvataan kattavasti. Terapeuttien pätevyydet ja kielet on listattu. Puhelinnumero ja chat-tuki ovat helposti saatavilla, samoin kuin terveyssovellus.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Fysioterapian hinnasto näkyy selkeästi sivulla kolmessa eri kokoluokassa: 30 min 55-97€, 45 min 69-108€, 60 min 82-121€. Hintoja voi myös verrata verkkoajanvarauksesta asiantuntijakohtaisesti.",
+    "varaus_verkossa": "HAVAINTO: 'Varaa aika fysioterapeutille suoraan verkosta.' Pihlajalinna tarjoaa verkkopohjaista ajanvarausjärjestelmää ilman puhelua.",
+    "palvelut_kuvattu": "HAVAINTO: Sivulla on kattava lista fysioterapiapalveluista: polven kuntoutus, olkapään kuntoutus, selän kuntoutus, urheilufysioterapia, leikkauksen jälkeinen kuntoutus, nilkan ja jalkaterän kuntoutus, lantionpohjan fysioterapia, käsiterapia, sekä muut erikoistumisalueet.",
+    "terapeutit_esitelty": "HAVAINTO: Toimipisteen sivulla listataan nimetyt terapeuttit ja heidän pätevyytensä (esim. Ona Andersson, Juha Koskela, Henri Kupi, Juha Lassila - kaikki Fysioterapeutti-nimikkeellä). Useat terapeuttien kielihtaidot merkitty (suomi, englanti, ruotsi).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy julkisesta verkkosivuista, ei edes footer-osiossa, yritysinfosivuilla tai tietosuoja-sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei näy riippumattomia arviointilähteita, asiakaspalautteiden keräystä ('Anna palautetta' -linkki) tai kolmansien osapuolten arviointeja.",
+    "puhelin_esilla": "HAVAINTO: Puhelin 010 312 010 näkyy useissa paikoissa: 'Asiakaspalvelumme auttaa 24/7' ja 'Asiakaspalvelu 010 312 010'. Myös 'Mielen huoli -linja 010 312 023' mainittu.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löydy verkkosivuista. Yhteydenpito tapahtuu puhelimitse tai chatin kautta.",
+    "chat_mainittu": "HAVAINTO: 'Avaa chat' -nappi näkyy sivulla, 'Asiakaspalvelu-chat avoinna joka päivä klo 7–20'. Chat-vastaanotot mainittu palvelutarjonnassa.",
+    "aukioloajat_esilla": "HAVAINTO: Vain chat-palvelun aukioloajat näkyvät (7-20 päivittäin). Fyysisten toimipisteiden aukioloaikoja ei löydetty yleisiltä sivuilta tai paikallisten toimipisteiden sivuilta.",
+    "mobiilisovellus": "HAVAINTO: 'Lataa Pihlajalinna Terveyssovellus' mainittu useissa paikoissa. Sovelluksella voi varata aikaa, käyttää chat-vastaanottoa ja hallita terveystietoja.",
+    "kaynti_hinta_alkaen_eur": "HAVAINTO: Halvimmat advertoidut hinnat ovat 45 minuutin käynnille 69€ (alaraja 45 min aikavälille 69-108€)."
+  }
+}

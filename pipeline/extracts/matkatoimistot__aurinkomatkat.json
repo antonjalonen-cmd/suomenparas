@@ -1,0 +1,51 @@
+{
+  "slug": "aurinkomatkat",
+  "fetched_ok": [
+    "https://www.aurinkomatkat.fi",
+    "https://www.aurinkomatkat.fi/matkaehdot",
+    "https://www.aurinkomatkat.fi/hyva-tietaa",
+    "https://www.aurinkomatkat.fi/vastuullinen-matkailu"
+  ],
+  "hinnat_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "ehdot_saatavilla": "kylla",
+  "vakuus_kerrottu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat ja saatavilla olevat matkat näkyvät välittömästi etusivulla hakutuloksilla ja tarjouskorteilla",
+    "Verkkovaraus toimii suoraan ilman yhteydenottoa; matkaa voi muuttaa ja peruuttaa kirjautumalla Omalomaan",
+    "Laaja tietosisältö matkaehdoista, vakuuksista ja lisäpalveluista järjestelmällisesti jaoteltuna"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole esillä julkisesti sivustolla, vaikka se on pakollinen tieto matkanjärjestäjille",
+    "Sähköpostiosoite asiakaspalvelulle ei ole helposti löydettävissä; yhteydenotto vaatii chat-palvelun tai puhelimen käyttöä",
+    "Vakuusosion sisältö ei avautunut staattisessa haulla; tarkka vakuusinfo ja KKV-rekisteröinti jäivät epäselväksi"
+  ],
+  "yhteenveto": "Aurinkomatkat on suomalainen matkanjärjestäjä, joka tarjoaa ulkomaanmatkoja ja lomapalveluita. Sivusto on käyttäjäystävällinen, hinnat ja varausmahdollisuus ovat näkyvästi esillä etusivulla, ja paljon informaatiota on saatavilla matkaehdoista ja lisäpalveluista. Yritystiedot kuten Y-tunnus puuttuvat, ja täydellisiä tietoja vakuuksista ja rekisteröinnistä ei helposti löydä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy matkapakettien hinnat eurossa (€673, €738, €975, €1388, €1464, €1551 alkaen per aikuinen) sekä kuvakortit saatavilla olevista äkkilähdöistä.",
+    "varaus_verkossa": "HAVAINTO: Etusivulla on kaksi hakuformaattia (Aurinkomatkat-paketti ja Kaupunkilomat), joissa voi valita lähtökaupungin, lomakohteen, matkustajamäärän ja päivämäärät, sitten painaa 'Etsi matkaa'. Varaamisen voi tehdä verkossa ilman puhelinta.",
+    "ehdot_saatavilla": "HAVAINTO: Sivulla https://www.aurinkomatkat.fi/matkaehdot on erillinen osio, joka listaa erilaisia matkatyyppejä ja niiden ehdot: Yleiset matkapakettiehdot, Aurinkomatka-paketin erityisehdot, Kaupunkiloman erityisehdot, Pelkän lennon erityisehdot, Finnair Plus -ehdot, Retkien ja aktiviteettien erityisehdot, Autonvuokrausehdot ja Vakuudet.",
+    "vakuus_kerrottu": "HAVAINTO: Matkaehdot-sivulla mainitaan 'Vakuudet'-osio erillisesti, mutta sisältö ei avautunut staattisessa haulla. Sivustolla mainitaan Matkavakuutus lisäpalveluna, mutta täydellistä tietoa matkanjärjestäjän vakuudesta tai KKV-rekisteröinnistä ei löytynyt.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt mistään julkisista sivuista (etusivu, matkaehdot, vastuullinen matkailu, hyva-tietaa). Yritystiedot-linkki mainitaan sivuston footerissa, mutta se ei ole saatavilla navigoitavaksi.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointipalveluihin tai kolmansien osapuolten arvioihin, kuten Trustpilot tai muihin vertailusiaistoihin.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 09 818 1101 (pvm/ppm) näkyy sivuston eri paikoissa, esim. 404-sivulla ja asiakaspalvelu-viitteissä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta asiakaspalvelulle ei löytynyt helposti. Yhteydenotto ohjataan chat-palvelun tai puhelimen kautta.",
+    "chat_mainittu": "HAVAINTO: Sivuston koodissa löytyi chat-palvelu konfiguraatio ('Travel Assistant' chat), joka tarjoaa asiakastukea verkossa.",
+    "aukioloajat_esilla": "HAVAINTO: Etusivulla mainitaan '24/7 turvana matkallasi - Olemme aina apunasi ja turvanasi maailmalla'. Ei ole listattu spesifisiä aukioloaikoja, mutta 24/7 saatavuus vakuutetaan.",
+    "ukk_osio": "HAVAINTO: Sivulla https://www.aurinkomatkat.fi/hyva-tietaa on 'Usein kysyttyä' -osio sekä muita FAQ-maisia sisältöjä, kuten 'Hintaan sisältyy', 'Matkan varaaminen', 'Majoitus', 'Lennot' ja 'Maksutavat'.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla mainitaan 'Aurinkomatkat-sovellus' ja kuvataan: 'Maksuttomasta sovelluksesta löydät kaiken tarvittavan ennen lomaa ja loman aikana.' Sovellus on saatavilla mutta tarkka latauslinkki ei löytynyt staattisesta sisällöstä."
+  }
+}

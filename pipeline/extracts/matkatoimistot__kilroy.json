@@ -1,0 +1,49 @@
+{
+ "slug": "kilroy",
+ "fetched_ok": [
+  "https://www.kilroy.fi",
+  "https://www.kilroy.fi/lennot"
+ ],
+ "hinnat_esilla": "osittain",
+ "varaus_verkossa": "osittain",
+ "ehdot_saatavilla": "osittain",
+ "vakuus_kerrottu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 72,
+  "sisallon_kattavuus": 70,
+  "hintojen_loydettavyys": 58
+ },
+ "vahvuudet": [
+  "Henkilökohtaiset matka-asiantuntijat ja räätälöidyt matkapaketit näkyvät selvästi",
+  "Monipuolinen tarjonta (yksilömatkat, ryhmämatkat, opintomatkat, aktiviteetit)",
+  "Helppo online-lennontvaraus ja vertailu yli 500 lentoyhtiön kesken"
+ ],
+ "kehityskohteet": [
+  "Pakettimatkojen hinnat vaativat tarjouspyyntöä; julkisten hintojen puute vaikeuttaa vertailua",
+  "Matkaehdot ja peruutusehdot mainittuja mutta vaikeaselkoisesti saatavilla",
+  "Asiakastuen FAQ-sivu lataa virheellisesti (CSS-virhe help.kilroy.net:issä)"
+ ],
+ "yhteenveto": "KILROY on suomalainen matkatoimisto, joka erikoistuu räätälöityihin pakettimatkiin ja opintomatkoihin. Sivusto on selkeä navigoitavuudeltaan, mutta pakettimatkojen hintojen löytäminen vaatii suoraan yhteydenottoa matka-asiantuntijoihin. Lennot voidaan varata helposti online-järjestelmän kautta yli 500 lentoyhtiön vertailulla.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Lennon hintoja voi vertailla ja varata suoraan online-järjestelmässä (500+ lentoyhtiötä), mutta pakettimatkojen hinnat eivät näy listamuodossa. Sivusto ohjaa asiakkaat lähettämään tarjouspyynnön matka-asiantuntijoille, jotka antavat maksuttoman tarjouksen.",
+  "varaus_verkossa": "HAVAINTO: Lennot voidaan varata verkkokaupasta (yksinkertaiset menopaluu-lennot), mutta monien reittiensä ja pakettimatkat vaativat suoraa yhteydenpanoa. Sivusto toteaa: 'Nettikaupasta ei kuitenkaan voi varata ihan kaikkia lentokohteita ja -reittejä'.",
+  "ehdot_saatavilla": "HAVAINTO: Footer mainitsee 'Yleiset matkaehdot' ja 'Ehdot verkkokaupasta ostetuille lentolipuille', mutta nämä sivut eivät latau normaalilla sisältöhaulla. Booking flow -kaavakkeissa mainitaan termien hyväksyminen, mutta ne ovat vaikeaselkoisesti saatavilla.",
+  "vakuus_kerrottu": "HAVAINTO: Booking flow -prosessissa tarjotaan 'Cancellation protection' -vakuutusta. Sivusto suosittelee: 'We strongly recommend that you purchase a cancellation insurance in case you don't have one already.'",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0115306-8 näkyy selvästi sivuston footerissa yhteysosoitteen yhteydessä: 'Y-tunnus: 0115306-8'.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviolähteisiin tai asiakasarvioihin.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero 09 680 78200 näkyy footer-osassa. Sivusto tarjoaa myös soittoaikavarauksen mahdollisuutta.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite travels@kilroy.fi näkyy selvästi footer-osassa ja pääsivulla.",
+  "chat_mainittu": "HAVAINTO: Chat-tuki mainitaan kontakti-sliderissa (käännöksistä löytyy 'Kilroy.ContactSlider.General.ChatButtonText': 'Chat'), vaikka live-chat-toiminnon aktiivisuutta ei voitu vahvistaa.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei näy sivustolla. Sivusto mainitsee kahta toimistoa (Helsinki ja Turku), mutta aukioloajat puuttuvat.",
+  "ukk_osio": "HAVAINTO: Sivusto mainitsee asiakastuen FAQ-osiota ('usein kysytyt kysymykset') help.kilroy.net-osoitteessa, mutta kyseinen sivu lataa virheellisesti (CSS Error).",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu sivustolla."
+ }
+}
