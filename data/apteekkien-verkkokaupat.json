@@ -1,0 +1,1553 @@
+{
+ "slug": "apteekkien-verkkokaupat",
+ "nimi": "Apteekkien verkkokaupat",
+ "nav": "Nettiapteekit",
+ "h1": "Suomen paras nettiapteekki 2026",
+ "yksikko": "suomalaista verkkoapteekkia",
+ "lead": "Pisteytimme {n} suomalaista verkkoapteekkia {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näkyvätkö OTC-tuotteiden hinnat ja toimitusehdot ennen kuin luovutat tietosi?",
+ "meta_title": "Suomen paras nettiaapteekki 2026 | verkkoapteekit pisteytettynä | Suomen Paras",
+ "meta_desc": "7 suomalaista verkkoapteekkia pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kaikki listatut apteekit ovat Fimean rekisteröimiä:</b> jokainen Suomessa laillisesti toimiva apteekki verkkopalvelu on Lääkealan turvallisuus- ja kehittämiskeskuksen (Fimea) hyväksymä. Luettelo laillisista verkkoapteekkipalveluista löytyy Fimean sivustolta. Pisteytyksemme ei mittaa lääketurvallisuutta — se kuvaa sivuston läpinäkyvyyttä.",
+  "<b>Omistus:</b> Yliopiston Apteekki Oy (1846816-2) on Suomen suurin apteekkiketju. Olo-apteekki Oy (2862688-1) on nopeimmin kasvava verkkoapteekki ja Euroopan verkkoapteekkiyhdistyksen (EAEP) jäsen. Apteekki 360 on Vaidia Oy:n (2279092-0) hallinnoima, Hakaniemen Ympyrätalo. Muut listatut ovat yksittäisten proviisorien apteekkeja, joilla on valtakunnallinen toimituspalvelu.",
+  "<b>Miksi listalla ei ole kaikkia apteekkeja?</b> Fimean rekisterissä on yli 200 verkkoapteekkipalvelua — valtaosa on yksittäisiä kivijalkoja joiden verkkokauppa toimii alueellisesti tai vain kanta-asiakkaille. Listalla ovat apteekit, jotka markkinoivat itseään aktiivisesti valtakunnallisena palveluna ja joiden sivusto on mitattavissa. apteekkituotteet.fi ohjaa yksittäiselle paikalliselle apteekille eika ole valtakunnallinen.",
+  "Vertailu kuvaa apteekkien verkkokauppojen julkisten sivujen mitattavia ominaisuuksia, ei lääkkeiden hintoja eikä lääkeneuvonnan laatua. Reseptilääkkeiden hinnat ovat Suomessa Kelan korvausjärjestelmän kautta lakisääteisiä — hintaero syntyy ilman reseptiä ostettavissa OTC-tuotteissa. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
+ ],
+ "yritykset": [
+  {
+   "slug": "nettiapteekki",
+   "nimi": "Nettiapteekki",
+   "domain": "nettiapteekki.fi",
+   "omistaja": "Seitsemän Veljeksen Apteekki — OIVA-hyväksytty, valtakunnallinen toimitus",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 86.3,
+   "pillars": {
+    "digitaalinen": 72.6,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 82.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on laaja tuotelisting hintoineen; tarjoustuotteet hintoineen nakyvat ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimituskaytanto-sivu (policies/shipping-policy) on julkinen ja kattaa toimitushinnat, -ajat ja eri kuljetusyhtion vaihtoehdot."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla kerrotaan etta reseptipalvelu hoidetaan kirjautumalla ja reseptipyynnoilla; farmaseutti ottaa yhteyttä puhelimitse arkisin klo 9-16."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautuskaytanto-sivu (policies/refund-policy) kertoo 14 paivan peruuttamisoikeuden, palautusohjeet Postille, Schenkerille, Budbeelle ja PostNordille, seka maksujen palautuskaytiannot."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kayttoehdoissa (policies/terms-of-service) lukee y-tunnus: 2629858-9, kayntiosoite Mahlamaentie 2, 01900 Nurmijärvi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa teksti Verkkokauppamme noudattaa Laakealan turvallisuus- ja kehittamiskeskus Fimean maarayksia, Fimea 029 522 3341."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla puhelin 050 4685986 (ma-pe 8:30-20, la 9-17, su 12-16)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla sahkoposti info@nettiapteekki.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla chat-palvelu mainittu: ma-pe 9-17, arkipyhina suljettu."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla aukioloajat: ma-pe 8:30-20, la 9-17, su 12-16."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerin tietosivut-osassa on Usein kysytyt kysymykset -linkki."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "83/100",
+       "paino": 33,
+       "pisteet": 83,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 11014.429984999999,
+    "cls": 0,
+    "tbt_ms": 2408.1109849999993
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus (2629858-9) ja yrityksen kayntiosoite selkeasti esilla kayttoehdoissa",
+    "Kattavat palautusohjeet: Posti, Schenker, Budbee ja PostNord; palautusmenettelyt yksityiskohtaisesti kuvattu",
+    "Chat-palvelu ma-pe 9-17, puhelin 050 4685986 ja sahkoposti info@nettiapteekki.fi; aukioloajat nakyvilla"
+   ],
+   "kehityskohteet": [
+    "Etusivu on tarjous- ja tuotelistapainotteinen; perustiedot loytyy alasivuilta navigoinnin kautta",
+    "Omaa mobiilisovellusta ei ole; kaytto vain selaimen kautta",
+    "Toimitusehdot-sivu loytyy vain Shopify policies-polulta, ei suoraa linkkia etusivulta"
+   ],
+   "yhteenveto": "Nettiapteekki on Seitseman veljeksen apteekin (Nurmijärvi) yllapitama verkkokauppa joka tarjoaa resepti- ja OTC-tuotteita seka laajan apteekkikosmetiikan valikoiman. Y-tunnus, toimitusehdot, palautusohjeet ja Fimea-viittaus ovat kaikki julkisesti saatavilla. Asiakaspalvelua tarjotaan puhelimitse, chattina ja sahkopostitse."
+  },
+  {
+   "slug": "yliopiston-apteekki",
+   "nimi": "Yliopiston Apteekki",
+   "domain": "yliopistonapteekki.fi",
+   "omistaja": "Yliopiston Apteekki Oy — Suomen suurin apteekkiketju, yli 30 toimipistettä",
+   "y_tunnus": "1846816-2",
+   "rekisteroity": 2003,
+   "score": 85.0,
+   "pillars": {
+    "digitaalinen": 57.9,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 87.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "50/100",
+       "paino": 15,
+       "pisteet": 50,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla nakyvat tuotteiden hinnat ilman kirjautumista; vitamiinit ja kasikauppatuotteet hintoineen koriin lisattavissa."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot-sivu on julkinen; ilmainen toimitus pakettiautomaatteihin yli 65 euron tilauksista mainitaan etusivulla."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa selvitetaan etta reseptilakkeisiin vaaditaan vahva tunnistautuminen ja sahkoinen resepti; farmaseutti palvelee suojatussa chat-yhteydesssa."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa on 14 paivan peruuttamisoikeus, maksuton palautus postiin, poikkeukset reseptilakkeille ja avatuille hygieniatuotteille."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa lukee Yliopiston Apteekki (y-tunnus 0202635-1) ja Yliopiston Apteekki Oy (y-tunnus 1846816-2), osoite Valimotie 7, 00380 Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa on Laaakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (kirjaamo@fimea.fi, 029 522 3341)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla puhelin 0300 20200 (ymparivuorokauden) kuluttajille; myos toimitusehdoissa 09 5420 4500."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritysasiakaspalvelun sahkoposti verkkokauppa@ya.fi nakyy yhteystiedot-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainitaan Chat-asiakaspalvelu kanta-asiakkaille avoinna joka paiva 8-22, mutta chat edellyttaa kirjautumista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla listataan jokaisen fyysisen apteekin aukioloajat seka verkkoapteekin kasittelyajat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on linkki Usein kysyttya verkkoasioinnista -sivulle."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerin kanta-asiakkuus-osiossa on Lataa sovellus -linkki; Wolt-sovellus mainitaan myos toimitusvaihtoehtona."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 82,
+    "seo": 100,
+    "best_practices": 50,
+    "lcp_ms": 7893.569325,
+    "cls": 0.005585706343579399,
+    "tbt_ms": 17252.8259
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus (0202635-1) ja yritystiedot julkaistu selkeasti toimitusehdoissa",
+    "Kattavat asiakaspalvelukanavat: puhelin ymparivuorokauden, chat kanta-asiakkaille paivittain klo 8-22, sahkoposti",
+    "Fimea-linkki footerissa; reseptilakkeiden tilausohje selostettu yksityiskohtaisesti"
+   ],
+   "kehityskohteet": [
+    "Chat-palvelu vaatii kirjautumisen - vierailija ei paase chattiin ennen rekisteroitymista",
+    "Etusivu on laaja tuotekategoriapainotteinen; palautuslomake loytyy vasta navigaation kautta",
+    "Sovelluksen latauslinkki footerissa muttei omaa sovellussivua"
+   ],
+   "yhteenveto": "Yliopiston Apteekki on Suomen suurin apteekki ja sen verkkoapteekki tarjoaa laajan OTC-tuotevalikoiman selvine hintoineen seka mahdollisuuden tilata reseptilakkeita. Toimitusehdot, Y-tunnus ja Fimea-viittaus ovat julkisesti nahtavilla, ja asiakaspalvelu toimii puhelimitse ymparivuorokauden. Sivuston laajuus voi tehda tiedon loytamisesta hieman aikaa vievaa."
+  },
+  {
+   "slug": "apteekki-360",
+   "nimi": "Apteekki 360",
+   "domain": "apteekki360.fi",
+   "omistaja": "Vaidia Oy — Hakaniemen Ympyrätalo, Helsinki; automaattinen hinnanvertailu",
+   "y_tunnus": "2279092-0",
+   "rekisteroity": 2009,
+   "score": 81.9,
+   "pillars": {
+    "digitaalinen": 67.5,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla TOP360-listalla nakyy tuotteiden hinnat suoraan (esim. Formoline L112 25,95 eur) ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimituskaytanto-sivulla (policies/shipping-policy) kerrotaan toimitusajat 1-5 arkipaivaa, hinnat ja kuljetusyhtion vaihtoehdot."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimituskaytannossa kerrotaan etta reseptitilaukset noudetaan myymalaasta vuoronumerolla apteekkiasiointiin soveltuvalla tunnistautumistavalla kuten Kela-kortilla."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautuskaytanto-sivulla (policies/refund-policy) on 14 vuorokauden palautusoikeus, ohjeet eri kuljetusyhtiöiden kautta palauttamiseen ja palautusosoite."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kayttoehdoissa (policies/terms-of-service) lukee: VAIDIA TECHNOLOGIES OY / APTEEKKI 360 YMPYRATAALO, Y-TUNNUS: 3544939-3 / 2056406-5."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa teksti Noudatamme Laakealan turvallisuus-ja kehittamiskeskus Fimean maarayksia, kirjaamo@fimea.fi, Puh. 029 522 3341."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa puhelinnumerot 029 3400 685 (verkkokauppa) ja 029 3400 680 (apteekki)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa sahkopostit verkkokauppa@apteekki360.fi ja info@apteekki360.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Chat-tilaus-kohta josta paasee farmaseutin chat-palveluun."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun footerissa aukioloajat: Hakaniemi Ympyrataalo ma-pe 8-20, la 10-18, su suljettu (poikkeusaukiolot listattu)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-osiota tai vastaavaa usein-kysyttya-sivua ei loydy sivustolta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 8940.701,
+    "cls": 0,
+    "tbt_ms": 6602.499999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnukset selkeasti esilla kayttoehdoissa: Vaidia Technologies Oy (3544939-3) ja Apteekki 360 Ympyrataalo (2056406-5)",
+    "Automaattinen hintavertailu pitaa hinnat kilpailukykyisina reaaliaikaisesti",
+    "Chat-tilaus farmaseutille mainittu navigaatiossa; sahkopostit ja puhelinnumerot esilla"
+   ],
+   "kehityskohteet": [
+    "UKK-osiota ei loydy sivustolta lainkaan",
+    "Palautusehdot-sivu on erillisella Shopify-polulla eika linkiteta selkeasti etusivulta",
+    "Reseptilakkeiden verkkotilaus selitetty suppeasti; myymalaasiointi korostuu"
+   ],
+   "yhteenveto": "Apteekki 360 on Hakaniemen Ympyratalossa toimiva apteekki jolla on aktiivinen verkkokauppa automaattisella hintavertailulla. Y-tunnus, toimitusehdot, palautusehdot ja Fimea-viittaus ovat julkisesti nakyvilla. Sivusto ei tarjoa erillistä UKK-osiota, mutta hinnat ja tuotetieto ovat kattavasti esilla."
+  },
+  {
+   "slug": "verkkoapteekki",
+   "nimi": "Verkkoapteekki",
+   "domain": "verkkoapteekki.fi",
+   "omistaja": "Järvenpään Lähiapteekki — laillinen verkkoapteekki, toimitus Posti/PostNord",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 77.7,
+   "pillars": {
+    "digitaalinen": 68.0,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 76.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkokaupassa OTC-tuotteiden hinnat näkyvät selkeästi tuotelistauksissa kaikille ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot, toimitustavat ja maksutavat löytyvät footerista omina sivuinaan."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa on reseptilääkkeiden tilausprosessi: e-resepti, tunnistautuminen, toimitusrajoitukset."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa on 'Palautusohjeet'-osio; kuluttajan peruuttamisoikeus kerrottu."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apteekin virallinen nimi Järvenpään Lähiapteekki mainitaan, mutta Y-tunnus ei näy toimitusehdoissa eikä footerissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa on 'SERTIFIKAATIT'-osio, jossa 'Lääkealan turvallisuus- ja kehittämiskeskus Fimea' mainitaan yhteystietoineen; erillinen Fimea-linkki esillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "76/100",
+       "paino": 34,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "79/100",
+       "paino": 33,
+       "pisteet": 79,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "74/100",
+       "paino": 33,
+       "pisteet": 74,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 10814.613999999994,
+    "cls": 0.010455420342757812,
+    "tbt_ms": 3632.6254999999946
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Chat arkisin klo 10-16, puhelin 09 2798 0333 (arkisin klo 8-19) ja sähköposti apteekki@verkkoapteekki.fi — monipuolinen asiakaspalvelu",
+    "Fimea näkyy selkeästi SERTIFIKAATIT-osiossa footerissa, 'Laillinen verkkoapteekki' viesti vahvistettuna",
+    "OTC-hinnat esillä, palautusohjeet ja toimitusehdot helposti löydettävissä"
+   ],
+   "kehityskohteet": [
+    "Järvenpään Lähiapteekin Y-tunnus tai virallinen nimi ei näy toimitusehdoissa",
+    "Ei mobiilisovellusta — verkkokauppa toimii mobiiliselaimen kautta",
+    "Ei erillistä UKK-osiota; tietoa hajoaa eri alasivuille"
+   ],
+   "yhteenveto": "Verkkoapteekki on Järvenpään Lähiapteekin verkkopalvelu, joka erottuu selkeillä asiakaspalveluvaihtoehdoilla (chat, puhelin, email) ja avoimella Fimea-statuksen näyttämisellä. OTC-hinnat ovat avoimesti esillä ja Fimea on esillä omassa SERTIFIKAATIT-osiossaan."
+  },
+  {
+   "slug": "olo-apteekki",
+   "nimi": "Olo-apteekki",
+   "domain": "oloapteekki.fi",
+   "omistaja": "Olo-apteekki Oy (ent. Yleisavain Oy) — Suomen nopeimmin kasvava verkkoapteekki, EAEP-jäsen",
+   "y_tunnus": "2862688-1",
+   "rekisteroity": 2017,
+   "score": 74.5,
+   "pillars": {
+    "digitaalinen": 48.8,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 82.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "2/100",
+       "paino": 40,
+       "pisteet": 2,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "83/100",
+       "paino": 30,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla nakyvat tuotteiden hinnat (esim. SYMBIOSYS Alflorex 55,30 eur) ilman kirjautumista, suoraan ostoskoriin lisattavissa."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitus- ja maksuehdot -sivulla kerrotaan toimitushinnat (esim. Budbee Box 2,90 eur, yli 50 euron tilaus ilmainen) ja toimitusajat."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Reseptiasiointi-linkki. UKK:ssa mainitaan reseptilakkeet, mutta tilausprosessia ei selostettu julkisesti yksityiskohtaisesti."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa kerrotaan 14 paivan palautusoikeus avaamattomille tuotteille; palautuskulu 4,90 eur. Lakkeet eivat kuulu palautusoikeuden piiriin."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apteekin omaa Y-tunnusta ei loydy toimitusehdoista eika footerista; ainoastaan maksuvalittaja Avarda Oy (y-tunnus 2619111-6) mainitaan."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa Laaakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (029 522 334, kirjaamo@fimea.fi)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa ja yhteystiedot-sivulla puhelin 020 767 0130 (pvm/mpm, arkisin 8-15)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa sahkoposti asiakaspalvelu@oloapteekki.fi; yhteystiedot-sivulla myos johtajien henkilokohtaiset sahkopostit."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita chat-palvelua; asiakaspalvelu vain puhelimitse ja sahkopostitse."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla asiakaspalvelun aukioloajat: puhelimitse ma-pe klo 8-15."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivulla vastataan yli kymmeneen yleiseen kysymykseen tilaamisesta, palautuksista, maksutavoista ja toimituksista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita omaa mobiilisovellusta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 2,
+    "accessibility": 83,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 14608.017000000005,
+    "cls": 0.695456520896393,
+    "tbt_ms": 13945.162999999997
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Toimitusehdot kattavat: toimitusajat, -hinnat ja palautusoikeus (14 pv) selostettu selkeasti",
+    "Fimea-linkki footerissa; puhelin 020 767 0130 ja sahkoposti selkeasti esilla",
+    "UKK-osio vastaa yleisimpiin asiakaskysymyksiin ostamisesta, tilauksista ja palautuksista"
+   ],
+   "kehityskohteet": [
+    "Apteekin oma Y-tunnus ei navy - toimitusehdoissa ainoastaan maksuvalittaja Avardan Y-tunnus",
+    "Chat-palvelua ei ole lainkaan; asiakaspalvelu vain puhelimitse ja sahkopostitse arkisin klo 8-15",
+    "Reseptilakkeiden tilausprosessia ei selostettu yksityiskohtaisesti julkisesti"
+   ],
+   "yhteenveto": "Olo-apteekki on verkkolaakkeita ja hyvinvointituotteita myyva apteekki joka toimittaa tilauksia koko Manner-Suomeen. Toimitusehdot, palautusoikeus ja asiakaspalvelun yhteystiedot ovat julkisesti nakyvilla, ja Fimea-valvonta mainitaan footerissa. Apteekin omaa Y-tunnusta ei kuitenkaan loydy toimitusehtojen eika footerin teksteista."
+  },
+  {
+   "slug": "nettiterveysapteekki",
+   "nimi": "Nettiterveysapteekki",
+   "domain": "nettiterveysapteekki.fi",
+   "omistaja": "Hansa Apteekki, Oulu (Limingantullin Prisma) — apteekkilupa Fimea, valtakunnallinen toimitus",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.2,
+   "pillars": {
+    "digitaalinen": 69.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 69.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla nakyy tuotelisting hintoineen; tuotteet lisattavissa koriin ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot-sivu on julkinen ja kattaa toimitusajat, -hinnat ja palautusohjeet useille kuljetusyhtiöille."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on Reseptiasiointi-viittaus, mutta yksityiskohtaista julkista kuvausta prosessista ei loydy."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa kerrotaan 14 vuorokauden vaihto- ja palautusoikeus avaamattomille tuotteille; lakkeet poisluettu. Palautusosoite ja Matkahuollon palautustunnus (9522085) mainittu."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apteekin omaa Y-tunnusta ei loydy sivustolta; toimitusehdoissa ainoastaan maksuvalittaja Paytrail Oyj (y-tunnus 2122839-7) mainitaan. Apteekin nimi Oulun III Hansa Apteekki on esilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa Fimea (Laakealan turvallisuus- ja kehittamiskeskus) yhteystietoineen (P. 029 522 3341, kirjaamo@fimea.fi) ja Apteekkariliitto-linkki."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa asiakaspalvelunumero 044 750 7201 (arkisin 8-15, la 12-15)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa sahkoposti asiakaspalvelu(a)nettiterveysapteekki.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita chat-palvelua."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa aukioloajat: arkisin 8-15, lauantaisin 12-15."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivua tai Usein kysyttya -osiota ei loydy sivustolta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 81,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 16096.565999999999,
+    "cls": 0.0004228247415135927,
+    "tbt_ms": 1851
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Fimea- ja Apteekkariliitto-logot footerissa selkeasti; valvontaviranomaisen yhteystiedot esilla",
+    "Toimitusehdot kattavat palautusohjeet ja toimitusajat Postille, Matkahuollolle ja kotiintoimitukselle",
+    "Puhelin (044 750 7201) ja sahkoposti nakyvat footerissa; aukioloajat mainittu"
+   ],
+   "kehityskohteet": [
+    "Apteekin omaa Y-tunnusta ei loydy sivustolta; ainoastaan maksuvalittaja Paytrailin Y-tunnus mainitaan",
+    "Sivuston ulkonao on pelkistetty ja navigointi kaipaa modernisointia",
+    "UKK-osiota tai reseptitilausprosessin yksityiskohtaista kuvausta ei ole julkisesti saatavilla"
+   ],
+   "yhteenveto": "Nettiterveysapteekki on Oulun III Hansa Apteekin yllapitama verkkokauppa joka tarjoaa OTC-tuotteita, luontaistuotteita ja ravintolisia. Toimitusehdot ja palautusehdot ovat julkisesti nakyvilla, ja Fimea mainitaan valvontaviranomaisena. Apteekin omaa Y-tunnusta ei loydy sivustolta, ja sivuston ilme on teknisesti vanhempi."
+  },
+  {
+   "slug": "bonusapteekki",
+   "nimi": "Bonusapteekki",
+   "domain": "bonusapteekki.fi",
+   "omistaja": "Bonusapteekki, Ylöjärvi (Kauppakeskus Elo); ei-lääkkeelliset: Balogi Oy (3334061-8)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 67.0,
+   "pillars": {
+    "digitaalinen": 65.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 79.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "OTC-tuotteiden hinnat esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla nakyy OTC-tuotteiden hinnat (esim. SiderAL Forte 49,10 eur) ja Value Pack -tarjoukset ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusehdot ja -kulut esillä ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitustavat-ja-ehdot -sivulla kerrotaan toimitushinnat, ilmainen toimitus yli 34,90 euron tilauksiin (pl. lakkeet), seka toimitusaikaarviot."
+      },
+      {
+       "mittari": "Reseptilääkkeiden tilausohje kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa mainitaan Matkahuolto kotiinkuljetus reseptilakkeille; yhteystiedot-sivulla kerrotaan farmaseutti tavoitettavissa sisaankirjautuneena. Tilausprosessia ei selostettu julkisesti vaiheittain."
+      },
+      {
+       "mittari": "Palautusoikeus ja -ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdoissa kerrotaan 14 paivan peruuttamisoikeus, poikkeukset (resepti- ja itsehoitolakkeet), ja noutamatta jateneiden lahetysten kasittelykulut (19,90 eur)."
+      },
+      {
+       "mittari": "Y-tunnus tai apteekkiluvan haltija esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apteekin Y-tunnusta ei loydy toimitusehdoista eika footerista. Tietosuojaselosteessa rekisterinpitajana mainitaan vain Bonusapteekki, Elotie 1, 33470 Ylojärvi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa Laakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (Puh. vaihde 029 522 3341, kirjaamo@fimea.fi)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei loydy sivustolta; yhteystiedot-sivulla neuvotaan ottamaan yhteyttä sahkopostitse."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla sahkoposti verkkokauppa@bonusapteekki.fi; myos apteekkarin sahkoposti apteekkari@bonusapteekki.fi mainittu."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainita sivustolla; asiakaspalvelu sahkopostitse."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita aukioloaikoja verkkokaupalle tai fyysiselle apteekille."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Usein kysyttya -linkki."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 19716.4585,
+    "cls": 0.08254453275327457,
+    "tbt_ms": 5652.000000000006
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavat toimitusehdot: toimitushinnat, palautusoikeus (14 pv), bonusjarjestelma ja reklamaatioohje selitetty yksityiskohtaisesti",
+    "Fimea-linkki footerissa; reseptilakkeen tilausvaihtoehdot (Matkahuolto kotiin, nouto apteekista) julkisesti esilla",
+    "UKK-osio ja Naain teet ostoksia -ohje tarjolla; bonusjarjestelman saannot julkisesti luettavissa"
+   ],
+   "kehityskohteet": [
+    "Puhelinnumeroa ei loydy sivustolta; asiakaspalvelu vain sahkopostitse (verkkokauppa@bonusapteekki.fi) ja sisaankirjautumisen kautta",
+    "Apteekin Y-tunnusta ei loydy toimitusehdoista eika footerista; rekisteroitykin vain osoitetieto Elotie 1, Ylojärvi",
+    "Aukioloaikoja ei mainita sivustolla; apteekki sijaitsee Ylojarvella mutta aukioloajat eivat ole julkisia"
+   ],
+   "yhteenveto": "Bonusapteekki on Ylojarvella toimiva nettiapteekki joka korostaa edullisia hintoja ja bonusjarjestelmaa. Toimitusehdot ja palautusoikeus on selostettu yksityiskohtaisesti, ja Fimea mainitaan valvontaviranomaisena. Puhelinnumeroa ja Y-tunnusta ei kuitenkaan loydy julkisesti sivustolta."
+  }
+ ],
+ "updated": "24.7.2026",
+ "opas": {
+  "johdanto": "Suomalaiset verkkoapteekit ovat Fimean valvomia laillisia apteekkipalveluita, joista voi tilata sekä reseptilääkkeitä (e-resepti Kanta-palvelun kautta) etta ilman reseptiä myytäviä OTC-tuotteita, vitamiineja, kosmetiikkaa ja terveydenhoitotarvikkeita. Verkkoasioiminen on kätevämpää kuin jonottaminen kivijalkaan, mutta palveluiden hinnat, toimitusvaihtoehdot ja käyttökokemus vaihtelevat merkittävästi.",
+  "huomioita": [
+   "Reseptilääkkeiden hinnat ovat Kelan korvausjärjestelmän kautta säädelty Suomessa — hintakilpailu syntyy OTC-tuotteissa, vitamiineissa ja kosmetiikassa.",
+   "Laillinen verkkoapteekki näyttää aina EU:n yhteisen verkkotunnistautumislogon (sinivalkoinen EU-lippu apteekki-ikoni), josta pääsee Fimean rekisteriin tarkistamaan luvan.",
+   "E-resepti toimii kaikissa Fimean hyväksymissä verkkoapteekeissa: kirjaudu verkkopankkitunnuksilla tai mobiilivarmenteella, ja reseptit haetaan suoraan Kanta-palvelusta.",
+   "Toimitusaika vaihtelee 0-4 arkipäivästä — lääketarpeen ollessa kiireellinen kannattaa valita apteekki, jolla on noutopiste kodin lähistöllä."
+  ],
+  "vinkit": [
+   "Vertaile OTC-tuotteiden (esim. parasetamoli, vitamiinit, aurinkovoide) hintoja apteekkien verkkokauppojen hakutoiminnolla ennen ostoa — hintaerot voivat olla kymmeniä prosentteja.",
+   "Tarkista toimitusvaihtoehdot: useimmilla verkkoapteekeilla on ilmainen toimitus Postin tai Matkahuollon noutopisteisiin tietyn tilausrajan ylittyessä.",
+   "Etsi EU-tunnistautumislogo (sinivalkoinen apteekki-ikoni) sivuston alaosasta — puuttuva logo voi tarkoittaa, etta sivusto ei ole laillinen apteekki.",
+   "Jos tilaat paljon kosmetiikkaa tai lisäravinteita, selvitä apteekilla onko asiakasohjelma tai kanta-asiakasalennuksia — osalla on merkittäviä etuuksia kanta-asiakkaille."
+  ],
+  "ukk": [
+   {
+    "q": "Voiko reseptilääkkeitä tilata verkosta?",
+    "a": "Kyllä. Fimean hyväksymissä verkkoapteekeissa voi tilata reseptilääkkeitä sähköisellä reseptillä (e-resepti). Kirjautuminen tapahtuu vahvalla tunnistautumisella (verkkopankki tai mobiilivarmenteen kautta), jonka jälkeen reseptit haetaan automaattisesti Kanta-palvelusta."
+   },
+   {
+    "q": "Miten tiedän, onko verkkoapteekkipalvelu laillinen?",
+    "a": "Laillinen verkkoapteekki näyttää sivullaan EU:n yhteisen tunnistautumislogon (sinivalkoinen apteekki-ikoni EU-lipulla). Logosta pääsee suoraan Fimean rekisteriin, josta laillisten apteekkiverkkopalvelujen luettelo löytyy."
+   },
+   {
+    "q": "Ovatko lääkehinnat samat kaikissa verkkoapteekeissa?",
+    "a": "Reseptilääkkeiden hinnat on säädelty Suomessa Kelan korvausjärjestelmässä. OTC-tuotteiden, vitamiinien ja kosmetiikan hinnat sen sijaan vaihtelevat apteekeittain — kannattaa vertailla."
+   },
+   {
+    "q": "Kuinka nopeasti lääkkeet toimitetaan?",
+    "a": "Useimmat verkkoapteekit toimittavat 1-3 arkipäivässä. Osa apteekeista tarjoaa myös pikatoimitus- tai samana-päivä-toimituksen suurimmilla paikkakunnilla."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "OTC-tuotteiden hinnat esillä ilman kirjautumista (30), toimitusehdot ja -kulut esillä ennen kassaa (20), reseptilääkkeiden tilausohje kuvattu (20), palautusoikeus ja -ehdot kerrottu (10), Y-tunnus tai apteekkiluvan haltija esillä (10), riippumaton arviolähde esillä (10)"
+}

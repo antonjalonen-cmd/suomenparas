@@ -1,0 +1,40 @@
+{
+  "slug": "verkkoapteekki",
+  "fetched_ok": [
+    "https://www.verkkoapteekki.fi/",
+    "https://www.verkkoapteekki.fi/toimitusehdot"
+  ],
+  "otc_hinnat_esilla": "kylla",
+  "toimitusehdot_esilla": "kylla",
+  "resepti_prosessi_selitetty": "kylla",
+  "palautuspolitiikka_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "kk_hinta_alkaen_eur": null,
+  "ai_arviot": {"selkeys": 76, "hintojen_loydettavyys": 79, "sisallon_kattavuus": 74},
+  "vahvuudet": [
+    "Chat arkisin klo 10-16, puhelin 09 2798 0333 (arkisin klo 8-19) ja sähköposti apteekki@verkkoapteekki.fi — monipuolinen asiakaspalvelu",
+    "Fimea näkyy selkeästi SERTIFIKAATIT-osiossa footerissa, 'Laillinen verkkoapteekki' viesti vahvistettuna",
+    "OTC-hinnat esillä, palautusohjeet ja toimitusehdot helposti löydettävissä"
+  ],
+  "kehityskohteet": [
+    "Järvenpään Lähiapteekin Y-tunnus tai virallinen nimi ei näy toimitusehdoissa",
+    "Ei mobiilisovellusta — verkkokauppa toimii mobiiliselaimen kautta",
+    "Ei erillistä UKK-osiota; tietoa hajoaa eri alasivuille"
+  ],
+  "yhteenveto": "Verkkoapteekki on Järvenpään Lähiapteekin verkkopalvelu, joka erottuu selkeillä asiakaspalveluvaihtoehdoilla (chat, puhelin, email) ja avoimella Fimea-statuksen näyttämisellä. OTC-hinnat ovat avoimesti esillä ja Fimea on esillä omassa SERTIFIKAATIT-osiossaan.",
+  "evidence": {
+    "otc_hinnat_esilla": "HAVAINTO: Verkkokaupassa OTC-tuotteiden hinnat näkyvät selkeästi tuotelistauksissa kaikille ilman kirjautumista.",
+    "toimitusehdot_esilla": "HAVAINTO: Toimitusehdot, toimitustavat ja maksutavat löytyvät footerista omina sivuinaan.",
+    "resepti_prosessi_selitetty": "HAVAINTO: Toimitusehdoissa on reseptilääkkeiden tilausprosessi: e-resepti, tunnistautuminen, toimitusrajoitukset.",
+    "palautuspolitiikka_kerrottu": "HAVAINTO: Toimitusehdoissa on 'Palautusohjeet'-osio; kuluttajan peruuttamisoikeus kerrottu.",
+    "y_tunnus_esilla": "HAVAINTO: Apteekin virallinen nimi Järvenpään Lähiapteekki mainitaan, mutta Y-tunnus ei näy toimitusehdoissa eikä footerissa.",
+    "riippumaton_arvio": "HAVAINTO: Footerissa on 'SERTIFIKAATIT'-osio, jossa 'Lääkealan turvallisuus- ja kehittämiskeskus Fimea' mainitaan yhteystietoineen; erillinen Fimea-linkki esillä."
+  }
+}

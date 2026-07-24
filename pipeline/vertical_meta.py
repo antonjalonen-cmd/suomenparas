@@ -1156,3 +1156,114 @@ META["tapahtumaliput"] = {
          "ne avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."),
     ],
 }
+
+
+META["rautakaupat"] = {
+    "slug": "rautakaupat",
+    "nimi": "Rautakaupat",
+    "nav": "Rautakaupat",
+    "h1": "Suomen paras rautakauppa 2026",
+    "yksikko": "valtakunnallista rautakauppaketjua",
+    "lead": ("Pisteytimme {n} valtakunnallista rautakauppaketjua {m} mittarilla. Tärkein "
+             "kysymys: näkyvätkö hinnat, toimituskulut ja palautusehdot ennen kassaa?"),
+    "meta_title": "Suomen paras rautakauppa 2026 | rautakaupat pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} rautakauppaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Suuret myymäläketjut (K-Rauta, Stark, Bauhaus, Puuilo, "
+         "Byggmax, IKH) ja verkkokauppa Taloon.com. Omistus on merkitty jokaiselle riville: "
+         "mukana on suomalaisia pörssiyhtiöitä ja pohjoismaisten sekä saksalaisen konsernin "
+         "ketjuja."),
+        ("<b>RTV ei ole listalla</b>, koska RTV-Yhtymä asetettiin konkurssiin tammikuussa "
+         "2025 ja myymälät on suljettu. Kodin Terra -brändi lakkautettiin jo 2022. Kuolleiden "
+         "brändien karsinta on osa jokaista mittauskierrosta."),
+        ("<b>Mittausrajoite:</b> bauhaus.fi rajoittaa automaattista hakua, joten se mitattiin "
+         "selainpohjaisella haulla. Vahvistamatta jäänyt mittari merkitään puuttuvana tietona "
+         "eikä puutteena."),
+    ],
+}
+
+META["kattoremontit"] = {
+    "slug": "kattoremontit",
+    "nimi": "Kattoremontit",
+    "nav": "Kattoremontit",
+    "h1": "Suomen paras kattoremonttiyritys 2026",
+    "yksikko": "valtakunnallista tai monimaakunnallista kattoremonttiyritystä",
+    "lead": ("Pisteytimme {n} usean maakunnan alueella toimivaa kattoremonttiyritystä {m} "
+             "mittarilla. Tärkein kysymys: saako remontin hinnasta, vaiheista ja takuista "
+             "selvän kuvan ennen myyjän soittoa?"),
+    "meta_title": "Suomen paras kattoremonttiyritys 2026 | kattoremontit pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} kattoremonttiyritystä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Usean maakunnan alueella toimivat kattoremonttiketjut: "
+         "Kattotutka, Vesivek, Kattokeskus, Suomen KattoCenter, Kattomestarit, KerabitPro ja "
+         "Ruukki Katot. Ruukki on samalla materiaalivalmistaja (SSAB-konserni) ja Kerabitin "
+         "sivusto on jaettu valmistajabrändin kanssa, mikä on merkitty riveille."),
+        ("<b>Laaturemontti ei ole listalla erikseen</b>, koska brändi on sulautunut "
+         "Vesivekiin ja sen osoite ohjaa Vesivekin sivulle. Alueelliset yhden maakunnan "
+         "toimijat (esim. Kattomaailma Pirkanmaalla) on rajattu pois."),
+        ("<b>Miksi hintatieto painaa eniten?</b> Kattoremontti on tuhansien eurojen hankinta, "
+         "joka myydään usein kotikäynnillä. Yritys, joka kertoo hintahaarukat, vaiheet ja "
+         "takuut jo verkossa, antaa ostajalle mahdollisuuden vertailla rauhassa."),
+    ],
+}
+
+META["tyonvalityspalvelut"] = {
+    "slug": "tyonvalityspalvelut",
+    "nimi": "Työnvälityspalvelut",
+    "nav": "Työnvälitys",
+    "h1": "Suomen paras henkilöstöpalveluyhtiö 2026",
+    "yksikko": "valtakunnallista henkilöstöpalveluyhtiötä",
+    "lead": ("Pisteytimme {n} valtakunnallista henkilöstöpalveluyhtiötä työnhakijan "
+             "näkökulmasta {m} mittarilla. Tärkein kysymys: voiko avoimia paikkoja selata ja "
+             "hakuprosessin ymmärtää ilman kirjautumista, ja kerrotaanko palkka?"),
+    "meta_title": "Suomen paras henkilostopalveluyhtio 2026 | tyonvalitys pisteytettyna | Suomen Paras",
+    "meta_desc": "{n} henkilostopalveluyhtiota pisteytetty tyonhakijan nakokulmasta. Katso mista jokainen piste tulee.",
+    "notes": [
+        ("<b>Keitä listalla on?</b> Suurimmat valtakunnalliset henkilöstöpalveluyhtiöt: "
+         "Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, Manpower, Bondata ja Adecco. "
+         "Mittaus on tehty työnhakijan näkökulmasta: yrityksille myytäviä palveluita ei "
+         "pisteytetä."),
+        ("<b>Kuolleet brändit:</b> VMP ja Smile Henkilöstöpalvelut sulautuivat Eezyksi jo "
+         "2019, ja Go On -ketju toimii nykyään nimellä Bondata. Vanhat nimet eivät siksi ole "
+         "listalla erikseen."),
+        ("<b>Huomio palkkatiedosta:</b> palkan tai palkkahaarukan kertominen ilmoituksessa on "
+         "mittareistamme se, jossa ala on läpinäkymättömimmillään. Mittari palkitsee yhtiöt, "
+         "jotka kertovat palkan jo ilmoituksessa."),
+    ],
+}
+
+META["apteekkien-verkkokaupat"] = {
+    "slug": "apteekkien-verkkokaupat",
+    "nimi": "Apteekkien verkkokaupat",
+    "nav": "Nettiapteekit",
+    "h1": "Suomen paras nettiapteekki 2026",
+    "yksikko": "suomalaista verkkoapteekkia",
+    "lead": ("Pisteytimme {n} suomalaista verkkoapteekkia {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näkyvätkö OTC-tuotteiden "
+             "hinnat ja toimitusehdot ennen kuin luovutat tietosi?"),
+    "meta_title": "Suomen paras nettiaapteekki 2026 | verkkoapteekit pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista verkkoapteekkia pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Kaikki listatut apteekit ovat Fimean rekisteröimiä:</b> jokainen Suomessa laillisesti "
+         "toimiva apteekki verkkopalvelu on Lääkealan turvallisuus- ja kehittämiskeskuksen (Fimea) "
+         "hyväksymä. Luettelo laillisista verkkoapteekkipalveluista löytyy Fimean sivustolta. "
+         "Pisteytyksemme ei mittaa lääketurvallisuutta — se kuvaa sivuston läpinäkyvyyttä."),
+        ("<b>Omistus:</b> Yliopiston Apteekki Oy (1846816-2) on Suomen suurin apteekkiketju. "
+         "Olo-apteekki Oy (2862688-1) on nopeimmin kasvava verkkoapteekki ja Euroopan "
+         "verkkoapteekkiyhdistyksen (EAEP) jäsen. Apteekki 360 on Vaidia Oy:n (2279092-0) "
+         "hallinnoima, Hakaniemen Ympyrätalo. Muut listatut ovat yksittäisten proviisorien "
+         "apteekkeja, joilla on valtakunnallinen toimituspalvelu."),
+        ("<b>Miksi listalla ei ole kaikkia apteekkeja?</b> Fimean rekisterissä on yli 200 "
+         "verkkoapteekkipalvelua — valtaosa on yksittäisiä kivijalkoja joiden verkkokauppa "
+         "toimii alueellisesti tai vain kanta-asiakkaille. Listalla ovat apteekit, jotka "
+         "markkinoivat itseään aktiivisesti valtakunnallisena palveluna ja joiden sivusto on "
+         "mitattavissa. apteekkituotteet.fi ohjaa yksittäiselle paikalliselle apteekille eika "
+         "ole valtakunnallinen."),
+        ("Vertailu kuvaa apteekkien verkkokauppojen julkisten sivujen mitattavia ominaisuuksia, "
+         "ei lääkkeiden hintoja eikä lääkeneuvonnan laatua. Reseptilääkkeiden hinnat ovat "
+         "Suomessa Kelan korvausjärjestelmän kautta lakisääteisiä — hintaero syntyy "
+         "ilman reseptiä ostettavissa OTC-tuotteissa. Demo voi sisältää affiliate-linkkejä; "
+         "ne eivät vaikuta pisteisiin."),
+    ],
+}

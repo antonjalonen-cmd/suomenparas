@@ -1,0 +1,52 @@
+﻿{
+    "kk_hinta_alkaen_eur":  null,
+    "aukioloajat_esilla":  "ei",
+    "ukk_osio":  "kylla",
+    "y_tunnus_esilla":  "osittain",
+    "otc_hinnat_esilla":  "kylla",
+    "toimitusehdot_esilla":  "kylla",
+    "kehityskohteet":  [
+                           "Puhelinnumeroa ei loydy sivustolta; asiakaspalvelu vain sahkopostitse (verkkokauppa@bonusapteekki.fi) ja sisaankirjautumisen kautta",
+                           "Apteekin Y-tunnusta ei loydy toimitusehdoista eika footerista; rekisteroitykin vain osoitetieto Elotie 1, Ylojärvi",
+                           "Aukioloaikoja ei mainita sivustolla; apteekki sijaitsee Ylojarvella mutta aukioloajat eivat ole julkisia"
+                       ],
+    "riippumaton_arvio":  "kylla",
+    "fetched_ok":  [
+                       "https://www.bonusapteekki.fi/",
+                       "https://www.bonusapteekki.fi/toimitustavat-ja-ehdot",
+                       "https://www.bonusapteekki.fi/yhteystiedot",
+                       "https://www.bonusapteekki.fi/tietosuoja-ja-rekisteriseloste"
+                   ],
+    "palautuspolitiikka_kerrottu":  "kylla",
+    "ai_arviot":  {
+                      "selkeys":  75,
+                      "sisallon_kattavuus":  78,
+                      "hintojen_loydettavyys":  85
+                  },
+    "yhteenveto":  "Bonusapteekki on Ylojarvella toimiva nettiapteekki joka korostaa edullisia hintoja ja bonusjarjestelmaa. Toimitusehdot ja palautusoikeus on selostettu yksityiskohtaisesti, ja Fimea mainitaan valvontaviranomaisena. Puhelinnumeroa ja Y-tunnusta ei kuitenkaan loydy julkisesti sivustolta.",
+    "chat_mainittu":  "ei",
+    "mobiilisovellus":  "ei",
+    "vahvuudet":  [
+                      "Kattavat toimitusehdot: toimitushinnat, palautusoikeus (14 pv), bonusjarjestelma ja reklamaatioohje selitetty yksityiskohtaisesti",
+                      "Fimea-linkki footerissa; reseptilakkeen tilausvaihtoehdot (Matkahuolto kotiin, nouto apteekista) julkisesti esilla",
+                      "UKK-osio ja Naain teet ostoksia -ohje tarjolla; bonusjarjestelman saannot julkisesti luettavissa"
+                  ],
+    "resepti_prosessi_selitetty":  "osittain",
+    "puhelin_esilla":  "ei",
+    "evidence":  {
+                     "toimitusehdot_esilla":  "HAVAINTO: Toimitustavat-ja-ehdot -sivulla kerrotaan toimitushinnat, ilmainen toimitus yli 34,90 euron tilauksiin (pl. lakkeet), seka toimitusaikaarviot.",
+                     "chat_mainittu":  "HAVAINTO: Chat-palvelua ei mainita sivustolla; asiakaspalvelu sahkopostitse.",
+                     "riippumaton_arvio":  "HAVAINTO: Footerissa Laakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (Puh. vaihde 029 522 3341, kirjaamo@fimea.fi).",
+                     "otc_hinnat_esilla":  "HAVAINTO: Etusivulla nakyy OTC-tuotteiden hinnat (esim. SiderAL Forte 49,10 eur) ja Value Pack -tarjoukset ilman kirjautumista.",
+                     "resepti_prosessi_selitetty":  "HAVAINTO: Toimitusehdoissa mainitaan Matkahuolto kotiinkuljetus reseptilakkeille; yhteystiedot-sivulla kerrotaan farmaseutti tavoitettavissa sisaankirjautuneena. Tilausprosessia ei selostettu julkisesti vaiheittain.",
+                     "palautuspolitiikka_kerrottu":  "HAVAINTO: Toimitusehdoissa kerrotaan 14 paivan peruuttamisoikeus, poikkeukset (resepti- ja itsehoitolakkeet), ja noutamatta jateneiden lahetysten kasittelykulut (19,90 eur).",
+                     "mobiilisovellus":  "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla.",
+                     "email_esilla":  "HAVAINTO: Yhteystiedot-sivulla sahkoposti verkkokauppa@bonusapteekki.fi; myos apteekkarin sahkoposti apteekkari@bonusapteekki.fi mainittu.",
+                     "aukioloajat_esilla":  "HAVAINTO: Sivustolla ei mainita aukioloaikoja verkkokaupalle tai fyysiselle apteekille.",
+                     "puhelin_esilla":  "HAVAINTO: Puhelinnumeroa ei loydy sivustolta; yhteystiedot-sivulla neuvotaan ottamaan yhteyttä sahkopostitse.",
+                     "y_tunnus_esilla":  "HAVAINTO: Apteekin Y-tunnusta ei loydy toimitusehdoista eika footerista. Tietosuojaselosteessa rekisterinpitajana mainitaan vain Bonusapteekki, Elotie 1, 33470 Ylojärvi.",
+                     "ukk_osio":  "HAVAINTO: Navigaatiossa on Usein kysyttya -linkki."
+                 },
+    "slug":  "bonusapteekki",
+    "email_esilla":  "kylla"
+}

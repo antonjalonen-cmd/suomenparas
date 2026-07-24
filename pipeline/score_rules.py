@@ -43,6 +43,31 @@ AI = [
 # The 30-point "price before your data" criterion is deliberately the heaviest in
 # every vertical — it is the site's core question, expressed in each domain's terms.
 TRANSPARENCY = {
+    "rautakaupat": [
+        ("hinnat_esilla", "Tuotehinnat verkossa esillä", 25),
+        ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+        ("palautusehdot_saatavilla", "Palautus- ja takuuehdot julkisesti saatavilla", 20),
+        ("myymalat_ja_aukioloajat", "Myymälät ja aukioloajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "kattoremontit": [
+        ("hinta_indikaatio", "Hintatietoa tai hintalaskuri julkisesti esillä", 25),
+        ("prosessi_kuvattu", "Remontin eteneminen kuvattu vaiheittain", 20),
+        ("takuut_kerrottu", "Takuut ja niiden ehdot kerrottu", 20),
+        ("materiaalit_kuvattu", "Kattomateriaalit ja vaihtoehdot kuvattu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+    "tyonvalityspalvelut": [
+        ("tyopaikat_esilla", "Avoimet työpaikat selattavissa ilman kirjautumista", 25),
+        ("hakuprosessi_kuvattu", "Hakuprosessi ja sen vaiheet kuvattu", 20),
+        ("palkkatieto_ilmoituksissa", "Palkka tai palkkahaarukka kerrottu ilmoituksissa", 20),
+        ("tyosuhteen_ehdot", "Työsuhteen muodot ja ehdot selitetty", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
+
     "fysioterapia": [
         ("hinnat_esilla", "Fysioterapiakäyntien hinnat julkisesti esillä", 30),
         ("varaus_verkossa", "Ajanvaraus toimii verkossa ilman puhelua", 20),
@@ -104,6 +129,16 @@ TRANSPARENCY = {
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
 
+    "apteekkien-verkkokaupat": [
+        # Core question: can you see OTC product prices and delivery costs BEFORE
+        # handing over your details or creating an account?
+        ("otc_hinnat_esilla", "OTC-tuotteiden hinnat esillä ilman kirjautumista", 30),
+        ("toimitusehdot_esilla", "Toimitusehdot ja -kulut esillä ennen kassaa", 20),
+        ("resepti_prosessi_selitetty", "Reseptilääkkeiden tilausohje kuvattu", 20),
+        ("palautuspolitiikka_kerrottu", "Palautusoikeus ja -ehdot kerrottu", 10),
+        ("y_tunnus_esilla", "Y-tunnus tai apteekkiluvan haltija esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
     "vakuutukset": [
         ("hintalaskuri_ilman_yhteystietoja", "Hinta-arvio ilman yhteystietoja", 30),
         ("vakuutusehdot_saatavilla", "Vakuutusehdot/tuoteseloste julkisesti saatavilla", 20),

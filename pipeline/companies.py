@@ -496,6 +496,42 @@ COMPANIES["sahkovertailupalvelut"] = [
          omistaja="Valo Sales Oy (rek. 2021)"),
 ]
 
+# APTEEKKIEN-VERKKOKAUPAT (verified 24.7.2026)
+#
+# Finnish online pharmacies licensed by Fimea (Lääkealan turvallisuus- ja
+# kehittämiskeskus). All seven appear on Fimea's legal online pharmacy register.
+# Finnish pharmacy licences are issued to individual pharmacists (proviisorin
+# apteekkilupa), not always to a limited company — so some Y-tunnukset belong to the
+# e-commerce operating company (Oy), others are listed as None because the licensee
+# is a natural person whose personal Y-tunnus is not published.
+#
+# EXCLUDED: apteekkituotteet.fi (redirects to single Länsi-Keskuksen Apteekki
+# local page — not a national service), DocMorris (EU crossborder, no Finnish Oy).
+# pilleriainen.fi: domain did not respond at measurement time (curl no response).
+COMPANIES["apteekkien-verkkokaupat"] = [
+    dict(slug="yliopiston-apteekki", nimi="Yliopiston Apteekki", domain="yliopistonapteekki.fi",
+         y_tunnus="1846816-2",
+         omistaja="Yliopiston Apteekki Oy — Suomen suurin apteekkiketju, yli 30 toimipistettä"),
+    dict(slug="olo-apteekki", nimi="Olo-apteekki", domain="oloapteekki.fi",
+         y_tunnus="2862688-1",
+         omistaja="Olo-apteekki Oy (ent. Yleisavain Oy) — Suomen nopeimmin kasvava verkkoapteekki, EAEP-jäsen"),
+    dict(slug="apteekki-360", nimi="Apteekki 360", domain="apteekki360.fi",
+         y_tunnus="2279092-0",
+         omistaja="Vaidia Oy — Hakaniemen Ympyrätalo, Helsinki; automaattinen hinnanvertailu"),
+    dict(slug="nettiterveysapteekki", nimi="Nettiterveysapteekki", domain="nettiterveysapteekki.fi",
+         y_tunnus=None,
+         omistaja="Hansa Apteekki, Oulu (Limingantullin Prisma) — apteekkilupa Fimea, valtakunnallinen toimitus"),
+    dict(slug="bonusapteekki", nimi="Bonusapteekki", domain="bonusapteekki.fi",
+         y_tunnus=None,
+         omistaja="Bonusapteekki, Ylöjärvi (Kauppakeskus Elo); ei-lääkkeelliset: Balogi Oy (3334061-8)"),
+    dict(slug="nettiapteekki", nimi="Nettiapteekki", domain="nettiapteekki.fi",
+         y_tunnus=None,
+         omistaja="Seitsemän Veljeksen Apteekki — OIVA-hyväksytty, valtakunnallinen toimitus"),
+    dict(slug="verkkoapteekki", nimi="Verkkoapteekki", domain="verkkoapteekki.fi",
+         y_tunnus=None,
+         omistaja="Järvenpään Lähiapteekki — laillinen verkkoapteekki, toimitus Posti/PostNord"),
+]
+
 if __name__ == "__main__":
     # Slugs must be unique — a collision would overwrite a page.
     # Y-tunnus may legitimately repeat: in `luottokortit` the unit is a CARD, not a
@@ -1061,4 +1097,70 @@ COMPANIES["tapahtumaliput"] = [
     dict(slug="eventbrite", nimi="Eventbrite", domain="eventbrite.fi",
          y_tunnus=None,
          omistaja="Eventbrite Inc. (Yhdysvallat) — ei suomalaista rekisteröintiä; toimii Suomessa eventbrite.fi-osoitteessa"),
+]
+
+
+# RAUTAKAUPAT (verified 24.7.2026, agent + PRH). EXCLUDED: RTV (RTV-Yhtymä Oy konkurssi
+# 8.1.2025, rtv.fi ohjaa laattapiste.fi:hin), Kodin Terra (brandi lakkautettu 2022 →
+# Prisma Rauta ilman omaa domainia), Hartman Rauta (domain kuollut, alueellinen).
+# bauhaus.fi antaa curlille 429 → mittaa fetch_page.py --js:lla. ikh.fi vaatii selain-UA:n.
+COMPANIES["rautakaupat"] = [
+    dict(slug="k-rauta", nimi="K-Rauta", domain="k-rauta.fi", y_tunnus="0109862-8",
+         omistaja="Kesko Oyj — noin 130 myymälää valtakunnallisesti, markkinajohtaja"),
+    dict(slug="stark", nimi="Stark", domain="stark-suomi.fi", y_tunnus="2043575-7",
+         omistaja="Stark Suomi Oy — osa tanskalaista STARK Groupia, kymmeniä myymälöitä"),
+    dict(slug="bauhaus", nimi="Bauhaus", domain="bauhaus.fi", y_tunnus="1580679-5",
+         omistaja="Bauhaus & Co. Ky — osa saksalaista Bauhaus-konsernia, myymälät useissa kaupungeissa"),
+    dict(slug="puuilo", nimi="Puuilo", domain="puuilo.fi", y_tunnus="2726573-8",
+         omistaja="Puuilo Oyj — pörssiyhtiö, yli 40 myymälää valtakunnallisesti"),
+    dict(slug="taloon", nimi="Taloon.com", domain="taloon.com", y_tunnus="1870108-3",
+         omistaja="Bygghemma Finland Oy — verkkokauppa, osa ruotsalaista BHG Groupia"),
+    dict(slug="byggmax", nimi="Byggmax", domain="byggmax.fi", y_tunnus="2132241-2",
+         omistaja="Byggmax AB:n Suomen sivuliike — myymälät useissa kaupungeissa ja verkkokauppa"),
+    dict(slug="ikh", nimi="IKH", domain="ikh.fi", y_tunnus="0398874-7",
+         omistaja="IKH Oy (ent. Isojoen Konehalli) — noin 100 myymälän franchise-verkosto"),
+]
+
+# KATTOREMONTIT (verified 24.7.2026, agent + PRH). EXCLUDED: Laaturemontti (sulautui
+# Vesivekiin, domain ohjaa vesivek.fi:hin), Kattomaailma (vain Pirkanmaa), Icopal Katto
+# (domain kuollut, toiminta b2b BMI-konsernin sivuilla). Kerabit-domain on jaettu
+# valmistajabrandin kanssa; Ruukki Katot on valmistajan (SSAB) remonttipalvelu.
+COMPANIES["kattoremontit"] = [
+    dict(slug="kattotutka", nimi="Kattotutka", domain="kattotutka.fi", y_tunnus="0904784-1",
+         omistaja="Kattotutka Oy — valtakunnallinen, 5 alueellista kattoremonttiyksikköä"),
+    dict(slug="vesivek", nimi="Vesivek", domain="vesivek.fi", y_tunnus="0951383-0",
+         omistaja="Vesivek Oy — perheomisteinen, omat tehtaat Pirkkalassa ja Orimattilassa, asennus koko maassa"),
+    dict(slug="kattokeskus", nimi="Kattokeskus", domain="kattokeskus.fi", y_tunnus="3188733-7",
+         omistaja="Kattokeskus Suomi Oy — alueyhtiörakenne, toimintaa useissa maakunnissa"),
+    dict(slug="kattocenter", nimi="Suomen KattoCenter", domain="kattocenter.fi", y_tunnus="3146636-4",
+         omistaja="Suomen KattoCenter Oy — useita maakuntia Etelä-Suomessa, sisaryhtiö Pirkanmaalla"),
+    dict(slug="kattomestarit", nimi="Kattomestarit", domain="kattomestarit.fi", y_tunnus="2177663-3",
+         omistaja="Suomen Kattomestarit Oy — kiertävä asennusverkosto useissa kaupungeissa, yli 40 vuotta alalla"),
+    dict(slug="kerabit", nimi="Kerabit", domain="kerabit.fi", y_tunnus="2432892-4",
+         omistaja="KerabitPro Oy — osa Nordic Waterproofing -konsernia, urakointi ja kattohuolto valtakunnallisesti"),
+    dict(slug="ruukki-katot", nimi="Ruukki Katot", domain="ruukkikatot.fi", y_tunnus="2389450-2",
+         omistaja="Ruukki Construction Oy — valmistajan (SSAB) kattoremonttipalvelu kuluttajille"),
+]
+
+# TYONVALITYSPALVELUT (verified 24.7.2026, agent + PRH). Kuluttajakulma = tyonhakija.
+# EXCLUDED: VMP ja Smile Henkilostopalvelut (sulautuivat Eezyyn 2019), Go On (brandi
+# vaihtui Bondataksi — listattu Bondatana). Adeccolla ei omaa fi-juuridomainia
+# (adecco.com/fi-fi); Bondatan juuri on subdomain henkilostopalvelut.bondata.fi.
+COMPANIES["tyonvalityspalvelut"] = [
+    dict(slug="barona", nimi="Barona", domain="barona.fi", y_tunnus="2808477-9",
+         omistaja="Barona Oy — osa Bravedo-konsernia, Suomen suurin henkilöstöpalveluyhtiö"),
+    dict(slug="eezy", nimi="Eezy", domain="eezy.fi", y_tunnus="2854570-7",
+         omistaja="Eezy Oyj — pörssiyhtiö, syntyi VMP:n ja Smilen fuusiosta 2019, noin 60 toimipistettä"),
+    dict(slug="staffpoint", nimi="StaffPoint", domain="staffpoint.fi", y_tunnus="2492090-1",
+         omistaja="StaffPoint Oy — osa StaffPoint Holdingia, valtakunnallinen"),
+    dict(slug="academic-work", nimi="Academic Work", domain="academicwork.fi", y_tunnus="2756351-6",
+         omistaja="Academic Work Finland Oy — ruotsalainen konserni, nuorten ammattilaisten välitys"),
+    dict(slug="bolt-works", nimi="Bolt.Works", domain="bolt.works", y_tunnus="2041555-3",
+         omistaja="Bolt.Works Oy — suomalainen, rakennus-, teollisuus- ja logistiikka-alat"),
+    dict(slug="manpower", nimi="Manpower", domain="manpower.fi", y_tunnus="1091032-3",
+         omistaja="ManpowerGroup Oy — osa yhdysvaltalaista ManpowerGroupia"),
+    dict(slug="bondata", nimi="Bondata Henkilöstöpalvelut", domain="henkilostopalvelut.bondata.fi", y_tunnus="3293589-8",
+         omistaja="Bondata Group Oy (ent. Go On Group) — Korona Invest -omisteinen alueyhtiöverkosto"),
+    dict(slug="adecco", nimi="Adecco", domain="adecco.com", y_tunnus="1042464-0",
+         omistaja="Adecco Finland Oy — osa sveitsiläistä Adecco Groupia; suomenkielinen palvelu adecco.com/fi-fi"),
 ]
