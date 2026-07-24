@@ -1,0 +1,2279 @@
+{
+ "slug": "matkatoimistot",
+ "nimi": "Matkatoimistot",
+ "nav": "Matkatoimistot",
+ "h1": "Suomen paras matkatoimisto 2026",
+ "yksikko": "valtakunnallista matkatoimistoa",
+ "lead": "Pisteytimme {n} valtakunnallisesti palvelevaa matkatoimistoa ja matkanjärjestäjää {m} mittarilla. Tärkein kysymys: näkyvätkö matkojen hinnat ja ehdot ennen varausta, ja onnistuuko varaus verkossa?",
+ "meta_title": "Suomen paras matkatoimisto 2026 | matkatoimistot pisteytettyna | Suomen Paras",
+ "meta_desc": "10 valtakunnallista matkatoimistoa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Keitä listalla on?</b> Suomessa valmismatkoja ja matkapalveluja myyvät sekä suuret kansainväliset konsernit (Tjäreborg/Ving, Apollomatkat/DERTOUR) että kotimaiset yhtiöt (Aurinkomatkat/Finnair, Matkapojat, Lomalinja, Pohjolan Matka, Olympia, Aventura, IMT). Omistus on merkitty jokaiselle riville.",
+  "<b>Kuolleet brändit karsittu:</b> Detur Finland asetettiin konkurssiin lokakuussa 2022. Matkavekka-brändi kuoli Primera Travelin romahduksessa, ja domain on nykyään ulkopuolisen SEO-sivusto, jolla ei ole tekemistä matkatoimiston kanssa. Matka-Agentit on sama yhtiö kuin Matkapojat, joten se ei ole listalla erikseen.",
+  "<b>TUI ei ole listalla:</b> tui.fi estää automaattisen mittauksen kokonaan botti-estolla, myös selainpohjaisen haun. Emme pisteytä arvaamalla, joten TUI jätettiin pois sen sijaan että sille julkaistaisiin epäluotettava pistemäärä. Lisäämme sen heti, kun mittaus on mahdollinen."
+ ],
+ "yritykset": [
+  {
+   "slug": "olympia",
+   "nimi": "Olympia Kaukomatkat",
+   "domain": "olympia.fi",
+   "omistaja": "Oy Lentomatkatoimisto Olympia Flygresebyrå Ab — kaukomatkat, yli 70 vuotta alalla",
+   "y_tunnus": "2150319-2",
+   "rekisteroity": 2007,
+   "score": 86.7,
+   "pillars": {
+    "digitaalinen": 71.3,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 86.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla matkapaketeilla näkyvät hinnat euroissa (esim. 'alk. 2 480 €', 'alk. 8 580 €'). Ennakkomaksun ja loppumaksun määrät ilmoitetaan matkaohjelman yhteydessä."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla kerrotaan: 'Voit varata matkamme suoraan nettisivuiltamme.' Maksaminen onnistuu verkkopankilla, Visa/Mastercard/Amex-korteilla tai MobilePaylla. Myös puhelimitse, sähköpostilla ja chatilla varaaminen on mahdollista."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleiset matkapakettiehdot ja Olympian lisä- sekä erityisehdot (alkaen 1.7.2018) julkisesti saatavilla. Peruutusehdot ovat eritasoitetut (45 vrk, 21 vrk, 7 vrk, 3 vrk ennen matkaa) ja soveltuvat peruutuksen syystä riippumatta."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainitaan: 'Y-tunnus 2150319-2 ALV Rek' ja 'SMAL 21295, KUVI 8065/07/Mj' (matkanjärjestäjien rekisteröinti ja valvoja KKV). Valvovaksi viranomaiseksi mainitaan Kilpailu- ja kuluttajavirasto."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2150319-2 on näkyvissä yhteystiedot-sivulla. Yrityksen juridinen nimi on Oy Lentomatkatoimisto OLYMPIA Flygresebyrå Ab. Murunpolkussa sijaitseville toimistolle on myös mainittu postiosoite: Lautatarhankatu 8 B, 00580 Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan asiakaspalaute (4,8/5 matkanjohtajista) liittyen oppaiden palveluun, mutta erillisiä riippumattomia arvioita tai linkkejä ulkoisille arviointisivustoille ei ole näkyvissä. Asiakkaiden kokemukset ovat sivuilla, mutta niiden linkittäminen kolmannen osapuolen arviointisivustoille puuttuu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelin (09) 6962 770 on näkyvissä useissa paikoissa sivuilla, sekä tiedetään, että palvelu on saatavilla ma-pe klo 9.00-16.00."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet mainitaan: olympia@olympia.fi ja etunimi.sukunimi@olympia.fi (henkilökohtaiset yhteydenotot). Lisäksi passin kopion lähetys tapahtuu osoitteeseen passi@olympia.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan sivuilla sekä pääsivulla ('Avaa chat') että yhteystiedot-sivulla. Se on saatavilla ma-pe klo 9.00-16.00."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan: 'Palvelemme ma-pe klo 9.00-16.00.' Sulkemispäivät lueteltu: Uudenvuodenpäivä, loppiaispäivä, vappupäivä, helatorstai, juhannusaatto, 6.12., 24.-26.12. ja 31.12."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja 'Hyvä tietää matkoistamme' -sivu toimii FAQ-osiona, jossa käsitellään varaamista, maksuja, passia, viisumeja, rokotuksia, matkavakuutusta, matkatavaroiden turvallisuutta ja muita käytännön asioita. Erillisestä 'FAQ'-linkistä puuttuu, mutta sisältö on järjestelmällisesti organisoitu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 14690.856179999999,
+    "cls": 0.11030019433343304,
+    "tbt_ms": 1026
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Matkojen hinnat näkyvät selkeästi kaikille matkapaketeille euroissa, ennakkomaksujen määrät ilmoitetaan kunkin matkan kohdalla",
+    "Verkkosivuilla on kattavat matkaehdot ja peruutusehdot julkisesti saatavilla, sekä laaja \"Hyvä tietää\" -osio käytännöllisillä ohjeilla",
+    "Varaaminen on mahdollista suoraan verkkosivuilla verkkopankilla tai korteilla, sekä puhelimitse tai chatissa kaikille lukiville"
+   ],
+   "kehityskohteet": [
+    "Riippumattomia arviota/arvosteluja ei löydy julkisesti sivuilla; asiakaspalautteet mainitaan vain viitteellisesti (4,8/5 matkanjohtajista) ilman linkkiä kuntaan palautejärjestelmään",
+    "Mobiilisovellusta ei ole saatavilla, vaikka OmaLoma-portaali on olemassa asiakkaille varausten hallintaan",
+    "Y-tunnusta ja ALV-rekisteröintitietoja ei ole helposti näkyvissä kotisivuilla, vaan löytyvät vain yhteystiedot-sivulla pienellä fontilla"
+   ],
+   "yhteenveto": "Olympia Kaukomatkatoimisto on 74 vuotta toiminut suomalainen perheyritys, joka järjestää kaukomatka- ja kiertomatkoja pienryhmissä (15-25 henkilöä). Heidän sivuillaan matkojen hinnat ovat läpinäkyvästi esillä, varaaminen onnistuu verkossa tai muilla tavoin, ja matkaehdot sekä peruutusehdot löytyvät kattavasti. Yritys on rekisteröity KKV:n valvonnan alaiseksi (SMAL 21295, KUVI 8065/07/Mj) ja painottaa matkapaketti-lakisääteisen vakuuden olevan voimassa.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SMAL-jäsenyys (Suomen matkailualan liitto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Yhteystiedot-sivulla yritystiedoissa mainitaan \"SMAL 21295, KUVI 8065/07/Mj\"."
+    }
+   ]
+  },
+  {
+   "slug": "tjareborg",
+   "nimi": "Tjäreborg",
+   "domain": "tjareborg.fi",
+   "omistaja": "Oy Tjäreborg Ab — osa Nordic Leisure Travel Groupia (Ving)",
+   "y_tunnus": "0114101-6",
+   "rekisteroity": 1978,
+   "score": 83.4,
+   "pillars": {
+    "digitaalinen": 76.4,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 82.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy hinnat: 'Varaa talviloma nyt alk. 570,-', 'Lomaviikko alk. 300,-', 'Sisilia 5 pv alk. 735,-', 'Costa del Sol 5 pv alk. 525,-'. Kaupunkilomien sivulla hinnat näkyvät selkeästi: London 3 pv 395,-, Rooma 3 pv 415,-, Pariisi 3 pv 435,-, Barcelona 3 pv 465,-, New York 4 pv 865,-, Prag 3 pv 355,-, Lissabon 4 pv 495,-, Riika 3 pv 245,-, Budapest 3 pv 395,-."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy 'Varaa nyt' -painikkeet kaupunkilomapaketteille. Etusivulla linkit 'Lomahaku' ja 'Maksa matka' osoittavat online-varausjärjestelmään. Kaupunkilomien sivulla teksti: 'Varaa nyt – maksa osissa joustavilla maksuvaihtoehdoilla'."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkaehdot-sivu (https://www.tjareborg.fi/matkaehdot) sisältää täydelliset 'Yleiset matkapakettiehdot sekä Tjäreborgin lisä- ja erityisehdot', sisällysluettelo 25 osalla, PDF-versiot saatavilla. Ehdoissa mainitaan EU 2015/2302 direktiivi ja laki 901/2017."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaupunkilomien sivulla teksti: 'Lomamatkallasi on aina myös matkapakettilain turva. Se tarkoittaa monia oikeuksia sinulle kuluttajana sekä muun muassa sitä, että maksamasi rahat on suojattu Tjäreborgin Kilpailu- ja kuluttajavirastolle asettamalla vakuudella.' Matkaehdot-sivu mainitsee matkapaketteja ja yhdistettyjä matkajärjestelyjä koskevan direktiivin."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer mainitsee 'Oy Tjäreborg Ab' mutta Y-tunnusta ei näy. Haettu sivut: /yritystiedot, /yrityksesta, /tietoa-yrityksesta, /henkilotietokayanto, /tietosuoja, /yritystiedot – kaikki palautuu 404-virheen."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla teksti: 'Tjäreborgilla on tyytyväisimmät asiakkaat EPSI Ratingin vuoden 2026 matkatoimistotutkimuksen mukaan' ja maininta '*EPSI Rating on riippumaton ja voittoa tavoittelematon tutkimusorganisaatio.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 09 12371 näkyy asiakaspalvelu-sivulla ja 404-virhesivulla. Asiakaspalvelu-sivulla: 'Maanantai-perjantai: klo 9-18, Lauantai: klo 9-15' sekä 'Jos et Lomahausta löytänyt sopivaa matkaa ja tarvitset apua soita meille p. 09 12371 (pvm/mpm)'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@tjareborg.fi näkyy 404-virhesivulla: 'olisimme kiitollisia jos kertoisit siitä meille sähköpostilla: info@tjareborg.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla selkeästi näkyvät aukioloajat: 'Maanantai-perjantai: klo 9-18, Lauantai: klo 9-15' ja teksti 'Tavoitettavissa 24 h' etusivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla näkyy 'FAQ' otsikko ja sen alla kysymysosio. Vastuullinen-matkailu-sivulla mainitaan 'Usein kysyttyä' (Frequently asked) linkki."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun ja useiden sivujen footerissa: 'Lataa Tjäreborg-sovellus! / Tjäreborg-sovellus App Storessa / Tjäreborg-sovellus Google Playssa' sekä asiakaspalvelu-sivulla: 'Yhteystiedot löytyvät myös... sovelluksestamme.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 4761.9225,
+    "cls": 0,
+    "tbt_ms": 1776
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja valikoima matkakohteita noin 60 maassa ja monipuoliset matkapaketit",
+    "Matkapaketit saatavilla verkossa helpoin varausjärjestelmällä ja selkeillä hinnoilla",
+    "Kattava asiakaspalvelu 24/7 ja vakuusturva matkapakettilain nojalla"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, vain yritysnimi \"Oy Tjäreborg Ab\" mainitaan",
+    "Chat-palvelua ei ole tarjolla, asiakasyhteys vain puhelimitse ja sähköpostitse",
+    "Useiden sivujen puuttuminen (yritystiedot, henkilötietokäytäntö, FAQ) palauttaa 404-virheitä"
+   ],
+   "yhteenveto": "Tjäreborg on Suomen suurimpia matkanjärjestäjiä, joka tarjoaa pakettimatka- ja lentopalveluja lähes 60 maahan. Verkkosivusto esittelee hinnat selkeästi, toimii online-varausjärjestelmällä ja julkaisee kattavat matkapakettiehdot. Palvelun turvallisuus on dokumentoitu matkapakettilain vakuuden kautta Kilpailu- ja kuluttavirastoon. Pääasialliset kehityskohteet liittyvät puuttuviin tietoihin (Y-tunnus) ja rajoittuneisiin yhteydenottovaihtoehdoihin."
+  },
+  {
+   "slug": "imt",
+   "nimi": "IMT (Ikaalisten Matkatoimisto)",
+   "domain": "imt.fi",
+   "omistaja": "Ikaalisten Matkatoimisto Oy — brändi nykyään IMT, valtakunnallinen verkkomyynti",
+   "y_tunnus": "0838997-0",
+   "rekisteroity": 1991,
+   "score": 81.2,
+   "pillars": {
+    "digitaalinen": 64.4,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun matkahaulla näkyvät hinnat jokaisen kohteen kohdalla (esim. 'Alk. 247 €' Pärnulle, 'Alk. 68 €' Tallinnalle). FAQ-osion vastaus 'Kaikki IMT:n matkat ovat varattavissa verkkosivuillamme. Näet päivän hinnat ja saatavuudet suoraan verkkopalvelustamme'."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu ja FAQ osoittavat, että 'Kaikki IMT:n matkat ovat varattavissa verkkosivuillamme'. Maksuvaihtoehdot verkkokaupassaan sisältävät pankkeja, luottokortteja, Mobile Payta ja Walley-osamaksua. Varaus vahvistuu maksulinkin kautta."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleiset matkapakettiehdot ovat ladattavissa verkkosivuilta täydessä pituudessaan (42 000+ merkkiä). Sivulla mainitaan myös 'Lisä- ja erityisehdot' sekä 'Kanta-asiakasohjelman ehdot', jotka ovat saatavilla."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkapakettiehdoissa sanotaan: 'Ikaalisten Matkatoimisto Oy on antanut vakuuden Suomen Kuluttajavirastolle.' Vakuus koskee yli 24 tuntia kestäviä, yksityiseen tarkoitukseen hankittuja matkapaketteja."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy verkkosivuilla. Tietosuojaselosteessa mainita yrityksen nimi (Ikaalisten Matkatoimisto Oy) ja osoite (Itsenäisyydenkatu 7, 39500 Ikaalinen), mutta Y-tunnus puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei ole sektion asiakkaiden arvioille eikä arvosteluja julkaista. Sivuilla on linkki 'Anna palautetta' mutta palautteet eivät ole julkisia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 03-45800 näkyy etusivun yhteystiedoissa. Palvelun aukioloajat ma-pe klo 10:00-15:00, kiireellisissä tapauksissa päivystys numerossa +358 600 301 220."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite matkat@imt.fi mainitaan FAQ:ssa ('Varausjärjestelmämme lähettää aina matkainfon automaattisesti... varaajalle sähköpostiin'). Lisäksi johtaja Esa Talonen on tavoitettavissa osoitteessa esa.talonen@imt.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan useaan otteeseen verkkosivuilla. 'Löydät Oma loma -sovelluksestamme chatin, joka palvelee arkipäivisin klo 10-15.' Chat toteutetaan Crisp-palvelun kautta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvät yhteystiedoissa: 'ma–pe klo 10:00–15:00'. Kiireellisissä tapauksissa päivystys 24/7 numerossa +358 600 301 220."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja UKK-osio (30 000+ merkkiä) saatavilla osoitteessa imt.fi/usein-kysytyt-kysymykset. Sisältää osiot matkan varaamisesta, maksuvaihtoehdoista, kanta-asiakkuudesta, matkustusasiakirjoista ja kuljetuksista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'IMT Oma Loma' -sovellus mainitaan useasti verkkosivuilla. Sovellus on kanta-asiakkaille saatavilla sovelluskaupasta, sisältää matkaoppaan, kartat ja chat-palvelun sekä mahdollisuuden lisätä maksuja matkan aikana."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 80,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 27945.42552000001,
+    "cls": 0,
+    "tbt_ms": 7851.310500000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Matkojen hinnat ja saatavuudet näkyvät heti verkkohaussa ilman kirjautumista",
+    "Verkossa varaaminen on yksinkertainen ja maksuvaihtoehdot monipuoliset (pankit, kortit, osamaksu)",
+    "Laajat matkapakettiehdot ja tietosuojaseloste helposti saatavilla"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, kunkin asiakkaan täytyy etsiä se rekisteristä",
+    "Riippumattomia arvioita tai asiakasarvosteluja ei julkaista verkkosivuilla",
+    "Asiakaspalvelun aukioloajat rajalliset (ma-pe 10:00-15:00), ei 24/7-tukea normaalin varausprosessin aikana"
+   ],
+   "yhteenveto": "IMT (Ikaalisten Matkatoimisto) on matkapalveluja tarjoava yritys, joka on uudestaan brändännyt itsensä IMT.fi:ksi. Verkkosivut tarjoavat helppokäyttöisen matkahaun ja varausjärjestelmän, joista hinnat, saatavuudet ja peruutusmahdollisuudet (24h riskitön varaus) ovat julkisia. Matkapakettilaista määrätyt ehdot ja vakuus Suomen Kuluttajavirastolle ovat dokumentoitu. Sivuilla on kattava FAQ-osio ja mobiilisovellus asiakaspalvelulle.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Travelife-sertifikaatti",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla imt.fi/vastuullinen-matkailu todetaan: \"IMT:lle on myönnetty kansainvälinen Travelife-sertifikaatti kestävän matkailun edistämisestä.\""
+    }
+   ]
+  },
+  {
+   "slug": "aurinkomatkat",
+   "nimi": "Aurinkomatkat",
+   "domain": "aurinkomatkat.fi",
+   "omistaja": "Oy Aurinkomatkat - Suntours Ltd Ab — Finnair-konserni, valmismatkojen markkinajohtaja",
+   "y_tunnus": "0200991-4",
+   "rekisteroity": 1978,
+   "score": 77.6,
+   "pillars": {
+    "digitaalinen": 72.4,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy matkapakettien hinnat eurossa (€673, €738, €975, €1388, €1464, €1551 alkaen per aikuinen) sekä kuvakortit saatavilla olevista äkkilähdöistä."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on kaksi hakuformaattia (Aurinkomatkat-paketti ja Kaupunkilomat), joissa voi valita lähtökaupungin, lomakohteen, matkustajamäärän ja päivämäärät, sitten painaa 'Etsi matkaa'. Varaamisen voi tehdä verkossa ilman puhelinta."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.aurinkomatkat.fi/matkaehdot on erillinen osio, joka listaa erilaisia matkatyyppejä ja niiden ehdot: Yleiset matkapakettiehdot, Aurinkomatka-paketin erityisehdot, Kaupunkiloman erityisehdot, Pelkän lennon erityisehdot, Finnair Plus -ehdot, Retkien ja aktiviteettien erityisehdot, Autonvuokrausehdot ja Vakuudet."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkaehdot-sivulla mainitaan 'Vakuudet'-osio erillisesti, mutta sisältö ei avautunut staattisessa haulla. Sivustolla mainitaan Matkavakuutus lisäpalveluna, mutta täydellistä tietoa matkanjärjestäjän vakuudesta tai KKV-rekisteröinnistä ei löytynyt."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löytynyt mistään julkisista sivuista (etusivu, matkaehdot, vastuullinen matkailu, hyva-tietaa). Yritystiedot-linkki mainitaan sivuston footerissa, mutta se ei ole saatavilla navigoitavaksi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointipalveluihin tai kolmansien osapuolten arvioihin, kuten Trustpilot tai muihin vertailusiaistoihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 09 818 1101 (pvm/ppm) näkyy sivuston eri paikoissa, esim. 404-sivulla ja asiakaspalvelu-viitteissä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta asiakaspalvelulle ei löytynyt helposti. Yhteydenotto ohjataan chat-palvelun tai puhelimen kautta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston koodissa löytyi chat-palvelu konfiguraatio ('Travel Assistant' chat), joka tarjoaa asiakastukea verkossa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan '24/7 turvana matkallasi - Olemme aina apunasi ja turvanasi maailmalla'. Ei ole listattu spesifisiä aukioloaikoja, mutta 24/7 saatavuus vakuutetaan."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.aurinkomatkat.fi/hyva-tietaa on 'Usein kysyttyä' -osio sekä muita FAQ-maisia sisältöjä, kuten 'Hintaan sisältyy', 'Matkan varaaminen', 'Majoitus', 'Lennot' ja 'Maksutavat'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Aurinkomatkat-sovellus' ja kuvataan: 'Maksuttomasta sovelluksesta löydät kaiken tarvittavan ennen lomaa ja loman aikana.' Sovellus on saatavilla mutta tarkka latauslinkki ei löytynyt staattisesta sisällöstä."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 11575.0385,
+    "cls": 0.005576100194930438,
+    "tbt_ms": 2740.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja saatavilla olevat matkat näkyvät välittömästi etusivulla hakutuloksilla ja tarjouskorteilla",
+    "Verkkovaraus toimii suoraan ilman yhteydenottoa; matkaa voi muuttaa ja peruuttaa kirjautumalla Omalomaan",
+    "Laaja tietosisältö matkaehdoista, vakuuksista ja lisäpalveluista järjestelmällisesti jaoteltuna"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole esillä julkisesti sivustolla, vaikka se on pakollinen tieto matkanjärjestäjille",
+    "Sähköpostiosoite asiakaspalvelulle ei ole helposti löydettävissä; yhteydenotto vaatii chat-palvelun tai puhelimen käyttöä",
+    "Vakuusosion sisältö ei avautunut staattisessa haulla; tarkka vakuusinfo ja KKV-rekisteröinti jäivät epäselväksi"
+   ],
+   "yhteenveto": "Aurinkomatkat on suomalainen matkanjärjestäjä, joka tarjoaa ulkomaanmatkoja ja lomapalveluita. Sivusto on käyttäjäystävällinen, hinnat ja varausmahdollisuus ovat näkyvästi esillä etusivulla, ja paljon informaatiota on saatavilla matkaehdoista ja lisäpalveluista. Yritystiedot kuten Y-tunnus puuttuvat, ja täydellisiä tietoja vakuuksista ja rekisteröinnistä ei helposti löydä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Etusivun alatunnisteessa Avainlippu-logo ja linkki avainlippu.fi-sivustolle."
+    }
+   ]
+  },
+  {
+   "slug": "pohjolan-matka",
+   "nimi": "Pohjolan Matka",
+   "domain": "pohjolanmatka.fi",
+   "omistaja": "Pohjolan Turistiauto Oy — 12 toimipaikkaa eri puolilla Suomea",
+   "y_tunnus": "0179285-5",
+   "rekisteroity": 1978,
+   "score": 77.1,
+   "pillars": {
+    "digitaalinen": 58.2,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "18/100",
+       "paino": 40,
+       "pisteet": 18,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "76/100",
+       "paino": 30,
+       "pisteet": 76,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkapaketit-sivulla näkyvät hinnat kaikille paketeille alkaen-muodossa (esim. 'Alk. 14,60€', 'Alk. 698€'). Liput ja hinnat -sivulla listataan käteishinnat reiteittäin ja Matkahuollon hinnat."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkapaketit-sivulla kaikilla paketeilla on 'TUTUSTU'-nappi, jonka kautta voi katsoa ja varata matkaa ilman yhteydenottopyyntöä. Verkkokauppa käytössä Matkahuollon järjestelmän kautta."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkapakettiehdot-sivulla julkisesti näkyvät kaikki ehdot (soveltamisala, hinnanmuutokset, peruutusehdot, matkanmuutokset yms.) sekä peruutusmaksut porrastetusti (45 vrk ennen -> vain toimistokulut, 3 vrk ennen -> 95% hinnasta)."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkapakettiehdot-sivulla mainitaan: 'Pohjolan Matka on Kilpailu- ja kuluttajavirastoon rekisteröity ja matkapakettilain mukaisen vakuuden asettanut virallinen matkanjärjestäjä (rekisterinumero 3631/00/Mj)'. Henkilöliikenne-sivulla: 'Yhtiömme löytyy Kilpailu- ja kuluttajaviraston ylläpitämästä matkapalveluyhdistelmien tarjoajien vakuusrekisteristä rek. no 3631/00/MjMv.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaseloste-sivulla mainitaan 'Pohjolan Matka/Pohjolan Turistiauto Oy' rekisterinpitäjänä osoitteella Yrittäjäntie 8, 74130 Iisalmi, mutta varsinaista Y-tunnusta (numeroa) ei ole julkisesti näkyvissä sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä itsenäisiin arviointilähteisiin (kuten Google-arviot, Trustpilot, TripAdvisor) eikä asiakaspalautteiden keräämisen ja näyttämisen järjestelmää."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston joka sivulla näkyvät puhelinnumerot: Matkamyynti 0201 303 303, Tilausajomyynti 0201 303 313, Ryhmämyynti 0201 303 304, Aikataulut 0200 4000. Lisäksi asiakaspäivystys 0600 14990 ja neuvonta 020 690 152."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyvät sähköpostiosoitteet myynti@pohjolanmatka.fi (Yhteystiedot-sivulla), tilausajot@pohjolanmatka.fi, ryhmat@pohjolanmatka.fi ja info@pohjolanmatka.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita chat-palvelua. Asiakaspalvelu toteutetaan puhelimella, sähköpostilla ja toimistoissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston lähes jokaisella sivulla näkyvät aukioloajat: 'Matkamyyntimme asiakaspalvelu palvelee puhelimitse ma-pe klo 9-16 ja tilausajomyyntimme ma-pe klo 8-16. Toimistomme ovat suljettuina uudenvuoden ja juhannuksen aattoina.' Matkahuollon aikataulupalvelu avoinna ma-pe 8-18, la 10-18, su 10-20."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'UKK – Usein kysytyt kysymykset' -sivu löytyy navigaatiosta, jossa on 40+ kysymystä kolmella kategorialla: Bussi- ja laivapohjaiset matkapaketit, Linjaliikenne ja FAQ-vastaukset käytännön kysymyksiin."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan useaan otteeseen 'Reitit ja liput' -mobiilisovellus sekä Matkahuollon sovellus, joista voi ostaa lippuja ja varata matkapaketista reittejä."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 18,
+    "accessibility": 76,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 30331.267944999992,
+    "cls": 0.3082229192575414,
+    "tbt_ms": 1768.0389899999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Matkapaketit ja hinnat selkeästi näkyvissä omalla kalentari-UI:lla eri matkakohteille",
+    "Laaja informaatio matkaehdoista, peruutusehdoista ja matkanvälityspalvelusta julkisesti saatavilla",
+    "Monipuoliset yhteydenottokanavat: puhelin, sähköposti ja useita toimipisteitä eri paikkakunnilla"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei näkyvissä sivustolla, vain yritysnimi (Pohjolan Matka/Pohjolan Turistiauto Oy)",
+    "Ei itsenäisiä arviota tai asiakaspalautteiden näkyviä järjestelmiä sivustolla",
+    "Chat-palvelu puuttuu asiakaspalvelun yhteydenpitokeinoista"
+   ],
+   "yhteenveto": "Pohjolan Matka on suuri suomalainen matkanjärjestäjä ja tilausajo-yhtiö, joka tarjoaa laajan valikoiman matkapalveluita bussilla, risteilyitä ja hotelli-matkapaketteja. Sivusto julkaisee matkapakettien hinnat avoimesti, mahdollistaa verkkovarauksen ja sisältää perusteellisen tiedon matkapakettiehdoista sekä peruutusehdoista. Yhtiö on rekisteröity Kilpailu- ja kuluttajaviraston matkapalveluiden vakuusrekisteriin (rek. no 3631/00/MjMv), mikä osoittaa lain mukaisen vakuuden. Asiakaspalvelulle on saatavilla useita puhelinnumeroita ja sähköpostiosoitteita sekä kymmeniä toimipisteitä eri puolella Suomea.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 14001",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla pohjolanmatka.fi/vastuullisuus todetaan: \"Saamamme ISO 14001 -ympäristösertifikaatti ja Sustainable Travel Finland -merkki ovat tärkeä osa vastuullisuuttamme.\""
+    }
+   ]
+  },
+  {
+   "slug": "apollomatkat",
+   "nimi": "Apollomatkat",
+   "domain": "apollomatkat.fi",
+   "omistaja": "DERTOUR Nordic AB, filial i Finland — sivuliike, REWE-konserni (DERTOUR)",
+   "y_tunnus": "2322685-4",
+   "rekisteroity": 2010,
+   "score": 74.3,
+   "pillars": {
+    "digitaalinen": 76.0,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "49/100",
+       "paino": 40,
+       "pisteet": 49,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat esillä etusivulla monissa muodoissa – per hlö alkaen 445 €, 382 €, 486 € jne. riippuen kohteesta ja ajanjaksosta."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät painikkeet 'Hae', 'Varmista paikkasi nyt', 'Varaa omasi' ja 'Varaa talven lomamatka nyt' osoittavat verkkovarausprosessia."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Matkaehdot' linkki näkyy navigaatiossa ja alatunnisteessa. Sivun sisältöä ei voitu ladata SPA-arkkitehtuurin ja Cloudflare-suojauksen vuoksi – merkitty 'osittain'."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Pakettimatkalaki turvanasi koko matkan ajan' selvästi yhdessä pääviestissä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy etusivulla eikä saatavilla olevissa osissa. Yritystiedot mainitsevat vain 'Olemme osa REWE-konsernia ja sen DERTOUR Group -divisioonaa'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumatonta arviota tai ulkoista review-palvelun mainintaa ei löytynyt."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 09 6154 7400 näkyy mainoksessa 'Soita matka-asiantuntijoillemme' sekä alatunnisteessa 'OTA YHTEYTTÄ' -osiossa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole näkyvissä etusivulla. Asiakaspalvelu mainitaan vain puhelimitse (09 6154 7400) ja chatilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainitaan alatunnisteessa: 'Chat Huomenna: 10.00-16.00' sekä 'Asiakaspalveluun' linkin yhteydessä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näkyy alatunnisteessa – Puhelin: Huomenna 09.00-16.00, Chat: Huomenna 10.00-16.00."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osio tai kysymys-vastaus-sivua ei näy navigaatiossa tai etusivulla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'APOLLO APP' mainitaan alatunnisteessa teksti 'Lataa ja katso vinkit' kanssa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 49,
+    "accessibility": 88,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3413.6690099999996,
+    "cls": 0.004757228374784008,
+    "tbt_ms": 2199.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja valinnat näkyvät heti pääsivulla ilman login-vaatimusta",
+    "Verkkovaru-järjestelmä toimii sujuvasti ja matkakohteiden haku on intuitiivinen",
+    "Kattava ohjausmateriaalin kirjasto (Matkaehdot, Hyvä tietää, Passi ja viisumi, Matkavakuutus) helposti löydettävissä"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ja tarkat yritystiedot puuttuvat – ei näkyvillä verkkosivuilla",
+    "Sähköpostiosoitetta ei ole esillä; asiakaspalvelu saatavilla vain puhelimitse ja chatilla",
+    "FAQ-osio puuttuu – asiakkaat joutuvat ottamaan yhteyttä kysymysten takia"
+   ],
+   "yhteenveto": "Apollomatkat on osa REWE-konsernia ja sen DERTOUR Group -divisioonaa, joka on Keski-Euroopan suurin matkailualan konserni. Verkkopalvelun vahvuus on heti näkyvät matkahinnat, intuitiivinen haku ja selkeä varausprosessi. Pakettimatkalain mukainen turva on mainittu. Heikkouksia ovat puuttuva Y-tunnus, sähköpostiosoitteen puuttuminen ja no FAQ-osio.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Travelife Certified",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla apollomatkat.fi/apollosta/vastuullinen-matkailu/sertifikaatti todetaan: \"Huhtikuussa 2026 Apollo sai hyvät uutiset ja sai Travelife-sertifikaatin neljännen kerran\" ja \"Olemme korkeimmalla tasolla – Travelife Certified\"; sivulla linkki Travelife-sertifikaatti-PDF:ään (DERTOUR Nordic AB)."
+    }
+   ]
+  },
+  {
+   "slug": "matkapojat",
+   "nimi": "Matkapojat",
+   "domain": "matkapojat.fi",
+   "omistaja": "Matkapojat Oy — omistaa myös Matka-Agentit-brändin; risteilyt ja lähialuematkat",
+   "y_tunnus": "0975148-4",
+   "rekisteroity": 1994,
+   "score": 73.0,
+   "pillars": {
+    "digitaalinen": 73.6,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkojen hinnat näkyvät selkeästi sivustolla. Esimerkiksi hakulomakkeessa näkyvät tarjoukset (50 €/hlö Viking Line päiväristeilylle, 56€ B-hytille Victorialla), ja hintatiedot löytyvät tuotesivuilta."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkovakaus on mahdollinen hakuformin kautta. Sivulla näkyy haku-lomake, jossa valitaan matkatyyppi, kohde, matkustajien määrä ja lähtöpäivä. Lomakkeen lopussa on 'HAE' -painike varauksen aloittamiseksi."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa näkyy linkki 'Matkaehdot ja ikäsäännöt' ja 'Usein kysyttyä', mutta kummatkin sivut palauttavat 404-virheen. Ehdot eivät ole julkisesti saatavilla sivustolla."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritysinfosivulla sanotaan, että Matkapojat on 'Suomen suurin laiva- ja lähialuematkojen myyjä' ja toimii 50 vuoden kokemuksella. KuVi-tunnus 4808/04/MjMvUSMAL-tunnus 19395 ja KKV-rekisteröintitunnus 19395 mainitaan, mutta matkanjärjestäjän vakuuden osalta ei ole erityistä mainintaa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1842916-3 näkyy sekä yritysinfosivulla että yhteystietosivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä linkitystä riippumattomiin arviolähteisiin, kuten Trustpilotiin tai muihin arviointi-palveluihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 010 2323 200 näkyy sekä etusivulla että yhteystietosivulla. Aukioloajat ma-pe 9-16."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite myyntipalvelu@matkapojat.fi näkyy monella sivulla, myös yhteystietosivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainittu sivustolla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat ma-pe 9-16 (ulkomailta +358 10 2323 200) näkyvät yhteystietosivulla. Ryhmämatkoille erillinen numero 010 2323 440, ma-pe 8-16."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä' -osio mainitaan footerissa, mutta sivu palauttaa 404-virheen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 80,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 14405.311,
+    "cls": 0,
+    "tbt_ms": 36
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja valikoima matkatuotteita yhdessä paikassa, risteilyt, kaupunkilomat, kiertomatkat ja kaukomatkat",
+    "Hinnat selkeästi näkyvissä jo hakutuloksissa ja tuotesivuilla, verkkovakaus varaus nopeasti toteutettavissa",
+    "Kattavat yhteystiedot: puhelinnumero, sähköpostiosoite, avoinajat ja yritystiedot helposti löydettävissä"
+   ],
+   "kehityskohteet": [
+    "Matkaehdot ja peruutusehdot merkityt footerissa mutta sivut eivät ole saatavilla (404-virhe)",
+    "Usein kysyttyä -osio mainitaan mutta sivu ei ole käytettävissä",
+    "Matkanjärjestäjän vakuuden tai KKV-rekisteröinnin merkinnän puuttuminen helposti näkyviltä paikoilta"
+   ],
+   "yhteenveto": "Matkapojat on Suomen suurin laiva- ja lähialuematkojen myyjä, joka tarjoaa laajan valikoiman matkatuotteita yhdessä paikassa. Sivustolla matkojen hinnat ovat selkeästi näkyvissä ja verkkovaraus on helppo toteuttaa hakuformin kautta. Yhteystiedot ja aukioloajat löytyvät helposti, mutta matkaehdot ja peruutusehdot eivät ole verkon kautta saatavilla.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SMAL-jäsenyys (Suomen matkailualan liitto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Yritysinfo-sivun yritystiedoissa mainitaan \"SMAL-tunnus 19395\" (sekä KuVi 4808/04/Mj)."
+    }
+   ]
+  },
+  {
+   "slug": "lomalinja",
+   "nimi": "Lomalinja",
+   "domain": "lomalinja.fi",
+   "omistaja": "Lomalinja Oy Holiday Tours Ltd — kierto- ja ryhmämatkat valtakunnallisesti",
+   "y_tunnus": "0205870-8",
+   "rekisteroity": 1978,
+   "score": 66.5,
+   "pillars": {
+    "digitaalinen": 69.4,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 63.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan, että 'Jokaisen matkan matkakohtaiset maksu- ja peruutusehdot on kerrottu matkan sivuilla Matkan hinta ja lisätiedot -osiossa', mikä tarkoittaa hintojen olevan näkyvillä matkakohtaisilla sivuilla, mutta pääsivulla tai matkakalenterissa niitä ei näy."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla todetaan 'Kaikki Lomalinjan oman tuotannon matkat ovat varattavissa verkkosivuillamme', ja FAQ-osiossa kuvataan verkkomaksutavat (verkkopankki, luottokortti, mobiilimaksut)."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkaehdot ovat saatavilla PDF-muodossa osoitteessa /yritysesittely/matkaehdot/. Sivulla mainitaan, että ehdot ovat yhdistelmä Suomen matkailualan liiton ja Kilpailu- ja kuluttajaviraston (KKV) neuvottelemia yleisiä matkapakettiehtoja sekä Lomalinjan lisäehtoja."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastuullisuus-sivulla mainitaan, että noudatetaan Kilpailu- ja kuluttajaviraston neuvottelemia yleisiä matkapakettiehtoja, sekä viittaus kuluttajariitalautakuntaan ja kuluttajaneuvontaan. Kuitenkaan selkeää viittausta KKV:n matkavakuusrekisteriin tai vakuusvaatimuksiin ei ole saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy millään käytetyillä verkkosivuilla. Yhtiön nimi on Lomalinja Oy, mutta rekisteritunnus puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla näkyy runsaasti asiakaspalautteet (asiakaskokemuksia), mutta mitään linkkiä riippumattomiin arviointilähteisiin, kuten Google Reviews, TripAdvisor tai muihin kolmannen osapuolen arviosteita ei ole."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät selkeästi sivuston eri paikoissa: Tampere 010 289 8100, Helsinki 010 289 8102 ja asiakaspalvelunumero 040 6797 110 jo tehdyille varauksille."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite lomalinja@lomalinja.fi näkyy verkkosivuilla useissa paikoissa, sekä henkilökunnan yksittäiset sähköpostiosoitteet muodossa etunimi.sukunimi@lomalinja.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei ole mainittu millään verkkosivun osalla. Yhteydenpito tapahtuu puhelimitse (klo 10-16 ma-pe), sähköpostitse tai yhteydenottolomakkeella."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinpalvelun aukioloajat mainitaan selkeästi: maanantai – perjantai klo 10.00 – 16.00. Huomautetaan, että toimistoissa tapaamiset vain ajanvarauksella."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla on 'Usein kysyttyä' -osio, joka sisältää kysymyksiä matkavarauksen tekemisestä, tarvittavista tiedoista, maksutavoista ja muista yleisistä asioista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omaa mobiilisovellusta ei ole mainittu sivuilla. Varaukset tehdään verkkosivun kautta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 86,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 5057.5075,
+    "cls": 9.037497616816896e-05,
+    "tbt_ms": 1703
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laajat matkatarjoukset kuvauksineen ja asiantuntija-oppaiden esittelyineen",
+    "Selkeä palveluhinnasto, matkaehdot ja vakuutustieto helposti saatavilla PDF-muodossa",
+    "Kattava usein kysyttyjen kysymysten osio booking- ja maksutavoista sekä runsaat asiakaspalautteet"
+   ],
+   "kehityskohteet": [
+    "Matkojen hinnat eivät näy etusivulla tai matkakalenterissa vaan vaativat klikkaamista yksittäisiin matkoihin",
+    "Y-tunnus puuttuu verkkosivuilta, eikä matkavakuus tai KKV-rekisteri ole eksplisiittisesti mainittu",
+    "Ei omaa mobiilisovellusta eikä linkkejä riippumattomiin arviointilähteisiin"
+   ],
+   "yhteenveto": "Lomalinja on vuodesta 1977 toimiva matkatoimisto, joka tarjoaa noin 250 teemamatkaa vuosittain suomenkielisten asiantuntija-oppaiden johdolla. Verkkosivusto on hyvin organisoitu, matkaehdot ja palveluhinnasto ovat saatavilla, ja asiakkaat voivat varata matkan verkossa itsenäisesti. Hinnoittelun näkyvyys vaatii kuitenkin yksittäisten matkojen sivuille klikkaamista, ja yhtiön tunnustieto sekä virallinen matkavakuustieto puuttuvat."
+  },
+  {
+   "slug": "aventura",
+   "nimi": "Aventura",
+   "domain": "aventura.fi",
+   "omistaja": "Matkatoimisto Aventura Oy — räätälöidyt kauko- ja kiertomatkat",
+   "y_tunnus": "1654907-3",
+   "rekisteroity": 2001,
+   "score": 62.5,
+   "pillars": {
+    "digitaalinen": 77.8,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 53.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkakuvauksissa esiintyvät vain päivämäärät ja kohteiden kuvaukset, hintoja ei näy. Sivustolla kehottaa 'Pyydä matkatarjous' -lomakkeella ottamaan yhteyttä hintatarjouksista."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Pyydä matkatarjous' -toiminto, mutta suoraa online-varausta ei näy. Varaus näyttää vaativan yhteydenottoa tai tarjouspyynnön lähettämistä."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyvät linkit 'Yleiset matkapakettiehdot' ja 'Aventuran lisä- ja erityismatkaehdot', mutta linkkien kohdalla olevat sivut palauttavat HTTP 404 -virheen eikä ehtoja voida lukea."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee 'Aventura on 100 % suomalainen matkanjärjestäjä, jolla on korkein luottoluokitus AAA', mutta KKV:n matkanjärjestäjärekisteriin tai matkaturvaksi osaan liittyvää tietoa ei ole julkisesti saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy sivustolla. Osoite on Lönnrotinkatu 9, 00120 Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 0207 435 100 on näkyvillä sivustolla (asiakaspalvelun puhelumaksu 8,4 snt/min)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@aventura.fi on näkyvillä sivustolla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimiston aukioloajat näkyvät: ma-pe klo 9-17."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyy 'Usein kysyttyä' -osion linkki, mutta sivu palauttaa HTTP 404 -virheen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10639.39,
+    "cls": 0.06379534539344986,
+    "tbt_ms": 509
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja matkatarjonta - 122 itsenäiseen valtioon kiertomatkoja suomalaisilla matkanjohtajilla",
+    "Kokeneet asiantuntijat - yli 25 vuoden kokemus kaukomatkajärjestämisestä näkyy sivustolla",
+    "Monipuoliset matkateemiot - safari, vaellus, luksus, aktiivimatkat ja kestävä matkailu"
+   ],
+   "kehityskohteet": [
+    "Hintojen näkyvyys - matkakohteiden hinnat eivät ole julkisesti esillä, vaan vaativat tarjouspyynnön",
+    "Ehdolliset sivut - matkaehdot ja muut tärkeät tiedot linkitetään navigaatiossa mutta sivut palauttavat virheen",
+    "Verkkovaraus - verkkovarausjärjestelmää ei näy; asiakkaat joutuvat pyytämään tarjousta yhteydenottosähköpostilla"
+   ],
+   "yhteenveto": "Aventura on perustettu vuonna 2000 ja se on suomalainen kaukomatkatoimisto, joka on palkittu Vuoden matkatoimistoksi 2024. Sivusto esittelee laajaa matkatarjontaa yli 25 vuoden kokemuksella, mutta hintojen saatavuus ja suora verkkovaraus puuttuvat - matkoista pitää pyytää tarjousta erikseen. Monia tärkeitä tietoja, kuten matkapakettiehtoja, ei pystytä lataamaan sivustolta teknisten ongelmien vuoksi.",
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "SMAL-jäsenyys (Suomen Matkatoimistoalan Liitto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Yritysesittely-sivulla todetaan: \"Aventura on mm. Suomen Matkatoimistoalan Liiton (SMAL), Pacific Asian Travel Associationin (PATA) jäsen.\""
+    },
+    {
+     "mittari": "PATA-jäsenyys (Pacific Asia Travel Association)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Yritysesittely-sivulla todetaan jäsenyys: \"Pacific Asian Travel Associationin (PATA) jäsen\"."
+    }
+   ]
+  },
+  {
+   "slug": "kilroy",
+   "nimi": "KILROY",
+   "domain": "kilroy.fi",
+   "omistaja": "OY KILROY Finland AB — osa tanskalaista KILROY Internationalia",
+   "y_tunnus": "0115306-8",
+   "rekisteroity": 1978,
+   "score": 62.1,
+   "pillars": {
+    "digitaalinen": 60.1,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 66.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Matkojen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lennon hintoja voi vertailla ja varata suoraan online-järjestelmässä (500+ lentoyhtiötä), mutta pakettimatkojen hinnat eivät näy listamuodossa. Sivusto ohjaa asiakkaat lähettämään tarjouspyynnön matka-asiantuntijoille, jotka antavat maksuttoman tarjouksen."
+      },
+      {
+       "mittari": "Matkan voi varata verkossa ilman yhteydenottoa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lennot voidaan varata verkkokaupasta (yksinkertaiset menopaluu-lennot), mutta monien reittiensä ja pakettimatkat vaativat suoraa yhteydenpanoa. Sivusto toteaa: 'Nettikaupasta ei kuitenkaan voi varata ihan kaikkia lentokohteita ja -reittejä'."
+      },
+      {
+       "mittari": "Matkapaketti- ja peruutusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer mainitsee 'Yleiset matkaehdot' ja 'Ehdot verkkokaupasta ostetuille lentolipuille', mutta nämä sivut eivät latau normaalilla sisältöhaulla. Booking flow -kaavakkeissa mainitaan termien hyväksyminen, mutta ne ovat vaikeaselkoisesti saatavilla."
+      },
+      {
+       "mittari": "Matkanjärjestäjän vakuus tai rekisteröinti kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Booking flow -prosessissa tarjotaan 'Cancellation protection' -vakuutusta. Sivusto suosittelee: 'We strongly recommend that you purchase a cancellation insurance in case you don't have one already.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0115306-8 näkyy selvästi sivuston footerissa yhteysosoitteen yhteydessä: 'Y-tunnus: 0115306-8'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviolähteisiin tai asiakasarvioihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 09 680 78200 näkyy footer-osassa. Sivusto tarjoaa myös soittoaikavarauksen mahdollisuutta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite travels@kilroy.fi näkyy selvästi footer-osassa ja pääsivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tuki mainitaan kontakti-sliderissa (käännöksistä löytyy 'Kilroy.ContactSlider.General.ChatButtonText': 'Chat'), vaikka live-chat-toiminnon aktiivisuutta ei voitu vahvistaa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei näy sivustolla. Sivusto mainitsee kahta toimistoa (Helsinki ja Turku), mutta aukioloajat puuttuvat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto mainitsee asiakastuen FAQ-osiota ('usein kysytyt kysymykset') help.kilroy.net-osoitteessa, mutta kyseinen sivu lataa virheellisesti (CSS Error)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainittu sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 80,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 28658.08334,
+    "cls": 0.001973016391827597,
+    "tbt_ms": 4023.4999999999964
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Henkilökohtaiset matka-asiantuntijat ja räätälöidyt matkapaketit näkyvät selvästi",
+    "Monipuolinen tarjonta (yksilömatkat, ryhmämatkat, opintomatkat, aktiviteetit)",
+    "Helppo online-lennontvaraus ja vertailu yli 500 lentoyhtiön kesken"
+   ],
+   "kehityskohteet": [
+    "Pakettimatkojen hinnat vaativat tarjouspyyntöä; julkisten hintojen puute vaikeuttaa vertailua",
+    "Matkaehdot ja peruutusehdot mainittuja mutta vaikeaselkoisesti saatavilla",
+    "Asiakastuen FAQ-sivu lataa virheellisesti (CSS-virhe help.kilroy.net:issä)"
+   ],
+   "yhteenveto": "KILROY on suomalainen matkatoimisto, joka erikoistuu räätälöityihin pakettimatkiin ja opintomatkoihin. Sivusto on selkeä navigoitavuudeltaan, mutta pakettimatkojen hintojen löytäminen vaatii suoraan yhteydenottoa matka-asiantuntijoihin. Lennot voidaan varata helposti online-järjestelmän kautta yli 500 lentoyhtiön vertailulla."
+  }
+ ],
+ "updated": "23.7.2026",
+ "opas": {
+  "johdanto": "Suomessa valmismatkoja myyvät sekä suuret kansainväliset konsernit että kotimaiset perheyhtiöt, ja niiden verkkopalveluissa on isoja eroja: osa näyttää hinnat ja hoitaa varauksen kokonaan verkossa, osa nojaa yhä puhelinpalveluun. Valmismatkan ostajaa suojaa matkapakettilaki, ja rekisteröityjen matkanjärjestäjien on asetettava vakuus Kilpailu- ja kuluttajaviraston valvontaan. Tämä opas auttaa vertaamaan matkatoimistoja sekä hintojen läpinäkyvyyden että ostajan turvan näkökulmasta.",
+  "huomioita": [
+   "Valmismatka eli matkapaketti antaa vahvimman suojan: matkapakettilaki turvaa oikeutesi muun muassa peruutuksissa ja virhetilanteissa, ja maksusi on suojattu matkanjärjestäjän KKV:lle asettamalla vakuudella.",
+   "Vakuus ei ole teoriaa: kun Detur Finland asetettiin konkurssiin vuonna 2022, juuri vakuusjärjestelmä oli asiakkaiden turva. Itse kootuissa matkoissa vastaavaa suojaa ei ole.",
+   "Erikseen ostetut lennot ja hotellit eivät ole valmismatka: jos kokoat matkan itse eri palveluista, matkapakettilain suoja ei yleensä koske sinua, vaikka ostaisit kaiken saman sivuston kautta.",
+   "Hintojen näkyvyys ja verkkovaraus erottelevat toimijoita: osa julkaisee lähtöhinnat ja varauskalenterin avoimesti, osa kertoo hinnat vasta tarjouspyynnön tai puhelun jälkeen.",
+   "Omistus kannattaa tuntea: moni tuttu brändi kuuluu kansainväliseen konserniin ja osa kotimaisiin yhtiöihin. Näytämme omistajan jokaisen yrityksen kohdalla.",
+   "TUI puuttuu listalta, koska sen sivusto estää automaattisen mittauksen kokonaan. Emme julkaise arvattuja pisteitä, joten se lisätään heti kun mittaus on mahdollinen."
+  ],
+  "vinkit": [
+   "Tarkista ennen varausta, että matkanjärjestäjä löytyy KKV:n matkanjärjestäjärekisteristä. Rekisteröinti kertoo, että vakuus on asetettu.",
+   "Lue peruutus- ja muutosehdot ennen maksua: yleiset matkapakettiehdot ovat pohjana, mutta järjestäjillä on omia lisä- ja erityisehtoja.",
+   "Vertaa lopullista kokonaishintaa, ei mainoksen alkaen-hintaa: lähtöpäivä, huonetyyppi, ateriat ja lisämaksut voivat muuttaa summaa merkittävästi.",
+   "Maksa kortilla, jos mahdollista: korttimaksu voi antaa lisäturvaa riitatilanteissa vakuussuojan päälle.",
+   "Varmista asiakaspalvelun tavoitettavuus matkan aikana: hyvä järjestäjä kertoo selkeästi, mihin numeroon soitat, jos kohteessa tulee ongelma.",
+   "Muista, että vakuus ei korvaa matkavakuutusta: vakuus suojaa järjestäjän konkurssilta, vakuutus taas sairastumiselta, peruuntumiselta ja tavaravahingoilta."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on valmismatka ja miksi sillä on väliä?",
+    "a": "Valmismatka eli matkapaketti on kokonaisuus, jossa samalta järjestäjältä ostetaan vähintään kaksi matkapalvelua, tyypillisesti lento ja majoitus. Matkapakettilaki antaa valmismatkalaiselle vahvat oikeudet virhe- ja peruutustilanteissa, ja maksut on suojattu vakuudella. Itse kootuissa matkoissa tätä suojaa ei yleensä ole."
+   },
+   {
+    "q": "Mitä tapahtuu, jos matkanjärjestäjä menee konkurssiin?",
+    "a": "Rekisteröityjen matkanjärjestäjien on asetettava vakuus Kilpailu- ja kuluttajaviraston valvontaan. Konkurssitilanteessa vakuudesta korvataan valmismatkalaisten ennakkomaksuja ja järjestetään tarvittaessa paluukuljetukset. Näin toimittiin esimerkiksi Detur Finlandin konkurssissa vuonna 2022."
+   },
+   {
+    "q": "Miten tarkistan, että matkanjärjestäjä on rekisteröity?",
+    "a": "Kilpailu- ja kuluttajavirasto ylläpitää julkista matkanjärjestäjärekisteriä, josta voi hakea yrityksen nimellä. Jos valmismatkoja myyvä yritys ei löydy rekisteristä, sen vakuusturva ei ole varmistettu ja varaamista kannattaa harkita tarkkaan."
+   },
+   {
+    "q": "Miksi TUI ei ole vertailussa?",
+    "a": "TUI:n sivusto estää automaattisen mittauksen botti-estolla, myös selainpohjaisen haun. Pisteytämme vain sen, minkä voimme itse todentaa, joten TUI jätettiin pois epäluotettavan arvion julkaisemisen sijaan. Lisäämme sen heti, kun mittaus onnistuu."
+   },
+   {
+    "q": "Kertooko arvosana matkojen tai kohteiden laadusta?",
+    "a": "Ei. Vertailu mittaa verkkopalvelun avoimuutta: näkyvätkö hinnat ja ehdot ennen varausta, onnistuuko varaus verkossa, kerrotaanko vakuudesta ja tavoittaako asiakaspalvelun. Kohteiden ja hotellien laadusta kertovat parhaiten riippumattomat asiakasarviot."
+   },
+   {
+    "q": "Onko matkatoimisto ja matkanjärjestäjä sama asia?",
+    "a": "Ei aina. Matkanjärjestäjä kokoaa ja toteuttaa matkapaketin, kun taas matkatoimisto voi myös vain välittää muiden järjestäjien matkoja. Vastuu paketin toteutumisesta on järjestäjällä, joten tarkista varausvahvistuksesta, kuka matkasi järjestää."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Matkojen hinnat julkisesti esillä (25), matkan voi varata verkossa ilman yhteydenottoa (20), matkapaketti- ja peruutusehdot julkisesti saatavilla (20), matkanjärjestäjän vakuus tai rekisteröinti kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}
