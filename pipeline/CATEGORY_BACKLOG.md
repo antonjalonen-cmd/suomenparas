@@ -22,7 +22,7 @@ matkatoimistot. ÄLÄ rakenna näitä uudestaan.
 - [x] autopesulat — julkaistu 24.7.2026 (paatyosessio batch 6; portit OK)
 - [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
 - [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
-- [ ] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
+- [~] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
 - [ ] catering-palvelut — kandidaatit: Fazer Food?, Compass Group?, Sodexo? (b2b-paino, arvioi kuluttajakulma)
 - [ ] festivaalit-lipunmyynti — kandidaatit: Ticketmaster, Lippu.fi, Tiketti, Kide.app, Tikettikauppa?
 - [ ] ruokakassipalvelut — kandidaatit: HelloFresh?, Sannan Ruokakassi?, Fiksuruoka, Matsmart (tarkista mitkä elävät 2026)
