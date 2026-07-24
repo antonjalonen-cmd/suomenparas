@@ -3,22 +3,23 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (36 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (37 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
 virustorjuntaohjelmat, suoratoistopalvelut, kiinteistonvalittajat,
 muuttopalvelut, siivouspalvelut, autokoulut, autokatsastus, autokorjaamot,
 autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
-yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys. ÄLÄ rakenna näitä uudestaan.
+yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
+matkatoimistot. ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
 
 - [x] hautaustoimistot — julkaistu 23.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts OK, LH 7/7)
-- [~] matkatoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
-- [~] tilitoimistot — varattu: päätyösessio 23.7.2026 (batch 6)
-- [~] fysioterapia — varattu: päätyösessio 23.7.2026 (batch 6)
-- [~] autopesulat — varattu: päätyösessio 23.7.2026 (batch 6)
+- [x] matkatoimistot — julkaistu 24.7.2026 (autopilot-tikki; 10 yhtiota, check_extracts 10/10 OK, LH 10/10; Olympia #1 86.7 p)
+- [ ] tilitoimistot — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
+- [ ] fysioterapia — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
+- [ ] autopesulat — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
 - [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
 - [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
 - [ ] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
