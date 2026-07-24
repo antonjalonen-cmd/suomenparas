@@ -30,19 +30,19 @@ matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
 - [ ] ruoan-kotiinkuljetus — kandidaatit: Wolt, Foodora; vain 2 isoa? → tarkista K-Ruoka/S-kaupat toimitus, ellei ≥6 → [s]
 - [ ] apteekkien-verkkokaupat — kandidaatit: Yliopiston Apteekki, Apteekki.fi?, Hyvän Mielen Apteekit?, Avainapteekit? (sääntely huomioon)
 - [ ] silmasairaalat — kandidaatit: Silmäasema sairaala?, Medilaser?, Terveystalo silmäkirurgia? (KKV-kaupat kesken, tarkista)
-- [ ] tyonvalityspalvelut — kandidaatit: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, VMP?
+- [~] tyonvalityspalvelut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, VMP?
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
 - [ ] aurinkopaneeliasentajat — kandidaatit: Helen aurinko?, Aurinkoenergiaa Suomesta?, Solnet?, Playgreen? (kasvava ala)
 - [ ] lämpöpumppuasentajat — kandidaatit: Ilmalämpöpumppuketjut (Iver?, Elfving?), tarkista valtakunnalliset
-- [ ] kattoremontit — kandidaatit: Kattotutka, Vesivek, Icopal Katto?, Kerabit Katto?
+- [~] kattoremontit — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Kattotutka, Vesivek, Icopal Katto?, Kerabit Katto?
 - [ ] ikkunaremontit — kandidaatit: Pihla, Skaala, Domus, Lammin Ikkuna, HR-Ikkunat?
 - [ ] hissiyhtiot — b2b/taloyhtiö-kulma: KONE, Otis, Schindler, TK Elevator → arvioi sopiiko kuluttajasivustolle
 - [ ] pesulapalvelut — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
 - [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
-- [ ] urheiluvalineketjut — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
-- [ ] huonekaluketjut — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
-- [ ] rautakaupat — kandidaatit: K-Rauta, Stark, Bauhaus, Puuilo, Tokmanni (rautaosasto? ei), RTV?
-- [ ] elektroniikkaketjut — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
+- [~] urheiluvalineketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
+- [~] huonekaluketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
+- [~] rautakaupat — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: K-Rauta, Stark, Bauhaus, Puuilo, Tokmanni (rautaosasto? ei), RTV?
+- [~] elektroniikkaketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
