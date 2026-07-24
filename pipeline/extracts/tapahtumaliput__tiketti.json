@@ -1,0 +1,45 @@
+{
+  "slug": "tiketti",
+  "fetched_ok": [
+    "https://www.tiketti.fi/",
+    "https://www.tiketti.fi/info/palvelumaksut",
+    "https://www.tiketti.fi/en/info/chargesandfees"
+  ],
+  "palvelumaksut_esilla": "kylla",
+  "kokonaishinta_ilman_ostoa": "kylla",
+  "peruutusehdot_esilla": "kylla",
+  "ostaa_ilman_rekisteroitymista": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "palvelumaksu_eur_per_lippu": 1.50,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Palvelumaksut ja toimitusmaksut julkaistu kattavasti omalla sivullaan ennen ostopäätöstä (tilausmaksu 1,50 €/tilaus, PDF-lippu 1 €/tilaus jne.)",
+    "Asiakaspalvelu monikanavainen: puhelin ma-la 9-21 / su 11-18, sähköposti, chat ja myyntipisteet R-kioskeilla",
+    "Peruutus- ja palautuskäytäntö sekä lippuvakuutus (TikettiTurva) kuvattu omilla sivuillaan"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus (Tiketti Oy 0116189-3) ei näy sivustolla — yritystunnus puuttuu vaikka osoite on esillä",
+    "Mobiilisovelluksesta ei löydy selkeää latauslinkkia etusivulta; mobiililähetys mainitaan vain toimitusvaihtoehtona",
+    "Sivusto varoittaa Safari-yksityisselauksen yhteensopivuusongelmista ja IE11:n tuesta — modernimpi selainyhteensopivuus parantaisi saavutettavuutta"
+  ],
+  "yhteenveto": "Tiketti on Suomen suurin suomalainen lipunvälittäjä ja erottuu edukseen palvelumaksujen avoimella julkaisemisella erillisellä sivullaan ennen ostopäätöstä. Asiakaspalvelu on laaja (puhelin, sähköposti, chat, R-kioskit), ja peruutuskäytäntö on kuvattu. Y-tunnus ei näy sivustolla, mikä on pieni puute läpinäkyvyydessä.",
+  "evidence": {
+    "palvelumaksut_esilla": "SITAATTI: 'Tilausmaksu 1,50 € / tilaus — Maksu koskee Tiketin verkkokaupassa, puhelinpalvelussa ja myyntipisteissä tehtyjä tilauksia' (https://www.tiketti.fi/info/palvelumaksut).",
+    "kokonaishinta_ilman_ostoa": "HAVAINTO: Erillinen palvelumaksusivu listaa kaikki lisämaksut (toimitusmaksut, tilausmaksu, PayPal-lisä jne.) selkeästi ennen kuin ostaja aloittaa ostoprosessin.",
+    "peruutusehdot_esilla": "HAVAINTO: Info-sivulla on 'Lippujen Palauttaminen' ja 'Tuotteiden peruuttaminen' -osiot; myös TikettiTurva-vakuutus maininta.",
+    "ostaa_ilman_rekisteroitymista": "HAVAINTO: 'OmaTiketti'-rekisteröinti tarjolla; vieraskassan saatavuus ei varmistettavissa luetusta sisällöstä.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedoissa näkyy 'Tiketti Oy, Eerikinkatu 36, 00180 Helsinki' mutta Y-tunnusta (0116189-3) ei mainita sivustolla.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arviosivua tai sertifikaatteja ei löydy luetuista sivuista."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "eventbrite",
+  "fetched_ok": [
+    "https://www.eventbrite.fi/",
+    "https://www.eventbrite.fi/help/"
+  ],
+  "palvelumaksut_esilla": "osittain",
+  "kokonaishinta_ilman_ostoa": "ei",
+  "peruutusehdot_esilla": "osittain",
+  "ostaa_ilman_rekisteroitymista": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "palvelumaksu_eur_per_lippu": null,
+  "ai_arviot": {
+    "selkeys": 48,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 42
+  },
+  "vahvuudet": [
+    "Laaja tapahtumatietokanta — kansainvälinen alusta toimii myös Suomessa",
+    "Mobiilisovellus saatavilla (Eventbrite App, mainittu etusivulla)",
+    "Help Centre (tukikeskus) on kattava ja sisältää useita osioita"
+  ],
+  "kehityskohteet": [
+    "Palvelumaksut eivät näy ennen tapahtumavalinnan aloittamista — kuluttaja ei tiedä kokonaishintaa ilman ostoprosessia",
+    "Ei suomalaista yritysrekisteröintiä (Y-tunnus puuttuu kokonaan) — Eventbrite Inc. on amerikkalainen yhtiö",
+    "Ei puhelinnumeroa eikä sähköpostia suomalaiselle asiakaspalvelulle — tuki vain help centre -kanavalla"
+  ],
+  "yhteenveto": "Eventbrite on amerikkalainen kansainvälinen alusta, jolla on vain suppea suomenkielinen läsnäolo Suomessa. Sivusto ei tarjoa suomalaista asiakaspalvelunumeroa eikä Y-tunnusta, eikä palvelumaksuja kerrota kuluttajalle ennen ostoprosessia. Mobiilisovellus ja kattava tukikeskus ovat positiivisia, mutta suomalaiselle kuluttajalle läpinäkyvyys on heikoin vertailujoukossa.",
+  "evidence": {
+    "palvelumaksut_esilla": "HAVAINTO: Etusivulla tai helpsivuilla ei ole julkista palvelumaksulistaa; hinnat vaihtelevat järjestäjäkohtaisesti eivätkä ole tiedossa ennen tapahtumaprosessia.",
+    "kokonaishinta_ilman_ostoa": "HAVAINTO: Kokonaishintaa (lippu + palvelumaksut) ei pysty selvittämään etukäteen julkiselta sivulta; tieto ilmenee vasta kassan yhteydessä.",
+    "peruutusehdot_esilla": "HAVAINTO: Help Centre sisältää peruutusohjeita, mutta kuluttajalle näkyvällä etusivulla tai tapahtumalistaussivuilla niitä ei korosteta.",
+    "ostaa_ilman_rekisteroitymista": "HAVAINTO: Etusivu tarjoaa 'Kirjaudu' ja 'Rekisteröidy'; vierasostoa ei mainittu selkeästi, mutta ei myöskään estetä — tulkittu 'osittain'.",
+    "y_tunnus_esilla": "HAVAINTO: Eventbrite Inc. (Delaware, USA) — Suomessa ei rekisteröityä yritystä, Y-tunnusta ei voida näyttää eikä se näy sivustolla.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta ulkopuolista arviota tai suomalaista sertifikaattia ei löydy julkiselta sivulta."
+  }
+}

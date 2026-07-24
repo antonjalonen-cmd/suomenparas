@@ -1,0 +1,45 @@
+{
+  "slug": "netticket",
+  "fetched_ok": [
+    "https://netticket.fi/",
+    "https://netticket.fi/contact",
+    "https://netticket.fi/about"
+  ],
+  "palvelumaksut_esilla": "kylla",
+  "kokonaishinta_ilman_ostoa": "kylla",
+  "peruutusehdot_esilla": "kylla",
+  "ostaa_ilman_rekisteroitymista": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "palvelumaksu_eur_per_lippu": 1.50,
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Palvelumaksut kerrotaan selkeästi: 'palvelumaksu alkaa 1,50 €/lippu' — tieto on julkisesti esillä ennen ostoprosessia",
+    "Y-tunnus (1028658-3) näkyy yhteystietosivulla täydellisine osoitetietoineen — erinomainen läpinäkyvyys",
+    "'Tilaus ilman tunnuksia' (Purchase without account) mahdollisuus mainitaan eksplisiittisesti — ei rekisteröitymispakkoa"
+  ],
+  "kehityskohteet": [
+    "Mobiilisovellusta ei ole — vain mobiiliselain; kilpailijat tarjoavat sovelluksen",
+    "Chat-asiakaspalvelua ei ole; yhteydenotto rajoittuu puhelimeen ja sähköpostiin",
+    "FAQ/UKK-osio on suppea verrattuna suuriin kilpailijoihin — peruutus- ja palautusohjeita voisi laajentaa"
+  ],
+  "yhteenveto": "NetTicket on vaasalainen suomalainen lipunvälittäjä, joka erottuu edukseen erityisesti läpinäkyvyydessä: palvelumaksut, Y-tunnus ja peruutusehdot ovat kaikki julkisesti esillä, ja liput voi ostaa ilman rekisteröitymistä. Heikkoutena on mobiilisovelluksen puuttuminen ja suppea asiakaspalvelu. Palvelumaksu 1,50 €/lippu on selkeästi kommunikoitu.",
+  "evidence": {
+    "palvelumaksut_esilla": "SITAATTI: 'service fee starts from 1,50 €/ticket' — palvelumaksutieto on näkyvissä etusivulla ennen ostoprosessia.",
+    "kokonaishinta_ilman_ostoa": "HAVAINTO: Palvelumaksu (1,50 €/lippu) on julkisesti ilmoitettu, joten ostaja voi laskea kokonaishinnan etukäteen.",
+    "peruutusehdot_esilla": "HAVAINTO: Peruutus- ja palautuskäytäntö on kuvattu luetuilla sivuilla.",
+    "ostaa_ilman_rekisteroitymista": "SITAATTI: 'Purchase without account' -vaihtoehto mainitaan sivustolla — rekisteröityminen ei ole pakollista.",
+    "y_tunnus_esilla": "SITAATTI: Yhteystietosivulla: 'Oy NetTicket Finland Ab, Y-tunnus: 1028658-3, Vaasa, Finland' — Y-tunnus täysin julkinen.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta ulkopuolista arviota tai sertifikaattia ei löydy luetuista sivuista."
+  }
+}

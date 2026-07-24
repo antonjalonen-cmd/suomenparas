@@ -1,0 +1,45 @@
+{
+  "slug": "kide",
+  "fetched_ok": [
+    "https://kide.app/",
+    "https://kide.app/fi/",
+    "https://kide.app/en/support"
+  ],
+  "palvelumaksut_esilla": "osittain",
+  "kokonaishinta_ilman_ostoa": "osittain",
+  "peruutusehdot_esilla": "osittain",
+  "ostaa_ilman_rekisteroitymista": "ei",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "palvelumaksu_eur_per_lippu": null,
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Y-tunnus (2623329-1, Treanglo Oy) näkyy footer-osiossa — hyvä yrityskuvauksen läpinäkyvyys",
+    "Mobiilisovellus on palvelun ydintuote — saatavilla App Storesta ja Google Playsta",
+    "Asiakastuki: puhelin (+358 800 06393, maksuton), sähköposti (help@kide.app), ja aukioloajat ma-pe 09:00-16:00 julkisesti esillä"
+  ],
+  "kehityskohteet": [
+    "Palvelumaksut esitetään järjestäjille suunnatuilla sivuilla, ei kuluttajalle selkeänä per-lippu-hintana etusivulla",
+    "Rekisteröityminen vaikuttaa pakolliselta — 'Luo tili' on ensisijainen toimintakutsu, vierasostoa ei mainittu",
+    "Peruutusehtoja ei löydy selkeästi kuluttajasivustolta; pääpaino on järjestäjäpuolella"
+  ],
+  "yhteenveto": "Kide.app on suomalainen Treanglo Oy:n alusta, joka palvelee erityisesti opiskelijatapahtumia yli 500 yhteisössä. Y-tunnus näkyy ja asiakaspalvelutieto on selkeästi esillä. Kuluttajan näkökulmasta palvelumaksujen löydettävyys on heikompaa kuin kilpailijoilla, ja vieraskassa ei vaikuta olevan saatavilla — alusta edellyttää tilin luomista.",
+  "evidence": {
+    "palvelumaksut_esilla": "HAVAINTO: Sivusto ei näytä per-lippu palvelumaksua kuluttajalle etusivulla tai tukisivuilla; hinnoittelu esitetään järjestäjille suuntautuneella pricing-sivulla prosenttiperusteisena.",
+    "kokonaishinta_ilman_ostoa": "HAVAINTO: Kuluttaja ei pysty selvittämään kokonaishintaa (lippu + mahdollinen palvelumaksu) etukäteen julkiselta sivulta ilman tapahtumaan menemistä.",
+    "peruutusehdot_esilla": "HAVAINTO: Peruutusehdot eivät olleet selkeästi esillä luetuilla kuluttajasivuilla; järjestäjäsopimuksessa saatetaan mainita mutta kuluttajalle epäselvä.",
+    "ostaa_ilman_rekisteroitymista": "HAVAINTO: Etusivu ohjaa 'Luo tili' -vaihtoehtoon; vierasostovaihtoehtoa ei mainita julkisesti.",
+    "y_tunnus_esilla": "SITAATTI: Footer: '© 2026 Treanglo Oy, Y-tunnus 2623329-1' — Y-tunnus on täysin julkinen.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta ulkopuolista arviota, sertifikaattia tai lehtijuttua ei löydy etusivulta tai tukisivuilta."
+  }
+}
