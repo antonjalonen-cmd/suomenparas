@@ -26,9 +26,9 @@ matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
 - [s] kodinkonehuolto — hylätty 24.7.2026: alle 6 valtakunnallista kuluttajapalvelua — vain Hakonen ja Huoltolux ovat aidosti kansallisia; loput ovat paikallisia tai valmistajan yksimerkkisiä huoltopalveluita, joita ei voi mielekkäasti vertailla keskenaan
 - [s] catering-palvelut — hylätty 24.7.2026: markkina on b2b-painotteinen (Fazer Food + Compass = sama konserni, Sodexo); kuluttajatapahtumapalvelut ovat paikallisia, ei valtakunnallisia ketjuja
 - [x] festivaalit-lipunmyynti — julkaistu 24.7.2026 (slug: tapahtumaliput; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Tiketti #1 78.9, NetTicket #2 78.2, Ticketmaster viimeinen 39.3; Lippu.fi Akamai CDN mittausaukko)
-- [~] ruokakassipalvelut — varattu: autopilot-tikki 24.7.2026 — kandidaatit: HelloFresh?, Sannan Ruokakassi?, Fiksuruoka, Matsmart (tarkista mitkä elävät 2026)
-- [ ] ruoan-kotiinkuljetus — kandidaatit: Wolt, Foodora; vain 2 isoa? → tarkista K-Ruoka/S-kaupat toimitus, ellei ≥6 → [s]
-- [ ] apteekkien-verkkokaupat — kandidaatit: Yliopiston Apteekki, Apteekki.fi?, Hyvän Mielen Apteekit?, Avainapteekit? (sääntely huomioon)
+- [s] ruokakassipalvelut — hylätty 24.7.2026: alle 6 valtakunnallista yhtiötä — vain Ruokaboksi ja Venner elossa; Sannan Ruokakassi ja Anton & Anton lopettivat; HelloFresh ei toimi Suomessa; Fiksuruoka/Matsmart ovat hävikkiruokapalveluita, eri kategoria
+- [s] ruoan-kotiinkuljetus — hylätty 24.7.2026: alle 6 itsenäistä valtakunnallista palvelua — konsolidoitunut: Wolt (ravintola+kauppa), Foodora (ravintola), K-Ruoka verkkokauppa, S-kaupat/Foodie.fi; Oda ja Gorillas poistuneet Suomesta; K-Ruoka käyttää Wolt-toimitusta → ei riittävästi erillisiä palveluntarjoajia
+- [~] apteekkien-verkkokaupat — varattu: autopilot-tikki 24.7.2026 — kandidaatit: Yliopiston Apteekki, Apteekki.fi?, Hyvän Mielen Apteekit?, Avainapteekit? (sääntely huomioon)
 - [ ] silmasairaalat — kandidaatit: Silmäasema sairaala?, Medilaser?, Terveystalo silmäkirurgia? (KKV-kaupat kesken, tarkista)
 - [~] tyonvalityspalvelut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, VMP?
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
