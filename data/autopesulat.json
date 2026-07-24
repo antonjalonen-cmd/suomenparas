@@ -1,0 +1,1568 @@
+{
+ "slug": "autopesulat",
+ "nimi": "Autopesulat",
+ "nav": "Autopesulat",
+ "h1": "Suomen paras autopesuketju 2026",
+ "yksikko": "valtakunnallista tai monikaupunkista autopesuketjua",
+ "lead": "Pisteytimme {n} usealla paikkakunnalla toimivaa autopesuketjua {m} mittarilla. Tärkein kysymys: näkyvätkö pesujen hinnat ja ohjelmien sisältö verkossa, vai selviävätkö ne vasta pesukadulla?",
+ "meta_title": "Suomen paras autopesuketju 2026 | autopesulat pisteytettyna | Suomen Paras",
+ "meta_desc": "7 autopesuketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Keitä listalla on?</b> Asemaketjujen pesuverkostot (ABC CarWash, Neste, St1) ja pesuun erikoistuneet ketjut (Carwash, GoWash, KORREK Pro Center, CarStation). St1 Suomi Oy operoi myös Shell-asemien pesut, joten Shell ei ole listalla erikseen. Hesburgerin pesulinjat rajattiin pois, koska yhtiön sivustolla ei ole lainkaan autopesua koskevaa sisältöä, jota voisi mitata. Osa riveistä mittaa koko ketjun sivustoa, jonka osa autopesu on.",
+  "<b>Teboil ei ole listalla:</b> Lukoilin omistama Teboil on ollut marraskuusta 2025 alkaen pakotteiden kohteena, kymmeniä asemia on suljettu ja yrityskauppa on kesken. Tilanne on liian epävakaa reiluun pisteytykseen; palaamme asiaan kun omistus on selvinnyt.",
+  "<b>Karsitut:</b> Prowash myy pesulaitteita yrityksille eikä ole kuluttajaketju. Yhden kaupungin pesulat (mm. CleanCar Kuopio, Pesuparoni Lahti) on rajattu pois, jotta vertailu pysyy reiluna."
+ ],
+ "yritykset": [
+  {
+   "slug": "abc-carwash",
+   "nimi": "ABC CarWash",
+   "domain": "abcasemat.fi",
+   "omistaja": "SOK — pesulat alueosuuskauppojen operoimia, Suomen laajin pesuverkosto",
+   "y_tunnus": "0116323-1",
+   "rekisteroity": 1978,
+   "score": 74.3,
+   "pillars": {
+    "digitaalinen": 73.7,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 63.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla mainitaan 'ABC-mobiilista löydät myös aina asemakohtaiset hintatiedot'. Ainoastaan yksi hinta on näkyvillä julkisesti: 49,90 € kesäpaketti. Perusohjelmien hinnat piilotettu sovelluksessa."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla luetelaan Premium pesu (~13 min), Loisto pesu (~11 min), Teho pesu (~10 min), Perus pesu (~8 min), Harjaton pesu (~10 min), sekä erikoispesut (Suksilaatikko ja Pickup ~11 min). Kuukausipesut myös tarjolla."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asemat-sivulla listataan kymmeniä ABC-asemia osoitteineen, esim. ABC Ahtiala (Lahti), ABC Akaa Toijala, ABC Alajärvi, ABC Alavus, ABC Alepa -asemat Vantaalla ja Helsingissä. Jokaisen aseman aukioloajat näytetään, esim. 24H tai 5.30-24."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Autopesun maksaminen ei ole koskaan ollut yhtä helppoa ja nopeaa kuin nyt! Maksat autopesun kätevimmin ABC-mobiililla.' Voi ostaa pesut ennakkoon tai asemalla mobiilisovelluksen kautta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa mainitaan 'SOK ABC-ketjuohjaus, Y-tunnus: 0116323-1'. Käyntiosoite: Fleminginkatu 34, 00510 Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla ei ole linkkejä riippumattomiin arviointipalveluihin, kuten Googleen, Trustpilotiin tai muihin arviopalveluihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa mainitaan 'SOK-vaihde: 010 76 8011'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteesta löytyy 'tietosuojavastaava@sok.fi' ja 'tietosuoja.abc@sok.fi'. Asiakaspalvelun omaa sähköpostiosoitetta ei ole julkisesti näkyvillä."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla ei mainita chat-palvelua asiakaspalveluun yhteydenpidosta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asemat-sivulla näytetään kunkin aseman aukioloajat ja myös erilliset aukioloajat pesupalveluille, esim. ABC Ahtiala: 24H tankkaus, 24H lataus, 5.30-24 pesu, 5.30-24 ravintola."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -osio on olemassa ja sisältää kategoriat: Sähköauton lataus, Ravintola, Autopesu, ABC-mobiili, Polttoaineet. Autopesu-osion sisältö ei latautunut staattisesti."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ABC-mobiili -sovellusta mainitaan useita kertoja: 'Lataa ABC-mobiili puhelimeesi tästä'. Sovelluksella voi ostaa pesuja, katsoa hintoja, varata pesuja ja kerryttää Bonusta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 6557.4980000000005,
+    "cls": 0.04908611207956232,
+    "tbt_ms": 1538.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja autopesuverkosto - ABC Carwash:n pesupaikat sijaitsevat ABC-asemien ja S-ryhmän ruokakauppojen läheisyydessä ympäri Suomea",
+    "Monipuoliset pesuprogrammat - Tarjolla Premium, Loisto, Teho, Perus, Harjaton pesu sekä erikoispesut suksilaatikolla ja avolava-autoille",
+    "ABC-mobiili sovellus - Kätevä mobiilisovellus pesun ostamiseen, hintojen tarkasteluun ja asemakohtaisten tietojen saamiseen"
+   ],
+   "kehityskohteet": [
+    "Hinnat piilossa sovelluksen takana - Pesun hinnat ovat vain ABC-mobiili -sovelluksessa, julkisella verkkosivulla näkyy vain 49,90 € kesäpaketti",
+    "Dynaamiset sisällöt eivät lataudu - FAQ-osio, palaute- ja yrityksille-sivut eivät näytä sisältöä staattisella kyselyllä",
+    "Asiakastuen yhteystiedot rajalliset - Ainoastaan SOK:n päävaihde (010 76 8011) ja tietosuojavastaavan sähköposti saatavilla, ei erillistä autopesun asiakaspalvelun numeroa"
+   ],
+   "yhteenveto": "ABC Carwash on SOK ABC-ketjuohjauksen ylläpitämä autopesuverkosto, jolla on useita pesupisteitä ympäri Suomea. Verkkosivustolla kuvataan monipuoliset pesuprogrammat, luetellaan asemat ja aukioloajat, sekä tarjotaan ostos ABC-mobiili -sovelluksen kautta. Yksittäisten pesuperusohjelmien hinnat eivät ole julkisesti näkyvillä verkkosivulla, vaan ne löytyvät vain mobiilisovelluksesta."
+  },
+  {
+   "slug": "korrek-pro-center",
+   "nimi": "KORREK Pro Center",
+   "domain": "korrekprocenter.fi",
+   "omistaja": "Berner Oy:n KORREK-konsepti — yrittäjävetoiset pesukeskukset, 9 toimipistettä",
+   "y_tunnus": "0107011-5",
+   "rekisteroity": 1978,
+   "score": 74.1,
+   "pillars": {
+    "digitaalinen": 72.6,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "39/100",
+       "paino": 40,
+       "pisteet": 39,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipistesivuilla näkyy yksityiskohtainen hinnasto. Halvimmat pesupalvelut alkavat 33€:sta (KORREK-pesu) ja kalleimmat kestopinnoitteet 849€:sta (KORREK Pro Ceramic TFC Evo). Kampanjasivulla näkyy seuraavat promootiot: Polymatrix-kevytpinnoite 59€ (norm. 98€), Cure-kestopinnoite alk. 399€ (norm. alk. 549€), Ceramic Wax 129€ (norm. 149€)."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kunkin pesuohjelman sisältö on yksityiskohtaisesti kuvailtu. Esimerkiksi 'KORREK-pesu' määritellään 'laadukkaksi käsinpesuksi, jossa pesemme myös ovikynnykset', ja 'KORREK Plus-pesu' sisältää 'kauden parasta käsinpesua ja jalkatilojen imurointia'."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on yhdeksän toimipistettä: P-Töölö Helsinki, Keilaranta, Keilaniemi, Lippulaiva ja Olari Espoossa, Airport ja P-HOTT Colony Vantaalla, Louhi Turussa ja Puuvilla Porissa. Kaikilla on omat sivunsa aukioloaikojen kanssa. P-Töölön aukioloajat ovat ma-pe 9-18, la 11-17. Keilaniemen aukioloajat ovat ma-pe 8-16, la-su suljettu."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella palvelulla on 'Varaa aika' -linkki. Maininta 'Ajanvarauksella tai ilman' esiintyy useilla sivuilla, kuten P-Töölön sivulla: 'Tuo autosi osaaviin käsiin ajanvarauksella tai ilman!'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole julkisesti näkyvissä verkkosivuilla, kuten kotiutus-, tietoa- tai yhteystiedot-sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustoilla ei ole näkyvissä riippumattomia asiakasarvioita, tähtiarviointeja tai linkkejä arviointisivustoihin (esim. Google Reviews, Trustpilot)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla toimipisteillä on puhelinnumero näkyvissä. P-Töölö: 040 322 6315, Keilaniemi: 040 484 2886. Myös pääkontakti saatavilla: vesseli.sirvio(at)berner.fi, 040 707 1866."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet näkyvät toimipistesivuilla. P-Töölö: ptoolo@korrekprocenter.fi, Keilaniemi: keilaniemi@korrekprocenter.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei mainita verkkosivuilla. Yhteystapoja ovat ajanvaraus, puhelin ja sähköposti."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen toimipisteen aukioloajat on selkeästi listattu omalla sivullaan. Esimerkiksi P-Töölö: ma-pe 9-18, la 11-17, su 'sopimuksen mukaan'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Linkki 'Usein kysyttyä autonhoidosta' navigaatiossa näkyi, mutta /usein-kysyttyja/ -sivu palauttaa HTTP 404 -virheen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei ole mainittu verkkosivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 39,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 9815.524000000001,
+    "cls": 0,
+    "tbt_ms": 1413
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Palveluvalikoima kattaa pesuista pinnoituksiin, rengas- ja tuulilasipalveluihin asti",
+    "Hinnat selkeästi esillä kaikilla toimipisteillä, ajanvaraus mahdollinen verkossa ja puhelimitse",
+    "Yhdeksän toimipistettä Helsingissä, Espoossa, Vantaalla, Turussa ja Porissa, aukioloajat julkisesti näkyvät"
+   ],
+   "kehityskohteet": [
+    "Riippumattomia asiakasarvioita tai tähteä-arviointeja ei ole näkyvissä verkkosivuilla",
+    "Y-tunnus ja muut yritystiedot eivät ole julkisesti esillä pääsivustolla",
+    "Mobiilisovellusta ei ole mainittu, FAQ-osio puuttuu (usein-kysyttyja-sivu palauttaa 404)"
+   ],
+   "yhteenveto": "KORREK Pro Center on vuonna 2022 perustettu autonhoitoalan franchise-ketja, joka omistaa Berner Oy. Verkkosivusto on hyvin organisoitu ja tarjoaa selkeästi hinnat, palvelut, toimipisteet ja aukioloajat. Ajanvaraus on mahdollista verkossa sekä puhelimitse. Sivustolta puuttuvat kuitenkin riippumattomat asiakasarviot, Y-tunnus, mobiilisovellus ja FAQ-osio."
+  },
+  {
+   "slug": "carwash",
+   "nimi": "Carwash",
+   "domain": "carwash.fi",
+   "omistaja": "DD Group Oy — franchise-ketju, 16 toimipistettä pääkaupunkiseudulla ja Tampereella",
+   "y_tunnus": "1859137-1",
+   "rekisteroity": 2003,
+   "score": 73.8,
+   "pillars": {
+    "digitaalinen": 79.9,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla näkyvät vain kuukausittaisten rajoittamattomien pesupakettien hinnat (19–49€/kk), pakettipalvelut (98–950€) ja rengastilat (129€). Yksittäisten pesujen hintalistat puuttuvat; FAQ:n kysymys 'Mistä löydän hinnaston?' vastaa vain 'Soita meille'."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pesuohjelmien sisältö kuvailtu perusteellisesti FAQ-osiossa: Basic-ulko (esipesu, painehuuhtel, vaahtipesu, kuivaus), Super-ulko (lisäksi liuotinpesu ja takaluukkujen pesu), Basic-sisä (imurointi, kojelaudan pyyhkiminen), Super-sisä (verhoilun pesu, kemiallinen puhdistus), Total-sisä (super-sisä + tekstiilien märkäpesu), täysfixi (maalipinnan kiillotus, vahaus/pinnoitus, sisustapuhdistus)."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla lueteltuna 13+ paikkaa aukioloaikojen kanssa: Helsinki 4 kpl (Autotalo, Ruoholahti, Munkkivuori, Itis), Vantaa 3 kpl (Kivistö, Gate8, Jumbo), Espoo 1 kpl (Keilaranta), lisäksi noutopalvelu. Aukioloajat vaihtelevat ma-la 08–20 väleillä, joissain su-aukioloajat 12–17."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa todetaan: 'Verkkosivuillamme carwash.fi näet valikkorivillä kohdan Ajanvaraus, napsauta sen alta löytyvää Varaa nyt valintaa aloittaaksesi ajanvarauksen.' Kuukausipaketteja voi myös tilata netissa (rajoittamaton pesu, Standard/Premium-paketit)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-osiossa todetaan '© 2026 DD Carwash Oy ● PL 166, 00931 Helsinki ● info@carwash.fi'. Y-tunnus ei näy, mutta yritysmuoto (Oy) ja posti-osoite lueteltuna."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Noutopalvelu-sivulla näkyy puhelinnumero '040 7568890'. Muilla sivuilla kehotus 'Soita meille' ilman numeroa näkyvissä; email-ohjaukset painotetaan enemmän."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Email-osoite info@carwash.fi näkyvät footer-osiossa, toimipisteet-sivulla sekä usein FAQ:ssa. Lisäksi toimisto@carwash.fi yritysasiakkaille ja eri palvelupisteille omat sähköpostit (autotalo@, ruoholahti@, joycarwashoy@gmail.com, jne)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla kunkin paikan aukioloajat lueteltu, esim. Helsinki-toimistot ma-pe 08–19, la 10–16, su suljettu. Noutopalvelun aukioloajat ma-pe 09:30–16."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /faq-sivulla FAQ-osio kokonaisuudessaan, jossa 15+ kysymystä ja vastauksia liittyen pesuihin, varauksen tekemiseen, lahjakortteihin, rengastallentoon, palveluihin, hintaukseen ja yritystietoihin."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6691.481400000001,
+    "cls": 0.03629929193463754,
+    "tbt_ms": 492
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava palveluvalikoimaa ulko- ja sisäpesusta detailingiin sekä rengaspalveluihin; pesuohjelmien sisältö selkeästi kuvattu FAQ-osiossa (Basic-ulko, Super-ulko, Basic-sisä, Super-sisä, Total-sisä)",
+    "Laaja toimipisteverkon ja avoimet aukioloajat 8 kaupunkiin (Helsinki, Vantaa, Espoo, Tampere) sekä noutopalvelu-vaihtoehto",
+    "Online-ajanvaraus mahdollinen verkkosivuilla sekä kuukausittaiset rajoittamattomat pesupakettialustakin tarjolla (alk. 19€/kk)"
+   ],
+   "kehityskohteet": [
+    "Yksittäisten pesutöiden hintalistat puuttuvat julkisesti – vain pakettihinnat ja kuukausimaksut näkyvät; hinnoitteluun tulee soittaa",
+    "Verkkokaupan puuttuessa lahjakortteja voi ostaa vain paikanpäällä palvelupisteissä, ei netissä",
+    "Mobiilisovellusta tai chat-tukea ei mainita sivuston missään osiossa"
+   ],
+   "yhteenveto": "Carwash on Suomen suurin autopesula-franchise, jolla on 13+ palvelupistettä pääkaupunkiseudulla ja Tampereella. Sivusto esittelee kattavasti palveluita ja pesuohjelmia sekä mahdollistaa online-varaukset ja tarjoaa kuukausipaketteja. Hinnoittelun täydellinen näkyminen vaatii joko pakettivalinnan tai puhelinyhteydenottoa."
+  },
+  {
+   "slug": "st1",
+   "nimi": "St1",
+   "domain": "autopesu.st1.fi",
+   "omistaja": "St1 Suomi Oy — yli 60 pesupaikkaa, operoi myös Shell-asemien pesut Suomessa",
+   "y_tunnus": "0201124-8",
+   "rekisteroity": 1978,
+   "score": 72.6,
+   "pillars": {
+    "digitaalinen": 73.1,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät viiden pääpesuohjelman hinnat: Tornado 44,90€, Super 34,90€, Kiilto 29,90€, Pika 19,90€, Harjaton 21,90€. Lisäksi kesäpaketti 35€ ja yöpesu alkaen 15€."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen pesuohjelman sisältö on listattu yksityiskohtaisesti (esim. Tornado sisältää: korkeapainepesu, pesuvaahto, pehmoharjaus, alustanpesu, rainlux-pinnoite, ceramic-vaha, tehokuivaus). Pesuohjelmien vertailu -sivulla on lisäksi pidempi kuvaus kunkin ohjelman tarkoituksesta ja käytöstä."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'St1 Autopesuloita löytyy 65:ltä St1-asemalta' mutta yksittäisiä pesupaikkojen osoitteita tai aukioloaikoja ei listata. Ainoastaan 24h pesukadut mainitaan: Itäkeskus ja Tullinpuomi avattu 24 tuntia vuorokaudessa."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikille pesuohjelmille näkyvät 'Osta' -painikkeet. Pesukoodit voidaan ostaa yksittäin tai paketeittain (3 kpl, 5 kpl), ja koodit ovat voimassa 5 kuukautta käytettäväksi millä tahansa St1 asemalla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy käytetyiltä sivuilta. Yritys mainitaan nimellä 'St1 Oy' toimitusehdoissa ja kotisivuilla, mutta virallista Y-tunnusta (rekisterinumero) ei ole näkyvissä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa: 24h-asiakaspalvelu 0800 131 031 ja palautteen/yhteydenoton numero 0100 304 00. Numerot näkyvät asiakaspalvelu-sivulla ja 404-virheiden yhteydessä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@st1.fi on näkyvissä toimitusehdoissa (Terms & Conditions) reklamaatioiden ja peruutusten osalta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chatin merkintää ei löydy. Asiakaspalvelun yhteydessä mainitaan vain puhelimitse ja sähköpostilla tavoitettavuus sekä sosiaalisen median kanava (Facebook ja Instagram)."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vain kahden 24h pesukadun (Itäkeskus, Tullinpuomi) aukioloajat mainitaan. Muiden 65 asemista aukioloaika on oletettavasti St1-asemien mukaan, mutta ei erikseen dokumentoitu autopesun sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa mainitaan 'Usein kysyttyä' -linkki, mutta suora URL ei toimi (404). Sisältö voi olla dynaamisesti ladattu tai saavutettavissa pääsivulla kautta klikkaamisen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: St1 Way -sovellusta mainitaan useasti. Sekä iOS- että Android-versio voidaan ladata sovelluskaupoista. Sovelluksessa voidaan hallita ja käyttää pesukoodeja sekä seurata niiden voimassaoloa."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 90,
+    "seo": 83,
+    "best_practices": 96,
+    "lcp_ms": 10495.627499999999,
+    "cls": 0.006085662472118676,
+    "tbt_ms": 978.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja pesuohjelmat täysin näkyvät jo etusivulla, nopeasti löydettävät",
+    "Selkeä online-ostomahdollisuus pesukoodien ostamiseen paketteittain",
+    "Mobiilisovellus (St1 Way) integroituna pesukoodien hallintaan ja käyttöön"
+   ],
+   "kehityskohteet": [
+    "Kaikkien 65 pesupaikoista puuttuvat yksilölliset aukioloajat ja sijainnit (vain 24h pesukadut listattu)",
+    "Y-tunnus ei näkyvissä julkisesti verkkosivuilla",
+    "Riippumattomia asiakasarvioita tai palautteista ei ole nähtävissä sivustolla"
+   ],
+   "yhteenveto": "St1 Autopesu on suuri pesuverkosto 65 asemalla ympäri Suomea. Verkkosivut tarjoavat selkeät hinnat (19,90–44,90€) ja yksityiskohtaiset kuvaukset viidestä pesuohjelmasta. Online-ostaminen on mahdollista pesukoodien muodossa, joita voi käyttää kaikilla asemilla viiden kuukauden ajan. Sivuston pääheikkous on vaillinainen tieto pesupaikoista: vaikka sanotaan olevan 65 asemaa, niiden tarkka sijainti ja aukioloajat ovat huonosti dokumentoidut."
+  },
+  {
+   "slug": "gowash",
+   "nimi": "GoWash",
+   "domain": "gowash.fi",
+   "omistaja": "M. Jordan Oy — usean yhtiön franchise-ketju (mm. GoWash Länsi-Suomi Oy), useita kaupunkeja",
+   "y_tunnus": "2654393-5",
+   "rekisteroity": 2014,
+   "score": 71.9,
+   "pillars": {
+    "digitaalinen": 59.9,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 82.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla esitetään kolme jäsenyystyyppiä (EXCLUSIVE 49,99€, 24/7 29,99€, NIGHT 19,99€) sekä kertapesujen hinnat (LIGHT 14,99€, BASIC 19,99€, SUPER 24,99€, EXCLUSIVE 29,99€). Lisäksi taksi-jäsenyyksien hinnat 39,99€ (24/7) ja 59,99€ (EXCLUSIVE). Itsepalveluhinnat kuvattu polettien hinnoin (1 poletti 2,5€, 10 polettia 20€ jne.)."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla kuvataan kunkin pesuohjelman sisältö: LIGHT sisältää esipesuaineen ja harjattomat/pehmoharjalliset vaihtoehdot, BASIC lisää killotusvahan, SUPER ja EXCLUSIVE lisäävät ShineTecs-vahaa. Itsepalvelusivulla listataan pesuohjelmat: esipesu, korkeapaine, vaahto, huuhtelu, vaha."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla luetellaan kahdeksan toimipistettä osoitteineen: Konala, Tammisto, Espoonlahti, Bemböle, Ilola, Oulunkylä, Vartiokylä, Turku. Asiakaspalvelun aukioloajat ma-pe 7-21, la-su 10-19. Itsepalvelu-hallit avoinna ma-pe 8-20, la-su 11-18."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilauslomakkeella voi tehdä jäsenyyshakemus sekä henkilö- että taaksijäsenyyksille. Sivulla sanotaan 'Täytä tilauslomake ja GoWash-tiimi on sinuun yhteydessä, kun tilauksesi on valmis noudettavaksi.' Sopimus allekirjoitetaan paikan päällä, eikä online-maksua näy. Ei varausmahdollisuutta yksittäisille pesuille."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen sivun alareunassa näkyy 'Y-tunnus: 2654393-5'. Lisäksi mainittu 'GoWash Turku 3468259-9'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla kukin toimipiste listataan puhelinnumerolla (050 328 XXXX -muodossa). Yritysmyynti 050 328 1621, laskutus 040 0363 101. Pesuohje-sivulla mainitaan että henkilökuntaan voi ottaa yhteyttä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu asiakaspalvelu@gowash.fi näkyy jokaisen sivun alareunassa. Jokaisella toimipisteellä oma sähköpostiosoite (konala@gowash.fi, tammisto@gowash.fi jne.). Yritysmyynti myynti@gowash.fi, rekrytointi rekry@gowash.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainita missään sivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla asiakaspalvelun aukioloajat ma-pe 7-21, la-su 10-19. Itsepalvelu-hallit ma-pe 8-20, la-su 11-18. Jäsenyydet 12 kuukauden mittaisia."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen FAQ-osio ei ole näkyvillä. Pesuohje-sivu sisältää joitain ohjeita (esim. peilit käännettävä, antenni irrotettava), mutta ei laajaa usein kysyttyjä kysymyksiä -osiota."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainittu missään sivulla. Sivuston kautta näkyy verkkolomakkeita, mutta ei erillisen sovelluksen latausohjetta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 84,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 17710.742999999995,
+    "cls": 0.117861482381531,
+    "tbt_ms": 2911.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja hinnoittelu näkyvillä kaikille jäsenyystyypeille (EXCLUSIVE, 24/7, NIGHT) ja kertapesuille (LIGHT 14,99€ - EXCLUSIVE 29,99€)",
+    "Kahdeksan toimipiste kattavasti jaettu pääkaupunkiseudulle ja Turkuun, jokaisen kohdalla puhelinnumero ja sähköposti sekä aukioloajat selvästi näkyvillä",
+    "Selkeä pesuohjelmien kuvaus (BASIC, SUPER, EXCLUSIVE, LIGHT) sisältöineen sekä itsepalvelu-optioiden hinnaston esittäminen (poletit ja pesuohjelmat)"
+   ],
+   "kehityskohteet": [
+    "Verkkovaraus tai -tilaus puuttuu – jäsenyys tilataan lomakkeella ja tullaan allekirjoittamaan sopimus paikan päällä, eikä online-maksua ole",
+    "Ei omaa mobiilisovellusta tai chat-palvelua – asiakaspalvelu saavutettavissa vain puhelimitse tai sähköpostilla",
+    "FAQ-osio puuttuu – yleisiä kysymyksiä ei ole dokumentoitu sivulle, vaikka pesuohjeissa käsitellään joitain perusasioita"
+   ],
+   "yhteenveto": "GoWash on monipaikkainen autopesuketju, joka tarjoaa joustavaa kuukausijäsenyyttä alkaen 19,99 eurosta sekä kertapesuja 14,99 eurosta. Hinnoittelun ja toimipisteiden tiedot ovat selkeästi esillä, ja pesuohjelmien sisältö on kuvattu. Palveluiden tilaaminenkaan ei ole täysin online-pohjaista, vaan vaatii käytännön käyntiä sopimuksen allekirjoitukseen."
+  },
+  {
+   "slug": "neste",
+   "nimi": "Neste",
+   "domain": "neste.fi",
+   "omistaja": "Neste Markkinointi Oy — pesut asemilla valtakunnallisesti",
+   "y_tunnus": "1626490-8",
+   "rekisteroity": 2000,
+   "score": 69.7,
+   "pillars": {
+    "digitaalinen": 69.7,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 68.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla näkyy Easy Wash -tilauksien hinnat (alkaen 24,90 €/kk tai 249 €/vuosi), mutta yksittäisten pesupaikkojen hinnat vaihtelevat asemittain eikä yleisiä hintoja ole listattu. Asiakaspäätteillä ja Neste-äpillä hinnat ovat saatavilla asemakohtaisesti."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neste Easy Wash -sivulla kuvataan neljää pesuohjelmaa: Paras-pesu (sisältää vahauksen), Kauden tehopesu (sesonkipesu), Harjaton pesu (harjoiton peseminen) ja Pehmoharjapesu (nykyaikaiset pehmoharjat ilman vahausta)."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Easy Wash -asemat löytyvät koko Suomesta ja ne ovat avoinna 24/7 joka päivä vuoden ympäri. Säännöllisten Neste-autopesupaikkojen aukioloajat ja sijainnit vaihtelevat asemittain ja ne löytyvät asemahausta."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Easy Wash -tilauksiin voi rekisteröityä Neste-äpillä. Maksu tapahtuu Neste-äpillä, pankkikortilla, luottokortilla tai Neste-kortilla. Pesuun pääsee asemalle ilman koodeja, aseman kamera tunnistaa rekisterinumeron."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neste Oyj:n Y-tunnusta ei löydy verkkosivuilla. Yritystiedot sisältävät osoitteen (Keilaranta 21, 02150 Espoo) ja puhelinnumeron, mutta ei Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla ei ole riippumattoman tahon arvioita tai asiakasarvioita pesupalveluista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 0200 80100 (0,00 €/min + pvm/mpm) on näkyvissä, palvelu on saatavilla arkisin klo 8-16. Päävaihde 010 45811 on myös mainittu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite on muodossa etunimi.sukunimi@neste.com (esim. john.doe@neste.com), mutta autopesupalveluille ei ole erityistä sähköpostiosoitetta. Tämä vaatii oikean yhteyshenkilön tietämisen."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainita verkkosivuilla. Asiakaspalveluun voi ottaa yhteyttä vain puhelimitse."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Easy Wash -asemat ovat avoinna 24/7. Asiakaspalvelu on avoinna arkisin 8-16. Säännöllisten autopesupaikkojen aukioloajat vaihtelevat ja ne löytyvät asemahausta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla on laaja 'Usein kysyttyä' -osio, jossa käsitellään tilauksiin ja Easy Wash -asemiin liittyviä kysymyksiä (esim. pesutiheys, tilauksen muuttaminen, asemien toiminta pakkasen aikana, rekisterinumeron tunnistus)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neste-äppi mainitaan monissa paikoissa verkkosivuilla. Sovelluksen avulla voi etsiä lähimpiä asemia, hallita tilaukseja, maksaa, katsoa asemien jonotilanteen ja tehdä muita toimintoja. Sovellus on ladattavissa App Storesta ja Google Playsta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "76/100",
+       "paino": 34,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10172.946000000004,
+    "cls": 0.03451203181910121,
+    "tbt_ms": 3330.500000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Neste Easy Wash -asemat ovat avoinna 24/7 ja tarjoavat kuukausihinnoittelun alkaen 24,90 €/kk",
+    "Pesuohjelmat on selkeästi kuvattu (Paras-pesu, Harjaton pesu, Pehmoharjapesu, Kauden tehopesu) ja FAQ-osio vastaa yleisimpiin kysymyksiin",
+    "Neste-äppi mahdollistaa pesujen hallinnoinnin, asemien etsinnän ja maksamisen helposti"
+   ],
+   "kehityskohteet": [
+    "Yksittäisten pesupaikkojen hinnat eivät ole näkyvissä verkkosivuilla – asiakkaan täytyy hakea tiedot asemakohtaisesti asemahausta tai käyttää sovellusta",
+    "Y-tunnus puuttuu ja asiakaspalveluun ei ole suoraa sähköpostiosoitetta autopesupalveluille",
+    "Chat-palvelu tai live-tuki ei ole mainittu – asiakaspalveluun voi ottaa yhteyttä vain puhelimitse (0200 80100)"
+   ],
+   "yhteenveto": "Neste tarjoaa laajaa autopesutarjontaa Easy Wash -automaattiasemat sekä säännölliset Neste-autopesut kautta koko Suomessa. Easy Wash-asemat toimivat 24/7 ja tarjoavat joustavaa kuukausi- tai vuosihinnoittelua alkaen 24,90 eurosta kuukaudessa. Pesuohjelmat on kuvattu selkeästi ja sovellus helpottaa tilauksien hallintaa. Hintatietojen löydettävyys on heikko verkkosivuilla, sillä yksittäisten pesupaikkojen hinnat määritetään asemakohtaisesti."
+  },
+  {
+   "slug": "carstation",
+   "nimi": "CarStation",
+   "domain": "carstation.fi",
+   "omistaja": "Nura Autopesu Oy — pesukeskuksia Espoossa, Helsingissä ja Turussa",
+   "y_tunnus": "2605487-5",
+   "rekisteroity": 2014,
+   "score": 69.0,
+   "pillars": {
+    "digitaalinen": 73.7,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "75/100",
+       "paino": 30,
+       "pisteet": 75,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Pesujen hinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /ajanvaraus/-sivulla voi valita toimipisteen ja auton tyypin, minkä jälkeen klikkaamalla 'Näytä hinnasto' -painiketta hinnat näyttävät. Ilman näitä valintoja hinnat eivät ole näkyvissä. Omalla sivulla ei ole erillisiä hintaluetteloita."
+      },
+      {
+       "mittari": "Pesuohjelmien sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /autopesu/-sivulla kuvataan pesuprosessia: 'Meille hyvin pesty auto on kunnia-asia. Käsinpesty auto on taatusti puhdas ja kiiltävä.' Mainitaan käsinpesun lisäksi sisäpuhdistus, laadukkaiden pesukemikaalien käyttö ja ympäristöstandardit."
+      },
+      {
+       "mittari": "Pesupaikat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimipisteet/-sivulla luetellaan neljä toimipistettä: Espoo (Sello), Helsinki (Easton), Turku (Skanssi) ja kaksi ei-käytössä olevaa (Toyota Helsinki, Toyota Airport). Jokaiselle on annettu osoite, puhelinnumero ja sähköpostiosoite."
+      },
+      {
+       "mittari": "Pesun voi ostaa tai varata verkossa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /ajanvaraus/-sivulla on online-ajanvarauspalvelu, joka vaatii toimipisteen ja auton tyypin valinnan. Sivulla näkyy teksti 'Palveluiden hinnat ja saatavuus vaihtelevat toimipisteittäin' sekä painike 'Siirry tilaamaan'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2605487-5 näkyy jokaisella sivulla footerissa osoitteen 'Kutojantie 11, 02630 Espoo' yhteydessä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkitetty mistään riippumattomasta arviolähteestä, kuten Google Reviewsista, Trustpilotista tai muista arvostelualustoista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimipisteet/-sivulla on puhelinnumerot kunkin toimipisteen kohdalla: Sello 0401258112, Easton 040 458 9616, Skanssi 050 462 2280."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimipisteet/-sivulla on sähköpostiosoitteet: sello@carstation.fi, Easton@CarStation.fi, skanssi@carstation.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole chat-toimintoa tai chat-palvelun mainintaa. Kommunikaation kanavat ovat puhelin ja sähköposti."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikille toimipisteille annetaan avautumiset ja sulkeutumisajat: Espoo Ma-Pe 10:00-20:00, La 10:00-18:00, Su suljettu. Helsinki Ma-Pe 10:00-18:00, La 10:00-18:00, Su suljettu. Turku Ma-Pe 10:00-20:00, La 10:00-19:00, Su suljettu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole erillisiä usein kysyttyjen kysymysten osiota."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita mobiilisovellusta eikä ole linkkejä App Storeen tai Google Playhn."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 75,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10526.523999999998,
+    "cls": 0.0006532557345072458,
+    "tbt_ms": 454
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeät toimipisteen tiedot ja aukioloajat kauppakeskusten paikoitusalueilla",
+    "Online-ajanvaraus mahdollinen kaikissa toimipisteissä",
+    "Pesupalvelun kuvaus sekä sisäpuhdistus- ja lisäpalvelut mainittu"
+   ],
+   "kehityskohteet": [
+    "Pesuhinnoilla ei ole julkista hintalistaa — hinnat näkyvät vain ajanvarauksessa valintojen jälkeen",
+    "Kohtuullisen usein kysyttyjen kysymysten osio puuttuu",
+    "Ei mobiilisovellusta eikä riippumattomia asiakasarvioita linkitettynä"
+   ],
+   "yhteenveto": "CarStation on kolmen kauppakeskuksen pesupiste (Espoo, Helsinki, Turku), joka tarjoaa käsin pesiä autopesupalveluita. Sivusto on selkeä ja tarjoaa helposti löydettävät toimipisteen tiedot, puhelinnumerot ja sähköpostiosoitteet, sekä online-ajanvarausmahdollisuuden. Pääasiallinen heikkous on, että pesun hinnat eivät ole julkisesti näkyvissä ilman ajanvarauslomakkeella tehtäviä valintoja."
+  }
+ ],
+ "updated": "23.7.2026",
+ "opas": {
+  "johdanto": "Autopesuketjujen suurin ero ei ole pesukatu vaan hinnoittelumalli: osa myy kertapesuja selkein hinnastoin, osa kuukausijäsenyyksiä ja osa siirtää hinnat kokonaan mobiilisovellukseen. Vertailu kattaa valtakunnalliset ja usean kaupungin ketjut, sekä asemaketjujen pesuverkostot että pesuun erikoistuneet toimijat. Yhden kaupungin pesulat on rajattu pois, jotta vertailu pysyy reiluna.",
+  "huomioita": [
+   "Hinnoittelumallit eroavat perusteellisesti: tarjolla on kertapesuja, kuukausittaisia rajattoman pesun jäsenyyksiä ja sovelluspohjaista hinnoittelua. Halvin vaihtoehto riippuu siitä, pesetkö auton kerran kuussa vai kerran viikossa.",
+   "Osa ketjuista ei julkaise kertapesujen hintoja verkkosivuillaan lainkaan: hinta selviää vasta sovelluksesta, soittamalla tai paikan päällä. Hintojen avoimuus on yksi vertailun päämittareista.",
+   "Pesuohjelman nimi ei kerro sisältöä: saman hintaluokan ohjelmissa voi olla eri määrä vaiheita, kuten esipesu, vaha ja kuivaus. Vertaa ohjelmien sisältökuvauksia, älä pelkkiä nimiä.",
+   "Konepesun rinnalla osa ketjuista tarjoaa käsinpesua, itsepalveluhalleja tai detailing-palveluita. Ne ovat eri tuotteita eri hinnoilla, joten varmista mitä olet ostamassa.",
+   "Asemaketjujen riveillä pesu on osa isompaa sivustoa: pisteet mittaavat koko ketjun verkkosivua, jolta pesutiedot löytyvät, eivät yksittäistä pesuhallia.",
+   "Sama yhtiö voi operoida useaa brändiä: esimerkiksi Shell-asemien pesut hoitaa Suomessa St1, joten Shell ei ole listalla omana rivinään."
+  ],
+  "vinkit": [
+   "Laske oma pesutahtisi ennen jäsenyyden ostoa: kuukausijäsenyys kannattaa vasta, kun peset auton useammin kuin jäsenyyden hinta jaettuna kertapesun hinnalla edellyttää. Tarkista myös sopimuksen kesto ja irtisanomisehdot.",
+   "Vertaa pesuohjelmien sisältöä hintaan: katso, sisältyykö ohjelmaan esipesu, vaha ja kuivaus, sillä halvin ohjelma on usein pelkkä peruspesu ilman suojaavia vaiheita.",
+   "Talvella pesutarve kasvaa, koska tiesuola ja kura kertyvät auton pintaan ja alustaan. Säännöllinen pesu suolakaudella suojaa maalipintaa, joten jäsenyys voi olla talvikuukausina hyödyllisimmillään.",
+   "Jos hintaa ei näy verkossa, kysy se ennen pesua: ketju voi silti olla hyvä, mutta hintavertailu jää silloin omalle vastuullesi.",
+   "Tarkista toimipisteen aukioloajat ja jonotilanne: osa pesukaduista palvelee ympäri vuorokauden, osa vain myymälän aukioloaikoina."
+  ],
+  "ukk": [
+   {
+    "q": "Kumpi kannattaa, kertapesu vai kuukausijäsenyys?",
+    "a": "Se riippuu pesutahdista. Jäsenyys on edullinen, jos peset auton usein, esimerkiksi viikoittain suolakaudella, mutta harvoin pesevälle kertapesu tulee halvemmaksi. Laske, montako pesua kuukausimaksu vastaa kertahintoina, ja huomioi sopimuksen mahdollinen määräaikaisuus."
+   },
+   {
+    "q": "Miksi kaikkien ketjujen hintoja ei näy vertailussa?",
+    "a": "Kaikki ketjut eivät julkaise kertapesujen hintoja verkkosivuillaan. Osalla hinnat näkyvät vain mobiilisovelluksessa, osalla ne kerrotaan vasta soittamalla tai paikan päällä. Vertailu mittaa juuri tätä avoimuutta, joten piilotettu hinnasto näkyy pisteissä."
+   },
+   {
+    "q": "Mitä eroa pesuohjelmilla on?",
+    "a": "Ohjelmat eroavat vaiheiden määrässä: perusohjelma on tyypillisesti pelkkä pesu, kun kalliimmat ohjelmat lisäävät esipesun, vahan ja tehokkaamman kuivauksen. Nimet vaihtelevat ketjuittain, joten vertaa sisältökuvauksia äläkä oleta saman nimisten ohjelmien olevan samanlaisia."
+   },
+   {
+    "q": "Onko käsinpesu parempi kuin konepesu?",
+    "a": "Ne ovat eri palveluita eri tarpeisiin. Nykyaikaiset pesukadut ovat nopeita ja edullisia säännölliseen puhtaanapitoon, kun taas käsinpesu ja detailing sopivat perusteellisempaan puhdistukseen ja arempiin pintoihin. Osa ketjuista tarjoaa molempia sekä itsepalveluhalleja omatoimiseen pesuun."
+   },
+   {
+    "q": "Kuinka usein auto kannattaa pestä talvella?",
+    "a": "Talvella pesutarve on suurin, koska tiesuola ja kura kertyvät maalipintaan ja alustaan ja voivat edistää korroosiota. Säännöllinen pesu suolakaudella suojaa autoa, ja siksi moni harkitsee rajattoman pesun jäsenyyttä juuri talvikuukausiksi."
+   },
+   {
+    "q": "Miksi Teboil ei ole listalla?",
+    "a": "Lukoilin omistama Teboil on ollut marraskuusta 2025 alkaen pakotteiden kohteena, kymmeniä asemia on suljettu ja yrityskauppa on kesken. Tilanne on liian epävakaa reiluun pisteytykseen, joten palaamme asiaan kun omistus on selvinnyt."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää autopesuketjut?",
+    "a": "Mittaamme jokaisen ketjun julkisen verkkosivuston samalla kaavalla: näkyvätkö pesujen hinnat ja ohjelmien sisältö verkossa, löytyvätkö toimipisteet ja aukioloajat, onnistuuko osto tai varaus verkossa ja tavoittaako asiakaspalvelun. Jokaisen pisteen perustelun näet yrityksen profiilista."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Pesujen hinnat julkisesti esillä (30), pesuohjelmien sisältö kuvattu (20), pesupaikat ja aukioloajat kerrottu (20), pesun voi ostaa tai varata verkossa (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

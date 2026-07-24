@@ -17,9 +17,9 @@ matkatoimistot. ÄLÄ rakenna näitä uudestaan.
 
 - [x] hautaustoimistot — julkaistu 23.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts OK, LH 7/7)
 - [x] matkatoimistot — julkaistu 24.7.2026 (autopilot-tikki; 10 yhtiota, check_extracts 10/10 OK, LH 10/10; Olympia #1 86.7 p)
-- [ ] tilitoimistot — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
-- [ ] fysioterapia — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
-- [ ] autopesulat — extrakt + BRIEF + certs + opas + LH valmis (sessio 23.7 kaatui ennen buildia); aja vain build_vertical.py + gen_site.py
+- [x] tilitoimistot — julkaistu 24.7.2026 (paatyosessio batch 6; portit OK)
+- [x] fysioterapia — julkaistu 24.7.2026 (paatyosessio batch 6; portit OK)
+- [x] autopesulat — julkaistu 24.7.2026 (paatyosessio batch 6; portit OK)
 - [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
 - [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
 - [ ] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)

@@ -665,7 +665,7 @@
    "omistaja": "HOK-Elanto Liiketoiminta Oy — S-ryhmän osuuskauppa, 12 toimistoa paakaupunkiseudulla",
    "y_tunnus": "1837957-3",
    "rekisteroity": 2003,
-   "score": 76.5,
+   "score": 78.0,
    "pillars": {
     "digitaalinen": 79.0,
     "lapinakyvyys": 72.5,
@@ -870,7 +870,16 @@
     "Y-tunnus puuttuu sivu-ilmoituksista, eikä riippumattomia arvioita (Oiva, Trustpilot) ole näkyvillä",
     "Hintatieto edellyttää klikkaamista yksittäisiin paketteihin; pääsivulla on vain yleinen maininta hinnoista alkaen 1760,50 eurosta"
    ],
-   "yhteenveto": "HOK-Elannon Hautauspalvelu on pääkaupunkiseudun laaja hautaustoimisto, joka kuuluu HOK-Elanto-osuuskauppaan. Sivustolla on selkeät palvelupaketit hintatietoineen, 12 toimipisteen yhteystiedot, kattava FAQ-osio ja online-suunnittelutyökalulle pääsy. Hautausjärjestelyn prosessia ei kuitenkaan kuvailla sivustolla vaan ohjataan ulkoiselle suomi.fi-sivustolle, eikä riippumattomia arvioita tai Y-tunnusta esillä."
+   "yhteenveto": "HOK-Elannon Hautauspalvelu on pääkaupunkiseudun laaja hautaustoimisto, joka kuuluu HOK-Elanto-osuuskauppaan. Sivustolla on selkeät palvelupaketit hintatietoineen, 12 toimipisteen yhteystiedot, kattava FAQ-osio ja online-suunnittelutyökalulle pääsy. Hautausjärjestelyn prosessia ei kuitenkaan kuvailla sivustolla vaan ohjataan ulkoiselle suomi.fi-sivustolle, eikä riippumattomia arvioita tai Y-tunnusta esillä.",
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Suomen Hautaustoimistojen Liiton jäsenyys",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Etusivulla todetaan: \"Kuulumme Suomen Hautaustoimistojen Liittoon. Liiton jäseninä olemme sitoutuneita noudattamaan hyviä kauppatapoja.\""
+    }
+   ]
   },
   {
    "slug": "lohtu",
@@ -1519,37 +1528,46 @@
  ],
  "updated": "23.7.2026",
  "opas": {
-  "johdanto": "Hautaustoimiston valinta tapahtuu usein kriisivaiheessa, jolloin hintojen ja palvelujen vertailu jaa helposti puutteelliseksi. Tassa vertailussa mittasimme seitseman valtakunnallisen tai monella paikkakunnalla toimivan hautaustoimiston verkkosivuston avoimuutta: nakyvatko hinnat etukäteen, kerrotaanko palvelupaketit selvasti ja onko järjestelyprosesin kulku kuvattu.",
+  "johdanto": "Hautausala on Suomessa rakenteellisesti paikallinen: valtaosa hautaustoimistoista palvelee yhtä seutua, ja vertailu kattaa usealla paikkakunnalla tai verkossa koko maahan palvelevat toimijat. Hautajaisia järjestetään harvoin ja usein kesken surun, joten hintojen ja pakettien näkyvyys ennen yhteydenottoa on ostajan tärkein suoja. Juuri siinä toimistojen välillä on suurimmat erot: osa julkaisee pakettihinnat sisältöineen avoimesti, osa kertoo hinnan vasta yhteydenoton jälkeen.",
   "huomioita": [
-   "Hinnat eivät ole yleisesti esilla: suurin osa vertailun toimistoista ei kerro palvelujensa hintoja verkkosivuillaan. Hinta-arvio pyydetaan yleensa yhteydenotolla tai tarjouspyyntolomakkeella.",
-   "Päivystys on alalla standardi: kaikki tai lähes kaikki vertailun toimistot ilmoittavat 24/7-päivystyksen, koska kuolemantapaukset sattuvat milloin tahansa. Virallisia toimistoaukioloaikoja ei aina kerrottu.",
-   "Palvelupaketit vaihtelevat suuresti: osa toimistoista kuvaa paketit yksityiskohtaisesti, osa vain nimeaa ne tai ohjaa suoraan tarjouspyyntoon.",
-   "Omistusrakenne vaihtelee: mukana on ketjutoimistoja, osuuskaupan alaisia toimintoja ja perheyrityksia. HOK-Elannon hautauspalvelu on osa S-ryhman osuustoimintaketjua.",
-   "Vertailu ei arvota hautaustavan tai uskonnollisen taustan sopivuutta: kaikki toimistot palvelevat eri hautaustapoja ja -uskontoja, mutta taman selvittaminen vaatii suoran yhteydenoton."
+   "Hintojen näkyvyys vaihtelee rajusti: osa toimistoista julkaisee pakettihinnat ja niiden tarkat sisällöt verkossa, osa kuvaa palvelut mutta näyttää hinnan vasta yhteydenoton tai erillisen suunnittelusovelluksen jälkeen.",
+   "Pakettien sisällöt eivät ole suoraan vertailukelpoisia: toisen paketti sisältää arkun, kuljetukset ja asiakirjat, toisen paketista osa laskutetaan erikseen. Vertaa aina sisältölistoja, ei pelkkiä hintoja.",
+   "Osa listan nimistä on verkostoja, ei yksittäisiä yrityksiä: esimerkiksi Memoria on yli 30 itsenäisen perheyrityksen yhteinen brändi, jolloin palvelu ja hinnoittelu voivat vaihdella toimipisteittäin.",
+   "Kela ei korvaa hautajaiskuluja, vaan kustannukset maksetaan kuolinpesän varoista. Siksi kirjallinen kustannusarvio ennen tilausta on tärkeä myös perunkirjoitusta varten.",
+   "Riippumattomat asiakasarviot ovat alalla harvinaisia: useimmilla sivustoilla näkyy vain omia asiakastarinoita. Vertailu mittaa sivuston avoimuutta, ei surutyön tukemisen laatua.",
+   "Toimialue kannattaa varmistaa: sama toimisto voi luvata palvelua koko maahan verkossa, mutta fyysiset toimipisteet ja esimerkiksi vainajan kuljetus keskittyvät tietyille seuduille."
   ],
   "vinkit": [
-   "Pyydä kirjallinen hinta-arvio ennen sitoutumista: koska hinnat harvoin nakyy verkkosivuilla, pyydä erittelty arvio ennen sopimuksen allekirjoittamista.",
-   "Kysy palvelupaketin tarkka sisalto: sama paketin nimi voi tarkoittaa eri asioita eri toimistoilla. Selvita erikseen, mitka kulut ovat pakettihinnassa ja mitka ovat lisämaksullisia.",
-   "Tarkista palvelualue: jotkut toimistot palvelevat koko Suomea, toiset vain tietylla alueella. Jos vainaja on eri paikkakunnalla kuin järjestelyt, kysy siirtymakuista.",
-   "Tarvittaessa vertaile useampaa toimistoa: varsinkin suuremmissa kaupungeissa on useita toimistoja, joilta voi pyytaa tarjouksen samaan aikaan.",
-   "Seurakunnan ja toimiston roolit eroavat: hautaustoimisto hoitaa kaytannon järjestelyt, mutta siunaustilaisuus tai muistotilaisuus voi olla seurakunnan tai erillisen tilan vastuulla."
+   "Pyydä aina kirjallinen erittely siitä, mitä paketti sisältää ja mitä laskutetaan erikseen, ennen kuin vahvistat tilauksen.",
+   "Vertaile kahta tai kolmea toimistoa myös vaikeassa tilanteessa: lyhytkin vertailu voi säästää kuolinpesälle selvää rahaa, eikä järjestelyillä ole yleensä niin kiire kuin tilanteessa tuntuu.",
+   "Muista, että hautaustoimiston lasku on vain osa kokonaisuudesta: seurakunnan tai hautausmaan maksut, muistotilaisuuden tarjoilut ja hautakivi tulevat yleensä sen päälle.",
+   "Tarkista, kuvaako toimisto järjestelyjen vaiheet verkossa: selkeä prosessikuvaus kertoo, että saat käsityksen kokonaisuudesta ilman että kaikki jää puhelun varaan.",
+   "Jos toimisto ei julkaise hintoja lainkaan, kysy suoraan tyypillisimmän kokonaisuuden hintaa ja pyydä vastaus kirjallisena."
   ],
   "ukk": [
    {
-    "q": "Miksi hautauspalvelujen hintoja ei näy verkkosivuilla?",
-    "a": "Hautauspalvelujen kokonaishinta muodostuu monista osista: arkku tai uurna, kuljetus, siunaustilaisuuden kulut, muistotilaisuus ja erilliset viranomaismaksut. Koska yhdistelmia on paljon, toimistot tarjoavat yleensa hinta-arvion henkilokohtaisesti. Osa toimistoista kertoo pakettien lahtohinnat, osa ei lainkaan."
+    "q": "Miksi listalla ei ole oman paikkakuntani hautaustoimistoa?",
+    "a": "Valtaosa Suomen hautaustoimistoista palvelee yhtä seutua, eikä niitä voi vertailla samalla valtakunnallisella mittarilla. Listalla ovat löytämämme usean paikkakunnan toimijat ja verkossa koko maahan palvelevat yritykset. Paikallinen toimisto voi silti olla sinulle paras valinta, ja tämän oppaan vinkit toimivat myös sen arviointiin."
    },
    {
-    "q": "Mita hautaustoimiston valinnassa kannattaa painottaa?",
-    "a": "Tarkista ensin palvelualue ja tavoitettavuus, etenkin paivystys. Sen jälkeen pyydä erittelty hinta-arvio ainakin kahdelta toimistolta. Katso myos, kerrotaanko palveluprosessin kulku selkeasti ja onko toimisto avoin palvelujensa sisallosta."
+    "q": "Kuka maksaa hautajaiset?",
+    "a": "Hautajaiskulut maksetaan kuolinpesän varoista eli vainajan omaisuudesta ennen perinnönjakoa. Kela ei korvaa hautajaisia. Jos kuolinpesässä ei ole varoja, kotikunnan sosiaalitoimesta voi hakea apua välttämättömiin hautauskustannuksiin."
    },
    {
-    "q": "Miten Suomen Paras pisteytta hautaustoimistot?",
-    "a": "Mittaamme jokaisen toimiston julkisen verkkosivuston samalla kaavalla: nakyvatko hinnat ennen yhteydenottoa, kuvatut palvelupaketit, prosessin kuvailu, toimialueen kertomus, Y-tunnus ja riippumaton arviolahde. Tekninen laatu ja saavutettavuus lasketaan Lighthouse-mittauksella. Sijoitusta ei voi ostaa."
+    "q": "Miksi hintojen näkyvyys painaa arvosanassa niin paljon?",
+    "a": "Hautajaisia järjestetään harvoin, ja ostopäätös tehdään usein surun keskellä, jolloin vertailu on raskasta. Julkaistut pakettihinnat sisältöineen suojaavat ostajaa juuri tässä tilanteessa. Siksi hintojen ja pakettien läpinäkyvyys on kategorian painavin mittari."
    },
    {
-    "q": "Onko hautaustoimistoilla yhteisia sertifikaatteja tai liittoja?",
-    "a": "Suomessa toimii Hautaustoimistojen Liitto, johon osa toimistoista kuuluu. Mittauksen aikana yksikaan vertailun toimistoista ei kuitenkaan korostanut liiton jasenyyttaan tai ulkopuolisia sertifikaattejaan verkkosivuillaan, joten sertifiointibonusta ei myon tai yhdellekaan."
+    "q": "Mitä hautajaispakettiin yleensä kuuluu?",
+    "a": "Tyypillinen paketti sisältää arkun tai uurnan, vainajan hoidon ja kuljetukset sekä asiakirjojen hoitamisen. Sisällöt vaihtelevat kuitenkin toimistoittain, ja esimerkiksi kukat, muistotilaisuus ja hautakivi laskutetaan usein erikseen. Vertaa aina sisältölistaa, ei pelkkää pakettihintaa."
+   },
+   {
+    "q": "Kertooko arvosana palvelun laadusta surutilanteessa?",
+    "a": "Ei suoraan. Vertailu mittaa verkkosivuston avoimuutta: näkyvätkö hinnat, pakettien sisällöt, prosessi ja yhteystiedot ilman yhteydenottoa. Kohtaamisen laadusta kertovat parhaiten läheisten kokemukset ja riippumattomat arviot, jotka ovat alalla vielä harvinaisia."
+   },
+   {
+    "q": "Voiko hautajaiset järjestää kokonaan verkossa toimivan toimiston kautta?",
+    "a": "Kyllä, osa listan toimijoista palvelee koko maahan pääosin verkossa ja puhelimitse. Kannattaa silti varmistaa, miten vainajan kuljetus ja käytännön järjestelyt hoituvat omalla paikkakunnallasi ja kuka ne konkreettisesti tekee."
    }
   ]
  },
