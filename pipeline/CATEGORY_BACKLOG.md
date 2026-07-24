@@ -3,14 +3,14 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (35 kpl, 23.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (36 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
 virustorjuntaohjelmat, suoratoistopalvelut, kiinteistonvalittajat,
 muuttopalvelut, siivouspalvelut, autokoulut, autokatsastus, autokorjaamot,
 autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
-yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot. ÄLÄ rakenna näitä uudestaan.
+yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys. ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
 
@@ -20,7 +20,7 @@ yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot. ÄLÄ rakenna näit
 - [~] fysioterapia — varattu: päätyösessio 23.7.2026 (batch 6)
 - [~] autopesulat — varattu: päätyösessio 23.7.2026 (batch 6)
 - [s] kielikoulut — hylätty 23.7.2026: alle 6 vertailukelpoista yksityistä yhtiötä (markkina on kansalais/työväenopistoja; Berlitz ilman omaa fi-sivustoa, EF myy kielimatkoja, Galimatias b2b, Alfa International kuollut domain)
-- [~] tavaransailytys — varattu: autopilot-tikki 23.7.2026
+- [x] tavaransailytys — julkaistu 24.7.2026 (autopilot-tikki; 6 yhtiota, check_extracts 6/6 OK, LH 6/6; Kotivarasto #1 75.3 p)
 - [ ] kodinkonehuolto — kandidaatit: Elfving?, Kodinkonehuolto-ketjut, valmistajien valtuutetut? (tarkista elinkelpoisuus)
 - [ ] catering-palvelut — kandidaatit: Fazer Food?, Compass Group?, Sodexo? (b2b-paino, arvioi kuluttajakulma)
 - [ ] festivaalit-lipunmyynti — kandidaatit: Ticketmaster, Lippu.fi, Tiketti, Kide.app, Tikettikauppa?
