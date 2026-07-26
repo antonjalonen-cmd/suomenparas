@@ -1117,9 +1117,10 @@ COMPANIES["rautakaupat"] = [
          omistaja="Bygghemma Finland Oy — verkkokauppa, osa ruotsalaista BHG Groupia"),
     dict(slug="byggmax", nimi="Byggmax", domain="byggmax.fi", y_tunnus="2132241-2",
          omistaja="Byggmax AB:n Suomen sivuliike — myymälät useissa kaupungeissa ja verkkokauppa"),
-    dict(slug="ikh", nimi="IKH", domain="ikh.fi", y_tunnus="0398874-7",
-         omistaja="IKH Oy (ent. Isojoen Konehalli) — noin 100 myymälän franchise-verkosto"),
 ]
+# EXCLUDED 26.7.2026: IKH (ikh.fi) — Cloudflare-botti-esto palauttaa 403 seka curlille
+# etta headless Chromelle; koko sivusto mittauskelvoton (sama linja kuin McAfee 403,
+# TUI ja Hesburger). Ei julkaista yhtiota jonka lapinakyvyytta ei voida mitata.
 
 # KATTOREMONTIT (verified 24.7.2026, agent + PRH). EXCLUDED: Laaturemontti (sulautui
 # Vesivekiin, domain ohjaa vesivek.fi:hin), Kattomaailma (vain Pirkanmaa), Icopal Katto

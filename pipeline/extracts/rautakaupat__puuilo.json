@@ -1,0 +1,48 @@
+{
+  "slug": "puuilo",
+  "fetched_ok": [
+    "https://www.puuilo.fi/",
+    "https://www.puuilo.fi/asiakaspalvelu",
+    "https://www.puuilo.fi/toimitustavat",
+    "https://www.puuilo.fi/toimitus-ja-maksuehdot",
+    "https://www.puuilo.fi/meista",
+    "https://www.puuilo.fi/yhteystiedot",
+    "https://www.puuilo.fi/usein-kysytyt-kysymykset"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 88,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Tuotehinnat selvästi näkyvissä tuotesivulla ja useita toimitusvaihtoehtoja vertailuineen, mikä auttaa asiakasta valitsemaan halvimman vaihtoehdon",
+    "Kattavat asiakaspalvelun yhteystiedot ja selkeät myymälöiden aukioloajat (MA-PE 8-20, LA 9-18, SU 10-18) sivustolla esillä",
+    "Yrityksen y-tunnus (2431081-2) ja palautus- ja takuuehdot julkisesti saatavilla, maksaminen turvallista SSL-yhteydessä"
+  ],
+  "kehityskohteet": [
+    "Verkkokauppaa ei ole integroitu chat-palvelun kanssa, mikä rajoittaa asiakkaan mahdollisuutta saada nopeaa apua verkkoostoksilla",
+    "Puuilon mobiilisovellusta ei mainita, vaikka verkkokaupoissa sovellukset parantavat ostokokemusta ja helpottavat seuraavien ostojen tekemistä",
+    "Riippumattomien asiakasarviolähteiden puuttuminen verkkokaupan sivustolla (ei linkkejä ulkopuolisiin arviolistauksiin tai asiakasarvioihin)"
+  ],
+  "yhteenveto": "Puuilo on suomalainen rakennustarvike- ja kodintarvikeketju, jonka verkkokauppa tarjoaa useimmat keskeiset transparenssitiedot asiakkaille. Hinnat, toimitusvaihtoehdot, palautusehdot ja yrityksen tunnistetiedot ovat selvästi esillä. Puutteina ovat chat-palvelu verkkokaupassa, mobiilisovelluksen puuttuminen ja riippumattomien asiakasarviolähteiden linkittämisen puute sivustolle.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotesivuilla hinnat näkyvät selvästi euroina sisältäen alv:n. Kassalla näytetään myös kokonaishinnat lisättynä toimituskulut.",
+    "toimitus_kerrottu": "HAVAINTO: Sivulla puuilo.fi/toimitustavat kuvataan yksityiskohtaisesti kaikki toimitusvaihtoehdot (myymälänouto, Posti Pikkupaketti, Matkahuolto, Posti Kotiinkuljetus). Toimituskulut näytetään kassalla ennen tilauksen vahvistamista.",
+    "palautusehdot_saatavilla": "HAVAINTO: Sivulla puuilo.fi/toimitus-ja-maksuehdot selostetaan, että kuluttajalla on oikeus peruuttaa tilaus 14 päivän kuluessa tuotteen vastaanottamisesta. Palautettavan tuotteen tulee olla käyttämätön ja alkuperäiskunnossa.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Sivuston footerissa ja asiakaspalvelusivulla mainitaan myymälöiden aukioloajat: MA-PE 8-20, LA 9-18, SU 10-18. Puuilolla on yli 50 myymälää eri puolilla Suomea.",
+    "y_tunnus_esilla": "HAVAINTO: Sivulla puuilo.fi/toimitus-ja-maksuehdot osiossa Myyjä ja yhteystiedot näkyy selvästi Y-tunnus: 2431081-2 ja postiosoite Vantaa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkitettyjä riippumattomia arviolähteitä, kuten Google-arvosteluja, Trustpilot-sivua tai muita ulkopuolisia asiakasarviopalveluja."
+  }
+}

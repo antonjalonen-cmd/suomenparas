@@ -1,0 +1,45 @@
+{
+  "slug": "bondata",
+  "fetched_ok": [
+    "https://henkilostopalvelut.bondata.fi/",
+    "https://henkilostopalvelut.bondata.fi/tyonhakijalle/",
+    "https://henkilostopalvelut.bondata.fi/meista/",
+    "https://bondata.fi/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "osittain",
+  "palkkatieto_ilmoituksissa": "osittain",
+  "tyosuhteen_ehdot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 68,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 62
+  },
+  "vahvuudet": [
+    "Y-tunnus ja perustiedot selvästi näkyvillä kaikilla sivuilla",
+    "Työsuhteen muodot kuvattu selkeästi: määräaikainen, vakituinen, osa-aikainen, kokoaikainen, keikkatyöntekijä, kausityöntekijä",
+    "Työnhakijoille dedikoidut sivut ja työkalupakki-osio tarjoavat neuvoja"
+  ],
+  "kehityskohteet": [
+    "Avoimet työpaikat eivät ole selkeästi selattavissa ilman kirjautumista tai ulkoista portaalia",
+    "Palkkatieto puuttuu lähes kokonaan näkyvistä ilmoituksista – bondata.fi mainitsee muutaman työpaikan mutta ilman palkkaa",
+    "Hakuprosessin yksityiskohtaiset vaiheet sivulla eivät ole selkeästi dokumentoituja; linkitys ulkoiseen portaaliin on epäselvä"
+  ],
+  "yhteenveto": "Bondata on henkilöstövuokraus- ja rekrytointipalveluyritys, joka tarjoaa laajan valikoiman työpaikkoja ympäri Suomea. Yrityksen tiedot ja työsuhteen muodot ovat selvästi dokumentoituja, mutta työpaikkojen selailu ja niistä saatava palkkatieto ovat vähäisiä julkisilla sivuilla. Haku näyttää ohjautuvan osittain ulkoiseen järjestelmään tai vaativan kirjautumista.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: henkilostopalvelut.bondata.fi/tyonhakijalle -sivulla mainitaan 'Katso avoimet työpaikat' ja bondata.fi etusivulla näkyy joitakin esimerkkejä työpaikoista (Liikenneasematyöntekijä, Pakkaava jäteauton kuljettaja jne.), mutta varsinainen selattava lista ei ole helposti löydettävissä.",
+    "hakuprosessi_kuvattu": "HAVAINTO: henkilostopalvelut.bondata.fi/tyonhakijalle -sivulla mainitaan 'Tee avoin hakemus' ja työnhakijoille tarjotaan työkalupakkia, mutta yksityiskohtainen hakuprosessin kuvaus (mitä vaiheita, kesto, seuranta) puuttuu.",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: bondata.fi -etusivulla näkyy muutama työpaikka (Liikenneasematyöntekijä St1 Oulosalo jne.) mutta yhdessäkään ei näy palkkaa tai palkkahaarukaa. Hakutulosten palkkatieto on epäselvä.",
+    "tyosuhteen_ehdot": "HAVAINTO: henkilostopalvelut.bondata.fi etusivulla tekstissä 'Määräaikainen, vakituinen, osa-aikainen, kokoaikainen, keikkatyöntekijä, kausityöntekijä – vuokratyöstä on moneksi!' ja meistä-sivulla 'Me tunnemme työn ja tekijät, ja ymmärrämme mitä hyvä työ vaatii'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0974659-7 näkyy jokaisella sivulla footerissa, osoite Åkerlundinkatu 11 D, 33100 Tampere.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilta ei löydy viitteitä riippumattomiin arvioihin, palkintoihin tai sertifikaatteihin."
+  }
+}

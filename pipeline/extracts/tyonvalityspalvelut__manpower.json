@@ -1,0 +1,48 @@
+{
+  "slug": "manpower",
+  "fetched_ok": [
+    "https://www.manpower.fi/",
+    "https://www.manpower.fi/blogi/",
+    "https://www.manpower.fi/en/",
+    "https://www.manpower.fi/en/blog/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "kylla",
+  "palkkatieto_ilmoituksissa": "osittain",
+  "tyosuhteen_ehdot": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Avoimet työpaikat selailtavissa ilman kirjautumista - 21 paikkaa näkyy etusivulla kategorioiden ja paikkakuntien mukaan",
+    "Hakuprosessi selkeästi kuvattu: hakemuksen voi tehdä täyttämällä lomakkeen tai linkittämällä LinkedIn-profiilin",
+    "Laaja blogi uraohjeilla - jobseeker-kokemukseen liittyviä artikkeleita työnhausta, haastatteluista ja cv:n laadinnasta"
+  ],
+  "kehityskohteet": [
+    "SPA-rakenne estää suurimman osan sivuista yhteydenottopyyntöihin vastaamisen - yhteystiedot näkyvät vain paikkakuntina, ei suoria puhelinnumeroita tai sähköposteja",
+    "Palkkatiedot eivät näkyvissä työnhakijoiden ladatessa etusivua - ei voida vahvistaa, ovatko ne yksittäisissä ilmoituksissa",
+    "Yrityksen Y-tunnus, riippumattomia arvioita tai tarkempia työsuhdetietojen selityksiä ei löydy etusivulta tai blogista"
+  ],
+  "yhteenveto": "Manpower on kansainvälinen henkilöstöpalveluyritys, jonka suomalainen sivusto tarjoaa avoimia työpaikkoja useilla aloilla. Etusivulla näkyvät työpaikat selailtavissa ilman rekisteröitymistä ja hakuprosessi on kuvattu, mutta sivuston SPA-rakenne estää yksityiskohtaisempien tietojen hakemisen. Yhteystiedot ovat osittain näkyvissä paikkakuntien tasolla.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: Etusivulla näkyy '21 Avoinna olevaa työpaikkaa' selattavissa kategorioittain ja paikkakunnittain ilman kirjautumisvaatimusta. Luetteloissa näkyy työpaikan nimi, paikkakunta ja 'HAE NYT' -painike.",
+    "hakuprosessi_kuvattu": "HAVAINTO: Sivuston sisällössä kuvataan: 'Työpaikkaa pääset hakemaan Hae nyt -kohdasta. Täytä hakulomake ohjeiden mukaan. Voit hakea työpaikkaa joko täyttämällä hakulomakkeen tai yhdistämällä LinkedIn-profiilisi hakemukseen, minkä jälkeen lisäät hakemuksesi ja CV:si.'",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: Etusivun job-listausosassa näkyviä ilmoituksia ei voida ladata täysimääräisesti. Ei voitu vahvistaa, sisältävätkö yksittäiset ilmoitukset palkkatieto. SPA-rakenne esti sivun sisäisten linkkien seuraamiseen.",
+    "tyosuhteen_ehdot": "HAVAINTO: Blogissa mainitaan vuokratyösuhteita ja henkilöstöpalvelua, mutta yksityiskohtaiset työsuhteen muodot ja ehdot eivät ole näkyvissä etusivulla. Sisäiset sivut jäivät saavuttamattomaksi.",
+    "y_tunnus_esilla": "HAVAINTO: Yrityksen Y-tunnusta ei löytynyt etusivulta, blogista tai muista ladatuista osista.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arviointiorganisaatioita tai sertifikaatteja ei mainittu ladatuissa osissa.",
+    "puhelin_esilla": "HAVAINTO: Navigaatiossa näkyy 'Yhteystiedot' Helsinki, Tampere, Turku, Kuopio, mutta suoria puhelinnumeroita ei voida vahvistaa etusivulla. Tarkemmat yhteystiedot näyttäisivät olevan vain sisäisissä sivuissa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteita ei näkyvissä etusivulla tai blogissa. Yhteystiedot-sivusto näyttäisi sisältävän ne, mutta se ei ollut saavutettavissa.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa näkyy 'Työnhakijoiden kysymyksiä' ja englanninkielisessä 'Questions & Answers', mutta FAQ-sisältö ei ollut ladattavissa SPA-rakenteen takia."
+  }
+}

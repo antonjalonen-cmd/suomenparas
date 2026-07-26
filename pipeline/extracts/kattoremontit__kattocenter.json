@@ -1,0 +1,53 @@
+{
+  "slug": "kattocenter",
+  "fetched_ok": [
+    "https://www.kattocenter.fi/",
+    "https://kattocenter.fi/fi/kattoremontti/",
+    "https://kattocenter.fi/fi/yhteystiedot/",
+    "https://kattocenter.fi/fi/referenssit/asiakastarinat/",
+    "https://kattocenter.fi/fi/kattoremontti/katon-huoltosopimus/",
+    "https://kattocenter.fi/fi/referenssit/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 62,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Viiden vaiheen kattoremonttiprosessin yksityiskohtainen kuvaus jokaisen vaiheen sisällöstä auttaa asiakasta ymmärtämään remontin kulkua",
+    "Kolmen kattomateriaalin (peltikatto, huopakatto, tiilikatto) vertailu teknisine ominaisuuksineen ja elinkaaren odotuksilla",
+    "Selkeä takuuinformaatio: viiden vuoden työtakuu sekä jopa kahdenkymmenen vuoden takuu huoltosopimuksella"
+  ],
+  "kehityskohteet": [
+    "Konkreettisten hintatietojen puute: sivustolla kerrotaan hinnoittelun tekijät mutta ei anneta esimerkkihintoja tai interaktiivista hintalaskuria",
+    "Riippumattomien asiakasarviointien puute: vain yrityksen omat asiakaskertomukset eikä ulkopuolisten arviointilähteisiin linkkejä",
+    "Navigaation ongelmia: 'Kattoremontin hinta' -linkki päänavigaatiosta johtaa 404-virheeseen eikä toimi"
+  ],
+  "yhteenveto": "Suomen KattoCenter on kattoremontteihin erikoistunut yritys, joka tarjoaa asiakkaille yksityiskohtaisen prosessin kuvauksen, kolmen kattoaineen teknisen vertailun ja selkeät takuuehdot. Sivusto on selkeästi rakennettu ja sisältää runsaasti informaatiota remontin vaiheista ja materiaaleista, mutta konkreettiset hintatiedot ja riippumattomat asiakasarviot puuttuvat.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Sivustolla käsitellään hinnoittelun tekijöita (purkutöiden laajuus, asennustyöt, kattoturvatuotteet, materiaalivalinnat), mainitaan huoltosopimus 299 eurosta vuodessa ja OP-rahoitus, mutta ei anneta konkreettisia hintoja tai laskuria.",
+    "prosessi_kuvattu": "HAVAINTO: Remontin kulku on kuvattu viidessä yksityiskohtaisessa vaiheessa: maksuton kartoituskäynti, asiakkaan osallistuminen suunnitteluun, materiaalien valinta, purkutyöt ja asennus, sekä viimeistelytyöt ja loppukatselmus.",
+    "takuut_kerrottu": "HAVAINTO: Sivusto mainitsee viiden vuoden työtakuun kaikille kattoremonttitöille, materiaalitakuun valmistajan ehtojen mukaan, sekä huoltosopimuksella jatkettavan kahdenkymmenen vuoden takuun.",
+    "materiaalit_kuvattu": "HAVAINTO: Kolme pääkattomateriaalia on kuvattu teknisesti: peltikatto (kevyt, kestävä, yli 50 vuotta), huopakatto (vesitiivis, hiljainen, 30-40 vuotta), tiilikatto (pitkäikäinen, ympäristöystävällinen, usean sukupolven käyttöikä).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 3146636-4 on näkyvillä sivuston jalassa kaikilla sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia riippumattomista arviointilähteistä kuten Google-arvioista, Trustpilot-arviosta tai muista kolmannen osapuolen arvioista. Ainoastaan yrityksen omia asiakaskertomuksia ja King of Roofs -kilpailuvoittoja mainitaan.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla on lueteltu useiden avainhenkilöiden puhelinnumerot (myynti, projektipäälliköt, työnjohto), ja etusivulla on yhteydenottomuoto, joka mainitsee puhelinyhteydottamisen.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet toimisto@kattocenter.fi, myynti@kattocenter.fi, laskutus@kattocenter.fi ja etunimi.sukunimi@kattocenter.fi ovat näkyvillä yhteystiedot-sivulla.",
+    "chat_mainittu": "HAVAINTO: Yhteyskanavaksi mainitaan vain puhelimitse tai sähköpostitse. Keskustelutoimintoa (chat) ei ole mainittu millään sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ma-pe 09.00-15.00 on näkyvillä sivuston jalassa ja yhteystiedot-sivulla.",
+    "ukk_osio": "HAVAINTO: Kattoremontti-sivulla on sisällytetty usea usein kysytty kysymys esimerkiksi 'Milloin on oikea aika kattoremontille?' ja muita, mutta omaa erillistä UKK-osiota ei ole (sivu palauttaa 404-virheen).",
+    "mobiilisovellus": "HAVAINTO: Sivustolla ei ole mainintaa mobiilisovelluksesta."
+  }
+}

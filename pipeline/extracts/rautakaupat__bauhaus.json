@@ -1,0 +1,46 @@
+{
+  "slug": "bauhaus",
+  "fetched_ok": [
+    "https://www.bauhaus.fi/",
+    "https://www.bauhaus.fi/tavaratalot",
+    "https://www.bauhaus.fi/info/toimitusehdot",
+    "https://www.bauhaus.fi/info/asiakaspalvelu",
+    "https://www.bauhaus.fi/tarjoukset"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Erittain selkeät ja yksityiskohtaiset toimitusehdot useilla toimitusvaihtoehdoilla ja hinnoilla julkisesti saatavilla",
+    "Monipuoliset maksamisen ja toimittamisen vaihtoehdot, ilmainen nouto tavaratalosta ja kotiin tuotava palvelu",
+    "Asiakaspalvelu helposti saavutettavissa puhelimitse, sähköpostilla ja 24/7 chatbotilla"
+  ],
+  "kehityskohteet": [
+    "Tuotehinnat vaativat JavaScript-renderöintiä eivätkä näy staattisessa HTML-sisällössä, mikä heikentää hintojen löydettävyyttä",
+    "Yrityksen Y-tunnus puuttuu verkkosivuilta kokonaan, vaikka se on keskeinen luottamuksen tekijä",
+    "Riippumattomia arvioita tai sertifiointi-/laatutietoja ei ole saatavilla omilla verkkosivuilla"
+  ],
+  "yhteenveto": "Bauhaus on suomalainen rautakauppaketju, joka tarjoaa laajan valikoiman rakentamisen, remontoinnin ja piha-alan tuotteita. Verkkosivuilla on erittäin selkeät ja yksityiskohtaiset toimitusehdot, useita toimitusvaihtoehtoja kustannuksineen sekä hyvä asiakaspalvelu. Hintojen löydettävyys heikentää kuitenkin käyttäjäkokemusta JavaScript-renderöinnin vuoksi, eikä sivuilla ole yrityksen Y-tunnusta tai riippumattomia arvioita.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tarjoukset-sivulla (https://www.bauhaus.fi/tarjoukset) näkyy tuotehakemiston rakenne ja joitain hintoja (esim. 575,-, 499,-) staattisessa HTML:ssä, mutta suurin osa hinnoista vaatii JavaScript-renderöintiä, mikä ei ole saatavilla normaaleilla fetch-työkaluilla.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla (https://www.bauhaus.fi/info/toimitusehdot) kaikki toimitusvaihtoehdot on kuvattu yksityiskohtaisesti hinnoitteineen: PostNord 5.90 EUR, DB Schenker 4.90 EUR, kotiin 11.90-599.00 EUR, ilmainen tavaratalosta nouto. Toimitusajat mainittu (1-4 arkipäivää, haja-alueilla 2-8 päivää).",
+    "palautusehdot_saatavilla": "HAVAINTO: Tavaratalot-sivulla mainittu 'Jopa 30 pv vaihto- ja palautusoikeus' ja '5-vuoden BAUHAUS takuu'. Toimitusehdot-sivulla yksityiskohtaisesti kuvattu reklamaatiomenettely ja tuotteiden tarkastus vastaanottohetkellä.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Tavaratalot-sivulla (https://www.bauhaus.fi/tavaratalot) on linkki myymälöiden etsintään postinumerolla. Asiakaspalvelu-sivulla mainittu myymälöiden aukioloajat: ma-pe 8.00-20.00, la 9.00-18.00, su 10.00-18.00. Pääkonttori osoite: Tammiston kauppatie 19, 01510 Vantaa.",
+    "y_tunnus_esilla": "HAVAINTO: Verkkosivuilla näkyy yrityksen rekisteröity nimi 'BAUHAUS & Co. Ky' (JSON-LD schemassa ja footerissa), mutta Y-tunnusta (yritystunnusta) ei ole julkisesti saatavilla käytetyillä sivuilla.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei näy linkkejä riippumattomiin arviointilähteisiin, sertifikaatteihin tai kolmannen osapuolen arviointeihin. Kaikki näkyvä sisältö on yrityksen oman verkkosivun sisältöä."
+  }
+}

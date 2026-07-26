@@ -1,0 +1,56 @@
+{
+  "slug": "valo",
+  "fetched_ok": [
+    "https://www.silmasairaalavalo.fi/",
+    "https://www.silmasairaalavalo.fi/laserleikkaus/",
+    "https://www.silmasairaalavalo.fi/kaihileikkaukset/",
+    "https://www.silmasairaalavalo.fi/ajanvaraus/",
+    "https://www.silmasairaalavalo.fi/yhteystiedot/",
+    "https://www.silmasairaalavalo.fi/asiantuntijat/",
+    "https://www.silmasairaalavalo.fi/tuotteet/"
+  ],
+  "hinnat_esilla": "osittain",
+  "menetelmat_kuvattu": "kylla",
+  "varaus_verkossa": "kylla",
+  "takuu_tai_jalkitarkastus": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "laserleikkaus_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Laserleikkausmenetelmät selkeasti dokumentoitu (FemtoLASIK, SMILE, Supracor)",
+    "Ajanvaraus saatavilla verkkosivuston kautta, puhelimitse ja paikan päälle tulo mahdollista",
+    "Laajennettu asiantuntija-kokoonpano ja ammattilaiset listattu kontaktitiedoilla"
+  ],
+  "kehityskohteet": [
+    "Leikkausten hinnat eivät saatavilla julkisesti ilman yhteydenottoa, hintalomake tai arviohinta puuttuu",
+    "Y-tunnus ja yritystiedot puuttuvat verkkosivuilta, laillisesti vaadittavat yritystiedot helposti löydettäviksi",
+    "Usein kysyttyä -osio linkitetty mutta sivu palauttaa 404, asiakkaat eivät löydä vastauksia yleisiin kysymyksiin"
+  ],
+  "yhteenveto": "Silmäsairaala Valo on Helsinkiin ja Kouvolaan sijoittuva yksityinen silmäsairaala, joka tarjoaa laserleikkauksia, kaihileikkauksia ja muita silmäkirurgisia palveluja. Sivusto esittelee selkeästi kirurgisia menetelmiä ja kokeneita lääkäreitään, mutta leikkausten hinnat jäävät löytämättä ilman suoraa yhteydenpanoa.  Ajanvaraus on mahdollista verkossa, ja perustiedot saatavilla puhelimitse ja sähköpostitse.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivulla mainitaan 'Palvelut ja hinnasto' -linkki, mutta se palauttaa 404. Leikkausten hinnat eivät ole julkisesti saatavilla etusivulla, laserleikkaus-sivulla, kaihileikkaus-sivulla tai tuotteet-sivulla. Ainoastaan kuivasilmähoittuotteiden hinnat ovat näkyvissä (kosteutustipat 20-37 euroa). Leikkaushinnoista tulee ottaa yhteyttä suoraan.",
+    "menetelmat_kuvattu": "HAVAINTO: Laserleikkaus-sivulla esitellään kolme menetelmää: FemtoLASIK, SMILE ja Supracor-laserhoito. Kaihileikkaukset mainitaan asiakastarinoissa moniteholinsseillä tehtynä. Sarveiskalvo-, glaukooma-, luomi- ja verkkokalvosairaudet kuvataan omilla sivuillaan.",
+    "varaus_verkossa": "HAVAINTO: Ajanvaraus-sivulla lukee 'Siirry ajanvaraukseen' -linkki, joka vie verkkopohjaisen varausjärjestelmään. Sivulla voidaan valita toimipaikka (Helsinki tai Kouvola) ja varata aika. Vaihtoehtoina mainitaan myös puhelimitse varaaminen numeroon 0101 9 2020.",
+    "takuu_tai_jalkitarkastus": "HAVAINTO: Laserleikkaus-sivulla todetaan 'kattava takuumme antaa turvaa mahdollisten jatkohoitojen varalta' ja 'Säännölliset seurantakäynnit varmistavat toipumisen edistymisen tarkkailun.' Asiakastarina Merina Hovista kertoo 'jälkitarkastuskin on suoritettu'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy miltään sivulla. Yritystietojen osio puuttuu kokonaan, kaikilla sivuilla vain kontaktiosio eli osoitteet ja puhelinnumerot.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai sertifiointeja (kuten Google-arvostelut tai Trustpilot) ei ole verkkosivulla näkyvissä. Sivulla olevia asiakastarinoita ei voi pitää riippumattomina lähteinä, koska ne on valittu ja julkaistu sairaalassa.",
+    "puhelin_esilla": "HAVAINTO: Pääpuhelin 0101 9 2020 näkyy etusivulla. Toimipisteittäin: Helsinki +358 101 9 2021 ja Kouvola +358 101 9 2022. Kaikilla sivuilla näkyy yhteystietojen osio kahdella puhelinnumerolla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät kaikilla sivuilla ja yhteystiedot-sivulla: helsinki@silmasairaalavalo.fi ja kouvola@silmasairaalavalo.fi.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita missään.",
+    "aukioloajat_esilla": "HAVAINTO: Etusivu sekä JS-renderoitu versio merkitsevät 'Puhelinpalvelumme on auki arkisin klo 8-16.' Yhteystiedot-sivulla mainitaan sama: 'Puhelinpalvelumme on auki arkisin klo 8-16.'",
+    "ukk_osio": "HAVAINTO: Navigaatiossa ja footerissa näkyy linkki 'Usein kysyttyä', mutta sivu palauttaa HTTP 404 -virheen.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita verkkosivuilla.",
+    "laserleikkaus_hinta_alkaen_eur": "HAVAINTO: Laserleikkauksen hintaa ei mainittu verkkosivuilla. Hintatiedot vaatisivat yhteydenoton."
+  }
+}

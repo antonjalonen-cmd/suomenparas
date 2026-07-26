@@ -1,0 +1,51 @@
+{
+  "slug": "staffpoint",
+  "fetched_ok": [
+    "https://www.staffpoint.fi/",
+    "https://www.staffpoint.fi/spring-house",
+    "https://www.staffpoint.fi/tyonantajat",
+    "https://www.staffpoint.fi/en",
+    "https://www.staffpoint.fi/en/career-and-jobs"
+  ],
+  "tyopaikat_esilla": "osittain",
+  "hakuprosessi_kuvattu": "osittain",
+  "palkkatieto_ilmoituksissa": "osittain",
+  "tyosuhteen_ehdot": "ei",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 60,
+    "hintojen_loydettavyys": 40,
+    "sisallon_kattavuus": 45
+  },
+  "vahvuudet": [
+    "Selkeä yhteystietojen esittäminen kahdella puhelinnumerolla ja fyysisellä osoitteella",
+    "Kattava Spring House -palveluvalikoima työnhakijoiden urakehitykseen ja valmennukseen",
+    "Moninaiset työpaikat eri toimialoilla ja sesonkityöt selkeästi esillä"
+  ],
+  "kehityskohteet": [
+    "Työnhakijoiden näkökulmasta dokumentoidun hakuprosessin puuttuminen",
+    "Yritysrekisterinumeron ja juridisen tiedon puuttuminen julkiselta verkkosivustolta",
+    "Monet sisältösivut palauttavat 404-virheitä, mikä heikentää saavutettavuutta ja luottamusta"
+  ],
+  "yhteenveto": "StaffPoint on suomalainen henkilöstövuokraus- ja rekrytointipalvelujen yritys, joka tarjoaa työnhakijoille pääasiassa hakuportaalin kautta löydettävissä olevia työpaikkoja. Sivusto on selvästi suunniteltu työnantajille ja niiden palveluntarpeille, kun taas työnhakijapuoli jää suppeammaksi ja monilta osin dokumentoitavien sivujen puuttuessa epäselvemmäksi. Spring House -palvelun kautta yhtiö tarjoaa laajempaa uratukea ja koulutusta.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: Avoimet työpaikat -hakutoiminto näkyy etusivulla, mutta varsinaisten ilmoitusten selaamiseen vaaditaan evästeiden hyväksymys ja vuorovaikutus hakuportaalin kanssa",
+    "hakuprosessi_kuvattu": "HAVAINTO: Sivuilla mainitaan 'löydä omaan tilanteeseesi sopiva ja hae', mutta yksityiskohtaista hakuprosessin dokumentaatiota ei ole saatavilla; /hakuprosessi-sivu palauttaa 404-virheen",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: Palkkatietoja ei voitu varmentaa, koska varsinaiset työnilmoitukset ovat hakuportaalin takana, johon ei voitu päästä ilman vuorovaikutusta",
+    "tyosuhteen_ehdot": "HAVAINTO: Työsuhteen muodoista ja ehdoista ei löytynyt dokumentaatiota; /tyosuhteen-ehdot-sivu palauttaa 404-virheen",
+    "y_tunnus_esilla": "HAVAINTO: Yritysrekisterinumeroa (Y-tunnusta) ei ole näkyvissä millään julkisella verkkosivulla",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla näkyvät arviot ja referenssit ovat StaffPointin asiakkaiden (työnantajien) referenssejä, eivät riippumattomia kolmannen osapuolen arviointeja",
+    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa on selvästi listattuna sivustolla: 0800 176105 ja 09 726 2800",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteita on näkyvissä erityisten yhteyshenkilöiden osalta (esim. minna.arneal@staffpoint.fi), mutta yleistä yhteydenottosähköpostia ei ole helposti löydettävissä pääsivuilta",
+    "chat_mainittu": "HAVAINTO: Keskustelutoimintoa (chat-tukea) ei mainittu missään saatavilla olevissa sivuosioissa",
+    "aukioloajat_esilla": "HAVAINTO: Liiketoiminnon aukioloaikoja ei ole ilmoitettu verkkosivuilla",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä' -osio on näkyvissä työnantajille suunnatuilla sivuilla (mm. 'Miten henkilöstövuokraus toimii', 'Mitä se maksaa'), mutta työnhakijoille suunnattua FAQ-osiota ei ole saatavilla"
+  }
+}

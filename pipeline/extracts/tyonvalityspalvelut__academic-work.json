@@ -1,0 +1,46 @@
+{
+  "slug": "academic-work",
+  "fetched_ok": [
+    "https://www.academicwork.fi/",
+    "https://www.academicwork.fi/tyonhakijoille/",
+    "https://www.academicwork.fi/avoimet-tyopaikat/",
+    "https://www.academicwork.fi/tietoa-meista/",
+    "https://www.academicwork.fi/yhteystiedot/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "kylla",
+  "palkkatieto_ilmoituksissa": "ei",
+  "tyosuhteen_ehdot": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 20,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Avoimet työpaikat ovat selattavissa helposti ilman kirjautumista - 99 avointa paikkaa näkyvillä /avoimet-tyopaikat/ sivulla",
+    "Hakuprosessi on kuvattu selkeästi sisältäen testit, haastattelut ja profilin luomisen",
+    "Yhteystiedot ja toimistojen sijainnit ovat helposti löydettävissä (puhelin +358 106 805 600, sähköposti info@academicwork.fi, toimistot Espoossa ja Tampereella)"
+  ],
+  "kehityskohteet": [
+    "Palkkatieto puuttuu kokonaan työilmoituksista - hakijat eivät voi arvioida taloudellista sopivuutta ennen hakemusvaihetta",
+    "Työsuhteen ehdot ja muodot jäävät epäselviksi - ilmoituksissa näkyvät vain lyhyet koodit (Kokoaikainen, Osa-aikainen, Suorarekrytointi, Vuokratoimeksianto)",
+    "Y-tunnus ja muut yritystiedot puuttuvat sivustolta - riippumatonta arviota tai luottamusmerkkejä ei ole helposti näkyvillä"
+  ],
+  "yhteenveto": "Academic Work on Suomeen vuonna 1998 perustettu henkilöstöpalveluyritys, joka erikoistuu korkeakoulutettujen uran alkuvaiheen osaajien rekrytointiin. Sivusto mahdollistaa 99 avoimen työpaikan selayksen ilman sisäänkirjautumista ja kuvaa rekrytointiprosessia selkeästi, mutta palkkatieto puuttuu ilmoituksista ja yritystiedot ovat puutteelliset.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: /avoimet-tyopaikat/ sivulla näkyvät 99 avointa työpaikkaa, joita voi selata ilman sisäänkirjautumista. Ilmoituksissa näkyvät työn otsikko, yritys, sijainti, työsuhteen tyyppi ja palkkausmuoto.",
+    "hakuprosessi_kuvattu": "HAVAINTO: /tyonhakijoille/ sivulla kuvataan prosessia seuraavasti: 'Rekrytointiprosessi vaihtelee tehtävästä riippuen, mutta siihen sisältyy yleensä loogisen päättelyn testi ja persoonallisuustesti sekä haastatteluja etänä ja kasvokkain.' Sivulla kerrotaan myös profiilin luomisen ja hakemusten lähettämisen prosessista.",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: /avoimet-tyopaikat/ sivulla olevia ilmoituksia tarkasteltaessa yksikään ei sisällä palkkaa tai palkkahaarukkaa. Ilmoituksissa näkyvät vain työn otsikko, yritys, sijainti, työsuhteen tyyppi ja palkkausmuoto.",
+    "tyosuhteen_ehdot": "HAVAINTO: Työsuhteen tyypit on merkitty lyhyesti ilmoituksissa (Kokoaikainen, Osa-aikainen) ja palkkausmuoto (Suorarekrytointi, Vuokratoimeksianto), mutta yksityiskohtaisia ehtoja tai muita työsuhteen tietoja ei ole saatavilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy /tietoa-meista/, /yhteystiedot/ tai /avoimet-tyopaikat/ sivuilta. Muut yritystietosivut (Käyttöehdot, Tietosuojaseloste) palauttavat 404-virheen.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvillä riippumatonta arviota, arvosteluja tai luottamusmerkkejä (kuten Luotettava Kumppani -merkki) saatavilla ensisijaisilla sivuilla."
+  }
+}

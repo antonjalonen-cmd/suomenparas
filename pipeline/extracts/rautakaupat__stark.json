@@ -1,0 +1,50 @@
+{
+  "slug": "stark",
+  "fetched_ok": [
+    "https://www.stark-suomi.fi/",
+    "https://www.stark-suomi.fi/yhteystiedot",
+    "https://www.stark-suomi.fi/myymälät",
+    "https://www.stark-suomi.fi/toimitustavat",
+    "https://www.stark-suomi.fi/vaihto-ja-palautus",
+    "https://www.stark-suomi.fi/kayttoehdot"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 52,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Laaja tuotevalikoima 10+ kategorialla ja kattava rautakaupan tuotesarja",
+    "Helppo yhteydenotto: puhelinnumero, sähköposti ja live-chat-palvelu (Giosg) selvästi saatavilla",
+    "Myymälätiedot ja aukioloajat löydettävissä verkosta, useita toimipisteitä eri puolilla Suomea"
+  ],
+  "kehityskohteet": [
+    "Tuotteiden hinnat eivät näy suoraan kategoriasivuilla ilman klikkailua, vaatii JavaScript-rendering joka hidastaa hintakäytettävyyttä",
+    "Toimitus- ja palautusehtojen yksityiskohdat vaativat sisälle navigointia, ei yhtenäinen 'Kaikki ehdot' -sivu",
+    "Asiakasarviot tai riippumaton arviointi (kuten kuntaluottamus tai ulkopuolisten kyselyjen tulokset) puuttuvat kokonaan"
+  ],
+  "yhteenveto": "Stark Suomi on pääsuomalainen rautakauppa, jolla on laaja verkkopalvelu kategorisoiduin tuottein ja useita toimipisteitä. Asiakaspalvelu on helposti saatavilla puhelimitse, sähköpostitse ja livechatilla, ja myymälätiedot ovat julkisesti näkyvillä. Tuotteiden hinnat ja toimitusehdot sisältyvät sivuihin, mutta edellyttävät JavaScriptin renderöintiä ja sisälle navigointia, mikä heikentää löydettävyyttä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotekategoriat latautuvat sivustolla, mutta yksittäisten tuotteiden hinnat eivät näy staattisessa HTML:ssä. Hinnat vaativat JavaScript-renderöintiä selaimen puolella, joten ne ovat osittain näkyvillä kylläkin sivun ladattua, mutta eivät välittömästi helposti havaittavissa.",
+    "toimitus_kerrottu": "HAVAINTO: Sivusto sisältää '/toimitustavat' -sivun jonka otsikko on 'Toimitustavat', ja kontaktisivulla mainitaan 'Toimitustavat' linkkiin. Sisällön yksityiskohdista (kulut, ajat) ei voitu varmasti lukea JavaScript-renderöinnin rajoituksista johtuen.",
+    "palautusehdot_saatavilla": "HAVAINTO: Sivusto sisältää '/vaihto-ja-palautus' -sivun, mutta sen yksityiskohtaisen sisällön hakeminen ei onnistunut täysin automated-haulla JavaScript-renderöinnin takia. Ehdot ovat olemassa mutta niiden saatavuus oli osittainen mittauksessa.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Kontaktisivulla sanotaan: 'Myymälöiden yhteystiedot löydät täältä' ja 'Myymälöiden sivuilta löydät osoitteet, aukioloajat sekä myyjien yhteystiedot.' Myymälät-sivu löytyy osoitteesta /myymälät.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2043575-7 löytyi /kayttoehdot -sivulta tekstissä: 'Palvelun omistaa Stark Suomi Oy, Olarinluoma 15, 02200 LAHTI, Y-tunnus: 2043575-7'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei löydy viitauksia riippumattomiin arviointilähteisiin tai kuntaluottamuksiin. Asiakaspalautteet tai ulkopuolisten arvioiden merkinnyt puuttuvat.",
+    "puhelin_esilla": "HAVAINTO: Kontaktisivulla näkyy: asiakaspalvelu@stark-suomi.fi ja puhelinnumero 093 541 0000 selvästi julkisesti saatavilla.",
+    "email_esilla": "HAVAINTO: Kontaktisivulla näkyy sähköpostiosoite asiakaspalvelu@stark-suomi.fi ja lisäksi laskutusosoite verkkolaskut@stark-suomi.fi.",
+    "chat_mainittu": "HAVAINTO: Sivuston evästetiedoissa mainitaan Giosg.com chat-palvelu, jonka evästeet 'giosg_chat_id_xxx' ja 'sgid' olivat näkyvissä kaikilla sivuilla."
+  }
+}

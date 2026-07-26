@@ -1,0 +1,49 @@
+{
+  "slug": "pilke",
+  "fetched_ok": [
+    "https://www.silmasairaalapilke.fi/",
+    "https://www.silmasairaalapilke.fi/palvelumme/silmaleikkaukset",
+    "https://www.silmasairaalapilke.fi/tietoa-yrityksesta/hinnasto",
+    "https://www.silmasairaalapilke.fi/ajanvaraus",
+    "https://www.silmasairaalapilke.fi/tutustuttavaksenne/asiakkaiden-kokemukset",
+    "https://www.silmasairaalapilke.fi/tietoa-yrityksesta/henkilokuntamme",
+    "https://www.silmasairaalapilke.fi/tietoa-yrityksesta/kampanjat"
+  ],
+  "hinnat_esilla": "kylla",
+  "menetelmat_kuvattu": "kylla",
+  "varaus_verkossa": "kylla",
+  "takuu_tai_jalkitarkastus": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "laserleikkaus_hinta_alkaen_eur": 995,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnat selvästi näkyvissä kampanjasivulla ilman yhteydenottopakotetta",
+    "Laajat leikkausmenetelmien selitykset ja asiakkaiden kokemukset dokumentoitu",
+    "Verkkoajanvaraus saatavilla useille toimipisteille"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus puuttuu sivustolta kokonaan",
+    "Hinnaston PDF-muoto rajoittaa vertailukelpoisuutta ja hintojen löydettävyyttä",
+    "Usein kysytyt kysymykset (FAQ) sekä itsenäiset arviointijärjestelmät puuttuvat"
+  ],
+  "yhteenveto": "Silmäsairaala Pilke on laajalti saatavilla oleva silmäkirurgian tarjoaja seitsemällä toimipisteellä Suomessa. Sivusto esittää selkeästi leikkausmenetelmät ja hinnat, sekä mahdollistaa verkkoajanvarauksen, mutta puutteet Y-tunnuksessa, FAQ-osiossa ja riippumattomissa arvioinneissa heikentävät läpinäkyvyyttä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kampanjasivulla näkyvät hinnat: laserleikkaus 995 €/silmä, kaihileikkaus alkaen 1295 €/silmä, linssileikkaus alkaen 2495 €/silmä. Hinnat näkyvät ilman yhteydenottoa.",
+    "menetelmat_kuvattu": "HAVAINTO: /palvelumme/silmaleikkaukset -sivulla kuvataan laserleikkaus, linssileikkaus, harmaakaihileikkaus, silmänsisäinen piilolinssi, luomileikkaukset ja lasiais-verkkokalvoleikkaukset. Jokaisella on omat selitykset.",
+    "varaus_verkossa": "HAVAINTO: /ajanvaraus -sivulla näkyvät 'VARAA AIKA' -painikkeet useille toimipisteille (Espoo, Helsinki, Jyväskylä, Tampere, Turku, Vaasa). Oulu-toimipisteen ajanvaraus tapahtuu puhelimitse.",
+    "takuu_tai_jalkitarkastus": "HAVAINTO: /palvelumme/silmaleikkaukset -sivulla kerrotaan: 'Jälkikontrollin ajankohta vaihtelee suoritetun leikkauksen mukaan, ollen tavallisimmin noin yhden kuukauden kuluttua toimenpiteestä.' Jälkitarkastukset sovitaan kotiutuessa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä millään tarkistetuista sivuista. Footer sisältää vain tekijänoikeustekstin ja GDPR-linkin.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviointijärjestelmiin tai rating-palveluihin. Vain omia asiakastarinoita on dokumentoitu."
+  }
+}

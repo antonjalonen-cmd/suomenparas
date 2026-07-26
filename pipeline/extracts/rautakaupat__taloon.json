@@ -1,0 +1,49 @@
+{
+  "slug": "taloon",
+  "fetched_ok": [
+    "https://www.taloon.com/",
+    "https://www.taloon.com/palvelut",
+    "https://www.taloon.com/yritys/yhteystiedot",
+    "https://www.taloon.com/tietosuojaseloste",
+    "https://www.taloon.com/ohjeet-ja-ideat"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Laaja tuotevalikoima yli 250 000 tuotteella löytyy rakentamisen, remontoimisen ja sisustamisen tarvikkeet",
+    "Selkeä hintaesittely verkkokaupassa ja useat maksuvaihto-ehdot (pankkiyhteys, luottokortti, osamaksu, lasku)",
+    "Helppo asiakas- ja myyntipalvelu puhelimitse, sähköpostilla ja palvelumyymälässä Tammistossa"
+  ],
+  "kehityskohteet": [
+    "Palautusehdoista ja takuutiedoista ei saa helposti tietoa verkkokaupasta (sivuja ei voitu ladata)",
+    "Toimitusta koskevia tietoja (kustannukset, menetelmät) ei näy selkeästi ennen kassalle siirtymistä",
+    "Ei chat-tukea tai mobiilisovellusta, asiakkaiden on käytettävä puhelinta tai sähköpostia yhteydenottoon"
+  ],
+  "yhteenveto": "Taloon.com on laaja rautakauppa, jonka toimittaa Bygghemma Finland Oy. Verkkokaupasta löytää selkeät tuotteen hinnat ja runsaasti maksuvaihtoehdon sekä yhteystiedot. Palvelumyymälä Tammistossa tukee kotiinkuljetusta ja asennuspalvelua. Puutteiden joukossa ovat epäselvästi esitetyt palautus- ja toimitustiedot sekä puuttuva chat-palvelu.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotehinnat kuten 281,90 euroa ja 146,90 euroa sekä useiden muiden tuotteiden hinnat. Hinnat ovat näkyvissä myös palvelumyymälään liittyvissä tiedoissa.",
+    "toimitus_kerrottu": "HAVAINTO: Verkkokaupassa mainitaan maksu- ja kuljetusvaihtoehdoista, mutta sivut 'Palautus ja vaihto' ja 'Tilausehdot' palauttivat 404 virheen, joten toimituksesta ja kuluista kertomisen täydellisyyttä ei voida vahvistaa ennen kassalle siirtymistä.",
+    "palautusehdot_saatavilla": "HAVAINTO: Sivujen 'Palautus ja vaihto' ja 'Tilausehdot' avaaminen epäonnistui (HTTP 404), joten palautus- ja takuuehdoista ei saatu vahvistusta. Alavalikosta näkyy linkit näihin sivuihin, mutta ne eivät ole käytettävissä.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Palvelumyymälä sijaitsee Tammistossa, Vantaalla. Aukioloajat ovat arkisin klo 10-20 ja lauantaisin klo 10-16. Myyntipalvelun puhelinpalvelu palvelee ma klo 9-21, ti-pe klo 9-20, la klo 10-14 ja su klo 17-21.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteesta löytyy Y-tunnus: 1870108-3. Yhtiön nimi on Bygghemma Finland Oy ja osoite Junailijankatu 15, 11100 Riihimäki.",
+    "riippumaton_arvio": "HAVAINTO: Verkkokaupan sivuilla on artikkeleita tuotteista kuten 'Paras ilmalämpöpumppu 2026', 'Paras lumilinko 2026', 'Paras puukiuas 2026' ja 'Paras moottorisaha 2026', joissa verrataan eri merkkejä ja mallia asiakkaiden kokemusten perusteella.",
+    "puhelin_esilla": "HAVAINTO: Myyntipalvelun puhelinnumero 010 440 9200 näkyy useilla sivuilla, mukaan lukien etusivulla ja palvelut-sivulla. Puhelun hinta on matkapuhelin- tai paikallisverkkomaksu.",
+    "email_esilla": "HAVAINTO: Kaksi sähköpostiosoitetta ovat näkyvissä: myynti@taloon.com myyntipalvelulle ja asiakaspalvelu@taloon.com asiakaspalvelulle.",
+    "aukioloajat_esilla": "HAVAINTO: Myyntipalvelun aukioloajat on esitetty selkeästi: ma 9-21, ti-pe 9-20, la 10-14, su 17-21. Palvelumyymälän Tammiston aukioloajat ovat arkisin 10-20 ja lauantaisin 10-16."
+  }
+}

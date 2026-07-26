@@ -1,0 +1,47 @@
+{
+  "slug": "eezy",
+  "fetched_ok": [
+    "https://eezy.fi/",
+    "https://tyopaikat.eezy.fi/",
+    "https://eezy.fi/meista/",
+    "https://eezy.fi/yhteystiedot/",
+    "https://eezy.fi/yrityksille/henkilostovuokraus/",
+    "https://eezy.fi/sijoittajille/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "osittain",
+  "palkkatieto_ilmoituksissa": "osittain",
+  "tyosuhteen_ehdot": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Avoimet työpaikat selattavissa ilman kirjautumista omalla tyopaikat.eezy.fi-alasivustolla, jossa näkyvät useat aktualliset listaukset.",
+    "Laaja ja monipuolinen palveluvalikoima työntekijöille: henkilöstövuokraus, rekrytointi, kevytyrittäjyys ja työllisyyspalvelut selkeästi eritelty.",
+    "Kontaktitiedot helposti saatavilla: palvelunumero 010 581 4400 (ma-pe 9-15), päivystys 010 279 7800 ja henkilökohtaiset sähköpostiosoitteet muodossa etunimi.sukunimi@eezy.fi."
+  ],
+  "kehityskohteet": [
+    "Palkkatiedot eivät näy työpaikkailmoituksissa tyopaikat.eezy.fi-sivulla, vaan ne ovat todennäköisesti piilossa yksittäisten ilmoitusten takana.",
+    "Hakuprosessin vaiheita ei ole selkästi kuvattu: ei selvää ohjetta siitä, miten hakemus jätetään, milloin saa vastauksen tai kuka ottaa yhteyttä.",
+    "FAQ-osio puuttuu kokonaan (404-virhe osoitteessa eezy.fi/ukk/), eikä yleisten kysymysten vastaukset ole saatavilla."
+  ],
+  "yhteenveto": "Eezy on Nasdaq-listattu henkilöstöpalveluyritys, jonka avoimet työpaikat ovat selattavissa ilman kirjautumista. Sivusto tarjoaa selkeät kontaktitiedot, mutta palkkatiedot ja hakuprosessin yksityiskohdat jäävät puutteellisiksi. Y-tunnusta ei esitellä julkisesti näillä sivuilla.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: Avoimet työpaikat näkyvät tyopaikat.eezy.fi-sivulla JavaScript-renderöintiin jälkeen; listalla useita aktuaalisia ilmoituksia eri toimialoilta (kauppa, ravitsemuspalvelut, rakentaminen, infra) ilman kirjautumisvaatimusta.",
+    "hakuprosessi_kuvattu": "HAVAINTO: Sivulla mainitaan 'Avoin hakemus' -mahdollisuus ja haku suodattimella toimialan ja paikkakunnalla, mutta ei yksityiskohtaista kuvauksen hakuprosessin vaiheista (esim. kuinka hakemus jätetään, vastausaika, yhteydenotto).",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: Tyopaikat.eezy.fi-listauksen näkymät eivät sisällä palkkatietoja julkisesti; yksittäisiin ilmoituksiin pääsy epäonnistui (404 vastaus), joten palkkahaarukan näkyvyys jäi varmistamatta.",
+    "tyosuhteen_ehdot": "HAVAINTO: Henkilöstövuokraus-sivulla selostetaan kuusi työsuhteen muotoa: henkilöstövuokraus, rekrytointi, try-and-hire, kevytyrittäjyys, kausityö ja kansainvälinen työvoima; esitetään, että työntekijä on Eezyn palkkalistoilla mutta tekee työtä asiakkaan ohjauksessa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei näy Eezy-konsernin julkisissa verkkosivuilla; sivulla mainitaan vain 'Eezy Oyj' ja 'Eezy Henkilöstöpalvelut' sekä toimipisteiden osoite Maistraatinportti 1, Helsinki.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei ole viittauksia ulkopuolisiin arviointipalveluihin, asiakassivustoihin tai riippumattomiin tutkimuksiin; mainitaan sisäiset tutkimukset (NPS 67, henkilöstötutkimus 93 % suositteluhalukkuus)."
+  }
+}

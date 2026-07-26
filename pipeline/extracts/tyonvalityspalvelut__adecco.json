@@ -1,0 +1,47 @@
+{
+  "slug": "adecco",
+  "fetched_ok": [
+    "https://www.adecco.com/fi-fi",
+    "https://www.adecco.com/fi-fi/avoimet-tyopaikat/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "osittain",
+  "palkkatieto_ilmoituksissa": "ei",
+  "tyosuhteen_ehdot": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 55
+  },
+  "vahvuudet": [
+    "59 avointa työpaikkaa selattavissa ilman kirjautumista",
+    "Selkeä yhteystietojen esittäminen puhelinnumerolla ja sähköpostilla",
+    "Työsuhdemitojen perusmerkinnät näkyvissä ilmoituksissa (Määräaikainen/Vakituinen)"
+  ],
+  "kehityskohteet": [
+    "Palkkatieto puuttuu kokonaan työpaikkailmoituksista",
+    "Y-tunnus ei näkyvissä verkkosivulla",
+    "Useat työnhakijoille suunnatut sivut palauttavat 404-virheitä sivuston päivityksen vuoksi"
+  ],
+  "yhteenveto": "Adecco Finland Oy on henkilöstöpalveluyritys, joka tarjoaa rekrytointi-, vuokraus- ja muita HR-ratkaisuja. Avoimet työpaikat ovat helposti selattavissa ilman kirjautumista, mutta palkkatieto puuttuu ilmoituksista kokonaan. Verkkosivusto on parhaillaan uudistuksen alla, mikä näkyy lukuisten 404-virheiden kautta.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: Avoimet työpaikat -sivulla (avoimet-tyopaikat/) näkyy 59 avointa työpaikkaa selattavissa. Sivulla näkyvät työt on ryhmitelty kategorioittain (Teollisuus ja tuotanto, Tekniikka ja suunnittelu jne.) ja niitä voi selailla ilman kirjautumista.",
+    "hakuprosessi_kuvattu": "HAVAINTO: Työpaikkailmoituksissa näkyy 'HAE TYÖPAIKKAA' -painike, mutta hakuprosessin yksityiskohtaiset vaiheet eivät ole näkyvissä ladatuissa sivuissa. Yhteydenottopyyntö antaa tietoa: 'Vastaamme arkisin klo 8.00-14.00 saman päivän aikana'. Hakuprosessin tarkemmat tiedot ovat saavutettavissa vain kirjautumisen jälkeen tai sähköpostitse.",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: Työpaikkailmoituksissa näkyvät otsikko, sijainti, toimiala ja työsuhdetyyppi (Määräaikainen/Vakituinen), mutta palkkaa tai palkkahaarukkaa ei mainita missään ladatuissa ilmoituksissa.",
+    "tyosuhteen_ehdot": "HAVAINTO: Työsuhdemitojen perusmuodot (Määräaikainen/Vakituinen) ovat näkyvissä jokaisessa ilmoituksessa. Esimerkiksi ilmoituksessa 'Tuotantotyöntekijä, avoin haku' mainitaan 'Määräaikainen' ja 'Vakituinen'. Yksityiskohtaiset ehdot (sopimukseen liittyvät detaljit) eivät ole näkyvissä verkkosivulla, vaan ne viitataan lataamatta jäävissä dokumenteissa.",
+    "y_tunnus_esilla": "HAVAINTO: Sivulla mainitaan 'Adecco Finland Oy:n pääkonttori sijaitsee osoitteessa Kuortaneenkatu 2, 00510 Helsinki', mutta Y-tunnusta ei näytetä verkkosivulla.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivulla ei ole näkyvissä riippumattoman tahon antamia arvioita tai sertifikaatteja.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero +358 46 710 2500 on näkyvissä sivun footerissa. Lisäksi yksittäisten työpaikkojen yhteystiedoissa mainitaan henkilöiden puhelinnumerot (esimerkiksi 'puh. 050 386 9811').",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite ADECCO@ADECCO.FI on näkyvissä sivun footerissa sekä tekstissä 'Voit ottaa meihin yhteyttä myös sähköpostitse osoitteeseen ADECCO@ADECCO.FI.'",
+    "aukioloajat_esilla": "HAVAINTO: Ilmoituksessa mainitaan 'arkisin klo 8.00-14.00' vastausajasta yhteydenottopyyntöjen osalta, mutta yleisiä toimiston aukioloaikoja ei ole näkyvissä verkkosivulla.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa näkyy linkki UKK-osioon, mutta sivu palauttaa 404-virheen. Sivusto näkyy olevan päivitysprosessissa."
+  }
+}

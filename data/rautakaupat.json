@@ -1,0 +1,1322 @@
+{
+ "slug": "rautakaupat",
+ "nimi": "Rautakaupat",
+ "nav": "Rautakaupat",
+ "h1": "Suomen paras rautakauppa 2026",
+ "yksikko": "valtakunnallista rautakauppaketjua",
+ "lead": "Pisteytimme {n} valtakunnallista rautakauppaketjua {m} mittarilla. Tärkein kysymys: näkyvätkö hinnat, toimituskulut ja palautusehdot ennen kassaa?",
+ "meta_title": "Suomen paras rautakauppa 2026 | rautakaupat pisteytettyna | Suomen Paras",
+ "meta_desc": "6 rautakauppaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Keitä listalla on?</b> Suuret myymäläketjut (K-Rauta, Stark, Bauhaus, Puuilo, Byggmax, IKH) ja verkkokauppa Taloon.com. Omistus on merkitty jokaiselle riville: mukana on suomalaisia pörssiyhtiöitä ja pohjoismaisten sekä saksalaisen konsernin ketjuja.",
+  "<b>RTV ei ole listalla</b>, koska RTV-Yhtymä asetettiin konkurssiin tammikuussa 2025 ja myymälät on suljettu. Kodin Terra -brändi lakkautettiin jo 2022. Kuolleiden brändien karsinta on osa jokaista mittauskierrosta.",
+  "<b>Mittausrajoite:</b> bauhaus.fi rajoittaa automaattista hakua, joten se mitattiin selainpohjaisella haulla. Vahvistamatta jäänyt mittari merkitään puuttuvana tietona eikä puutteena."
+ ],
+ "yritykset": [
+  {
+   "slug": "puuilo",
+   "nimi": "Puuilo",
+   "domain": "puuilo.fi",
+   "omistaja": "Puuilo Oyj — pörssiyhtiö, yli 40 myymälää valtakunnallisesti",
+   "y_tunnus": "2726573-8",
+   "rekisteroity": 2015,
+   "score": 79.0,
+   "pillars": {
+    "digitaalinen": 67.9,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivuilla hinnat näkyvät selvästi euroina sisältäen alv:n. Kassalla näytetään myös kokonaishinnat lisättynä toimituskulut."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla puuilo.fi/toimitustavat kuvataan yksityiskohtaisesti kaikki toimitusvaihtoehdot (myymälänouto, Posti Pikkupaketti, Matkahuolto, Posti Kotiinkuljetus). Toimituskulut näytetään kassalla ennen tilauksen vahvistamista."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla puuilo.fi/toimitus-ja-maksuehdot selostetaan, että kuluttajalla on oikeus peruuttaa tilaus 14 päivän kuluessa tuotteen vastaanottamisesta. Palautettavan tuotteen tulee olla käyttämätön ja alkuperäiskunnossa."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston footerissa ja asiakaspalvelusivulla mainitaan myymälöiden aukioloajat: MA-PE 8-20, LA 9-18, SU 10-18. Puuilolla on yli 50 myymälää eri puolilla Suomea."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla puuilo.fi/toimitus-ja-maksuehdot osiossa Myyjä ja yhteystiedot näkyy selvästi Y-tunnus: 2431081-2 ja postiosoite Vantaa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkitettyjä riippumattomia arviolähteitä, kuten Google-arvosteluja, Trustpilot-sivua tai muita ulkopuolisia asiakasarviopalveluja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 18199.853,
+    "cls": 6.861438763600377e-05,
+    "tbt_ms": 22249.571999999996
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat selvästi näkyvissä tuotesivulla ja useita toimitusvaihtoehtoja vertailuineen, mikä auttaa asiakasta valitsemaan halvimman vaihtoehdon",
+    "Kattavat asiakaspalvelun yhteystiedot ja selkeät myymälöiden aukioloajat (MA-PE 8-20, LA 9-18, SU 10-18) sivustolla esillä",
+    "Yrityksen y-tunnus (2431081-2) ja palautus- ja takuuehdot julkisesti saatavilla, maksaminen turvallista SSL-yhteydessä"
+   ],
+   "kehityskohteet": [
+    "Verkkokauppaa ei ole integroitu chat-palvelun kanssa, mikä rajoittaa asiakkaan mahdollisuutta saada nopeaa apua verkkoostoksilla",
+    "Puuilon mobiilisovellusta ei mainita, vaikka verkkokaupoissa sovellukset parantavat ostokokemusta ja helpottavat seuraavien ostojen tekemistä",
+    "Riippumattomien asiakasarviolähteiden puuttuminen verkkokaupan sivustolla (ei linkkejä ulkopuolisiin arviolistauksiin tai asiakasarvioihin)"
+   ],
+   "yhteenveto": "Puuilo on suomalainen rakennustarvike- ja kodintarvikeketju, jonka verkkokauppa tarjoaa useimmat keskeiset transparenssitiedot asiakkaille. Hinnat, toimitusvaihtoehdot, palautusehdot ja yrityksen tunnistetiedot ovat selvästi esillä. Puutteina ovat chat-palvelu verkkokaupassa, mobiilisovelluksen puuttuminen ja riippumattomien asiakasarviolähteiden linkittämisen puute sivustolle."
+  },
+  {
+   "slug": "k-rauta",
+   "nimi": "K-Rauta",
+   "domain": "k-rauta.fi",
+   "omistaja": "Kesko Oyj — noin 130 myymälää valtakunnallisesti, markkinajohtaja",
+   "y_tunnus": "0109862-8",
+   "rekisteroity": 1978,
+   "score": 78.6,
+   "pillars": {
+    "digitaalinen": 69.7,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 78.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivuilla hinnat ovat näkyvät ennen ostoskorin lisäämistä, esim. 'Hinta verkkokaupassa 14,95 eur/kpl', 'Norm. 19,95 eur/kpl'. Kaikki hinnat sisältävät alv:n. Alennukset päivittyvät sekä selaamisen että ostoskoriin lisäämisen yhteydessä."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkokaupan tilaus- ja toimitusehdot -sivulla mainitaan kahdeksan toimitusvaihtoehtoa hinnoittelulla: ilmainen myymälänoutoa, DB Schenkerin noutopiste 5,90-6,90 eur, Matkahuollon noutopiste 6,90-9,90 eur, Postin pakettiautomaatti 6,90-12,90 eur, kotiinkuljetus 9,90-329 eur riippuen kuriirista ja paino/koko. Postinumero kysytään tuotesivulla toimitusvaihtoehtoja nähdäkseen."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Takuu ja virhevastuu -sivulla (asiakaspalvelu/takuu-ja-virhevastuu) selitetään virhevastuu, takuu ja palautusprosessi. Kuluttajansuojalain mukainen virhevastuu kattaa materiaali- ja valmistusvirheet. Virhetilanteissa kontakti: verkkokauppa.asiakaspalvelu@k-rauta.fi tai 0800 90 900. Palautuslomakkeelle ja peruuttamislomakkeelle on omat osoitteensa."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymalat-sivulla listataan kaikki K-Rauta-myymälät osoitteineen, puhelinnumeroineen ja tämän päivän aukioloajoineen kuten 'Avoinna tänään: 10-18' tai 'Suljettu'. Esimerkkejä: K-Rauta 75 Vantaa klo 10-18, K-Rauta Hämeenlinna klo 11-17, K-Rauta Kajaani klo 10-14."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy sivuilla. Tilaus- ja toimitusehdot nimeävät 'Kesko Oyj:n' palveluntarjoajaksi, mutta Y-tunnusta tai muita virallisia tunnistenumeroita ei ole julkaistu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei esiinny riippumattomia arviointitahoja, audit-sertifikaatteja, ISO-standardeja tai kolmannen osapuolen hyväksynnöistä. Sivuilla on ainoastaan sisäiset asiakasarviot (tuotteista antamat pisteet)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero 0800 90 900 on esillä asiakaspalvelu-sivulla, takuu-sivulla ja tilaaminen-sivulla. Yksittäisten myymälöiden numerot ovat myymälä-listauksessa, esim. K-Rauta 75 Vantaa 020 7757575."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite verkkokauppa.asiakaspalvelu@k-rauta.fi on julkaistu asiakaspalvelu-, takuu-, tilaaminen- ja palautussivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu on kuvattu sivulla asiakaspalvelu/chat: 'Nettimyyjämme auttavat sinua chatissa verkkokaupan tuotteiden valinnassa. Chat-palvelu on auki arkisin (ma-pe) klo 8-22 ja viikonloppuisin (la-su) 10-18.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälöiden aukioloajat näkyvät myymälät-sivulla jokaisen myymälän kohdalla real-time statuksella ('Avoinna tänään: 10-18' tai 'Suljettu'). Verkkokaupan chat-palvelun aukioloajat mainittu: ma-pe 8-22 ja la-su 10-18."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osio on asiakaspalvelu/tilaaminen -sivulla kysymys-vastaus -formaatissa osioilla 'Tuotteet ja hinnat', 'Tuotteiden toimitettavuus', 'Tilaaminen K-Raudan verkkokaupasta', 'Tilauksen jälkeen' ja 'Tilauksen peruminen'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 6430.707000000001,
+    "cls": 0.04801188884603225,
+    "tbt_ms": 13089.501999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja myymäläverkosto ja real-time saatavuustiedot: yli 120 myymälää koko maassa ja jokaisen myymälän aukioloajat näkyvät kaikissa tuotteissa",
+    "Monipuoliset toimitusvaihtoehdot ja selkeät hinnat: kahdeksan eri toimitusvaihtoehtoa ilmaisesta myymälänoudosta (0 eur) kahteenkymmeneen yhdeksään euroon, kaikkiin hintoihin sisältyy alv",
+    "Palautusehdot ja takuuselitykset ovat saatavilla omilla sivuillaan kirjallisesti, asiakaspalvelu tavoitettavissa puhelimitse, sähköpostitse ja chatissa"
+   ],
+   "kehityskohteet": [
+    "Y-tunnusta ei ole julkaistu verkkosivuilla, vaan viittaus pelkästään 'Kesko Oyj:iin' ilman tunnusnumeroa",
+    "Mobiilisovellusta ei ole kehitetty, verkkokauppa on saatavilla ainoastaan selainpohjaisena",
+    "Riippumattomia arviota tai sertifiointeja (esim. ISO-sertifikaatit, asiakastyytyväisyystutkimukset) ei ole julkaistu sivuilla"
+   ],
+   "yhteenveto": "K-Rauta on Kesko Oyj:n omistama suomalainen rakennustarvikkeiden ketju yli 120 myymälällä. Verkkokaupassa tuotteiden hinnat ovat selvästi esillä, toimitusvaihtoehdot ja niihin liittyvät kulut ilmoitetaan ennen maksamista, ja palautus- ja takuuehdot ovat saatavilla omilla sivuillaan. Myymälätiedot, aukioloajat ja asiakaspalvelun yhteystiedot (puhelin, sähköposti, chat) ovat kaikki julkisesti saatavilla."
+  },
+  {
+   "slug": "taloon",
+   "nimi": "Taloon.com",
+   "domain": "taloon.com",
+   "omistaja": "Bygghemma Finland Oy — verkkokauppa, osa ruotsalaista BHG Groupia",
+   "y_tunnus": "1870108-3",
+   "rekisteroity": 2003,
+   "score": 74.6,
+   "pillars": {
+    "digitaalinen": 71.5,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvät tuotehinnat kuten 281,90 euroa ja 146,90 euroa sekä useiden muiden tuotteiden hinnat. Hinnat ovat näkyvissä myös palvelumyymälään liittyvissä tiedoissa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkokaupassa mainitaan maksu- ja kuljetusvaihtoehdoista, mutta sivut 'Palautus ja vaihto' ja 'Tilausehdot' palauttivat 404 virheen, joten toimituksesta ja kuluista kertomisen täydellisyyttä ei voida vahvistaa ennen kassalle siirtymistä."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivujen 'Palautus ja vaihto' ja 'Tilausehdot' avaaminen epäonnistui (HTTP 404), joten palautus- ja takuuehdoista ei saatu vahvistusta. Alavalikosta näkyy linkit näihin sivuihin, mutta ne eivät ole käytettävissä."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelumyymälä sijaitsee Tammistossa, Vantaalla. Aukioloajat ovat arkisin klo 10-20 ja lauantaisin klo 10-16. Myyntipalvelun puhelinpalvelu palvelee ma klo 9-21, ti-pe klo 9-20, la klo 10-14 ja su klo 17-21."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteesta löytyy Y-tunnus: 1870108-3. Yhtiön nimi on Bygghemma Finland Oy ja osoite Junailijankatu 15, 11100 Riihimäki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkokaupan sivuilla on artikkeleita tuotteista kuten 'Paras ilmalämpöpumppu 2026', 'Paras lumilinko 2026', 'Paras puukiuas 2026' ja 'Paras moottorisaha 2026', joissa verrataan eri merkkejä ja mallia asiakkaiden kokemusten perusteella."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myyntipalvelun puhelinnumero 010 440 9200 näkyy useilla sivuilla, mukaan lukien etusivulla ja palvelut-sivulla. Puhelun hinta on matkapuhelin- tai paikallisverkkomaksu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi sähköpostiosoitetta ovat näkyvissä: myynti@taloon.com myyntipalvelulle ja asiakaspalvelu@taloon.com asiakaspalvelulle."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myyntipalvelun aukioloajat on esitetty selkeästi: ma 9-21, ti-pe 9-20, la 10-14, su 17-21. Palvelumyymälän Tammiston aukioloajat ovat arkisin 10-20 ja lauantaisin 10-16."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 8834.312,
+    "cls": 0.0019953877371004704,
+    "tbt_ms": 5926.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja tuotevalikoima yli 250 000 tuotteella löytyy rakentamisen, remontoimisen ja sisustamisen tarvikkeet",
+    "Selkeä hintaesittely verkkokaupassa ja useat maksuvaihto-ehdot (pankkiyhteys, luottokortti, osamaksu, lasku)",
+    "Helppo asiakas- ja myyntipalvelu puhelimitse, sähköpostilla ja palvelumyymälässä Tammistossa"
+   ],
+   "kehityskohteet": [
+    "Palautusehdoista ja takuutiedoista ei saa helposti tietoa verkkokaupasta (sivuja ei voitu ladata)",
+    "Toimitusta koskevia tietoja (kustannukset, menetelmät) ei näy selkeästi ennen kassalle siirtymistä",
+    "Ei chat-tukea tai mobiilisovellusta, asiakkaiden on käytettävä puhelinta tai sähköpostia yhteydenottoon"
+   ],
+   "yhteenveto": "Taloon.com on laaja rautakauppa, jonka toimittaa Bygghemma Finland Oy. Verkkokaupasta löytää selkeät tuotteen hinnat ja runsaasti maksuvaihtoehdon sekä yhteystiedot. Palvelumyymälä Tammistossa tukee kotiinkuljetusta ja asennuspalvelua. Puutteiden joukossa ovat epäselvästi esitetyt palautus- ja toimitustiedot sekä puuttuva chat-palvelu."
+  },
+  {
+   "slug": "byggmax",
+   "nimi": "Byggmax",
+   "domain": "byggmax.fi",
+   "omistaja": "Byggmax AB:n Suomen sivuliike — myymälät useissa kaupungeissa ja verkkokauppa",
+   "y_tunnus": "2132241-2",
+   "rekisteroity": 2007,
+   "score": 69.7,
+   "pillars": {
+    "digitaalinen": 60.3,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 74.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "86/100",
+       "paino": 30,
+       "pisteet": 86,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat näkyvät selvästi kategoriasivuilla (esim. maaleja 19,95 €, 14,95 €, 8,95 €) ja ostoehdoissa mainitaan hintojen näkyvän kassalla ennen tilauksen vahvistusta."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ostoehdot ilmoittavat 'Rahti- ja keräilykustannukset näkyvät kassalla ennen tilauksen tekoa'. Sivulla mainitaan myös ilmainen kotiinkuljetus yli 1000 euron ostoksiin."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kattavat palautusoikeudet julkaistu ostoehdot-sivulla, joka sisältää 14 päivän palautusoikeudet ja 365 päivän laajennetun palautusoikeuden tiedot."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälä-valitsin näyttää osoitteet ja postinumerot etusivulla, mutta yksityiskohtaiset aukioloajat eivät ole täysin ladattavissa sivuston teknisista rajoituksista johtuen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2132241-2 näkyy selvästi sivuston jalkaosassa ja ostoehdoissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei löydy riippumatonta arviointipalvelua, auditoitua sertifiointia tai kolmannen osapuolen arviointia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 0771-89 00 89 mainitaan ostoehdoissa asiakaspalvelun yhteystiedoissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite support@byggmax.fi näkyy useilla sivuilla, mukaan lukien ostoehdot ja Meistä-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Siirry tukikeskukseemme' -linkki, mutta chat-rajapinta ei ole täysin käytettävissä sivuston renderointiongelmien vuoksi."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälä-valitsimessa näkyy viittaus aukioloaikoihin, mutta yksityiskohtaiset aukioloajat eivät lataudu sivuston teknisista rajoituksista johtuen."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 86,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 29718.7155,
+    "cls": 0.0015309205618006664,
+    "tbt_ms": 6715.581499999993
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja toimituskustannukset näkyvät selvästi kassalla ennen tilauksen vahvistusta",
+    "Ostoehdot, palautusoikeudet ja takuut ovat yksityiskohtaisesti julkaistu verkossa",
+    "Asiakaspalvelun yhteystiedot (puhelin, sähköposti ja tukikeskus) helposti löydettävissä"
+   ],
+   "kehityskohteet": [
+    "Myymälät ja aukioloajat eivät ole täysin saatavilla web-muodossa, sivuston renderointiongelmat estävät pääsyn",
+    "Riippumattoman arviointipalvelun tai asiakasarvioiden puuttuminen tuotesivuilta",
+    "FAQ-osion puute helpottaisi asiakkaiden yleisten kysymysten vastaamiseen"
+   ],
+   "yhteenveto": "Byggmax on pohjoismalainen rautakauppaketju, jonka verkkosivusto tarjoaa selkeät hinnat ja toimitusehdot. Yrityksen tiedot, palautusoikeudet ja asiakaspalvelun yhteystiedot ovat julkisesti saatavilla. Sivustoa rasittavat teknilliset rajoitukset estävät täysin kaikkien tietojen saavutettavuuden, varsinkin myymälöiden aukioloaikojen osalta."
+  },
+  {
+   "slug": "bauhaus",
+   "nimi": "Bauhaus",
+   "domain": "bauhaus.fi",
+   "omistaja": "Bauhaus & Co. Ky — osa saksalaista Bauhaus-konsernia, myymälät useissa kaupungeissa",
+   "y_tunnus": "1580679-5",
+   "rekisteroity": 2000,
+   "score": 67.6,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 65.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tarjoukset-sivulla (https://www.bauhaus.fi/tarjoukset) näkyy tuotehakemiston rakenne ja joitain hintoja (esim. 575,-, 499,-) staattisessa HTML:ssä, mutta suurin osa hinnoista vaatii JavaScript-renderöintiä, mikä ei ole saatavilla normaaleilla fetch-työkaluilla."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehdot-sivulla (https://www.bauhaus.fi/info/toimitusehdot) kaikki toimitusvaihtoehdot on kuvattu yksityiskohtaisesti hinnoitteineen: PostNord 5.90 EUR, DB Schenker 4.90 EUR, kotiin 11.90-599.00 EUR, ilmainen tavaratalosta nouto. Toimitusajat mainittu (1-4 arkipäivää, haja-alueilla 2-8 päivää)."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tavaratalot-sivulla mainittu 'Jopa 30 pv vaihto- ja palautusoikeus' ja '5-vuoden BAUHAUS takuu'. Toimitusehdot-sivulla yksityiskohtaisesti kuvattu reklamaatiomenettely ja tuotteiden tarkastus vastaanottohetkellä."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tavaratalot-sivulla (https://www.bauhaus.fi/tavaratalot) on linkki myymälöiden etsintään postinumerolla. Asiakaspalvelu-sivulla mainittu myymälöiden aukioloajat: ma-pe 8.00-20.00, la 9.00-18.00, su 10.00-18.00. Pääkonttori osoite: Tammiston kauppatie 19, 01510 Vantaa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla näkyy yrityksen rekisteröity nimi 'BAUHAUS & Co. Ky' (JSON-LD schemassa ja footerissa), mutta Y-tunnusta (yritystunnusta) ei ole julkisesti saatavilla käytetyillä sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei näy linkkejä riippumattomiin arviointilähteisiin, sertifikaatteihin tai kolmannen osapuolen arviointeihin. Kaikki näkyvä sisältö on yrityksen oman verkkosivun sisältöä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 18758.494499999993,
+    "cls": 0.002087690617201172,
+    "tbt_ms": 22723.30825000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Erittain selkeät ja yksityiskohtaiset toimitusehdot useilla toimitusvaihtoehdoilla ja hinnoilla julkisesti saatavilla",
+    "Monipuoliset maksamisen ja toimittamisen vaihtoehdot, ilmainen nouto tavaratalosta ja kotiin tuotava palvelu",
+    "Asiakaspalvelu helposti saavutettavissa puhelimitse, sähköpostilla ja 24/7 chatbotilla"
+   ],
+   "kehityskohteet": [
+    "Tuotehinnat vaativat JavaScript-renderöintiä eivätkä näy staattisessa HTML-sisällössä, mikä heikentää hintojen löydettävyyttä",
+    "Yrityksen Y-tunnus puuttuu verkkosivuilta kokonaan, vaikka se on keskeinen luottamuksen tekijä",
+    "Riippumattomia arvioita tai sertifiointi-/laatutietoja ei ole saatavilla omilla verkkosivuilla"
+   ],
+   "yhteenveto": "Bauhaus on suomalainen rautakauppaketju, joka tarjoaa laajan valikoiman rakentamisen, remontoinnin ja piha-alan tuotteita. Verkkosivuilla on erittäin selkeät ja yksityiskohtaiset toimitusehdot, useita toimitusvaihtoehtoja kustannuksineen sekä hyvä asiakaspalvelu. Hintojen löydettävyys heikentää kuitenkin käyttäjäkokemusta JavaScript-renderöinnin vuoksi, eikä sivuilla ole yrityksen Y-tunnusta tai riippumattomia arvioita."
+  },
+  {
+   "slug": "stark",
+   "nimi": "Stark",
+   "domain": "stark-suomi.fi",
+   "omistaja": "Stark Suomi Oy — osa tanskalaista STARK Groupia, kymmeniä myymälöitä",
+   "y_tunnus": "2043575-7",
+   "rekisteroity": 2006,
+   "score": 63.6,
+   "pillars": {
+    "digitaalinen": 51.6,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 64.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "9/100",
+       "paino": 40,
+       "pisteet": 9,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotekategoriat latautuvat sivustolla, mutta yksittäisten tuotteiden hinnat eivät näy staattisessa HTML:ssä. Hinnat vaativat JavaScript-renderöintiä selaimen puolella, joten ne ovat osittain näkyvillä kylläkin sivun ladattua, mutta eivät välittömästi helposti havaittavissa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto sisältää '/toimitustavat' -sivun jonka otsikko on 'Toimitustavat', ja kontaktisivulla mainitaan 'Toimitustavat' linkkiin. Sisällön yksityiskohdista (kulut, ajat) ei voitu varmasti lukea JavaScript-renderöinnin rajoituksista johtuen."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto sisältää '/vaihto-ja-palautus' -sivun, mutta sen yksityiskohtaisen sisällön hakeminen ei onnistunut täysin automated-haulla JavaScript-renderöinnin takia. Ehdot ovat olemassa mutta niiden saatavuus oli osittainen mittauksessa."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kontaktisivulla sanotaan: 'Myymälöiden yhteystiedot löydät täältä' ja 'Myymälöiden sivuilta löydät osoitteet, aukioloajat sekä myyjien yhteystiedot.' Myymälät-sivu löytyy osoitteesta /myymälät."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2043575-7 löytyi /kayttoehdot -sivulta tekstissä: 'Palvelun omistaa Stark Suomi Oy, Olarinluoma 15, 02200 LAHTI, Y-tunnus: 2043575-7'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei löydy viitauksia riippumattomiin arviointilähteisiin tai kuntaluottamuksiin. Asiakaspalautteet tai ulkopuolisten arvioiden merkinnyt puuttuvat."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kontaktisivulla näkyy: asiakaspalvelu@stark-suomi.fi ja puhelinnumero 093 541 0000 selvästi julkisesti saatavilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kontaktisivulla näkyy sähköpostiosoite asiakaspalvelu@stark-suomi.fi ja lisäksi laskutusosoite verkkolaskut@stark-suomi.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston evästetiedoissa mainitaan Giosg.com chat-palvelu, jonka evästeet 'giosg_chat_id_xxx' ja 'sgid' olivat näkyvissä kaikilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "52/100",
+       "paino": 33,
+       "pisteet": 52,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 9,
+    "accessibility": 84,
+    "seo": 83,
+    "best_practices": 69,
+    "lcp_ms": 13198.885139999999,
+    "cls": 0.3199002137798203,
+    "tbt_ms": 30665.21765
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja tuotevalikoima 10+ kategorialla ja kattava rautakaupan tuotesarja",
+    "Helppo yhteydenotto: puhelinnumero, sähköposti ja live-chat-palvelu (Giosg) selvästi saatavilla",
+    "Myymälätiedot ja aukioloajat löydettävissä verkosta, useita toimipisteitä eri puolilla Suomea"
+   ],
+   "kehityskohteet": [
+    "Tuotteiden hinnat eivät näy suoraan kategoriasivuilla ilman klikkailua, vaatii JavaScript-rendering joka hidastaa hintakäytettävyyttä",
+    "Toimitus- ja palautusehtojen yksityiskohdat vaativat sisälle navigointia, ei yhtenäinen 'Kaikki ehdot' -sivu",
+    "Asiakasarviot tai riippumaton arviointi (kuten kuntaluottamus tai ulkopuolisten kyselyjen tulokset) puuttuvat kokonaan"
+   ],
+   "yhteenveto": "Stark Suomi on pääsuomalainen rautakauppa, jolla on laaja verkkopalvelu kategorisoiduin tuottein ja useita toimipisteitä. Asiakaspalvelu on helposti saatavilla puhelimitse, sähköpostitse ja livechatilla, ja myymälätiedot ovat julkisesti näkyvillä. Tuotteiden hinnat ja toimitusehdot sisältyvät sivuihin, mutta edellyttävät JavaScriptin renderöintiä ja sisälle navigointia, mikä heikentää löydettävyyttä."
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Rautakaupat myyvat rakennustarvikkeita, tyokaluja ja pihatuotteita seka myymaloissa etta verkossa. Suomessa toimii useita valtakunnallisia ketjuja, joiden hinnoittelun ja toimitusehtojen lapinakyvyys vaihtelee selvasti. Vertailussa mitataan, nakeeko tuotteiden hinnat verkossa, kerrotaanko toimitustavat ja kulut ennen kassaa ja ovatko palautusehdot julkisesti saatavilla.",
+  "huomioita": [
+   "Lahes kaikki ketjut nayttavat tuotehinnat verkossa ilman kirjautumista, mutta myymalakohtainen hinta voi poiketa verkkohinnasta. Osa ketjuista mainitsee tasta erikseen.",
+   "Toimituskulut vaihtelevat paljon tuotteen koon mukaan: pientavaran postitus on eri asia kuin lavatavaran rahti. Useimmat ketjut kertovat toimitustavat ja hintahaarukan ennen kassaa.",
+   "Ilmainen myymalanouto (klikkaa ja nouda) on alalla yleinen ja usein nopein tapa saada tavarat.",
+   "Y-tunnus loytyy yllattavan harvoin ketjujen sivuilta, vaikka verkkokauppaa kayvan yrityksen tunnistetiedot kuuluisivat asiakkaan saataville.",
+   "Saatavuustieto myymaloittain (montako kappaletta missakin myymalassa) on hyodyllinen ominaisuus, jonka osa ketjuista tarjoaa tuotesivulla."
+  ],
+  "vinkit": [
+   "Vertaa kokonaishintaa toimituskuluineen, ala pelkkaa tuotehintaa. Isoissa erissa rahti voi ratkaista edullisimman vaihtoehdon.",
+   "Tarkista palautus- ja takuuehdot ennen isoa tilausta. Ketjujen valilla on eroja siina, kuka maksaa palautusrahdin.",
+   "Jos tarvitset tavarat heti, tarkista tuotesivun myymalakohtainen saatavuus ja varaa nouto verkossa."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi verkkohinta ja myymalahinta voivat erota toisistaan?",
+    "a": "Osa ketjuista hinnoittelee verkkokaupan ja myymalat erikseen esimerkiksi kampanjoiden tai paikallisen kilpailun takia. Hyva kaytanto on kertoa erosta selvasti tuotesivulla, ja useimmat ketjut nayttavat myymalakohtaisen hinnan valitsemalla oman myymalan."
+   },
+   {
+    "q": "Mita klikkaa ja nouda tarkoittaa?",
+    "a": "Tilaat ja maksat tuotteet verkossa ja noudat ne valitsemastasi myymalasta, usein jo samana tai seuraavana paivana. Nouto on tyypillisesti ilmainen, joten se on edullinen vaihtoehto rahdille."
+   },
+   {
+    "q": "Voinko palauttaa rakennustarvikkeita?",
+    "a": "Verkko-ostoksilla on kuluttajansuojalain mukainen 14 vuorokauden peruuttamisoikeus useimmille tuotteille. Mittatilaustuotteet ja esimerkiksi avatut sahkotarvikepakkaukset voivat olla poikkeuksia. Ketjujen palautuskaytannot ja se, kuka maksaa palautuskulut, vaihtelevat."
+   },
+   {
+    "q": "Miksi jonkin ketjun sivut eivat nay taysin vertailussa?",
+    "a": "Osa verkkokaupoista suojaa sivunsa botti-estolla, joka rajoittaa automaattista mittausta. Talloin kirjaamme kohdan mittausaukoksi emmeka vaita, etta tieto puuttuisi sivustolta."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat verkossa esillä (25), toimitustavat ja -kulut kerrottu ennen kassaa (20), palautus- ja takuuehdot julkisesti saatavilla (20), myymälät ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "mehilainen",
+  "fetched_ok": [
+    "https://www.mehilainen.fi/",
+    "https://www.mehilainen.fi/silmasairaudet",
+    "https://www.mehilainen.fi/silmasairaudet/silmien-laserleikkaus",
+    "https://www.mehilainen.fi/yhteystiedot"
+  ],
+  "hinnat_esilla": "osittain",
+  "menetelmat_kuvattu": "kylla",
+  "varaus_verkossa": "kylla",
+  "takuu_tai_jalkitarkastus": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "laserleikkaus_hinta_alkaen_eur": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Yksityiskohtaiset kuvaukset silmäleikkausmenetelmistä (Femtolasik, SMILE, PRK) ja hoitoprosessista selkeine vaiheittain kuvattuna.",
+    "Leikkaustakuu sisältyy palveluun: mahdollinen tarkentava uusintaleikkaus tehdään veloituksetta vuoden kuluessa alkuperäisestä toimenpiteestä.",
+    "Monimuotoinen ajanvarauspääsy sekä verkon kautta että puhelimitse, lisäksi OmaMehiläinen-sovellus ja 24/7 asiakaspalvelu."
+  ],
+  "kehityskohteet": [
+    "Silmäleikkausten hintatiedot eivät ole julkisesti näkyvissä ilman maksutonta arviokäyntiä tai puhelinsoittoa.",
+    "Y-tunnus (yhteisötunnus) ei ole näkyvissä verkkosivuilla, mikä vaikeuttaa yritystietojen tarkistamista.",
+    "Riippumattomien arviointien tai sertifiointien linkkaukset puuttuvat; NPS-mittaus on sisäinen mittari eikä ulkoinen kolmannen osapuolen arvio."
+  ],
+  "yhteenveto": "Mehiläinen on suuri terveydenhuoltoketju, joka tarjoaa laajaa silmäleikkaustoimintaa erityisesti yhteistyössä Silmäsairaala Hymyn kanssa. Silmien laserleikkausten osalta sivut kuvaavat menetelmät hyvin ja tarjoavat maksuttoman arviokäynnin, mutta hintatiedot ovat vain konsultaatiossa saatavilla, eivätkä julkisesti esillä verkkosivuilla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Silmälääkärin vastaanottokäynnit hinnoitellaan (166.90-222.10 euroa), mutta laserleikkausten hinnat edellyttävät maksuttoman hoitoarvion varausta. Sivulla todetaan: 'Hintatiedot ja lisätietoa Silmäsairaala Hymystä' ilman julkista hintaluetteloa.",
+    "menetelmat_kuvattu": "HAVAINTO: Kolme eri menetelmää kuvataan yksityiskohtaisesti: Femtolasik ('pintaläppä femtosekuntilaserilla, jonka alle tehdään tarvittava taittovirheenkorjaus'), SMILE ('femtosekuntilaser tekee koko toimenpiteen'), PRK ja LASEK ('laserointi tehdään suoraan sarveiskalvon pintaan').",
+    "varaus_verkossa": "HAVAINTO: Ajanvaraus mahdollinen verkkoajanvarauksessa, OmaMehiläinen-sovelluksessa ja puhelimitse numeroissa 010 414 00 (pvm/mpm). Sivulla näkyy 'Varaa maksuton hoitoarvio' -linkki.",
+    "takuu_tai_jalkitarkastus": "HAVAINTO: 'Toimenpiteemme sisältävät leikkaustakuusopimuksen, jolloin mahdollinen tarkentava uusintaleikkaus tehdään veloituksetta vuoden kuluessa alkuperäisestä toimenpiteestä.' Jälkitarkastus mainittiin kotiutumisvaiheen yhteydessä 'noin kahden tunnin kuluttua suoritetaan kotiinlähtötarkastus'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt verkkosivuilla. Pääkonttori mainitaan osoitteessa 'Arkadiankatu 6, 00100 Helsinki' mutta rekisterinumero puuttuu.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla mitataan sisäisen NPS-indeksin mukaan asiakastyytyväisyyttä, mutta ulkoisen kolmannen osapuolen arviointeja tai sertifiointeja ei ole linkitetty. Osallistuminen kansainväliseen tutkimukseen mainitaan ('Osallistumme säännöllisesti kansainväliseen silmälaserleikkaustuloksia seuraavaan tutkimukseen'), mutta tulokset eivät ole suoraan linkitetty."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "bolt-works",
+  "fetched_ok": [
+    "https://www.bolt.works/",
+    "https://www.bolt.works/tyonhakijoille-ja-tekijoille/ota-yhteytta/",
+    "https://www.bolt.works/toimipiste/helsinki/",
+    "https://www.bolt.works/bolt-works-tyonantajana/",
+    "https://www.bolt.works/avoimet-tyopaikat/",
+    "https://www.bolt.works/avoimet-tyopaikat/teollisuus/",
+    "https://www.bolt.works/bolt-works-sovellus-tyontekijalle/"
+  ],
+  "tyopaikat_esilla": "kylla",
+  "hakuprosessi_kuvattu": "kylla",
+  "palkkatieto_ilmoituksissa": "ei",
+  "tyosuhteen_ehdot": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Laajat avoimet työpaikat (232 sivulla käynnin aikaan) selailtavissa ilman kirjautumista kategorioittain",
+    "Sovellus ja hakuprosessi kuvattu yksityiskohtaisesti: profiilin luonti, SMS-salasana, keikoille hakeminen",
+    "Työsuhteen muodot selkeästi eritelty: vuokratyö vs. suorarekrytointi, kummankin prosessi ja edut"
+  ],
+  "kehityskohteet": [
+    "Palkkatieto täysin puuttuu avoimista työpaikoista – ei kerrottu TES-palkkaa tai palkkahaarukkaa ilmoituksissa vaikka sivulla mainitaan aina vähintään TES-mukainen palkka",
+    "Yhteystiedot puuttuvat job seeker -näkymästä: ei puhelinnumeroa, sähköpostia tai chat-vaihtoehtoa työnhakijoille",
+    "FAQ-osio puuttuu – kysymyksiin vastaamista ei ole järjestetty keskitetysti"
+  ],
+  "yhteenveto": "Bolt.Works on valtakunnallinen henkilöstöpalveluyritys, jolla on 19 toimipistettä ja 232 avointa työpaikkaa. Avoimet työpaikat ovat selattavissa ilman kirjautumista ja hakuprosessi kuvataan selkeästi sekä webissä että sovelluksessa. Sivustolle kuitenkin jää merkittävät läpinäkyvyysvajeet: palkkatieto puuttuu täysin ilmoituksista vaikka yritys lupaa TES-palkkaa, ja työnhakijoiden suoran yhteydenoton kanavaita ei ole näkyvissä.",
+  "evidence": {
+    "tyopaikat_esilla": "HAVAINTO: avoimet-tyopaikat-sivulla näytetään 232 avointa työpaikkaa kategorisoidusti (teollisuus, logistiikka, hotelli-ravintola, kauppa, kiinteistöhuolto, rakentaminen, toimisto). Listaukseen pääsee ilman sisäänkirjautumista.",
+    "hakuprosessi_kuvattu": "HAVAINTO: bolt-works-tyonantajana-sivulla kuvataan vuokratyösuhteen prosessi, TES-palkkaus, viisi-tähtisen palautteen bonus, työterveyspalvelut. bolt-works-sovellus-tyontekijalle-sivulla kuvataan profiilin luonti, SMS-salasanainen kirjautuminen, keikoille hakeminen ja työsuhteiden hallinta.",
+    "palkkatieto_ilmoituksissa": "HAVAINTO: kun avoimet-tyopaikat-sivulla ladataan JS:llä, näkyvissä olevissa työpaikkakortteissa ei ole palkkainformaatiota. Niissä näytetään vain tehtävänimike, sijainti, työsuhteen kesto, työaikatyyppi ja hakuaika. bolt-works-tyonantajana-sivulla mainitaan aina vähintään TES:n mukainen tai parempi palkka mutta tätä ei toisteta yksittäisten ilmoitusten kohdalla.",
+    "tyosuhteen_ehdot": "HAVAINTO: bolt-works-tyonantajana-sivulla eritelään selkeästi vuokratyösuhde (työnantaja on Bolt.Works, asiakas opastaa) vs. suorarekrytointi (asiakas hakee suoraan kirjoilleen). Lisäksi kerrotaan mahdollisuudesta siirtyä suorarekrytoinniksi.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2041555-3 näkyy ota-yhteytta-sivulla sekä toimipiste-sivuilla ja sivun footerissa Bolt.Works Oy:lle.",
+    "riippumaton_arvio": "HAVAINTO: sivustolla ei mainittu riippumatonta arviota, sertifikaattia tai auditoinnin tuloksia.",
+    "puhelin_esilla": "HAVAINTO: tyonhakijoille-ja-tekijoille/ota-yhteytta-sivulla luetellaan 19 toimipistettä ja niiden yhteystiedot pudotusvalikon kautta, mutta puhelinnumeroita ei näy. Toimipiste-sivuilla (esim. helsinki) näytetään osoite ja aukioloajat, mutta ei puhelinnumeroa.",
+    "email_esilla": "HAVAINTO: tyonhakijoille-ja-tekijoille/ota-yhteytta-sivulla näytetään laskutussähköpostit (003720415553@procountor.apix.fi), mutta ei työnhakijoiden yhteydenottosähköpostia.",
+    "chat_mainittu": "HAVAINTO: chat-vaihtoehtoa ei mainittu missään ladatussa sivulla.",
+    "aukioloajat_esilla": "HAVAINTO: toimipiste-sivuilla näytetään aukioloajat, esim. Helsinki: Olemme avoinna arkisin klo 8-16.",
+    "ukk_osio": "HAVAINTO: sivustolla ei havaittu FAQ-osiota.",
+    "mobiilisovellus": "HAVAINTO: Bolt.Works-sovellus kuvataan bolt-works-sovellus-tyontekijalle-sivulla ja bolt-works-tyonantajana-sivulla. Sovellus saatavilla app storeissa ja web-pohjaisesti (https://app.bolt.works)."
+  }
+}

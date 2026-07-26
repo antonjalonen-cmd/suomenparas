@@ -1,0 +1,55 @@
+{
+  "slug": "k-rauta",
+  "fetched_ok": [
+    "https://www.k-rauta.fi/",
+    "https://www.k-rauta.fi/asiakaspalvelu",
+    "https://www.k-rauta.fi/asiakaspalvelu/takuu-ja-virhevastuu",
+    "https://www.k-rauta.fi/sivu/verkkokaupan-tilaus-ja-toimitusehdot",
+    "https://www.k-rauta.fi/sivu/tietoa-meista",
+    "https://www.k-rauta.fi/myymalat",
+    "https://www.k-rauta.fi/asiakaspalvelu/chat",
+    "https://www.k-rauta.fi/asiakaspalvelu/tilaaminen",
+    "https://www.k-rauta.fi/tuote/hakavaroitin-opal-3x15v-lcd-naytto/6438056308940"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laaja myymäläverkosto ja real-time saatavuustiedot: yli 120 myymälää koko maassa ja jokaisen myymälän aukioloajat näkyvät kaikissa tuotteissa",
+    "Monipuoliset toimitusvaihtoehdot ja selkeät hinnat: kahdeksan eri toimitusvaihtoehtoa ilmaisesta myymälänoudosta (0 eur) kahteenkymmeneen yhdeksään euroon, kaikkiin hintoihin sisältyy alv",
+    "Palautusehdot ja takuuselitykset ovat saatavilla omilla sivuillaan kirjallisesti, asiakaspalvelu tavoitettavissa puhelimitse, sähköpostitse ja chatissa"
+  ],
+  "kehityskohteet": [
+    "Y-tunnusta ei ole julkaistu verkkosivuilla, vaan viittaus pelkästään 'Kesko Oyj:iin' ilman tunnusnumeroa",
+    "Mobiilisovellusta ei ole kehitetty, verkkokauppa on saatavilla ainoastaan selainpohjaisena",
+    "Riippumattomia arviota tai sertifiointeja (esim. ISO-sertifikaatit, asiakastyytyväisyystutkimukset) ei ole julkaistu sivuilla"
+  ],
+  "yhteenveto": "K-Rauta on Kesko Oyj:n omistama suomalainen rakennustarvikkeiden ketju yli 120 myymälällä. Verkkokaupassa tuotteiden hinnat ovat selvästi esillä, toimitusvaihtoehdot ja niihin liittyvät kulut ilmoitetaan ennen maksamista, ja palautus- ja takuuehdot ovat saatavilla omilla sivuillaan. Myymälätiedot, aukioloajat ja asiakaspalvelun yhteystiedot (puhelin, sähköposti, chat) ovat kaikki julkisesti saatavilla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotesivuilla hinnat ovat näkyvät ennen ostoskorin lisäämistä, esim. 'Hinta verkkokaupassa 14,95 eur/kpl', 'Norm. 19,95 eur/kpl'. Kaikki hinnat sisältävät alv:n. Alennukset päivittyvät sekä selaamisen että ostoskoriin lisäämisen yhteydessä.",
+    "toimitus_kerrottu": "HAVAINTO: Verkkokaupan tilaus- ja toimitusehdot -sivulla mainitaan kahdeksan toimitusvaihtoehtoa hinnoittelulla: ilmainen myymälänoutoa, DB Schenkerin noutopiste 5,90-6,90 eur, Matkahuollon noutopiste 6,90-9,90 eur, Postin pakettiautomaatti 6,90-12,90 eur, kotiinkuljetus 9,90-329 eur riippuen kuriirista ja paino/koko. Postinumero kysytään tuotesivulla toimitusvaihtoehtoja nähdäkseen.",
+    "palautusehdot_saatavilla": "HAVAINTO: Takuu ja virhevastuu -sivulla (asiakaspalvelu/takuu-ja-virhevastuu) selitetään virhevastuu, takuu ja palautusprosessi. Kuluttajansuojalain mukainen virhevastuu kattaa materiaali- ja valmistusvirheet. Virhetilanteissa kontakti: verkkokauppa.asiakaspalvelu@k-rauta.fi tai 0800 90 900. Palautuslomakkeelle ja peruuttamislomakkeelle on omat osoitteensa.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymalat-sivulla listataan kaikki K-Rauta-myymälät osoitteineen, puhelinnumeroineen ja tämän päivän aukioloajoineen kuten 'Avoinna tänään: 10-18' tai 'Suljettu'. Esimerkkejä: K-Rauta 75 Vantaa klo 10-18, K-Rauta Hämeenlinna klo 11-17, K-Rauta Kajaani klo 10-14.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy sivuilla. Tilaus- ja toimitusehdot nimeävät 'Kesko Oyj:n' palveluntarjoajaksi, mutta Y-tunnusta tai muita virallisia tunnistenumeroita ei ole julkaistu.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei esiinny riippumattomia arviointitahoja, audit-sertifikaatteja, ISO-standardeja tai kolmannen osapuolen hyväksynnöistä. Sivuilla on ainoastaan sisäiset asiakasarviot (tuotteista antamat pisteet).",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 0800 90 900 on esillä asiakaspalvelu-sivulla, takuu-sivulla ja tilaaminen-sivulla. Yksittäisten myymälöiden numerot ovat myymälä-listauksessa, esim. K-Rauta 75 Vantaa 020 7757575.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite verkkokauppa.asiakaspalvelu@k-rauta.fi on julkaistu asiakaspalvelu-, takuu-, tilaaminen- ja palautussivuilla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelu on kuvattu sivulla asiakaspalvelu/chat: 'Nettimyyjämme auttavat sinua chatissa verkkokaupan tuotteiden valinnassa. Chat-palvelu on auki arkisin (ma-pe) klo 8-22 ja viikonloppuisin (la-su) 10-18.'",
+    "aukioloajat_esilla": "HAVAINTO: Myymälöiden aukioloajat näkyvät myymälät-sivulla jokaisen myymälän kohdalla real-time statuksella ('Avoinna tänään: 10-18' tai 'Suljettu'). Verkkokaupan chat-palvelun aukioloajat mainittu: ma-pe 8-22 ja la-su 10-18.",
+    "ukk_osio": "HAVAINTO: FAQ-osio on asiakaspalvelu/tilaaminen -sivulla kysymys-vastaus -formaatissa osioilla 'Tuotteet ja hinnat', 'Tuotteiden toimitettavuus', 'Tilaaminen K-Raudan verkkokaupasta', 'Tilauksen jälkeen' ja 'Tilauksen peruminen'."
+  }
+}

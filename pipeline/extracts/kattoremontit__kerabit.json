@@ -1,0 +1,49 @@
+{
+  "slug": "kerabit",
+  "fetched_ok": [
+    "https://www.kerabit.fi/",
+    "https://www.kerabit.fi/palvelut/kattoremontin-hinta/",
+    "https://www.kerabit.fi/palvelut/kattoremontin-vaiheet/",
+    "https://www.kerabit.fi/palvelut/kattoremontin-hinta-arvio/",
+    "https://www.kerabit.fi/palvelut/katon-kunnon-arviointi/",
+    "https://www.kerabit.fi/tietoa-meista/",
+    "https://www.kerabit.fi/palvelut/usein-kysyttya-kattoremontit/",
+    "https://www.kerabit.fi/laskutustiedot/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 75,
+    "sisallon_kattavuus": 82
+  },
+  "vahvuudet": [
+    "Remonttiprosessi kuvattu selkeästi kuuden vaiheen kautta, joilla on nimetty kattopäällikkö projektin johtoon",
+    "Hintatiedot julkisesti näkyvissä: 80-120 EUR/m2 alueella sekä interaktiivinen laskuri saatavilla",
+    "Laajat takuutiedot: kirjallinen takuu töille ja materiaaleille, 50 vuoden takuu Ruukin Quality Class 50 teräskateille ja Anticon aluskatteelle"
+  ],
+  "kehityskohteet": [
+    "Aukioloajat puuttuvat sivustosta, asiakkaat saavat tiedon vain soittamalla tai sähköpostilla",
+    "Itsenäisiä arvioita tai asiakasarvioita ei näy sivustolla, epäsuora luottamuksen vahvistus",
+    "Chat-tuki puuttuu, yhteydenotto mahdollista vain puhelimitse tai lomakkeilla"
+  ],
+  "yhteenveto": "KerabitPro Oy tarjoaa kattoremontti- ja kattohuoltopalveluita selkeällä prosessin kuvauksella ja avoimilla hintatiedoilla. Yritys mainitsi kirjalliset takuut tuotteille ja töille sekä pitkät tuotteiden elinkaarivarannot, mutta itsenäisiä arvioita tai asiakaspalautetta ei ole näkyvissä.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Sivulla mainitaan tavanomaiselle kattoremontille n. 80-120 EUR/m2 hintaväli (sis. alv). Interaktiivinen hinta-arvio-laskuri saatavilla osoitteessa https://www.kerabit.fi/palvelut/kattoremontin-hinta-arvio/, jossa käyttäjä voi syöttää kationsa pinta-alan saadakseen likimääräisen hinnan.",
+    "prosessi_kuvattu": "HAVAINTO: Remonttiprosessi kuvataan kuudessa vaiheessa: (1) katon kunnon arviointi, (2) selkeä tarjous ja sopimus, (3) tarvikkeiden ja laitteiden toimitus, (4) vanhan purku ja uuden asennus, (5) työmaan siivous, (6) lopputarkastus ja työn luovutus. Jokaiselle urakalle nimetään oma kattopäällikkö.",
+    "takuut_kerrottu": "HAVAINTO: Sivulla todetaan 'Myönnämme kattoremontille kirjallisen takuun. Takuu kattaa sekä työn että materiaalit sopimuksen mukaan.' Lisäksi mainitaan 50 vuoden tekninen takuu Ruukin Quality Class 50 teräskateille, 50 vuoden tiiveystakuu Anticon Rankka aluskattelle.",
+    "materiaalit_kuvattu": "HAVAINTO: Sivulla kuvataan käytetyt materiaalit yksityiskohtaisesti: Ruukin peltikatemateriaalit (Tiilikainen, Pohjalainen, Classic Silence, Trendic), Anticon Rankka -aluskatteena, homesuojattu puutavara, sadevesijärjestelmät ja kattoturvatuotteet. Annetaan myös tekniset ominaisuudet (esim. 50+ laatu, 5-kerrosrakenne).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2432892-4 näkyy laskutustiedot-sivulla (https://www.kerabit.fi/laskutustiedot/) osana yritystietoja: 'KerabitPro Oy (ent. Kerabit Katto Oy), Y-tunnus: 2432892-4'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy itsenäisiä arviointeja, asiakasarvioita tai viittauksia ulkopuolisiin arviointipalveluihin (kuten Google Reviews, Trustpilot tai muihin vertailusivustoihin). Viittauksia löytyy vain omiin referenssiprojekteihin."
+  }
+}

@@ -21,9 +21,12 @@ LH = json.load(open(os.path.join(BASE, "pipeline", "lh_cache", "_summary.json"),
 # rebuilding an old category must never stamp it with today's date. A vertical missing
 # from here is a vertical nobody dated — fail instead of guessing.
 MEASURED = {
-    "rautakaupat": "24.7.2026",
-    "kattoremontit": "24.7.2026",
-    "tyonvalityspalvelut": "24.7.2026",
+    # Batch 8 configured 24.7 but the transparency extracts were actually taken 26.7
+    # (the pankit precedent: the date is when the data was measured, not configured).
+    "rautakaupat": "26.7.2026",
+    "kattoremontit": "26.7.2026",
+    "tyonvalityspalvelut": "26.7.2026",
+    "silmasairaalat": "26.7.2026",
     "hautaustoimistot": "23.7.2026",
     "matkatoimistot": "23.7.2026",
     "tilitoimistot": "23.7.2026",
@@ -366,7 +369,11 @@ def build(vertical):
         # VERIFIED same-company redirects (23.7.2026): fortum.fi is Fortum Oyj's own
         # Finnish domain and 301-redirects to the group's global fortum.com/fi/sahkoa.
         # Same owner, not a sold brand — allowed explicitly instead of loosening the guard.
-        SAME_COMPANY = {("fortum.fi", "fortum.com")}
+        # (26.7.2026): ruukkikatot.fi is Ruukki Construction Oy's Finnish consumer
+        # campaign domain and redirects to the group's global ruukki.com/fin/katot.
+        # Same owner (SSAB subsidiary), not a sold brand — verified via LH fetch_url
+        # 24.7 and the 26.7 extraction crawl that followed ruukkikatot.fi's own nav.
+        SAME_COMPANY = {("fortum.fi", "fortum.com"), ("ruukkikatot.fi", "ruukki.com")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:
