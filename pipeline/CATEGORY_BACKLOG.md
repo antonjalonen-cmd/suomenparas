@@ -33,7 +33,7 @@ matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
 - [s] ruokakassipalvelut — hylätty 24.7.2026: alle 6 valtakunnallista yhtiötä — vain Ruokaboksi ja Venner elossa; Sannan Ruokakassi ja Anton & Anton lopettivat; HelloFresh ei toimi Suomessa; Fiksuruoka/Matsmart ovat hävikkiruokapalveluita, eri kategoria
 - [s] ruoan-kotiinkuljetus — hylätty 24.7.2026: alle 6 itsenäistä valtakunnallista palvelua — konsolidoitunut: Wolt (ravintola+kauppa), Foodora (ravintola), K-Ruoka verkkokauppa, S-kaupat/Foodie.fi; Oda ja Gorillas poistuneet Suomesta; K-Ruoka käyttää Wolt-toimitusta → ei riittävästi erillisiä palveluntarjoajia
 - [x] apteekkien-verkkokaupat — julkaistu 24.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts 7/7 OK; Nettiapteekki #1 86.3 p, Yliopiston Apteekki #2 85.0 p)
-- [ ] silmasairaalat — (tikki kuoli kesken 24.7., ei dataa; vapaa) — kandidaatit: Silmäasema sairaala?, Medilaser?, Terveystalo silmäkirurgia? (KKV-kaupat kesken, tarkista)
+- [~] silmasairaalat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 4 kategorian erä) — konfig + LH löytyi valmiina 24.7. tikiltä (6 yhtiötä), extraktit puuttuvat
 - [~] tyonvalityspalvelut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, VMP?
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
