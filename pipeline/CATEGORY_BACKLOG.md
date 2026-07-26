@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (41 kpl, 24.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (45 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -15,7 +15,9 @@ virustorjuntaohjelmat, suoratoistopalvelut, kiinteistonvalittajat,
 muuttopalvelut, siivouspalvelut, autokoulut, autokatsastus, autokorjaamot,
 autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
 yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
-matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
+matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput,
+apteekkien-verkkokaupat, rautakaupat, kattoremontit, tyonvalityspalvelut,
+silmasairaalat.
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
@@ -33,20 +35,20 @@ matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput.
 - [s] ruokakassipalvelut — hylätty 24.7.2026: alle 6 valtakunnallista yhtiötä — vain Ruokaboksi ja Venner elossa; Sannan Ruokakassi ja Anton & Anton lopettivat; HelloFresh ei toimi Suomessa; Fiksuruoka/Matsmart ovat hävikkiruokapalveluita, eri kategoria
 - [s] ruoan-kotiinkuljetus — hylätty 24.7.2026: alle 6 itsenäistä valtakunnallista palvelua — konsolidoitunut: Wolt (ravintola+kauppa), Foodora (ravintola), K-Ruoka verkkokauppa, S-kaupat/Foodie.fi; Oda ja Gorillas poistuneet Suomesta; K-Ruoka käyttää Wolt-toimitusta → ei riittävästi erillisiä palveluntarjoajia
 - [x] apteekkien-verkkokaupat — julkaistu 24.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts 7/7 OK; Nettiapteekki #1 86.3 p, Yliopiston Apteekki #2 85.0 p)
-- [~] silmasairaalat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 4 kategorian erä) — konfig + LH löytyi valmiina 24.7. tikiltä (6 yhtiötä), extraktit puuttuvat
-- [~] tyonvalityspalvelut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, VMP?
+- [x] silmasairaalat — julkaistu 26.7.2026 (päätyösessio, Antonin pyyntö; 6 yhtiötä, check_extracts 6/6 OK; Mehiläinen #1 75,8; Terveystalo vaati /fi/-polut, Imperva-esto ohitettu oikeilla linkeillä ei kiertämällä)
+- [x] tyonvalityspalvelut — julkaistu 26.7.2026 (päätyösessio; 8 yhtiötä, check_extracts 8/8 OK; Barona #1 68,0; palkkatieto puuttuu lähes koko alalta)
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
 - [ ] aurinkopaneeliasentajat — kandidaatit: Helen aurinko?, Aurinkoenergiaa Suomesta?, Solnet?, Playgreen? (kasvava ala)
 - [ ] lämpöpumppuasentajat — kandidaatit: Ilmalämpöpumppuketjut (Iver?, Elfving?), tarkista valtakunnalliset
-- [~] kattoremontit — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Kattotutka, Vesivek, Icopal Katto?, Kerabit Katto?
+- [x] kattoremontit — julkaistu 26.7.2026 (päätyösessio; 7 yhtiötä, check_extracts 7/7 OK; Vesivek #1 77,8 täydet läpinäkyvyyspisteet + 5 serttiä; ruukkikatot.fi->ruukki.com SAME_COMPANY-poikkeus)
 - [ ] ikkunaremontit — kandidaatit: Pihla, Skaala, Domus, Lammin Ikkuna, HR-Ikkunat?
 - [ ] hissiyhtiot — b2b/taloyhtiö-kulma: KONE, Otis, Schindler, TK Elevator → arvioi sopiiko kuluttajasivustolle
 - [ ] pesulapalvelut — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
 - [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
-- [~] urheiluvalineketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
-- [~] huonekaluketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
-- [~] rautakaupat — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: K-Rauta, Stark, Bauhaus, Puuilo, Tokmanni (rautaosasto? ei), RTV?
-- [~] elektroniikkaketjut — varattu: päätyösessio 24.7.2026 (batch 8) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
+- [ ] urheiluvalineketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
+- [ ] huonekaluketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
+- [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
+- [ ] elektroniikkaketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
