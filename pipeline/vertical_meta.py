@@ -1267,3 +1267,36 @@ META["apteekkien-verkkokaupat"] = {
          "ne eivät vaikuta pisteisiin."),
     ],
 }
+
+# ---------------------------------------------------------------- batch 8 / autopilot-tikki (24.7.2026)
+META["silmasairaalat"] = {
+    "slug": "silmasairaalat",
+    "nimi": "Silmäsairaalat",
+    "nav": "Silmasairaalat",
+    "h1": "Suomen paras silmäklinikka 2026",
+    "yksikko": "yksityistä silmäkirurgian tarjoajaa",
+    "lead": ("Pisteytimme {n} yksityistä silmäkirurgian tarjoajaa {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: saatko silmäleikkauksen "
+             "hinnan tietää ennen kuin luovutat yhteystietosi?"),
+    "meta_title": "Suomen paras silmaklinikka 2026 | silmakirurgia pisteytettyna | Suomen Paras",
+    "meta_desc": ("{n} yksityistä silmäkirurgian tarjoajaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Tärkeä muutos tulossa:</b> Terveystalo on solminut sopimuksen Silmäaseman "
+         "ostamisesta Coronarialta noin 574 miljoonan euron kauppahinnalla. Kaupan odotetaan "
+         "sulkeutuvan vuoden 2026 lopussa tai vuoden 2027 alussa, edellyttäen kilpailuviranomaisen "
+         "hyväksyntää. Tämä mittaus on tehty 24.7.2026 ennen kaupan sulkeutumista: Silmäasema ja "
+         "Terveystalo ovat mittaushetkellä erilliset yhtiöt. Tuloksia päivitetään tarvittaessa. "
+         "Medilaser sulautui Silmäasemaan 2020 eikä ole enää erillinen yhtiö."),
+        ("<b>Miksi listalla on vain {n} palveluntarjoajaa?</b> Rajasimme listan niihin, joilla on "
+         "useita toimipisteitä ympäri Suomea ja jotka tarjoavat silmäkirurgisia palveluja "
+         "verkkosivujensa kautta. Yksittäisissä kaupungeissa toimivat klinikat (OGA Tampere, "
+         "Turun Silmalaser, Laser-Porus Oulu, Eiran Sairaala Helsinki) on rajattu ulkopuolelle. "
+         "Listalla on sekä erikoistuneita silmasairaalaketjuja etta suuria terveyskonserneja, "
+         "joiden silmakirurgiayksikko on kuluttajalle yhtä lailla vaihtoehto."),
+        ("Emme anna laakarineuvontaa emmeka suosittele toimenpidetta. Vertailu kuvaa "
+         "yritysten julkisten verkkosivujen mitattavia ominaisuuksia. Silmaleikkauksen "
+         "sopivuus arvioidaan aina ensin lausunnossa. "
+         "Demo voi sisaltaa affiliate-linkkeja; ne eivat vaikuta pisteisiin."),
+    ],
+}

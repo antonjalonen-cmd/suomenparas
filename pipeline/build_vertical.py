@@ -71,6 +71,8 @@ MEASURED = {
     # batch 7
     "tapahtumaliput": "24.7.2026",
     "apteekkien-verkkokaupat": "24.7.2026",
+    # batch 8 / autopilot-tikki
+    "silmasairaalat": "24.7.2026",
     "salasananhallintapalvelut": "21.7.2026",
     "autokorjaamot": "21.7.2026",
     "suoratoistopalvelut": "21.7.2026",

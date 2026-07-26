@@ -423,6 +423,16 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ],
+    "silmasairaalat": [
+        # Core question: can you find out the price of laser eye surgery or cataract surgery
+        # BEFORE you have to call or hand over your contact details?
+        ("hinnat_esilla", "Leikkauksen hintatieto julkisesti esillä ilman yhteystietoja", 30),
+        ("menetelmat_kuvattu", "Leikkausmenetelmät kuvattu (LASIK, PRK, SMILE, kaihileikkaus)", 20),
+        ("varaus_verkossa", "Ajanvaraus tai arviokäynti tilattavissa verkossa", 20),
+        ("takuu_tai_jalkitarkastus", "Takuu tai jälkitarkastukset kuvattu", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ],
 }
 
 # Human-readable criteria string rendered on the methodology page.

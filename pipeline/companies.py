@@ -1164,3 +1164,26 @@ COMPANIES["tyonvalityspalvelut"] = [
     dict(slug="adecco", nimi="Adecco", domain="adecco.com", y_tunnus="1042464-0",
          omistaja="Adecco Finland Oy — osa sveitsiläistä Adecco Groupia; suomenkielinen palvelu adecco.com/fi-fi"),
 ]
+
+# ---------------------------------------------------------------- BATCH 8 / autopilot-tikki (24.7.2026)
+# SILMASAIRAALAT (6 yksityistä silmäkirurgian tarjoajaa; verified 24.7.2026, agent + PRH).
+# Medilaser sulautui Silmäasemaan 2020 — ei erillinen rivi.
+# ÖGA (Tampere), Turun Silmälaser, Laser-Porus (Oulu), Eiran Sairaala (Helsinki) rajattu
+# ulkopuolelle: yksittäiset kaupungit, ei valtakunnallinen ketju.
+# Haukansilm Oy: mikrofirma, ei kuluttajasivustoa.
+# Terveystalo ostaa Silmäaseman Coronarialta; kauppa KKV-käsittelyssä — yhtiöt ovat
+# toistaiseksi erilliset (mittaus tehty 24.7.2026 ennen sulkeutumista).
+COMPANIES["silmasairaalat"] = [
+    dict(slug="silmaasema", nimi="Silmäasema", domain="silmaasema.fi", y_tunnus="2627773-7",
+         omistaja="Silmäasema Oy (ent. Silmäasema Oyj) — Coronaria Oy:n omistama; 18 yksityistä silmäsairaalaa ja noin 150 optikkoliikettä valtakunnallisesti; Terveystalo ostaa, kauppa vireillä"),
+    dict(slug="pilke", nimi="Silmäsairaala Pilke", domain="silmasairaalapilke.fi", y_tunnus="3215906-7",
+         omistaja="Silmäsairaala Pilke Oy — 6 toimipistettä: Espoo, Helsinki, Jyvaskyla, Tampere, Turku, Vaasa; perustettu silmäkirurgien toimesta"),
+    dict(slug="valo", nimi="Silmäsairaala Valo", domain="silmasairaalavalo.fi", y_tunnus="2767513-9",
+         omistaja="Silmäsairaala Valo Oy (ent. Silmäsairaala Lux Oy) — toimipisteet Helsingissä ja Kouvolassa; yhteistyö Instrumentariumin ja Mehilaisen kanssa"),
+    dict(slug="terveystalo", nimi="Terveystalo (silmäkirurgia)", domain="terveystalo.com", y_tunnus="1093863-3",
+         omistaja="Suomen Terveystalo Oy — valtakunnallinen, silmäkirurgiaa useilla paikkakunnilla; ostaa Silmäaseman, kauppa vireillä"),
+    dict(slug="mehilainen", nimi="Mehiläinen (silmäkirurgia)", domain="mehilainen.fi", y_tunnus="1927556-5",
+         omistaja="Mehiläinen Oy — valtakunnallinen, silmäkirurgiaa Helsingissä, Jyvaskylass, Kuopiossa, Tampereella, Vaasassa ja Oulussa"),
+    dict(slug="pihlajalinna", nimi="Pihlajalinna (Pohjola Sairaala)", domain="pihlajalinna.fi", y_tunnus="2617455-1",
+         omistaja="Pihlajalinna Oyj — pörssilistattu; silmäkirurgia Pohjola Sairaalan kautta Helsingissä ja muilla paikkakunnilla"),
+]

@@ -1,4 +1,8 @@
-# Kategoriajono — autopilot ottaa ylimmän vapaan `[ ]` rivin
+# Kategoriajono — AUTOMAATIO POIS PÄÄLTÄ (Anton 24.7.2026)
+#
+# Kategorioita lisätään VAIN kun Anton erikseen pyytää. Autopilotin
+# suomenparas-tikki on kytketty pois (autopilot_suomenparas_every_hours=0).
+# Jono säilyy tulevia pyyntöjä varten.
 
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
