@@ -77,11 +77,17 @@ CATEGORY_GROUPS = [
         ("Sähköpostipalvelut", None, False), ("Verkkotunnusvälittäjät", None, False),
         ("Kirjanpito-ohjelmat", None, False), ("Verkkokauppa-alustat", None, False),
     ]),
+    ("Media ja tapahtumat", [
+        ("Uutismediat", "uutismediat", True), ("Aikakauslehdet", "aikakauslehdet", True),
+        ("Tapahtumaliput", "tapahtumaliput", True), ("Podcast-palvelut", None, False),
+        ("Äänikirjapalvelut", None, False),
+    ]),
     ("Koti ja asuminen", [
         ("Lämpöpumppuasentajat", None, False), ("Aurinkopaneeliasentajat", None, False),
         ("Putkiliikkeet", None, False), ("Sähköasentajat", None, False),
-        ("Kattoremontit", None, False), ("Muuttopalvelut", "muuttopalvelut", True),
+        ("Kattoremontit", "kattoremontit", True), ("Muuttopalvelut", "muuttopalvelut", True),
         ("Siivouspalvelut", "siivouspalvelut", True), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
+        ("Tavaransäilytys", "tavaransailytys", True), ("Rautakaupat", "rautakaupat", True),
         ("Rakennusliikkeet", None, False), ("Maalausliikkeet", None, False),
         ("Ikkunaremontit", None, False), ("Keittiöremontit", None, False),
         ("Lukkoliikkeet", None, False), ("Kodinkonehuolto", None, False),
@@ -90,7 +96,7 @@ CATEGORY_GROUPS = [
     ]),
     ("Auto ja liikenne", [
         ("Autokorjaamot", "autokorjaamot", True), ("Autokatsastus", "autokatsastus", True),
-        ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", None, False),
+        ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", "autopesulat", True),
         ("Autokoulut", "autokoulut", True), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
@@ -98,11 +104,12 @@ CATEGORY_GROUPS = [
     ]),
     ("Terveys ja hyvinvointi", [
         ("Hammaslääkärit", "hammaslaakarit", True), ("Yksityislääkärit", "yksityislaakarit", True),
-        ("Fysioterapeutit", None, False), ("Hierojat", None, False),
+        ("Fysioterapia", "fysioterapia", True), ("Hierojat", None, False),
         ("Optikot", "optikot", True), ("Kuntosalit", "kuntosalit", True),
+        ("Silmäsairaalat", "silmasairaalat", True), ("Apteekkien verkkokaupat", "apteekkien-verkkokaupat", True),
         ("Eläinlääkärit", None, False), ("Psykoterapeutit", None, False),
         ("Jalkahoitolat", None, False), ("Kauneushoitolat", None, False),
-        ("Silmälääkärit", None, False), ("Personal trainerit", None, False),
+        ("Personal trainerit", None, False),
         ("Joogastudiot", None, False), ("Ravintoterapeutit", None, False),
     ]),
     ("Ravintolat ja kahvilat", [
@@ -113,10 +120,10 @@ CATEGORY_GROUPS = [
         ("Thairavintolat", None, False), ("Konditoriat", None, False),
         ("Vegaaniravintolat", None, False),
     ]),
-    ("Palvelut yrityksille", [
-        ("Tilitoimistot", None, False), ("Mainostoimistot", None, False),
+    ("Palvelut yrityksille ja työelämä", [
+        ("Tilitoimistot", "tilitoimistot", True), ("Mainostoimistot", None, False),
         ("IT-tukipalvelut", None, False), ("Lakitoimistot", None, False),
-        ("Käännöstoimistot", None, False), ("Rekrytointipalvelut", None, False),
+        ("Käännöstoimistot", None, False), ("Työnvälityspalvelut", "tyonvalityspalvelut", True),
         ("Vartiointipalvelut", None, False), ("Maksupäätepalvelut", None, False),
         ("Työterveyspalvelut", None, False), ("Vakuutusmeklarit", None, False),
     ]),
@@ -126,8 +133,8 @@ CATEGORY_GROUPS = [
         ("Juhlatilat", None, False), ("Catering-palvelut", None, False),
         ("Hääpalvelut", None, False), ("Ohjelmistokoulut lapsille", None, False),
         ("Kielikurssit", None, False), ("Tanssikoulut", None, False),
-        ("Kukkakaupat", None, False), ("Matkatoimistot", None, False),
-        ("Hautaustoimistot", None, False), ("Lemmikkihoitolat", None, False),
+        ("Kukkakaupat", None, False), ("Matkatoimistot", "matkatoimistot", True),
+        ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False),
     ]),
 ]
 TOTAL_CATS = sum(len(cats) for _, cats in CATEGORY_GROUPS)
@@ -135,6 +142,15 @@ TOTAL_CATS = sum(len(cats) for _, cats in CATEGORY_GROUPS)
 # is live from the table above alone.
 LIVE_SLUGS = {v["slug"] for v in VERTICALS}
 LIVE_COUNT = sum(1 for _, cats in CATEGORY_GROUPS for _, slug, _ in cats if slug in LIVE_SLUGS)
+# Guard (26.7.2026): every live vertical MUST appear in CATEGORY_GROUPS, or it is
+# invisible on /kategoriat/ and only findable via search — which happened when
+# 12 published categories were missing from this hand-maintained table.
+_grouped = {slug for _, cats in CATEGORY_GROUPS for _, slug, _ in cats if slug}
+_hidden = LIVE_SLUGS - _grouped - {"vakuutukset-alasivut"}
+if _hidden:
+    raise SystemExit(
+        f"CATEGORY_GROUPS is missing live verticals (they would be invisible on "
+        f"/kategoriat/): {sorted(_hidden)} — add them to the table in gen_site.py")
 
 # ---------------------------------------------------------------- shared css
 CSS = """
@@ -1195,7 +1211,7 @@ def build_vertical(v):
 
   <div id="ranking" data-vertical="{v['slug']}">{cards}</div>
 
-  <p class="note"><b>Lue pisteet oikein:</b> tämän demon AI-ekstraktio ei ole täysin toistettava — mittasimme kolme yritystä kahdesti ja ero oli jopa ±15 pistettä (<a href="../metodologia/">selitys metodologiassa</a>). Käytä pisteitä suuruusluokkana, älä tarkkana paremmuusjärjestyksenä: muutaman pisteen ero on kohinaa, mutta iso ero (esim. hinta julkisesti vs. kirjautumisen takana) on todellinen.</p>
+  <p class="note"><b>Lue pisteet oikein:</b> pisteet ovat suuntaa antavia, eivät tarkkoja. Kun mittasimme saman yrityksen kahdesti, tulos saattoi vaihdella jopa 15 pistettä (<a href="../metodologia/">miksi, se selitetään metodologiassa</a>). Muutaman pisteen ero kahden yrityksen välillä ei siis vielä kerro, kumpi on parempi. Iso ero sen sijaan kertoo aidosta erosta — esimerkiksi siitä, että toinen kertoo hinnat suoraan ja toinen vasta kirjautumisen jälkeen.</p>
   {notes}
   {opas_body}
 

@@ -1214,3 +1214,27 @@ COMPANIES["uutismediat"] = [
     dict(slug="kaleva", nimi="Kaleva", domain="kaleva.fi", y_tunnus="2715049-8",
          omistaja="Kaleva Media Oy — Kaleva Media ja Ilkka-yhtymä yhdistivät medialiiketoimintansa 1.1.2026 (Kaleva 65 %, Ilkka 35 %)"),
 ]
+
+# --- aikakauslehdet (26.7.2026, Antonin pyyntö — jatko uutismedioille) --------
+# Yksiköt ovat YKSITTÄISIÄ LEHTIÄ, eivät kustantajia. Otavamedia julkaisee 4/8 —
+# markkina on keskittynyt ja se kerrotaan avoimesti omistaja-kentässä.
+# Y-tunnukset PRH v3 26.7.2026: A-lehdet Oy 1708790-7, Otavamedia Oy 0196807-2,
+# Aller Media Oy 0872238-2, Sanoma Media Finland Oy 1515901-4.
+COMPANIES["aikakauslehdet"] = [
+    dict(slug="apu", nimi="Apu", domain="apu.fi", y_tunnus="1708790-7",
+         omistaja="A-lehdet Oy — perheomisteinen (Aatos Erkko -suvusta erillinen A-lehdet-suku), per. 1933"),
+    dict(slug="seura", nimi="Seura", domain="seura.fi", y_tunnus="0196807-2",
+         omistaja="Otavamedia Oy (Otava-konserni) — sama kustantaja kuin SK:lla, TM:llä ja Kotiliedellä"),
+    dict(slug="suomen-kuvalehti", nimi="Suomen Kuvalehti", domain="suomenkuvalehti.fi", y_tunnus="0196807-2",
+         omistaja="Otavamedia Oy (Otava-konserni) — yhteiskunnallinen viikkolehti (per. 1916)"),
+    dict(slug="tekniikan-maailma", nimi="Tekniikan Maailma", domain="tekniikanmaailma.fi", y_tunnus="0196807-2",
+         omistaja="Otavamedia Oy (Otava-konserni) — tekniikan ja autoilun erikoislehti (per. 1953)"),
+    dict(slug="kotiliesi", nimi="Kotiliesi", domain="kotiliesi.fi", y_tunnus="0196807-2",
+         omistaja="Otavamedia Oy (Otava-konserni) — Suomen vanhimpia aikakauslehtiä (per. 1922)"),
+    dict(slug="et-lehti", nimi="ET-lehti", domain="etlehti.fi", y_tunnus="1515901-4",
+         omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — sama kustantaja kuin Tiede-lehdella"),
+    dict(slug="seiska", nimi="Seiska", domain="seiska.fi", y_tunnus="0872238-2",
+         omistaja="Aller Media Oy (Aller-konserni, Tanska) — viihdelehti"),
+    dict(slug="tiede", nimi="Tiede", domain="tiede.fi", y_tunnus="1515901-4",
+         omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — julkaisijana myös Tieteen tiedotus ry"),
+]

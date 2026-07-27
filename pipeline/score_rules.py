@@ -463,3 +463,16 @@ TRANSPARENCY["uutismediat"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- aikakauslehdet (26.7.2026) -----------------------------------------------
+# Aikakauslehden "hinta ennen dataa": mitä kestotilaus oikeasti maksaa ja miten
+# sen saa loppumaan. Tilauksen päättämisen avoimuus on alan tunnettu kipupiste,
+# ja se syöttää myös sitoutumisindeksiä (peruutus-avain).
+TRANSPARENCY["aikakauslehdet"] = [
+    ("tilaushinta_esilla", "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista", 25),
+    ("tilauksen_peruutus_kerrottu", "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti", 20),
+    ("paatoimittaja_esilla", "Päätoimittaja ja toimituksen yhteystiedot esillä", 20),
+    ("mainonta_eroteltu", "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

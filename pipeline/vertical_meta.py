@@ -1330,3 +1330,30 @@ META["uutismediat"] = {
          "selkeästi."),
     ],
 }
+
+META["aikakauslehdet"] = {
+    "slug": "aikakauslehdet",
+    "nimi": "Aikakauslehdet",
+    "nav": "Aikakauslehdet",
+    "h1": "Suomen paras aikakauslehti 2026",
+    "yksikko": "suomalaista aikakauslehteä",
+    "lead": ("Pisteytimme {n} suomalaista aikakauslehteä {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: kerrotaanko "
+             "tilaajalle avoimesti, mitä kestotilaus maksaa ja miten sen saa loppumaan?"),
+    "meta_title": "Suomen paras aikakauslehti 2026 | aikakauslehdet pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista aikakauslehteä pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Vertailemme yksittäisiä lehtiä, emme kustantajia.</b> Otavamedia julkaisee "
+         "neljää listan lehdistä (Seura, Suomen Kuvalehti, Tekniikan Maailma, Kotiliesi), "
+         "Sanoma kahta (ET, Tiede) — markkina on keskittynyt, ja siksi kustantaja ja "
+         "omistaja kerrotaan jokaisen lehden sivulla."),
+        ("<b>Tilauksen päättäminen on alan kipupiste.</b> Kestotilaus jatkuu, kunnes sen "
+         "erikseen päättää, ja peruutusohjeiden löydettävyys vaihtelee. Siksi tilauksen "
+         "päättämisen avoimuus on tässä kategoriassa oma painava kriteerinsä ja kytkeytyy "
+         "myös sitoutumisindeksiin."),
+        ("<b>Emme arvioi lehtien sisältöä tai laatua.</b> Mittaamme verkkosivuston "
+         "läpinäkyvyyttä tilaajan silmin: hinnat, peruutusehdot, vastuuhenkilöt ja "
+         "kaupallisen sisällön erottelu."),
+    ],
+}

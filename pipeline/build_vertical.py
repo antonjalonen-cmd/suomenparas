@@ -28,6 +28,7 @@ MEASURED = {
     "tyonvalityspalvelut": "26.7.2026",
     "silmasairaalat": "26.7.2026",
     "uutismediat": "26.7.2026",
+    "aikakauslehdet": "26.7.2026",
     "hautaustoimistot": "23.7.2026",
     "matkatoimistot": "23.7.2026",
     "tilitoimistot": "23.7.2026",
