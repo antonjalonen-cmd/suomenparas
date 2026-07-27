@@ -1408,3 +1408,28 @@ META["elektroniikkaketjut"] = {
          "telkkarin saa halvemmalla."),
     ],
 }
+
+META["urheiluvalineketjut"] = {
+    "slug": "urheiluvalineketjut",
+    "nimi": "Urheiluvälineketjut",
+    "nav": "Urheiluvälineketjut",
+    "h1": "Suomen paras urheiluvälineketju 2026",
+    "yksikko": "Suomessa toimivaa urheilu- ja ulkoiluvälineketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa urheilu- ja ulkoiluvälineketjua {m} "
+             "mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. "
+             "Tärkein kysymys: näetkö hinnat, toimituskulut ja palautusehdot ennen ostoa?"),
+    "meta_title": "Suomen paras urheiluvälineketju 2026 | urheiluvälineketjut pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} urheiluvälineketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Intersport ja Budget Sport ovat sama yhtiö.</b> Molempia operoi Keskon "
+         "Intersport Finland Oy, mutta konseptit palvelevat eri asiakasryhmiä eri "
+         "hinnoilla, joten vertailemme ne erikseen — omistus kerrotaan avoimesti."),
+        ("<b>Ala elää murrosta.</b> XXL on karsinut myymäläverkkoaan Suomessa vuonna "
+         "2026, ja Sportia-ketju on jätetty vertailusta pois, koska näyttöä elävästä "
+         "valtakunnallisesta ketjusta ei mittaushetkellä ollut."),
+        ("<b>Mukana on myös verkkopainotteisia toimijoita.</b> Varuste.net ja "
+         "Scandinavian Outdoor palvelevat pääosin verkossa, ja niiden myymäläkriteeri "
+         "mitataan noutopisteiden ja toimitustietojen avoimuutena."),
+    ],
+}

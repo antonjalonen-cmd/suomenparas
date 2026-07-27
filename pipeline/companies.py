@@ -1283,3 +1283,26 @@ COMPANIES["elektroniikkaketjut"] = [
     dict(slug="proshop", nimi="Proshop", domain="proshop.fi", y_tunnus=None,
          omistaja="Proshop A/S (Tanska) — palvelee Suomea proshop.fi-verkkokaupalla ilman myymälöitä"),
 ]
+
+# --- urheiluvalineketjut (26.7.2026, Antonin pyyntö) --------------------------
+# Intersport ja Budget Sport ovat molemmat Keskon Intersport Finland Oy:n
+# konsepteja — listataan erikseen, omistus kerrotaan (HS/IS-linja).
+# Sportia jätetty pois: ei näyttöä elävästä valtakunnallisesta ketjusta.
+# XXL jatkaa Suomessa (sulkenut yksittäisiä myymälöitä 2026, ketju toimii).
+# Y-tunnukset PRH v3 + Asiakastieto 26.7.2026.
+COMPANIES["urheiluvalineketjut"] = [
+    dict(slug="xxl", nimi="XXL", domain="xxl.fi", y_tunnus="2541215-9",
+         omistaja="XXL Sports & Outdoor Oy — XXL ASA (Norja); karsinut myymäläverkkoaan Suomessa 2026"),
+    dict(slug="intersport", nimi="Intersport", domain="intersport.fi", y_tunnus="1648871-7",
+         omistaja="Intersport Finland Oy (Kesko Oyj) — sama yhtiö operoi myös Budget Sportia"),
+    dict(slug="budget-sport", nimi="Budget Sport", domain="budgetsport.fi", y_tunnus="1648871-7",
+         omistaja="Intersport Finland Oy (Kesko Oyj) — sama yhtiö operoi myös Intersportia"),
+    dict(slug="stadium", nimi="Stadium", domain="stadium.fi", y_tunnus="1515574-2",
+         omistaja="Stadium Oy — ruotsalainen perheomisteinen Stadium AB"),
+    dict(slug="partioaitta", nimi="Partioaitta", domain="partioaitta.fi", y_tunnus="0201830-0",
+         omistaja="Partioaitta Oy — Fenix Outdoor International AG (Ruotsi/Sveitsi)"),
+    dict(slug="varuste", nimi="Varuste.net", domain="varuste.net", y_tunnus="1702286-3",
+         omistaja="Aalto Group Oy — suomalainen (Helsinki), ulkoilun ja urheilun verkkokauppa"),
+    dict(slug="scandinavian-outdoor", nimi="Scandinavian Outdoor", domain="scandinavianoutdoor.fi", y_tunnus="2066059-1",
+         omistaja="Scandinavian Outdoor Oy — suomalainen ulkoiluvarusteketju"),
+]

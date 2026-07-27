@@ -1,0 +1,49 @@
+{
+  "slug": "varuste",
+  "fetched_ok": [
+    "https://varuste.net/",
+    "https://varuste.net/info",
+    "https://varuste.net/myymala"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Tuotehinnät selkeasti esillä etusivulla ja haku-toiminnolla loydettavissa",
+    "Myymala sijainnin, aukioloaikojen ja julkisen kulkuyhteyksien tiedot helposti loydettavissa",
+    "Asiakaspalveluun voi olla yhteydessa puhelimitse (arkisin 10-14) ja sahkopostilla"
+  ],
+  "kehityskohteet": [
+    "Toimitus- ja maksutavoista seka palautus- ja takuuehdoista ei saa tietoa ilman jarjestelman sisaan tuumista",
+    "Usein kysytyt kysymykset -sivu on merkitty navigaatioon mutta ei ole saavutettavissa jarjestelmapohjaisesti",
+    "Mobiilisovellusta ei mainittu eika riippumattomia arviolaheita (kuten Trustpilot) ole nakyvillä"
+  ],
+  "yhteenveto": "Varuste.net on suomalainen ulkoiluvarusteiden verkkokauppa ja myymala Helsingissa. Sivusto esittelee tuotehinnatlasveasti etusivulla, ja myymalan sijainnin seka aukioloajat ovat selkeasti loydettavissa. Toimitus-, maksu- ja palautusehdoista seka usein kysetyista kysymyksista ei kuitenkaan saa tietoa verkkoon kautta - naita sivujen linkit mainitsevat, mutta ne eivat ole suoraan saavutettavissa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla listataan suosituimmat tuotteet hintojen kanssa (esim. Big Agnes Fly Creek UL 319,90-334,90 eur, Sea to Summit Ultralight XR Mat 97,43-112,43 eur).",
+    "toimitus_kerrottu": "HAVAINTO: Sivuston navigaatiossa mainitaan 'Toimitus- ja maksutavat' ja 'Tilaus-, toimitus- ja palautusehdot', mutta naita sivuja ei voida avata jarjestelmallisesti. SPA-reititys estaa paasynn.",
+    "palautusehdot_saatavilla": "HAVAINTO: Navigaatiossa mainitaan 'Palautukset' ja 'Reklamaatiot', mutta sivuja ei ole saavutettavissa. Ehdoista ei loeyde tietoa etusivulla tai muilla ladattavilla sivuilla.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: /myymala -sivulla mainitaan: Malminkartanontie 1, 00390 Helsinki. Aukioloajat: ma-pe 10-20, la 10-18, su 10-18. Myos liikenneyhteydet on kuvattu (bussit 300, 345, 30, 37, 59 ja juna).",
+    "y_tunnus_esilla": "HAVAINTO: /info -sivulla mainitaan 'Aalto Group Oy, 1702286-3'.",
+    "puhelin_esilla": "HAVAINTO: +358 9 454 0707 mainitaan seka etusivulla etta /info -sivulla. Asiakaspalvelun aukioloajat ma-pe 10-14.",
+    "email_esilla": "HAVAINTO: info@varuste.net mainitaan seka etusivulla etta /info -sivulla.",
+    "chat_mainittu": "HAVAINTO: Keskustelupalvelua ei mainittu ladattavissa sivuissa.",
+    "aukioloajat_esilla": "HAVAINTO: Myymalan aukioloajat ma-pe 10-20, la 10-18, su 10-18 ja asiakaspalvelun ajat ma-pe 10-14 ovat selkeasti esilla.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa mainitaan 'Usein kysytyt kysymykset', mutta sivua ei ole saavutettavissa suoraan. Varsinaista FAQ-sisaltoa ei loeyde ladattavissa sivuissa.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita (kuten Trustpilot tai muita arviointialustoja) ei mainittu sivustolla."
+  }
+}

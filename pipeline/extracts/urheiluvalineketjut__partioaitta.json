@@ -1,0 +1,52 @@
+{
+ "slug": "partioaitta",
+ "fetched_ok": [
+  "https://www.partioaitta.fi/",
+  "https://www.partioaitta.fi/asiakaspalvelu/toimitusehdot/",
+  "https://www.partioaitta.fi/myymalat/",
+  "https://www.partioaitta.fi/yritys/",
+  "https://www.partioaitta.fi/yritys/tietosuojaseloste/",
+  "https://www.partioaitta.fi/oppaat/huolto/"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 85,
+  "sisallon_kattavuus": 88,
+  "hintojen_loydettavyys": 95
+ },
+ "vahvuudet": [
+  "Tuotehinnat näkyvät selkeästi tuoteluetteloissa ja etusivulla, mikä helpottaa hintojen vertailua",
+  "Yksityiskohtaiset toimitustiedot: kaikki vaihtoehdot (myymälä, posti, kotiinkuljetus) ja kustannukset (0-9,95 euroa) dokumentoitu selvästi",
+  "Laajamuotoinen myymäläverkko: 22 myymälää eri puolilla Suomea, joiden aukioloajat ja yhteystiedot listattu täydellisesti"
+ ],
+ "kehityskohteet": [
+  "Riippumattomia arvioita ei näy sivustolla: asiakkaiden antamia arvosteluita tai ulkoisten lähteiden arvioita puuttuu kokonaan",
+  "Natiivi mobiilisovellusta ei ole saatavilla iOS:lle tai Androidille, mikä heikentää käyttäjän ostokokemusta matkalla",
+  "Live-chat-palvelua ei ole mainittu: asiakaspalveluun on saatavilla vain puhelin (020 7760 719) ja sähköposti (yhteydenotot@partioaitta.fi)"
+ ],
+ "yhteenveto": "Partioaitta on laajalle levinnyt ulkoilu- ja retkilyvälineiden ketju, joka tarjoaa monipuolisen tuotevalikoiman ja 22 myymälän verkon ympäri Suomea. Sivusto esittelee tuotehinnat ja toimitusehdot selkeästi sekä tarjoaa kattavaa tietoa palautuksista, aukioloajoista ja yritystiedoista, mukaan lukien Y-tunnuksen (0201830-0). Kuitenkin sivustolla ei ole näkyvissä asiakasarvioita, natiivea mobiilisovellusta tai live-chat-palvelua.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät tuoteluetteloissa ja etusivulla esimerkiksi 2 paria kuosimerinosukkia 25 euroa ja JSON-muodossa hinnat kuten 79.96, 148.85, 127.46.",
+  "toimitus_kerrottu": "HAVAINTO: /asiakaspalvelu/toimitusehdot/ -sivulla luetellut kaikki toimitustavat selkein kustannuksin: ilmainen myymälään, ilmainen yli 80 euroa tilauksille, postin pakkettiautomaatti 4,95 euroa, postin palvelupiste 4,95 euroa, kotiinkuljetus 9,95 euroa. Toimitusaika 1-5 arkipäivää.",
+  "palautusehdot_saatavilla": "HAVAINTO: /asiakaspalvelu/toimitusehdot/ -sivulla selkeästi mainittu 60 päivän palautus- ja vaihto-oikeus ja linkki palautusohjeiden sivulle.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: /myymalat/ -sivulla kaikki 22 myymälää listattu kaupungeittain (Helsinki, Espoo, Vantaa, Tampere, Turku, Kuopio, Oulu yms.) jokaisen aukioloajoilla (esim. maanantai-perjantai 10:00-19:00).",
+  "y_tunnus_esilla": "HAVAINTO: /yritys/ -sivulla selkeästi näkyvissä Partioaitta Oy Y-tunnus: 0201830-0 yritystietojen osassa.",
+  "riippumaton_arvio": "HAVAINTO: Yhtään riippumatonta arviota tai ulkoisen tahon antamaa arvostelusivulle viittaavaa linkkiä ei löytynyt kuudella ladatulla sivulla. Asiakkaiden arviot puuttuvat tuotesivuista.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero 020 7760 719 pvm/mpm näkyy asiakaspalvelussa ja jokaisella myymälällä omat puhelinnumerot esimerkiksi Vantaa Jumbo: 0207 760 680.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite yhteydenotot@partioaitta.fi näkyy kontaktitiedoissa ja jokaisen myymälän tiedoissa, lisäksi yhteydenottolomakelinkki saatavilla.",
+  "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita millään ladatulla sivulla. Asiakaspalvelun vaihtoehdoissa ainoastaan puhelin, sähköposti ja yhteydenottolomake.",
+  "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat arkisin klo 9-17 mainittu ja kaikki 22 myymälän yksityiskohtaiset aukioloajat päivä-päivältä listattu /myymalat/ -sivulla.",
+  "ukk_osio": "HAVAINTO: FAQ-osio on olemassa linkkinä Usein kysytyt kysymykset ja erillisellä support.partioaitta.fi/hc/fi/ -sivulla, mutta kyseinen tuki-sivu on Cloudflarella suojattu eikä sisältöä voitu lukea. Sivustolla on kuitenkin laaja /oppaat/ -osio eri aktiviteetteista."
+ }
+}

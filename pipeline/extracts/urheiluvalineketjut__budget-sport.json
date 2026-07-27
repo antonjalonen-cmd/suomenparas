@@ -1,0 +1,53 @@
+{
+  "slug": "budget-sport",
+  "fetched_ok": [
+    "https://www.budgetsport.fi/",
+    "https://www.budgetsport.fi/asiakaspalvelu/",
+    "https://asiakaspalvelu.budgetsport.fi/hc/fi",
+    "https://www.budgetsport.fi/myymalat/",
+    "https://www.budgetsport.fi/treeni/treenikengat/",
+    "https://www.budgetsport.fi/juoksu/juoksukengat/",
+    "https://www.budgetsport.fi/palautus/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Tuotehinnat selkeasti näkyvillä kategorioittain ja tuotesivuilla, hinnat merkitty euroissa",
+    "Toimitusvaihtoehdot ja kustannukset ilmoitettu (myymälänoudot ilmaiset, DSV-noutopisteet 5,59-7,59 €)",
+    "Yksityiskohtaiset palautusohjeet saatavilla sekä 30 päivän palautusikkunan kuvaus"
+  ],
+  "kehityskohteet": [
+    "Myymälöiden aukioloajat puuttuvat verkkokaupasta, saatavilla vain chat-palvelun ajat (9-12 ja 14-17)",
+    "Riippumattomia arvioluokituksia tai kolmannen osapuolen testimiehet puuttuvat kokonaan",
+    "Tuotteiden garantia- ja takuuinformaatio ei helposti löydettävissä kategorioista, vaan vaatii hakemista FAQ:sta"
+  ],
+  "yhteenveto": "Budget Sport on Intersport Finland Oy:n halpaketju, joka tarjoaa urheiluvaatteita ja -varusteita yli 6000 tuotteella. Verkkokauppa näyttää tuotehinnat selkeästi ja kertoo toimitusvaihtoehdoista (myymälänoudot ilmaiset, DSV-noutopisteet 5,59-7,59 €) sekä palautusehdoista (30 pv) riittävän yksityiskohtaisesti. Pääasiassa puuttuvia ovat myymälöiden aukioloajat ja riippumattomien arvioluokitusten puuttuminen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät kaikilla kategorian sivuilla (esim. juoksukengät 69,95-89,95 €, treenikengät 88,95 €). Hintaesimerkissä sanotaan 'Suosituin tuotteemme tässä ryhmässä on ASICS Versablast 4 - naisten juoksukengät (kirkas sininen), 69,95 €'.",
+    "toimitus_kerrottu": "HAVAINTO: Etusivulla näytetään toimitusvaihtoehdot: 'Myymälänoudot ilman toimituskuluja! Rekisteröityneille DSV-noutopistetoimitus alk. 5,59 € (norm. 7,59 €)'. Lisäksi sivulla lukee 'Tilaukset toimitetaan sinulle jopa kolmessa päivässä' ja 'Paljon erilaisia maksu- ja toimitustapoja'.",
+    "palautusehdot_saatavilla": "HAVAINTO: /palautus/-sivu antaa yksityiskohtaiset ohjeet: 'Palautuksen voit tehdä 30 päivän ajan tilauksen noudosta'. Sivulla on vaihe-vaihe-ohjeet palautuksesta, rahtikirjoista ja hyvitysprosessista (n. 14 päivää varastoon saapumisesta).",
+    "myymalat_ja_aukioloajat": "HAVAINTO: /myymalat/-sivulla luetellaan 10 myymälää (Espoo Suomenoja, Helsinki Itis, Jyväskylä, Kouvola, Kuopio, Lempäälä, Oulu, Pori, Turku, Vantaa), mutta yksityisiä aukioloaikoja ei ole saatavilla verkkokaupan kautta. Asiakaspalvelussa mainitaan 'Chat palvelee arkisin klo 9–12 ja 14–17' mutta myymälöiden omat aukioloajat eivät ole näkyvillä.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston footerissa ja asiakaspalvelu-sivulla ilmoitetaan: 'Intersport Finland Oy / Budget Sport, Työpajankatu 12, 00580 Helsinki. Y-tunnus: 1648871-7. Yritys on merkitty arvonlisäverovelvollisten rekisteriin.'",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei löydy riippumattomia arvioluokituksia tai kolmannen osapuolen testien tuloksia. Ainoa arviointi tulee sisäisistä suosituksista (esim. 'Suosituin tuotteemme tässä ryhmässä').",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelu-sivulla ilmoitetaan: 'Soita asiakaspalveluun 01053 77730, ma-pe 14-17. Asiakaspalvelun puhelumaksut: 8,4 snt/min. (sis. ALV)'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite näkyy kaikilla sivuilla: asiakaspalvelu@budgetsport.fi. Asiakaspalvelussa sanotaan 'Voit lähettää meille kysymyksesi tai palautteesi sähköisesti lomakkeella'.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelussa ilmoitetaan: 'Voit myös ottaa yhteyttä sivun oikeassa alakulmassa olevan chat-palvelumme kautta. Chat-palvelu on käytössä arkisin 9-12 ja 14-17.'",
+    "aukioloajat_esilla": "HAVAINTO: Yleisiä liikkeen aukioloaikoja ei ole näkyvillä verkkokaupan pääsivulla. Ainoastaan asiakaspalvelussa mainitaan chat-palvelun ajat (arkisin 9-12 ja 14-17) ja puhelinpalvelun ajat (ma-pe 14-17).",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla on laaja FAQ-osio kategorioittain (Tuotteet, Tilaaminen, Maksaminen, Toimitus, Palautus, Huolto/takuu/reklamaatiot, Budget Sport Klubi). Kysymykset kuten 'Millaiset verkkokaupan toimituskulut ovat?' ja 'Mitä eri toimitustapoja on tarjolla?' ovat listattuina."
+  }
+}

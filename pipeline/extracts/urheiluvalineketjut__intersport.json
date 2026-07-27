@@ -1,0 +1,48 @@
+{
+  "slug": "intersport",
+  "fetched_ok": [
+    "https://www.intersport.fi/fi/",
+    "https://www.intersport.fi/fi/ota-yhteytta-asiakaspalveluun/",
+    "https://www.intersport.fi/fi/kaupat/",
+    "https://www.intersport.fi/fi/laji/juoksu/juoksukengat/",
+    "https://tietosuoja.kesko.fi/category/intersport"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Laaja valikoima huippumerkkien urheiluvarusteita selkeässä kategorisoidussa muodossa",
+    "Nopea 1-3 vuorokauden toimitus ja 30 päivän ilmainen palautus madaltavat ostokynnystä",
+    "Saatavilla olevat myymälöiden sijainnit ja aukioloajat koko Suomessa sekä verkkokaupan asiakaspalvelu chatissa ja puhelimessa"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, mikä heikentää yrityksen luotettavuuden tunteen",
+    "Sähköpostiosoite asiakaspalveluun ei ole julkisesti näkyvissä, vain yhteydenottolomake on saatavilla",
+    "Tuotteista ei ole kolmansien osapuolten arvioita tai arvioita, mikä rajoittaa ostopäätösten tietopohjaa"
+  ],
+  "yhteenveto": "Intersport on suuri urheiluvalineketju, joka tarjoaa laajaa valikoimaa huippumerkkien tuotteita hyvillä toimitusehdoilla ja palautusmahdollisuuksilla. Sivusto on selkeästi organisoitu, hintatieto on helposti löydettävissä, ja asiakaspalvelu on tavoitettavissa chatissa ja puhelimessa. Luotettavuuden osalta puuttuu Y-tunnuksen julkinen näkyvyys ja sähköpostiosoite, eikä sivustolla ole riippumattomia tuotearvioita.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat ovat näkyvissä verkkokaupassa. Esimerkiksi juoksukengät-sivulla näkyvät eri merkkien tuotteet hintatiedoilla ja toimituskulujen mahinnoilla.",
+    "toimitus_kerrottu": "HAVAINTO: Sivuston metakuvailussa mainitaan 'Nopea 1-3 vrk toimitus ja 30 pv ilmainen palautus'. Toimituskustannukset mainitaan selkeästi ostoskorissa 'yht. € + toimituskulut'.",
+    "palautusehdot_saatavilla": "HAVAINTO: Asiakaspalvelusivulla on 'Palautukset ja reklamaatiot' -osio. Sivuston metakuvailussa kerrotaan '30 pv ilmainen palautus'.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Kaupat-sivulla on lueteltu yli 40 Intersport-myymälää Suomen eri puolilla, jokaiselle näkyvät osoite ja aukioloajat esimerkiksi 'Helsinki Forum... Avoinna tänään 10.00-20.00'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy verkkosivuston julkisista osioista. Asiakaspalvelusivulla on yritysrekisteröintilomakkeessa Y-tunnuksen kenttä, mutta se ei kuulu asiakkaalle näkyvästi julkaistussa muodossa.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla näkyy puhelinnumero 010 537 7735 (ma-pe 14-17, muina aikoina suljettu). Hinnoittelu ilmoitettuna '8,4 snt/min'.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelusivulla mainitaan 'Juttele kanssamme chatissa' ja kerrotaan aukioloajat ma-pe 9-12 ja 14-17.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelusivulla on 'Minkä aiheen kanssa tarvitset apua?' -osio, joka sisältää kategoriat kuten Tilaaminen, Maksut ja hyvitykset, Toimitus, Palautukset ja reklamaatiot, Yleistä, Intersport Club, Kauppatilaukset, ja Pyörätilaukset."
+  }
+}

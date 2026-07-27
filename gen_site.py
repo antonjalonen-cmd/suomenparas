@@ -130,6 +130,7 @@ CATEGORY_GROUPS = [
     ]),
     ("Vapaa-aika ja muut", [
         ("Lakifirmat", "lakifirmat", True), ("Pakohuoneet", "pakohuoneet", True),
+        ("Urheiluvälineketjut", "urheiluvalineketjut", True),
         ("Parturit ja kampaamot", None, False), ("Valokuvaajat", None, False),
         ("Juhlatilat", None, False), ("Catering-palvelut", None, False),
         ("Hääpalvelut", None, False), ("Ohjelmistokoulut lapsille", None, False),

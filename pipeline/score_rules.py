@@ -496,3 +496,14 @@ TRANSPARENCY["elektroniikkaketjut"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- urheiluvalineketjut (26.7.2026) ------------------------------------------
+# Sama vähittäiskaupan mittaristo kuin rautakaupoissa ja huonekaluissa.
+TRANSPARENCY["urheiluvalineketjut"] = [
+    ("hinnat_esilla", "Tuotehinnat verkossa esillä", 25),
+    ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+    ("palautusehdot_saatavilla", "Palautus- ja takuuehdot julkisesti saatavilla", 20),
+    ("myymalat_ja_aukioloajat", "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
