@@ -1,0 +1,46 @@
+{
+  "slug": "piklas",
+  "fetched_ok": [
+    "https://www.piklas.fi/",
+    "https://www.piklas.fi/ohjeet-ja-takuuehdot/",
+    "https://www.piklas.fi/yhteystiedot/",
+    "https://www.piklas.fi/ikkunat/",
+    "https://www.piklas.fi/paljonko-maksaa-omakotitalon-ikkunaremontti/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 72,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Hintojen lahpinakyvyys: konkreettisia esimerkkihintoja nakyva (10 ikkunan remontti 8720 euroa asennettu, 5621 euroa ilman asennusta)",
+    "Laaja asiakirjakirjasto: takuu-, ohjeet-, tekniset- ja asennus-dokumentit vapaasti ladattavissa sivulla",
+    "Monikanavainen palvelu: verkkokauppa, maksuton suunnitteluapu, tarjouspyynnot ja kumppani-asennus - asiakas voi valita"
+  ],
+  "kehityskohteet": [
+    "Verkkokaupan linkit: /verkkokauppa/-polku palauttaa 404, hintojen vertailu vaatii web-shopin suoria URL-osoitteita",
+    "Riippumattomien arvioiden puute: vain sisainen NPS-mittaus ja '3257+ asiakaskokemusta' nakyvilla, ei kolmannen osapuolen verifiointia",
+    "Tekniset tiedot vaativat lataamista: U-arvot, aanieneristys, energiatehokkuusluokat eivat ole etusivuilla vaan PDF-dokumenteissa"
+  ],
+  "yhteenveto": "Piklas on suomalainen ikkuna- ja ovivalmistaja, joka korostaa hintojen lahpinakyvyytta ja asiakaspalvelun saavutettavuutta. Sivusto esittelee konkreettisia esimerkkihintoja, laajaa asiakirjakirjastoa ja kolmea eri tilausvaihtoehtoa (verkkokauppa, suunnitteluapu, tarjouspyynto). Tiedot asiakaista loytyy helposti, mutta riippumattomat arviot puuttuvat ja joitain teknisiä yksityiskohtia joudutaan etsimaan lataamalla dokumentteja.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Hintalaskurin paivitetyt esimerkkihinnat nakyvat pikalaskuri-artikkelissa. Kymmenen ikkunan remontti maksaa 8720 euroa avaimet kateen, 5621 euroa tuotteittain. Verkkokaupasta hinnat nakyy reaaliaikaisesti ominaisuuksien valinnan mukaan.",
+    "prosessi_kuvattu": "HAVAINTO: Prosessi kuvattu selkeasissa vaiheissa: maksuttomat suunnittelupalvelu, tarjouspyynnot, verkkokaupan tilaus, asennus valtuutetulla kumppanilla. Koko prosessin kuvaus on saatavilla kolmella eri polulla.",
+    "takuut_kerrottu": "HAVAINTO: 'Ohjeet ja takuuehdot' -sivulla on linkit PDF-dokumentteihin: 'Tuotetakuu- ja sopimusehdot 1.3.2025 alkaen' ja muihin takuuasiakirjoihin. Takuudokumentit ovat ladattavissa ilman rekisteroitymista.",
+    "materiaalit_kuvattu": "HAVAINTO: Ikkunat-sivulla kuvataan materiaali 'puualumiini-ikkunat' ja mallit MSEA (avattava), MSA (avattava), MEKA (kiintea). Kuvataan energia-arvot, vari- ja varustusvaihtoehdot (salekaihtimet, mosquito nets), kolmi- ja kaksipuitteinen rakenne.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla 'Laskutustiedot'-osassa Y-tunnus: 0189227-4 on selkeasesti merkitty.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla mainitaan vain sisainen 'NPS-luku' (Net Promoter Score) ja '3257+ asiakaskokemusta' mutta ei linkkeja kolmannen osapuolen vertailukohteisiin, Trustpilot-tyyppeihin tai riippumattomiin arvioihin."
+  }
+}

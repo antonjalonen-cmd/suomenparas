@@ -1,0 +1,46 @@
+{
+  "slug": "lampokumppanit",
+  "fetched_ok": [
+    "https://www.lampokumppanit.fi/",
+    "https://www.lampokumppanit.fi/ilmalampopumput/",
+    "https://www.lampokumppanit.fi/yhteystiedot/",
+    "https://www.lampokumppanit.fi/blogi/",
+    "https://www.lampokumppanit.fi/rekisteri-ja-tietosuojaseloste/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeä hinnoittelu ja säästölaskelmat näkyvät suoraan asennettuna hinnan kanssa (1200–3500€)",
+    "Monipuoliset tuotemerkit (Gree, Toshiba) ja mallit kuvattu yksityiskohtaisesti teknisin spesifikaatioinnein",
+    "Prosessi kuvattu kolmessa selkeässä vaiheessa: suunnittelu, asennus ja käyttöönotto"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus puuttuu kokonaan verkkosivuilta, mikä rajoittaa yrityksen tunnistettavuutta",
+    "Useat navigaation linkit johtavat 404-sivuille (ilma-vesilämpöpumput, maalämpöpumput, meistä)",
+    "Riippumatonta arviolähteistä ei mainita; 4,6/5-arvio on heidän omalla sivulla eikä kolmannen osapuolen lähteestä"
+  ],
+  "yhteenveto": "Lämpökumppanit on neljän LVI-ammattilaisen perustama yritys, joka myy ilmalämpöpumppu-, ilmavesilämpöpumppu- ja maalämpöratkaisuja. Verkkosivuilla esitellään hinnat (1200–3500 € asennettuna), laaja tuotevalikoima yhdeksän mallin osalta, viiden vuoden takuu ja selkeä asennusprosessi vaihe vaiheelta. Puutteet liittyvät Y-tunnuksen puuttumiseen ja joihinkin rikkoutuneisiin navigaatiolinkkeihin.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Ilmalampopumput-sivulla esitetään hintatietoja: 'Ilmalämpöpumpun hinta asennettuna on keskimäärin 1200 – 3500 euroa kotitalousvähennyksen jälkeen', sekä vuotuiset säästöt '300 € - 500 €' ja 20–30% säästöt lämmityskustannuksissa.",
+    "prosessi_kuvattu": "HAVAINTO: Prosessi kuvataan kolmessa vaiheessa osassa 'Näin helppoa se on - Jouheva ja vaivaton energiaremontti': (1) suunnittelu ja kartoitus, (2) asennus muutamassa tunnissa, (3) viimeistely ja käyttöönotto.",
+    "takuut_kerrottu": "HAVAINTO: Verkkosivuilla mainitaan toistuvasti '5 vuoden täystakuu' ja '5 v. täystakuu' ilmalämpöpumpuille. Maininta 'jokaiselle työlle 5 vuoden täystakuu'.",
+    "materiaalit_kuvattu": "HAVAINTO: Yhdeksän tuotemallia kuvataan yksityiskohtaisesti: Gree Amber 25/35, Gree Bora 25/35/50, Toshiba Arctic Wood 25/35, Toshiba Aurora+ 25/35, Toshiba Haori Nordic 25/35, Toshiba Polar Black 25/35, Toshiba Polar White 25/35, Toshiba Premium+ 25–35, Toshiba Seiya+ 10-16. Jokaiselle mallille kerrotaan ominaisuudet, energialuokka ja toimintalämpötilat (esim. -30°C).",
+    "y_tunnus_esilla": "HAVAINTO: Käyty läpi viisi sivua (koti, ilmalämpöpumput, yhteystiedot, blogi, tietosuojaseloste). Y-tunnusta ei esiinny millään sivulla, vaikka yritys on nimetty Lämpökumppanit Oy.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla näkyy 4,6/5-arvio 292 arvostelulla, mutta arviolähde on epäselvä ja arviot ovat yrityksen omalla sivulla. Kolmannen osapuolen arviolähteitä (Google Reviews, TrustPilot yms.) ei linkitetä."
+  }
+}

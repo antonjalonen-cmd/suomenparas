@@ -1,0 +1,46 @@
+{
+  "slug": "tomallensenera",
+  "fetched_ok": [
+    "https://www.tomallensenera.fi/",
+    "https://www.tomallensenera.fi/maalampo/maalampo-hinta",
+    "https://www.tomallensenera.fi/maalampo/maalampoon-vaihtaminen-omakotitalossa",
+    "https://www.tomallensenera.fi/yritys",
+    "https://www.tomallensenera.fi/ilma-vesilampopumppu"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 87,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Hintatransparanssi: yksityiskohtaiset hintatiedot ja esimerkit julkisesti esillä, ei pakollista yhteydenottoa hintaan",
+    "Asennusprosessin vaiheittainen kuvaus: kartoituksesta säätöihin asti selkeä prosessikaavio",
+    "Laajevan laitevalikoimat näkyvissä: Bosch, Thermian ja Mitsubishi Electric -merkit sekä Purmon lattialämmitystuotteet listattu"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumeroa ja aukioloaikoja ei ole julkisesti näkyvissä sivustolla, asiointiin tarvitaan sähköposti",
+    "Y-tunnus puuttuu kaikilta julkisilta sivuilta, ei näytä yritystä tunnistava rekisterinumero",
+    "Riippumattomia asiakasarvioita tai sertifiointeja ei ole esillä, vain yrityksen omat asiakaskertomukset"
+  ],
+  "yhteenveto": "Tom Allen Senera on maalämpö- ja ilma-vesilämpöpumpuista erikoistunut asennus- ja suunnittelupalvelun tarjoaja, joka julkaisee hintaesimerkit ja kustannuslaskentatyökalun verkkosivullaan. Sivusto kuvaa hyvin asennusprosessin ja tarjoaa laitevaihtoehdot, mutta ei ole käytettävissä puhelinnumeroa tai yrityksen tunnistetietoja.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Maalämmön hinta-sivulla julkaistu: Omakotitaloon noin 16 000 eurosta, rivitaloon noin 45 000 eurosta, kerrostaloon noin 100 000 eurosta. Sivulla oleva interaktiivinen laskuri mahdollistaa hinnan arvioinnin omilla lämmitystiedoilla.",
+    "prosessi_kuvattu": "HAVAINTO: Sivulla kuvataan prosessin vaiheet: kartoitus, mitoitus, tarjouksen pyytäminen, rakentamisluvan hakeminen, energiakaivon poraus, vanhan järjestelmän purku, uuden järjestelmän asennus (tavallisesti 1-2 työpäivää), sähkötyöt, säädöt ja käyttöopastus.",
+    "takuut_kerrottu": "HAVAINTO: Laitteiden omille takuille kerrotaan: viiden vuoden takuu omakotitalojen lämmitysjärjestelmille (asennus ja osat), lämmönkeruuputken takuu 10 vuotta. Maininta: Takuuehtojen laajuus riippuu siitä, tingitäänkö betonoimisesta tai putken laadusta.",
+    "materiaalit_kuvattu": "HAVAINTO: Ilma-vesilämpöpumppu-sivulla nimetyt laitemerkit: Bosch, Thermian ja Mitsubishi Electric. Lattialämmityksenä käytetään Purmon tuotteita. Muita laiteosia: puskurivaraaja, käyttövesivaraaja, patteriverkosto.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy yhdelläkään seuratuista sivuista (koti, hinnat, prosessi, yritys, tuotteet). Osaksi Assemblin Caverion -konsernia mainittu, mutta ei omaa Y-tunnusta.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei löydy sivulta. Footer sisältää kolme sähköpostiosoitetta (myynti@, info@, taloushallinto@) ja linkin Yhteystiedot-sivulle, joka palautui 404-virheellä."
+  }
+}

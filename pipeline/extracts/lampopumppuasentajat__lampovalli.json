@@ -1,0 +1,52 @@
+{
+  "slug": "lampovalli",
+  "fetched_ok": [
+    "https://www.lampovalli.fi/",
+    "https://www.lampovalli.fi/yritys/",
+    "https://www.lampovalli.fi/yhteystiedot/",
+    "https://www.lampovalli.fi/palvelut",
+    "https://www.lampovalli.fi/rahoitus/"
+  ],
+  "hinta_indikaatio": "osittain",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "ei",
+  "materiaalit_kuvattu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 35,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kolmivaiheinen remonttiprosessi selkeästi kuvattu (yhteydenotto, suunnittelu, toteutus) etusivulla ja palvelusivuilla",
+    "Y-tunnus (2432031-6) ja kolmen henkilön yhteystiedot julkisesti esillä yhteystietosivulla",
+    "Rahoitusvaihtoehdot saatavilla (OP Yrityspankki, 2500-50000€) omat rahoitussivulla"
+  ],
+  "kehityskohteet": [
+    "Ei julkisesti saatavaa hintatietoa tai hintareferenssejä asiakkaille tarjousvaiheen ulkopuolella",
+    "Takuuehdoista ei mainintaa missään julkisessa materiaalissa verkkosivuilla",
+    "Laitevaihtoehdoista vain yksi maininta (Panasonic ilmalämpöpumppu asiakasarvioissa) ilman systemaattista kuvausta merkeistä tai malleista"
+  ],
+  "yhteenveto": "Lämpö-Valli Oy on jyväskyläläinen LVI-palveluyhtiö, joka tarjoaa lämpöpumppuasentajia ja muita lämmitysratkaisuja Keski-Suomen alueella. Sivusto kuvailee selkeästi kolmivaiheisen remonttiprosessin ja sisältää helposti saatavilla olevat yhteystiedot sekä rahoitusvaihtoehdot, mutta hintatiedot ja takuuehdot jäävät asiakkaille piiloon kunnes ne ottavat yhteyttä tarjouspyynnön kautta.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Rahoituspalvelun kautta mainitaan rahoitusvaihtoehdot 2500–50 000 €, mutta konkreettisia hintoja palveluille ei löydy. Asiakkaalle annetaan tarjous vasta yhteydenoton ja kartoituksen jälkeen.",
+    "prosessi_kuvattu": "HAVAINTO: Etusivulla ja palvelusivulla kuvattu 3-vaiheinen prosessi: (1) Yhteydenotto ja kartoitus, (2) Suunnittelu ja selkeä tarjous, (3) Toteutus ja lopputarkastus. Prosessi on sekä tekstimuodossa että otsikoin jäsennelty.",
+    "takuut_kerrottu": "HAVAINTO: Takuista ei ole mainintaa missään käytetyissä sivuissa (etusivu, yritys, yhteystiedot, palvelut, rahoitus). Asiakasarviosta puuttuu takuun maininta.",
+    "materiaalit_kuvattu": "HAVAINTO: Palvelusivulla mainitaan laitevaihtoehdot nimikkeiden tasolla (maalämpö, ilmalämpöpumppu, ilmavesilämpöpumppu, mutta ei merkkejä lukuun ottamatta yhtä asiakasarviota, jossa mainitaan Panasonic ilmalämpöpumppu asennus. Muista merkeistä ei mainintaa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2432031-6 on selvästi näkyvissä yhteystietosivulla sekä laskutusosoitteen yhteydessä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla on Trustindex-integraatio, joka näyttää 4.8 tähden arviota 37 arvostelun perusteella (näkyvissä 404-sivulla). Google-arvioinnit mainitaan (4.8 arvostelusta 37 perusteella), mutta nämä ovat kolmannen osapuolen palvelut. Ei omia riippumattomia arviointeja tai sertifiointeja.",
+    "puhelin_esilla": "HAVAINTO: Kolme puhelinnumeroa julkisesti näkyvissä: 0400 998 332, 044 535 1594, 044 590 1204",
+    "email_esilla": "HAVAINTO: Kolmen henkilön sähköpostiosoitteet näkyvissä: harri.ylikulju@lampovalli.fi, aaro.valli@lampovalli.fi, mauri.valli@lampovalli.fi",
+    "chat_mainittu": "HAVAINTO: WhatsApp-linkki mainittu kontaktisivulla ('Avaa WhatsApp')",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainittu missään käytetyissä sivuissa",
+    "ukk_osio": "HAVAINTO: Usein kysyttyjä kysymyksiä -osiota ei löydy",
+    "mobiilisovellus": "HAVAINTO: Ei mainintaa mobiilisovelluksesta"
+  }
+}

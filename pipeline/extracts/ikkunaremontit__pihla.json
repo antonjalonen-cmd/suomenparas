@@ -1,0 +1,48 @@
+{
+  "slug": "pihla",
+  "fetched_ok": [
+    "https://www.pihla.fi/",
+    "https://www.pihla.fi/ikkunaremontin-hinta/",
+    "https://www.pihla.fi/ikkunat/",
+    "https://www.pihla.fi/usein-kysytyt-kysymykset/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "kylla",
+  "materiaalit_kuvattu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hinta-laskuri sekä selkeä hintaeroittelu (ikkunat ~50%, asennus ~25%, ovet ja muut)",
+    "Kattava tuotevalikoima (A-malli, B-malli, D-malli, E-malli, T-malli, paloikkunat) energialuokitteluineen ja mukailtavina",
+    "\"Avaimet käteen\" -palvelu, jossa asennusyritys vastaa mitoituksesta ja asennuksesta kokonaisvaltaisesti"
+  ],
+  "kehityskohteet": [
+    "Remonttiprosessin eri vaiheet (esivalmistelut, asennustyön kulku, pinnoitustyöt) kuvattu vain lyhyesti ilman vaiheista tekemisen selkeää listaa",
+    "Vertailevia arviointeja tai testitulosten linkkejä puuttuu kokonaan; ei riippumattomia lähteitä tuotelaadun arvioinnista",
+    "Joitakin hinta-arvioita varten vaaditaan yhteystiedon antaminen etäarvion pyytämiseksi (ei täysin julkinen hinta kaikille ikkunatyypeille)"
+  ],
+  "yhteenveto": "Pihla on kotimainen ikkunaremontti-palvelun tarjoaja, jonka sivusto tarjoaa selkeän hintaarvion laskurin ja kattavat tuotetiedot. Sivustolla kuvataan huolellisesti eri ikkunatyyppejä, energiatehokkuusluokittelua ja asennusprosessin perusperiaatteita, mutta remontin vaiheittainen eteneminen ja kolmannen osapuolen arviointilähteistä puuttuvat.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Sivulla on selkeästi esillä hinta-laskuri (\"LASKE IKKUNAREMONTIN HINTA\") ja hintatiedot: omakotitalon remontti tyypillisesti 10 000–20 000 euroa, josta ikkunat noin 50 % ja asennus noin 25 %. Maksuvaihtoehdot kuvattu (Pihla Lasku 30 päivää, Pihla Jousto osamaksulla, OP-rahoitus).",
+    "prosessi_kuvattu": "HAVAINTO: FAQ-osiossa kerrotaan remontista: omakotitalon remontti kestää 1–2 päivää, ikkunat asennetaan yksi kerrallaan, asennus tehdään \"avaimet käteen\" -periaatteella (Pihla mitoittaa, valmistaa, asentaa, tekee sisäpuolen listoituksen ja perussiivous kuuluu). Yksityiskohtaisia vaiheita (esim. vanhojen ikkunoiden poisto, saumauksen täyttäminen, kalvonneet) ei täysin eritelty.",
+    "takuut_kerrottu": "HAVAINTO: Sivulla mainitaan \"Pihlan ikkunoilla on 25 vuoden lahoamattomuustakuu ja ovilla 10 vuoden suoranapysymistakuu\" sekä FAQ:ssa \"Pihla antaa ikkunoilleen 2 v. komponentti- ja 10 v. rakennetakuun\". Takuun ehdot on linkitetty sivustolle (\"Lue lisää takuista\"), mutta täydelliset ehdot olivat fetchillä piilotettu.",
+    "materiaalit_kuvattu": "HAVAINTO: Laaja tuotekuvaus kuudelle ikkunamallille (A, B, D, E, T, paloikkunat) sekä erityisiä ikkunatyyppejä (sauna-ikkunat, puuikkunat). Materiaaleista: puualusta ja puu-alumiini-rakenteet, erilaiset lasilajit (selektiivilasi, auringonsuojalasi, huurtumaton lasi, aktiivilasi), argon-kaasulla täytetyt lämpölasit, energialuokitus A++ → G. Lisävarusteet selostettuja (sälekaihtimet, raitisilmaventtiilit, antennilasi).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1882624-9 näkyy kotisivulla sekä FAQ-osiossa olevassa \"Laskutustiedot\"-kohdassa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin testauksiin, arvosteluihin tai sertifiointeihin (esim. Kuluttajavirasto, tuotetestaajat). Sivulla on asiakastarinoita, mutta nämä ovat yrityksen omia referenssejä.",
+    "puhelin_esilla": "HAVAINTO: Puh. 0800 550 880 (asiakaspalvelu) ja 044 7294 492 (verkkokauppa) näkyvät jokaisella sivulla ylä- ja alareunassa sekä kontaktiosioissa.",
+    "email_esilla": "HAVAINTO: asiakaspalvelu@pihla.fi ja pihla.pientarvike@pihla.fi näkyvät yhteydenotto-osioissa.",
+    "aukioloajat_esilla": "HAVAINTO: \"Arkisin klo 8 – 16\" mainittu asiakaspalvelun yhteystietojen yhteydessä."
+  }
+}

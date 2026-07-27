@@ -1,0 +1,49 @@
+{
+  "slug": "lampopartio",
+  "fetched_ok": [
+    "https://lampopartio.fi/",
+    "https://lampopartio.fi/saastolaskuri/",
+    "https://lampopartio.fi/ratkaisut/",
+    "https://lampopartio.fi/yhteystiedot/",
+    "https://lampopartio.fi/blogi/"
+  ],
+  "hinta_indikaatio": "osittain",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "ei",
+  "materiaalit_kuvattu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 38,
+    "sisallon_kattavuus": 62
+  },
+  "vahvuudet": [
+    "Selkeä viisivaiheinen prosessikuvaus: tarjous - kartoitus - asennus - käyttöönotto - huolto",
+    "Ainutlaatuinen asennuskonsepti, joka valmistuu jopa 6 tunnissa tavallisen 2-5 päivän sijaan",
+    "Kattava palveluverkko 10 paikkakunnalla ja palvelu kaikkiin Suomen kuntiin"
+  ],
+  "kehityskohteet": [
+    "Konkreettiset hintatiedot puuttuvat - sivustolla näytetään vain säästöprosentit (50-60%), ei asentamisen hintoja",
+    "Takuuehdot ja laitteiden tekniset vaatimukset eivät ole kuvattu - vain Mitsubishi-yhteistyö mainittu",
+    "Y-tunnus tai kolmannen osapuolen arviot puuttuvat, laskutustietojen OVT-numerot eivät ole asiakkaille relevantteja"
+  ],
+  "yhteenveto": "Lämpöpartio on kotimainen ilma-vesilämpöpumppu- ja energiaremontti-yritys, joka toimii ympäri Suomea. Sivusto esittelee selvästi hakemisen prosessin viidessä vaiheessa ja kertoo palvelun ainutlaatuisesta nopeudesta. Konkreettiset hinnat, takuuehdot ja laitevaihtoehdot puuttuvat kuitenkin - nämä saadaan vain tarjousneuvotteluissa.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Etusivulla mainitaan Säästölaskuri ja säästöprosentit (50-60% lämmityskustannuksissa ilma-vesilämmöllä), mutta konkreettisia asentamisen hintoja ei näytetä. Säästölaskuri-sivu latautuu, mutta sisältää vain navigointia, ei laskurin sisältöä.",
+    "prosessi_kuvattu": "HAVAINTO: Etusivulla selvä viisivaiheiset prosessin kuvaus: 1) Pyydä tarjous 2) Maksuton kartoitus ja ratkaisuehdotus 3) Remontti ja asennus 4) Käyttöönotto ja opastus 5) Ylläpito ja huolto. Lisäksi kerrotaan ainutlaatuisesta asennuskonseptista: vanha järjestelmä vaihdetaan ilma-vesilämpöpumppuun 6 tunnissa.",
+    "takuut_kerrottu": "HAVAINTO: Mikään ladatuista sivuista ei sisällä takuuehtoja. Yhteystiedot-sivulla on palvelulupaus-linkki, mutta sisältö ei lataa. Blogi-sivulla on artikkeleita, joiden otsikkoissa mainitaan takuut, mutta sisältöä ei näy.",
+    "materiaalit_kuvattu": "HAVAINTO: Etusivun footer mainitsee Mitsubishi Heavy Industries -yhteistyön. Blogi-sivulla on artikkeleita lämpöpumppujen vertailusta ja valinnan kriteereistä, mutta laitteiden tekniset vaatimukset, merkit tai vaihtoehdot eivät ole kuvattu ladatuilla sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuilla näytetään yhtiön laskutustiedoissa OVT-numerot (003724361919 Lämpöpartio Oy:lle, 003724591714 Lämpöpartio Kiinteistöt Oy:lle), mutta varsinaista Y-tunnusta ei ole listattu.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla mainitaan omasta tutkimuksesta: 9/10 asiakasta suosittelee. Tämä on yrityksen oma väite eikä kolmannen osapuolen arvio. Kolmannen osapuolen arviointia, kuten Google-arvioita tai alan sertifikaatteja, ei löydy.",
+    "puhelin_esilla": "HAVAINTO: Useilla sivuilla näytetään puhelin 040 1839 100 (arkisin klo 8-16). Huoltopäivystys: 0300 300 550 (1,99 eur/min).",
+    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla mainitaan info@lampopartio.fi (asiakaspalvelu), huolto@lampopartio.fi (huolto) ja laskutus@lampopartio.fi.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla kerrotaan: Asiakaspalvelu arkisin klo 8-16. Huoltopäivystys muina aikoina 0300 300 550."
+  }
+}
