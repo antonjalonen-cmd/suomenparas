@@ -1,0 +1,53 @@
+{
+  "slug": "kotiliesi",
+  "fetched_ok": [
+    "https://kotiliesi.fi/",
+    "https://kotiliesi.fi/tilaa/",
+    "https://kotiliesi.fi/toimituksen-yhteystiedot/",
+    "https://otavamedia.fi/tilaus-ja-kayttoehdot/",
+    "https://otavamedia.fi/tuotteet-ja-edut/digilehdet"
+  ],
+  "tilaushinta_esilla": "osittain",
+  "tilauksen_peruutus_kerrottu": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "mainonta_eroteltu": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "kestotilaus_eur_12kk": null,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 55,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Tilauksen peruutus- ja irtisanomisehdot dokumentoitu selkeästi Otavamedia-sivuilla 30 päivän irtisanomisajalla",
+    "Laaja yhteystietojen tarjonta puhelimitse, sähköpostitse ja chat-palvelun kautta sekä toimituksen että asiakaspalvelun osalta",
+    "Päätoimittaja ja toimituksellinen vastuuhenkilö nimetty täysin tunnistetusti"
+  ],
+  "kehityskohteet": [
+    "Jatkuvan tilauksen 12 kuukauden hinta ei ole julkisesti näkyvissä ennen asiakastietojen antamista; näkyvissä vain kampanjahinta",
+    "Kaupallisen sisällön erittely artikkeleihin ei ole selkeä kävijälle",
+    "Y-tunnus on kustantajayrityksen eikä lehden oma, mikä voi hämmentää lukijaa identiteetista"
+  ],
+  "yhteenveto": "Kotiliesi on Otavamedian omistama naistenlehti, jonka sivusto tarjoaa selkeät asiakaspalvelun yhteystiedot ja chat-palvelun. Tilauksen peruuttamisen ehdot on dokumentoitu hyvin tekijälle pakottavissa Otavamedian yleisissä ehdoissa, mutta jatkuvan tilauksen 12 kuukauden hinta ei ole selkeästi näkyvissä ennen asiakastietojen antamista.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla näkyy kampanjahinta 'Tilaa Kotiliesi alk. 29€/2 kk', mutta 12 kuukauden jatkuvan tilauksen normaali hinta puuttuu ennen rekisteröitymistä.",
+    "tilauksen_peruutus_kerrottu": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla kuvataan: 'Voimassa olevan jatkuvan tilauksen voi irtisanoa päättyväksi aikaisintaan ensimmäisen tarjousjakson loppuun. Tämän jälkeen tilaus voidaan irtisanoa milloin tahansa 30 päivän irtisanomisajalla.'",
+    "paatoimittaja_esilla": "HAVAINTO: Kotiliesi.fi/toimituksen-yhteystiedot/-sivulla nimetään 'Vastaava päätoimittaja Saija Hakoniemi' ja annetaan täydelliset toimituksen yhteystiedot ja puhelin (09) 15 661.",
+    "mainonta_eroteltu": "HAVAINTO: Sivuilla mainitaan 'Käyttäytymiseen perustuva mainonta' mutta kaupallisen sisällön merkitsemistä artikkeleihin ei vahvistettu.",
+    "y_tunnus_esilla": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla näkyy Y-tunnus 0196807-2 kustantajayrityksen tunnuksena. Kustantaja 'Otavamedia Oy' on mainittu toimituksen yhteystiedot -sivulla.",
+    "riippumaton_arvio": "HAVAINTO: JSN-jäsenyyttä tai riippumatonta auditointia ei löytynyt sivuilla.",
+    "puhelin_esilla": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla näkyvät (09) 156 6227 (digipalvelu), (09) 156 665 (painettu lehti) ja toimituksen numero (09) 15 661.",
+    "email_esilla": "HAVAINTO: Näkyvissä ovat sähköpostiosoitteet digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi ja kotiliesi@otava.fi.",
+    "chat_mainittu": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla mainitaan chat-palvelu: 'ottamalla yhteyttä asiakaspalveluun... Otavamedian verkkosivuilla chat-palvelun välityksellä'.",
+    "aukioloajat_esilla": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla ilmoitetaan 'Avoinna ma-pe 8-19' sekä digipalvelulle että painetun lehden asiakaspalvelulle.",
+    "ukk_osio": "HAVAINTO: Otavamedia.fi-navigaatiossa näkyy linkki 'Usein kysytyt kysymykset' mutta kyseistä sivua ei ladattu.",
+    "mobiilisovellus": "HAVAINTO: Sivuilla mainitaan 'Näköislehdet' ja digitaalinen sisältö, mutta erityistä mobiilisovellusta ei vahvistettu."
+  }
+}

@@ -1,0 +1,1657 @@
+{
+ "slug": "aikakauslehdet",
+ "nimi": "Aikakauslehdet",
+ "nav": "Aikakauslehdet",
+ "h1": "Suomen paras aikakauslehti 2026",
+ "yksikko": "suomalaista aikakauslehteä",
+ "lead": "Pisteytimme {n} suomalaista aikakauslehteä {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: kerrotaanko tilaajalle avoimesti, mitä kestotilaus maksaa ja miten sen saa loppumaan?",
+ "meta_title": "Suomen paras aikakauslehti 2026 | aikakauslehdet pisteytettynä | Suomen Paras",
+ "meta_desc": "7 suomalaista aikakauslehteä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Vertailemme yksittäisiä lehtiä, emme kustantajia.</b> Otavamedia julkaisee neljää listan lehdistä (Seura, Suomen Kuvalehti, Tekniikan Maailma, Kotiliesi), Sanoma kahta (ET, Tiede) — markkina on keskittynyt, ja siksi kustantaja ja omistaja kerrotaan jokaisen lehden sivulla.",
+  "<b>Tilauksen päättäminen on alan kipupiste.</b> Kestotilaus jatkuu, kunnes sen erikseen päättää, ja peruutusohjeiden löydettävyys vaihtelee. Siksi tilauksen päättämisen avoimuus on tässä kategoriassa oma painava kriteerinsä ja kytkeytyy myös sitoutumisindeksiin.",
+  "<b>Emme arvioi lehtien sisältöä tai laatua.</b> Mittaamme verkkosivuston läpinäkyvyyttä tilaajan silmin: hinnat, peruutusehdot, vastuuhenkilöt ja kaupallisen sisällön erottelu."
+ ],
+ "yritykset": [
+  {
+   "slug": "tekniikan-maailma",
+   "nimi": "Tekniikan Maailma",
+   "domain": "tekniikanmaailma.fi",
+   "omistaja": "Otavamedia Oy (Otava-konserni) — tekniikan ja autoilun erikoislehti (per. 1953)",
+   "y_tunnus": "0196807-2",
+   "rekisteroity": 1978,
+   "score": 78.4,
+   "pillars": {
+    "digitaalinen": 62.6,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaus.tekniikanmaailma.fi:n tilaussivulla näkyvät tilaushinnat ennen tietojen antamista: digi 3kk 15€ (norm. 44,70€), lehti+digi 3kk 29€ (norm. 86,70€), lehti+digi 10kk 99€ (norm. 289€)"
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedian tilaus-ja-kayttoehdot-sivulla selostetaan: 14 vuorokauden peruutusoikeus, jatkuvien tilausten irtisanominen 30 päivän irtisanomisajalla ensimmäisen tarjousjakson jälkeen"
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimituksen yhteystiedot -sivulla mainitaan vastaava päätoimittaja Sami Rainisto, 040 342 4481. Toimituksen sähköpostiosoitteet muodossa etunimi.sukunimi@otava.fi"
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun HTML sisältää selkeästi merkittyjä mainoksia <h2>Mainos</h2>-otsikoilla, kaupallinen sisältö eroteltu redaktionellisesta"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Julkaisija Otavamedia nimetään, Y-tunnus 0196807-2 näkyy Otavamedian tilaus-ja-kayttoehdot-sivulla mutta ei tekniikanmaailma.fi:lla"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: JSN-jäsenyyttä tai levikkitarkastusta ei mainittu katsotulla sivulla"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumerot (09) 156 6227 ja 010 190 094 esillä, päätoimittaja Sami Rainiston numero 040 342 4481"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi ja toimituksen muodossa etunimi.sukunimi@otava.fi"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedian tilaus-ja-kayttoehdot-sivulla mainitaan chat-palvelu: tilauksen peruuttaminen onnistuu chat-palvelun välityksellä"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat ma-pe 8-19 mainittu sekä etusivulla että muilla sivuilla"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -linkki osoitteesta /usein-kysytyt-kysymykset/ palauttaa 404-virheen"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaussivulla mainitaan TM-sovellus: Lue uusimmat testit, vertailut ja koeajot myös TM-sovelluksessa"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 14086.283999999998,
+    "cls": 0.005454319735370603,
+    "tbt_ms": 21613.651999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat (3kk digi 15€ norm. 44,70€, 10kk lehti+digi 99€ norm. 289€) esillä selkeästi ennen maksutietoja",
+    "Päätoimittaja Sami Rainisto nimetty ja toimituksen yhteystiedot täydelliset (040 342 4481, etunimi.sukunimi@otava.fi)",
+    "Asiakaspalvelu tavoitettavissa monella kanavalla (puhelin, sähköposti, chat, portal) ma-pe 8-19"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus (0196807-2) näkyy vain Otavamedian sivuilla, ei tekniikanmaailma.fi:llä",
+    "Riippumatonta arviota (JSN-jäsenyys tai levikkitarkastus) ei mainittu",
+    "FAQ-sivu palauttaa 404-virheen osoitteesta /usein-kysytyt-kysymykset/"
+   ],
+   "yhteenveto": "Tekniikan Maailma on Otavamedian julkaisema teknologiaa ja autoja käsittelevä aikakauslehti. Sivusto tarjoaa selkeät tilaushinnat ja peruutusehdot sekä helposti löydettävät yhteystiedot toimitukselle ja asiakaspalvelulle. Päätoimittaja nimetään toimituksen yhteystiedot -sivulla ja mainokset ovat merkitty selkeästi.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Otavamedian tilaus-ja-kayttoehdot-sivulla selostetaan: 14 vuorokauden peruutusoikeus, jatkuvien tilausten irtisanominen 30 päivän irtisanomisajalla ensimmäisen tarjousjakson jälkeen"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Tekniikan Maailma",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Tekniikan Maailma' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "et-lehti",
+   "nimi": "ET-lehti",
+   "domain": "etlehti.fi",
+   "omistaja": "Sanoma Media Finland Oy (Sanoma Oyj) — sama kustantaja kuin Tiede-lehdella",
+   "y_tunnus": "1515901-4",
+   "rekisteroity": 1999,
+   "score": 74.4,
+   "pillars": {
+    "digitaalinen": 65.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 77.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaa.sanoma.fi-sivulla esitellään tilaushinnat selkeästi: 39 €/3 kk ensimmäisten kolmen kuukauden tarjoushinta, jonka jälkeen jatkuva tilaus laskutetaan 73,50 €/3 kk. Hinnat näytetään ennen henkilötietojen antamista."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaus-sivulla todetaan: 'Jatkuva tilaus on voimassa toistaiseksi. Tilauksen voi irtisanoa koska tahansa 30 päivän irtisanomisajalla tai kuluvan tilausjakson loppuun.' Asiakaspalvelu tavoitettavissa puhelimitse 0203 31010."
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etlehti.fi/toimitus-0 sivulla on listattu Päätoimittaja Minna McGill sekä muut toimituksen avainhenkilöt yhteydenottotietoineen."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Artikkelit sisältävät tekstin 'Sisältö jatkuu mainoksen alla', mutta kaupallisen sisällön erillinen merkintä (esim. sponsoroitu sisältö, yhteistyöjuttu) ei ole riittävän näkyvä. Etusivu näyttää sisällön ja mainokset sekaisin ilman selkeää rajaa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaa.sanoma.fi-sivulla näkyy tekijä 'Sanoma Media Finland Oy, Kotipaikka Helsinki, Y-tunnus 1515901-4'. Sama tieto etlehti.fi:n footerissa: 'Sanoma Media Finland Oy'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etlehti.fi-sivuilla tai tilaa.sanoma.fi-sivuilla ei ole viitteitä JSN-jäsenyydestä tai muusta riippumattomasta levikintarkastuksesta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitus-0 sivulla ja tilaa.sanoma.fi-sivulla on asiakaspalvelun puhelin 0203 31010 (arkisin 8.30-16.30) sekä puhelinvaihde (09) 1201."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitus-0 sivulla on listattu sähköpostiosoite et-lehti@sanoma.com sekä etunimi.sukunimi@sanoma.com-muoto."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei mainittu chat-palvelua. Asiointikanaviksi mainitaan puhelin ja verkkopalvelu oma.sanoma.fi/et."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitus-0 sivulla todetaan: 'Asiakaspalvelumme palvelee sinua tilauksiin liittyvissä asioissa numerossa 0203 31010 arkisin klo 8.30-16.30.'"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etlehti.fi-sivuilla ei ole erillisen UKK:n tai usein kysyttyjen kysymysten osiota. Tiedot on hajallaan eri sivuilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaa.sanoma.fi-sivulla mainitaan 'Digilehdet.fi-palvelu', jonka kautta tilaajat pääsevät lukemaan lehden digitaalista näköislehteä 'tietokoneella, tabletilla ja kännykällä'. Digilehdet-sovellus on saatavilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 91,
+    "seo": 85,
+    "best_practices": 100,
+    "lcp_ms": 9875.1205,
+    "cls": 0.001265343732299029,
+    "tbt_ms": 7465.798500000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hintatiedot ja tilausmuodot esitetään selkeästi Sanoman tilaamisjärjestelmässä ennen henkilötietojen antamista.",
+    "Peruutusehdot ja irtisanomismenettely (30 päivän irtisanomisaika) on julkisesti saatavilla ja helppo löytää.",
+    "Päätoimittaja, toimituksen yhteystiedot ja avainhenkilöiden nimet ovat etlehti.fi-sivuilla selkeästi listattu."
+   ],
+   "kehityskohteet": [
+    "Kaupallisen sisällön ja journalistisen sisällön erottelu ei ole riittävän selkeä; mainokset mainitaan vain juoksevassa tekstissä ('Sisältö jatkuu mainoksen alla').",
+    "Lehti ei ole JSN:n jäsen, joten riippumatonta arviolähdettä koskeva avoimuus puuttuu.",
+    "Verkkosivustolla ei ole erillista UKK-osiota (Usein Kysytyt Kysymykset), mikä vaikeuttaa yleisten tilaukseen liittyvien kysymysten löytämistä."
+   ],
+   "yhteenveto": "ET-lehti on Sanoma Media Finland Oy:n julkaisema aikakauslehti, joka tarjoaa kestotilauksia verkon kautta tilaa.sanoma.fi-palvelun välityksellä. Tilauksen hinnoittelu ja peruutusmenettely on esitetty avoimesti tilausvaiheessa, ja päätoimittaja Minna McGill sekä toimitusyhteystiedot ovat helposti löydettävissä. Lehti ei kuitenkaan kuulu riippumattomaan arviointijärjestelmään, eikä kaupallisen ja journalistisen sisällön erottelu ole riittävän selkeä lukijalle.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Tilaus-sivulla todetaan: 'Jatkuva tilaus on voimassa toistaiseksi. Tilauksen voi irtisanoa koska tahansa 30 päivän irtisanomisajalla tai kuluvan tilausjakson loppuun.' Asiakaspalvelu tavoitettavissa puhelimitse 0203 31010."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "ET-lehti",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'ET-lehti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "seiska",
+   "nimi": "Seiska",
+   "domain": "seiska.fi",
+   "omistaja": "Aller Media Oy (Aller-konserni, Tanska) — viihdelehti",
+   "y_tunnus": "0872238-2",
+   "rekisteroity": 1992,
+   "score": 72.2,
+   "pillars": {
+    "digitaalinen": 66.0,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 73.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaussivulla näkyvät selkeästi hinnat ennen henkilötietojen antamista: 29,90€ (10 nroa), 49,90€ (16 nroa määräaikainen), 59,90€ (20 nroa) ja 79,90€ (29 nroa). Tilausehdot mainitsevat normaalin vuositilaushinnan: Seiska 56 nroa 349,44€."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilausehdoissa selkeästi kerrottu: Tilaaja voi irtisanoa tilauksen joustavasti. Verkkopalvelussa itsepalvelu päättää tilauksen laskutusjakson loppuun. Asiakaspalveluun yhteydessä (kirjeitse, puhelimitse, sähköisesti) irtisanominen päättyy laskutusjakson loppuun tai tilaajan toiveesta seuraavan numeron alusta, kuitenkin viimeistään 30 päivän kuluessa. 14 päivän peruutusoikeus mainittu."
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla Jyrki Huotari nimetty Vastaavaksi päätoimittajaksi sekä muut toimituksen johtajat (Atte Alhainen, Anuliina Tulla, Kalle Väistö, Tanja Korpela, Veli Kojonen) nimineen ja sähköposteineen. Toimituksen puhelin 044 567 7777 ja sähköposti [email protected] julkisesti näkyvät."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainokset merkitty tekstillä 'Mainos' ja 'Mainos päättyy', joten ne ovat erotettavissa. Aller-sivustolla näkyvät mainosmuodot ja -hinnat. Seiskan omilla sivuilla ei kuitenkaan eksplisiittisesti kuvailla kaupallisen sisällön erottelua journalismista."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aller Median tietosuojaselosteessa esillä: Aller Media Oy (y-tunnus: 0872238-2), osoite Lintulahdenkuja 10, 00500 Helsinki. Seiskan omilla sivuilla Aller Media Oy nimetty kustantajaksi, joten kustantaja on selkeästi tiedossa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Seiskan sivuilla tai Aller Median tietosuojaselosteessa ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia laadun arviointilähteitä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 8104.141000000001,
+    "cls": 0.01195976996278945,
+    "tbt_ms": 2919.286999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat esillä selkeästi ennen henkilötietojen antamista; useita vaihtoehtoja ja alennustarjouksia näkyvillä",
+    "Päätoimittaja Jyrki Huotari nimetty toimituksellisilla yhteystiedoilla; toimituksen henkilöstön nimet ja sähköpostit julkisesti saatavilla",
+    "Tilauksen irtisanominen joustavaa: verkkopalvelun kautta itse tai asiakaspalveluun yhteydenotolla; peruutusoikeus 14 päivää"
+   ],
+   "kehityskohteet": [
+    "Riippumaton laadun todentaminen puuttuu; ei JSN-jäsenyyttä tai levikintarkastusta merkitty",
+    "Kaupallisen sisällön erottelu journalismista ei selkeästi kuvattu Seiskan omilla sivuilla; vain mainosetiketit näkyvissä",
+    "FAQ-osio tai tarkempi asiakaspalvelun aukioloajat puuttuvat; asiakaspalveluun yhteys vain lomakkeen, puhelimen tai sähköpostin kautta"
+   ],
+   "yhteenveto": "Seiska on Aller Media Oy:n julkaisema viihdelehti, joka tarjoaa selkeät tilaushinnat ja niiden määräaikaisesti että jatkuvasti. Toimituksen johtajat nimetään julkisesti, ja tilauksen irtisanominen on joustavaa verkkopalvelun kautta. Lehti käyttää mainosetiketejä sisällössä, mutta ei kuvaa eksplisiittisesti kaupallisen sisällön erottelua.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Tilausehdoissa selkeästi kerrottu: Tilaaja voi irtisanoa tilauksen joustavasti. Verkkopalvelussa itsepalvelu päättää tilauksen laskutusjakson loppuun. Asiakaspalveluun yhteydessä (kirjeitse, puhelimitse, sähköisesti) irtisanominen päättyy laskutusjakson loppuun tai tilaajan toiveesta seuraavan numeron alusta, kuitenkin viimeistään 30 päivän kuluessa. 14 päivän peruutusoikeus mainittu."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Seiska (lehti)",
+    "paivakatselut_ka": 17,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Seiska (lehti)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "apu",
+   "nimi": "Apu",
+   "domain": "apu.fi",
+   "omistaja": "A-lehdet Oy — perheomisteinen (Aatos Erkko -suvusta erillinen A-lehdet-suku), per. 1933",
+   "y_tunnus": "1708790-7",
+   "rekisteroity": 2001,
+   "score": 71.3,
+   "pillars": {
+    "digitaalinen": 74.4,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 65.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: A-lehtien lehtitilaukset-portaalilla (lehtitilaukset.a-lehdet.fi) näkyy Apu-lehden tilausmahdollisuus merkinnällä 'TILAA ALK. 39,99 €', mutta tarkkaa kuukausi/vuositiedon ei ilmaista. Apu-lehden omat sivut (apu.fi) eivät sisällä suoraa hintatietoa."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilausehdoissa (lehtitilaukset.a-lehdet.fi/tilausehdot) on yksityiskohtaiset ohjeet tilauksen peruuttamiseksi: 'Tarjousjakson jälkeen tilauksen voi irtisanoa ilman lisäkuluja ja irtisanominen astuu tällöin voimaan viimeistään 30 päivän sisällä irtisanomisesta.' Irtisanominen voidaan tehdä puhelimitse (09) 759 6600, kirjallisesti tai sähköisen asiakaspalvelun kautta."
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apu.fi/yhteystiedot-sivulla päätoimittaja Samuel Savolainen on nimetty, sekä koko toimitusryhmä luetteloidaan ryhmittäin (Apu toimitus, Aitio toimitus, Apu Terveys toimitus, Mondo toimitus, Tuulilasi toimitus)."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apu.fi-sivuston sisällöstä tai a-lehdet.fi-portaalin mainoksilta/sponsoroinneilta puuttuu selkeä merkintä, joka erottaisi kaupallisen sisällön journalistisesta sisällöstä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1708790-7 on esitetty tilausehdoissa (lehtitilaukset.a-lehdet.fi/tilausehdot) seuraavasti: 'A-lehdet Oy, Y-tunnus: 1708790-7'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apu.fi-sivustolla ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia ariolähteita. Vastuullistajournalismia.fi-linkki (apu.fi/yhteystiedot) ei ole toiminnassa (HTTP 000)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero (09) 759 6600 on esitetty apu.fi/yhteystiedot-sivulla merkinnällä 'ma-pe 8.00 - 20.00 ja la 10-15'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@aspa.a-lehdet.fi on esitetty apu.fi/yhteystiedot-sivulla tilauksiin liittyville asioille. Toimitukseen voi ottaa yhteyttä sähköpostitse muodolla etunimi.sukunimi@a-lehdet.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apu.fi-sivuilla tai a-lehdet.fi-portaalissa ei ole mainittu live-chat-tukea."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat on merkitty apu.fi/yhteystiedot-sivulla: 'Puh. (09) 759 6600. Auki ma-pe 8.00 - 20.00 ja la 10-15.'"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apu.fi-sivustolla tai a-lehdet.fi-portaalissa ei löytynyt erillistä usein kysyttyjä kysymyksiä -osiota."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lehtitilaukset.a-lehdet.fi:llä mainitaan 'Lue tilaamiasi lehtiä tabletilla, mobiililaitteella tai verkkoversiona' sekä 'Omat lehteni' -palvelu, mutta erillisen natiivimobiilisovelluksen olemassaoloa ei ole mainittu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10180.886500000002,
+    "cls": 0.006518178693531031,
+    "tbt_ms": 699.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Päätoimittaja ja koko toimitusryhmä selkeästi nimetty ja yhteystiedot helposti saatavilla",
+    "Tilauksen peruuttamisen ehdot on kerrottu yksityiskohtaisesti tilausehdoissa, mukaan lukien 30 päivän irtisanomisoikeus tarjousjakson jälkeen",
+    "Asiakaspalvelu on saavutettavissa puhelimitse (09) 759 6600 näkyvin aukioloajoin ma-pe 8-20, la 10-15"
+   ],
+   "kehityskohteet": [
+    "Kaupallinen sisältö ja mainokset eivät ole selkeästi eroteltu journalistisesta sisällöstä apu.fi-sivustolla",
+    "Tilaushinnoittelusta puuttuu selkeä erittely kuukausittain tai vuosittain, pelkkä 'ALK. 39,99 €' näytetään",
+    "Riippumattomien arviolähteiden (esim. JSN-jäsenyys, levikintarkastus) puuttuminen"
+   ],
+   "yhteenveto": "Apu on A-lehtien Oy:n julkaisema aikakauslehti, jonka tilaaminen ja asiakaspalvelu on organisoitu a-lehdet.fi-portaalin kautta. Lehden toimituksella on kattava henkilöstöluettelo ja selkeät yhteystiedot, sekä tilauksen peruuttaminen on dokumentoitu läpinäkyvästi. Tilaushinnoittelun esittäminen on kuitenkin epätavallisen niukkaa, ja kaupallisen sisällön merkitsemisestä journalismiin ei löytynyt ohjeistusta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Tilausehdoissa (lehtitilaukset.a-lehdet.fi/tilausehdot) on yksityiskohtaiset ohjeet tilauksen peruuttamiseksi: 'Tarjousjakson jälkeen tilauksen voi irtisanoa ilman lisäkuluja ja irtisanominen astuu tällöin voimaan viimeistään 30 päivän sisällä irtisanomisesta.' Irtisanominen voidaan tehdä puhelimitse (09) 759 6600, kirjallisesti tai sähköisen asiakaspalvelun kautta."
+    }
+   ]
+  },
+  {
+   "slug": "suomen-kuvalehti",
+   "nimi": "Suomen Kuvalehti",
+   "domain": "suomenkuvalehti.fi",
+   "omistaja": "Otavamedia Oy (Otava-konserni) — yhteiskunnallinen viikkolehti (per. 1916)",
+   "y_tunnus": "0196807-2",
+   "rekisteroity": 1978,
+   "score": 71.3,
+   "pillars": {
+    "digitaalinen": 61.6,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 80.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilausvaihtoehdot näkyvät selvästi sivulla https://suomenkuvalehti.fi/tilaa: Suomen Kuvalehti digi 6 kk 49 euroa (norm. 101,40 €), lehti + digi 6 kk 99 euroa (norm. 225 €), lehti + digi 12 kk 169 euroa (norm. 417 €). Kaikilla on merkintä 'Jatkuva tilaus'."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutusehdot löytyvät sekä tilaa-sivulta että https://otavamedia.fi/tilaus-ja-kayttoehdot/ osoitteesta. Tilaa-sivulla: 'Peruutusehdot: Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Jatkuva tilaus jatkuu automaattisesti kiinteän tarjousjakson jälkeen... Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'"
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://suomenkuvalehti.fi/toimituksen-yhteystiedot/ on listattu 'PÄÄTOIMITTAJA Matti Kalliokoski' ja sähköpostiosoite matti.kalliokoski@otava.fi. Koko toimituksen yhteystiedot ja rakenne on dokumentoitu."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvää merkitsemistä tai erottelua kaupallisen sisällön ja journalismin välillä. Mainonnan kohdeajoja kuvataan tietosuojaselosteessa, mutta kaupallisen sisällön merkitseminen sivuilla on puutteellista."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedian Y-tunnus 0196807-2 näkyy kaikilla sivuston sivuilla (footer). Suomen Kuvalehden omaa Y-tunnusta tai lakisääteistä tunnusta ei ole erillisesti näkyvissä. Lehti kuuluu Otavamedian julkaistuihin lehtiin, mutta omaa identiteettiä ei ole tunnus-tasolla korostettu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia arviolähteitä. Otavamedian verkkosivuilla tai Suomen Kuvalehden sivuilla ei löydy viittauksia tällaisiin sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Digipalvelut: (09) 156 6227 ja Painettu lehti: 010190093 ovat näkyvissä asiakaspalvelun yhteystiedoissa. Avoinna ma-pe 8-19."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Digi-palveluun: digi@otavamedia.fi, Asiakaspalveluun: asiakaspalvelu@otavamedia.fi, Toimitukselle: etunimi.sukunimi@otava.fi (muodossa), sk.oikaisupyynnot@otava.fi oikaisupyynnöille."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilausehdoissa mainitaan: 'Tilauksen peruuttamisen voi tehdä asiointipalvelun kautta tai ottamalla yhteyttä Otavamedian asiakaspalveluun sähköpostilla, puhelimitse, kirjeitse tai Otavamedian verkkosivuilla chat-palvelun välityksellä.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvät: Digipalvelut (09) 156 6227 Avoinna ma-pe 8-19."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suomen Kuvalehden omalla sivustolla (suomenkuvalehti.fi) ei ole FAQ-osiota. Otavamedialla on 'Usein kysytyt kysymykset' -sivu omalla sivustollaan, mutta se ei ole Suomen Kuvalehden omaa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun lähdekoodi viittaa smart-app-banner -pluginiin, mikä viittaa sovelluspainikkeen olemassaoloon. Varsinaista sovelluksesta kertovaa sisältöä ei ole kuitenkaan renderoidun sivun tekstissä näkyvissä."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 87,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 18288.626000000004,
+    "cls": 0.005210500806802712,
+    "tbt_ms": 2514
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat näkyvät selvästi jo ensimmäisellä katsantokierroksella ennen tietojen antamista",
+    "Peruutusehdot ja irtisanomisajat on kuvattu yksityiskohtaisesti julkisesti saatavilla olevilla sivuilla",
+    "Päätoimittaja nimetään ja toimituksen yhteystiedot on helposti löydettävissä"
+   ],
+   "kehityskohteet": [
+    "Kaupallisen sisällön merkitseminen ja erottelu journalismista ei ole näkyvää sivustolla",
+    "Suomen Kuvalehden omaa Y-tunnusta ei ole esillä; Otavamedia Oy:n (0196807-2) Y-tunnus näkyy, mutta ei lehden omaa",
+    "Riippumattomia arviolähteitä kuten JSN-jäsenyyttä tai levikintarkastusta ei ole dokumentoitu"
+   ],
+   "yhteenveto": "Suomen Kuvalehti on Otavamedian julkaisema aikakauslehti, jonka tilauspalvelu on käyttäjäystävällinen ja hinnoittelu näkyvä. Peruutus- ja irtisanomisehdot on kuvattu yksityiskohtaisesti, ja toimituksellinen yhteystieto (päätoimittaja Matti Kalliokoski) on julkaistu. Asiakaspalvelu on saavutettavissa puhelimitse, sähköpostilla ja chatissa. Kehitysalueita ovat kaupallisen sisällön merkitsemisen puute sekä riippumattomien arviointilähteisiin viittaamisen tai omalle lehdelle Y-tunnuksen näyttämisen puuttuminen.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Peruutusehdot löytyvät sekä tilaa-sivulta että https://otavamedia.fi/tilaus-ja-kayttoehdot/ osoitteesta. Tilaa-sivulla: 'Peruutusehdot: Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Jatkuva tilaus jatkuu automaattisesti kiinteän tarjousjakson jälkeen... Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Suomen Kuvalehti",
+    "paivakatselut_ka": 16,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Suomen Kuvalehti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "kotiliesi",
+   "nimi": "Kotiliesi",
+   "domain": "kotiliesi.fi",
+   "omistaja": "Otavamedia Oy (Otava-konserni) — Suomen vanhimpia aikakauslehtiä (per. 1922)",
+   "y_tunnus": "0196807-2",
+   "rekisteroity": 1978,
+   "score": 68.4,
+   "pillars": {
+    "digitaalinen": 58.4,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 87.5,
+    "ai_laatu": 66.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "18/100",
+       "paino": 40,
+       "pisteet": 18,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla näkyy kampanjahinta 'Tilaa Kotiliesi alk. 29€/2 kk', mutta 12 kuukauden jatkuvan tilauksen normaali hinta puuttuu ennen rekisteröitymistä."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla kuvataan: 'Voimassa olevan jatkuvan tilauksen voi irtisanoa päättyväksi aikaisintaan ensimmäisen tarjousjakson loppuun. Tämän jälkeen tilaus voidaan irtisanoa milloin tahansa 30 päivän irtisanomisajalla.'"
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotiliesi.fi/toimituksen-yhteystiedot/-sivulla nimetään 'Vastaava päätoimittaja Saija Hakoniemi' ja annetaan täydelliset toimituksen yhteystiedot ja puhelin (09) 15 661."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Käyttäytymiseen perustuva mainonta' mutta kaupallisen sisällön merkitsemistä artikkeleihin ei vahvistettu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla näkyy Y-tunnus 0196807-2 kustantajayrityksen tunnuksena. Kustantaja 'Otavamedia Oy' on mainittu toimituksen yhteystiedot -sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: JSN-jäsenyyttä tai riippumatonta auditointia ei löytynyt sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla näkyvät (09) 156 6227 (digipalvelu), (09) 156 665 (painettu lehti) ja toimituksen numero (09) 15 661."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Näkyvissä ovat sähköpostiosoitteet digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi ja kotiliesi@otava.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla mainitaan chat-palvelu: 'ottamalla yhteyttä asiakaspalveluun... Otavamedian verkkosivuilla chat-palvelun välityksellä'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kotiliesi.fi/tilaa/-sivulla ilmoitetaan 'Avoinna ma-pe 8-19' sekä digipalvelulle että painetun lehden asiakaspalvelulle."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Otavamedia.fi-navigaatiossa näkyy linkki 'Usein kysytyt kysymykset' mutta kyseistä sivua ei ladattu."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'Näköislehdet' ja digitaalinen sisältö, mutta erityistä mobiilisovellusta ei vahvistettu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 18,
+    "accessibility": 84,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 8820.3378,
+    "cls": 0.1980322939443018,
+    "tbt_ms": 2324.6246
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilauksen peruutus- ja irtisanomisehdot dokumentoitu selkeästi Otavamedia-sivuilla 30 päivän irtisanomisajalla",
+    "Laaja yhteystietojen tarjonta puhelimitse, sähköpostitse ja chat-palvelun kautta sekä toimituksen että asiakaspalvelun osalta",
+    "Päätoimittaja ja toimituksellinen vastuuhenkilö nimetty täysin tunnistetusti"
+   ],
+   "kehityskohteet": [
+    "Jatkuvan tilauksen 12 kuukauden hinta ei ole julkisesti näkyvissä ennen asiakastietojen antamista; näkyvissä vain kampanjahinta",
+    "Kaupallisen sisällön erittely artikkeleihin ei ole selkeä kävijälle",
+    "Y-tunnus on kustantajayrityksen eikä lehden oma, mikä voi hämmentää lukijaa identiteetista"
+   ],
+   "yhteenveto": "Kotiliesi on Otavamedian omistama naistenlehti, jonka sivusto tarjoaa selkeät asiakaspalvelun yhteystiedot ja chat-palvelun. Tilauksen peruuttamisen ehdot on dokumentoitu hyvin tekijälle pakottavissa Otavamedian yleisissä ehdoissa, mutta jatkuvan tilauksen 12 kuukauden hinta ei ole selkeästi näkyvissä ennen asiakastietojen antamista.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Otavamedia.fi/tilaus-ja-kayttoehdot/-sivulla kuvataan: 'Voimassa olevan jatkuvan tilauksen voi irtisanoa päättyväksi aikaisintaan ensimmäisen tarjousjakson loppuun. Tämän jälkeen tilaus voidaan irtisanoa milloin tahansa 30 päivän irtisanomisajalla.'"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Kotiliesi",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Kotiliesi' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "seura",
+   "nimi": "Seura",
+   "domain": "seura.fi",
+   "omistaja": "Otavamedia Oy (Otava-konserni) — sama kustantaja kuin SK:lla, TM:llä ja Kotiliedellä",
+   "y_tunnus": "0196807-2",
+   "rekisteroity": 1978,
+   "score": 67.6,
+   "pillars": {
+    "digitaalinen": 62.4,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 65.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaussivulla näkyvät heti kahden pituiset jatkuva-tilausvaihtoehdot 39 € (4 kk, norm. 128 €) ja 99 € (10 kk, norm. 320 €), hinnat esitetään ennen tietojen antamista."
+      },
+      {
+       "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaussivulla selkeästi kerrotaan: 'Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'"
+      },
+      {
+       "mittari": "Päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimituksen yhteystiedot -sivulla nimetään: 'Vastaava päätoimittaja Erkki Meriluoto' ja sähköpostiosoitteet muotoa etunimi.sukunimi@otava.fi."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole selkeää merkintää kaupallisen sisällön erottelusta tai mainoksien merkinnöistä. Sivusto ei selitä, miten mainostava sisältö erotetaan toimituksellisesta sisällöstä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0196807-2 on näkyvillä Otavamedian pääsivustolla (otavamedia.fi), mutta ei Seura.fi:llä itsellään. Kustantaja esitellään nimellä Otavamedia Oy."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole mainintaa JSN-jäsenyydestä (Julkisen sanan neuvosto) eikä muista riippumattomista arviolähteistä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita puhelinnumeroita näkyy sivustolla: Digipalvelut (09) 156 6227, Seura-asiakaspalvelu 010190095, vaihde (09) 156 61 ja toimituksen vaihde (09) 15 661."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet ovat esillä: digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi, seura@otava.fi sekä malli etunimi.sukunimi@otava.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole mainintaa chat-palvelusta asiakaspalvelua varten. Asiakaspalvelu on saatavilla vain puhelimitse ja sähköpostilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat ovat selkeästi merkitty kaikissa yhteystiedoissa: 'ma-pe 8-19' (maanantaista perjantaihin 8:00-19:00)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole erillisiä usein kysyttyjen kysymysten osioita tai FAQ-sivuja. Asiakastuki on saatavilla vain suoran yhteydenoton kautta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan app ja iOS, mutta ei ole suoraa linkkiä sovellukseen eikä selkeää kuvausta mobiilisovelluksesta tai sen ominaisuuksista."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 16019.000000000004,
+    "cls": 0.1606225886956572,
+    "tbt_ms": 1319
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat on esitetty selkeästi tilaussivulla ennen tietojen antamista, myös kampanjahinnat näkyvät heti.",
+    "Päätoimittaja Erkki Meriluoto nimetään ja toimituksen yhteystiedot ovat saatavilla, mukaan lukien sähköpostiosoitteen mallit.",
+    "Asiakaspalvelun aukioloajat ja puhelinnumerot ovat selkeästi näkyvillä useissa paikoissa sivustolla ja kaikissa yhteystiedoissa."
+   ],
+   "kehityskohteet": [
+    "Kaupallisen sisällön merkinnästä ei ole selkeää tietoa sivustolla, eikä mainoksista ole erillisiä ohjeita.",
+    "Y-tunnus esitetään vain kustantajan Otavamedian sivustolla, ei Seura.fi:llä itsellään.",
+    "Sivustolla ei ole FAQ-osioita eikä selkeää kerrontaa mobiilisovelluksesta, vaikka sitä sivustoilla mainitaan."
+   ],
+   "yhteenveto": "Seura on Otavamedian julkaisema viikkolehti, jonka tilausjärjestelmä on selkeä ja hinnoittelu näkyy hyvin etukäteen. Tilauksen peruutus- ja irtisanomisehdot on dokumentoitu läpinäkyvästi, ja päätoimittaja sekä toimituksen yhteystiedot ovat julkisesti saatavilla. Sivustolla puuttuvat kuitenkin tiedot kaupallisen sisällön merkinnöstä ja riippumattomista arvioista.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Tilauksen päättäminen ja peruutusehdot kerrottu julkisesti",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Tilaussivulla selkeästi kerrotaan: 'Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Seura",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Seura' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Aikakauslehtien tilausmarkkina on Suomessa keskittynyt: Otavamedia julkaisee useaa tunnettua lehteä, ja muut isot kustantajat ovat A-lehdet, Sanoma ja Aller. Tilaajan kannalta olennaisinta on hinnan ja tilausehtojen avoimuus: mitä kestotilaus maksaa tarjousjakson jälkeen ja miten sen saa loppumaan. Vertailemme yksittäisiä lehtiä, emme kustantajia, ja kerromme kustantajan jokaisen lehden sivulla.",
+  "huomioita": [
+   "Lähes kaikki tarjoukset ovat kestotilauksia: houkutteleva aloitushinta koskee ensimmäisiä kuukausia, minkä jälkeen tilaus jatkuu normaalihinnalla, kunnes sen erikseen päättää.",
+   "Normaalihinnan löytäminen on usein vaikeampaa kuin tarjoushinnan: mittauksissamme osa lehdistä ei kerro jatkuvan tilauksen 12 kuukauden hintaa julkisesti lainkaan.",
+   "Peruutusehdot ovat tyypillisesti kustantajan yhteisissä tilausehdoissa, eivät lehden omalla sivulla. Kuluttajansuojalain mukainen 14 vuorokauden peruuttamisoikeus koskee verkossa tehtyjä tilauksia, ja jatkuvan tilauksen irtisanomisaika on alalla yleensä 30 päivää.",
+   "Päätoimittajan ja toimituksen yhteystietojen löydettävyys vaihtelee lehdittäin, vaikka vastaava päätoimittaja on sananvapauslain vaatimus.",
+   "Kaupallisen yhteistyön merkitseminen on aikakauslehtien verkkosivuilla epätasaisempaa kuin uutismedioissa, ja harva lehti kertoo JSN-jäsenyydestään omalla sivustollaan."
+  ],
+  "vinkit": [
+   "Katso aina tarjouksen jälkeinen normaalihinta ennen tilaamista. Jos sitä ei kerrota tilaussivulla, se löytyy yleensä tilausehdoista tai kysymällä asiakaspalvelusta.",
+   "Merkitse kalenteriin tarjousjakson päättyminen. Kestotilaus jatkuu automaattisesti, ja irtisanomisaika on tyypillisesti 30 päivää.",
+   "Vertaa digitilausta ja printti+digi-yhdistelmää: pelkkä digilehti on usein selvästi halvempi ja sisältää saman sisällön."
+  ],
+  "ukk": [
+   {
+    "q": "Mitä eroa on kestotilauksella ja määräaikaisella tilauksella?",
+    "a": "Kestotilaus jatkuu automaattisesti laskutusjaksosta toiseen, kunnes tilaaja irtisanoo sen. Määräaikainen tilaus päättyy itsestään sovitun jakson jälkeen. Tarjoukset ovat lähes aina kestotilauksia, koska jatkuvuus on kustantajalle arvokasta."
+   },
+   {
+    "q": "Miten kestotilauksen saa loppumaan?",
+    "a": "Irtisanominen tehdään kustantajan asiakaspalveluun puhelimitse, verkkolomakkeella tai oman tilin kautta. Alalla yleinen irtisanomisaika on 30 päivää, eli päättyminen ei ole välitön. Verkossa tehdyssä tilauksessa on lisäksi 14 vuorokauden peruuttamisoikeus."
+   },
+   {
+    "q": "Miksi lehden normaalihintaa on niin vaikea löytää?",
+    "a": "Kustantajat markkinoivat tarjoushinnalla, ja jatkuvan tilauksen normaalihinta kerrotaan usein vasta tilausehdoissa tai pienellä tekstillä. Tämä on selkein yksittäinen läpinäkyvyyspuute alalla, ja siksi hinnan avoimuus on vertailumme painavin kriteeri."
+   },
+   {
+    "q": "Arvioitteko lehtien sisältöä?",
+    "a": "Emme. Mittaamme vain verkkosivuston läpinäkyvyyttä tilaajan silmin: hinnat, peruutusehdot, vastuuhenkilöt ja kaupallisen sisällön erottelun. Lehden journalistiseen sisältöön tai laatuun emme ota kantaa."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tilaushinnat (kesto- ja määräaikaistilaus) kerrottu selkeästi ennen tietojen antamista (25), tilauksen päättäminen ja peruutusehdot kerrottu julkisesti (20), päätoimittaja ja toimituksen yhteystiedot esillä (20), kaupallinen sisältö merkitty ja erottelu journalismista kuvattu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

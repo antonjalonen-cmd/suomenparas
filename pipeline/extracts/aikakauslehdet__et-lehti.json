@@ -1,0 +1,53 @@
+{
+  "slug": "et-lehti",
+  "fetched_ok": [
+    "https://www.etlehti.fi/",
+    "https://tilaa.sanoma.fi/et",
+    "https://tilaa.sanoma.fi/et?showPaymentPeriodList=true&showOfferDetails=true&offer=8&defaultAid=true",
+    "https://www.etlehti.fi/toimitus-0",
+    "https://www.etlehti.fi/artikkeli/ihmiset/laakari-pekka-puska-80-parannus-miesten-elintapoihin-lahtee-usein-naisista"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "tilauksen_peruutus_kerrottu": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "mainonta_eroteltu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "kestotilaus_eur_12kk": 294,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Hintatiedot ja tilausmuodot esitetään selkeästi Sanoman tilaamisjärjestelmässä ennen henkilötietojen antamista.",
+    "Peruutusehdot ja irtisanomismenettely (30 päivän irtisanomisaika) on julkisesti saatavilla ja helppo löytää.",
+    "Päätoimittaja, toimituksen yhteystiedot ja avainhenkilöiden nimet ovat etlehti.fi-sivuilla selkeästi listattu."
+  ],
+  "kehityskohteet": [
+    "Kaupallisen sisällön ja journalistisen sisällön erottelu ei ole riittävän selkeä; mainokset mainitaan vain juoksevassa tekstissä ('Sisältö jatkuu mainoksen alla').",
+    "Lehti ei ole JSN:n jäsen, joten riippumatonta arviolähdettä koskeva avoimuus puuttuu.",
+    "Verkkosivustolla ei ole erillista UKK-osiota (Usein Kysytyt Kysymykset), mikä vaikeuttaa yleisten tilaukseen liittyvien kysymysten löytämistä."
+  ],
+  "yhteenveto": "ET-lehti on Sanoma Media Finland Oy:n julkaisema aikakauslehti, joka tarjoaa kestotilauksia verkon kautta tilaa.sanoma.fi-palvelun välityksellä. Tilauksen hinnoittelu ja peruutusmenettely on esitetty avoimesti tilausvaiheessa, ja päätoimittaja Minna McGill sekä toimitusyhteystiedot ovat helposti löydettävissä. Lehti ei kuitenkaan kuulu riippumattomaan arviointijärjestelmään, eikä kaupallisen ja journalistisen sisällön erottelu ole riittävän selkeä lukijalle.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Tilaa.sanoma.fi-sivulla esitellään tilaushinnat selkeästi: 39 €/3 kk ensimmäisten kolmen kuukauden tarjoushinta, jonka jälkeen jatkuva tilaus laskutetaan 73,50 €/3 kk. Hinnat näytetään ennen henkilötietojen antamista.",
+    "tilauksen_peruutus_kerrottu": "HAVAINTO: Tilaus-sivulla todetaan: 'Jatkuva tilaus on voimassa toistaiseksi. Tilauksen voi irtisanoa koska tahansa 30 päivän irtisanomisajalla tai kuluvan tilausjakson loppuun.' Asiakaspalvelu tavoitettavissa puhelimitse 0203 31010.",
+    "paatoimittaja_esilla": "HAVAINTO: Etlehti.fi/toimitus-0 sivulla on listattu Päätoimittaja Minna McGill sekä muut toimituksen avainhenkilöt yhteydenottotietoineen.",
+    "mainonta_eroteltu": "HAVAINTO: Artikkelit sisältävät tekstin 'Sisältö jatkuu mainoksen alla', mutta kaupallisen sisällön erillinen merkintä (esim. sponsoroitu sisältö, yhteistyöjuttu) ei ole riittävän näkyvä. Etusivu näyttää sisällön ja mainokset sekaisin ilman selkeää rajaa.",
+    "y_tunnus_esilla": "HAVAINTO: Tilaa.sanoma.fi-sivulla näkyy tekijä 'Sanoma Media Finland Oy, Kotipaikka Helsinki, Y-tunnus 1515901-4'. Sama tieto etlehti.fi:n footerissa: 'Sanoma Media Finland Oy'.",
+    "riippumaton_arvio": "HAVAINTO: Etlehti.fi-sivuilla tai tilaa.sanoma.fi-sivuilla ei ole viitteitä JSN-jäsenyydestä tai muusta riippumattomasta levikintarkastuksesta.",
+    "puhelin_esilla": "HAVAINTO: Toimitus-0 sivulla ja tilaa.sanoma.fi-sivulla on asiakaspalvelun puhelin 0203 31010 (arkisin 8.30-16.30) sekä puhelinvaihde (09) 1201.",
+    "email_esilla": "HAVAINTO: Toimitus-0 sivulla on listattu sähköpostiosoite et-lehti@sanoma.com sekä etunimi.sukunimi@sanoma.com-muoto.",
+    "chat_mainittu": "HAVAINTO: Sivuilla ei mainittu chat-palvelua. Asiointikanaviksi mainitaan puhelin ja verkkopalvelu oma.sanoma.fi/et.",
+    "aukioloajat_esilla": "HAVAINTO: Toimitus-0 sivulla todetaan: 'Asiakaspalvelumme palvelee sinua tilauksiin liittyvissä asioissa numerossa 0203 31010 arkisin klo 8.30-16.30.'",
+    "ukk_osio": "HAVAINTO: Etlehti.fi-sivuilla ei ole erillisen UKK:n tai usein kysyttyjen kysymysten osiota. Tiedot on hajallaan eri sivuilla.",
+    "mobiilisovellus": "HAVAINTO: Tilaa.sanoma.fi-sivulla mainitaan 'Digilehdet.fi-palvelu', jonka kautta tilaajat pääsevät lukemaan lehden digitaalista näköislehteä 'tietokoneella, tabletilla ja kännykällä'. Digilehdet-sovellus on saatavilla."
+  }
+}

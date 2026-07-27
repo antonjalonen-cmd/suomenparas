@@ -1235,6 +1235,8 @@ COMPANIES["aikakauslehdet"] = [
          omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — sama kustantaja kuin Tiede-lehdella"),
     dict(slug="seiska", nimi="Seiska", domain="seiska.fi", y_tunnus="0872238-2",
          omistaja="Aller Media Oy (Aller-konserni, Tanska) — viihdelehti"),
-    dict(slug="tiede", nimi="Tiede", domain="tiede.fi", y_tunnus="1515901-4",
-         omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — julkaisijana myös Tieteen tiedotus ry"),
 ]
+# EXCLUDED 26.7.2026: Tiede — tiede.fi ohjautuu hs.fi/tiede-osioon, lehdella ei ole
+# enaa itsenaista verkkosivustoa jota voisi mitata erillaan Helsingin Sanomista
+# (lehti itsessaan elaa tilaa.sanoma.fi-katalogissa). Ei mitata toisen median
+# sivustoa taman nimissa.

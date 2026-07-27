@@ -1,0 +1,53 @@
+{
+  "slug": "apu",
+  "fetched_ok": [
+    "https://www.apu.fi/",
+    "https://www.apu.fi/yhteystiedot",
+    "https://lehtitilaukset.a-lehdet.fi/",
+    "https://lehtitilaukset.a-lehdet.fi/tilausehdot",
+    "https://www.a-lehdet.fi/"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "tilauksen_peruutus_kerrottu": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "mainonta_eroteltu": "ei",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "kestotilaus_eur_12kk": null,
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Päätoimittaja ja koko toimitusryhmä selkeästi nimetty ja yhteystiedot helposti saatavilla",
+    "Tilauksen peruuttamisen ehdot on kerrottu yksityiskohtaisesti tilausehdoissa, mukaan lukien 30 päivän irtisanomisoikeus tarjousjakson jälkeen",
+    "Asiakaspalvelu on saavutettavissa puhelimitse (09) 759 6600 näkyvin aukioloajoin ma-pe 8-20, la 10-15"
+  ],
+  "kehityskohteet": [
+    "Kaupallinen sisältö ja mainokset eivät ole selkeästi eroteltu journalistisesta sisällöstä apu.fi-sivustolla",
+    "Tilaushinnoittelusta puuttuu selkeä erittely kuukausittain tai vuosittain, pelkkä 'ALK. 39,99 €' näytetään",
+    "Riippumattomien arviolähteiden (esim. JSN-jäsenyys, levikintarkastus) puuttuminen"
+  ],
+  "yhteenveto": "Apu on A-lehtien Oy:n julkaisema aikakauslehti, jonka tilaaminen ja asiakaspalvelu on organisoitu a-lehdet.fi-portaalin kautta. Lehden toimituksella on kattava henkilöstöluettelo ja selkeät yhteystiedot, sekä tilauksen peruuttaminen on dokumentoitu läpinäkyvästi. Tilaushinnoittelun esittäminen on kuitenkin epätavallisen niukkaa, ja kaupallisen sisällön merkitsemisestä journalismiin ei löytynyt ohjeistusta.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: A-lehtien lehtitilaukset-portaalilla (lehtitilaukset.a-lehdet.fi) näkyy Apu-lehden tilausmahdollisuus merkinnällä 'TILAA ALK. 39,99 €', mutta tarkkaa kuukausi/vuositiedon ei ilmaista. Apu-lehden omat sivut (apu.fi) eivät sisällä suoraa hintatietoa.",
+    "tilauksen_peruutus_kerrottu": "HAVAINTO: Tilausehdoissa (lehtitilaukset.a-lehdet.fi/tilausehdot) on yksityiskohtaiset ohjeet tilauksen peruuttamiseksi: 'Tarjousjakson jälkeen tilauksen voi irtisanoa ilman lisäkuluja ja irtisanominen astuu tällöin voimaan viimeistään 30 päivän sisällä irtisanomisesta.' Irtisanominen voidaan tehdä puhelimitse (09) 759 6600, kirjallisesti tai sähköisen asiakaspalvelun kautta.",
+    "paatoimittaja_esilla": "HAVAINTO: Apu.fi/yhteystiedot-sivulla päätoimittaja Samuel Savolainen on nimetty, sekä koko toimitusryhmä luetteloidaan ryhmittäin (Apu toimitus, Aitio toimitus, Apu Terveys toimitus, Mondo toimitus, Tuulilasi toimitus).",
+    "mainonta_eroteltu": "HAVAINTO: Apu.fi-sivuston sisällöstä tai a-lehdet.fi-portaalin mainoksilta/sponsoroinneilta puuttuu selkeä merkintä, joka erottaisi kaupallisen sisällön journalistisesta sisällöstä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1708790-7 on esitetty tilausehdoissa (lehtitilaukset.a-lehdet.fi/tilausehdot) seuraavasti: 'A-lehdet Oy, Y-tunnus: 1708790-7'.",
+    "riippumaton_arvio": "HAVAINTO: Apu.fi-sivustolla ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia ariolähteita. Vastuullistajournalismia.fi-linkki (apu.fi/yhteystiedot) ei ole toiminnassa (HTTP 000).",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero (09) 759 6600 on esitetty apu.fi/yhteystiedot-sivulla merkinnällä 'ma-pe 8.00 - 20.00 ja la 10-15'.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@aspa.a-lehdet.fi on esitetty apu.fi/yhteystiedot-sivulla tilauksiin liittyville asioille. Toimitukseen voi ottaa yhteyttä sähköpostitse muodolla etunimi.sukunimi@a-lehdet.fi.",
+    "chat_mainittu": "HAVAINTO: Apu.fi-sivuilla tai a-lehdet.fi-portaalissa ei ole mainittu live-chat-tukea.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat on merkitty apu.fi/yhteystiedot-sivulla: 'Puh. (09) 759 6600. Auki ma-pe 8.00 - 20.00 ja la 10-15.'",
+    "ukk_osio": "HAVAINTO: Apu.fi-sivustolla tai a-lehdet.fi-portaalissa ei löytynyt erillistä usein kysyttyjä kysymyksiä -osiota.",
+    "mobiilisovellus": "HAVAINTO: Lehtitilaukset.a-lehdet.fi:llä mainitaan 'Lue tilaamiasi lehtiä tabletilla, mobiililaitteella tai verkkoversiona' sekä 'Omat lehteni' -palvelu, mutta erillisen natiivimobiilisovelluksen olemassaoloa ei ole mainittu."
+  }
+}

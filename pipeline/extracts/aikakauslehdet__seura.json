@@ -1,0 +1,52 @@
+{
+  "slug": "seura",
+  "fetched_ok": [
+    "https://seura.fi/",
+    "https://tilaus.seura.fi/tilaus?promoID=OM_tilaa-painike&promoName=OM_SE&promoCreative=onlinetarjous",
+    "https://seura.fi/toimituksen-yhteystiedot/",
+    "https://www.otavamedia.fi/"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "tilauksen_peruutus_kerrottu": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "mainonta_eroteltu": "ei",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "kestotilaus_eur_12kk": 384,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 68,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Tilaushinnat on esitetty selkeästi tilaussivulla ennen tietojen antamista, myös kampanjahinnat näkyvät heti.",
+    "Päätoimittaja Erkki Meriluoto nimetään ja toimituksen yhteystiedot ovat saatavilla, mukaan lukien sähköpostiosoitteen mallit.",
+    "Asiakaspalvelun aukioloajat ja puhelinnumerot ovat selkeästi näkyvillä useissa paikoissa sivustolla ja kaikissa yhteystiedoissa."
+  ],
+  "kehityskohteet": [
+    "Kaupallisen sisällön merkinnästä ei ole selkeää tietoa sivustolla, eikä mainoksista ole erillisiä ohjeita.",
+    "Y-tunnus esitetään vain kustantajan Otavamedian sivustolla, ei Seura.fi:llä itsellään.",
+    "Sivustolla ei ole FAQ-osioita eikä selkeää kerrontaa mobiilisovelluksesta, vaikka sitä sivustoilla mainitaan."
+  ],
+  "yhteenveto": "Seura on Otavamedian julkaisema viikkolehti, jonka tilausjärjestelmä on selkeä ja hinnoittelu näkyy hyvin etukäteen. Tilauksen peruutus- ja irtisanomisehdot on dokumentoitu läpinäkyvästi, ja päätoimittaja sekä toimituksen yhteystiedot ovat julkisesti saatavilla. Sivustolla puuttuvat kuitenkin tiedot kaupallisen sisällön merkinnöstä ja riippumattomista arvioista.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Tilaussivulla näkyvät heti kahden pituiset jatkuva-tilausvaihtoehdot 39 € (4 kk, norm. 128 €) ja 99 € (10 kk, norm. 320 €), hinnat esitetään ennen tietojen antamista.",
+    "tilauksen_peruutus_kerrottu": "HAVAINTO: Tilaussivulla selkeästi kerrotaan: 'Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'",
+    "paatoimittaja_esilla": "HAVAINTO: Toimituksen yhteystiedot -sivulla nimetään: 'Vastaava päätoimittaja Erkki Meriluoto' ja sähköpostiosoitteet muotoa etunimi.sukunimi@otava.fi.",
+    "mainonta_eroteltu": "HAVAINTO: Sivustolla ei ole selkeää merkintää kaupallisen sisällön erottelusta tai mainoksien merkinnöistä. Sivusto ei selitä, miten mainostava sisältö erotetaan toimituksellisesta sisällöstä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0196807-2 on näkyvillä Otavamedian pääsivustolla (otavamedia.fi), mutta ei Seura.fi:llä itsellään. Kustantaja esitellään nimellä Otavamedia Oy.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole mainintaa JSN-jäsenyydestä (Julkisen sanan neuvosto) eikä muista riippumattomista arviolähteistä.",
+    "puhelin_esilla": "HAVAINTO: Useita puhelinnumeroita näkyy sivustolla: Digipalvelut (09) 156 6227, Seura-asiakaspalvelu 010190095, vaihde (09) 156 61 ja toimituksen vaihde (09) 15 661.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet ovat esillä: digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi, seura@otava.fi sekä malli etunimi.sukunimi@otava.fi.",
+    "chat_mainittu": "HAVAINTO: Sivustolla ei ole mainintaa chat-palvelusta asiakaspalvelua varten. Asiakaspalvelu on saatavilla vain puhelimitse ja sähköpostilla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ovat selkeästi merkitty kaikissa yhteystiedoissa: 'ma-pe 8-19' (maanantaista perjantaihin 8:00-19:00).",
+    "ukk_osio": "HAVAINTO: Sivustolla ei ole erillisiä usein kysyttyjen kysymysten osioita tai FAQ-sivuja. Asiakastuki on saatavilla vain suoran yhteydenoton kautta.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla mainitaan app ja iOS, mutta ei ole suoraa linkkiä sovellukseen eikä selkeää kuvausta mobiilisovelluksesta tai sen ominaisuuksista."
+  }
+}
