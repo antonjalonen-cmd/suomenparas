@@ -47,7 +47,7 @@ silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketju
 - [ ] pesulapalvelut — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
 - [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
-- [ ] urheiluvalineketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
+- [~] urheiluvalineketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — XXL, Intersport, Budget Sport (Kesko x2), Stadium, Partioaitta, Varuste.net, Scandinavian Outdoor; Sportia jätetty pois (ei näyttöä elävästä valtakunnallisesta ketjusta)
 - [x] huonekaluketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua, portit OK; Masku #1 81,5; Asko+Sotka KARSITTU: Indoor Group konkurssi 2/2026, Sukari/Masku osti brändit, sotka.fi ohjaa masku.comiin)
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
 - [x] elektroniikkaketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua + Proshop ilman fi-Y-tunnusta; Jimm's #1 81,6, Verkkokauppa.com vasta 58,8 tavoitettavuus 22,5)
