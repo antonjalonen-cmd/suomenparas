@@ -6,7 +6,7 @@
  "yksikko": "valtakunnallista tilitoimistoketjua",
  "lead": "Pisteytimme {n} valtakunnallista tai monikaupunkista tilitoimistoketjua {m} mittarilla. Tärkein kysymys: kertooko tilitoimisto hintansa ja palvelunsa julkisesti, vai vasta tarjouspyynnön jälkeen?",
  "meta_title": "Suomen paras tilitoimisto 2026 | tilitoimistot pisteytettyna | Suomen Paras",
- "meta_desc": "9 valtakunnallista tilitoimistoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "meta_desc": "10 valtakunnallista tilitoimistoketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
   "<b>Keitä listalla on?</b> Suurimmat valtakunnalliset ja monikaupunkiset ketjut: pörssiyhtiöt Talenom, Aallon Group ja Administer, pohjoismaiset Aspia ja Azets sekä kotimaiset Rantalainen, Greenstep, Balanco ja Gallant. Rantalainen on konserni, jolla on kymmeniä alueyhtiöitä; mittaus koskee yhteistä sivustoa.",
   "<b>Accountor ei ole listalla</b>, koska sen tilitoimistoliiketoiminta siirtyi Aspia-konserniin ja brändi poistui käytöstä; vanha osoite ohjaa Aspian sivulle. Fennoa on taloushallinnon ohjelmisto eikä tilitoimisto, joten sitä ei mitata tässä kategoriassa.",
@@ -1597,6 +1597,232 @@
      "arvo": "Vahvistettu",
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla aspia.fi/finland/vastuullisuus todetaan, että palvelut on sertifioitu \"ISO9001-laadunhallintasertifikaatilla\", ja sivulla on linkki uutiseen ISO 9001 -sertifioinnin laajentamisesta myös palkkapalveluihin."
+    }
+   ]
+  },
+  {
+   "slug": "smart-office",
+   "nimi": "Tilitoimisto Smart Office",
+   "domain": "smartoffice.fi",
+   "omistaja": "Tilitoimisto Smart Office Oy — helsinkiläinen tilitoimisto (Vallila)",
+   "y_tunnus": "1454110-7",
+   "rekisteroity": 1998,
+   "score": 55.3,
+   "pillars": {
+    "digitaalinen": 64.1,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 52.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnoittelu (kuukausipaketit tai tuntihinnat) julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'paketoidut kiinteähintaiset palvelumme' mutta konkreettisia eurohintoja tai pakettikuvauksia ei esitetä missään ladatuissa sivuissa."
+      },
+      {
+       "mittari": "Palvelujen sisältö kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelut-sivulla kuvataan kuusi päätoimintoa: palkanlaskenta, sisäinen laskenta, kirjanpito, yritysjärjestelyt, veroneuvonta ja yhtiöoikeudelliset palvelut."
+      },
+      {
+       "mittari": "Käytetyt ohjelmistot ja integraatiot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan Taxdome-ohjelmisto. Palvelut-sivulla listataan myös Procountor ja Netvisor taloushallinnan ohjelmistoiksi."
+      },
+      {
+       "mittari": "Auktorisointi tai KLT-pätevyydet kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja tietoa-meista -sivulla korostetaan 'Taloushallintoliiton auktorisoima tilitoimisto', joka noudattaa liiton standardeja ja on säännöllisen valvonnan alaisena."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainita millään sivulla. Vain yrityksen nimi 'Tilitoimisto Smart Office' ja toimistojen osoitteet (Elimäenkatu, Helsinki; Finlaysoninkuja, Tampere) ovat saatavilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointeihin, asiakasarvioihin tai kolmannen osapuolen laatutodistuksiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa: +358 40 531 8055 (Helsinki) ja +358 40 542 2329 (Tampere) näkyvät sekä footer-osassa että yhteystiedot-sivulla. Meidän tiimi -sivulla jokaisen kirjanpitäjän henkilökohtainen puhelinnumero on lueteltu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@smartoffice.fi on näkyvillä kaikilla sivuilla. Lisäksi tiimisivulla kullakin kirjanpitäjällä on henkilökohtainen sähköpostiosoite."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole mainintoja chat-palvelusta, live-chatista tai verkkokeskustelusta."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei ole missään dokumentoitu, vaikka kaksi fyysistä toimistoa on olemassa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole FAQ-osiota (usein kysytyt kysymykset)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston teksti ei mainitse omaa mobiilisovellusta. Mainitut ohjelmistot (Taxdome, Procountor, Netvisor) ovat kolmannen osapuolen palveluita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 88,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 9476.119999999999,
+    "cls": 0.6392420090479979,
+    "tbt_ms": 159.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Taloushallintoliiton auktorisointi näkyvästi esillä, mikä vahvistaa luotettavuutta",
+    "Kattava palveluiden kuvaus (kirjanpito, palkanlaskenta, veroneuvonta, yritysjärjestelyt, yhtiöoikeudelliset palvelut)",
+    "Henkilökohtaiset yhteystiedot tiimin jäsenille sekä kaksi toimistoa (Helsinki ja Tampere) antavat kasvokkaispalvelun mahdollisuuden"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelu ei ole lainkaan esillä, ei edes hinnoittelupakettejen peruskuvauksia tai arvioituja hintahaitaria",
+    "Y-tunnusta ei mainita missään, mikä heikentää yritystietojen avoimuutta",
+    "Ei FAQ-osiota tai selkeää aukioloaikatietoa, vaikka kaksi fyysistä toimistoa olisi helpo kirjata"
+   ],
+   "yhteenveto": "Tilitoimisto Smart Office esittelee itsensä auktorisoituna, perheyrityksenä, jolla on yli 20 vuoden kokemus. Palvelut on kuvattu kattavasti (kirjanpito, palkanlaskenta, veroneuvonta), ja käytettävät ohjelmistot (Taxdome, Procountor, Netvisor) mainitaan. Sivusto on kuitenkin huomattavasti keskittynyt luottamuksen rakentamiseen, eikä julkinen hinnoittelu tai yritystiedot (Y-tunnus) ole näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Taloushallintoliiton auktorisointi",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: smartoffice.fi kertoo nakyvasti Taloushallintoliiton auktorisoinnista."
     }
    ]
   },

@@ -998,6 +998,9 @@ COMPANIES["tilitoimistot"] = [
          omistaja="Balanco Oy — kasvava ketju, useita toimipisteitä"),
     dict(slug="gallant", nimi="Gallant", domain="gallant.fi", y_tunnus="2994701-1",
          omistaja="Gallant Group Oy — monikaupunkiketju (alueyhtiöitä mm. Espoossa ja Lahdessa)"),
+    # Lisätty 26.7.2026 lukijaehdotuksesta. Mitataan samalla kaavalla kuin ketjut.
+    dict(slug="smart-office", nimi="Tilitoimisto Smart Office", domain="smartoffice.fi", y_tunnus="1454110-7",
+         omistaja="Tilitoimisto Smart Office Oy — helsinkiläinen tilitoimisto (Vallila)"),
 ]
 
 
