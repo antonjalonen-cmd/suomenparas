@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (45 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (46 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -17,7 +17,7 @@ autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
 yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
 matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput,
 apteekkien-verkkokaupat, rautakaupat, kattoremontit, tyonvalityspalvelut,
-silmasairaalat.
+silmasairaalat, uutismediat.
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
@@ -51,6 +51,6 @@ silmasairaalat.
 - [ ] huonekaluketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
 - [ ] elektroniikkaketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
-- [~] uutismediat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö: mediavertailu, yksittäiset mediat ei konsernit) — HS, IS, Iltalehti, Kauppalehti, Yle Uutiset, MTV Uutiset, Turun Sanomat, Kaleva
+- [x] uutismediat — julkaistu 26.7.2026 (päätyösessio; 8 mediaa, portit OK; Yle #1 81,2; yksiköt yksittäisiä medioita ei konserneja; HS/IS=Sanoma ja IL/KL=Alma avoimesti; uutissivustojen mobiiliperf. surkea, HS 5/100)
 - [ ] aikakauslehdet — Antonin idea 26.7.2026 (jatko uutismedioille): Apu, Seura, Suomen Kuvalehti, Tekniikan Maailma, ET?, Kotiliesi? — tarkista julkaisijat
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
