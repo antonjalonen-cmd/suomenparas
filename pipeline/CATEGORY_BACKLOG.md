@@ -48,9 +48,9 @@ silmasairaalat, uutismediat, aikakauslehdet.
 - [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
 - [ ] urheiluvalineketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
-- [ ] huonekaluketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
+- [~] huonekaluketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
-- [ ] elektroniikkaketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
+- [~] elektroniikkaketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
 - [x] uutismediat — julkaistu 26.7.2026 (päätyösessio; 8 mediaa, portit OK; Yle #1 81,2; yksiköt yksittäisiä medioita ei konserneja; HS/IS=Sanoma ja IL/KL=Alma avoimesti; uutissivustojen mobiiliperf. surkea, HS 5/100)
 - [x] aikakauslehdet — julkaistu 26.7.2026 (päätyösessio; 7 lehteä, portit OK; Tekniikan Maailma #1 78,4; Tiede KARSITTU: tiede.fi ohjautuu hs.fi/tiede-osioon eli ei itsenäistä sivustoa; normaalihinnan piilottelu alan selkein läpinäkyvyyspuute)
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
