@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (47 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (49 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -17,7 +17,7 @@ autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
 yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
 matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput,
 apteekkien-verkkokaupat, rautakaupat, kattoremontit, tyonvalityspalvelut,
-silmasairaalat, uutismediat, aikakauslehdet.
+silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketjut.
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
@@ -48,9 +48,9 @@ silmasairaalat, uutismediat, aikakauslehdet.
 - [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
 - [ ] urheiluvalineketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: XXL, Intersport, Stadium, Budget Sport, Partioaitta (outdoor), SGN Sportia?
-- [~] huonekaluketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
+- [x] huonekaluketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua, portit OK; Masku #1 81,5; Asko+Sotka KARSITTU: Indoor Group konkurssi 2/2026, Sukari/Masku osti brändit, sotka.fi ohjaa masku.comiin)
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
-- [~] elektroniikkaketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
+- [x] elektroniikkaketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua + Proshop ilman fi-Y-tunnusta; Jimm's #1 81,6, Verkkokauppa.com vasta 58,8 tavoitettavuus 22,5)
 - [x] uutismediat — julkaistu 26.7.2026 (päätyösessio; 8 mediaa, portit OK; Yle #1 81,2; yksiköt yksittäisiä medioita ei konserneja; HS/IS=Sanoma ja IL/KL=Alma avoimesti; uutissivustojen mobiiliperf. surkea, HS 5/100)
 - [x] aikakauslehdet — julkaistu 26.7.2026 (päätyösessio; 7 lehteä, portit OK; Tekniikan Maailma #1 78,4; Tiede KARSITTU: tiede.fi ohjautuu hs.fi/tiede-osioon eli ei itsenäistä sivustoa; normaalihinnan piilottelu alan selkein läpinäkyvyyspuute)
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
