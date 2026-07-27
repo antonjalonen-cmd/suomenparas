@@ -507,3 +507,23 @@ TRANSPARENCY["urheiluvalineketjut"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- ikkunaremontit + lampopumppuasentajat (27.7.2026) ------------------------
+# Remonttipalvelun mittaristo kattoremonttien malliin: hintaindikaatio ennen
+# yhteydenottoa, prosessi, takuut, vaihtoehdot.
+TRANSPARENCY["ikkunaremontit"] = [
+    ("hinta_indikaatio", "Hintatietoa tai hintalaskuri julkisesti esillä", 25),
+    ("prosessi_kuvattu", "Remontin eteneminen kuvattu vaiheittain", 20),
+    ("takuut_kerrottu", "Takuut ja niiden ehdot kerrottu", 20),
+    ("materiaalit_kuvattu", "Ikkunavaihtoehdot ja energiatehokkuus kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
+TRANSPARENCY["lampopumppuasentajat"] = [
+    ("hinta_indikaatio", "Hintatietoa tai hintalaskuri julkisesti esillä", 25),
+    ("prosessi_kuvattu", "Asennuksen eteneminen kuvattu vaiheittain", 20),
+    ("takuut_kerrottu", "Takuut ja niiden ehdot kerrottu", 20),
+    ("materiaalit_kuvattu", "Laitevaihtoehdot ja merkit kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

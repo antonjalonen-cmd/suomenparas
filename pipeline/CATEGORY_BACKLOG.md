@@ -45,7 +45,7 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 - [x] kattoremontit — julkaistu 26.7.2026 (päätyösessio; 7 yhtiötä, check_extracts 7/7 OK; Vesivek #1 77,8 täydet läpinäkyvyyspisteet + 5 serttiä; ruukkikatot.fi->ruukki.com SAME_COMPANY-poikkeus)
 - [~] ikkunaremontit — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Pihla, Skaala, Domus, Lammin Ikkuna, HR-Ikkunat?
 - [ ] hissiyhtiot — b2b/taloyhtiö-kulma: KONE, Otis, Schindler, TK Elevator → arvioi sopiiko kuluttajasivustolle
-- [~] pesulapalvelut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
+- [s] pesulapalvelut — hylätty 27.7.2026: vain 2 aidosti valtakunnallista kuluttajatoimijaa (SOL, 24 Pesula) — loput ovat 1-2 kaupungin paikallisia; sama linja kuin kodinkonehuollon hylkäys. HUOM tutkimuksesta: lorella.fi on kaapattu kasinospämmidomain, Vistan Pesula on SOL:n omistama
 - [~] kukkakauppojen-verkkokaupat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
 - [x] urheiluvalineketjut — julkaistu 27.7.2026 (päätyösessio; 7 ketjua, portit OK; Partioaitta #1 78,2; Stadium 57,2 sisältösivut HTTP 500; 3 ohutta uusittu; Sportia pois)

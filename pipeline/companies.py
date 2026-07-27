@@ -1306,3 +1306,43 @@ COMPANIES["urheiluvalineketjut"] = [
     dict(slug="scandinavian-outdoor", nimi="Scandinavian Outdoor", domain="scandinavianoutdoor.fi", y_tunnus="2066059-1",
          omistaja="Scandinavian Outdoor Oy — suomalainen ulkoiluvarusteketju"),
 ]
+
+# --- ikkunaremontit (27.7.2026, Antonin pyyntö, 5 kategorian erä; tutkimusagentti + PRH) ---
+# Pihla ja Tiivi ovat saman Inwido AB:n (Pihla Group Oy) brandeja - kerrotaan avoimesti.
+COMPANIES["ikkunaremontit"] = [
+    dict(slug="pihla", nimi="Pihla", domain="pihla.fi", y_tunnus="1882624-9",
+         omistaja="Pihla Group Oy (ent. Inwido Finland Oy) on osa Tukholman pörssiin listattua ruotsalaista Inwido AB -konsernia, joka omistaa myös Tiivi-brändin."),
+    dict(slug="tiivi", nimi="Tiivi", domain="tiivi.fi", y_tunnus="1882624-9",
+         omistaja="Tiivi on Pihla Group Oy:n brändi (Tiivituote Oy sulautui 1.1.2015) eli sama Inwido AB -konserni kuin Pihlalla — huomioi vertailussa yhteinen omistaja ja Y-tunnus."),
+    dict(slug="skaala", nimi="Skaala", domain="skaala.com", y_tunnus="2656258-9",
+         omistaja="Skaala IFN Oy (Kauhava/Ylihärmä) on kuulunut itävaltalaiseen IFN Holding -konserniin vuodesta 2017 (ei Dovista, kuten joskus luullaan)."),
+    dict(slug="lammin-ikkuna", nimi="Lammin Ikkunat ja Ovet", domain="lammin.fi", y_tunnus="1454666-1",
+         omistaja="Lammin Ikkuna Oy (Hämeenlinnan Lammi, per. 1972) on kokonaan suomalaisomisteinen itsenäinen yhtiö, toimitusjohtajana Hannu Saarinen."),
+    dict(slug="alavus-ikkunat", nimi="Alavus Ikkunat ja Ovet", domain="alavusikkunat.fi", y_tunnus="1796128-9",
+         omistaja="Alavus Ikkunat Oy (per. 2003) on yksityinen kotimainen yhtiö, jonka omistavat mm. Kimmo ja Erno Hautamäki, Tarmo Peltoniemi, Arto Paalanen (tj.) ja Juha Äijänaho; toimipisteitä Alavuden lisäksi Vantaalla, Tampereella ja Turussa."),
+    dict(slug="hr-ikkunat", nimi="HR-Ikkunat", domain="hrikkunat.fi", y_tunnus="1910924-1",
+         omistaja="HR-Ikkunat Oy (ent. HR-Ikkunat Ruhkala Oy, Kalajoen Tynkä) on Ruhkalan suvun kolmannen polven perheyritys, omistajina serkukset Kari ja Ari Ruhkala."),
+    dict(slug="piklas", nimi="Piklas", domain="piklas.fi", y_tunnus="0189227-4",
+         omistaja="Piklas Oy on osa perhetaustaista PRT-Forest-ryhmää: vanha Piklas Oy (1999174-8) sulautui emoyhtiöönsä 28.2.2025 ja emo PRT-Forest Oy otti nimen Piklas Oy (kotipaikka Pyhäntä)."),
+]
+
+# --- lampopumppuasentajat (27.7.2026, Antonin pyyntö, 5 kategorian erä; tutkimusagentti + PRH) ---
+# Renoa asentaa vain ilma-vesilampopumppuja (ei maalampoa) - todettu omistaja-kentassa.
+COMPANIES["lampopumppuasentajat"] = [
+    dict(slug="tomallensenera", nimi="Tom Allen Senera", domain="tomallensenera.fi", y_tunnus="1016410-5",
+         omistaja="Tom Allen Senera Oy (per. 1995, Vantaa) on osa pohjoismaista Assemblin Caverion Group -konsernia (Seneran konserni siirtyi Assemblinille 2021, Assemblin ja Caverion yhdistyivät 2024)."),
+    dict(slug="lampoykkonen", nimi="LämpöYkkönen", domain="lampoykkonen.fi", y_tunnus="2155807-0",
+         omistaja="LämpöYkkönen Oy (per. 2007, kotipaikka Jyväskylä) on suomalainen lämpöpumppuasentaja, jonka vähemmistöomistajaksi (30 %) tuli saksalainen lämmityslaitevalmistaja Viessmann; yhtiöllä on lisäksi Helenin kanssa maalämpöön keskittyvä yhteisyritys."),
+    dict(slug="lampopartio", nimi="Lämpöpartio", domain="lampopartio.fi", y_tunnus="2436191-9",
+         omistaja="Lämpöpartio Oy (per. 2011, kotipaikka Kokkola) on 100-prosenttisesti suomalaisomisteinen perheyhtiö, toimitusjohtaja Vesa Malmberg."),
+    dict(slug="renoa", nimi="Renoa", domain="renoa.fi", y_tunnus="2612804-5",
+         omistaja="Renoa Group Oy on entinen KotiSun-konserni (palvelut yhdistettiin Renoa-nimen alle 2021); CapMan myi yhtiön joulukuussa 2024 toimivalle johdolle, rahoittajina Korpi Capital ja Marko Malmivaaran sijoitusyhtiö."),
+    dict(slug="lampokumppanit", nimi="Lämpökumppanit", domain="lampokumppanit.fi", y_tunnus="3332404-4",
+         omistaja="Lämpökumppanit Oy on nuori (per. n. 2023) yksityisomisteinen suomalainen lämpöpumppuyhtiö, jolla toimipisteet Helsingissä, Tampereella ja Oulussa."),
+    dict(slug="zatap", nimi="Zatap", domain="zatap.fi", y_tunnus="3149597-4",
+         omistaja="Zatap Oy on itsenäinen suomalainen energiaremonttiyhtiö (lämpöpumput ja aurinkosähkö), ei tunnettua emoyhtiötä."),
+    dict(slug="lampovalli", nimi="Lämpö-Valli", domain="lampovalli.fi", y_tunnus="2432031-6",
+         omistaja="Lämpö-Valli Oy on yksityisomisteinen jyväskyläläinen putkiliike, joka toimii kolmella paikkakunnalla (Jyväskylä, Kuopio, Tampere)."),
+    dict(slug="ilpurakointi", nimi="ILP Urakointi", domain="ilpurakointi.fi", y_tunnus="3169601-2",
+         omistaja="ILP Urakointi Oy (aputoiminimi ILP Sähkö) on yksityisomisteinen turkulainen ilmalämpöpumppuasentaja, joka toimii Varsinais-Suomessa ja Uudellamaalla."),
+]

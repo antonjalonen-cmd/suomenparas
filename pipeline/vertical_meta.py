@@ -1433,3 +1433,55 @@ META["urheiluvalineketjut"] = {
          "mitataan noutopisteiden ja toimitustietojen avoimuutena."),
     ],
 }
+
+META["ikkunaremontit"] = {
+    "slug": "ikkunaremontit",
+    "nimi": "Ikkunaremontit",
+    "nav": "Ikkunaremontit",
+    "h1": "Suomen paras ikkunaremontti 2026",
+    "yksikko": "Suomessa toimivaa ikkunaremonttiyritystä",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa ikkunaremonttiyritystä {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "saatko hintatiedon ja takuuehdot ennen kuin annat yhteystietosi?"),
+    "meta_title": "Suomen paras ikkunaremontti 2026 | ikkunaremontit pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} ikkunaremonttiyritystä pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Pihla ja Tiivi ovat saman konsernin brändejä.</b> Molemmat kuuluvat "
+         "ruotsalaiselle Inwido AB:lle (Pihla Group Oy), mutta toimivat eri brändeinä "
+         "eri hinnoilla — vertailemme ne erikseen ja kerromme omistuksen avoimesti."),
+        ("<b>Ala on käynyt läpi konkurssiaallon.</b> Fenestra kaatui jo 2016 ja Domus "
+         "2019 — vertailussa ovat vain yritykset, joiden toiminta on varmistettu "
+         "mittaushetkellä heinäkuussa 2026."),
+        ("<b>Kotitalousvähennys koskee asennustyötä.</b> Ikkunaremontin työn osuudesta "
+         "voi saada kotitalousvähennyksen, ja hyvät toimijat erittelevät työn ja "
+         "materiaalin osuuden tarjouksessa."),
+    ],
+}
+
+META["lampopumppuasentajat"] = {
+    "slug": "lampopumppuasentajat",
+    "nimi": "Lämpöpumppuasentajat",
+    "nav": "Lämpöpumppuasentajat",
+    "h1": "Suomen paras lämpöpumppuasentaja 2026",
+    "yksikko": "Suomessa toimivaa lämpöpumppuasentajaa",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa lämpöpumppuasentajaa {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "kerrotaanko hinnat ja takuut ennen kuin joudut jättämään yhteystietosi?"),
+    "meta_title": "Suomen paras lämpöpumppuasentaja 2026 | lämpöpumppuasentajat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} lämpöpumppuasentajaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Kolme pumpputyyppiä, eri hintaluokat.</b> Ilmalämpöpumppu maksaa satoja "
+         "tai tuhansia, ilma-vesilämpöpumppu ja maalämpö kymmeniä tuhansia euroja. "
+         "Kaikki listan yritykset eivät asenna kaikkia tyyppejä — esimerkiksi Renoa "
+         "keskittyy ilma-vesilämpöpumppuihin."),
+        ("<b>Omistuspohjat vaihtelevat.</b> Markkinajohtaja Tom Allen Senera kuuluu "
+         "pohjoismaiseen Assemblin Caverion Groupiin ja LämpöYkkösestä 30 % omistaa "
+         "laitevalmistaja Viessmann — laitemerkkisidonnaisuus kannattaa tiedostaa "
+         "tarjouksia vertaillessa."),
+        ("<b>Mittaamme sivuston läpinäkyvyyttä, emme asennuslaatua.</b> Pisteet "
+         "kertovat, miten avoimesti yritys kertoo hinnoista, prosessista ja takuista "
+         "verkossa — eivät sitä, kenen poraus onnistuu parhaiten."),
+    ],
+}
