@@ -1368,7 +1368,7 @@ def build_profile(c, pos, v):
   </div>
 
   <div class="ai-note">
-    <span class="tag">AI-YHTEENVETO · CLAUDE HAIKU 4.5 · {v['updated']}</span>
+    <span class="tag">AI-YHTEENVETO · AI-ALGORITMI · {v['updated']}</span>
     <p>{esc(c['yhteenveto'])}</p>
   </div>
 
