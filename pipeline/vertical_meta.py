@@ -1357,3 +1357,54 @@ META["aikakauslehdet"] = {
          "kaupallisen sisällön erottelu."),
     ],
 }
+
+META["huonekaluketjut"] = {
+    "slug": "huonekaluketjut",
+    "nimi": "Huonekaluketjut",
+    "nav": "Huonekaluketjut",
+    "h1": "Suomen paras huonekaluketju 2026",
+    "yksikko": "Suomessa toimivaa huonekaluketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa huonekaluketjua {m} mittarilla: tekninen "
+             "laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö "
+             "hinnat, toimituskulut ja palautusehdot ennen kuin annat tietosi?"),
+    "meta_title": "Suomen paras huonekaluketju 2026 | huonekaluketjut pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} huonekaluketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Miksi Asko ja Sotka eivät ole listalla?</b> Niiden omistaja Indoor Group Oy "
+         "meni konkurssiin helmikuussa 2026 ja myymälät suljettiin. Maskun omistaja osti "
+         "konkurssipesältä pelkät brändit keväällä 2026, ja sotka.fi ohjaa nykyään Maskun "
+         "verkkokauppaan. Emme pisteytä ketjua, jota ei enää ole."),
+        ("<b>Huonekaluissa toimitus ratkaisee.</b> Ison tavaran rahti, kantopalvelu ja "
+         "vanhan kalusteen poisvienti voivat maksaa kymmeniä euroja, ja niiden hintojen "
+         "avoimuus ennen kassaa on tässä kategoriassa painava kriteeri."),
+        ("<b>IKEA mitataan ikea.com/fi-sivustolta.</b> IKEAlla ei ole erillistä .fi-domainia, "
+         "vaan suomenkielinen kauppa toimii globaalin sivuston alla."),
+    ],
+}
+
+META["elektroniikkaketjut"] = {
+    "slug": "elektroniikkaketjut",
+    "nimi": "Elektroniikkaketjut",
+    "nav": "Elektroniikkaketjut",
+    "h1": "Suomen paras elektroniikkaketju 2026",
+    "yksikko": "Suomessa toimivaa elektroniikkaketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa kodintekniikan ja elektroniikan ketjua {m} "
+             "mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein "
+             "kysymys: näetkö kokonaishinnan toimituskuluineen ja palautusehdot ennen ostoa?"),
+    "meta_title": "Suomen paras elektroniikkaketju 2026 | elektroniikkaketjut pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} elektroniikkaketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Ketjujen taustat vaihtelevat.</b> Gigantti kuuluu brittiläiseen Currys-konserniin, "
+         "Power norjalaiseen Power Internationaliin, Jimm's saksalaiseen Casekingiin ja "
+         "Proshop palvelee Suomea Tanskasta — Verkkokauppa.com ja Multitronic ovat "
+         "suomalaisia. Omistus kerrotaan jokaisen ketjun sivulla."),
+        ("<b>Proshopilla ei ole suomalaista Y-tunnusta.</b> Se myy Suomeen tanskalaisena "
+         "verkkokauppana, mikä on laillista mutta tarkoittaa, että kuluttajansuoja-asiat "
+         "hoidetaan tanskalaisen yhtiön kanssa."),
+        ("<b>Emme vertaile tuotehintoja.</b> Mittaamme sivuston läpinäkyvyyttä: näkyvätkö "
+         "hinnat, toimituskulut ja palautusehdot ennen sitoutumista — emme sitä, kummalta "
+         "telkkarin saa halvemmalla."),
+    ],
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "masku",
+  "fetched_ok": [
+    "https://www.masku.com/",
+    "https://www.masku.com/tuotteet",
+    "https://www.masku.com/asiakaspalvelu",
+    "https://www.masku.com/kuljetuspalvelut",
+    "https://www.masku.com/vaihdot-ja-palautukset",
+    "https://www.masku.com/takuu",
+    "https://www.masku.com/yleiset-ehdot"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Tuotehinnat ja toimituskulut ovat selkeasti esillä jo tuoteluettelossa ja ostoskorissa ennen maksamista",
+    "Kattavat toimitusvaihtoehdot ja -hinnat eriteltyina (kotiinkuljetus 39€ alkaen, nouto ilmaista, monipuoliset lisapalvelut kuten kasaus ja vanhojen poisvienti)",
+    "Laaja asiakaspalvelun saatavuus puhelimitse arkipäivät 9-18 ja usein kysytyt kysymykset sekä chat/WhatsApp-palvelu mainittu"
+  ],
+  "kehityskohteet": [
+    "Sähköpostiosoite ei ole suoraan näkyvillä, vaan asiakkaan pitaa käyttää yhteydenottolomaketta asiakaspalveluun",
+    "Myymälöiden tiedot ja aukioloajat eivät ole yhdessä listassa vaan niiden löytäminen vaatii klikkausta Valitse myymälä -painikkeelta",
+    "Riippumattomista arvioista tai asiakaskokemuksista ei ole mainintaa verkkosivuilla"
+  ],
+  "yhteenveto": "Maskun verkkosivuilla tuotteiden hinnat, toimitustiedot ja palautusehdot ovat helposti löydettävät ja hyvin eriteltyinä. Asiakaspalvelu on tavoitettavissa puhelimitse ja chat-palvelun kautta, ja sivustolla on kattava FAQ-osio. Toimitusvaihtoehdot ovat monipuoliset alkaen edullisista noutovaihtoehdoista kotiinkuljetukseen aina kasaus- ja poisvientipalveluihin asti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat ovat näkyvillä tuoteluettelossa /tuotteet-sivulla esimerkiksi 199 eurosta 599 euroon, hintatakuu 30-100 pv mainittu",
+    "toimitus_kerrottu": "HAVAINTO: /kuljetuspalvelut-sivulla eritellään kuljetus kotiinkuljetuksena alkaen 39 eurosta huonekaluille, 9 eurosta pienille tuotteille, noutoa myymälästä ilmaiseksi, Matkahuolto-vaihtoehdot, Posti Kotipaketti, kasauspalvelu ja vanhojen poisvienti saatavilla",
+    "palautusehdot_saatavilla": "HAVAINTO: /vaihdot-ja-palautukset-sivulla 14 vuorokauden palautusoikeus, tuotteen tulee olla käyttämätön ja alkuperäispakkauksessa, yksityiskohtaiset poikkeukset ja arvonalennuksista mainitaan",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Etusivulla Valitse myymälä -painike, /asiakaspalvelu-sivulla mainittu 43 myymälän kattava verkosto, aukioloajat MA-PE 9-18 asiakaspalvelulle ja MA-PE 10-20 LA 10-18 SU 11-18 myynnille",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0583816-0 mainittu /yleiset-ehdot-sivulla tekstissä Maskun Kalustetalo Oy:n perustiedoissa",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomista arviolähteistä (kuten Trustpilot, Google-arviot, lehtien arviot) ei ole mainintaa verkkosivuilla, koska sivustolla ei ole erityistä arvosteluosaa tai viittauksia kolmannen osapuolen arviointiin"
+  }
+}

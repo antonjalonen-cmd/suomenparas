@@ -1,0 +1,54 @@
+{
+  "slug": "jysk",
+  "fetched_ok": [
+    "https://jysk.fi/",
+    "https://jysk.fi/customer-service",
+    "https://jysk.fi/customer-service/Kuljetus-ja-toimitus",
+    "https://jysk.fi/myymalat",
+    "https://jysk.fi/makuuhuone/sängyt",
+    "https://jysk.fi/olohuone/sohvat",
+    "https://jysk.fi/tietoa-jyskista",
+    "https://jysk.fi/checkout"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät selvästi kategoria- ja tuotesivuilla myös alennusprosentein ja vertailuhinnoilla",
+    "Laaja asiakaspalvelu saatavilla puhelimitse, chatissa ja Messengerissä selkeillä aukioloajoilla",
+    "Palautusoikeus ilman aikarajaa ja 30 päivän hintatakuu sekä noutamismahdollisuus myymälöistä"
+  ],
+  "kehityskohteet": [
+    "Toimitus- ja rahtikulujen tarkat hinnat eivät näy etukäteen, vaan ne paljastunevat vain kassalla tai FAQ-osioista",
+    "Y-tunnus tai yritysrekisteröinnin tiedot eivät ole julkisesti näkyvissä verkkosivuilla",
+    "Sähköpostiosoite asiakaspalveluun puuttuu - vain B2B-yhteystiedot ovat näkyvissä"
+  ],
+  "yhteenveto": "JYSK on laaja kotihuonekaluketju, jonka verkkosivut näyttävät hinnat, palautus- ja vaihto-oikeudet sekä myymälätiedot selvästi. Asiakaspalveluun pääsee helposti puhelimitse ja chatissa. Toimitus- ja noutovaihtoehdot mainitaan, mutta tarkat kustannukset vaatisivat näkymisen kassalla etukäteen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät selvästi tuotekuvien ja kuvausten yhteydessä, mukaan lukien normaalihinta ja alennettu hinta sekä prosentuaalinen alennus (esim. '600,- /SETTI', 'Normaalihinta: 1199,-').",
+    "toimitus_kerrottu": "HAVAINTO: Asiakaspalvelun Kuljetus ja toimitus -osio listaa kysmyksiä 'Kuinka paljon tuotteiden toimitus maksaa?' ja 'Miten verkkokauppatilaukseni toimitetaan?', mutta vastauksia ei renderöidy sivulle ilman klikkaamista. Myös checkout-sivulla mainitaan palautusoikeus verkon kautta.",
+    "palautusehdot_saatavilla": "HAVAINTO: Checkout-sivulla näkyy 'Palautusoikeus ilman aikarajaa' ja 'Voit tehdä palautuksen joko suoraan myymälässä tai verkkokaupan kautta'. Myös '30 päivän hintatakuu ostoksillesi' on ilmoitettu.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Sivustolla on /myymalat-sivu jossa voi hakea myymäläään. Asiakaspalvelusivulla näkyvät aukioloajat: Arkisin 10-18, Lauantaisin 10-16. Myymälöiden löytymiseen ohjataan omalla linkillä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus ei ole näkyvissä sivustolla. Näkyvissä on ainoastaan yritysnimi JYSK Oy ja osoite Pakkalankuja 6, 01510 Vantaa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy viittauksia kolmannen osapuolen arviointipalveluihin tai riippumattomiin arvioihin.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero +358 44 410 0590 näkyy useilla sivuilla, myös asiakaspalvelusivulla selvästi esille tuotuna.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteen jäljellä on vain B2B-yhteydenotto yritysmyynti@JYSK.com. Kuluttaja-asiakkaiden sähköpostiosoitetta ei ole näkyvissä - asiakaspalveluun ohjataan puhelimitse tai chatissa.",
+    "chat_mainittu": "HAVAINTO: Sivustolla mainitaan chat-palvelu: 'Chattaa kanssamme Messengerissä' ja 'Live chat'. Palvelun saatavuus näkyy asiakaspalvelusivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelujen aukioloajat näkyvät: Arkisin 10-18, Lauantaisin 10-16. Myymälöiden aukioloaikojen löytämiseen ohjataan linkillä omalle sivulle.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelusivulla on laaja 'Usein kysytyt kysymykset' -osio, joka kattaa kategoriat: kuljetus, myymälät, palautukset, tuotekysymykset ja verkkokauppaan liittyviä asioita."
+  }
+}

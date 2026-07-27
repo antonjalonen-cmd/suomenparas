@@ -1,0 +1,50 @@
+{
+  "slug": "jimms",
+  "fetched_ok": [
+    "https://www.jimms.fi/",
+    "https://www.jimms.fi/fi/Info/Contact",
+    "https://www.jimms.fi/fi/Info/Returns",
+    "https://www.jimms.fi/fi/Info/FAQ"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Tuotehinnat ovat selkeästi näkyvissä kaikilla tuotesivuilla, ja verkkosivuilla on laaja valikoima komponentteja ja valmiita pelikoneita.",
+    "Toimitusehdot ja -ajat ovat hyvin dokumentoitu FAQ-osiossa ja tuotesivuilla, myös eri toimitusvaihtoehdot on kuvattu selkeästi.",
+    "Asiakaspalvelu on helposti tavoitettavissa usealla tavalla: puhelimella, sähköpostilla ja chatilla rekisteröityneille asiakkaille, palvelu toimii 7-23."
+  ],
+  "kehityskohteet": [
+    "Riippumattoman arviolähteen (esim. asiakastarkistukset tai kolmannen osapuolen arvioinnit) puuttuminen heikentää luotettavuuden näyttöä.",
+    "Toimitustavat-sivu palauttaa 404-virheen, joten tietoa täytyy etsiä FAQ-osiosta ja tuotesivuilla, mikä hankaloittaa löytämistä.",
+    "Mobiilisovellusta ei ole mainittu ollenkaan, joten ostaminen on mahdollista vain verkkosivuilla."
+  ],
+  "yhteenveto": "Jimm's on suomalaisketju, joka myy tietokoneita, komponentteja ja pelivarustetta verkkokaupan ja Turusta löytyvän myymälän kautta. Verkkosivusto on selkeä ja tuotehinnat ovat näkyvissä, toimitusehdot ja palautusoikeudet (30 päivää) ovat hyvin dokumentoitu, ja asiakaspalvelu on saavutettavissa monella tavalla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy useita tuotteita hintojen kanssa, esim. Asus ROG Strix monitori 899,90 euroa, Gigabyte RTX 5080 näytönohjain 1 259,90 euroa, Jimm's pelikoneet 1 359,00 eurosta.",
+    "toimitus_kerrottu": "HAVAINTO: Etusivulla mainittu 'TOIMITUS ALKAEN 0€ Yli 50 €:n tilauksiin'. FAQ-sivulla kuvattu toimitusajat: varastotuotteet 1-4 työpäivää, GtG-pelikoneet 1-4 arkipäivää, Gamer-paketit 1-4 viikkoa.",
+    "palautusehdot_saatavilla": "HAVAINTO: Takuut ja palautukset -sivu sisältää 30 päivän palautusoikeuden, kolmen vuoden kasaustakuun pelikoneille, ja linkit yksityiskohtaisiin ehtoihin. Asiakkaat voivat täyttää palautuslomakkeen online-sivulla.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Turku-myymälä sijaitsee Lukkosepänkatu 7, 20320 Turku. Aukioloajat: ma-pe 11:00-19:00, la 10:00-16:00. Myymälässä vain kortti- ja mobiilimaksu.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy Y-Tunnus: FI08859514, sekä yhtiön nimi Jimm's PC-Store Oy ja pääkonttorin osoite.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä riippumatonta arviolähdettä tai asiakasarvioita.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero +358 29 70 70700 on näkyvissä useissa paikoissa: etusivu, yhteystiedot-sivu ja FAQ.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@jimms.fi ja yritysmyynti@jimms.fi ovat näkyvissä kaikilla tärkeimmillä sivuilla.",
+    "chat_mainittu": "HAVAINTO: Etusivulla mainitaan 'Kirjaudu ja chattaa kanssamme' rekisteröityneille asiakkaille. Yhteystiedot-sivulla todetaan 'Rekisteröityneet asiakkaat tavoittavat meidät myös chatissa'.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat ma-su 7.00-23.00 ovat näkyvissä useissa paikoissa. Myymälän aukioloajat ma-pe 11:00-19:00, la 10:00-16:00.",
+    "ukk_osio": "HAVAINTO: Laaja FAQ-sivu (Usein kysytyt kysymykset) sisältää 6 pääosiota: pelikoneet, tilaukset, maksaminen, ongelmatilanteet, sponsorointi ja muut kysymykset, joissa on yhteensä noin 30 kysymystä-vastaus-paria."
+  }
+}

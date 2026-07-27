@@ -88,6 +88,7 @@ CATEGORY_GROUPS = [
         ("Kattoremontit", "kattoremontit", True), ("Muuttopalvelut", "muuttopalvelut", True),
         ("Siivouspalvelut", "siivouspalvelut", True), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
         ("Tavaransäilytys", "tavaransailytys", True), ("Rautakaupat", "rautakaupat", True),
+        ("Huonekaluketjut", "huonekaluketjut", True), ("Elektroniikkaketjut", "elektroniikkaketjut", True),
         ("Rakennusliikkeet", None, False), ("Maalausliikkeet", None, False),
         ("Ikkunaremontit", None, False), ("Keittiöremontit", None, False),
         ("Lukkoliikkeet", None, False), ("Kodinkonehuolto", None, False),

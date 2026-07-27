@@ -1,0 +1,51 @@
+{
+  "slug": "stemma",
+  "fetched_ok": [
+    "https://www.stemma.fi/",
+    "https://www.stemma.fi/pages/asiakaspalvelu",
+    "https://www.stemma.fi/pages/usein-kysytyt-kysymykset",
+    "https://www.stemma.fi/pages/verkkokaupan-toimitustavat-ja-palvelukuvaukset",
+    "https://www.stemma.fi/pages/maksutavat-ja-rahoitus"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Kattavat toimitusvaihtoehdot selvillä hinnoilla: kotiinkuljetus 69-89 euroa, myymälöiden nouto maksutonta",
+    "Asiakaspalvelu helppokäyttöinen: puhelin, sähköposti, verkkokaavake, chat-palvelu ja laaja FAQ-osio",
+    "Palautuskäytäntö selkeä ja kuluttajaystävällinen: 14 päivän paluuoikeus käyttämättömille tuotteille, prosessi dokumentoitu"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus puuttuu julkiselta verkkosivulta, mikä vaikeuttaa yritystietojen tarkistamista",
+    "Myymälöiden aukioloajat eivät ole verkkokaupan palvelutietojen yhteydessä näkyvissä, vain pääpalvelujen tunnit (Ma-pe 8:30-16:00)",
+    "Mobiilisovellusta ei ole tarjolla, vaikka se parantaisi asiakastiedon saatavuutta"
+  ],
+  "yhteenveto": "Stemma on paikallisten yrittäjien omistama suomalainen huonekaluketju, jolla on verkkokauppa ja myymälöitä ympäri maata. Sivusto tarjoaa selkeästi hinnat, toimitusvaihtoehdot kustannuksineen ja palautuskäytännöt. Yritys on sertifioitu Avainlipulla, joka osoittaa sitoutumisen kotimaiseen kauppaan. Puutteita ovat omien yritystietojen (Y-tunnus) väheneminen ja myymälöiden kohtaisisten aukioloaikojen puuttuminen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät etusivulla ja tuotesivuilla. Esimerkiksi sänkyjen hinnat 699-2080 euroa, sohvien 899-1096 euroa.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitustavat ja -kulut on selkeästi kuvattu sivulla /pages/verkkokaupan-toimitustavat-ja-palvelukuvaukset. Kotiinkuljetus ulko-ovelle 69 euroa, sisälle 89 euroa, myymälöiden nouto 0 euroa, pientoimitus 20 euroa.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautuskäytäntö löytyy asiakaspalvelun sivulta ja FAQ:sta. Teksti: 'Sinulla on oikeus palauttaa käyttämätön tuote 14 päivän kuluessa tilauksen toimituksesta, vastaanottamispäivä pois lukien.'",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälät on lueteltu navigaatiossa alueittain (Etelä-Suomi, Lounais-Suomi, jne.), ja sivulla mainita 'Myymälät-sivulta löydät listan kaikista Stemma-myymälöistä'. Myymälöiden yksittäisiä aukioloaikoja ei ole näkyvissä verkkosivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Stemman omaa Y-tunnusta ei löydy julkisella verkkosivulta. Sivuilla esiintyy vain maksupalveluntarjoaja Svean Y-tunnus (2121703-0).",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla mainitaan Avainlippu-tunnus: 'Tästä osoituksena Stemmalle on myönnetty Avainlippu-tunnus.' Avainlippu on suomalaisen kaupan sertifiointiohjelma.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 040 864 4507 näkyy asiakaspalvelusivulla ja jokaisen sivun alaosassa. Palvelut Ma-pe 8:30-16:00.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite verkkokauppa@stemma.fi on näkyvissä asiakaspalvelusivulla ja sivun alaosassa.",
+    "chat_mainittu": "HAVAINTO: FAQ-sivulla mainitaan chat-palvelu: 'Stemman verkkosivuilla sinua auttaa reaaliaikainen chat-asiakaspalvelu, joka palvelee arkisin klo 8-22 ja viikonloppuisin klo 10-81.'",
+    "aukioloajat_esilla": "HAVAINTO: Verkkokaupan palveluajat näkyvät selvästi: Ma-pe 8:30-16:00. Myymälöiden kohtaiset aukioloajat puuttuvat.",
+    "ukk_osio": "HAVAINTO: Sivulla /pages/usein-kysytyt-kysymykset on kattava FAQ-osio, joka käsittelee verkkokauppaa, maksutapoja, toimittusta ja palautuksia."
+  }
+}

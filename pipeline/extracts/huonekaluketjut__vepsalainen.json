@@ -1,0 +1,55 @@
+{
+  "slug": "vepsalainen",
+  "fetched_ok": [
+    "https://www.vepsalainen.com/fi/fi",
+    "https://www.vepsalainen.com/fi/fi/sohvat/",
+    "https://www.vepsalainen.com/fi/fi/palvelut/toimitukset/",
+    "https://www.vepsalainen.com/fi/fi/info/palautus/",
+    "https://www.vepsalainen.com/fi/fi/myymalat/",
+    "https://www.vepsalainen.com/fi/fi/info/usein-kysytyt-kysymykset/",
+    "https://www.vepsalainen.com/fi/fi/info/maksuvaihtoehdot/",
+    "https://www.vepsalainen.com/fi/fi/info/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 87,
+    "sisallon_kattavuus": 79
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät selkeasti kaikilla tuotesivuilla ja tuoteluetteloissa ennen ostoprosessin alkamista.",
+    "Laaja myymäläverkko (13+ paikkakuntaa) jokaisen liikkeen täydellisillä aukioloajoilla ja yhteystiedoilla esillä.",
+    "Toimitusehdot ja -kulut kerrotaan yksityiskohtaisesti etukäteen: ilmainen toimitus yli 100 eurosta, 6,90 euroa pienemmille tilauksille, sekä useat noutovaihtoehdot (myymälä, Posti, Postnord, Matkahuolto)."
+  ],
+  "kehityskohteet": [
+    "Sivustolla ei ole linkkejä riippumattomiin arviointipalveluihin (kuten Trustpilot tai Google Reviews), joten asiakkaiden kokemuksista ei ole keskitettyä lähdettä.",
+    "Live-chat-tukea ei tarjota, vaikka sähköpostin ja puhelimen kautta voi ottaa yhteyttä.",
+    "Mobiilisovellusta ei ole saatavilla verkkokaupan selaamiselle ja ostamiselle."
+  ],
+  "yhteenveto": "Vepsäläinen on suuri suomalainen huonekaluketju, joka tarjoaa hyvää läpinäkyvyyttä hintoihin, toimitukseen ja palautusehdoista. Hinnat näkyvät selkeästi kaikilla tuotesivuilla, toimitusvaihtoehdot ja niiden kustannukset ilmoitetaan ennen kassaa, ja 30 päivän palautusoikeus on selkeästi esillä. Laaja myymäläverkko ja kattava FAQ-osio tukevat asiakkaiden itsepalvelua.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotesivuilla hinnat näkyvät selkeästi (esim. BoConcept hoitoaine 67,00 €, Kave Home sohva 1139,00 € / 1340,00 €). Tuoteluettelossa kaikilla tuotteilla on hinta näkyvissä.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitukset-sivulla kerrotaan yksityiskohtaisesti kaikki kuljetusvaihtoehdot ja niiden kulut: ilmainen toimitus yli 100 € tilauksissa, muussa tapauksessa 6,90 €. Lisäksi tarjolla nouto Postin, Postnordin, Matkahuollon pisteistä ja Vepsäläisen myymälöistä.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautus-sivulla selkeästi mainittu 30 päivän ilmainen palautus. Sivulla kuvataan palautusperusteet (käyttämätön tuote, alkuperäinen pakkaus), palautustapa (myymälään tai postitse) ja maksujen palautus (60 päivässä palautusilmoituksesta).",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälät-sivulla listataan 13+ paikkakuntaa (Espoo, Helsinki, Jyväskylä, Kuopio, Lahti, Lappeenranta, Oulu, Raisio, Rovaniemi, Tampere, Vaasa, Vantaa, Tallinna). Jokaiselle myymälälle näkyvät täydelliset aukioloajat (ma-su) ja puhelinnumerot.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2111755-8 näkyy tietosuojaselosteessa rekisterinpitäjä-osassa: 'Vepsäläinen Oy, Y-tunnus: 2111755-8, Juvankartanontie 11, 02920 ESPOO'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia riippumattomiin arviointipalveluihin (Trustpilot, Google Reviews, tms.). Asiakkaiden arviot eivät ole saatavilla keskitetystä lähteestä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät jokaisen myymälän tiedoissa myymälät-sivulla (esim. +358 20 7801 470 Espoo Kehä III) ja Tietosuojaselosteessa asiakaspalvelun puhelinnumero 020 7801 471.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet näkyvät myymälöiden yhteystiedoissa (esim. [email protected]) ja Tietosuojaselosteessa asiakasrekisteri-asioiden sähköposti.",
+    "chat_mainittu": "HAVAINTO: FAQ-osiossa mainitaan tilaamisesta puhelimitse tai sähköpostilla, mutta live-chat-tukea ei ole saatavilla. Sivustolla ei ole chat-ikkunaa tai viittausta chat-tukeen.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvät myymälät-sivulla jokaisen liikkeen kohdalla ma-su aikatauluja. Esim. Espoo Kehä III: ma-pe 11:00-19:00, la 10:00-17:00, su 12:00-17:00.",
+    "ukk_osio": "HAVAINTO: 'Usein kysytyt kysymykset' -sivu on olemassa osoitteessa /fi/fi/info/usein-kysytyt-kysymykset/. Sivulla on 20+ kysymystä ja vastaussetta, kuten noutamisesta, hinnoista, rahoituksesta, toimituksesta ja tuotteiden ominaisuuksista.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla ei mainita mobiilisovellusta. FAQ:ssa ei ole viitettä sovellukseen, eikä sovelluskauppojen linkkejä näy missään."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "verkkokauppa",
+  "fetched_ok": [
+    "https://www.verkkokauppa.com/fi/etusivu",
+    "https://www.verkkokauppa.com/fi/palvelut",
+    "https://www.verkkokauppa.com/fi/catalog/phones-and-tablets/puhelimet-tabletit-ja-kellot",
+    "https://www.verkkokauppa.com/fi/catalog/information-technology/tietotekniikka",
+    "https://www.verkkokauppa.com/fi/tunnin-toimitus",
+    "https://www.verkkokauppa.com/fi/outlet/yksittaiskappaleet",
+    "https://asiakaspalvelu.verkkokauppa.com/hc/fi"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät selkeästi kategoriasivuilla ja tuotesivuilla JavaScript-renderöinnin jälkeen",
+    "Toimitusvaihtoehdot ovat monipuoliset: tunnin toimitus Woltin kautta 6.99 eurolla tai tavallinen kotiintuonti, myös myymälänouto mahdollinen",
+    "Joustavat maksuvaihtoehdot: 120 päivän maksuaikakampanja, rahoituspalvelut ja Verkkokauppa.com-tili maksaville asiakkaille"
+  ],
+  "kehityskohteet": [
+    "Palautus- ja takuuehdoista puuttuvat selkeät tiedot pääsivuilla; yksityiskohdat sijaitsevat asiakaspalvelusivuilla, jotka ovat bot-suojatut (Cloudflare 403)",
+    "Y-tunnus ja yrityksen tarkat tunnistetiedot eivät näy verkkokaupan etusivuilla tai pääsivuilla, vain copyright-merkintä Oyj-muodossa",
+    "Myymälöiden osoitteet ja aukioloajat eivät ole koottuna yhteen paikkaan pääsivuilla; tiedot hajallaan eri sivuilla"
+  ],
+  "yhteenveto": "Verkkokauppa.com on Suomen suurin elektroniikkaketju, joka tarjoaa laajaa tuotevalikoimaa selkeästi jäsennellyssä verkkokaupassa. Tuotteiden hinnat ja monipuoliset toimitusoptiot ovat hyvin näkyviä, samoin kuin joustavat maksuvaihtoehdot mukaan lukien kahdeksankymmentä päivän maksuaikakampanja. Palautus- ja takuuehdoista sekä yritystiedoista puuttuvat kuitenkin kokonaisvaltaiset ja helposti saatavilla olevat selitykset, ja nämä tiedot on sijoitettu bot-suojattujen asiakaspalvelusivujen taakse.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät kategoriasivuilla JavaScript-renderöinnin jälkeen. Esimerkiksi puhelimet-tabletit-kellot-kategoriasivulla näkyy Apple Watch SE 3 hintaan 249,00 euroa, Apple iPad 11\" hintaan 529,00 euroa ja Samsung Galaxy Tab hintaan 1099,00 euroa.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusvaihtoehdot on kerrottu selkeästi. Sivulla https://www.verkkokauppa.com/fi/tunnin-toimitus kerrotaan Wolt-kumppanuudesta ja tunnin toimituksesta 6,99 euron hintaan. Kategoriasivu mainitsee myös tunnin toimituksesta 4,99 euron hintaan. Outletin yksittäiskappalesivulla mainitaan tuotteiden myytävän ainoastaan toimitettuina, maksettavaksi etukäteen.",
+    "palautusehdot_saatavilla": "HAVAINTO: Outletin yksittäiskappalesivulla kerrotaan palautusoikeuksista: kuluttajilla 14 päivää ja tuotteille annetaan vähintään 6 kuukauden toimivuustakuu. Sivulla mainitaan sopimusehdot, mutta yksityiskohtaiset palautus- ja takuuehdot sijaitsevat asiakaspalvelusivuilla, jotka ovat Cloudflare-suojatut (HTTP 403). Pääsivuilla palautusehdoista ei ole selkeitä tietoja.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Asiakaspalvelusivulla (asiakaspalvelu.verkkokauppa.com/hc/fi) mainitaan myymälät sijaitsevat Helsingissä, Pirkkalassa, Oulussa ja Raisiossa. Tunnin toimitussivulla mainitaan Helsinki-toimitus 24/7, mutta yksittäisten myymälöiden aukioloajat ja tarkat osoitteet eivät ole näkyvissä pääsivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näy pääsivuilla. Sivuilla esiintyy ainoastaan copyright-merkintä copyright 1992-2026 Verkkokauppa.com Oyj.",
+    "riippumatan_arvio": "HAVAINTO: Riippumattomia arviolähteita (kuten Trustpilot tai Google-arvioita) ei näy verkkokaupan omilla sivuilla. Sivuilla esiintyy ainoastaan sisäiset tuotearvostelujen ja käyttäjäkommenttien järjestelmät.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelusivulla mainitaan, että asiakaspalvelijat auttavat mielellään tarvittaessa, mutta chat-palvelua ei ole mainittu tai linkitetty pääsivuilla. Yhteydenotto näyttää rajoittuvan asiakaspalvelusivuille, jotka ovat bot-suojatut."
+  }
+}

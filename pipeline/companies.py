@@ -1240,3 +1240,43 @@ COMPANIES["aikakauslehdet"] = [
 # enaa itsenaista verkkosivustoa jota voisi mitata erillaan Helsingin Sanomista
 # (lehti itsessaan elaa tilaa.sanoma.fi-katalogissa). Ei mitata toisen median
 # sivustoa taman nimissa.
+
+# --- huonekaluketjut (26.7.2026, Antonin pyyntö) ------------------------------
+# Y-tunnukset: PRH v3 + Asiakastieto/Proff 26.7.2026.
+# EXCLUDED: Asko ja Sotka — Indoor Group Oy meni konkurssiin helmikuussa 2026,
+# myymälät suljettiin ja Toivo Sukari (Maskun omistaja) osti pelkät brändit
+# konkurssipesältä maalis-huhtikuussa 2026 (Yle 74-20211430). sotka.fi ohjautuu
+# jo masku.comiin. Kuolleita ketjuja ei pisteytetä.
+COMPANIES["huonekaluketjut"] = [
+    dict(slug="ikea", nimi="IKEA", domain="ikea.com", y_tunnus="2149172-6",
+         omistaja="IKEA Oy — Ingka Group (Alankomaat/Ruotsi); Suomessa myymälät ja verkkokauppa ikea.com/fi"),
+    dict(slug="jysk", nimi="JYSK", domain="jysk.fi", y_tunnus="1000514-7",
+         omistaja="JYSK OY — Lars Larsen Group (Tanska)"),
+    dict(slug="isku", nimi="Isku", domain="isku.fi", y_tunnus="0148884-5",
+         omistaja="Isku-Yhtymä Oy — perheomisteinen suomalainen (Lahti, per. 1928)"),
+    dict(slug="masku", nimi="Masku", domain="masku.com", y_tunnus="0583816-0",
+         omistaja="Maskun Kalustetalo Oy (Toivo Sukari) — osti Asko- ja Sotka-brändit Indoor Groupin konkurssipesältä keväällä 2026"),
+    dict(slug="vepsalainen", nimi="Vepsäläinen", domain="vepsalainen.com", y_tunnus="2111755-8",
+         omistaja="Vepsäläinen Oy — suomalainen design-huonekalujen ketju (per. 1926)"),
+    dict(slug="stemma", nimi="Stemma", domain="stemma.fi", y_tunnus="0250671-8",
+         omistaja="Stemma Oy — itsenäisten kauppiaiden suomalainen ketju"),
+]
+
+# --- elektroniikkaketjut (26.7.2026, Antonin pyyntö) --------------------------
+# Y-tunnukset: PRH v3 + Asiakastieto 26.7.2026. Jimm's: Lounea ja tj myivät koko
+# osakekannan saksalaiselle Casekingille 2018 (muropaketti.com). Proshop toimii
+# Suomessa Tanskasta käsin ilman suomalaista Y-tunnusta.
+COMPANIES["elektroniikkaketjut"] = [
+    dict(slug="gigantti", nimi="Gigantti", domain="gigantti.fi", y_tunnus="1523846-8",
+         omistaja="Gigantti Oy Ab — Elkjøp Nordic / Currys plc (Iso-Britannia)"),
+    dict(slug="verkkokauppa", nimi="Verkkokauppa.com", domain="verkkokauppa.com", y_tunnus="1456344-5",
+         omistaja="Verkkokauppa.com Oyj — suomalainen pörssiyhtiö (Helsinki)"),
+    dict(slug="power", nimi="Power", domain="power.fi", y_tunnus="0993774-8",
+         omistaja="Power Finland Oy — Power International AS (Norja)"),
+    dict(slug="jimms", nimi="Jimm's PC-Store", domain="jimms.fi", y_tunnus="0885951-4",
+         omistaja="Jimm's PC-store Oy — Caseking GmbH (Saksa) osti 2018; PC-komponenttien erikoisliike (Turku)"),
+    dict(slug="multitronic", nimi="Multitronic", domain="multitronic.fi", y_tunnus="1008670-9",
+         omistaja="Multitronic Oy — suomalainen (Vaasa, per. 1994)"),
+    dict(slug="proshop", nimi="Proshop", domain="proshop.fi", y_tunnus=None,
+         omistaja="Proshop A/S (Tanska) — palvelee Suomea proshop.fi-verkkokaupalla ilman myymälöitä"),
+]

@@ -1,0 +1,54 @@
+{
+  "slug": "isku",
+  "fetched_ok": [
+    "https://www.isku.fi/",
+    "https://www.isku.fi/collections/sohvat",
+    "https://www.isku.fi/policies/refund-policy",
+    "https://www.isku.fi/policies/terms-of-service",
+    "https://www.isku.fi/policies/privacy-policy",
+    "https://www.isku.fi/pages/myymalat",
+    "https://www.isku.fi/pages/asiakaspalvelu",
+    "https://www.isku.fi/pages/usein-kysytyt-kysymykset"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Yksityiskohtaiset toimitusehdot ja palautuskäytännöt ovat selkeästi saatavilla erillisillä politiikkasivuilla",
+    "Hinta-arvo näkyy tuotteen tasolla, toimituskulut lasketaan ennen kassaa ja lisäpalvelut (noutaminen, kierrätys) on hinnoiteltu",
+    "Monipuolinen asiakaspalvelu puhelimen ja sähköpostin kautta, sekä kattava FAQ-osio"
+  ],
+  "kehityskohteet": [
+    "Myymälöiden aukioloajat ja paikkatiedot eivät ole staattisesti nähtävissä vaan vaativat interaktiivisen kartan käytön",
+    "Riippumatonta arviointilähdettä ei ole esillä, vaikka Judge.me-integraatio tuotteiden arvosteluille on olemassa",
+    "Ei chat-tukea asiakaspalvelussa, vain puhelin ja sähköposti"
+  ],
+  "yhteenveto": "ISKU Koti on 100-vuotias suomalainen perheomisteinen huonekaluketju, joka myy tuotteita sekä verkkokaupassa että fyysisesti kahdeksalla myymälällä. Verkkosivusto tarjoaa kattavat tuotetiedot selkein hinnoittelulla ja yksityiskohtaiset palveluehdot (toimitus, palautus, takuu), mutta myymälöiden aukioloajat ja paikkatiedot edellyttävät interaktiivisen paikantimen käyttöä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat esillä kaikissa kokoelmissa. Esimerkiksi sohvien kokoelmassa näkyvät hinnat 999-3495 euroon, toimituskulut lasketaan erillään.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitustavat (kotiinkuljetus, noutaminen myymälästä, Postin paketti) ja kulut kuvattu Sopimus- ja toimitusehdot -sivulla ja kassalla ennen tilauksen vahvistamista. Lisäpalveluiden (kierrätys, asennus, kantopalvelu) hinnoittelu ilmoitetaan ennen tilauksen vahvistusta.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautusehdot yksityiskohtaisesti kuvattu /policies/refund-policy-sivulla. Palautusoikeus 30 päivää ostosta, hygienia- ja intiimituotteiden palautus vain avaamattomassa pakkauksessa. Palautuskulut asiakkaan vastuulla, joiden määrä vähennetään hyvityksestä.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälät listattu osoitteella /pages/myymalat, jolla on interaktiivinen paikantaja. Kotiinkuljetuksesta, noutamisesta ja myymälöiden aukioloajoista puhutaan Sopimus- ja toimitusehdot -sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1831496-4 (ISKU Koti Oy) esillä Sopimus- ja toimitusehdot -sivulla (pvm 7.1.2026 alkaen). Lisäksi Isku-Yhtymä Oy:n Y-tunnus 0148884-5 esillä Tietosuojaseloste-sivulla rekisterinpitäjän tietoja ilmoitettaessa.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arviointipalvelua ei ole esillä sivuston pääsisällöissä. Judge.me-integraatio on käytössä tuotteiden arvosteluille, mutta se ei ole riippumaton arviointipalvelu vaan Iskun oma arvostelupalvelu.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 029 086 3000 näkyy jokaisen sivun alaosassa. Numero ohjeistettu olevan paikallisverkkomaksu kotimaan lankaliittymästä tai matkapuhelumaksu matkapuhelinliittymästä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@isku.fi ilmoitettu asiakaspalvelun sivulla verkkokauppaan liittyville kysymyksille.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu asiakaspalvelun sivulla tai muilla sivuilla. Yhteydenotto on mahdollista vain puhelimitse ja sähköpostitse.",
+    "aukioloajat_esilla": "HAVAINTO: Myymälöiden aukioloajat ja kontaktitiedot löytyvät osoitteesta /pages/myymalat ja ovat saatavilla myymälän sivulla. Lisäksi käyttöehdoissa mainitaan noutotilauksien käsittely ja varastointi 14 vuorokauden ajan.",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -osio on saatavilla osoitteessa /pages/usein-kysytyt-kysymykset. Osio sisältää 13 kysymystä tilauksen käsittelyyn, toimitusten seurantaan ja palautuksiin liittyen."
+  }
+}
