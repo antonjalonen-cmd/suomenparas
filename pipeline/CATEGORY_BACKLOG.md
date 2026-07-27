@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (49 kpl, 26.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (51 kpl, 27.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -17,7 +17,8 @@ autovuokraamot, rengasliikkeet, kuntosalit, optikot, hammaslaakarit,
 yksityislaakarit, lakifirmat, pakohuoneet, hautaustoimistot, tavaransailytys,
 matkatoimistot, tilitoimistot, fysioterapia, autopesulat, tapahtumaliput,
 apteekkien-verkkokaupat, rautakaupat, kattoremontit, tyonvalityspalvelut,
-silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketjut.
+silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketjut,
+urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
@@ -47,7 +48,7 @@ silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketju
 - [~] pesulapalvelut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
 - [~] kukkakauppojen-verkkokaupat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
-- [~] urheiluvalineketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — XXL, Intersport, Budget Sport (Kesko x2), Stadium, Partioaitta, Varuste.net, Scandinavian Outdoor; Sportia jätetty pois (ei näyttöä elävästä valtakunnallisesta ketjusta)
+- [x] urheiluvalineketjut — julkaistu 27.7.2026 (päätyösessio; 7 ketjua, portit OK; Partioaitta #1 78,2; Stadium 57,2 sisältösivut HTTP 500; 3 ohutta uusittu; Sportia pois)
 - [x] huonekaluketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua, portit OK; Masku #1 81,5; Asko+Sotka KARSITTU: Indoor Group konkurssi 2/2026, Sukari/Masku osti brändit, sotka.fi ohjaa masku.comiin)
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
 - [x] elektroniikkaketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua + Proshop ilman fi-Y-tunnusta; Jimm's #1 81,6, Verkkokauppa.com vasta 58,8 tavoitettavuus 22,5)
