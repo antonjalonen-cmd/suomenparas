@@ -225,7 +225,9 @@
     "Riippumaton ulkopuolinen arviointi, auditoinit tai sertifioinnit puuttuvat kokonaan",
     "Mobiilisovellusta ei ole olemassa eikä sitä mainita sivustolla"
    ],
-   "yhteenveto": "Halvinsähkösopimus.fi on Optolead Oy:n hallinnoima sähkövertailupalvelu, joka tarjoaa ilmaisen kilpailutusjärjestelmän yli 11 sähköyhtiölle koko Suomessa. Palvelu rahoitetaan sähköyhtiöiden provisioilla ilman maksuja käyttäjille, ja se on selkeästi rakennettu kattavilla suodatusvalinnoilla sekä laajalla tukisisällöllä. Korkea asiakastyytyväisyys (4,5/5 tähteä, 789 arvostelua) heijastaa palvelun toimivuutta ja käytettävyyttä."
+   "yhteenveto": "Halvinsähkösopimus.fi on Optolead Oy:n hallinnoima sähkövertailupalvelu, joka tarjoaa ilmaisen kilpailutusjärjestelmän yli 11 sähköyhtiölle koko Suomessa. Palvelu rahoitetaan sähköyhtiöiden provisioilla ilman maksuja käyttäjille, ja se on selkeästi rakennettu kattavilla suodatusvalinnoilla sekä laajalla tukisisällöllä. Korkea asiakastyytyväisyys (4,5/5 tähteä, 789 arvostelua) heijastaa palvelun toimivuutta ja käytettävyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "sahkonhinta",
@@ -440,7 +442,9 @@
     "Saavutettavuuseloste todentaa puutteita taulukkojen rakenteessa ja näppäimistökäytössä",
     "Asiakasarvioiden tai kolmannen osapuolen riippumattomien arviointien puute"
    ],
-   "yhteenveto": "Energiaviraston ylläpitämä virallinen sähkönhintavertailupalvelu, joka tarjoaa neutraalia vertailutyökalua kaikille sähkönmyyjille tasapuolisen näkyvyyden kanssa. Palvelu on maksuton ja kattaa kaikki yleisesti tarjolla olevat sähkötuotteet. Käyttäjät voivat verrata hintatietoja postinumeron ja vuosikulutuksen perusteella, ja palvelussa on kattava FAQ-osio energiatehokkuudesta ja sopimustyypeistä. Vertailutulokset vaativat JavaScriptin renderöintiä."
+   "yhteenveto": "Energiaviraston ylläpitämä virallinen sähkönhintavertailupalvelu, joka tarjoaa neutraalia vertailutyökalua kaikille sähkönmyyjille tasapuolisen näkyvyyden kanssa. Palvelu on maksuton ja kattaa kaikki yleisesti tarjolla olevat sähkötuotteet. Käyttäjät voivat verrata hintatietoja postinumeron ja vuosikulutuksen perusteella, ja palvelussa on kattava FAQ-osio energiatehokkuudesta ja sopimustyypeistä. Vertailutulokset vaativat JavaScriptin renderöintiä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "vertaaensin",
@@ -652,7 +656,9 @@
     "Ei selkeästi ilmoitettuja aukioloaikoja tai pikaresponssitakuuta",
     "Asiakasarviota ei ole merkitty selkeällä lähteellä (mahdollisesti sisäiset arvostelut)"
    ],
-   "yhteenveto": "VertaaEnsin.fi on Alma Median omistama sähkövertailupalvelu, joka vertaa yli 70 sopimusta 40+ sähköyhtiöltä. Palvelu on ilmainen, sitoumukseton ja selkeästi perustuva yhteistyökumppaneiden palkkioihin. Kilpailutusproses on helppokäyttöinen ja hinnat näkyvät ilman yhteydenottotietoja, mutta asiakaspalvelun tavoittaminen rajoittuu sähköpostiin."
+   "yhteenveto": "VertaaEnsin.fi on Alma Median omistama sähkövertailupalvelu, joka vertaa yli 70 sopimusta 40+ sähköyhtiöltä. Palvelu on ilmainen, sitoumukseton ja selkeästi perustuva yhteistyökumppaneiden palkkioihin. Kilpailutusproses on helppokäyttöinen ja hinnat näkyvät ilman yhteydenottotietoja, mutta asiakaspalvelun tavoittaminen rajoittuu sähköpostiin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "kilpailuttaja",
@@ -859,7 +865,9 @@
     "Asiakasarvion lähde (4,72) ei näkyvissä sivuilla – avoin kenen antama, moneenko perusteella",
     "Hakijoiden kattavuuden raja epäselvä: sanotaan '15 yhtiötä', mutta ei listattu, ovatko Fortum, Vattenfall, Helen jne. kaikki mukana"
    ],
-   "yhteenveto": "Kilpailuttaja.fi on Energy Brokers Finland Oy:n maksuton sähkövertailupalvelu, joka näyttää 49 konkreetin hintaa 15 sähköyhtiöltä. Hinnat ovat näkyvissä ilman yhteydenottotietoja, ja vertailu on selkeä. Ongelmana on avoin ansaintamalli (provisioista ei mainintaa), asiakasarvion lähteen epäselvyys ja kahden vuosikymmenen kokemus (600 k sopimusta) herättää luottamusta mutta riippumattomuutta ei ole ilmoitettu."
+   "yhteenveto": "Kilpailuttaja.fi on Energy Brokers Finland Oy:n maksuton sähkövertailupalvelu, joka näyttää 49 konkreetin hintaa 15 sähköyhtiöltä. Hinnat ovat näkyvissä ilman yhteydenottotietoja, ja vertailu on selkeä. Ongelmana on avoin ansaintamalli (provisioista ei mainintaa), asiakasarvion lähteen epäselvyys ja kahden vuosikymmenen kokemus (600 k sopimusta) herättää luottamusta mutta riippumattomuutta ei ole ilmoitettu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "valovirta",
@@ -1070,7 +1078,9 @@
     "Vertailuihin kuuluvien sähköyhtiöiden lista ei ole helposti saatavilla ilman vertailutyökalun käyttöä",
     "Asiakaspalvelun puhelinnumeroa ei ole näkyvissä, vain sähköpostiosoite"
    ],
-   "yhteenveto": "Valovirta on EnCoHub Oy:n operoimaa itsenäistä sähkösopimusten vertailupalvelua, joka yhdistää kuluttajien todellisia kulutustietoja Fingrid Datahubin kautta ja reaaliaikaisia sähköpörssin markkinahintoja antaakseen yksilöllisiä hinnaennusteita ja sopimuksia. Palvelu ei myy näkyvyyttä sähköyhtiöille, vaan saa tulonsa tehdyistä sopimuksista syntyneistä provisioista. Ansaintamalli ja riippumattomuus on avattu selvästi asiakaspalvelu- ja affiliate-sivuilla."
+   "yhteenveto": "Valovirta on EnCoHub Oy:n operoimaa itsenäistä sähkösopimusten vertailupalvelua, joka yhdistää kuluttajien todellisia kulutustietoja Fingrid Datahubin kautta ja reaaliaikaisia sähköpörssin markkinahintoja antaakseen yksilöllisiä hinnaennusteita ja sopimuksia. Palvelu ei myy näkyvyyttä sähköyhtiöille, vaan saa tulonsa tehdyistä sopimuksista syntyneistä provisioista. Ansaintamalli ja riippumattomuus on avattu selvästi asiakaspalvelu- ja affiliate-sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "sahkovertailu",
@@ -1281,7 +1291,9 @@
     "Asiakaspalvelu saatavilla vain sähköpostitse, puhelintukea ei ole",
     "Kolmannen osapuolen arvosteluja (esim. Trustpilot) ei näy sivulla"
    ],
-   "yhteenveto": "Sähkövertailu.fi on Effortia Oy:n tarjoama ilmainen sähkösopimuksien kilpailutus- ja vertailupalvelu, joka listaa 55 suomalaista sähköyhtiötä ja niiden tarjouksia. Palvelu on läpinäkyvä ansaintamallinsa osalta (provisio jokaisesta sopimuksesta) ja tarjoaa kattavaa tietoa sähkösopimusten tyypeistä, hintavertailusta ja energiasta. Asiakaspalvelu on saatavilla vain sähköpostitse, puhelintukea ei ole."
+   "yhteenveto": "Sähkövertailu.fi on Effortia Oy:n tarjoama ilmainen sähkösopimuksien kilpailutus- ja vertailupalvelu, joka listaa 55 suomalaista sähköyhtiötä ja niiden tarjouksia. Palvelu on läpinäkyvä ansaintamallinsa osalta (provisio jokaisesta sopimuksesta) ja tarjoaa kattavaa tietoa sähkösopimusten tyypeistä, hintavertailusta ja energiasta. Asiakaspalvelu on saatavilla vain sähköpostitse, puhelintukea ei ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "sahkonkilpailutus-com",
@@ -1496,7 +1508,9 @@
     "Ansaintamalli ei kerrottu - miten palvelu rahoitetaan?",
     "Yhteistyökumppanien valintakriteerit eivät ole julkisesti selitetty"
    ],
-   "yhteenveto": "Sähkön-kilpailutus.com on WebCube Oy:n ylläpitämä maksutonta sähkösopimusten vertailupalvelu, jolla on 5.0 tähden Google-arvostelut. Palvelu mahdollistaa vertailun ilman pakollista henkilötietojen antamista ja tarjoaa kattavaa sisältöä sähkömarkkinoista. Rajoitus: vertailussa ovat vain valitut yhteistyökumppanit, eikä palvelun ansaintamalli ole selitetty julkisesti."
+   "yhteenveto": "Sähkön-kilpailutus.com on WebCube Oy:n ylläpitämä maksutonta sähkösopimusten vertailupalvelu, jolla on 5.0 tähden Google-arvostelut. Palvelu mahdollistaa vertailun ilman pakollista henkilötietojen antamista ja tarjoaa kattavaa sisältöä sähkömarkkinoista. Rajoitus: vertailussa ovat vain valitut yhteistyökumppanit, eikä palvelun ansaintamalli ole selitetty julkisesti.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "valitseparas",
@@ -1711,7 +1725,9 @@
     "Usein kysytyt kysymykset -sivu ei toimi (HTTP 404) navigaatiosta huolimatta",
     "Vertailussa mukana olevat sähköyhtiöt näkyvät vain JavaScript-sisällössä"
    ],
-   "yhteenveto": "ValitseParas.fi on vuonna 2026 julkaistu ilmainen sähkösopimuksien vertailupalvelu, jonka takana on Valo Sales Oy. Sivusto tarjoaa helppokäyttöisen vertailutyökalun ja kattavaa koulutussisältöä sopimuksista, mutta tärkeät tiedot kuten vertailussa mukana olevien yhtiöiden lista ovat saavuttamattomissa staattikoolla. Asiakaspalvelu toimii vain sähköpostitse ilman puhelinnumeroa tai määriteltyjä aukioloaikoja."
+   "yhteenveto": "ValitseParas.fi on vuonna 2026 julkaistu ilmainen sähkösopimuksien vertailupalvelu, jonka takana on Valo Sales Oy. Sivusto tarjoaa helppokäyttöisen vertailutyökalun ja kattavaa koulutussisältöä sopimuksista, mutta tärkeät tiedot kuten vertailussa mukana olevien yhtiöiden lista ovat saavuttamattomissa staattikoolla. Asiakaspalvelu toimii vain sähköpostitse ilman puhelinnumeroa tai määriteltyjä aukioloaikoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "sahkon-kilpailutus",
@@ -1926,7 +1942,9 @@
     "Puhelinnumero puuttuu yhteystiedoista",
     "Vertailuun kuuluvien sähköyhtiöiden lista ei ole näkyvissä"
    ],
-   "yhteenveto": "Sähkön-kilpailutus.fi on Comperion Oy:n ylläpitämä ilmainen sähkösopimuksien vertailupalvelu, joka on toiminut vuodesta 2019. Palvelun vahvuuksina ovat selkeä käyttöliittymä, kattavat tiedot eri sopimustyypeistä ja läpinäkyvä ansaintamalli yhteistyökumppaneiden palkkioista. Kehitettävää on hintojen esille tuomisessa ennen lomakkeen täyttöä sekä kilpailevien yhtiöiden eksplisiittisessä listaamisessa."
+   "yhteenveto": "Sähkön-kilpailutus.fi on Comperion Oy:n ylläpitämä ilmainen sähkösopimuksien vertailupalvelu, joka on toiminut vuodesta 2019. Palvelun vahvuuksina ovat selkeä käyttöliittymä, kattavat tiedot eri sopimustyypeistä ja läpinäkyvä ansaintamalli yhteistyökumppaneiden palkkioista. Kehitettävää on hintojen esille tuomisessa ennen lomakkeen täyttöä sekä kilpailevien yhtiöiden eksplisiittisessä listaamisessa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "17.7.2026",

@@ -1,0 +1,53 @@
+{
+  "slug": "helsingin-sanomat",
+  "fetched_ok": [
+    "https://www.hs.fi/",
+    "https://www.hs.fi/tilaa",
+    "https://www.hs.fi/yhteystiedot",
+    "https://www.hs.fi/periaatteet",
+    "https://www.hs.fi/info"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "kylla",
+  "mainonta_eroteltu": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "tilaushinta_eur_kk": 12.42,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 72
+  },
+  "vahvuudet": [
+    "Tilaushinnat selkeästi näkyvissä tilaa-sivulla useilla vaihtoehtoilla ja kampanjahinnalla",
+    "Vastaava päätoimittaja ja laaja toimituksen johtoryhmä nimetty, sähköpostiosoitteet saatavilla henkilökohtaisesti",
+    "Yksityiskohtainen oikaisupyyntöjen käytäntö kuvattu: sähköpostiosoite, prosessi ja periaatteet selkeästi neuvottu"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei näkyvissä HS.fi-sivuilla, vain julkaisija Sanoma Media Finland Oy mainittu; verkonhaussa paljastuu tiedon olevan saatavilla, mutta ei lukijan kannalta helppo löytää",
+    "Kaupallisen sisällön erottelu journalismista ei ole selkeästi kuvattu: mainonta näkyy sivuilla mutta merkinnät ja periaatteet eivät ole näkyvästi esillä",
+    "JSN-jäsenyyttä tai muita riippumattomia arviolähteitä ei mainittu HS.fi-sivuilla, vaikka Journalistin ohjeiden noudattaminen on mainittu"
+  ],
+  "yhteenveto": "Helsingin Sanomat on merkittävä suomalainen uutismedia, joka kertoo hinnoittelusta ja maksullisuudesta selkeästi tilaa-sivulla ja nimeää vastaavan päätoimittajan sekä toimituksen johtoon kuuluvat henkilöt. Oikaisupyynnöille on kuvattu selkeä prosessi ja yhteystiedot ovat helposti saatavilla. Yhtiö kuuluu Sanoman omistamaan konserniineen, mutta Y-tunnusta ei ole näkyvissä HS.fi-sivuilla, ja kaupallisen sisällön erottelusta puuttuvat yksityiskohtaiset kuvaukset.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Tilaa-sivulla listattu neljä päätilausvaihtoehtoa: HS Digi alkaen 12,42 €/kk, HS Digi+ 14,90 €/kk, painettu lehti 39,90 €/kk, HS +Kaikki 27,90 €/kk. Kaikille hinnat näkyvillä, normaalihinta ja kampanjahinta eritelty.",
+    "paatoimittaja_esilla": "HAVAINTO: Yhteystiedot-sivulla nimetty vastaava päätoimittaja Erja Yläjärvi, päätoimittaja Antero Mukka, ja viisi toimituspäällikköä. Henkilöstölle annettu sähköpostiosoitteet muodossa etunimi.sukunimi@hs.fi.",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: Yhteystiedot-sivulla kuvattu 'Näin HS oikaisee mahdolliset virheet' -osio. HS noudattaa Journalistin ohjeita ja sananvapauslakia. Virheet korjataan viivytyksettä, oikaisupyyntö lähetetään osoitteeseen oikaisut@hs.fi. Verkosisällöissä virheet korjataan alkuperäistä muuttamalla, painettussa lehdessä vakiintuneella oikaisuja-palstalla.",
+    "mainonta_eroteltu": "HAVAINTO: Sivustolla näkyy mainontaa, mutta merkinnät ja erottelu journalismista puuttuvat. HS Visio mainitaan sisältöosioiden joukossa, mutta sen kaupallinen luonne tai sponsorointiperiaatteet eivät ole selkeästi kuvattu. Mainonnan kohdentamisen periaatteista löytyy tietoa vain Sanoman yleisissä tietosuojakäytännöissä, ei HS.fi-sivustolla.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla mainittu julkaisija 'Sanoma Media Finland Oy', mutta Y-tunnusta ei ole näkyvissä. Postiosoite PL 75, 00089 SANOMA annettu.",
+    "riippumaton_arvio": "HAVAINTO: Periaatteet-sivulla mainittu Journalistin ohjeita noudattaminen ja sananvapauslakia. JSN-jäsenyyttä tai ulkoista auditoijaa ei mainittu HS.fi-sivustolla.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla puhelinvaihde (09) 1221 listattu.",
+    "email_esilla": "HAVAINTO: Useat sähköpostiosoitteet: oikaisut@hs.fi oikaisuille, hs.online@hs.fi palautteelle, toimittajakohtaiset etunimi.sukunimi@hs.fi, osastokohtaiset kuten hs.auto@hs.fi, hs.politiikka@hs.fi jne.",
+    "chat_mainittu": "HAVAINTO: Chatia tai live-tukea ei mainittu HS.fi-sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole listattu.",
+    "ukk_osio": "HAVAINTO: Info-sivulla mainittu 'Usein kysytyt kysymykset', mutta linkki johtaa 404-virheeseen.",
+    "mobiilisovellus": "HAVAINTO: Etusivun alalaidassa mainittu 'Lataa sovellus – se on paras tapa kokea Helsingin Sanomat' sekä Info-sivulla viittaus iOS- ja Android-sovellusten ohjeisiin. App-kaupasta löytyy Helsingin Sanomat -sovellus."
+  }
+}

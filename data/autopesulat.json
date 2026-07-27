@@ -226,7 +226,9 @@
     "Dynaamiset sisällöt eivät lataudu - FAQ-osio, palaute- ja yrityksille-sivut eivät näytä sisältöä staattisella kyselyllä",
     "Asiakastuen yhteystiedot rajalliset - Ainoastaan SOK:n päävaihde (010 76 8011) ja tietosuojavastaavan sähköposti saatavilla, ei erillistä autopesun asiakaspalvelun numeroa"
    ],
-   "yhteenveto": "ABC Carwash on SOK ABC-ketjuohjauksen ylläpitämä autopesuverkosto, jolla on useita pesupisteitä ympäri Suomea. Verkkosivustolla kuvataan monipuoliset pesuprogrammat, luetellaan asemat ja aukioloajat, sekä tarjotaan ostos ABC-mobiili -sovelluksen kautta. Yksittäisten pesuperusohjelmien hinnat eivät ole julkisesti näkyvillä verkkosivulla, vaan ne löytyvät vain mobiilisovelluksesta."
+   "yhteenveto": "ABC Carwash on SOK ABC-ketjuohjauksen ylläpitämä autopesuverkosto, jolla on useita pesupisteitä ympäri Suomea. Verkkosivustolla kuvataan monipuoliset pesuprogrammat, luetellaan asemat ja aukioloajat, sekä tarjotaan ostos ABC-mobiili -sovelluksen kautta. Yksittäisten pesuperusohjelmien hinnat eivät ole julkisesti näkyvillä verkkosivulla, vaan ne löytyvät vain mobiilisovelluksesta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "korrek-pro-center",
@@ -441,7 +443,9 @@
     "Y-tunnus ja muut yritystiedot eivät ole julkisesti esillä pääsivustolla",
     "Mobiilisovellusta ei ole mainittu, FAQ-osio puuttuu (usein-kysyttyja-sivu palauttaa 404)"
    ],
-   "yhteenveto": "KORREK Pro Center on vuonna 2022 perustettu autonhoitoalan franchise-ketja, joka omistaa Berner Oy. Verkkosivusto on hyvin organisoitu ja tarjoaa selkeästi hinnat, palvelut, toimipisteet ja aukioloajat. Ajanvaraus on mahdollista verkossa sekä puhelimitse. Sivustolta puuttuvat kuitenkin riippumattomat asiakasarviot, Y-tunnus, mobiilisovellus ja FAQ-osio."
+   "yhteenveto": "KORREK Pro Center on vuonna 2022 perustettu autonhoitoalan franchise-ketja, joka omistaa Berner Oy. Verkkosivusto on hyvin organisoitu ja tarjoaa selkeästi hinnat, palvelut, toimipisteet ja aukioloajat. Ajanvaraus on mahdollista verkossa sekä puhelimitse. Sivustolta puuttuvat kuitenkin riippumattomat asiakasarviot, Y-tunnus, mobiilisovellus ja FAQ-osio.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "carwash",
@@ -653,7 +657,9 @@
     "Verkkokaupan puuttuessa lahjakortteja voi ostaa vain paikanpäällä palvelupisteissä, ei netissä",
     "Mobiilisovellusta tai chat-tukea ei mainita sivuston missään osiossa"
    ],
-   "yhteenveto": "Carwash on Suomen suurin autopesula-franchise, jolla on 13+ palvelupistettä pääkaupunkiseudulla ja Tampereella. Sivusto esittelee kattavasti palveluita ja pesuohjelmia sekä mahdollistaa online-varaukset ja tarjoaa kuukausipaketteja. Hinnoittelun täydellinen näkyminen vaatii joko pakettivalinnan tai puhelinyhteydenottoa."
+   "yhteenveto": "Carwash on Suomen suurin autopesula-franchise, jolla on 13+ palvelupistettä pääkaupunkiseudulla ja Tampereella. Sivusto esittelee kattavasti palveluita ja pesuohjelmia sekä mahdollistaa online-varaukset ja tarjoaa kuukausipaketteja. Hinnoittelun täydellinen näkyminen vaatii joko pakettivalinnan tai puhelinyhteydenottoa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "st1",
@@ -867,7 +873,16 @@
     "Y-tunnus ei näkyvissä julkisesti verkkosivuilla",
     "Riippumattomia asiakasarvioita tai palautteista ei ole nähtävissä sivustolla"
    ],
-   "yhteenveto": "St1 Autopesu on suuri pesuverkosto 65 asemalla ympäri Suomea. Verkkosivut tarjoavat selkeät hinnat (19,90–44,90€) ja yksityiskohtaiset kuvaukset viidestä pesuohjelmasta. Online-ostaminen on mahdollista pesukoodien muodossa, joita voi käyttää kaikilla asemilla viiden kuukauden ajan. Sivuston pääheikkous on vaillinainen tieto pesupaikoista: vaikka sanotaan olevan 65 asemaa, niiden tarkka sijainti ja aukioloajat ovat huonosti dokumentoidut."
+   "yhteenveto": "St1 Autopesu on suuri pesuverkosto 65 asemalla ympäri Suomea. Verkkosivut tarjoavat selkeät hinnat (19,90–44,90€) ja yksityiskohtaiset kuvaukset viidestä pesuohjelmasta. Online-ostaminen on mahdollista pesukoodien muodossa, joita voi käyttää kaikilla asemilla viiden kuukauden ajan. Sivuston pääheikkous on vaillinainen tieto pesupaikoista: vaikka sanotaan olevan 65 asemaa, niiden tarkka sijainti ja aukioloajat ovat huonosti dokumentoidut.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "St1",
+    "paivakatselut_ka": 37,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'St1' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "gowash",
@@ -1081,7 +1096,9 @@
     "Ei omaa mobiilisovellusta tai chat-palvelua – asiakaspalvelu saavutettavissa vain puhelimitse tai sähköpostilla",
     "FAQ-osio puuttuu – yleisiä kysymyksiä ei ole dokumentoitu sivulle, vaikka pesuohjeissa käsitellään joitain perusasioita"
    ],
-   "yhteenveto": "GoWash on monipaikkainen autopesuketju, joka tarjoaa joustavaa kuukausijäsenyyttä alkaen 19,99 eurosta sekä kertapesuja 14,99 eurosta. Hinnoittelun ja toimipisteiden tiedot ovat selkeästi esillä, ja pesuohjelmien sisältö on kuvattu. Palveluiden tilaaminenkaan ei ole täysin online-pohjaista, vaan vaatii käytännön käyntiä sopimuksen allekirjoitukseen."
+   "yhteenveto": "GoWash on monipaikkainen autopesuketju, joka tarjoaa joustavaa kuukausijäsenyyttä alkaen 19,99 eurosta sekä kertapesuja 14,99 eurosta. Hinnoittelun ja toimipisteiden tiedot ovat selkeästi esillä, ja pesuohjelmien sisältö on kuvattu. Palveluiden tilaaminenkaan ei ole täysin online-pohjaista, vaan vaatii käytännön käyntiä sopimuksen allekirjoitukseen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "neste",
@@ -1296,7 +1313,16 @@
     "Y-tunnus puuttuu ja asiakaspalveluun ei ole suoraa sähköpostiosoitetta autopesupalveluille",
     "Chat-palvelu tai live-tuki ei ole mainittu – asiakaspalveluun voi ottaa yhteyttä vain puhelimitse (0200 80100)"
    ],
-   "yhteenveto": "Neste tarjoaa laajaa autopesutarjontaa Easy Wash -automaattiasemat sekä säännölliset Neste-autopesut kautta koko Suomessa. Easy Wash-asemat toimivat 24/7 ja tarjoavat joustavaa kuukausi- tai vuosihinnoittelua alkaen 24,90 eurosta kuukaudessa. Pesuohjelmat on kuvattu selkeästi ja sovellus helpottaa tilauksien hallintaa. Hintatietojen löydettävyys on heikko verkkosivuilla, sillä yksittäisten pesupaikkojen hinnat määritetään asemakohtaisesti."
+   "yhteenveto": "Neste tarjoaa laajaa autopesutarjontaa Easy Wash -automaattiasemat sekä säännölliset Neste-autopesut kautta koko Suomessa. Easy Wash-asemat toimivat 24/7 ja tarjoavat joustavaa kuukausi- tai vuosihinnoittelua alkaen 24,90 eurosta kuukaudessa. Pesuohjelmat on kuvattu selkeästi ja sovellus helpottaa tilauksien hallintaa. Hintatietojen löydettävyys on heikko verkkosivuilla, sillä yksittäisten pesupaikkojen hinnat määritetään asemakohtaisesti.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Neste (yritys)",
+    "paivakatselut_ka": 35,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Neste (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "carstation",
@@ -1511,7 +1537,9 @@
     "Kohtuullisen usein kysyttyjen kysymysten osio puuttuu",
     "Ei mobiilisovellusta eikä riippumattomia asiakasarvioita linkitettynä"
    ],
-   "yhteenveto": "CarStation on kolmen kauppakeskuksen pesupiste (Espoo, Helsinki, Turku), joka tarjoaa käsin pesiä autopesupalveluita. Sivusto on selkeä ja tarjoaa helposti löydettävät toimipisteen tiedot, puhelinnumerot ja sähköpostiosoitteet, sekä online-ajanvarausmahdollisuuden. Pääasiallinen heikkous on, että pesun hinnat eivät ole julkisesti näkyvissä ilman ajanvarauslomakkeella tehtäviä valintoja."
+   "yhteenveto": "CarStation on kolmen kauppakeskuksen pesupiste (Espoo, Helsinki, Turku), joka tarjoaa käsin pesiä autopesupalveluita. Sivusto on selkeä ja tarjoaa helposti löydettävät toimipisteen tiedot, puhelinnumerot ja sähköpostiosoitteet, sekä online-ajanvarausmahdollisuuden. Pääasiallinen heikkous on, että pesun hinnat eivät ole julkisesti näkyvissä ilman ajanvarauslomakkeella tehtäviä valintoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "23.7.2026",

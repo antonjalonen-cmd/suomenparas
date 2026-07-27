@@ -1112,7 +1112,7 @@ COMPANIES["rautakaupat"] = [
     dict(slug="bauhaus", nimi="Bauhaus", domain="bauhaus.fi", y_tunnus="1580679-5",
          omistaja="Bauhaus & Co. Ky — osa saksalaista Bauhaus-konsernia, myymälät useissa kaupungeissa"),
     dict(slug="puuilo", nimi="Puuilo", domain="puuilo.fi", y_tunnus="2726573-8",
-         omistaja="Puuilo Oyj — pörssiyhtiö, yli 40 myymälää valtakunnallisesti"),
+         omistaja="Puuilo Oyj — pörssiyhtiö, yli 40 myymälää; kauppaa operoi tytäryhtiö Puuilo Tavaratalot Oy (2431081-2), jonka Y-tunnus näkyy sivustolla"),
     dict(slug="taloon", nimi="Taloon.com", domain="taloon.com", y_tunnus="1870108-3",
          omistaja="Bygghemma Finland Oy — verkkokauppa, osa ruotsalaista BHG Groupia"),
     dict(slug="byggmax", nimi="Byggmax", domain="byggmax.fi", y_tunnus="2132241-2",
@@ -1187,4 +1187,30 @@ COMPANIES["silmasairaalat"] = [
          omistaja="Mehiläinen Oy — valtakunnallinen, silmäkirurgiaa Helsingissä, Jyvaskylass, Kuopiossa, Tampereella, Vaasassa ja Oulussa"),
     dict(slug="pihlajalinna", nimi="Pihlajalinna (Pohjola Sairaala)", domain="pihlajalinna.fi", y_tunnus="2617455-1",
          omistaja="Pihlajalinna Oyj — pörssilistattu; silmäkirurgia Pohjola Sairaalan kautta Helsingissä ja muilla paikkakunnilla"),
+]
+
+# --- uutismediat (26.7.2026, Antonin pyyntö: mediavertailu) -------------------
+# Yksiköt ovat YKSITTÄISIÄ MEDIOITA (lehti/uutispalvelu), eivät konserneja —
+# siksi sama julkaisija voi esiintyä kahdesti (Sanoma: HS+IS, Alma: IL+KL).
+# Omistus näytetään avoimesti omistaja-kentässä. Y-tunnukset PRH v3 26.7.2026.
+# MTV: Telia myi Schibsted Medialle, kauppa toteutui 1.7.2025.
+# Kaleva: Kaleva Media ja Ilkka-yhtymä yhdistivät medialiiketoimintansa
+# yhteisyhtiöön 1.1.2026 (Kaleva 65 %, Ilkka 35 %).
+COMPANIES["uutismediat"] = [
+    dict(slug="helsingin-sanomat", nimi="Helsingin Sanomat", domain="hs.fi", y_tunnus="1515901-4",
+         omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — Suomen suurin tilattava sanomalehti (per. 1889)"),
+    dict(slug="ilta-sanomat", nimi="Ilta-Sanomat", domain="is.fi", y_tunnus="1515901-4",
+         omistaja="Sanoma Media Finland Oy (Sanoma Oyj) — sama julkaisija kuin Helsingin Sanomilla"),
+    dict(slug="iltalehti", nimi="Iltalehti", domain="iltalehti.fi", y_tunnus="0869288-1",
+         omistaja="Alma Media Finland Oy (Alma Media Oyj) — sama konserni kuin Kauppalehdella"),
+    dict(slug="kauppalehti", nimi="Kauppalehti", domain="kauppalehti.fi", y_tunnus="0869288-1",
+         omistaja="Alma Media Finland Oy (Alma Media Oyj) — talousmedia (per. 1898); sama konserni kuin Iltalehdella"),
+    dict(slug="yle-uutiset", nimi="Yle Uutiset", domain="yle.fi", y_tunnus="0215438-8",
+         omistaja="Yleisradio Oy — julkisen palvelun media, rahoitus Yle-verolla, eduskunnan valvonnassa"),
+    dict(slug="mtv-uutiset", nimi="MTV Uutiset", domain="mtvuutiset.fi", y_tunnus="1093944-1",
+         omistaja="MTV Oy — Schibsted Media (Norja) osti Telialta, kauppa toteutui 1.7.2025"),
+    dict(slug="turun-sanomat", nimi="Turun Sanomat", domain="ts.fi", y_tunnus="0141911-0",
+         omistaja="TS-Yhtymä Oy — perheomisteinen (Ketonen), Suomen vanhin edelleen ilmestyvä päivälehti (per. 1904)"),
+    dict(slug="kaleva", nimi="Kaleva", domain="kaleva.fi", y_tunnus="2715049-8",
+         omistaja="Kaleva Media Oy — Kaleva Media ja Ilkka-yhtymä yhdistivät medialiiketoimintansa 1.1.2026 (Kaleva 65 %, Ilkka 35 %)"),
 ]

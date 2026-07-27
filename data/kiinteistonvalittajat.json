@@ -224,6 +224,8 @@
     "Kirjalliset usein kysytyt kysymykset (UKK) puuttuvat – sivusto viittaa FAQ:hin mutta piilottaa sisällön ajanvarauspalvelun taakse"
    ],
    "yhteenveto": "Bo LKV on Suomen suurimmista kiinteistönvälityspalveluista 16 toimistolla ja yli 250 ammattilaisella. Sivusto tarjoaa kattavan palvelukuvauksen ja helpot yhteystiedot kaikkiin toimistoihin, mutta ei julkaise palkkioprosentteja eikä sopimusehdot ole verkon kautta luettavissa. Palveluiden hinta- ja ostoehtojen tarkastelu vaatii suoraa kontaktointia asiakaspalveluun.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -447,7 +449,9 @@
     "Toimipisteiden tiedot ja aukioloajat eivät ole saatavilla pääsivustolla, vaativat alueen valintaa",
     "Ei FAQ-osio tai asiakkaiden usein kysymillä vastauksilla"
    ],
-   "yhteenveto": "OP Koti on OP Pohjolan omistama kiinteistönvälityspalvelu, joka operoi federaatiomallin mukaisesti ~19 alueellisen yhtiön kautta. Pääsivusto tarjoaa selkeän palvelukuvauksen ja laajat digitaaliset palvelut, mutta välityspalkkiot ja alueelliset tiedot löytyvät ainoastaan kunkin alueen yhtiöiden omilta sivuilta. Yhteystiedot ja perusalliset ehdot ovat helposti saatavilla."
+   "yhteenveto": "OP Koti on OP Pohjolan omistama kiinteistönvälityspalvelu, joka operoi federaatiomallin mukaisesti ~19 alueellisen yhtiön kautta. Pääsivusto tarjoaa selkeän palvelukuvauksen ja laajat digitaaliset palvelut, mutta välityspalkkiot ja alueelliset tiedot löytyvät ainoastaan kunkin alueen yhtiöiden omilta sivuilta. Yhteystiedot ja perusalliset ehdot ovat helposti saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "kiinteistomaailma",
@@ -661,6 +665,8 @@
     "UKK-osio puuttuu; asiakasvastaukset voitaisiin organisoida paremmin usein esitettyjen kysymysten osalta"
    ],
    "yhteenveto": "Kiinteistömaailma on Suomen suurin kiinteistönvälitysketju, jolla on yli 100 myymälää ja 500+ ammattilaista. Sivusto kuvaa palveluita selkeästi ja näyttää välityspalkkion (5,0%) avoimesti palveluhinnasto-sivulla. Sopimuksenehdot ovat saatavilla, mutta sivuston navigaatio on hieman haastava (client-side routing), ja joitakin tärkeitä tietoja kuten Y-tunnus ja välittäjäkohtaiset yhteystiedot puuttuvat tai ovat piilossa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -669,7 +675,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla kiinteistomaailma.fi/vastuullisuus todetaan: 'Toimimme aktiivisesti Kiinteistönvälitysalan Keskusliiton Lakivaliokunnassa, joka ylläpitää hyvän välitystavan ohjeita ja muita alaa koskevia ohjeita (rahanpesu ja tietosuoja) ... Osallistuminen KVKL:n lakivaliokunnan kokoukseen oli mahtava kokemus.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Kiinteistömaailma",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Kiinteistömaailma' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "huoneistokeskus",
@@ -879,7 +892,16 @@
     "Puhelinnumeroita ei näy julkisesti etusivulla tai yhteystiedot-sivulla; vain sähköpostiosoite (asiakaspalvelu@huoneistokeskus.fi) ja linkki 'Katso tarkemmat yhteystiedot' on mainittu",
     "Liveä chat- tai viestintäkanavaa ei ole mainittu; aukioloajat ja chatpalvelu puuttuvat sivustolta; UKK-osio tai FAQ puuttuu kokonaan"
    ],
-   "yhteenveto": "Huoneistokeskus on Suomen kokenein kiinteistönvälityspalvelu, joka toimii yli 30 toimistolla ympäri Suomea. Sivustolla välityspalkkio (4,95% tai sopimuksen mukaan) ja palvelupaketti ovat selkeästi esillä, ja seitsemän vaiheen myyntiprosessi on kattavasti kuvattu. Y-tunnus (1831315-2) näkyy yhteystiedot-sivulla. Sopimusehtojen yksityiskohdat puuttuvat julkisesta näkyvyydestä, ja asiakastuen puhelinnumero sekä chat-palvelu eivät ole helposti saatavilla."
+   "yhteenveto": "Huoneistokeskus on Suomen kokenein kiinteistönvälityspalvelu, joka toimii yli 30 toimistolla ympäri Suomea. Sivustolla välityspalkkio (4,95% tai sopimuksen mukaan) ja palvelupaketti ovat selkeästi esillä, ja seitsemän vaiheen myyntiprosessi on kattavasti kuvattu. Y-tunnus (1831315-2) näkyy yhteystiedot-sivulla. Sopimusehtojen yksityiskohdat puuttuvat julkisesta näkyvyydestä, ja asiakastuen puhelinnumero sekä chat-palvelu eivät ole helposti saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Huoneistokeskus",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Huoneistokeskus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "remax",
@@ -1088,7 +1110,9 @@
     "Toimeksiantosopimuksen ehdot annetaan vasta sopimuksen solmimisen jälkeen, ei saatavilla etukäteen",
     "Puuttuu erillinen UKK-osio vastaamaan asiakkaiden yleisiin kysymyksiin; chat-palvelu tai live-support ei mainittuna"
    ],
-   "yhteenveto": "RE/MAX on valtakunnallinen kiinteistönvälitysketju, joka toimii franchise-mallilla itsenäisten toimistojen kanssa. Sivustolla esitellään selkeästi kolmen tason palvelupakettien sisältö ja välityspalkkiot (2,9–4,4 % + kiinteät maksut), mutta huomautus palkkioiden mahdollisista alueellisista vaihteluista heikentää läpinäkyvyyttä. Yhteystiedot ovat saatavilla, mutta toimeksiantosopimuksen ehdot annetaan vasta sopimuksen jälkeen."
+   "yhteenveto": "RE/MAX on valtakunnallinen kiinteistönvälitysketju, joka toimii franchise-mallilla itsenäisten toimistojen kanssa. Sivustolla esitellään selkeästi kolmen tason palvelupakettien sisältö ja välityspalkkiot (2,9–4,4 % + kiinteät maksut), mutta huomautus palkkioiden mahdollisista alueellisista vaihteluista heikentää läpinäkyvyyttä. Yhteystiedot ovat saatavilla, mutta toimeksiantosopimuksen ehdot annetaan vasta sopimuksen jälkeen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "habita",
@@ -1300,7 +1324,9 @@
     "Suomalaiset toimistot, osoitteet ja aukioloajat puuttuvat",
     "Usein kysytyt kysymykset (UKK) osio puuttuu kokonaan"
    ],
-   "yhteenveto": "Habita on kansainvälinen kiinteistönvälityspalvelu, joka tarjoaa asunnon osto- ja myyntipalveluita yli 30 maassa. Sivulla esitellään palveluiden sisältö selkeästi, mutta välityspalkkio-hinnat eivät ole julkisesti näkyvissä — sivun mukaan ne löytyvät maakohtaisesti toimipistesivuilla, joihin ei ole suoria linkkejä. Kontaktitiedot (puhelin ja sähköposti) on helposti saatavilla."
+   "yhteenveto": "Habita on kansainvälinen kiinteistönvälityspalvelu, joka tarjoaa asunnon osto- ja myyntipalveluita yli 30 maassa. Sivulla esitellään palveluiden sisältö selkeästi, mutta välityspalkkio-hinnat eivät ole julkisesti näkyvissä — sivun mukaan ne löytyvät maakohtaisesti toimipistesivuilla, joihin ei ole suoria linkkejä. Kontaktitiedot (puhelin ja sähköposti) on helposti saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "18.7.2026",

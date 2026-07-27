@@ -237,6 +237,8 @@
     "Asiakaspalvelun aukioloajat puuttuvat; ilmoitetaan vain 24/7 hätäpalvelu, mutta ei normaalia palveluaikaa."
    ],
    "yhteenveto": "Turvan autovakuutus on selkeästi rakennettu tuote, jossa hintalaskuri on saavutettavissa nopeasti ilman pakollisia yhteystietoja. Vakuutusehdot ja bonus- sekä alennusjärjestelmät on dokumentoitu hyvin. Kehityskohteita ovat yritystietojen puuttuminen tuotesivulla ja asiakaspalvelun aukioloaikojen selkeyden parantaminen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -257,7 +259,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/liiketoimintaperiaatteet/ -sivulla: 'Olemme sitoutuneet noudattamaan Finanssiala ry:n yhteisiä Vastuullisen finanssialan periaatteita ja Hyvän vakuutustavan periaatteita vakuutus- ja korvaustoiminnassa.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turva",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turva' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "fennia",
@@ -479,6 +488,8 @@
     "Y-tunnus ja aukioloajat puuttuvat kokonaan – heikentää yrityksen avoimuutta ja luotettavuuden vaikutelmaa"
    ],
    "yhteenveto": "Fennia esittelee autovakuutuksensa selkein vertailutaulukoin ja kattavasti kuvatulla bonusjärjestelmällä. Sivustolla on hintalaskuri ja laaja usein kysyttyjen kysymysten osio. Perusyhteystiedot, omavastuun määrät ja Y-tunnus puuttuvat pääsivulta, mikä heikentää läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -719,6 +730,8 @@
     "Puhelinnumero ja sähköpostiosoite puuttuvat: sivulla todetaan vain että puheluissa kertyy kustannuksia"
    ],
    "yhteenveto": "Pohjantähti on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa autovakuutusta. Tuotesivu esittelee kaskovakuutusten vaihtoehdot selkeästi vertailutaulukon avulla ja kuvaa bonus- ja vakuutusehdot yksityiskohtaisesti. Hinnoittelun löydettävyys on heikko, koska hintalaskuri vaatii siirtymisen ulkoiselle sivulle eikä suoraa hintaa ole nähtävissä ilman kalkulaattorin käyttöä tai yhteydenottopyyntöä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -727,7 +740,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjantähti (vakuutusyhtiö)",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjantähti (vakuutusyhtiö)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "if",
@@ -948,7 +968,9 @@
     "Omavastuu-summat (euroomaarit) eivät ole näkyvissä pääsivulla, vaan jäävät ehdoista löydettäviksi",
     "Y-tunnus ja lainmukaisten tietojen esille tuonti voisi olla näkyvämpää"
    ],
-   "yhteenveto": "If tarjoaa selkeästi rakennetun autovakuutuspalvelun, jossa osakasko ja täyskasko on vertailtavissa sivukkain. Hintalaskuri on saatavilla, mutta vaatii puhelinnumeron hinnan näyttämiseksi. Vakuutusehdot löytyvät verkkosivuilta, mutta omavastuu-summat eivät ole pääsivulla näkyvissä."
+   "yhteenveto": "If tarjoaa selkeästi rakennetun autovakuutuspalvelun, jossa osakasko ja täyskasko on vertailtavissa sivukkain. Hintalaskuri on saatavilla, mutta vaatii puhelinnumeron hinnan näyttämiseksi. Vakuutusehdot löytyvät verkkosivuilta, mutta omavastuu-summat eivät ole pääsivulla näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "lahitapiola",
@@ -1172,6 +1194,8 @@
     "Asiakaspalvelun aukioloajat, sähköpostiosoite ja fyysisten toimistojen osoitteet puuttuvat – puhelin on saatavilla vain hätäpalvelulle (0800 04531)"
    ],
    "yhteenveto": "LähiTapiolan autovakuutussivu esittelee kolme selvästi erotettu vakuutustasoa vertailutaulukon kautta, ja vakuutusehdot ovat saatavilla PDF-muodossa. Bonus- ja vahingottomuusjärjestelmä on hyvin dokumentoitu. Kuitenkin sivulla ei voi saada hinta-arviota ilman henkilötunnuksen antamista, mikä on merkittävä este asiakkaiden budjetoinnille ennen yhteydenottoa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1422,7 +1446,16 @@
     "Kasko-tasojen vertailu ei ole esitetty selkeässä sivukkaisessa vertailutaulukossa",
     "Sähköpostiosoite ja Y-tunnus eivät ole julkisesti näkyvissä autovakuutussivulla"
    ],
-   "yhteenveto": "POP Vakuutus on Suomen Vahinkovakuutus Oy:n markkinointinimi ja tarjoaa autovakuutusta neljällä tasolla (Liikennevakuutus, S-kasko, L-kasko, XL-kasko) selkein kuvauksin. Sivusto selittää kattavasti vakuutusturvantuotteita, mutta hintakalklaattori vaatii henkilötunnuksen ilmoittamisen. Asiakaspalvelu on saatavilla puhelimitse arkisin ja chat-palvelu päivittäin."
+   "yhteenveto": "POP Vakuutus on Suomen Vahinkovakuutus Oy:n markkinointinimi ja tarjoaa autovakuutusta neljällä tasolla (Liikennevakuutus, S-kasko, L-kasko, XL-kasko) selkein kuvauksin. Sivusto selittää kattavasti vakuutusturvantuotteita, mutta hintakalklaattori vaatii henkilötunnuksen ilmoittamisen. Asiakaspalvelu on saatavilla puhelimitse arkisin ja chat-palvelu päivittäin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "POP Vakuutus",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'POP Vakuutus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "17.7.2026",

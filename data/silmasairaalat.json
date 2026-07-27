@@ -221,6 +221,8 @@
     "Riippumattomien arviointien tai sertifiointien linkkaukset puuttuvat; NPS-mittaus on sisäinen mittari eikä ulkoinen kolmannen osapuolen arvio."
    ],
    "yhteenveto": "Mehiläinen on suuri terveydenhuoltoketju, joka tarjoaa laajaa silmäleikkaustoimintaa erityisesti yhteistyössä Silmäsairaala Hymyn kanssa. Silmien laserleikkausten osalta sivut kuvaavat menetelmät hyvin ja tarjoavat maksuttoman arviokäynnin, mutta hintatiedot ovat vain konsultaatiossa saatavilla, eivätkä julkisesti esillä verkkosivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -451,6 +453,8 @@
     "Y-tunnus ja riippumaton laadun arviointi eivät ole näkyvillä sivustolla"
    ],
    "yhteenveto": "Terveystalo tarjoaa silmälaserleikkauksia (SMILE, FEMTO, PRK) ja hinnat ovat julkisesti saatavilla hinnastossa. Ajanvaraus ja jälkitarkastukset on järjestetty verkossa. Palvelun merkittävä rajoitus on maantieteellinen saatavuus: leikkaukset ovat saatavilla vain Oululaisille, mikä rajaa potentiaalisten potilaiden joukkoa huomattavasti.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -669,6 +673,8 @@
     "Jälkitarkastuksista ja leikkaustakuista ei ole selkeää tietoa asiakkaalle"
    ],
    "yhteenveto": "Pihlajalinna tarjoaa silmäleikkauksesta perustiedot ja hinnat ilman yhteystietojen pyyntöä. Kaihileikkaus ja linssileikkaus on hinnoiteltu läpinäkyvästi 1 539–2 795 euroon per silmä. Ajanvaraus on mahdollista verkossa ja puhelimitse, ja yritys tarjoaa useita yhteydenottotapoja. Puuttuvat tiedot laser-leikkauksista, Y-tunnuksesta ja jälkitarkastuksista heikentävät kokonaisläpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -892,7 +898,9 @@
     "Hinnaston PDF-muoto rajoittaa vertailukelpoisuutta ja hintojen löydettävyyttä",
     "Usein kysytyt kysymykset (FAQ) sekä itsenäiset arviointijärjestelmät puuttuvat"
    ],
-   "yhteenveto": "Silmäsairaala Pilke on laajalti saatavilla oleva silmäkirurgian tarjoaja seitsemällä toimipisteellä Suomessa. Sivusto esittää selkeästi leikkausmenetelmät ja hinnat, sekä mahdollistaa verkkoajanvarauksen, mutta puutteet Y-tunnuksessa, FAQ-osiossa ja riippumattomissa arvioinneissa heikentävät läpinäkyvyyttä."
+   "yhteenveto": "Silmäsairaala Pilke on laajalti saatavilla oleva silmäkirurgian tarjoaja seitsemällä toimipisteellä Suomessa. Sivusto esittää selkeästi leikkausmenetelmät ja hinnat, sekä mahdollistaa verkkoajanvarauksen, mutta puutteet Y-tunnuksessa, FAQ-osiossa ja riippumattomissa arvioinneissa heikentävät läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "silmaasema",
@@ -1107,7 +1115,16 @@
     "Leikkausmenetelmien yksityiskohtaiset kuvaukset (LASIK, PRK, SMILE jne.) puuttuvat avoimesti saatavilla olevista sisällöistä",
     "Riippumattomia potilasilmoituksia tai arvosteluja ei löydy sivustolta, mikä heikentää luottamusta"
    ],
-   "yhteenveto": "Silmäasema on Suomen johtava silmäterveyden palveluntarjoaja, jolla on laaja silmäsairaaloiden verkosto ja komprehensiivinen palveluvalikoima silmäleikkauksista optikon palveluihin. Sivusto tarjoaa helpon online-ajanvarauksen ja aktiivisen asiakaspalvelun, mutta leikkausten hinnat ja yksityiskohtaiset metodit vaativat suoraa yhteydenottoa. Potilaiden kokemuksista tai riippumattomista arvioinneista ei ole mainintaa julkisella sivustolla."
+   "yhteenveto": "Silmäasema on Suomen johtava silmäterveyden palveluntarjoaja, jolla on laaja silmäsairaaloiden verkosto ja komprehensiivinen palveluvalikoima silmäleikkauksista optikon palveluihin. Sivusto tarjoaa helpon online-ajanvarauksen ja aktiivisen asiakaspalvelun, mutta leikkausten hinnat ja yksityiskohtaiset metodit vaativat suoraa yhteydenottoa. Potilaiden kokemuksista tai riippumattomista arvioinneista ei ole mainintaa julkisella sivustolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Silmäasema",
+    "paivakatselut_ka": 21,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Silmäasema' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "valo",
@@ -1322,7 +1339,9 @@
     "Y-tunnus ja yritystiedot puuttuvat verkkosivuilta, laillisesti vaadittavat yritystiedot helposti löydettäviksi",
     "Usein kysyttyä -osio linkitetty mutta sivu palauttaa 404, asiakkaat eivät löydä vastauksia yleisiin kysymyksiin"
    ],
-   "yhteenveto": "Silmäsairaala Valo on Helsinkiin ja Kouvolaan sijoittuva yksityinen silmäsairaala, joka tarjoaa laserleikkauksia, kaihileikkauksia ja muita silmäkirurgisia palveluja. Sivusto esittelee selkeästi kirurgisia menetelmiä ja kokeneita lääkäreitään, mutta leikkausten hinnat jäävät löytämättä ilman suoraa yhteydenpanoa.  Ajanvaraus on mahdollista verkossa, ja perustiedot saatavilla puhelimitse ja sähköpostitse."
+   "yhteenveto": "Silmäsairaala Valo on Helsinkiin ja Kouvolaan sijoittuva yksityinen silmäsairaala, joka tarjoaa laserleikkauksia, kaihileikkauksia ja muita silmäkirurgisia palveluja. Sivusto esittelee selkeästi kirurgisia menetelmiä ja kokeneita lääkäreitään, mutta leikkausten hinnat jäävät löytämättä ilman suoraa yhteydenpanoa.  Ajanvaraus on mahdollista verkossa, ja perustiedot saatavilla puhelimitse ja sähköpostitse.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "24.7.2026",

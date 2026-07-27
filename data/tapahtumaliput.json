@@ -21,7 +21,7 @@
    "omistaja": "Tiketti Oy — Suomen suurin suomalainen lipunvälittäjä (per. 1975); liput saatavilla kaikista R-kioskeista",
    "y_tunnus": "0116189-3",
    "rekisteroity": 1978,
-   "score": 78.9,
+   "score": 79.4,
    "pillars": {
     "digitaalinen": 72.4,
     "lapinakyvyys": 75.0,
@@ -221,7 +221,23 @@
     "Mobiilisovelluksesta ei löydy selkeää latauslinkkia etusivulta; mobiililähetys mainitaan vain toimitusvaihtoehtona",
     "Sivusto varoittaa Safari-yksityisselauksen yhteensopivuusongelmista ja IE11:n tuesta — modernimpi selainyhteensopivuus parantaisi saavutettavuutta"
    ],
-   "yhteenveto": "Tiketti on Suomen suurin suomalainen lipunvälittäjä ja erottuu edukseen palvelumaksujen avoimella julkaisemisella erillisellä sivullaan ennen ostopäätöstä. Asiakaspalvelu on laaja (puhelin, sähköposti, chat, R-kioskit), ja peruutuskäytäntö on kuvattu. Y-tunnus ei näy sivustolla, mikä on pieni puute läpinäkyvyydessä."
+   "yhteenveto": "Tiketti on Suomen suurin suomalainen lipunvälittäjä ja erottuu edukseen palvelumaksujen avoimella julkaisemisella erillisellä sivullaan ennen ostopäätöstä. Asiakaspalvelu on laaja (puhelin, sähköposti, chat, R-kioskit), ja peruutuskäytäntö on kuvattu. Y-tunnus ei näy sivustolla, mikä on pieni puute läpinäkyvyydessä.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Info-sivulla on 'Lippujen Palauttaminen' ja 'Tuotteiden peruuttaminen' -osiot; myös TikettiTurva-vakuutus maininta."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Tiketti",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Tiketti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "netticket",
@@ -230,7 +246,7 @@
    "omistaja": "Oy NetTicket Finland Ab — suomalainen (Vaasa, per. 1989); teatteri- ja tapahtumalippujen erikoisalusta",
    "y_tunnus": "1028658-3",
    "rekisteroity": 1995,
-   "score": 78.2,
+   "score": 78.7,
    "pillars": {
     "digitaalinen": 73.0,
     "lapinakyvyys": 90.0,
@@ -430,7 +446,16 @@
     "Chat-asiakaspalvelua ei ole; yhteydenotto rajoittuu puhelimeen ja sähköpostiin",
     "FAQ/UKK-osio on suppea verrattuna suuriin kilpailijoihin — peruutus- ja palautusohjeita voisi laajentaa"
    ],
-   "yhteenveto": "NetTicket on vaasalainen suomalainen lipunvälittäjä, joka erottuu edukseen erityisesti läpinäkyvyydessä: palvelumaksut, Y-tunnus ja peruutusehdot ovat kaikki julkisesti esillä, ja liput voi ostaa ilman rekisteröitymistä. Heikkoutena on mobiilisovelluksen puuttuminen ja suppea asiakaspalvelu. Palvelumaksu 1,50 €/lippu on selkeästi kommunikoitu."
+   "yhteenveto": "NetTicket on vaasalainen suomalainen lipunvälittäjä, joka erottuu edukseen erityisesti läpinäkyvyydessä: palvelumaksut, Y-tunnus ja peruutusehdot ovat kaikki julkisesti esillä, ja liput voi ostaa ilman rekisteröitymistä. Heikkoutena on mobiilisovelluksen puuttuminen ja suppea asiakaspalvelu. Palvelumaksu 1,50 €/lippu on selkeästi kommunikoitu.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Peruutus- ja palautuskäytäntö on kuvattu luetuilla sivuilla."
+    }
+   ]
   },
   {
    "slug": "kide",
@@ -439,7 +464,7 @@
    "omistaja": "Treanglo Oy — suomalainen startup; pääfokus opiskelijatapahtumat, yli 500 yhteisöä 20+ kaupungissa",
    "y_tunnus": "2623329-1",
    "rekisteroity": 2014,
-   "score": 60.8,
+   "score": 61.0,
    "pillars": {
     "digitaalinen": 63.0,
     "lapinakyvyys": 45.0,
@@ -639,7 +664,16 @@
     "Rekisteröityminen vaikuttaa pakolliselta — 'Luo tili' on ensisijainen toimintakutsu, vierasostoa ei mainittu",
     "Peruutusehtoja ei löydy selkeästi kuluttajasivustolta; pääpaino on järjestäjäpuolella"
    ],
-   "yhteenveto": "Kide.app on suomalainen Treanglo Oy:n alusta, joka palvelee erityisesti opiskelijatapahtumia yli 500 yhteisössä. Y-tunnus näkyy ja asiakaspalvelutieto on selkeästi esillä. Kuluttajan näkökulmasta palvelumaksujen löydettävyys on heikompaa kuin kilpailijoilla, ja vieraskassa ei vaikuta olevan saatavilla — alusta edellyttää tilin luomista."
+   "yhteenveto": "Kide.app on suomalainen Treanglo Oy:n alusta, joka palvelee erityisesti opiskelijatapahtumia yli 500 yhteisössä. Y-tunnus näkyy ja asiakaspalvelutieto on selkeästi esillä. Kuluttajan näkökulmasta palvelumaksujen löydettävyys on heikompaa kuin kilpailijoilla, ja vieraskassa ei vaikuta olevan saatavilla — alusta edellyttää tilin luomista.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Peruutusehdot eivät olleet selkeästi esillä luetuilla kuluttajasivuilla; järjestäjäsopimuksessa saatetaan mainita mutta kuluttajalle epäselvä."
+    }
+   ]
   },
   {
    "slug": "lippu",
@@ -648,7 +682,7 @@
    "omistaja": "CTS Eventim SE & Co. KGaA (Saksa) — Suomessa Lippupiste Oy (rek. 1997); myös Liigalippu-brändi; botti-esto CDN:llä, ei mitattavissa digitaalisesti",
    "y_tunnus": "1789232-4",
    "rekisteroity": 2002,
-   "score": 55.2,
+   "score": 55.5,
    "pillars": {
     "digitaalinen": 67.5,
     "lapinakyvyys": 50.0,
@@ -848,7 +882,16 @@
     "Mittausaukko koskee kaikkia pilareja: laatu, läpinäkyvyys ja tavoitettavuus pisteytetty 'osittain' (ei 'ei') koska kyse on mittausesteestä, ei puutteesta",
     "Lippu.fi (Lippupiste Oy, Y-tunnus 1789232-4) omistajana CTS Eventim SE & Co. KGaA (Saksa)"
    ],
-   "yhteenveto": "Lippu.fi on Suomen suurimpia lipunmyyntipalveluita, mutta Akamai-CDN:n botti-esto esti kaiken automaattisen mittauksen. Kaikki arvot on merkitty 'osittain' mittausaukkona, ei palvelupuutteena. Pisteitä ei voi tällä mittauskerralla antaa laatu-, läpinäkyvyys- tai tavoitettavuuspillareihin."
+   "yhteenveto": "Lippu.fi on Suomen suurimpia lipunmyyntipalveluita, mutta Akamai-CDN:n botti-esto esti kaiken automaattisen mittauksen. Kaikki arvot on merkitty 'osittain' mittausaukkona, ei palvelupuutteena. Pisteitä ei voi tällä mittauskerralla antaa laatu-, läpinäkyvyys- tai tavoitettavuuspillareihin.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esilla."
+    }
+   ]
   },
   {
    "slug": "eventbrite",
@@ -857,7 +900,7 @@
    "omistaja": "Eventbrite Inc. (Yhdysvallat) — ei suomalaista rekisteröintiä; toimii Suomessa eventbrite.fi-osoitteessa",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 42.2,
+   "score": 42.5,
    "pillars": {
     "digitaalinen": 62.4,
     "lapinakyvyys": 30.0,
@@ -1057,7 +1100,16 @@
     "Ei suomalaista yritysrekisteröintiä (Y-tunnus puuttuu kokonaan) — Eventbrite Inc. on amerikkalainen yhtiö",
     "Ei puhelinnumeroa eikä sähköpostia suomalaiselle asiakaspalvelulle — tuki vain help centre -kanavalla"
    ],
-   "yhteenveto": "Eventbrite on amerikkalainen kansainvälinen alusta, jolla on vain suppea suomenkielinen läsnäolo Suomessa. Sivusto ei tarjoa suomalaista asiakaspalvelunumeroa eikä Y-tunnusta, eikä palvelumaksuja kerrota kuluttajalle ennen ostoprosessia. Mobiilisovellus ja kattava tukikeskus ovat positiivisia, mutta suomalaiselle kuluttajalle läpinäkyvyys on heikoin vertailujoukossa."
+   "yhteenveto": "Eventbrite on amerikkalainen kansainvälinen alusta, jolla on vain suppea suomenkielinen läsnäolo Suomessa. Sivusto ei tarjoa suomalaista asiakaspalvelunumeroa eikä Y-tunnusta, eikä palvelumaksuja kerrota kuluttajalle ennen ostoprosessia. Mobiilisovellus ja kattava tukikeskus ovat positiivisia, mutta suomalaiselle kuluttajalle läpinäkyvyys on heikoin vertailujoukossa.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Help Centre sisältää peruutusohjeita, mutta kuluttajalle näkyvällä etusivulla tai tapahtumalistaussivuilla niitä ei korosteta."
+    }
+   ]
   },
   {
    "slug": "ticketmaster",
@@ -1066,7 +1118,7 @@
    "omistaja": "Live Nation Entertainment Inc. (Yhdysvallat) — Suomessa Ticketmaster Suomi Oy (ent. Lippupalvelu Oy, perustettu 1945)",
    "y_tunnus": "0110928-6",
    "rekisteroity": 1978,
-   "score": 39.3,
+   "score": 39.5,
    "pillars": {
     "digitaalinen": 57.5,
     "lapinakyvyys": 15.0,
@@ -1266,7 +1318,16 @@
     "Sivusto vaatii JavaScriptin ja evastesuostumuksen sisällön näyttämiseen; automaattinen luku sai vain 2 228 merkkia",
     "Y-tunnus (Ticketmaster Suomi Oy 0110928-6) ei näy sivustolla, omistaja (Live Nation Entertainment) mainitaan vain alaotsikossa"
    ],
-   "yhteenveto": "Ticketmaster on Suomen tunnetuin lipunmyyntipalvelu ja tarjoaa laajan tapahtumavalikoiman, mutta palvelumaksuja ei kerrota ennen kassalle siirtymistä. Sivusto toimii lähes kokonaan JavaScriptillä, minkä vuoksi sisältö ei aukea ilman evästesuostumusta. Mobiilisovellus on saatavilla ja puhelinnumero näkyy etusivulla."
+   "yhteenveto": "Ticketmaster on Suomen tunnetuin lipunmyyntipalvelu ja tarjoaa laajan tapahtumavalikoiman, mutta palvelumaksuja ei kerrota ennen kassalle siirtymistä. Sivusto toimii lähes kokonaan JavaScriptillä, minkä vuoksi sisältö ei aukea ilman evästesuostumusta. Mobiilisovellus on saatavilla ja puhelinnumero näkyy etusivulla.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderointia tai evastesuostumusta."
+    }
+   ]
   }
  ],
  "updated": "24.7.2026",

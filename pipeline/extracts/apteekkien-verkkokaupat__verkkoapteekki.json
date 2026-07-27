@@ -1,51 +1,51 @@
-
-    "kk_hinta_alkaen_eur":  null,
-    "aukioloajat_esilla":  "kylla",
-    "ukk_osio":  "kylla",
-    "y_tunnus_esilla":  "osittain",
-    "otc_hinnat_esilla":  "kylla",
-    "toimitusehdot_esilla":  "kylla",
-    "kehityskohteet":  [
-                           "Y-tunnusta ei loydy etusivulta eika footerista; Jarvenpaaan Laahiapteekki mainitaan nimelta mutta Y-tunnus puuttuu",
-                           "Sivusto toimii ePages-alustalla, jonka navigaatiorakenne voi olla sekava; monet alasivupolut eivat toimi suorina URL-osoitteina",
-                           "Mobiilisovellusta ei ole; sivusto on responsiivinen mutta ei tarjoa natiivisovellusta"
-                       ],
-    "riippumaton_arvio":  "kylla",
-    "fetched_ok":  [
-                       "https://www.verkkoapteekki.fi/",
-                       "https://www.verkkoapteekki.fi/?ObjectPath=/Shops/verkkoapteekki/Categories/UKK/Yhteystiedot",
-                       "https://www.verkkoapteekki.fi/?ObjectPath=/Shops/verkkoapteekki/Categories/UKK"
-                   ],
-    "palautuspolitiikka_kerrottu":  "kylla",
-    "ai_arviot":  {
-                      "selkeys":  76,
-                      "sisallon_kattavuus":  80,
-                      "hintojen_loydettavyys":  82
-                  },
-    "yhteenveto":  "Verkkoapteekki.fi on Jarvenpaaan Laahiapteekin yllapitama asiakaslahtöinen verkkokauppa joka tarjoaa resepti- ja OTC-tuotteita seka apteekkikosmetiikkaa. Fimea-valvonta, toimitusehdot ja palautusohjeet ovat julkisesti saatavilla. Apteekin Y-tunnus puuttuu sivustolta, mutta muut yhteystiedot ovat kattavat.",
-    "chat_mainittu":  "kylla",
-    "mobiilisovellus":  "ei",
-    "vahvuudet":  [
-                      "Fimea-logo ja yhteystiedot footerissa; chat arkisin klo 10-16 ja puhelin 09 2798 0333 (arkisin klo 8-19)",
-                      "Reseptiasiointi selkeasti navigoinnissa; apteekkiklubi-palvelu ja terveyspalvelut esitelty julkisesti",
-                      "Toimitusehdot, palautusohjeet ja UKK loytyy footerin INFO-osiosta; ilmainen toimitus yli 50 euron tilauksiin mainittu"
-                  ],
-    "resepti_prosessi_selitetty":  "kylla",
-    "puhelin_esilla":  "kylla",
-    "evidence":  {
-                     "toimitusehdot_esilla":  "HAVAINTO: Footerin INFO-osiossa on Kaytto- ja toimitusehdot -linkki. Etusivulla mainitaan ilmainen toimitus yli 50 euron tilauksiin.",
-                     "chat_mainittu":  "HAVAINTO: Footerissa mainitaan Chat arkisin klo 10-16.",
-                     "riippumaton_arvio":  "HAVAINTO: Footerin sertifikaatit-osiossa on Laakealan turvallisuus- ja kehittamiskeskus Fimea kirjaamo@fimea.fi ja vaihde 0295223341.",
-                     "otc_hinnat_esilla":  "HAVAINTO: Etusivulla nakyy tuotteiden hinnat ja varastotilanteet (esim. Rela+Vatsan tasapaino 30,98 eur) ilman kirjautumista.",
-                     "resepti_prosessi_selitetty":  "HAVAINTO: Navigaatiossa on Reseptiasiointi-linkki; sivustolla kerrotaan Suomi.fi-tunnistautumisesta reseptiasiointia varten.",
-                     "palautuspolitiikka_kerrottu":  "HAVAINTO: Footerin INFO-osiossa on Palautusohjeet-linkki.",
-                     "mobiilisovellus":  "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla.",
-                     "email_esilla":  "HAVAINTO: Footerissa sahkoposti apteekki@verkkoapteekki.fi.",
-                     "aukioloajat_esilla":  "HAVAINTO: Footerissa asiakaspalvelun aukioloajat: chat 10-16, puhelin 8-19 arkisin.",
-                     "puhelin_esilla":  "HAVAINTO: Footerissa puhelin 09 2798 0333 (arkisin klo 8-19).",
-                     "y_tunnus_esilla":  "HAVAINTO: Sivustolla mainitaan Jarvenpaaan Laahiapteekki nimelta, mutta Y-tunnusta ei loydy footerista eika toimitusehdoista.",
-                     "ukk_osio":  "HAVAINTO: Footerin INFO-osiossa on Usein kysytyt kysymykset -linkki."
-                 },
-    "slug":  "verkkoapteekki",
-    "email_esilla":  "kylla"
+{
+ "kk_hinta_alkaen_eur": null,
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "y_tunnus_esilla": "osittain",
+ "otc_hinnat_esilla": "kylla",
+ "toimitusehdot_esilla": "kylla",
+ "kehityskohteet": [
+  "Y-tunnusta ei loydy etusivulta eika footerista; Jarvenpaaan Laahiapteekki mainitaan nimelta mutta Y-tunnus puuttuu",
+  "Sivusto toimii ePages-alustalla, jonka navigaatiorakenne voi olla sekava; monet alasivupolut eivat toimi suorina URL-osoitteina",
+  "Mobiilisovellusta ei ole; sivusto on responsiivinen mutta ei tarjoa natiivisovellusta"
+ ],
+ "riippumaton_arvio": "kylla",
+ "fetched_ok": [
+  "https://www.verkkoapteekki.fi/",
+  "https://www.verkkoapteekki.fi/?ObjectPath=/Shops/verkkoapteekki/Categories/UKK/Yhteystiedot",
+  "https://www.verkkoapteekki.fi/?ObjectPath=/Shops/verkkoapteekki/Categories/UKK"
+ ],
+ "palautuspolitiikka_kerrottu": "kylla",
+ "ai_arviot": {
+  "selkeys": 76,
+  "sisallon_kattavuus": 80,
+  "hintojen_loydettavyys": 82
+ },
+ "yhteenveto": "Verkkoapteekki.fi on Jarvenpaaan Laahiapteekin yllapitama asiakaslahtöinen verkkokauppa joka tarjoaa resepti- ja OTC-tuotteita seka apteekkikosmetiikkaa. Fimea-valvonta, toimitusehdot ja palautusohjeet ovat julkisesti saatavilla. Apteekin Y-tunnus puuttuu sivustolta, mutta muut yhteystiedot ovat kattavat.",
+ "chat_mainittu": "kylla",
+ "mobiilisovellus": "ei",
+ "vahvuudet": [
+  "Fimea-logo ja yhteystiedot footerissa; chat arkisin klo 10-16 ja puhelin 09 2798 0333 (arkisin klo 8-19)",
+  "Reseptiasiointi selkeasti navigoinnissa; apteekkiklubi-palvelu ja terveyspalvelut esitelty julkisesti",
+  "Toimitusehdot, palautusohjeet ja UKK loytyy footerin INFO-osiosta; ilmainen toimitus yli 50 euron tilauksiin mainittu"
+ ],
+ "resepti_prosessi_selitetty": "kylla",
+ "puhelin_esilla": "kylla",
+ "evidence": {
+  "toimitusehdot_esilla": "HAVAINTO: Footerin INFO-osiossa on Kaytto- ja toimitusehdot -linkki. Etusivulla mainitaan ilmainen toimitus yli 50 euron tilauksiin.",
+  "chat_mainittu": "HAVAINTO: Footerissa mainitaan Chat arkisin klo 10-16.",
+  "riippumaton_arvio": "HAVAINTO: Footerin sertifikaatit-osiossa on Laakealan turvallisuus- ja kehittamiskeskus Fimea kirjaamo@fimea.fi ja vaihde 0295223341.",
+  "otc_hinnat_esilla": "HAVAINTO: Etusivulla nakyy tuotteiden hinnat ja varastotilanteet (esim. Rela+Vatsan tasapaino 30,98 eur) ilman kirjautumista.",
+  "resepti_prosessi_selitetty": "HAVAINTO: Navigaatiossa on Reseptiasiointi-linkki; sivustolla kerrotaan Suomi.fi-tunnistautumisesta reseptiasiointia varten.",
+  "palautuspolitiikka_kerrottu": "HAVAINTO: Footerin INFO-osiossa on Palautusohjeet-linkki.",
+  "mobiilisovellus": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla.",
+  "email_esilla": "HAVAINTO: Footerissa sahkoposti apteekki@verkkoapteekki.fi.",
+  "aukioloajat_esilla": "HAVAINTO: Footerissa asiakaspalvelun aukioloajat: chat 10-16, puhelin 8-19 arkisin.",
+  "puhelin_esilla": "HAVAINTO: Footerissa puhelin 09 2798 0333 (arkisin klo 8-19).",
+  "y_tunnus_esilla": "HAVAINTO: Sivustolla mainitaan Jarvenpaaan Laahiapteekki nimelta, mutta Y-tunnusta ei loydy footerista eika toimitusehdoista.",
+  "ukk_osio": "HAVAINTO: Footerin INFO-osiossa on Usein kysytyt kysymykset -linkki."
+ },
+ "slug": "verkkoapteekki",
+ "email_esilla": "kylla"
 }

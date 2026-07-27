@@ -227,6 +227,8 @@
     "Puuttuva chat-vaihtoehto: asiakkaat joutuvat käyttämään vain puhelinta, sähköpostia tai yhteydenottolomaketta"
    ],
    "yhteenveto": "Rantalainen on laaja kansainvälinen tilitoimistopalveluiden tarjoaja, joka palvelee yritysten talous- ja palkkahallinnon tarpeita yli 50 toimipisteestä Suomessa. Yritys on Taloushallintoliiton auktorisoima ja tarjoaa perinteisten kirjanpitopalveluiden lisäksi CFO-, HR-, veropalvelut sekä vastuullisuuspalvelut. Ohjelmistoratkaisut ja yhteystiedot ovat hyvin dokumentoituja, mutta hinnoittelu on osittain piilotettu interaktiivisen hintalaskurin taakse.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -451,6 +453,8 @@
     "Riippumattomat arviot puuttuvat: pelkästään omat asiakastarinat, ei kolmannen osapuolen lähteillä mitattavia arvioita"
    ],
    "yhteenveto": "Talenom on laaja tilitoimistopalvelujen tarjoaja, joka palvelee 29 paikkakunnalla ympäri Suomea. Sivusto esittelee monipuolisesti kattavat palvelut (kirjanpito, palkanlaskenta, HR, konsultointi) ja integraatiot useisiin taloushallinto-ohjelmistoihin (Netvisor, Easor, Admicom, Procountor, Fennoa). Hinnoittelu on selkeästi näkyvillä kolmiportaisen palvelutason kautta, mutta Y-tunnus ja KLT-auktorisoinnin statusta ei julkisesti ilmaista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -465,7 +469,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Etusivun (talenom.com/fi-fi) alaosassa näkyy ISAE 3402 -varmennuslogo (kuvatiedosto ISAE3402_KPMG.jpg)."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Talenom",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Talenom' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "greenstep",
@@ -680,6 +691,8 @@
     "Mobiilisovellusta ei mainittu, vaikka nykyaikaiset tilitoimistot usein tarjoavat mobiileja ratkaisuja"
    ],
    "yhteenveto": "Greenstep on kansainvälinen konsulttitalo, joka tarjoaa laajaa kirjanpidon, palkanlaskennan ja talousjohtamisen palveluita. Palvelut kuvataan hyvin, ja auktorisointi (Taloushallintoliitto, KLT-ammattilaiset) on näkyvillä. Sivusto heikkenee merkittävästi hinnastoltaan - julkista hinnoittelua ei ole lainkaan, mikä vaikeuttaa yrityksiä vertaamasta palveluita. Puuttuvat myös välittömän tuen tavat (chat) ja operatiiviset tiedot (aukioloajat).",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -909,7 +922,9 @@
     "Kelpuutukset tai ammattiliitto-jäsenyys (KLT, Taloushallintoliitto) eivät ole näkyvissä; vain sisäinen NPS-mittaus (71) raportoitu",
     "FAQ-osio puuttuu; asiakkaiden tavallisten kysymysten vastauksia ei ole dokumentoitu"
    ],
-   "yhteenveto": "Balanco on kansainvälinen tilitoimistoketju (220 työntekijää, perustettu 2015, 16,6 M€ liikevaihto), joka tarjoaa kattavasti taloushallinnon palveluita kirjanpidosta CFO-palveluihin. Sivusto on selkeä ja hyvin organisoitu palveluiden kuvausten, tehtävä- ja tapaamisen varauslomakkeen ja laajoin yhteystietojen osalta. Silti julkisia hintoja tai kelpuutuksista tietoa ei ole, mikä rajoittaa läpinäkyvyyttä."
+   "yhteenveto": "Balanco on kansainvälinen tilitoimistoketju (220 työntekijää, perustettu 2015, 16,6 M€ liikevaihto), joka tarjoaa kattavasti taloushallinnon palveluita kirjanpidosta CFO-palveluihin. Sivusto on selkeä ja hyvin organisoitu palveluiden kuvausten, tehtävä- ja tapaamisen varauslomakkeen ja laajoin yhteystietojen osalta. Silti julkisia hintoja tai kelpuutuksista tietoa ei ole, mikä rajoittaa läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "administer",
@@ -1125,6 +1140,8 @@
     "Ei näkyvillä olevaa chat-palvelua tai yksityiskohtaista FAQ-osiota"
    ],
    "yhteenveto": "Administer on suuressa mittakaavassa toimiva auktorisoitu tilitoimisto, joka tarjoaa kattavat palvelut kirjanpidosta lakipalveluihin aina CFO-palveluihin saakka. Sivusto on selkeä ja palvelut hyvin kuvattu, mutta kuukausittaisten peruspalvelupakettien hinnat eivät ole julkisesti nähtävissä - hintojen saaminen vaatii tarjouspyynnön. Järjestelmät ja integraatiot mainitaan, mutta niistä puuttuu yksityiskohtainen dokumentaatio.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1348,6 +1365,8 @@
     "Y-tunnus ja riippumattomia asiakasarvioita ei löydy sivustolta, luottamukseltaan heikentää"
    ],
    "yhteenveto": "Gallant on 200 kasvun asiantuntijan muodostama, auktorisoitu tilitoimisto, jolla on toimipisteet ympäri Suomea. Sivusto esittelee kattavasti palveluita ja ohjelmistokumppanuuksia, mutta hinnoittelu on täysin salattu ja vaatii yhteydenottoa. Asiakkaiden on vaikea arvioida kustannuksia etukäteen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1569,6 +1588,8 @@
     "Y-tunnus ei ole julkaistu verkkosivuilla"
    ],
    "yhteenveto": "Aspia (entinen Accountor) on suurempi tilitoimistoketju, joka tarjoaa kattavan palveluvalikoiman pienistä suuriin yrityksiin. Sivusto esittelee palvelut selvästi, mutta hinnoittelusta ei löydy julkisia tietoja, vaan asiakkaat joutuvat ottamaan yhteyttä myyntiin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1793,6 +1814,8 @@
     "Sähköpostiosoite ja chat-yhteydenotto eivät ole näkyvillä pääsivulla – pelkästään puhelinmyynti"
    ],
    "yhteenveto": "Aallon Group on suuri valtakunnallinen tilitoimistoketju (26 toimistoa, 450+ ammattilaista), jonka verkkosivut esittelevät laajasti tarjottavat palvelut, toimialakohtaiset ratkaisut ja käytetyt ohjelmistojärjestelmät. Sivusto on selkeästi rakennettu ja asiakaskokemusta kuvaavat arvostukset (korkeat tyytyväisyysluvut) näkyvät. Puutteina ovat hinnoittelun täydellinen puuttuminen, ammattikelpoisuuksien (KLT) mainitsemisen puuttuminen ja sähköpostiyhteydenoton puuttuminen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1801,7 +1824,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Aallon Helsinki -toimipistesivulla todetaan: \"olemme Taloushallintoliiton auktorisoitu jäsentoimisto\" (ja että yhtiö on ollut mukana perustamassa Taloushallintoliittoa)."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Aallon Group",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Aallon Group' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "azets",
@@ -2010,7 +2040,9 @@
     "FAQ-osion tai usein kysyttyjen kysymysten puuttuminen",
     "KLT-pätevyyksien, Taloushallintoliitton auktorisoinnin tai muiden sertifikaattien mainitsemisen puuttuminen"
    ],
-   "yhteenveto": "Azets on merkittävä suomalainen tilitoimistoketju, joka tarjoaa kattavaa palveluvalikoiman tilinpitoon, palkanlaskentaan ja HR-palveluihin. Sivuston sterngti ovat selkeä rakenne ja laajat palvelujen kuvaukset. Heikkoudet näkyvät hinnoittelun täydellisessä puuttumisessa sekä KLT-sertifikaattien ja asiakaspalautteen nolla näkyvyydessä."
+   "yhteenveto": "Azets on merkittävä suomalainen tilitoimistoketju, joka tarjoaa kattavaa palveluvalikoiman tilinpitoon, palkanlaskentaan ja HR-palveluihin. Sivuston sterngti ovat selkeä rakenne ja laajat palvelujen kuvaukset. Heikkoudet näkyvät hinnoittelun täydellisessä puuttumisessa sekä KLT-sertifikaattien ja asiakaspalautteen nolla näkyvyydessä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "23.7.2026",

@@ -222,7 +222,9 @@
     "Hintalaskuri vaatii kotiosoitteen ja ikätiedon ennen hinnan näyttämistä",
     "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelinpalvelu ja viestipalvelut"
    ],
-   "yhteenveto": "If on Pohjoismaiden suurin vakuutusyhtiö, joka tarjoaa laajan vakuutusvalikoiman henkilöasiakkaille. Sivusto on hyvin järjestetty, vakuutusehdot saatavilla PDF-muodossa ja hintalaskuri toimii ilman pakollisia henkilöllisiä yhteystietoja. Asiakastyytyväisyys on korkea (Trustpilot 4.0/5, EPSI-tutkimuksessa parhain vakuutusalalla), mutta sähköpostipalvelu ja chat-tuki puuttuvat."
+   "yhteenveto": "If on Pohjoismaiden suurin vakuutusyhtiö, joka tarjoaa laajan vakuutusvalikoiman henkilöasiakkaille. Sivusto on hyvin järjestetty, vakuutusehdot saatavilla PDF-muodossa ja hintalaskuri toimii ilman pakollisia henkilöllisiä yhteystietoja. Asiakastyytyväisyys on korkea (Trustpilot 4.0/5, EPSI-tutkimuksessa parhain vakuutusalalla), mutta sähköpostipalvelu ja chat-tuki puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "popvakuutus",
@@ -433,7 +435,16 @@
     "Y-tunnus ja muut yritystiedot eivät näy verkkosivustolla",
     "Mobiilisovellusta ei ole saatavilla"
    ],
-   "yhteenveto": "POP Vakuutus (Suomen Vahinkovakuutus Oy) on digitaalinen vakuutusyhtiö, joka tarjoaa auto-, koti-, matka-, tapaturma-, vene- ja moottoripyörävakuutuksia. Sivusto on selkeä ja vakuutusten ehdot ovat vapaasti saatavilla PDF-muodossa. EPSI Rating 2025 -tutkimuksessa yhtiö sijoittui 2. sijalle 78,5 pisteellä ja sai kiitosta erityisesti hinta-laatusuhteesta. Haittapuolia ovat henkilötunnuksen vaatiminen hintalaskurissa sekä Y-tunnuksen puuttuminen verkkosivuilta."
+   "yhteenveto": "POP Vakuutus (Suomen Vahinkovakuutus Oy) on digitaalinen vakuutusyhtiö, joka tarjoaa auto-, koti-, matka-, tapaturma-, vene- ja moottoripyörävakuutuksia. Sivusto on selkeä ja vakuutusten ehdot ovat vapaasti saatavilla PDF-muodossa. EPSI Rating 2025 -tutkimuksessa yhtiö sijoittui 2. sijalle 78,5 pisteellä ja sai kiitosta erityisesti hinta-laatusuhteesta. Haittapuolia ovat henkilötunnuksen vaatiminen hintalaskurissa sekä Y-tunnuksen puuttuminen verkkosivuilta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "POP Vakuutus",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'POP Vakuutus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "pohjantahti",
@@ -645,6 +656,8 @@
     "Hintoja saatavilla vain henkilötunnuksella ja postinumerolla, kotivakuutuksille ei hintalaskuria"
    ],
    "yhteenveto": "Pohjantähti on 130 vuotta toiminut keskinäinen vakuutusyhtiö, joka tarjoaa laajasti henkilö- ja yritysasiakkaiden vakuutuksia. Verkkosivusto on selkeästi rakennettu kotimaisen vakuutuspalvelun ja neljän kanavan (puhelin, sähköposti, verkkopalvelu, henkilökohtainen neuvoja) kanssa, mutta tärkeät tiedot kuten omavastuut ja korvaamisprosessin yksityiskohdat on piilotettu PDF-asiakirjojen ja kirjautumisen taakse. Autovakuutuksen hintalaskuri toimii ilman yhteystietoja, mutta vaatii henkilötunnuksen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -653,7 +666,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla lause 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjantähti (vakuutusyhtiö)",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjantähti (vakuutusyhtiö)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "fennia",
@@ -865,6 +885,8 @@
     "Y-tunnus ei näy julkisilla sivuilla, eikä itsenäisiä arvioita (Trustpilot, EPSI Rating) ole näkyvillä"
    ],
    "yhteenveto": "Fennia on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa henkilö-, koti-, liikenne-, matka- ja muita vakuutuspalveluita. Suurin vahvuus on vakuutusehdosten ja tuoteesitteiden saatavuus PDF-muodossa sekä selkeät yhteystiedot ja aukioloajat. Heikkouksia ovat puuttuvat omavastuut julkisilla sivuilla, hintalaskuriportaalin puuttuminen (ei ole käytettävissä) ja puuttuva Y-tunnus sekä itsenäiset arviot.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1086,6 +1108,8 @@
     "Asiakasarvioita tai riippumattomia luokituksia puuttuu"
    ],
    "yhteenveto": "LähiTapiola Keskinäinen Vakuutusyhtiö on suuri suomalainen vakuutusyritys, joka tarjoaa laajan valikoiman vakuutustuotteita henkilöasiakkaille. Sivusto esittelee vakuutustyypit selkeästi, ohjaa asiakkaita FAQ-osion ja dokumentoitujen korvausaikojen kautta, mutta hintojen vertailu vaatii postinumeron syöttämisen ja Y-tunnus puuttuu julkisen näkyvyyden alueelta. Riippumattomia asiakasarvioita ei näy.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1314,7 +1338,16 @@
     "Sähköpostipalvelu ei ole ensisijainen yhteydenottokanava",
     "Chat-tuki puuttuu kokonaan, asiakaspalvelu vain puhelin ja viestipalvelu"
    ],
-   "yhteenveto": "Pohjola Vakuutus on OP Pohjolan pääasiallinen vakuutusyhtiö. Sivusto tarjoaa kattavan vakuutustuotteiden valikoiman (koti-, auto-, matka-, henkilö-, eläin-, vene-, metsä- ja muut vakuutukset). Hintalaskuri on ladattavissa ilman pakollisia henkilöllisiä yhteystietoja, vakuutusehdot ja omavastuut ovat selkeästi dokumentoidut ja Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun. OP-mobiilisovellus mahdollistaa vakuutusasioinnin liikkeellä. Riippumattomien arvioiden puuttuminen ja rajalliset yhteydenottokanavat ovat heikkouksia."
+   "yhteenveto": "Pohjola Vakuutus on OP Pohjolan pääasiallinen vakuutusyhtiö. Sivusto tarjoaa kattavan vakuutustuotteiden valikoiman (koti-, auto-, matka-, henkilö-, eläin-, vene-, metsä- ja muut vakuutukset). Hintalaskuri on ladattavissa ilman pakollisia henkilöllisiä yhteystietoja, vakuutusehdot ja omavastuut ovat selkeästi dokumentoidut ja Pohjola Vahinkoapu tarjoaa 24/7 korvauspalvelun. OP-mobiilisovellus mahdollistaa vakuutusasioinnin liikkeellä. Riippumattomien arvioiden puuttuminen ja rajalliset yhteydenottokanavat ovat heikkouksia.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Pohjola Vakuutus",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjola Vakuutus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "turva",
@@ -1526,6 +1559,8 @@
     "Vakuutusehdot ja tuoteselostat eivät ole julkisesti ladattavissa ilman rekisteröitymistä"
    ],
    "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa laajan valikoiman vakuutustuotteita koti-, auto-, matka- ja lemmikkivakuutuksista. Sivusto on selkeästi navigoitu ja asiakaspalvelu on helposti saavutettavissa puhelimitse. Kuitenkin hinnoittelutiedot (omavastuu, välihinnat), vakuutusehdot ja asiakasarviot ovat joko piilossa tai vaativat kirjautumista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1540,7 +1575,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: turva.fi/turva-yrityksena/sisallot/avainlippu/ -sivun otsikko ja teksti 'Turvalla on Avainlippu-merkki... Suomalaisen Työn Liiton (STL) myöntämästä Avainlippu-merkistä'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turva",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turva' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "16.7.2026",

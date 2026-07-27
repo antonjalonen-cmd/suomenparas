@@ -223,7 +223,9 @@
     "Mobiilisovellusta ei ole mainittu",
     "Chat-palvelua ei ole saatavilla asiakastuen kautta"
    ],
-   "yhteenveto": "Hertz on kansainvälinen autovuokraamopalvelu, joka tarjoaa laajan valikoimaa ajoneuvoja ja palkittua kanta-asiakasprogrammaa. Sivusto julkaisee selkeästi vuokrausehdot, omavastuu- ja vakuutusoptiot sekä tarjoaa useita yhteystapoja. Varaus-sivulla voi tarkastaa hintoja ilman yhteystietoja, ja FAQ-osio kattaa yleisiä kysymyksiä."
+   "yhteenveto": "Hertz on kansainvälinen autovuokraamopalvelu, joka tarjoaa laajan valikoimaa ajoneuvoja ja palkittua kanta-asiakasprogrammaa. Sivusto julkaisee selkeästi vuokrausehdot, omavastuu- ja vakuutusoptiot sekä tarjoaa useita yhteystapoja. Varaus-sivulla voi tarkastaa hintoja ilman yhteystietoja, ja FAQ-osio kattaa yleisiä kysymyksiä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "scandia-rent",
@@ -432,7 +434,9 @@
     "FAQ-sivu (usein kysytyt kysymykset) palautuu HTTP 404:ksi, vaikka linkki näkyy navigaatiossa",
     "Puuttuvat aukioloajat yksittäisille toimipisteille — vain asiakaspalvelun keskitetyt tunnit (ma-pe 8-16) näkyvät"
    ],
-   "yhteenveto": "Mabi Mobility (entinen Scandia Rent) on pitkän historian autovuokraamoketju, jolla on yli 100 toimipistettä ympäri Suomea. Sivusto tarjoaa kattavat vuokrausehdot, laajat yhteystiedot ja selkeän toimipisteluettelon. Hinnoittelu ja yksittäisten toimipisteiden aukioloajat ovat kuitenkin saatavilla vain varausjärjestelmän kautta, ja FAQ-osio on saavutettavissa olevista sivuista poiketen viallinen."
+   "yhteenveto": "Mabi Mobility (entinen Scandia Rent) on pitkän historian autovuokraamoketju, jolla on yli 100 toimipistettä ympäri Suomea. Sivusto tarjoaa kattavat vuokrausehdot, laajat yhteystiedot ja selkeän toimipisteluettelon. Hinnoittelu ja yksittäisten toimipisteiden aukioloajat ovat kuitenkin saatavilla vain varausjärjestelmän kautta, ja FAQ-osio on saavutettavissa olevista sivuista poiketen viallinen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "sixt",
@@ -641,7 +645,16 @@
     "Vakuutus- ja omavastuuvaihtoehdot mainittu, mutta yksityiskohdat saatavilla vain PDF:n muodossa",
     "Vuokrausehdot eivät ole suoraan verkkoosion muodossa, vaan linkittävät PDF-dokumentteihin"
    ],
-   "yhteenveto": "Sixt on kansainvälinen autovuokraamoketju, joka tarjoaa laajalti toimipisteitä ja 24/7-palvelua. Sivusto on selkeästi järjestetty ja sisältää asiakasarviointeja. Kuitenkin konkreettiset vuokrahinnat edellyttävät varaustyökalun käyttöä, ja vakuutus- sekä omavastuuvaihtoehdot löytyvät pääosin PDF-dokumenteista."
+   "yhteenveto": "Sixt on kansainvälinen autovuokraamoketju, joka tarjoaa laajalti toimipisteitä ja 24/7-palvelua. Sivusto on selkeästi järjestetty ja sisältää asiakasarviointeja. Kuitenkin konkreettiset vuokrahinnat edellyttävät varaustyökalun käyttöä, ja vakuutus- sekä omavastuuvaihtoehdot löytyvät pääosin PDF-dokumenteista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Sixt",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Sixt' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "avis",
@@ -855,6 +868,8 @@
     "Vuokrausehdoista puuttuvat km-rajat, polttoaine-ehdot ja täsmälliset ikärajoitukset"
    ],
    "yhteenveto": "Avis on kansainvälinen autovuokraamo, jonka Suomen sivusto tarjoaa kattavat tiedot vakuutuksista ja vuokrausehdoista FAQ-osiossa. Hinnoittelua ei näy ilman varauskonetta, ja toimipisteiden yksityiskohtaiset tiedot (aukioloajat, tarkka sijainti) puuttuvat verkkosivuilta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1078,7 +1093,9 @@
     "Omavastuu- ja vakuutusvaihtoehdot eivät ole saatavilla ennen yhteystietojen antamista",
     "Vuokrausehdot, toimipisteiden aukioloajat ja FAQ eivät lataudu (404-virheet tai timeout)"
    ],
-   "yhteenveto": "Europcar on Suomen suurin autovuokraamo, jonka verkkosivusto on JavaScript-pohjainen SPA-sovellus. Yhteystiedot ja Y-tunnus ovat saatavilla, mutta hinnoittelua, vakuutusvaihtoehtoja ja vuokrausehtoja ei voi nähdä ilman suoraa vuorovaikutusta varauskaavakkeeseen tai yhteydenottoa palveluun. Sivuston käytettävyys vertailussa on heikko, koska kriittiset tiedot edellyttävät asiakkaan yhteystietojen antamista."
+   "yhteenveto": "Europcar on Suomen suurin autovuokraamo, jonka verkkosivusto on JavaScript-pohjainen SPA-sovellus. Yhteystiedot ja Y-tunnus ovat saatavilla, mutta hinnoittelua, vakuutusvaihtoehtoja ja vuokrausehtoja ei voi nähdä ilman suoraa vuorovaikutusta varauskaavakkeeseen tai yhteydenottoa palveluun. Sivuston käytettävyys vertailussa on heikko, koska kriittiset tiedot edellyttävät asiakkaan yhteystietojen antamista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "green-motion",
@@ -1288,7 +1305,9 @@
     "Sivusto on JavaScript-pohjainen SPA, monet linkitetyt sivut (ehdot, UKK, tarjoukset) eivät ole saatavilla",
     "Y-tunnus, osoite ja yritystiedot puuttuvat kokonaan; Y-tunnus ei löytynyt julkisista rekistereistä"
    ],
-   "yhteenveto": "Green Motion on kansainvälinen autonvuokraamo, joka tarjoaa Suomessa palvelua Helsingissä, Oulussa, Rovaniemellä, Kittilässä ja Ivalossa. Sivusto korostaa ympäristöystävällistä liiketoimintaa ja sähköajoneuvoja. Sivusto on kuitenkin rakennettu JavaScript-pohjaiseksi SPA:ksi, joka tekee sen haastavaksi jäljitettäväksi automaattisesti — hinnat, ehdot ja vakuutustiedot ovat piilossa varausenlaskimen taakse, ja Y-tunnus tai yritystiedot eivät ole saatavissa."
+   "yhteenveto": "Green Motion on kansainvälinen autonvuokraamo, joka tarjoaa Suomessa palvelua Helsingissä, Oulussa, Rovaniemellä, Kittilässä ja Ivalossa. Sivusto korostaa ympäristöystävällistä liiketoimintaa ja sähköajoneuvoja. Sivusto on kuitenkin rakennettu JavaScript-pohjaiseksi SPA:ksi, joka tekee sen haastavaksi jäljitettäväksi automaattisesti — hinnat, ehdot ja vakuutustiedot ovat piilossa varausenlaskimen taakse, ja Y-tunnus tai yritystiedot eivät ole saatavissa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "18.7.2026",

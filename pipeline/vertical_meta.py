@@ -1300,3 +1300,33 @@ META["silmasairaalat"] = {
          "Demo voi sisaltaa affiliate-linkkeja; ne eivat vaikuta pisteisiin."),
     ],
 }
+
+META["uutismediat"] = {
+    "slug": "uutismediat",
+    "nimi": "Uutismediat",
+    "nav": "Uutismediat",
+    "h1": "Suomen paras uutismedia 2026",
+    "yksikko": "suomalaista uutismediaa",
+    "lead": ("Pisteytimme {n} suomalaista uutismediaa {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: kerrotaanko "
+             "lukijalle avoimesti, mitä sisältö maksaa, kuka siitä vastaa ja miten "
+             "virheet korjataan?"),
+    "meta_title": "Suomen paras uutismedia 2026 | uutismediat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista uutismediaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Vertailemme yksittäisiä medioita, emme konserneja.</b> Siksi listalla on "
+         "esimerkiksi sekä Helsingin Sanomat että Ilta-Sanomat, vaikka molempia "
+         "julkaisee Sanoma Media Finland Oy, ja sekä Iltalehti että Kauppalehti "
+         "(Alma Media). Julkaisija ja omistaja kerrotaan jokaisen median sivulla."),
+        ("<b>Emme arvioi journalismin laatua tai linjaa.</b> Mittaamme median "
+         "verkkosivuston läpinäkyvyyttä lukijan silmin: näkyykö tilaushinta ennen "
+         "tietojen antamista, onko vastaava päätoimittaja ja toimituksen yhteystiedot "
+         "esillä, kuvataanko virheiden korjauskäytäntö ja erotellaanko kaupallinen "
+         "sisältö journalismista. Emme ota kantaa sisältöön."),
+        ("<b>Yle on mukana eri rahoitusmallilla.</b> Yle Uutiset on Yle-verolla "
+         "rahoitettu julkisen palvelun media ilman tilausmaksua — sen kohdalla "
+         "tilaushintakriteeri mittaa, kerrotaanko maksuttomuus ja rahoitusmalli "
+         "selkeästi."),
+    ],
+}

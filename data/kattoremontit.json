@@ -221,6 +221,8 @@
     "Vertailevat tutkimukset tai riippumattomien tahojen arviot puuttuvat transparenssista"
    ],
    "yhteenveto": "Vesivek on kattavasti palvelun rakentava kattoremontti- ja sadevesijärjestelmätoimittaja, jonka sivusto tarjoaa selkeät hintatiedot, perusteelliset takuutiedot ja kattavan materiaalipresentaation. Sivustolla korostuvat yrityksen alan johtavuus, yli 40 vuoden kokemus ja ISO-sertifioinnin mukainen laadun hallinta. Asiakas löytää helposti peruspalvelut ja voi käyttää hintalaskuria, mutta joitakin remonttiprosessin yksityiskohtia ei ole avoimesti luettavissa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -468,7 +470,9 @@
     "Toimipisteen aukioloajat eivät ole näkyvissä – ilmoitetaan vain 24 h vuotopäivystys ja työajat 7–18 arkisin, mutta ei asiakaspalvelun päivittäisiä aukioloaikoja",
     "Digitaalisen yhteydenoton vaihtoehdot rajalliset – puuttuu live-chat, ei mainintaa tekstiviesteistä tai pikaviestipalveluista, vain puhelin ja sähköposti"
    ],
-   "yhteenveto": "Kattokeskus on perheyritys, joka perustettiin vuonna 1997 ja työllistää noin 280 henkilöä kahdeksassa toimipisteessä. Yrityksen verkkosivusto tarjoaa hyvin organisoidut tiedot kattoremonttien hinnoista, prosessista ja materiaaleista sekä kattavat takuutiedot ja asiakastarinat. Erityinen vahvuus on yksityiskohtainen hintalaskuri ja erityyppisten kattoremonttien hintojen selvä esittäminen, mikä antaa asiakkaille konkreettisen hinnoittelukäsityksen."
+   "yhteenveto": "Kattokeskus on perheyritys, joka perustettiin vuonna 1997 ja työllistää noin 280 henkilöä kahdeksassa toimipisteessä. Yrityksen verkkosivusto tarjoaa hyvin organisoidut tiedot kattoremonttien hinnoista, prosessista ja materiaaleista sekä kattavat takuutiedot ja asiakastarinat. Erityinen vahvuus on yksityiskohtainen hintalaskuri ja erityyppisten kattoremonttien hintojen selvä esittäminen, mikä antaa asiakkaille konkreettisen hinnoittelukäsityksen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "ruukki-katot",
@@ -679,7 +683,9 @@
     "Tuotesivujen deep links palauttavat 404-virheitä, monista sivuista päätyy automaattisesti pääsivulle",
     "Hinnoittelu jää epämääräiseksi julkisesti eikä yksityiskohtaisia hintoja näy ilman laskuria tai yhteydenottoa"
    ],
-   "yhteenveto": "Ruukki on vakiintunut kattointoimija, joka keskittyy kattoremontteihin ja teräskattotuotteisiin laajalla palveluvalikoimalla. Verkkosivuilla esitellään prosessi, tuotteet ja pitkä takuuaika selkeästi, mutta jotkut yksityiskohdat vaativat laskurin tai suoran yhteydenottolomakkeen käyttöä. Yritys tarjoaa ammattimaista neuvontaa useista toimipisteistä, vaikka hinnoittelun täydellinen läpinäkyvyys jää puutteelliseksi."
+   "yhteenveto": "Ruukki on vakiintunut kattointoimija, joka keskittyy kattoremontteihin ja teräskattotuotteisiin laajalla palveluvalikoimalla. Verkkosivuilla esitellään prosessi, tuotteet ja pitkä takuuaika selkeästi, mutta jotkut yksityiskohdat vaativat laskurin tai suoran yhteydenottolomakkeen käyttöä. Yritys tarjoaa ammattimaista neuvontaa useista toimipisteistä, vaikka hinnoittelun täydellinen läpinäkyvyys jää puutteelliseksi.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "kattocenter",
@@ -894,7 +900,9 @@
     "Riippumattomien asiakasarviointien puute: vain yrityksen omat asiakaskertomukset eikä ulkopuolisten arviointilähteisiin linkkejä",
     "Navigaation ongelmia: 'Kattoremontin hinta' -linkki päänavigaatiosta johtaa 404-virheeseen eikä toimi"
    ],
-   "yhteenveto": "Suomen KattoCenter on kattoremontteihin erikoistunut yritys, joka tarjoaa asiakkaille yksityiskohtaisen prosessin kuvauksen, kolmen kattoaineen teknisen vertailun ja selkeät takuuehdot. Sivusto on selkeästi rakennettu ja sisältää runsaasti informaatiota remontin vaiheista ja materiaaleista, mutta konkreettiset hintatiedot ja riippumattomat asiakasarviot puuttuvat."
+   "yhteenveto": "Suomen KattoCenter on kattoremontteihin erikoistunut yritys, joka tarjoaa asiakkaille yksityiskohtaisen prosessin kuvauksen, kolmen kattoaineen teknisen vertailun ja selkeät takuuehdot. Sivusto on selkeästi rakennettu ja sisältää runsaasti informaatiota remontin vaiheista ja materiaaleista, mutta konkreettiset hintatiedot ja riippumattomat asiakasarviot puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "kerabit",
@@ -1103,7 +1111,9 @@
     "Itsenäisiä arvioita tai asiakasarvioita ei näy sivustolla, epäsuora luottamuksen vahvistus",
     "Chat-tuki puuttuu, yhteydenotto mahdollista vain puhelimitse tai lomakkeilla"
    ],
-   "yhteenveto": "KerabitPro Oy tarjoaa kattoremontti- ja kattohuoltopalveluita selkeällä prosessin kuvauksella ja avoimilla hintatiedoilla. Yritys mainitsi kirjalliset takuut tuotteille ja töille sekä pitkät tuotteiden elinkaarivarannot, mutta itsenäisiä arvioita tai asiakaspalautetta ei ole näkyvissä."
+   "yhteenveto": "KerabitPro Oy tarjoaa kattoremontti- ja kattohuoltopalveluita selkeällä prosessin kuvauksella ja avoimilla hintatiedoilla. Yritys mainitsi kirjalliset takuut tuotteille ja töille sekä pitkät tuotteiden elinkaarivarannot, mutta itsenäisiä arvioita tai asiakaspalautetta ei ole näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "kattotutka",
@@ -1313,6 +1323,8 @@
     "Ei riippumattomia sertifiointeja tai ulkopuolisia arvioita; vain omasta kontrollista kerättävät asiakaskokemukset"
    ],
    "yhteenveto": "Kattotutka on valtakunnallisesti toimiva, vuodesta 1993 perustettu perheyritys, joka erikoistuu katto- ja vesikattoremontteihin sekä huoltoon. Heidän verkkosivunsa kuvaavat kattavasti remonttiprosessia, eri kattomateriaaleja ja niiden käsittelytapoja. Erityisesti ELINKAARIKATTO® -palvelumalli tarjoaa ainutlaatuisen 25 vuoden täystakuun ratkaisun yhdessä sopimuksessa. Hinnoittelu jää kuitenkin avoimeksi ilman julkisia hintaviitteita, mikä vaikeuttaa vertailua.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1535,7 +1547,9 @@
     "Takuun kesto ei ole tarkasti määritelty, vain mainittu että se on pitkä",
     "Remontin vaiheittainen prosessi ei ole yksityiskohtaisesti kuvattu, pelkästään yleinen kuvaus avaimet käteen -periaatteesta"
    ],
-   "yhteenveto": "Kattomestarit on valtakunnallinen kattoremonttiyritys, joka on toiminut yli 40 vuotta. Sivusto kuvaa palvelut, käytetyt materiaalit ja osittaista hinnoittelua selkeästi, mutta yritystiedot ja tarkka takuuaika puuttuvat. Asiakkaat voivat helposti pyytää tarjousta ja saavat hintaindikaatioita joihinkin palveluihin sekä kuvatun prosessin avaimet käteen -menetelmästä."
+   "yhteenveto": "Kattomestarit on valtakunnallinen kattoremonttiyritys, joka on toiminut yli 40 vuotta. Sivusto kuvaa palvelut, käytetyt materiaalit ja osittaista hinnoittelua selkeästi, mutta yritystiedot ja tarkka takuuaika puuttuvat. Asiakkaat voivat helposti pyytää tarjousta ja saavat hintaindikaatioita joihinkin palveluihin sekä kuvatun prosessin avaimet käteen -menetelmästä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "26.7.2026",

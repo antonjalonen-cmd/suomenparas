@@ -1,0 +1,55 @@
+{
+  "slug": "yle-uutiset",
+  "fetched_ok": [
+    "https://yle.fi/",
+    "https://yle.fi/a/20-10009544",
+    "https://yle.fi/a/20-293622",
+    "https://yle.fi/a/20-290385",
+    "https://yle.fi/a/20-10009548",
+    "https://yle.fi/a/20-10009542"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "kylla",
+  "mainonta_eroteltu": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "tilaushinta_eur_kk": 0,
+  "ai_arviot": {
+    "selkeys": 88,
+    "hintojen_loydettavyys": 92,
+    "sisallon_kattavuus": 85
+  },
+  "vahvuudet": [
+    "Verorahoitteisuus ja maksuttomuus selkeasti mainittu kaikilla pääsivuilla - lukija tietää palvelun olevan ilmainen ja veroksi rahoitettu",
+    "Vastaavat paatoimittajat nimetty erityisesti kussakin yksikossa (uutiset, kulttuuri, ruotsinkielinen yle) konkreettisilla nimillä ja osastoittain",
+    "Oikaisukäytäntö kuvattu yksityiskohtaisesti omalla sivulla linkkeineen ja sähköpostiosoitteella, plus journalismin eettiset ohjeet avoimesti saatavilla"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole selvästi näkyvillä vaikka yhtiön nimi Yleisradio Oy mainitaan - vain viitataan siihen että 99,98 % omistaa Suomen valtio",
+    "Riippumattomia arviolähteitä (JSN-jäsenyys, ulkoiset auditoinnit) ei mainittu löydetyillä sivuilla - vain sisäisen vastuullisuuden periaatteet",
+    "FAQ-osio (UKK) puuttuu - kysymys-vastaus-muoto helpottaisi useimpien lukijoiden tiedonhakua"
+  ],
+  "yhteenveto": "Yle on veronmaksajien rahoittama kansanpalveluyhtiö, jonka läpinäkyvyys on korkea operatiivisissa asioissa. Organisaatio, vastaavat toimittajat ja korjausmenettely kuvataan selkeästi omilla sivuillaan, ja maksuton status ilmaistaan kaikissa keskeisissa yhteyksissä. Riippumattoman valvonnan viittaukset jäävät kuitenkin vähäisiksi julkisesti saatavilla olevan aineiston perusteella.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Vastuullisuussivu ilmoittaa 'Verorahoitteisesti toimivana yhtiönä Yle kiinnittaa erityistä huomiota sisältöjensä ja tuotantojensa vastuullisuuteen'. Toimintaperiaatteiden sivulla lueteltuina Yle-lain määrittelemät julkisen palvelun tehtävät ja mainitaan yleisradiovero rahoituslähteenä.",
+    "paatoimittaja_esilla": "HAVAINTO: Organisaatiosivulla (Ylen yksiköt) nimetään vastaavat paatoimittajat: Uutiset ja urheilu -yksikön johtajana ja vastaavana paatoimittajana toimii Krista Taubert; Kulttuuri ja asia -yksikön johtajana ja vastaavana paatoimittajana Johanna Törn-Mangs; Svenska Ylen johtajana ja vastaavana paatoimittajana Anna Forth.",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: Omalla sivullaan kuvattu tarkasti oikaisu- ja vastinepyynnön prosessi, sähköpostiosoite oikaisu@yle.fi, ohjeet mitä sisällyttää pyyntöön, ja jaotteltu erilliset osoitteet ruotsinkielisille ja saamenkielisille sisällöille.",
+    "mainonta_eroteltu": "HAVAINTO: Ylen koko liiketoimintamalli on julkisen palvelun rahoitus ilman kaupallista mainontaa. Vastuullisuussivulla ei mainita mitään mainostuloista tai kaupallisesta sisällöstä - organisaatio kuvataan kokonaan verorahoitteisena.",
+    "y_tunnus_esilla": "HAVAINTO: Yhtiö kutsutaan 'Yleisradio Oy':ksi organisaatiosivuilla, ja mainitaan 99,98 % valtion omistuksesta, mutta erityistä Y-tunnusta ei näy selkeästi julkisesti saatavilla olleissa sivuissa.",
+    "riippumaton_arvio": "HAVAINTO: Vastuullisuussivulla mainitaan sitoumus YK:n kestävän kehityksen tavoitteisiin, Global Compact -yritysvastuuhaasteen periaatteisiin, ja FiBS ry:n jäsenyys vuodesta 2011. Erityisiä JSN-jäsenyyttä tai ulkoisia auditointilausuntoja ei löydetty haetuilta sivuilta.",
+    "puhelin_esilla": "HAVAINTO: Yhteystietosivulla Ylen vaihde numerolla 09 14801. Organisaatiosivulla mainitaan erilliset puhelinnumerot tekniselle tuelle: +358 9 1480 5500 suomeksi ja +358 9 1480 4653 ruotsiksi.",
+    "email_esilla": "HAVAINTO: Yhteystietosivulla sähköpostiosoitteet muodossa etunimi.sukunimi@yle.fi, erityisesti oikaisu@yle.fi oikaisu- ja vastinepyynnöille, yle.uutiset@yle.fi uutisille ja yle.urheilu@yle.fi urheilu-juttuvinkeille.",
+    "chat_mainittu": "HAVAINTO: Yhteystietosivulla mainitaan 'Chabla-palvelun kautta' asiakaspalvelu, jonne voidaan ladata maksuton iOS- tai Android-sovellus.",
+    "aukioloajat_esilla": "HAVAINTO: Yhteystietosivulla mainittu televisio-studioihin saapuvien vieraiden sisäänkäynti avoinna ma-pe 05.00-10.00 ja 16.45-22.15. Mediatalon aula suljettu remontin vuoksi 25.1.2026 alkaen.",
+    "ukk_osio": "HAVAINTO: Erillistä FAQ- tai UKK-osiota ei löydetty haetuilta sivuilla.",
+    "mobiilisovellus": "HAVAINTO: Yhteystietosivulla mainittu maksuttomat Chabla-sovellukset iOS:lle ja Androidille asiakaspalvelun kautta.",
+    "riippumattomuus_julkaisupolitiikka": "HAVAINTO: Organisaatiosivulla mainitaan hallituksen nimittämät vastaavat toimittajat johtavat ja valvovat toimitustyötä, sekä Ylen vastuullisuussivulla korostetaan luotettavuus ja riippumattomuus ulkoisista vaikutusyrityksistä."
+  }
+}

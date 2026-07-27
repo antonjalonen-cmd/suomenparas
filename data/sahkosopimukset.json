@@ -231,6 +231,8 @@
     "Mobiilisovellus puuttuu, kun monella kilpailijalla on oma sovellus asiakkaiden hallinnoimiseen"
    ],
    "yhteenveto": "Turku Energia on Turun kaupungin omistama energiayhtiö, joka tarjoaa sähkösopimuksia, kaukolämpöä ja muita energiapalveluita koko Suomessa. Verkkosivuilla hinnat, perusmaksut ja sopimustyypit ovat selkeästi esillä ilman kirjautumista. Asiakaspalvelu on helposti saavutettavissa puhelimen, sähköpostin ja chatbotin kautta. Puutteita ovat sähkön alkuperän osittainen kuvaaminen ja mobiilisovelluksen puuttuminen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -251,7 +253,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: sama turkuenergia.fi/vastuullisuus/turku-energian-sertifikaatit sivu listaa 'Työterveys- ja työturvallisuusjärjestelmä ISO 45001:2018'."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turku Energia",
+    "paivakatselut_ka": 4,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turku Energia' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "omavoima",
@@ -470,7 +479,16 @@
     "Vastuullisuusviestintää pitäisi lisätä (47% haluaisi tietää enemmän)",
     "Mobiilisovellusta ei ole saatavilla – vain web-pohjainen Oiva-palvelu"
    ],
-   "yhteenveto": "Omavoima Oy on paikallis-omistuksinen sähköyhtiö, jonka perusti 2009 Lännen Omavoiman nimellä. Verkkosivulla näkyy selkeästi viiden sähkösopimustyypin hinnat (8,35–8,98 snt/kWh) ilman yhteystietojen antamista. EPSI-tutkimus antaa yleisen asiakastyytyväisyyden 73,5 pisteeksi, mutta asiakaspalvelu saa erityiskiitosta. Pääongelmat ovat digitaalipalvelut ja vastuullisuusviestintä, joissa kehitystä odotetaan."
+   "yhteenveto": "Omavoima Oy on paikallis-omistuksinen sähköyhtiö, jonka perusti 2009 Lännen Omavoiman nimellä. Verkkosivulla näkyy selkeästi viiden sähkösopimustyypin hinnat (8,35–8,98 snt/kWh) ilman yhteystietojen antamista. EPSI-tutkimus antaa yleisen asiakastyytyväisyyden 73,5 pisteeksi, mutta asiakaspalvelu saa erityiskiitosta. Pääongelmat ovat digitaalipalvelut ja vastuullisuusviestintä, joissa kehitystä odotetaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Omavoima",
+    "paivakatselut_ka": 4,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Omavoima' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "vaasansahko",
@@ -690,6 +708,8 @@
     "Sopimusehdot-sivu ei löytynyt tai on saavuttamaton"
    ],
    "yhteenveto": "Vaasan Sähkö on Vaasan kaupungin omistama sähköyhtiö, joka myy sähköä ja kaukolämpöä koko maassa. Verkkosivuilla esitetään selkeat hinnat eri sopimustyyppien mukaan ja asiakaspalvelu on tavoitettavissa monella kanavalla. Kuitenkin joitakin tärkeitä sivuja ei löydy, Y-tunnus puuttuu julkisista tiedoista, ja usein kysytyt kysymykset -osio olisi hyödyllinen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -716,7 +736,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: sama vaasansahko.fi/yritykset/tietoa-meista -sivu listaa 'ISO-27001 Tietoturva Voimassaolo: 5.3.2026-4.3.2029', laajuudessa 'Sähkön myynti ja jakelu sekä niihin liittyvät tukipalvelut'."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Vaasan Sähkö",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Vaasan Sähkö' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "nordicgreen",
@@ -936,6 +963,8 @@
     "Ulkoisten arvioiden näkyvyys: Sivuilla mainitaan vain sisäinen tutkimus (94%) ja EPSI Rating, mutta kolmannen osapuolen arvostelualustat (kuten Trustpilot) puuttuvat"
    ],
    "yhteenveto": "Nordic Green Energy on vaasalainen sähköyhtiö, joka on erikoistunut ilmastoystävälliseen ja uusiutuvaan sähköön. Yrityksen verkkosivut tarjoavat selkeän ja läpinäkyvän esityksen eri sopimustyypeistä, hinnoista ja palveluista ilman pakollisia yhteydenottolomakkeita. Yrityksen asiakastyytyväisyys on korkea EPSI Ratingin ja omien tutkimusten mukaan, ja se tarjoaa monipuolisen mobiilisovelluksen sekä kattavaa tukea FAQ-osioissa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -944,7 +973,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: nordicgreen.fi/sahkosopimus/lisapalvelut/ekoenergia/ -sivulla lukee 'Suomen luonnosuojeluliiton sertifioimaa sähköä' ja 'EKOenergia-merkintä on ensimmäinen ja ainoa yleiseurooppalainen sähkön ympäristömerkki'. Merkintä on valinnainen lisä sähkösopimukseen."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Nordic Green Energy",
+    "paivakatselut_ka": 5,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Nordic Green Energy' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "helen",
@@ -1163,7 +1199,16 @@
     "Hintojen henkilökohtaistaminen vaatii koko valinta-apurin täyttämisen",
     "Riippumattomia asiakasarvioita ei ole saatavilla"
    ],
-   "yhteenveto": "Helen on Helsingin kaupungin omistama sähköntoimittaja, joka tarjoaa selkeästi hinnoitellut ja monipuoliset sopimusvaihtoehdot. Verkkosivuilla näkyvät kilpailukykyiset hinnat (alkaen 8,89 snt/kWh), perusmaksut ja sopimustyypit sekä asiakastuen kanavat. Puutteena ovat itsenäisen asiakasarvioinnin puute ja suoran sähköpostipalvelun vähäisyys."
+   "yhteenveto": "Helen on Helsingin kaupungin omistama sähköntoimittaja, joka tarjoaa selkeästi hinnoitellut ja monipuoliset sopimusvaihtoehdot. Verkkosivuilla näkyvät kilpailukykyiset hinnat (alkaen 8,89 snt/kWh), perusmaksut ja sopimustyypit sekä asiakastuen kanavat. Puutteena ovat itsenäisen asiakasarvioinnin puute ja suoran sähköpostipalvelun vähäisyys.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Helen",
+    "paivakatselut_ka": 15,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Helen' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "vattenfall",
@@ -1383,7 +1428,16 @@
     "Perusmaksu näkyy vain referenssinä 'norm. 5,95 €/kk' ilman nykyisiä alennuksia",
     "Ei sähköpostiosoitetta asiakaspalvelulle, vain puhelin ja chat"
    ],
-   "yhteenveto": "Vattenfall on Ruotsalaisen valtionyhtiön omistama sähköntoimittaja, joka myy vain fossiilivapaata sähköä. Sivuilla on hyvä sopimusten valikoima ja riippumattomia palkintoja, mutta hinnoittelu on hyvin suljettu: konkreettisia hintoja näytetään vain rajoitetusti. Asiakaspalvelu on helposti saavutettavissa puhelimitse (020 722 9000), chat-kautta ja mobiilisovelluksen avulla."
+   "yhteenveto": "Vattenfall on Ruotsalaisen valtionyhtiön omistama sähköntoimittaja, joka myy vain fossiilivapaata sähköä. Sivuilla on hyvä sopimusten valikoima ja riippumattomia palkintoja, mutta hinnoittelu on hyvin suljettu: konkreettisia hintoja näytetään vain rajoitetusti. Asiakaspalvelu on helposti saavutettavissa puhelimitse (020 722 9000), chat-kautta ja mobiilisovelluksen avulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Vattenfall",
+    "paivakatselut_ka": 8,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Vattenfall' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "pks",
@@ -1602,7 +1656,9 @@
     "Sopimusehdot (irtisanomisaika, ehdot) eivät ole julkisesti helposti saatavilla ilman linkkien klikkaamista",
     "Ei näytä riippumattomia arvioita (Trustpilot, EPSI Rating tai muita tutkimuksia) vertailuarvoksi"
    ],
-   "yhteenveto": "PKS (Pohjois-Karjalan Sähkö Oy) on kuntaomisteinen sähköyhtiö, joka myy sopimuksia ympäri Suomen. Verkkosivustolla on näkyvissä selkeät hinnat (1,63–13,50 snt/kWh), perusmaksut (2,47–4,56 €/kk) ja laaja sopimustyyppien valikoima ilman rekisteröitymisvaatimusta. Uusiutuvan energian alkuperä on dokumentoitu kaikissa sopimuksissa. Asiakaspalveluun tavoittaa puhelimitse (013 2663 100, ma-to klo 8-16, pe 9-16) ja PKS Live -portaalissa. Kehityskohteena henkilöasiakkaiden sähköpostin puute ja riippumattomien arvioiden (Trustpilot ym.) puuttuminen."
+   "yhteenveto": "PKS (Pohjois-Karjalan Sähkö Oy) on kuntaomisteinen sähköyhtiö, joka myy sopimuksia ympäri Suomen. Verkkosivustolla on näkyvissä selkeät hinnat (1,63–13,50 snt/kWh), perusmaksut (2,47–4,56 €/kk) ja laaja sopimustyyppien valikoima ilman rekisteröitymisvaatimusta. Uusiutuvan energian alkuperä on dokumentoitu kaikissa sopimuksissa. Asiakaspalveluun tavoittaa puhelimitse (013 2663 100, ma-to klo 8-16, pe 9-16) ja PKS Live -portaalissa. Kehityskohteena henkilöasiakkaiden sähköpostin puute ja riippumattomien arvioiden (Trustpilot ym.) puuttuminen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "oomi",
@@ -1821,7 +1877,16 @@
     "Sopimusehdot-sivu palauttaa 404-virheen",
     "Riippumaton asiakasarvio (Trustpilot/EPSI) puuttuu"
    ],
-   "yhteenveto": "Oomi on suomalainen energiapalveluyritys, joka palvelee yli 800 000 asiakasta. Sähkösopimusten hinnat ja perusmaksut näkyvät sivustolla selkeästi ilman yhteystietojen antamista, ja uusiutuvan energian vaihtoehdot on dokumentoitu hyvin. Puutteina ovat Y-tunnus, sähköpostiosoite, riippumattomat asiakasarviot sekä puutteellinen sopimusehdoista kertova sivu."
+   "yhteenveto": "Oomi on suomalainen energiapalveluyritys, joka palvelee yli 800 000 asiakasta. Sähkösopimusten hinnat ja perusmaksut näkyvät sivustolla selkeästi ilman yhteystietojen antamista, ja uusiutuvan energian vaihtoehdot on dokumentoitu hyvin. Puutteina ovat Y-tunnus, sähköpostiosoite, riippumattomat asiakasarviot sekä puutteellinen sopimusehdoista kertova sivu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Oomi",
+    "paivakatselut_ka": 11,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Oomi' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "fortum",
@@ -2040,7 +2105,16 @@
     "Sähkön alkuperän erittely puuttuu (prosenttiosuudet uusiutuvalle/ydinvoimalle)",
     "Sähköpostiosoite, Y-tunnus ja yritysrekisteritiedot eivät näkyvissä"
    ],
-   "yhteenveto": "Fortum on Pohjoismaiden suurin sähköntoimittaja, joka tarjoaa kotiasiakauksille pörssisähköä, kiinteähintaisia ja määräaikaisia sopimuksia. Palvelu on helppokäyttöinen ja hinnat näkyvät suoraan ilman yhteydenottoa, mutta irtisanomisaikojen ja sähkön alkuperän yksityiskohtainen erittely puuttuu julkisesta sivusta."
+   "yhteenveto": "Fortum on Pohjoismaiden suurin sähköntoimittaja, joka tarjoaa kotiasiakauksille pörssisähköä, kiinteähintaisia ja määräaikaisia sopimuksia. Palvelu on helppokäyttöinen ja hinnat näkyvät suoraan ilman yhteydenottoa, mutta irtisanomisaikojen ja sähkön alkuperän yksityiskohtainen erittely puuttuu julkisesta sivusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Fortum",
+    "paivakatselut_ka": 37,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Fortum' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "16.7.2026",

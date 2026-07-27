@@ -221,6 +221,8 @@
     "Yksittäisten terapeutin profiilisivut eivät toimi (404-virhe), joten niiden osaamisen yksityiskohdat eivät ole saavutettavissa"
    ],
    "yhteenveto": "Mehiläisen fysioterapiapalvelu on laaja-alainen ja hyvin organisoitu valtakunnallinen palvelu, joka tarjoaa useita erikoistumisvaihtoehtoja. Hinnat ja verkkoajanvaraus ovat julkisesti saatavilla sekä sovelluksen kautta. Sivusto on informatiivinen, mutta puuttavat Y-tunnus, yleinen asiakaspalvelun sähköposti ja yksittäisten terapeutin profiilit heikentävät läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -462,7 +464,9 @@
     "Ei riippumattomia arviota tai kolmannen osapuolen arvosteluja näkyvissä (esim. Google Reviews, Trustpilot)",
     "Terapeutin erikoisaloja tai erityisiä pätevyyksiä (esim. urheilufysioterapia, neurorehab) ei kuvattu henkilöstökuvauksissa"
    ],
-   "yhteenveto": "Kotifysio on Helsinkiin perustettu fysioterapiapalvelujen tarjoaja, joka keskittyy kotikäynteihin senioreille ympäri Suomea. Sivustolla esitetään laaja terapeuttien joukko ja selkeä hinnasto sekä kattava palveluiden kuvaus. Ajanvaraus edellyttää puhelintaksi tai lomakkeen täyttöä, eikä sivustolla näy riippumattomia arviota."
+   "yhteenveto": "Kotifysio on Helsinkiin perustettu fysioterapiapalvelujen tarjoaja, joka keskittyy kotikäynteihin senioreille ympäri Suomea. Sivustolla esitetään laaja terapeuttien joukko ja selkeä hinnasto sekä kattava palveluiden kuvaus. Ajanvaraus edellyttää puhelintaksi tai lomakkeen täyttöä, eikä sivustolla näy riippumattomia arviota.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "pihlajalinna",
@@ -677,6 +681,8 @@
     "Y-tunnus ja riippumattomia arvioita/referenssejä ei ole saatavilla"
    ],
    "yhteenveto": "Pihlajalinna on suuri monitoimipisteinen terveydenhuollon yritys, joka tarjoaa fysioterapiapalveluita laajasti Suomessa. Hinnasto on täysin näkyvillä verkkosivuilla (69-108€ 45 min käynnille), verkkoajanvaraus toimii hyvin ja palveluita kuvataan kattavasti. Terapeuttien pätevyydet ja kielet on listattu. Puhelinnumero ja chat-tuki ovat helposti saatavilla, samoin kuin terveyssovellus.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -691,7 +697,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla pihlajalinna.fi/yhtio/laatu-ja-turvallisuus/laatupolitiikka todetaan, että Pihlajalinnan yksityiset terveyspalvelut (työterveys- ja lääkärikeskukset ja sairaalat) on sertifioitu ISO 14001 -ympäristöjohtamisstandardin mukaan."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pihlajalinna",
+    "paivakatselut_ka": 10,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Pihlajalinna' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "aava",
@@ -907,6 +920,8 @@
     "Säännöllisesti päivitettävä FAQ-osio puuttuu - vastauksia yleisiin kysymyksiin"
    ],
    "yhteenveto": "Lääkärikeskus Aava on suomalainen perheyritys, joka tarjoaa laaja-alaisia fysioterapiapalveluita 15 toimipisteessä ympäri Suomea. Verkkosivusto esittelee fysioterapiapalvelut selkeästi ja mahdollistaa online-ajanvarauksen sekä sovelluksen kautta, hinnat ovat julkisesti saatavilla. Sivustolla on kattava terapiapalveluiden kuvaus, mutta puuttuvat Y-tunnus, riippumattomat arviot ja FAQ-osio.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -915,7 +930,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla aava.fi/aava/laatu/vastuullisuus todetaan, että Aavalle ja Pikkujätille on myönnetty ISO 27001 -tietoturvasertifiointi."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Lääkärikeskus Aava",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Lääkärikeskus Aava' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "coronaria",
@@ -1130,7 +1152,9 @@
     "Sähköpostiosoite vain kaavana (etunimi.sukunimi@coronaria.fi), ei suoraa yhteyshenkilön sähköpostia fysioterapialle",
     "FAQ-osio ja mobiilisovellus puuttuvat; hinnaston tarkemmat tiedot sijaitsevat vain toimipaikkasivuilla"
    ],
-   "yhteenveto": "Coronaria on kattava fysioterapiapalvelun tuottaja 59 toimipisteellään ympäri Suomea. Sivusto esittelee palvelut hyvin jäsennellyllä tavalla, hintavertailu on helppo (65€ ensikäynti), ja online-ajanvaraus on selvästi saatavilla. Terapeutit on esitelty nimillä ja pätevyyksillä. Puutteina Y-tunnus ja suora sähköpostiosoite eivät ole näkyvillä fysioterapia-osiossa."
+   "yhteenveto": "Coronaria on kattava fysioterapiapalvelun tuottaja 59 toimipisteellään ympäri Suomea. Sivusto esittelee palvelut hyvin jäsennellyllä tavalla, hintavertailu on helppo (65€ ensikäynti), ja online-ajanvaraus on selvästi saatavilla. Terapeutit on esitelty nimillä ja pätevyyksillä. Puutteina Y-tunnus ja suora sähköpostiosoite eivät ole näkyvillä fysioterapia-osiossa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "terveystalo",
@@ -1346,6 +1370,8 @@
     "Verkkovarauksen selkeys: Ajanvarauksen toiminta verkossa ei ole eksplisiittisesti selvitetty (puhelin vs. online)"
    ],
    "yhteenveto": "Suomen Terveystalo Oy on merkittävä monilääkärikeskus, jonka fysioterapiaosuus tarjoaa laajat, hyvin dokumentoidut palvelut useassa erikoisuudessa. Sivusto on selkeä, sisältää paljon käytännön tietoa, toimipaikkatietoja ja FAQ:ia. Heikkoutena on yksityispotilaiden käyntihintojen puuttuminen ja terapeutin kelpoisuustietojen rajoittuneisuus julkisella sivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1354,7 +1380,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla terveystalo.com/fi/yhtio/laatu-ja-vastuullisuus todetaan, että ympäristövaikutuksia vähennetään ja hallitaan ISO 14001 -järjestelmän avulla."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Terveystalo",
+    "paivakatselut_ka": 20,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Terveystalo' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "fressi",
@@ -1569,7 +1602,9 @@
     "Y-tunnusta, johtajatietoja tai muita yritystietoja ei ole julkisesti esillä",
     "Yksittäisistä terapeuteista ei ole esittelyitä, pätevyyksistä tai kokemuksesta ei tarkempia tietoja"
    ],
-   "yhteenveto": "Fressi Hyvinvointikeskuksilla on laajapohjainen fysioterapiapalvelujen tarjonta 91 toimipisteessä ympäri Suomea. Sivusto esittelee selkeästi palvelut, hintaportaat ja verkon kautta varattavat ajanvarausvaihtoehdot. Yritystiedot ja terapeuttien yksittäiset esittelyt puuttuvat kokonaan; aukioloajat eivät ole näkyvissä pääsivustoilla."
+   "yhteenveto": "Fressi Hyvinvointikeskuksilla on laajapohjainen fysioterapiapalvelujen tarjonta 91 toimipisteessä ympäri Suomea. Sivusto esittelee selkeästi palvelut, hintaportaat ja verkon kautta varattavat ajanvarausvaihtoehdot. Yritystiedot ja terapeuttien yksittäiset esittelyt puuttuvat kokonaan; aukioloajat eivät ole näkyvissä pääsivustoilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "23.7.2026",

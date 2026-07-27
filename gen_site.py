@@ -13,11 +13,11 @@ Run:  python gen_site.py
 import json, os, html, glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-SCORE_VERSION = "v1.2"
+SCORE_VERSION = "v1.3"
 # Site-wide "latest measurement" date. Each vertical carries its own `updated` —
 # never relabel a vertical with a date it wasn't measured on (methodology promises
 # results are not rewritten retroactively).
-UPDATED = "16.7.2026"
+UPDATED = "26.7.2026"
 
 # Order matters: first vertical is the site's flagship (shown on the front-page board).
 VERTICAL_ORDER = ["lainavertailu", "vakuutukset", "sahkosopimukset", "laajakaista"]
@@ -1270,6 +1270,20 @@ def build_profile(c, pos, v):
     <tbody>{cert_rows}</tbody></table>
     <p class="note" style="margin:12px 14px">Vahvistetut sertifioinnit ja auditoinnit lisäävät kokonaispisteitä (max +3,0). <a href="../../../metodologia/">Miten bonus lasketaan →</a></p>
   </div>"""
+    if c.get("sitoutumis_bonus"):
+        sit_rows_html = "".join(
+            f'<tr><td>{esc(r["mittari"])}<div class="quote">{esc(r["lahde"])}</div></td>'
+            f'<td class="src">{esc(r["arvo"])}</td>'
+            f'<td class="pts"><b>+{str(r["pisteet"]).replace(".", ",")}</b></td></tr>'
+            for r in c.get("sitoutumisindeksi", []))
+        stb = str(c["sitoutumis_bonus"]).replace(".", ",")
+        receipts += f"""
+  <div class="receipt">
+    <div class="receipt-head"><h3>Sitoutumisindeksi (bonus)</h3><span class="sub">+{stb} p</span></div>
+    <table class="rows"><thead><tr><th>Joustavuus</th><th>Tila</th><th class="pts">Bonus</th></tr></thead>
+    <tbody>{sit_rows_html}</tbody></table>
+    <p class="note" style="margin:12px 14px">Avoimesti kerrotut palautus-, peruutus- tai irtisanomisehdot keventävät kuluttajan sitoutumista ja tuovat pienen bonuksen (max +1,0). Puuttuminen ei koskaan vähennä pisteitä. <a href="../../../metodologia/">Miten bonus lasketaan →</a></p>
+  </div>"""
 
     vah = "".join(f"<li>{esc(x)}</li>" for x in c["vahvuudet"])
     keh = "".join(f"<li>{esc(x)}</li>" for x in c["kehityskohteet"])
@@ -1288,12 +1302,19 @@ def build_profile(c, pos, v):
         idrows = f'<div><span>Y-tunnus</span><b class="mono">{esc(c["y_tunnus"])}</b></div>{reg}'
     else:
         idrows = '<div><span>Y-tunnus</span><b>Ei suomalaista Y-tunnusta</b></div>'
+    tun = c.get("tunnettuus")
+    tunrow = ""
+    if tun:
+        tunrow = (f'<div><span>Tunnettuus (ei vaikuta pisteisiin)</span>'
+                  f'<b title="{esc(tun.get("lahde", ""))}">{esc(tun.get("luokka", "–"))} · '
+                  f'~{tun.get("paivakatselut_ka", 0)} lukijaa/pv (fi-Wikipedia)</b></div>')
     facts = f"""
     <div class="p-facts">
       <div><span>Verkkosivu</span><b>{esc(c['domain'])}</b></div>
       <div><span>Omistaja</span><b>{esc(c['omistaja'])}</b></div>
       {idrows}
       {extra}
+      {tunrow}
       <div><span>LCP (mobiili)</span><b class="mono">{lcp}</b></div>
     </div>"""
 
@@ -1308,6 +1329,8 @@ def build_profile(c, pos, v):
       <tr><td>Läpinäkyvyys</td><td class="src">30 % × {str(p['lapinakyvyys']).replace('.', ',')}</td><td class="pts"><b>{f"{0.30*p['lapinakyvyys']:.1f}".replace('.', ',')}</b></td></tr>
       <tr><td>Tavoitettavuus</td><td class="src">20 % × {str(p['tavoitettavuus']).replace('.', ',')}</td><td class="pts"><b>{f"{0.20*p['tavoitettavuus']:.1f}".replace('.', ',')}</b></td></tr>
       <tr><td>AI-laatuarvio</td><td class="src">20 % × {str(p['ai_laatu']).replace('.', ',')}</td><td class="pts"><b>{f"{0.20*p['ai_laatu']:.1f}".replace('.', ',')}</b></td></tr>
+      {f'<tr><td>Sertifiointibonus</td><td class="src">max +3,0</td><td class="pts"><b>+{str(c["sertifikaatti_bonus"]).replace(".", ",")}</b></td></tr>' if c.get("sertifikaatti_bonus") else ''}
+      {f'<tr><td>Sitoutumisindeksi</td><td class="src">max +1,0</td><td class="pts"><b>+{str(c["sitoutumis_bonus"]).replace(".", ",")}</b></td></tr>' if c.get("sitoutumis_bonus") else ''}
     </tbody></table>
   </div>"""
 
@@ -1420,8 +1443,18 @@ def build_metodologia():
   </div>
 
   <div class="receipt">
-    <div class="receipt-head"><h3>Sertifiointibonus (uutta Score v1.2:ssa, 23.7.2026 alkaen)</h3><span class="sub">max +3,0 p</span></div>
+    <div class="receipt-head"><h3>Sertifiointibonus (Score v1.2, 23.7.2026 alkaen)</h3><span class="sub">max +3,0 p</span></div>
     <p class="note" style="margin:14px"><b>Vahvistetut sertifioinnit lisäävät uskottavuutta ja pisteitä.</b> Yritys saa +1,5 pistettä jokaisesta sen omalta sivustolta tai virallisesta rekisteristä vahvistetusta sertifioinnista, laatujärjestelmästä, alan liiton jäsenyydestä tai julkaistusta riippumattomasta auditoinnista — enintään kahdesta lasketaan (max +3,0), ja kokonaispisteet on rajattu sataan. Sertifiointien puuttuminen ei koskaan vähennä pisteitä. Jokainen laskettu sertifiointi näkyy lähteineen yrityksen kuitissa, ja data kerätään omana mittauskierroksenaan kategoria kerrallaan.</p>
+  </div>
+
+  <div class="receipt">
+    <div class="receipt-head"><h3>Sitoutumisindeksi (uutta Score v1.3:ssa, 26.7.2026 alkaen)</h3><span class="sub">max +1,0 p</span></div>
+    <p class="note" style="margin:14px"><b>Kevyt sitoutuminen palkitaan, raskas ei rankaise.</b> Jos kategorian läpinäkyvyyskriteereihin kuuluu palautus-, peruutus- tai irtisanomisehtojen avoimuus ja yritys kertoo ne julkisesti, se saa pienen bonuksen: +0,5 pistettä täysin avoimesta ja +0,25 osittaisesta kriteeristä, yhteensä enintään +1,0. Bonus ei koskaan vähennä pisteitä: jos ehtoja ei kerrota tai kriteeri ei kuulu kategoriaan, vaikutus on nolla. Laskettu bonus näkyy lähteineen yrityksen kuitissa.</p>
+  </div>
+
+  <div class="receipt">
+    <div class="receipt-head"><h3>Tunnettuus (informatiivinen, 26.7.2026 alkaen)</h3><span class="sub">0 p — ei vaikuta pisteisiin</span></div>
+    <p class="note" style="margin:14px"><b>Tunnettuus näytetään, mutta sitä ei pisteytetä.</b> Mittarina on yrityksen suomenkielisen Wikipedia-artikkelin keskimääräiset päivittäiset katselut 60 päivän jaksolta (Wikimedian julkinen rajapinta) — julkinen ja kenen tahansa tarkistettavissa oleva likiarvo yleisestä tunnettuudesta. Luokat on kalibroitu suomalaisten yritysartikkelien todelliseen katselutasoon: Laaja (≥50 katselua/pv), Kohtalainen (≥10) ja Suppea (&lt;10). Jos varmaa artikkeliosumaa ei ole, tunnettuutta ei näytetä lainkaan — emme arvaa. Tunnettuus ei kerro laadusta eikä läpinäkyvyydestä, ja siksi se ei koskaan vaikuta kokonaispisteisiin suuntaan eikä toiseen.</p>
   </div>
 
   <div class="receipt">

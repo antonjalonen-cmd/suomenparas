@@ -220,7 +220,9 @@
     "Riippumatonta arviota tai asiakasarvioita (Trustpilot, Google-arviot) ei näytetä",
     "Verkkovaraus-prosessi vaatii tiedustelulomakkeen lähettämisen; välitöntä online-kauppaa ei ole vaan tarvitsee yhteyttä asiakaspalveluun"
    ],
-   "yhteenveto": "Kotivarasto Oy tarjoaa lämmitettyjä varastotiloja Helsingissä ja Oulussa selkeällä hinnoittelulla (alkaen 39€/kk) ja joustavilla vuokraehdoilla. Hinnaston, sopimusolosuhteiden ja asiakastuen tiedot ovat hyvin saatavilla, mutta Y-tunnusta ei julkaista verkossa ja riippumattomia arvioita ei näytetä."
+   "yhteenveto": "Kotivarasto Oy tarjoaa lämmitettyjä varastotiloja Helsingissä ja Oulussa selkeällä hinnoittelulla (alkaen 39€/kk) ja joustavilla vuokraehdoilla. Hinnaston, sopimusolosuhteiden ja asiakastuen tiedot ovat hyvin saatavilla, mutta Y-tunnusta ei julkaista verkossa ja riippumattomia arvioita ei näytetä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "flexistore",
@@ -428,7 +430,9 @@
     "Erillisiä FAQ-sivuja ei ole saatavilla, vaikka navigoinnissa ne mainitaan",
     "Vakuutusehdot-sivu on osin tyhjä, vakuutussuojan yksityiskohdat puuttuvat"
    ],
-   "yhteenveto": "Flexistore on Suomessa toimiva digitaalinen pienvarasto-palvelu, joka tarjoaa verkon kautta varattavia varastotiloja älykkäillä kulkuoikeuksilla. Palvelu on avoin ja läpinäkyvä sopimusehdoissaan sekä vakuutustarjouksessaan, mutta hintojen julkinen näkyvyys on rajoitettu dynaamiseen hinnoitteluun. Asiakasarvostelut ovat erittäin positiivisia (4.9/5 tähteä)."
+   "yhteenveto": "Flexistore on Suomessa toimiva digitaalinen pienvarasto-palvelu, joka tarjoaa verkon kautta varattavia varastotiloja älykkäillä kulkuoikeuksilla. Palvelu on avoin ja läpinäkyvä sopimusehdoissaan sekä vakuutustarjouksessaan, mutta hintojen julkinen näkyvyys on rajoitettu dynaamiseen hinnoitteluun. Asiakasarvostelut ovat erittäin positiivisia (4.9/5 tähteä).",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "m2selfstorage",
@@ -637,7 +641,9 @@
     "Y-tunnus ei ole näkyvissä sivustolla - yritystietojen avoimuus puutteellista",
     "Vertailtavia asiakastarkastuksia (Google-arviot, Trustpilot-widget) tai riippumattomia arvioita ei näytetä"
    ],
-   "yhteenveto": "M2 Self Storage tarjoaa selkeän, käyttäjäystävällisen sivuston, jossa sopimuksen ehdot ja vakuutustiedot ovat hyvin dokumentoituja. Verkossa varaaminen on mahdollista, mutta tarkat hinnat edellyttävät siirtymistä varauspalveluun. Yrityksen tunnistustiedot ja riippumattomien arviointien puuttuminen heikentävät läpinäkyvyyttä."
+   "yhteenveto": "M2 Self Storage tarjoaa selkeän, käyttäjäystävällisen sivuston, jossa sopimuksen ehdot ja vakuutustiedot ovat hyvin dokumentoituja. Verkossa varaaminen on mahdollista, mutta tarkat hinnat edellyttävät siirtymistä varauspalveluun. Yrityksen tunnistustiedot ja riippumattomien arviointien puuttuminen heikentävät läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "pelican",
@@ -846,7 +852,9 @@
     "Y-tunnus puuttuu footerista ja yritystiedoista",
     "Mobiilisovellus mainitaan vain viitteellisesti eikä ole suoraan linkitetty"
    ],
-   "yhteenveto": "Pelican Self Storage tarjoaa kattavan informaation varastointipalveluistaan, vakuutuksista ja sopimusehdoista. Hinnat eivät kuitenkaan ole julkisesti näkyvissä ilman yhteydenottoa tai kirjautumista sovellukseen. Yritys tarjoaa 50% alennusta ensimmäisille kahdelle kuukaudelle ja verkkovuokrausta MyPelican-järjestelmän kautta."
+   "yhteenveto": "Pelican Self Storage tarjoaa kattavan informaation varastointipalveluistaan, vakuutuksista ja sopimusehdoista. Hinnat eivät kuitenkaan ole julkisesti näkyvissä ilman yhteydenottoa tai kirjautumista sovellukseen. Yritys tarjoaa 50% alennusta ensimmäisille kahdelle kuukaudelle ja verkkovuokrausta MyPelican-järjestelmän kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "cityvarasto",
@@ -1055,7 +1063,16 @@
     "Y-tunnus puuttuu verkkosivuilta - läpinäkyvyyttä voisi parantaa",
     "Nelio-hinnat löytyvät vain promokoodalla - kiinteä hinnoittelu olisi selkeämpää"
    ],
-   "yhteenveto": "Cityvarasto on suurin pienvarastoketju Suomessa, jolla on 75 toimipistettä ja selkeä 1€/kk-hinnoittelu. Varaus onnistuu helposti omassa Oma tili -portaalissa, mutta yksityiskohtaiset vuokrausehdot ja vakuutustiedot vaatisivat paremman saatavuuden."
+   "yhteenveto": "Cityvarasto on suurin pienvarastoketju Suomessa, jolla on 75 toimipistettä ja selkeä 1€/kk-hinnoittelu. Varaus onnistuu helposti omassa Oma tili -portaalissa, mutta yksityiskohtaiset vuokrausehdot ja vakuutustiedot vaatisivat paremman saatavuuden.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Cityvarasto",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Cityvarasto' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "tokkovarasto",
@@ -1264,7 +1281,9 @@
     "Verkkovaraus ei ole saatavilla; vaatii puhelun tai sähköpostia",
     "Sopimustermit, vakuutustiedot ja UKK-osio puuttuvat julkiselta sivustolta"
    ],
-   "yhteenveto": "Tokko Vuokravarasto tarjoaa varastointipalveluja Helsingissä ja Espoossa, mutta julkaisesti saatavilla on vain perustieto sijainnista ja yhteystiedoista. Yksityiskohtaiset hinnat, sopimustermit ja vakuutustiedot vaativat suoraan yhteydenottoa puhelimitse tai sähköpostilla."
+   "yhteenveto": "Tokko Vuokravarasto tarjoaa varastointipalveluja Helsingissä ja Espoossa, mutta julkaisesti saatavilla on vain perustieto sijainnista ja yhteystiedoista. Yksityiskohtaiset hinnat, sopimustermit ja vakuutustiedot vaativat suoraan yhteydenottoa puhelimitse tai sähköpostilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "23.7.2026",

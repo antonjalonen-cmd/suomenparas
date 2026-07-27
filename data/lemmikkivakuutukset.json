@@ -235,6 +235,8 @@
     "Hevonen ei kuulu lemmikkivakuutukseen; tuotevalikoima rajoittuneempi kuin joillakin kilpailijoilla"
    ],
    "yhteenveto": "Turva on suomalainen keskinäinen vakuutusyhtiö, joka tarjoaa koira- ja kissavakuutuksia eläinlääkärikulujen ja henkivakuutuksen varalta. Sivusto esittelee tuotteet selkeästi, tarjoaa ladattavat vakuutusehdot ja toimii monikanavaisesti; vuosittainen korvauskatto on jopa 4000 euroa. Puutteina ovat epävarmuus hintalaskurin suhteen (saako arvion ilman yhteystietoja) ja sähköpostiyhteyden puuttuminen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -255,7 +257,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/liiketoimintaperiaatteet/ -sivulla: 'Olemme sitoutuneet noudattamaan Finanssiala ry:n yhteisiä Vastuullisen finanssialan periaatteita ja Hyvän vakuutustavan periaatteita vakuutus- ja korvaustoiminnassa.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turva",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turva' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "agria",
@@ -482,7 +491,9 @@
     "Rodun ja iän rajoitukset vaativat hinta-arvion laskemisen",
     "Vakuutusehdot vaativat CAPTCHA-ratkaisua, ei suoraan saatavilla"
    ],
-   "yhteenveto": "Agria on eläinvakuutuksiin erikoistunut vakuutusyhtiö, joka tarjoaa vakuutuksia koirille, kissoille, pienlemmikeille ja linnuille. Sivustolla on helposti käytettävä hintalaskuri, joka on saatavilla ilman henkilötunnusta, sekä selkeät yhteystiedot. Tuotetiedot ja ehdot ovat kuitenkin osittain CAPTCHA-suojattujen sivujen takana."
+   "yhteenveto": "Agria on eläinvakuutuksiin erikoistunut vakuutusyhtiö, joka tarjoaa vakuutuksia koirille, kissoille, pienlemmikeille ja linnuille. Sivustolla on helposti käytettävä hintalaskuri, joka on saatavilla ilman henkilötunnusta, sekä selkeät yhteystiedot. Tuotetiedot ja ehdot ovat kuitenkin osittain CAPTCHA-suojattujen sivujen takana.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "pohjantahti",
@@ -711,6 +722,8 @@
     "Eläinlääkärin tutkimus- ja hoitokustannuksen maksimirajat eivät ole näkyvissä tuotesivulla"
    ],
    "yhteenveto": "Pohjantähden lemmikkivakuutus on koirille ja kissoille tarkoitettu vakuutus, joka kattaa tapaturmia ja sairauksia. Vakuutusta voi täydentää eläimenomistajan vastuuvakuutuksella. Sivulla on hyvä FAQ-osio ja selkeät tiedot vakuutusturvan sisällöstä, mutta vuosittaiset korvauskatot ja yksityiskohtaiset hinnat vaativat asiakkaalta yhteydenoton.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -719,7 +732,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjantähti (vakuutusyhtiö)",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjantähti (vakuutusyhtiö)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "if",
@@ -947,7 +967,9 @@
     "Puhelinnumero ja sähköpostiosoite puuttuvat tuotesivulta",
     "Y-tunnus ja muut yritystiedot eivät ole näkyvillä tuotesivuilla"
    ],
-   "yhteenveto": "If tarjoaa koira- ja kissavakuutuksia, joiden keskeisiä vahvuuksia ovat maksutonta 24/7-etäeläinlääkäripalvelua ja laaja suorakorvausverkko. Sivusto on selkeästi organisoitu ja sisältää kattavat vakuutusehdot sekä usein kysytyt kysymykset. Hintakalkuli on käytettävissä ilman henkilötietoja, mutta konkreettiset hinnat vaativat siirtymistä verkkokauppaan."
+   "yhteenveto": "If tarjoaa koira- ja kissavakuutuksia, joiden keskeisiä vahvuuksia ovat maksutonta 24/7-etäeläinlääkäripalvelua ja laaja suorakorvausverkko. Sivusto on selkeästi organisoitu ja sisältää kattavat vakuutusehdot sekä usein kysytyt kysymykset. Hintakalkuli on käytettävissä ilman henkilötietoja, mutta konkreettiset hinnat vaativat siirtymistä verkkokauppaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "lahitapiola",
@@ -1173,6 +1195,8 @@
     "Aukioloajat ja suora yhteydenottotapa puuttuvat pet insurance -sivuilta"
    ],
    "yhteenveto": "LähiTapiola tarjoaa räätälöitävää lemmikkivakuutusta koirille, kissoille, hevosille ja muille eläimille joustavilla enimmäiskorvausvaihtoehdoilla. Sivusto sisältää kattavat tiedot vakuutusturvista, välittää etäeläinlääkäripalveluita LemmikkiHelpi-sovelluksen kautta ja tarjoaa suorakorvauspalvelua. Konkreettiset vakuutusmaksut ja yksityiskohtaiset yhteystiedot edellyttävät navigointia muille sivuille.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1423,6 +1447,8 @@
     "Mobiilisovellus puuttuu, vakuutuksen hallinta vain Oma Fennia -verkkopalvelun kautta"
    ],
    "yhteenveto": "Fennia tarjoaa eläinvakuutuksia koirille, kissoille ja hevosille. Vakuutuksiin sisältyy FirstVet-etäeläinlääkäripalvelu ja ne voidaan pitää voimassa eläimen koko eliniän. Tuote-esitteet ja vakuutusehdot ovat saatavilla, ja asiakaspalvelua on puhelimitse sekä Oma Fennia -chatissa. Hintalaskuri vaatii tarjouspyynnön, eikä vuosittainen korvauskatto ole julkisesti näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {

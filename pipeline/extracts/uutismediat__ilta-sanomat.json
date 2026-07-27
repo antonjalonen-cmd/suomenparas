@@ -1,0 +1,53 @@
+{
+  "slug": "ilta-sanomat",
+  "fetched_ok": [
+    "https://www.is.fi/",
+    "https://www.is.fi/tilaa",
+    "https://www.is.fi/kayttoehdot",
+    "https://www.is.fi/asiakaspalvelu",
+    "https://www.is.fi/sovellus"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "osittain",
+  "oikaisukaytanto_kuvattu": "osittain",
+  "mainonta_eroteltu": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "tilaushinta_eur_kk": 6.99,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 58
+  },
+  "vahvuudet": [
+    "Tilaushinnoittelu selkeasti esillä omalla sivulla, useita kalustoja eri budjetille",
+    "Mobiilisovellus saatavilla Android- ja Apple-laitteille",
+    "Asiakaspalveluun voi ottaa yhteyttä puhelimitse ja lomakkeella"
+  ],
+  "kehityskohteet": [
+    "Vastaavan paatoimittajan nimi ja toimituksen yhteystiedot eivat ole esilla is.fi-sivuilla",
+    "Virheiden korjaus- ja oikaisukayanto ei ole kuvattu julkisesti saatavilla olevalla sivulla",
+    "Riippumaton arviointi (esim. JSN-jasenyyys tai levikintarkastus) ei ole mainittuna sivustolla"
+  ],
+  "yhteenveto": "Ilta-Sanomat (Sanoma Media Finland Oy) tarjoaa selkean tilaushinnoittelun IS Extra-palvelulla (alkaen 6,99 eurosta kuukaudessa) ja toiminnalliset kanavat asiakasvuorovaikutukselle. Monet laajat avoimet tiedot jaetaan paalinkittyjen sivujen kautta - toimituksellisen johdon nimeaminen, oikaisukayanto ja riippumaton arviointi eivat ole suoraan saatavilla is.fi-verkkosivuilla.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: is.fi/tilaa-sivulla on selkeat hinnat: IS EXTRA 6,99 euroa/kk, IS EXTRA+ 9,99 euroa/kk. Sivulla mainitaan rajoittamaton paaesy IS Extran sisaltoihin ja erikseen Sanoman medioiden tarjoamiin digilehtihin.",
+    "paatoimittaja_esilla": "HAVAINTO: Footer-linkkina nakyi 'Ota yhteytta toimitus' ja 'Ilta-Sanomien periaatelinja', mutta naiden sivujen avaus palauttaa 404-virheen. Linkit viittaavat todennakoisesti Sanoma-konsernin sivuille, jotka eivat ole is.fi-verkkosivuilla.",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: /oikaisut-sivu palauttaa 404-virheen. Virheiden korjaus- ja oikaisukayanto ei ole julkisesti kuvattuna is.fi-verkkosivuilla. Linkki 'Tietosuojalauseke' ja muut periaatteet viittaavat pois verkkosivuilta.",
+    "mainonta_eroteltu": "HAVAINTO: Etusivun JS-renderoidussa versiossa nakyi 'MAINOS: Rajoittamattomasti uutisia, viihdetta ja tietoa – kokeile IS Extraa kuukausi maksutta.' Mainonta on merkitty MAINOS-sanalla, mutta kaupallisen sisallon erotelun periaatteet eivat ole selkosti kuvattu saatavilla olevilla sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Yhtion nimi 'Sanoma Media Finland Oy' on esilla kayttoehdoissa ja asiakaspalvelusivulla, osoite Toeloeonlahdenkatu 2, mutta Y-tunnusta ei ole erikseen mainittu.",
+    "riippumaton_arvio": "HAVAINTO: Riippumatonta arviointia, JSN-jasenyytta, levikintarkastusta tai muita ulkoisia tarkastuksia ei ole mainittu is.fi-verkkosivuilla.",
+    "puhelin_esilla": "HAVAINTO: /asiakaspalvelu-sivu (redirect) nayttaa puhelinnumeron '010 80 80 85' ja kuluttajapalvelun aukioloajat 'Arkisin klo 8-16', mutta puhelinnumero ei ole esilla varsinaisella is.fi-verkkosivulla.",
+    "email_esilla": "HAVAINTO: Kayttoehdoissa mainitaan sahkopostiosoite tietosuojapyynnot@sanoma.com. Footer-linkkina on 'Lahet palautetta' ja 'Ota yhteytta toimitus', joiden kautta voi lahettaa viestin.",
+    "chat_mainittu": "HAVAINTO: Live-chat-toimintoa ei ole mainittuna tai nakyvissa verkkosivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat 'Arkisin klo 8-16' on mainittu /asiakaspalvelu-sivulla, mutta tama sivu ohjaa pois is.fi:lta.",
+    "ukk_osio": "HAVAINTO: Erillistä UKK-osiota ei ole verkkosivuilla.",
+    "mobiilisovellus": "HAVAINTO: is.fi/sovellus-sivulla on linkki Android- ja Apple-laitteiden sovelluskauppoihin. Sivu on erityisesti sovelluksen lataamiseen tarkoitettu."
+  }
+}

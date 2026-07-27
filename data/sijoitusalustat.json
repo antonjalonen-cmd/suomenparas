@@ -228,7 +228,16 @@
     "Mobiilisovellusta ei mainita tai se puuttuu kokonaan",
     "Hinnaston ladattavissa-versio ei ole selvästi linkitetty tai erottuvasti merkitty palvelumaksut-sivulla"
    ],
-   "yhteenveto": "Evli on pohjoismainen varainhoitaja, joka julkaisee kaupankäyntikulut (0,05 %), säilytyspalkkiot (0,01 % vuodessa, min. 3 €/kk) ja valuuttakurssikulut (0,30 %) selkeästi omilla nettisivuillaan ilman kirjautumisvaatimusta. My Evli -alusta tarjoaa retail-sijoittajille digitaalisen sijoituspalvelun, mutta verkkosivusto ei näytä asiakastunnustuksia tai riippumattomia arvioita omalla sivullaan, eikä mainitse mobiilisovellusta."
+   "yhteenveto": "Evli on pohjoismainen varainhoitaja, joka julkaisee kaupankäyntikulut (0,05 %), säilytyspalkkiot (0,01 % vuodessa, min. 3 €/kk) ja valuuttakurssikulut (0,30 %) selkeästi omilla nettisivuillaan ilman kirjautumisvaatimusta. My Evli -alusta tarjoaa retail-sijoittajille digitaalisen sijoituspalvelun, mutta verkkosivusto ei näytä asiakastunnustuksia tai riippumattomia arvioita omalla sivullaan, eikä mainitse mobiilisovellusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Evli",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Evli' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "mandatum-trader",
@@ -443,7 +452,16 @@
     "Hinnastoa ei ole suoraan ladattavissa PDF-muodossa pääkaupankäyntisivulla, vain operaatiosopimuksen hinnasto",
     "Asiakasarvioita (esim. Trustpilot, EPSI) ei ole näkyvissä sivustolla"
    ],
-   "yhteenveto": "Mandatum Trader on Saxo Bank A/S:n tarjoama kaupankäyntipalvelu, joka kuuluu Mandatum-konserniin. Palvelu tarjoaa ensiluokkaista hintatiedon läpinäkyvyyttä: kaupankäyntikulut, säilytyspalkkiot ja valuutanvaihtokustannukset ovat kaikki saatavilla ilman kirjautumista. Sivustoilla on hyvä informaation laatu ja selkeys. Pääasiallisina kehityskohtaina ovat Y-tunnuksen puuttuminen Trader-sivustolta ja asiakasarvioiden puuttuminen riippumattomista lähteistä."
+   "yhteenveto": "Mandatum Trader on Saxo Bank A/S:n tarjoama kaupankäyntipalvelu, joka kuuluu Mandatum-konserniin. Palvelu tarjoaa ensiluokkaista hintatiedon läpinäkyvyyttä: kaupankäyntikulut, säilytyspalkkiot ja valuutanvaihtokustannukset ovat kaikki saatavilla ilman kirjautumista. Sivustoilla on hyvä informaation laatu ja selkeys. Pääasiallisina kehityskohtaina ovat Y-tunnuksen puuttuminen Trader-sivustolta ja asiakasarvioiden puuttuminen riippumattomista lähteistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Mandatum Trader",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Mandatum Trader' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "nordnet",
@@ -658,7 +676,9 @@
     "Valuutanvaihtokuluista ei ole julkista selvitystä, vaikka FAQ-osio mainitaan – tieto piilotettu kirjautumisen taakse",
     "Asiakaspalvelun yhteystiedot vaativat klikkaamisen laajentamaan näkymän; puhelinnumero ja sähköpostiosoite eivät ole välittömästi näkyvissä"
    ],
-   "yhteenveto": "Nordnet on puhtaasti välitystoimintaan perustuva alusta, jonka hinnoittelu on hyvin läpinäkyvää ilman kirjautumista. Kaupankäyntipalkkiot (alkaen 3 eurosta), säilytysmaksut (0 euroa) ja laaja markkinoiden tarjonta ovat julkisesti näkyvissä. EPSI Rating -palkinnot (2025, 2024, 2023) todentavat asiakastyytyväisyyden. Valuutanvaihtokulut ja asiakaspalvelun yhteystiedot löytyvät sivustolta, mutta vaativat enemmän klikkaamista."
+   "yhteenveto": "Nordnet on puhtaasti välitystoimintaan perustuva alusta, jonka hinnoittelu on hyvin läpinäkyvää ilman kirjautumista. Kaupankäyntipalkkiot (alkaen 3 eurosta), säilytysmaksut (0 euroa) ja laaja markkinoiden tarjonta ovat julkisesti näkyvissä. EPSI Rating -palkinnot (2025, 2024, 2023) todentavat asiakastyytyväisyyden. Valuutanvaihtokulut ja asiakaspalvelun yhteystiedot löytyvät sivustolta, mutta vaativat enemmän klikkaamista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "saxo",
@@ -873,7 +893,16 @@
     "Säilytysmaksu ei eksplisiittisesti ilmoitettu",
     "Valuutanvaihtokulujen tiedot puuttuvat julkisesta hinnoittelusta"
    ],
-   "yhteenveto": "Saxo Bank on kansainvälinen sijoituspalvelu, joka tarjoaa kahdet kaupankäyntialustat (SaxoInvestor ja SaxoTrader) sekä laajan tuotevalikoiman osakkeista futuureihin. Sivusto ilmoittaa matalan palkkiorakenteen ja ei verota alustan tai passiivisuusmaksuja. Hinnoittelutiedot ovat saatavilla verkkosivulla, mutta säilytyspalkkiot ja valuutanvaihtokulujen yksityiskohdat puuttuvat."
+   "yhteenveto": "Saxo Bank on kansainvälinen sijoituspalvelu, joka tarjoaa kahdet kaupankäyntialustat (SaxoInvestor ja SaxoTrader) sekä laajan tuotevalikoiman osakkeista futuureihin. Sivusto ilmoittaa matalan palkkiorakenteen ja ei verota alustan tai passiivisuusmaksuja. Hinnoittelutiedot ovat saatavilla verkkosivulla, mutta säilytyspalkkiot ja valuutanvaihtokulujen yksityiskohdat puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Saxo Bank",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Saxo Bank' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "op-sijoitus",
@@ -1092,7 +1121,9 @@
     "Valuutanvaihtokuluista ei ole julkista hintaa; sivulla mainitaan 'FAQ-osio' aiheesta, mutta sisältö on piilotettu",
     "Y-tunnus, tarkka puhelinnumero ja asiakaspalvelun sähköpostiosoite eivät näy pääsivustolla, vain yleinen ohjaus 'yhteystietojen' sivulle"
    ],
-   "yhteenveto": "OP on suomalainen osuuspankki, joka tarjoaa laajat sijoituspalvelut (osakkeet, rahastot, arvo-osuudet, osakesäästötilit). Kaupankäyntipalkkiot ja rahastojen hallinnointipalkkiot näkyvät selkeästi ilman kirjautumista, ja koulutusmateriaalit ovat kattavat. Joitain maksuja (säilytyspalkkio, valuutanvaihtokulu) ei ole julkisesti näkyvissä, mikä heikentää läpinäkyvyyttä osassa palveluista."
+   "yhteenveto": "OP on suomalainen osuuspankki, joka tarjoaa laajat sijoituspalvelut (osakkeet, rahastot, arvo-osuudet, osakesäästötilit). Kaupankäyntipalkkiot ja rahastojen hallinnointipalkkiot näkyvät selkeästi ilman kirjautumista, ja koulutusmateriaalit ovat kattavat. Joitain maksuja (säilytyspalkkio, valuutanvaihtokulu) ei ole julkisesti näkyvissä, mikä heikentää läpinäkyvyyttä osassa palveluista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "nordea-sijoitus",
@@ -1307,7 +1338,16 @@
     "Valuutanvaihtokulu puuttuu kokonaan",
     "Konkreettisen hinnaston lataaminen vaatii sivun sisältöjen tutkimista"
    ],
-   "yhteenveto": "Nordea Bank Abp (Y-tunnus 2858394-9) tarjoaa sijoituspalveluja laajasti pohjoismaisilla pörsseillä ja kansainvälisillä markkinoilla. Säilytysmaksu on ilmoitettu julkisesti (0€), mutta kaupankäyntikulujen täysi hinnaston löytäminen vaatii kirjautumista tai useiden sivujen selailua. Valuutanvaihtokulu jää mainitsematta. Palvelusta löytyy chat-tuki ja mobiilisovellus, mutta erityisiä puhelinnumeroita tai sähköpostiosoitteita ei ole näkyvissä."
+   "yhteenveto": "Nordea Bank Abp (Y-tunnus 2858394-9) tarjoaa sijoituspalveluja laajasti pohjoismaisilla pörsseillä ja kansainvälisillä markkinoilla. Säilytysmaksu on ilmoitettu julkisesti (0€), mutta kaupankäyntikulujen täysi hinnaston löytäminen vaatii kirjautumista tai useiden sivujen selailua. Valuutanvaihtokulu jää mainitsematta. Palvelusta löytyy chat-tuki ja mobiilisovellus, mutta erityisiä puhelinnumeroita tai sähköpostiosoitteita ei ole näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Nordea",
+    "paivakatselut_ka": 40,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Nordea' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "danske-sijoitus",
@@ -1521,7 +1561,16 @@
     "Palveluhinnasto-sivua ei löydy, vaikka sitä etsii useista osoitteista",
     "Sijoittajille tärkeät tiedot (kaupankäyntikulut, säilytyspalkkio, valuutanvaihto) puuttuvat kokonaan"
    ],
-   "yhteenveto": "Danske Bankin suomalainen verkkosivusto tarjoaa yleiskatsauksen sijoituspalveluista, mutta kaikki konkreettinen hinnoittelu ja palvelukulujen tieto on piilotettu kirjautumisen taakse. Julkisesti saatavilla olevia asiakirjoja tai hinnastoja ei löydy mistään. Sivusto on toiminnallisesti jäsennelty, mutta läpinäkyvyyden kannalta erittäin puutteellinen verrattuna kilpailijoihin."
+   "yhteenveto": "Danske Bankin suomalainen verkkosivusto tarjoaa yleiskatsauksen sijoituspalveluista, mutta kaikki konkreettinen hinnoittelu ja palvelukulujen tieto on piilotettu kirjautumisen taakse. Julkisesti saatavilla olevia asiakirjoja tai hinnastoja ei löydy mistään. Sivusto on toiminnallisesti jäsennelty, mutta läpinäkyvyyden kannalta erittäin puutteellinen verrattuna kilpailijoihin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Danske Bank",
+    "paivakatselut_ka": 10,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Danske Bank' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "16.7.2026",

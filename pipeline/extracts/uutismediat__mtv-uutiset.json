@@ -1,0 +1,51 @@
+{
+  "slug": "mtv-uutiset",
+  "fetched_ok": [
+    "https://www.mtvuutiset.fi/",
+    "https://www.mtvuutiset.fi/artikkeli/koloradonkuoriaisia-havaittu-kuudella-paikkakunnalla/9370934",
+    "https://www.mtv.fi/"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "osittain",
+  "mainonta_eroteltu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "tilaushinta_eur_kk": 0,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 95,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Vastuuhenkilöt ja toimituksen yhteystiedot selkeästi näkyvissä etusivun footerissa",
+    "Ilmainen sisältö ilman maksumuuraa tekee palvelun helposti saavutettavaksi kaikille lukijoille",
+    "Syytetty JSN-jäsenyydellä riippumattomasta ulkopuolisesta valvonnasta journalistisiin standardeihin"
+  ],
+  "kehityskohteet": [
+    "Oikaisukäytäntö ja virheiden korjaamisprosessi ei ole julkisesti dokumentoitu omalla sivulla, vaan linkki johtaa 404-virhesivulle",
+    "Kaupallisen sisällön ja mainonnan erottelusta journalismista ei ole kirjallista ohjeistusta saatavilla sivustolla",
+    "Yhtiön Y-tunnus tai yritystietojen täydellinen dokumentaatio puuttuu mtvuutiset.fi-sivustolta"
+  ],
+  "yhteenveto": "MTV Uutiset on ilmainen, mainoksilla rahoitettu uutispalvelu, jonka vastuuhenkilöt ja perusyhteystiedot ovat hyvin saatavilla. Palvelu noudattaa journalistin ohjeita ja on JSN-jäsen. Dokumentaation kattavuuden kannalta kehitettävää on oikaisukäytäntöjen, mainonnan erottelun ja yritystietojen julkisessa ohjeistuksessa.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: MTV Uutiset on kokonaan ilmainen palvelu ilman maksumuuria. Pääsivulla ei mainiteta tilaushintoja tai maksullista sisältöä, kaikki sisältö on avoin kaikille.",
+    "paatoimittaja_esilla": "HAVAINTO: Footerissa listattu 'Tomi Einonen, Vastaava päätoimittaja' sekä muut toimituksen johtajat: Ilkka Ahtiainen (Uutispäätoimittaja), Mona Haapsaari (Julkaisupäällikkö). Yhteystiedot: puhelin 010 300 5400, sähköposti uutiset@mtv.fi.",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: Footerissa linkki 'Julkisen sanan neuvosto (JSN)' johtaa JSN:n palveluihin, mutta yksityiskohtainen oikaisukäytäntö ja virheiden korjausprosessi eivät ole dokumentoituna omalla sivulla. Linkki 'MTV Uutisten periaatelinja' johtaa 404-virhesivulle.",
+    "mainonta_eroteltu": "HAVAINTO: MTV Uutiset on mainoksilla rahoitettu palvelu, ja mainoksia näkyy sivustolla (esim. MTV Katsomo-mainokset). Erityistä merkintää kaupalliselle sisällölle tai mainonnan erotteluperiaatteista journalismista ei löytynyt saatavilla olevilla sivuilla.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole listattu mtvuutiset.fi-sivustolla. Yritys on tunnistettu MTV Oy:ksi, mutta virallista Y-tunnusta ei löydy etusivulta tai muista ladatuista sivuista.",
+    "riippumaton_arvio": "HAVAINTO: Footerissa mainittu 'Julkisen sanan neuvosto (JSN)' sekä 'MTV Uutiset on sitoutunut noudattamaan Journalistin ohjeita'. JSN on riippumaton suomalainen media-alan oikaisulautakunta.",
+    "puhelin_esilla": "HAVAINTO: Uutistoimituksen päivystys puhelimitse saatavilla numerossa 010 300 5400.",
+    "email_esilla": "HAVAINTO: Uutisvinkki-sähköpostiosoite uutiset@mtv.fi sekä WhatsApp-numero 040 578 5504 yhteydenpidolle.",
+    "chat_mainittu": "HAVAINTO: Keskustelupalvelusta ei mainintaa sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloajoista tai toimituksen tavoitettavuusajoista ei mainintaa sivustolla.",
+    "ukk_osio": "HAVAINTO: Erityistä FAQ-osiota ei löytynyt sivustolta. 'Apua ja ohjeita' -linkki johtaa 404-virhesivulle.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla viitataan käyttäjätunnuksiin ja kirjautumiseen, ja meta-tagissa mainitaan 'app-id=1519752633' (iOS-sovellus), mikä viittaa mobiilius sovelluksen olemassaoloon, vaikka sitä ei erikseen mainiteta selkeästi pääsivulla."
+  }
+}

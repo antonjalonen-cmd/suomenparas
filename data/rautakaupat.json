@@ -17,10 +17,10 @@
    "slug": "puuilo",
    "nimi": "Puuilo",
    "domain": "puuilo.fi",
-   "omistaja": "Puuilo Oyj — pörssiyhtiö, yli 40 myymälää valtakunnallisesti",
+   "omistaja": "Puuilo Oyj — pörssiyhtiö, yli 40 myymälää; kauppaa operoi tytäryhtiö Puuilo Tavaratalot Oy (2431081-2), jonka Y-tunnus näkyy sivustolla",
    "y_tunnus": "2726573-8",
    "rekisteroity": 2015,
-   "score": 79.0,
+   "score": 79.5,
    "pillars": {
     "digitaalinen": 67.9,
     "lapinakyvyys": 90.0,
@@ -220,7 +220,23 @@
     "Puuilon mobiilisovellusta ei mainita, vaikka verkkokaupoissa sovellukset parantavat ostokokemusta ja helpottavat seuraavien ostojen tekemistä",
     "Riippumattomien asiakasarviolähteiden puuttuminen verkkokaupan sivustolla (ei linkkejä ulkopuolisiin arviolistauksiin tai asiakasarvioihin)"
    ],
-   "yhteenveto": "Puuilo on suomalainen rakennustarvike- ja kodintarvikeketju, jonka verkkokauppa tarjoaa useimmat keskeiset transparenssitiedot asiakkaille. Hinnat, toimitusvaihtoehdot, palautusehdot ja yrityksen tunnistetiedot ovat selvästi esillä. Puutteina ovat chat-palvelu verkkokaupassa, mobiilisovelluksen puuttuminen ja riippumattomien asiakasarviolähteiden linkittämisen puute sivustolle."
+   "yhteenveto": "Puuilo on suomalainen rakennustarvike- ja kodintarvikeketju, jonka verkkokauppa tarjoaa useimmat keskeiset transparenssitiedot asiakkaille. Hinnat, toimitusvaihtoehdot, palautusehdot ja yrityksen tunnistetiedot ovat selvästi esillä. Puutteina ovat chat-palvelu verkkokaupassa, mobiilisovelluksen puuttuminen ja riippumattomien asiakasarviolähteiden linkittämisen puute sivustolle.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Sivulla puuilo.fi/toimitus-ja-maksuehdot selostetaan, että kuluttajalla on oikeus peruuttaa tilaus 14 päivän kuluessa tuotteen vastaanottamisesta. Palautettavan tuotteen tulee olla käyttämätön ja alkuperäiskunnossa."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Puuilo",
+    "paivakatselut_ka": 53,
+    "luokka": "Laaja",
+    "lahde": "fi.wikipedia-artikkelin 'Puuilo' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "k-rauta",
@@ -229,7 +245,7 @@
    "omistaja": "Kesko Oyj — noin 130 myymälää valtakunnallisesti, markkinajohtaja",
    "y_tunnus": "0109862-8",
    "rekisteroity": 1978,
-   "score": 78.6,
+   "score": 79.1,
    "pillars": {
     "digitaalinen": 69.7,
     "lapinakyvyys": 80.0,
@@ -434,7 +450,23 @@
     "Mobiilisovellusta ei ole kehitetty, verkkokauppa on saatavilla ainoastaan selainpohjaisena",
     "Riippumattomia arviota tai sertifiointeja (esim. ISO-sertifikaatit, asiakastyytyväisyystutkimukset) ei ole julkaistu sivuilla"
    ],
-   "yhteenveto": "K-Rauta on Kesko Oyj:n omistama suomalainen rakennustarvikkeiden ketju yli 120 myymälällä. Verkkokaupassa tuotteiden hinnat ovat selvästi esillä, toimitusvaihtoehdot ja niihin liittyvät kulut ilmoitetaan ennen maksamista, ja palautus- ja takuuehdot ovat saatavilla omilla sivuillaan. Myymälätiedot, aukioloajat ja asiakaspalvelun yhteystiedot (puhelin, sähköposti, chat) ovat kaikki julkisesti saatavilla."
+   "yhteenveto": "K-Rauta on Kesko Oyj:n omistama suomalainen rakennustarvikkeiden ketju yli 120 myymälällä. Verkkokaupassa tuotteiden hinnat ovat selvästi esillä, toimitusvaihtoehdot ja niihin liittyvät kulut ilmoitetaan ennen maksamista, ja palautus- ja takuuehdot ovat saatavilla omilla sivuillaan. Myymälätiedot, aukioloajat ja asiakaspalvelun yhteystiedot (puhelin, sähköposti, chat) ovat kaikki julkisesti saatavilla.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Takuu ja virhevastuu -sivulla (asiakaspalvelu/takuu-ja-virhevastuu) selitetään virhevastuu, takuu ja palautusprosessi. Kuluttajansuojalain mukainen virhevastuu kattaa materiaali- ja valmistusvirheet. Virhetilanteissa kontakti: verkkokauppa.asiakaspalvelu@k-rauta.fi tai 0800 90 900. Palautuslomakkeelle ja peruuttamislomakkeelle on omat osoitteensa."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "K-Rauta",
+    "paivakatselut_ka": 10,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'K-Rauta' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "taloon",
@@ -443,7 +475,7 @@
    "omistaja": "Bygghemma Finland Oy — verkkokauppa, osa ruotsalaista BHG Groupia",
    "y_tunnus": "1870108-3",
    "rekisteroity": 2003,
-   "score": 74.6,
+   "score": 74.8,
    "pillars": {
     "digitaalinen": 71.5,
     "lapinakyvyys": 80.0,
@@ -646,7 +678,23 @@
     "Toimitusta koskevia tietoja (kustannukset, menetelmät) ei näy selkeästi ennen kassalle siirtymistä",
     "Ei chat-tukea tai mobiilisovellusta, asiakkaiden on käytettävä puhelinta tai sähköpostia yhteydenottoon"
    ],
-   "yhteenveto": "Taloon.com on laaja rautakauppa, jonka toimittaa Bygghemma Finland Oy. Verkkokaupasta löytää selkeät tuotteen hinnat ja runsaasti maksuvaihtoehdon sekä yhteystiedot. Palvelumyymälä Tammistossa tukee kotiinkuljetusta ja asennuspalvelua. Puutteiden joukossa ovat epäselvästi esitetyt palautus- ja toimitustiedot sekä puuttuva chat-palvelu."
+   "yhteenveto": "Taloon.com on laaja rautakauppa, jonka toimittaa Bygghemma Finland Oy. Verkkokaupasta löytää selkeät tuotteen hinnat ja runsaasti maksuvaihtoehdon sekä yhteystiedot. Palvelumyymälä Tammistossa tukee kotiinkuljetusta ja asennuspalvelua. Puutteiden joukossa ovat epäselvästi esitetyt palautus- ja toimitustiedot sekä puuttuva chat-palvelu.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivujen 'Palautus ja vaihto' ja 'Tilausehdot' avaaminen epäonnistui (HTTP 404), joten palautus- ja takuuehdoista ei saatu vahvistusta. Alavalikosta näkyy linkit näihin sivuihin, mutta ne eivät ole käytettävissä."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Taloon.com",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Taloon.com' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "byggmax",
@@ -655,7 +703,7 @@
    "omistaja": "Byggmax AB:n Suomen sivuliike — myymälät useissa kaupungeissa ja verkkokauppa",
    "y_tunnus": "2132241-2",
    "rekisteroity": 2007,
-   "score": 69.7,
+   "score": 70.2,
    "pillars": {
     "digitaalinen": 60.3,
     "lapinakyvyys": 82.5,
@@ -859,7 +907,16 @@
     "Riippumattoman arviointipalvelun tai asiakasarvioiden puuttuminen tuotesivuilta",
     "FAQ-osion puute helpottaisi asiakkaiden yleisten kysymysten vastaamiseen"
    ],
-   "yhteenveto": "Byggmax on pohjoismalainen rautakauppaketju, jonka verkkosivusto tarjoaa selkeät hinnat ja toimitusehdot. Yrityksen tiedot, palautusoikeudet ja asiakaspalvelun yhteystiedot ovat julkisesti saatavilla. Sivustoa rasittavat teknilliset rajoitukset estävät täysin kaikkien tietojen saavutettavuuden, varsinkin myymälöiden aukioloaikojen osalta."
+   "yhteenveto": "Byggmax on pohjoismalainen rautakauppaketju, jonka verkkosivusto tarjoaa selkeät hinnat ja toimitusehdot. Yrityksen tiedot, palautusoikeudet ja asiakaspalvelun yhteystiedot ovat julkisesti saatavilla. Sivustoa rasittavat teknilliset rajoitukset estävät täysin kaikkien tietojen saavutettavuuden, varsinkin myymälöiden aukioloaikojen osalta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Kattavat palautusoikeudet julkaistu ostoehdot-sivulla, joka sisältää 14 päivän palautusoikeudet ja 365 päivän laajennetun palautusoikeuden tiedot."
+    }
+   ]
   },
   {
    "slug": "bauhaus",
@@ -868,7 +925,7 @@
    "omistaja": "Bauhaus & Co. Ky — osa saksalaista Bauhaus-konsernia, myymälät useissa kaupungeissa",
    "y_tunnus": "1580679-5",
    "rekisteroity": 2000,
-   "score": 67.6,
+   "score": 68.1,
    "pillars": {
     "digitaalinen": 64.5,
     "lapinakyvyys": 67.5,
@@ -1068,7 +1125,23 @@
     "Yrityksen Y-tunnus puuttuu verkkosivuilta kokonaan, vaikka se on keskeinen luottamuksen tekijä",
     "Riippumattomia arvioita tai sertifiointi-/laatutietoja ei ole saatavilla omilla verkkosivuilla"
    ],
-   "yhteenveto": "Bauhaus on suomalainen rautakauppaketju, joka tarjoaa laajan valikoiman rakentamisen, remontoinnin ja piha-alan tuotteita. Verkkosivuilla on erittäin selkeät ja yksityiskohtaiset toimitusehdot, useita toimitusvaihtoehtoja kustannuksineen sekä hyvä asiakaspalvelu. Hintojen löydettävyys heikentää kuitenkin käyttäjäkokemusta JavaScript-renderöinnin vuoksi, eikä sivuilla ole yrityksen Y-tunnusta tai riippumattomia arvioita."
+   "yhteenveto": "Bauhaus on suomalainen rautakauppaketju, joka tarjoaa laajan valikoiman rakentamisen, remontoinnin ja piha-alan tuotteita. Verkkosivuilla on erittäin selkeät ja yksityiskohtaiset toimitusehdot, useita toimitusvaihtoehtoja kustannuksineen sekä hyvä asiakaspalvelu. Hintojen löydettävyys heikentää kuitenkin käyttäjäkokemusta JavaScript-renderöinnin vuoksi, eikä sivuilla ole yrityksen Y-tunnusta tai riippumattomia arvioita.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Tavaratalot-sivulla mainittu 'Jopa 30 pv vaihto- ja palautusoikeus' ja '5-vuoden BAUHAUS takuu'. Toimitusehdot-sivulla yksityiskohtaisesti kuvattu reklamaatiomenettely ja tuotteiden tarkastus vastaanottohetkellä."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Bauhaus (rautakauppa)",
+    "paivakatselut_ka": 8,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Bauhaus (rautakauppa)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "stark",
@@ -1077,7 +1150,7 @@
    "omistaja": "Stark Suomi Oy — osa tanskalaista STARK Groupia, kymmeniä myymälöitä",
    "y_tunnus": "2043575-7",
    "rekisteroity": 2006,
-   "score": 63.6,
+   "score": 63.9,
    "pillars": {
     "digitaalinen": 51.6,
     "lapinakyvyys": 57.5,
@@ -1280,7 +1353,16 @@
     "Toimitus- ja palautusehtojen yksityiskohdat vaativat sisälle navigointia, ei yhtenäinen 'Kaikki ehdot' -sivu",
     "Asiakasarviot tai riippumaton arviointi (kuten kuntaluottamus tai ulkopuolisten kyselyjen tulokset) puuttuvat kokonaan"
    ],
-   "yhteenveto": "Stark Suomi on pääsuomalainen rautakauppa, jolla on laaja verkkopalvelu kategorisoiduin tuottein ja useita toimipisteitä. Asiakaspalvelu on helposti saatavilla puhelimitse, sähköpostitse ja livechatilla, ja myymälätiedot ovat julkisesti näkyvillä. Tuotteiden hinnat ja toimitusehdot sisältyvät sivuihin, mutta edellyttävät JavaScriptin renderöintiä ja sisälle navigointia, mikä heikentää löydettävyyttä."
+   "yhteenveto": "Stark Suomi on pääsuomalainen rautakauppa, jolla on laaja verkkopalvelu kategorisoiduin tuottein ja useita toimipisteitä. Asiakaspalvelu on helposti saatavilla puhelimitse, sähköpostitse ja livechatilla, ja myymälätiedot ovat julkisesti näkyvillä. Tuotteiden hinnat ja toimitusehdot sisältyvät sivuihin, mutta edellyttävät JavaScriptin renderöintiä ja sisälle navigointia, mikä heikentää löydettävyyttä.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivusto sisältää '/vaihto-ja-palautus' -sivun, mutta sen yksityiskohtaisen sisällön hakeminen ei onnistunut täysin automated-haulla JavaScript-renderöinnin takia. Ehdot ovat olemassa mutta niiden saatavuus oli osittainen mittauksessa."
+    }
+   ]
   }
  ],
  "updated": "26.7.2026",

@@ -239,7 +239,16 @@
     "Julkista sahkopostiosoitetta ei ole; viestin voi lahettaa vain kirjautuneena suojattuna viestina",
     "Pakettihinnoittelu (Etuohjelman etutasot 1-4) tekee oman kuukausihinnan arvioinnista tyolasta uudelle asiakkaalle"
    ],
-   "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja kayttotilin hinta nakyy myos suoraan sivutekstissa. Hinnaston loytaminen vaatii kuitenkin navigointia tuotesivuille asti, silla suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista."
+   "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja kayttotilin hinta nakyy myos suoraan sivutekstissa. Hinnaston loytaminen vaatii kuitenkin navigointia tuotesivuille asti, silla suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Danske Bank (Suomi)",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Danske Bank (Suomi)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "alandsbanken",
@@ -466,7 +475,16 @@
     "FAQ-osio puuttuu - asiakkaat joutuvat soittamaan tai lähettämään sähköpostia yleisiin kysymyksiin",
     "Mobiilisovellusta mainitaan mutta sen ominaisuuksia ei eritellä verkkosivuilla"
    ],
-   "yhteenveto": "Ålandsbanken on 1919 perustettu suomalais-alantialainen pankki, jolla on kattava palvelutarjonta henkilö- ja yritysasiakkaille. Hinta- ja maksuinformaatio löytyy selkeästi, puhelintuki on käytettävissä laajasti, ja konttoriverkon kattavuus on hyvä. Palvelua ei kuitenkaan tarjota chatissa eikä asiakaslähtöinen FAQ-osio ole saatavilla."
+   "yhteenveto": "Ålandsbanken on 1919 perustettu suomalais-alantialainen pankki, jolla on kattava palvelutarjonta henkilö- ja yritysasiakkaille. Hinta- ja maksuinformaatio löytyy selkeästi, puhelintuki on käytettävissä laajasti, ja konttoriverkon kattavuus on hyvä. Palvelua ei kuitenkaan tarjota chatissa eikä asiakaslähtöinen FAQ-osio ole saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Ålandsbanken",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Ålandsbanken' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "spankki",
@@ -693,6 +711,8 @@
     "Riippumatonta arviota ja ulkopuolisten organisaatioiden sertifiointeja ei mainita julkisesti"
    ],
    "yhteenveto": "S-Pankki on suomalainen pankki, joka tarjoaa maksuttomia peruspalveluita asiakasomistajille. Sivusto on hyvin organisoitu useilla asiointikanavilla (S-mobiili, verkkopankki, toimipaikat), mutta palveluhinnastoa on vaikea löytää ja sähköpostiosoitetta ei ole julkisesti näkyvillä. Perustiedot hinnoittelusta (käyttötili ja kortti ilmaiseksi) ja yhteystiedoista ovat saatavilla, mutta jotkut läpinäkyvyyden mittarit jäävät puutteellisiksi.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -701,7 +721,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: s-pankki.fi/fi/tiedotteet/2017/s-pankki-finanssiala-ryn-jaseneksi/ -tiedotteessa S-Pankki kertoo liittyneensä Finanssiala ry:n jäseneksi; tiedote on edelleen julkisesti luettavissa yhtiön omalla sivustolla."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "S-Pankki",
+    "paivakatselut_ka": 23,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'S-Pankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "omasp",
@@ -927,7 +954,16 @@
     "Käyttötilin ja kortin kuukausimaksuja ei ole julkaistu sivulla - hinnat löytyvät vain PDF-hinnaston kautta",
     "Konttorien aukioloajat näytetään vain interaktiivisena kartalla, ei yksityiskohtaisesti tekstinä"
    ],
-   "yhteenveto": "Oma Säästöpankki Oyj on itsenäinen pörssiyhtiö, jonka verkkosivuilla on kattava tietohakemisto palveluista, sopimusehdoista ja kontaktitiedoista. Sivuston selkeys on hyvä ja asiakaspalveluun pääsee useilla tavoilla (puhelin, chat, konttori). Hinnoittelu on kuitenkin piilossa PDF-tiedostoissa, joten julkisen saavutettavuuden osalta on puutteita."
+   "yhteenveto": "Oma Säästöpankki Oyj on itsenäinen pörssiyhtiö, jonka verkkosivuilla on kattava tietohakemisto palveluista, sopimusehdoista ja kontaktitiedoista. Sivuston selkeys on hyvä ja asiakaspalveluun pääsee useilla tavoilla (puhelin, chat, konttori). Hinnoittelu on kuitenkin piilossa PDF-tiedostoissa, joten julkisen saavutettavuuden osalta on puutteita.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Oma Säästöpankki",
+    "paivakatselut_ka": 45,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Oma Säästöpankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "poppankki",
@@ -1154,7 +1190,9 @@
     "Y-tunnusta ei näy julkisesti mistään osasta sivustoa",
     "Palveluhinnasto on fragmentoitu jäsenpankkien kesken, mistä johtuen kuluttajat joutuvat etsimään tietoja useista eri paikoista"
    ],
-   "yhteenveto": "POP Pankki -ryhmä on itsenäisten osuuspankkien ryhmä, jonka pääsivu tarjoaa selkeää navigointia palveluihin ja tietoihin. Ryhmän tasolla ei ole yhteistä palveluhinnastoa tai käyttötilin maksuja, koska jokainen 18 jäsenpankista määrittelee omat hintansa. Sivusto on hyvin dokumentoitu sopimusehtojen ja tietosuojaselosteiden osalta, ja asiakaspalvelun puhelinnumerot sekä chat-palvelu ovat selvästi näkyvissä."
+   "yhteenveto": "POP Pankki -ryhmä on itsenäisten osuuspankkien ryhmä, jonka pääsivu tarjoaa selkeää navigointia palveluihin ja tietoihin. Ryhmän tasolla ei ole yhteistä palveluhinnastoa tai käyttötilin maksuja, koska jokainen 18 jäsenpankista määrittelee omat hintansa. Sivusto on hyvin dokumentoitu sopimusehtojen ja tietosuojaselosteiden osalta, ja asiakaspalvelun puhelinnumerot sekä chat-palvelu ovat selvästi näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "saastopankki",
@@ -1381,7 +1419,16 @@
     "Sopimusehdot ja muut säädösasiakirjat puuttuvat ryhmän pääsivustolta; asiakkaiden pitää etsiä ne paikallisten pankkien sivuilta",
     "Y-tunnus ei näkyvissä pääsivustolla (johtuu ryhmärakenteesta: Säästöpankkiryhmä koostuu useista itsenäisistä pankeista ja muista yhtiöistä)"
    ],
-   "yhteenveto": "Säästöpankki ei ole yksi pankki vaan ryhmä itsenäisiä paikallisia pankkeja ympäri Suomea. Pääsivusto tarjoaa yhtenäisen asiakaspalvelun (puhelin 010 311 6400, chat, verkkotapaaminen) ja selkeää konttoriverkkoa, mutta hinnaston ja sopimusehtojen osalta ohjaa asiakkaita paikallisten pankkien sivustoille. Säästöpankki Mobiili -sovellusta kehutaan. Ryhmärakenteen vuoksi yksittäisen Y-tunnuksen tai palveluhinnastojen toimittaminen on mahdotonta: jokaisen paikallisen Säästöpankin hinnasto poikkeaa."
+   "yhteenveto": "Säästöpankki ei ole yksi pankki vaan ryhmä itsenäisiä paikallisia pankkeja ympäri Suomea. Pääsivusto tarjoaa yhtenäisen asiakaspalvelun (puhelin 010 311 6400, chat, verkkotapaaminen) ja selkeää konttoriverkkoa, mutta hinnaston ja sopimusehtojen osalta ohjaa asiakkaita paikallisten pankkien sivustoille. Säästöpankki Mobiili -sovellusta kehutaan. Ryhmärakenteen vuoksi yksittäisen Y-tunnuksen tai palveluhinnastojen toimittaminen on mahdotonta: jokaisen paikallisen Säästöpankin hinnasto poikkeaa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Säästöpankki",
+    "paivakatselut_ka": 23,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Säästöpankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "aktia",
@@ -1609,6 +1656,8 @@
     "Sivuston sisältö on hyvin JavaScript-renderöityä, joten staattinen pääsy epäluotettava"
    ],
    "yhteenveto": "Aktia Pankki Oyj on suomalainen pankkikonserni, jonka julkinen sivusto tarjoaa hyvät turvallisuusohjeet ja kattavat yhteystiedot. Palveluhinnasto ja tilin/kortin kuukausikulut eivät ole julkisesti näkyvissä staattisen haun kautta. Sivusto käyttää laajasti JavaScript-renderöintiä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1629,7 +1678,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: sama aktia.fi/fi/vastuullinen-sijoittaminen -sivun jäsenyys-/aloitelista mainitsee Green Building Council Finlandin."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Aktia",
+    "paivakatselut_ka": 14,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Aktia' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "nordea",
@@ -1855,7 +1911,16 @@
     "Puhelinnumeroa ja sähköpostiosoitetta ei löytynyt luetuilta julkisilta sivuilta",
     "Konttoreiden ja aukioloaikojen tietoja ei saatu vahvistettua julkisilta sivuilta"
    ],
-   "yhteenveto": "Nordea Bank Oyj on Suomen suurimpia pankkeja, ja sen henkilöasiakkaiden sivustolla on julkinen hinnasto: päivittäispalveluiden hinnat (mm. käyttötili 2,60 €/kk ja Nordea Debit 2,99 €/kk) näkyvät ilman kirjautumista. Sivusto käyttää bot-suojausta ja osa navigaation alasivuista ei latautunut mittauksessa, joten konttori-, aukioloaika- ja yhteystietoja ei voitu vahvistaa täysin."
+   "yhteenveto": "Nordea Bank Oyj on Suomen suurimpia pankkeja, ja sen henkilöasiakkaiden sivustolla on julkinen hinnasto: päivittäispalveluiden hinnat (mm. käyttötili 2,60 €/kk ja Nordea Debit 2,99 €/kk) näkyvät ilman kirjautumista. Sivusto käyttää bot-suojausta ja osa navigaation alasivuista ei latautunut mittauksessa, joten konttori-, aukioloaika- ja yhteystietoja ei voitu vahvistaa täysin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Nordea",
+    "paivakatselut_ka": 40,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Nordea' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "op",
@@ -2078,7 +2143,9 @@
     "Konttorien sijainnit ja aukioloajat eivät julkisesti löydettävissä; vain asiakaspalvelun puhelinpalvelun aukioloajat mainittu (ma-pe 8-16)",
     "Y-tunnus puuttuu kokonaan; ainoastaan BIC-koodi (OKOYFIHH) näkyvissä käyttöehdoissa"
    ],
-   "yhteenveto": "OP Pohjola on Suomen suurimpia pankkeja, jonka verkkosivut op.fi ovat JavaScript-renderöityä sisältöä. Sivustolla on kattavat tiedot pankkipalveluista, erityisesti mobiilisovelluksesta ja maksukortista, sekä selkeät asiakaspalvelun yhteystiedot. Palveluhinnastoa ja sopimuksehtoja voi hakea, mutta joitain olennaisia tietoja, kuten fyysisten konttorien sijainnit ja Y-tunnuksen, ei löydy julkisesta sivustosta."
+   "yhteenveto": "OP Pohjola on Suomen suurimpia pankkeja, jonka verkkosivut op.fi ovat JavaScript-renderöityä sisältöä. Sivustolla on kattavat tiedot pankkipalveluista, erityisesti mobiilisovelluksesta ja maksukortista, sekä selkeät asiakaspalvelun yhteystiedot. Palveluhinnastoa ja sopimuksehtoja voi hakea, mutta joitain olennaisia tietoja, kuten fyysisten konttorien sijainnit ja Y-tunnuksen, ei löydy julkisesta sivustosta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "18.7.2026",

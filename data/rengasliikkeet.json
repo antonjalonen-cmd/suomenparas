@@ -226,7 +226,16 @@
     "Varsinaista FAQ tai UKK-osiota sivustolla ei ole, asiakkaat joutuvat etsimään tietoa artikkelista",
     "Yksityisasiakkaiden sähköpostiosoite ei näy etusivulla, vain palaute-lomake on käytettävissä"
    ],
-   "yhteenveto": "Vianor on yksi Suomen suurimmista renkaaliikkeiden ketjuista, joka tarjoaa kattavan verkkokaupan rengaille ja autohuoltopalveluille. Rengashintoja, asennuspalvelun hintoja ja rengashotellin palveluita on näkyvissä ilman kirjautumista. Online-ajanvaraus on helppokäyttöinen, ja toimipisteet sijaitsevat laajasti eri puolilla maata. Kattavat maksuaikaoptiot parantavat saavutettavuutta."
+   "yhteenveto": "Vianor on yksi Suomen suurimmista renkaaliikkeiden ketjuista, joka tarjoaa kattavan verkkokaupan rengaille ja autohuoltopalveluille. Rengashintoja, asennuspalvelun hintoja ja rengashotellin palveluita on näkyvissä ilman kirjautumista. Online-ajanvaraus on helppokäyttöinen, ja toimipisteet sijaitsevat laajasti eri puolilla maata. Kattavat maksuaikaoptiot parantavat saavutettavuutta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Vianor",
+    "paivakatselut_ka": 4,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Vianor' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "motonet",
@@ -441,6 +450,8 @@
     "Y-tunnus puuttuu kokonaan — yritystietojen löytäminen vaatii ulkopuolisen lähteen käyttöä"
    ],
    "yhteenveto": "Motonet on laajasti Suomessa toimiva autovaraosien ja -tarvikkeiden ketju, joka tarjoaa rengaspalveluja useammalla paikkakunnalla. Sivusto kuvaa palvelut kattavasti ja tarjoaa monikanavaisen asiakaspalvelun, mutta konkreettisia hintoja renkaiden myyntiin tai asennukseen ei ole julkisesti esillä, eikä Y-tunnus ole nähtävissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -659,6 +670,8 @@
     "Ei sähköpostiosoitetta julkaistussa osassa, vain puhelinyhteystiedot"
    ],
    "yhteenveto": "Euromaster on Suomen suurin rengasliikkeketju, jolla on noin 80 toimipistettä koko maassa. Renkaat ovat hinnoiteltuja verkkokaupassa, mutta asennuspalvelun hinnat on saatavilla vain tarjouspyynnöin. Ajanvaraus onnistuu verkossa sekä puhelimitse, ja rengashotellin palvelu (renkaiden säilytys, pesu, kuntotarkastus) on tarjolla kaikissa toimipisteissä alueellisesti hinnoiteltuna.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -673,7 +686,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Samalla sivulla todetaan: \"Myös pinnoittamomme on ISO:9001- ja ISO:14001 -sertifioitu, ja sillä on myös Traficomin myöntämä E109-hyväksyntä. Recamic auditoi vuosittain pinnoittamon tuotantoprosessit.\""
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Euromaster",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Euromaster' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "rengascenter",
@@ -889,6 +909,8 @@
     "Verkkoajanvaraus puuttuu kokonaan; varaus vaatii puhelinkontaktin tai paikan päälle minnä"
    ],
    "yhteenveto": "RengasCenter on suomalainen yrittäjäomisteinen rengasliikeketju, joka palvelee yli 60 toimipisteellä ympäri Suomea. Sivusto tarjoaa selkeän rengashakusovelluksen ja kattavat tiedot palveluista, mutta hintatiedot vaativat dynaamisesti ladattavaa sisältöä ja verkkoajanvaraus puuttuu kokonaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1115,7 +1137,9 @@
     "Rengashotellin säilytyshintoja ei ilmoiteta verkkosivuilla, ainoastaan palvelun kuvaus ilman hintatieto",
     "UKK-osio puuttuu kokonaan; asiakkaiden yleisiin kysymyksiin vastaava informaatio on vain tekstimuodossa palvelusivuilla"
    ],
-   "yhteenveto": "First Stop on laaja, eurooppalaisiin verkostoihin kuuluva renkaaliike, jolla on yli 60 toimipistettä Suomessa. Palvelut ovat monipuoliset ja varausjärjestelmä toimii verkon kautta 24/7. Kuitenkin renkaille ja palveluille hinnat eivät ole julkisesti saatavilla sivustolla, vaan ne ilmoitetaan vasta varausvaiheessa, mikä heikentää läpinäkyvyyttä."
+   "yhteenveto": "First Stop on laaja, eurooppalaisiin verkostoihin kuuluva renkaaliike, jolla on yli 60 toimipistettä Suomessa. Palvelut ovat monipuoliset ja varausjärjestelmä toimii verkon kautta 24/7. Kuitenkin renkaille ja palveluille hinnat eivät ole julkisesti saatavilla sivustolla, vaan ne ilmoitetaan vasta varausvaiheessa, mikä heikentää läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "bestdrive",
@@ -1324,7 +1348,9 @@
     "Online-ajanvaraus puuttuu kokonaan, varaus vaatii yhteydenoton puhelimitse tai sähköpostilla",
     "Pääyhtiön puhelinnumeroa ei ole esillä, vain liikkeiden yhteystiedot saatavilla"
    ],
-   "yhteenveto": "BestDrive on Continentalin tukema kansallinen rengasliike ketju, jolla on noin 30 liikettä ympäri Suomea. Renkaiden hinnat näytetään selkeästi verkkosivulla, ja jokaisen liikkeen aukioloajat ja yhteystiedot ovat löydettävissä. Kuitenkin palvelun hinnat (renkaanvaihto, rengashotelli) ja online-ajanvaraus puuttuvat, mikä vaatii asiakkaalta suoraa yhteydenottoa liikkeeseen."
+   "yhteenveto": "BestDrive on Continentalin tukema kansallinen rengasliike ketju, jolla on noin 30 liikettä ympäri Suomea. Renkaiden hinnat näytetään selkeästi verkkosivulla, ja jokaisen liikkeen aukioloajat ja yhteystiedot ovat löydettävissä. Kuitenkin palvelun hinnat (renkaanvaihto, rengashotelli) ja online-ajanvaraus puuttuvat, mikä vaatii asiakkaalta suoraa yhteydenottoa liikkeeseen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "21.7.2026",

@@ -225,7 +225,9 @@
     "Tarjouslaskuri (Easy Move) vaatii kuvien ottamisen - ei nopein tapa ilman puhelun soittamista",
     "Asiakasarvioiden määrä ja jakauma piiloitettu - vain keskiarvo 9.6/10 näkyvissä"
    ],
-   "yhteenveto": "Suomen Muuttofirma Oy on Joensuussa vuonna 2009 perustettu valtakunnallinen muuttopalveluyhtiö. Sivustonsa kautta he tarjoavat selkeät hintatiedot esimerkkeinä, Easy Move -sovelluksen verkkohintasille sekä kattavan tiedot vakuutuksista ja vastuusta. Sivusto on hyvin organisoitu ja vastaa moniin asiakkaan kysymyksiin, mutta tarkat tuntitaksat vaativat edelleen tarjouspyynnön."
+   "yhteenveto": "Suomen Muuttofirma Oy on Joensuussa vuonna 2009 perustettu valtakunnallinen muuttopalveluyhtiö. Sivustonsa kautta he tarjoavat selkeät hintatiedot esimerkkeinä, Easy Move -sovelluksen verkkohintasille sekä kattavan tiedot vakuutuksista ja vastuusta. Sivusto on hyvin organisoitu ja vastaa moniin asiakkaan kysymyksiin, mutta tarkat tuntitaksat vaativat edelleen tarjouspyynnön.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "niemi-palvelut",
@@ -439,6 +441,8 @@
     "Chat-palvelua ei ole saatavilla; asiakkaiden on käytettävä puhelinta, sähköpostia tai verkkolomaketta."
    ],
    "yhteenveto": "Niemi Palvelut Oy on Suomen johtava muuttopalveluyritys, joka tarjoaa kotimuutot, yritysmuutot ja logistiikkapalvelut. Sivusto on selkeä ja hinnoittelu on helposti saatavilla, erityisesti alle 100 neliön asuntojen verkkokaupan kautta. Vakuutus ja vahinkojen vastuu on hyvin dokumentoitu toimitusehdoissa, mikä antaa asiakkaalle selkeyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -663,6 +667,8 @@
     "Mobiilisovellusta ei mainita, vaikka nykyaikaiset muuttofirmat tarjoavat usein mobiiliratkaisuja"
    ],
    "yhteenveto": "Victor Ek on 140 vuoden kokemuksella toimiva perinteinen muuttofirma, joka palvelee pääasiassa Uusimaa- ja Pirkanmaa-alueilla. Sivusto on selkeästi organisoitu yksityiskohtaisella UKK-osiolla ja kuvaa palveluprosessia hyvin, mutta konkreettiset hinnat puuttuvat kokonaan ja kaikki tarjoukset vaativat asiakkaan aktiivista yhteydenottoa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -677,7 +683,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla victorek.fi/yritys/ todetaan: \"Olemme myös SMPY ry:n (Suomen Muuttopalveluyritykset) jäsen, joka on luotettavuuden osoitus...\" ja sivulla näkyy SMPY-logo (smpy-logo-cropped.png) joka linkittää smpy.fi:hin."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Victor Ek (kauppaneuvos)",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Victor Ek (kauppaneuvos)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "muuttohaukat",
@@ -891,6 +904,8 @@
     "UKK-osio puuttuu kokonaan, vaikka navigaatiossa se näkyy linkkeinä"
    ],
    "yhteenveto": "Muuttohaukat Oy on 30+ vuotta toiminut kotimuuttojen ja yritysmuuttojen erikoistunut palveluyritys, jolla on laaja maantieteellinen kattavuus. Verkkosivuilla käydään läpi palvelun sisältöä, vakuutusta ja vastuuta selkeästi, ja asiakkaille tarjotaan useita palvelupaketteja. Hinnoittelu perustuu tarjouslaskuriin eikä tuotettuja hintoja julkaista avoimesti.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -899,7 +914,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla muuttohaukat.com/ymparisto/ todetaan: \"Ensimmäinen muuttopalvelualan yritys, jolle on myönnetty Suomen luonnonsuojeluliiton Ekokompassi-ympäristöjärjestelmän sertifikaatti... käytössämme jo vuodesta 2013 alkaen.\""
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Muuttohaukat (yritys)",
+    "paivakatselut_ka": 0,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Muuttohaukat (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "21.7.2026",

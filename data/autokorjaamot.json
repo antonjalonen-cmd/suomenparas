@@ -223,6 +223,8 @@
     "Palvelupisteiden tarkemmat aukioloajat ja sijainti vaativat erillisen hakusivuston käyttöä"
    ],
    "yhteenveto": "Euromaster on valtakunnallinen autohuoltopalveluiden tarjoaja, jolla on kattava palveluiden kuvaus ja selkeä hintalistasivu. Verkkoajanvaraus on helppoa ja hinnat sekä palveluiden kuvaukset ovat julkisesti näkyvillä, mikä tekee palvelun valitsemisesta yksinkertaista asiakkaalle.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -449,7 +451,9 @@
     "Suora ajanvaraus verkossa ei ole selvästi toimintava – integroitu varaussysteemi (autokorjaamo.fi/embed-reservations) vaatii HTML5-tuen mutta ei selkeä, toimiiko se täysin",
     "Ei itsenäisiä asiakasarvioita tai arviointilähteita luottamuksen rakentamiseksi – pelkästään omien kuvausten varassa"
    ],
-   "yhteenveto": "AD Finland on Suomen johtava autokorjaamoketju, joka tarjoaa yli 150 valtuutettua korjaamoa ympäri Suomen ja palvelee asiakkaita monipuolisilla palveluilla kuten huolloilla, sähköautojen korjauksella ja AD-Ajoturvalla. Sivusto esittelee palvelut selkeästi ja mahdollistaa korjaamohakemisen osoitteilla ja aukioloajoilla, mutta yksittäisten palvelujen hintatiedot puuttuvat pääsivulta ja asiakkaan tulee ottaa yhteyttä suoraan korjaamoihin hinnoittelusta."
+   "yhteenveto": "AD Finland on Suomen johtava autokorjaamoketju, joka tarjoaa yli 150 valtuutettua korjaamoa ympäri Suomen ja palvelee asiakkaita monipuolisilla palveluilla kuten huolloilla, sähköautojen korjauksella ja AD-Ajoturvalla. Sivusto esittelee palvelut selkeästi ja mahdollistaa korjaamohakemisen osoitteilla ja aukioloajoilla, mutta yksittäisten palvelujen hintatiedot puuttuvat pääsivulta ja asiakkaan tulee ottaa yhteyttä suoraan korjaamoihin hinnoittelusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "motonet",
@@ -664,6 +668,8 @@
     "Y-tunnus ja riippumaton arvio puuttuvat sivustolta, ei myöskään mobiilisovellusta"
    ],
    "yhteenveto": "Motonet-korjaamot on laajakatvaa monimerkkikorjaamoketjua, jolla on toimipisteet lähes kaikilla Motonetin tavaratalopaikkakunnilla. Sivusto kuvaa palveluvalikoiman selkeästi (määräaikaishuollot, diagnostiikka, katsastus, nelipyöräsuuntaus), mutta konkreettisista hinnoista puuttuu tärkeä tieto – korjaamopalveluiden hinnat on jätettävä yhteydenottoa varten, vaikka Motomaatti-pikapalvelun hinnat ovatkin julkisia.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -886,7 +892,9 @@
     "Palveluiden hinnat näkyvät vain interaktiivisen hintalaskurin kautta rekisterinumerolla, ei kiinteitä peruspalvelun hintoja",
     "Riippumattomien arviointien, asiakaspalautteen tai sertifiointitietojen puuttuminen sivulla"
    ],
-   "yhteenveto": "Autofit on laaja suomalainen autohuolto- ja korjaamoketji, joka tarjoaa kattavat huolto- ja korjauspalvelut sekä erikoistuneesti sähkö- ja hybridiautojen huoltoon. Sivusto esittää palvelut yksityiskohtaisesti ja tarjoaa selkeän online-ajanvarausjärjestelmän hintalaskurineen, mutta konkreettiset palvelun hinnat ilmestyvät vain interaktiivisen laskin kautta rekisterinumerolla. Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat julkisen sivuston tiedoista."
+   "yhteenveto": "Autofit on laaja suomalainen autohuolto- ja korjaamoketji, joka tarjoaa kattavat huolto- ja korjauspalvelut sekä erikoistuneesti sähkö- ja hybridiautojen huoltoon. Sivusto esittää palvelut yksityiskohtaisesti ja tarjoaa selkeän online-ajanvarausjärjestelmän hintalaskurineen, mutta konkreettiset palvelun hinnat ilmestyvät vain interaktiivisen laskin kautta rekisterinumerolla. Yrityksen Y-tunnus ja yksittäisten korjaamoiden aukioloajat puuttuvat julkisen sivuston tiedoista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "fixus",
@@ -1096,6 +1104,8 @@
     "Puhelinnumero puuttuu: asiakaspalvelun puhelinnumero ei ole näkyvillä verkkosivuilla"
    ],
    "yhteenveto": "Fixus on Suomen laajin autokorjaamo- ja varaosamyymäläketju, joka palvelee yli 350 toimipisteessä. Verkkosivut esittävät kattavaa palveluvalikoiman ja tarjoavat verkkoajanvarauksen. Hinnat ja aukioloajat ovat kuitenkin paikallisten toimipisteiden tasolla eikä pääsivulla, mikä vähentää läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1104,7 +1114,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla fixus.fi meta-kuvauksessa todetaan: \"Fixus-ketjulle myönnetty Avainlippu on osoitus aidosti kotimaisesta palvelusta.\""
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Fixus",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Fixus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "autoasi",
@@ -1316,7 +1333,16 @@
     "Korjaamojen aukioloajat puuttuvat kokonaan, vain listaus paikoista saatavilla",
     "Verkkoajanvaraus puuttuu: ajanvaraus edellyttää tarjouspyynnön tai suoraa yhteydenottoa"
    ],
-   "yhteenveto": "Autoasi-ketju on kotimaan monimerkkikorjaamo-ketju, joka tarjoaa kattavan palveluvalikoiman. Sivusto on selkeä ja sisältää hyviä ohjeita huolto-asioista, mutta hinnoittelutiedot ja aukioloajat puuttuvat kokonaan. Verkkoajanvaraus puuttuu – asiakkaiden on lähetettävä tarjouspyyntö lomakkeen kautta."
+   "yhteenveto": "Autoasi-ketju on kotimaan monimerkkikorjaamo-ketju, joka tarjoaa kattavan palveluvalikoiman. Sivusto on selkeä ja sisältää hyviä ohjeita huolto-asioista, mutta hinnoittelutiedot ja aukioloajat puuttuvat kokonaan. Verkkoajanvaraus puuttuu – asiakkaiden on lähetettävä tarjouspyyntö lomakkeen kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Autoasi",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Autoasi' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "21.7.2026",

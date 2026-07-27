@@ -1,0 +1,45 @@
+{
+  "slug": "iltalehti",
+  "fetched_ok": [
+    "https://www.iltalehti.fi/",
+    "https://www.iltalehti.fi/plus",
+    "https://www.iltalehti.fi/info"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "kylla",
+  "mainonta_eroteltu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "tilaushinta_eur_kk": 0,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Vastaava päätoimittaja ja toimitusorganisointi selkeästi julkaistu /info-sivulla, johtajat nimetty osastoittain",
+    "Kaupallinen sisältö merkitty selvästi (KAUPALLINEN YHTEISTYÖ -otsikko artikkeleissa)",
+    "Oikaisupyyntöjen prosessi ja sähköpostiosoite (oikaisut@iltalehti.fi) selkeästi näkyvissä"
+  ],
+  "kehityskohteet": [
+    "Tilaus- ja käyttöehdot eivät ole suoraan saavutettavissa - sivuston JavaScript-pohjainen reititys estää pääsyn näihin tietoihin",
+    "Iltalehti Plus -hinnoittelu ei ole eksplisiittisesti näkyvissä sivuston julkisilla osilla, vain tilauspyyntö näkyvissä",
+    "Uutismedian liiton jäsenyys mainitaan, mutta ei linkkejä riippumattomaan arvioon tai levikintarkastukseen"
+  ],
+  "yhteenveto": "Iltalehti on Alma Media Finland Oy:n omistama uutislähde, joka tarjoaa pääsääntöisesti ilmaista sisältöä maksullisten Iltalehti Plus ja Plus Extra -tasojen kanssa. Toimitus ja vastuulliset päätoimittajat on nimetty, sekä oikaisukäytäntö on selkeästi kuvattu. Kaupallinen sisältö erotetaan toimittajasisällöstä merkinnöillä.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Etusivulla näkyvä 'TILAA PLUS' -nappi ja /plus-osiolla maininta 'Iltalehti Plus Extra -tilaus sisältää kaikki Iltalehti Plussan edut' - ilmainen pääsisältö Plus- ja Plus Extra -maksulliset tasot saatavilla",
+    "paatoimittaja_esilla": "HAVAINTO: /info-sivulla 'Kauppinen Perttu, vastaava päätoimittaja' selvästi nimetty, lisäksi uutispäätoimittaja ja muut osastojen johtajat nimetty",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: /info-sivulla 'Oikaisupyynnöt - Jos sinulla on Iltalehden juttua koskeva oikaisupyyntö tai Iltalehden somessa tapahtuvaa keskustelua koskeva moderointipyyntö, lähetä se kirjallisena osoitteeseen oikaisut@iltalehti.fi'",
+    "mainonta_eroteltu": "HAVAINTO: Etusivulla ja /plus-sivulla näkyvät 'KAUPALLINEN YHTEISTYÖ' -merkinnöt selkeästi erottavat sponsoroidun sisällön (esim. 'KAUPALLINEN YHTEISTYÖ: RAJALA PRO SHOP', 'KAUPALLINEN YHTEISTYÖ: NETTIAUTO')",
+    "y_tunnus_esilla": "HAVAINTO: /info-sivulla 'Y-tunnus 0869288-1' eksplisiittisesti näkyvissä, julkaisija ilmoitettu 'Alma Media Finland Oy'",
+    "riippumaton_arvio": "HAVAINTO: /info-sivulla maininta 'Uutismedian liiton jäsen', mikä osoittaa riippumattoman järjestön jäsenyyttä"
+  }
+}

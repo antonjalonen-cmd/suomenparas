@@ -1,52 +1,52 @@
-
-  "slug": "yliopiston-apteekki",
-  "fetched_ok": [
-    "https://www.yliopistonapteekki.fi/",
-    "https://www.yliopistonapteekki.fi/yhteystiedot",
-    "https://www.yliopistonapteekki.fi/verkkoapteekki/maksu-ja-toimitustavat",
-    "https://www.yliopistonapteekki.fi/verkkoapteekki/toimitusehdot"
-  ],
-  "otc_hinnat_esilla": "kylla",
-  "toimitusehdot_esilla": "kylla",
-  "resepti_prosessi_selitetty": "kylla",
-  "palautuspolitiikka_kerrottu": "kylla",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "kylla",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "kk_hinta_alkaen_eur": null,
-  "ai_arviot": {
-    "selkeys": 82,
-    "hintojen_loydettavyys": 90,
-    "sisallon_kattavuus": 92
-  },
-  "vahvuudet": [
-    "Y-tunnus (0202635-1) ja yritystiedot julkaistu selkeasti toimitusehdoissa",
-    "Kattavat asiakaspalvelukanavat: puhelin ymparivuorokauden, chat kanta-asiakkaille paivittain klo 8-22, sahkoposti",
-    "Fimea-linkki footerissa; reseptilakkeiden tilausohje selostettu yksityiskohtaisesti"
-  ],
-  "kehityskohteet": [
-    "Chat-palvelu vaatii kirjautumisen - vierailija ei paase chattiin ennen rekisteroitymista",
-    "Etusivu on laaja tuotekategoriapainotteinen; palautuslomake loytyy vasta navigaation kautta",
-    "Sovelluksen latauslinkki footerissa muttei omaa sovellussivua"
-  ],
-  "yhteenveto": "Yliopiston Apteekki on Suomen suurin apteekki ja sen verkkoapteekki tarjoaa laajan OTC-tuotevalikoiman selvine hintoineen seka mahdollisuuden tilata reseptilakkeita. Toimitusehdot, Y-tunnus ja Fimea-viittaus ovat julkisesti nahtavilla, ja asiakaspalvelu toimii puhelimitse ymparivuorokauden. Sivuston laajuus voi tehda tiedon loytamisesta hieman aikaa vievaa.",
-  "evidence": {
-    "otc_hinnat_esilla": "HAVAINTO: Etusivulla nakyvat tuotteiden hinnat ilman kirjautumista; vitamiinit ja kasikauppatuotteet hintoineen koriin lisattavissa.",
-    "toimitusehdot_esilla": "HAVAINTO: Toimitusehdot-sivu on julkinen; ilmainen toimitus pakettiautomaatteihin yli 65 euron tilauksista mainitaan etusivulla.",
-    "resepti_prosessi_selitetty": "HAVAINTO: Toimitusehdoissa selvitetaan etta reseptilakkeisiin vaaditaan vahva tunnistautuminen ja sahkoinen resepti; farmaseutti palvelee suojatussa chat-yhteydesssa.",
-    "palautuspolitiikka_kerrottu": "HAVAINTO: Toimitusehdoissa on 14 paivan peruuttamisoikeus, maksuton palautus postiin, poikkeukset reseptilakkeille ja avatuille hygieniatuotteille.",
-    "y_tunnus_esilla": "HAVAINTO: Toimitusehdoissa lukee Yliopiston Apteekki (y-tunnus 0202635-1) ja Yliopiston Apteekki Oy (y-tunnus 1846816-2), osoite Valimotie 7, 00380 Helsinki.",
-    "riippumaton_arvio": "HAVAINTO: Footerissa on Laaakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (kirjaamo@fimea.fi, 029 522 3341).",
-    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla puhelin 0300 20200 (ymparivuorokauden) kuluttajille; myos toimitusehdoissa 09 5420 4500.",
-    "email_esilla": "HAVAINTO: Yritysasiakaspalvelun sahkoposti verkkokauppa@ya.fi nakyy yhteystiedot-sivulla.",
-    "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla mainitaan Chat-asiakaspalvelu kanta-asiakkaille avoinna joka paiva 8-22, mutta chat edellyttaa kirjautumista.",
-    "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla listataan jokaisen fyysisen apteekin aukioloajat seka verkkoapteekin kasittelyajat.",
-    "ukk_osio": "HAVAINTO: Navigaatiossa on linkki Usein kysyttya verkkoasioinnista -sivulle.",
-    "mobiilisovellus": "HAVAINTO: Footerin kanta-asiakkuus-osiossa on Lataa sovellus -linkki; Wolt-sovellus mainitaan myos toimitusvaihtoehtona."
-  }
+{
+ "slug": "yliopiston-apteekki",
+ "fetched_ok": [
+  "https://www.yliopistonapteekki.fi/",
+  "https://www.yliopistonapteekki.fi/yhteystiedot",
+  "https://www.yliopistonapteekki.fi/verkkoapteekki/maksu-ja-toimitustavat",
+  "https://www.yliopistonapteekki.fi/verkkoapteekki/toimitusehdot"
+ ],
+ "otc_hinnat_esilla": "kylla",
+ "toimitusehdot_esilla": "kylla",
+ "resepti_prosessi_selitetty": "kylla",
+ "palautuspolitiikka_kerrottu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "kylla",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "kk_hinta_alkaen_eur": null,
+ "ai_arviot": {
+  "selkeys": 82,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 92
+ },
+ "vahvuudet": [
+  "Y-tunnus (0202635-1) ja yritystiedot julkaistu selkeasti toimitusehdoissa",
+  "Kattavat asiakaspalvelukanavat: puhelin ymparivuorokauden, chat kanta-asiakkaille paivittain klo 8-22, sahkoposti",
+  "Fimea-linkki footerissa; reseptilakkeiden tilausohje selostettu yksityiskohtaisesti"
+ ],
+ "kehityskohteet": [
+  "Chat-palvelu vaatii kirjautumisen - vierailija ei paase chattiin ennen rekisteroitymista",
+  "Etusivu on laaja tuotekategoriapainotteinen; palautuslomake loytyy vasta navigaation kautta",
+  "Sovelluksen latauslinkki footerissa muttei omaa sovellussivua"
+ ],
+ "yhteenveto": "Yliopiston Apteekki on Suomen suurin apteekki ja sen verkkoapteekki tarjoaa laajan OTC-tuotevalikoiman selvine hintoineen seka mahdollisuuden tilata reseptilakkeita. Toimitusehdot, Y-tunnus ja Fimea-viittaus ovat julkisesti nahtavilla, ja asiakaspalvelu toimii puhelimitse ymparivuorokauden. Sivuston laajuus voi tehda tiedon loytamisesta hieman aikaa vievaa.",
+ "evidence": {
+  "otc_hinnat_esilla": "HAVAINTO: Etusivulla nakyvat tuotteiden hinnat ilman kirjautumista; vitamiinit ja kasikauppatuotteet hintoineen koriin lisattavissa.",
+  "toimitusehdot_esilla": "HAVAINTO: Toimitusehdot-sivu on julkinen; ilmainen toimitus pakettiautomaatteihin yli 65 euron tilauksista mainitaan etusivulla.",
+  "resepti_prosessi_selitetty": "HAVAINTO: Toimitusehdoissa selvitetaan etta reseptilakkeisiin vaaditaan vahva tunnistautuminen ja sahkoinen resepti; farmaseutti palvelee suojatussa chat-yhteydesssa.",
+  "palautuspolitiikka_kerrottu": "HAVAINTO: Toimitusehdoissa on 14 paivan peruuttamisoikeus, maksuton palautus postiin, poikkeukset reseptilakkeille ja avatuille hygieniatuotteille.",
+  "y_tunnus_esilla": "HAVAINTO: Toimitusehdoissa lukee Yliopiston Apteekki (y-tunnus 0202635-1) ja Yliopiston Apteekki Oy (y-tunnus 1846816-2), osoite Valimotie 7, 00380 Helsinki.",
+  "riippumaton_arvio": "HAVAINTO: Footerissa on Laaakealan turvallisuus- ja kehittamiskeskus Fimea yhteystietoineen (kirjaamo@fimea.fi, 029 522 3341).",
+  "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla puhelin 0300 20200 (ymparivuorokauden) kuluttajille; myos toimitusehdoissa 09 5420 4500.",
+  "email_esilla": "HAVAINTO: Yritysasiakaspalvelun sahkoposti verkkokauppa@ya.fi nakyy yhteystiedot-sivulla.",
+  "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla mainitaan Chat-asiakaspalvelu kanta-asiakkaille avoinna joka paiva 8-22, mutta chat edellyttaa kirjautumista.",
+  "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla listataan jokaisen fyysisen apteekin aukioloajat seka verkkoapteekin kasittelyajat.",
+  "ukk_osio": "HAVAINTO: Navigaatiossa on linkki Usein kysyttya verkkoasioinnista -sivulle.",
+  "mobiilisovellus": "HAVAINTO: Footerin kanta-asiakkuus-osiossa on Lataa sovellus -linkki; Wolt-sovellus mainitaan myos toimitusvaihtoehtona."
+ }
 }

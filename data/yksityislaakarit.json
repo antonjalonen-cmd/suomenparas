@@ -221,6 +221,8 @@
     "Y-tunnus puuttuu julkisesti näkyvistä sivuista, ei merkittyä riippumatonta arviointilähteistä (NPS on oma mittari)"
    ],
    "yhteenveto": "Mehiläinen on laajasti toimiva yksityinen terveyspalveluiden tuottaja, jolla on vahva digitaalinen palvelutarjonta OmaMehiläinen-sovelluksen ja 24/7 Digiklinikan kautta. Sivusto esittelee selkeästi etävastaanottojen hinnat ja Kela-korvaukset, mutta fyysisten vastaanottojen hinnat ja toimipisteiden aukioloajat löytyvät vain yksittäisiä lääkäreitä selaillessa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -247,7 +249,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: Sivulla mehilainen.fi/laatu/sertifikaatit mainitaan ETJ+-energiatehokkuussertifikaatti, joka osoittaa sitoutumisen energiatehokkaisiin toimintatapoihin."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Mehiläinen (yritys)",
+    "paivakatselut_ka": 36,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Mehiläinen (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "aava",
@@ -461,6 +470,8 @@
     "Chat-palvelusta tiedot ovat rajalliset – vain lääkäri-chat mainitussa hinnastossa, muista chat-muodoista ei selkeitä tietoja"
    ],
    "yhteenveto": "Lääkärikeskus Aava on suomalainen yksityinen lääkäripalveluiden tarjoaja, joka ylläpitää 15 toimipistettä eri kaupungeissa. Hinnasto on kattavasti näkyvillä, Kela-korvaukset kerrotaan selkeästi ja ajanvaraus on mahdollista ilman kirjautumista nettiajanvarauksessa. Palvelun saatavuus on kuitenkin vaihdellut osassa sivun alasivuista (404-virheet), ja Y-tunnus olisi selkeämpi löytää.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -683,6 +694,8 @@
     "Aukioloajat mainittiin vain yleisesti (arkisin klo 7-21), toimipistekohtaisesti tiedot piti hakea erillisestä listasta"
    ],
    "yhteenveto": "Pihlajalinna on suuri yksityinen terveyspalvelujen tuottaja, jonka verkkosivuilla vastaanottohinnat (yleislääkäri alkaen 70€) ja Kela-korvaus (-menettely selitetty yksityiskohtaisesti) ovat julkisesti näkyvissä. Ajanvaraus onnistuu verkossa ilman kirjautumista, ja asiakkaalla on useita yhteydenpitokanaavia. Etäpalvelut (chat, video, puhelin) ovat hyvin dokumentoituja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -697,7 +710,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla pihlajalinna.fi/yhtio/laatu-ja-turvallisuus/laatupolitiikka todetaan, että Pihlajalinnan yksityiset terveyspalvelut (työterveys-, lääkärikeskukset ja sairaalat) on sertifioitu ISO 14001 -ympäristöjohtamisstandardin mukaan."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pihlajalinna",
+    "paivakatselut_ka": 10,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Pihlajalinna' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "terveystalo",
@@ -913,6 +933,8 @@
     "Riippumattomat asiakasarviot (esim. tähdet, arviot) puuttuvat sivustolta"
    ],
    "yhteenveto": "Terveystalo on merkittävä yksityinen lääkäriketju, joka tarjoaa laajoja palveluja yli 200 toimipaikassa. Verkkosivusto esittelee selkeästi ja läpinäkyvästi hinnaston Kela-korvauksilla, mutta Y-tunnus jää puuttuvaksi ja yksittäisten toimipaikkojen aukioloajat ovat vaikeasti löydettävissä. Sovellus ja 24/7 chat-palvelut parantavat merkittävästi asioinnin sujuvuutta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -921,7 +943,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla terveystalo.com/fi/yhtio/laatu-ja-vastuullisuus (ja alasivulla Vastuullisuus Terveystalossa) todetaan, että ympäristövaikutuksia hallitaan ISO 14001 -järjestelmän avulla."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Terveystalo",
+    "paivakatselut_ka": 20,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Terveystalo' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "18.7.2026",

@@ -27,6 +27,7 @@ MEASURED = {
     "kattoremontit": "26.7.2026",
     "tyonvalityspalvelut": "26.7.2026",
     "silmasairaalat": "26.7.2026",
+    "uutismediat": "26.7.2026",
     "hautaustoimistot": "23.7.2026",
     "matkatoimistot": "23.7.2026",
     "tilitoimistot": "23.7.2026",
@@ -91,8 +92,26 @@ MEASURED = {
 CERT_BONUS_PER = 1.5
 CERT_BONUS_MAX = 3.0
 
+# Score v1.3 (26.7.2026): sitoutumisindeksi. If the vertical's transparency
+# criteria include a return/cancellation/termination key (palautus/peruutus/
+# irtisanomis) and the company publishes that flexibility openly, it earns a
+# small positive-only bonus: kylla +0.5 / osittain +0.25 per criterion, capped
+# at +1.0. Never a penalty — "ei" or a vertical without such a criterion adds 0.
+SITOUTUMIS_KEYS = ("palautus", "peruutus", "irtisanomis")
+SITOUTUMIS_PER = {"kylla": 0.5, "osittain": 0.25}
+SITOUTUMIS_MAX = 1.0
+
 def load_certs(vertical):
     p = os.path.join(BASE, "pipeline", "certs", f"{vertical}.json")
+    if not os.path.exists(p):
+        return {}
+    return json.load(open(p, encoding="utf-8-sig"))
+
+# Tunnettuus (26.7.2026): informational only, NEVER affects the score. Data from
+# pipeline/tunnettuus/<vertical>.json (fetch_tunnettuus.py — fi.wikipedia page
+# views, an auditable public proxy). Missing file/slug simply omits the row.
+def load_tunnettuus(vertical):
+    p = os.path.join(BASE, "pipeline", "tunnettuus", f"{vertical}.json")
     if not os.path.exists(p):
         return {}
     return json.load(open(p, encoding="utf-8-sig"))
@@ -398,6 +417,23 @@ def build(vertical):
 
         score = round(0.30 * dig + 0.30 * lap + 0.20 * rea + 0.20 * ai, 1)
 
+        # sitoutumisindeksi: positive-only, see constants above
+        sit_rows, sit_bonus = [], 0.0
+        for k, label, _w in TRANSPARENCY[vertical]:
+            if any(t in k for t in SITOUTUMIS_KEYS):
+                add = SITOUTUMIS_PER.get(e.get(k), 0.0)
+                if add:
+                    sit_rows.append({
+                        "mittari": label,
+                        "arvo": "Esillä" if e.get(k) == "kylla" else "Osittain esillä",
+                        "pisteet": add,
+                        "lahde": (e.get("evidence") or {}).get(k, "Verkkosivu + AI-ekstraktio"),
+                    })
+                    sit_bonus += add
+        sit_bonus = round(min(SITOUTUMIS_MAX, sit_bonus), 2)
+        if sit_bonus:
+            score = round(min(100.0, score + sit_bonus), 1)
+
         out.append({
             "slug": slug,
             "nimi": meta["nimi"],
@@ -419,6 +455,8 @@ def build(vertical):
             "vahvuudet": e["vahvuudet"],
             "kehityskohteet": e["kehityskohteet"],
             "yhteenveto": e["yhteenveto"],
+            "sitoutumis_bonus": sit_bonus,
+            "sitoutumisindeksi": sit_rows,
         })
 
     certs_all = load_certs(vertical)
@@ -435,6 +473,11 @@ def build(vertical):
              "pisteet": (CERT_BONUS_PER if i < 2 else 0),
              "lahde": s.get("lahde", "Yrityksen oma sivusto")}
             for i, s in enumerate(certs)]
+    tun_all = load_tunnettuus(vertical)
+    for c in out:
+        t = tun_all.get(c["slug"])
+        if t:
+            c["tunnettuus"] = t
     out.sort(key=lambda c: -c["score"])
     v = dict(META[vertical])
     v["yritykset"] = out

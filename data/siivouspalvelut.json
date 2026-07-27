@@ -226,6 +226,8 @@
     "Tilaus verkossa aloitetaan postinumerokentällä, joten toimialueen tarkistus on välttämätöntä"
    ],
    "yhteenveto": "Koti Puhtaaksi on vakiintunut siivouspalvelu, jonka sivusto on hyvin organisoitu ja informatiivinen. Hinnat ovat täysin julkisesti saatavilla alueittain (58,80–72,00 €/h) ja kotitalousvähennysten vaikutus näkyy selkeissä laskelmissa. Asiakas voi tehdä tilaukset verkossa sekä sovelluksella. Palvelun laajuus (viisi toimialuetta) ja asiakastyytyväisyys (4,8/5) ovat voimakas viesti luotettavuudesta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -234,7 +236,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivun kotipuhtaaksi.fi alatunnisteessa (footer) näkyy kuvalogo alt-tekstillä \"Luotettava Kumppani\" (kuva vastuugroup.fi-domainilta, luotettava-kumppani-logo-vihrea.png)."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Koti Puhtaaksi",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Koti Puhtaaksi' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "kotirinki",
@@ -449,6 +458,8 @@
     "Usein kysyttyjen kysymysten osio (FAQ) puuttuu; sivuilla on linkkejä artikkeleihin, mutta ei strukturoitua vastausten kokoelmaa."
    ],
    "yhteenveto": "Kotirinki on paikallisiin pienyrittäjiin perustuva siivouspalveluketju, joka toimii noin 60 paikkakunnalla. Hinnat ovat avoimesti esillä ja kotitalousvähennyksen vaikutus selkeästi kuvattu, mikä antaa asiakkaille täydellisen ennustettavuuden kustannuksista. Verkon kautta tilaaminen on mahdollista laskurilta ja asiakassivulle.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -672,7 +683,9 @@
     "Mobiilisovellus on osittain valmis (site.webmanifest, apple-touch-icon), mutta ei ole selkeää mainintaa sovelluksesta tai linkkiä lataussivulle",
     "Chat ei ole 24/7 saatavilla – vain WhatsApp (wa.me) ja Leadoo-widget, jonka palveluajat eivät näy, sekä paikalliset yhteystiedot mainittu (MA-PE 8-16)"
    ],
-   "yhteenveto": "Keradur on kotimainen siivouspalvelu, joka tarjoaa kotisiivouksen palvelut Helsinki-, Tampere- ja Turku-alueilla. Sivusto on erityisen vahva hinnoittelun ja kotitalousvähennyksen selityksessä: hinnat on lueteltu selkeästi asiakkaan valitsemien tiheyssarjojen mukaan, ja omalla sivullaan kerrotaan yksityiskohtaisesti, miten 35 % kotitalousvähennys toimii käytännössä. Verkkovaraus onnistuu helppohintaisesti, ja FAQ-osio on hyvin kattava. Heikkouksina näkyy riippumattomien arviointien puuttuminen sekä mobiilisovelluksen epäselvä status."
+   "yhteenveto": "Keradur on kotimainen siivouspalvelu, joka tarjoaa kotisiivouksen palvelut Helsinki-, Tampere- ja Turku-alueilla. Sivusto on erityisen vahva hinnoittelun ja kotitalousvähennyksen selityksessä: hinnat on lueteltu selkeästi asiakkaan valitsemien tiheyssarjojen mukaan, ja omalla sivullaan kerrotaan yksityiskohtaisesti, miten 35 % kotitalousvähennys toimii käytännössä. Verkkovaraus onnistuu helppohintaisesti, ja FAQ-osio on hyvin kattava. Heikkouksina näkyy riippumattomien arviointien puuttuminen sekä mobiilisovelluksen epäselvä status.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "onni-kotisiivous",
@@ -882,6 +895,8 @@
     "Chat-tukea ei ole mainittu – asiakaspalvelu saatavilla vain puhelimitse ja sähköpostitse arkisin"
    ],
    "yhteenveto": "Onni Kotisiivous on suuri, kotimainen sosiaali- ja terveyspalvelu-yritys, joka tarjoaa kotisiivousta laajalla alueella Suomessa. Kotisiivous on kotitalousvähennyskelpoista (35 %) ja saatavilla myös arvonlisäverottomasti. Sivusto on selkeä ja sisältää kattavia tietoja palvelun sisällöstä, hinnasta ja prosesseista, mutta puuttuu y-tunnus ja suora verkkovaraus-linkki.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1110,6 +1125,8 @@
     "Usein kysytyt kysymykset (UKK) -osio puuttuu kokonaan."
    ],
    "yhteenveto": "Freska on suomalainen kotisiivouspalveluyritys, joka tarjoaa säännöllistä kotisiivouspalvelua sekä ikkunanpesua ja muuttosiivouspalveluita 17 kaupungissa. Palvelun voi tilata verkon kautta tai puhelimitse, ja asiakkaat voivat hyödyntää kotitalousvähennystä sovelluksen kautta automaattisesti. Sivusto on selkeä ja asiakaslähtöinen, mutta hinnat vaativat vuorovaikutteista lomaketta eikä suoraa puhelinnumeroa ole näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1118,7 +1135,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla freska.fi etusivun alaosassa on osio \"Sertifikaatit ja jäsenyydet\", jossa kuvalogo alt-tekstillä \"Luotettava Kumppani\" linkittää Zeckit-selvitykseen (zeckit.com/selvitys/FI/3246808-9) ja logo on Vastuu Groupin (vastuugroup.fi)."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Freska",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Freska' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "21.7.2026",

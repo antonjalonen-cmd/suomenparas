@@ -1,0 +1,54 @@
+{
+  "slug": "kauppalehti",
+  "fetched_ok": [
+    "https://www.kauppalehti.fi/",
+    "https://tilaukset.almamedia.fi/tilaus/kl/37/KL_DEF",
+    "https://www.almamedia.fi/yhteystiedot/asiakaspalvelu/",
+    "https://www.almamedia.fi/tietoa-meista/",
+    "https://www.almamedia.fi/vastuullisuus-almassa/",
+    "https://www.almamedia.fi/yhteystiedot/"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "osittain",
+  "mainonta_eroteltu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "tilaushinta_eur_kk": 35.90,
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Tilaushinnat selkeästi näkyvillä: Kauppalehti Digi 35,90 €/kk ilmoitettu tilauspalvelun sivulla.",
+    "Vastaava päätoimittaja Riina Nevalainen nimetty etusivun footerissa sekä muut toimitukselliset johtajat.",
+    "Kaupallinen sisältö merkitty selkeästi \"Kaupallinen yhteistyö\" -merkinnöillä kumppanisisältöjen osalla."
+  ],
+  "kehityskohteet": [
+    "Virheenkorjaus- ja oikaisukäytäntöä ei kuvata julkisesti kauppalehti.fi-sivustolla, vaikka Palaute-linkki mainitaan footerissa (404).",
+    "Julkaisijan Y-tunnusta ei näy missään; vain kustantajayrityksen nimi Alma Media Finland Oy ilmoitettu.",
+    "Asiakaspalvelun aukioloaikoja ja suoraa lukijapalaute-sähköpostia ei löydy; asiakas voi ottaa yhteyttä vain puhelimitse tai yleisen kuvion avulla."
+  ],
+  "yhteenveto": "Kauppalehti on Alma Media Finland Oy:n omistama talousmedia, joka ilmoittaa tilaushinnat ja maksullisuuden selvästi. Vastaava päätoimittaja on nimetty. JSN-jäsenyys (Julkisen sanan neuvosto) on mainittu kustantajan vastuullisuusperiaatteissa, mikä kertoo riippumattomasta valvonnasta. Sivusto kuitenkin piilottaa virheiden korjauskäytännön julkisista osioista, eikä Y-tunnusta ole näkyvillä.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Tilauspalvelun sivulla (tilaukset.almamedia.fi) selvästi esitetty \"Kauppalehti Digi 35,90 € / kk\" sekä kuvaus jatkuvasta tilauksesta maksukorttiveloituksella.",
+    "paatoimittaja_esilla": "HAVAINTO: Kauppalehti.fi etusivun footerissa näkyy \"Vastaava päätoimittaja Riina Nevalainen\" sekä toimitukselliset päälliköt (Anton Rinta-Jouppi uutisille, Janne Soisalon-Soininen syventäville sisällöille).",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: Kauppalehti.fi-sivuston footerissa mainitaan \"Palaute\" -linkki, mutta kyseinen sivu palauttaa HTTP 404. Alma Median vastuullisuussivulla mainitaan JSN-jäsenyys ja korkein enintään 5 JSN-päätöstä vuodessa Alman medioille, mikä viittaa korjauskäytäntöön, mutta ei ole kauppalehti.fi-sivustolla julkisesti kuvattu.",
+    "mainonta_eroteltu": "HAVAINTO: Kumppanisisällöt-sivulla kaikki sisällöt merkitty selkeästi \"Kaupallinen yhteistyö\" -merkinnöillä (esim. \"Alma Insights - Kaupallinen yhteistyö\", \"Ilmarinen - Kaupallinen yhteistyö\").",
+    "y_tunnus_esilla": "HAVAINTO: Kustantajayritys \"Alma Media Finland Oy\" mainitaan kauppalehti.fi-footerissa, mutta Y-tunnusta ei löydy kauppalehti.fi-sivustolta eikä almamedia.fi-sivustolta.",
+    "riippumaton_arvio": "HAVAINTO: Alma Median vastuullisuussivulla (almamedia.fi/vastuullisuus-almassa/) mainitaan selvästi JSN-jäsenyys: \"Enintään viisi Julkisen sanan neuvoston langettavaa päätöstä vuodessa Alman medioille.\" JSN (Julkisen sanan neuvosto) on Suomen riippumaton journalismin valvontaelin.",
+    "puhelin_esilla": "HAVAINTO: Kauppalehti.fi-footerissa ja Alma Median yhteystiedot-sivulla näkyy vaihde-numero 010 665 101.",
+    "email_esilla": "HAVAINTO: Alma Median yhteystiedot-sivulla mainitaan sähköpostikuvio etunimi.sukunimi(at)almamedia.fi, mutta spesifiiä lukijapalaute-sähköpostia ei ole näkyvillä kauppalehti.fi-sivustolla. Asiakaspalvelun sivulla ei ole erityistä sähköpostiosoitetta lukijapalautteelle.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu kauppalehti.fi-sivustolla eikä asiakaspalvelun sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloaikoja ei ole ilmoitettu kauppalehti.fi-sivustolla tai Alma Median asiakaspalvelusivuilla.",
+    "ukk_osio": "HAVAINTO: Alma Median asiakaspalvelusivulla mainitaan linkki \"Usein kysytyt kysymykset\", mutta se ei ole suoraan kauppalehti.fi-sivustolla vaan redirektion takana.",
+    "mobiilisovellus": "HAVAINTO: Alma-tunnus-app mainitaan asiakaspalvelun sivulla Alma Median palveluiden yhteisen käyttäjätunnuksen osana, mutta erityistä Kauppalehti-mobiilisovellusta ei ole mainittu."
+  }
+}

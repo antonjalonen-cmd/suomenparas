@@ -236,7 +236,16 @@
     "Y-tunnus (FI1571816-6) ei näkyvillä kotivakuutussivulla, vaikka se löytyy muista lähteistä.",
     "Sähköpostiosoite puuttuu asiakaspalvelusivulta, palvelussa luotetaan puhelimeen ja chatiin."
    ],
-   "yhteenveto": "POP Vakuutus on suomalainen vakuutusyhtiö, joka tarjoaa kattavat kotivakuutukset kolmessa paketeissa. Kotivakuutussivulla esitellään selkeästi kattavuus, korvausrajat ja omavastuut, sekä on vertailutaulukko eri turvarista. Hintalaskuri on saatavilla, mutta vaatii perustietojen antamisen. Riippumattomia arvioita on saatavilla EPSI Rating -tutkimuksesta ja Kuluttaja-lehden vertailusta."
+   "yhteenveto": "POP Vakuutus on suomalainen vakuutusyhtiö, joka tarjoaa kattavat kotivakuutukset kolmessa paketeissa. Kotivakuutussivulla esitellään selkeästi kattavuus, korvausrajat ja omavastuut, sekä on vertailutaulukko eri turvarista. Hintalaskuri on saatavilla, mutta vaatii perustietojen antamisen. Riippumattomia arvioita on saatavilla EPSI Rating -tutkimuksesta ja Kuluttaja-lehden vertailusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "POP Vakuutus",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'POP Vakuutus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "if",
@@ -460,7 +469,9 @@
     "Sähköpostiosoitetta ei ole suoraan näkyvissä tuotesivulla – asiakkaan on navigoitava asiakaspalvelusivulle yhteydenottoa varten.",
     "Omavastuurahkoja ei ole luetteloitu konkreettisina summina tuotesivulla – vertailu muihin vakuutusyhtiöihin vaatii hintalaskurin käyttöä."
    ],
-   "yhteenveto": "Vakuutusyhtiö If tarjoaa kotivakuutusta, jonka hinta on laskettavissa verkkokaupassamme henkilötietojen ilmoittamatta. Vakuutusehdot ja tuotetiedot löytyvät helposti omilta sivuiltaan. Yhtiön Y-tunnus ja sähköpostiosoite eivät kuitenkaan näy tuotesivulla, mikä vaikeuttaa yritystietojen selvittämistä välittömästi. If Mobiili-sovellus tukee vakuutusten hallintaa."
+   "yhteenveto": "Vakuutusyhtiö If tarjoaa kotivakuutusta, jonka hinta on laskettavissa verkkokaupassamme henkilötietojen ilmoittamatta. Vakuutusehdot ja tuotetiedot löytyvät helposti omilta sivuiltaan. Yhtiön Y-tunnus ja sähköpostiosoite eivät kuitenkaan näy tuotesivulla, mikä vaikeuttaa yritystietojen selvittämistä välittömästi. If Mobiili-sovellus tukee vakuutusten hallintaa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "fennia",
@@ -685,6 +696,8 @@
     "Korvausrajat (ikävähennykset, payout limits) ovat täysin piilotettu tuotedokumenttien ja ehdoissa, ei näkyvä yhteenvetoa tuotesivulla"
    ],
    "yhteenveto": "Fenniaturvan kotivakuutus on perustuote, jonka tiedot ovat jakautuneet laajasti eri osioihin. Sivuston vahvuus on kattava FAQ ja selkeät yhteydenottokanavat. Hintavertailu edellyttää henkilötunnusta jo ensimmäisellä laskurilla, mikä rajoittaa läpinäkyvyyttä. Tuotteen yksityiskohdat (omavastuu, korvausrajat, ikävähennykset) löytyvät pääosin vakuutusehdoista, ei tuotesivulta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -929,6 +942,8 @@
     "Hintalaskurin toteutus ei selviä staattisesta HTML:stä, vaatimukset epäselvät"
    ],
    "yhteenveto": "Turva on vakuutusyhtiö, joka tarjoaa kotivakuutuksia kolmella kattavuuden tasolla. Tuotesivulla on kattava selitys vakuutusturvista, hintaan vaikuttavista tekijöistä ja usein kysytyistä asioista. Vahvuutena ovat selkeä tuotteiden vertailu ja laaja FAQ-osio, mutta yrityksen perustieto puuttuu, eikä yhteystietoja ole helposti näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -949,7 +964,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/liiketoimintaperiaatteet/ -sivulla: 'Olemme sitoutuneet noudattamaan Finanssiala ry:n yhteisiä Vastuullisen finanssialan periaatteita ja Hyvän vakuutustavan periaatteita vakuutus- ja korvaustoiminnassa.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turva",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turva' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "lahitapiola",
@@ -1174,6 +1196,8 @@
     "Yhtiön Y-tunnus ei ole näkyvillä verkkosivulla - vain muodollinen copyright-teksti"
    ],
    "yhteenveto": "LähiTapiolan kotivakuutuksen tuotesivu on selkeästi rakennettu ja tarjoaa hyvän yleiskuvan eri vakuutusvaihtoehtoista (Laaja, Perus, Suppea) ja niiden kattavuuden eroista. Sivulla on hinta-laskin ja kattava FAQ-osio sekä konkreettiset esimerkit vahinkojen käsittelystä. Hintatiedot edellyttävät kuitenkin laskimeen syöttämistä, josta ei ole varmuutta ilman yhteystietoja. Omavastuut ja korvausrajat mainitaan, mutta yksityiskohtaiset numerot löytyvät vain PDF-dokumenteista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1425,6 +1449,8 @@
     "Omavastuiden ja korvausrajojen tarkat määrät vaativat tuoteselosteen lataamisen – etusivulla ei konkreettisia lukuja"
    ],
    "yhteenveto": "Pohjantähti tarjoaa perinteistä, joustavaa kotivakuutusta, joka mukautuu asiakkaan tarpeisiin. Sivusto on selkeästi organisoitu, sisältää hyvin dokumentoidun tuoteselosteen ja laajat vakuutustiedot PDF-muodossa sekä kattavan UKK-osion. Kuitenkin hintalaskuri on saatavilla vain osalle asuntotyypeistä (kerrostalot, rivitalot, paritalot), ja muille on pyydettävä tarjous yhteystiedot edellyttävällä lomakkeella. Tarkkojen omavastuiden ja korvausrajojen löytäminen vaatii tuoteselosteen lataamista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1433,7 +1459,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjantähti (vakuutusyhtiö)",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjantähti (vakuutusyhtiö)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "17.7.2026",

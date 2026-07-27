@@ -451,3 +451,15 @@ for _v, _rows in TRANSPARENCY.items():
     _t = sum(w for _, _, w in _rows)
     assert _t == 100, f"{_v} transparency weights total {_t}, must be 100"
 assert sum(PILLAR_W.values()) == 100
+
+# --- uutismediat (26.7.2026) --------------------------------------------------
+# Median "hinta ennen dataa" -kysymys: mitä lukeminen maksaa ja kuka sisällöstä
+# vastaa. Journalistinen läpinäkyvyys mitataan kuluttajan silmin sivustolta.
+TRANSPARENCY["uutismediat"] = [
+    ("tilaushinta_esilla", "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista", 25),
+    ("paatoimittaja_esilla", "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä", 20),
+    ("oikaisukaytanto_kuvattu", "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti", 20),
+    ("mainonta_eroteltu", "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

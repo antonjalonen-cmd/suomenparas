@@ -237,6 +237,8 @@
     "Vakuutuksen pitkät rajoitukset urheilulajien osalta eivät ole korostettu pääsivulla"
    ],
    "yhteenveto": "Fennia tarjoaa kattavaa matkavakuutusta, jonka päätuotteena on matkustajavakuutus ilman korvauskatoa sairauden ja tapaturman hoitokuluille. Verkkosivusto on informatiivinen ja tarjoaa yksityiskohtaiset vakuutusehdot sekä tuote-esitteen, mutta hintatiedot saavutetaan vasta hintalaskurin kautta, joka vaatii henkilötunnuksen. Yritystä valvoo Finanssivalvonta ja se tarjoaa asiakaspalvelua puhelimitse ja chatissa arkisin 9-16:30 välisenä aikana.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -480,6 +482,8 @@
     "Asiakaspalvelun aukioloajat eivät ole näkyvissä tuotesivulla, saatavilla vain yhteystiedot-linkin kautta"
    ],
    "yhteenveto": "LähiTapiolan matkavakuutussivu esittelee tuotetta selkeästi ja kattavasti. Sivulla on yksityiskohtaiset vakuutusturvan kuvaukset, korvauskatot ja rajoitukset taulukoituina. FAQ-osio on laaja ja vastaa moniin käytännön kysymyksiin. Hintakalkulator on saatavilla, mutta vaatii henkilötietojen syöttämisen. Tuoteasiakirjat ovat PDF-muodossa saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -729,7 +733,9 @@
     "Y-tunnus ja yrityksen rekisteröintitiedot eivät näy asiakkaalle",
     "Rajoituksia (ikä, lajit) ei selkeästi kerrottu produktisivulla"
    ],
-   "yhteenveto": "Ifin matkavakuutus on kattava tuote, joka tarjoaa hyvän suojan sairastumisiin ja tapaturmiin ilman omavastuuta. Verkkosivut ovat selkeät ja päivitetyt, mutta hintavertailu vaatii siirtymisen erilliseen verkkokauppaan. Yhteystiedot ovat saatavilla, mutta Y-tunnus puuttuu."
+   "yhteenveto": "Ifin matkavakuutus on kattava tuote, joka tarjoaa hyvän suojan sairastumisiin ja tapaturmiin ilman omavastuuta. Verkkosivut ovat selkeät ja päivitetyt, mutta hintavertailu vaatii siirtymisen erilliseen verkkokauppaan. Yhteystiedot ovat saatavilla, mutta Y-tunnus puuttuu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "turva",
@@ -948,6 +954,8 @@
     "Y-tunnus puuttuu tuotesivulta kokonaan - vaatisi erillisen haun yhritystiedoista"
    ],
    "yhteenveto": "Turvan matkavakuutussivu esittelee vakuutuksen kattavuuden ja ehdot selkeästi taulukoiden avulla. Laaja FAQ-osio kattaa asiakkaiden yleisimmät kysymykset. Hintojen näkyvyyden heikentävät piiloksi sijoitettu laskin, ja kontaktitiedot sekä yhritystiedot vaativat erillisen haun.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -968,7 +976,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: turva.fi/turva-yrityksena/vastuullisuus/liiketoimintaperiaatteet/ -sivulla: 'Olemme sitoutuneet noudattamaan Finanssiala ry:n yhteisiä Vastuullisen finanssialan periaatteita ja Hyvän vakuutustavan periaatteita vakuutus- ja korvaustoiminnassa.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turva",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Turva' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "popvakuutus",
@@ -1189,7 +1204,16 @@
     "Vakuutusehdoissa ei näy konkreettisia korvausrajoja euroissa taulukossa",
     "Y-tunnus tai muut yritystiedot puuttuvat tuotesivulta; Suomen Vahinkovakuutus Oy mainitaan vain pieniä fontilla"
    ],
-   "yhteenveto": "POP Vakuutus tarjoaa matkavakuutusta, joka jakautuu matkustaja- ja matkatavaravakuutukseen. Sivulla kuvataan kattavasti mitä vakuutus korvaa ja annetaan runsaasti esimerkkejä käytännön tilanteista. Hintatietoja ei kuitenkaan ole saatavilla ilman yhteydenottoa, ja konkreettisia korvausrajoja euroissa ei näy tuotesivulla."
+   "yhteenveto": "POP Vakuutus tarjoaa matkavakuutusta, joka jakautuu matkustaja- ja matkatavaravakuutukseen. Sivulla kuvataan kattavasti mitä vakuutus korvaa ja annetaan runsaasti esimerkkejä käytännön tilanteista. Hintatietoja ei kuitenkaan ole saatavilla ilman yhteydenottoa, ja konkreettisia korvausrajoja euroissa ei näy tuotesivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "POP Vakuutus",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'POP Vakuutus' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "pohjantahti",
@@ -1411,6 +1435,8 @@
     "Yhteystiedot (puhelin/sähköposti) ja avoinna oloajat eivät näkyvillä tuotesivulla"
    ],
    "yhteenveto": "Pohjantähti tarjoaa matkavakuutusta ainoastaan \"Pyydä tarjous\" -menetelmällä, eikä julkaise instant-hintaa verkossa. Sivuston sisältö latautuu dynaamisesti JavaScript-teknologialla, mikä vaikeuttaa tietojen todentamista. Yhteydenottopyyntölomake on saatavilla, mutta yksityiskohtaiset vakuutusehdot ja korvauskriteerit eivät ole helposti löydettävissä matkavakuutussivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1419,7 +1445,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: pohjantahti.fi/vastuullisuus/ -sivulla: 'Teemme yhteistyötä WWF Green Officen kanssa ja pääkonttorillemme on myönnetty WWF Green Office -sertifikaatti.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjantähti (vakuutusyhtiö)",
+    "paivakatselut_ka": 6,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjantähti (vakuutusyhtiö)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "17.7.2026",

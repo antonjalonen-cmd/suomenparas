@@ -1,0 +1,53 @@
+{
+  "slug": "kaleva",
+  "fetched_ok": [
+    "https://www.kaleva.fi/",
+    "https://asiakaspalvelu.kalevamedia.fi/kaleva/tilaa-kaleva-3/",
+    "https://www.kaleva.fi/oikaisut",
+    "https://www.kalevamedia.fi/yhteystiedot/",
+    "https://www.kaleva.fi/kaupallinen-yhteistyo",
+    "https://asiakaspalvelu.kalevamedia.fi/kaleva/asiakastuki/usein-kysytyt-kysymykset/"
+  ],
+  "tilaushinta_esilla": "kylla",
+  "paatoimittaja_esilla": "kylla",
+  "oikaisukaytanto_kuvattu": "kylla",
+  "mainonta_eroteltu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "tilaushinta_eur_kk": 17.90,
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Tilaushinnat ja maksullisuus selvästi näkyvissä etusivun päävalikossa ilman piilotettuja ehtoja",
+    "Aktiivinen oikaisujen julkaiseminen säännöllisesti nähtävissä olevalla oikaisut-sivulla, viimeisimmät vain pari viikkoa vanhoja",
+    "Kaupallisen sisällön ja mainosten selkeä merkitseminen (Kaupallinen yhteistyö, Mainos) jokaisen artikkelin kohdalla"
+  ],
+  "kehityskohteet": [
+    "Riippumattoman valvonnan (JSN-jäsenyys, levikintarkastus) julkinen vahvistus tai viittaus puuttuu verkkosivuilla",
+    "Vastaavan päätoimittajan yhteystiedot eivät näy kaleva.fi:n pääsivulla, vaan vain kalevamedia.fi-kontaktilistalla",
+    "Vastuullisuusprogrammi Kaleva Vire on kaleva-konserni.fi-sivulla, ei helposti löydettävissä pääsivulta"
+  ],
+  "yhteenveto": "Kaleva on perinteikäs paikallislehti, joka tarjoaa selkeät tilausmallit ja hinnoittelun sekä toimittaa säännöllisesti oikaisuja. Lehden kaupallisen sisällön erottelu journalismista on hyvin toteutettu, ja päätoimittajan yhteystiedot ovat saatavilla. Riippumatonta journalismin valvontaa koskevan tiedon avoimuutta voitaisiin parantaa.",
+  "evidence": {
+    "tilaushinta_esilla": "HAVAINTO: Kaleva Digi -tilaus 17,90 €/kk (normaali hinta 24,90 €) on selvästi näkyvissä asiakaspalvelu.kalevamedia.fi-sivun tilaus-osiossa. Eri tilauspaketit listattu selkeästi hintoineen ja sisältöineen.",
+    "paatoimittaja_esilla": "HAVAINTO: Päätoimittaja Antti Kokkonen nimetty kaleva.fi-sivun footerissa yhteystietoineen: antti.kokkonen@kaleva.fi ja +358 50 343 0379. Lisäksi kalevamedia.fi/yhteystiedot-sivulla lueteltu myös vastaava päätoimittaja Sini Salmirinne.",
+    "oikaisukaytanto_kuvattu": "HAVAINTO: Kaleva.fi/oikaisut-sivu näyttää aktiivisesti julkaistuja korjauksia ja oikaisuja useasta kuukaudesta (heinäkuusta toukokuuhun 2026 näkyvissä), mikä osoittaa säännöllisen oikaisukäytännön.",
+    "mainonta_eroteltu": "HAVAINTO: Kaupallisen sisällön merkitseminen on johdonmukaista - artikkelit merkitty joko 'Kaupallinen yhteistyö' tai 'Mainos' etäisyydellä muusta sisällöstä. Esimerkiksi Oulu2026-aiheisten artikkelien joukossa näkyvät selvästi merkityt kaupallisen yhteistyön artikkelit.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus näkyy kalevamedia.fi/yhteystiedot-sivulla. Laskutustiedot listaavat Kaleva Media Oy (Y-tunnus: 2715049-8) ja Kaleva Oy (Y-tunnus: 0187274-0).",
+    "riippumaton_arvio": "HAVAINTO: Kaleva-konsernin Kaleva Vire -vastuullisuusohjelma on dokumentoitu laajasti kalevakonserni.fi-sivuilla, mutta eksplisiittista JSN-jäsenyyttä tai levikintarkastusta ei löydy verkkosivuilta. Riippumattoman valvontaelimen jäsenyys ei ole julkisesti vahvistettu.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot näkyvät selvästi: toimitukselle 08 5377 111 ja asiakaspalvelulle 08 5377 610 (ma-pe 9-19, la 9-15). Lisäksi yksittäisten päätoimittajien suorat numerot löytyvät kalevamedia.fi-sivulta.",
+    "email_esilla": "HAVAINTO: Toimittajien sähköpostiosoitteet listattu selvästi: toimitus@kaleva.fi pääossoite, ja yksittäisten henkilöiden (esim. antti.kokkonen@kaleva.fi) sähköpostit näkyvät kontaktisivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat (ma-pe 9-19, la 9-15) näkyvät selvästi kaleva.fi-footerissa ja asiakaspalvelu.kalevamedia.fi-sivuilla.",
+    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -sivu on saatavilla asiakaspalvelu.kalevamedia.fi/kaleva/asiakastuki/usein-kysytyt-kysymykset/ osoitteessa, jossa luetellaan aiheittain järjestettyjä kysymyksiä ja vastauksia.",
+    "mobiilisovellus": "HAVAINTO: Kaleva-sovellus mainitaan verkkosivuilla, ja se on ladattavissa App Storesta ja Google Playsta. Sovellus tarjoaa rajattoman digilukuoikeuden ja pääsyn podcast-sisältöihin."
+  }
+}

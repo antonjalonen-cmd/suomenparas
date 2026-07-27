@@ -221,6 +221,8 @@
     "SPA-rakentelu tekee siirtymisen sisäisiin sivuihin mahdottomaksi; FAQ- ja support-sivut ohjautuvat etusivulle"
    ],
    "yhteenveto": "TotalAV on engelskielinen antivirus-tuote kolmella tilatasolla (99–149 €/vuosi), jonka omistaa Total Security US LLC (Bostonissa). Sivusto korostaa riippumattomia testitodistuksia (VB100, AV-TEST) ja tarjoaa laajoja ominaisuuksia (real-time-suojaus, järjestelmän siivous, datarikkojen seuranta). Aggressiivinen hinnoittelumalli tulee ilmi \"introductory pricing\" -maininnasta ja uusimishinnan puuttumisesta: sivustolla kerrotaan vain, että uusinnalla \"peritään tavallinen hinta\", numeroa ei paljasteta. Sivusto puuttuu suomesta kielipaloissa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -451,6 +453,8 @@
     "Suomalaisen sivuston tuotesivu-polut palauttavat 404:ä, ohjaus tapahtuu englanninkielisen version kautta"
    ],
    "yhteenveto": "F-Secure on suomalainen, pörssissä listattu virustorjuntayritys, jonka tuotteet ovat saatavilla Suomessa suomenkielisellä sivustolla ja hinnat euroissa. Hinnat on esitetty selvästi (alkaen €49,99/vuosi), mutta uusimishinnat vaativat kirjautumista. Sivusto tarjoaa kattavat tukipalvelut 24/7 monilla kielillä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -465,7 +469,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: sama sivu: 'F‑Secure Total has received the Certified for Android commendation by AV-TEST' ja 'F‑Secure Total was tested by the independent organization AV‑TEST and rated as a Top Product for Windows security.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "F-Secure",
+    "paivakatselut_ka": 13,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'F-Secure' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "avg",
@@ -680,6 +691,8 @@
     "Suomenkielinen palvelu ei ole saatavilla"
    ],
    "yhteenveto": "AVG on Gen Digitalin omistama laajalle levinnyt antivirus-ohjelmisto, jolla on monipuolinen tuotetarjonta Windows-, Mac- ja mobiilialustoille. Hinnoittelu on läpinäkyvä ja uusimishinnat kerrotaan selvästi, mutta suomenkielinen versio puuttuu kokonaan. Sivusto esittelee kattavasti riippumattomien testilaboratorioiden tuloksia.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -904,6 +917,8 @@
     "Mobiilisovellukset mainittu navigaatiossa (ESET Mobile Security) mutta ei omaa tuotesivua latautuu"
    ],
    "yhteenveto": "ESET on slovakialainen 30+ vuotta toiminut antivirus-yritys, jonka suomalainen sivusto tarjoaa kolme hinnoiteltua kotitaloustuotepakettia (ESSENTIAL, PREMIUM, ULTIMATE) euroissa. Sivusto on selkeä ja omistaja sekä tuoteominaisuudet esille tuodut, mutta uusimishinta-informaatio puuttuu ja UKK-osio on saavuttamattomissa — merkittävät puutteet läpinäkyvyydessä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -918,7 +933,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: sama sivu: 'SOC 2 Type 2 — ESET has achieved SOC 2 Type 2 attestation, demonstrating our continuous commitment to effectively safeguard customer data.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "ESET",
+    "paivakatselut_ka": 0,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'ESET' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "norton",
@@ -1134,6 +1156,8 @@
     "Omistajatiedon (Gen Digital) löytää vain sivun alaosasta, ei tuotteen esittelystä"
    ],
    "yhteenveto": "Norton on Gen Digital Inc:n omistama virustorjuntapalvelu, joka myy useita tilaukseen perustuvia tuotteita Suomessa fi.norton.com -sivustolla. Sivusto on hyvin rakennettu ja hinnat ovat selkeästi esillä, mutta asiakastuen kontaktitiedot eivät ole helposti löydettävissä etusivulta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1358,6 +1382,8 @@
     "UKK-osiossa ei käsitellä Suomi-kohtaisia maksimaalisia kustannuksia tai paikallisia vaatimuksia"
    ],
    "yhteenveto": "Avast on Gen Digital Inc:n omistama virustorjunta-ohjelmisto, joka tarjoaa ilmaisen perusversion ja Premium Security -tuotteen. Sivusto on täysin suomalainen, hinnat näkyvät selkeästi, ja uusimishinta (72,99 € vuodessa 1 laitteelle) mainitaan selvästi. Testitulokset kansainvälisiltä testauslaitoksilta ovat näkyvillä. Heikkoutena on, ettei suomalaisille asiakkaille ole tarjolla puhelintuella tai sähköpostituella Suomen kielellä, vaan tuki ohjaa kansainväliseen support.avast.com-sivustoon.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1582,6 +1608,8 @@
     "FAQ-sivu ja tarkat uusimisehdot puuttuvat; uusimishinta voidaan päätellä vain vertailemalla \"first year\" hintoja normaalihintasarakkeeseen"
    ],
    "yhteenveto": "Bitdefender on Romaniassa (Bukarest) perustettu globaali kyberturvallisuusyritys, joka myy consumer-antivirus-tuotteita monissa maissa. Sivustolla on selkeät hinnat tuotesivuilla, mutta Suomea ei tueta erikseen ja hinnat esitetään USD:ssä. Testitulokset johtavista lab-organisaatioista ovat näkyvillä, mutta suomenkielinen tuki, puhelin- ja sähköpostiyhteydenotto sekä FAQ-osio puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1596,7 +1624,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: bitdefender.com/en-us/partners/certifications/soc2-tyoe2-compliant -sivulla: 'Bitdefender is Service Organization Control 2 (SOC2) Type 2 certified... Our security controls are audited each year, following the AICPA SSAE-16 SOC 2 guidelines.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Bitdefender",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Bitdefender' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "kaspersky",
@@ -1809,6 +1844,8 @@
     "Yhteystiedot puuttuvat etusivulta - puhelin, sähköposti ja chat eivät näy käyttäjälle"
    ],
    "yhteenveto": "Kaspersky tarjoaa antivirus-tuotteita suomalaisille käyttäjille suomenkielisellä sivustolla ja selkeillä eurohinnoilla. Hinnat ja erityisesti uusimishinnat on hyvin dokumentoitu kaikille kolmelle päätuotteelle (Standard, Plus, Premium), ja sivusto mainitaan voittaneen 93 itsenäistä testiakin. Sivuston heikkoutena on, että omistaja- ja tuentatiedot eivät ole helposti saavutettavissa etusivulta, ja tuen saantitavat (puhelin, sähköposti, chat) eivät näy.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {

@@ -227,6 +227,8 @@
     "Yleinen sähköpostiosoite hammashoitoon liittyville kyselyille puuttuu, asiakkaita ohjeistetaan soittamaan tai käyttämään chatiä"
    ],
    "yhteenveto": "Hammas Mehiläinen on merkittävä yksityinen hammashoidon ketju, joka tarjoaa laajan palveluvalikoiman kuuden toimipisteensä kautta. Verkkosivusto on selkeä ja informaatiorikas: hinnaston kattavuus ja Kela-korvausten selitys ovat erityisesti kehuja ansaittuja. Toimipisteissä on otettu huomioon käyttäjien tarpeet monilla asiointitavoilla, mutta yritysidentiteettitiedot ovat rajallisia ja kolmannen osapuolen arvioita ei ole integroitu markkinointimateriaaliksi.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -462,7 +464,16 @@
     "Asiakkaiden sähköpostiosoite ei ole helposti saatavilla, yhteydenotot vaativat puhelinta tai chat-palvelua",
     "Riippumattomia asiakasarviota (esim. Google-arviot, vertailusivusto-arviot) ei ole näkyvillä omalla sivustolla"
    ],
-   "yhteenveto": "Oral Hammaslääkärit on Suomen suurin yksityinen hammaslääkäriketju, jolla on lähes 70 toimipistettä ympäri maata. Verkkosivut tarjoavat kattavat ja selkeät hinnat, useita ajanvaraus- ja asiointikeinoja sekä runsaasti tietoa hammashoitoon liittyen. Kela-korvausperusteet ja maksutavat on dokumentoitu, joskin riippumattomia asiakasarvioita sivulla ei ole."
+   "yhteenveto": "Oral Hammaslääkärit on Suomen suurin yksityinen hammaslääkäriketju, jolla on lähes 70 toimipistettä ympäri maata. Verkkosivut tarjoavat kattavat ja selkeät hinnat, useita ajanvaraus- ja asiointikeinoja sekä runsaasti tietoa hammashoitoon liittyen. Kela-korvausperusteet ja maksutavat on dokumentoitu, joskin riippumattomia asiakasarvioita sivulla ei ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Oral Hammaslääkärit",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Oral Hammaslääkärit' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "plusterveys",
@@ -671,7 +682,16 @@
     "Chat-palvelua ei mainittu, asiakastuki näyttäisi olevan puhelin- ja sähköpostipohjainen",
     "Yksittäisten toimipisteiden tiedot (osoitteet, puhelinnumerot, aukioloajat) vaativat klikkaamisen lisätiedoiksi, ei suoraan näkyvissä"
    ],
-   "yhteenveto": "PlusTerveys on yksi Suomen suurimmista yksityisistä hammashoitopalvelujen tuottajista, perustettu 1978, jonka sivusto tarjoaa selkeän hinnaston ja toimivat verkkoajanvarauspalvelut. Kela-korvaustiedot ovat hyvin dokumentoituja hinnastossa, mutta yksityiskohtaiset aukioloajat ja yhteystiedot vaativat navigointia ja klikkaamista."
+   "yhteenveto": "PlusTerveys on yksi Suomen suurimmista yksityisistä hammashoitopalvelujen tuottajista, perustettu 1978, jonka sivusto tarjoaa selkeän hinnaston ja toimivat verkkoajanvarauspalvelut. Kela-korvaustiedot ovat hyvin dokumentoituja hinnastossa, mutta yksityiskohtaiset aukioloajat ja yhteystiedot vaativat navigointia ja klikkaamista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Plusterveys",
+    "paivakatselut_ka": 4,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Plusterveys' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "hammashohde",
@@ -885,7 +905,9 @@
     "Nettiajanvaraus vaatii kirjautumisen OmaHohde-palveluun, ei ole täysin ilmaista varausta kirjautumatta.",
     "Asiakaspalvelun pääsähköpostiosoite puuttuu - näkyvissä vain laskut@ ja palaute@ -osoitteet."
    ],
-   "yhteenveto": "Hammas Hohde Oy on vuonna 2014 perustettu suomalainen erikoishammaslääkäriklinikka, jolla on laaja verkko 24 toimipisteen verran ympäri Suomen. Sivusto tarjoaa selkeää ja yksityiskohtaista tietoa hinnoista, Kela-korvauksista ja toimipisteistä. Ajanvaraus on mahdollinen verkossa, mutta vaatii kirjautumisen OmaHohde-palveluun. Sivustolta löytyvät monipuoliset maksuvaihtoehdot ja riittävät yhteystiedot."
+   "yhteenveto": "Hammas Hohde Oy on vuonna 2014 perustettu suomalainen erikoishammaslääkäriklinikka, jolla on laaja verkko 24 toimipisteen verran ympäri Suomen. Sivusto tarjoaa selkeää ja yksityiskohtaista tietoa hinnoista, Kela-korvauksista ja toimipisteistä. Ajanvaraus on mahdollinen verkossa, mutta vaatii kirjautumisen OmaHohde-palveluun. Sivustolta löytyvät monipuoliset maksuvaihtoehdot ja riittävät yhteystiedot.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "terveystalo",
@@ -1099,7 +1121,9 @@
     "Yrityksen Y-tunnus puuttuu kokonaan pääsivulta ja yhteystiedoista — vain sähköpostimuoto ja puhelinnumero näkyi.",
     "Riippumattomat arviot (Google-arviot, Trustpilot jne.) puuttuvat sivulta kokonaan, vaikka ne olisivat asiakkaille hyödyllisiä."
    ],
-   "yhteenveto": "Suun Terveystalo on Terveystalo Oyj:n hammashoidon yksikkö, joka tarjoaa laajasti hammaslääkärin- ja suuhygienistin palveluita. Pääsivulla hammashoidon osio esittelee palvelut selkeästi, näyttää Kela-korvaukset ja neljää toimipaikkaa. Myönteisesti hinnoittelu (59 € tutustumis­tarkastus) näkyy ilman sisäänkirjautumista. Negatiivisesti ajanvaraus vaatii kirjautumista toisessa domainissa, Y-tunnus puuttuu, ja riippumattomia arvioita ei ole."
+   "yhteenveto": "Suun Terveystalo on Terveystalo Oyj:n hammashoidon yksikkö, joka tarjoaa laajasti hammaslääkärin- ja suuhygienistin palveluita. Pääsivulla hammashoidon osio esittelee palvelut selkeästi, näyttää Kela-korvaukset ja neljää toimipaikkaa. Myönteisesti hinnoittelu (59 € tutustumis­tarkastus) näkyy ilman sisäänkirjautumista. Negatiivisesti ajanvaraus vaatii kirjautumista toisessa domainissa, Y-tunnus puuttuu, ja riippumattomia arvioita ei ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "coronaria",
@@ -1313,7 +1337,9 @@
     "Y-tunnus ei ole julkisesti esillä verkkosivuilla (sovelletaan briiffin periaatetta: ei löydetystä sivusta = ei)",
     "Riippumaton arviolähde (esim. Trustpilot-linkki tai asiakasarvostelut) ei ole esillä hammasklinikka-osiossa"
    ],
-   "yhteenveto": "Coronaria Hammasklinikka on monipaikkainen yksityinen hammashoitoyritys, joka tarjoaa laaja palveluvalikoiman perushammashoidosta suukirurgiaan asti. Verkkosivuilla on hinnat julkisesti esillä Kela-korvaustieto sekä asiakkaiden kannalta tärkeitä maksuvaihtoehtoja kuvattu selkeästi. Ajanvaraus on mahdollinen verkossa 24/7 ilman kirjautumista, mikä on seikka asiakkaiden kannalta. Suurimpana puutteena on toimipisteiden konkreettiset yhteystiedot ja aukioloajat, jotka puuttuvat hammasklinikka-osiosta."
+   "yhteenveto": "Coronaria Hammasklinikka on monipaikkainen yksityinen hammashoitoyritys, joka tarjoaa laaja palveluvalikoiman perushammashoidosta suukirurgiaan asti. Verkkosivuilla on hinnat julkisesti esillä Kela-korvaustieto sekä asiakkaiden kannalta tärkeitä maksuvaihtoehtoja kuvattu selkeästi. Ajanvaraus on mahdollinen verkossa 24/7 ilman kirjautumista, mikä on seikka asiakkaiden kannalta. Suurimpana puutteena on toimipisteiden konkreettiset yhteystiedot ja aukioloajat, jotka puuttuvat hammasklinikka-osiosta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "21.7.2026",

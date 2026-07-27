@@ -226,6 +226,8 @@
     "Y-tunnusta ja ALV-rekisteröintitietoja ei ole helposti näkyvissä kotisivuilla, vaan löytyvät vain yhteystiedot-sivulla pienellä fontilla"
    ],
    "yhteenveto": "Olympia Kaukomatkatoimisto on 74 vuotta toiminut suomalainen perheyritys, joka järjestää kaukomatka- ja kiertomatkoja pienryhmissä (15-25 henkilöä). Heidän sivuillaan matkojen hinnat ovat läpinäkyvästi esillä, varaaminen onnistuu verkossa tai muilla tavoin, ja matkaehdot sekä peruutusehdot löytyvät kattavasti. Yritys on rekisteröity KKV:n valvonnan alaiseksi (SMAL 21295, KUVI 8065/07/Mj) ja painottaa matkapaketti-lakisääteisen vakuuden olevan voimassa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -448,7 +450,16 @@
     "Chat-palvelua ei ole tarjolla, asiakasyhteys vain puhelimitse ja sähköpostitse",
     "Useiden sivujen puuttuminen (yritystiedot, henkilötietokäytäntö, FAQ) palauttaa 404-virheitä"
    ],
-   "yhteenveto": "Tjäreborg on Suomen suurimpia matkanjärjestäjiä, joka tarjoaa pakettimatka- ja lentopalveluja lähes 60 maahan. Verkkosivusto esittelee hinnat selkeästi, toimii online-varausjärjestelmällä ja julkaisee kattavat matkapakettiehdot. Palvelun turvallisuus on dokumentoitu matkapakettilain vakuuden kautta Kilpailu- ja kuluttavirastoon. Pääasialliset kehityskohteet liittyvät puuttuviin tietoihin (Y-tunnus) ja rajoittuneisiin yhteydenottovaihtoehdoihin."
+   "yhteenveto": "Tjäreborg on Suomen suurimpia matkanjärjestäjiä, joka tarjoaa pakettimatka- ja lentopalveluja lähes 60 maahan. Verkkosivusto esittelee hinnat selkeästi, toimii online-varausjärjestelmällä ja julkaisee kattavat matkapakettiehdot. Palvelun turvallisuus on dokumentoitu matkapakettilain vakuuden kautta Kilpailu- ja kuluttavirastoon. Pääasialliset kehityskohteet liittyvät puuttuviin tietoihin (Y-tunnus) ja rajoittuneisiin yhteydenottovaihtoehdoihin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Tjäreborg",
+    "paivakatselut_ka": 14,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Tjäreborg' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "imt",
@@ -664,6 +675,8 @@
     "Asiakaspalvelun aukioloajat rajalliset (ma-pe 10:00-15:00), ei 24/7-tukea normaalin varausprosessin aikana"
    ],
    "yhteenveto": "IMT (Ikaalisten Matkatoimisto) on matkapalveluja tarjoava yritys, joka on uudestaan brändännyt itsensä IMT.fi:ksi. Verkkosivut tarjoavat helppokäyttöisen matkahaun ja varausjärjestelmän, joista hinnat, saatavuudet ja peruutusmahdollisuudet (24h riskitön varaus) ovat julkisia. Matkapakettilaista määrätyt ehdot ja vakuus Suomen Kuluttajavirastolle ovat dokumentoitu. Sivuilla on kattava FAQ-osio ja mobiilisovellus asiakaspalvelulle.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -888,6 +901,8 @@
     "Vakuusosion sisältö ei avautunut staattisessa haulla; tarkka vakuusinfo ja KKV-rekisteröinti jäivät epäselväksi"
    ],
    "yhteenveto": "Aurinkomatkat on suomalainen matkanjärjestäjä, joka tarjoaa ulkomaanmatkoja ja lomapalveluita. Sivusto on käyttäjäystävällinen, hinnat ja varausmahdollisuus ovat näkyvästi esillä etusivulla, ja paljon informaatiota on saatavilla matkaehdoista ja lisäpalveluista. Yritystiedot kuten Y-tunnus puuttuvat, ja täydellisiä tietoja vakuuksista ja rekisteröinnistä ei helposti löydä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -896,7 +911,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Etusivun alatunnisteessa Avainlippu-logo ja linkki avainlippu.fi-sivustolle."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Aurinkomatkat",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Aurinkomatkat' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "pohjolan-matka",
@@ -1112,6 +1134,8 @@
     "Chat-palvelu puuttuu asiakaspalvelun yhteydenpitokeinoista"
    ],
    "yhteenveto": "Pohjolan Matka on suuri suomalainen matkanjärjestäjä ja tilausajo-yhtiö, joka tarjoaa laajan valikoiman matkapalveluita bussilla, risteilyitä ja hotelli-matkapaketteja. Sivusto julkaisee matkapakettien hinnat avoimesti, mahdollistaa verkkovarauksen ja sisältää perusteellisen tiedon matkapakettiehdoista sekä peruutusehdoista. Yhtiö on rekisteröity Kilpailu- ja kuluttajaviraston matkapalveluiden vakuusrekisteriin (rek. no 3631/00/MjMv), mikä osoittaa lain mukaisen vakuuden. Asiakaspalvelulle on saatavilla useita puhelinnumeroita ja sähköpostiosoitteita sekä kymmeniä toimipisteitä eri puolella Suomea.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1120,7 +1144,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Sivulla pohjolanmatka.fi/vastuullisuus todetaan: \"Saamamme ISO 14001 -ympäristösertifikaatti ja Sustainable Travel Finland -merkki ovat tärkeä osa vastuullisuuttamme.\""
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Pohjolan Matka",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Pohjolan Matka' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "apollomatkat",
@@ -1336,6 +1367,8 @@
     "FAQ-osio puuttuu – asiakkaat joutuvat ottamaan yhteyttä kysymysten takia"
    ],
    "yhteenveto": "Apollomatkat on osa REWE-konsernia ja sen DERTOUR Group -divisioonaa, joka on Keski-Euroopan suurin matkailualan konserni. Verkkopalvelun vahvuus on heti näkyvät matkahinnat, intuitiivinen haku ja selkeä varausprosessi. Pakettimatkalain mukainen turva on mainittu. Heikkouksia ovat puuttuva Y-tunnus, sähköpostiosoitteen puuttuminen ja no FAQ-osio.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1560,6 +1593,8 @@
     "Matkanjärjestäjän vakuuden tai KKV-rekisteröinnin merkinnän puuttuminen helposti näkyviltä paikoilta"
    ],
    "yhteenveto": "Matkapojat on Suomen suurin laiva- ja lähialuematkojen myyjä, joka tarjoaa laajan valikoiman matkatuotteita yhdessä paikassa. Sivustolla matkojen hinnat ovat selkeästi näkyvissä ja verkkovaraus on helppo toteuttaa hakuformin kautta. Yhteystiedot ja aukioloajat löytyvät helposti, mutta matkaehdot ja peruutusehdot eivät ole verkon kautta saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1783,7 +1818,9 @@
     "Y-tunnus puuttuu verkkosivuilta, eikä matkavakuus tai KKV-rekisteri ole eksplisiittisesti mainittu",
     "Ei omaa mobiilisovellusta eikä linkkejä riippumattomiin arviointilähteisiin"
    ],
-   "yhteenveto": "Lomalinja on vuodesta 1977 toimiva matkatoimisto, joka tarjoaa noin 250 teemamatkaa vuosittain suomenkielisten asiantuntija-oppaiden johdolla. Verkkosivusto on hyvin organisoitu, matkaehdot ja palveluhinnasto ovat saatavilla, ja asiakkaat voivat varata matkan verkossa itsenäisesti. Hinnoittelun näkyvyys vaatii kuitenkin yksittäisten matkojen sivuille klikkaamista, ja yhtiön tunnustieto sekä virallinen matkavakuustieto puuttuvat."
+   "yhteenveto": "Lomalinja on vuodesta 1977 toimiva matkatoimisto, joka tarjoaa noin 250 teemamatkaa vuosittain suomenkielisten asiantuntija-oppaiden johdolla. Verkkosivusto on hyvin organisoitu, matkaehdot ja palveluhinnasto ovat saatavilla, ja asiakkaat voivat varata matkan verkossa itsenäisesti. Hinnoittelun näkyvyys vaatii kuitenkin yksittäisten matkojen sivuille klikkaamista, ja yhtiön tunnustieto sekä virallinen matkavakuustieto puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "aventura",
@@ -1996,6 +2033,8 @@
     "Verkkovaraus - verkkovarausjärjestelmää ei näy; asiakkaat joutuvat pyytämään tarjousta yhteydenottosähköpostilla"
    ],
    "yhteenveto": "Aventura on perustettu vuonna 2000 ja se on suomalainen kaukomatkatoimisto, joka on palkittu Vuoden matkatoimistoksi 2024. Sivusto esittelee laajaa matkatarjontaa yli 25 vuoden kokemuksella, mutta hintojen saatavuus ja suora verkkovaraus puuttuvat - matkoista pitää pyytää tarjousta erikseen. Monia tärkeitä tietoja, kuten matkapakettiehtoja, ei pystytä lataamaan sivustolta teknisten ongelmien vuoksi.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -2225,7 +2264,16 @@
     "Matkaehdot ja peruutusehdot mainittuja mutta vaikeaselkoisesti saatavilla",
     "Asiakastuen FAQ-sivu lataa virheellisesti (CSS-virhe help.kilroy.net:issä)"
    ],
-   "yhteenveto": "KILROY on suomalainen matkatoimisto, joka erikoistuu räätälöityihin pakettimatkiin ja opintomatkoihin. Sivusto on selkeä navigoitavuudeltaan, mutta pakettimatkojen hintojen löytäminen vaatii suoraan yhteydenottoa matka-asiantuntijoihin. Lennot voidaan varata helposti online-järjestelmän kautta yli 500 lentoyhtiön vertailulla."
+   "yhteenveto": "KILROY on suomalainen matkatoimisto, joka erikoistuu räätälöityihin pakettimatkiin ja opintomatkoihin. Sivusto on selkeä navigoitavuudeltaan, mutta pakettimatkojen hintojen löytäminen vaatii suoraan yhteydenottoa matka-asiantuntijoihin. Lennot voidaan varata helposti online-järjestelmän kautta yli 500 lentoyhtiön vertailulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Kilroy",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Kilroy' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   }
  ],
  "updated": "23.7.2026",

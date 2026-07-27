@@ -227,6 +227,8 @@
     "Tuki-yhteydenottotavat (puhelinnumerot ovat esillä) mutta sähköpostiosoite ja chat-tuki eivät ole selkeästi näkyvissä henkilöpalveluiden osalta"
    ],
    "yhteenveto": "Keeper on tunnettu salasananhallintapalvelu, jota tukee pääomasijoitusyhtiö Insight Partners. Palvelun turvallisuus on vahva: FIPS 140-3 -sertifioidut kryptografiset moduulit, säännölliset penetrointitestit ja bug bounty -ohjelma ovat näkyvissä. Hinnoittelu on selkeä (Personal $4.50/kk, Family $9.62/kk vuosittain laskutettuna), vaikka EUR-hinnat puuttuvat.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -451,6 +453,8 @@
     "Terms of Service sisältää laajat vastuunrajoitukset ja ilmoitustapojen koskevat ehdot, jotka voivat olla asiakkaalle epäedullisia"
    ],
    "yhteenveto": "Bitwarden on kansainvälinen, avoimen lähdekoodin salasananhallintapalvelu, jonka hinnoittelun läpinäkyvyys on erinomainen. Ilmaisversio tarjoaa lähes täydet perusfunktiot kahden käyttäjän organisaatioilla, ja maksulliset suunnitelmat alkavat kohtuullisesta hinnasta. Palvelun turvallisuusväitteet perustuvat riippumattomiin kolmannen osapuolen auditoinneihin ja kansainvälisiin sertifiointeihin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -471,7 +475,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: sama sivu listaa mm.: '2023 Bitwarden Web App Security Assessment Report — Bitwarden completed a dedicated source code audit and penetration test of the web app by security firm Cure53. Read the report.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Bitwarden",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Bitwarden' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "nordpass",
@@ -686,6 +697,8 @@
     "Riippumattoman arvioita (kuten Trustpilot tai muut ratings) ei ole näkyvissä pricing-sivulla tai pääsivulla"
    ],
    "yhteenveto": "NordPass on Nord Security -yhtiön hallinnoimasta salasananhallintapalvelu, joka tarjoaa sekä ilmaisen että maksullisen version henkilö- ja yritysasiakkaille. Sivusto on selkeästi rakennettu hintojen ja turvallisuustietojen osalta, ja useita riippumattomia tietoturva-auditointeja (ISO 27001, SOC 2 Type 2, Cure53) on dokumentoitu. Asiakastuen saatavuus sivustolla voisi olla selkeämpi, etenkin puhelinnumeroa ja chat-optiota koskevan tiedon osalta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -916,6 +929,8 @@
     "Chat-tuki epäselvä: support.dashlane.com on Cloudflare-suojattu eikä selvästi mainita live-chat-vaihtoehtoa hinnoittelusivulla"
    ],
    "yhteenveto": "Dashlane on USA:n ja Ranskan välillä operoiva salasananhallintapalvelu, joka tarjoaa selkeät hinnat, 14 päivän ilmaisen kokeilun ja nolla-tietoarkkitehtuurilla rakennetun palvelun. Sivustolla näkyy kattava turvallisuuskuvaus ja useita alan palkintoja (Best Password Manager 2025). Heikkoutena on, että riippumattomien turva-auditointien nimet ja todisteet eivät ole julkaistussa muodossa näkyvissä, ja asiakaspalvelun kontakti vaatii verkkolomakkeen täyttämistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1143,6 +1158,8 @@
     "Chat-tukea ei mainita, vain email/forum/sosiaalinen media"
    ],
    "yhteenveto": "1Password on kanadalainen salasananhallintapalvelu (perustettu 2005), joka tarjoaa selkeästi hinnoitellut paketit yksilöille, perheille ja yrityksille. Sivustolla näkyvät USD-hinnat ja 14 päivän ilmainen kokeilu. Turvallisuusauditoinnit (SOC 2 Type II, ISO-sertifikaatit) ja riippumattomat tietoturva-arvioinnit ovat julkaistu näkyvästi. Uusimishintoja ei kuitenkaan mainita erikseen, ja asiakaspalvelun kontaktitiedot vaativat contact-lomakkeen täyttämistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1366,6 +1383,8 @@
     "Omistajatiedot (LastPass US LP, 2024 erottautuminen GoTo:sta) edellyttävät About Us -sivun etsimistä"
    ],
    "yhteenveto": "LastPass on laajasti käytetty salasananhallintapalvelu, jonka hinnoittelu ja ilmaisversion rajoitukset ovat selkeästi esillä. Palvelu korostaa zero-knowledge -arkkitehtuuria ja listaa kattavan määrän tietoturva-sertifikaatteja (ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe). Kuitenkin monet sisäiset sivut (ehdot, yksityisyyskäytäntö, laaja UKK) eivät ole saavutettavissa normaalilla selauksella, ja suora yhteydenotto vaatii navigointia sales-sivuille.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1374,7 +1393,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: lastpass.com/security -sivulla: 'LastPass holds third-party security certifications like ISO 27001, SOC2 Type II, SOC3, BSI C5, TRUSTe, and more.'"
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "LastPass",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'LastPass' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "proton-pass",
@@ -1584,6 +1610,8 @@
     "Ei informaatiota aukioloajoista tai vastausajoista tuen osalta"
    ],
    "yhteenveto": "Proton Pass on salasanahallintapalvelu, jonka omistaa Sveitsissä sijaitseva Proton AG. Sivusto on erittäin selkeä ja hinnoittelua on helppo vertailla, ilmaisversio on hyvin dokumentoitu ja premium-tason sisältö on kattava. Turvallisuusauditointien raportteja ei kuitenkaan ole suoraan saatavilla sivulta, ja asiakastuki on pinpointed vain kontaktilomakkeiden kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {

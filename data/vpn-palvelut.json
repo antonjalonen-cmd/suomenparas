@@ -232,6 +232,8 @@
     "Palvelun ilmaisversiota ei ole tarjolla"
    ],
    "yhteenveto": "Mullvad VPN on ruotsalainen, perustajien omistama VPN-palvelu, joka tunnetaan läpinäkyvyydestä ja yksityisyydestä. Palvelu tarjoaa selkeän 5 euroa kuukaudessa maksavan hinnoittelumallin ilman alennuksia ja lupaa RAM-pohjaista infrastruktuuria. Useilla riippumattomilla tarkastuksilla varmistetaan, että palvelu ei kerää henkilötietoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -252,7 +254,14 @@
      "pisteet": 0,
      "lahde": "HAVAINTO: mullvad.net/en/blog artikkelissa \"New security audit of account and payment services\" (21.1.2026, tagi External audits) Mullvad kertoo, että nimetty auditoija X41 D-Sec GmbH teki white-box-lähdekoodiauditoinnin Mullvadin maksu- ja tili-API:sta sekä taustajärjestelmistä."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "Mullvad",
+    "paivakatselut_ka": 5,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Mullvad' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "protonvpn",
@@ -473,6 +482,8 @@
     "Verohallinnollista käyttöalueita (kuten 5/9/14-Eyes-sopimuksia) ei käsitellä sivustolla, vaikka Sveitsin sijainti mainitaan yksityisyyden kannalta"
    ],
    "yhteenveto": "Proton VPN on Sveitsissä (Genève) sijaitseva VPN-palvelu, jonka omistaa Proton Foundation -säätiö. Palvelun hinnoittelu on täysin läpinäkyvä: hinnat ja uusintahinnat esillä ilman kirjautumista, avoimesti kerrotut yritysomistajat, ja nimenomaisesti nimetty Securitum-tarkastaja on vahvistanut 5 peräkkäisenä vuonna että palvelu noudattaa tiukkaa lokitonta käytäntöä. Sivusto saatavilla suomeksi.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -707,6 +718,8 @@
     "Oikeusjurisdiktio (Suomi/ETA) mainitaan vain yksittäisissä PDF-dokumenteissa, ei tuotesivulla selvästi"
    ],
    "yhteenveto": "F-Secure VPN on suomalaisen F-Secure Oyj:n tuottama, itsenäisenä tai F-Secure Total -pakettiin sisältyvänä myytävä VPN-palvelu. Hinnoittelu on täysin läpinäkyvää ja uusintahinnat näkyvät selvästi, mikä on poikkeus VPN-alalla. Yrityksen omistajuus on selvästi ilmoitettu, ja suomalaisena yrityksenä se noudattaa GDPR:ää. Palvelulla on suomalainen tuki puhelimitse, sähköpostitse ja verkkofoorumilla. No-logs -käytäntö mainitaan mutta ei kaikkein yksityiskohtaisesti, eikä palvelulla ole riippumattoman kolmannen osapuolen tietoturvauditointia.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -935,6 +948,8 @@
     "Suomen palvelinta ei ole erikseen mainittu; palvelimia 50 maassa"
    ],
    "yhteenveto": "Private Internet Access on yhdysvaltalainen VPN-palvelu (Denver, Colorado), joka pitää järjestelmällisesti erittäin matalia lokitasoja. Deloitte on verifoinut ei-lokeja-käytännön, ja RAM-only-infrastruktuuri estää kovalevylle kirjoittamisen. Sivustoilla on hyvin näkyvät hinnat ja uusiutumishinnat sekä kattavat tiedot turvasta, mutta omistaja Kape Technologies on piilotettu yksityisyyskäytännössä. Palvelu on kuitenkin USA-tuomioistuin-alueella (5-Eyes), joten hallitus saattaa vaatia käyttäjätietoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1163,6 +1178,8 @@
     "Pitkäaikaisissa sopimuksissa kuukausihinta laskutetaan erilailla kuin mainostettu /kk-hinta"
    ],
    "yhteenveto": "CyberGhost VPN on Kape Technologies PLC:n omistama, Romaniasta rekisteröity VPN-palvelu joka toimii avoimesti. Sivusto tarjoaa selkeän hinnastot jo ilman tunnuksia ja uusintahinnat ovat näkyvillä. Palvelu on saanut Deloitte-auditin no-logs politiikalle ja käyttää RAM-only palvelimia. Suomenkielinen versio on saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1390,7 +1407,9 @@
     "Canada-sijainti (5-Eyes alliance) ei ilmoiteta sivustolla; käyttäjä ei voi verrata sen oikeudellisia vaikutuksia",
     "Ei suomalainskielistä versiota huolimatta monikielisestä tarjonnasta (15+ kieltä)"
    ],
-   "yhteenveto": "Windscribe on kanadalainen, itsenäisesti rahoitettu VPN-palvelu, jonka hinnoittelu on läpinäkyvä ja uusintahinnat ilmoitetaan selvästi. Palvelun no-logs politiikka on hyvin dokumentoitu ja se on käynyt läpi riippumattomia tietoturva-auditointeja. Kuitenkin sivusto ei ilmoita laillista jurisdiktiota (Kanada, 5-Eyes) eikä tarjoa suomenkielisiä sivuja, mikä saattaa vähentää suomalaisten kuluttajien luottamusta."
+   "yhteenveto": "Windscribe on kanadalainen, itsenäisesti rahoitettu VPN-palvelu, jonka hinnoittelu on läpinäkyvä ja uusintahinnat ilmoitetaan selvästi. Palvelun no-logs politiikka on hyvin dokumentoitu ja se on käynyt läpi riippumattomia tietoturva-auditointeja. Kuitenkin sivusto ei ilmoita laillista jurisdiktiota (Kanada, 5-Eyes) eikä tarjoa suomenkielisiä sivuja, mikä saattaa vähentää suomalaisten kuluttajien luottamusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "expressvpn",
@@ -1610,6 +1629,8 @@
     "Uusimishintaa ei näytetä hinnoittelusivulla ennen ostamista; vain pitkäaikaishinnat näkyvät ilman ostokertaa"
    ],
    "yhteenveto": "ExpressVPN on laaja VPN-palvelu, jolla on vahva tietoturva-arkkitehtuuri ja kattavat kolmannen osapuolen auditoinnit (KPMG, Cure53, PwC). Hinta ($2,49/kk pitkäaikaisoppaassa) on näkyvissä ilman kirjautumista ja sovellus on saatavilla kaikille pääalustoille. Kuitenkin omistajuustiedot (Kape Technologies) on piilotettu pieniin fonteihin ISO-sertifiointiosassa eivätkä ne löydy pääasiallisista tietosuoja-sivuista, mikä voi olla ongelma yksityisyyttä korostavan palvelun näkökulmasta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {
@@ -1858,6 +1879,8 @@
     "Yhteydenottokeinot puuttuvat: ei puhelinnumeroa, ei sähköpostiosoitetta etusivulla, vain \"Tukikeskus\" -linkki ulkoisen sivuston omistukseen"
    ],
    "yhteenveto": "NordVPN on suomalaisittain katsottuna hyvin saavutettava VPN-palvelu, jolla on täysin suomalainen sivusto ja selvästi näkyvä hinnoittelu ilman tilin luomista. Palvelu korostaa no-logs-politiikkaansa ja tarjoaa mobiilisovelluksia. Kuitenkin sivustolta puuttuu uusimishinnan maininta (mahdollinen pimeä kaava), omistajayhteys ei ole selvillä suomen sivuilla, ja itsenäistä auditointia ei mainita. Oikeuslainkäyttöalue ja suora asiakastuki eivät ole näkyvillä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -1866,7 +1889,14 @@
      "pisteet": 1.5,
      "lahde": "HAVAINTO: nordvpn.com/blog/nordvpn-audit/ -artikkelissa NordVPN kertoo tilanneensa nimetyltä auditoijalta PricewaterhouseCoopers AG Switzerland laajennetun assurance-auditoinnin (toisen kerran, edellinen 2018), joka kattoi mm. Double VPN- ja obfuskoidut palvelimet, ja jonka raportti (assurance report, toukokuu 2020/2022) on käyttäjien saatavilla."
     }
-   ]
+   ],
+   "tunnettuus": {
+    "artikkeli": "NordVPN",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'NordVPN' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
   },
   {
    "slug": "surfshark",
@@ -2086,6 +2116,8 @@
     "Hinnoittelu näkyy osittain: Hintasivulle pääseminen oli ongelmallista, ja täydellistä hinnoittelua kaikille paketeille ei voinut varmentaa ilman kirjautumista."
    ],
    "yhteenveto": "Surfshark on VPN-palvelu, jonka suomalaisille käyttäjille tarkoitettu versio on hyvin organisoitu ja kattava. Trust Center-osio tarjoaa kunnollista tietoa turvallisuusprotokolleista ja tietosuojasta. Kuitenkin yhtiön omistajuuden osalta on merkittävä puute: Cyberspace B.V. -yhteys (joka omistaa myös NordVPNin) mainitaan vain aikajanan yhteydessä eikä prominentilla tavalla, mikä on problemaattista yksityisyyspalvelulle, joka myy luottamukseen perustuvaa tuotetta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 3.0,
    "sertifikaatit": [
     {

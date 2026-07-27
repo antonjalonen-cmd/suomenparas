@@ -223,7 +223,9 @@
     "Henkilöautokurssien yksityiskohtainen sisältökuvaus puuttuu (ajotuntien lukumäärä, teorian laajuus)",
     "Ilmoittautumissivulle pääsy ei ole suoraa linkkiä vaan piilotettu nappula, mikä vaikeuttaa löytämistä"
    ],
-   "yhteenveto": "Antin Autokoulu on valtakunnallinen autokouluketju, joka tarjoaa kattavat opetus- ja koulutuspalvelut Suomessa 33 toimipisteessään. Sivusto esittelee hyvin OmaOpettaja-opetusmallin ja toimipisteiden verkoston, mutta B-kortin kokonaishinta ja yksityiskohtainen kurssisisältö vaativat käyttäjältä lisänavigointia. Asiakaspalvelun yhteystiedot, maksutavat ja joitakin usein kysyttyjä kysymyksiä ovat helposti saatavilla."
+   "yhteenveto": "Antin Autokoulu on valtakunnallinen autokouluketju, joka tarjoaa kattavat opetus- ja koulutuspalvelut Suomessa 33 toimipisteessään. Sivusto esittelee hyvin OmaOpettaja-opetusmallin ja toimipisteiden verkoston, mutta B-kortin kokonaishinta ja yksityiskohtainen kurssisisältö vaativat käyttäjältä lisänavigointia. Asiakaspalvelun yhteystiedot, maksutavat ja joitakin usein kysyttyjä kysymyksiä ovat helposti saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "epic-autokoulu",
@@ -439,6 +441,8 @@
     "Tietosuoja-sivu on \"Coming Soon\" -tilassa eikä sisällä tietosuojan kannalta vaadittavia tietoja"
    ],
    "yhteenveto": "Epic Autokoulu on Suomen suurin suomalaisomisteinen autokouluketju, joka palvelee yli 25 000 asiakasta vuosittain 127 toimipisteellä maanlaajuisesti. Verkkosivusto mahdollistaa kursseille ilmoittautumisen verkossa ja tarjoaa yksityiskohtaiset tiedot kurssisisällöstä, maksuista ja aukioloajoista. Kurssien hintatiedot ovat sivustolla saatavilla, mutta ne vaativat käyttäjän tekemää toimipisteen valintaa JavaScript-renderöinnin kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
    "sertifikaatti_bonus": 1.5,
    "sertifikaatit": [
     {
@@ -661,7 +665,9 @@
     "Kurssin sisältöä (ajotuntien tarkkaa määrää, teoriatuntien rakennetta, maksuerätietojen yhteyttä kurssin etenemiseen) ei kuvata riittävästi",
     "Usein kysytyt kysymykset -osio ja ilmoittautumissivut palauttavat 404-virheitä, mikä heikentää asiakkaan navigointi-kokemusta"
    ],
-   "yhteenveto": "CAP-Autokoulu on Suomen suurin autokoulu, joka tarjoaa kurssihinnat ja ilmoittautumisen selkeästi verkossa. Toimipisteverkko on laaja (135 paikkaa ympäri Suomea) ja yhteystiedot löytyvät helposti. Maksuvaihtoehdot ovat monipuoliset ja hyvin selitettyjä. Sivusto kuitenkin kaipaa selkeyttä kurssin sisällön kuvaamiseen ja B-kortin perushintaa on vaikea löytää yksittäisten ajotuntien hintojen seasta."
+   "yhteenveto": "CAP-Autokoulu on Suomen suurin autokoulu, joka tarjoaa kurssihinnat ja ilmoittautumisen selkeästi verkossa. Toimipisteverkko on laaja (135 paikkaa ympäri Suomea) ja yhteystiedot löytyvät helposti. Maksuvaihtoehdot ovat monipuoliset ja hyvin selitettyjä. Sivusto kuitenkin kaipaa selkeyttä kurssin sisällön kuvaamiseen ja B-kortin perushintaa on vaikea löytää yksittäisten ajotuntien hintojen seasta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   },
   {
    "slug": "ajokorttiverkosta",
@@ -870,7 +876,9 @@
     "Kurssin sisällön yksityiskohdat (ajotuntien määrä, teoriasisällön laajuus, maksuerät) puuttuvat tai vaativat sisäänkirjautumista",
     "Yhteystiedot (puhelin, sähköposti) ovat vain osittain näkyvillä sivustolla"
    ],
-   "yhteenveto": "Ajokortti Verkosta (NetDriving) on kotimainen autokoulu, jolla on laajat toimipisteet ympäri Suomea. Sivuston vahvuutena on selkeä paikkakuntaluettelo ja monipuolinen kurssivalikoimasta ajokieltojen koulutuksesta riskientunnistamiskoulutukseen. Heikkoutena hintojen saatavuus: kurssihinnat eivät näy staattisesti vaan ne vaativat rekisteröitymisen tai kaupan avautumista, mikä tekee verailusta haastavaa."
+   "yhteenveto": "Ajokortti Verkosta (NetDriving) on kotimainen autokoulu, jolla on laajat toimipisteet ympäri Suomea. Sivuston vahvuutena on selkeä paikkakuntaluettelo ja monipuolinen kurssivalikoimasta ajokieltojen koulutuksesta riskientunnistamiskoulutukseen. Heikkoutena hintojen saatavuus: kurssihinnat eivät näy staattisesti vaan ne vaativat rekisteröitymisen tai kaupan avautumista, mikä tekee verailusta haastavaa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
   }
  ],
  "updated": "21.7.2026",
