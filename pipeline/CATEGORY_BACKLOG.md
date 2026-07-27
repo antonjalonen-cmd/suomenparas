@@ -51,4 +51,6 @@ silmasairaalat.
 - [ ] huonekaluketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Isku, Asko, Sotka, Masku, Vepsäläinen, JYSK, IKEA Suomi
 - [x] rautakaupat — julkaistu 26.7.2026 (päätyösessio; 6 yhtiötä, check_extracts 6/6 OK; Puuilo #1 79,0; IKH karsittu: Cloudflare 403 myös headless-Chromelle)
 - [ ] elektroniikkaketjut — (24.7. varaus vanhentunut, sessio päättyi; vapaa) — kandidaatit: Gigantti, Verkkokauppa.com, Power, Jimm's?, Multitronic?
+- [~] uutismediat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö: mediavertailu, yksittäiset mediat ei konsernit) — HS, IS, Iltalehti, Kauppalehti, Yle Uutiset, MTV Uutiset, Turun Sanomat, Kaleva
+- [ ] aikakauslehdet — Antonin idea 26.7.2026 (jatko uutismedioille): Apu, Seura, Suomen Kuvalehti, Tekniikan Maailma, ET?, Kotiliesi? — tarkista julkaisijat
 - [ ] optiset-verkkokaupat — tarkista päällekkäisyys optikot-kategorian kanssa → todennäköisesti [s]
