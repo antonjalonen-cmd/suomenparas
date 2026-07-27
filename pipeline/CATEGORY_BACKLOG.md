@@ -39,13 +39,13 @@ silmasairaalat, uutismediat, aikakauslehdet, huonekaluketjut, elektroniikkaketju
 - [x] tyonvalityspalvelut — julkaistu 26.7.2026 (päätyösessio; 8 yhtiötä, check_extracts 8/8 OK; Barona #1 68,0; palkkatieto puuttuu lähes koko alalta)
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
-- [ ] aurinkopaneeliasentajat — kandidaatit: Helen aurinko?, Aurinkoenergiaa Suomesta?, Solnet?, Playgreen? (kasvava ala)
-- [ ] lämpöpumppuasentajat — kandidaatit: Ilmalämpöpumppuketjut (Iver?, Elfving?), tarkista valtakunnalliset
+- [~] aurinkopaneeliasentajat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Helen aurinko?, Aurinkoenergiaa Suomesta?, Solnet?, Playgreen? (kasvava ala)
+- [~] lämpöpumppuasentajat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Ilmalämpöpumppuketjut (Iver?, Elfving?), tarkista valtakunnalliset
 - [x] kattoremontit — julkaistu 26.7.2026 (päätyösessio; 7 yhtiötä, check_extracts 7/7 OK; Vesivek #1 77,8 täydet läpinäkyvyyspisteet + 5 serttiä; ruukkikatot.fi->ruukki.com SAME_COMPANY-poikkeus)
-- [ ] ikkunaremontit — kandidaatit: Pihla, Skaala, Domus, Lammin Ikkuna, HR-Ikkunat?
+- [~] ikkunaremontit — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Pihla, Skaala, Domus, Lammin Ikkuna, HR-Ikkunat?
 - [ ] hissiyhtiot — b2b/taloyhtiö-kulma: KONE, Otis, Schindler, TK Elevator → arvioi sopiiko kuluttajasivustolle
-- [ ] pesulapalvelut — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
-- [ ] kukkakauppojen-verkkokaupat — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
+- [~] pesulapalvelut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: SOL Pesulapalvelut, Lindström (b2b?), 24 Pesula, Vistan pesulat?
+- [~] kukkakauppojen-verkkokaupat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
 - [~] urheiluvalineketjut — varattu: päätyösessio 26.7.2026 (Antonin pyyntö) — XXL, Intersport, Budget Sport (Kesko x2), Stadium, Partioaitta, Varuste.net, Scandinavian Outdoor; Sportia jätetty pois (ei näyttöä elävästä valtakunnallisesta ketjusta)
 - [x] huonekaluketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua, portit OK; Masku #1 81,5; Asko+Sotka KARSITTU: Indoor Group konkurssi 2/2026, Sukari/Masku osti brändit, sotka.fi ohjaa masku.comiin)
