@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (53 kpl, 27.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (55 kpl, 28.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -40,13 +40,13 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 - [x] tyonvalityspalvelut — julkaistu 26.7.2026 (päätyösessio; 8 yhtiötä, check_extracts 8/8 OK; Barona #1 68,0; palkkatieto puuttuu lähes koko alalta)
 - [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
-- [~] aurinkopaneeliasentajat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Helen aurinko?, Aurinkoenergiaa Suomesta?, Solnet?, Playgreen? (kasvava ala)
+- [x] aurinkopaneeliasentajat — julkaistu 28.7.2026 (8 yhtiötä; Solarum+1KOMMA5° jaettu #1 78,5; Fortum/Vattenfall/Otovo/Naps poistuneet markkinalta; Seronin ovimyyntihuomautus kerrottu avoimesti)
 - [x] lämpöpumppuasentajat — julkaistu 27.7.2026 (8 yhtiötä; Zatap #1 82,0; markkinajohtaja Tom Allen Senera vasta 59,9 — tavoitettavuus 15)
 - [x] kattoremontit — julkaistu 26.7.2026 (päätyösessio; 7 yhtiötä, check_extracts 7/7 OK; Vesivek #1 77,8 täydet läpinäkyvyyspisteet + 5 serttiä; ruukkikatot.fi->ruukki.com SAME_COMPANY-poikkeus)
 - [x] ikkunaremontit — julkaistu 27.7.2026 (7 yhtiötä; Pihla #1 80,5; Pihla+Tiivi=Inwido kerrottu; Fenestra/Domus kuolleet)
 - [ ] hissiyhtiot — b2b/taloyhtiö-kulma: KONE, Otis, Schindler, TK Elevator → arvioi sopiiko kuluttajasivustolle
 - [s] pesulapalvelut — hylätty 27.7.2026: vain 2 aidosti valtakunnallista kuluttajatoimijaa (SOL, 24 Pesula) — loput ovat 1-2 kaupungin paikallisia; sama linja kuin kodinkonehuollon hylkäys. HUOM tutkimuksesta: lorella.fi on kaapattu kasinospämmidomain, Vistan Pesula on SOL:n omistama
-- [~] kukkakauppojen-verkkokaupat — varattu: päätyösessio 26.7.2026 (Antonin pyyntö, 5 kategorian erä) — kandidaatit: Interflora, Kukkakauppa.fi?, Bloomit?, tarkista ketjut
+- [x] kukkakauppojen-verkkokaupat — julkaistu 28.7.2026 (6 yhtiötä; Lähetäkukkia.fi #1 76,5; Kukka Express hylätty anonyymi operaattori; kukkia.fi/tilaakukat.fi = affiliate-sivustoja)
 - [ ] lastenvaatteiden-verkkokaupat — tarkista onko ≥6 suomalaista valtakunnallista, muuten [s]
 - [x] urheiluvalineketjut — julkaistu 27.7.2026 (päätyösessio; 7 ketjua, portit OK; Partioaitta #1 78,2; Stadium 57,2 sisältösivut HTTP 500; 3 ohutta uusittu; Sportia pois)
 - [x] huonekaluketjut — julkaistu 26.7.2026 (päätyösessio; 6 ketjua, portit OK; Masku #1 81,5; Asko+Sotka KARSITTU: Indoor Group konkurssi 2/2026, Sukari/Masku osti brändit, sotka.fi ohjaa masku.comiin)
