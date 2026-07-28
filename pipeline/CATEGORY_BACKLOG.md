@@ -22,6 +22,12 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
+- [~] lastenvaatteiden-verkkokaupat — varattu: päätyösessio 28.7.2026 (Antonin pyyntö, 5 kategorian erä 2) — Reima, PO.P, Gugguu, Metsola, Papu, Vimma?
+- [~] lemmikkitarvikkeiden-verkkokaupat — varattu: päätyösessio 28.7.2026 — Musti ja Mirri, Zooplus, Peten Koiratarvike, Faunatar?, Hau-Hau?
+- [~] hotelliketjut — varattu: päätyösessio 28.7.2026 — Scandic, Sokos Hotels, Lapland Hotels, Omena, GreenStar, Radisson?
+- [~] taksipalvelut — varattu: päätyösessio 28.7.2026 — Taksi Helsinki, Menevä, Lähitaksi, 02 Taksi, FixuTaxi?, Kovanen?
+- [~] kirjakauppojen-verkkokaupat — varattu: päätyösessio 28.7.2026 — Suomalainen, Adlibris, Booky, Rosebud?, Karkkainen?
+
 
 - [x] hautaustoimistot — julkaistu 23.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts OK, LH 7/7)
 - [x] matkatoimistot — julkaistu 24.7.2026 (autopilot-tikki; 10 yhtiota, check_extracts 10/10 OK, LH 10/10; Olympia #1 86.7 p)
