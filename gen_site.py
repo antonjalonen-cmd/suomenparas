@@ -808,8 +808,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=20">
-<script src="{root}assets/app.js?v=20" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=21">
+<script src="{root}assets/app.js?v=21" defer></script>
 </head>
 <body>
 <header class="site">
