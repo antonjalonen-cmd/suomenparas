@@ -1346,3 +1346,43 @@ COMPANIES["lampopumppuasentajat"] = [
     dict(slug="ilpurakointi", nimi="ILP Urakointi", domain="ilpurakointi.fi", y_tunnus="3169601-2",
          omistaja="ILP Urakointi Oy (aputoiminimi ILP Sähkö) on yksityisomisteinen turkulainen ilmalämpöpumppuasentaja, joka toimii Varsinais-Suomessa ja Uudellamaalla."),
 ]
+
+# --- aurinkopaneeliasentajat (27.7.2026, Antonin pyyntö; tutkimusagentti + PRH) ---
+# Helen jätetty pois: kuluttaja-aurinkomyynnin hoitaa listattu kumppani Aurinkotekniikka.
+# Seron: kuluttaja-asiamiehen puuttuminen ovimyyntiin 2025 mainittu omistajarivillä.
+COMPANIES["aurinkopaneeliasentajat"] = [
+    dict(slug="energio", nimi="Energio", domain="energio.fi", y_tunnus="3228147-6",
+         omistaja="Energio Finland Oy on vuonna 2021 perustettu itsenäinen kotimainen yhtiö (tj Jarno Kautto, Raisio/Helsinki), jonka omat asennustiimit toimivat Uudellamaalla, Varsinais-Suomessa, Pirkanmaalla ja Savossa ja toiminta kattaa koko Manner-Suomen."),
+    dict(slug="solarum", nimi="Solarum", domain="solarum.fi", y_tunnus="2984708-8",
+         omistaja="Solarum Suomi Oy on vuonna 2019 perustettu itsenäinen kotimainen sähköurakointiyhtiö (tj Antti Tahkola, kotipaikka Liminka/Oulunsalo) ilman tiedossa olevaa emoyhtiötä; asentaa avaimet käteen -toimituksena koko Suomeen."),
+    dict(slug="1komma5-suomi", nimi="1KOMMA5° Suomi", domain="1komma5.com", y_tunnus="2778665-6",
+         omistaja="1KOMMA5° Suomi on juridisesti Solar Age Oy (perustettu 2016, Kaarina/Turku), jonka enemmistön saksalainen 1KOMMA5° GmbH osti lokakuussa 2022; perustajat Ricardo Pacheco sekä Pasi ja Petri Seppälä; toimialueet Varsinais-Suomi, Uusimaa ja Pirkanmaa."),
+    dict(slug="seron", nimi="Seron", domain="seron.fi", y_tunnus="3332016-6",
+         omistaja="Seron Oy:n (Tampere) omistaa ja sitä johtaa Lauri Vepsäläinen; toimittaa ja asentaa aurinkopaneeleita koko Suomessa — HUOM: kuluttaja-asiamies puuttui 2025 yhtiön painostavaan kotimyyntiin iäkkäille (Yle 74-20171581), huomioitava luotettavuusarvioinnissa."),
+    dict(slug="aurinkotekniikka", nimi="Aurinkotekniikka", domain="aurinkotekniikka.fi", y_tunnus="3428090-1",
+         omistaja="Aurinkotekniikka-brändin myynnistä vastaa Aurinkotekniikka Myynti Oy (3428090-1) ja asennuksista sisaryhtiö AurinkoPro Oy (2758891-6, ent. Suomen Aurinkotekniikka Oy, nimenmuutos 30.10.2025); kotimainen kokonaisuus, yli 5000 asennettua järjestelmää ja Helenin kuluttaja-aurinkovoimaloiden myynti- ja asennuskumppani — RISKI: AurinkoPron liikevaihto putosi 2024 n. 80 % (1,3 M€, tulos -233 t€), taloustilanne syytä arvioida."),
+    dict(slug="lampopartio", nimi="Lämpöpartio", domain="lampopartio.fi", y_tunnus="2436191-9",
+         omistaja="Lämpöpartio Oy on vuonna 2011 perustettu itsenäinen kotimainen energiaremonttiyhtiö (tj Vesa Malmberg), kotipaikka Kokkola ja toimipisteet Helsingissä, Jyväskylässä ja Oulussa; yli 12 500 energiaremonttia."),
+    dict(slug="at-aurinkopaneelit", nimi="AT Aurinkopaneelit", domain="ataurinkopaneelit.fi", y_tunnus="3006802-2",
+         omistaja="At Aurinkopaneelit Oy on itsenäinen kotimainen aurinkosähköasentaja (PRH: aktiivinen, rinnakkaistoiminimi Kattokeisari), ei tiedossa olevaa emoyhtiötä; palvelee valtakunnallisesti."),
+    dict(slug="kotisi-energia", nimi="Kotisi Energia", domain="kotisienergia.fi", y_tunnus="2787210-8",
+         omistaja="Kotisi Energia Nordic Oy (PRH: aktiivinen, aiempi nimi Kotisi LVI Oy) on itsenäinen kotimainen aurinkopaneelien myynti- ja asennusyhtiö ilman tiedossa olevaa emoyhtiötä."),
+]
+
+# --- kukkakauppojen-verkkokaupat (28.7.2026, Antonin pyyntö; tutkimusagentti + PRH) ---
+# Kukka Express jätetty pois: operaattoria ei voitu todentaa (anonyymi ulkomainen
+# verkosto) — emme julkaise yhtiötä jonka omistajaa ei voi nimetä.
+COMPANIES["kukkakauppojen-verkkokaupat"] = [
+    dict(slug="interflora", nimi="Interflora", domain="interflora.fi", y_tunnus="0109243-7",
+         omistaja="Interflora.fi-verkkokauppaa pyörittää Interflora-Myynti Oy (PRH: aktiivinen), joka kuuluu suomalaisten kukkakauppiaiden omistamaan Interflora-Suomi ry:hyn; kukkavälitys kattaa lähes koko Suomen jäsenkauppojen kautta."),
+    dict(slug="ekukka", nimi="eKukka.fi", domain="ekukka.fi", y_tunnus="2485800-1",
+         omistaja="eKukka.fi-tilausalustaa ylläpitää oululainen Floweb Oy (PRH: aktiivinen), floristimestari Pasi Kivilompolon ja hänen veljensä perustama kotimainen yhtiö; verkostossa yli 500 kukkakauppaa yli 200 paikkakunnalla."),
+    dict(slug="verkkokukka", nimi="Verkkokukka.fi", domain="verkkokukka.fi", y_tunnus="0686978-6",
+         omistaja="Verkkokukka.fi on Oy Kukkien Datavälitys DF Ltd:n (DataFlora-välitysketju, PRH: aktiivinen) ja sen yli 60 kumppanikukkakaupan yhteinen verkkokauppa, joka toimittaa kukat oman ilmoituksensa mukaan kaikkialle Suomeen."),
+    dict(slug="lahetakukkia", nimi="Lähetäkukkia.fi", domain="lahetakukkia.fi", y_tunnus="0815227-9",
+         omistaja="Lähetäkukkia.fi:tä ylläpitää kokkolalainen Järvelä Invest Oy (markkinointinimi Vakkurin Kukka, PRH: aktiivinen), joka toimittaa oman alueensa itse ja muun Suomen eKukka-, DataFlora- ja Interflora-ketjujen kautta."),
+    dict(slug="kukka-garden", nimi="Kukka Garden", domain="kukkagarden.fi", y_tunnus="3015820-4",
+         omistaja="Kukka Garden on Hallin Luomupuoti Oy:n (PRH: aktiivinen) kukkakauppa Helsingin Vuosaaren Columbuksessa; verkkokaupan kukkalähetykset toimitetaan ilmaiseksi Helsinkiin ja Vantaalle sekä 15 euron lisämaksusta muualle Suomeen."),
+    dict(slug="piilola", nimi="Kukkakauppa Piilola", domain="piilola.fi", y_tunnus="1895827-6",
+         omistaja="Piilola.fi on Kukkamyynti Piilola Oy:n (PRH: aktiivinen, kolme myymälää Helsingissä, toiminut Etelä-Haagassa 1970-luvulta) verkkokauppa; oma toimitus kattaa pääkaupunkiseudun ja muut paikkakunnat hoidetaan Interflora-kukkavälityksen kautta."),
+]

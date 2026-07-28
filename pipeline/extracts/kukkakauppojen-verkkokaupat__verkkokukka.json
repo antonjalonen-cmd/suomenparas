@@ -1,0 +1,46 @@
+{
+  "slug": "verkkokukka",
+  "fetched_ok": [
+    "https://www.verkkokukka.fi/",
+    "https://www.verkkokukka.fi/yhteystiedot/",
+    "https://www.verkkokukka.fi/verkkokukka-takuu/",
+    "https://www.verkkokukka.fi/maksutavat/",
+    "https://www.verkkokukka.fi/turvallisuus/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selvästi kaikilla tuotteilla euromäärissä",
+    "Maksu- ja turvaoptiot monipuoliset: verkkopankki, luottokortti, lasku, osamaksu",
+    "Takuu ja reklamaatioehdot dokumentoitu selvästi omalla sivulla"
+  ],
+  "kehityskohteet": [
+    "Toimitusehdot-sivu puuttuu tai ei ole saavutettavissa (404 virhe)",
+    "Usein kysyttyä -osio puuttuu, usein tehdyt kysymykset vastauksineen löytyvät",
+    "Fyysisten myymälöiden sijainti ja aukioloajat kuvataan puutteellisesti (pelkkä asiakaspalvelun aukioloaika näkyy)"
+  ],
+  "yhteenveto": "Verkkokukka.fi on kukkakauppojen verkkopalvelu, joka näyttää tuotteiden hinnat selvästi ja tarjoaa useita maksuvaihtoehtoja. Sivustolla on saatavilla palautus- ja takuuehdot sekä yhteystiedot puhelimitse ja sähköpostitse. Tärkeät osiot kuten yksityiskohtaiset toimitusehdot ja usein kysytyt kysymykset puuttuvat, mikä vähentää asiakkaiden itsepalvelumahdollisuuksia.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotteiden hinnat euromäärissä, esimerkiksi 'Matala valkoinen kimppu € 44,00 – € 74,00'.",
+    "toimitus_kerrottu": "HAVAINTO: Maksutavat-sivulla kerrotaan, että tuotteet ja kuljetuskulut maksetaan tilauksen yhteydessä. Yksityiskohtainen 'Toimitusehdot'-sivu näkyy footerissa mutta palauttaa 404 virheen.",
+    "palautusehdot_saatavilla": "HAVAINTO: Verkkokukka takuu -sivulla kerrotaan, että tuoreilla kukilla ei ole kuluttajasuojalain mukaista palautusoikeutta, vaan tuoreustakuu. Reklamaatiot on tehtävä 24 tunnin kuluessa toimituksesta.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla ei mainita fyysisiä myymälöitä. Asiakaspalvelun aukioloajat 'arkisin 8-17 la-su 10-13' näkyvät sivun otsikkorivillä ja yhteystiedoissa.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy Y-tunnus 0686978-6, joka kuuluu yritykselle Oy Kukkien Datavälitys DF ltd.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei löytynyt riippumatonta arviolähdettä, kuten asiakasarvioita, sertifiointeja tai kolmannen osapuolen arviointeja."
+  }
+}

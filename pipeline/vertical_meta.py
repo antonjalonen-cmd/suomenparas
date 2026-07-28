@@ -1485,3 +1485,54 @@ META["lampopumppuasentajat"] = {
          "verkossa — eivät sitä, kenen poraus onnistuu parhaiten."),
     ],
 }
+
+META["aurinkopaneeliasentajat"] = {
+    "slug": "aurinkopaneeliasentajat",
+    "nimi": "Aurinkopaneeliasentajat",
+    "nav": "Aurinkopaneeliasentajat",
+    "h1": "Suomen paras aurinkopaneeliasentaja 2026",
+    "yksikko": "Suomessa toimivaa aurinkopaneeliasentajaa",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa aurinkopaneeliasentajaa {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "kerrotaanko järjestelmän hinta ja takuut ennen kuin annat yhteystietosi?"),
+    "meta_title": "Suomen paras aurinkopaneeliasentaja 2026 | pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} aurinkopaneeliasentajaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Ala on myllerryksessä.</b> Moni tunnettu nimi on poistunut kuluttajamarkkinalta: "
+         "Fortum ja Vattenfall lopettivat kuluttaja-aurinkopalvelunsa, Naps ajautui "
+         "järjestelyihin ja Otovo vetäytyi Suomesta. Vertailussa ovat vain toimijat, joiden "
+         "aktiivinen asennusmyynti varmistettiin heinäkuussa 2026."),
+        ("<b>Helen ei ole listalla erikseen</b>, koska sen kuluttaja-aurinkomyynnin hoitaa "
+         "kumppanina toimiva Aurinkotekniikka, joka on vertailussa mukana."),
+        ("<b>Ovimyyntiin liittyy alalla riskejä.</b> Kuluttaja-asiamies on puuttunut yhden "
+         "listatun yhtiön aggressiiviseen ovimyyntiin vuonna 2025 — kerromme tämän avoimesti "
+         "yhtiön sivulla. Vertaa aina kirjalliset tarjoukset rauhassa."),
+    ],
+}
+
+META["kukkakauppojen-verkkokaupat"] = {
+    "slug": "kukkakauppojen-verkkokaupat",
+    "nimi": "Kukkakauppojen verkkokaupat",
+    "nav": "Kukkien verkkokaupat",
+    "h1": "Suomen paras kukkien verkkokauppa 2026",
+    "yksikko": "Suomeen toimittavaa kukkien verkkokauppaa",
+    "lead": ("Pisteytimme {n} Suomeen toimittavaa kukkien verkkokauppaa {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö kimpun hinnan toimitusmaksuineen ja korvauskäytännön ennen tilausta?"),
+    "meta_title": "Suomen paras kukkien verkkokauppa 2026 | pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} kukkien verkkokauppaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Ala on täynnä välittäjiä ja affiliate-sivustoja.</b> Moni 'kukkakauppa' on "
+         "pelkkä välityssivu, joka ohjaa tilauksen toiselle toimijalle provisiota vastaan. "
+         "Vertailussa ovat vain palvelut, joiden operoija on tunnistettavissa — yksi "
+         "kandidaatti hylättiin, koska sen taustayhtiötä ei voitu todentaa."),
+        ("<b>Toimitus ratkaisee kukkakaupassa.</b> Saman päivän toimitus, toimitusalue ja "
+         "toimitusmaksu vaihtelevat rajusti — ja pilalle mennyt kimppu vaatii selkeän "
+         "korvauskäytännön. Nämä ovat vertailun painavimmat kriteerit."),
+        ("<b>Verkostomallit eroavat.</b> Interflora ja DataFlora välittävät tilaukset "
+         "paikallisille kukkakaupoille, osa taas lähettää kimput keskusvarastolta. "
+         "Kumpikin toimii — kerromme mallin jokaisen palvelun sivulla."),
+    ],
+}

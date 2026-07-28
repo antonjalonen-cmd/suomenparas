@@ -1,0 +1,47 @@
+{
+  "slug": "lampopartio",
+  "fetched_ok": [
+    "https://lampopartio.fi/",
+    "https://lampopartio.fi/aurinkopaneelit/",
+    "https://lampopartio.fi/laskutustiedot/",
+    "https://lampopartio.fi/aurinkosahko/"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "osittain",
+  "materiaalit_kuvattu": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Selkeästi esitetty hinnoittelu kolmella konkreettisella järjestelmäkoon esimerkillä (8500-15000 euroa)",
+    "Neljävaiheinen remonttiprosessi kuvattu ymmärrettävästi pyynnöstä käyttöönottoon saakka",
+    "Kattava UKK-osio (17 kysymystä) vastaa yleisimpiin asiakaskysymyksiin järjestelmien toiminnasta"
+  ],
+  "kehityskohteet": [
+    "Takuuehdot kuvataan vain osittain - mainitaan 25 vuoden tehontuottotakuu, mutta eivät tarkat ehdot tai kattorajat",
+    "Paneelien tekniiset tiedot ja valmistajamerkit puuttuvat tuotesivulta - vain paneelityyppejä (yksi- vs monikide) mainitaan",
+    "Aukioloajat näkyvät epäselvästi - vain arkipäivien 8-16 klo näkyy, ei viikonloppujen tai muiden aikojen huoltopalvelusta"
+  ],
+  "yhteenveto": "Lämpöpartio Oy on kotimainen aurinkopaneelien asentaja, joka esittelee selkeää hinnoittelua konkreettisilla esimerkeillä ja kuvaa asennusprosessin vaiheittain. Sivustolla on laaja UKK-osio, mutta takuuehdot jäävät osittain dokumentoimatta ja paneelien tekniset spesifikaatiot puuttuvat kokonaan.",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Aurinkopaneeleiden hinta -osiossa esitetään kolme konkreettista esimerkkiä: 32 m2 järjestelmä 8500-10500 euroa, 44 m2 järjestelmä 10500-12500 euroa ja 60 m2 järjestelmä 13000-15000 euroa asennettuna.",
+    "prosessi_kuvattu": "HAVAINTO: Sivulla esitetään 'Miten hankinta etenee?' osio, jossa kuvataan neljä vaihetta: Pyydä tarjous, Maksuton kartoitus ja ratkaisuehdotus, Remontti ja asennus, Käyttöönotto ja opastus.",
+    "takuut_kerrottu": "HAVAINTO: Sivulla mainitaan 'Aurinkopaneelit on 25 vuoden tehontuottotakuu' ja UKK-osiossa selitetään 'Aurinkopaneelien tehontuottotakuu - mikä se on? Tehontuottotakuu ilmoittaa, kuinka monta prosenttia aurinkopaneelien nimellistehosta on jäljellä tietyn ajan jälkeen.' Tarkempia ehtoja ei kuitenkaan esitä.",
+    "materiaalit_kuvattu": "HAVAINTO: UKK-osiossa mainitaan invertteri ('Inverteri on aurinkopaneelien mukana hankittava laite'), sekä paneelimahdollisuuksista ('Kannattaako minun hankkia yksi- vai monikidepaneelit?'). 1-vaihe ja 3-vaihe järjestelmät selitetään. Paneelien merkkejä tai täydellisiä spesifikaatioita ei mainita.",
+    "y_tunnus_esilla": "HAVAINTO: Laskutustiedot-sivulla näkyy 'Lämpöpartio Oy, Y-tunnus: 2436191-9' selvästi omassa osiossaan.",
+    "riippumaton_arvio": "HAVAINTO: Sivulla ei mainita riippumattomia arviolähteitä kuten asiakaslausuntojen verifiointia, kolmansien osapuolten arviointeja tai alan sertifikaatioita. Sivulla mainittaan 'Palvelullamme on Avainlippu-merkki' mutta ei linkitystä tai todistusta.",
+    "aukioloajat_esilla": "HAVAINTO: Sivun alalaidassa näkyy puhelinnumero '040 1839 100 (ark. klo 8-16)' ja huoltopäivystys '0300 300 550'. Viikonloppujen tai muiden aikojen aukioloajat eivät ole esillä.",
+    "ukk_osio": "HAVAINTO: 'Aurinkopaneelit - usein kysytyt kysymykset' -osio sisältää 17 täysin avattavaa kysymystä, kuten takaisinmaksuajasta, mitoituksesta, invertteristä, tuotannosta, takuista, huollosta ja järjestelmätyyppien eroista."
+  }
+}

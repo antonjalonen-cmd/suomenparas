@@ -83,7 +83,7 @@ CATEGORY_GROUPS = [
         ("Äänikirjapalvelut", None, False),
     ]),
     ("Koti ja asuminen", [
-        ("Lämpöpumppuasentajat", "lampopumppuasentajat", True), ("Aurinkopaneeliasentajat", None, False),
+        ("Lämpöpumppuasentajat", "lampopumppuasentajat", True), ("Aurinkopaneeliasentajat", "aurinkopaneeliasentajat", True),
         ("Putkiliikkeet", None, False), ("Sähköasentajat", None, False),
         ("Kattoremontit", "kattoremontit", True), ("Muuttopalvelut", "muuttopalvelut", True),
         ("Siivouspalvelut", "siivouspalvelut", True), ("Kiinteistönvälittäjät", "kiinteistonvalittajat", True),
@@ -135,7 +135,7 @@ CATEGORY_GROUPS = [
         ("Juhlatilat", None, False), ("Catering-palvelut", None, False),
         ("Hääpalvelut", None, False), ("Ohjelmistokoulut lapsille", None, False),
         ("Kielikurssit", None, False), ("Tanssikoulut", None, False),
-        ("Kukkakaupat", None, False), ("Matkatoimistot", "matkatoimistot", True),
+        ("Kukkien verkkokaupat", "kukkakauppojen-verkkokaupat", True), ("Matkatoimistot", "matkatoimistot", True),
         ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False),
     ]),
 ]

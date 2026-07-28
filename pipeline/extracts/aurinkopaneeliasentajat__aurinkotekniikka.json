@@ -1,0 +1,47 @@
+{
+  "slug": "aurinkotekniikka",
+  "fetched_ok": [
+    "https://www.aurinkotekniikka.fi/",
+    "https://www.aurinkotekniikka.fi/aurinkopaneelit-kotiin",
+    "https://www.aurinkotekniikka.fi/meista",
+    "https://www.aurinkotekniikka.fi/usein-kysytyt-kysymykset",
+    "https://www.aurinkotekniikka.fi/huolto-paivitykset",
+    "https://www.aurinkotekniikka.fi/yhteys"
+  ],
+  "hinta_indikaatio": "kylla",
+  "prosessi_kuvattu": "kylla",
+  "takuut_kerrottu": "osittain",
+  "materiaalit_kuvattu": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Selkeä 5-vaiheinen asennusprosessi kuvattu yksityiskohtaisesti kotitalouksille",
+    "Hintatiedot julkisesti esillä: 5000-11000 euroa avaimet käteen -pakettina, 6000 euroa 5kW-järjestelmälle",
+    "Laaja valikoima invertterivaihtoehtoja (Fronius, Solax, Growatt, Solis) ja akustoja (Pylontech, Dyness) kuvattuina"
+  ],
+  "kehityskohteet": [
+    "Takuuehdot eivät ole julkisesti näkyvissä sivustolla; huolto- ja korjauspäivä mainitaan mutta warranty-termit puuttuvat",
+    "Y-tunnus puuttuu kokonaan sivustolta ja yritystiedoissa",
+    "Riippumaton varmennus tai sertifikaatti puuttuu; vain sisäiset asiakasarvostelut näkyvissä, ei kolmannen osapuolen arviota"
+  ],
+  "yhteenveto": "Aurinkotekniikka on aurinkopaneeliasennuksiin erikoistunut yritys, joka tarjoaa selkeää hinta- ja prosessitietoa kotitalouksille. Sivusto dokumentoi järjestelmäkoot ja kustannukset sekä erilaisia invertteri- ja akkuvaihtoehtoja, mutta puuttuu huomattavasti takuutiedoissa ja yritystietojen avoimuudessa (Y-tunnus, riippumattomat arviot).",
+  "evidence": {
+    "hinta_indikaatio": "HAVAINTO: Sivuston aurinkopaneelit-kotiin-sivulla mainitaan: aurinkopaneelien hinta vaihtelee 5000-11000 euroon avaimet käteen -pakettina, ja 5 kW järjestelmän keskimääräinen hinta on noin 6000 euroa vuonna 2024.",
+    "prosessi_kuvattu": "HAVAINTO: Kotisivuilla kuvataan Näin saat aurinkopaneelit kotiin -osio viidessä vaiheessa: 1) Pyydä tarjous, 2) Otamme sinuun yhteyttä, 3) Sovitaan asennuksen ajankohta, 4) Aurinkopaneelien asennus kotiisi, 5) Seuraa paneelien tuotantoa.",
+    "takuut_kerrottu": "HAVAINTO: Huolto & Päivitykset -sivulla kuvataan vuositarkastus ja korjauspalvelut hinnoittelulla, mutta takuun pituutta, kattavuutta tai ehtoja ei ole mainittu. Tuotteiden warrantyista ei löydy julkista tietoa.",
+    "materiaalit_kuvattu": "HAVAINTO: Sivustolla mainitaan invertterivaihtoehdot (Fronius Itävallasta, Solax, Growatt, Solis) ja akustot (Pylontech, Dyness Stack100, 3SUN HJT-paneelit Italiasta), mutta yksityiskohtainen tekniset spesifikaatiot paneleista ja inverttereistä puuttuvat.",
+    "y_tunnus_esilla": "HAVAINTO: Yrityksen Y-tunnusta ei ole mainittu millään sivustolla. Yhteystiedot-sivulla on listattu kontaktit ja osoitteet (Riihimäki, Suolahti), mutta Y-tunnusta ei esitetä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla on vain sisäiset asiakasarvostelut (Matti Markkanen, Pekka Haapanen jne.), jotka eivät ole kolmannen osapuolen arviointeja. Riippumatonta sertifikaattia tai ulkoista arviota ei ole näkyvissä."
+  }
+}

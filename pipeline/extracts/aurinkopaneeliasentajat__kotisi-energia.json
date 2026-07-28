@@ -1,0 +1,47 @@
+{
+ "slug": "kotisi-energia",
+ "fetched_ok": [
+  "https://kotisienergia.fi/",
+  "https://kotisienergia.fi/aurinkopaneelijarjestelmat/",
+  "https://kotisienergia.fi/yrityksesta/",
+  "https://kotisienergia.fi/yhteystiedot/",
+  "https://kotisienergia.fi/rahoitus/",
+  "https://kotisienergia.fi/kokemuksia/"
+ ],
+ "hinta_indikaatio": "osittain",
+ "prosessi_kuvattu": "osittain",
+ "takuut_kerrottu": "kylla",
+ "materiaalit_kuvattu": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "osittain",
+ "ai_arviot": {
+  "selkeys": 75,
+  "sisallon_kattavuus": 70,
+  "hintojen_loydettavyys": 55
+ },
+ "vahvuudet": [
+  "Selkeät rahoituspaketit kWp-kooltaan ja teho-alueet määritellyt",
+  "Pitkät takuut: 25 vuotta tuottotakuu ja 50 vuotta suomalaisten kiinnikkeiden takuu",
+  "Asiakaskokemukset ja referenssit näkyvästi esillä sivustolla"
+ ],
+ "kehityskohteet": [
+  "Ei konkreettisia hintoja euroa per kW - tarjous-pohjainen palvelu vaatii yhteydenoton",
+  "Invertterin ja aurinkopaneelien merkkitiedot puuttuvat - vain tekniset spesifikaatiot",
+  "Usein kysytyt kysymykset -osio puuttuu sivustolta kokonaan"
+ ],
+ "yhteenveto": "Kotisi Energia on Oulussa perustettu aurinkopaneelijärjestelmien asentaja, joka tarjoaa avaimet käteen -palvelua kaikkialla Suomessa. Sivusto esittää hyvin rahoitusvaihtoehdot, pitkät takuut ja asiakaskokemukset, mutta konkreettiset hinnat sekä laitevalintojen merkkitiedot vaativat yhteydenoton. Palvelun läpinäkyvyys on hyvä perustilanteessa, mutta syvällisempää tietoa materiaalivaihtoehdoista ja prosessin yksityiskohdista olisi hyödyllistä.",
+ "evidence": {
+  "hinta_indikaatio": "HAVAINTO: Rahoituspaketeista näkyvät teho-alueet (2.46-12.3 kWp), 'hinta-arvio päivässä' -lupaus sekä rahoitusvaihtoehto 2500-30000 euroa, mutta konkreettisia euroa per kWp -hintoja ei julkisesti näytetä.",
+  "prosessi_kuvattu": "HAVAINTO: Sivulla kuvataan kartoitus-, tarjous- ja asennusvaiheet sekä kotitalousvähennyslomakkeen toimittaminen asennuksen jälkeen, mutta yksityiskohtainen vaiheittainen prosessikuvaus puuttuu.",
+  "takuut_kerrottu": "HAVAINTO: Sivulla mainitaan selvästi 25 vuoden tuottotakuu aurinkopaneeleille ja 50 vuoden takuu suomalaiselle kiinnitysjärjestelmälle.",
+  "materiaalit_kuvattu": "HAVAINTO: Rahoitussivulla listataan 410W aurinkopaneeli Half-cut -tekniikalla, invertterikoot 3-14 kW sekä suomalainen kiinnitysjärjestelmä, mutta paneelin ja inverterin valmistajan nimeä ei kerrota.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2787210-8 näkyy jokaisen sivun alatunnisteessa.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei esiinny riippumattomia ulkopuolisia sertifiointeja tai arviointeja."
+ }
+}

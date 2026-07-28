@@ -1,0 +1,53 @@
+{
+  "slug": "interflora",
+  "fetched_ok": [
+    "https://www.interflora.fi/",
+    "https://shop.interflora.fi/fi/fi/category",
+    "https://shop.interflora.fi/fi/fi/product/1001",
+    "https://shop.interflora.fi/fi/fi/tietoa/tilaus-ja-toimitus",
+    "https://shop.interflora.fi/fi/fi/tietoa/kaupat",
+    "https://shop.interflora.fi/fi/fi/tietoa/tietoa-interflorasta"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Kukat ja hinnat näkyvät selvästi tuoteluettelossa (14-310 euroa), jokaisen tuotteen kohdalla näkyy hinta heti",
+    "Laaja verkko: yli 200 Interflora-kukkakauppaa ympäri Suomea ja toimitus 140 maahan, jäsenkaupat listattu alueittain",
+    "Asiakaspalvelun saatavuus mainittu selvästi (08:30-16:00, chat/sähköposti/puhelin), palvelun yhteystiedot esillä"
+  ],
+  "kehityskohteet": [
+    "Toimituskulut kukkalähetyksille eivät näy etukäteen; vain lahjakortille näkyy 3,80 euroa, tavallisten tilausten hinnoittelu epäselvä",
+    "Palautus- ja takuuehdot viitataan sivulla, mutta yksityiskohtaiset ehdot eivät avaudu käyttäjälle ilman klikkailu; laatutakuu mainittu mutta sisältö suppea",
+    "Myymälöiden aukioloajat puuttuvat kokonaan; sivulla näkyy kaupat kunnittain mutta ei avautuvaksi tietoa niiden aukioloajoista"
+  ],
+  "yhteenveto": "Interflora on kotimainen kukkien välityspalvelu, jolla on valtava jäsenverkko yli 200 kaupalla ympäri Suomea ja toimitus 140 maahan. Sivusto esittelee tuotteet hinnoitteineen selvästi, ja asiakaspalvelu on hyvin saatavilla. Kuitenkin toimituskulut kukkalähetyksille ja myymälöiden aukioloajat puuttuvat julkisesti näkyvistä tiedoista, mikä vaikeuttaa ostopäätöstä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuoteluettelossa näkyvät hinnat 14 eurosta 310 euroon, kaikilla tuotteilla hinta näkyy välittömästi (esim. lahjakortti 50 euroa, kauneimmat kukkakimput 30-109 euroa).",
+    "toimitus_kerrottu": "HAVAINTO: Etusivulla ilmoitus 'Kukat kulkevat taas seuraavana arkipäivänä tai lauantaina' ja 'Joilleille paikkakunnille on mahdollista tilaa arkisin 15.45 asti'. Lahjakortin kohdalla näkyy toimitusmaksu 3,80 euroa, mutta tavallisten kukkatilauksien toimituskulut eivät näy ennen kassaa.",
+    "palautusehdot_saatavilla": "HAVAINTO: 'Toimitusehdot' ja 'Laatutakuu' mainitaan sivuston footerissa ja 'Tilaus ja toimitus' -sivulla, mutta sisältönä vain lyhyt maininta 'Interflora takaa, että kukkien laatu on toimitettaessa hyvä'. Yksityiskohtaiset ehdot eivät ole helposti saatavilla.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: 'Kaupat' -sivulla listataan yli 200 jäsenkauppaa alueittain (esim. Miraflora, Väisäsen Kukkakauppa, Tuulensuun Kukka), mutta yksittäisten kauppojen aukioloajat puuttuvat sivustolta.",
+    "y_tunnus_esilla": "HAVAINTO: JSON-LD-strukturoidussa datassa esillä vain yrityksen nimi 'Interflora-Myynti Oy' ja osoite Tinatie 2 D, Helsinki. Y-tunnusta ei mainita missään.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy riippumattomia arviota tai arvioita esim. Trustpilot, Google Reviews tai muusta lähteestä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 010 2176320 näkyy etusivulla, tuoteseivuilla ja footerissa. Lisäksi mainittu '+358-10-217-6230' asiakaspalvelun numerona.",
+    "email_esilla": "HAVAINTO: 'Tilaus ja toimitus' -sivulla mainitaan 'Asiakaspalvelu palvelee 08.30-16.00 chatissa, sähköpostilla ja puhelimitse', mutta konkreettinen sähköpostiosoite ei näy sivustolla.",
+    "chat_mainittu": "HAVAINTO: 'Tilaus ja toimitus' -sivulla mainitaan chat asiakaspalvelun yhteyskanavana (08:30-16:00), mutta varsinaista chat-ikkunaa tai linkkiä ei näy.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat 08:30-16:00 mainitaan 'Tilaus ja toimitus' -sivulla, mutta myymälöiden aukioloajat puuttuvat.",
+    "ukk_osio": "HAVAINTO: 'Usein kysyttyä' -osio mainitaan footerissa ja 'Tilaus ja toimitus' -sivulla tekstissä 'Tältä sivulta löydät vastauksia usein kysyttyihin kysymyksiin', mutta sisältö ei avaudu sivulla.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla ei mainita mobiilisovellusta missään."
+  }
+}

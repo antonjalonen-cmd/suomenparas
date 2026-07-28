@@ -33,6 +33,8 @@ MEASURED = {
     "elektroniikkaketjut": "26.7.2026",
     "urheiluvalineketjut": "27.7.2026",
     "ikkunaremontit": "27.7.2026",
+    "aurinkopaneeliasentajat": "27.7.2026",
+    "kukkakauppojen-verkkokaupat": "28.7.2026",
     "lampopumppuasentajat": "27.7.2026",
     "hautaustoimistot": "23.7.2026",
     "matkatoimistot": "23.7.2026",

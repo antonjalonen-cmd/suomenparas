@@ -527,3 +527,23 @@ TRANSPARENCY["lampopumppuasentajat"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- aurinkopaneeliasentajat (27.7.2026) --------------------------------------
+TRANSPARENCY["aurinkopaneeliasentajat"] = [
+    ("hinta_indikaatio", "Hintatietoa tai hintalaskuri julkisesti esillä", 25),
+    ("prosessi_kuvattu", "Asennuksen eteneminen kuvattu vaiheittain", 20),
+    ("takuut_kerrottu", "Takuut ja niiden ehdot kerrottu", 20),
+    ("materiaalit_kuvattu", "Paneeli- ja invertterivaihtoehdot kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
+
+# --- kukkakauppojen-verkkokaupat (28.7.2026) ----------------------------------
+TRANSPARENCY["kukkakauppojen-verkkokaupat"] = [
+    ("hinnat_esilla", "Kimppujen hinnat ja toimitusmaksu verkossa esillä", 25),
+    ("toimitus_kerrottu", "Toimituspäivät, -alueet ja -kulut kerrottu ennen kassaa", 20),
+    ("palautusehdot_saatavilla", "Korvaus- ja reklamaatiokäytäntö julkisesti saatavilla", 20),
+    ("myymalat_ja_aukioloajat", "Välitysverkosto tai omat myymälät kerrottu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

@@ -1,0 +1,48 @@
+{
+  "slug": "lahetakukkia",
+  "fetched_ok": [
+    "https://www.lahetakukkia.fi/",
+    "https://www.lahetakukkia.fi/toimitusehdot/",
+    "https://www.lahetakukkia.fi/asiakaspalvelu/",
+    "https://www.lahetakukkia.fi/tietoa-palvelusta/",
+    "https://www.lahetakukkia.fi/tuote/punainen-ruusu/",
+    "https://www.lahetakukkia.fi/varssyt/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Tuotteiden hinnat ja toimituskulut näkyvät selvästi etusivulla ja tuotesivuilla sis. ALV",
+    "Sama päivän toimitus mahdollinen ennen klo 15.00 eli nopea kukkien toimitus vastaanottajalle",
+    "Y-tunnus 0815227-9 ja yritystiedot sekä aukioloajat Ma-Pe 10-17, La 9-15, Su 10-14 näkyvissä"
+  ],
+  "kehityskohteet": [
+    "Asiakasarvioita tai riippumattomia arviolähteitä puuttuu kokonaan tuotteille",
+    "Chat-palvelu tai muut välittömät yhteydenottokeinot puuttuvat, vain perinteinen puhelin ja sähköposti",
+    "Tuotetiedottelu puutteellista: kuvaukset lyhyitä, ei yksityiskohtaisia tietoja kukkien lajikkeista tai säilytysohjeista"
+  ],
+  "yhteenveto": "Lähetäkukkia.fi on Vakkurin Kukka Oy:n internetpalvelu kukkien lähettämiseen Suomessa. Palvelun vahvuuksiin kuuluvat selvästi näkyvät hinnat ja toimituskulut (16,00 euroa) sekä nopea sama päivän toimitus. Palvelun kehitystarpeita ovat asiakasarvioiden puuttuminen sekä rajoitetut yhteydenottokeinot chat-palvelun ja muiden digitaalisten kanavien osalta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät selvästi tuotteiden hinnat esim. 80.00 € (sis. ALV 25.5%) 10 punaiselle ruusulle, 10.00 € yksittäiselle ruusulle, 54.00 € Kimppu rakkaalle. Tuotesivulla Punainen ruusu -tuotteella hinta 10.00 € (sis. ALV 25.5%).",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla selkeästi kerrottu toimitusmaksu 16,00 euroa sisältää kotiinkuljetuksen Suomessa. Toimitusaika: tilaus ehtii saman päivän toimitukseen kun tilaus tehdään ennen klo 15.00 (MA-SU).",
+    "palautusehdot_saatavilla": "HAVAINTO: Toimitusehdot-sivulla PERUUTTAMINEN-osio kertoo 'Tilauksen voi peruuttaa veloituksetta jos toimitus ei ole lähtenyt. Tämän jälkeen ei ole kuluttajasuojalain mukaista palautusoikeutta.' TAKUU-osio mainitsee 'Tilauksiin käytetään vain tuoreita kukkia' ja 'reklamaatiot välittömästi toimituksen jälkeen'.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Jokaisella sivulla näkyy footer-tiedot: Kukkakauppa Vakkurin Kukka, Isokatu 14, 67100 Kokkola. Aukioloajat selvästi näkyvissä: Ma-Pe klo 10-17, La 9-15, Su 10-14.",
+    "y_tunnus_esilla": "HAVAINTO: Toimitusehdot-sivulla KAUPAN YLLÄPITÄJÄ-osio: 'Järvelä Invest Oy, Isokatu 14, 67100 Kokkola, puh. 050-313 8128, info@vakkurinkukka.fi. Y-tunnus 0815227-9.' Sama tieto toistetaan Asiakaspalvelu-sivulla.",
+    "riippumaton_arvio": "HAVAINTO: Punainen ruusu -tuotesivulla näkyy Arviot-osio, jossa lukee 'Tuotearvioita ei vielä ole.' Koko sivulla ei näy mitään riippumattomia arviolähteitä kuten kolmannen osapuolen arvioita tai sertifikaatteja.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 050-313 8128 näkyy jokaisella sivulla footer-osiossa ja Asiakaspalvelu-sivulla. Toimitusehdot-sivulla ohjeet peruuttamisesta: 'Peruuttamisesta on ilmoitettava välittömästi puhelinnumeroon 050-313 8128'."
+  }
+}

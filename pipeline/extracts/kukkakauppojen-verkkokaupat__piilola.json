@@ -1,0 +1,51 @@
+{
+  "slug": "piilola",
+  "fetched_ok": [
+    "https://piilola.fi/",
+    "https://piilola.fi/shop",
+    "https://piilola.fi/policies/privacy-policy",
+    "https://piilola.fi/policies/shipping-policy",
+    "https://piilola.fi/policies/refund-policy"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kauniit tuotteet ja ammattitaitoinen floristi-osaaminen (Google-arviot korostavat laadukkaita kimppuja ja kurssipalveluja)",
+    "Selkeät toimitusehdot ja toimituskustannukset etusivulla näkyvissä, nopea toimitus pääkaupunkiseudulle 10€ hintaan ja 4h sisällä",
+    "Monipuoliset maksupalvelut (pankit, kortit, osamaksu) ja saavutettavuus usealla kanavalla (puhelin, sähköposti)"
+  ],
+  "kehityskohteet": [
+    "Myymälöiden aukioloajat puuttuvat verkkosivuilta - asiakkaat joutuvat soittamaan tietääkseen palveluajat",
+    "Yritystiedot (Y-tunnus) eivät näy missään, mikä vähentää läpinäkyvyyttä ja luottamusta",
+    "Usein kysytyt kysymykset -sivu on rikkoutunut (404-virhe), vaikka sitä mainostetaan navigaatiossa"
+  ],
+  "yhteenveto": "Kukkakauppa Piilola on perinteikäs helsinkiläinen kukkaliike, joka toimii Shopify-verkkokaupassa ja tarjoaa selkeät hinnat sekä nopeat toimitukset pääkaupunkiseudulle. Palvelussa on vahvuutensa: läpinäkyvät toimituskustannukset, useita maksutapoja ja positiiviset Google-asiakasarviot kukaroiden laadusta. Läpinäkyvyyteen heikentävästi vaikuttavat puuttuvat myymälöiden aukioloajat, Y-tunnuksen näkyvyys ja rikkoutuneet FAQ-sivut.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotteet hintojen kera, esim. Floristin valinta alkaen 50€, Ruusukimppu 80€, Pastellin keveys alkaen 48€.",
+    "toimitus_kerrottu": "HAVAINTO: Etusivulla näkyy 'Kukkalähetys pääkaupunkiseudulle - toimitus vain 10€'. Toimitusehdot-sivulla kuvataan Bring Express kuriiripalvelu, kolme päivittäistä lähtöä (klo 8, 12, 16), 4h toimitus pääkaupunkiseudulle ja 20€ hinnoittelu muulle Suomelle Interflora-verkon kautta.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautuskäytäntö-sivu saatavilla. Tuoreiden kukkien osalta ei 14 päivän kuluttajasuojan palautusoikeutta helposti pilaantuvien tuotteiden vuoksi. Vaurioituneet tuotteet tulee ilmoittaa viipymättä.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Kolme myymälää mainittu: Etelä-Haaga, Citycenter, Lauttasaari. Aukioloajat puuttuvat verkkosivuilta kokonaan, asiakkaiden on soitettava numeroon 045-8746 500 tai (09) 588 2200.",
+    "y_tunnus_esilla": "HAVAINTO: Yrityksen nimi Kukkamyynti Piilola Oy näkyy tietosuojakäytäntöjen sivulla, mutta Y-tunnusta ei ole julkaistu missään. Rekisteröity osoite: Vihdintie 3-5, 00320 Helsinki.",
+    "riippumaton_arvio": "HAVAINTO: Google-arvostelut näkyvät etusivulla, 4,5/5 tähteä 172 arvostelussa. Kommentit kiittelevät kukkien laadusta, palvelun nopeudesta ja kurssien ammattitaitoisesta ohjauksesta.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero 045-8746 500 näkyy etusivulla ja kaikilla politiikka-sivuilla. Myös vaihde (09) 588 2200 mainitaan.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@piilola.fi näkyy etusivulla ja kaikilla politiikka-sivuilla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainita missään. Asiakaspalvelu toimii vain puhelimen ja sähköpostin kautta.",
+    "aukioloajat_esilla": "HAVAINTO: Myymälöiden aukioloajat puuttuvat verkkosivuilta kokonaan. Etusivulla on linkki 'Myymälöiden yhteystiedot - Lue lisää', mutta vastaava sivu on rikkoutunut.",
+    "ukk_osio": "HAVAINTO: Navigaatiossa ja footerissa mainitaan 'Usein kysytyt kysymykset (FAQ)', mutta linkki johtaa 404-virheeseen. Etusivulla mainitaan 'Lue lisää myös usein kysytyistä kysymyksistämme' mutta kyseinen sivu ei ole käytettävissä."
+  }
+}

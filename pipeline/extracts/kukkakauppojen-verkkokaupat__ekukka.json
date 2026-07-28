@@ -1,0 +1,47 @@
+{
+  "slug": "ekukka",
+  "fetched_ok": [
+    "https://ekukka.fi/",
+    "https://ekukka.fi/yleiset_toimitusehdot.php",
+    "https://ekukka.fi/wp2/usein-kysytyt-kysymykset/",
+    "https://ekukka.fi/me/",
+    "https://ekukka.fi/wp2/tilausohjeet/",
+    "https://ekukka.fi/cookies_setting.php"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 78
+  },
+  "vahvuudet": [
+    "Laajat ja selkeät toimitusehdot sekä reklamaatioprosessi dokumentoitu yksityiskohtaisesti",
+    "Kattava usein kysyttyjä kysymyksia -osio käsittelee tilaamisen, toimituksen ja maksamisen eri vaiheet",
+    "Kukkakaupoissa käytetään luotettavaa Paytrail-maksujärjestelmää ja Avainlippu-merkki takaa kotimaisen palvelun"
+  ],
+  "kehityskohteet": [
+    "Yksittäisten kukkakauppojen aukioloajat ja myymälä-osoitteet eivät ole keskitetysti saatavilla pääsivulla, vaan vaativat hakua",
+    "Tuotehinnat näkyvät vain kun asiakas valitsee tietyn kukkakaupan, ei koottua vertailua pääsivulla",
+    "Puhelinyhteyden otto ei ole helposti mahdollista; asiakastuki on email-pohjainen (tuki@ekukka.fi)"
+  ],
+  "yhteenveto": "eKukka.fi on Floweb Oy:n hallinnoimaa kukkien verkkomyyntipalvelua, joka yhdistää noin 500 suomalaista kukkakauppaa yhteen alustaan. Palvelu on hyvin dokumentoitu toimitusehdoista ja palautuspolitiikasta, mutta kukkien yksittäiset hinnat ja kauppojen aukioloajat löytyvät vain jälkeen kun asiakas hakee lähimmän kaupan osoitteellaan.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: eKukka.fi on markkinapaikka-alusta, jossa hinnat näkyvät vain yksittäisten kukkakauppojen valikoimissa. Pääsivulla ei ole kooteltua tuotehintoja, vaan asiakkaiden tulee ensin valita kukkakauppa hakemalla osoitteella.",
+    "toimitus_kerrottu": "HAVAINTO: Yleiset toimitusehdot -sivulla selitetään selkeästi kaksi toimitustapaa: nouto liikkeestä (ilmainen) ja toimitus perille asti (kauppias määrittelee hinnan). Toimitusehdot neuvovat, että toimitushinnat selviävät haulla täydellä osoitteella ja ovat näkyvissä ennen kassaa.",
+    "palautusehdot_saatavilla": "HAVAINTO: Yleiset toimitusehdot -sivulla olevan kohdan 10 ja 11 mukaan tuoretuotteilla ei ole kuluttajansuojalain mukaista palautusturvaa, ellei tuotteessa ole todellista vikaa. Reklamaatiot on tehtävä 3 vuorokauden kuluessa toimituksesta ja ne tulee toimittaa kuvilla dokumentoituina.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Sivusto opastaa asiakkaita hakemaan kukkakauppoja osoitteella ja osoittaa että jokainen kauppa näyttää hakutuloksissa seuraavan toimitus- tai noutoajan. Yksittäisten kauppojen aukioloajat ja osoitteet eivät kuitenkaan ole keskitetysti listattu pääsivulla, vaan nämä tiedot löytyvät kunkin kaupan omalta sivulta.",
+    "y_tunnus_esilla": "HAVAINTO: Evästekäytännöt-sivulla Tietosuojaselosteessa ilmoitetaan: Floweb Oy (Y-tunnus 2485800-1). Maksupalveluntarjoajia koskevia tietoja sivulla 14 toimitusehdoissa: Paytrail Oyj, y-tunnus 2122839-7.",
+    "riippumaton_arvio": "HAVAINTO: Meistä-sivulla lukee: asiakkaiden antamat yli 20 000 arvostelua ja 4.9/5 tähtien arvosana."
+  }
+}

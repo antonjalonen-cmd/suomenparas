@@ -1,0 +1,113 @@
+import json
+
+# Read Finnish source
+with open("batch_001.json", encoding="utf-8-sig") as f:
+    finnish = json.load(f)
+
+# Swedish translations
+swedish = [
+    "OBSERVATION: Kontaktuppgifterna-sidan berättar",
+    "OBSERVATION: Kontaktuppgifterna-sidan berättar: Kundsupport vardagar kl 8-16. Serviceberedskap vid andra tider 0300 300 550.",
+    "OBSERVATION: Kontaktuppgifterna-sidan beskriver processen genom sex steg: Indikativ offert, Platsbesök, Preciserad offert, Finansieringssökning, Genomförande, Njutande av resultaten.",
+    "OBSERVATION: Kontaktuppgifterna-sidan nämner info@lampopartio.fi (kundsupport), huolto@lampopartio.fi (service) och laskutus@lampopartio.fi.",
+    "OBSERVATION: Kontaktuppgifterna-sidan nämner servicestöds öppettider: mån-fre kl 12-15. Övriga öppettider är inte tillgängliga (t.ex. för kontoret).",
+    "OBSERVATION: Kontaktuppgifterna-sidan telefonnumret 044 237 7447 syns som avsnittsrubrik",
+    "OBSERVATION: Kontaktuppgifterna-sidan klart skrivet:",
+    "OBSERVATION: Ingen oberoende värdering eller länk från extern part till recensionssida hittades på sex hämtade sidor. Kundbedömningar saknas från produktsidorna.",
+    "OBSERVATION: Allmänna butikens öppettider är inte synliga på webbutikens huvudsida. Endast i kundsupport anges chattservicens tider (vardagar 9-12 och 14-17) och telefonsupports tider (mån-fre 14-17).",
+    "OBSERVATION: Företagets FO-nummer är inte omnämnt på någon webbplats. Kontaktuppgifterna-sidan listar kontakter och adresser (Riihimäki, Suolahti), men FO-numret presenteras inte.",
+    "OBSERVATION: Företagsnamn",
+    "OBSERVATION: Företagskoden kan inte hittas från webbplatsernas huvudinnehål, från vilka man kan se historiken",
+    "OBSERVATION: asiakaspalvelu@pihla.fi och pihla.pientarvike@pihla.fi syns i kontaktsektioner.",
+    "OBSERVATION: info@varuste.net nämns både på hemsidan och på /info-sidan.",
+    "OBSERVATION: renoa.fi berättar om ISO 9001-kvalitetscertifiering.",
+    "OBSERVATION: tiivi.fi berättar om ISO 9001-2015-certifierad verksamhet i samband med garantier.",
+    "HR-Fönster",
+    "HR-Fönster Oy (f.d. HR-Fönster Ruhkala Oy, Kalajoki Tynkä) är ett familjejämt företagsföretag från tredje generationen av Ruhkala-familjen, ägare är kusiner Kari och Ari Ruhkala.",
+    "HR-Fönster Ruhkala Oy",
+    "HR-Fönster är en finländsk snickeri som tillverkar trä- och trä-aluminiumfönster för nybyggnation och renovering. Webbplatsen erbjuder omfattande information om renoveringsprocessen, produkter, garantier och skötselinstruktioner, men prissättning och oberoende recensioner saknas.",
+    "HR-Fönster, Suomen Paras poäng 66,3/100 | Fönsterrenovering",
+    "HR-Fönster: poäng, styrkor och utvecklingsområden. Se varifrån varje poäng kommer, mätare för mätare.",
+    "Sök någon kategori eller företag, eller bläddra bland sex mest eftersökta nedan. Övriga 54 kategorier hittar du",
+    "Administration och uppföljning bekvämt från ett ställe",
+    "Helen är inte listad separat",
+    "Helsinki Forum... Öppen idag 10.00-20.00",
+    "Priserna och finansieringsalternativ syns klart på hemsidan (6500–8463 € installerat, 120 €/månad finansiering), vilket underlättar kundens beslutfattande.",
+    "Priserna syns klart på hemsidan: paket 4508-5940 euro",
+    "Prissättning dold: endast ett exempel på pris (7500€ för 8 fönster) på finansieringssidan, ingen prislista eller räknare offentlig",
+    "Prissättning tydlig och alltid installation inräknad, fyra värmepumpptyper jämförda med priser",
+    "Pris-kalkylator är inte tillgänglig på hemsidan, offert krävs för detaljerade priser",
+    "Pris-räknare samt tydlig prisuppdelning (fönster ~50%, installation ~25%, dörrar och övriga)",
+    "Prisexempel eller grov prisurval publicerades inte - kunder kan inte göra jämförelser utan kostnadsfri kartläggningsundersökning",
+    "Prisräknare finns inte - kunder måste begära offert",
+    "Prisgaranti och prisjämföring är vanlig marknadsföring i branschen, men villkoren (samma produkt, samma storlek och färg, finskt webbutik) begränsar löftet betydligt.",
+    "Pristransparens varierar drastiskt: vissa publicerar exempelpriser eller räknare, andra berättar priset först efter kostnadsfri kartläggningsbesök.",
+    "Pristiedot publicerade: 5000-11000 euro nyckelklar-paket, 6000 euro för 5kW-system",
+    "Prisuppgifter saknas helt: alla prisförfrågningar endast genom offertförfrågan, ingen räknare eller pristyper synliga",
+    "Prisuppgifter är inte synliga offentligt utan formulärfyllning eller kontakt - endast omnämnande av 100 % fast pris.",
+    "Prisuppgifter är inte offentligt tillgängliga, kunden måste begära offert för varje projekt",
+    "Prisuppgifter eller priskalkylator offentlig (25), installationsförlopp beskrivet i etapper (20), garantier och villkorden (20), utrustningsalternativ och märken beskrivna (15), FO-nummer synligt (10), oberoende bedömningskälla synlig (10)",
+    "Prisuppgifter eller priskalkylator offentlig (25), installationsförlopp beskrivet i etapper (20), garantier och villkorden (20), panel- och invertalternativ beskrivna (15), FO-nummer synligt (10), oberoende bedömningskälla synlig (10)",
+    "Prisuppgifter eller priskalkylator offentlig (25), renoveringsförlopp beskrivet i etapper (20), garantier och villkorden (20), fönsteralternativ och energieffektivitet beskrivna (15), FO-nummer synligt (10), oberoende bedömningskälla synlig (10)",
+    "Prisuppgifter eller räknare är inte offentligt tillgängliga, kunderna måste begära offert",
+    "Pristransparens: detaljerade prisuppgifter och exempel offentligt synliga, ingen obligatorisk kontakt för pris",
+    "Prisöppenhet: konkreta exempelpriser synliga (10 fönster renovation 8720 euro installerat, 5621 euro utan installation)",
+    "Dra nytta av långa returperioder för provning, men behåll förpackningen och kvitton: det returnerade produktvärdet kan sjunka.",
+    "ILP Urakointi",
+    "ILP Urakointi Oy (hjälpnamn ILP Elektricitet) är ett privatägt turkulaiskt luftvärmepumpsinstallationsföretag som verkar i Egentliga Finland och Nyland.",
+    "ILP Urakointi Oy är en leverantör av värmepumpinstallation och försäljningstjänster i Egentliga Finland och Nyland. Webbplatsen presenterar konkreta prisvärden och tekniska specifikationer för välkända utrustningsproducenter, vilket underlättar prisjämförelser och val av enhet. Kundfeedback på Google-recensioner är mycket positiv (4,8/5,0), men webbplatsen utelämnar garanti- och leveransvillkor och processens steg förblir på allmän nivå utan detaljerade beskrivningar.",
+    "ILP Urakointi, Suomen Paras poäng 75,6/100 | Värmepumpinstallatörer",
+    "ILP Urakointi: poäng, styrkor och utvecklingsområden. Se varifrån varje poäng kommer, mätare för mätare.",
+    "ISO 9001-2015-certifiering, som anges vara uppnådd endast i Finland.",
+    "Till mänskliga rättigheter",
+    "Fönsterrenoveringsprocessen beskrevs inte i etapper, endast allmän omnämnande av problemfri renovation",
+    "Från fönsterrenovering kan arbetsdelen få skatteavdrag, och bra aktörer bryter ner arbets- och materialandelen i offerten.",
+    "Fönsterrenovering och ofta ställda frågor från renovatörer",
+    "Fönsterrenovering är en av en egnahemsägarens största enskilda renoveringar, och branschen har både internationella konzernmärken (Pihla och Tiivi tillhör svenska Inwido, Skaala österrikisk IFN) och inhemska familjeföretag. Branschen har genomgått en konkursåtgärd: Fenestra kollapsade 2016 och Domus 2019. Jämförelsen mäter öppenheten i prisuppgifter, procesbeskrivning, garantier och fönsteralternativ.",
+    "Fönsteralternativ och energieffektivitet beskrivna",
+    "Fri frakt - Till alla beställningar över 149 euro",
+    "Fri frakt för beställningar över 149 euro och 100-dagars returrätt framträda på hemsidan",
+    "Gratis räknare (dimensionering, sparestimat) underlättar investeringsbeslut utan registrering, även finansieringsalternativ tillgängliga",
+    "Luftvärmepump passar som ytterligare värme och kylning till nästan alla hem. Luft-vatten värmepump ersätter olje- eller elvärmepanna i värmesystem. Markvärme är dyrast att installera men billigast att använda, och kräver brunnar eller värmekällor på tomten. En bra installatör dimensionerar lösningen enligt din förbrukning.",
+    "Luftvärmepump kostar hundratals eller tusentals, luft-vatten värmepump och markvärme tiotusentals euro. Inte alla företag på listan installerar alla typer, till exempel Renoa fokuserar på luft-vatten värmepumpar.",
+    "Luftvärmepumpen kostar i genomsnitt 1200–3500 euro installerad efter skatteavdrag",
+    "Intersport",
+    "Intersport Finland Oy (Kesko Oyj), samma företag driver även Budget Sport",
+    "Intersport Finland Oy (Kesko Oyj), samma företag driver även Intersport",
+    "Intersport Finland Oy / Budget Sport, Arbetshallsgatan 12, 00580 Helsingfors. FO-nummer: 1648871-7. Företaget är registrerat i momsskattskatten.",
+    "Intersport och Budget Sport är båda Kesko Intersport Finland Oy:s koncept: samma ägare, olika prisposition.",
+    "Intersport och Budget Sport är samma företag.",
+    "Intersport är en stor idrottsvarukedja som erbjuder ett brett urval av produkter från toppvarumärken med goda leveransvillkor och returmöjligheter. Webbplatsen är tydligt organiserad, prisinformation är lätt att hitta, och kundsupport är tillgänglig via chatt och telefon. Ur tillförlitlighetssynpunkt saknas FO-numrets offentliga synlighet och e-postadress, och webbplatsen har ingen oberoende produktrecensioner.",
+    "Intersport, Suomen Paras poäng 74,4/100 | Idrottsvarukedjor",
+    "Intersport: poäng, styrkor och utvecklingsområden. Se varifrån varje poäng kommer, mätare för mätare.",
+    "Inverter är en enhet som ska skaffas tillsammans med solpaneler",
+    "Inverteren är systemets dyraste del: dess märke, garanti och utbyteskostnad lönar sig att klara upp separat.",
+    "Inverter- och solpanelsmärkesuppgifter saknas - endast tekniska specifikationer",
+    "För några prisestimat krävs att man anger kontaktinformation för att begära fjärranalys (inte helt offentlig pris för alla fönstertyper)",
+    "Varje rad mättes 27.7.2026 från offentliga källor. Samma formel för alla,",
+    "Baserat på offentliga exempelpriser kostar en typisk egnahemsfönsterrenovering med installation cirka 8 000-20 000 euro beroende på husets storlek, antal fönster och produktnivå. Exakt pris klargörs vid kartläggningsbesök, men exempelpriser och räknare hjälper till med uppskattning.",
+    "Baserat på offentliga priser kostar ett litet 4-5 kWp-paket cirka 4 500-6 500 euro och ett större 8-10 kWp-system cirka 8 000-11 000 euro installerat. Batteri ökar priset med tusentals. Från installationsarbetet kan man få skatteavdrag.",
+    "Chatta med oss",
+    "Alla 122 kategorier →",
+    "Lönar det sig med solpaneler i Finland?",
+    "Lönar det sig för mig att köpa en- eller flerkristallina paneler?",
+    "Lönar det sig att köpa från utländskt idrottswebbutik?",
+    "Omfattande FAQ-avsnitt (17 frågor) svarar på de vanligaste kundfrågor om systemens funktion",
+    "Omfattande servicenätverk på 10 platser och service till alla Finlands kommuner",
+    "Omfattande procesbeskrivning med tredelt förklaring och tillgänglighet av lokala experter på tre verkstäder",
+    "Omfattande garantiinformation: 2-års teknisk garanti, 5-års glastätningsgaranti, 10-års förruttnelsesäkerhet för ytbehandlade fönster",
+    "Omfattande produkturval (A-modell, B-modell, D-modell, E-modell, T-modell, brandskyddsfönster) med energiklassificering och anpassningsbara",
+    "Omfattande garantivillkor och långa garantitider (2-10 år för material och arbete)",
+    "Hur lång tid tar en fönsterrenovering?"
+]
+
+# Need to continue with remaining items...just verify counts
+assert len(finnish) == 278, f"Finnish has {len(finnish)} items"
+print(f"Source: {len(finnish)} items")
+print("Translation array incomplete in script - continuing with Python direct write")
+
+# Write just first items to test
+with open("batch_001.sv.json", "w", encoding="utf-8") as f:
+    json.dump(swedish, f, ensure_ascii=False)
+
+print(f"Wrote {len(swedish)} items")
