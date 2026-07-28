@@ -1,0 +1,1432 @@
+{
+ "slug": "huonekaluketjut",
+ "nimi": "Huonekaluketjut",
+ "nav": "Huonekaluketjut",
+ "h1": "Suomen paras huonekaluketju 2026",
+ "yksikko": "Suomessa toimivaa huonekaluketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa huonekaluketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö hinnat, toimituskulut ja palautusehdot ennen kuin annat tietosi?",
+ "meta_title": "Suomen paras huonekaluketju 2026 | huonekaluketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 huonekaluketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Miksi Asko ja Sotka eivät ole listalla?</b> Niiden omistaja Indoor Group Oy meni konkurssiin helmikuussa 2026 ja myymälät suljettiin. Maskun omistaja osti konkurssipesältä pelkät brändit keväällä 2026, ja sotka.fi ohjaa nykyään Maskun verkkokauppaan. Emme pisteytä ketjua, jota ei enää ole.",
+  "<b>Huonekaluissa toimitus ratkaisee.</b> Ison tavaran rahti, kantopalvelu ja vanhan kalusteen poisvienti voivat maksaa kymmeniä euroja, ja niiden hintojen avoimuus ennen kassaa on tässä kategoriassa painava kriteeri.",
+  "<b>IKEA mitataan ikea.com/fi-sivustolta.</b> IKEAlla ei ole erillistä .fi-domainia, vaan suomenkielinen kauppa toimii globaalin sivuston alla."
+ ],
+ "yritykset": [
+  {
+   "slug": "masku",
+   "nimi": "Masku",
+   "domain": "masku.com",
+   "omistaja": "Maskun Kalustetalo Oy (Toivo Sukari) — osti Asko- ja Sotka-brändit Indoor Groupin konkurssipesältä keväällä 2026",
+   "y_tunnus": "0583816-0",
+   "rekisteroity": 1985,
+   "score": 81.5,
+   "pillars": {
+    "digitaalinen": 67.9,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 85.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat ovat näkyvillä tuoteluettelossa /tuotteet-sivulla esimerkiksi 199 eurosta 599 euroon, hintatakuu 30-100 pv mainittu"
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /kuljetuspalvelut-sivulla eritellään kuljetus kotiinkuljetuksena alkaen 39 eurosta huonekaluille, 9 eurosta pienille tuotteille, noutoa myymälästä ilmaiseksi, Matkahuolto-vaihtoehdot, Posti Kotipaketti, kasauspalvelu ja vanhojen poisvienti saatavilla"
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /vaihdot-ja-palautukset-sivulla 14 vuorokauden palautusoikeus, tuotteen tulee olla käyttämätön ja alkuperäispakkauksessa, yksityiskohtaiset poikkeukset ja arvonalennuksista mainitaan"
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla Valitse myymälä -painike, /asiakaspalvelu-sivulla mainittu 43 myymälän kattava verkosto, aukioloajat MA-PE 9-18 asiakaspalvelulle ja MA-PE 10-20 LA 10-18 SU 11-18 myynnille"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0583816-0 mainittu /yleiset-ehdot-sivulla tekstissä Maskun Kalustetalo Oy:n perustiedoissa"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomista arviolähteistä (kuten Trustpilot, Google-arviot, lehtien arviot) ei ole mainintaa verkkosivuilla, koska sivustolla ei ole erityistä arvosteluosaa tai viittauksia kolmannen osapuolen arviointiin"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 22382.857750000003,
+    "cls": 0.0003669467708017645,
+    "tbt_ms": 28205.000000000007
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat ja toimituskulut ovat selkeasti esillä jo tuoteluettelossa ja ostoskorissa ennen maksamista",
+    "Kattavat toimitusvaihtoehdot ja -hinnat eriteltyina (kotiinkuljetus 39€ alkaen, nouto ilmaista, monipuoliset lisapalvelut kuten kasaus ja vanhojen poisvienti)",
+    "Laaja asiakaspalvelun saatavuus puhelimitse arkipäivät 9-18 ja usein kysytyt kysymykset sekä chat/WhatsApp-palvelu mainittu"
+   ],
+   "kehityskohteet": [
+    "Sähköpostiosoite ei ole suoraan näkyvillä, vaan asiakkaan pitaa käyttää yhteydenottolomaketta asiakaspalveluun",
+    "Myymälöiden tiedot ja aukioloajat eivät ole yhdessä listassa vaan niiden löytäminen vaatii klikkausta Valitse myymälä -painikkeelta",
+    "Riippumattomista arvioista tai asiakaskokemuksista ei ole mainintaa verkkosivuilla"
+   ],
+   "yhteenveto": "Maskun verkkosivuilla tuotteiden hinnat, toimitustiedot ja palautusehdot ovat helposti löydettävät ja hyvin eriteltyinä. Asiakaspalvelu on tavoitettavissa puhelimitse ja chat-palvelun kautta, ja sivustolla on kattava FAQ-osio. Toimitusvaihtoehdot ovat monipuoliset alkaen edullisista noutovaihtoehdoista kotiinkuljetukseen aina kasaus- ja poisvientipalveluihin asti.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: /vaihdot-ja-palautukset-sivulla 14 vuorokauden palautusoikeus, tuotteen tulee olla käyttämätön ja alkuperäispakkauksessa, yksityiskohtaiset poikkeukset ja arvonalennuksista mainitaan"
+    }
+   ]
+  },
+  {
+   "slug": "vepsalainen",
+   "nimi": "Vepsäläinen",
+   "domain": "vepsalainen.com",
+   "omistaja": "Vepsäläinen Oy — suomalainen design-huonekalujen ketju (per. 1926)",
+   "y_tunnus": "2111755-8",
+   "rekisteroity": 2007,
+   "score": 79.6,
+   "pillars": {
+    "digitaalinen": 68.6,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 82.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivuilla hinnat näkyvät selkeästi (esim. BoConcept hoitoaine 67,00 €, Kave Home sohva 1139,00 € / 1340,00 €). Tuoteluettelossa kaikilla tuotteilla on hinta näkyvissä."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitukset-sivulla kerrotaan yksityiskohtaisesti kaikki kuljetusvaihtoehdot ja niiden kulut: ilmainen toimitus yli 100 € tilauksissa, muussa tapauksessa 6,90 €. Lisäksi tarjolla nouto Postin, Postnordin, Matkahuollon pisteistä ja Vepsäläisen myymälöistä."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautus-sivulla selkeästi mainittu 30 päivän ilmainen palautus. Sivulla kuvataan palautusperusteet (käyttämätön tuote, alkuperäinen pakkaus), palautustapa (myymälään tai postitse) ja maksujen palautus (60 päivässä palautusilmoituksesta)."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälät-sivulla listataan 13+ paikkakuntaa (Espoo, Helsinki, Jyväskylä, Kuopio, Lahti, Lappeenranta, Oulu, Raisio, Rovaniemi, Tampere, Vaasa, Vantaa, Tallinna). Jokaiselle myymälälle näkyvät täydelliset aukioloajat (ma-su) ja puhelinnumerot."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2111755-8 näkyy tietosuojaselosteessa rekisterinpitäjä-osassa: 'Vepsäläinen Oy, Y-tunnus: 2111755-8, Juvankartanontie 11, 02920 ESPOO'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä tai viittauksia riippumattomiin arviointipalveluihin (Trustpilot, Google Reviews, tms.). Asiakkaiden arviot eivät ole saatavilla keskitetystä lähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät jokaisen myymälän tiedoissa myymälät-sivulla (esim. +358 20 7801 470 Espoo Kehä III) ja Tietosuojaselosteessa asiakaspalvelun puhelinnumero 020 7801 471."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet näkyvät myymälöiden yhteystiedoissa (esim. [email protected]) ja Tietosuojaselosteessa asiakasrekisteri-asioiden sähköposti."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa mainitaan tilaamisesta puhelimitse tai sähköpostilla, mutta live-chat-tukea ei ole saatavilla. Sivustolla ei ole chat-ikkunaa tai viittausta chat-tukeen."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näkyvät myymälät-sivulla jokaisen liikkeen kohdalla ma-su aikatauluja. Esim. Espoo Kehä III: ma-pe 11:00-19:00, la 10:00-17:00, su 12:00-17:00."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysytyt kysymykset' -sivu on olemassa osoitteessa /fi/fi/info/usein-kysytyt-kysymykset/. Sivulla on 20+ kysymystä ja vastaussetta, kuten noutamisesta, hinnoista, rahoituksesta, toimituksesta ja tuotteiden ominaisuuksista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita mobiilisovellusta. FAQ:ssa ei ole viitettä sovellukseen, eikä sovelluskauppojen linkkejä näy missään."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "87/100",
+       "paino": 33,
+       "pisteet": 87,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "79/100",
+       "paino": 33,
+       "pisteet": 79,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 82,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 7835.721300000001,
+    "cls": 0.07833492092160918,
+    "tbt_ms": 684
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat näkyvät selkeasti kaikilla tuotesivuilla ja tuoteluetteloissa ennen ostoprosessin alkamista.",
+    "Laaja myymäläverkko (13+ paikkakuntaa) jokaisen liikkeen täydellisillä aukioloajoilla ja yhteystiedoilla esillä.",
+    "Toimitusehdot ja -kulut kerrotaan yksityiskohtaisesti etukäteen: ilmainen toimitus yli 100 eurosta, 6,90 euroa pienemmille tilauksille, sekä useat noutovaihtoehdot (myymälä, Posti, Postnord, Matkahuolto)."
+   ],
+   "kehityskohteet": [
+    "Sivustolla ei ole linkkejä riippumattomiin arviointipalveluihin (kuten Trustpilot tai Google Reviews), joten asiakkaiden kokemuksista ei ole keskitettyä lähdettä.",
+    "Live-chat-tukea ei tarjota, vaikka sähköpostin ja puhelimen kautta voi ottaa yhteyttä.",
+    "Mobiilisovellusta ei ole saatavilla verkkokaupan selaamiselle ja ostamiselle."
+   ],
+   "yhteenveto": "Vepsäläinen on suuri suomalainen huonekaluketju, joka tarjoaa hyvää läpinäkyvyyttä hintoihin, toimitukseen ja palautusehdoista. Hinnat näkyvät selkeästi kaikilla tuotesivuilla, toimitusvaihtoehdot ja niiden kustannukset ilmoitetaan ennen kassaa, ja 30 päivän palautusoikeus on selkeästi esillä. Laaja myymäläverkko ja kattava FAQ-osio tukevat asiakkaiden itsepalvelua.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Palautus-sivulla selkeästi mainittu 30 päivän ilmainen palautus. Sivulla kuvataan palautusperusteet (käyttämätön tuote, alkuperäinen pakkaus), palautustapa (myymälään tai postitse) ja maksujen palautus (60 päivässä palautusilmoituksesta)."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Vepsäläinen (huonekaluliike)",
+    "paivakatselut_ka": 5,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Vepsäläinen (huonekaluliike)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "stemma",
+   "nimi": "Stemma",
+   "domain": "stemma.fi",
+   "omistaja": "Stemma Oy — itsenäisten kauppiaiden suomalainen ketju",
+   "y_tunnus": "0250671-8",
+   "rekisteroity": 1979,
+   "score": 79.5,
+   "pillars": {
+    "digitaalinen": 61.2,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat näkyvät etusivulla ja tuotesivuilla. Esimerkiksi sänkyjen hinnat 699-2080 euroa, sohvien 899-1096 euroa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitustavat ja -kulut on selkeästi kuvattu sivulla /pages/verkkokaupan-toimitustavat-ja-palvelukuvaukset. Kotiinkuljetus ulko-ovelle 69 euroa, sisälle 89 euroa, myymälöiden nouto 0 euroa, pientoimitus 20 euroa."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautuskäytäntö löytyy asiakaspalvelun sivulta ja FAQ:sta. Teksti: 'Sinulla on oikeus palauttaa käyttämätön tuote 14 päivän kuluessa tilauksen toimituksesta, vastaanottamispäivä pois lukien.'"
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälät on lueteltu navigaatiossa alueittain (Etelä-Suomi, Lounais-Suomi, jne.), ja sivulla mainita 'Myymälät-sivulta löydät listan kaikista Stemma-myymälöistä'. Myymälöiden yksittäisiä aukioloaikoja ei ole näkyvissä verkkosivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Stemman omaa Y-tunnusta ei löydy julkisella verkkosivulta. Sivuilla esiintyy vain maksupalveluntarjoaja Svean Y-tunnus (2121703-0)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan Avainlippu-tunnus: 'Tästä osoituksena Stemmalle on myönnetty Avainlippu-tunnus.' Avainlippu on suomalaisen kaupan sertifiointiohjelma."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 040 864 4507 näkyy asiakaspalvelusivulla ja jokaisen sivun alaosassa. Palvelut Ma-pe 8:30-16:00."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite verkkokauppa@stemma.fi on näkyvissä asiakaspalvelusivulla ja sivun alaosassa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-sivulla mainitaan chat-palvelu: 'Stemman verkkosivuilla sinua auttaa reaaliaikainen chat-asiakaspalvelu, joka palvelee arkisin klo 8-22 ja viikonloppuisin klo 10-81.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkokaupan palveluajat näkyvät selvästi: Ma-pe 8:30-16:00. Myymälöiden kohtaiset aukioloajat puuttuvat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /pages/usein-kysytyt-kysymykset on kattava FAQ-osio, joka käsittelee verkkokauppaa, maksutapoja, toimittusta ja palautuksia."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 7292.665499999999,
+    "cls": 8.421186506042788e-05,
+    "tbt_ms": 5786.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavat toimitusvaihtoehdot selvillä hinnoilla: kotiinkuljetus 69-89 euroa, myymälöiden nouto maksutonta",
+    "Asiakaspalvelu helppokäyttöinen: puhelin, sähköposti, verkkokaavake, chat-palvelu ja laaja FAQ-osio",
+    "Palautuskäytäntö selkeä ja kuluttajaystävällinen: 14 päivän paluuoikeus käyttämättömille tuotteille, prosessi dokumentoitu"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus puuttuu julkiselta verkkosivulta, mikä vaikeuttaa yritystietojen tarkistamista",
+    "Myymälöiden aukioloajat eivät ole verkkokaupan palvelutietojen yhteydessä näkyvissä, vain pääpalvelujen tunnit (Ma-pe 8:30-16:00)",
+    "Mobiilisovellusta ei ole tarjolla, vaikka se parantaisi asiakastiedon saatavuutta"
+   ],
+   "yhteenveto": "Stemma on paikallisten yrittäjien omistama suomalainen huonekaluketju, jolla on verkkokauppa ja myymälöitä ympäri maata. Sivusto tarjoaa selkeästi hinnat, toimitusvaihtoehdot kustannuksineen ja palautuskäytännöt. Yritys on sertifioitu Avainlipulla, joka osoittaa sitoutumisen kotimaiseen kauppaan. Puutteita ovat omien yritystietojen (Y-tunnus) väheneminen ja myymälöiden kohtaisisten aukioloaikojen puuttuminen.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Palautuskäytäntö löytyy asiakaspalvelun sivulta ja FAQ:sta. Teksti: 'Sinulla on oikeus palauttaa käyttämätön tuote 14 päivän kuluessa tilauksen toimituksesta, vastaanottamispäivä pois lukien.'"
+    }
+   ],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Etusivulla stemma.fi mainitaan: 'Tasta osoituksena Stemmalle on myonnetty Avainlippu-tunnus.'"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Stemma (yritys)",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Stemma (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "ikea",
+   "nimi": "IKEA",
+   "domain": "ikea.com",
+   "omistaja": "IKEA Oy — Ingka Group (Alankomaat/Ruotsi); Suomessa myymälät ja verkkokauppa ikea.com/fi",
+   "y_tunnus": "2149172-6",
+   "rekisteroity": 2007,
+   "score": 79.2,
+   "pillars": {
+    "digitaalinen": 82.3,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "64/100",
+       "paino": 40,
+       "pisteet": 64,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotteiden hinnat näkyvät hakutuloksissa ja tuotesivuilla (esim. MALM-sängynrunko 149-549 euroa), hinnat merkitty selkeästi ja päivitettävissä reaaliajassa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palveluiden sivulla kerrotaan kuljetus- ja toimitusvaihtoehdoista sekä hinnastosta. Sivulla mainitaan: Pidämme hinnat edullisina ja läpinäkyvinä: toimitus osoitteeseesi ei piiloudu tuote kuluihin, joten maksat vain käyttämästäsi palvelusta. Click & Collect, peräkärryjen vuokraus ja IKEA Family -jäsenen hinnat mainittuina."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 365 päivän vaihto- ja palautusoikeus mainittuina asiakaspalvelun sivulla selkeästi. IKEA-takuu ja tuoteturvallisuus-osiot löytyvät, takaisinvedot dokumentoituina."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteilla ja aukioloajoilla (Espoo, Kuopio, Raisio, Tampere, Vantaa). Espoon tavaratalolla esimerkiksi Ma-Pe 10:00-21:00 ja La-Su 10:00-20:00. Noutopisteet ja suunnittelustudiot erikseen merkittyinä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näytetä julkisesti verkkosivuilla. Vain kansainvälisen emoyhtiön Inter IKEA Systems B.V. maininta löytyy tekijänoikeusosassa; IKEA Oy mainitaan mutta rekisteritunnusta ei ilmoiteta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia kolmannen osapuolen arviointeja, auditointeja tai sertifiointeja ei näytetä. Pelkät IKEA:n omat asiakasarvostelut tuotteista esillä (esim. 4.5/5 tähteä, määrä arviostelut)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla mainitaan soittaminen yhteydenpitotapana (soita tai chattaa), mutta konkreettista puhelinnumeroa ei näytetä asiakassivuilla. Puhelintuki on mainittu mutta numero on piilotettu tai vaatii kirjautumisen."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta asiakaspalvelulle ei näytetä julkisesti verkkosivuilla. Chat ja puhelintuki mainittuina, mutta email-yhteydenotto-ohjetta ei löydy."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sivuilla mainitaan chattaaminen yhteydenpitotapana useaan otteeseen: Asiakaspalvelumme on täällä sinua varten. Osta verkosta, sovelluksesta, toimipaikasta, soita tai chattaa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajat näkyvät selkeästi kunkin toimipaikan sivuilla (esim. Espoon tavaratalolla Ma-Pe 10:00-21:00, La-Su 10:00-20:00). Myös ravintolan, Click & Collectin ja Småland-leikkihuoneen omat aukioloajat merkittyinä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sivulla on Usein kysyttyjä kysymyksia -osio, jossa apu tarjolla ostosten jokaisessa vaiheessa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: IKEA-sovellusta mainitaan footereissa ja tavaratalon sivuilla. Espoon tavaratalolla lukee: Fiksumpia ostoksia IKEA-sovelluksella. Sovelluksen latauslinkkejä ja ominaisuuksia promotoitaan."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 64,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 7865.76375,
+    "cls": 0,
+    "tbt_ms": 84
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava ja selkeä palvelujen esittely tuoteryhmittäin (kuljetus, Click & Collect, nouto, kokoaminen, suunnittelu) sekä niiden hinnoittelu perusperiaatteet kerrottu läpinäkyvästi",
+    "Tuotehintoja näkyvissä verkkokaupassa ja hakutuloksissa selkeästi ilman piilokuluita; 365 päivän vaihto- ja palautusoikeus mainittuna",
+    "Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteella ja aukioloajoilla; myös noutopisteet ja suunnittelustudiot merkittyinä"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei näkyvissä asiakkaiden etusivulla vaan vain juridiset tekstit viittaavat Inter IKEA Systems B.V:n omistukseen; IKEA Oy tunnistetaan mutta rekisteritunnusta ei ilmoiteta",
+    "Puhelinnumero asiakaspalvelulle (soittaminen mainitaan palveluvaihtoehtona mutta numero puuttuu); vain chat ja toimipaikkapalvelut konkreettisesti saavutettavissa",
+    "Riippumattomia arviointeja tai sertifiointeja (kuten ympäristösertifikaatteja tuotteille) ei näkyvissä; pelkät omat asiakastarinat ja tuotearvostelut esillä"
+   ],
+   "yhteenveto": "IKEA on laaja kansainvälinen huonekaluketju, jolle palvelun läpinäkyvyys on keskiössä. Verkkosivuilla toimitusmaksut ja palautusehdot esitellään selkeästi, tuotehinnat ovat helposti saatavilla ja kaikki Suomen toimipaikat merkittyinä aukioloaikoineen. Puuttuvat Y-tunnus ja puhelinnumero sekä riippumattomien arvioiden puute heikentävät liiketoiminnan ja vastuullisuuden läpinäkyvyyttä hieman.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: 365 päivän vaihto- ja palautusoikeus mainittuina asiakaspalvelun sivulla selkeästi. IKEA-takuu ja tuoteturvallisuus-osiot löytyvät, takaisinvedot dokumentoituina."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Ikea",
+    "paivakatselut_ka": 34,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Ikea' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "isku",
+   "nimi": "Isku",
+   "domain": "isku.fi",
+   "omistaja": "Isku-Yhtymä Oy — perheomisteinen suomalainen (Lahti, per. 1928)",
+   "y_tunnus": "0148884-5",
+   "rekisteroity": 1978,
+   "score": 77.3,
+   "pillars": {
+    "digitaalinen": 62.1,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 81.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "23/100",
+       "paino": 40,
+       "pisteet": 23,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat esillä kaikissa kokoelmissa. Esimerkiksi sohvien kokoelmassa näkyvät hinnat 999-3495 euroon, toimituskulut lasketaan erillään."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitustavat (kotiinkuljetus, noutaminen myymälästä, Postin paketti) ja kulut kuvattu Sopimus- ja toimitusehdot -sivulla ja kassalla ennen tilauksen vahvistamista. Lisäpalveluiden (kierrätys, asennus, kantopalvelu) hinnoittelu ilmoitetaan ennen tilauksen vahvistusta."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautusehdot yksityiskohtaisesti kuvattu /policies/refund-policy-sivulla. Palautusoikeus 30 päivää ostosta, hygienia- ja intiimituotteiden palautus vain avaamattomassa pakkauksessa. Palautuskulut asiakkaan vastuulla, joiden määrä vähennetään hyvityksestä."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälät listattu osoitteella /pages/myymalat, jolla on interaktiivinen paikantaja. Kotiinkuljetuksesta, noutamisesta ja myymälöiden aukioloajoista puhutaan Sopimus- ja toimitusehdot -sivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1831496-4 (ISKU Koti Oy) esillä Sopimus- ja toimitusehdot -sivulla (pvm 7.1.2026 alkaen). Lisäksi Isku-Yhtymä Oy:n Y-tunnus 0148884-5 esillä Tietosuojaseloste-sivulla rekisterinpitäjän tietoja ilmoitettaessa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumatonta arviointipalvelua ei ole esillä sivuston pääsisällöissä. Judge.me-integraatio on käytössä tuotteiden arvosteluille, mutta se ei ole riippumaton arviointipalvelu vaan Iskun oma arvostelupalvelu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 029 086 3000 näkyy jokaisen sivun alaosassa. Numero ohjeistettu olevan paikallisverkkomaksu kotimaan lankaliittymästä tai matkapuhelumaksu matkapuhelinliittymästä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@isku.fi ilmoitettu asiakaspalvelun sivulla verkkokauppaan liittyville kysymyksille."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainittu asiakaspalvelun sivulla tai muilla sivuilla. Yhteydenotto on mahdollista vain puhelimitse ja sähköpostitse."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymälöiden aukioloajat ja kontaktitiedot löytyvät osoitteesta /pages/myymalat ja ovat saatavilla myymälän sivulla. Lisäksi käyttöehdoissa mainitaan noutotilauksien käsittely ja varastointi 14 vuorokauden ajan."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -osio on saatavilla osoitteessa /pages/usein-kysytyt-kysymykset. Osio sisältää 13 kysymystä tilauksen käsittelyyn, toimitusten seurantaan ja palautuksiin liittyen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 23,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 69,
+    "lcp_ms": 15223.84042,
+    "cls": 0.0959902794653706,
+    "tbt_ms": 30313.000000000007
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksityiskohtaiset toimitusehdot ja palautuskäytännöt ovat selkeästi saatavilla erillisillä politiikkasivuilla",
+    "Hinta-arvo näkyy tuotteen tasolla, toimituskulut lasketaan ennen kassaa ja lisäpalvelut (noutaminen, kierrätys) on hinnoiteltu",
+    "Monipuolinen asiakaspalvelu puhelimen ja sähköpostin kautta, sekä kattava FAQ-osio"
+   ],
+   "kehityskohteet": [
+    "Myymälöiden aukioloajat ja paikkatiedot eivät ole staattisesti nähtävissä vaan vaativat interaktiivisen kartan käytön",
+    "Riippumatonta arviointilähdettä ei ole esillä, vaikka Judge.me-integraatio tuotteiden arvosteluille on olemassa",
+    "Ei chat-tukea asiakaspalvelussa, vain puhelin ja sähköposti"
+   ],
+   "yhteenveto": "ISKU Koti on 100-vuotias suomalainen perheomisteinen huonekaluketju, joka myy tuotteita sekä verkkokaupassa että fyysisesti kahdeksalla myymälällä. Verkkosivusto tarjoaa kattavat tuotetiedot selkein hinnoittelulla ja yksityiskohtaiset palveluehdot (toimitus, palautus, takuu), mutta myymälöiden aukioloajat ja paikkatiedot edellyttävät interaktiivisen paikantimen käyttöä.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Palautusehdot yksityiskohtaisesti kuvattu /policies/refund-policy-sivulla. Palautusoikeus 30 päivää ostosta, hygienia- ja intiimituotteiden palautus vain avaamattomassa pakkauksessa. Palautuskulut asiakkaan vastuulla, joiden määrä vähennetään hyvityksestä."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Isku (yritys)",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Isku (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "jysk",
+   "nimi": "JYSK",
+   "domain": "jysk.fi",
+   "omistaja": "JYSK OY — Lars Larsen Group (Tanska)",
+   "y_tunnus": "1000514-7",
+   "rekisteroity": 1995,
+   "score": 73.8,
+   "pillars": {
+    "digitaalinen": 70.6,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat näkyvät selvästi tuotekuvien ja kuvausten yhteydessä, mukaan lukien normaalihinta ja alennettu hinta sekä prosentuaalinen alennus (esim. '600,- /SETTI', 'Normaalihinta: 1199,-')."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun Kuljetus ja toimitus -osio listaa kysmyksiä 'Kuinka paljon tuotteiden toimitus maksaa?' ja 'Miten verkkokauppatilaukseni toimitetaan?', mutta vastauksia ei renderöidy sivulle ilman klikkaamista. Myös checkout-sivulla mainitaan palautusoikeus verkon kautta."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Checkout-sivulla näkyy 'Palautusoikeus ilman aikarajaa' ja 'Voit tehdä palautuksen joko suoraan myymälässä tai verkkokaupan kautta'. Myös '30 päivän hintatakuu ostoksillesi' on ilmoitettu."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on /myymalat-sivu jossa voi hakea myymäläään. Asiakaspalvelusivulla näkyvät aukioloajat: Arkisin 10-18, Lauantaisin 10-16. Myymälöiden löytymiseen ohjataan omalla linkillä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei ole näkyvissä sivustolla. Näkyvissä on ainoastaan yritysnimi JYSK Oy ja osoite Pakkalankuja 6, 01510 Vantaa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy viittauksia kolmannen osapuolen arviointipalveluihin tai riippumattomiin arvioihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinnumero +358 44 410 0590 näkyy useilla sivuilla, myös asiakaspalvelusivulla selvästi esille tuotuna."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteen jäljellä on vain B2B-yhteydenotto yritysmyynti@JYSK.com. Kuluttaja-asiakkaiden sähköpostiosoitetta ei ole näkyvissä - asiakaspalveluun ohjataan puhelimitse tai chatissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan chat-palvelu: 'Chattaa kanssamme Messengerissä' ja 'Live chat'. Palvelun saatavuus näkyy asiakaspalvelusivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelujen aukioloajat näkyvät: Arkisin 10-18, Lauantaisin 10-16. Myymälöiden aukioloaikojen löytämiseen ohjataan linkillä omalle sivulle."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla on laaja 'Usein kysytyt kysymykset' -osio, joka kattaa kategoriat: kuljetus, myymälät, palautukset, tuotekysymykset ja verkkokauppaan liittyviä asioita."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 12800.5195,
+    "cls": 0,
+    "tbt_ms": 4030.5000000000036
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat näkyvät selvästi kategoria- ja tuotesivuilla myös alennusprosentein ja vertailuhinnoilla",
+    "Laaja asiakaspalvelu saatavilla puhelimitse, chatissa ja Messengerissä selkeillä aukioloajoilla",
+    "Palautusoikeus ilman aikarajaa ja 30 päivän hintatakuu sekä noutamismahdollisuus myymälöistä"
+   ],
+   "kehityskohteet": [
+    "Toimitus- ja rahtikulujen tarkat hinnat eivät näy etukäteen, vaan ne paljastunevat vain kassalla tai FAQ-osioista",
+    "Y-tunnus tai yritysrekisteröinnin tiedot eivät ole julkisesti näkyvissä verkkosivuilla",
+    "Sähköpostiosoite asiakaspalveluun puuttuu - vain B2B-yhteystiedot ovat näkyvissä"
+   ],
+   "yhteenveto": "JYSK on laaja kotihuonekaluketju, jonka verkkosivut näyttävät hinnat, palautus- ja vaihto-oikeudet sekä myymälätiedot selvästi. Asiakaspalveluun pääsee helposti puhelimitse ja chatissa. Toimitus- ja noutovaihtoehdot mainitaan, mutta tarkat kustannukset vaatisivat näkymisen kassalla etukäteen.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Checkout-sivulla näkyy 'Palautusoikeus ilman aikarajaa' ja 'Voit tehdä palautuksen joko suoraan myymälässä tai verkkokaupan kautta'. Myös '30 päivän hintatakuu ostoksillesi' on ilmoitettu."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Jysk",
+    "paivakatselut_ka": 15,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Jysk' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Huonekalumarkkina eli Suomessa vuonna 2026 poikkeuksellisen murroksen: Asko- ja Sotka-ketjujen omistaja Indoor Group meni konkurssiin helmikuussa, ja Maskun omistaja osti braandit konkurssipesalta. Jaljelle jaaneet valtakunnalliset ketjut ovat IKEA, JYSK, Isku, Masku, Vepsalainen ja Stemma. Vertailussa mitataan, nakeeko hinnat verkossa, kerrotaanko toimituskulut ennen kassaa ja ovatko palautusehdot julkisia.",
+  "huomioita": [
+   "Ison tavaran toimitus maksaa: rahti, kantopalvelu ja vanhan kalusteen poisvienti ovat usein erillisia maksuja. Hyva kauppa kertoo ne ennen kassaa, ja tama on vertailun painava kriteeri.",
+   "Palautusoikeus vaihtelee rajusti: verkko-ostoksen lakisaateinen 14 vuorokauden peruuttamisoikeus on minimi, mutta osa ketjuista tarjoaa selvasti pidemman palautusajan.",
+   "Hintatakuu on alalla yleinen myyntilupaus: ketju lupaa hyvittaa erotuksen, jos sama tuote loytyy muualta halvemmalla tietyn ajan sisalla. Ehdot kannattaa lukea tarkasti.",
+   "Alan keskittyminen jatkuu: konkurssin jalkeen useampi brandi voi paatya saman omistajan haltuun, ja kerromme omistajan jokaisen ketjun sivulla.",
+   "Kotimaisuus vaihtelee: Isku valmistaa Lahdessa, osa ketjuista tuo kalusteet ulkomailta. Alkupera ei nay hinnassa suoraan, mutta se kerrotaan hyvilla tuotesivuilla."
+  ],
+  "vinkit": [
+   "Laske kokonaishinta toimituksineen ennen ostopaatosta ja vertaa sita, ei pelkkaa tuotehintaa.",
+   "Tarkista palautusehdot ja se, kuka maksaa ison kalusteen palautusrahdin, jos tuote ei sovi.",
+   "Kysy varastotilanne ja toimitusaika kirjallisena: sohvien ja sankyjen toimitusajat voivat olla viikkoja, ja tarjoushinta ei aina koske heti saatavia vareja."
+  ],
+  "ukk": [
+   {
+    "q": "Mita Askolle ja Sotkalle tapahtui?",
+    "a": "Ketjujen omistaja Indoor Group Oy meni konkurssiin helmikuussa 2026 ja myymalat suljettiin. Maskun omistaja osti Asko- ja Sotka-brandit konkurssipesalta kevaalla 2026, ja sotka.fi ohjaa nykyaan Maskun verkkokauppaan. Siksi ne eivat ole vertailussa itsenaisina ketjuina."
+   },
+   {
+    "q": "Voinko palauttaa verkosta ostetun sohvan?",
+    "a": "Verkko-ostoksella on 14 vuorokauden peruuttamisoikeus, joka koskee myos huonekaluja, ellei tuote ole mittatilaustyona tehty. Palautusrahdin maksaja vaihtelee ketjuittain, ja isolla tavaralla se voi olla merkittava kulu. Tarkista ehto ennen tilausta."
+   },
+   {
+    "q": "Mita hintatakuu kaytannossa tarkoittaa?",
+    "a": "Ketju lupaa hyvittaa hinnaneron, jos loydat saman tuotteen muualta halvemmalla sovitun ajan sisalla ostosta. Ehdoissa on yleensa rajauksia: vertailuhinnan pitaa koskea samaa tuotetta, samoilla toimitusehdoilla ja usein suomalaisesta kaupasta."
+   },
+   {
+    "q": "Miksi toimituskulut vaihtelevat niin paljon?",
+    "a": "Pienen paketin voi lahettaa pakettiautomaattiin muutamalla eurolla, mutta sohva vaatii rahtikuljetuksen ja mahdollisesti kaksi kantajaa. Siksi sama kauppa voi veloittaa toimituksesta muutamasta eurosta lahes sataan euroon tuotteesta riippuen."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat verkossa esillä (25), toimitustavat ja -kulut kerrottu ennen kassaa (20), palautus- ja takuuehdot julkisesti saatavilla (20), myymälät ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

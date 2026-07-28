@@ -1,0 +1,1638 @@
+{
+ "slug": "urheiluvalineketjut",
+ "nimi": "Urheiluvälineketjut",
+ "nav": "Urheiluvälineketjut",
+ "h1": "Suomen paras urheiluvälineketju 2026",
+ "yksikko": "Suomessa toimivaa urheilu- ja ulkoiluvälineketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa urheilu- ja ulkoiluvälineketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö hinnat, toimituskulut ja palautusehdot ennen ostoa?",
+ "meta_title": "Suomen paras urheiluvälineketju 2026 | urheiluvälineketjut pisteytettynä | Suomen Paras",
+ "meta_desc": "7 urheiluvälineketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Intersport ja Budget Sport ovat sama yhtiö.</b> Molempia operoi Keskon Intersport Finland Oy, mutta konseptit palvelevat eri asiakasryhmiä eri hinnoilla, joten vertailemme ne erikseen — omistus kerrotaan avoimesti.",
+  "<b>Ala elää murrosta.</b> XXL on karsinut myymäläverkkoaan Suomessa vuonna 2026, ja Sportia-ketju on jätetty vertailusta pois, koska näyttöä elävästä valtakunnallisesta ketjusta ei mittaushetkellä ollut.",
+  "<b>Mukana on myös verkkopainotteisia toimijoita.</b> Varuste.net ja Scandinavian Outdoor palvelevat pääosin verkossa, ja niiden myymäläkriteeri mitataan noutopisteiden ja toimitustietojen avoimuutena."
+ ],
+ "yritykset": [
+  {
+   "slug": "partioaitta",
+   "nimi": "Partioaitta",
+   "domain": "partioaitta.fi",
+   "omistaja": "Partioaitta Oy — Fenix Outdoor International AG (Ruotsi/Sveitsi)",
+   "y_tunnus": "0201830-0",
+   "rekisteroity": 1978,
+   "score": 78.2,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 89.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat näkyvät tuoteluetteloissa ja etusivulla esimerkiksi 2 paria kuosimerinosukkia 25 euroa ja JSON-muodossa hinnat kuten 79.96, 148.85, 127.46."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /asiakaspalvelu/toimitusehdot/ -sivulla luetellut kaikki toimitustavat selkein kustannuksin: ilmainen myymälään, ilmainen yli 80 euroa tilauksille, postin pakkettiautomaatti 4,95 euroa, postin palvelupiste 4,95 euroa, kotiinkuljetus 9,95 euroa. Toimitusaika 1-5 arkipäivää."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /asiakaspalvelu/toimitusehdot/ -sivulla selkeästi mainittu 60 päivän palautus- ja vaihto-oikeus ja linkki palautusohjeiden sivulle."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /myymalat/ -sivulla kaikki 22 myymälää listattu kaupungeittain (Helsinki, Espoo, Vantaa, Tampere, Turku, Kuopio, Oulu yms.) jokaisen aukioloajoilla (esim. maanantai-perjantai 10:00-19:00)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /yritys/ -sivulla selkeästi näkyvissä Partioaitta Oy Y-tunnus: 0201830-0 yritystietojen osassa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtään riippumatonta arviota tai ulkoisen tahon antamaa arvostelusivulle viittaavaa linkkiä ei löytynyt kuudella ladatulla sivulla. Asiakkaiden arviot puuttuvat tuotesivuista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 020 7760 719 pvm/mpm näkyy asiakaspalvelussa ja jokaisella myymälällä omat puhelinnumerot esimerkiksi Vantaa Jumbo: 0207 760 680."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite yhteydenotot@partioaitta.fi näkyy kontaktitiedoissa ja jokaisen myymälän tiedoissa, lisäksi yhteydenottolomakelinkki saatavilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainita millään ladatulla sivulla. Asiakaspalvelun vaihtoehdoissa ainoastaan puhelin, sähköposti ja yhteydenottolomake."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat arkisin klo 9-17 mainittu ja kaikki 22 myymälän yksityiskohtaiset aukioloajat päivä-päivältä listattu /myymalat/ -sivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osio on olemassa linkkinä Usein kysytyt kysymykset ja erillisellä support.partioaitta.fi/hc/fi/ -sivulla, mutta kyseinen tuki-sivu on Cloudflarella suojattu eikä sisältöä voitu lukea. Sivustolla on kuitenkin laaja /oppaat/ -osio eri aktiviteetteista."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11432.89796,
+    "cls": 0,
+    "tbt_ms": 4385.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat näkyvät selkeästi tuoteluetteloissa ja etusivulla, mikä helpottaa hintojen vertailua",
+    "Yksityiskohtaiset toimitustiedot: kaikki vaihtoehdot (myymälä, posti, kotiinkuljetus) ja kustannukset (0-9,95 euroa) dokumentoitu selvästi",
+    "Laajamuotoinen myymäläverkko: 22 myymälää eri puolilla Suomea, joiden aukioloajat ja yhteystiedot listattu täydellisesti"
+   ],
+   "kehityskohteet": [
+    "Riippumattomia arvioita ei näy sivustolla: asiakkaiden antamia arvosteluita tai ulkoisten lähteiden arvioita puuttuu kokonaan",
+    "Natiivi mobiilisovellusta ei ole saatavilla iOS:lle tai Androidille, mikä heikentää käyttäjän ostokokemusta matkalla",
+    "Live-chat-palvelua ei ole mainittu: asiakaspalveluun on saatavilla vain puhelin (020 7760 719) ja sähköposti (yhteydenotot@partioaitta.fi)"
+   ],
+   "yhteenveto": "Partioaitta on laajalle levinnyt ulkoilu- ja retkilyvälineiden ketju, joka tarjoaa monipuolisen tuotevalikoiman ja 22 myymälän verkon ympäri Suomea. Sivusto esittelee tuotehinnat ja toimitusehdot selkeästi sekä tarjoaa kattavaa tietoa palautuksista, aukioloajoista ja yritystiedoista, mukaan lukien Y-tunnuksen (0201830-0). Kuitenkin sivustolla ei ole näkyvissä asiakasarvioita, natiivea mobiilisovellusta tai live-chat-palvelua.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: /asiakaspalvelu/toimitusehdot/ -sivulla selkeästi mainittu 60 päivän palautus- ja vaihto-oikeus ja linkki palautusohjeiden sivulle."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Partioaitta",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Partioaitta' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "budget-sport",
+   "nimi": "Budget Sport",
+   "domain": "budgetsport.fi",
+   "omistaja": "Intersport Finland Oy (Kesko Oyj) — sama yhtiö operoi myös Intersportia",
+   "y_tunnus": "1648871-7",
+   "rekisteroity": 2001,
+   "score": 77.6,
+   "pillars": {
+    "digitaalinen": 67.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 82.5,
+    "ai_laatu": 77.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat näkyvät kaikilla kategorian sivuilla (esim. juoksukengät 69,95-89,95 €, treenikengät 88,95 €). Hintaesimerkissä sanotaan 'Suosituin tuotteemme tässä ryhmässä on ASICS Versablast 4 - naisten juoksukengät (kirkas sininen), 69,95 €'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näytetään toimitusvaihtoehdot: 'Myymälänoudot ilman toimituskuluja! Rekisteröityneille DSV-noutopistetoimitus alk. 5,59 € (norm. 7,59 €)'. Lisäksi sivulla lukee 'Tilaukset toimitetaan sinulle jopa kolmessa päivässä' ja 'Paljon erilaisia maksu- ja toimitustapoja'."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /palautus/-sivu antaa yksityiskohtaiset ohjeet: 'Palautuksen voit tehdä 30 päivän ajan tilauksen noudosta'. Sivulla on vaihe-vaihe-ohjeet palautuksesta, rahtikirjoista ja hyvitysprosessista (n. 14 päivää varastoon saapumisesta)."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /myymalat/-sivulla luetellaan 10 myymälää (Espoo Suomenoja, Helsinki Itis, Jyväskylä, Kouvola, Kuopio, Lempäälä, Oulu, Pori, Turku, Vantaa), mutta yksityisiä aukioloaikoja ei ole saatavilla verkkokaupan kautta. Asiakaspalvelussa mainitaan 'Chat palvelee arkisin klo 9–12 ja 14–17' mutta myymälöiden omat aukioloajat eivät ole näkyvillä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston footerissa ja asiakaspalvelu-sivulla ilmoitetaan: 'Intersport Finland Oy / Budget Sport, Työpajankatu 12, 00580 Helsinki. Y-tunnus: 1648871-7. Yritys on merkitty arvonlisäverovelvollisten rekisteriin.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei löydy riippumattomia arvioluokituksia tai kolmannen osapuolen testien tuloksia. Ainoa arviointi tulee sisäisistä suosituksista (esim. 'Suosituin tuotteemme tässä ryhmässä')."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla ilmoitetaan: 'Soita asiakaspalveluun 01053 77730, ma-pe 14-17. Asiakaspalvelun puhelumaksut: 8,4 snt/min. (sis. ALV)'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite näkyy kaikilla sivuilla: asiakaspalvelu@budgetsport.fi. Asiakaspalvelussa sanotaan 'Voit lähettää meille kysymyksesi tai palautteesi sähköisesti lomakkeella'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelussa ilmoitetaan: 'Voit myös ottaa yhteyttä sivun oikeassa alakulmassa olevan chat-palvelumme kautta. Chat-palvelu on käytössä arkisin 9-12 ja 14-17.'"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleisiä liikkeen aukioloaikoja ei ole näkyvillä verkkokaupan pääsivulla. Ainoastaan asiakaspalvelussa mainitaan chat-palvelun ajat (arkisin 9-12 ja 14-17) ja puhelinpalvelun ajat (ma-pe 14-17)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelu-sivulla on laaja FAQ-osio kategorioittain (Tuotteet, Tilaaminen, Maksaminen, Toimitus, Palautus, Huolto/takuu/reklamaatiot, Budget Sport Klubi). Kysymykset kuten 'Millaiset verkkokaupan toimituskulut ovat?' ja 'Mitä eri toimitustapoja on tarjolla?' ovat listattuina."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11508.29925,
+    "cls": 0,
+    "tbt_ms": 1791.0152500000013
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat selkeasti näkyvillä kategorioittain ja tuotesivuilla, hinnat merkitty euroissa",
+    "Toimitusvaihtoehdot ja kustannukset ilmoitettu (myymälänoudot ilmaiset, DSV-noutopisteet 5,59-7,59 €)",
+    "Yksityiskohtaiset palautusohjeet saatavilla sekä 30 päivän palautusikkunan kuvaus"
+   ],
+   "kehityskohteet": [
+    "Myymälöiden aukioloajat puuttuvat verkkokaupasta, saatavilla vain chat-palvelun ajat (9-12 ja 14-17)",
+    "Riippumattomia arvioluokituksia tai kolmannen osapuolen testimiehet puuttuvat kokonaan",
+    "Tuotteiden garantia- ja takuuinformaatio ei helposti löydettävissä kategorioista, vaan vaatii hakemista FAQ:sta"
+   ],
+   "yhteenveto": "Budget Sport on Intersport Finland Oy:n halpaketju, joka tarjoaa urheiluvaatteita ja -varusteita yli 6000 tuotteella. Verkkokauppa näyttää tuotehinnat selkeästi ja kertoo toimitusvaihtoehdoista (myymälänoudot ilmaiset, DSV-noutopisteet 5,59-7,59 €) sekä palautusehdoista (30 pv) riittävän yksityiskohtaisesti. Pääasiassa puuttuvia ovat myymälöiden aukioloajat ja riippumattomien arvioluokitusten puuttuminen.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: /palautus/-sivu antaa yksityiskohtaiset ohjeet: 'Palautuksen voit tehdä 30 päivän ajan tilauksen noudosta'. Sivulla on vaihe-vaihe-ohjeet palautuksesta, rahtikirjoista ja hyvitysprosessista (n. 14 päivää varastoon saapumisesta)."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Budget Sport",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Budget Sport' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "varuste",
+   "nimi": "Varuste.net",
+   "domain": "varuste.net",
+   "omistaja": "Aalto Group Oy — suomalainen (Helsinki), ulkoilun ja urheilun verkkokauppa",
+   "y_tunnus": "1702286-3",
+   "rekisteroity": 2001,
+   "score": 76.8,
+   "pillars": {
+    "digitaalinen": 91.1,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "88/100",
+       "paino": 40,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla listataan suosituimmat tuotteet hintojen kanssa (esim. Big Agnes Fly Creek UL 319,90-334,90 eur, Sea to Summit Ultralight XR Mat 97,43-112,43 eur)."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston navigaatiossa mainitaan 'Toimitus- ja maksutavat' ja 'Tilaus-, toimitus- ja palautusehdot', mutta naita sivuja ei voida avata jarjestelmallisesti. SPA-reititys estaa paasynn."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa mainitaan 'Palautukset' ja 'Reklamaatiot', mutta sivuja ei ole saavutettavissa. Ehdoista ei loeyde tietoa etusivulla tai muilla ladattavilla sivuilla."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /myymala -sivulla mainitaan: Malminkartanontie 1, 00390 Helsinki. Aukioloajat: ma-pe 10-20, la 10-18, su 10-18. Myos liikenneyhteydet on kuvattu (bussit 300, 345, 30, 37, 59 ja juna)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /info -sivulla mainitaan 'Aalto Group Oy, 1702286-3'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita (kuten Trustpilot tai muita arviointialustoja) ei mainittu sivustolla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: +358 9 454 0707 mainitaan seka etusivulla etta /info -sivulla. Asiakaspalvelun aukioloajat ma-pe 10-14."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: info@varuste.net mainitaan seka etusivulla etta /info -sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Keskustelupalvelua ei mainittu ladattavissa sivuissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myymalan aukioloajat ma-pe 10-20, la 10-18, su 10-18 ja asiakaspalvelun ajat ma-pe 10-14 ovat selkeasti esilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa mainitaan 'Usein kysytyt kysymykset', mutta sivua ei ole saavutettavissa suoraan. Varsinaista FAQ-sisaltoa ei loeyde ladattavissa sivuissa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 88,
+    "accessibility": 98,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 1570.6945,
+    "cls": 0.01538603151467872,
+    "tbt_ms": 470.99999999999955
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnät selkeasti esillä etusivulla ja haku-toiminnolla loydettavissa",
+    "Myymala sijainnin, aukioloaikojen ja julkisen kulkuyhteyksien tiedot helposti loydettavissa",
+    "Asiakaspalveluun voi olla yhteydessa puhelimitse (arkisin 10-14) ja sahkopostilla"
+   ],
+   "kehityskohteet": [
+    "Toimitus- ja maksutavoista seka palautus- ja takuuehdoista ei saa tietoa ilman jarjestelman sisaan tuumista",
+    "Usein kysytyt kysymykset -sivu on merkitty navigaatioon mutta ei ole saavutettavissa jarjestelmapohjaisesti",
+    "Mobiilisovellusta ei mainittu eika riippumattomia arviolaheita (kuten Trustpilot) ole nakyvillä"
+   ],
+   "yhteenveto": "Varuste.net on suomalainen ulkoiluvarusteiden verkkokauppa ja myymala Helsingissa. Sivusto esittelee tuotehinnatlasveasti etusivulla, ja myymalan sijainnin seka aukioloajat ovat selkeasti loydettavissa. Toimitus-, maksu- ja palautusehdoista seka usein kysetyista kysymyksista ei kuitenkaan saa tietoa verkkoon kautta - naita sivujen linkit mainitsevat, mutta ne eivat ole suoraan saavutettavissa.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Navigaatiossa mainitaan 'Palautukset' ja 'Reklamaatiot', mutta sivuja ei ole saavutettavissa. Ehdoista ei loeyde tietoa etusivulla tai muilla ladattavilla sivuilla."
+    }
+   ]
+  },
+  {
+   "slug": "intersport",
+   "nimi": "Intersport",
+   "domain": "intersport.fi",
+   "omistaja": "Intersport Finland Oy (Kesko Oyj) — sama yhtiö operoi myös Budget Sportia",
+   "y_tunnus": "1648871-7",
+   "rekisteroity": 2001,
+   "score": 74.4,
+   "pillars": {
+    "digitaalinen": 62.9,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "77/100",
+       "paino": 30,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotteiden hinnat ovat näkyvissä verkkokaupassa. Esimerkiksi juoksukengät-sivulla näkyvät eri merkkien tuotteet hintatiedoilla ja toimituskulujen mahinnoilla."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston metakuvailussa mainitaan 'Nopea 1-3 vrk toimitus ja 30 pv ilmainen palautus'. Toimituskustannukset mainitaan selkeästi ostoskorissa 'yht. € + toimituskulut'."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla on 'Palautukset ja reklamaatiot' -osio. Sivuston metakuvailussa kerrotaan '30 pv ilmainen palautus'."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaupat-sivulla on lueteltu yli 40 Intersport-myymälää Suomen eri puolilla, jokaiselle näkyvät osoite ja aukioloajat esimerkiksi 'Helsinki Forum... Avoinna tänään 10.00-20.00'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy verkkosivuston julkisista osioista. Asiakaspalvelusivulla on yritysrekisteröintilomakkeessa Y-tunnuksen kenttä, mutta se ei kuulu asiakkaalle näkyvästi julkaistussa muodossa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla näkyy puhelinnumero 010 537 7735 (ma-pe 14-17, muina aikoina suljettu). Hinnoittelu ilmoitettuna '8,4 snt/min'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla mainitaan 'Juttele kanssamme chatissa' ja kerrotaan aukioloajat ma-pe 9-12 ja 14-17."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla on 'Minkä aiheen kanssa tarvitset apua?' -osio, joka sisältää kategoriat kuten Tilaaminen, Maksut ja hyvitykset, Toimitus, Palautukset ja reklamaatiot, Yleistä, Intersport Club, Kauppatilaukset, ja Pyörätilaukset."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 77,
+    "seo": 85,
+    "best_practices": 100,
+    "lcp_ms": 7054.5005,
+    "cls": 0,
+    "tbt_ms": 2680.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja valikoima huippumerkkien urheiluvarusteita selkeässä kategorisoidussa muodossa",
+    "Nopea 1-3 vuorokauden toimitus ja 30 päivän ilmainen palautus madaltavat ostokynnystä",
+    "Saatavilla olevat myymälöiden sijainnit ja aukioloajat koko Suomessa sekä verkkokaupan asiakaspalvelu chatissa ja puhelimessa"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole näkyvissä verkkosivuilla, mikä heikentää yrityksen luotettavuuden tunteen",
+    "Sähköpostiosoite asiakaspalveluun ei ole julkisesti näkyvissä, vain yhteydenottolomake on saatavilla",
+    "Tuotteista ei ole kolmansien osapuolten arvioita tai arvioita, mikä rajoittaa ostopäätösten tietopohjaa"
+   ],
+   "yhteenveto": "Intersport on suuri urheiluvalineketju, joka tarjoaa laajaa valikoimaa huippumerkkien tuotteita hyvillä toimitusehdoilla ja palautusmahdollisuuksilla. Sivusto on selkeästi organisoitu, hintatieto on helposti löydettävissä, ja asiakaspalvelu on tavoitettavissa chatissa ja puhelimessa. Luotettavuuden osalta puuttuu Y-tunnuksen julkinen näkyvyys ja sähköpostiosoite, eikä sivustolla ole riippumattomia tuotearvioita.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Asiakaspalvelusivulla on 'Palautukset ja reklamaatiot' -osio. Sivuston metakuvailussa kerrotaan '30 pv ilmainen palautus'."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Intersport",
+    "paivakatselut_ka": 21,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Intersport' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "xxl",
+   "nimi": "XXL",
+   "domain": "xxl.fi",
+   "omistaja": "XXL Sports & Outdoor Oy — XXL ASA (Norja); karsinut myymäläverkkoaan Suomessa 2026",
+   "y_tunnus": "2541215-9",
+   "rekisteroity": 2013,
+   "score": 74.0,
+   "pillars": {
+    "digitaalinen": 79.8,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 79.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat ovat näkyvissä etusivulla ja tuotelistoissa (esim. Nike Run Defy 32€, Asics Gel-flux 8 78€, ActivePulse Duffelbag 12€)"
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimitusehdot-sivulla on yksityiskohtaiset tiedot toimitustavoista (posti 8,49€, Click & Collect 4,50€, kotiinkuljetus 8,49€-49,99€, Budbee) ja toimitusajoista (2-4 arkipäivää)"
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /vaihto-ja-palautus-sivulla on selkeät 28 päivän palautus- ja vaihto-oikeudet, ohjeistus palautuksesta ja poikkeukset (uima-asut, kellot, kuulokkeet)"
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa ja footer-osiossa mainitaan 'Tavaratalot' ja 'Yhteystiedot', mutta /tavaratalot ja /yhteystiedot-sivut palauttavat 404-virheitä"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy mitään julkisen verkkosivuston alueella. Footerissa on viittaukset 'Yrityksenä', 'Ihmisoikeuksiin' ja 'Yritysvastuu', mutta ne eivät sisällä Y-tunnusta"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei ole viittauksia riippumattomiin sertifiointeihin tai arviointilähteisiin. Sivuilla on vain XXL:n omat asiakasarviot (5/5 tähteä jne.)"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja /toimitusehdot-sivulla mainitaan 'verkkokaupan chat-palvelu' ja 'chat-palvelussa' asiakaspalvelun yhteystietona"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimitusehdot-sivulla mainitaan toimituksen ajankohta ('Lähetykset toimitetaan vastaanottajalle arkipäivisin'), mutta myymälöiden aukioloajat eivät ole löydettävissä"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4355.544999999999,
+    "cls": 0.0005217524397337588,
+    "tbt_ms": 3178.040500000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat, toimitusmaksut ja palautusehdot on esitetty selkeasti verkkokaupan eri sivuilla ennen kassaa",
+    "28 päivän vaihto- ja palautusoikeus sekä useita toimitusvaihtoehtoja (posti, Click & Collect, kotiinkuljetus) hintatiedoin",
+    "Asiakaspalvelu ja chat-palvelu saatavilla, XXL Reward -jäsenohjelma tarjoaa pisteitä ostoksista"
+   ],
+   "kehityskohteet": [
+    "Myymälöiden paikannin ja aukioloajat ovat vaikeasti löydettävissä; erillinen myymäläsivu antaa 404-virheen",
+    "Y-tunnus ei ole julkisesti esillä verkkokaupan sivuilla",
+    "FAQ-sivu antaa 404-virheen eikä riippumattomia arviota tai sertifiointeja esitellä"
+   ],
+   "yhteenveto": "XXL on pohjoismainen urheilukauppaketju, jonka verkkokaupassa tuotehinnat, toimitusvaihtoehdot ja palautusehdot esitetään avoimesti. Sivusto tarjoaa hyvät tiedot toimituksesta ja palautuksista, mutta myymälöiden löytäminen ja yritystietojen saatavuus voisi parantua.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: /vaihto-ja-palautus-sivulla on selkeät 28 päivän palautus- ja vaihto-oikeudet, ohjeistus palautuksesta ja poikkeukset (uima-asut, kellot, kuulokkeet)"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "XXL (urheilukauppaketju)",
+    "paivakatselut_ka": 7,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'XXL (urheilukauppaketju)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "scandinavian-outdoor",
+   "nimi": "Scandinavian Outdoor",
+   "domain": "scandinavianoutdoor.fi",
+   "omistaja": "Scandinavian Outdoor Oy — suomalainen ulkoiluvarusteketju",
+   "y_tunnus": "2066059-1",
+   "rekisteroity": 2006,
+   "score": 71.9,
+   "pillars": {
+    "digitaalinen": 58.4,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotehinnat ja vertailuhinnat näkyvät etusivun tuotekaruselleissa (esim. Klubihinta 79,90 € / Vertailuhinta: 109 €)"
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla selkeä ilmoitus 'Ilmainen toimitus - Kaikkiin yli 149 euron tilauksiin'"
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy '100 päivän palautusoikeus - Palauta ilmaiseksi käyttämätön tuote'"
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa luetelaan kuuden myymälän sijainnit (Helsinki Forum, Pirkkala Veska, Pori Puuvilla, Raisio Kuninkoja, Vantaa Tammisto, Suksihuolto) mutta aukioloaikoja ei ole näkyvissä"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus Y-2066059-1 löytyy tietosuojaselostesivulta"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei näy linkkejä riippumattomiin arviolähteihin"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla näkyy puhelin 010 3970 590 (ma-ti klo 10-16) ja tietosuojaselostossa 010-3970-550"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite info@scandinavianoutdoor.fi näkyy asiakaspalvelusivulla ja footerissa"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelu mainittu asiakaspalvelusivulla 'Chat on nopein tapa ottaa meihin yhteyttä!' arkisin klo 8-20"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 8-20) näkyvät, mutta puhelimen aukioloajat ovat rajoitetut (ma-ti 10-16) ja myymälöiden aukioloajat puuttuvat kokonaan"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla ei ole erillista FAQ-osaa"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 87,
+    "seo": 92,
+    "best_practices": 54,
+    "lcp_ms": 5630.130879999999,
+    "cls": 0.12660658631182187,
+    "tbt_ms": 2777.496640000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat ja vertailuhinnat esillä selkeästi tuotekaruselleissa ja sivulla",
+    "Ilmainen toimitus yli 149 euron tilauksille ja 100 päivän palautusoikeus prominentisti etusivulla näkyvissä",
+    "Asiakaspalvelukanavat (chat, sähköposti, puhelin) selkeästi esillä sivulla"
+   ],
+   "kehityskohteet": [
+    "Myymälöiden aukioloajat puuttuvat jokaisen myymälän osalta; footerissa luetelaan kaupunkien nimet mutta ei aukioloaikoja",
+    "Sisäsivujen (toimitus, palautus, maksutavat) sisältö ei latautuu normaalisti JS-renderöinnillä; sivuilla näkyy vain 404-viesti vaikka URL:t ovat olemassa",
+    "Ei häkösivua (FAQ) yleisten asiakaskysymysten vastauksille eikä mobiilisovellusta listattu"
+   ],
+   "yhteenveto": "Scandinavian Outdoor on suomalainen retkeilyvaruste- ja ulkoiluvaatekauppa, joka perustettiin vuonna 1970. Etusivulla näkyy selkeästi tuotehinnat, ilmainen toimitus ja 100 päivän palautusoikeus. Yritystunnus ja asiakaspalvelutiedot ovat julkisesti saatavilla. Kuitenkin myymälöiden aukioloajat puuttuvat, sisäsivut eivät lataudu kunnolla ja asiakaspalvelussa ei ole häkösivua tai mobiilisovellusta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Etusivulla näkyy '100 päivän palautusoikeus - Palauta ilmaiseksi käyttämätön tuote'"
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Scandinavian Outdoor",
+    "paivakatselut_ka": 3,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Scandinavian Outdoor' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "stadium",
+   "nimi": "Stadium",
+   "domain": "stadium.fi",
+   "omistaja": "Stadium Oy — ruotsalainen perheomisteinen Stadium AB",
+   "y_tunnus": "1515574-2",
+   "rekisteroity": 1999,
+   "score": 57.2,
+   "pillars": {
+    "digitaalinen": 63.4,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 40.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy tuotekategorioita, mutta hinnat eivät ole näkyvissä tekstissä. Kategoriasivut palauttavat HTTP 500, joten hintojen näkyvyyttä ei voitu varmistaa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-alueella on linkki 'Toimitus', mutta sivu palauttaa HTTP 500 virhen. Toimitusehtoja ei voitu tutkia."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-alueella on linkki 'Palautus/Reklamaatio', mutta sivu palauttaa HTTP 500 virhen. Palautusehtoja ei voitu tutkia."
+      },
+      {
+       "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-alueella mainitaan 'Myymälämme' ja linkki kartalle, mutta myymälä- ja osoitesivut palauttavat HTTP 500 virheitä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1515574-2 näkyy selvästi sivun alareunan tekijänoikeusilmoituksessa: '© Stadium Oy, Klovinpellontie 1-3 02180 Espoo, Y-tunnus: 1515574-2'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä viitteitä riippumattomiin arviointipalveluihin tai asiakastuntemuksiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "45/100",
+       "paino": 34,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 12767.241499999998,
+    "cls": 0,
+    "tbt_ms": 4663.386000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus ja yhteystiedot selvästi näkyvissä etusivulla",
+    "Aukioloajat (10.00-14.00 ma-pe) ilmoitettu asiakaspalvelun yhteydessä",
+    "FAQ-osio olemassa ja saavutettavissa"
+   ],
+   "kehityskohteet": [
+    "Tuotteiden hinnat eivät näy pääsivulla - kategoriasivut palauttavat HTTP 500 virheitä",
+    "Toimitus- ja palautusehtojen sivut eivät ole saavutettavissa automaattisille asiakkaille",
+    "Myymälöiden sijainnit ja aukioloajat linkitetty mutta sivut palauttavat virheitä"
+   ],
+   "yhteenveto": "Stadium on suomalainen urheiluvalineketju, jonka verkkosivuilla on merkittäviä saavutettavuusongelmia automaattisille asiakkaille. Yritystiedot (Y-tunnus 1515574-2), asiakaspalvelun yhteystiedot ja aukioloajat ovat näkyvissä, mutta tuotteiden hintojen löytäminen, toimitus-, palautus- ja myymäläsivut palauttavat virheitä. Sivusto näyttää olevan JavaScript-pohjainen, ja monet sisällön sivut ovat käytännöllisesti katsoen saavuttamattomia crawlerille.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Footer-alueella on linkki 'Palautus/Reklamaatio', mutta sivu palauttaa HTTP 500 virhen. Palautusehtoja ei voitu tutkia."
+    }
+   ]
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Urheilu- ja ulkoiluvalineita myyvat Suomessa seka kansainvaliset ketjut (XXL, Stadium, Intersport) etta kotimaiset verkkopainotteiset kaupat (Varuste.net, Scandinavian Outdoor). Ala elaa murrosta: XXL on karsinut myymalaverkkoaan ja ketjujen omistus on kansainvalistynyt. Vertailussa mitataan sivuston lapinakyvyytta: hinnat, toimituskulut ennen kassaa, palautusehdot ja myymalatiedot.",
+  "huomioita": [
+   "Palautusajoissa on isoja eroja: lakisaateinen 14 vuorokautta on minimi, mutta ketjut tarjoavat 28-100 paivan palautusaikoja. Pisin loytyy usein ulkoiluvarusteisiin erikoistuneilta kaupoilta.",
+   "Intersport ja Budget Sport ovat molemmat Keskon Intersport Finland Oy:n konsepteja: sama omistaja, eri hintapositio.",
+   "Verkkokauppojen omat tuotearviot eivat ole riippumaton lahde: yksikaan mitattu ketju ei esittanyt ulkopuolista sertifiointia tai arviota sivuillaan.",
+   "Hintatakuu ja hinnan vertailu on alalla yleista markkinointia, mutta ehdot (sama tuote, sama koko ja vari, suomalainen verkkokauppa) rajaavat lupausta merkittavasti.",
+   "Osa sivustoista on teknisesti raskaita tai estaa osan sivuista automaattiselta mittaukselta, mika nakyy pisteissa mittausaukkoina, ei nollina."
+  ],
+  "vinkit": [
+   "Vertaa kokonaishintaa toimituskuluineen ja tarkista ilmaisen toimituksen raja: se vaihtelee kympeista sataan euroon.",
+   "Hyodynna pitkia palautusaikoja sovittamiseen, mutta sailyta pakkaus ja kuitit: kaytetyn tuotteen palautusarvo voi laskea.",
+   "Talvivarusteet kannattaa ostaa sesongin ulkopuolella: alan alennussyklit ovat voimakkaita ja sama tuote voi maksaa puolet vahemman keväällä."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi sama tuote maksaa eri ketjuissa eri verran?",
+    "a": "Urheiluvalineiden hinnoittelu on kampanjavetoista: normaalihinta ja tarjoushinta vaihtelevat viikoittain. Siksi vertailu kannattaa tehda ostohetkella useammasta kaupasta, ja hintatakuun ehdot kannattaa lukea tarkasti."
+   },
+   {
+    "q": "Voinko palauttaa kaytetyn tuotteen?",
+    "a": "Verkko-ostoksen 14 vuorokauden peruuttamisoikeus sallii tuotteeseen tutustumisen kuten myymalassa, eli sovittamisen, mutta ei varsinaista kayttoa. Ketjujen omat pidennetyt palautusajat voivat olla ehdoiltaan tiukempia kayton suhteen."
+   },
+   {
+    "q": "Mita eroa on Intersportilla ja Budget Sportilla?",
+    "a": "Molemmat kuuluvat Keskon Intersport Finland Oy:lle. Intersport on taydeen palvelun urheilukauppa ja Budget Sport edullisempi suurmyymalakonsepti. Valikoima ja palvelutaso eroavat, ja siksi mittaamme ne erikseen."
+   },
+   {
+    "q": "Kannattaako ostaa ulkomaisesta urheiluverkkokaupasta?",
+    "a": "EU-alueen kaupoissa kuluttajansuoja on sama, mutta palautuskulut, toimitusajat ja mahdolliset riitatilanteet hoituvat helpommin suomalaisen tai Suomessa toimivan kaupan kanssa. Vertailumme mittaa nimenomaan Suomessa palvelevia ketjuja."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat verkossa esillä (25), toimitustavat ja -kulut kerrottu ennen kassaa (20), palautus- ja takuuehdot julkisesti saatavilla (20), myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet) (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

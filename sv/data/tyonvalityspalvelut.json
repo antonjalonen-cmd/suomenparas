@@ -1,0 +1,1800 @@
+{
+ "slug": "tyonvalityspalvelut",
+ "nimi": "Työnvälityspalvelut",
+ "nav": "Työnvälitys",
+ "h1": "Suomen paras henkilöstöpalveluyhtiö 2026",
+ "yksikko": "valtakunnallista henkilöstöpalveluyhtiötä",
+ "lead": "Pisteytimme {n} valtakunnallista henkilöstöpalveluyhtiötä työnhakijan näkökulmasta {m} mittarilla. Tärkein kysymys: voiko avoimia paikkoja selata ja hakuprosessin ymmärtää ilman kirjautumista, ja kerrotaanko palkka?",
+ "meta_title": "Suomen paras henkilostopalveluyhtio 2026 | tyonvalitys pisteytettyna | Suomen Paras",
+ "meta_desc": "8 henkilostopalveluyhtiota pisteytetty tyonhakijan nakokulmasta. Katso mista jokainen piste tulee.",
+ "notes": [
+  "<b>Keitä listalla on?</b> Suurimmat valtakunnalliset henkilöstöpalveluyhtiöt: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, Manpower, Bondata ja Adecco. Mittaus on tehty työnhakijan näkökulmasta: yrityksille myytäviä palveluita ei pisteytetä.",
+  "<b>Kuolleet brändit:</b> VMP ja Smile Henkilöstöpalvelut sulautuivat Eezyksi jo 2019, ja Go On -ketju toimii nykyään nimellä Bondata. Vanhat nimet eivät siksi ole listalla erikseen.",
+  "<b>Huomio palkkatiedosta:</b> palkan tai palkkahaarukan kertominen ilmoituksessa on mittareistamme se, jossa ala on läpinäkymättömimmillään. Mittari palkitsee yhtiöt, jotka kertovat palkan jo ilmoituksessa."
+ ],
+ "yritykset": [
+  {
+   "slug": "barona",
+   "nimi": "Barona",
+   "domain": "barona.fi",
+   "omistaja": "Barona Oy — osa Bravedo-konsernia, Suomen suurin henkilöstöpalveluyhtiö",
+   "y_tunnus": "2808477-9",
+   "rekisteroity": 2017,
+   "score": 68.0,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla ja kategoriasivuilla mainitaan avoimet työpaikat ja viitataan Barona Careers -palveluun, jossa voi hakea kaikkia avoimia paikkoja. Sivusto ohjaa työnhakijoita selaamaan ja hakemaan töitä."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Barona työnantajana' -sivulla kuvataan viisi vaihetta: 1) profiilin luominen, 2) työpaikkojen selaaminen ja räätälöityjen suositusten vastaanottaminen, 3) hakemuksen lähettäminen, 4) hakemuksen edistymisen seuranta, 5) työn aloittaminen."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Vinkit työnhakuun' -sivulla käsitellään palkkatoivetta käsitteenä ja neuvottelua, mutta todellisia palkkasummia ei näytetä elintarviketeollisuuden kategoriasivulla. Maininta: 'Joillakin aloilla ja joissakin tehtävissä palkka muotoutuu automaattisesti työehtosopimusten mukaan'."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Barona työnantajana' -sivulla selitetään neljä tapaa työskennellä: keikkatyö, määräaikaiset tehtävät, vakituiset roolit ja työskentelymahdollisuudet ulkomailla. Etuja kuvataan kattavan työterveyshuollon, TES-mukaisen palkan, joustavien järjestelyjen ja uravalmennuksen kautta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löytynyt yhteystiedot-sivulla eikä yritystiedot-sivulla, vaikka perustetaan 'Barona on vuonna 1999 perustettu työelämäyhtiö'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mitään riippumatonta arviota, sertifiointia tai ulkopuolisen tahon palvelun arviota ei mainita sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla näkyy '+358 20 198 3460' sekä palveluajat 'ma–pe 6–19, la 8–16 ja su 11–17'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla näkyy sähköpostiosoite 'info@barona.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainittu millään fetatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeron yhteydessä mainitaan aukioloajat: 'ma–pe 6–19, la 8–16 ja su 11–17'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osio on olemassa kahdella tavalla: 'Töihin ulkomaille - Usein kysytyt kysymykset' -sivu käsittelee ulkomailla työskentelyn kysymyksiä, ja 'Barona työnantajana' -sivulla on osio 'Usein kysyttyjä kysymyksiä Baronasta työnantajana' jossa käsitellään erilaisia työsuhteita ja etuja."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainittu sivuilla. Barona Careersin sanotaan olevan digitaalinen työnhakupalvelu, mutta erillisen sovelluksen olemassaoloa ei mainittu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 97,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 12184.080999999998,
+    "cls": 0.10640185455148807,
+    "tbt_ms": 6028.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hakuprosessi on selkeasti kuvattu viidessä vaiheessa: profiilin luominen, työpaikkojen selaaminen, hakemuksen lähettäminen, edistymisen seuranta ja työn aloittaminen.",
+    "Työsuhteen muodot selitetty kattavasti: keikkatyö, määräaikaiset ja vakituiset tehtävät sekä mahdollisuus työskennellä Baronalla tai suoraan asiakasyrityksessa.",
+    "Kattava työntekijäetujen kuvaus sisältäen työterveyshuollon, TES-mukaisen palkan, joustavat työjärjestelyt ja urakehitysmahdollisuudet."
+   ],
+   "kehityskohteet": [
+    "Palkkatieto puuttuu tyypillisissä työnilmoituksissa: sivuilla käsitellään palkkatoivetta käsitteenä, mutta ei näytetä todellisia palkka-alukkita avatuissa työpaikoissa.",
+    "Y-tunnus ei ole näkyvissä yhteystiedoissa tai yritystiedoissa, vaikka se on perustieto työnhakijoille.",
+    "Riippumaton arvio tai sertifiointi puuttuu kokonaan: ei mainintoja työpaikkaselvityksenä tai vertailupalvelun arvioista."
+   ],
+   "yhteenveto": "Barona on vuonna 1999 perustettu suomalainen työnvälityspalvelu, joka tarjoaa monipuolisia työmahdollisuuksia keikkatyöstä vakituisiin tehtäviin. Sivusto on selkeä ja informatiivinen hakuprosessista sekä työsuhteen muodoista, mutta konkreettiset palkkitiedot eivät ole näkyvissä yrityksen omilla sivuilla vaan linkittyvät erilliselle Barona Careers -alustalle.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Barona",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Barona' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "eezy",
+   "nimi": "Eezy",
+   "domain": "eezy.fi",
+   "omistaja": "Eezy Oyj — pörssiyhtiö, syntyi VMP:n ja Smilen fuusiosta 2019, noin 60 toimipistettä",
+   "y_tunnus": "2854570-7",
+   "rekisteroity": 2017,
+   "score": 63.9,
+   "pillars": {
+    "digitaalinen": 65.2,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avoimet työpaikat näkyvät tyopaikat.eezy.fi-sivulla JavaScript-renderöintiin jälkeen; listalla useita aktuaalisia ilmoituksia eri toimialoilta (kauppa, ravitsemuspalvelut, rakentaminen, infra) ilman kirjautumisvaatimusta."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Avoin hakemus' -mahdollisuus ja haku suodattimella toimialan ja paikkakunnalla, mutta ei yksityiskohtaista kuvauksen hakuprosessin vaiheista (esim. kuinka hakemus jätetään, vastausaika, yhteydenotto)."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tyopaikat.eezy.fi-listauksen näkymät eivät sisällä palkkatietoja julkisesti; yksittäisiin ilmoituksiin pääsy epäonnistui (404 vastaus), joten palkkahaarukan näkyvyys jäi varmistamatta."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Henkilöstövuokraus-sivulla selostetaan kuusi työsuhteen muotoa: henkilöstövuokraus, rekrytointi, try-and-hire, kevytyrittäjyys, kausityö ja kansainvälinen työvoima; esitetään, että työntekijä on Eezyn palkkalistoilla mutta tekee työtä asiakkaan ohjauksessa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus ei näy Eezy-konsernin julkisissa verkkosivuilla; sivulla mainitaan vain 'Eezy Oyj' ja 'Eezy Henkilöstöpalvelut' sekä toimipisteiden osoite Maistraatinportti 1, Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei ole viittauksia ulkopuolisiin arviointipalveluihin, asiakassivustoihin tai riippumattomiin tutkimuksiin; mainitaan sisäiset tutkimukset (NPS 67, henkilöstötutkimus 93 % suositteluhalukkuus)."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 84,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 10476.5685,
+    "cls": 0.18259247664229716,
+    "tbt_ms": 650
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Avoimet työpaikat selattavissa ilman kirjautumista omalla tyopaikat.eezy.fi-alasivustolla, jossa näkyvät useat aktualliset listaukset.",
+    "Laaja ja monipuolinen palveluvalikoima työntekijöille: henkilöstövuokraus, rekrytointi, kevytyrittäjyys ja työllisyyspalvelut selkeästi eritelty.",
+    "Kontaktitiedot helposti saatavilla: palvelunumero 010 581 4400 (ma-pe 9-15), päivystys 010 279 7800 ja henkilökohtaiset sähköpostiosoitteet muodossa etunimi.sukunimi@eezy.fi."
+   ],
+   "kehityskohteet": [
+    "Palkkatiedot eivät näy työpaikkailmoituksissa tyopaikat.eezy.fi-sivulla, vaan ne ovat todennäköisesti piilossa yksittäisten ilmoitusten takana.",
+    "Hakuprosessin vaiheita ei ole selkästi kuvattu: ei selvää ohjetta siitä, miten hakemus jätetään, milloin saa vastauksen tai kuka ottaa yhteyttä.",
+    "FAQ-osio puuttuu kokonaan (404-virhe osoitteessa eezy.fi/ukk/), eikä yleisten kysymysten vastaukset ole saatavilla."
+   ],
+   "yhteenveto": "Eezy on Nasdaq-listattu henkilöstöpalveluyritys, jonka avoimet työpaikat ovat selattavissa ilman kirjautumista. Sivusto tarjoaa selkeät kontaktitiedot, mutta palkkatiedot ja hakuprosessin yksityiskohdat jäävät puutteellisiksi. Y-tunnusta ei esitellä julkisesti näillä sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Eezy",
+    "paivakatselut_ka": 5,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Eezy' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "bolt-works",
+   "nimi": "Bolt.Works",
+   "domain": "bolt.works",
+   "omistaja": "Bolt.Works Oy — suomalainen, rakennus-, teollisuus- ja logistiikka-alat",
+   "y_tunnus": "2041555-3",
+   "rekisteroity": 2006,
+   "score": 60.5,
+   "pillars": {
+    "digitaalinen": 75.9,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 58.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: avoimet-tyopaikat-sivulla näytetään 232 avointa työpaikkaa kategorisoidusti (teollisuus, logistiikka, hotelli-ravintola, kauppa, kiinteistöhuolto, rakentaminen, toimisto). Listaukseen pääsee ilman sisäänkirjautumista."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: bolt-works-tyonantajana-sivulla kuvataan vuokratyösuhteen prosessi, TES-palkkaus, viisi-tähtisen palautteen bonus, työterveyspalvelut. bolt-works-sovellus-tyontekijalle-sivulla kuvataan profiilin luonti, SMS-salasanainen kirjautuminen, keikoille hakeminen ja työsuhteiden hallinta."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: kun avoimet-tyopaikat-sivulla ladataan JS:llä, näkyvissä olevissa työpaikkakortteissa ei ole palkkainformaatiota. Niissä näytetään vain tehtävänimike, sijainti, työsuhteen kesto, työaikatyyppi ja hakuaika. bolt-works-tyonantajana-sivulla mainitaan aina vähintään TES:n mukainen tai parempi palkka mutta tätä ei toisteta yksittäisten ilmoitusten kohdalla."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: bolt-works-tyonantajana-sivulla eritelään selkeästi vuokratyösuhde (työnantaja on Bolt.Works, asiakas opastaa) vs. suorarekrytointi (asiakas hakee suoraan kirjoilleen). Lisäksi kerrotaan mahdollisuudesta siirtyä suorarekrytoinniksi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 2041555-3 näkyy ota-yhteytta-sivulla sekä toimipiste-sivuilla ja sivun footerissa Bolt.Works Oy:lle."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: sivustolla ei mainittu riippumatonta arviota, sertifikaattia tai auditoinnin tuloksia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: tyonhakijoille-ja-tekijoille/ota-yhteytta-sivulla luetellaan 19 toimipistettä ja niiden yhteystiedot pudotusvalikon kautta, mutta puhelinnumeroita ei näy. Toimipiste-sivuilla (esim. helsinki) näytetään osoite ja aukioloajat, mutta ei puhelinnumeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: tyonhakijoille-ja-tekijoille/ota-yhteytta-sivulla näytetään laskutussähköpostit (003720415553@procountor.apix.fi), mutta ei työnhakijoiden yhteydenottosähköpostia."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: chat-vaihtoehtoa ei mainittu missään ladatussa sivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: toimipiste-sivuilla näytetään aukioloajat, esim. Helsinki: Olemme avoinna arkisin klo 8-16."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: sivustolla ei havaittu FAQ-osiota."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Bolt.Works-sovellus kuvataan bolt-works-sovellus-tyontekijalle-sivulla ja bolt-works-tyonantajana-sivulla. Sovellus saatavilla app storeissa ja web-pohjaisesti (https://app.bolt.works)."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3348.586605,
+    "cls": 0.0004902528903974287,
+    "tbt_ms": 5189.554779999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laajat avoimet työpaikat (232 sivulla käynnin aikaan) selailtavissa ilman kirjautumista kategorioittain",
+    "Sovellus ja hakuprosessi kuvattu yksityiskohtaisesti: profiilin luonti, SMS-salasana, keikoille hakeminen",
+    "Työsuhteen muodot selkeästi eritelty: vuokratyö vs. suorarekrytointi, kummankin prosessi ja edut"
+   ],
+   "kehityskohteet": [
+    "Palkkatieto täysin puuttuu avoimista työpaikoista – ei kerrottu TES-palkkaa tai palkkahaarukkaa ilmoituksissa vaikka sivulla mainitaan aina vähintään TES-mukainen palkka",
+    "Yhteystiedot puuttuvat job seeker -näkymästä: ei puhelinnumeroa, sähköpostia tai chat-vaihtoehtoa työnhakijoille",
+    "FAQ-osio puuttuu – kysymyksiin vastaamista ei ole järjestetty keskitetysti"
+   ],
+   "yhteenveto": "Bolt.Works on valtakunnallinen henkilöstöpalveluyritys, jolla on 19 toimipistettä ja 232 avointa työpaikkaa. Avoimet työpaikat ovat selattavissa ilman kirjautumista ja hakuprosessi kuvataan selkeästi sekä webissä että sovelluksessa. Sivustolle kuitenkin jää merkittävät läpinäkyvyysvajeet: palkkatieto puuttuu täysin ilmoituksista vaikka yritys lupaa TES-palkkaa, ja työnhakijoiden suoran yhteydenoton kanavaita ei ole näkyvissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "academic-work",
+   "nimi": "Academic Work",
+   "domain": "academicwork.fi",
+   "omistaja": "Academic Work Finland Oy — ruotsalainen konserni, nuorten ammattilaisten välitys",
+   "y_tunnus": "2756351-6",
+   "rekisteroity": 2016,
+   "score": 56.6,
+   "pillars": {
+    "digitaalinen": 67.7,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 50.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /avoimet-tyopaikat/ sivulla näkyvät 99 avointa työpaikkaa, joita voi selata ilman sisäänkirjautumista. Ilmoituksissa näkyvät työn otsikko, yritys, sijainti, työsuhteen tyyppi ja palkkausmuoto."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /tyonhakijoille/ sivulla kuvataan prosessia seuraavasti: 'Rekrytointiprosessi vaihtelee tehtävästä riippuen, mutta siihen sisältyy yleensä loogisen päättelyn testi ja persoonallisuustesti sekä haastatteluja etänä ja kasvokkain.' Sivulla kerrotaan myös profiilin luomisen ja hakemusten lähettämisen prosessista."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /avoimet-tyopaikat/ sivulla olevia ilmoituksia tarkasteltaessa yksikään ei sisällä palkkaa tai palkkahaarukkaa. Ilmoituksissa näkyvät vain työn otsikko, yritys, sijainti, työsuhteen tyyppi ja palkkausmuoto."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Työsuhteen tyypit on merkitty lyhyesti ilmoituksissa (Kokoaikainen, Osa-aikainen) ja palkkausmuoto (Suorarekrytointi, Vuokratoimeksianto), mutta yksityiskohtaisia ehtoja tai muita työsuhteen tietoja ei ole saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy /tietoa-meista/, /yhteystiedot/ tai /avoimet-tyopaikat/ sivuilta. Muut yritystietosivut (Käyttöehdot, Tietosuojaseloste) palauttavat 404-virheen."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvillä riippumatonta arviota, arvosteluja tai luottamusmerkkejä (kuten Luotettava Kumppani -merkki) saatavilla ensisijaisilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 97,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 17090.562579999998,
+    "cls": 0,
+    "tbt_ms": 5987.837250000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Avoimet työpaikat ovat selattavissa helposti ilman kirjautumista - 99 avointa paikkaa näkyvillä /avoimet-tyopaikat/ sivulla",
+    "Hakuprosessi on kuvattu selkeästi sisältäen testit, haastattelut ja profilin luomisen",
+    "Yhteystiedot ja toimistojen sijainnit ovat helposti löydettävissä (puhelin +358 106 805 600, sähköposti info@academicwork.fi, toimistot Espoossa ja Tampereella)"
+   ],
+   "kehityskohteet": [
+    "Palkkatieto puuttuu kokonaan työilmoituksista - hakijat eivät voi arvioida taloudellista sopivuutta ennen hakemusvaihetta",
+    "Työsuhteen ehdot ja muodot jäävät epäselviksi - ilmoituksissa näkyvät vain lyhyet koodit (Kokoaikainen, Osa-aikainen, Suorarekrytointi, Vuokratoimeksianto)",
+    "Y-tunnus ja muut yritystiedot puuttuvat sivustolta - riippumatonta arviota tai luottamusmerkkejä ei ole helposti näkyvillä"
+   ],
+   "yhteenveto": "Academic Work on Suomeen vuonna 1998 perustettu henkilöstöpalveluyritys, joka erikoistuu korkeakoulutettujen uran alkuvaiheen osaajien rekrytointiin. Sivusto mahdollistaa 99 avoimen työpaikan selayksen ilman sisäänkirjautumista ja kuvaa rekrytointiprosessia selkeästi, mutta palkkatieto puuttuu ilmoituksista ja yritystiedot ovat puutteelliset.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Academic Work",
+    "paivakatselut_ka": 0,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Academic Work' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "bondata",
+   "nimi": "Bondata Henkilöstöpalvelut",
+   "domain": "henkilostopalvelut.bondata.fi",
+   "omistaja": "Bondata Group Oy (ent. Go On Group) — Korona Invest -omisteinen alueyhtiöverkosto",
+   "y_tunnus": "3293589-8",
+   "rekisteroity": 2022,
+   "score": 54.3,
+   "pillars": {
+    "digitaalinen": 64.2,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 55.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: henkilostopalvelut.bondata.fi/tyonhakijalle -sivulla mainitaan 'Katso avoimet työpaikat' ja bondata.fi etusivulla näkyy joitakin esimerkkejä työpaikoista (Liikenneasematyöntekijä, Pakkaava jäteauton kuljettaja jne.), mutta varsinainen selattava lista ei ole helposti löydettävissä."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: henkilostopalvelut.bondata.fi/tyonhakijalle -sivulla mainitaan 'Tee avoin hakemus' ja työnhakijoille tarjotaan työkalupakkia, mutta yksityiskohtainen hakuprosessin kuvaus (mitä vaiheita, kesto, seuranta) puuttuu."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: bondata.fi -etusivulla näkyy muutama työpaikka (Liikenneasematyöntekijä St1 Oulosalo jne.) mutta yhdessäkään ei näy palkkaa tai palkkahaarukaa. Hakutulosten palkkatieto on epäselvä."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: henkilostopalvelut.bondata.fi etusivulla tekstissä 'Määräaikainen, vakituinen, osa-aikainen, kokoaikainen, keikkatyöntekijä, kausityöntekijä – vuokratyöstä on moneksi!' ja meistä-sivulla 'Me tunnemme työn ja tekijät, ja ymmärrämme mitä hyvä työ vaatii'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0974659-7 näkyy jokaisella sivulla footerissa, osoite Åkerlundinkatu 11 D, 33100 Tampere."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilta ei löydy viitteitä riippumattomiin arvioihin, palkintoihin tai sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 85,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 6636.470499999999,
+    "cls": 0,
+    "tbt_ms": 6513.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus ja perustiedot selvästi näkyvillä kaikilla sivuilla",
+    "Työsuhteen muodot kuvattu selkeästi: määräaikainen, vakituinen, osa-aikainen, kokoaikainen, keikkatyöntekijä, kausityöntekijä",
+    "Työnhakijoille dedikoidut sivut ja työkalupakki-osio tarjoavat neuvoja"
+   ],
+   "kehityskohteet": [
+    "Avoimet työpaikat eivät ole selkeästi selattavissa ilman kirjautumista tai ulkoista portaalia",
+    "Palkkatieto puuttuu lähes kokonaan näkyvistä ilmoituksista – bondata.fi mainitsee muutaman työpaikan mutta ilman palkkaa",
+    "Hakuprosessin yksityiskohtaiset vaiheet sivulla eivät ole selkeästi dokumentoituja; linkitys ulkoiseen portaaliin on epäselvä"
+   ],
+   "yhteenveto": "Bondata on henkilöstövuokraus- ja rekrytointipalveluyritys, joka tarjoaa laajan valikoiman työpaikkoja ympäri Suomea. Yrityksen tiedot ja työsuhteen muodot ovat selvästi dokumentoituja, mutta työpaikkojen selailu ja niistä saatava palkkatieto ovat vähäisiä julkisilla sivuilla. Haku näyttää ohjautuvan osittain ulkoiseen järjestelmään tai vaativan kirjautumista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "manpower",
+   "nimi": "Manpower",
+   "domain": "manpower.fi",
+   "omistaja": "ManpowerGroup Oy — osa yhdysvaltalaista ManpowerGroupia",
+   "y_tunnus": "1091032-3",
+   "rekisteroity": 1997,
+   "score": 53.8,
+   "pillars": {
+    "digitaalinen": 56.9,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 60.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "11/100",
+       "paino": 40,
+       "pisteet": 11,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "79/100",
+       "paino": 30,
+       "pisteet": 79,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy '21 Avoinna olevaa työpaikkaa' selattavissa kategorioittain ja paikkakunnittain ilman kirjautumisvaatimusta. Luetteloissa näkyy työpaikan nimi, paikkakunta ja 'HAE NYT' -painike."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston sisällössä kuvataan: 'Työpaikkaa pääset hakemaan Hae nyt -kohdasta. Täytä hakulomake ohjeiden mukaan. Voit hakea työpaikkaa joko täyttämällä hakulomakkeen tai yhdistämällä LinkedIn-profiilisi hakemukseen, minkä jälkeen lisäät hakemuksesi ja CV:si.'"
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun job-listausosassa näkyviä ilmoituksia ei voida ladata täysimääräisesti. Ei voitu vahvistaa, sisältävätkö yksittäiset ilmoitukset palkkatieto. SPA-rakenne esti sivun sisäisten linkkien seuraamiseen."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Blogissa mainitaan vuokratyösuhteita ja henkilöstöpalvelua, mutta yksityiskohtaiset työsuhteen muodot ja ehdot eivät ole näkyvissä etusivulla. Sisäiset sivut jäivät saavuttamattomaksi."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yrityksen Y-tunnusta ei löytynyt etusivulta, blogista tai muista ladatuista osista."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arviointiorganisaatioita tai sertifikaatteja ei mainittu ladatuissa osissa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyy 'Yhteystiedot' Helsinki, Tampere, Turku, Kuopio, mutta suoria puhelinnumeroita ei voida vahvistaa etusivulla. Tarkemmat yhteystiedot näyttäisivät olevan vain sisäisissä sivuissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteita ei näkyvissä etusivulla tai blogissa. Yhteystiedot-sivusto näyttäisi sisältävän ne, mutta se ei ollut saavutettavissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyy 'Työnhakijoiden kysymyksiä' ja englanninkielisessä 'Questions & Answers', mutta FAQ-sisältö ei ollut ladattavissa SPA-rakenteen takia."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 11,
+    "accessibility": 79,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 12725.58847,
+    "cls": 0.3037667071688943,
+    "tbt_ms": 7298
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Avoimet työpaikat selailtavissa ilman kirjautumista - 21 paikkaa näkyy etusivulla kategorioiden ja paikkakuntien mukaan",
+    "Hakuprosessi selkeästi kuvattu: hakemuksen voi tehdä täyttämällä lomakkeen tai linkittämällä LinkedIn-profiilin",
+    "Laaja blogi uraohjeilla - jobseeker-kokemukseen liittyviä artikkeleita työnhausta, haastatteluista ja cv:n laadinnasta"
+   ],
+   "kehityskohteet": [
+    "SPA-rakenne estää suurimman osan sivuista yhteydenottopyyntöihin vastaamisen - yhteystiedot näkyvät vain paikkakuntina, ei suoria puhelinnumeroita tai sähköposteja",
+    "Palkkatiedot eivät näkyvissä työnhakijoiden ladatessa etusivua - ei voida vahvistaa, ovatko ne yksittäisissä ilmoituksissa",
+    "Yrityksen Y-tunnus, riippumattomia arvioita tai tarkempia työsuhdetietojen selityksiä ei löydy etusivulta tai blogista"
+   ],
+   "yhteenveto": "Manpower on kansainvälinen henkilöstöpalveluyritys, jonka suomalainen sivusto tarjoaa avoimia työpaikkoja useilla aloilla. Etusivulla näkyvät työpaikat selailtavissa ilman rekisteröitymistä ja hakuprosessi on kuvattu, mutta sivuston SPA-rakenne estää yksityiskohtaisempien tietojen hakemisen. Yhteystiedot ovat osittain näkyvissä paikkakuntien tasolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "adecco",
+   "nimi": "Adecco",
+   "domain": "adecco.com",
+   "omistaja": "Adecco Finland Oy — osa sveitsiläistä Adecco Groupia; suomenkielinen palvelu adecco.com/fi-fi",
+   "y_tunnus": "1042464-0",
+   "rekisteroity": 1996,
+   "score": 51.8,
+   "pillars": {
+    "digitaalinen": 59.0,
+    "lapinakyvyys": 42.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 46.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "5/100",
+       "paino": 40,
+       "pisteet": 5,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avoimet työpaikat -sivulla (avoimet-tyopaikat/) näkyy 59 avointa työpaikkaa selattavissa. Sivulla näkyvät työt on ryhmitelty kategorioittain (Teollisuus ja tuotanto, Tekniikka ja suunnittelu jne.) ja niitä voi selailla ilman kirjautumista."
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Työpaikkailmoituksissa näkyy 'HAE TYÖPAIKKAA' -painike, mutta hakuprosessin yksityiskohtaiset vaiheet eivät ole näkyvissä ladatuissa sivuissa. Yhteydenottopyyntö antaa tietoa: 'Vastaamme arkisin klo 8.00-14.00 saman päivän aikana'. Hakuprosessin tarkemmat tiedot ovat saavutettavissa vain kirjautumisen jälkeen tai sähköpostitse."
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Työpaikkailmoituksissa näkyvät otsikko, sijainti, toimiala ja työsuhdetyyppi (Määräaikainen/Vakituinen), mutta palkkaa tai palkkahaarukkaa ei mainita missään ladatuissa ilmoituksissa."
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Työsuhdemitojen perusmuodot (Määräaikainen/Vakituinen) ovat näkyvissä jokaisessa ilmoituksessa. Esimerkiksi ilmoituksessa 'Tuotantotyöntekijä, avoin haku' mainitaan 'Määräaikainen' ja 'Vakituinen'. Yksityiskohtaiset ehdot (sopimukseen liittyvät detaljit) eivät ole näkyvissä verkkosivulla, vaan ne viitataan lataamatta jäävissä dokumenteissa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan 'Adecco Finland Oy:n pääkonttori sijaitsee osoitteessa Kuortaneenkatu 2, 00510 Helsinki', mutta Y-tunnusta ei näytetä verkkosivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivulla ei ole näkyvissä riippumattoman tahon antamia arvioita tai sertifikaatteja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero +358 46 710 2500 on näkyvissä sivun footerissa. Lisäksi yksittäisten työpaikkojen yhteystiedoissa mainitaan henkilöiden puhelinnumerot (esimerkiksi 'puh. 050 386 9811')."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite ADECCO@ADECCO.FI on näkyvissä sivun footerissa sekä tekstissä 'Voit ottaa meihin yhteyttä myös sähköpostitse osoitteeseen ADECCO@ADECCO.FI.'"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ilmoituksessa mainitaan 'arkisin klo 8.00-14.00' vastausajasta yhteydenottopyyntöjen osalta, mutta yleisiä toimiston aukioloaikoja ei ole näkyvissä verkkosivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyy linkki UKK-osioon, mutta sivu palauttaa 404-virheen. Sivusto näkyy olevan päivitysprosessissa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 5,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 25641.074999999997,
+    "cls": 0.5688455999362544,
+    "tbt_ms": 13308.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "59 avointa työpaikkaa selattavissa ilman kirjautumista",
+    "Selkeä yhteystietojen esittäminen puhelinnumerolla ja sähköpostilla",
+    "Työsuhdemitojen perusmerkinnät näkyvissä ilmoituksissa (Määräaikainen/Vakituinen)"
+   ],
+   "kehityskohteet": [
+    "Palkkatieto puuttuu kokonaan työpaikkailmoituksista",
+    "Y-tunnus ei näkyvissä verkkosivulla",
+    "Useat työnhakijoille suunnatut sivut palauttavat 404-virheitä sivuston päivityksen vuoksi"
+   ],
+   "yhteenveto": "Adecco Finland Oy on henkilöstöpalveluyritys, joka tarjoaa rekrytointi-, vuokraus- ja muita HR-ratkaisuja. Avoimet työpaikat ovat helposti selattavissa ilman kirjautumista, mutta palkkatieto puuttuu ilmoituksista kokonaan. Verkkosivusto on parhaillaan uudistuksen alla, mikä näkyy lukuisten 404-virheiden kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Adecco",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Adecco' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "staffpoint",
+   "nimi": "StaffPoint",
+   "domain": "staffpoint.fi",
+   "omistaja": "StaffPoint Oy — osa StaffPoint Holdingia, valtakunnallinen",
+   "y_tunnus": "2492090-1",
+   "rekisteroity": 2012,
+   "score": 50.8,
+   "pillars": {
+    "digitaalinen": 74.7,
+    "lapinakyvyys": 32.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 48.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Avoimet työpaikat selattavissa ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Avoimet työpaikat -hakutoiminto näkyy etusivulla, mutta varsinaisten ilmoitusten selaamiseen vaaditaan evästeiden hyväksymys ja vuorovaikutus hakuportaalin kanssa"
+      },
+      {
+       "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan 'löydä omaan tilanteeseesi sopiva ja hae', mutta yksityiskohtaista hakuprosessin dokumentaatiota ei ole saatavilla; /hakuprosessi-sivu palauttaa 404-virheen"
+      },
+      {
+       "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palkkatietoja ei voitu varmentaa, koska varsinaiset työnilmoitukset ovat hakuportaalin takana, johon ei voitu päästä ilman vuorovaikutusta"
+      },
+      {
+       "mittari": "Työsuhteen muodot ja ehdot selitetty",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Työsuhteen muodoista ja ehdoista ei löytynyt dokumentaatiota; /tyosuhteen-ehdot-sivu palauttaa 404-virheen"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritysrekisterinumeroa (Y-tunnusta) ei ole näkyvissä millään julkisella verkkosivulla"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyvät arviot ja referenssit ovat StaffPointin asiakkaiden (työnantajien) referenssejä, eivät riippumattomia kolmannen osapuolen arviointeja"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa on selvästi listattuna sivustolla: 0800 176105 ja 09 726 2800"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteita on näkyvissä erityisten yhteyshenkilöiden osalta (esim. minna.arneal@staffpoint.fi), mutta yleistä yhteydenottosähköpostia ei ole helposti löydettävissä pääsivuilta"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Keskustelutoimintoa (chat-tukea) ei mainittu missään saatavilla olevissa sivuosioissa"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Liiketoiminnon aukioloaikoja ei ole ilmoitettu verkkosivuilla"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysyttyä' -osio on näkyvissä työnantajille suunnatuilla sivuilla (mm. 'Miten henkilöstövuokraus toimii', 'Mitä se maksaa'), mutta työnhakijoille suunnattua FAQ-osiota ei ole saatavilla"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5114.021000000001,
+    "cls": 0,
+    "tbt_ms": 2156
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä yhteystietojen esittäminen kahdella puhelinnumerolla ja fyysisellä osoitteella",
+    "Kattava Spring House -palveluvalikoima työnhakijoiden urakehitykseen ja valmennukseen",
+    "Moninaiset työpaikat eri toimialoilla ja sesonkityöt selkeästi esillä"
+   ],
+   "kehityskohteet": [
+    "Työnhakijoiden näkökulmasta dokumentoidun hakuprosessin puuttuminen",
+    "Yritysrekisterinumeron ja juridisen tiedon puuttuminen julkiselta verkkosivustolta",
+    "Monet sisältösivut palauttavat 404-virheitä, mikä heikentää saavutettavuutta ja luottamusta"
+   ],
+   "yhteenveto": "StaffPoint on suomalainen henkilöstövuokraus- ja rekrytointipalvelujen yritys, joka tarjoaa työnhakijoille pääasiassa hakuportaalin kautta löydettävissä olevia työpaikkoja. Sivusto on selvästi suunniteltu työnantajille ja niiden palveluntarpeille, kun taas työnhakijapuoli jää suppeammaksi ja monilta osin dokumentoitavien sivujen puuttuessa epäselvemmäksi. Spring House -palvelun kautta yhtiö tarjoaa laajempaa uratukea ja koulutusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Staffpoint",
+    "paivakatselut_ka": 1,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Staffpoint' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Tyonvalitys- ja henkilostopalveluyritykset valittavat toita tuhansille suomalaisille vuokratyosta vakituisiin tehtaviin. Tyonhakijalle olennaista on, voiko avoimia paikkoja selata ilman kirjautumista, kuvataanko hakuprosessi, kerrotaanko palkka ilmoituksissa ja selitetaanko tyosuhteen muodot ymmarrettavasti. Vertailu mittaa juuri naita asioita yritysten julkisilta sivuilta.",
+  "huomioita": [
+   "Avoimet tyopaikat ovat lahes kaikilla toimijoilla selattavissa ilman kirjautumista, mutta hakeminen edellyttaa yleensa profiilin luomista palveluun.",
+   "Palkkatieto ilmoituksissa on alalla harvinainen: useimmat ilmoitukset kertovat tehtavan ja sijainnin mutta eivat palkkaa tai edes haarukkaa. Tama on selkein yksittainen lapinakyvyyspuute tyonhakijan kannalta.",
+   "Vuokratyossa tyonantaja on henkilostopalveluyritys, ei kayttajayritys. Palkka maaraytyy kayttajayrityksen alan tyoehtosopimuksen mukaan, mika kannattaa varmistaa ennen sopimusta.",
+   "Osa yrityksista hoitaa tyosuhteen asiat mobiilisovelluksella tai portaalissa, mika nopeuttaa esimerkiksi tuntikirjauksia ja palkkatietojen seurantaa.",
+   "Ala on keskittynyt: useat tunnetut brandit kuuluvat samoihin konserneihin, ja fuusiot ovat yleisia. Kerromme omistajan jokaisen yrityksen sivulla."
+  ],
+  "vinkit": [
+   "Kysy palkka ja tyosuhteen ehdot suoraan jo haastattelussa, jos niita ei kerrota ilmoituksessa. Vuokratyossa sovellettava tyoehtosopimus maarittaa vahimmaistason.",
+   "Luo profiili useampaan palveluun: eri yrityksilla on eri kayttajayritysasiakkaat, joten paikkatarjonta vaihtelee selvasti.",
+   "Tarkista, maksetaanko lomakorvaus vai kertyyko vuosiloma, ja miten sairausajan palkka toimii keikkatyossa. Kaytannot on selitetty hyvien toimijoiden sivuilla."
+  ],
+  "ukk": [
+   {
+    "q": "Maksaako tyonvalityspalvelun kaytto tyonhakijalle?",
+    "a": "Ei. Suomessa henkilostopalveluyritys ei saa peria tyonhakijalta maksua tyonvalityksesta, vaan palkkion maksaa tyovoimaa tarvitseva yritys."
+   },
+   {
+    "q": "Miksi palkkaa ei kerrota ilmoituksissa?",
+    "a": "Ala vetoaa usein siihen, etta palkka maaraytyy tyoehtosopimuksen ja kokemuksen mukaan. Tyonhakijan kannalta edes palkkahaarukan kertominen saastaisi kaikkien aikaa, ja siksi palkkatiedon avoimuus on yksi vertailumme painavimmista mittareista."
+   },
+   {
+    "q": "Mita eroa on vuokratyolla ja suorarekrytoinnilla?",
+    "a": "Vuokratyossa tyosopimus tehdaan henkilostopalveluyrityksen kanssa ja tyo tehdaan kayttajayrityksessa. Suorarekrytoinnissa henkilostopalveluyritys hoitaa vain haun, ja tyosopimus syntyy suoraan tyollistavan yrityksen kanssa."
+   },
+   {
+    "q": "Kertyyko vuokratyosta lomaa ja elaketta?",
+    "a": "Kylla. Vuokratyontekijalla on samat lakisaateiset oikeudet kuin muillakin tyontekijoilla: vuosilomaa tai lomakorvaus, tyoelakemaksut ja tyoterveyshuolto tyosuhteen keston ja ehtojen mukaisesti."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Avoimet työpaikat selattavissa ilman kirjautumista (25), hakuprosessi ja sen vaiheet kuvattu (20), palkka tai palkkahaarukka kerrottu ilmoituksissa (20), työsuhteen muodot ja ehdot selitetty (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

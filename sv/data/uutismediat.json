@@ -1,0 +1,1867 @@
+{
+ "slug": "uutismediat",
+ "nimi": "Uutismediat",
+ "nav": "Uutismediat",
+ "h1": "Suomen paras uutismedia 2026",
+ "yksikko": "suomalaista uutismediaa",
+ "lead": "Pisteytimme {n} suomalaista uutismediaa {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: kerrotaanko lukijalle avoimesti, mitä sisältö maksaa, kuka siitä vastaa ja miten virheet korjataan?",
+ "meta_title": "Suomen paras uutismedia 2026 | uutismediat pisteytettynä | Suomen Paras",
+ "meta_desc": "8 suomalaista uutismediaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Vertailemme yksittäisiä medioita, emme konserneja.</b> Siksi listalla on esimerkiksi sekä Helsingin Sanomat että Ilta-Sanomat, vaikka molempia julkaisee Sanoma Media Finland Oy, ja sekä Iltalehti että Kauppalehti (Alma Media). Julkaisija ja omistaja kerrotaan jokaisen median sivulla.",
+  "<b>Emme arvioi journalismin laatua tai linjaa.</b> Mittaamme median verkkosivuston läpinäkyvyyttä lukijan silmin: näkyykö tilaushinta ennen tietojen antamista, onko vastaava päätoimittaja ja toimituksen yhteystiedot esillä, kuvataanko virheiden korjauskäytäntö ja erotellaanko kaupallinen sisältö journalismista. Emme ota kantaa sisältöön.",
+  "<b>Yle on mukana eri rahoitusmallilla.</b> Yle Uutiset on Yle-verolla rahoitettu julkisen palvelun media ilman tilausmaksua — sen kohdalla tilaushintakriteeri mittaa, kerrotaanko maksuttomuus ja rahoitusmalli selkeästi."
+ ],
+ "yritykset": [
+  {
+   "slug": "yle-uutiset",
+   "nimi": "Yle Uutiset",
+   "domain": "yle.fi",
+   "omistaja": "Yleisradio Oy — julkisen palvelun media, rahoitus Yle-verolla, eduskunnan valvonnassa",
+   "y_tunnus": "0215438-8",
+   "rekisteroity": 1978,
+   "score": 81.2,
+   "pillars": {
+    "digitaalinen": 65.0,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 88.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastuullisuussivu ilmoittaa 'Verorahoitteisesti toimivana yhtiönä Yle kiinnittaa erityistä huomiota sisältöjensä ja tuotantojensa vastuullisuuteen'. Toimintaperiaatteiden sivulla lueteltuina Yle-lain määrittelemät julkisen palvelun tehtävät ja mainitaan yleisradiovero rahoituslähteenä."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Organisaatiosivulla (Ylen yksiköt) nimetään vastaavat paatoimittajat: Uutiset ja urheilu -yksikön johtajana ja vastaavana paatoimittajana toimii Krista Taubert; Kulttuuri ja asia -yksikön johtajana ja vastaavana paatoimittajana Johanna Törn-Mangs; Svenska Ylen johtajana ja vastaavana paatoimittajana Anna Forth."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omalla sivullaan kuvattu tarkasti oikaisu- ja vastinepyynnön prosessi, sähköpostiosoite oikaisu@yle.fi, ohjeet mitä sisällyttää pyyntöön, ja jaotteltu erilliset osoitteet ruotsinkielisille ja saamenkielisille sisällöille."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ylen koko liiketoimintamalli on julkisen palvelun rahoitus ilman kaupallista mainontaa. Vastuullisuussivulla ei mainita mitään mainostuloista tai kaupallisesta sisällöstä - organisaatio kuvataan kokonaan verorahoitteisena."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtiö kutsutaan 'Yleisradio Oy':ksi organisaatiosivuilla, ja mainitaan 99,98 % valtion omistuksesta, mutta erityistä Y-tunnusta ei näy selkeästi julkisesti saatavilla olleissa sivuissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastuullisuussivulla mainitaan sitoumus YK:n kestävän kehityksen tavoitteisiin, Global Compact -yritysvastuuhaasteen periaatteisiin, ja FiBS ry:n jäsenyys vuodesta 2011. Erityisiä JSN-jäsenyyttä tai ulkoisia auditointilausuntoja ei löydetty haetuilta sivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla Ylen vaihde numerolla 09 14801. Organisaatiosivulla mainitaan erilliset puhelinnumerot tekniselle tuelle: +358 9 1480 5500 suomeksi ja +358 9 1480 4653 ruotsiksi."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla sähköpostiosoitteet muodossa etunimi.sukunimi@yle.fi, erityisesti oikaisu@yle.fi oikaisu- ja vastinepyynnöille, yle.uutiset@yle.fi uutisille ja yle.urheilu@yle.fi urheilu-juttuvinkeille."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla mainitaan 'Chabla-palvelun kautta' asiakaspalvelu, jonne voidaan ladata maksuton iOS- tai Android-sovellus."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla mainittu televisio-studioihin saapuvien vieraiden sisäänkäynti avoinna ma-pe 05.00-10.00 ja 16.45-22.15. Mediatalon aula suljettu remontin vuoksi 25.1.2026 alkaen."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä FAQ- tai UKK-osiota ei löydetty haetuilta sivuilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla mainittu maksuttomat Chabla-sovellukset iOS:lle ja Androidille asiakaspalvelun kautta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "88/100",
+       "paino": 34,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 11158.010000000002,
+    "cls": 0,
+    "tbt_ms": 11099.500000000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Verorahoitteisuus ja maksuttomuus selkeasti mainittu kaikilla pääsivuilla - lukija tietää palvelun olevan ilmainen ja veroksi rahoitettu",
+    "Vastaavat paatoimittajat nimetty erityisesti kussakin yksikossa (uutiset, kulttuuri, ruotsinkielinen yle) konkreettisilla nimillä ja osastoittain",
+    "Oikaisukäytäntö kuvattu yksityiskohtaisesti omalla sivulla linkkeineen ja sähköpostiosoitteella, plus journalismin eettiset ohjeet avoimesti saatavilla"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole selvästi näkyvillä vaikka yhtiön nimi Yleisradio Oy mainitaan - vain viitataan siihen että 99,98 % omistaa Suomen valtio",
+    "Riippumattomia arviolähteitä (JSN-jäsenyys, ulkoiset auditoinnit) ei mainittu löydetyillä sivuilla - vain sisäisen vastuullisuuden periaatteet",
+    "FAQ-osio (UKK) puuttuu - kysymys-vastaus-muoto helpottaisi useimpien lukijoiden tiedonhakua"
+   ],
+   "yhteenveto": "Yle on veronmaksajien rahoittama kansanpalveluyhtiö, jonka läpinäkyvyys on korkea operatiivisissa asioissa. Organisaatio, vastaavat toimittajat ja korjausmenettely kuvataan selkeästi omilla sivuillaan, ja maksuton status ilmaistaan kaikissa keskeisissa yhteyksissä. Riippumattoman valvonnan viittaukset jäävät kuitenkin vähäisiksi julkisesti saatavilla olevan aineiston perusteella.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Yle Uutiset",
+    "paivakatselut_ka": 32,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Yle Uutiset' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "kaleva",
+   "nimi": "Kaleva",
+   "domain": "kaleva.fi",
+   "omistaja": "Kaleva Media Oy — Kaleva Media ja Ilkka-yhtymä yhdistivät medialiiketoimintansa 1.1.2026 (Kaleva 65 %, Ilkka 35 %)",
+   "y_tunnus": "2715049-8",
+   "rekisteroity": 2015,
+   "score": 80.7,
+   "pillars": {
+    "digitaalinen": 64.0,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 79.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaleva Digi -tilaus 17,90 €/kk (normaali hinta 24,90 €) on selvästi näkyvissä asiakaspalvelu.kalevamedia.fi-sivun tilaus-osiossa. Eri tilauspaketit listattu selkeästi hintoineen ja sisältöineen."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Päätoimittaja Antti Kokkonen nimetty kaleva.fi-sivun footerissa yhteystietoineen: antti.kokkonen@kaleva.fi ja +358 50 343 0379. Lisäksi kalevamedia.fi/yhteystiedot-sivulla lueteltu myös vastaava päätoimittaja Sini Salmirinne."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaleva.fi/oikaisut-sivu näyttää aktiivisesti julkaistuja korjauksia ja oikaisuja useasta kuukaudesta (heinäkuusta toukokuuhun 2026 näkyvissä), mikä osoittaa säännöllisen oikaisukäytännön."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaupallisen sisällön merkitseminen on johdonmukaista - artikkelit merkitty joko 'Kaupallinen yhteistyö' tai 'Mainos' etäisyydellä muusta sisällöstä. Esimerkiksi Oulu2026-aiheisten artikkelien joukossa näkyvät selvästi merkityt kaupallisen yhteistyön artikkelit."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus näkyy kalevamedia.fi/yhteystiedot-sivulla. Laskutustiedot listaavat Kaleva Media Oy (Y-tunnus: 2715049-8) ja Kaleva Oy (Y-tunnus: 0187274-0)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaleva-konsernin Kaleva Vire -vastuullisuusohjelma on dokumentoitu laajasti kalevakonserni.fi-sivuilla, mutta eksplisiittista JSN-jäsenyyttä tai levikintarkastusta ei löydy verkkosivuilta. Riippumattoman valvontaelimen jäsenyys ei ole julkisesti vahvistettu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot näkyvät selvästi: toimitukselle 08 5377 111 ja asiakaspalvelulle 08 5377 610 (ma-pe 9-19, la 9-15). Lisäksi yksittäisten päätoimittajien suorat numerot löytyvät kalevamedia.fi-sivulta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimittajien sähköpostiosoitteet listattu selvästi: toimitus@kaleva.fi pääossoite, ja yksittäisten henkilöiden (esim. antti.kokkonen@kaleva.fi) sähköpostit näkyvät kontaktisivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat (ma-pe 9-19, la 9-15) näkyvät selvästi kaleva.fi-footerissa ja asiakaspalvelu.kalevamedia.fi-sivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyt kysymykset -sivu on saatavilla asiakaspalvelu.kalevamedia.fi/kaleva/asiakastuki/usein-kysytyt-kysymykset/ osoitteessa, jossa luetellaan aiheittain järjestettyjä kysymyksiä ja vastauksia."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaleva-sovellus mainitaan verkkosivuilla, ja se on ladattavissa App Storesta ja Google Playsta. Sovellus tarjoaa rajattoman digilukuoikeuden ja pääsyn podcast-sisältöihin."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 7402.6185000000005,
+    "cls": 0.0909786360812854,
+    "tbt_ms": 2406.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat ja maksullisuus selvästi näkyvissä etusivun päävalikossa ilman piilotettuja ehtoja",
+    "Aktiivinen oikaisujen julkaiseminen säännöllisesti nähtävissä olevalla oikaisut-sivulla, viimeisimmät vain pari viikkoa vanhoja",
+    "Kaupallisen sisällön ja mainosten selkeä merkitseminen (Kaupallinen yhteistyö, Mainos) jokaisen artikkelin kohdalla"
+   ],
+   "kehityskohteet": [
+    "Riippumattoman valvonnan (JSN-jäsenyys, levikintarkastus) julkinen vahvistus tai viittaus puuttuu verkkosivuilla",
+    "Vastaavan päätoimittajan yhteystiedot eivät näy kaleva.fi:n pääsivulla, vaan vain kalevamedia.fi-kontaktilistalla",
+    "Vastuullisuusprogrammi Kaleva Vire on kaleva-konserni.fi-sivulla, ei helposti löydettävissä pääsivulta"
+   ],
+   "yhteenveto": "Kaleva on perinteikäs paikallislehti, joka tarjoaa selkeät tilausmallit ja hinnoittelun sekä toimittaa säännöllisesti oikaisuja. Lehden kaupallisen sisällön erottelu journalismista on hyvin toteutettu, ja päätoimittajan yhteystiedot ovat saatavilla. Riippumatonta journalismin valvontaa koskevan tiedon avoimuutta voitaisiin parantaa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "iltalehti",
+   "nimi": "Iltalehti",
+   "domain": "iltalehti.fi",
+   "omistaja": "Alma Media Finland Oy (Alma Media Oyj) — sama konserni kuin Kauppalehdella",
+   "y_tunnus": "0869288-1",
+   "rekisteroity": 1991,
+   "score": 77.2,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "20/100",
+       "paino": 40,
+       "pisteet": 20,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvä 'TILAA PLUS' -nappi ja /plus-osiolla maininta 'Iltalehti Plus Extra -tilaus sisältää kaikki Iltalehti Plussan edut' - ilmainen pääsisältö Plus- ja Plus Extra -maksulliset tasot saatavilla"
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /info-sivulla 'Kauppinen Perttu, vastaava päätoimittaja' selvästi nimetty, lisäksi uutispäätoimittaja ja muut osastojen johtajat nimetty"
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /info-sivulla 'Oikaisupyynnöt - Jos sinulla on Iltalehden juttua koskeva oikaisupyyntö tai Iltalehden somessa tapahtuvaa keskustelua koskeva moderointipyyntö, lähetä se kirjallisena osoitteeseen oikaisut@iltalehti.fi'"
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja /plus-sivulla näkyvät 'KAUPALLINEN YHTEISTYÖ' -merkinnöt selkeästi erottavat sponsoroidun sisällön (esim. 'KAUPALLINEN YHTEISTYÖ: RAJALA PRO SHOP', 'KAUPALLINEN YHTEISTYÖ: NETTIAUTO')"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /info-sivulla 'Y-tunnus 0869288-1' eksplisiittisesti näkyvissä, julkaisija ilmoitettu 'Alma Media Finland Oy'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /info-sivulla maininta 'Uutismedian liiton jäsen', mikä osoittaa riippumattoman järjestön jäsenyyttä"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 20,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 5929.126000000001,
+    "cls": 0.426293810237233,
+    "tbt_ms": 2564.5155000000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vastaava päätoimittaja ja toimitusorganisointi selkeästi julkaistu /info-sivulla, johtajat nimetty osastoittain",
+    "Kaupallinen sisältö merkitty selvästi (KAUPALLINEN YHTEISTYÖ -otsikko artikkeleissa)",
+    "Oikaisupyyntöjen prosessi ja sähköpostiosoite (oikaisut@iltalehti.fi) selkeästi näkyvissä"
+   ],
+   "kehityskohteet": [
+    "Tilaus- ja käyttöehdot eivät ole suoraan saavutettavissa - sivuston JavaScript-pohjainen reititys estää pääsyn näihin tietoihin",
+    "Iltalehti Plus -hinnoittelu ei ole eksplisiittisesti näkyvissä sivuston julkisilla osilla, vain tilauspyyntö näkyvissä",
+    "Uutismedian liiton jäsenyys mainitaan, mutta ei linkkejä riippumattomaan arvioon tai levikintarkastukseen"
+   ],
+   "yhteenveto": "Iltalehti on Alma Media Finland Oy:n omistama uutislähde, joka tarjoaa pääsääntöisesti ilmaista sisältöä maksullisten Iltalehti Plus ja Plus Extra -tasojen kanssa. Toimitus ja vastuulliset päätoimittajat on nimetty, sekä oikaisukäytäntö on selkeästi kuvattu. Kaupallinen sisältö erotetaan toimittajasisällöstä merkinnöillä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Uutismedian liiton jäsenyys",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla iltalehti.fi/info kerrotaan Uutismedian liiton jäsenyydestä."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Iltalehti",
+    "paivakatselut_ka": 67,
+    "luokka": "Laaja",
+    "lahde": "fi.wikipedia-artikkelin 'Iltalehti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "turun-sanomat",
+   "nimi": "Turun Sanomat",
+   "domain": "ts.fi",
+   "omistaja": "TS-Yhtymä Oy — perheomisteinen (Ketonen), Suomen vanhin edelleen ilmestyvä päivälehti (per. 1904)",
+   "y_tunnus": "0141911-0",
+   "rekisteroity": 1978,
+   "score": 76.2,
+   "pillars": {
+    "digitaalinen": 57.9,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "24/100",
+       "paino": 40,
+       "pisteet": 24,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaushinnat näkyville asiakaspalvelu.ts.fi/tilaa/ -sivulla kolmella selkeällä vaihtoehdolla: 49,50 €/kk (lehti+digi), 34 €/kk (la-su lehti+digi), 20,90 €/kk (digi vain). Sisältö kuvataan jokaisen option kohdalla."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastaava päätoimittaja Rami Nieminen nimetty ts.fi/yhteystiedot/ -sivulla puhelinnumerolla 050 348 9524 ja sähköpostiosoitteella rami.nieminen@ts.fi. Toimituksen johto -osio listaa muut toimittajat ja kontaktit."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ts.fi/yhteystiedot/ mainitaan 'Oikaisupyynnöt: ts.uutiset@ts.fi' mutta varsinaista oikaisukäytäntöä ei kuvailla. FAQ-osiossa asiakaspalvelu.ts.fi/usein-kysytty/ mainitaan, että 'Turun Sanomat noudattaa Julkisen Sanan Neuvoston Journalistin ohjeita' joissa käsitellään virheiden oikaisu, mutta yksityiskohtaista politiikkaa ei ole julkisesti."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mediamyynti on jäljessä omalla palvelulla tsmediat.fi, jossa mainonta eriytetään selkeästi journalismista. Printtimainonta ja digimainonta kuvataan omina osioina. Asiakaspalvelussa maininta 'Kaupallinen yhteistyö' -linkistä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtiön nimi 'Turun Sanomat Oy' mainittu ts.fi/yhteystiedot/ -sivulla osoitteen ja vaihteen yhteydessä, mutta virallista Y-tunnusta (FI-tunnus) ei näy missään tarkastamassa osassa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa asiakaspalvelu.ts.fi/usein-kysytty/ todetaan: 'Turun Sanomat noudattaa Julkisen Sanan Neuvoston Journalistin ohjeita'. JSN-jäsenyys ilmaisee riippumatonta valvontaa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Päävaihde 02 269 3311 ja asiakaspalvelun numero 02 269 3400 näkyy ts.fi/yhteystiedot/ ja asiakaspalvelu.ts.fi -sivuilla. Puhelinnumeroita on monilla eri osastoilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita sähköpostiosoitteita: asiakaspalvelu@ts.fi (asiakaspalvelu), ts.uutiset@ts.fi (uutiset ja oikaisut), rami.nieminen@ts.fi (päätoimittaja), ts.verkkotoimitus@ts.fi (verkkotoimitus). Nämä näkyvät ts.fi/yhteystiedot/ ja asiakaspalvelu.ts.fi -sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenottokanaviksi mainitaan puhelin ja sähköposti, sekä asiakaspalvelupiste Kauppiaskatu 5, Turku. Chat-tukea ei mainittu missään tarkastamassasi osassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat mainittu selkeästi asiakaspalvelu.ts.fi -sivuilla: 'ma–pe klo 8–16.30'. Asiakaspalvelupisteellä 'Ajantasaiset aukiolot tästä' -linkki."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja FAQ-osio asiakaspalvelu.ts.fi/asiakastuki/usein-kysyttya/ -sivulla kattaa tilaukset, sovellukset, maksut, palvelut ja journalismin kysymykset."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi mobiilisovellusta mainittu FAQ-osiossa: Turun Sanomat -uutissovellus (Google Play, App Store) ja erillinen näköislehtisovellus. Sovelluksissa on iOS 13+ ja Android 5+ -tuki."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 24,
+    "accessibility": 81,
+    "seo": 83,
+    "best_practices": 77,
+    "lcp_ms": 8708.577500000001,
+    "cls": 0.1499840779502731,
+    "tbt_ms": 5795.924000000003
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat ja digitaalisen sisällön sisältö kuvattu selkeästi useilla vaihtoehdoilla (lehti+digi, pelkkä digi)",
+    "Vastaava päätoimittaja Rami Nieminen nimetty ja toimituksen yhteystiedot helposti löydettävissä",
+    "Julkisen Sanan Neuvostoon kuuluminen ja JSN:n journalistin ohjeiden noudattaminen mainittu luotettavuuden takeena"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei näy julkisesti missään tarkastamassasi osassa - vain yhtiön nimi 'Turun Sanomat Oy' kerrotaan",
+    "Virheiden korjaus- ja oikaisukäytäntöä ei kuvailla yksityiskohtaisesti - vain sähköpostiosoite ts.uutiset@ts.fi mainitaan",
+    "Chat-tukea ei ole saatavissa - asiakaspalvelu vain puhelimella ja sähköpostilla ma-pe 8-16.30"
+   ],
+   "yhteenveto": "Turun Sanomat on paikallinen uutismedia, joka tarjoaa selkeää tietoa tilaushinnoista ja sisällön maksullisuudesta. Vastaava päätoimittaja on nimetty ja yhteydenotto toimitukseen on mahdollista. Sanomat noudattaa Julkisen Sanan Neuvoston journalismin ohjeita, mikä vahvistaa riippumatonta valvontaa. Läpinäkyvyyttä heikentää se, että Y-tunnusta ei julkaista ja oikaisukäytäntö kuvataan vain sähköpostiosoitteen tasolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "JSN-jäsenyys (Julkisen sanan neuvosto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Sivulla asiakaspalvelu.ts.fi/usein-kysytty kerrotaan Julkisen sanan neuvoston jäsenyydestä ja Journalistin ohjeiden noudattamisesta."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Turun Sanomat",
+    "paivakatselut_ka": 12,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Turun Sanomat' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "mtv-uutiset",
+   "nimi": "MTV Uutiset",
+   "domain": "mtvuutiset.fi",
+   "omistaja": "MTV Oy — Schibsted Media (Norja) osti Telialta, kauppa toteutui 1.7.2025",
+   "y_tunnus": "1093944-1",
+   "rekisteroity": 1997,
+   "score": 71.3,
+   "pillars": {
+    "digitaalinen": 73.5,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: MTV Uutiset on kokonaan ilmainen palvelu ilman maksumuuria. Pääsivulla ei mainiteta tilaushintoja tai maksullista sisältöä, kaikki sisältö on avoin kaikille."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa listattu 'Tomi Einonen, Vastaava päätoimittaja' sekä muut toimituksen johtajat: Ilkka Ahtiainen (Uutispäätoimittaja), Mona Haapsaari (Julkaisupäällikkö). Yhteystiedot: puhelin 010 300 5400, sähköposti uutiset@mtv.fi."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa linkki 'Julkisen sanan neuvosto (JSN)' johtaa JSN:n palveluihin, mutta yksityiskohtainen oikaisukäytäntö ja virheiden korjausprosessi eivät ole dokumentoituna omalla sivulla. Linkki 'MTV Uutisten periaatelinja' johtaa 404-virhesivulle."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: MTV Uutiset on mainoksilla rahoitettu palvelu, ja mainoksia näkyy sivustolla (esim. MTV Katsomo-mainokset). Erityistä merkintää kaupalliselle sisällölle tai mainonnan erotteluperiaatteista journalismista ei löytynyt saatavilla olevilla sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole listattu mtvuutiset.fi-sivustolla. Yritys on tunnistettu MTV Oy:ksi, mutta virallista Y-tunnusta ei löydy etusivulta tai muista ladatuista sivuista."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa mainittu 'Julkisen sanan neuvosto (JSN)' sekä 'MTV Uutiset on sitoutunut noudattamaan Journalistin ohjeita'. JSN on riippumaton suomalainen media-alan oikaisulautakunta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uutistoimituksen päivystys puhelimitse saatavilla numerossa 010 300 5400."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Uutisvinkki-sähköpostiosoite uutiset@mtv.fi sekä WhatsApp-numero 040 578 5504 yhteydenpidolle."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Keskustelupalvelusta ei mainintaa sivustolla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloajoista tai toimituksen tavoitettavuusajoista ei mainintaa sivustolla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erityistä FAQ-osiota ei löytynyt sivustolta. 'Apua ja ohjeita' -linkki johtaa 404-virhesivulle."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla viitataan käyttäjätunnuksiin ja kirjautumiseen, ja meta-tagissa mainitaan 'app-id=1519752633' (iOS-sovellus), mikä viittaa mobiilius sovelluksen olemassaoloon, vaikka sitä ei erikseen mainiteta selkeästi pääsivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 3986.1926000000003,
+    "cls": 0.06231087616288979,
+    "tbt_ms": 12847.499999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vastuuhenkilöt ja toimituksen yhteystiedot selkeästi näkyvissä etusivun footerissa",
+    "Ilmainen sisältö ilman maksumuuraa tekee palvelun helposti saavutettavaksi kaikille lukijoille",
+    "Syytetty JSN-jäsenyydellä riippumattomasta ulkopuolisesta valvonnasta journalistisiin standardeihin"
+   ],
+   "kehityskohteet": [
+    "Oikaisukäytäntö ja virheiden korjaamisprosessi ei ole julkisesti dokumentoitu omalla sivulla, vaan linkki johtaa 404-virhesivulle",
+    "Kaupallisen sisällön ja mainonnan erottelusta journalismista ei ole kirjallista ohjeistusta saatavilla sivustolla",
+    "Yhtiön Y-tunnus tai yritystietojen täydellinen dokumentaatio puuttuu mtvuutiset.fi-sivustolta"
+   ],
+   "yhteenveto": "MTV Uutiset on ilmainen, mainoksilla rahoitettu uutispalvelu, jonka vastuuhenkilöt ja perusyhteystiedot ovat hyvin saatavilla. Palvelu noudattaa journalistin ohjeita ja on JSN-jäsen. Dokumentaation kattavuuden kannalta kehitettävää on oikaisukäytäntöjen, mainonnan erottelun ja yritystietojen julkisessa ohjeistuksessa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "JSN-jäsenyys (Julkisen sanan neuvosto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: mtvuutiset.fi viittaa Julkisen sanan neuvoston jäsenyyteen ja Journalistin ohjeisiin."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "MTV Uutiset",
+    "paivakatselut_ka": 50,
+    "luokka": "Laaja",
+    "lahde": "fi.wikipedia-artikkelin 'MTV Uutiset' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "kauppalehti",
+   "nimi": "Kauppalehti",
+   "domain": "kauppalehti.fi",
+   "omistaja": "Alma Media Finland Oy (Alma Media Oyj) — talousmedia (per. 1898); sama konserni kuin Iltalehdella",
+   "y_tunnus": "0869288-1",
+   "rekisteroity": 1991,
+   "score": 70.1,
+   "pillars": {
+    "digitaalinen": 64.8,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 76.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilauspalvelun sivulla (tilaukset.almamedia.fi) selvästi esitetty \"Kauppalehti Digi 35,90 € / kk\" sekä kuvaus jatkuvasta tilauksesta maksukorttiveloituksella."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kauppalehti.fi etusivun footerissa näkyy \"Vastaava päätoimittaja Riina Nevalainen\" sekä toimitukselliset päälliköt (Anton Rinta-Jouppi uutisille, Janne Soisalon-Soininen syventäville sisällöille)."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kauppalehti.fi-sivuston footerissa mainitaan \"Palaute\" -linkki, mutta kyseinen sivu palauttaa HTTP 404. Alma Median vastuullisuussivulla mainitaan JSN-jäsenyys ja korkein enintään 5 JSN-päätöstä vuodessa Alman medioille, mikä viittaa korjauskäytäntöön, mutta ei ole kauppalehti.fi-sivustolla julkisesti kuvattu."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kumppanisisällöt-sivulla kaikki sisällöt merkitty selkeästi \"Kaupallinen yhteistyö\" -merkinnöillä (esim. \"Alma Insights - Kaupallinen yhteistyö\", \"Ilmarinen - Kaupallinen yhteistyö\")."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kustantajayritys \"Alma Media Finland Oy\" mainitaan kauppalehti.fi-footerissa, mutta Y-tunnusta ei löydy kauppalehti.fi-sivustolta eikä almamedia.fi-sivustolta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alma Median vastuullisuussivulla (almamedia.fi/vastuullisuus-almassa/) mainitaan selvästi JSN-jäsenyys: \"Enintään viisi Julkisen sanan neuvoston langettavaa päätöstä vuodessa Alman medioille.\" JSN (Julkisen sanan neuvosto) on Suomen riippumaton journalismin valvontaelin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kauppalehti.fi-footerissa ja Alma Median yhteystiedot-sivulla näkyy vaihde-numero 010 665 101."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alma Median yhteystiedot-sivulla mainitaan sähköpostikuvio etunimi.sukunimi(at)almamedia.fi, mutta spesifiiä lukijapalaute-sähköpostia ei ole näkyvillä kauppalehti.fi-sivustolla. Asiakaspalvelun sivulla ei ole erityistä sähköpostiosoitetta lukijapalautteelle."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei mainittu kauppalehti.fi-sivustolla eikä asiakaspalvelun sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloaikoja ei ole ilmoitettu kauppalehti.fi-sivustolla tai Alma Median asiakaspalvelusivuilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alma Median asiakaspalvelusivulla mainitaan linkki \"Usein kysytyt kysymykset\", mutta se ei ole suoraan kauppalehti.fi-sivustolla vaan redirektion takana."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alma-tunnus-app mainitaan asiakaspalvelun sivulla Alma Median palveluiden yhteisen käyttäjätunnuksen osana, mutta erityistä Kauppalehti-mobiilisovellusta ei ole mainittu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 5311.841,
+    "cls": 0.14750844907481897,
+    "tbt_ms": 6820.429500000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat selkeästi näkyvillä: Kauppalehti Digi 35,90 €/kk ilmoitettu tilauspalvelun sivulla.",
+    "Vastaava päätoimittaja Riina Nevalainen nimetty etusivun footerissa sekä muut toimitukselliset johtajat.",
+    "Kaupallinen sisältö merkitty selkeästi \"Kaupallinen yhteistyö\" -merkinnöillä kumppanisisältöjen osalla."
+   ],
+   "kehityskohteet": [
+    "Virheenkorjaus- ja oikaisukäytäntöä ei kuvata julkisesti kauppalehti.fi-sivustolla, vaikka Palaute-linkki mainitaan footerissa (404).",
+    "Julkaisijan Y-tunnusta ei näy missään; vain kustantajayrityksen nimi Alma Media Finland Oy ilmoitettu.",
+    "Asiakaspalvelun aukioloaikoja ja suoraa lukijapalaute-sähköpostia ei löydy; asiakas voi ottaa yhteyttä vain puhelimitse tai yleisen kuvion avulla."
+   ],
+   "yhteenveto": "Kauppalehti on Alma Media Finland Oy:n omistama talousmedia, joka ilmoittaa tilaushinnat ja maksullisuuden selvästi. Vastaava päätoimittaja on nimetty. JSN-jäsenyys (Julkisen sanan neuvosto) on mainittu kustantajan vastuullisuusperiaatteissa, mikä kertoo riippumattomasta valvonnasta. Sivusto kuitenkin piilottaa virheiden korjauskäytännön julkisista osioista, eikä Y-tunnusta ole näkyvillä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "JSN-jäsenyys (Julkisen sanan neuvosto)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: Kauppalehden footerista linkitetyllä Alma Median vastuullisuussivulla kerrotaan JSN-jäsenyydestä Alman medioille."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Kauppalehti",
+    "paivakatselut_ka": 9,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Kauppalehti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "helsingin-sanomat",
+   "nimi": "Helsingin Sanomat",
+   "domain": "hs.fi",
+   "omistaja": "Sanoma Media Finland Oy (Sanoma Oyj) — Suomen suurin tilattava sanomalehti (per. 1889)",
+   "y_tunnus": "1515901-4",
+   "rekisteroity": 1999,
+   "score": 69.8,
+   "pillars": {
+    "digitaalinen": 61.4,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "5/100",
+       "paino": 40,
+       "pisteet": 5,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaa-sivulla listattu neljä päätilausvaihtoehtoa: HS Digi alkaen 12,42 €/kk, HS Digi+ 14,90 €/kk, painettu lehti 39,90 €/kk, HS +Kaikki 27,90 €/kk. Kaikille hinnat näkyvillä, normaalihinta ja kampanjahinta eritelty."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla nimetty vastaava päätoimittaja Erja Yläjärvi, päätoimittaja Antero Mukka, ja viisi toimituspäällikköä. Henkilöstölle annettu sähköpostiosoitteet muodossa etunimi.sukunimi@hs.fi."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla kuvattu 'Näin HS oikaisee mahdolliset virheet' -osio. HS noudattaa Journalistin ohjeita ja sananvapauslakia. Virheet korjataan viivytyksettä, oikaisupyyntö lähetetään osoitteeseen oikaisut@hs.fi. Verkosisällöissä virheet korjataan alkuperäistä muuttamalla, painettussa lehdessä vakiintuneella oikaisuja-palstalla."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy mainontaa, mutta merkinnät ja erottelu journalismista puuttuvat. HS Visio mainitaan sisältöosioiden joukossa, mutta sen kaupallinen luonne tai sponsorointiperiaatteet eivät ole selkeästi kuvattu. Mainonnan kohdentamisen periaatteista löytyy tietoa vain Sanoman yleisissä tietosuojakäytännöissä, ei HS.fi-sivustolla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla mainittu julkaisija 'Sanoma Media Finland Oy', mutta Y-tunnusta ei ole näkyvissä. Postiosoite PL 75, 00089 SANOMA annettu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Periaatteet-sivulla mainittu Journalistin ohjeita noudattaminen ja sananvapauslakia. JSN-jäsenyyttä tai ulkoista auditoijaa ei mainittu HS.fi-sivustolla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla puhelinvaihde (09) 1221 listattu."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useat sähköpostiosoitteet: oikaisut@hs.fi oikaisuille, hs.online@hs.fi palautteelle, toimittajakohtaiset etunimi.sukunimi@hs.fi, osastokohtaiset kuten hs.auto@hs.fi, hs.politiikka@hs.fi jne."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chatia tai live-tukea ei mainittu HS.fi-sivustolla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei ole listattu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Info-sivulla mainittu 'Usein kysytyt kysymykset', mutta linkki johtaa 404-virheeseen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun alalaidassa mainittu 'Lataa sovellus – se on paras tapa kokea Helsingin Sanomat' sekä Info-sivulla viittaus iOS- ja Android-sovellusten ohjeisiin. App-kaupasta löytyy Helsingin Sanomat -sovellus."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 5,
+    "accessibility": 98,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 10831.155,
+    "cls": 0.9096673754556501,
+    "tbt_ms": 6624.213
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnat selkeästi näkyvissä tilaa-sivulla useilla vaihtoehtoilla ja kampanjahinnalla",
+    "Vastaava päätoimittaja ja laaja toimituksen johtoryhmä nimetty, sähköpostiosoitteet saatavilla henkilökohtaisesti",
+    "Yksityiskohtainen oikaisupyyntöjen käytäntö kuvattu: sähköpostiosoite, prosessi ja periaatteet selkeästi neuvottu"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei näkyvissä HS.fi-sivuilla, vain julkaisija Sanoma Media Finland Oy mainittu; verkonhaussa paljastuu tiedon olevan saatavilla, mutta ei lukijan kannalta helppo löytää",
+    "Kaupallisen sisällön erottelu journalismista ei ole selkeästi kuvattu: mainonta näkyy sivuilla mutta merkinnät ja periaatteet eivät ole näkyvästi esillä",
+    "JSN-jäsenyyttä tai muita riippumattomia arviolähteitä ei mainittu HS.fi-sivuilla, vaikka Journalistin ohjeiden noudattaminen on mainittu"
+   ],
+   "yhteenveto": "Helsingin Sanomat on merkittävä suomalainen uutismedia, joka kertoo hinnoittelusta ja maksullisuudesta selkeästi tilaa-sivulla ja nimeää vastaavan päätoimittajan sekä toimituksen johtoon kuuluvat henkilöt. Oikaisupyynnöille on kuvattu selkeä prosessi ja yhteystiedot ovat helposti saatavilla. Yhtiö kuuluu Sanoman omistamaan konserniineen, mutta Y-tunnusta ei ole näkyvissä HS.fi-sivuilla, ja kaupallisen sisällön erottelusta puuttuvat yksityiskohtaiset kuvaukset.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Helsingin Sanomat",
+    "paivakatselut_ka": 79,
+    "luokka": "Laaja",
+    "lahde": "fi.wikipedia-artikkelin 'Helsingin Sanomat' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  },
+  {
+   "slug": "ilta-sanomat",
+   "nimi": "Ilta-Sanomat",
+   "domain": "is.fi",
+   "omistaja": "Sanoma Media Finland Oy (Sanoma Oyj) — sama julkaisija kuin Helsingin Sanomilla",
+   "y_tunnus": "1515901-4",
+   "rekisteroity": 1999,
+   "score": 59.8,
+   "pillars": {
+    "digitaalinen": 62.2,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "7/100",
+       "paino": 40,
+       "pisteet": 7,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: is.fi/tilaa-sivulla on selkeat hinnat: IS EXTRA 6,99 euroa/kk, IS EXTRA+ 9,99 euroa/kk. Sivulla mainitaan rajoittamaton paaesy IS Extran sisaltoihin ja erikseen Sanoman medioiden tarjoamiin digilehtihin."
+      },
+      {
+       "mittari": "Vastaava päätoimittaja ja toimituksen yhteystiedot esillä",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-linkkina nakyi 'Ota yhteytta toimitus' ja 'Ilta-Sanomien periaatelinja', mutta naiden sivujen avaus palauttaa 404-virheen. Linkit viittaavat todennakoisesti Sanoma-konsernin sivuille, jotka eivat ole is.fi-verkkosivuilla."
+      },
+      {
+       "mittari": "Virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /oikaisut-sivu palauttaa 404-virheen. Virheiden korjaus- ja oikaisukayanto ei ole julkisesti kuvattuna is.fi-verkkosivuilla. Linkki 'Tietosuojalauseke' ja muut periaatteet viittaavat pois verkkosivuilta."
+      },
+      {
+       "mittari": "Kaupallinen sisältö merkitty ja erottelu journalismista kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun JS-renderoidussa versiossa nakyi 'MAINOS: Rajoittamattomasti uutisia, viihdetta ja tietoa – kokeile IS Extraa kuukausi maksutta.' Mainonta on merkitty MAINOS-sanalla, mutta kaupallisen sisallon erotelun periaatteet eivat ole selkosti kuvattu saatavilla olevilla sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtion nimi 'Sanoma Media Finland Oy' on esilla kayttoehdoissa ja asiakaspalvelusivulla, osoite Toeloeonlahdenkatu 2, mutta Y-tunnusta ei ole erikseen mainittu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumatonta arviointia, JSN-jasenyytta, levikintarkastusta tai muita ulkoisia tarkastuksia ei ole mainittu is.fi-verkkosivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /asiakaspalvelu-sivu (redirect) nayttaa puhelinnumeron '010 80 80 85' ja kuluttajapalvelun aukioloajat 'Arkisin klo 8-16', mutta puhelinnumero ei ole esilla varsinaisella is.fi-verkkosivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kayttoehdoissa mainitaan sahkopostiosoite tietosuojapyynnot@sanoma.com. Footer-linkkina on 'Lahet palautetta' ja 'Ota yhteytta toimitus', joiden kautta voi lahettaa viestin."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Live-chat-toimintoa ei ole mainittuna tai nakyvissa verkkosivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat 'Arkisin klo 8-16' on mainittu /asiakaspalvelu-sivulla, mutta tama sivu ohjaa pois is.fi:lta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä UKK-osiota ei ole verkkosivuilla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: is.fi/sovellus-sivulla on linkki Android- ja Apple-laitteiden sovelluskauppoihin. Sivu on erityisesti sovelluksen lataamiseen tarkoitettu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 7,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 16297.294999999998,
+    "cls": 0.8366852488953361,
+    "tbt_ms": 6292.524499999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tilaushinnoittelu selkeasti esillä omalla sivulla, useita kalustoja eri budjetille",
+    "Mobiilisovellus saatavilla Android- ja Apple-laitteille",
+    "Asiakaspalveluun voi ottaa yhteyttä puhelimitse ja lomakkeella"
+   ],
+   "kehityskohteet": [
+    "Vastaavan paatoimittajan nimi ja toimituksen yhteystiedot eivat ole esilla is.fi-sivuilla",
+    "Virheiden korjaus- ja oikaisukayanto ei ole kuvattu julkisesti saatavilla olevalla sivulla",
+    "Riippumaton arviointi (esim. JSN-jasenyyys tai levikintarkastus) ei ole mainittuna sivustolla"
+   ],
+   "yhteenveto": "Ilta-Sanomat (Sanoma Media Finland Oy) tarjoaa selkean tilaushinnoittelun IS Extra-palvelulla (alkaen 6,99 eurosta kuukaudessa) ja toiminnalliset kanavat asiakasvuorovaikutukselle. Monet laajat avoimet tiedot jaetaan paalinkittyjen sivujen kautta - toimituksellisen johdon nimeaminen, oikaisukayanto ja riippumaton arviointi eivat ole suoraan saatavilla is.fi-verkkosivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Ilta-Sanomat",
+    "paivakatselut_ka": 92,
+    "luokka": "Laaja",
+    "lahde": "fi.wikipedia-artikkelin 'Ilta-Sanomat' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "mitattu": "27.07.2026"
+   }
+  }
+ ],
+ "updated": "26.7.2026",
+ "opas": {
+  "johdanto": "Suomalaiset uutismediat rahoittavat toimintansa eri tavoin: osa tilausmaksuilla, osa mainonnalla ja Yle verovaroin. Lukijan kannalta olennaista on, kerrotaanko avoimesti mitä sisältö maksaa, kuka siitä vastaa, miten virheet korjataan ja miten kaupallinen sisältö erotellaan journalismista. Vertailemme yksittäisiä medioita, emme konserneja, ja kerromme julkaisijan sekä omistajan jokaisen median sivulla.",
+  "huomioita": [
+   "Tilausmallit vaihtelevat: iltapäivälehdet ja MTV Uutiset ovat perussisällöltään maksuttomia mainosrahoitteisia medioita, tilattavat sanomalehdet toimivat maksumuurin takana ja Yle on Yle-verolla rahoitettu julkisen palvelun media.",
+   "Vastaavan päätoimittajan nimeäminen on sananvapauslain vaatimus, mutta se, kuinka helposti nimen ja toimituksen yhteystiedot löytää sivustolta, vaihtelee selvästi.",
+   "Julkisen sanan neuvoston (JSN) jäsenmediat sitoutuvat Journalistin ohjeisiin ja itsesääntelyyn. Jäsenyyden kertominen omalla sivustolla on lukijalle tärkeä luottamussignaali, jonka moni media jättää mainitsematta.",
+   "Oikaisukäytäntö kertoo, miten media suhtautuu omiin virheisiinsä: parhaat julkaisevat oikaisunsa näkyvästi omalla sivullaan, heikoimmillaan käytäntöä ei kuvata lainkaan.",
+   "Uutissivustot ovat teknisesti raskaita: mittauksissamme suurten uutismedioiden mobiilisuorituskyky jäi selvästi muita toimialoja matalammaksi, mikä näkyy digitaalisen laadun pisteissä."
+  ],
+  "vinkit": [
+   "Vertaa tilaushintoja tarjousjakson jälkeisellä normaalihinnalla, ei kampanjahinnalla. Jatkuvan tilauksen hinta löytyy tilaussivulta tai käyttöehdoista.",
+   "Tarkista, onko media JSN:n jäsen ja miten se kuvaa virheiden korjaamisen. Nämä kertovat sitoutumisesta journalistiseen itsesääntelyyn enemmän kuin mainoslauseet.",
+   "Katso kuka median omistaa. Sama konserni voi julkaista useaa eri mediaa, ja omistus voi vaikuttaa esimerkiksi siihen, mitä aiheita eri välineet painottavat."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi vertailussa on sekä maksullisia että ilmaisia medioita?",
+    "a": "Koska lukija valitsee niiden välillä. Mittarit on rakennettu niin, että ne toimivat molemmille: maksullisella medialla mittaamme hinnan avoimuutta ennen tietojen antamista, ilmaisella sitä, kerrotaanko maksuttomuus ja rahoitusmalli selkeästi."
+   },
+   {
+    "q": "Arvioitteko journalismin laatua tai poliittista linjaa?",
+    "a": "Emme. Mittaamme ainoastaan verkkosivuston läpinäkyvyyttä lukijan silmin: hintatiedot, vastuuhenkilöt, oikaisukäytännön ja kaupallisen sisällön erottelun. Sisältöön tai linjaan emme ota kantaa."
+   },
+   {
+    "q": "Mikä on JSN ja miksi se mainitaan vertailussa?",
+    "a": "Julkisen sanan neuvosto on median itsesääntelyelin, jonka jäsenmediat sitoutuvat Journalistin ohjeisiin ja neuvoston ratkaisuvaltaan. Jäsenyys on riippumaton signaali siitä, että media alistaa toimintansa ulkopuoliselle arvioinnille, ja siksi sen kertominen omalla sivustolla huomioidaan pisteissä."
+   },
+   {
+    "q": "Miksi sama yhtiö saa olla listalla kahdesti?",
+    "a": "Vertailun yksikkö on media, ei yhtiö. Esimerkiksi Sanoma Media Finland julkaisee sekä Helsingin Sanomia että Ilta-Sanomia, jotka ovat lukijalle eri tuotteet eri hinnoilla ja käytännöillä. Omistus kerrotaan avoimesti jokaisen median sivulla."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tilaushinta ja maksullisuus kerrottu selkeästi ennen tietojen antamista (25), vastaava päätoimittaja ja toimituksen yhteystiedot esillä (20), virheiden korjaus- ja oikaisukäytäntö kuvattu julkisesti (20), kaupallinen sisältö merkitty ja erottelu journalismista kuvattu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}
