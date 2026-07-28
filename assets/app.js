@@ -209,3 +209,19 @@
       .catch(function(){});
   }
 })();
+
+/* Kielitila (28.7.2026): Svenska/Suomeksi ei ole erillinen sivusto vaan
+   muistava kielikytkin. Valinta talletetaan ja jokainen sivu ohjaa
+   automaattisesti valitun kielen versioon. */
+(function () {
+  var onSv = location.pathname.indexOf('/sv/') !== -1;
+  var sw = document.querySelector('.langsw');
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('.langsw') : null;
+    if (a) { try { localStorage.setItem('sp-lang', onSv ? 'fi' : 'sv'); } catch (err) {} }
+  }, true);
+  var pref = null;
+  try { pref = localStorage.getItem('sp-lang'); } catch (err) {}
+  if (sw && pref === 'sv' && !onSv) location.replace(sw.href);
+  else if (sw && pref === 'fi' && onSv) location.replace(sw.href);
+})();

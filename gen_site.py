@@ -235,6 +235,8 @@ nav.main a.on{color:var(--gold-line)}
 .board-head .cat{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.05rem}
 .board-head .live{display:flex;align-items:center;gap:7px;font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
 .live-dot{width:9px;height:9px;border-radius:50%;background:var(--ok);animation:pulse 2s infinite}
+.langsw{border:1.5px solid rgba(255,255,255,.45);border-radius:999px;padding:4px 12px;font-size:.8rem;font-weight:800;color:#fff;letter-spacing:.04em}
+.langsw:hover{background:rgba(255,255,255,.14);text-decoration:none}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 @media(prefers-reduced-motion:reduce){.live-dot{animation:none}}
 .board-row{display:flex;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid var(--line)}
@@ -788,6 +790,22 @@ APP_JS = r"""
       })
       .catch(function(){});
   }
+})();
+
+/* Kielitila (28.7.2026): Svenska/Suomeksi ei ole erillinen sivusto vaan
+   muistava kielikytkin. Valinta talletetaan ja jokainen sivu ohjaa
+   automaattisesti valitun kielen versioon. */
+(function () {
+  var onSv = location.pathname.indexOf('/sv/') !== -1;
+  var sw = document.querySelector('.langsw');
+  document.addEventListener('click', function (e) {
+    var a = e.target && e.target.closest ? e.target.closest('.langsw') : null;
+    if (a) { try { localStorage.setItem('sp-lang', onSv ? 'fi' : 'sv'); } catch (err) {} }
+  }, true);
+  var pref = null;
+  try { pref = localStorage.getItem('sp-lang'); } catch (err) {}
+  if (sw && pref === 'sv' && !onSv) location.replace(sw.href);
+  else if (sw && pref === 'fi' && onSv) location.replace(sw.href);
 })();
 """
 
