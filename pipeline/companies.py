@@ -1386,3 +1386,98 @@ COMPANIES["kukkakauppojen-verkkokaupat"] = [
     dict(slug="piilola", nimi="Kukkakauppa Piilola", domain="piilola.fi", y_tunnus="1895827-6",
          omistaja="Piilola.fi on Kukkamyynti Piilola Oy:n (PRH: aktiivinen, kolme myymälää Helsingissä, toiminut Etelä-Haagassa 1970-luvulta) verkkokauppa; oma toimitus kattaa pääkaupunkiseudun ja muut paikkakunnat hoidetaan Interflora-kukkavälityksen kautta."),
 ]
+
+# --- lastenvaatteiden-verkkokaupat (28.7.2026, Antonin pyyntö, erä 2; tutkimusagentti + PRH) ---
+# Papu Design konkurssi 10/2025, Vimma+Mainio lopettaneet lastenvaatteet - karsittu.
+# Polarn O. Pyret karsittu 28.7.2026: SPA + Cloudflare, alasivujen URL:t eivat
+# nay HTML:ssa edes --js:lla -> sivustoa ei voi mitata rehellisesti.
+COMPANIES["lastenvaatteiden-verkkokaupat"] = [
+    dict(slug="reima", nimi="Reima", domain="reima.com", y_tunnus="2204295-7",
+         omistaja="Reima Europe Oy (Reima Group), enemmistön omistavat hallituksen puheenjohtaja Elina Björklund sekä ruotsalaiset Anders Ullstrand ja Jonas Meerits, rahoittajana ruotsalainen P Capital Partners."),
+    dict(slug="gugguu", nimi="Gugguu", domain="gugguu.com", y_tunnus="2508855-5",
+         omistaja="Gugguu Oy:n pääomistajat ovat perustajasisarukset Miia Riekki (tj) ja Anne Valli; sijoitusyhtiö Panostaja osti 43 prosentin vähemmistöosuuden."),
+    dict(slug="metsola", nimi="Metsola", domain="metsola.fi", y_tunnus="2245002-9",
+         omistaja="Metsola Lifestyle Oy, josta suomalainen perheyhtiö SGN Group osti 75 % vuonna 2021; perustajat Riina ja Heikki Pulkkinen jatkavat 25 prosentin osuudella."),
+    dict(slug="kaiko", nimi="KAIKO", domain="kaikoshop.com", y_tunnus="2878739-4",
+         omistaja="Kaiko Clothing Company Oy on perustajiensa omistama helsinkiläinen vastuullisuusbrändi (naisten- ja lastenvaatteet), joka ohjaa 7 % tuotteen tuotosta nepalilaisten naisten koulutukseen."),
+    dict(slug="melli-ecodesign", nimi="Melli EcoDesign", domain="melli.fi", y_tunnus="2845286-9",
+         omistaja="Melli EcoDesign Oy on perustajiensa omistama jyväskyläläinen yritys, jonka lasten- ja naistenvaatteet valmistetaan Jyväskylässä."),
+    dict(slug="ruskovilla", nimi="Ruskovilla", domain="ruskovilla.fi", y_tunnus="3488506-2",
+         omistaja="Ruskovilla Oy on artjärveläinen perheyritys, joka valmistaa luonnonkuituvaatteet (luomuvilla, silkki) Suomessa; liiketoiminta siirtyi uudelle Ruskovilla Oy:lle (3488506-2) vanhan yhtiön (0432769-2) rekisteröinnin päätyttyä 31.3.2025 — järjestely, ei konkurssia (2024 liikevaihto 2,5 M€, liikevoitto 352 t€)."),
+    dict(slug="pikkuotus", nimi="pikkuOtus", domain="pikkuotus.fi", y_tunnus="2479277-8",
+         omistaja="pikkuOtus Oy on ylöjärveläinen yrittäjävetoinen monimerkkiverkkokauppa, joka myy kotimaisia lastenvaatemerkkejä (mm. Metsola, Kaiko, Mainio)."),
+]
+
+# --- lemmikkitarvikkeiden-verkkokaupat (28.7.2026, Antonin pyyntö, erä 2; tutkimusagentti + PRH) ---
+# Faunatar karsittu: palvelin ei vastaa; affiliate-aggregaattorit hylatty.
+COMPANIES["lemmikkitarvikkeiden-verkkokaupat"] = [
+    dict(slug="musti-ja-mirri", nimi="Musti ja Mirri", domain="mustijamirri.fi", y_tunnus="1083808-5",
+         omistaja="Musti ja Mirri Oy kuuluu Musti Group -konserniin, jonka osti pörssistä vuonna 2024 Flybird Holding Oy:n kautta portugalilaisen Sonaen sekä Jeffrey Davidin, Johan Dettelin ja toimitusjohtaja David Rönnbergin konsortio."),
+    dict(slug="zooplus", nimi="Zooplus", domain="zooplus.fi", y_tunnus=None,
+         omistaja="Zooplus.fi:tä operoi saksalainen zooplus SE (München), jonka pääomasijoittajat Hellman & Friedman ja EQT ostivat pois pörssistä vuonna 2021; ei suomalaista Y-tunnusta."),
+    dict(slug="peten-koiratarvike", nimi="Peten Koiratarvike", domain="petenkoiratarvike.com", y_tunnus="1917875-7",
+         omistaja="Peten Koiratarvike Oy on itsenäinen, vuonna 2004 perustettu suomalainen yksityisomisteinen yhtiö (Helsinki, liikevaihto n. 68 M€ 2025), ei osa mitään ketjukonsernia."),
+    dict(slug="murren-murkina", nimi="Murren Murkina", domain="murrenmurkina.com", y_tunnus="2010183-7",
+         omistaja="Eläintarvike Murren Murkina Oy on 100 % kotimainen yksityinen eläintarvikeliikeketju, joka on erikoistunut koirien ja kissojen luonnonmukaiseen ruokintaan."),
+    dict(slug="tassukauppa", nimi="Tassukauppa.fi", domain="tassukauppa.fi", y_tunnus="2263845-1",
+         omistaja="Tassukauppa.fi on sastamalalaisen yksityisen elinkeinonharjoittajan Koira- ja kissatarvikeliike Xenaranin (per. 2009) aputoiminimi — suomalainen, ketjuihin kuulumaton kauppa."),
+    dict(slug="muotitassu", nimi="Muotitassu", domain="muotitassu.fi", y_tunnus="3299486-3",
+         omistaja="Muotitassua pyörittää suomalainen LILALO Oy; design-painotteinen koirien ja kissojen tarvikkeiden verkkokauppa, joka korostaa vastuullisuutta ja hiilineutraaleja toimituksia."),
+    dict(slug="koiranurkka", nimi="Koiranurkka", domain="koiranurkka.fi", y_tunnus="1093193-3",
+         omistaja="Koiranurkka on Etelä-Savon Polttoainepalvelu Oy:n rekisteröity aputoiminimi (PRH type 3, voimassa) — suomalainen koiraharrastajien verkkokauppa."),
+]
+
+# --- hotelliketjut (28.7.2026, Antonin pyyntö, erä 2; tutkimusagentti + PRH) ---
+# Radisson+Best Western karsittu (botti-esto 403); Finlandia Hotels karsittu (itsenaisten markkinointiketju).
+COMPANIES["hotelliketjut"] = [
+    dict(slug="scandic", nimi="Scandic Hotels", domain="scandichotels.com", y_tunnus="1447914-7",
+         omistaja="Suomen Scandic-hotelleja operoi Scandic Hotels Oy, jonka omistaa Tukholman pörssissä listattu ruotsalainen Scandic Hotels Group AB."),
+    dict(slug="sokos-hotels", nimi="Sokos Hotels", domain="sokoshotels.fi", y_tunnus="0212329-0",
+         omistaja="Sokos Hotels on SOK:n ketjubrändi, jonka hotelleja operoivat SOK:n tytäryhtiö Sokotel Oy (Y 0212329-0) ja alueelliset osuuskaupat."),
+    dict(slug="lapland-hotels", nimi="Lapland Hotels", domain="laplandhotels.com", y_tunnus="3439760-8",
+         omistaja="Suomen suurin yksityinen hotelliketju, joka kuuluu Pertti Yliniemen perheen North European Invest -konserniin (emoyhtiö Lapland Hotels Group Oy; operatiiviset yhtiöt mm. Lapland Hotels Lappi Oy 2199747-9 ja Lapland Hotels City Oy 3432129-1)."),
+    dict(slug="omena-hotels", nimi="Omena Hotels", domain="omenahotels.com", y_tunnus="1579157-0",
+         omistaja="Omena Hotellit Oy on vaasalaisen Rabbe Grönblomin (Kotipizzan perustaja) perheen omistama itsepalveluhotelliketju, toimitusjohtajana Erno Launo."),
+    dict(slug="greenstar-hotels", nimi="GreenStar Hotels", domain="greenstar.fi", y_tunnus="2190146-5",
+         omistaja="Greenstar Hotels Oy:n omistavat perustaja-toimitusjohtaja Kristian Ikonen, pääomasijoittaja Nordia Rahasto Oy sekä Bolt.Worksin johtajakolmikko Hakkarainen, Herva ja Hämäläinen."),
+    dict(slug="holiday-club", nimi="Holiday Club", domain="holidayclubresorts.com", y_tunnus="2033337-1",
+         omistaja="Holiday Club Resorts Oy on kylpylähotelli- ja viikko-osakeyhtiö, jonka enemmistön (noin 92 %) omistaa intialainen Mahindra Holidays & Resorts India Ltd (Mahindra-konserni)."),
+]
+
+# --- taksipalvelut (28.7.2026, Antonin pyyntö, erä 2; tutkimusagentti + PRH) ---
+# Kovanen karsittu (rikkinainen SSL, Cabonline-brandi jonka FixuTaxi kattaa).
+COMPANIES["taksipalvelut"] = [
+    dict(slug="taksi-helsinki", nimi="Taksi Helsinki", domain="taksihelsinki.fi", y_tunnus="0838031-9",
+         omistaja="Noin 800 helsinkiläisen taksiyrittäjän ja Helsingin Taksiautoilijat ry:n omistama kotimainen yhtiö."),
+    dict(slug="meneva", nimi="Menevä", domain="meneva.fi", y_tunnus="0711979-2",
+         omistaja="Halmisen perheen omistama kotimainen perheyhtiö (Helsingin Taksipalvelu -tausta), toimitusjohtajana Tuomo Halminen."),
+    dict(slug="lahitaksi", nimi="Lähitaksi", domain="lahitaksi.fi", y_tunnus="0220285-3",
+         omistaja="Pääkaupunkiseudun taksiyrittäjien omistama tilausvälitysyhtiö, perustettu 1978 (vuoteen 2010 Helsingin Ympäristön Taksikeskus Oy)."),
+    dict(slug="02-taksi", nimi="02 Taksi", domain="02taksi.fi", y_tunnus="3217978-9",
+         omistaja="02 Taksi on kotimaisen Konnektio Oy:n valtakunnallinen brändi; Konnektio syntyi 020202 Palvelut Oy:n, 02 Taksi Oy:n ja Valopilkku Oy:n fuusiossa 12/2024 ja on suomalaisten taksitoimijoiden omistama."),
+    dict(slug="fixutaxi", nimi="FixuTaxi", domain="fixutaxi.fi", y_tunnus="2788104-7",
+         omistaja="FixuTaxi on Cabonline Finland Oy:n brändi, osa ruotsalaista Cabonline Groupia (samaan konserniin kuuluu myös Kovanen-brändi)."),
+    dict(slug="uber", nimi="Uber", domain="uber.com", y_tunnus="2636362-7",
+         omistaja="Yhdysvaltalaisen Uber Technologies Inc:n paikallisyhtiö Uber Finland Oy — ulkomainen kyytisovellusoperaattori, kaupunkeina mm. Helsinki, Tampere ja Turku."),
+    dict(slug="bolt", nimi="Bolt", domain="bolt.eu", y_tunnus="3279109-7",
+         omistaja="Virolaisen Bolt Technology OÜ:n suomalainen tytäryhtiö Bolt Services FI Oy — ulkomainen kyytisovellusoperaattori useissa Suomen kaupungeissa."),
+    dict(slug="kajon", nimi="Kajon", domain="kajon.fi", y_tunnus="1701534-8",
+         omistaja="Espoolainen perhetaustainen taksiyhtiö (perustaja Jorma Palomäki); huom. sisaryhtiö Kajon Group ajautui konkurssiin 2020, mutta Kajon Oy (rek. 2001) on PRH:ssa aktiivinen ja jatkaa toimintaa pääkaupunkiseudulla."),
+]
+
+# --- kirjakauppojen-verkkokaupat (28.7.2026, Antonin pyyntö, erä 2; tutkimusagentti + PRH) ---
+# Kirja.fi (WSOY) karsittu: kustantajan oma kauppa, ei yleiskirjakauppa. Adlibris osti Akateemisen 1.1.2026 (molemmat Bonnier).
+COMPANIES["kirjakauppojen-verkkokaupat"] = [
+    dict(slug="suomalainen-kirjakauppa", nimi="Suomalainen Kirjakauppa", domain="suomalainen.com", y_tunnus="0205361-6",
+         omistaja="Otava-konsernin (Reenpään suvun perheyhtiö) omistama Suomen suurin kirjakauppaketju, jolla on noin 55 myymälää ja Suomalainen.com-verkkokauppa."),
+    dict(slug="adlibris", nimi="Adlibris", domain="adlibris.com", y_tunnus="0195663-7",
+         omistaja="Ruotsalaisen Bonnier-konsernin Adlibris-ketjun Suomen-yhtiö AdLibris Finland Oy; Pohjoismaiden suurin verkkokirjakauppa, joka osti Akateemisen Kirjakaupan 1.1.2026 alkaen."),
+    dict(slug="akateeminen-kirjakauppa", nimi="Akateeminen Kirjakauppa", domain="akateeminen.com", y_tunnus="2699781-4",
+         omistaja="1.1.2026 alkaen ruotsalaisen Adlibriksen omistama (saman Bonnier-konsernin sisäinen kauppa marraskuussa 2025; Stockmann myi Bonnierille 2015), oma verkkokauppa ja nimi säilyvät."),
+    dict(slug="booky", nimi="Booky.fi", domain="booky.fi", y_tunnus="2131125-4",
+         omistaja="Kotimainen perheyhtiö Booky.fi Oy (perustettu 2005/2007), jonka konserniin kuuluvat myös Porvoon Kirjakeskus, Suomen Kirjastopalvelu ja nuottikauppa Ostinato."),
+    dict(slug="rosebud", nimi="Rosebud Books", domain="rosebud.fi", y_tunnus="0679141-3",
+         omistaja="Itsenäinen helsinkiläinen Rosebud Books Oy (rekisterissä aiemmin nimellä Oy Like Kustannus Ltd), jolla on kivijalkakauppoja ja oma verkkokirjakauppa."),
+    dict(slug="karkkainen", nimi="Kärkkäinen", domain="karkkainen.com", y_tunnus="0865108-6",
+         omistaja="Perheomisteisen ylivieskalaisen tavarataloyhtiö Kärkkäinen Oy:n (aputoiminimi J. Kärkkäinen) verkkokauppa, jossa kirjat ovat oma yli tuhannen nimikkeen osastonsa — tavaratalo, ei puhdas kirjakauppa."),
+]

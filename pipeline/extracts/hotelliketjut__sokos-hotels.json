@@ -1,0 +1,54 @@
+{
+  "slug": "sokos-hotels",
+  "fetched_ok": [
+    "https://www.sokoshotels.fi/",
+    "https://www.sokoshotels.fi/hotellit",
+    "https://www.sokoshotels.fi/varausehdot",
+    "https://www.sokoshotels.fi/yhteystiedot-ja-puheluiden-hinnat",
+    "https://www.sokoshotels.fi/tietoa-meista",
+    "https://www.sokoshotels.fi/tietosuoja",
+    "https://www.sokoshotels.fi/kayttoehdot"
+  ],
+  "hinnat_esilla": "osittain",
+  "peruutusehdot_esilla": "kylla",
+  "lisapalvelut_hinnoiteltu": "osittain",
+  "hotellit_ja_sijainnit": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 45,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Kattava hotellien luettelo lähes 50 hotellilla, joissa jokaisen osoite ja sijainti selkeästi ilmoitettu",
+    "Peruutusehdot julkaistu näkyvästi omalla sivulla, joissa ilmoitettu peruutusaika (klo 18.00 tulopäivänä) ja poikkeukset",
+    "Useat yhteystiedot helposti saatavilla: myyntipalvelu 0300 870 000, vaihde 010 76 8011, s-posti ravintolamyynti@sok.fi"
+  ],
+  "kehityskohteet": [
+    "Huonehinnat eivät näkyville ilman varaussovellukseen siirtymistä; verkkosivuilla ei esimerkkihintoja",
+    "Aamiaisen ja lisäpalvelujen hinnoittelua ei selkeästi näytetä, vaan tieto saadaan vasta varauksen tekemisen yhteydessä",
+    "Y-tunnus ei julkaistu sivustolla, eikä riippumattomia arvioita tai arviointijärjestelmää ole nähtävissä"
+  ],
+  "yhteenveto": "Sokos Hotels on Suomen suurin hotelliketju, jolla on lähes 50 hotellia eri puolilla Suomea ja yksi Tallinnassa. Sivusto on selkeästi organisoitu ja sisältää peruutusehdot sekä useat yhteystiedot, mutta huonehinnat eivät ole nähtävissä ilman varaussovellukseen siirtymistä, mikä heikentää vertailun läpinäkyvyyttä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy \"Hae varaus\" -hakukaavake, mutta se vaatii päivämäärän ja kaupungin syöttämisen hintojen näkemiseksi. Julkisilla sivuilla ei ole nähtävissä esimerkkihintoja tai hintahaarukoia.",
+    "peruutusehdot_esilla": "HAVAINTO: /varausehdot-sivulla kuvataan tarkasti: \"Peruutus on tehtävä viimeistään tulopäivänä klo 18.00 mennessä mikäli muuta ei ole sovittu varaukseen merkityn hinnan tai varausajankohtaan ei liity muita ehtoja.\" Ilmainen peruutus sallitaan poikkeuksellisissa tilanteissa.",
+    "lisapalvelut_hinnoiteltu": "HAVAINTO: Etusivulla mainitaan \"Millaisista aamiaisista sinä tykkäät?\" ja viittaukset Raflaamo-ravintoloihin, mutta aamiaisen tai muiden lisäpalvelujen hinnoittelua ei näytetä. Hinnat saadaan varausjärjestelmästä.",
+    "hotellit_ja_sijainnit": "HAVAINTO: /hotellit-sivulla luetelaan lähes 50 hotellia, joista jokaisella on selkeä osoite, esim. Solo Sokos Hotel Torni, Yrjönkatu 26, 00100 Helsinki. Yhteystiedot: myyntipalvelu puh. 0300 870 000, vaihde 010 76 8011.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ole nähtävissä missään kerätyistä sivuista. Sivuston operoi SOK (Suomen Osuuskauppojen Keskuskunnan), mutta sen Y-tunnus ei ole julkaistu.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla mainitaan Sustainable Brand Index -kyselyn tulos (\"suomalaiskuluttajat kokevat Sokos Hotels -ketjun alansa vastuullisimmaksi\"), mutta omaa arviointipalvelua tai riippumattomia arviointeja ei ole nähtävissä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumerot ovat selkeästi nähtävissä: myyntipalvelu 0300 870 000, vaihde 010 76 8011, laskutuksesta 09 4153 4611, S-Card-palvelu 010 76 82777.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet löytyvät: ravintolamyynti@sok.fi ja kokoussarjat@sok.fi. Palautteenanto-lomake saatavilla sivustolla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei ole mainittu kerätyillä sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat: ma-pe klo 8.30-16.30 (myyntipalvelu), ma-pe 9-16 (S-Card-asiakaspalvelu).",
+    "ukk_osio": "HAVAINTO: /ukk-sivu palauttaa HTTP 404 -virheen, joten UKK-osiota ei ole sivustolla.",
+    "mobiilisovellus": "HAVAINTO: Etusivulla sanotaan: \"Lataa itsellesi uusi, kätevä Sokos Hotels -sovellus. Sen avulla varaat huoneen, teet check-inin jo matkalla hotelliin ja näet, koska huoneesi on valmis.\""
+  }
+}

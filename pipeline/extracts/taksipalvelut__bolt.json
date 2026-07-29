@@ -1,0 +1,52 @@
+{
+  "slug": "bolt",
+  "fetched_ok": [
+    "https://bolt.eu/fi-fi/",
+    "https://bolt.eu/fi-fi/rides/",
+    "https://bolt.eu/fi-fi/cities/",
+    "https://bolt.eu/fi-fi/driver/earn/",
+    "https://bolt.eu/fi-fi/food/"
+  ],
+  "hinnat_esilla": "osittain",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "ei",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 28,
+    "sisallon_kattavuus": 63
+  },
+  "vahvuudet": [
+    "24/7 palvelu selkeästi ilmoitettu - kuljetusten saatavuus päivällä ja yöllä.",
+    "Toiminta-alue hyvin dokumentoitu: kattava lista 20+ suomalaisesta kaupungista samalla sivulla.",
+    "Turvallisuusominaisuudet yksityiskohtaisesti kuvattu: hätänappi, naisten-ainoastaan-kyytityyppi, sijainnin jakaminen, noutokoodit."
+  ],
+  "kehityskohteet": [
+    "Hintatiedot täysin poissa verkkosivulta - vain sovelluksessa näkyvä hinta-arvio, ei hintakaavaa tai esimerkiksi lähetettävissä.",
+    "Peruutus-, odotus- ja lisämaksukäytännöt kokonaan dokumentoimatta: verkkosivuilla ei mainintaa näiden maksujen periaatteista.",
+    "Suora yhteydenotto-tieto puuttuu: tukinumero tai sähköpostiosoite ei ole näkyvissä, vain maininta sovelluksessa tai puhelimella otetusta yhteydestä."
+  ],
+  "yhteenveto": "Bolt on kaikissa suomalaisissa suurkaupungeissa toimiva kyytipalvelu, jota hallinnoidaan mobiilisovelluksella. Verkkosivut kuvaavat selkeästi palvelun alueellista saatavuutta ja laajoja turvallisuusominaisuuksia, mutta hinnoittelun läpinäkyvyys jää heikoksi: varsinaisia kyydin hintoja ei näy verkkosivuilla vaan ainoastaan sovelluksessa. Lisäksi peruutus- ja lisämaksukäytäntöjä ei ole julkisesti dokumentoitu.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Verkkosivuilla todetaan, että hinnat ilmoitetaan etukäteen kun määränpää syötetään sovellukseen, mutta varsinaisesti hinnoittelua tai hintakaavaa (perusmaksu, km-hinta, odotuskustannus) ei näy. Driver/earn-sivulla mainitaan, että kuljettajat ansaitsevat noin 75% kyydin hinnasta, mutta matkustajan näkökulmasta hinta on tuntematon ennen sovellukseen kirjautumista.",
+    "tilaustavat_kuvattu": "HAVAINTO: Tilaus tapahtuu mobiilisovelluksen kautta (iOS ja Android), vaihtoehtoisesti verkon kautta ('Tilaa verkossa' -painike mainittu). Mahdollista myös varata kyyti ennakkoon jopa 90 päivää etukäteen. Sovellus ja online-tilaus mainitaan useissa paikoissa yhtä selkeästi.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Verkkosivuilla ei mainita lainkaan peruutuspoliitiikkaa, odotuskuluja tai lisämaksuja. Bolt Food -sivulla mainitaan toimituskulut ja pienen tilauksen maksu ruokatoimituksille, mutta kyytipalveluun liittyen vastaavanlaisia poikkeuksia tai lisämaksuja ei ole dokumentoitu.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Kaupungit-sivulla (bolt.eu/fi-fi/cities/) luetellaan yksityiskohtaisesti kaikki Suomen kaupungit, joissa palvelu on saatavilla: Helsinki, Espoo, Tampere, Turku, Oulu, Jyväskylä, Lahti, Vaasa, Kuopio, Lappeenranta, Rovaniemi, Pori, Hämeenlinna, Kerava, Vantaa, Järvenpää, Nurmijärvi, Sipoo, Tuusula, Kirkkonummi ja muut pienempiä kaupunkeja.",
+    "y_tunnus_esilla": "HAVAINTO: Verkkosivujen alatunnisteessa näkyy © 2026 Bolt Technology OÜ, mikä osoittaa, että yritys on Viron rekisteröity (OÜ on Viron osakeyhtiö). Suomalaista Y-tunnusta ei ole nähtävissä eikä sitä ole ilmeisesti rekisteröity Suomessa kuten paikallisia taksipalveluja.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei mainita riippumattomia arviointeja, sertifikaatteja, audiointeja tai kolmannen osapuolen vahvistuksia palvelun laadusta tai turvallisuudesta.",
+    "puhelin_esilla": "HAVAINTO: Tukisivulla mainitaan '24/7-tuki' ja 'Ota yhteyttä Bolt-sovelluksen tai puhelimen kautta', mutta varsinaista puhelinnumeroa ei ole julkisesti nähtävissä verkkosivuilla. Tuki näyttää olevan saatavilla ainoastaan sovelluksen kautta.",
+    "email_esilla": "HAVAINTO: Verkkosivuilla ei ole nähtävissä sähköpostiosoitetta tai kontaktilomaketta. Tuessa mainitaan yhteydenotto sovelluksen tai puhelimen kautta, mutta sähköpostiadressi puuttuu.",
+    "chat_mainittu": "HAVAINTO: Chat-tukea ei mainita missään dokumentissa.",
+    "aukioloajat_esilla": "HAVAINTO: Rides-sivulla todetaan 'Löydä kyyti Suomessa milloin tahansa' ja 'Viemme sinut perille niin päivällä kuin yöllä'. Driver-sivulla sanotaan 'Aja ja ansaitse rahaa', minkä yhteydessä mainitaan eri aikavälit (arkipäivä, ilta, viikonloppu). Palvelu on selkeästi 24/7 saatavilla.",
+    "ukk_osio": "HAVAINTO: Rides-sivulla on 'Usein kysytyt kysymykset' -osio, jossa on useita Q&A-pareja aiheista kuten tilaaminen, maksu, auton varaaminen, etäisyys lentokentälle. Vastaavasti driver/earn-sivulla ja food-sivulla on myös FAQ-osuudet.",
+    "mobiilisovellus": "HAVAINTO: Sovellus on palvelun pääasiallinen käyttötapa ja sitä mainitaan useissa paikoissa ('Lataa Bolt-sovellus', 'Saatavana iOS- ja Android-laitteille'). Sovellusta kuvataan välttämättömäksi palvelun käyttämiseen, vaikkei online-tilaus ole kokonaan poissuljettu."
+  }
+}

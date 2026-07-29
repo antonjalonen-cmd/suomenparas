@@ -1,0 +1,46 @@
+{
+  "slug": "02-taksi",
+  "fetched_ok": [
+    "https://02taksi.fi/",
+    "https://02taksi.fi/tilaa-taksi/",
+    "https://02taksi.fi/hintavertailu/",
+    "https://02taksi.fi/toiminta-alue/",
+    "https://02taksi.fi/kilpailuta-taksikyytisi/"
+  ],
+  "hinnat_esilla": "kylla",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "osittain",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 88,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Hintat näkyvät ennen tilausta: sovelluksella syötetyn määränpään perusteella asiakkaat saavat kiinteät hinnat eri taksiyhtiöiltä ja voivat vertailla helposti",
+    "Laaja saatavuus: palvelu toimii koko Suomessa puhelimitse ja sovelluksella yli 95 prosentissa maasta, kumppaneita kaikissa maakunnissa",
+    "Selkeä tilausjärjestelmä: kolme tilantapaa kuvattu yksityiskohtaisesti (sovellus, puhelin 020230, tekstiviesti) vaiheittain"
+  ],
+  "kehityskohteet": [
+    "Peruutuskäytäntö puutteellinen: sivuilla ei kerrota, kuinka myöhään tilausta voi peruuttaa tai mitä kuluja peruutuksesta aiheutuu",
+    "Sähköpostista ei mainintaa: asiakkaiden tiedusteluille ja palautteille ei ilmoiteta sähköpostiosoitetta, vain puhelinpalvelu",
+    "Odottamispalkkio epäselvä: mainitaan, että yli 2 minuutin odotus veloitetaan, mutta ei kerrota hinnan tasosta"
+  ],
+  "yhteenveto": "02 Taksi on Konnektio Oy:n ylläpitämä valtakunnallinen taksien välitys- ja vertailupalvelu. Hintojen läpinäkyvyys on vahva puoli: sovelluksella tilattaessa asiakas näkee kiinteät hinnat ennen tilausta ja voi vertailla taksiyhtiöitä hinnan, saapumisajan tai arvioiden perusteella. Palvelu on saatavilla koko Suomessa puhelimitse ja sovelluksella, ja tietojen järjestäminen on selkeä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnoittelu-sivulla näytetään esimerkkihinnat 10 km/15 minuutin matkoille eri paikkakunnilla. Sovelluksella hinnat ilmoitetaan kiinteinä, kun lähtö- ja määränpääosoitteet syötetään. Esimerkiksi pääkaupunkiseudulla EcoRides 23,90€, FixuTaxi 33,75€, Lähitaksi 35,90€.",
+    "tilaustavat_kuvattu": "HAVAINTO: Kolme tilautapaa kuvattu tilaa-taksi-sivulla vaiheittain. Sovelluksella tilaaminen: kirjoita osoitteet, valitse taksi, seuraa kartalla. Puhelimitse 020230: kerro osoite, valitse hinnan tai saapumisajan mukaan, saa seurantalinkin. Tekstiviestillä: lähetä muoto 'KATUOSOITE TALONNUMERO PAIKKAKUNTA' numeroon 020230, vastaa vahvistus ja seurantaviesti.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Sivuilla mainitaan, että yli 2 minuutin odotus ja väli­pysähdykset veloitetaan taksiyhtiön hinnastosta, mutta varsinaisesta peruutusmaksusta tai peruutusajasta ei tietoa. Puheluiden tallentamisesta mainitaan tietoturvallisuussyistä.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Toiminta-alue-sivulla luetellaan kaikki Suomen maakunnat ja niiden kaupungit, joissa palvelu toimii. Teksti kertoo: '02 Taksi palvelee puhelimitse numerossa 020230 koko Suomessa. 02 Taksi -sovelluksella taksin voi tilata paikkakunnilla, joissa meillä on kumppaneita. Sovellus kattaa yli 95 % suomalaisista.'",
+    "y_tunnus_esilla": "HAVAINTO: Sivun alaosassa lukee 'Konnektio Oy Y-tunnus 3217978-9' sekä teksti 'Copyright Konnektio Oy'.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla näkyy '★ 4,7 / 5 · asiakasarviot' ja teksti '3 782 asiakasarviota sovelluskaupoissa'. Linkit viittaavat Google Playhin ja App Storeen, sekä useita asiakastestimonialeja näytetään: 'Taksin saa tilattua nopeasti ja helposti' ja 'Valtakunnallinen selkeä sovellus'."
+  }
+}

@@ -5,8 +5,9 @@
  *   POST /api/arvio                       submit one questionnaire answer (stored unapproved)
  *   GET  /api/arvio?vertical=&slug=       approved aggregates + review texts for one company
  *   GET  /api/counts?vertical=            approved review count per company slug in a vertical
- *   GET  /api/admin?key=ADMIN_KEY         moderation page (approve / delete pending reviews)
- *   POST /api/admin/paatos                {key, id, action: "approve"|"delete"}
+ *   POST /api/admin/login                 {key} form post -> HttpOnly session cookie
+ *   GET  /api/admin                       moderation page (cookie-authed; login form if not)
+ *   POST /api/admin/paatos                {id, action: "approve"|"delete"} (cookie-authed)
  *
  * Data lives in D1 (SQLite) — table `arviot`, see schema.sql.
  * Nothing is shown publicly until approved=1 (moderation via /api/admin).
@@ -47,6 +48,75 @@ async function ipHash(req, env) {
   return [...new Uint8Array(digest)].map((b) => b.toString(16).padStart(2, "0")).join("");
 }
 
+// --- turvallisuusapurit (28.7.2026) ------------------------------------------
+// Avain vertaillaan vakioajassa: pituusero paljastuu, mutta sisalto ei vuoda
+// merkki kerrallaan ajoituksen kautta.
+function keyOk(given, expected) {
+  if (!expected || typeof given !== "string" || given.length !== expected.length) return false;
+  let diff = 0;
+  for (let i = 0; i < expected.length; i++) diff |= given.charCodeAt(i) ^ expected.charCodeAt(i);
+  return diff === 0;
+}
+
+// Admin-avain kulkee HttpOnly-evasteessa, ei URL:ssa: URL-parametrit paatyvat
+// selainhistoriaan, palvelinlokeihin ja referrer-otsakkeisiin.
+const ADMIN_COOKIE = "sp_admin";
+
+function cookieValue(req, name) {
+  const raw = req.headers.get("Cookie") || "";
+  for (const part of raw.split(";")) {
+    const [k, ...v] = part.trim().split("=");
+    if (k === name) return decodeURIComponent(v.join("="));
+  }
+  return "";
+}
+
+function adminAuthed(req, env) {
+  return keyOk(cookieValue(req, ADMIN_COOKIE), env.ADMIN_KEY || "");
+}
+
+function loginPage(msg) {
+  const html = `<!DOCTYPE html><html lang="fi"><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<title>Kirjaudu</title>
+<style>body{font-family:system-ui,sans-serif;background:#FDF0F6;color:#43112B;max-width:380px;margin:14vh auto;padding:20px}
+input{width:100%;padding:11px;border:2px solid #43112B;border-radius:10px;font-size:1rem}
+button{margin-top:10px;width:100%;padding:11px;border:0;border-radius:10px;background:#A61E4D;color:#fff;font-weight:700;font-size:1rem;cursor:pointer}
+.e{color:#C2410C;font-size:.9rem}</style>
+<h1>Yllapito</h1>
+${msg ? `<p class="e">${msg}</p>` : ""}
+<form method="POST" action="/api/admin/login">
+  <input type="password" name="key" placeholder="Yllapitoavain" autofocus autocomplete="current-password">
+  <button type="submit">Kirjaudu</button>
+</form></html>`;
+  return new Response(html, { status: 401, headers: { "Content-Type": "text/html; charset=utf-8" } });
+}
+
+async function adminLogin(req, env) {
+  const form = await req.formData().catch(() => null);
+  const key = form ? String(form.get("key") || "") : "";
+  if (!keyOk(key, env.ADMIN_KEY || "")) return loginPage("Vaara avain.");
+  return new Response(null, {
+    status: 303,
+    headers: {
+      "Location": "/api/admin",
+      // Secure + HttpOnly + SameSite=Strict: ei JS-luettavissa, ei lahde
+      // kolmannen osapuolen pyynnoissa, ei kulje salaamattomana.
+      "Set-Cookie": `${ADMIN_COOKIE}=${encodeURIComponent(key)}; HttpOnly; Secure; SameSite=Strict; Path=/api; Max-Age=28800`,
+    },
+  });
+}
+
+// Rate limit: sama kavija saa laheettaa rajallisen maaran rivia tunnissa.
+// Lasketaan D1:sta ip_hashilla — ei uutta infraa, ei henkilotietoa.
+async function rateLimited(env, table, hash, maxPerHour) {
+  const since = new Date(Date.now() - 3600e3).toISOString();
+  const row = await env.DB.prepare(
+    `SELECT COUNT(*) AS n FROM ${table} WHERE ip_hash=?1 AND created_at > ?2`
+  ).bind(hash, since).first();
+  return (row && row.n ? Number(row.n) : 0) >= maxPerHour;
+}
+
 async function submitArvio(req, env) {
   let body;
   try {
@@ -65,6 +135,11 @@ async function submitArvio(req, env) {
   const nimi = String(body.nimi || "").trim().slice(0, 40) || null;
   const teksti = String(body.teksti || "").trim().slice(0, 600) || null;
   const hash = await ipHash(req, env);
+
+  // rate limit: yksi kavija ei voi tayttäa jonoa kymmenilla arvioilla
+  if (await rateLimited(env, "arviot", hash, 10)) {
+    return json({ error: "rate", message: "Liikaa arvioita lyhyessa ajassa. Yrita myohemmin uudelleen." }, req, 429);
+  }
 
   // one review per visitor per company (soft guard — same network shares an IP)
   const dup = await env.DB.prepare(
@@ -138,8 +213,7 @@ function escHtml(s) {
 }
 
 async function adminPage(req, env, url) {
-  const key = url.searchParams.get("key") || "";
-  if (!env.ADMIN_KEY || key !== env.ADMIN_KEY) return new Response("Ei pääsyä.", { status: 403 });
+  if (!adminAuthed(req, env)) return loginPage("");
 
   const pend = await env.DB.prepare(
     "SELECT * FROM arviot WHERE approved=0 ORDER BY id DESC LIMIT 200").all();
@@ -186,7 +260,7 @@ ${done.results.map((r) => card(r, false)).join("") || '<div class="empty">Ei jul
 <script>
 async function act(id, action){
   const res = await fetch('/api/admin/paatos', {method:'POST', headers:{'Content-Type':'application/json'},
-    body: JSON.stringify({key: ${JSON.stringify(key)}, id, action})});
+    credentials:'same-origin', body: JSON.stringify({id, action})});
   if (res.ok) document.getElementById('r'+id).remove(); else alert('Virhe: ' + res.status);
 }
 </script></html>`;
@@ -196,7 +270,7 @@ async function act(id, action){
 async function adminAction(req, env) {
   let body;
   try { body = await req.json(); } catch { return json({ error: "invalid json" }, req, 400); }
-  if (!env.ADMIN_KEY || body.key !== env.ADMIN_KEY) return json({ error: "forbidden" }, req, 403);
+  if (!adminAuthed(req, env)) return json({ error: "forbidden" }, req, 403);
   const id = Number(body.id);
   if (!Number.isInteger(id)) return json({ error: "bad id" }, req, 400);
   if (body.action === "approve") {
@@ -219,6 +293,9 @@ async function submitPaneli(req, env) {
   const nimi = String(body.nimi || "").trim().slice(0, 60) || null;
   if (!EMAIL_RE.test(email)) return json({ error: "bad email", message: "Tarkista sähköpostiosoite." }, req, 400);
   const hash = await ipHash(req, env);
+  if (await rateLimited(env, "paneli", hash, 5)) {
+    return json({ error: "rate", message: "Liikaa liittymisia lyhyessa ajassa." }, req, 429);
+  }
   const dup = await env.DB.prepare("SELECT id FROM paneli WHERE email=?1 LIMIT 1").bind(email).first();
   if (dup) return json({ ok: true, message: "Olet jo paneelissa — kiitos!" }, req);
   await env.DB.prepare(
@@ -228,7 +305,7 @@ async function submitPaneli(req, env) {
 }
 
 async function adminPaneli(req, env, url) {
-  if (url.searchParams.get("key") !== env.ADMIN_KEY) return json({ error: "forbidden" }, req, 403);
+  if (!adminAuthed(req, env)) return loginPage("");
   const rows = (await env.DB.prepare("SELECT email, nimi, created_at FROM paneli ORDER BY id DESC").all()).results || [];
   const esc = (t) => String(t || "").replace(/[<>&]/g, (c) => ({ "<": "&lt;", ">": "&gt;", "&": "&amp;" }[c]));
   const list = rows.map((r) => `<tr><td>${esc(r.email)}</td><td>${esc(r.nimi)}</td><td>${esc(r.created_at)}</td></tr>`).join("");
@@ -252,6 +329,7 @@ export default {
     if (path === "/api/counts" && req.method === "GET") return getCounts(req, env, url);
     if (path === "/api/paneli" && req.method === "POST") return submitPaneli(req, env);
     if (path === "/api/paneli-admin" && req.method === "GET") return adminPaneli(req, env, url);
+    if (path === "/api/admin/login" && req.method === "POST") return adminLogin(req, env);
     if (path === "/api/admin" && req.method === "GET") return adminPage(req, env, url);
     if (path === "/api/admin/paatos" && req.method === "POST") return adminAction(req, env);
 

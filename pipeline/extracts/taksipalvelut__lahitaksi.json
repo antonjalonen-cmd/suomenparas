@@ -1,0 +1,50 @@
+{
+  "slug": "lahitaksi",
+  "fetched_ok": [
+    "https://www.lahitaksi.fi/fi/",
+    "https://www.lahitaksi.fi/fi/hinnasto/",
+    "https://www.lahitaksi.fi/fi/yhteystiedot/",
+    "https://www.lahitaksi.fi/fi/taksin-tilaus/",
+    "https://www.lahitaksi.fi/fi/taksin-tilaus/tilauksen-peruminen/",
+    "https://www.lahitaksi.fi/fi/lahitaksi/",
+    "https://www.lahitaksi.fi/fi/taksin-tilaus/lahitaksi-appi/",
+    "https://www.lahitaksi.fi/fi/yhteystiedot/laadunvalvonta/",
+    "https://www.lahitaksi.fi/fi/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "kylla",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Hinnat ja hintaesimerkki näkyvät etusivulla heti (2,96 € + 0,29 € per 10 sekuntia), lisäksi alueelliset hinnastot ja hintalaskuri saatavilla",
+    "Tilaustavat on selkeästi kuvattu: sovellus, puhelin (0100 7300), ennakkotilaus ja viikkotilaus sekä katuriippuminen esitelty",
+    "Kattava laadunvalvontaorganisaatio ja asiakaspalautejärjestelmä näkyvät sivustolla, sovellus arvioitu 4,8/5"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus (LY-tunnus) puuttuu sivustolta kokonaan, löytyy vain postiosoite (Nuijamiestentie 7, 00400 Helsinki)",
+    "Aukioloajat eivät ole eksplisiittisesti mainittu, vaikka palvelu on 24/7 (kellon ympäri) niin tämä tulisi vahvistaa selkeästi",
+    "Chat-yhteydenotto-kanava puuttuu; asiakaspalveluun voi olla yhteydessä sähköpostilla (palaute@lahitaksi.fi) ja puhelimitse, mutta live-chatin puuttuessa yhteydensaanti on hitaampaa"
+  ],
+  "yhteenveto": "Lähitaksi Oy on perustettu 1965 ja toimii Uudellamaalla, Riihimäellä, Rovaniemellä ja Levillä. Sivusto kuvailee hinnat, tilaustavat ja peruutuskäytännöt selkeästi, ja sovelluksella tilatun matkan hinnan saa etukäteen. Sivustolla on aktiivinen laadunvalvontaorganisaatio ja asiakaspalautejärjestelmä, mutta Y-tunnusta ei julkaista julkisesti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy perushinnoittelu 2,96 € + 0,29 € per 10 sekuntia. Hinnasto-sivulla on alueelliset hinnastot (Uusimaa ja Riihimäki, Rovaniemi, Tunturi-Lappi, Business Class, Tavarakuljetukset). Hintalaskuri saatavilla omalla sivulla.",
+    "tilaustavat_kuvattu": "HAVAINTO: Taksin tilaus -sivulla listataan neljä pääasiallista tilauskanavaa: Lähitaksi-sovellus (ilmainen tilaus), puhelinsoitto (0100 7300), ennakkotilaus ja viikkotilaus. App-sivulla kuvataan sovelluksen käyttö yksityiskohtaisesti. Katuriippuminen mainitaan (vapaa taksi).",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Peruutus-sivulla kerrotaan: tavallisissa tilauksissa kuljettajalla on oikeus periä lähtömaksu jos taksi on jo paikalla; ennakkotilauksissa peruutus on tehtävä viimeistään tuntia ennen lähtöaikaa. Hintojen sivulla kuvataan odotusajan veloitus: kiinteisiin hintoihin sisältyy 5 minuutin odotus, ylempi odotusaika laskutetaan taksahinnastoin.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Lähitaksi-sivulla selkeästi mainitaan, että palvelevat koko Uudellamaalla, Riihimäellä, Rovaniemellä ja Levillä. App-sivulla todetaan laajempi verkko: yli puolessa Suomea ja yli 80 kaupungissa Euroopassa ja Yhdysvalloissa.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy mistään sivusta. Tietosuojaselosteesta löytyy postiosoite (Nuijamiestentie 7, 00400 Helsinki) ja yhteyshenkilö (Toni Mäkelä), mutta virallista Y-tunnusta ei julkaista.",
+    "riippumaton_arvio": "HAVAINTO: App-sivulla mainitaan sovelluksen arvio 4,8/5 vuodelta 2025. Laadunvalvonta-sivulla kuvataan nimetty laadunvalvontaorganisaatio (Ville Tuovinen, Amir Al Take, Miikka Helin). Taksin tilaus -sivulla on asiakaspalautejärjestelmä ja unohtuneiden esineiden palvelu."
+  }
+}

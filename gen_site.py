@@ -101,7 +101,7 @@ CATEGORY_GROUPS = [
         ("Autokoulut", "autokoulut", True), ("Autovuokraamot", "autovuokraamot", True),
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
-        ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", None, False),
+        ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", "taksipalvelut", True),
     ]),
     ("Terveys ja hyvinvointi", [
         ("Hammaslääkärit", "hammaslaakarit", True), ("Yksityislääkärit", "yksityislaakarit", True),
@@ -136,7 +136,9 @@ CATEGORY_GROUPS = [
         ("Hääpalvelut", None, False), ("Ohjelmistokoulut lapsille", None, False),
         ("Kielikurssit", None, False), ("Tanssikoulut", None, False),
         ("Kukkien verkkokaupat", "kukkakauppojen-verkkokaupat", True), ("Matkatoimistot", "matkatoimistot", True),
-        ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False),
+        ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False), ("Lemmikkitarvikkeiden verkkokaupat", "lemmikkitarvikkeiden-verkkokaupat", True),
+        ("Hotelliketjut", "hotelliketjut", True), ("Kirjakauppojen verkkokaupat", "kirjakauppojen-verkkokaupat", True),
+        ("Lastenvaatteiden verkkokaupat", "lastenvaatteiden-verkkokaupat", True),
     ]),
 ]
 TOTAL_CATS = sum(len(cats) for _, cats in CATEGORY_GROUPS)
@@ -836,7 +838,7 @@ def page(title, desc, body, root="", active=""):
     <nav class="main">
       <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
-      <a href="{root}metodologia/"{on('metodologia')}>Näin pisteytämme</a>
+      <a href="{root}luottamus/"{on('metodologia')}>Näin pisteytämme</a>
       <a href="{root}sertifikaatti/"{on('sertifikaatti')}>Sertifikaatti</a>
       <a href="{root}yhteiso/"{on('yhteiso')}>Liity mukaan</a>
     </nav>
@@ -1754,6 +1756,91 @@ def build_yhteiso():
                 "Kerro mitä kategorioita haluat seuraavaksi ja anna palautetta palvelusta. Suomen Paras rakentuu avoimesti.",
                 body, root="../", active="yhteiso")
 
+def build_luottamus():
+    """Luottamus ja tietoturva - julkinen sivu (28.7.2026).
+
+    Lapinakyvyyssivustolla luottamus ansaitaan kertomalla, miten pisteet
+    syntyvat, mista data tulee ja mita kayttajasta kerataan. Rajoitteet
+    kerrotaan samalla sivulla, koska niiden piilottaminen olisi sama virhe
+    jota mittaamme muilta.
+    """
+    vers = [
+        ("v1.3", "26.7.2026", "Sitoutumisindeksi (vain positiivinen bonus, enintaan +1,0 p) ja tunnettuusmittari, joka <b>ei</b> vaikuta pisteisiin."),
+        ("v1.2", "23.7.2026", "Sertifiointibonus: vahvistetut sertifioinnit ja auditoinnit tuovat enintaan +3,0 pistetta. Puuttuminen ei koskaan vahenna."),
+        ("v1.1", "16.7.2026", "Lapinakyvyyspilarista tuli kategoriakohtainen: sama painoarvo, eri mittarit eri toimialoille."),
+        ("v1.0", "15.7.2026", "Ensimmainen versio: nelja pilaria (digitaalinen laatu 30 %, lapinakyvyys 30 %, tavoitettavuus 20 %, AI-laatuarvio 20 %)."),
+    ]
+    rows = "".join(
+        '<tr><td><b>%s</b></td><td class="src">%s</td><td>%s</td></tr>' % (v, d, t)
+        for v, d, t in vers)
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> &rsaquo; <b>Luottamus ja tietoturva</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Luottamus ja tietoturva</h1>
+    <p class="lead">Vertailusivusto on tasmalleen niin luotettava kuin sen menetelma ja datan alkupera. Talla sivulla kerromme, miten pisteet syntyvat, mista tiedot tulevat, mita sinusta kerataan ja miten virheet korjataan.</p>
+    <div class="meta-row"><span class="upd">Paivitetty {UPDATED} &middot; Score {SCORE_VERSION}</span></div>
+  </div>
+
+  <h2 class="sec">Miten pisteet muodostuvat</h2>
+  <div class="panel" style="margin-top:12px">
+    <p>Jokainen yritys mitataan samalla kaavalla: nelja pilaria, joiden painot ovat julkiset, ja kategoriakohtaiset lapinakyvyysmittarit. Kaava on deterministinen &mdash; sama syote tuottaa aina saman tuloksen, eika pisteita kasisaadeta. Jokaisen yrityksen sivulla nakyy mittari mittarilta, mista piste tulee ja mika havainto sen takana on. <a href="../metodologia/">Koko kaava on metodologiasivulla &rarr;</a></p>
+  </div>
+
+  <h2 class="sec" style="margin-top:44px">Mista data keratraan</h2>
+  <div class="panel" style="margin-top:12px">
+    <ul style="list-style:disc;padding-left:20px">
+      <li style="padding-left:0"><b>Yrityksen oma julkinen verkkosivusto.</b> Emme kayta vertailusivuja, blogeja emmeka kolmannen osapuolen vaitteita. Jos tietoa ei loytynyt yrityksen omilta sivuilta, se ei ole pisteissa.</li>
+      <li style="padding-left:0"><b>Viralliset rekisterit.</b> Y-tunnukset ja rekisterointitiedot Patentti- ja rekisterihallituksen avoimesta rajapinnasta.</li>
+      <li style="padding-left:0"><b>Tekninen mittaus.</b> Suorituskyky, saavutettavuus ja tekniset kaytannot mitataan automaattisella mobiilimittauksella.</li>
+      <li style="padding-left:0"><b>Emme kirjaudu sisaan emmeka kierra esteita.</b> Jos sivusto estaa mittauksen botti-estolla, merkitsemme sen mittausaukoksi &mdash; emme arvaa emmeka yrita ohittaa estoa. Kategorioista on jatetty pois yrityksia juuri tasta syysta.</li>
+    </ul>
+  </div>
+
+  <h2 class="sec" style="margin-top:44px">Algoritmin versiohistoria</h2>
+  <div class="receipt" style="margin-top:12px">
+    <div class="receipt-head"><h3>Jokainen muutos on kirjattu</h3><span class="sub">nykyinen: {SCORE_VERSION}</span></div>
+    <table class="rows"><thead><tr><th>Versio</th><th>Voimaan</th><th>Mika muuttui</th></tr></thead>
+    <tbody>{rows}</tbody></table>
+    <p class="note" style="margin:12px 14px">Vanhoja tuloksia ei kirjoiteta uusiksi takautuvasti: jokaisella kategorialla on oma mittauspaiva, joka nakyy sivulla. Kun kaava muuttuu, kategoria mitataan uudelleen ja paiva paivittyy.</p>
+  </div>
+
+  <h2 class="sec" style="margin-top:44px">Mita sinusta kerataan</h2>
+  <div class="panel" style="margin-top:12px">
+    <ul style="list-style:disc;padding-left:20px">
+      <li style="padding-left:0"><b>Selaaminen ei vaadi tilia.</b> Sivustolla ei ole kayttajatunnuksia, salasanoja eika kirjautumista &mdash; emme siis sailyta salasanoja lainkaan.</li>
+      <li style="padding-left:0"><b>Vain se, minka annat itse.</b> Jos jatat arvion tai liityt tutkimuspaneeliin, tallennamme antamasi tiedot. IP-osoitetta ei tallenneta sellaisenaan, vaan siita lasketaan tunniste, jolla estetaan roskaposti.</li>
+      <li style="padding-left:0"><b>Kielivalinta jaa selaimeesi.</b> Suomi- ja ruotsivalinta tallennetaan vain omaan selaimeesi, ei palvelimelle.</li>
+      <li style="padding-left:0"><b>Poisto onnistuu pyynnosta.</b> Voit pyytaa oman arviosi tai paneelijasenyytesi poistamista, ja poistamme sen. <a href="../tietosuoja/">Tietosuojaseloste &rarr;</a></li>
+    </ul>
+  </div>
+
+  <h2 class="sec" style="margin-top:44px">Miten yritys tarkistaa omat tietonsa</h2>
+  <div class="steps">
+    <div class="step"><span class="k">1 &middot; KATSO</span><h3>Avaa oma sivusi</h3><p>Yrityksen sivulla nakyy jokainen mittari, sen arvo ja havainto, johon arvio perustuu. Mitaan ei ole piilotettu.</p></div>
+    <div class="step"><span class="k">2 &middot; OSOITA</span><h3>Kerro mika on vaarin</h3><p>Jos mittaus on virheellinen, laheta korjauspyynto ja kerro mika kohta ja mista oikea tieto loytyy sivustoltasi.</p></div>
+    <div class="step"><span class="k">3 &middot; KORJAAMME</span><h3>Korjaus seuraavaan paivitykseen</h3><p>Tarkistamme vaitteen samalla tavalla kuin alkuperaisen mittauksen. Jos olemme vaarassa, korjaamme datan ja merkitsemme korjauksen nakyviin.</p></div>
+  </div>
+  <p style="margin-top:18px"><a class="btn" href="../korjauspyynto/">Laheta korjauspyynto</a></p>
+
+  <h2 class="sec" style="margin-top:44px">Miten palvelu on suojattu</h2>
+  <div class="panel" style="margin-top:12px">
+    <ul style="list-style:disc;padding-left:20px">
+      <li style="padding-left:0"><b>Staattinen sivusto.</b> Vertailusivut ovat valmiiksi rakennettuja sivuja ilman tietokantakyselyita &mdash; hyokkayspintaa on hyvin vahan, koska mitaan ei suoriteta pyynnon aikana.</li>
+      <li style="padding-left:0"><b>Salattu yhteys.</b> Koko sivusto toimii vain HTTPS-yhteydella.</li>
+      <li style="padding-left:0"><b>Rajattu rajapinta.</b> Ainoa tietoja vastaanottava rajapinta on arvio- ja paneelilomake. Siina on syotteiden pituusrajat, sallitut lahteet, roskapostisuojaus ja hyvaksymiskaytanto: arviot julkaistaan vasta tarkistuksen jalkeen.</li>
+      <li style="padding-left:0"><b>Muutoshistoria sailyy.</b> Kaikki data- ja kaavamuutokset tallentuvat versionhallintaan, josta ne voi jaljittaa jalkikateen.</li>
+      <li style="padding-left:0"><b>Loysitko haavoittuvuuden?</b> Kerro siita meille ennen julkistamista, niin korjaamme sen: <a href="../korjauspyynto/">yhteydenottolomake</a>.</li>
+    </ul>
+  </div>
+
+  <div class="note" style="margin-top:26px"><b>Rehellisyyden nimissa:</b> tama on konseptin esittelyversio, jossa ei viela ole kayttajatileja eika maksuliikennetta. Kun palveluun tulee kirjautuminen ja yritysten omat hallintanakymat, talle sivulle lisataan kuvaus tunnistautumisesta, kayttooikeuksista ja auditointilokeista &mdash; eika niita rakenneta ennen kuin niille on todellinen kaytto. Tietoturva tarkastettu viimeksi {UPDATED}.</div>
+</div>"""
+    return page("Luottamus ja tietoturva | Suomen Paras",
+                "Miten Suomen Paras -pisteet muodostuvat, mista data keratraan, mita kayttajasta tallennetaan ja miten virheet korjataan.",
+                body, root="../", active="luottamus")
+
+
 def build_meista():
     body = f"""
 <div class="wrap">
@@ -1879,6 +1966,7 @@ def main():
     w("sertifikaatti/index.html", build_sertifikaatti())
     w("yhteiso/index.html", build_yhteiso())
     w("meista/index.html", build_meista())
+    w("luottamus/index.html", build_luottamus())
     for _slug, (_title, _paras) in LEGAL_PAGES.items():
         w(f"{_slug}/index.html", build_legal(_slug, _title, _paras))
     n = 3

@@ -1,0 +1,44 @@
+{
+  "slug": "gugguu",
+  "fetched_ok": [
+    "https://www.gugguu.com/",
+    "https://www.gugguu.com/pages/tietosuojaseloste",
+    "https://www.gugguu.com/pages/tilaukset-ja-toimitukset"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät selvästi ja helposti jokaisessa tuotteen listauksessa",
+    "Asiakaspalvelu on tavoitettavissa helposti puhelimitse, sähköpostilla ja chatilla",
+    "Yrityksen Y-tunnus ja toimipaikka-osoitteet löytyvät tietosuojaselostteesta"
+  ],
+  "kehityskohteet": [
+    "Toimitusmaksut ja eri toimitusvaihtoehtojen yksityiskohdatoleivat näkyvät vasta kassalla, eivät etukäteen",
+    "Palauttamisen ehdot ja takuutiedot ovat hankalasti löydettävissä, erillinen palautusehdot-sivu ei avaudu",
+    "Fyysisten myymälöiden sijainnit ja aukioloajat eivät ole selkeästi esillä pääsivulla, vaikka jälleenmyyjät-linkki mainitaan"
+  ],
+  "yhteenveto": "Gugguu on suomalainen lastenvaateteilla erikoistunut verkkokauppa, joka myy omaa brändiään. Sivusto on hyvin rakennettu ja tuotteiden hinnat näkyvät selvästi, asiakaspalvelu on helposti tavoitettavissa monella kanavalla ja Y-tunnus on julkisesti saatavilla. Kuitenkin toimitusmaksujen ja palauttamisen ehtojen löytäminen vaatii lisätyötä, ja nämä tiedot eivät ole käynnistettävät ennen kassalle menoa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kaikilla tuotelistauksilla näkyy selvästi tuotteen hinta, alennushinta ja normaalin hinnan suhde. Esimerkiksi tuotteissa näkyy hintoja kuten 8,10 €, 11,98 €, 14,78 €, 26,95 € jne.",
+    "toimitus_kerrottu": "HAVAINTO: Tilaukset ja toimitukset -sivulla mainitaan toimitusaika (muutama arkipäivä, maksimissaan 10 arkipäivää), mutta konkreettiset toimitusmaksut eivät näy ennen kassaprosessia. Tietosuojaselosteessa mainitaan kuljetusyritykset (Posti, Matkahuolto, GLS, DHL, EMS) mutta niiden maksut eivät ole etukäteen näkyvissä.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautusehdot-linkki näkyy footerissa, mutta sivu ei avaudu (404 Ei löytynyt). Q&A-sivulla mainitaan, että palautuksesta peritään 3,50 € maksu, jos paketti on jo toimitettu. Muita takuuehtoja tai palauttamisen prosessia ei ole julkisesti nähtävissä.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Pääsivulla tai päänavigaatiossa ei näy konkreettisten myymälöiden sijainnit tai aukioloajat. Footer mainitsee Jälleenmyyjät-linkin, mutta tätä sivua ei voitu ladata. Asiakaspalvelun aukioloajat ovat näkyvissä: tiistaisin ja torstaisin klo 10–15.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2508855-5 on näkyvissä tietosuojaselosteessa kohdassa 'Rekisterinpitäjä'. Lisäksi on mainittu osoite Pikkaraisentie 8, 90230 Oulu ja asiakaspalvelun osoite Muuraintie 5 A 22, 33950 Pirkkala.",
+    "riippumaton_arvio": "HAVAINTO: Arvostelut-linkki näkyy footerissa ja sivun navigaatiossa. Tietosuojaselosteessa mainitaan Yotpo SMS-markkinoinnin ja kanta-asiakasprogrammin tarjoajana. Linkit Facebook, Instagram ja muihin sosiaalisen median kanavoihin ovat näkyvissä, mutta itsenäisten arviointipalveluiden integraatio ei ole selvä."
+  }
+}

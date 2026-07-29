@@ -1,0 +1,53 @@
+{
+  "slug": "uber",
+  "fetched_ok": [
+    "https://www.uber.com/fi/fi/",
+    "https://www.uber.com/fi/fi/ride/how-it-works/",
+    "https://www.uber.com/fi/fi/about/uber-offerings/",
+    "https://www.uber.com/fi/fi/about/how-does-uber-work/",
+    "https://www.uber.com/fi/fi/safety/",
+    "https://www.uber.com/global/fi/r/cities/helsinki-helsinki-uusimaa-fi/"
+  ],
+  "hinnat_esilla": "kylla",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "osittain",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 72,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Hintatyökalu on helposti saatavilla etusivulla ja kaupunkisivuilla, jonka avulla matkustajat voivat vertailla arvioidut hinnat",
+    "Sovellus on yksityiskohtaisesti dokumentoitu monella sivulla, ja ladattavuus on selkeästi näkyvissä",
+    "Turvallisuusominaisuudet ja 24/7 saatavuus ovat esillä omilla sivuillaan ja toiminta-alueet listataan selkeästi"
+  ],
+  "kehityskohteet": [
+    "Peruutus-, odotus- ja lisämaksut eivät ole selkeästi näkyvissä julkisilla sivuilla – yksityiskohdat löytyvät todennäköisesti vain sovelluksen sisältä",
+    "Y-tunnus ja yrityksen rekisteritiedot puuttuvat pääsivuilta, mikä vaikuttaa läpinäkyvyyteen",
+    "Suorat yhteystiedot (puhelinnumero, sähköposti) eivät ole näkyvissä, ohjaus tapahtuu vain Help Centerin kautta"
+  ],
+  "yhteenveto": "Uber on kansainvälinen kyytipalveluyhtiö, joka tarjoaa palveluja Suomessa sovelluksen ja verkkosivuston kautta. Sivusto on selkeä ja helppokäyttöinen, hintaarviointi löytyy helposti, ja palvelun saatavuus kaupungeissa on dokumentoitu hyvin. Puutteita on erityisesti hinnoittelun yksityiskohdissa ja yritystietojen näkyvyydessä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivu näyttää \"Katso hinnat\" -painikkeen, ja kaupunkisivuilla käyttäjä voi syöttää nouto- ja määränpää-osoitteet hintatyökaluun, joka näyttää arvioidut hinnat eri kyytivaihtoehdoille. Maininta \"arvioidut hinnat kaikille matkustusvaihtoehdoille\" on selkeä.",
+    "tilaustavat_kuvattu": "HAVAINTO: \"Näin Uber toimii\" -sivu kuvailee yksityiskohtaisesti prosessin: matkustaja syöttää määränpään \"Minne?\" -kenttään, valitsee kyytivaihtoehdon ja vahvistaa noudon. Sekä sovellus että verkko mainitaan tilauskanavoina.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Sivut käsittelevät maksujen perustasoa (käteinen, kortti, Uber Cash), mutta peruutus-, odotus- ja lisämaksut eivät ole julkisesti dokumentoitu näillä sivuilla. Help Center saattaa sisältää nämä tiedot, mutta niitä ei voitu vahvistaa staattisesta sisällöstä.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Etusivu listaa kaupungit (Helsinki, Tampere, Turku, Oulu, Lahti, Jyväskylä, Rovaniemi, Kuopio, Vaasa, Kotka) ja lentokentät. Helsinki-sivu kuvaa palvelun saatavuuden selkeästi: \"Uber-sovelluksen avulla voit pyytää kyydin liikkumista varten Helsinki milloin tahansa, 24/7\".",
+    "y_tunnus_esilla": "HAVAINTO: Sivujen tekijänoikeusrivillä mainitaan vain \"Uber Technologies Inc.\" ilman Suomen Y-tunnusta tai paikallisia rekisteritietoja. Yritystiedot-sivu on poistunut (HTTP 404), joten paikallisten yritysrekisteritietojen löytäminen on vaikeaa.",
+    "riippumaton_arvio": "HAVAINTO: Yhtiön omilla sivuilla ei ole linkkejä kolmannen osapuolen arviointeihin tai riippumattomiin palvelun arviointisivustoihin. Sivustolla vain Uberin omat arvioinnit ja asiakaspalautteet mainitaan.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy julkisesti näillä sivuilla. Help Center on saatavilla osoitteessa help.uber.com, mutta se mainitaan vain linkin kautta, ei suoraa numeroa. 24/7-tuki mainitaan, mutta kanava (puhelinnumero, chat, email) määrittelemätön.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy näillä sivuilla. Ainoastaan Help Center -linkki ja tuki-portaali mainitaan.",
+    "chat_mainittu": "HAVAINTO: Chat-tukea ei nimenomaisesti mainittu näillä sivuilla, vaikka Help Center saattaa tarjota sitä. Turvallisuussivu mainitsee \"hätäapupainikkeen\" sovelluksessa, mutta chat-tukea ei ole selkeästi dokumentoitu.",
+    "aukioloajat_esilla": "HAVAINTO: Helsinki-sivu mainitsee suoraan \"Uber-sovelluksen avulla voit pyytää kyydin liikkumista varten Helsinki milloin tahansa, 24/7\". Palvelu on saatavilla 24 tuntia vuorokaudessa.",
+    "ukk_osio": "HAVAINTO: Helsinki-kaupunkisivu sisältää \"Usein kysytyt kysymykset\" -osan, jossa vastataan kysymyksiin saatavuudesta, edullisuudesta, liikkumisesta ilman autoa ja turvallisuudesta.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta mainitaan useissa kohdissa. Sivulla on selkeät \"Lataa Uber-sovellus\" -kehotukset ja QR-koodit ladattavaksi App Storesta tai Google Playsta."
+  }
+}

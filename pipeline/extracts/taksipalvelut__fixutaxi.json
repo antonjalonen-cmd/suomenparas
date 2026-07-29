@@ -1,0 +1,50 @@
+{
+  "slug": "fixutaxi",
+  "fetched_ok": [
+    "https://fixutaxi.fi/",
+    "https://fixutaxi.fi/ota-yhteytta/",
+    "https://fixutaxi.fi/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "osittain",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 70,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Hinnoittelu on selkeä: kyydin hinta muodostuu ajetusta matkasta ja käytetystä ajasta, ja sovelluksen tai online-palvelun kautta saa kiinteän hinnan etukäteen.",
+    "Tilaustavat on kuvattu hyvin: sovellus, online-varaus (book.fixutaxi.fi), puhelinpalvelu (0100 6060) ja katupoiminta ovat käytettävissä.",
+    "Laaja palveluverkko: FixuTaxi toimii useilla Suomen alueilla, mukaan lukien pääkaupunkiseutu, Turku, Oulu, Ylivieska-Kalajoki ja Vantaa-Kerava."
+  ],
+  "kehityskohteet": [
+    "Peruutuskäytännön tiedot puuttuvat tai ovat vaikeasti löydettävissä julkisesta sivustosta.",
+    "Yritystunnus (Y-tunnus) ei ole näkyvillä, vaan sivustolla mainitaan vain emoyhtiön nimi Cabonline Finland Oy.",
+    "Riippumattomia arvioita tai sertifikaatteja palveluiden laadusta ei ole mainittu julkisesti."
+  ],
+  "yhteenveto": "FixuTaxi on Cabonline Finland Oy:n ylläpitämä taksipalvelu, joka tarjoaa helpot tilaustavat sovelluksen, online-palvelun, puhelimen ja katupoiminnan kautta. Hinnoittelu on avoin ja perustuu etäisyyteen ja aikaan, asiakkaat saavat kiinteän hinnan etukäteen sovelluksen tai online-palvelun kautta. Palvelu toimii useilla Suomen alueilla, mutta yritystunnusta tai riippumattomia arviointeja ei löydy sivustolta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivustolla kerrotaan, että FixuTaxilla kyydin hinta muodostuu ajetusta matkasta ja siihen kuluneesta ajasta. Ennakkotilauksiin tulee päälle ennakkotilausmaksu. Sovelluksella tai online-palvelulla (book.fixutaxi.fi) asiakas tietää aina matkan hinnan etukäteen.",
+    "tilaustavat_kuvattu": "HAVAINTO: FAQ-osiossa ja etusivulla mainitaan neljä tilauskanavaa: FixuTaxi-sovellus, online-palvelu (book.fixutaxi.fi), puhelinpalvelu numerosta 0100 6060 ja katupoiminta.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Sivustolla mainitaan ennakkotilausmaksu, mutta peruutuskäytännöistä tai odotusaikamaksuista ei ole yksityiskohtaista tietoa julkisesti saatavilla. Odotusaikaan liittyvä tieto saattaa olla sovelluksessa tai online-palvelussa.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Sivustolla mainitaan erillisiä sivuja tai osioita seuraavista alueista: pääkaupunkiseutu (Helsinki), Turku, Oulu, Ylivieska-Kalajoki, Vantaa-Kerava. Lentokenttä-kuljetus mainitaan myös erikseen.",
+    "y_tunnus_esilla": "HAVAINTO: Yritystunnusta ei löydy julkisesta sivustosta. Tietosuojaselosteessa mainitaan palvelua ylläpitävä yritys olevan Cabonline Finland Oy, mutta sen Y-tunnusta ei listata.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole mainintoja riippumattomista arvioinneista, sertifikaateista tai auditoinnista.",
+    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa on näkyvillä: asiakaspalvelu 0100 6060 (3,09 euroa/puhelu + 0,99 euroa/minuutti sis. alv) ja muiden kuljetusten puhelin 09 4246 3202 (ark. 8-16).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite myynti@cabonline.com on näkyvillä ota-yhteyttä-sivulla.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelua ei ole mainittu sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Muille kuljettuksille mainitaan aukioloaika ark. 8-16, mutta taksipalvelun yleisiä aukioloaikoja ei ole selkeästi ilmoitettu. Sovelluksen ja online-palvelun aukioloajat eivät ole näkyvillä.",
+    "ukk_osio": "HAVAINTO: Sivustolla on FAQ-osio, joka sisältää neljä kysymystä: Miten taksi tilataan, Kuinka paljon taksi maksaa, Mistä taksin hinta koostuu, Kuinka turvallista taksilla on liikkua.",
+    "mobiilisovellus": "HAVAINTO: FixuTaxi-sovelluksia voi ladata iOS:lle (App Store) ja Androidille (Google Play). Sovelluksella voi tilata taksin ja nähdä kiinteän hinnan etukäteen."
+  }
+}

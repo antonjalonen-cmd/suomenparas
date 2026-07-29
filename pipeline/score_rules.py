@@ -547,3 +547,31 @@ TRANSPARENCY["kukkakauppojen-verkkokaupat"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- erä 2 (28.7.2026): 5 kategoriaa ------------------------------------------
+for _v in ("lastenvaatteiden-verkkokaupat", "lemmikkitarvikkeiden-verkkokaupat",
+           "kirjakauppojen-verkkokaupat"):
+    TRANSPARENCY[_v] = [
+        ("hinnat_esilla", "Tuotehinnat verkossa esillä", 25),
+        ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+        ("palautusehdot_saatavilla", "Palautusehdot julkisesti saatavilla", 20),
+        ("myymalat_ja_aukioloajat", "Myymälät tai noutopisteet ja palveluajat kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ]
+TRANSPARENCY["hotelliketjut"] = [
+    ("hinnat_esilla", "Huonehinnat nähtävissä ilman kirjautumista", 25),
+    ("peruutusehdot_esilla", "Peruutusehdot kerrottu ennen varausta", 20),
+    ("lisapalvelut_hinnoiteltu", "Aamiaisen ja lisäpalvelujen hinnat kerrottu", 20),
+    ("hotellit_ja_sijainnit", "Hotellit, sijainnit ja yhteystiedot kerrottu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
+TRANSPARENCY["taksipalvelut"] = [
+    ("hinnat_esilla", "Hinnat tai hintaesimerkit julkisesti esillä", 25),
+    ("tilaustavat_kuvattu", "Tilaustavat (sovellus, puhelin, katu) kuvattu", 20),
+    ("peruutus_ja_lisamaksut", "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu", 20),
+    ("toiminta_alue_kerrottu", "Toiminta-alue kerrottu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

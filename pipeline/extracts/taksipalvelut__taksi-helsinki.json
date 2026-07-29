@@ -1,0 +1,51 @@
+{
+  "slug": "taksi-helsinki",
+  "fetched_ok": [
+    "https://taksihelsinki.fi/",
+    "https://taksihelsinki.fi/hintalaskuri/",
+    "https://taksihelsinki.fi/palvelut/",
+    "https://taksihelsinki.fi/ota-yhteytta/"
+  ],
+  "hinnat_esilla": "osittain",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "ei",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 68,
+    "hintojen_loydettavyys": 42,
+    "sisallon_kattavuus": 52
+  },
+  "vahvuudet": [
+    "Selkeä puhelinpalvelu ja toimiva hintalaskuri helpottavat hintojen selvittämistä",
+    "Laaja toiminta-alue kuvattu selvästi (pääkaupunkiseutu ja lukuiset julkisen sektorin palveluiden alueet)",
+    "Sovellusta korostetaan moniin otteisiin helppona ja suositeltavana tilaustavana"
+  ],
+  "kehityskohteet": [
+    "Peruutus-, odottamis- ja lisämaksukäytäntöjä ei ole dokumentoitu julkisesti",
+    "Useita navigaation kautta löytyviä sivujalinkkejä johtaa 404-virheeseen, heikentäen käyttäjäkokemusta",
+    "Sähköpostiosoite puuttuu ja chatin kautta tapahtuvaa yhteydenpitoa ei tarjota"
+  ],
+  "yhteenveto": "Taksi Helsingin verkkosivusto tarjoaa perustiedot taksipalvelun tilaamisesta puhelinumerolla (0100 0700) ja interaktiivisen hintalaskurin kautta, kuitenkin ilman selkeitä hintoja etusivulla. Palvelu on saatavilla pääkaupunkiseudun alueella ja laajemmalla Kela- ja Sote-verkon kattavuudella. Sivusto vaatii parantamista dokumentoinnissa peruutus- ja lisämaksukäytännöistä, sekä käyttäjien ja asiakkaiden tukikanavien osalta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Yksityiskohtaisia kiinteitä hintoja ei ole listattu etusivulla. Puhelinpalvelu näyttää hinnat: '0100 0700 (2,96 € + 1,54 €/min + pvm/mpm)'. Hintalaskuri on saatavilla, mutta vaatii lähtö- ja kohdeosoitteen syöttämistä. Palveluiden hinnasto kuvataan yleisesti: 'Taksimatjan kokonaishinta muodostuu lähtömaksusta sekä kilometri- ja minuuttiveloituksesta'.",
+    "tilaustavat_kuvattu": "HAVAINTO: Sovellusta korostetaan monissa kohdissa ('Tilaa Taksi Helsinki -sovelluksella', 'Lataa sovellus'). Puhelinpalvelu on selvästi näkyvissä numerolla 0100 0700. Taksiasemilta ottaminen mainitaan epäsuorasti ekotaksia ja muita palveluita kuvattaessa.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: Sivustolta ei löydy tietoja peruutuskäytännöistä, odottamiseen liittyvistä maksuista tai muista lisämaksuista. Nämä ehdot eivät ole julkisesti dokumentoituja.",
+    "toiminta_alue_kerrottu": "HAVAINTO: Sivulla todetaan 'Tarjoamme taksipalveluita koko pääkaupunkiseudun alueella'. Lisäksi luetellaan SOTE- ja Kela-kyytien alueet: Etelä-Karjala, Kanta-Häme, Keski-Suomi, Pohjois-Savo (SOTE) sekä Uusimaa, Varsinais-Suomi, Pirkanmaa, Satakunta, Lappi (Kela-taksi).",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0838031-9 on näkyvissä ottaa yhteyttä -sivulla laskutustietojen yhteydessä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole riippumattomia arvioita, tähtiarvosteluja tai asiakkaiden antamia kommentteja. Palvelua ei ole linkitetty ulkoisiin arvostelualustoihin.",
+    "puhelin_esilla": "HAVAINTO: Puhelinpalvelu on selvästi näkyvissä sivuston eri kohdissa: '0100 0700' hintatiedoilla (2,96 € + 1,54 €/min + pvm/mpm).",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei ole listattu yhteystietosivulla tai muissa julkisissa sijainnissa.",
+    "chat_mainittu": "HAVAINTO: Chat-tukipalvelua ei mainita missään sivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja puhelinpalvelulle tai muille palveluille ei ole dokumentoitu.",
+    "ukk_osio": "HAVAINTO: UKK-sivu löytyy navigaatiosta, mutta sivusto ohittaa latautumisen (timeout). Sisältöä ei voitu varmentaa.",
+    "mobiilisovellus": "HAVAINTO: Sovellusta mainitaan useaan otteeseen. 'Lataa sovellus' -linkki on näkyvissä navigaatiossa ja etusivulla sanotaan 'Tilaa Taksi Helsinki -sovelluksella'."
+  }
+}

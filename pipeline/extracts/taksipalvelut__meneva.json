@@ -1,0 +1,55 @@
+{
+  "slug": "meneva",
+  "fetched_ok": [
+    "https://meneva.fi/fi",
+    "https://meneva.fi/fi/tilaa-taksi-ilmainen-tilausnumero-0800-02120",
+    "https://meneva.fi/fi/palvelualueet",
+    "https://meneva.fi/tilaus-ja-peruutusehdot",
+    "https://meneva.fi/fi/yhteystiedot",
+    "https://meneva.fi/fi/meista",
+    "https://meneva.fi/fi/airport",
+    "https://meneva.fi/fi/ajankohtaista"
+  ],
+  "hinnat_esilla": "kylla",
+  "tilaustavat_kuvattu": "kylla",
+  "peruutus_ja_lisamaksut": "kylla",
+  "toiminta_alue_kerrottu": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 84,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 76
+  },
+  "vahvuudet": [
+    "Selkeä ja läpinäkyvä hinnoittelu: kiinteät hinnat, kilometrihinnat ja lisämaksut kuvattu yksityiskohtaisesti ilman piilomaksuja",
+    "Laaja valtakunnallinen palvelualue listattuina 15 maakunnassa aina Hangosta Leville, joissa jokaisella alueella omat hinnastot",
+    "Monipuoliset tilausmenetelmät: Menevä-sovellus, puhelin (0800 02120), verkkolomake ja taksiasema, asiakaspalvelu 24/7 saatavilla"
+  ],
+  "kehityskohteet": [
+    "Asiakkaiden arvioita tai testimoniaaleja ei näy sivustolla, mikä vähentää sosiaalisesta todistuksesta johtuvia luottamustekijöitä",
+    "Hintasimulaattori tai online-laskuri ei ole näkyvästi saatavilla pääsivulla; hinta paljastuu vasta tilauslomaketta täytettäessä",
+    "Jotkut tärkeät sivut (palvelualueet) vaativat JavaScript-renderöintiä staattisen HTML:n sijaan, mikä saattaa heikentää hakukoneoptimointia"
+  ],
+  "yhteenveto": "Menevä on Suomen suurin kotimainen taksialan perheyritys, joka palvelee valtakunnallisesti 24/7 selkeällä, läpinäkyvällä hinnoittelulla ja useilla tilauskanavoilla. Sivusto tarjoaa kattavan tiedon palveluista, hintaketjun peruutuksista ja lisämaksuista, mutta asiakkaiden arvioiden puuttuminen vähentää luottamuksen rakentamista uusille asiakkaille.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hinnat esitetään monella tavalla: 'Tilaa taksi' -sivulla näkyy kiinteät hinnat valitulla autotypyillä, 'Lentokenttätaksi' sivulla listataan tarkat hinnat (perusmaksu 9,95€, kilometriveloitus 1,62€/km, aikavelvoitus 1,05€/min, kiinteä hinta keskustaan 42€). Jokaisen toiminta-alueen sivulla viittaus omaan hinnaston näyttämiseen.",
+    "tilaustavat_kuvattu": "HAVAINTO: 'Tilaa taksi' -sivulla kuvataan kolme tilaustapaa: (1) Lataa sovellus ja tilaa 5€ alennuksella, (2) Soita ilmaiseen numeroon 0800 02120, (3) Tilaa verkkolomakkeella. Sovellus- ja puhelinmenetelmät mainitaan myös etusivulla, yhteystiedot-sivulla ja muilla sivuilla.",
+    "peruutus_ja_lisamaksut": "HAVAINTO: 'Tilaus- ja peruutusehdot' sivulla (kohta 5.1-5.2) kuvataan peruutuskäytännöt: ilmainen peruutus ennen noutoaikaa toiminta-alueella, ulkopuolella peruutuksen tulee tapahtua edellisenä päivänä, kuljettajan saavuttua maksua 75% matkan hinnasta. Kohdat 4.3 ja 4.4.1 esittelevät odotusaikakulut (5 min sisältyy kiinteään hintaan, sitten 1,05€/min). Lastenistuimen lisämaksu 10€ (mainittu sekä 'Tilaa taksi' -sivulla että 'Lentokenttätaksi' -sivulla). Invakyydistä ja muusta lisätaksipalvelusta veloitetaan hinnaston mukainen lisämaksu (mainittu 'Tilaa taksi' -sivulla).",
+    "toiminta_alue_kerrottu": "HAVAINTO: 'Palvelualueet' -sivulla (JS-renderöity) luetelaan yksityiskohtaisesti kaikki 15 maakuntaa ja niiden kaupungit, jotka vastaavat: Uusimaa (Helsinki, Järvenpää, Raasepori, Hanko, Porvoo, Vantaa, Espoo), Lappi (Rovaniemi, Kittilä, Levi), Varsinais-Suomi (Turku, Salo), Pirkanmaa (Tampere), Kainuu (Kajaani, Sotkamo, Suomussalmi, Kuhmo), Pohjois-Karjala (Liperi, Nurmes, Lieksa, Joensuu), Etelä-Karjala (Imatra, Lappeenranta), Etelä-Savo (Mikkeli), Keski-Suomi (Jyväskylä), Päijät-Häme (Lahti), Pohjois-Pohjanmaa (Oulu), Pohjois-Savo (Kuopio). Etusivulla ja 'Meistä' -sivulla mainitaan palvelu 'aina Hangosta Leville'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0711979-2 näkyy jokaisella verkkosivulla footerissa ja selvästi muodossa 'Palvelun tarjoaa Menevä Y:0711979-2'. Lisäksi se on listattu 'Yhteystiedot' -sivulla yrityksen virallisena tunnuksena sekä laskutusosassa verkkolaskuosoitteena 003707119792.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä asiakkaiden arvioita, Google-arvioita tai muita riippumattomia arviointeja palvelun laadusta. Sivustolla mainitaan vain sisäinen 'Rahat takaisin -takuu' ja yleisesti Vastuu Groupin 'Luotettava kumppani' -sertifiointi, mutta ei kolmannen osapuolen arviointeja.",
+    "puhelin_esilla": "HAVAINTO: Ilmainen tilausnumero 0800 02120 näkyy prominentisti kaikilla pääsivuilla ja on merkitty maksuttomaksi. Asiakaspalveluun voi soittaa 24/7 saadakseen apua. Numero toistetaan 'Tilaa taksi' -sivulla, etusivulla, 'Yhteystiedot' -sivulla ja lähes jokaisella alasivulla.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet listataan 'Yhteystiedot' -sivulla: info@meneva.fi (yleiset kysymykset), myynti@meneva.fi (tarjouspyynnöt), palaute@meneva.fi (palaute), kelapalaute@meneva.fi (Kela-kuljetus), loytotavarat@meneva.fi (löytötavarat). Käsittelysähköpostiosoite näkyy myös verkkolaskuosassa.",
+    "chat_mainittu": "HAVAINTO: Sivuston alareunassa mainitaan 'Lillibotti' chatbot, joka tarjoaa asiakaspalvelua. Viesti lukee 'Hei, olen Menevän Lillibotti! Tahdotko kysyä jotain vai antaa meille palautetta?' sekä vaihtoehdot 'Chat' ja 'Asiakaspalvelu'.",
+    "aukioloajat_esilla": "HAVAINTO: Sivustolla toistuvasti mainitaan 24/7 asiakaspalvelu: 'Menevä palvelee asiakkaita valtakunnallisesti' ja 'Asiakaspalvelumme on tavoitettavissa 24/7'. Puhelin 0800 02120 on aina saatavilla. Taksiasemilla Menevän takseja saatavilla ilman varausta.",
+    "ukk_osio": "HAVAINTO: 'Lentokenttätaksi' -sivulla on 'Usein kysytyt kysymykset' (FAQ) -osio, jossa vastaillaan useisiin lentokenttätaksia koskeviin kysymyksiin (hinta, sijainti, Meet & Greet, lastenistuimen saatavuus jne.). Lisäksi jokaisella sivulla on palautelomake ja viittaus 'Anna palautetta!' -lomakkeeseen.",
+    "mobiilisovellus": "HAVAINTO: Menevä-sovellus on selvästi kuvattu sivustolla: saatavissa iOS:lle (App Store) ja Android-laitteille (Google Play). Sovelluksen latauslinkit ovat näkyvissä etusivulla ja 'Meistä' -sivulla. 'Meistä' -sivulla kuvataan sovelluksen ominaisuuksia: kiinteä hinta etukäteen, ennakkovaraus ilman lisämaksua, eri maksumuodot, tilauksen seuranta ja 5€ alennus uusille käyttäjille (koodi ALE5)."
+  }
+}

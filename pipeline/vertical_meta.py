@@ -1536,3 +1536,61 @@ META["kukkakauppojen-verkkokaupat"] = {
          "Kumpikin toimii — kerromme mallin jokaisen palvelun sivulla."),
     ],
 }
+
+def _meta2(slug, nimi, nav, h1, yksikko, kysymys, notes):
+    META[slug] = {
+        "slug": slug, "nimi": nimi, "nav": nav, "h1": h1, "yksikko": yksikko,
+        "lead": ("Pisteytimme {n} " + yksikko + " {m} mittarilla: tekninen laatu, "
+                 "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: " + kysymys),
+        "meta_title": h1 + " | pisteytettynä | Suomen Paras",
+        "meta_desc": "{n} " + yksikko + " pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+        "notes": notes,
+    }
+
+_meta2("lastenvaatteiden-verkkokaupat", "Lastenvaatteiden verkkokaupat", "Lastenvaatteet",
+    "Suomen paras lastenvaatteiden verkkokauppa 2026", "lastenvaatteiden verkkokauppaa",
+    "näetkö hinnat, toimituskulut ja palautusehdot ennen tilausta?",
+    [("<b>Polarn O. Pyret puuttuu</b>, koska sen verkkokauppa ei ole automaattisesti mitattavissa: sivusto on JavaScript-sovellus Cloudflaren takana eivatka alasivujen osoitteet nay lahdekoodissa. Emme arvaa pisteita mittaamattomasta sivustosta."),
+     ("<b>Ala on käynyt läpi rajun karsinnan.</b> Papu Design ajautui konkurssiin lokakuussa "
+      "2025, Vimma lopetti lastenvaatteet ja Mainio ajaa lastenlinjaansa alas — vertailussa "
+      "ovat vain heinäkuussa 2026 aktiivisiksi varmistetut kaupat."),
+     ("<b>Mukana on eri kokoluokkia.</b> Reima on kansainvälinen suuryritys ja osa kaupoista "
+      "pieniä kotimaisia perheyrityksiä — pisteet mittaavat verkkokaupan läpinäkyvyyttä, "
+      "eivät yrityksen kokoa tai vaatteiden laatua.")])
+
+_meta2("lemmikkitarvikkeiden-verkkokaupat", "Lemmikkitarvikkeiden verkkokaupat", "Lemmikkitarvikkeet",
+    "Suomen paras lemmikkitarvikkeiden verkkokauppa 2026", "lemmikkitarvikkeiden verkkokauppaa",
+    "näetkö hinnat, toimituskulut ja palautusehdot ennen tilausta?",
+    [("<b>Markkinajohtaja vaihtoi omistajaa.</b> Musti Group ostettiin pois pörssistä 2024 — "
+      "omistus kerrotaan avoimesti yhtiön sivulla, kuten myös Zooplusin pääomasijoittajatausta."),
+     ("<b>Affiliate-aggregaattorit on karsittu.</b> Osa 'lemmikkikaupoista' on pelkkiä "
+      "ohjaussivustoja ilman omaa kauppaa — vertailussa ovat vain oikeat verkkokaupat.")])
+
+_meta2("hotelliketjut", "Hotelliketjut", "Hotelliketjut",
+    "Suomen paras hotelliketju 2026", "Suomessa toimivaa hotelliketjua",
+    "näetkö huonehinnan ja peruutusehdot ennen varausta ja kirjautumista?",
+    [("<b>Radisson ja Best Western puuttuvat</b>, koska niiden sivustot estävät automaattisen "
+      "mittauksen kokonaan (HTTP 403) — emme arvaa pisteitä, joten mittauskelvottomat jäävät "
+      "pois. Finlandia Hotels jäi pois itsenäisten hotellien markkinointiketjuna."),
+     ("<b>Peruutusehdot ovat hotellivarauksen tärkein pieni teksti.</b> Joustava ja "
+      "ei-palautettava hinta voivat erota kymmeniä euroja — mittaamme, kerrotaanko ehdot "
+      "selkeästi ennen varausta, ja avoimuus tuo myös sitoutumisindeksibonuksen.")])
+
+_meta2("taksipalvelut", "Taksipalvelut", "Taksipalvelut",
+    "Suomen paras taksipalvelu 2026", "Suomessa toimivaa taksipalvelua",
+    "kerrotaanko hinnat tai hintaesimerkit ennen kyytiä?",
+    [("<b>Mukana ovat myös Uber ja Bolt</b> ulkomaisina sovelluspalveluina — omistus ja "
+      "toiminta-alueet kerrotaan jokaisen palvelun sivulla. Kajonin sisaryhtiön vuoden 2020 "
+      "konkurssi on kerrottu avoimesti riskitietona."),
+     ("<b>Taksiuudistuksen jälkeen hinnat vaihtelevat rajusti.</b> Sama matka voi maksaa "
+      "tuplasti eri yhtiöllä — siksi hintojen ja lisämaksujen avoimuus ennen tilausta on "
+      "vertailun painavin kriteeri.")])
+
+_meta2("kirjakauppojen-verkkokaupat", "Kirjakauppojen verkkokaupat", "Kirjakaupat",
+    "Suomen paras kirjakauppojen verkkokauppa 2026", "Suomeen myyvää kirjojen verkkokauppaa",
+    "näetkö hinnat, toimituskulut ja palautusehdot ennen tilausta?",
+    [("<b>Ala keskittyi vuodenvaihteessa:</b> Adlibris (Bonnier) osti Akateemisen "
+      "Kirjakaupan 1.1.2026 — molemmat verkkokaupat jatkavat erikseen ja molemmat ovat "
+      "vertailussa, omistus avoimesti kerrottuna. Suomalainen Kirjakauppa kuuluu Otavalle."),
+     ("<b>Äänikirjapalvelut eivät ole tässä vertailussa.</b> BookBeat, Storytel ja Nextory "
+      "ovat tilauspalveluita, eivät kirjakauppoja — ne ansaitsevat oman kategoriansa.")])

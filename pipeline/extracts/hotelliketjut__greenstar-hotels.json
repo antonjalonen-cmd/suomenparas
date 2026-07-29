@@ -1,0 +1,53 @@
+{
+  "slug": "greenstar-hotels",
+  "fetched_ok": [
+    "https://www.greenstar.fi/",
+    "https://www.greenstar.fi/hotellit/",
+    "https://www.greenstar.fi/hotellit/joensuu/",
+    "https://www.greenstar.fi/hotellit/lahti/",
+    "https://www.greenstar.fi/hotellit/vaasa/",
+    "https://www.greenstar.fi/hotellit/oulu/",
+    "https://www.greenstar.fi/hotellit/jyvaskyla/",
+    "https://www.greenstar.fi/palvelut/",
+    "https://www.greenstar.fi/en/"
+  ],
+  "hinnat_esilla": "osittain",
+  "peruutusehdot_esilla": "ei",
+  "lisapalvelut_hinnoiteltu": "kylla",
+  "hotellit_ja_sijainnit": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 58,
+    "sisallon_kattavuus": 62
+  },
+  "vahvuudet": [
+    "Selkeä hotelliluettelo viidella kaupungilla sijainteineen, osoitteineen ja yhteystiedoineen",
+    "Kattava palvelujen ja mukavuuksien kuvaus (pesula, WiFi, sähköautojen lataus, ilmaiset pyörät, luomukahvi)",
+    "Transparentti ympäristömerkkien dokumentointi (Joutsenmerkki, Sustainable Travel Finland, aurinkovoimala)"
+  ],
+  "kehityskohteet": [
+    "Peruutusehdot puuttuvat kokonaan varausohjeista - ei mainintaa varausten peruuttamisen aikarajoista tai kuluista",
+    "Yritystiedot julkisesti saatavilla olevia puutteellisia - Y-tunnusta ei julkaista eikä oikeushenkilön tietoja löydy",
+    "Huonehinnat näkyvät vasta varausjärjestelmässä - etukäteisvaihe ei näytä täyttä hintakyselyä ilman kirjautumista"
+  ],
+  "yhteenveto": "GreenStar Hotels on viiden kaupungin hotelliketju, joka tarjoaa selkeät tiedot sijainneista, yhteystiedoista ja peruspalveluista. Ympäristövastuullisuus on keskeinen viesti sivuston sisällössä (Joutsenmerkki, vihreä energia, kestävä kehitys). Sivusto jättää kuitenkin tärkeitä varausten ehtoja (peruutusehdot, täydellinen hinnoittelu) varausjärjestelmän taakse eikä julkaise yritystietoja.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Aamiaisen hinnat julkaistu kaikilla hotellisivuilla (etukäteen tilattu 12 euroa, paikan päältä tilattu 14 euroa, lapset 4-12 vuotta 8 euroa, alle 4-vuotiaat ilmaiseksi). Pysäköinnin hinta nähtävissä (13 euroa per vuorokausi). Huonehinnat edellyttävät 'Varaa huone' -painikkeen kautta siirtymistä varausjärjestelmään, joka vaatii haun tekemisen.",
+    "peruutusehdot_esilla": "HAVAINTO: Peruutusehdot eivät näy missään kerätyn sisällön sivuista. Varaussehdot ja peruutusehdot nähtävät vasta varausjärjestelmässä, johon pääsee painamalla 'Varaa huone'.",
+    "lisapalvelut_hinnoiteltu": "HAVAINTO: Aamiaisen hinnat kuvattu kaikilla hotellisivuilla (12-14 euroa). Pysäköinnin hinta ilmoitettu (13 euroa per vuorokausi). Lapsille varattavat lisävuoteet mainittu olevan saatavilla, mutta niiden hintatiedot saatavilla vain yhteydenotolla tai varausjärjestelmässä.",
+    "hotellit_ja_sijainnit": "HAVAINTO: Kaikki viisi hotellia listataan selkeillä osoitteilla: Joensuu (Torikatu 16, 80100), Lahti (Vesijärvenkatu 1, 15100), Vaasa (Myllykatu 17, 65100), Oulu (Uusikatu 26, 90100), Jyväskylä (Heikinkatu 3, 40100). Kunkin hotellin sivulla ilmoitettu puhelinnumero, sähköpostiosoite ja vastaanoton aukioloajat.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei ilmoiteta missään kerätyissä sivuista. Yrityksen oikeushenkilön tietoja ei julkaistu saatavilla olevissa sivuissa (lainvoimainen Y-tunnus tai rekisteröintitiedot puuttuvat).",
+    "puhelin_esilla": "HAVAINTO: Jokaisen hotellin puhelinnumero julkaistu hotellin omalla sivulla: Joensuu +358 10 423 9390, Lahti +358 10 423 9392, Vaasa +358 10 423 9393, Oulu +358 10 423 9394, Jyväskylä +358 10 423 9391.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitteet kaikkien hotellien yhteystiedoissa: joensuu@greenstar.fi, lahti@greenstar.fi, vaasa@greenstar.fi, oulu@greenstar.fi, jyvaskyla@greenstar.fi.",
+    "aukioloajat_esilla": "HAVAINTO: Vastaanoton aukioloajat kuvattu kunkin hotellin sivulla, erottelulla kesän (22.6.-31.8.2026) ja normaalien aukioloaikojen välillä. Sisäänkirjautumisautomaattien ansiosta maininta myöhästä saapumisesta mahdolliseksi.",
+    "ukk_osio": "HAVAINTO: Monilla hotellisivuilla 'Usein kysytyt kysymykset' -osio, joka käsittelee maksutapoja, pysäköintiä, huonevarustelua ja palveluita. Osio puuttuu kokonaan joiltakin sivuilta (esim. Oulu)."
+  }
+}

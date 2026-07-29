@@ -1,0 +1,50 @@
+{
+  "slug": "reima",
+  "fetched_ok": [
+    "https://www.reima.com/fi-FI/",
+    "https://www.reima.com/fi-FI/toimitustavat",
+    "https://www.reima.com/fi-FI/palauttaminen",
+    "https://www.reima.com/fi-FI/tietosuojaseloste"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Tuotteiden hinnat ovat näkyvillä etusivulla selkeissä euroissa, vertailu on helppoa",
+    "Toimitus- ja palautusehdot on esitetty yksityiskohtaisesti omilla sivuillaan, sekä maksutavat ja toimitusvaihtoehdot selkeästi listattuna",
+    "Asiakaspalvelun yhteystiedot (sähköposti asiakaspalvelu@reima.com, puhelin +358 20 759 5800, chat) ovat monella tavalla saatavilla"
+  ],
+  "kehityskohteet": [
+    "Yhtiön Y-tunnus puuttuu verkkosivuilta kokonaan, mikä heikentää yritystietojen läpinäkyvyyttä",
+    "Fyysisten myymälöiden sijainnit ja aukioloajat eivät ole helposti löydettävissä päänavigaatiosta",
+    "Sopimusehdot-sivu palautuu tyhjään, ja useat informaatiosivut (Meistä, vastuullisuus) aikakatkaistuvat, mikä estää täydellisen tiedon saatavuuden"
+  ],
+  "yhteenveto": "Reima on suomalaisesti omistettu lastenvaatteisiin erikoistunut verkkokauppa, joka tarjoaa laajan tuotevalikoiman. Verkkosivuston vahvuus on hintojen ja tuotteiden selkeä esittäminen sekä yksityiskohtaiset toimitus- ja palautusohjeistukset. Heikkoutena on yhtiön perustieto kuten Y-tunnus, joita ei näy sivuilla, sekä fyysisten myymälöiden informaation saavutettavuus.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotteet ja niiden hinnat euroissa ilman piiloa (esim. Lasten hyönteissuojapaita Inista 29,95 €, Lasten viilentävät housut Vety 37,46 € alennettu hinnasta 49,95 €). Alennusprosentit näkyvät selkeästi.",
+    "toimitus_kerrottu": "HAVAINTO: Omalla Toimitustavat-sivulla esitetään DHL Standard 6,95 € / 3-4 arkipäivää ja DHL Express 14,95 € / 1-2 arkipäivää. Ilmainen toimitus yli 100 euroon. Etusivulla näkyvät bannerit ILMAINEN TOIMITUS YLI 100 € TILAUKSIIN. Tiedot ovat saatavilla ennen kassan lopetusvaiheita.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palauttaminen-sivulla kerrotaan 14 päivän palautusoikeudesta, 4,90 euron käsittelymaksusta, sekä etukäteen maksetusta osoitelappusta palautuksiin. Myymälään palautukset käsitellään ilman käsittelymaksua. Palauttaminen-sivulla linkki rekisteröintiin ja selkeät ohjeet.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Etusivun footerissa ja useissa paikoissa näkyy osoite Elimäenkatu 9 A, FI-00510 Helsinki. Footer mainitsee Reima myymälät & jälleenmyyjät -linkin, mutta kyseinen sivu palauttaa 404-virheen. Aukioloajat ja tarkemmat myymälätiedot eivät ole helposti saatavilla.",
+    "y_tunnus_esilla": "HAVAINTO: Yhtiön nimi Reima Europe Oy löytyy tietosuojaselosteesta, osoite Elimäenkatu 9 A, 00510 Helsinki on näkyvillä. Y-tunnusta ei ole näkyvillä missään käytetyistä sivuista.",
+    "riippumaton_arvio": "HAVAINTO: Käytetyillä sivuilla ei näkynyt minkään riippumattoman tahon (kuten kuluttajavirasto, kuluttajalehti, TrustedShops tai vastaava) arvioita tai todistuksia.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumero +358 20 759 5800 löytyy tietosuojaselosteen yhteystiedoista ja merkitään konkreettisesti yhteyshenkilötietoihin.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite asiakaspalvelu@reima.com näkyy useissa paikoissa: footerissa, palauttaminen-sivulla, toimitustavat-sivulla ja tietosuojaselosteessa.",
+    "chat_mainittu": "HAVAINTO: Tietosuojaselosteessa mainitaan chat-palvelu (Giosg.com), joka käsittelee asiakastietoja ja on käytettävissä verkkosivustolla.",
+    "aukioloajat_esilla": "HAVAINTO: Verkkokaupan toimitusten aukioloaikoja ei ole näkyvillä. Fyysisten myymälöiden aukioloaika-informaatio ei ole saavutettavissa, sillä myymälöt & jälleenmyyjät -sivu palauttaa 404-virheen.",
+    "ukk_osio": "HAVAINTO: Footer ja navigaatio mainitsevat Usein kysytyt kysymykset -linkkejä, mutta sivu ei avaudu osoitteessa /usein-kysytyt-kysymykset (404). Help Center -linkki ei ole saavutettavissa."
+  }
+}
