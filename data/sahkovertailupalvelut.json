@@ -726,7 +726,7 @@
        "pisteet_max": 20,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Missään sivuissa (etusivu, mika-kilpailuttaja, asiakaspalvelu, yleiset kayttoehdot, tietosuojaseloste) ei sanota, miten Kilpailuttaja.fi ansaitsee rahaa. Ei mainintaa provisioista, palkkioista tai sähköyhtiöiden maksuista."
+       "quote": "HAVAINTO: Missään sivuissa (etusivu, mikä-kilpailuttaja, asiakaspalvelu, yleiset käyttöehdot, tietosuojaseloste) ei sanota, miten Kilpailuttaja.fi ansaitsee rahaa. Ei mainintaa provisioista, palkkioista tai sähköyhtiöiden maksuista."
       },
       {
        "mittari": "Vertailun kattavuus ja rajaukset kerrottu",
@@ -735,7 +735,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'sahkon-kilpailutus' sivulla sanotaan '100 % puolueeton sähkövertailu – kilpailutuksessa mukana 15 sähköyhtiötä', mutta rajoja ei selvitetä. Sitä vastoin sivulla on lause: 'Miksi sähkönsiirtoa ei voi kilpailuttaa? Sähkönsiirto säilyy aina paikallisen verkkoyhtiön vastuulla.' Näin rajausta on, mutta rajaa ei ole selvästi julkaistu."
+       "quote": "HAVAINTO: 'sähkön-kilpailutus' sivulla sanotaan '100 % puolueeton sähkövertailu – kilpailutuksessa mukana 15 sähköyhtiötä', mutta rajoja ei selvitetä. Sitä vastoin sivulla on lause: 'Miksi sähkönsiirtoa ei voi kilpailuttaa? Sähkönsiirto säilyy aina paikallisen verkkoyhtiön vastuulla.' Näin rajausta on, mutta rajaa ei ole selvästi julkaistu."
       },
       {
        "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
@@ -1074,7 +1074,7 @@
     "Integrointi Nord Pool ja Nasdaq markkinadatoihin reaaliajassa"
    ],
    "kehityskohteet": [
-    "Vertailutyökalun hintanäkymät vaativat JavaScript-renderointia, eivät näy staattiselle haulle",
+    "Vertailutyökalun hintanäkymät vaativat JavaScript-renderöintiä, eivät näy staattiselle haulle",
     "Vertailuihin kuuluvien sähköyhtiöiden lista ei ole helposti saatavilla ilman vertailutyökalun käyttöä",
     "Asiakaspalvelun puhelinnumeroa ei ole näkyvissä, vain sähköpostiosoite"
    ],
@@ -1353,7 +1353,7 @@
        "pisteet_max": 30,
        "pisteet": 30.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivulla toistuvasti mainitaan 'Vertaa sopimuksia ilman tietojesi luovuttamista' ja 'Aloita kilpailutus'. Tietoa-meista sivulla: 'sähkösopimuksia voi vertailla ilman pakollista henkilötietojen luovuttamista'."
+       "quote": "HAVAINTO: Etusivulla toistuvasti mainitaan 'Vertaa sopimuksia ilman tietojesi luovuttamista' ja 'Aloita kilpailutus'. Tietoa-meistä sivulla: 'sähkösopimuksia voi vertailla ilman pakollista henkilötietojen luovuttamista'."
       },
       {
        "mittari": "Ansaintamalli (komissiot) kerrottu avoimesti",
@@ -1371,7 +1371,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tietoa-meista sivulla: 'Palvelu ei sisällä kaikkia Suomessa toimivia sähköyhtiöitä, vaan vertailuun valitaan yhteistyökumppaneita ja tarjouksia, joita pidämme kuluttajan näkökulmasta kilpailukykyisinä ja luotettavina.' Myös miten-palvelu-toimii sivulla: 'Me emme kilpailuta kaikkia suomessa tarjolla olevia sähkösopimuksia, vaan ainoastaan ne joiden kanssa teemme yhteistyötä.'"
+       "quote": "HAVAINTO: Tietoa-meistä sivulla: 'Palvelu ei sisällä kaikkia Suomessa toimivia sähköyhtiöitä, vaan vertailuun valitaan yhteistyökumppaneita ja tarjouksia, joita pidämme kuluttajan näkökulmasta kilpailukykyisinä ja luotettavina.' Myös miten-palvelu-toimii sivulla: 'Me emme kilpailuta kaikkia suomessa tarjolla olevia sähkösopimuksia, vaan ainoastaan ne joiden kanssa teemme yhteistyötä.'"
       },
       {
        "mittari": "Vertailussa mukana olevat sähköyhtiöt listattu",
@@ -1398,7 +1398,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei väitetä riippumattomuutta. Tietoa-meista sivulla todetaan, että palvelua ylläpitää WebCube Oy ja se tekee yhteistyötä valittujen sähköyhtiöiden kanssa. Potentiaalinen ristiriita: yhteistyökumppanien valintakriteerit eivät ole selkeitä, mikä voi vaikuttaa objektiivisuuteen."
+       "quote": "HAVAINTO: Sivustolla ei väitetä riippumattomuutta. Tietoa-meistä sivulla todetaan, että palvelua ylläpitää WebCube Oy ja se tekee yhteistyötä valittujen sähköyhtiöiden kanssa. Potentiaalinen ristiriita: yhteistyökumppanien valintakriteerit eivät ole selkeitä, mikä voi vaikuttaa objektiivisuuteen."
       }
      ]
     },

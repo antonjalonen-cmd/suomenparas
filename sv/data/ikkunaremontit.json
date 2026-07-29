@@ -496,7 +496,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hintalaskurin paivitetyt esimerkkihinnat nakyvat pikalaskuri-artikkelissa. Kymmenen ikkunan remontti maksaa 8720 euroa avaimet kateen, 5621 euroa tuotteittain. Verkkokaupasta hinnat nakyy reaaliaikaisesti ominaisuuksien valinnan mukaan."
+       "quote": "HAVAINTO: Hintalaskurin paivitetyt esimerkkihinnat näkyvät pikalaskuri-artikkelissa. Kymmenen ikkunan remontti maksaa 8720 euroa avaimet käteen, 5621 euroa tuotteittain. Verkkokaupasta hinnat näkyy reaaliaikaisesti ominaisuuksien valinnan mukaan."
       },
       {
        "mittari": "Remontin eteneminen kuvattu vaiheittain",
@@ -505,7 +505,7 @@
        "pisteet_max": 20,
        "pisteet": 20.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Prosessi kuvattu selkeasissa vaiheissa: maksuttomat suunnittelupalvelu, tarjouspyynnot, verkkokaupan tilaus, asennus valtuutetulla kumppanilla. Koko prosessin kuvaus on saatavilla kolmella eri polulla."
+       "quote": "HAVAINTO: Prosessi kuvattu selkeasissa vaiheissa: maksuttomat suunnittelupalvelu, tarjouspyynnöt, verkkokaupan tilaus, asennus valtuutetulla kumppanilla. Koko prosessin kuvaus on saatavilla kolmella eri polulla."
       },
       {
        "mittari": "Takuut ja niiden ehdot kerrottu",
@@ -523,7 +523,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Ikkunat-sivulla kuvataan materiaali 'puualumiini-ikkunat' ja mallit MSEA (avattava), MSA (avattava), MEKA (kiintea). Kuvataan energia-arvot, vari- ja varustusvaihtoehdot (salekaihtimet, mosquito nets), kolmi- ja kaksipuitteinen rakenne."
+       "quote": "HAVAINTO: Ikkunat-sivulla kuvataan materiaali 'puualumiini-ikkunat' ja mallit MSEA (avattava), MSA (avattava), MEKA (kiintea). Kuvataan energia-arvot, väri- ja varustusvaihtoehdot (sälekaihtimet, mosquito nets), kolmi- ja kaksipuitteinen rakenne."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -541,7 +541,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivulla mainitaan vain sisainen 'NPS-luku' (Net Promoter Score) ja '3257+ asiakaskokemusta' mutta ei linkkeja kolmannen osapuolen vertailukohteisiin, Trustpilot-tyyppeihin tai riippumattomiin arvioihin."
+       "quote": "HAVAINTO: Sivulla mainitaan vain sisäinen 'NPS-luku' (Net Promoter Score) ja '3257+ asiakaskokemusta' mutta ei linkkejä kolmannen osapuolen vertailukohteisiin, Trustpilot-tyyppeihin tai riippumattomiin arvioihin."
       }
      ]
     },
@@ -636,23 +636,23 @@
    },
    "facts_extra": [],
    "vahvuudet": [
-    "Hintojen lahpinakyvyys: konkreettisia esimerkkihintoja nakyva (10 ikkunan remontti 8720 euroa asennettu, 5621 euroa ilman asennusta)",
+    "Hintojen lahpinakyvyys: konkreettisia esimerkkihintoja näkyvä (10 ikkunan remontti 8720 euroa asennettu, 5621 euroa ilman asennusta)",
     "Laaja asiakirjakirjasto: takuu-, ohjeet-, tekniset- ja asennus-dokumentit vapaasti ladattavissa sivulla",
-    "Monikanavainen palvelu: verkkokauppa, maksuton suunnitteluapu, tarjouspyynnot ja kumppani-asennus - asiakas voi valita"
+    "Monikanavainen palvelu: verkkokauppa, maksuton suunnitteluapu, tarjouspyynnöt ja kumppani-asennus - asiakas voi valita"
    ],
    "kehityskohteet": [
     "Verkkokaupan linkit: /verkkokauppa/-polku palauttaa 404, hintojen vertailu vaatii web-shopin suoria URL-osoitteita",
-    "Riippumattomien arvioiden puute: vain sisainen NPS-mittaus ja '3257+ asiakaskokemusta' nakyvilla, ei kolmannen osapuolen verifiointia",
-    "Tekniset tiedot vaativat lataamista: U-arvot, aanieneristys, energiatehokkuusluokat eivat ole etusivuilla vaan PDF-dokumenteissa"
+    "Riippumattomien arvioiden puute: vain sisäinen NPS-mittaus ja '3257+ asiakaskokemusta' näkyvillä, ei kolmannen osapuolen verifiointia",
+    "Tekniset tiedot vaativat lataamista: U-arvot, aanieneristys, energiatehokkuusluokat eivät ole etusivuilla vaan PDF-dokumenteissa"
    ],
-   "yhteenveto": "Piklas on suomalainen ikkuna- ja ovivalmistaja, joka korostaa hintojen lahpinakyvyytta ja asiakaspalvelun saavutettavuutta. Sivusto esittelee konkreettisia esimerkkihintoja, laajaa asiakirjakirjastoa ja kolmea eri tilausvaihtoehtoa (verkkokauppa, suunnitteluapu, tarjouspyynto). Tiedot asiakaista loytyy helposti, mutta riippumattomat arviot puuttuvat ja joitain teknisiä yksityiskohtia joudutaan etsimaan lataamalla dokumentteja.",
+   "yhteenveto": "Piklas on suomalainen ikkuna- ja ovivalmistaja, joka korostaa hintojen lahpinakyvyytta ja asiakaspalvelun saavutettavuutta. Sivusto esittelee konkreettisia esimerkkihintoja, laajaa asiakirjakirjastoa ja kolmea eri tilausvaihtoehtoa (verkkokauppa, suunnitteluapu, tarjouspyynto). Tiedot asiakaista löytyy helposti, mutta riippumattomat arviot puuttuvat ja joitain teknisiä yksityiskohtia joudutaan etsimään lataamalla dokumentteja.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": [],
    "tunnettuus": {
     "artikkeli": "Piklas",
     "paivakatselut_ka": 1,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Piklas' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Piklas' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -875,7 +875,7 @@
     "artikkeli": "Skaala (yritys)",
     "paivakatselut_ka": 3,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Skaala (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Skaala (yritys)' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1540,35 +1540,35 @@
  ],
  "updated": "27.7.2026",
  "opas": {
-  "johdanto": "Ikkunaremontti on omakotitalon isoimpia yksittaisia remontteja, ja alalla toimii seka kansainvalisten konsernien brandeja (Pihla ja Tiivi kuuluvat ruotsalaiselle Inwidolle, Skaala itavaltalaiselle IFN:lle) etta kotimaisia perheyhtioita. Ala on kaynyt lapi konkurssiaallon: Fenestra kaatui 2016 ja Domus 2019. Vertailussa mitataan hintatiedon, prosessikuvauksen, takuiden ja ikkunavaihtoehtojen avoimuutta.",
+  "johdanto": "Ikkunaremontti on omakotitalon isoimpia yksittäisiä remontteja, ja alalla toimii sekä kansainvalisten konsernien brändejä (Pihla ja Tiivi kuuluvat ruotsalaiselle Inwidolle, Skaala itavaltalaiselle IFN:lle) että kotimaisia perheyhtioita. Ala on käynyt läpi konkurssiaallon: Fenestra kaatui 2016 ja Domus 2019. Vertailussa mitataan hintatiedon, prosessikuvauksen, takuiden ja ikkunavaihtoehtojen avoimuutta.",
   "huomioita": [
-   "Hintatiedon avoimuus vaihtelee rajusti: osa julkaisee esimerkkihinnat tai laskurin, osa kertoo hinnan vasta maksuttoman kartoituskaynnin jalkeen.",
+   "Hintatiedon avoimuus vaihtelee rajusti: osa julkaisee esimerkkihinnat tai laskurin, osa kertoo hinnan vasta maksuttoman kartoituskäynnin jälkeen.",
    "Takuurakenteet ovat monikerroksisia: tuotetakuu, rakennetakuu, lahotakuu ja asennustakuu voivat olla eri pituisia (2-25 vuotta) - vertaa aina samaa takuulajia.",
-   "Pihla ja Tiivi ovat saman Pihla Group Oy:n (Inwido AB) brandeja - tarjousten pyytaminen molemmilta ei tuota aidosti riippumatonta vertailua.",
-   "Energialuokka (U-arvo) vaikuttaa lammityskuluihin vuosikymmenia: hyvat sivustot kertovat U-arvot tuotteittain.",
-   "Kotitalousvahennyksen saa asennustyon osuudesta, ja hyva toimija erittelee tyon ja materiaalin tarjouksessa valmiiksi."
+   "Pihla ja Tiivi ovat saman Pihla Group Oy:n (Inwido AB) brändejä - tarjousten pyytäminen molemmilta ei tuota aidosti riippumatonta vertailua.",
+   "Energialuokka (U-arvo) vaikuttaa lammityskuluihin vuosikymmenia: hyvät sivustot kertovat U-arvot tuotteittain.",
+   "Kotitalousvähennyksen saa asennustyön osuudesta, ja hyvä toimija erittelee työn ja materiaalin tarjouksessa valmiiksi."
   ],
   "vinkit": [
-   "Pyyda tarjous vahintaan kolmelta yritykselta ja varmista, etta tarjous sisaltaa purun, asennuksen, listoitukset ja vanhojen ikkunoiden poisviennin.",
-   "Vertaa U-arvoja ja aanieristysta, ala pelkkaa hintaa: halvempi ikkuna voi maksaa erotuksen lammityskuluissa.",
+   "Pyydä tarjous vähintään kolmelta yritykseltä ja varmista, että tarjous sisältää purun, asennuksen, listoitukset ja vanhojen ikkunoiden poisviennin.",
+   "Vertaa U-arvoja ja aanieristysta, älä pelkkää hintaa: halvempi ikkuna voi maksaa erotuksen lammityskuluissa.",
    "Tarkista takuuehdot kirjallisina ja se, edellyttaako takuu saannollisia huoltotoimia."
   ],
   "ukk": [
    {
-    "q": "Mita ikkunaremontti maksaa?",
-    "a": "Julkisten esimerkkihintojen perusteella tyypillinen omakotitalon ikkunaremontti asennuksineen maksaa noin 8 000-20 000 euroa talon koosta, ikkunamaarasta ja tuotetasosta riippuen. Tarkka hinta selviaa kartoituskaynnilla, mutta esimerkkihinnat ja laskurit auttavat haarukoinnissa."
+    "q": "Mitä ikkunaremontti maksaa?",
+    "a": "Julkisten esimerkkihintojen perusteella tyypillinen omakotitalon ikkunaremontti asennuksineen maksaa noin 8 000-20 000 euroa talon koosta, ikkunamaarasta ja tuotetasosta riippuen. Tarkka hinta selviää kartoituskaynnilla, mutta esimerkkihinnat ja laskurit auttavat haarukoinnissa."
    },
    {
-    "q": "Kauanko ikkunaremontti kestaa?",
-    "a": "Asennus kestaa tyypillisesti 1-3 paivaa tavallisessa omakotitalossa: ikkunat vaihdetaan yksi kerrallaan, joten talo ei ole avoinna saalle. Toimitusaika tilauksesta asennukseen on yleensa useita viikkoja, koska ikkunat valmistetaan mittatilauksena."
+    "q": "Kauanko ikkunaremontti kestää?",
+    "a": "Asennus kestää tyypillisesti 1-3 päivää tavallisessa omakotitalossa: ikkunat vaihdetaan yksi kerrallaan, joten talo ei ole avoinna saalle. Toimitusaika tilauksesta asennukseen on yleensä useita viikkoja, koska ikkunat valmistetaan mittatilauksena."
    },
    {
-    "q": "Saako ikkunaremontista kotitalousvahennyksen?",
-    "a": "Kylla, asennustyon osuudesta. Materiaalien eli itse ikkunoiden hinnasta vahennysta ei saa. Siksi tarjouksessa kannattaa vaatia tyon ja materiaalin erittely - se on myos merkki lapinakyvasta toimijasta."
+    "q": "Saako ikkunaremontista kotitalousvähennyksen?",
+    "a": "Kyllä, asennustyön osuudesta. Materiaalien eli itse ikkunoiden hinnasta vahennysta ei saa. Siksi tarjouksessa kannattaa vaatia työn ja materiaalin erittely - se on myös merkki läpinäkyvästä toimijasta."
    },
    {
-    "q": "Mita U-arvo tarkoittaa?",
-    "a": "U-arvo kertoo, kuinka paljon lampoa ikkunan lapi karkaa: mita pienempi arvo, sita parempi eristys. Uusien ikkunoiden U-arvot ovat tyypillisesti 0,6-1,0 luokkaa, kun vanhoissa ikkunoissa arvo voi olla yli 2. Ero nakyy suoraan lammityslaskussa."
+    "q": "Mitä U-arvo tarkoittaa?",
+    "a": "U-arvo kertoo, kuinka paljon lampoa ikkunan läpi karkaa: mitä pienempi arvo, sitä parempi eristys. Uusien ikkunoiden U-arvot ovat tyypillisesti 0,6-1,0 luokkaa, kun vanhoissa ikkunoissa arvo voi olla yli 2. Ero näkyy suoraan lammityslaskussa."
    }
   ]
  },

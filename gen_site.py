@@ -245,7 +245,7 @@ nav.main a.on{color:var(--gold-line)}
 .npost h3{font-size:1.06rem;line-height:1.25;color:var(--ink);margin-bottom:6px}
 .npost p{font-size:.92rem;color:var(--body);margin:0}
 .np-link{display:inline-block;margin-top:10px;font-weight:800;font-size:.86rem;color:var(--blue-deep)}
-.langsw{display:inline-flex;align-items:center;padding:3px;border-radius:6px;line-height:0;border:0;background:none;transition:transform .16s ease,box-shadow .16s ease}
+.langsw{display:inline-flex;align-items:center;margin-left:6px;padding:3px;border-radius:6px;line-height:0;border:0;background:none;transition:transform .16s ease,box-shadow .16s ease}
 .langsw:hover{transform:translateY(-1px);text-decoration:none}
 .flagsvg{display:block;border-radius:3px;border:1.5px solid rgba(255,255,255,.7);box-shadow:0 2px 5px rgba(0,0,0,.28)}
 .langsw:hover .flagsvg{border-color:#fff;box-shadow:0 3px 9px rgba(0,0,0,.36)}
@@ -839,7 +839,7 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=22">
+<link rel="stylesheet" href="{root}assets/style.css?v=23">
 <script src="{root}assets/app.js?v=22" defer></script>
 </head>
 <body>
@@ -1865,9 +1865,9 @@ def build_uutishuone():
     posts = _json.load(open(pp, encoding="utf-8-sig")) if os.path.exists(pp) else []
 
     TAGNIMI = {
-        "uusi": "UUTTA", "ykkonen": "VIIKON YKKONEN", "nousija": "NOUSIJA",
-        "laskija": "LASKIJA", "yllattaja": "YLLATTAJA", "aukko": "LAPINAKYVYYSAUKKO",
-        "numero": "VIIKON NUMERO", "karki": "KARKI",
+        "uusi": "UUTTA", "ykkonen": "VIIKON YKKÖNEN", "nousija": "NOUSIJA",
+        "laskija": "LASKIJA", "yllattaja": "YLLÄTTÄJÄ", "aukko": "LÄPINÄKYVYYSAUKKO",
+        "numero": "VIIKON NUMERO", "karki": "KÄRKI",
     }
     kortit = []
     for po in posts:
@@ -1884,20 +1884,20 @@ def build_uutishuone():
       {linkki}
     </article>""")
 
-    tyhja = '<div class="panel"><p>Ensimmaiset nostot julkaistaan seuraavan mittauskierroksen jalkeen.</p></div>'
+    tyhja = '<div class="panel"><p>Ensimmäiset nostot julkaistaan seuraavan mittauskierroksen jälkeen.</p></div>'
     body = f"""
 <div class="wrap">
   <p class="crumb"><a href="../">Etusivu</a> &rsaquo; <b>Uutishuone</b></p>
   <div class="pageh" style="padding-top:0">
     <h1>Uutishuone</h1>
-    <p class="lead">Lyhyet nostot siita, mita mittaukset kertovat juuri nyt: uudet vertailut, karkinimet, nousijat ja laskijat seka yleisimmat lapinakyvyysaukot. Jokainen nosto on laskettu mittausdatasta &mdash; emme kirjoita niita kasin.</p>
-    <div class="meta-row"><span class="upd">{len(posts)} nostoa &middot; paivitetty {esc(posts[0]["pvm"]) if posts else UPDATED}</span></div>
+    <p class="lead">Lyhyet nostot siitä, mitä mittaukset kertovat juuri nyt: uudet vertailut, kärkinimet, nousijat ja laskijat sekä yleisimmät läpinäkyvyysaukot. Jokainen nosto on laskettu mittausdatasta &mdash; emme kirjoita niitä käsin.</p>
+    <div class="meta-row"><span class="upd">{len(posts)} nostoa &middot; päivitetty {esc(posts[0]["pvm"]) if posts else UPDATED}</span></div>
   </div>
   <div class="nposts">{"".join(kortit) if kortit else tyhja}</div>
-  <div class="note" style="margin-top:26px"><b>Miten nama syntyvat:</b> uutishuone lukee jokaisen kategorian mittausdatan ja poimii siita muutokset ja aariarvot. Se ei osaa keksia uutisia eika kirjoita mielipiteita &mdash; jos vaitetta ei voi laskea datasta, sita ei julkaista. Pisteet mittaavat verkkosivun lapinakyvyytta, eivat palvelun laatua.</div>
+  <div class="note" style="margin-top:26px"><b>Miten nämä syntyvät:</b> uutishuone lukee jokaisen kategorian mittausdatan ja poimii siitä muutokset ja ääriarvot. Se ei osaa keksiä uutisia eikä kirjoita mielipiteitä &mdash; jos väitettä ei voi laskea datasta, sitä ei julkaista. Pisteet mittaavat verkkosivun läpinäkyvyyttä, eivät palvelun laatua.</div>
 </div>"""
     return page("Uutishuone | Suomen Paras",
-                "Viikon nostot mittausdatasta: uudet vertailut, karkinimet, nousijat ja lapinakyvyysaukot.",
+                "Viikon nostot mittausdatasta: uudet vertailut, kärkinimet, nousijat ja läpinäkyvyysaukot.",
                 body, root="../", active="uutishuone")
 
 

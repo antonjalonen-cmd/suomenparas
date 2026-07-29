@@ -71,7 +71,7 @@
        "pisteet_max": 30,
        "pisteet": 30.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Danske-tili-tuotesivun Hinnat ja ehdot -osiosta latautuu julkinen 10-sivuinen Paivittaispalveluhinnasto-PDF (palveluhinnasto.pdf, voimassa 23.6.2026 alkaen) ilman kirjautumista; myos Etuohjelman hinnasto -PDF on julkinen."
+       "quote": "HAVAINTO: Danske-tili-tuotesivun Hinnat ja ehdot -osiosta latautuu julkinen 10-sivuinen Paivittaispalveluhinnasto-PDF (palveluhinnasto.pdf, voimassa 23.6.2026 alkaen) ilman kirjautumista; myös Etuohjelman hinnasto -PDF on julkinen."
       },
       {
        "mittari": "Tilin- ja kortinhoitomaksut esillä",
@@ -89,7 +89,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tili- ja maksupalveluehdot -PDF latautuu julkisesti Danske-tili-sivun Hinnat ja ehdot -osiosta (tili--ja-maksupalveluehdot.pdf, HTTP 200); footerin 'Yleiset ehdot' -teksti nakyy kaikilla sivuilla."
+       "quote": "HAVAINTO: Tili- ja maksupalveluehdot -PDF latautuu julkisesti Danske-tili-sivun Hinnat ja ehdot -osiosta (tili--ja-maksupalveluehdot.pdf, HTTP 200); footerin 'Yleiset ehdot' -teksti näkyy kaikilla sivuilla."
       },
       {
        "mittari": "Konttorit ja aukioloajat kerrottu",
@@ -107,7 +107,7 @@
        "pisteet_max": 10,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Julkisen palveluhinnasto-PDF:n jokaisella sivulla 'Danske Bank A/S, Suomen sivuliike ... Y-tunnus 1078693-2'; sivuston footerissa yhtion nimi, osoite ja BIC mutta ei Y-tunnusta."
+       "quote": "HAVAINTO: Julkisen palveluhinnasto-PDF:n jokaisella sivulla 'Danske Bank A/S, Suomen sivuliike ... Y-tunnus 1078693-2'; sivuston footerissa yhtiön nimi, osoite ja BIC mutta ei Y-tunnusta."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -116,7 +116,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei nay riippumatonta arviota, vertailua tai asiakastyytyvaisyysmittausta; vain omat markkinointitekstit ja yhteistyokumppanien edut."
+       "quote": "HAVAINTO: Sivustolla ei nay riippumatonta arviota, vertailua tai asiakastyytyvaisyysmittausta; vain omat markkinointitekstit ja yhteistyökumppanien edut."
       }
      ]
     },
@@ -139,7 +139,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Julkista sahkopostiosoitetta ei nay; sivusto ohjaa lahettamaan suojatun viestin mobiili- tai verkkopankissa eli kirjautuneena."
+       "quote": "HAVAINTO: Julkista sähköpostiosoitetta ei nay; sivusto ohjaa lähettämään suojatun viestin mobiili- tai verkkopankissa eli kirjautuneena."
       },
       {
        "mittari": "Chat-tuki",
@@ -148,7 +148,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Olemme apunasi chatissa arkisin klo 9-16' nakyy etusivulla ja yhteystiedoissa; yleinen chat kotisivuilla ja henkilokohtainen chat mobiilipankissa."
+       "quote": "HAVAINTO: 'Olemme apunasi chatissa arkisin klo 9-16' näkyy etusivulla ja yhteystiedoissa; yleinen chat kotisivuilla ja henkilökohtainen chat mobiilipankissa."
       },
       {
        "mittari": "Aukioloajat esillä",
@@ -166,7 +166,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yhteystiedot/asiakaspalvelusivulla Usein kysyttya -osio (esim. 'Mista palvelumaksuni koostuu?') ja parikymmenta aihekategoriaa, mukaan lukien 'Hinnat ja ehdot'; myos Tule asiakkaaksi -sivulla oma UKK."
+       "quote": "HAVAINTO: Yhteystiedot/asiakaspalvelusivulla Usein kysyttyä -osio (esim. 'Mistä palvelumaksuni koostuu?') ja parikymmenta aihekategoriaa, mukaan lukien 'Hinnat ja ehdot'; myös Tule asiakkaaksi -sivulla oma UKK."
       },
       {
        "mittari": "Mobiilisovellus",
@@ -175,7 +175,7 @@
        "pisteet_max": 10,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Mobiilipankki mainittu useilla sivuilla omana tuotesivunaan; chat, e-laskut ja sijoitukset hoituvat sovelluksessa; kayttoonotto-ohjeet julkisesti."
+       "quote": "HAVAINTO: Mobiilipankki mainittu useilla sivuilla omana tuotesivunaan; chat, e-laskut ja sijoitukset hoituvat sovelluksessa; käyttöönotto-ohjeet julkisesti."
       }
      ]
     },
@@ -232,21 +232,21 @@
    "vahvuudet": [
     "Julkinen 10-sivuinen palveluhinnasto-PDF tuotesivuilta ilman kirjautumista; hinnat myös tuotesivun tekstissä",
     "Konttorit listattu 21 paikkakunnalta osoitteineen ja aukioloaikoineen; monta palvelunumeroa aukioloaikoineen",
-    "Chat arkisin 9-16 seka verkkosivulla etta mobiilipankissa; asiakaspalvelusivulla laaja UKK-aihevalikoima"
+    "Chat arkisin 9-16 sekä verkkosivulla että mobiilipankissa; asiakaspalvelusivulla laaja UKK-aihevalikoima"
    ],
    "kehityskohteet": [
-    "Hinnastoon paasee vain tuotesivujen kautta; suoraa /hinnasto-sivua tai footer-linkkia hinnastoon ei ole",
-    "Julkista sahkopostiosoitetta ei ole; viestin voi lahettaa vain kirjautuneena suojattuna viestina",
+    "Hinnastoon pääsee vain tuotesivujen kautta; suoraa /hinnasto-sivua tai footer-linkkiä hinnastoon ei ole",
+    "Julkista sähköpostiosoitetta ei ole; viestin voi lähettää vain kirjautuneena suojattuna viestina",
     "Pakettihinnoittelu (Etuohjelman etutasot 1-4) tekee oman kuukausihinnan arvioinnista tyolasta uudelle asiakkaalle"
    ],
-   "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja kayttotilin hinta nakyy myos suoraan sivutekstissa. Hinnaston loytaminen vaatii kuitenkin navigointia tuotesivuille asti, silla suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista.",
+   "yhteenveto": "Danske Bank on Suomessa sivuliikkeena toimiva pohjoismainen pankki, jonka sivusto rakentuu /sinulle-osion alle. Palveluhinnasto ja sopimusehdot ovat julkisesti ladattavia PDF-tiedostoja tuotesivuilla, ja käyttötilin hinta näkyy myös suoraan sivutekstissa. Hinnaston löytäminen vaatii kuitenkin navigointia tuotesivuille asti, sillä suoraa hinnasto-sivua ei ole, ja pakettipohjainen etutasohinnoittelu vaatii perehtymista.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": [],
    "tunnettuus": {
     "artikkeli": "Danske Bank (Suomi)",
     "paivakatselut_ka": 9,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Danske Bank (Suomi)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Danske Bank (Suomi)' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -482,7 +482,7 @@
     "artikkeli": "Ålandsbanken",
     "paivakatselut_ka": 7,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Ålandsbanken' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Ålandsbanken' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -726,7 +726,7 @@
     "artikkeli": "S-Pankki",
     "paivakatselut_ka": 23,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'S-Pankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'S-Pankki' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -961,7 +961,7 @@
     "artikkeli": "Oma Säästöpankki",
     "paivakatselut_ka": 45,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Oma Säästöpankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Oma Säästöpankki' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1288,7 +1288,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä saastopankki.fi-sivustolla. Saastopankkiryhma-sivulla mainitaan että Säästöpankkikeskuksen muodostavat useat yhtiöt (Säästöpankkiliitto osk, Sp-Rahastoyhtiö Oy, Säästöpankkien Keskuspankki Suomi Oyj, Sp-Kiinnitysluottopankki Oyj, Säästöpankkipalvelut Oy, Sp-Koti Oy), joilla kullakin on omat Y-tunnuksensa, mutta ryhmän yhtenäistä tunnusta ei ole julkaistu."
+       "quote": "HAVAINTO: Y-tunnusta ei ole näkyvissä saastopankki.fi-sivustolla. Säästöpankkiryhmä-sivulla mainitaan että Säästöpankkikeskuksen muodostavat useat yhtiöt (Säästöpankkiliitto osk, Sp-Rahastoyhtiö Oy, Säästöpankkien Keskuspankki Suomi Oyj, Sp-Kiinnitysluottopankki Oyj, Säästöpankkipalvelut Oy, Sp-Koti Oy), joilla kullakin on omat Y-tunnuksensa, mutta ryhmän yhtenäistä tunnusta ei ole julkaistu."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1426,7 +1426,7 @@
     "artikkeli": "Säästöpankki",
     "paivakatselut_ka": 23,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Säästöpankki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Säästöpankki' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1683,7 +1683,7 @@
     "artikkeli": "Aktia",
     "paivakatselut_ka": 14,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Aktia' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Aktia' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1918,7 +1918,7 @@
     "artikkeli": "Nordea",
     "paivakatselut_ka": 40,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Nordea' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Nordea' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },

@@ -9,8 +9,8 @@
  "meta_desc": "6 tapahtumien lipunmyyntipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
   "<b>Miksi listalla on vain 6 palvelua?</b> Etsimme palveluita, joista suomalaiset kuluttajat oikeasti ostavat tapahtumaliput. Kolme suurinta (Ticketmaster, Lippu.fi, Tiketti) kattavat ylivoimaisen enemmistön konsertti-, festivaali-, teatteri- ja urheilulipuista. NetTicket on pienempien tapahtumajärjestäjien suosittu alusta, Kide.app palvelee opiskelijajärjestöjen tapahtumia yli 20 kaupungissa, ja Eventbrite on kansainvälinen alusta, jota kautta myydään myös suomalaisia tapahtumia.",
-  "<b>Lippu.fi ei ollut digitaalisesti mitattavissa.</b> Lippupiste Oy:n lippu.fi on Akamai-CDN:n suojaama niin, että automaattinen mittaus ei saa vastausta lainkaan. Tämä on mittausaukko meidan puoleltamme, ei havainto palvelusta. Läpinäkyvyys-, tavoitettavuus- ja AI-pillarit mitataan sivuston julkisesta sisällöstä; ne ovat mitattavissa, mutta Lighthouse-suorituskyky merkitään 'ei mitattavissa'.",
-  "<b>Omistus:</b> Ticketmaster Suomi Oy on yhdysvaltalaisen Live Nation Entertainmentin omistama (ent. Lippupalvelu Oy, perustettu 1945). Lippu.fi on saksalaisen CTS Eventiamin omistaman Lippupiste Oy:n palvelu. Tiketti Oy on Suomen suurin suomalainen lipunvälittäjä ja sen liput saa kaikista R-kioskeista. NetTicket on vaasalainen Oy NetTicket Finland Ab. Kide.app on tamperelaisen Treanglo Oy:n alusta. Eventbrite on yhdysvaltalainen eika silla ole suomalaista rekisteröintia.",
+  "<b>Lippu.fi ei ollut digitaalisesti mitattavissa.</b> Lippupiste Oy:n lippu.fi on Akamai-CDN:n suojaama niin, että automaattinen mittaus ei saa vastausta lainkaan. Tämä on mittausaukko meidän puoleltamme, ei havainto palvelusta. Läpinäkyvyys-, tavoitettavuus- ja AI-pillarit mitataan sivuston julkisesta sisällöstä; ne ovat mitattavissa, mutta Lighthouse-suorituskyky merkitään 'ei mitattavissa'.",
+  "<b>Omistus:</b> Ticketmaster Suomi Oy on yhdysvaltalaisen Live Nation Entertainmentin omistama (ent. Lippupalvelu Oy, perustettu 1945). Lippu.fi on saksalaisen CTS Eventiamin omistaman Lippupiste Oy:n palvelu. Tiketti Oy on Suomen suurin suomalainen lipunvälittäjä ja sen liput saa kaikista R-kioskeista. NetTicket on vaasalainen Oy NetTicket Finland Ab. Kide.app on tamperelaisen Treanglo Oy:n alusta. Eventbrite on yhdysvaltalainen eikä sillä ole suomalaista rekisteröintia.",
   "Vertailu kuvaa lipunmyyntipalvelujen julkisten verkkosivujen mitattavia ominaisuuksia, ei tapahtumavalikoimaa, jonotusaikoja tai asiakaspalvelun nopeutta. Palvelumaksut vaihtelevat tapahtumittain ja ovat palvelun asettamia; vertailu mittaa kerrotaanko ne avoimesti. Demo voi sisältää affiliate-linkkejä; ne eivät vaikuta pisteisiin."
  ],
  "yritykset": [
@@ -235,7 +235,7 @@
     "artikkeli": "Tiketti",
     "paivakatselut_ka": 7,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Tiketti' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Tiketti' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1187,7 +1187,7 @@
        "pisteet_max": 20,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderointia tai evastesuostumusta."
+       "quote": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderöintiä tai evastesuostumusta."
       },
       {
        "mittari": "Liput voi tilata ilman rekisteröitymistä",
@@ -1311,11 +1311,11 @@
    "vahvuudet": [
     "Laaja tapahtumatarjonta kattaa musiikin, urheilun, festivaalit, teatterin ja perheen",
     "Mobiilisovellus saatavilla (Lataa Ticketmaster-sovellus -linkki etusivulla)",
-    "Puhelinnumero (0600 10 800) nakyy etusivulla ilman kirjautumista"
+    "Puhelinnumero (0600 10 800) näkyy etusivulla ilman kirjautumista"
    ],
    "kehityskohteet": [
-    "Palvelumaksut eivat nay julkisesti ennen kassalle menoa — kuluttaja ei tiedä kokonaishintaa etukäteen",
-    "Sivusto vaatii JavaScriptin ja evastesuostumuksen sisällön näyttämiseen; automaattinen luku sai vain 2 228 merkkia",
+    "Palvelumaksut eivät nay julkisesti ennen kassalle menoa — kuluttaja ei tiedä kokonaishintaa etukäteen",
+    "Sivusto vaatii JavaScriptin ja evastesuostumuksen sisällön näyttämiseen; automaattinen luku sai vain 2 228 merkkiä",
     "Y-tunnus (Ticketmaster Suomi Oy 0110928-6) ei näy sivustolla, omistaja (Live Nation Entertainment) mainitaan vain alaotsikossa"
    ],
    "yhteenveto": "Ticketmaster on Suomen tunnetuin lipunmyyntipalvelu ja tarjoaa laajan tapahtumavalikoiman, mutta palvelumaksuja ei kerrota ennen kassalle siirtymistä. Sivusto toimii lähes kokonaan JavaScriptillä, minkä vuoksi sisältö ei aukea ilman evästesuostumusta. Mobiilisovellus on saatavilla ja puhelinnumero näkyy etusivulla.",
@@ -1325,42 +1325,42 @@
      "mittari": "Peruutus- ja vaihtoehtokäytäntö julkisesti esillä",
      "arvo": "Osittain esillä",
      "pisteet": 0.25,
-     "lahde": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderointia tai evastesuostumusta."
+     "lahde": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderöintiä tai evastesuostumusta."
     }
    ]
   }
  ],
  "updated": "24.7.2026",
  "opas": {
-  "johdanto": "Tapahtumaliput ostetaan nykyaan useimmiten verkosta lipunmyyntipalveluiden kautta. Suomessa toimii seka kansainvalisia jatteja (Ticketmaster, Eventbrite) etta suomalaisia toimijoita (Tiketti, Lippu.fi, NetTicket, Kide.app). Palvelut perivatavat lipunoston yhteydessa palvelumaksuja, joiden suuruus ja nakyvyys ennen ostoprosessia vaihtelee merkittavasti.",
+  "johdanto": "Tapahtumaliput ostetaan nykyään useimmiten verkosta lipunmyyntipalveluiden kautta. Suomessa toimii sekä kansainvälisiä jatteja (Ticketmaster, Eventbrite) että suomalaisia toimijoita (Tiketti, Lippu.fi, NetTicket, Kide.app). Palvelut perivatavat lipunoston yhteydessä palvelumaksuja, joiden suuruus ja näkyvyys ennen ostoprosessia vaihtelee merkittävästi.",
   "huomioita": [
-   "Palvelumaksu lisataan lipun kantahintaan ja se voi olla 1-3 euron kiintea maksu per lippu tai prosenttiperusteinen. Tarkista kokonaishinta aina ennen kassan viimeistelemista — joissakin palveluissa maksu nakee vasta viimeistelyvaihessa.",
-   "Lahes kaikki suomalaiset palvelut tarjoavat lipun sahkoisena (QR-koodi puhelimeen tai PDF). Varmista, etta valittu toimitustapa toimii tapahtumapaikalla — ei kaikki paikat hyvaksy kuvakaappausta.",
-   "Peruutus- ja vaihtopolitiikka vaihtelee palveluittain ja tapahtumittain. Useimmat liput eivat ole palautettavissa ellei tapahtuma peruta — tarkista ehdot ennen ostoa.",
+   "Palvelumaksu lisätään lipun kantahintaan ja se voi olla 1-3 euron kiinteä maksu per lippu tai prosenttiperusteinen. Tarkista kokonaishinta aina ennen kassan viimeistelemista — joissakin palveluissa maksu näkee vasta viimeistelyvaihessa.",
+   "Lähes kaikki suomalaiset palvelut tarjoavat lipun sahkoisena (QR-koodi puhelimeen tai PDF). Varmista, että valittu toimitustapa toimii tapahtumapaikalla — ei kaikki paikat hyvaksy kuvakaappausta.",
+   "Peruutus- ja vaihtopolitiikka vaihtelee palveluittain ja tapahtumittain. Useimmat liput eivät ole palautettavissa ellei tapahtuma peruta — tarkista ehdot ennen ostoa.",
    "Ulkomaiset palvelut (Ticketmaster, Eventbrite) toimivat Suomessa ilman suomalaista yritysrekisteroyntia. Kuluttajasuojakysymyksissa yhteystiedot voivat olla ulkomaisessa organisaatiossa.",
    "Kide.app on erikoistunut opiskelijatapahtumiin ja ylioppilaskuntatapahtumiin — soveltuu parhaiten vastaaviin tilaisuuksiin, ei suuren yleison popkonsertteihin."
   ],
   "vinkit": [
    "Vertaile kokonaishintaa (lippu + palvelumaksut) ennen ostopaikatusta. Tiketti ja NetTicket julkaisevat palvelumaksunsa avoimesti — voit laskea kokonaiskulun etukateena.",
    "Osta liput vain virallisilta myyntipisteelta tai palveluidentifioidulta jalleenmyyjalta. Varamarkkinoilta (Tori.fi, Facebook) ostettujen lippujen aitous on kuluttajan vastuulla.",
-   "Tallenna lippu puhelimeesi etukateena tai tulosta varmuuden vuoksi. Mobiilidatakatkon tai akkuvian varalta on hyva olla varasuunnitelma tapahtumaan saapuessa."
+   "Tallenna lippu puhelimeesi etukateena tai tulosta varmuuden vuoksi. Mobiilidatakatkon tai akkuvian varalta on hyvä olla varasuunnitelma tapahtumaan saapuessa."
   ],
   "ukk": [
    {
-    "q": "Miksi lipun kokonaishinta nakyy vasta kassan viimeistelyvaiheessa?",
-    "a": "Osa palveluista lisaa palvelumaksun vasta tilausprosessin lopussa, vaikka kuluttajansuojalain hengessa kokonaishinnan tulisi olla esilla ennen sitoutumista. Palvelut, jotka julkaisevat hinnat avoimesti (esim. Tiketti, NetTicket), toimivat lapinakyhammin."
+    "q": "Miksi lipun kokonaishinta näkyy vasta kassan viimeistelyvaiheessa?",
+    "a": "Osa palveluista lisää palvelumaksun vasta tilausprosessin lopussa, vaikka kuluttajansuojalain hengessa kokonaishinnan tulisi olla esillä ennen sitoutumista. Palvelut, jotka julkaisevat hinnat avoimesti (esim. Tiketti, NetTicket), toimivat lapinakyhammin."
    },
    {
     "q": "Voinko myydea lipun edelleen jos en paasekaan tapahtumaan?",
-    "a": "Useimmissa palveluissa lippu on siirrettavissa kolmannelle osapuolelle, mutta ehdot vaihtelevat. Osa palveluista tarjoaa 'nimenvaihtoa' maksua vastaan. Tarkista ehdot ostovaiheessa — jotkut liput on henkilokohtaisia eivatka kavijakontrollin vuoksi myytavissa edelleen."
+    "a": "Useimmissa palveluissa lippu on siirrettavissa kolmannelle osapuolelle, mutta ehdot vaihtelevat. Osa palveluista tarjoaa 'nimenvaihtoa' maksua vastaan. Tarkista ehdot ostovaiheessa — jotkut liput on henkilökohtaisia eivätkä kavijakontrollin vuoksi myytavissa edelleen."
    },
    {
-    "q": "Mita teen jos tapahtuma peruuntuu?",
-    "a": "Tapahtuman peruuntuessa lipunmyyntipalvelu on velvollinen palauttamaan lipun hinnan (yleensa automaattisesti samaan maksuvalineeseen). Palvelumaksu palautetaan usein, mutta kaytannot vaihtelevat — tarkista palvelun peruutusehto."
+    "q": "Mitä teen jos tapahtuma peruuntuu?",
+    "a": "Tapahtuman peruuntuessa lipunmyyntipalvelu on velvollinen palauttamaan lipun hinnan (yleensä automaattisesti samaan maksuvalineeseen). Palvelumaksu palautetaan usein, mutta käytännöt vaihtelevat — tarkista palvelun peruutusehto."
    },
    {
     "q": "Onko turvallista ostaa tapahtumaliput ulkomaiselta palvelulta kuten Eventbrite?",
-    "a": "Kyllya, mutta huomioi etta kuluttajasuojakysymyksissa saatat joutua asioimaan englanninkielisessa tukikanavassa. Eventbrite ei ole rekisteroitynyt Suomeen, joten mahdolliset riidat kaydaan palvelun omilla ehdoilla, ei Suomen kuluttajalainsaadannon mukaan."
+    "a": "Kyllya, mutta huomioi että kuluttajasuojakysymyksissa saatat joutua asioimaan englanninkielisessä tukikanavassa. Eventbrite ei ole rekisteroitynyt Suomeen, joten mahdolliset riidat käydään palvelun omilla ehdoilla, ei Suomen kuluttajalainsaadannon mukaan."
    }
   ]
  },

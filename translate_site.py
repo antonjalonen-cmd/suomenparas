@@ -160,7 +160,17 @@ def toggle_html(href, flag, label, lang):
     return (f'<a class="langsw" href="{href}" lang="{lang}" title="{label}" '
             f'aria-label="{label}">{flag}<span class="sr">{label}</span></a>')
 
-TOGGLE_RE = re.compile(r"(<nav class=\"main\">)")
+# Lippu sijoitetaan navin VIIMEISEKSI (oikea ylakulma), ei ensimmaiseksi.
+NAV_END_RE = re.compile(r'(<nav class="main">.*?)(</nav>)', re.S)
+# --build kirjoittaa kytkimen myos fi-sivulle levylle, joten pelkka uusinta-ajo
+# ilman gen_site.py:ta kasaisi nappeja paallekkain. Vanhat siivotaan aina ensin.
+LANGSW_RE = re.compile(r'<a class="langsw".*?</a>', re.S)
+
+
+def set_toggle(html, toggle):
+    """Poista mahdolliset vanhat kielikytkimet ja lisaa tasan yksi navin loppuun."""
+    html = LANGSW_RE.sub("", html)
+    return NAV_END_RE.sub(lambda m: m.group(1) + toggle + m.group(2), html, count=1)
 
 
 def translate_html(html, cache):
@@ -193,13 +203,18 @@ def translate_html(html, cache):
             if in_skip:
                 out.append(part)
                 continue
-            t = norm(part)
-            if t and t in cache:
-                lead = part[:len(part) - len(part.lstrip())]
-                tail = part[len(part.rstrip()):]
-                out.append(lead + cache[t] + tail)
-            else:
-                out.append(part)
+            # HTMLParser (poiminta) katkaisee tekstisolmun entiteetin kohdalta,
+            # joten valimuistin avaimet ovat entiteettien valisia paloja. Sama
+            # jako on tehtava tassa, muuten esim. "... mittausdatasta &mdash; emme
+            # kirjoita ..." ei osu mihinkaan avaimeen ja jaa kokonaan suomeksi.
+            for piece in re.split(r"(&[a-zA-Z]+;|&#\d+;)", part):
+                t = norm(piece)
+                if t and not piece.startswith("&") and t in cache:
+                    lead = piece[:len(piece) - len(piece.lstrip())]
+                    tail = piece[len(piece.rstrip()):]
+                    out.append(lead + cache[t] + tail)
+                else:
+                    out.append(piece)
     return "".join(out)
 
 
@@ -217,7 +232,7 @@ def cmd_build():
         # 1) fi page gets an SV toggle
         fi_toggle = toggle_html(f'{root}sv/{rel.rsplit("/", 1)[0] + "/" if depth else ""}',
                                 FLAG_SE, "Svenska", "sv")
-        fi_html = TOGGLE_RE.sub(r"\1" + fi_toggle, html, count=1)
+        fi_html = set_toggle(html, fi_toggle)
         open(p, "w", encoding="utf-8").write(fi_html)
 
         # 2) sv mirror (same relative structure inside sv/ so page links stay sv)
@@ -226,7 +241,7 @@ def cmd_build():
         sv_root_to_fi = "../" * (depth + 1)
         sv_toggle = toggle_html(f'{sv_root_to_fi}{rel.rsplit("/", 1)[0] + "/" if depth else ""}',
                                 FLAG_FI, "Suomeksi", "fi")
-        sv = TOGGLE_RE.sub(r"\1" + sv_toggle, sv, count=1)
+        sv = set_toggle(sv, sv_toggle)
         dest = os.path.join(SV_DIR, rel)
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         open(dest, "w", encoding="utf-8").write(sv)

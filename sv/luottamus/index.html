@@ -8,21 +8,21 @@
 <meta name="description" content="Hur Suomen Paras-poängen bildas, var data hämtas från, vad som sparas om användaren och hur fel korrigeras.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" href="../assets/favicon.png">
-<link rel="stylesheet" href="../assets/style.css?v=22">
+<link rel="stylesheet" href="../assets/style.css?v=23">
 <script src="../assets/app.js?v=22" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="../"><img src="../assets/logo-200.png?v=3" alt="Suomen Paras-logotyp" width="58" height="58"><span>SuomenParas<span class="tm">.com</span></span></a>
-    <nav class="main"><a class="langsw" href="../../luottamus/" lang="fi" title="Suomeksi" aria-label="Suomeksi"><svg class="flagsvg" viewBox="0 0 16 10" width="26" height="17" aria-hidden="true"><rect width="16" height="10" fill="#fff"/><rect x="5" width="2.4" height="10" fill="#003580"/><rect y="4" width="16" height="2.4" fill="#003580"/></svg><span class="sr">Suomeksi</span></a>
+    <nav class="main">
       <a href="../">Startsida</a>
       <a href="../kategoriat/">Alla kategorier</a>
       <a href="../uutishuone/">Nyhetsrum</a>
       <a href="../luottamus/">Så poängsätter vi</a>
       <a href="../sertifikaatti/">Certifikat</a>
       <a href="../yhteiso/">Gå med</a>
-    </nav>
+    <a class="langsw" href="../../luottamus/" lang="fi" title="Suomeksi" aria-label="Suomeksi"><svg class="flagsvg" viewBox="0 0 16 10" width="26" height="17" aria-hidden="true"><rect width="16" height="10" fill="#fff"/><rect x="5" width="2.4" height="10" fill="#003580"/><rect y="4" width="16" height="2.4" fill="#003580"/></svg><span class="sr">Suomeksi</span></a></nav>
   </div>
 </header>
 
@@ -31,12 +31,12 @@
   <div class="pageh" style="padding-top:0">
     <h1>Förtroende och datasäkerhet</h1>
     <p class="lead">En jämförelsesajt är exakt lika tillförlitlig som dess metod och datagräns. På denna sida berättar vi hur poängen skapas, var informationen kommer ifrån, vad som samlas in om dig och hur fel korrigeras.</p>
-    <div class="meta-row"><span class="upd">Paivitetty 26.7.2026 &middot; Score v1.3</span></div>
+    <div class="meta-row"><span class="upd">Uppdaterad 26.7.2026 &middot; Score v1.3</span></div>
   </div>
 
   <h2 class="sec">Hur poäng bildas</h2>
   <div class="panel" style="margin-top:12px">
-    <p>Jokainen yritys mitataan samalla kaavalla: nelja pilaria, joiden painot ovat julkiset, ja kategoriakohtaiset lapinakyvyysmittarit. Kaava on deterministinen &mdash; sama syote tuottaa aina saman tuloksen, eika pisteita kasisaadeta. Jokaisen yrityksen sivulla nakyy mittari mittarilta, mista piste tulee ja mika havainto sen takana on. <a href="../metodologia/">Koko kaava on metodologiasivulla &rarr;</a></p>
+    <p>Varje företag mäts med samma formel: fyra pelare, vars vikter är offentliga, och kategorispecifika transparensmål. Formeln är deterministisk &mdash; samma input ger alltid samma resultat, och poäng kan inte manipuleras för hand. På varje företags sida syns mätare för mätare, varifrån poängen kommer och vilken observation som ligger bakom det. <a href="../metodologia/">Hela formeln finns på metodologisidan &rarr;</a></p>
   </div>
 
   <h2 class="sec" style="margin-top:44px">Var data hämtas från</h2>
@@ -45,7 +45,7 @@
       <li style="padding-left:0"><b>Företagets egna offentliga webbplats.</b> Emme kayta vertailusivuja, blogeja emmeka kolmannen osapuolen vaitteita. Jos tietoa inte loytynyt yrityksen omilta sivuilta, se inte ole pisteissa.</li>
       <li style="padding-left:0"><b>Officiella register.</b> FO-nummer (LFO-nummer) från Patent- och registerstyrelsen öppna gränssnitt.</li>
       <li style="padding-left:0"><b>Teknisk mätning.</b> Prestanda, tillgänglighet och tekniska rutiner mäts genom automatisk mobilmätning.</li>
-      <li style="padding-left:0"><b>Emme kirjaudu sisaan emmeka kierra esteita.</b> Jos sivusto estaa mittauksen botti-estolla, merkitsemme sen mittausaukoksi &mdash; emme arvaa emmeka yrita ohittaa estoa. Kategorioista on jatetty pois yrityksia juuri tasta syysta.</li>
+      <li style="padding-left:0"><b>Emme kirjaudu sisaan emmeka kierra esteita.</b> Om webbplatsen blockerar mätningen med bot-blockering markerar vi det som ett mätgap &mdash; vi gissar inte och försöker inte kringgå blockering. Från kategorier har företag lämnats bort just av denna anledning.</li>
     </ul>
   </div>
 
@@ -60,25 +60,25 @@
   <h2 class="sec" style="margin-top:44px">Vad samlas om dig</h2>
   <div class="panel" style="margin-top:12px">
     <ul style="list-style:disc;padding-left:20px">
-      <li style="padding-left:0"><b>Surfning kräver ingen konto.</b> Sivustolla ei ole kayttajatunnuksia, salasanoja eika kirjautumista &mdash; emme siis sailyta salasanoja lainkaan.</li>
+      <li style="padding-left:0"><b>Surfning kräver ingen konto.</b> Webbplatsen har ingen användarnamn, lösenord eller inloggning &mdash; vi lagrar alltså inte lösenord alls.</li>
       <li style="padding-left:0"><b>Bara det du ger själv.</b> Om du lämnar ett omdöme eller ansluter dig till forskningspanelen lagrar vi den information du tillhandahållit. IP-adressen lagras inte som sådan utan från den beräknas en identifierare som förhindrar skräppost.</li>
       <li style="padding-left:0"><b>Språkval sparas i din webbläsare.</b> Finland- och svenska-inställningen sparas endast i din egen webbläsare, inte på servern.</li>
-      <li style="padding-left:0"><b>Radering kan göras på begäran.</b> Du kan begära att din egen bedömning eller panelpanel tas bort, och vi tar bort det. <a href="../tietosuoja/">Tietosuojaseloste &rarr;</a></li>
+      <li style="padding-left:0"><b>Radering kan göras på begäran.</b> Du kan begära att din egen bedömning eller panelpanel tas bort, och vi tar bort det. <a href="../tietosuoja/">Integritetspolicy &rarr;</a></li>
     </ul>
   </div>
 
   <h2 class="sec" style="margin-top:44px">Hur företaget verifierar sin egen information</h2>
   <div class="steps">
     <div class="step"><span class="k">1 &middot; KATSO</span><h3>Avaa oma sivusi</h3><p>På företagets sida syns varje mätare, dess värde och observation som bedömningen baseras på. Ingenting är dolt.</p></div>
-    <div class="step"><span class="k">2 &middot; OSOITA</span><h3>Berätta vad som är fel</h3><p>Om mätningen är felaktig skickar du en korrigeringsbegäran och berätta vilket avsnitt och var den korrekta informationen finns på din webbplats.</p></div>
-    <div class="step"><span class="k">3 &middot; KORJAAMME</span><h3>Reparation till nästa uppdatering</h3><p>Vi kontrollerar påståndet på samma sätt som den ursprungliga mätningen. Om vi tar fel, korrigerar vi data och märker korrigeringen synligt.</p></div>
+    <div class="step"><span class="k">2 &middot; VISA</span><h3>Berätta vad som är fel</h3><p>Om mätningen är felaktig skickar du en korrigeringsbegäran och berätta vilket avsnitt och var den korrekta informationen finns på din webbplats.</p></div>
+    <div class="step"><span class="k">3 &middot; VI REPARERAR</span><h3>Reparation till nästa uppdatering</h3><p>Vi kontrollerar påståndet på samma sätt som den ursprungliga mätningen. Om vi tar fel, korrigerar vi data och märker korrigeringen synligt.</p></div>
   </div>
   <p style="margin-top:18px"><a class="btn" href="../korjauspyynto/">Skicka korrigeringsbegäran</a></p>
 
   <h2 class="sec" style="margin-top:44px">Hur tjänsten är skyddad</h2>
   <div class="panel" style="margin-top:12px">
     <ul style="list-style:disc;padding-left:20px">
-      <li style="padding-left:0"><b>Statisk webbplats.</b> Vertailusivut ovat valmiiksi rakennettuja sivuja ilman tietokantakyselyita &mdash; hyokkayspintaa on hyvin vahan, koska mitaan ei suoriteta pyynnon aikana.</li>
+      <li style="padding-left:0"><b>Statisk webbplats.</b> Jämförelsesidor är färdiga byggda sidor utan databasfrågor &mdash; attackytan är mycket liten eftersom ingenting utfördes under begäran.</li>
       <li style="padding-left:0"><b>Krypterad anslutning.</b> Hela webbplatsen fungerar bara via HTTPS-anslutning.</li>
       <li style="padding-left:0"><b>Begränsad gränssnitt.</b> Ainoa tietoja vastaanottava rajapinta är arvio- och paneelilomake. Siina är syotteiden pituusrajat, sallitut lahteet, roskapostisuojaus och hyvaksymiskaytanto: arviot julkaistaan vasta tarkistuksen jalkeen.</li>
       <li style="padding-left:0"><b>Ändringshistorik bevaras.</b> All data- och formelförändring lagras i versionskontroll, från vilken den kan spåras bakåt.</li>
@@ -86,7 +86,7 @@
     </ul>
   </div>
 
-  <div class="note" style="margin-top:26px"><b>I ärlighet:</b> tama on konseptin esittelyversio, jossa ei viela ole kayttajatileja eika maksuliikennetta. Kun palveluun tulee kirjautuminen ja yritysten omat hallintanakymat, talle sivulle lisataan kuvaus tunnistautumisesta, kayttooikeuksista ja auditointilokeista &mdash; eika niita rakenneta ennen kuin niille on todellinen kaytto. Tietoturva tarkastettu viimeksi 26.7.2026.</div>
+  <div class="note" style="margin-top:26px"><b>I ärlighet:</b> detta är en demonstrationsversion av konceptet, som inte har användarkonton eller betalningshantering än. När tjänsten får inloggning och företagens egna administrativa vyer, läggs en beskrivning av autentisering, åtkomsträttigheter och auditloggar till denna sida &mdash; och de bygger inte innan de har verklig användning. Säkerhet kontrollerad senast 26.7.2026.</div>
 </div>
 <footer class="site">
   <div class="wrap">
@@ -97,7 +97,7 @@
       </div>
       <div>
         <h4>Tjänst</h4>
-        <p><a href="../lainavertailu/">Lånepoolningstjänster</a><br><a href="../vakuutukset/">Försäkringar utgiven av Suomen Vahinkovakuutus Oy</a><br><a href="../sahkosopimukset/">Elabonnemang</a><br><a href="../laajakaista/">Bredbånd</a><br><a href="../aikakauslehdet/">Tidskrifter</a><br><a href="../apteekkien-verkkokaupat/">Apoteks webshoppar</a><br><a href="../aurinkopaneeliasentajat/">Solpanelsinstallörer</a><br><a href="../autokatsastus/">Bilbesiktning</a><br><a href="../autokorjaamot/">Bilverkstäder</a><br><a href="../autokoulut/">Autoskolor</a><br><a href="../autopesulat/">Biltvätt</a><br><a href="../autovakuutukset/">Bilförsäkringar</a><br><a href="../autovuokraamot/">Biluthyrningar</a><br><a href="../elektroniikkaketjut/">Vi ger ingen ekonomisk rådgivning och rekommenderar inte att ta lån.</a><br><a href="../fysioterapia/">Fysioterapi</a><br><a href="../hammaslaakarit/">Tandläkare</a><br><a href="../hautaustoimistot/">Begravningsbyråer</a><br><a href="../hotelliketjut/">Hotelljen</a><br><a href="../huonekaluketjut/">Möbelkedjor</a><br><a href="../ikkunaremontit/">Fönsterrenovering</a><br><a href="../kattoremontit/">Takrenovering</a><br><a href="../kiinteistonvalittajat/">Fastighetsmäklare</a><br><a href="../kirjakauppojen-verkkokaupat/">Bokhandelns webbutiker</a><br><a href="../kotivakuutukset/">Hemförsäkringar</a><br><a href="../kukkakauppojen-verkkokaupat/">Kukkakauppojen verkkokaupat</a><br><a href="../kulutusluotot/">Konsumtionslån</a><br><a href="../kuntosalit/">Gym</a><br><a href="../lakifirmat/">Advokatbyråer</a><br><a href="../lampopumppuasentajat/">Värmepumpinstallörer</a><br><a href="../lastenvaatteiden-verkkokaupat/">Webbutiker för barnkläder</a><br><a href="../lemmikkitarvikkeiden-verkkokaupat/">Webbutiker för husdjurstillbehör</a><br><a href="../lemmikkivakuutukset/">Husdjursförsäkringar</a><br><a href="../luottokortit/">Kreditkort</a><br><a href="../matkatoimistot/">Resebyrår</a><br><a href="../matkavakuutukset/">Reseförsäkringar</a><br><a href="../muuttopalvelut/">Flytstjänster</a><br><a href="../optikot/">Optiker</a><br><a href="../pakohuoneet/">Flyktrum</a><br><a href="../pankit/">Banker</a><br><a href="../pilvitallennuspalvelut/">Molnlagringstjänster</a><br><a href="../puhelinliittymat/">Telefonsamtal</a><br><a href="../rautakaupat/">Byggmarknader</a><br><a href="../rengasliikkeet/">Däckbutiker</a><br><a href="../sahkovertailupalvelut/">Tjänster för eltariffavslutningar</a><br><a href="../salasananhallintapalvelut/">Lösenordshanteringstjänster</a><br><a href="../siivouspalvelut/">Städtjänster</a><br><a href="../sijoitusalustat/">Investeringsplattformar</a><br><a href="../silmasairaalat/">Ögonsjukhus</a><br><a href="../suoratoistopalvelut/">Direktsändningstjänster</a><br><a href="../taksipalvelut/">Taxitjänster</a><br><a href="../tapahtumaliput/">Eventbiljetter</a><br><a href="../tavaransailytys/">Förvaringslager</a><br><a href="../tilitoimistot/">En bokföringsbyrå väljs vanligtvis av ett företag eller företagare, inte en konsument, men köparens problem är detsamma som på andra områden: priserna publiceras sällan och de flesta kedjor talar om månadspriset först efter en offertförfrågan. Jämförelsen täcker de största riksomfattande och flera stadsbokföringsbyrål och mäter hur öppet var och en berättar om sitt pris, tjänster och program före kontakt. Branschens egna kvalitetsmärken, Redovisningsförbundets auktorisering och KLT-behörighet, bör också verifieras separat.</a><br><a href="../tyonvalityspalvelut/">Arbetsförmedlingstjänster</a><br><a href="../urheiluvalineketjut/">Idrottsvaruprisningen är kampanjstyrd: normalpris och erbjudandepris varierar veckovis. Det är därför jämförelser bör göras vid köptillfället från flera butiker, och pristavgifternas villkor bör läsas noggrant.</a><br><a href="../uutismediat/">PÅVERKA</a><br><a href="../virustorjuntaohjelmat/">Antivirusprogram</a><br><a href="../vpn-palvelut/">Vaasa Elektricitet är ett elbolag som ägs av Vasa stad och säljer el och fjärrvärme i hela Finland. På webbplatsen presenteras tydliga priser enligt olika avtalstyper och kundtjänsten är nåbar på flera kanaler. Dock kan vissa viktiga sidor inte hittas, FO-numret saknas från offentlig information, och en FAQ-sektion skulle vara användbar.</a><br><a href="../webhotellit/">Webhotell</a><br><a href="../yksityislaakarit/">Privata läkare</a><br><a href="../kategoriat/">Alla kategorier</a><br><a href="../metodologia/">Poängmetodologi</a></p>
+        <p><a href="../lainavertailu/">Lånepoolningstjänster</a><br><a href="../vakuutukset/">Försäkringar utgiven av Suomen Vahinkovakuutus Oy</a><br><a href="../sahkosopimukset/">Elabonnemang</a><br><a href="../laajakaista/">Bredbånd</a><br><a href="../aikakauslehdet/">Tidskrifter</a><br><a href="../apteekkien-verkkokaupat/">Apoteks webshoppar</a><br><a href="../aurinkopaneeliasentajat/">Solpanelsinstallörer</a><br><a href="../autokatsastus/">Bilbesiktning</a><br><a href="../autokorjaamot/">Bilverkstäder</a><br><a href="../autokoulut/">Autoskolor</a><br><a href="../autopesulat/">Biltvätt</a><br><a href="../autovakuutukset/">Bilförsäkringar</a><br><a href="../autovuokraamot/">Biluthyrningar</a><br><a href="../elektroniikkaketjut/">Vi ger ingen ekonomisk rådgivning och rekommenderar inte att ta lån.</a><br><a href="../fysioterapia/">Fysioterapi</a><br><a href="../hammaslaakarit/">Tandläkare</a><br><a href="../hautaustoimistot/">Begravningsbyråer</a><br><a href="../hotelliketjut/">Hotelljen</a><br><a href="../huonekaluketjut/">Möbelkedjor</a><br><a href="../ikkunaremontit/">Fönsterrenovering</a><br><a href="../kattoremontit/">Takrenovering</a><br><a href="../kiinteistonvalittajat/">Fastighetsmäklare</a><br><a href="../kirjakauppojen-verkkokaupat/">Bokhandelns webbutiker</a><br><a href="../kotivakuutukset/">Hemförsäkringar</a><br><a href="../kukkakauppojen-verkkokaupat/">Kukkakauppojen verkkokaupat</a><br><a href="../kulutusluotot/">Konsumtionslån</a><br><a href="../kuntosalit/">Gym</a><br><a href="../lakifirmat/">Advokatbyråer</a><br><a href="../lampopumppuasentajat/">Värmepumpinstallörer</a><br><a href="../lastenvaatteiden-verkkokaupat/">Webbutiker för barnkläder</a><br><a href="../lemmikkitarvikkeiden-verkkokaupat/">Webbutiker för husdjurstillbehör</a><br><a href="../lemmikkivakuutukset/">Husdjursförsäkringar</a><br><a href="../luottokortit/">Kreditkort</a><br><a href="../matkatoimistot/">Resebyrår</a><br><a href="../matkavakuutukset/">Reseförsäkringar</a><br><a href="../muuttopalvelut/">Flytstjänster</a><br><a href="../optikot/">Optiker</a><br><a href="../pakohuoneet/">Flyktrum</a><br><a href="../pankit/">Banker</a><br><a href="../pilvitallennuspalvelut/">Molnlagringstjänster</a><br><a href="../puhelinliittymat/">Telefonsamtal</a><br><a href="../rautakaupat/">Byggmarknader</a><br><a href="../rengasliikkeet/">Däckbutiker</a><br><a href="../sahkovertailupalvelut/">Tjänster för eltariffavslutningar</a><br><a href="../salasananhallintapalvelut/">Lösenordshanteringstjänster</a><br><a href="../siivouspalvelut/">Städtjänster</a><br><a href="../sijoitusalustat/">Investeringsplattformar</a><br><a href="../silmasairaalat/">Ögonsjukhus</a><br><a href="../suoratoistopalvelut/">Direktsändningstjänster</a><br><a href="../taksipalvelut/">Taxitjänster</a><br><a href="../tapahtumaliput/">Eventbiljetter</a><br><a href="../tavaransailytys/">Lagring av varor</a><br><a href="../tilitoimistot/">En bokföringsbyrå väljs vanligtvis av ett företag eller företagare, inte en konsument, men köparens problem är detsamma som på andra områden: priserna publiceras sällan och de flesta kedjor talar om månadspriset först efter en offertförfrågan. Jämförelsen täcker de största riksomfattande och flera stadsbokföringsbyrål och mäter hur öppet var och en berättar om sitt pris, tjänster och program före kontakt. Branschens egna kvalitetsmärken, Redovisningsförbundets auktorisering och KLT-behörighet, bör också verifieras separat.</a><br><a href="../tyonvalityspalvelut/">Arbetsförmedlingstjänster</a><br><a href="../urheiluvalineketjut/">Idrottsvaruprisningen är kampanjstyrd: normalpris och erbjudandepris varierar veckovis. Det är därför jämförelser bör göras vid köptillfället från flera butiker, och pristavgifternas villkor bör läsas noggrant.</a><br><a href="../uutismediat/">PÅVERKA</a><br><a href="../virustorjuntaohjelmat/">Antivirusprogram</a><br><a href="../vpn-palvelut/">Vaasa Elektricitet är ett elbolag som ägs av Vasa stad och säljer el och fjärrvärme i hela Finland. På webbplatsen presenteras tydliga priser enligt olika avtalstyper och kundtjänsten är nåbar på flera kanaler. Dock kan vissa viktiga sidor inte hittas, FO-numret saknas från offentlig information, och en FAQ-sektion skulle vara användbar.</a><br><a href="../webhotellit/">Webhotell</a><br><a href="../yksityislaakarit/">Privata läkare</a><br><a href="../kategoriat/">Alla kategorier</a><br><a href="../metodologia/">Poängmetodologi</a></p>
       </div>
       <div>
         <h4>Score v1.3</h4>

@@ -809,7 +809,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei ole erillista UKK- tai FAQ-osiota. Yritettiin hakea /ukk, /faq, /ohjeet polkuja – kaikki palauttivat 404-virheet."
+       "quote": "HAVAINTO: Sivustolla ei ole erillistä UKK- tai FAQ-osiota. Yritettiin hakea /ukk, /faq, /ohjeet polkuja – kaikki palauttivat 404-virheet."
       },
       {
        "mittari": "Mobiilisovellus",
@@ -930,7 +930,7 @@
        "pisteet_max": 30,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnat näkyvät varauskalenterissa (2-6 hlö, €70-165), mutta vain JavaScript-renderoinnin jälkeen; staattinen fetch_page.py ei paljasta hintoja, vaan näyttää vain 'Ladataan tietoja'"
+       "quote": "HAVAINTO: Hinnat näkyvät varauskalenterissa (2-6 hlö, €70-165), mutta vain JavaScript-renderöinnin jälkeen; staattinen fetch_page.py ei paljasta hintoja, vaan näyttää vain 'Ladataan tietoja'"
       },
       {
        "mittari": "Varauskalenteri toimii verkossa ilman yhteydenottoa",
@@ -1076,7 +1076,7 @@
     "Vahva TripAdvisor-läsnäolo (655 arvostelua, nykyinen #1-sijoitus Helsinki-kategoriassa)"
    ],
    "kehityskohteet": [
-    "Hinnoittelu näkyy vain JavaScript-renderoinnin jälkeen, ei staattisesti ladatussa HTML:ssä",
+    "Hinnoittelu näkyy vain JavaScript-renderöinnin jälkeen, ei staattisesti ladatussa HTML:ssä",
     "Y-tunnus ei ole julkisesti näkyvissä sivustolla",
     "Chat-palvelu mainitaan vain FAQ:ssä \"Kysy kysymys\" -linkkeinä, ei dedikoidua chat-ikonia"
    ],

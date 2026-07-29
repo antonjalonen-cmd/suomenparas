@@ -86,7 +86,7 @@ nav.main a.on{color:var(--gold-line)}
 .npost h3{font-size:1.06rem;line-height:1.25;color:var(--ink);margin-bottom:6px}
 .npost p{font-size:.92rem;color:var(--body);margin:0}
 .np-link{display:inline-block;margin-top:10px;font-weight:800;font-size:.86rem;color:var(--blue-deep)}
-.langsw{display:inline-flex;align-items:center;padding:3px;border-radius:6px;line-height:0;border:0;background:none;transition:transform .16s ease,box-shadow .16s ease}
+.langsw{display:inline-flex;align-items:center;margin-left:6px;padding:3px;border-radius:6px;line-height:0;border:0;background:none;transition:transform .16s ease,box-shadow .16s ease}
 .langsw:hover{transform:translateY(-1px);text-decoration:none}
 .flagsvg{display:block;border-radius:3px;border:1.5px solid rgba(255,255,255,.7);box-shadow:0 2px 5px rgba(0,0,0,.28)}
 .langsw:hover .flagsvg{border-color:#fff;box-shadow:0 3px 9px rgba(0,0,0,.36)}

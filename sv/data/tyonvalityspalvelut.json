@@ -5,8 +5,8 @@
  "h1": "Suomen paras henkilöstöpalveluyhtiö 2026",
  "yksikko": "valtakunnallista henkilöstöpalveluyhtiötä",
  "lead": "Pisteytimme {n} valtakunnallista henkilöstöpalveluyhtiötä työnhakijan näkökulmasta {m} mittarilla. Tärkein kysymys: voiko avoimia paikkoja selata ja hakuprosessin ymmärtää ilman kirjautumista, ja kerrotaanko palkka?",
- "meta_title": "Suomen paras henkilostopalveluyhtio 2026 | tyonvalitys pisteytettyna | Suomen Paras",
- "meta_desc": "8 henkilostopalveluyhtiota pisteytetty tyonhakijan nakokulmasta. Katso mista jokainen piste tulee.",
+ "meta_title": "Suomen paras henkilöstöpalveluyhtiö 2026 | työnvälitys pisteytettynä | Suomen Paras",
+ "meta_desc": "8 henkilöstöpalveluyhtiötä pisteytetty työnhakijan nakokulmasta. Katso mistä jokainen piste tulee.",
  "notes": [
   "<b>Keitä listalla on?</b> Suurimmat valtakunnalliset henkilöstöpalveluyhtiöt: Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, Manpower, Bondata ja Adecco. Mittaus on tehty työnhakijan näkökulmasta: yrityksille myytäviä palveluita ei pisteytetä.",
   "<b>Kuolleet brändit:</b> VMP ja Smile Henkilöstöpalvelut sulautuivat Eezyksi jo 2019, ja Go On -ketju toimii nykyään nimellä Bondata. Vanhat nimet eivät siksi ole listalla erikseen.",
@@ -217,7 +217,7 @@
    },
    "facts_extra": [],
    "vahvuudet": [
-    "Hakuprosessi on selkeasti kuvattu viidessä vaiheessa: profiilin luominen, työpaikkojen selaaminen, hakemuksen lähettäminen, edistymisen seuranta ja työn aloittaminen.",
+    "Hakuprosessi on selkeästi kuvattu viidessä vaiheessa: profiilin luominen, työpaikkojen selaaminen, hakemuksen lähettäminen, edistymisen seuranta ja työn aloittaminen.",
     "Työsuhteen muodot selitetty kattavasti: keikkatyö, määräaikaiset ja vakituiset tehtävät sekä mahdollisuus työskennellä Baronalla tai suoraan asiakasyrityksessa.",
     "Kattava työntekijäetujen kuvaus sisältäen työterveyshuollon, TES-mukaisen palkan, joustavat työjärjestelyt ja urakehitysmahdollisuudet."
    ],
@@ -233,7 +233,7 @@
     "artikkeli": "Barona",
     "paivakatselut_ka": 9,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Barona' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Barona' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -451,7 +451,7 @@
     "artikkeli": "Eezy",
     "paivakatselut_ka": 5,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Eezy' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Eezy' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -513,7 +513,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: avoimet-tyopaikat-sivulla näytetään 232 avointa työpaikkaa kategorisoidusti (teollisuus, logistiikka, hotelli-ravintola, kauppa, kiinteistöhuolto, rakentaminen, toimisto). Listaukseen pääsee ilman sisäänkirjautumista."
+       "quote": "HAVAINTO: avoimet-työpaikat-sivulla näytetään 232 avointa työpaikkaa kategorisoidusti (teollisuus, logistiikka, hotelli-ravintola, kauppa, kiinteistöhuolto, rakentaminen, toimisto). Listaukseen pääsee ilman sisäänkirjautumista."
       },
       {
        "mittari": "Hakuprosessi ja sen vaiheet kuvattu",
@@ -522,7 +522,7 @@
        "pisteet_max": 20,
        "pisteet": 20.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: bolt-works-tyonantajana-sivulla kuvataan vuokratyösuhteen prosessi, TES-palkkaus, viisi-tähtisen palautteen bonus, työterveyspalvelut. bolt-works-sovellus-tyontekijalle-sivulla kuvataan profiilin luonti, SMS-salasanainen kirjautuminen, keikoille hakeminen ja työsuhteiden hallinta."
+       "quote": "HAVAINTO: bolt-works-työnantajana-sivulla kuvataan vuokratyösuhteen prosessi, TES-palkkaus, viisi-tähtisen palautteen bonus, työterveyspalvelut. bolt-works-sovellus-tyontekijalle-sivulla kuvataan profiilin luonti, SMS-salasanainen kirjautuminen, keikoille hakeminen ja työsuhteiden hallinta."
       },
       {
        "mittari": "Palkka tai palkkahaarukka kerrottu ilmoituksissa",
@@ -531,7 +531,7 @@
        "pisteet_max": 20,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: kun avoimet-tyopaikat-sivulla ladataan JS:llä, näkyvissä olevissa työpaikkakortteissa ei ole palkkainformaatiota. Niissä näytetään vain tehtävänimike, sijainti, työsuhteen kesto, työaikatyyppi ja hakuaika. bolt-works-tyonantajana-sivulla mainitaan aina vähintään TES:n mukainen tai parempi palkka mutta tätä ei toisteta yksittäisten ilmoitusten kohdalla."
+       "quote": "HAVAINTO: kun avoimet-työpaikat-sivulla ladataan JS:llä, näkyvissä olevissa työpaikkakortteissa ei ole palkkainformaatiota. Niissä näytetään vain tehtävänimike, sijainti, työsuhteen kesto, työaikatyyppi ja hakuaika. bolt-works-työnantajana-sivulla mainitaan aina vähintään TES:n mukainen tai parempi palkka mutta tätä ei toisteta yksittäisten ilmoitusten kohdalla."
       },
       {
        "mittari": "Työsuhteen muodot ja ehdot selitetty",
@@ -540,7 +540,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: bolt-works-tyonantajana-sivulla eritelään selkeästi vuokratyösuhde (työnantaja on Bolt.Works, asiakas opastaa) vs. suorarekrytointi (asiakas hakee suoraan kirjoilleen). Lisäksi kerrotaan mahdollisuudesta siirtyä suorarekrytoinniksi."
+       "quote": "HAVAINTO: bolt-works-työnantajana-sivulla eritelään selkeästi vuokratyösuhde (työnantaja on Bolt.Works, asiakas opastaa) vs. suorarekrytointi (asiakas hakee suoraan kirjoilleen). Lisäksi kerrotaan mahdollisuudesta siirtyä suorarekrytoinniksi."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -549,7 +549,7 @@
        "pisteet_max": 10,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Y-tunnus 2041555-3 näkyy ota-yhteytta-sivulla sekä toimipiste-sivuilla ja sivun footerissa Bolt.Works Oy:lle."
+       "quote": "HAVAINTO: Y-tunnus 2041555-3 näkyy ota-yhteyttä-sivulla sekä toimipiste-sivuilla ja sivun footerissa Bolt.Works Oy:lle."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -886,7 +886,7 @@
     "artikkeli": "Academic Work",
     "paivakatselut_ka": 0,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Academic Work' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Academic Work' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1533,7 +1533,7 @@
     "artikkeli": "Adecco",
     "paivakatselut_ka": 2,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Adecco' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Adecco' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1756,42 +1756,42 @@
     "artikkeli": "Staffpoint",
     "paivakatselut_ka": 1,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Staffpoint' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Staffpoint' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   }
  ],
  "updated": "26.7.2026",
  "opas": {
-  "johdanto": "Tyonvalitys- ja henkilostopalveluyritykset valittavat toita tuhansille suomalaisille vuokratyosta vakituisiin tehtaviin. Tyonhakijalle olennaista on, voiko avoimia paikkoja selata ilman kirjautumista, kuvataanko hakuprosessi, kerrotaanko palkka ilmoituksissa ja selitetaanko tyosuhteen muodot ymmarrettavasti. Vertailu mittaa juuri naita asioita yritysten julkisilta sivuilta.",
+  "johdanto": "Työnvälitys- ja henkilostopalveluyritykset välittävät töitä tuhansille suomalaisille vuokratyöstä vakituisiin tehtäviin. Tyonhakijalle olennaista on, voiko avoimia paikkoja selata ilman kirjautumista, kuvataanko hakuprosessi, kerrotaanko palkka ilmoituksissa ja selitetaanko työsuhteen muodot ymmärrettävästi. Vertailu mittaa juuri näitä asioita yritysten julkisilta sivuilta.",
   "huomioita": [
-   "Avoimet tyopaikat ovat lahes kaikilla toimijoilla selattavissa ilman kirjautumista, mutta hakeminen edellyttaa yleensa profiilin luomista palveluun.",
-   "Palkkatieto ilmoituksissa on alalla harvinainen: useimmat ilmoitukset kertovat tehtavan ja sijainnin mutta eivat palkkaa tai edes haarukkaa. Tama on selkein yksittainen lapinakyvyyspuute tyonhakijan kannalta.",
-   "Vuokratyossa tyonantaja on henkilostopalveluyritys, ei kayttajayritys. Palkka maaraytyy kayttajayrityksen alan tyoehtosopimuksen mukaan, mika kannattaa varmistaa ennen sopimusta.",
-   "Osa yrityksista hoitaa tyosuhteen asiat mobiilisovelluksella tai portaalissa, mika nopeuttaa esimerkiksi tuntikirjauksia ja palkkatietojen seurantaa.",
-   "Ala on keskittynyt: useat tunnetut brandit kuuluvat samoihin konserneihin, ja fuusiot ovat yleisia. Kerromme omistajan jokaisen yrityksen sivulla."
+   "Avoimet työpaikat ovat lähes kaikilla toimijoilla selattavissa ilman kirjautumista, mutta hakeminen edellyttää yleensä profiilin luomista palveluun.",
+   "Palkkatieto ilmoituksissa on alalla harvinainen: useimmat ilmoitukset kertovat tehtavan ja sijainnin mutta eivät palkkaa tai edes haarukkaa. Tämä on selkein yksittäinen läpinäkyvyyspuute työnhakijan kannalta.",
+   "Vuokratyossa työnantaja on henkilöstöpalveluyritys, ei kayttajayritys. Palkka määräytyy kayttajayrityksen alan tyoehtosopimuksen mukaan, mikä kannattaa varmistaa ennen sopimusta.",
+   "Osa yrityksistä hoitaa työsuhteen asiat mobiilisovelluksella tai portaalissa, mikä nopeuttaa esimerkiksi tuntikirjauksia ja palkkatietojen seurantaa.",
+   "Ala on keskittynyt: useat tunnetut brändit kuuluvat samoihin konserneihin, ja fuusiot ovat yleisiä. Kerromme omistajan jokaisen yrityksen sivulla."
   ],
   "vinkit": [
-   "Kysy palkka ja tyosuhteen ehdot suoraan jo haastattelussa, jos niita ei kerrota ilmoituksessa. Vuokratyossa sovellettava tyoehtosopimus maarittaa vahimmaistason.",
-   "Luo profiili useampaan palveluun: eri yrityksilla on eri kayttajayritysasiakkaat, joten paikkatarjonta vaihtelee selvasti.",
-   "Tarkista, maksetaanko lomakorvaus vai kertyyko vuosiloma, ja miten sairausajan palkka toimii keikkatyossa. Kaytannot on selitetty hyvien toimijoiden sivuilla."
+   "Kysy palkka ja työsuhteen ehdot suoraan jo haastattelussa, jos niitä ei kerrota ilmoituksessa. Vuokratyossa sovellettava tyoehtosopimus määrittää vahimmaistason.",
+   "Luo profiili useampaan palveluun: eri yrityksilla on eri kayttajayritysasiakkaat, joten paikkatarjonta vaihtelee selvästi.",
+   "Tarkista, maksetaanko lomakorvaus vai kertyyko vuosiloma, ja miten sairausajan palkka toimii keikkatyossa. Käytännöt on selitetty hyvien toimijoiden sivuilla."
   ],
   "ukk": [
    {
-    "q": "Maksaako tyonvalityspalvelun kaytto tyonhakijalle?",
-    "a": "Ei. Suomessa henkilostopalveluyritys ei saa peria tyonhakijalta maksua tyonvalityksesta, vaan palkkion maksaa tyovoimaa tarvitseva yritys."
+    "q": "Maksaako tyonvalityspalvelun käyttö tyonhakijalle?",
+    "a": "Ei. Suomessa henkilöstöpalveluyritys ei saa periä tyonhakijalta maksua tyonvalityksesta, vaan palkkion maksaa tyovoimaa tarvitseva yritys."
    },
    {
     "q": "Miksi palkkaa ei kerrota ilmoituksissa?",
-    "a": "Ala vetoaa usein siihen, etta palkka maaraytyy tyoehtosopimuksen ja kokemuksen mukaan. Tyonhakijan kannalta edes palkkahaarukan kertominen saastaisi kaikkien aikaa, ja siksi palkkatiedon avoimuus on yksi vertailumme painavimmista mittareista."
+    "a": "Ala vetoaa usein siihen, että palkka määräytyy tyoehtosopimuksen ja kokemuksen mukaan. Työnhakijan kannalta edes palkkahaarukan kertominen saastaisi kaikkien aikaa, ja siksi palkkatiedon avoimuus on yksi vertailumme painavimmista mittareista."
    },
    {
-    "q": "Mita eroa on vuokratyolla ja suorarekrytoinnilla?",
-    "a": "Vuokratyossa tyosopimus tehdaan henkilostopalveluyrityksen kanssa ja tyo tehdaan kayttajayrityksessa. Suorarekrytoinnissa henkilostopalveluyritys hoitaa vain haun, ja tyosopimus syntyy suoraan tyollistavan yrityksen kanssa."
+    "q": "Mitä eroa on vuokratyolla ja suorarekrytoinnilla?",
+    "a": "Vuokratyossa tyosopimus tehdään henkilostopalveluyrityksen kanssa ja työ tehdään kayttajayrityksessa. Suorarekrytoinnissa henkilöstöpalveluyritys hoitaa vain haun, ja tyosopimus syntyy suoraan tyollistavan yrityksen kanssa."
    },
    {
-    "q": "Kertyyko vuokratyosta lomaa ja elaketta?",
-    "a": "Kylla. Vuokratyontekijalla on samat lakisaateiset oikeudet kuin muillakin tyontekijoilla: vuosilomaa tai lomakorvaus, tyoelakemaksut ja tyoterveyshuolto tyosuhteen keston ja ehtojen mukaisesti."
+    "q": "Kertyyko vuokratyöstä lomaa ja elaketta?",
+    "a": "Kyllä. Vuokratyontekijalla on samat lakisääteiset oikeudet kuin muillakin tyontekijoilla: vuosilomaa tai lomakorvaus, tyoelakemaksut ja työterveyshuolto työsuhteen keston ja ehtojen mukaisesti."
    }
   ]
  },

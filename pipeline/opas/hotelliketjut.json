@@ -1,33 +1,33 @@
 {
-  "johdanto": "Suomessa toimii seka pohjoismaisia hotelliketjuja (Scandic, Sokos Hotels) etta kotimaisia erikoistujia: Lapland Hotels pohjoisessa, Omena Hotels ilman vastaanottoa, GreenStar edullisena ja Holiday Club kylpylakohteissa. Vertailussa mitataan varaajan nakokulmasta: nakeeko huonehinnan ilman kirjautumista, kerrotaanko peruutusehdot ennen varausta, onko aamiaisen ja lisapalvelujen hinta selvilla ja loytyvatko hotellit yhteystietoineen.",
-  "huomioita": [
-    "Peruutusehto on hotellivarauksen tarkein pieni teksti: joustava ja ei-palautettava hinta voivat erota kymmenia euroja samasta huoneesta. Avoimuus tuo pisteita ja myos sitoutumisindeksibonuksen.",
-    "Aamiainen sisaltyy hintaan vaihtelevasti. Osa ketjuista hinnoittelee sen erikseen hotellikohtaisesti, jolloin loppusumma selviaa vasta varausputkessa.",
-    "Kanta-asiakashinta nakyy usein vain kirjautuneelle. Mittaamme sen mita kirjautumaton kavija nakee, koska se on vertailun lahtotilanne.",
-    "Radisson ja Best Western eivat ole vertailussa, koska niiden sivustot palauttavat automaattiselle mittaukselle 403-eston. Emme arvaa pisteita sivustosta jota ei voi mitata.",
-    "Sokos Hotelsin hotellit omistavat alueosuuskaupat ja Sokotel Oy, joten palvelu voi vaihdella hotelleittain saman brandin sisalla."
-  ],
-  "vinkit": [
-    "Vertaa hintaa aina peruutusehto huomioiden: muutaman euron halvempi ei-palautettava hinta on kallis, jos matka peruuntuu.",
-    "Tarkista sisaltyyko aamiainen ja mita pysakointi maksaa. Ne voivat nostaa kahden hengen yon hintaa 20-40 euroa.",
-    "Katso hotellikohtaiset tiedot ketjun omalta sivulta ennen varausta: sama brandi voi tarkoittaa eri tasoista hotellia eri kaupungissa."
-  ],
-  "ukk": [
-    {
-      "q": "Kannattaako varata ketjun omalta sivulta vai varausalustalta?",
-      "a": "Ketjun oma sivu on yleensa ainoa paikka, jossa nakyvat kaikki ehdot, kanta-asiakasedut ja hotellikohtaiset lisapalvelut. Moni ketju lupaa myos parhaan hinnan omalta sivultaan. Vertailumme mittaa nimenomaan ketjun oman sivuston lapinakyvyytta."
-    },
-    {
-      "q": "Mita eroa on joustavalla ja ei-palautettavalla hinnalla?",
-      "a": "Joustavan hinnan voi tyypillisesti perua ilman kuluja tiettyyn kellonaikaan asti saapumispaivana tai sita edeltavana paivana. Ei-palautettava maksetaan heti eika sita saa takaisin, vaikka matka peruuntuisi. Ero on usein 10-20 prosenttia hinnasta."
-    },
-    {
-      "q": "Miksi osa ketjuista ei nayta hintoja ilman hakua?",
-      "a": "Hotellihinnat ovat dynaamisia ja muuttuvat paivittain kysynnan mukaan, joten kiintea hinnasto ei ole mahdollinen. Hyva sivusto nayttaa silti hintatason heti haun jalkeen ilman kirjautumista tai yhteystietojen antamista."
-    },
-    {
-      "q": "Arvioitteko hotellien laatua tai siisteytta?",
-      "a": "Emme. Mittaamme vain verkkosivuston lapinakyvyytta varaajan silmin. Huoneiden laadusta kertovat parhaiten riippumattomat arviot, joiden esilla pito on yksi mittareistamme."
-    }
-  ]
+ "johdanto": "Suomessa toimii sekä pohjoismaisia hotelliketjuja (Scandic, Sokos Hotels) että kotimaisia erikoistujia: Lapland Hotels pohjoisessa, Omena Hotels ilman vastaanottoa, GreenStar edullisena ja Holiday Club kylpylakohteissa. Vertailussa mitataan varaajan näkökulmasta: näkeekö huonehinnan ilman kirjautumista, kerrotaanko peruutusehdot ennen varausta, onko aamiaisen ja lisäpalvelujen hinta selvillä ja löytyvätkö hotellit yhteystietoineen.",
+ "huomioita": [
+  "Peruutusehto on hotellivarauksen tärkein pieni teksti: joustava ja ei-palautettava hinta voivat erota kymmeniä euroja samasta huoneesta. Avoimuus tuo pisteitä ja myös sitoutumisindeksibonuksen.",
+  "Aamiainen sisältyy hintaan vaihtelevasti. Osa ketjuista hinnoittelee sen erikseen hotellikohtaisesti, jolloin loppusumma selviää vasta varausputkessa.",
+  "Kanta-asiakashinta näkyy usein vain kirjautuneelle. Mittaamme sen mitä kirjautumaton kävijä näkee, koska se on vertailun lahtotilanne.",
+  "Radisson ja Best Western eivät ole vertailussa, koska niiden sivustot palauttavat automaattiselle mittaukselle 403-eston. Emme arvaa pisteitä sivustosta jota ei voi mitata.",
+  "Sokos Hotelsin hotellit omistavat alueosuuskaupat ja Sokotel Oy, joten palvelu voi vaihdella hotelleittain saman brändin sisällä."
+ ],
+ "vinkit": [
+  "Vertaa hintaa aina peruutusehto huomioiden: muutaman euron halvempi ei-palautettava hinta on kallis, jos matka peruuntuu.",
+  "Tarkista sisältyykö aamiainen ja mitä pysäköinti maksaa. Ne voivat nostaa kahden hengen yon hintaa 20-40 euroa.",
+  "Katso hotellikohtaiset tiedot ketjun omalta sivulta ennen varausta: sama brändi voi tarkoittaa eri tasoista hotellia eri kaupungissa."
+ ],
+ "ukk": [
+  {
+   "q": "Kannattaako varata ketjun omalta sivulta vai varausalustalta?",
+   "a": "Ketjun oma sivu on yleensä ainoa paikka, jossa näkyvät kaikki ehdot, kanta-asiakasedut ja hotellikohtaiset lisäpalvelut. Moni ketju lupaa myös parhaan hinnan omalta sivultaan. Vertailumme mittaa nimenomaan ketjun oman sivuston läpinäkyvyyttä."
+  },
+  {
+   "q": "Mitä eroa on joustavalla ja ei-palautettavalla hinnalla?",
+   "a": "Joustavan hinnan voi tyypillisesti perua ilman kuluja tiettyyn kellonaikaan asti saapumispaivana tai sitä edeltavana päivänä. Ei-palautettava maksetaan heti eikä sitä saa takaisin, vaikka matka peruuntuisi. Ero on usein 10-20 prosenttia hinnasta."
+  },
+  {
+   "q": "Miksi osa ketjuista ei näytä hintoja ilman hakua?",
+   "a": "Hotellihinnat ovat dynaamisia ja muuttuvat päivittäin kysynnän mukaan, joten kiinteä hinnasto ei ole mahdollinen. Hyvä sivusto näyttää silti hintatason heti haun jälkeen ilman kirjautumista tai yhteystietojen antamista."
+  },
+  {
+   "q": "Arvioitteko hotellien laatua tai siisteytta?",
+   "a": "Emme. Mittaamme vain verkkosivuston läpinäkyvyyttä varaajan silmin. Huoneiden laadusta kertovat parhaiten riippumattomat arviot, joiden esillä pito on yksi mittareistamme."
+  }
+ ]
 }

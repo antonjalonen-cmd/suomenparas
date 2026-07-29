@@ -462,7 +462,7 @@
     "artikkeli": "Multitronic",
     "paivakatselut_ka": 2,
     "luokka": "Suppea",
-    "lahde": "fi.wikipedia-artikkelin 'Multitronic' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Multitronic' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -765,7 +765,7 @@
        "pisteet_max": 20,
        "pisteet": 20.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jasen paivassa paivassa 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa"
+       "quote": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jäsen päivässä päivässä 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa"
       },
       {
        "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
@@ -774,7 +774,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivulla mainitaan 'Etsi lahin myymala' ja asiakaspalvelusivulla viitataan myymaloiden loytamiseen, mutta myymaloiden hakupalvelun linkit johtavat 404-virheisiin"
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Etsi lähin myymälä' ja asiakaspalvelusivulla viitataan myymälöiden löytämiseen, mutta myymälöiden hakupalvelun linkit johtavat 404-virheisiin"
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -792,7 +792,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tuotesivuilla nakyy Gigantin omat asiakasarviot (esim. 4,4/5 tähteä), mutta itsenäisiä ulkoisia arviointisivustoja ei ole linkattu"
+       "quote": "HAVAINTO: Tuotesivuilla näkyy Gigantin omat asiakasarviot (esim. 4,4/5 tähteä), mutta itsenäisiä ulkoisia arviointisivustoja ei ole linkattu"
       }
      ]
     },
@@ -903,14 +903,14 @@
      "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
      "arvo": "Esillä",
      "pisteet": 0.5,
-     "lahde": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jasen paivassa paivassa 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa"
+     "lahde": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jäsen päivässä päivässä 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa"
     }
    ],
    "tunnettuus": {
     "artikkeli": "Gigantti (tavarataloketju)",
     "paivakatselut_ka": 33,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Gigantti (tavarataloketju)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Gigantti (tavarataloketju)' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1135,7 +1135,7 @@
     "artikkeli": "Verkkokauppa.com",
     "paivakatselut_ka": 13,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Verkkokauppa.com' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Verkkokauppa.com' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   },
@@ -1215,7 +1215,7 @@
        "pisteet_max": 20,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderointia vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla."
+       "quote": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderöintiä vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla."
       },
       {
        "mittari": "Myymälät ja aukioloajat kerrottu (verkkokaupalla: noutopisteet)",
@@ -1349,7 +1349,7 @@
    ],
    "kehityskohteet": [
     "Asiakaspalvelun sisältö ei ole helposti luettavissa: Asiakaspalvelun sivut latautuvat, mutta varsinainen sisältö on evästekäyttäjien takana, mikä vaikeuttaa tiedon löytämistä.",
-    "Kontaktitiedot ja aukioloajat eivät ole selvästi esillä: Sivusto vaatii merkittävää selailua tai JavaScript-renderointia tietojen löytämiseksi.",
+    "Kontaktitiedot ja aukioloajat eivät ole selvästi esillä: Sivusto vaatii merkittävää selailua tai JavaScript-renderöintiä tietojen löytämiseksi.",
     "Riippumattomia arvioita ei ole esillä: Sivustolla ei ole näkyvää kolmannen osapuolen arviointipalvelun tai asiakasarvioiden integrointia."
    ],
    "yhteenveto": "Power on tunnettu suomalainen elektroniikkaketju, joka myy verkossa ja myymälöissä. Sivusto latautuu ja sisältää peruspalvelut, mutta on hyvin JavaScript-riippuvainen ja sisältö on pääosin evästekonsenttien takana. Hinnoittelu näkyy tuotesivuilla, mutta toimitus-, palautus- ja muut asiakaspalvelutiedot ovat vaikeaselkoisia johtuen sivuston tekniikasta.",
@@ -1359,49 +1359,49 @@
      "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
      "arvo": "Osittain esillä",
      "pisteet": 0.25,
-     "lahde": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderointia vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla."
+     "lahde": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderöintiä vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla."
     }
    ],
    "tunnettuus": {
     "artikkeli": "Power",
     "paivakatselut_ka": 27,
     "luokka": "Kohtalainen",
-    "lahde": "fi.wikipedia-artikkelin 'Power' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
+    "lahde": "fi.wikipedia-artikkelin 'Power' keskimääräiset päivittäiset katselut 60 pv (Wikimedia-rajapinta), mitattu 27.07.2026",
     "mitattu": "27.07.2026"
    }
   }
  ],
  "updated": "26.7.2026",
  "opas": {
-  "johdanto": "Kodintekniikkaa ja elektroniikkaa myyvat Suomessa seka myymalaketjut (Gigantti, Power) etta verkkopainotteiset kaupat (Verkkokauppa.com, Jimm's, Multitronic, Proshop). Markkina on kansainvalinen: ketjujen omistajat ovat Britanniasta, Norjasta, Saksasta ja Tanskasta, ja vain osa on suomalaisia. Vertailussa mitataan sivuston lapinakyvyytta: hinnat, toimituskulut ennen kassaa, palautus- ja takuuehdot seka noutopisteet.",
+  "johdanto": "Kodintekniikkaa ja elektroniikkaa myyvät Suomessa sekä myymäläketjut (Gigantti, Power) että verkkopainotteiset kaupat (Verkkokauppa.com, Jimm's, Multitronic, Proshop). Markkina on kansainvälinen: ketjujen omistajat ovat Britanniasta, Norjasta, Saksasta ja Tanskasta, ja vain osa on suomalaisia. Vertailussa mitataan sivuston läpinäkyvyyttä: hinnat, toimituskulut ennen kassaa, palautus- ja takuuehdot sekä noutopisteet.",
   "huomioita": [
-   "Hinnat ovat alalla hyvin esilla, mutta toimituskulut ja palautusehdot loytyvat vaihtelevasti. Osa ketjuista piilottaa ehtosivut raskaan JavaScript-toteutuksen tai evastemuurin taakse, mika nakyy mittauksissamme.",
-   "Kuluttajalla on 24 kuukauden virhevastuusuoja ostopaikasta riippumatta. Kaupan oma takuu on lisa taman paalle, ei korvaus sille.",
-   "Ulkomainen verkkokauppa voi palvella Suomea ilman suomalaista Y-tunnusta (esim. Proshop Tanskasta). Se on laillista, mutta riita-asiat hoidetaan talloin ulkomaisen yhtion kanssa.",
-   "Verkkokauppojen omat asiakasarviot eivat ole riippumaton lahde: riippumattomuus edellyttaa ulkopuolista arvioijaa tai sertifiointia, ja se on alalla harvinaista.",
-   "Alalla liikkuu myymaloita ketjusta toiseen: esimerkiksi useita Gigantti-myymaloita on siirtynyt Power-ketjuun vuonna 2026. Myymalaverkosto kannattaa tarkistaa ketjun omalta sivulta."
+   "Hinnat ovat alalla hyvin esillä, mutta toimituskulut ja palautusehdot löytyvät vaihtelevasti. Osa ketjuista piilottaa ehtosivut raskaan JavaScript-toteutuksen tai evastemuurin taakse, mikä näkyy mittauksissamme.",
+   "Kuluttajalla on 24 kuukauden virhevastuusuoja ostopaikasta riippumatta. Kaupan oma takuu on lisä tämän päälle, ei korvaus sille.",
+   "Ulkomainen verkkokauppa voi palvella Suomea ilman suomalaista Y-tunnusta (esim. Proshop Tanskasta). Se on laillista, mutta riita-asiat hoidetaan tällöin ulkomaisen yhtiön kanssa.",
+   "Verkkokauppojen omat asiakasarviot eivät ole riippumaton lähde: riippumattomuus edellyttää ulkopuolista arvioijaa tai sertifiointia, ja se on alalla harvinaista.",
+   "Alalla liikkuu myymälöitä ketjusta toiseen: esimerkiksi useita Gigantti-myymälöitä on siirtynyt Power-ketjuun vuonna 2026. Myymäläverkosto kannattaa tarkistaa ketjun omalta sivulta."
   ],
   "vinkit": [
-   "Vertaa kokonaishintaa toimituskuluineen ja tarkista noutopistevaihtoehto: nouto myymalasta tai automaatista on usein ilmainen.",
-   "Ala osta pidennettya lisaturvaa harkitsematta: lakisaateinen virhevastuu kattaa jo kaksi vuotta, ja moni kotivakuutus korvaa laiterikkoja.",
-   "Sailyta kuitti ja tarkista palautusohjeet ennen pakkauksen avaamista, jos olet epavarma tuotteesta. Avattu pakkaus voi vaikuttaa palautuksen arvoon."
+   "Vertaa kokonaishintaa toimituskuluineen ja tarkista noutopistevaihtoehto: nouto myymälästä tai automaatista on usein ilmainen.",
+   "Älä osta pidennettya lisäturvaa harkitsematta: lakisääteinen virhevastuu kattaa jo kaksi vuotta, ja moni kotivakuutus korvaa laiterikkoja.",
+   "Säilytä kuitti ja tarkista palautusohjeet ennen pakkauksen avaamista, jos olet epävarma tuotteesta. Avattu pakkaus voi vaikuttaa palautuksen arvoon."
   ],
   "ukk": [
    {
-    "q": "Mita eroa on takuulla ja virhevastuulla?",
-    "a": "Virhevastuu on lakisaateinen: myyja vastaa tuotteen virheista vahintaan 24 kuukautta, vaikka takuuta ei olisi lainkaan. Takuu on myyjan tai valmistajan vapaaehtoinen lisalupaus, joka voi olla pidempi tai kattavampi. Takuun paattyminen ei poista virhevastuuta."
+    "q": "Mitä eroa on takuulla ja virhevastuulla?",
+    "a": "Virhevastuu on lakisääteinen: myyjä vastaa tuotteen virheista vähintään 24 kuukautta, vaikka takuuta ei olisi lainkaan. Takuu on myyjän tai valmistajan vapaaehtoinen lisalupaus, joka voi olla pidempi tai kattavampi. Takuun päättyminen ei poista virhevastuuta."
    },
    {
     "q": "Onko ulkomaisesta verkkokaupasta ostaminen turvallista?",
-    "a": "EU-alueen verkkokaupoissa patee sama 14 vuorokauden peruuttamisoikeus ja kuluttajansuoja kuin Suomessa. Kaytannon ero tulee riitatilanteissa: suomalaisen yhtion kanssa asioit suomeksi ja kuluttajariitalautakunta on kaytettavissa, ulkomaisen kanssa prosessi voi olla tyolaampi."
+    "a": "EU-alueen verkkokaupoissa patee sama 14 vuorokauden peruuttamisoikeus ja kuluttajansuoja kuin Suomessa. Käytännön ero tulee riitatilanteissa: suomalaisen yhtiön kanssa asioit suomeksi ja kuluttajariitalautakunta on käytettävissä, ulkomaisen kanssa prosessi voi olla tyolaampi."
    },
    {
-    "q": "Miksi verkkokaupan omat arviot eivat riita riippumattomaksi arvioksi?",
-    "a": "Kauppa valitsee itse, miten arviot keraataan ja naytetaan, eika ulkopuolinen taho varmenna niita. Riippumattomaksi arvioksi laskemme ulkopuolisen sertifioinnin, auditoinnin tai arviointipalvelun, jonka sisaltoon kauppa ei voi vaikuttaa."
+    "q": "Miksi verkkokaupan omat arviot eivät riitä riippumattomaksi arvioksi?",
+    "a": "Kauppa valitsee itse, miten arviot keraataan ja näytetään, eikä ulkopuolinen taho varmenna niitä. Riippumattomaksi arvioksi laskemme ulkopuolisen sertifioinnin, auditoinnin tai arviointipalvelun, jonka sisältöön kauppa ei voi vaikuttaa."
    },
    {
     "q": "Kannattaako maksaa nopeasta toimituksesta?",
-    "a": "Riippuu tarpeesta: osa kaupoista toimittaa isoihin kaupunkeihin jopa tunnissa lisamaksusta, mutta nouto myymalasta tai automaatista on usein ilmainen ja lahes yhta nopea. Vertaa toimitusvaihtoehdot kassalla ennen maksua."
+    "a": "Riippuu tarpeesta: osa kaupoista toimittaa isoihin kaupunkeihin jopa tunnissa lisämaksusta, mutta nouto myymälästä tai automaatista on usein ilmainen ja lähes yhtä nopea. Vertaa toimitusvaihtoehdot kassalla ennen maksua."
    }
   ]
  },

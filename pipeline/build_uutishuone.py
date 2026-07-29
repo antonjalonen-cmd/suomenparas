@@ -66,8 +66,8 @@ def build_posts(verts, snap, today):
         posts.append({
             "tyyppi": "uutta",
             "otsikko": f"{len(uudet)} uutta vertailua julkaistu",
-            "teksti": (f"Mittasimme {n_yht} uutta yritysta ja avasimme kategoriat: {nimet}. "
-                       f"Jokaisen yrityksen sivulla nakyy mittari mittarilta, mista pisteet tulevat."),
+            "teksti": (f"Mittasimme {n_yht} uutta yritystä ja avasimme kategoriat: {nimet}. "
+                       f"Jokaisen yrityksen sivulla näkyy mittari mittarilta, mistä pisteet tulevat."),
             "linkki": "kategoriat/",
             "linkki_teksti": "Katso kaikki kategoriat",
             "tagit": ["uusi"],
@@ -80,10 +80,10 @@ def build_posts(verts, snap, today):
         ero = y["score"] - hanta["score"]
         posts.append({
             "tyyppi": "ykkonen",
-            "otsikko": f"{y['nimi']} on {v['nimi'].lower()} -vertailun karjessa",
-            "teksti": (f"{y['nimi']} sai {fmt(y['score'])} pistetta sadasta. "
-                       f"Kategorian viimeinen {hanta['nimi']} jai {fmt(hanta['score'])} pisteeseen, "
-                       f"eli karjen ja hannan ero on {fmt(ero)} pistetta."),
+            "otsikko": f"{y['nimi']} on {v['nimi'].lower()} -vertailun kärjessä",
+            "teksti": (f"{y['nimi']} sai {fmt(y['score'])} pistettä sadasta. "
+                       f"Kategorian viimeinen {hanta['nimi']} jäi {fmt(hanta['score'])} pisteeseen, "
+                       f"eli kärjen ja hännän ero on {fmt(ero)} pistettä."),
             "linkki": f"{v['slug']}/",
             "linkki_teksti": f"Avaa {v['nimi'].lower()}",
             "tagit": ["ykkonen", v["slug"]],
@@ -103,24 +103,24 @@ def build_posts(verts, snap, today):
         if d > 0:
             posts.append({
                 "tyyppi": "nousija",
-                "otsikko": f"{c['nimi']} nousi {fmt(d)} pistetta",
-                "teksti": (f"{c['nimi']} ({v['nimi'].lower()}) on nyt {fmt(c['score'])} pistetta. "
-                           f"Nousu tarkoittaa, etta sivustolta loytyi mittaushetkella enemman "
-                           f"julkista tietoa kuin edellisella kierroksella."),
+                "otsikko": f"{c['nimi']} nousi {fmt(d)} pistettä",
+                "teksti": (f"{c['nimi']} ({v['nimi'].lower()}) on nyt {fmt(c['score'])} pistettä. "
+                           f"Nousu tarkoittaa, että sivustolta löytyi mittaushetkellä enemmän "
+                           f"julkista tietoa kuin edellisellä kierroksella."),
                 "linkki": f"yritys/{v['slug']}/{c['slug']}/",
-                "linkki_teksti": "Katso mista pisteet tulevat",
+                "linkki_teksti": "Katso mistä pisteet tulevat",
                 "tagit": ["nousija", v["slug"]],
             })
     for d, v, c in muutokset[-2:]:
         if d < 0:
             posts.append({
                 "tyyppi": "laskija",
-                "otsikko": f"{c['nimi']} laski {fmt(abs(d))} pistetta",
-                "teksti": (f"{c['nimi']} ({v['nimi'].lower()}) on nyt {fmt(c['score'])} pistetta. "
-                           f"Lasku tarkoittaa, etta aiemmin nakynytta tietoa ei loytynyt "
-                           f"tallä kierroksella tai sivuston tekniset mittarit heikkenivat."),
+                "otsikko": f"{c['nimi']} laski {fmt(abs(d))} pistettä",
+                "teksti": (f"{c['nimi']} ({v['nimi'].lower()}) on nyt {fmt(c['score'])} pistettä. "
+                           f"Lasku tarkoittaa, että aiemmin näkynyttä tietoa ei löytynyt "
+                           f"tällä kierroksella tai sivuston tekniset mittarit heikkenivät."),
                 "linkki": f"yritys/{v['slug']}/{c['slug']}/",
-                "linkki_teksti": "Katso mika muuttui",
+                "linkki_teksti": "Katso mikä muuttui",
                 "tagit": ["laskija", v["slug"]],
             })
 
@@ -136,10 +136,10 @@ def build_posts(verts, snap, today):
         _, sija, v, c = yllattajat[0]
         posts.append({
             "tyyppi": "yllattaja",
-            "otsikko": f"Tuntematon nimi karjessa: {c['nimi']}",
+            "otsikko": f"Tuntematon nimi kärjessä: {c['nimi']}",
             "teksti": (f"{c['nimi']} on {v['nimi'].lower()} -vertailun sija {sija} "
                        f"({fmt(c['score'])} p), vaikka sen tunnettuus on mittarillamme suppea. "
-                       f"Lapinakyvyys ei ole kokokysymys: pieni yritys voi kertoa hinnat ja "
+                       f"Läpinäkyvyys ei ole kokokysymys: pieni yritys voi kertoa hinnat ja "
                        f"ehdot avoimemmin kuin markkinajohtaja."),
             "linkki": f"yritys/{v['slug']}/{c['slug']}/",
             "linkki_teksti": "Katso pisteet",
@@ -161,11 +161,11 @@ def build_posts(verts, snap, today):
         posts.append({
             "tyyppi": "aukko",
             "otsikko": f"Yleisin puute: {mittari.lower()}",
-            "teksti": (f"{kpl} mitatusta {kaikki} yrityksesta ({osuus} %) ei kerro tata "
-                       f"julkisilla sivuillaan. Se on koko sivuston yleisin yksittainen "
-                       f"lapinakyvyysaukko juuri nyt."),
+            "teksti": (f"{kpl} mitatusta {kaikki} yrityksestä ({osuus} %) ei kerro tätä "
+                       f"julkisilla sivuillaan. Se on koko sivuston yleisin yksittäinen "
+                       f"läpinäkyvyysaukko juuri nyt."),
             "linkki": "metodologia/",
-            "linkki_teksti": "Nain mittaamme",
+            "linkki_teksti": "Näin mittaamme",
             "tagit": ["aukko"],
         })
 
@@ -183,8 +183,8 @@ def build_posts(verts, snap, today):
         osuus = round(100 * y_on / y_kaikki)
         posts.append({
             "tyyppi": "numero",
-            "otsikko": f"{osuus} % yrityksista kertoo Y-tunnuksensa",
-            "teksti": (f"Mittasimme {y_kaikki} yritysta: {y_on} kertoo Y-tunnuksensa "
+            "otsikko": f"{osuus} % yrityksistä kertoo Y-tunnuksensa",
+            "teksti": (f"Mittasimme {y_kaikki} yritystä: {y_on} kertoo Y-tunnuksensa "
                        f"julkisilla sivuillaan. Y-tunnus on nopein tapa tarkistaa, kenen "
                        f"kanssa oikeasti asioit."),
             "linkki": "luottamus/",
@@ -200,9 +200,9 @@ def build_posts(verts, snap, today):
         lista = ", ".join(f"{c['nimi']} {fmt(s)}" for s, v, c in top)
         posts.append({
             "tyyppi": "karki",
-            "otsikko": "Koko sivuston lapinakyvimmat juuri nyt",
-            "teksti": (f"Korkeimmat pisteet kaikista {len(kaikki_yr)} mitatusta yrityksesta: "
-                       f"{lista}. Pisteet mittaavat verkkosivun avoimuutta, eivat palvelun laatua."),
+            "otsikko": "Koko sivuston läpinäkyvimmät juuri nyt",
+            "teksti": (f"Korkeimmat pisteet kaikista {len(kaikki_yr)} mitatusta yrityksestä: "
+                       f"{lista}. Pisteet mittaavat verkkosivun avoimuutta, eivät palvelun laatua."),
             "linkki": "kategoriat/",
             "linkki_teksti": "Selaa kategorioita",
             "tagit": ["karki"],
