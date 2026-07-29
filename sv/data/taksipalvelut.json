@@ -1,0 +1,1840 @@
+{
+ "slug": "taksipalvelut",
+ "nimi": "Taksipalvelut",
+ "nav": "Taksipalvelut",
+ "h1": "Suomen paras taksipalvelu 2026",
+ "yksikko": "Suomessa toimivaa taksipalvelua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa taksipalvelua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: kerrotaanko hinnat tai hintaesimerkit ennen kyytiä?",
+ "meta_title": "Suomen paras taksipalvelu 2026 | pisteytettynä | Suomen Paras",
+ "meta_desc": "8 Suomessa toimivaa taksipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Mukana ovat myös Uber ja Bolt</b> ulkomaisina sovelluspalveluina — omistus ja toiminta-alueet kerrotaan jokaisen palvelun sivulla. Kajonin sisaryhtiön vuoden 2020 konkurssi on kerrottu avoimesti riskitietona.",
+  "<b>Taksiuudistuksen jälkeen hinnat vaihtelevat rajusti.</b> Sama matka voi maksaa tuplasti eri yhtiöllä — siksi hintojen ja lisämaksujen avoimuus ennen tilausta on vertailun painavin kriteeri."
+ ],
+ "yritykset": [
+  {
+   "slug": "lahitaksi",
+   "nimi": "Lähitaksi",
+   "domain": "lahitaksi.fi",
+   "omistaja": "Pääkaupunkiseudun taksiyrittäjien omistama tilausvälitysyhtiö, perustettu 1978 (vuoteen 2010 Helsingin Ympäristön Taksikeskus Oy).",
+   "y_tunnus": "0220285-3",
+   "rekisteroity": 1978,
+   "score": 84.6,
+   "pillars": {
+    "digitaalinen": 83.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "64/100",
+       "paino": 40,
+       "pisteet": 64,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy perushinnoittelu 2,96 € + 0,29 € per 10 sekuntia. Hinnasto-sivulla on alueelliset hinnastot (Uusimaa ja Riihimäki, Rovaniemi, Tunturi-Lappi, Business Class, Tavarakuljetukset). Hintalaskuri saatavilla omalla sivulla."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Taksin tilaus -sivulla listataan neljä pääasiallista tilauskanavaa: Lähitaksi-sovellus (ilmainen tilaus), puhelinsoitto (0100 7300), ennakkotilaus ja viikkotilaus. App-sivulla kuvataan sovelluksen käyttö yksityiskohtaisesti. Katuriippuminen mainitaan (vapaa taksi)."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutus-sivulla kerrotaan: tavallisissa tilauksissa kuljettajalla on oikeus periä lähtömaksu jos taksi on jo paikalla; ennakkotilauksissa peruutus on tehtävä viimeistään tuntia ennen lähtöaikaa. Hintojen sivulla kuvataan odotusajan veloitus: kiinteisiin hintoihin sisältyy 5 minuutin odotus, ylempi odotusaika laskutetaan taksahinnastoin."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lähitaksi-sivulla selkeästi mainitaan, että palvelevat koko Uudellamaalla, Riihimäellä, Rovaniemellä ja Levillä. App-sivulla todetaan laajempi verkko: yli puolessa Suomea ja yli 80 kaupungissa Euroopassa ja Yhdysvalloissa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy mistään sivusta. Tietosuojaselosteesta löytyy postiosoite (Nuijamiestentie 7, 00400 Helsinki) ja yhteyshenkilö (Toni Mäkelä), mutta virallista Y-tunnusta ei julkaista."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: App-sivulla mainitaan sovelluksen arvio 4,8/5 vuodelta 2025. Laadunvalvonta-sivulla kuvataan nimetty laadunvalvontaorganisaatio (Ville Tuovinen, Amir Al Take, Miikka Helin). Taksin tilaus -sivulla on asiakaspalautejärjestelmä ja unohtuneiden esineiden palvelu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 64,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6569.16396,
+    "cls": 0.045617280984415545,
+    "tbt_ms": 86.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja hintaesimerkki näkyvät etusivulla heti (2,96 € + 0,29 € per 10 sekuntia), lisäksi alueelliset hinnastot ja hintalaskuri saatavilla",
+    "Tilaustavat on selkeästi kuvattu: sovellus, puhelin (0100 7300), ennakkotilaus ja viikkotilaus sekä katuriippuminen esitelty",
+    "Kattava laadunvalvontaorganisaatio ja asiakaspalautejärjestelmä näkyvät sivustolla, sovellus arvioitu 4,8/5"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus (LY-tunnus) puuttuu sivustolta kokonaan, löytyy vain postiosoite (Nuijamiestentie 7, 00400 Helsinki)",
+    "Aukioloajat eivät ole eksplisiittisesti mainittu, vaikka palvelu on 24/7 (kellon ympäri) niin tämä tulisi vahvistaa selkeästi",
+    "Chat-yhteydenotto-kanava puuttuu; asiakaspalveluun voi olla yhteydessä sähköpostilla (palaute@lahitaksi.fi) ja puhelimitse, mutta live-chatin puuttuessa yhteydensaanti on hitaampaa"
+   ],
+   "yhteenveto": "Lähitaksi Oy on perustettu 1965 ja toimii Uudellamaalla, Riihimäellä, Rovaniemellä ja Levillä. Sivusto kuvailee hinnat, tilaustavat ja peruutuskäytännöt selkeästi, ja sovelluksella tilatun matkan hinnan saa etukäteen. Sivustolla on aktiivinen laadunvalvontaorganisaatio ja asiakaspalautejärjestelmä, mutta Y-tunnusta ei julkaista julkisesti.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Peruutus-sivulla kerrotaan: tavallisissa tilauksissa kuljettajalla on oikeus periä lähtömaksu jos taksi on jo paikalla; ennakkotilauksissa peruutus on tehtävä viimeistään tuntia ennen lähtöaikaa. Hintojen sivulla kuvataan odotusajan veloitus: kiinteisiin hintoihin sisältyy 5 minuutin odotus, ylempi odotusaika laskutetaan taksahinnastoin."
+    }
+   ]
+  },
+  {
+   "slug": "meneva",
+   "nimi": "Menevä",
+   "domain": "meneva.fi",
+   "omistaja": "Halmisen perheen omistama kotimainen perheyhtiö (Helsingin Taksipalvelu -tausta), toimitusjohtajana Tuomo Halminen.",
+   "y_tunnus": "0711979-2",
+   "rekisteroity": 1988,
+   "score": 82.2,
+   "pillars": {
+    "digitaalinen": 62.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "24/100",
+       "paino": 40,
+       "pisteet": 24,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "65/100",
+       "paino": 15,
+       "pisteet": 65,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnat esitetään monella tavalla: 'Tilaa taksi' -sivulla näkyy kiinteät hinnat valitulla autotypyillä, 'Lentokenttätaksi' sivulla listataan tarkat hinnat (perusmaksu 9,95€, kilometriveloitus 1,62€/km, aikavelvoitus 1,05€/min, kiinteä hinta keskustaan 42€). Jokaisen toiminta-alueen sivulla viittaus omaan hinnaston näyttämiseen."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tilaa taksi' -sivulla kuvataan kolme tilaustapaa: (1) Lataa sovellus ja tilaa 5€ alennuksella, (2) Soita ilmaiseen numeroon 0800 02120, (3) Tilaa verkkolomakkeella. Sovellus- ja puhelinmenetelmät mainitaan myös etusivulla, yhteystiedot-sivulla ja muilla sivuilla."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tilaus- ja peruutusehdot' sivulla (kohta 5.1-5.2) kuvataan peruutuskäytännöt: ilmainen peruutus ennen noutoaikaa toiminta-alueella, ulkopuolella peruutuksen tulee tapahtua edellisenä päivänä, kuljettajan saavuttua maksua 75% matkan hinnasta. Kohdat 4.3 ja 4.4.1 esittelevät odotusaikakulut (5 min sisältyy kiinteään hintaan, sitten 1,05€/min). Lastenistuimen lisämaksu 10€ (mainittu sekä 'Tilaa taksi' -sivulla että 'Lentokenttätaksi' -sivulla). Invakyydistä ja muusta lisätaksipalvelusta veloitetaan hinnaston mukainen lisämaksu (mainittu 'Tilaa taksi' -sivulla)."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Palvelualueet' -sivulla (JS-renderöity) luetelaan yksityiskohtaisesti kaikki 15 maakuntaa ja niiden kaupungit, jotka vastaavat: Uusimaa (Helsinki, Järvenpää, Raasepori, Hanko, Porvoo, Vantaa, Espoo), Lappi (Rovaniemi, Kittilä, Levi), Varsinais-Suomi (Turku, Salo), Pirkanmaa (Tampere), Kainuu (Kajaani, Sotkamo, Suomussalmi, Kuhmo), Pohjois-Karjala (Liperi, Nurmes, Lieksa, Joensuu), Etelä-Karjala (Imatra, Lappeenranta), Etelä-Savo (Mikkeli), Keski-Suomi (Jyväskylä), Päijät-Häme (Lahti), Pohjois-Pohjanmaa (Oulu), Pohjois-Savo (Kuopio). Etusivulla ja 'Meistä' -sivulla mainitaan palvelu 'aina Hangosta Leville'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0711979-2 näkyy jokaisella verkkosivulla footerissa ja selvästi muodossa 'Palvelun tarjoaa Menevä Y:0711979-2'. Lisäksi se on listattu 'Yhteystiedot' -sivulla yrityksen virallisena tunnuksena sekä laskutusosassa verkkolaskuosoitteena 003707119792."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole näkyvissä asiakkaiden arvioita, Google-arvioita tai muita riippumattomia arviointeja palvelun laadusta. Sivustolla mainitaan vain sisäinen 'Rahat takaisin -takuu' ja yleisesti Vastuu Groupin 'Luotettava kumppani' -sertifiointi, mutta ei kolmannen osapuolen arviointeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ilmainen tilausnumero 0800 02120 näkyy prominentisti kaikilla pääsivuilla ja on merkitty maksuttomaksi. Asiakaspalveluun voi soittaa 24/7 saadakseen apua. Numero toistetaan 'Tilaa taksi' -sivulla, etusivulla, 'Yhteystiedot' -sivulla ja lähes jokaisella alasivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet listataan 'Yhteystiedot' -sivulla: info@meneva.fi (yleiset kysymykset), myynti@meneva.fi (tarjouspyynnöt), palaute@meneva.fi (palaute), kelapalaute@meneva.fi (Kela-kuljetus), loytotavarat@meneva.fi (löytötavarat). Käsittelysähköpostiosoite näkyy myös verkkolaskuosassa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alareunassa mainitaan 'Lillibotti' chatbot, joka tarjoaa asiakaspalvelua. Viesti lukee 'Hei, olen Menevän Lillibotti! Tahdotko kysyä jotain vai antaa meille palautetta?' sekä vaihtoehdot 'Chat' ja 'Asiakaspalvelu'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla toistuvasti mainitaan 24/7 asiakaspalvelu: 'Menevä palvelee asiakkaita valtakunnallisesti' ja 'Asiakaspalvelumme on tavoitettavissa 24/7'. Puhelin 0800 02120 on aina saatavilla. Taksiasemilla Menevän takseja saatavilla ilman varausta."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lentokenttätaksi' -sivulla on 'Usein kysytyt kysymykset' (FAQ) -osio, jossa vastaillaan useisiin lentokenttätaksia koskeviin kysymyksiin (hinta, sijainti, Meet & Greet, lastenistuimen saatavuus jne.). Lisäksi jokaisella sivulla on palautelomake ja viittaus 'Anna palautetta!' -lomakkeeseen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menevä-sovellus on selvästi kuvattu sivustolla: saatavissa iOS:lle (App Store) ja Android-laitteille (Google Play). Sovelluksen latauslinkit ovat näkyvissä etusivulla ja 'Meistä' -sivulla. 'Meistä' -sivulla kuvataan sovelluksen ominaisuuksia: kiinteä hinta etukäteen, ennakkovaraus ilman lisämaksua, eri maksumuodot, tilauksen seuranta ja 5€ alennus uusille käyttäjille (koodi ALE5)."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "84/100",
+       "paino": 34,
+       "pisteet": 84,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "76/100",
+       "paino": 33,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 24,
+    "accessibility": 93,
+    "seo": 100,
+    "best_practices": 65,
+    "lcp_ms": 6632.865000000002,
+    "cls": 0.5625759416767923,
+    "tbt_ms": 732.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä ja läpinäkyvä hinnoittelu: kiinteät hinnat, kilometrihinnat ja lisämaksut kuvattu yksityiskohtaisesti ilman piilomaksuja",
+    "Laaja valtakunnallinen palvelualue listattuina 15 maakunnassa aina Hangosta Leville, joissa jokaisella alueella omat hinnastot",
+    "Monipuoliset tilausmenetelmät: Menevä-sovellus, puhelin (0800 02120), verkkolomake ja taksiasema, asiakaspalvelu 24/7 saatavilla"
+   ],
+   "kehityskohteet": [
+    "Asiakkaiden arvioita tai testimoniaaleja ei näy sivustolla, mikä vähentää sosiaalisesta todistuksesta johtuvia luottamustekijöitä",
+    "Hintasimulaattori tai online-laskuri ei ole näkyvästi saatavilla pääsivulla; hinta paljastuu vasta tilauslomaketta täytettäessä",
+    "Jotkut tärkeät sivut (palvelualueet) vaativat JavaScript-renderöintiä staattisen HTML:n sijaan, mikä saattaa heikentää hakukoneoptimointia"
+   ],
+   "yhteenveto": "Menevä on Suomen suurin kotimainen taksialan perheyritys, joka palvelee valtakunnallisesti 24/7 selkeällä, läpinäkyvällä hinnoittelulla ja useilla tilauskanavoilla. Sivusto tarjoaa kattavan tiedon palveluista, hintaketjun peruutuksista ja lisämaksuista, mutta asiakkaiden arvioiden puuttuminen vähentää luottamuksen rakentamista uusille asiakkaille.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: 'Tilaus- ja peruutusehdot' sivulla (kohta 5.1-5.2) kuvataan peruutuskäytännöt: ilmainen peruutus ennen noutoaikaa toiminta-alueella, ulkopuolella peruutuksen tulee tapahtua edellisenä päivänä, kuljettajan saavuttua maksua 75% matkan hinnasta. Kohdat 4.3 ja 4.4.1 esittelevät odotusaikakulut (5 min sisältyy kiinteään hintaan, sitten 1,05€/min). Lastenistuimen lisämaksu 10€ (mainittu sekä 'Tilaa taksi' -sivulla että 'Lentokenttätaksi' -sivulla). Invakyydistä ja muusta lisätaksipalvelusta veloitetaan hinnaston mukainen lisämaksu (mainittu 'Tilaa taksi' -sivulla)."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Menevä",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Menevä' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "02-taksi",
+   "nimi": "02 Taksi",
+   "domain": "02taksi.fi",
+   "omistaja": "02 Taksi on kotimaisen Konnektio Oy:n valtakunnallinen brändi; Konnektio syntyi 020202 Palvelut Oy:n, 02 Taksi Oy:n ja Valopilkku Oy:n fuusiossa 12/2024 ja on suomalaisten taksitoimijoiden omistama.",
+   "y_tunnus": "3217978-9",
+   "rekisteroity": 2021,
+   "score": 78.5,
+   "pillars": {
+    "digitaalinen": 68.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 84.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelu-sivulla näytetään esimerkkihinnat 10 km/15 minuutin matkoille eri paikkakunnilla. Sovelluksella hinnat ilmoitetaan kiinteinä, kun lähtö- ja määränpääosoitteet syötetään. Esimerkiksi pääkaupunkiseudulla EcoRides 23,90€, FixuTaxi 33,75€, Lähitaksi 35,90€."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolme tilautapaa kuvattu tilaa-taksi-sivulla vaiheittain. Sovelluksella tilaaminen: kirjoita osoitteet, valitse taksi, seuraa kartalla. Puhelimitse 020230: kerro osoite, valitse hinnan tai saapumisajan mukaan, saa seurantalinkin. Tekstiviestillä: lähetä muoto 'KATUOSOITE TALONNUMERO PAIKKAKUNTA' numeroon 020230, vastaa vahvistus ja seurantaviesti."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla mainitaan, että yli 2 minuutin odotus ja väli­pysähdykset veloitetaan taksiyhtiön hinnastosta, mutta varsinaisesta peruutusmaksusta tai peruutusajasta ei tietoa. Puheluiden tallentamisesta mainitaan tietoturvallisuussyistä."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toiminta-alue-sivulla luetellaan kaikki Suomen maakunnat ja niiden kaupungit, joissa palvelu toimii. Teksti kertoo: '02 Taksi palvelee puhelimitse numerossa 020230 koko Suomessa. 02 Taksi -sovelluksella taksin voi tilata paikkakunnilla, joissa meillä on kumppaneita. Sovellus kattaa yli 95 % suomalaisista.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alaosassa lukee 'Konnektio Oy Y-tunnus 3217978-9' sekä teksti 'Copyright Konnektio Oy'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy '★ 4,7 / 5 · asiakasarviot' ja teksti '3 782 asiakasarviota sovelluskaupoissa'. Linkit viittaavat Google Playhin ja App Storeen, sekä useita asiakastestimonialeja näytetään: 'Taksin saa tilattua nopeasti ja helposti' ja 'Valtakunnallinen selkeä sovellus'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "88/100",
+       "paino": 34,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 9730.484999999999,
+    "cls": 0.0038037872699843976,
+    "tbt_ms": 1868.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hintat näkyvät ennen tilausta: sovelluksella syötetyn määränpään perusteella asiakkaat saavat kiinteät hinnat eri taksiyhtiöiltä ja voivat vertailla helposti",
+    "Laaja saatavuus: palvelu toimii koko Suomessa puhelimitse ja sovelluksella yli 95 prosentissa maasta, kumppaneita kaikissa maakunnissa",
+    "Selkeä tilausjärjestelmä: kolme tilantapaa kuvattu yksityiskohtaisesti (sovellus, puhelin 020230, tekstiviesti) vaiheittain"
+   ],
+   "kehityskohteet": [
+    "Peruutuskäytäntö puutteellinen: sivuilla ei kerrota, kuinka myöhään tilausta voi peruuttaa tai mitä kuluja peruutuksesta aiheutuu",
+    "Sähköpostista ei mainintaa: asiakkaiden tiedusteluille ja palautteille ei ilmoiteta sähköpostiosoitetta, vain puhelinpalvelu",
+    "Odottamispalkkio epäselvä: mainitaan, että yli 2 minuutin odotus veloitetaan, mutta ei kerrota hinnan tasosta"
+   ],
+   "yhteenveto": "02 Taksi on Konnektio Oy:n ylläpitämä valtakunnallinen taksien välitys- ja vertailupalvelu. Hintojen läpinäkyvyys on vahva puoli: sovelluksella tilattaessa asiakas näkee kiinteät hinnat ennen tilausta ja voi vertailla taksiyhtiöitä hinnan, saapumisajan tai arvioiden perusteella. Palvelu on saatavilla koko Suomessa puhelimitse ja sovelluksella, ja tietojen järjestäminen on selkeä.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivuilla mainitaan, että yli 2 minuutin odotus ja väli­pysähdykset veloitetaan taksiyhtiön hinnastosta, mutta varsinaisesta peruutusmaksusta tai peruutusajasta ei tietoa. Puheluiden tallentamisesta mainitaan tietoturvallisuussyistä."
+    }
+   ]
+  },
+  {
+   "slug": "fixutaxi",
+   "nimi": "FixuTaxi",
+   "domain": "fixutaxi.fi",
+   "omistaja": "FixuTaxi on Cabonline Finland Oy:n brändi, osa ruotsalaista Cabonline Groupia (samaan konserniin kuuluu myös Kovanen-brändi).",
+   "y_tunnus": "2788104-7",
+   "rekisteroity": 2016,
+   "score": 72.5,
+   "pillars": {
+    "digitaalinen": 72.7,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 70.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla kerrotaan, että FixuTaxilla kyydin hinta muodostuu ajetusta matkasta ja siihen kuluneesta ajasta. Ennakkotilauksiin tulee päälle ennakkotilausmaksu. Sovelluksella tai online-palvelulla (book.fixutaxi.fi) asiakas tietää aina matkan hinnan etukäteen."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa ja etusivulla mainitaan neljä tilauskanavaa: FixuTaxi-sovellus, online-palvelu (book.fixutaxi.fi), puhelinpalvelu numerosta 0100 6060 ja katupoiminta."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan ennakkotilausmaksu, mutta peruutuskäytännöistä tai odotusaikamaksuista ei ole yksityiskohtaista tietoa julkisesti saatavilla. Odotusaikaan liittyvä tieto saattaa olla sovelluksessa tai online-palvelussa."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan erillisiä sivuja tai osioita seuraavista alueista: pääkaupunkiseutu (Helsinki), Turku, Oulu, Ylivieska-Kalajoki, Vantaa-Kerava. Lentokenttä-kuljetus mainitaan myös erikseen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yritystunnusta ei löydy julkisesta sivustosta. Tietosuojaselosteessa mainitaan palvelua ylläpitävä yritys olevan Cabonline Finland Oy, mutta sen Y-tunnusta ei listata."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole mainintoja riippumattomista arvioinneista, sertifikaateista tai auditoinnista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaksi puhelinnumeroa on näkyvillä: asiakaspalvelu 0100 6060 (3,09 euroa/puhelu + 0,99 euroa/minuutti sis. alv) ja muiden kuljetusten puhelin 09 4246 3202 (ark. 8-16)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoite myynti@cabonline.com on näkyvillä ota-yhteyttä-sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei ole mainittu sivustolla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Muille kuljettuksille mainitaan aukioloaika ark. 8-16, mutta taksipalvelun yleisiä aukioloaikoja ei ole selkeästi ilmoitettu. Sovelluksen ja online-palvelun aukioloajat eivät ole näkyvillä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on FAQ-osio, joka sisältää neljä kysymystä: Miten taksi tilataan, Kuinka paljon taksi maksaa, Mistä taksin hinta koostuu, Kuinka turvallista taksilla on liikkua."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FixuTaxi-sovelluksia voi ladata iOS:lle (App Store) ja Androidille (Google Play). Sovelluksella voi tilata taksin ja nähdä kiinteän hinnan etukäteen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 85,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 8053.104162803651,
+    "cls": 0.05258136338700012,
+    "tbt_ms": 475.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelu on selkeä: kyydin hinta muodostuu ajetusta matkasta ja käytetystä ajasta, ja sovelluksen tai online-palvelun kautta saa kiinteän hinnan etukäteen.",
+    "Tilaustavat on kuvattu hyvin: sovellus, online-varaus (book.fixutaxi.fi), puhelinpalvelu (0100 6060) ja katupoiminta ovat käytettävissä.",
+    "Laaja palveluverkko: FixuTaxi toimii useilla Suomen alueilla, mukaan lukien pääkaupunkiseutu, Turku, Oulu, Ylivieska-Kalajoki ja Vantaa-Kerava."
+   ],
+   "kehityskohteet": [
+    "Peruutuskäytännön tiedot puuttuvat tai ovat vaikeasti löydettävissä julkisesta sivustosta.",
+    "Yritystunnus (Y-tunnus) ei ole näkyvillä, vaan sivustolla mainitaan vain emoyhtiön nimi Cabonline Finland Oy.",
+    "Riippumattomia arvioita tai sertifikaatteja palveluiden laadusta ei ole mainittu julkisesti."
+   ],
+   "yhteenveto": "FixuTaxi on Cabonline Finland Oy:n ylläpitämä taksipalvelu, joka tarjoaa helpot tilaustavat sovelluksen, online-palvelun, puhelimen ja katupoiminnan kautta. Hinnoittelu on avoin ja perustuu etäisyyteen ja aikaan, asiakkaat saavat kiinteän hinnan etukäteen sovelluksen tai online-palvelun kautta. Palvelu toimii useilla Suomen alueilla, mutta yritystunnusta tai riippumattomia arviointeja ei löydy sivustolta.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivustolla mainitaan ennakkotilausmaksu, mutta peruutuskäytännöistä tai odotusaikamaksuista ei ole yksityiskohtaista tietoa julkisesti saatavilla. Odotusaikaan liittyvä tieto saattaa olla sovelluksessa tai online-palvelussa."
+    }
+   ]
+  },
+  {
+   "slug": "uber",
+   "nimi": "Uber",
+   "domain": "uber.com",
+   "omistaja": "Yhdysvaltalaisen Uber Technologies Inc:n paikallisyhtiö Uber Finland Oy — ulkomainen kyytisovellusoperaattori, kaupunkeina mm. Helsinki, Tampere ja Turku.",
+   "y_tunnus": "2636362-7",
+   "rekisteroity": 2014,
+   "score": 71.5,
+   "pillars": {
+    "digitaalinen": 67.4,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 72.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu näyttää \"Katso hinnat\" -painikkeen, ja kaupunkisivuilla käyttäjä voi syöttää nouto- ja määränpää-osoitteet hintatyökaluun, joka näyttää arvioidut hinnat eri kyytivaihtoehdoille. Maininta \"arvioidut hinnat kaikille matkustusvaihtoehdoille\" on selkeä."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: \"Näin Uber toimii\" -sivu kuvailee yksityiskohtaisesti prosessin: matkustaja syöttää määränpään \"Minne?\" -kenttään, valitsee kyytivaihtoehdon ja vahvistaa noudon. Sekä sovellus että verkko mainitaan tilauskanavoina."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivut käsittelevät maksujen perustasoa (käteinen, kortti, Uber Cash), mutta peruutus-, odotus- ja lisämaksut eivät ole julkisesti dokumentoitu näillä sivuilla. Help Center saattaa sisältää nämä tiedot, mutta niitä ei voitu vahvistaa staattisesta sisällöstä."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu listaa kaupungit (Helsinki, Tampere, Turku, Oulu, Lahti, Jyväskylä, Rovaniemi, Kuopio, Vaasa, Kotka) ja lentokentät. Helsinki-sivu kuvaa palvelun saatavuuden selkeästi: \"Uber-sovelluksen avulla voit pyytää kyydin liikkumista varten Helsinki milloin tahansa, 24/7\"."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivujen tekijänoikeusrivillä mainitaan vain \"Uber Technologies Inc.\" ilman Suomen Y-tunnusta tai paikallisia rekisteritietoja. Yritystiedot-sivu on poistunut (HTTP 404), joten paikallisten yritysrekisteritietojen löytäminen on vaikeaa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhtiön omilla sivuilla ei ole linkkejä kolmannen osapuolen arviointeihin tai riippumattomiin palvelun arviointisivustoihin. Sivustolla vain Uberin omat arvioinnit ja asiakaspalautteet mainitaan."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy julkisesti näillä sivuilla. Help Center on saatavilla osoitteessa help.uber.com, mutta se mainitaan vain linkin kautta, ei suoraa numeroa. 24/7-tuki mainitaan, mutta kanava (puhelinnumero, chat, email) määrittelemätön."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy näillä sivuilla. Ainoastaan Help Center -linkki ja tuki-portaali mainitaan."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei nimenomaisesti mainittu näillä sivuilla, vaikka Help Center saattaa tarjota sitä. Turvallisuussivu mainitsee \"hätäapupainikkeen\" sovelluksessa, mutta chat-tukea ei ole selkeästi dokumentoitu."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Helsinki-sivu mainitsee suoraan \"Uber-sovelluksen avulla voit pyytää kyydin liikkumista varten Helsinki milloin tahansa, 24/7\". Palvelu on saatavilla 24 tuntia vuorokaudessa."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Helsinki-kaupunkisivu sisältää \"Usein kysytyt kysymykset\" -osan, jossa vastataan kysymyksiin saatavuudesta, edullisuudesta, liikkumisesta ilman autoa ja turvallisuudesta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta mainitaan useissa kohdissa. Sivulla on selkeät \"Lataa Uber-sovellus\" -kehotukset ja QR-koodit ladattavaksi App Storesta tai Google Playsta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 82,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 14413.070500000002,
+    "cls": 0.0074408778157986554,
+    "tbt_ms": 3807
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hintatyökalu on helposti saatavilla etusivulla ja kaupunkisivuilla, jonka avulla matkustajat voivat vertailla arvioidut hinnat",
+    "Sovellus on yksityiskohtaisesti dokumentoitu monella sivulla, ja ladattavuus on selkeästi näkyvissä",
+    "Turvallisuusominaisuudet ja 24/7 saatavuus ovat esillä omilla sivuillaan ja toiminta-alueet listataan selkeästi"
+   ],
+   "kehityskohteet": [
+    "Peruutus-, odotus- ja lisämaksut eivät ole selkeästi näkyvissä julkisilla sivuilla – yksityiskohdat löytyvät todennäköisesti vain sovelluksen sisältä",
+    "Y-tunnus ja yrityksen rekisteritiedot puuttuvat pääsivuilta, mikä vaikuttaa läpinäkyvyyteen",
+    "Suorat yhteystiedot (puhelinnumero, sähköposti) eivät ole näkyvissä, ohjaus tapahtuu vain Help Centerin kautta"
+   ],
+   "yhteenveto": "Uber on kansainvälinen kyytipalveluyhtiö, joka tarjoaa palveluja Suomessa sovelluksen ja verkkosivuston kautta. Sivusto on selkeä ja helppokäyttöinen, hintaarviointi löytyy helposti, ja palvelun saatavuus kaupungeissa on dokumentoitu hyvin. Puutteita on erityisesti hinnoittelun yksityiskohdissa ja yritystietojen näkyvyydessä.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivut käsittelevät maksujen perustasoa (käteinen, kortti, Uber Cash), mutta peruutus-, odotus- ja lisämaksut eivät ole julkisesti dokumentoitu näillä sivuilla. Help Center saattaa sisältää nämä tiedot, mutta niitä ei voitu vahvistaa staattisesta sisällöstä."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Uber",
+    "paivakatselut_ka": 14,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Uber' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "kajon",
+   "nimi": "Kajon",
+   "domain": "kajon.fi",
+   "omistaja": "Espoolainen perhetaustainen taksiyhtiö (perustaja Jorma Palomäki); huom. sisaryhtiö Kajon Group ajautui konkurssiin 2020, mutta Kajon Oy (rek. 2001) on PRH:ssa aktiivinen ja jatkaa toimintaa pääkaupunkiseudulla.",
+   "y_tunnus": "1701534-8",
+   "rekisteroity": 2001,
+   "score": 71.2,
+   "pillars": {
+    "digitaalinen": 80.8,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "60/100",
+       "paino": 40,
+       "pisteet": 60,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy selkeä hinnasto: lähtömaksu 7,90€, aikaveloitus 1,04€/min, kilometriveloitus 1,10€/km (1-4 hlö) tai 1,65€/km (5-8 hlö), minimihinnat 15€, ennakkotilauslisä 7€-12€."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolme tilaus­tapaa kuvattu: (1) puhelin 0100-7070, (2) Kajon-sovellus Play Storesta ja App Storesta, (3) nettilomake kajon.versoft.fi. Lisäksi tilausnumero 1,93€/min + pvm mainittu."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla sanotaan 'Lisäpalvelut veloitetaan hinnaston mukaisesti' mutta yksityiskohtia ei kerrota. Ennakkotilauslisä (7€-12€) näkyy, mutta peruutus- ja odotuspalvelun maksuja ei dokumentoida."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla selkeä lista: Helsinki, Espoo, Vantaa ja Kirkkonummi. Maininta myös yhteistyökumppa­neista muille paikkakunnille."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita Y-tunnusta mistään. Yrityksen perustiedot rajoittuvat kuvaukseen 'suomalainen yksityinen taksi- ja tilausajopalveluyritys'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole linkkejä kolmannen osapuolen arviointeihin, asiakaspalautteiden näyttämiseen tai sertifikaatteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 60,
+    "accessibility": 97,
+    "seo": 85,
+    "best_practices": 100,
+    "lcp_ms": 9198.994,
+    "cls": 0.02628106781800564,
+    "tbt_ms": 50
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi esillä: lähtömaksu 7,90€, aikaveloitus 1,04€/min ja kilometriveloitus ilman epäselvyyksiä",
+    "Kolme helposti saatavilla olevaa tilaus­kanavaa: puhelin, sovellus ja tilauslomake sekä perinteinen tilausnumero",
+    "Laajat aukioloajat ja selkeä toiminta-alue: 24 h/7 päivää viikossa pääkaupunkiseudussa"
+   ],
+   "kehityskohteet": [
+    "Y-tunnusta ei julkaista, mikä heikentää yrityksen läpinäkyvyyttä ja yritysten ostajien luottamusta",
+    "Peruutus- ja odotuspalvelun maksut eivät ole kuvattu, vain yleinen maininta lisäpalveluista",
+    "Sähköpostiosoite tai chat-tuki puuttuvat: yhteydenotto mahdollista vain puhelimitse tai lomakkeen kautta"
+   ],
+   "yhteenveto": "Kajon on suomalainen taksipalvelun tarjoaja pääkaupunkiseudussa. Sivustolla hinnat ja tilaustavat on esitetty selkeästi, mutta yritystä koskevat perustiedot (Y-tunnus) ja jotkin palvelun ehdot (peruutuskäytäntö) puuttuvat täysin. Sovellus on mainittu mutta ei linkitetty.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Sivustolla sanotaan 'Lisäpalvelut veloitetaan hinnaston mukaisesti' mutta yksityiskohtia ei kerrota. Ennakkotilauslisä (7€-12€) näkyy, mutta peruutus- ja odotuspalvelun maksuja ei dokumentoida."
+    }
+   ]
+  },
+  {
+   "slug": "taksi-helsinki",
+   "nimi": "Taksi Helsinki",
+   "domain": "taksihelsinki.fi",
+   "omistaja": "Noin 800 helsinkiläisen taksiyrittäjän ja Helsingin Taksiautoilijat ry:n omistama kotimainen yhtiö.",
+   "y_tunnus": "0838031-9",
+   "rekisteroity": 1991,
+   "score": 59.7,
+   "pillars": {
+    "digitaalinen": 73.7,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 54.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yksityiskohtaisia kiinteitä hintoja ei ole listattu etusivulla. Puhelinpalvelu näyttää hinnat: '0100 0700 (2,96 € + 1,54 €/min + pvm/mpm)'. Hintalaskuri on saatavilla, mutta vaatii lähtö- ja kohdeosoitteen syöttämistä. Palveluiden hinnasto kuvataan yleisesti: 'Taksimatjan kokonaishinta muodostuu lähtömaksusta sekä kilometri- ja minuuttiveloituksesta'."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sovellusta korostetaan monissa kohdissa ('Tilaa Taksi Helsinki -sovelluksella', 'Lataa sovellus'). Puhelinpalvelu on selvästi näkyvissä numerolla 0100 0700. Taksiasemilta ottaminen mainitaan epäsuorasti ekotaksia ja muita palveluita kuvattaessa."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolta ei löydy tietoja peruutuskäytännöistä, odottamiseen liittyvistä maksuista tai muista lisämaksuista. Nämä ehdot eivät ole julkisesti dokumentoituja."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla todetaan 'Tarjoamme taksipalveluita koko pääkaupunkiseudun alueella'. Lisäksi luetellaan SOTE- ja Kela-kyytien alueet: Etelä-Karjala, Kanta-Häme, Keski-Suomi, Pohjois-Savo (SOTE) sekä Uusimaa, Varsinais-Suomi, Pirkanmaa, Satakunta, Lappi (Kela-taksi)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 0838031-9 on näkyvissä ottaa yhteyttä -sivulla laskutustietojen yhteydessä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole riippumattomia arvioita, tähtiarvosteluja tai asiakkaiden antamia kommentteja. Palvelua ei ole linkitetty ulkoisiin arvostelualustoihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinpalvelu on selvästi näkyvissä sivuston eri kohdissa: '0100 0700' hintatiedoilla (2,96 € + 1,54 €/min + pvm/mpm)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei ole listattu yhteystietosivulla tai muissa julkisissa sijainnissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukipalvelua ei mainita missään sivustolla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja puhelinpalvelulle tai muille palveluille ei ole dokumentoitu."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivu löytyy navigaatiosta, mutta sivusto ohittaa latautumisen (timeout). Sisältöä ei voitu varmentaa."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sovellusta mainitaan useaan otteeseen. 'Lataa sovellus' -linkki on näkyvissä navigaatiossa ja etusivulla sanotaan 'Tilaa Taksi Helsinki -sovelluksella'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "42/100",
+       "paino": 33,
+       "pisteet": 42,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "52/100",
+       "paino": 33,
+       "pisteet": 52,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 9526.51824,
+    "cls": 0.6698679057560862,
+    "tbt_ms": 189.12535000000025
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä puhelinpalvelu ja toimiva hintalaskuri helpottavat hintojen selvittämistä",
+    "Laaja toiminta-alue kuvattu selvästi (pääkaupunkiseutu ja lukuiset julkisen sektorin palveluiden alueet)",
+    "Sovellusta korostetaan moniin otteisiin helppona ja suositeltavana tilaustavana"
+   ],
+   "kehityskohteet": [
+    "Peruutus-, odottamis- ja lisämaksukäytäntöjä ei ole dokumentoitu julkisesti",
+    "Useita navigaation kautta löytyviä sivujalinkkejä johtaa 404-virheeseen, heikentäen käyttäjäkokemusta",
+    "Sähköpostiosoite puuttuu ja chatin kautta tapahtuvaa yhteydenpitoa ei tarjota"
+   ],
+   "yhteenveto": "Taksi Helsingin verkkosivusto tarjoaa perustiedot taksipalvelun tilaamisesta puhelinumerolla (0100 0700) ja interaktiivisen hintalaskurin kautta, kuitenkin ilman selkeitä hintoja etusivulla. Palvelu on saatavilla pääkaupunkiseudun alueella ja laajemmalla Kela- ja Sote-verkon kattavuudella. Sivusto vaatii parantamista dokumentoinnissa peruutus- ja lisämaksukäytännöistä, sekä käyttäjien ja asiakkaiden tukikanavien osalta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Taksi Helsinki",
+    "paivakatselut_ka": 2,
+    "luokka": "Suppea",
+    "lahde": "fi.wikipedia-artikkelin 'Taksi Helsinki' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "bolt",
+   "nimi": "Bolt",
+   "domain": "bolt.eu",
+   "omistaja": "Virolaisen Bolt Technology OÜ:n suomalainen tytäryhtiö Bolt Services FI Oy — ulkomainen kyytisovellusoperaattori useissa Suomen kaupungeissa.",
+   "y_tunnus": "3279109-7",
+   "rekisteroity": 2022,
+   "score": 57.4,
+   "pillars": {
+    "digitaalinen": 70.7,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 54.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Hinnat tai hintaesimerkit julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla todetaan, että hinnat ilmoitetaan etukäteen kun määränpää syötetään sovellukseen, mutta varsinaisesti hinnoittelua tai hintakaavaa (perusmaksu, km-hinta, odotuskustannus) ei näy. Driver/earn-sivulla mainitaan, että kuljettajat ansaitsevat noin 75% kyydin hinnasta, mutta matkustajan näkökulmasta hinta on tuntematon ennen sovellukseen kirjautumista."
+      },
+      {
+       "mittari": "Tilaustavat (sovellus, puhelin, katu) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaus tapahtuu mobiilisovelluksen kautta (iOS ja Android), vaihtoehtoisesti verkon kautta ('Tilaa verkossa' -painike mainittu). Mahdollista myös varata kyyti ennakkoon jopa 90 päivää etukäteen. Sovellus ja online-tilaus mainitaan useissa paikoissa yhtä selkeästi."
+      },
+      {
+       "mittari": "Peruutus-, odotus- ja lisämaksukäytännöt kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei mainita lainkaan peruutuspoliitiikkaa, odotuskuluja tai lisämaksuja. Bolt Food -sivulla mainitaan toimituskulut ja pienen tilauksen maksu ruokatoimituksille, mutta kyytipalveluun liittyen vastaavanlaisia poikkeuksia tai lisämaksuja ei ole dokumentoitu."
+      },
+      {
+       "mittari": "Toiminta-alue kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaupungit-sivulla (bolt.eu/fi-fi/cities/) luetellaan yksityiskohtaisesti kaikki Suomen kaupungit, joissa palvelu on saatavilla: Helsinki, Espoo, Tampere, Turku, Oulu, Jyväskylä, Lahti, Vaasa, Kuopio, Lappeenranta, Rovaniemi, Pori, Hämeenlinna, Kerava, Vantaa, Järvenpää, Nurmijärvi, Sipoo, Tuusula, Kirkkonummi ja muut pienempiä kaupunkeja."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivujen alatunnisteessa näkyy © 2026 Bolt Technology OÜ, mikä osoittaa, että yritys on Viron rekisteröity (OÜ on Viron osakeyhtiö). Suomalaista Y-tunnusta ei ole nähtävissä eikä sitä ole ilmeisesti rekisteröity Suomessa kuten paikallisia taksipalveluja."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei mainita riippumattomia arviointeja, sertifikaatteja, audiointeja tai kolmannen osapuolen vahvistuksia palvelun laadusta tai turvallisuudesta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivulla mainitaan '24/7-tuki' ja 'Ota yhteyttä Bolt-sovelluksen tai puhelimen kautta', mutta varsinaista puhelinnumeroa ei ole julkisesti nähtävissä verkkosivuilla. Tuki näyttää olevan saatavilla ainoastaan sovelluksen kautta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Verkkosivuilla ei ole nähtävissä sähköpostiosoitetta tai kontaktilomaketta. Tuessa mainitaan yhteydenotto sovelluksen tai puhelimen kautta, mutta sähköpostiadressi puuttuu."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-tukea ei mainita missään dokumentissa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rides-sivulla todetaan 'Löydä kyyti Suomessa milloin tahansa' ja 'Viemme sinut perille niin päivällä kuin yöllä'. Driver-sivulla sanotaan 'Aja ja ansaitse rahaa', minkä yhteydessä mainitaan eri aikavälit (arkipäivä, ilta, viikonloppu). Palvelu on selkeästi 24/7 saatavilla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rides-sivulla on 'Usein kysytyt kysymykset' -osio, jossa on useita Q&A-pareja aiheista kuten tilaaminen, maksu, auton varaaminen, etäisyys lentokentälle. Vastaavasti driver/earn-sivulla ja food-sivulla on myös FAQ-osuudet."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sovellus on palvelun pääasiallinen käyttötapa ja sitä mainitaan useissa paikoissa ('Lataa Bolt-sovellus', 'Saatavana iOS- ja Android-laitteille'). Sovellusta kuvataan välttämättömäksi palvelun käyttämiseen, vaikkei online-tilaus ole kokonaan poissuljettu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "28/100",
+       "paino": 33,
+       "pisteet": 28,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "63/100",
+       "paino": 33,
+       "pisteet": 63,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 85,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 4490.1269999999995,
+    "cls": 0.0005744983504380936,
+    "tbt_ms": 1466.999999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "24/7 palvelu selkeästi ilmoitettu - kuljetusten saatavuus päivällä ja yöllä.",
+    "Toiminta-alue hyvin dokumentoitu: kattava lista 20+ suomalaisesta kaupungista samalla sivulla.",
+    "Turvallisuusominaisuudet yksityiskohtaisesti kuvattu: hätänappi, naisten-ainoastaan-kyytityyppi, sijainnin jakaminen, noutokoodit."
+   ],
+   "kehityskohteet": [
+    "Hintatiedot täysin poissa verkkosivulta - vain sovelluksessa näkyvä hinta-arvio, ei hintakaavaa tai esimerkiksi lähetettävissä.",
+    "Peruutus-, odotus- ja lisämaksukäytännöt kokonaan dokumentoimatta: verkkosivuilla ei mainintaa näiden maksujen periaatteista.",
+    "Suora yhteydenotto-tieto puuttuu: tukinumero tai sähköpostiosoite ei ole näkyvissä, vain maininta sovelluksessa tai puhelimella otetusta yhteydestä."
+   ],
+   "yhteenveto": "Bolt on kaikissa suomalaisissa suurkaupungeissa toimiva kyytipalvelu, jota hallinnoidaan mobiilisovelluksella. Verkkosivut kuvaavat selkeästi palvelun alueellista saatavuutta ja laajoja turvallisuusominaisuuksia, mutta hinnoittelun läpinäkyvyys jää heikoksi: varsinaisia kyydin hintoja ei näy verkkosivuilla vaan ainoastaan sovelluksessa. Lisäksi peruutus- ja lisämaksukäytäntöjä ei ole julkisesti dokumentoitu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Bolt (yritys)",
+    "paivakatselut_ka": 16,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Bolt (yritys)' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  }
+ ],
+ "updated": "28.7.2026",
+ "opas": {
+  "johdanto": "Taksiala vapautui saantelysta 2018, ja sen jalkeen hinnat ja palvelun taso ovat vaihdelleet rajusti. Suomessa toimii seka perinteisia tilausvalityskeskuksia (Taksi Helsinki, Lahitaksi, Menevä) etta kansainvalisia sovelluspalveluita (Uber, Bolt). Vertailussa mitataan matkustajan nakokulmasta: kerrotaanko hinnat tai hintaesimerkit julkisesti, kuvataanko tilaustavat, mainitaanko peruutus- ja odotusmaksut ja onko toiminta-alue selva.",
+  "huomioita": [
+   "Sama matka voi maksaa eri yhtioilla kaksinkertaisen eron. Laki velvoittaa kertomaan hinnan ennen matkaa, mutta verkkosivujen hintatiedon avoimuus vaihtelee silti paljon.",
+   "Kiintea hinta ennen kyytia on kuluttajan kannalta selkein malli: sovelluksissa summa nakyy ennen tilausta, taksimittarilla lopullinen hinta selviaa vasta perilla.",
+   "Odotusmaksu, ennakkotilausmaksu ja peruutusmaksu ovat yleisia lisakuluja, joita ei aina kerrota etukateen. Nama ovat vertailun oma kriteerinsa.",
+   "Toiminta-alueet eroavat: osa palvelee koko maata, osa vain paakaupunkiseutua tai muutamaa kaupunkia. Sovelluspalvelut toimivat yleensa vain suurimmissa kaupungeissa.",
+   "Omistus on kansainvalistynyt: FixuTaxi kuuluu ruotsalaiseen Cabonlineen, Uber on yhdysvaltalainen ja Bolt virolainen. Omistaja kerrotaan jokaisen palvelun sivulla."
+  ],
+  "vinkit": [
+   "Kysy tai katso hinta ennen kyytia. Kiintea hinta suojaa ruuhkalta ja kiertoreitilta, taksamittari voi tulla halvemmaksi lyhyella suoralla matkalla.",
+   "Vertaa kahta sovellusta ruuhka-aikaan: hinnoittelu vaihtelee kysynnan mukaan eri yhtioilla eri tavalla.",
+   "Tarkista ennakkotilauksen lisamaksu ja peruutusehto, jos varaat kyydin lentokentalle etukateen."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi taksien hinnat vaihtelevat niin paljon?",
+    "a": "Taksiuudistuksen jalkeen jokainen yhtio hinnoittelee itse. Perusmaksu, kilometritaksa ja aikataksa voivat erota moninkertaisesti, ja osa yhtioista nostaa hintaa ruuhka-aikaan. Laki vaatii kertomaan hinnan tai hinta-arvion ennen matkaa, mutta se ei rajoita hinnan tasoa."
+   },
+   {
+    "q": "Onko sovellustaksi halvempi kuin perinteinen taksi?",
+    "a": "Ei automaattisesti. Sovelluspalvelut ovat usein edullisempia normaaliaikaan mutta voivat olla kalliimpia ruuhkahinnoittelun aikana. Perinteisilla tilausvalityskeskuksilla on tyypillisesti vakaampi hinnoittelu ja laajempi maantieteellinen kattavuus."
+   },
+   {
+    "q": "Voinko maksaa taksin Kela-korvauksella tai kunnan kuljetuspalvelulla?",
+    "a": "Kela-korvattu taksimatka tilataan aina Kelan valityskeskuksesta, ei suoraan taksiyhtiolta. Kunnan vammais- tai sosiaalihuoltolain mukaiset kuljetukset menevat kunnan sopimusyhtioiden kautta. Osa listan yhtioista hoitaa naita sopimuskyyteja."
+   },
+   {
+    "q": "Mita teen, jos hinta oli sovittua korkeampi?",
+    "a": "Pyyda aina kuitti. Jos hinta poikkeaa sovitusta tai ilmoitetusta, reklamoi ensin yhtiolle ja tarvittaessa kuluttajaneuvontaan. Siksi mittaamme, kerrotaanko hinnat ja lisamaksut julkisesti: ilman julkista hintatietoa reklamaatio on vaikea."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Hinnat tai hintaesimerkit julkisesti esillä (25), tilaustavat (sovellus, puhelin, katu) kuvattu (20), peruutus-, odotus- ja lisämaksukäytännöt kerrottu (20), toiminta-alue kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

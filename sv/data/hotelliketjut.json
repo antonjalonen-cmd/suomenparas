@@ -1,0 +1,1399 @@
+{
+ "slug": "hotelliketjut",
+ "nimi": "Hotelliketjut",
+ "nav": "Hotelliketjut",
+ "h1": "Suomen paras hotelliketju 2026",
+ "yksikko": "Suomessa toimivaa hotelliketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa hotelliketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö huonehinnan ja peruutusehdot ennen varausta ja kirjautumista?",
+ "meta_title": "Suomen paras hotelliketju 2026 | pisteytettynä | Suomen Paras",
+ "meta_desc": "6 Suomessa toimivaa hotelliketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Radisson ja Best Western puuttuvat</b>, koska niiden sivustot estävät automaattisen mittauksen kokonaan (HTTP 403) — emme arvaa pisteitä, joten mittauskelvottomat jäävät pois. Finlandia Hotels jäi pois itsenäisten hotellien markkinointiketjuna.",
+  "<b>Peruutusehdot ovat hotellivarauksen tärkein pieni teksti.</b> Joustava ja ei-palautettava hinta voivat erota kymmeniä euroja — mittaamme, kerrotaanko ehdot selkeästi ennen varausta, ja avoimuus tuo myös sitoutumisindeksibonuksen."
+ ],
+ "yritykset": [
+  {
+   "slug": "omena-hotels",
+   "nimi": "Omena Hotels",
+   "domain": "omenahotels.com",
+   "omistaja": "Omena Hotellit Oy on vaasalaisen Rabbe Grönblomin (Kotipizzan perustaja) perheen omistama itsepalveluhotelliketju, toimitusjohtajana Erno Launo.",
+   "y_tunnus": "1579157-0",
+   "rekisteroity": 2000,
+   "score": 78.8,
+   "pillars": {
+    "digitaalinen": 76.5,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 77.5,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy \"Huoneet alk. vain 64€/ yö\" ja kalenterissa voi valita päivämäärät nähdäkseen tarkan hinnan. Varausehdoissa sanotaan, että hinnat vaihtelevat hotelleittain ja kysynnän mukaan ja kaikki voimassa olevat hinnat näkyvät omenahotels.com-sivuilla."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varausehdoista ilmenee selvästi, että asiakas voi peruuttaa varauksensa kuluitta viimeistään 24 tuntia ennen varauksen alkamista. Myöhemmin tehdyt peruutukset eivät palauta maksua. Nämä ehdot ilmoitetaan varausvaiheen tuotekuvauksessa."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aamiainen on saatavilla, mutta hinnoittelu ei ole yhtenäinen: Hangon hotellissa Stranden Bar & Kitcheniasta 10€/hlö, Helsingin Lönnrotinkadun hotelleissa Bär Barin kautta 6,90€/aamiainen. Hinnat löytyvät yksittäisten hotellien sivuilta, eivät varauslomakkeessa."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on listattu 10 hotellia: Hanko (Bulevardi 8, 10900 Hanko), Helsinki Lönnrotinkatu (Lönnrotinkatu 13, 00120 Helsinki), Helsinki Yrjönkatu, Joensuu, Jyväskylä, Pori, Tampere, Turku (2 paikkaa), Vaasa. Jokaisella on oma sivu osoitteet ja kuvaukset."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varausehtojen alussa ilmoitetaan Omena Hotellit Oy, Y-tunnus: 1579157-0, osoite Lönnrotinkatu 13, 00120 Helsinki."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy 895 asiakasarviota (Omenan oma asiakastyytyväisyyskysely, June 2026), mutta ulkoisia arviointipalveluja tai kolmannen osapuolen arviointeja (Google, Tripadvisor, Trustpilot) ei ole näkyvillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumero 0600 555 222 näkyy useilla sivuilla, myös alareunan \"Asiakaspalvelumme on 24/7 valmiina auttamaan\" -tekstissä."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varausehtojen alussa ilmoitetaan sähköpostiosoite info(at)omenahotels.com (@ kirjoitettu tekstinä)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chatin mainintaa ei ole tutkituilla sivuilla. Asiakaspalvelu on saatavilla puhelimitse ja varauspalvelussa \"Minun varaukseni\" -sivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillisiä aukioloaikoja vastaanotolle ei ilmoiteta (kontaktiton check-in), mutta asiakaspalvelu on saatavilla 24/7 puhelimitse. Aamiaispaikkojen aukioloajat ovat näkyvillä: Hangon Strandella ma-la 8-11, su 9-12; Helsingin Bär Barissa ma-pe 7.30-18, la 8.30-16, su 8.30-14."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Täysi FAQ-osio on saatavilla osoitteessa omenahotels.com/fi/kysyttya/, jossa käsitellään kysymyksiä huoneiden, varaamisen, muutosten, käytännön ohjeiden ja tulo-lähtöselvityksen osalta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla lukee \"Lataa Omenan uusi mobiilisovellus\" ja \"Sovelluksella teet varauksesi edullisemmin kuin missään muualla ja hallitset kaikkia varauksiasi helposti yhdessä paikassa.\""
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 4431.562500000002,
+    "cls": 0,
+    "tbt_ms": 883
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hotelliverkosto Suomen pääkaupungeissa ja pienemillä paikkakunnilla",
+    "Varausehdot ja peruutusoikeudet ilmoitettu selvästi etukäteen",
+    "24/7 asiakaspalvelu puhelimitse ja mobiilisovellus yksinkertaisille varauksille"
+   ],
+   "kehityskohteet": [
+    "Kolmannen osapuolen asiakasarvioita (Google, Trustpilot) ei ole näkyvillä verkkosivulla",
+    "Lisäpalvelut kuten aamiaisen hinnat eivät ole selvästi esillä varausvaiheessa vaan vain yksittäisten hotellien sivuilla",
+    "Kontaktiton sisäänpääsy vaatii etukäteisen ohjistuksen, jota ei ole selvästi nähtävissä etusivulla"
+   ],
+   "yhteenveto": "Omena Hotels on edullinen hotelliketju, jonka sivuilla huonehinnat ja varausehdot ovat läpinäkyvästi esillä. Verkkosivulla on listattu yhdessätoista hotellia Suomen pääkaupungeissa ja pienemillä paikkakunnilla, ja varaus tehdään yksinkertaisesti kalenterivalinnan kautta. Sivusto puuttuu kolmannen osapuolen arvioista ja aamiaisen sekä lisäpalvelujen hinnoittelu vaatii yksittäisten hotellien sivuille menemisen.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutusehdot kerrottu ennen varausta",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Varausehdoista ilmenee selvästi, että asiakas voi peruuttaa varauksensa kuluitta viimeistään 24 tuntia ennen varauksen alkamista. Myöhemmin tehdyt peruutukset eivät palauta maksua. Nämä ehdot ilmoitetaan varausvaiheen tuotekuvauksessa."
+    }
+   ]
+  },
+  {
+   "slug": "holiday-club",
+   "nimi": "Holiday Club",
+   "domain": "holidayclubresorts.com",
+   "omistaja": "Holiday Club Resorts Oy on kylpylähotelli- ja viikko-osakeyhtiö, jonka enemmistön (noin 92 %) omistaa intialainen Mahindra Holidays & Resorts India Ltd (Mahindra-konserni).",
+   "y_tunnus": "2033337-1",
+   "rekisteroity": 2006,
+   "score": 74.9,
+   "pillars": {
+    "digitaalinen": 68.0,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja Katinkullan sivuilla näkyvät hintaesimerkit kuten tutustumisloma alkaen 168 € per koko perhe ja kesän vesiseikkailu alkaen 189 €. Hotellihuoneiden hinnat sisältävät aamiaisen, mutta loma-asuntojen aamiaisbuffet ostetaan erikseen."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hyvä tietää -osiossa selkeät peruutusoikeudet. Hotellihuoneille: peruutusoikeudellinen varaus peruttavissa kuluitta viimeistään tulopäivänä klo 18 mennessä. Loma-asunnoille: varaus voidaan perua kuluitta viimeistään 14 päivää ennen varauksen alkamista."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aamiainen sisältyy hotellihuoneiden hintaan, mutta loma-asunnoissa ostetaan erikseen. Lisäpalveluiden hinnat: pysäköinti 1,60 €/h, 9 €/vrk, 41 €/vko; myöhäinen uloskirjautuminen 10 €/tunti; lasten lisähuone 65 €/vrk; matkasänky 20 €/oleskelu. Kylpylän käyttöliput ostetaan varauksen yhteydessä. Hintasoveltumat ovat hajallaan eri sivuilla."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Seitsemän hotellia Suomessa (Katinkulta, Kuusamon Tropiikki, Saariselkä, Saimaan Rauha, Tampereen Kehräämö, Turun Caribia, Vierumäki) ja yksi Ruotsissa (Åre). Katinkullan osoite: Katinkullantie 15, 88610 Vuokatti. Kunkin kohteen kohdalla on erittäin yksityiskohtaiset tiedot palveluista, saunoista, ravintoloista ja aktiviteeteista."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löydy millään käytetyllä sivulla. Footer sisältää Copyright-merkinnän (© 2026 Holiday Club Resorts) mutta ei yritysrekisteritietoja."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Google-arviot näkyvät kaikilla kohteiden sivuilla. Katinkultalla 4,2 tähteä 4596 arvostelujen perusteella. Arviot sisältävät asiakkaiden kokemuksia viime kuukausinä kesäkuusta 2026 taaksepäin lokakuuhun 2024."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Useita puhelinnumeroita Hyvä tietää -osiossa. Uudet varaukset ja muutokset 0300 870 900 ma-pe 9-16.30. Katinkullan vastaanotto 0300 870 979 avoinna 24h. Kokous- ja ryhmämyynti 0300 870 923 ma-pe 9-15."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sähköpostiosoite asiakaspalvelu@holidayclub.fi näkyy Hyvä tietää -osiossa loma-asuntojen peruutusohjeissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastaanotto avoinna 24 tuntia. Hotellin check-in klo 15 alkaen, check-out klo 12 mennessä. Loma-asunnoilla erilaiset check-in-ajat (klo 16 tai 18 riippuen tyypistä). Kylpylän ja ravintoloiden aukioloajat on merkitty omille sivuilleen."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytty -osio sisältää useita kategorioita: palvelut ja saapuminen, majoitus ja varaukset, lasten kanssa reissussa, kylpylä ja muut. Vastaukset ovat yksityiskohtaisia ja kattavat tyypillisiä asiakkaan kysymyksiä."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Holiday Clubin digipalveluja mainitaan (lomanvaihto, vuokravälitys, jälleenmyynti, isännöinti), mutta erillisen mobiilisovelluksen olemassaoloa ei ole mainittu. Varaukset tehdään verkkosivujen kautta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 7723.132499999998,
+    "cls": 0.07290400972053462,
+    "tbt_ms": 1340.9999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laajat perustiedot kaikkien kohteiden sijainneista, aukioloajoista ja yhteystiedoista helposti saatavilla",
+    "Peruutusehdot ja varausehdot selkeästi dokumentoitu hotellihuoneille ja loma-asunnoille",
+    "Monipuolinen usein kysyttyjen kysymysten osio kattaa majoitukseen, varausmaksuihin ja palveluihin liittyvät kysymykset"
+   ],
+   "kehityskohteet": [
+    "Hinta-arvioon on sisällytettävä useita erillisiä maksuja (pysäköinti, kylpylän pääsyliput, aamiainen loma-asunnoissa), mikä vaatii laskelmointia",
+    "Y-tunnus ja yritystiedot eivät ole julkisesti saatavilla verkkosivuilla",
+    "Mobiilisovellusta ei mainittu; digitaaliset palvelut (lomanvaihto, vuokravälitys) löytyvät verkkosivuilta, mutta sovelluksen olemassaolosta ei ole tietoa"
+   ],
+   "yhteenveto": "Holiday Club Resorts on suuri ketju, joka operoi kahdeksaa hotellia ja lukuisia loma-asuntokohteita Suomessa ja Ruotsissa. Verkkosivut sisältävät kattavasti tiedot saatavilla olevista kohteiden sijainneista, yhteystiedoista ja peruutusehdoista, mutta hintatiedot vaativat yksityiskohtaisen tutkimisen, sillä lopullinen hinta koostuu useiden erillisten osatekijöiden summasta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutusehdot kerrottu ennen varausta",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Hyvä tietää -osiossa selkeät peruutusoikeudet. Hotellihuoneille: peruutusoikeudellinen varaus peruttavissa kuluitta viimeistään tulopäivänä klo 18 mennessä. Loma-asunnoille: varaus voidaan perua kuluitta viimeistään 14 päivää ennen varauksen alkamista."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Holiday Club",
+    "paivakatselut_ka": 12,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Holiday Club' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "lapland-hotels",
+   "nimi": "Lapland Hotels",
+   "domain": "laplandhotels.com",
+   "omistaja": "Suomen suurin yksityinen hotelliketju, joka kuuluu Pertti Yliniemen perheen North European Invest -konserniin (emoyhtiö Lapland Hotels Group Oy; operatiiviset yhtiöt mm. Lapland Hotels Lappi Oy 2199747-9 ja Lapland Hotels City Oy 3432129-1).",
+   "y_tunnus": "3439760-8",
+   "rekisteroity": 2024,
+   "score": 70.3,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 100.0,
+    "ai_laatu": 68.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla näkyy varauskenttä 'Minne haluaisit matkustaa?' -lomakkeella, mutta konkreettisia eurohintoja ei näy ennen päivämäärien valintaa ja haun suorittamista."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenoton sivulla, hotellin omilla sivuilla tai kirjautumattomana käytettävissä olevilla sivuilla ei löydy informaatiota peruutusehdoista. Ainoastaan lahjakortin ostoehtoihin liittyvä sivu linkitettiin, mutta se ei avaudu."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lapland Hotels Bulevardin sivulla todetaan 'Pohjoisen makujen aamiainen kuuluu aina majoituksen hintaan'. Ravintola- ja muiden palveluiden hinnoittelusta ei mainintaa."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston etusivulla ja 'Hotellit ja kohteet' -sivulla listataan 20 hotellia ryhmiteltyinä kaupunkihotelleiksi (Helsinki, Tampere, Kuopio, Oulu, Rovaniemi) ja Lapin kohteiksi (Rovaniemi, Ylläs, Levi, Luosto, Saariselkä, Kilpisjärvi, Pallas, Hetta, Olos) sekä Kartano & Kylpylähotelli Haikko Porvoossa. Jokaisella hotellilla on erillinen sivusto ja yhteystiedot."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla ilmoitetaan 'Y-tunnus: 2199747-9' sekä osoite 'Lapland Hotels Lappi Oy, Yrjö Kokontie 4, 99300 Muonio'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla annetaan puhelinnumerot: +358 16 3232 (yleinen), +358 16 3200 200 (myynti). Yksittäisten hotelleilla omat numeronsa, esim. Bulevardi +358 9 25251111."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla sähköpostiosoitteina myynti@laplandhotels.com ja yksittäisillä hotelleilla omat, esim. bulevardi@laplandhotels.com."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Evästeasetuksissa mainitaan LiveChat-palvelu, joka on \"tarpeellinen verkkosivuston chat-box-toiminnalle\", mikä viittaa aktiiviseen chat-tukeen."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Lapland Hotels Bulevardin sivulla ilmoitetaan 'Hotellin vastaanotto 24/7', sisäänkirjautuminen klo 15 alkaen ja uloskirjautuminen klo 12 mennessä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa näkyy 'Hyvä tietää' -osio, joka sisältää tietoa lemmikeista, parkkeerauksesta, saunoista, kuntosalista ja muista palveluista. Sivut kuten 'Lemmikin kanssa matkalla' tarjoavat käytännöllisiä ohjeita."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Edut mobiilijäsenkortilla' ja 'Vaihtuvat edut mobiilijäsenkortilla', mikä viittaa mobiilisovellukseen tai mobiilikorttipalveluun."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 90,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 9526.808920000003,
+    "cls": 0.001771111232502964,
+    "tbt_ms": 1335.4999999999973
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hotelliverkko Suomessa 20 hotellin verran, selkeästi jäsentelty sijainnin ja tyypeittäin",
+    "Avoin kommunikaatio: puhelinnumerot, sähköpostiosoitteet ja chat-palvelu saatavilla useilta sivuilta",
+    "Aamiaisen hinnoittelu selkeä: pohjoisen makujen aamiainen kuuluu aina majoituksen hintaan"
+   ],
+   "kehityskohteet": [
+    "Varausehtojen puuttuminen: peruutusehdoista ei löydy tietoa verkkosivuilta ennen varausten tekemistä",
+    "Hintojen näkeminen vaatii lomakkeen täyttöä: huonehinnat eivät näy suoraan, vaan edellyttävät päivämäärien valitsemista",
+    "Riippumattomat arviot puuttuvat: sivustolla ei ole linkkiä asiakasarvosteluihin tai kolmansien osapuolten arviointisivustoihin"
+   ],
+   "yhteenveto": "Lapland Hotels on 20 hotellin ketju, joka jakautuu kaupunkihotelleihin, Lapin tunturihotelleihin ja yksittäisiin kohteisiin eri puolilla Suomea. Sivusto tarjoaa hyvän yleiskuvan hotelleista, sijainneista ja peruspalveluista, mutta varausehdoista ja tarkkaan hinnoittelusta ei saa informaatiota ilman varaussysteemiin syöttämistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "tunnettuus": {
+    "artikkeli": "Lapland Hotels",
+    "paivakatselut_ka": 24,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Lapland Hotels' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "sokos-hotels",
+   "nimi": "Sokos Hotels",
+   "domain": "sokoshotels.fi",
+   "omistaja": "Sokos Hotels on SOK:n ketjubrändi, jonka hotelleja operoivat SOK:n tytäryhtiö Sokotel Oy (Y 0212329-0) ja alueelliset osuuskaupat.",
+   "y_tunnus": "0212329-0",
+   "rekisteroity": 1978,
+   "score": 66.0,
+   "pillars": {
+    "digitaalinen": 71.9,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 63.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy \"Hae varaus\" -hakukaavake, mutta se vaatii päivämäärän ja kaupungin syöttämisen hintojen näkemiseksi. Julkisilla sivuilla ei ole nähtävissä esimerkkihintoja tai hintahaarukoia."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /varausehdot-sivulla kuvataan tarkasti: \"Peruutus on tehtävä viimeistään tulopäivänä klo 18.00 mennessä mikäli muuta ei ole sovittu varaukseen merkityn hinnan tai varausajankohtaan ei liity muita ehtoja.\" Ilmainen peruutus sallitaan poikkeuksellisissa tilanteissa."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan \"Millaisista aamiaisista sinä tykkäät?\" ja viittaukset Raflaamo-ravintoloihin, mutta aamiaisen tai muiden lisäpalvelujen hinnoittelua ei näytetä. Hinnat saadaan varausjärjestelmästä."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /hotellit-sivulla luetelaan lähes 50 hotellia, joista jokaisella on selkeä osoite, esim. Solo Sokos Hotel Torni, Yrjönkatu 26, 00100 Helsinki. Yhteystiedot: myyntipalvelu puh. 0300 870 000, vaihde 010 76 8011."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ole nähtävissä missään kerätyistä sivuista. Sivuston operoi SOK (Suomen Osuuskauppojen Keskuskunnan), mutta sen Y-tunnus ei ole julkaistu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan Sustainable Brand Index -kyselyn tulos (\"suomalaiskuluttajat kokevat Sokos Hotels -ketjun alansa vastuullisimmaksi\"), mutta omaa arviointipalvelua tai riippumattomia arviointeja ei ole nähtävissä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumerot ovat selkeästi nähtävissä: myyntipalvelu 0300 870 000, vaihde 010 76 8011, laskutuksesta 09 4153 4611, S-Card-palvelu 010 76 82777."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet löytyvät: ravintolamyynti@sok.fi ja kokoussarjat@sok.fi. Palautteenanto-lomake saatavilla sivustolla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-palvelua ei ole mainittu kerätyillä sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun aukioloajat: ma-pe klo 8.30-16.30 (myyntipalvelu), ma-pe 9-16 (S-Card-asiakaspalvelu)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /ukk-sivu palauttaa HTTP 404 -virheen, joten UKK-osiota ei ole sivustolla."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla sanotaan: \"Lataa itsellesi uusi, kätevä Sokos Hotels -sovellus. Sen avulla varaat huoneen, teet check-inin jo matkalla hotelliin ja näet, koska huoneesi on valmis.\""
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 7025.244,
+    "cls": 0.11830200484665014,
+    "tbt_ms": 1930.9999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hotellien luettelo lähes 50 hotellilla, joissa jokaisen osoite ja sijainti selkeästi ilmoitettu",
+    "Peruutusehdot julkaistu näkyvästi omalla sivulla, joissa ilmoitettu peruutusaika (klo 18.00 tulopäivänä) ja poikkeukset",
+    "Useat yhteystiedot helposti saatavilla: myyntipalvelu 0300 870 000, vaihde 010 76 8011, s-posti ravintolamyynti@sok.fi"
+   ],
+   "kehityskohteet": [
+    "Huonehinnat eivät näkyville ilman varaussovellukseen siirtymistä; verkkosivuilla ei esimerkkihintoja",
+    "Aamiaisen ja lisäpalvelujen hinnoittelua ei selkeästi näytetä, vaan tieto saadaan vasta varauksen tekemisen yhteydessä",
+    "Y-tunnus ei julkaistu sivustolla, eikä riippumattomia arvioita tai arviointijärjestelmää ole nähtävissä"
+   ],
+   "yhteenveto": "Sokos Hotels on Suomen suurin hotelliketju, jolla on lähes 50 hotellia eri puolilla Suomea ja yksi Tallinnassa. Sivusto on selkeästi organisoitu ja sisältää peruutusehdot sekä useat yhteystiedot, mutta huonehinnat eivät ole nähtävissä ilman varaussovellukseen siirtymistä, mikä heikentää vertailun läpinäkyvyyttä.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutusehdot kerrottu ennen varausta",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: /varausehdot-sivulla kuvataan tarkasti: \"Peruutus on tehtävä viimeistään tulopäivänä klo 18.00 mennessä mikäli muuta ei ole sovittu varaukseen merkityn hinnan tai varausajankohtaan ei liity muita ehtoja.\" Ilmainen peruutus sallitaan poikkeuksellisissa tilanteissa."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Sokos Hotels",
+    "paivakatselut_ka": 14,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Sokos Hotels' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  },
+  {
+   "slug": "greenstar-hotels",
+   "nimi": "GreenStar Hotels",
+   "domain": "greenstar.fi",
+   "omistaja": "Greenstar Hotels Oy:n omistavat perustaja-toimitusjohtaja Kristian Ikonen, pääomasijoittaja Nordia Rahasto Oy sekä Bolt.Worksin johtajakolmikko Hakkarainen, Herva ja Hämäläinen.",
+   "y_tunnus": "2190146-5",
+   "rekisteroity": 2008,
+   "score": 62.8,
+   "pillars": {
+    "digitaalinen": 69.2,
+    "lapinakyvyys": 47.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 64.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "53/100",
+       "paino": 40,
+       "pisteet": 53,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aamiaisen hinnat julkaistu kaikilla hotellisivuilla (etukäteen tilattu 12 euroa, paikan päältä tilattu 14 euroa, lapset 4-12 vuotta 8 euroa, alle 4-vuotiaat ilmaiseksi). Pysäköinnin hinta nähtävissä (13 euroa per vuorokausi). Huonehinnat edellyttävät 'Varaa huone' -painikkeen kautta siirtymistä varausjärjestelmään, joka vaatii haun tekemisen."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutusehdot eivät näy missään kerätyn sisällön sivuista. Varaussehdot ja peruutusehdot nähtävät vasta varausjärjestelmässä, johon pääsee painamalla 'Varaa huone'."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aamiaisen hinnat kuvattu kaikilla hotellisivuilla (12-14 euroa). Pysäköinnin hinta ilmoitettu (13 euroa per vuorokausi). Lapsille varattavat lisävuoteet mainittu olevan saatavilla, mutta niiden hintatiedot saatavilla vain yhteydenotolla tai varausjärjestelmässä."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikki viisi hotellia listataan selkeillä osoitteilla: Joensuu (Torikatu 16, 80100), Lahti (Vesijärvenkatu 1, 15100), Vaasa (Myllykatu 17, 65100), Oulu (Uusikatu 26, 90100), Jyväskylä (Heikinkatu 3, 40100). Kunkin hotellin sivulla ilmoitettu puhelinnumero, sähköpostiosoite ja vastaanoton aukioloajat."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei ilmoiteta missään kerätyissä sivuista. Yrityksen oikeushenkilön tietoja ei julkaistu saatavilla olevissa sivuissa (lainvoimainen Y-tunnus tai rekisteröintitiedot puuttuvat)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen hotellin puhelinnumero julkaistu hotellin omalla sivulla: Joensuu +358 10 423 9390, Lahti +358 10 423 9392, Vaasa +358 10 423 9393, Oulu +358 10 423 9394, Jyväskylä +358 10 423 9391."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet kaikkien hotellien yhteystiedoissa: joensuu@greenstar.fi, lahti@greenstar.fi, vaasa@greenstar.fi, oulu@greenstar.fi, jyvaskyla@greenstar.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastaanoton aukioloajat kuvattu kunkin hotellin sivulla, erottelulla kesän (22.6.-31.8.2026) ja normaalien aukioloaikojen välillä. Sisäänkirjautumisautomaattien ansiosta maininta myöhästä saapumisesta mahdolliseksi."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Monilla hotellisivuilla 'Usein kysytyt kysymykset' -osio, joka käsittelee maksutapoja, pysäköintiä, huonevarustelua ja palveluita. Osio puuttuu kokonaan joiltakin sivuilta (esim. Oulu)."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 53,
+    "accessibility": 81,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 4152.74378,
+    "cls": 0.03559674508521027,
+    "tbt_ms": 1632.4300600000024
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Selkeä hotelliluettelo viidella kaupungilla sijainteineen, osoitteineen ja yhteystiedoineen",
+    "Kattava palvelujen ja mukavuuksien kuvaus (pesula, WiFi, sähköautojen lataus, ilmaiset pyörät, luomukahvi)",
+    "Transparentti ympäristömerkkien dokumentointi (Joutsenmerkki, Sustainable Travel Finland, aurinkovoimala)"
+   ],
+   "kehityskohteet": [
+    "Peruutusehdot puuttuvat kokonaan varausohjeista - ei mainintaa varausten peruuttamisen aikarajoista tai kuluista",
+    "Yritystiedot julkisesti saatavilla olevia puutteellisia - Y-tunnusta ei julkaista eikä oikeushenkilön tietoja löydy",
+    "Huonehinnat näkyvät vasta varausjärjestelmässä - etukäteisvaihe ei näytä täyttä hintakyselyä ilman kirjautumista"
+   ],
+   "yhteenveto": "GreenStar Hotels on viiden kaupungin hotelliketju, joka tarjoaa selkeät tiedot sijainneista, yhteystiedoista ja peruspalveluista. Ympäristövastuullisuus on keskeinen viesti sivuston sisällössä (Joutsenmerkki, vihreä energia, kestävä kehitys). Sivusto jättää kuitenkin tärkeitä varausten ehtoja (peruutusehdot, täydellinen hinnoittelu) varausjärjestelmän taakse eikä julkaise yritystietoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "scandic",
+   "nimi": "Scandic Hotels",
+   "domain": "scandichotels.com",
+   "omistaja": "Suomen Scandic-hotelleja operoi Scandic Hotels Oy, jonka omistaa Tukholman pörssissä listattu ruotsalainen Scandic Hotels Group AB.",
+   "y_tunnus": "1447914-7",
+   "rekisteroity": 1998,
+   "score": 61.0,
+   "pillars": {
+    "digitaalinen": 68.6,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 56.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Huonehinnat nähtävissä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Varaussivulla ilmoitetaan 'Huonevaraukset teet kätevimmin nettisivuillamme' ja 'Nettisivuillamme saat aina parhaat edut ja parhaan mahdollisen hinnan', mutta staattisen HTML-hakuun hinnat eivät näy; vaaditaan JavaScript-renderointia."
+      },
+      {
+       "mittari": "Peruutusehdot kerrottu ennen varausta",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun sivulla kerrotaan peruutusmenettelystä ('Netissä tehtyjä varauksia voit perua netissä'), mutta varaus- ja peruutusehdot-sivut palauttavat HTTP 200 mutta sisälsivät vain header/footer tai olivat CDN-estetyt (403). Ehdot eivät ole täysin julkisesti saavutettavissa ilman dynaamista renderointia."
+      },
+      {
+       "mittari": "Aamiaisen ja lisäpalvelujen hinnat kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ mainitsee aamiaisen muutokset ('muuttaa varauksesi aamiaisosuutta'), ja pääsivulla kerrotaan aamiaispäivityksistä, mutta varsinaisia hintoja ei näytetä varaushaun ulkopuolella. Lisäpalveluiden hinnat vaativat varausvaiheeseen pääsyä."
+      },
+      {
+       "mittari": "Hotellit, sijainnit ja yhteystiedot kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kohteet-sivulla on kattava luettelo hotelleista 56:ssa suomalaisessa kaupungissa (Helsinki 18, Tampere 6, Turku 4, Jyväskylä 3 jne.). Kunkin kaupungin kohdalta näytetään hotellin lukumäärä, mutta yksittäisten hotellien osoitteita, puhelinnumeroita tai sähköpostiosoitteita ei ole listattu keskitetysti; ne saattavat olla saatavilla yksittäisten hotellien sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei mainita missään pääsivuilla, asiakaspalvelulla, tietosuojaselosteissa tai meistä-sivulla. Yhtiön rekisterinumeroa ei ole julkisesti näkyvillä web-sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Joutsenmerkittyjä' (Swan certification) hotelleista, mikä on ympäristösertifikaatti. Muita riippumattomia auditointeja, arvioita tai kolmansien osapuolten sertifikaatteja ei mainita."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 5521.856399999998,
+    "cls": 0.08816053840952971,
+    "tbt_ms": 3318.9999999999964
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja hotellien luettelo (56 suomalaisessa kaupungissa) ja kansainväliset kohteet selkeästi järjestetyt",
+    "Asiakaspalvelu helposti saavutettavissa usealla yhteystiedolla (puhelimella, sähköpostilla) ja selkeät aukioloajat",
+    "Mobiilisovellus ja kanta-asiakasohjelma (Scandic Friends) tarjoavat lisäarvoa vierailijoille"
+   ],
+   "kehityskohteet": [
+    "Huonehintojen näkyvyys vaatii varauspohjaiseen hakuun siirtymisen; staattisilla sivuilla hintoja ei näytetä ilman JS-renderointia",
+    "Varaus- ja peruutusehdot ovat saavutettavissa vain JS:n kautta, jotka estyivät CDN-suojalla (HTTP 403)",
+    "Lisäpalvelujen (aamiainen, huoneiden korotukset) hinnoittelu mainitaan, mutta ei näy etukäteen varausta tekemättä"
+   ],
+   "yhteenveto": "Scandic Hotels on Pohjoismainen hotelliketju, jolla on laajat hotelli-valinnat Suomessa ja muualla. Sivusto tarjoaa hyvät asiakaspalvelukontaktit ja selkeän hotelliluettelon, mutta hintojen, peruutusehtojen ja lisäpalvelujen hinnoittelun näkyvyys jää puutteelliseksi varsinaisen varauksen tekemisen myötä. Varaus-ehdot ovat tekniikan takia osittain pääsemättömät.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutusehdot kerrottu ennen varausta",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Asiakaspalvelun sivulla kerrotaan peruutusmenettelystä ('Netissä tehtyjä varauksia voit perua netissä'), mutta varaus- ja peruutusehdot-sivut palauttavat HTTP 200 mutta sisälsivät vain header/footer tai olivat CDN-estetyt (403). Ehdot eivät ole täysin julkisesti saavutettavissa ilman dynaamista renderointia."
+    }
+   ],
+   "tunnettuus": {
+    "artikkeli": "Scandic Hotels",
+    "paivakatselut_ka": 14,
+    "luokka": "Kohtalainen",
+    "lahde": "fi.wikipedia-artikkelin 'Scandic Hotels' keskimaaraiset paivittaiset katselut 60 pv (Wikimedia-rajapinta), mitattu 29.07.2026",
+    "mitattu": "29.07.2026"
+   }
+  }
+ ],
+ "updated": "28.7.2026",
+ "opas": {
+  "johdanto": "Suomessa toimii seka pohjoismaisia hotelliketjuja (Scandic, Sokos Hotels) etta kotimaisia erikoistujia: Lapland Hotels pohjoisessa, Omena Hotels ilman vastaanottoa, GreenStar edullisena ja Holiday Club kylpylakohteissa. Vertailussa mitataan varaajan nakokulmasta: nakeeko huonehinnan ilman kirjautumista, kerrotaanko peruutusehdot ennen varausta, onko aamiaisen ja lisapalvelujen hinta selvilla ja loytyvatko hotellit yhteystietoineen.",
+  "huomioita": [
+   "Peruutusehto on hotellivarauksen tarkein pieni teksti: joustava ja ei-palautettava hinta voivat erota kymmenia euroja samasta huoneesta. Avoimuus tuo pisteita ja myos sitoutumisindeksibonuksen.",
+   "Aamiainen sisaltyy hintaan vaihtelevasti. Osa ketjuista hinnoittelee sen erikseen hotellikohtaisesti, jolloin loppusumma selviaa vasta varausputkessa.",
+   "Kanta-asiakashinta nakyy usein vain kirjautuneelle. Mittaamme sen mita kirjautumaton kavija nakee, koska se on vertailun lahtotilanne.",
+   "Radisson ja Best Western eivat ole vertailussa, koska niiden sivustot palauttavat automaattiselle mittaukselle 403-eston. Emme arvaa pisteita sivustosta jota ei voi mitata.",
+   "Sokos Hotelsin hotellit omistavat alueosuuskaupat ja Sokotel Oy, joten palvelu voi vaihdella hotelleittain saman brandin sisalla."
+  ],
+  "vinkit": [
+   "Vertaa hintaa aina peruutusehto huomioiden: muutaman euron halvempi ei-palautettava hinta on kallis, jos matka peruuntuu.",
+   "Tarkista sisaltyyko aamiainen ja mita pysakointi maksaa. Ne voivat nostaa kahden hengen yon hintaa 20-40 euroa.",
+   "Katso hotellikohtaiset tiedot ketjun omalta sivulta ennen varausta: sama brandi voi tarkoittaa eri tasoista hotellia eri kaupungissa."
+  ],
+  "ukk": [
+   {
+    "q": "Kannattaako varata ketjun omalta sivulta vai varausalustalta?",
+    "a": "Ketjun oma sivu on yleensa ainoa paikka, jossa nakyvat kaikki ehdot, kanta-asiakasedut ja hotellikohtaiset lisapalvelut. Moni ketju lupaa myos parhaan hinnan omalta sivultaan. Vertailumme mittaa nimenomaan ketjun oman sivuston lapinakyvyytta."
+   },
+   {
+    "q": "Mita eroa on joustavalla ja ei-palautettavalla hinnalla?",
+    "a": "Joustavan hinnan voi tyypillisesti perua ilman kuluja tiettyyn kellonaikaan asti saapumispaivana tai sita edeltavana paivana. Ei-palautettava maksetaan heti eika sita saa takaisin, vaikka matka peruuntuisi. Ero on usein 10-20 prosenttia hinnasta."
+   },
+   {
+    "q": "Miksi osa ketjuista ei nayta hintoja ilman hakua?",
+    "a": "Hotellihinnat ovat dynaamisia ja muuttuvat paivittain kysynnan mukaan, joten kiintea hinnasto ei ole mahdollinen. Hyva sivusto nayttaa silti hintatason heti haun jalkeen ilman kirjautumista tai yhteystietojen antamista."
+   },
+   {
+    "q": "Arvioitteko hotellien laatua tai siisteytta?",
+    "a": "Emme. Mittaamme vain verkkosivuston lapinakyvyytta varaajan silmin. Huoneiden laadusta kertovat parhaiten riippumattomat arviot, joiden esilla pito on yksi mittareistamme."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Huonehinnat nähtävissä ilman kirjautumista (25), peruutusehdot kerrottu ennen varausta (20), aamiaisen ja lisäpalvelujen hinnat kerrottu (20), hotellit, sijainnit ja yhteystiedot kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

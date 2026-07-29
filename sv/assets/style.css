@@ -78,6 +78,14 @@ nav.main a.on{color:var(--gold-line)}
 .board-head .cat{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.05rem}
 .board-head .live{display:flex;align-items:center;gap:7px;font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
 .live-dot{width:9px;height:9px;border-radius:50%;background:var(--ok);animation:pulse 2s infinite}
+.nposts{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;margin-top:20px}
+.npost{background:var(--card);border:2.5px solid var(--ink);border-radius:var(--r);box-shadow:var(--shadow);padding:16px 18px}
+.np-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px}
+.np-k{font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.14em;font-weight:600;color:var(--blue-deep);background:var(--blue-soft);border-radius:99px;padding:3px 10px}
+.np-d{font-family:'IBM Plex Mono',monospace;font-size:.7rem;color:var(--mut)}
+.npost h3{font-size:1.06rem;line-height:1.25;color:var(--ink);margin-bottom:6px}
+.npost p{font-size:.92rem;color:var(--body);margin:0}
+.np-link{display:inline-block;margin-top:10px;font-weight:800;font-size:.86rem;color:var(--blue-deep)}
 .langsw{border:1.5px solid rgba(255,255,255,.45);border-radius:999px;padding:4px 12px;font-size:.8rem;font-weight:800;color:#fff;letter-spacing:.04em}
 .langsw:hover{background:rgba(255,255,255,.14);text-decoration:none}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
