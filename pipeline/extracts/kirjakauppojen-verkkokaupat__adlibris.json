@@ -1,0 +1,51 @@
+{
+  "slug": "adlibris",
+  "fetched_ok": [
+    "https://www.adlibris.com/fi",
+    "https://www.adlibris.com/fi/kundservice",
+    "https://www.adlibris.com/sv",
+    "https://www.adlibris.com/sv/kundservice"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 60
+  },
+  "vahvuudet": [
+    "Tuotteiden hinnat näkyvät selvästi kaikissa tuotelistingoissa, hinnat päivittyvät reaaliajassa",
+    "Laaja tuotevalikoima (yli 13 miljoonaa kirjaa) ja asiakaspalvelu saatavilla chatin ja sähköpostin kautta",
+    "Käyttäjäarviot näkyvillä tuotesivuilla numeerisina arvosanoina ja kommentteina"
+  ],
+  "kehityskohteet": [
+    "Toimitusehtojen yksityiskohtaiset tiedot (kulut eri toimitustavoille) eivät ole saatavilla saavutettavilla verkkosivuilla",
+    "Palautus- ja takuuehtojen yksityiskohtaiset sivut palauttavat 404-virheitä, vaikka FAQ-osiot mainitaan",
+    "Puhelinnumeroa ei ole julkisesti esillä, asiakaspalvelun tavoittaminen vaatii chatin tai sähköpostin käyttöä"
+  ],
+  "yhteenveto": "Adlibris on Pohjoismaiden suurin verkkokirjakauppa, joka tarjoaa laajan tuotevalikoiman yli 13 miljoonaa kirjaa ja muita kauppatavaraa. Tuotteiden hinnat ovat selvästi näkyvillä kaikissa tuotelistingoissa ja asiakaspalvelu on saatavilla chatin sekä sähköpostin kautta. Tietoja toimitustavoista ja palautusehdoista mainitaan sivulla, mutta yksityiskohtaiset tiedot ovat osittain saavuttamatta verkon 404-virheiden vuoksi.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat ovat näkyvillä etusivulla ja tuotelistingoissa selvinä numerolisina euroissa (esim. 8,90 €, 29,90 €). Hintanäyttöä ei vaadita kirjautumista.",
+    "toimitus_kerrottu": "HAVAINTO: Etusivulla näkyy maininta \"Ilmainen toimitus yli 29 € tilauksuin*\" selvästi esillä. Kuljetustapajen yksityiskohtaiset tiedot sijaitsevat FAQ-osiossa \"Kuljetustavat & Toimitus\" ja \"Leveransinformation\", mutta näiden sivujen suora linkki palauttaa HTTP 404.",
+    "palautusehdot_saatavilla": "HAVAINTO: Asiakaspalvelusivulla mainitaan FAQ-osio \"Palautus & Reklamaatio\" / \"Retur & Reklamation\" ja linkki \"Palautuksen tekeminen Adlibrikselle\" / \"Genomföra en retur till Adlibris\". Nämä sivut palauttavat kuitenkin 404-virheen suoraa haulla.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Ruotsinkielisellä versiolla näkyy linkki \"Hitta butik\" (Etsi kauppaa), mutta sivu palauttaa 404-virheen. Adlibrisillä on fyysisiä kauppoja Pohjoismaissa, mutta kauppojen sijainnit ja aukioloajat eivät ole saavutettavissa web-versiosta.",
+    "y_tunnus_esilla": "HAVAINTO: Vain yrityksen nimi \"Adlibris AB\" ja \"Copyright © 1999-2026\" näkyy sivuston alaosassa. Y-tunnusta tai muuta Suomen liiketoimintarekisterin tunnusta ei löydy saavutettavista sivuista.",
+    "riippumaton_arvio": "HAVAINTO: Tuotesivuilla näkyvät käyttäjäarviot numeerisina arvosanoina (esim. \"Arvosana: 4.7\") ja arvostelijoiden kommenttien määrinä (esim. \"4.7 (26)\"). Arviot perustuvat todellisten ostajien palautteeseen.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei löydy saavutettavista sivuista. Asiakaspalveluun voi ottaa yhteyttä vain sähköpostilla (asiakaspalvelu@adlibris.com) tai chatissa.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite \"asiakaspalvelu@adlibris.com\" näkyy usealla sivulla, erityisesti asiakaspalvelusivulla ja 404-virheissä kontaktitietona.",
+    "chat_mainittu": "HAVAINTO: Asiakaspalvelusivulla kerrotaan \"Autamme mielellämme, ota meihin yhteyttä chatin kautta\" ja ruotsinkielisellä versiolla \"kontakta oss via vår chatt\". Chat-palvelu mainitaan sekä suomen- että ruotsinkielisillä sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Fyysisten kauppojen aukioloaikoja ei löydy saavutettavista verkkosivuista. Asiakaspalvelu on saatavilla chatin ja sähköpostin kautta, mutta niiden aukioloajoja ei ole mainittu.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelusivulla on selvästi merkitty usein kysytyt kysymykset -osio (FAQ), jossa on linkkejä useisiin alaosioon: \"Tilaaminen & Maksaminen\", \"Palautus & Reklamaatio\", \"Kuljetustavat & Toimitus\", \"Äänikirjat & E-kirjat\", \"Lukulaite\", \"Yhteystiedot & henkilötiedot\".",
+    "mobiilisovellus": "HAVAINTO: Sivulla mainitaan \"Adlibris-sovellus ladattaville digitaalisille kirjoille\" suomeksi ja \"App för nedladdningsbara böcker\" ruotsiksi. Sovellus on saatavilla digitaalisten kirjojen ja äänikirjojen lukemista varten."
+  }
+}

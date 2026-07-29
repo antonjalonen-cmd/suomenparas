@@ -1,0 +1,47 @@
+{
+  "slug": "suomalainen-kirjakauppa",
+  "fetched_ok": [
+    "https://www.suomalainen.com/",
+    "https://www.suomalainen.com/pages/myymalat/",
+    "https://www.suomalainen.com/pages/yhteystiedot",
+    "https://www.suomalainen.com/pages/yrityksemme",
+    "https://www.suomalainen.com/policies/refund-policy",
+    "https://www.suomalainen.com/policies/shipping-policy"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 85,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Laaja myymäläverkko yli 50 myymälässä, joiden aukioloajat ja osoitteet ovat selvästi esillä",
+    "Selkeät ja yksityiskohtaiset toimitus- ja palautusehdon ilmoitetaan ennen kassaa sekä kattavat palautusohjeet",
+    "Luotettava yritystieto saatavilla, Y-tunnus ja johtoryhmän tiedot julkisesti näkyvissä"
+  ],
+  "kehityskohteet": [
+    "Riippumatonta arviointipalvelua tai asiakastyytyväisyyden arvioita ei ole julkisesti nähtävissä",
+    "Chat-palvelun puuttuminen voi heikentää asiakaspalvelun saavutettavuutta",
+    "Mobiilisovelluksen puuttuminen vaikeuttaa mobiilisti ostoksella käymisiä asiakkaita"
+  ],
+  "yhteenveto": "Suomalainen Kirjakauppa on vuonna 1912 perustettu laaja kirjakauppaketju, joka tarjoaa asiakkaille läpinäkyviä ja yksityiskohtaisia tietoja hinnoista, toimitustavoista, palautuksista ja myymälöistään. Yritystiedot ovat selvästi näkyvissä verkkosivuilla, ja asiakaspalvelun yhteystiedot (puhelin ja sähköposti) löytyvät helposti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät selkeästi tuotesivuilla ja hakutulosten yhteydessä. Hinnat sisältävät arvonlisäveron, eivätkä muutu tilauksen jälkeen.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivu luettelee kaikki saatavilla olevat toimitustavat (Posti, Matkahuolto, PostNord, ilmainen nouto myymälöistä tai yli 60 euron ostoksiin ilmaisesti). Toimitusmaksut vaihtelevat toimitustavasta riippuen, ja ne näkyvät tilausvahvistuksessa ennen maksua.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautussivu on selvästi saatavilla ja sisältää yksityiskohtaiset ohjeet: 14 päivän palautusoikeus fyysisille tuotteille, palautuskulut 5 euroa per palautus, e- ja äänikirjoilla ei palautusoikeutta. Palautusohjeet vaihtelevat ostopaikan (verkkokauppa vs. myymälä) mukaan.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälät-sivu luettelee yli 50 myymälää ympäri Suomea aakkosjärjestyksessä kaupungin nimen mukaan. Jokaisesta myymälästä näkyvät aukioloajat ja nykytilanne (avoinna nyt-merkinnät real-time). Esimerkiksi Espoo Lippulaiva: 'Avoinna nyt: klo 10:00-20:00'.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 0205361-6 on esillä yhteystiedot-sivulla ja laskutusosoite-osiossa. Myös verkkolaskuosoite ja laskutuskäytännöt on dokumentoitu.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviointipalveluihin tai asiakastyytyväisyyden arvioihin (kuten Google Reviews, Trustpilot tai vastaavat). Tuotearvostelut ovat saatavilla tuotesivuilla, mutta nämä eivät ole riippumattomia ulkoisista lähteistä."
+  }
+}

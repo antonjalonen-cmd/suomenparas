@@ -1,0 +1,52 @@
+{
+  "slug": "zooplus",
+  "fetched_ok": [
+    "https://www.zooplus.fi/",
+    "https://www.zooplus.fi/info/about/shippingcosts",
+    "https://www.zooplus.fi/shop/koirat/kuivaruoka/bosch",
+    "https://www.zooplus.fi/contact_us",
+    "https://support.zooplus.fi/fi/support/home",
+    "https://support.zooplus.fi/fi/support/solutions/articles/76000050785-kuinka-palautan-tuotteen-"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "ei",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selkeästi jokaisen tuotteen kohdalla ja kilohintatieto auttaa vertailussa",
+    "Toimitusehdot ja -kustannukset on avoimesti kerrottu erillisellä sivulla, ilmainen toimitus yli 49 eurosta",
+    "Tuotevalikoima on laaja ja hyvin järjestettynä kategorioittain koiraille, kissoille ja muille lemmikeille"
+  ],
+  "kehityskohteet": [
+    "Y-tunnusta ei näytetä sivustolla, vaikka EU-direktiivi edellyttää selkeää yritystietoja verkkokaupassa",
+    "Palautusten ja takuiden ehdot vaativat kontaktin asiakaspalveluun etukäteen, ne eivät ole täysin julkisesti saatavilla",
+    "Asiakaspäivystys tapahtuu vain tuen portalin kautta, puhelimitse tai sähköpostitse tavoitettavuutta ei mainita"
+  ],
+  "yhteenveto": "Zooplus on saksalaisen zooplus SE:n ylläpitämä lemmikkitarvikkeiden verkkokauppa, joka tarjoaa laajan tuotevalikoiman ja selkeitä hintoja. Toimitusehdot ja -kustannukset on avoimesti julkaistu, ja palautusten prosessi on kuvattu tukisivustolla, mutta yritystietoja ja suoraa asiakastukea (puhelin, sähköposti) ei ole helposti löydettävissä pääsivulta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuote-sivuilla kuten /shop/koirat/kuivaruoka/bosch näytetään selkeästi yksittäiset hinnat (esim. 1,49€, 39,49€) ja kilohinta (€/kg) vertailua varten.",
+    "toimitus_kerrottu": "HAVAINTO: Sivulla /info/about/shippingcosts on yksityiskohtainen maksutustaululukko, jossa kerrotaan toimitusmaksut tilauksen arvon mukaan (ilmainen yli 49€, muutoin 1,99-4,99€). Normaali toimitus-aika on 3-5 arkipäivää.",
+    "palautusehdot_saatavilla": "HAVAINTO: Support.zooplus.fi-sivustolla on artikkeli 'Kuinka palautan tuotteen?', jossa kuvataan palautusprosessi: asiakas ottaa yhteyttä asiakaspalveluun ennen palautusta, ja zooplus järjestää nouto- tai palautustanvan maksutta.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Pääsivulla ja usein kysytyissä kysymyksissä sanotaan selvästi: 'Zooplus-eläinkauppa toimii ainostaan verkossa, eikä sillä ole kivijalkaliikkeitä.' Fyysisiä myymälöitä ei siis ole.",
+    "y_tunnus_esilla": "HAVAINTO: Sivustolla näytetään vain '© zooplus SE 2026', eikä suomalaista Y-tunnusta mainitä missään. Yritys on rekisteröity Ruotsissa, ei Suomessa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy viitteitä riippumattomiin arviointeihin, sertifiointeihin tai kolmansien osapuolten vahvistuksiin.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalveluun viitataan vain support.zooplus.fi-portaalin kautta. Puhelinnumeroa ei näy pääsivulla tai helposti löydettävissä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy pääsivulla. Yhteydenotto tapahtuu tuen portaalin kautta.",
+    "chat_mainittu": "HAVAINTO: Chat-palvelusta ei mainita missään tarkastelluilla sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole kuvattu, koska kyseessä on pelkästään verkkokauppa.",
+    "ukk_osio": "HAVAINTO: Support.zooplus.fi/fi/support/home-sivulla on laaja 'Usein kysyttyä' -osio, jossa käsitellään maksutapoja, toimitusta, palautuksia ja muita yleisiä kysymyksiä."
+  }
+}

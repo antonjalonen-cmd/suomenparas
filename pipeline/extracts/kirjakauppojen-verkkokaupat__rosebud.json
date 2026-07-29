@@ -1,0 +1,44 @@
+{
+  "slug": "rosebud",
+  "fetched_ok": [
+    "https://rosebud.fi/2024/",
+    "https://rosebud.fi/2024/index.php?sivu=tilausohjeet",
+    "https://rosebud.fi/2024/index.php?sivu=tuotteet&esittely=1"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "osittain",
+  "myymalat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnat näkyvät selkeästi kaikilla tuotesivuilla, valikoimaa on laaja",
+    "Toimitustavat ja -kulut kerrottu yksityiskohtaisesti (4,90€ alle 50€, ilmainen yli 50€)",
+    "Asiakaspalvelun puhelinnumero ja kaksi sähköpostiosoitetta helposti saatavilla"
+  ],
+  "kehityskohteet": [
+    "Myymälöiden aukioloajat puuttuvat verkkosivuilta, käytössä vain asiakaspalvelun aukioloajat",
+    "Yrityksen Y-tunnus ei julkaistu sivustolla, vain \"Rosebud Books Oy\" nimitys",
+    "Palautusehdot jäävät epäselväiksi, maininta että reklamaatiot hoitaa Paytrail"
+  ],
+  "yhteenveto": "Rosebud Books on perinteinen kirjakauppa 8 fyysisellä myymälällä ja aktiivisella verkkokaupalla, jossa tuotteiden hinnat näkyvät selkeästi ja toimitus on hyvin dokumentoitu. Palvelu on asiakaslähtöinen puhelintuen ja sähköpostiosoitteella, mutta yritystiedot ja tarkat palautusehdot ovat osittain epäselviä verkkosivuilla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla ja tuotelistauksissa tuotteiden hinnat näkyvät selkeästi esim. 17,00 €, 27,00 €, 245,00 €. Hinnat päivittyvät tuotteittain ja kategoriaperusteisesti.",
+    "toimitus_kerrottu": "HAVAINTO: Tilausohjeet-sivulla kerrottu että toimituskulut alle 50 euron kotimaan tilauksissa ovat 4,90€ verkkopankissa, yli 50€ tilaukset toimitetaan ilman toimituskuluja. Toimitustavat: kirje, Pikkupaketti Ovelle tai postipaketti. Toimitus 1-7 arkipäivässä.",
+    "palautusehdot_saatavilla": "HAVAINTO: Tilausohjeet-sivulla mainittu Paytrail Oy:n reklamaatiovastuusta maksuja koskien, mutta varsinaiset tuotteiden palautusehdot ja takuuehdot eivät ole selkeästi julkaistu. Sivulla mainittu 'Tilauksen peruuntuminen' mutta ei asiakkaan initioiman palautuksen ehtoja.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Etusivu listaa 8 myymälää (Postitalo, Sivullinen, Citycenter, Kaivopiha, Tiedekulma, Maria, Kuopio, Oulu) mutta niiden aukioloajat eivät ole verkkosivuilla saatavilla. Vain asiakaspalvelun aukioloajat näkyvät (ma-pe 10:00-16:00).",
+    "y_tunnus_esilla": "HAVAINTO: Sivuilla mainitaan yritysnimi 'Rosebud Books Oy' mutta varsinaista Y-tunnusta ei julkaista mistään verkkosivujen osasta.",
+    "riippumaton_arvio": "HAVAINTO: Sivuilla ei näy riippumattomia arvioita, arvosteluita tai sertifikaatteja kolmansilta osapuolilta."
+  }
+}

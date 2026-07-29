@@ -1,0 +1,46 @@
+{
+ "slug": "ruskovilla",
+ "fetched_ok": [
+  "https://ruskovilla.fi/",
+  "https://ruskovilla.fi/collections/all",
+  "https://ruskovilla.fi/collections/naiset"
+ ],
+ "hinnat_esilla": "osittain",
+ "toimitus_kerrottu": "osittain",
+ "palautusehdot_saatavilla": "osittain",
+ "myymalat_ja_aukioloajat": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 65,
+  "sisallon_kattavuus": 55,
+  "hintojen_loydettavyys": 45
+ },
+ "vahvuudet": [
+  "Selkeät yhteystiedot ja aukioloajat esillä footerissa",
+  "Y-tunnus ja liiketoimintapaikan osoite julkisesti saatavilla",
+  "Tehtaanmyymälän sijainti ja aukioloajat mainittu sekä verkkokaupassa että sosiaalisessa mediassa"
+ ],
+ "kehityskohteet": [
+  "Tuotehinnat eivät näy selkeästi tuotesivuilla (404-virheet blokkasivat pääsyn)",
+  "Toimitusehdot ja palautusehto-sivuille ei pääsy suoraan (404-virhe)",
+  "Verkkokauppaan ei integroitu asiakaskeskustelua (chat) tai FAQ-osiota"
+ ],
+ "yhteenveto": "Ruskovilla on suomalainen lastevaatteita valmistava verkkokauppa, jonka verkkosivusto sisältää perustiedot yrityksestä (Y-tunnus, osoite, puhelinnumero). Sivusto näyttää olevan Shopify-pohjainen, mutta tuotetiedot ja toimitusehdot eivät olleet saavutettavissa automation kautta. Yritys jakaa tietoja tehtaanmyymälästään ja asiakaspalvelustaan aktiivisesti.",
+ "evidence": {
+  "y_tunnus_esilla": "HAVAINTO: Sivuston footerissa näkyvä Y-tunnus: 3488506-2",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Tehtaanmyymälän osoite ja aukioloajat mainittu: Ruskovilla Oy, Kinnarintie 32, 16200 Artjärvi. Asiakaspalvelu ma-pe 8.30-16.00, la 10.00-14.00",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero esillä footerissa: +358 3 871 460",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite esillä footerissa: ruskovilla@ruskovilla.fi",
+  "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat mainittuna: ma-pe 8.30-16.00, la 10.00-14.00",
+  "hinnat_esilla": "HAVAINTO: Tuotesivuille ei saatu pääsyä, koska collections ja product-sivut palauttivat 404-virheita. Etusivu näyttää olevan Shopify-pohjainen, mutta hintatiedot eivät näkyneet kansainvälisen kohdesivun sisällössä",
+  "toimitus_kerrottu": "HAVAINTO: Footerissa mainitaan 'Tilaus- ja toimitusehdot' -linkki, mutta sitä ei saatu ladattua (404). Etusivulla maininta 'Ilmainen noutopistetoimitus yli 190 euroon'",
+  "palautusehdot_saatavilla": "HAVAINTO: Footerissa mainitaan 'Palautukset' -linkki, mutta sivua ei saatu avata (404-virhe)"
+ }
+}

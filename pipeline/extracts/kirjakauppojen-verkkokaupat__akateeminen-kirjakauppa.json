@@ -1,0 +1,51 @@
+{
+  "slug": "akateeminen-kirjakauppa",
+  "fetched_ok": [
+    "https://akateeminen.com/",
+    "https://akateeminen.com/yhteystiedot",
+    "https://akateeminen.com/toimitusehdot",
+    "https://akateeminen.com/asiakaspalvelu",
+    "https://akateeminen.com/maksutavat",
+    "https://akateeminen.com/tietosuojaseloste"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 90,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Toimitusehdot ja palautusehdot selkeästi dokumentoituina verkkokaupan sivuilla",
+    "Neljä kivijalkamyymälää kaikkine aukioloaikojen, puhelinnumeroiden ja osoitteiden kanssa",
+    "Laaja maksutapojen valikoima (lasku, osamaksu, MobilePay, verkkopankki, kortti, PayPal)"
+  ],
+  "kehityskohteet": [
+    "Toimituskulujen näyttäminen selkeästi ennen kassalle siirtymistä ja ostoskorin päivityksellä",
+    "Asiakasarviointi- tai arviointijärjestelmän puuttuminen vertailussa kilpailijoihin",
+    "Natiivisen mobiilisovelluksen puuttuminen verkkokaupan käyttäjille"
+  ],
+  "yhteenveto": "Akateeminen Kirjakauppa Oy on suomalainen kirjakaupparyhmä, jolla on neljä kivijalkamyymälää ja verkkokauppa. Verkkokaupan transparenssi on hyvä: tuotehinnat, toimitustavat ja -kulut, palautusehdot ja Y-tunnus ovat selkeästi saatavilla. Asiakaspalvelun yhteystiedot (puhelin ja sähköposti) löytyvät helposti.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät etusivulla hintojen kanssa (esim. € 32,90, € 24,90, € 29,90) ja kaikissa tuotekuvissa.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla listataan toimitustavat (Posti, Matkahuolto, Budbee, Schenker Suomeen, DHL ulkomaille). Sivulla todetaan: Toimituskulut riippuvat ostoskorin sisällöstä ja yhteispainosta sekä valitusta toimitustavasta. Asiakas voi valita kassalla käytössä olevista toimitustavoista parhaiten sopivan vaihtoehdon, jonka yhteydessä tarkka toimituskulu on esitetty.",
+    "palautusehdot_saatavilla": "HAVAINTO: Toimitusehdot-sivulla käsitellään laajasti peruuttamisoikeus (14 päivää tavaran vastaanottamisesta), poikkeukset (sinetöidyt tuotteet, hygieniaseisteet, avatut ääni- ja kuvatalenteet), palautusosoite (Porvoon Kirjakeskus Oy, Teollisuustie 4, laituri 2, 06150 Porvoo) ja maksun palautus.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla listataan neljä myymälää: Helsinki Kirjatalo (Keskuskatu 1, ma-pe 9-20, la 9-19, su 11-18), Espoo Tapiola (Kauppakeskus Ainoa, ma-pe 10-20, la 10-18, su 11-18), Turku (Yliopistonkatu 27, ma-pe 10-20, la 10-18, su 11-18), Tampere (Hämeenkatu 7, ma-pe 10-20, la 10-18, su 11-17).",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa ilmoitettu Y-tunnus 2699781-4 rekisterinpitäjälle (Akateeminen Kirjakauppa Oy).",
+    "riippumaton_arvio": "HAVAINTO: Verkkokaupan sivuilla ei ole asiakasarvosteluja, arviointijärjestelmää, tähteä-ratingsia tai viittauksia riippumattomiin arviointilähteisiin.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla ja asiakaspalvelu-sivulla mainittu puhelinnumero 09 584 04580 arkisin 9-15.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite web@akateeminen.com näkyy yhteystiedot-, asiakaspalvelu- ja toimitusehdot-sivuilla.",
+    "aukioloajat_esilla": "HAVAINTO: Jokaisen neljän myymälän osalta yksityiskohtaiset aukioloajat (ma-pe, la, su). Verkkokaupan asiakaspalvelu 9-15 arkisin.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelu-sivulla on erillinen Usein kysytyt -osio, jossa käsitellään lahjakortteja, myymälöiden palautuksia ja reklamaatioita."
+  }
+}

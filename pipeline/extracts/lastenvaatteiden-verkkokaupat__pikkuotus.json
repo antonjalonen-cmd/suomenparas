@@ -1,0 +1,52 @@
+{
+  "slug": "pikkuotus",
+  "fetched_ok": [
+    "https://www.pikkuotus.fi/",
+    "https://www.pikkuotus.fi/page/12/tietoa-meista",
+    "https://www.pikkuotus.fi/page/1/toimitusehdot-vaihdot-ja-palautukset",
+    "https://www.pikkuotus.fi/page/4/rekisteri--ja-tietosuojaseloste",
+    "https://www.pikkuotus.fi/category/2/ylaosat"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "ei",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "hintojen_loydettavyys": 92,
+    "sisallon_kattavuus": 68
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät välittömästi kategoriasivuilla ilman lisäklikkauksille",
+    "Toimituskulut ja -ehdot kerrottu selkeästi: 4,90 euroa, yli 150 euron tilauksiin ilmainen toimitus",
+    "Palautusoikeus ja vaihdot dokumentoitu yksityiskohtaisesti, palautusmaksu 4 euroa"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumero puuttuu kokonaan, asiakaspalvelun tavoittaminen vain sähköpostitse mahdollista",
+    "Ei live-chat-palvelua, FAQ-osiota tai muuta reaaliaikaista asiakaspalvelukanavaa",
+    "Myymälöistä ja fyysisistä noutopaikoista ei tietoa, vain sähköpostivinkki kiireisille asiakkaille"
+  ],
+  "yhteenveto": "pikkuOtus on kotimainen lastenvaatteiden verkkokauppa, jonka kilpailuetu on erityisen selkeä hinnoittelu ja kattavat toimitusehdot. Sivusto esittelee valikoiman näyttävästi ja tuotteiden hinnat löytyvät kaiken ikäisille lapsille tarkoitetuista tuotteista vaivattomasti. Asiakaspalvelun suhteen sivusto on minimalistinen: yhteyttä voi ottaa ainoastaan sähköpostitse, eikä verkon välityksellä ole saatavilla puhelinpalvelua, chatia tai usein kysyttyjen kysymysten osiota.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotehinnat on esillä kaikilla tuote- ja kategoriasivuilla, esimerkiksi mekkojen hinnat näkyvät muodossa '31,74 euroa' alennuksen kanssa tai ilman.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla selkeästi ilmoitettu toimitusmaksut ja -tavat: 'Toimitusmaksut kotimaahan 4,90 euroa, yli 150 euron tilaukset postikuluitta.' Ensisivulla mainostaan 'ILMAINEN TOIMITUS YLI 150€' ja 'NOPEA TOIMITUS'. Posti hoitaa toiminnan ja toimitusmaksuissa huomioidaan pakkaamisen käsittely- ja materiaalikustannukset.",
+    "palautusehdot_saatavilla": "HAVAINTO: Toimitusehdot-sivulla on kattava palautusosio: 'Asiakkailla on aina kuluttajasuojalain mukainen 14 päivän palautusoikeus' ja 'Palautusmaksu on 4 euroa, vaihto on maksuton.' Sivulla kerrotaan palautuspaikka osoitteella Kauriintie 13, 34140 Ylöjärvi ja palautustunnus 671708. Mainitaan myös, että tuote voidaan vaihtaa toiseen tuotteeseen tai lahjakorttiin.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Sivustolla ei mainita fyysisiä myymälöitä tai aukioloaikoja. Tietoa meistä -sivulla mainitaan vain, että 'varastomme sijaitsee Mutalassa, Ylöjärven kupeessa', mutta ei aukioloaikoja. Toimitusehdot-sivulla on maininta, että kiireisille asiakkaille voi ottaa yhteyttä sähköpostitse ennen tilausta, mutta muusta palvelusta ei mainita.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2161346-3 näkyy sivustolla usealla paikalla, erityisesti sivun alareunassa jokaisella sivulla: 'Nuventur Oy (Y-tunnus: 2161346-3)'. Myös rekisteri- ja tietosuojaselosteella mainitaan 'pikkuOtus/ Nuventur Oy (y-tunnus 2161346-3)'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviointisivustoihin kuten Trustpilotiin tai Google Reviewsiin, eikä asiakasarvioita tuotteista ole näkyvissä.",
+    "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei ole annettu mihinkään sivustolle. Ainoastaan sähköpostiosoite info@pikkuotus.fi on näkyvissä.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info@pikkuotus.fi näkyy sivustolla usealla paikalla: jokaisen sivun alareunassa, toimitusehdot-sivulla ja tietoa meistä -sivulla.",
+    "chat_mainittu": "HAVAINTO: Live-chat-palvelua ei mainita missään sivuston osassa.",
+    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole annettu. Sivustolla ei mainita fyysisiä asiakaspalvelupisteitä, vain varastoa.",
+    "ukk_osio": "HAVAINTO: FAQ-osiota ei ole sivustolla.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita. Sivusto on selvästi mobiiliystävällinen verkkosivusto, mutta erillistä sovellusta ei ole."
+  }
+}

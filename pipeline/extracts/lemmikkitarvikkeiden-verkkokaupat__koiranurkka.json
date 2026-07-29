@@ -1,0 +1,46 @@
+{
+  "slug": "koiranurkka",
+  "fetched_ok": [
+    "https://koiranurkka.fi/",
+    "https://koiranurkka.fi/yhteystiedot/",
+    "https://koiranurkka.fi/toimitusehdot/",
+    "https://koiranurkka.fi/ukk/",
+    "https://koiranurkka.fi/tuote/alac-jalkiliina-6-mm-armygreen/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavyys": 88,
+    "sisallon_kattavuus": 79
+  },
+  "vahvuudet": [
+    "Toimitusehtojen ja palautuspolitiikan hyvin selkeä dokumentointi verkkosivuilla, kaikki tiedot löytyvät helposti omilta sivuiltaan.",
+    "Tuotteiden hinnat ovat aina näkyvissä jo etusivulla ja kategorian tuotteissa, ilmainen toimitus yli 79 euron tilauksille PostNord noutopisteisiin.",
+    "Kattava asiakaspalvelu usealla kanavalla (puhelin arkisin 11-17, sähköposti) ja yksityiskohtaiset toimitusohjeet eri tavoin."
+  ],
+  "kehityskohteet": [
+    "Riippumatonta arvio-lähteistä (kuten Trustpilot) ei ole linkitetty sivustolle, vain sisäiset WooCommerce-tuotearvostelut näkyvät.",
+    "Live-chat-tukea ei ole saatavilla verkon kautta, ainoastaan sähköposti ja puhelinpalvelu.",
+    "Mobiilisovellusta ei ole mainittu tai saatavilla, kauppa toimii vain verkkoselaimen kautta."
+  ],
+  "yhteenveto": "Koiranurkka on koiranharrastajien verkkokauppa, joka myy koirantarvikkeita kuten leluja, ruokaa, varusteita ja harrastukseen liittyviä tuotteita. Sivusto on hyvin läpinäkyvä hinnoittelun ja toimitusten osalta, joilla on selkeät toimituskulut, toimitustavat ja palautuspolitiikka näkyvillä ennen kassaa. Yhteystiedot, Y-tunnus ja aukioloajat löytyvät helposti, mutta sivustolla ei ole kolmannen osapuolen arviopalveluita tai chat-tukea.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat ovat näkyvillä etusivulla esimerkiksi 19,90-24,90 euroa tuotteille. Tuotesivuilla hinnat esitetään selkeästi ennen lisäämistä ostoskoriin, esimerkiksi 'Alac Jälkiliina 6 mm armygreen 19,90-24,90 euroa'.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla mainitaan seitsemän eri toimitustapaa yksityiskohtaisesti: myymälänouto ilmaiseksi, PostNord MyPack Collect alkaen 6,90 euroa (ilmainen yli 89 euroa tilauksille), Matkahuolto Lähellä alkaen 8,90 euroa, kotiinkuljetus alkaen 16,90-19,90 euroa. Jokaisella tuotesivulla lukee 'Toimitus alkaen 6,90 euroa | Ilmainen yli 79 euroa'. Kassan yhteydessä asiakkaat näkevät tarkan toimituskulun ennen tilauksen vahvistamista.",
+    "palautusehdot_saatavilla": "HAVAINTO: Toimitusehdot-sivulla sektion 4 'Palautukset ja vaihdot' kuvaa kuluttajansuojalain mukaisen 14 päivän peruuttamisoikeuden. Palautusohjeet, kustannukset ja poikkeukset (elintarvikkeet, pakastetuotteet, asiakkaalle valmistetut tuotteet) on dokumentoitu selkeästi. FAQ:n palautus-osio toistaa tämän selkeästi.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla mainitaan fyysinen myymälä: Brahentie 1, 52300 Ristiina, aukioloajat MA-KE 10-17, TO-PE 11-18, arkipyhinä suljettu. Sama tieto näkyy jokaisen sivun alatunnisteessa.",
+    "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy selkeästi 'Koiranurkka.fi ( Y-1093193-3 )'. Toimitusehdot-sivun alussa toistuu 'Y-tunnus: 1093193-3'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla on sisäinen WooCommerce-tuotearviointijärjestelmä, joka näyttää yrityksen oman arvostelun (4,83/5, 374 arviota). Ulkopuolisia arviopalveluita kuten Trustpilia tai Google Reviewsia ei ole linkitetty sivustolle."
+  }
+}

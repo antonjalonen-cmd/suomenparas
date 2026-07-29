@@ -1,0 +1,48 @@
+{
+  "slug": "melli-ecodesign",
+  "fetched_ok": [
+    "https://melli.fi/",
+    "https://melli.fi/toimitusehdot/",
+    "https://melli.fi/rekisteriseloste/",
+    "https://melli.fi/mellin-tarina/",
+    "https://melli.fi/vastuullisuus/",
+    "https://melli.fi/myymala/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "myymalat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 75
+  },
+  "vahvuudet": [
+    "Tuotehinnat näkyvät selkeästi etusivulla ja tuotelistauksissa ilman piilotettuja kuluja",
+    "Toimitus- ja palautuskulut sekä ehdot on dokumentoitu yksityiskohtaisesti omalla sivulla",
+    "Kotimainen tuotanto ja vastuullisuusvalinnat (materiaaleista ompelijoihin) hyvin perusteltu"
+  ],
+  "kehityskohteet": [
+    "Puhelinnumeroa ei julkaista asiakaspalvelutiedoissa, vain sähköpostiosoite on näkyvissä",
+    "FAQ-sivusto ei ole saatavilla (HTTP 404), asiakkailla ei ole julkista kysymys-vastaus-osiota",
+    "Tuotteilla ei näy riippumattomia asiakasarvioita tai review-osiota ostopäätöksen tueksi"
+  ],
+  "yhteenveto": "Melli EcoDesign on Jyväskylässä valmistettu lastenvaateverkkokauppa, joka tarjoaa kotimaiset hinnat ja toimitustiedot selkeästi. Turvallisuuden kannalta Y-tunnus ja yrityksen rekisteritiedot ovat saatavilla yksityisyyden suojaselosteessa, mutta asiakaspalveluun pääsy on rajoitettu vain sähköpostiin, eikä sivustolla ole julkisia asiakasarvioita tai FAQ-osiota.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotekasvot sisältävät hintoja (esim. 36,00 €, 30,40 €, 38,00 € -alennuksella 30,40 €). Hinnat näkyvät myös ostoskoria selatessa. Sivulla selostetaan, että hinnat sisältävät arvonlisäveron ja veroerittely näkyy ostoskorissa ja tilausvahvistuksessa.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehdot-sivulla kerrotaan postipakettina 5,90 €, kotiinkuljetuksena 10 €, yli 150 euron tilauksissa toimituskulut 0 €. Toimitusaika noin 1-5 arkipäivää. Myymälän nouto on maksuton. Ulkomaantoimitukset 15 €.",
+    "palautusehdot_saatavilla": "HAVAINTO: Toimitusehdot-sivulla kuvataan täysi 14 vuorokauden palautusoikeus, palautus maksaa 6,90 euroa. Palautuskulut vähennetään automaattisesti palautettavasta summasta. Yksityiskohtaiset palautusohjeet, osoite ja asiakaspalautus-numero (660851) on listattu.",
+    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälä-sivulla kaksi fyysistä myymälää: 1) Jyväskylän Sokkaari, Kauppakatu 24, 2.krs (ma-pe 10-18, la 11-15, su suljettu), 2) Palokan kauppakeskus, Saarijärventie 52 (ma-ti suljettu, ke-pe 11-17, la 10-15). Postiosoite: Ollilantie 2, 40270 Palokka.",
+    "y_tunnus_esilla": "HAVAINTO: Rekisteriseloste-sivulla Y-tunnus 2845286-9 näkyy selkeästi. Sivulla kuvataan 'Rekisterinpitäjä: Melli EcoDesign Oy, y-tunnus 2845286-9'.",
+    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei näy asiakasarvioita, review-osiota tai linkkejä kolmansien osapuolien arviointisivustoille. Tuotesivuilla ei ole viisi-tähti-arviointijärjestelmää.",
+    "email_esilla": "HAVAINTO: Sähköpostiosoite info(at)melliecodesign.com näkyy etusivulla 'Yhteystiedot'-osiossa ja info@melliecodesign.com on listattu Rekisteriseloste-, Myymälä- ja Toimitusehdot-sivuilla."
+  }
+}
