@@ -7,7 +7,7 @@
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
 
-Live-kategoriat (55 kpl, 28.7.2026): lainavertailu, vakuutukset (5 alasivua),
+Live-kategoriat (60 kpl, 28.7.2026): lainavertailu, vakuutukset (5 alasivua),
 sahkosopimukset, laajakaista, pankit, puhelinliittymat, kulutusluotot,
 luottokortit, sijoitusalustat, sahkovertailupalvelut, webhotellit,
 vpn-palvelut, salasananhallintapalvelut, pilvitallennuspalvelut,
@@ -22,11 +22,11 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
-- [~] lastenvaatteiden-verkkokaupat — varattu: päätyösessio 28.7.2026 (Antonin pyyntö, 5 kategorian erä 2) — Reima, PO.P, Gugguu, Metsola, Papu, Vimma?
-- [~] lemmikkitarvikkeiden-verkkokaupat — varattu: päätyösessio 28.7.2026 — Musti ja Mirri, Zooplus, Peten Koiratarvike, Faunatar?, Hau-Hau?
-- [~] hotelliketjut — varattu: päätyösessio 28.7.2026 — Scandic, Sokos Hotels, Lapland Hotels, Omena, GreenStar, Radisson?
-- [~] taksipalvelut — varattu: päätyösessio 28.7.2026 — Taksi Helsinki, Menevä, Lähitaksi, 02 Taksi, FixuTaxi?, Kovanen?
-- [~] kirjakauppojen-verkkokaupat — varattu: päätyösessio 28.7.2026 — Suomalainen, Adlibris, Booky, Rosebud?, Karkkainen?
+- [x] lastenvaatteiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Reima #1 74,5; Papu konkurssi 10/2025, Polarn O. Pyret karsittu SPA+Cloudflare)
+- [x] lemmikkitarvikkeiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Koiranurkka #1 83,3; Faunatar ei vastaa, affiliate-aggregaattorit karsittu)
+- [x] hotelliketjut — julkaistu 28.7.2026 (6 ketjua; Omena #1 78,8, Scandic viimeinen 61,0; Radisson+Best Western karsittu 403-esto)
+- [x] taksipalvelut — julkaistu 28.7.2026 (8 palvelua; Lähitaksi #1 84,6, Bolt viimeinen 57,4; Kovanen karsittu rikki-SSL)
+- [x] kirjakauppojen-verkkokaupat — julkaistu 28.7.2026 (6 kauppaa; Akateeminen #1 83,5; Adlibris osti Akateemisen 1.1.2026 = 2 Bonnier-kauppaa; Kirja.fi karsittu kustantajakauppana)
 
 
 - [x] hautaustoimistot — julkaistu 23.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts OK, LH 7/7)
