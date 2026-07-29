@@ -237,6 +237,14 @@ nav.main a.on{color:var(--gold-line)}
 .board-head .cat{font-family:'Baloo 2',sans-serif;font-weight:600;color:var(--ink);font-size:1.05rem}
 .board-head .live{display:flex;align-items:center;gap:7px;font-size:.72rem;color:var(--mut);font-family:'IBM Plex Mono',monospace}
 .live-dot{width:9px;height:9px;border-radius:50%;background:var(--ok);animation:pulse 2s infinite}
+.nposts{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;margin-top:20px}
+.npost{background:var(--card);border:2.5px solid var(--ink);border-radius:var(--r);box-shadow:var(--shadow);padding:16px 18px}
+.np-head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:8px}
+.np-k{font-family:'IBM Plex Mono',monospace;font-size:.62rem;letter-spacing:.14em;font-weight:600;color:var(--blue-deep);background:var(--blue-soft);border-radius:99px;padding:3px 10px}
+.np-d{font-family:'IBM Plex Mono',monospace;font-size:.7rem;color:var(--mut)}
+.npost h3{font-size:1.06rem;line-height:1.25;color:var(--ink);margin-bottom:6px}
+.npost p{font-size:.92rem;color:var(--body);margin:0}
+.np-link{display:inline-block;margin-top:10px;font-weight:800;font-size:.86rem;color:var(--blue-deep)}
 .langsw{border:1.5px solid rgba(255,255,255,.45);border-radius:999px;padding:4px 12px;font-size:.8rem;font-weight:800;color:#fff;letter-spacing:.04em}
 .langsw:hover{background:rgba(255,255,255,.14);text-decoration:none}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
@@ -838,6 +846,7 @@ def page(title, desc, body, root="", active=""):
     <nav class="main">
       <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
+      <a href="{root}uutishuone/"{on('uutishuone')}>Uutishuone</a>
       <a href="{root}luottamus/"{on('metodologia')}>Näin pisteytämme</a>
       <a href="{root}sertifikaatti/"{on('sertifikaatti')}>Sertifikaatti</a>
       <a href="{root}yhteiso/"{on('yhteiso')}>Liity mukaan</a>
@@ -1841,6 +1850,54 @@ def build_luottamus():
                 body, root="../", active="luottamus")
 
 
+def build_uutishuone():
+    """Uutishuone - some-tyyliset nostot mitatusta datasta (28.7.2026).
+
+    Postaukset generoidaan pipeline/build_uutishuone.py:lla data/*.json
+    -tiedostoista. Mitaan ei kirjoiteta kasin: jos vaitetta ei voi laskea
+    mittausdatasta, sita ei julkaista.
+    """
+    import json as _json
+    pp = os.path.join(BASE, "pipeline", "uutishuone", "posts.json")
+    posts = _json.load(open(pp, encoding="utf-8-sig")) if os.path.exists(pp) else []
+
+    TAGNIMI = {
+        "uusi": "UUTTA", "ykkonen": "VIIKON YKKONEN", "nousija": "NOUSIJA",
+        "laskija": "LASKIJA", "yllattaja": "YLLATTAJA", "aukko": "LAPINAKYVYYSAUKKO",
+        "numero": "VIIKON NUMERO", "karki": "KARKI",
+    }
+    kortit = []
+    for po in posts:
+        tyyppi = TAGNIMI.get(po.get("tyyppi", ""), "NOSTO")
+        linkki = ""
+        if po.get("linkki"):
+            _lt = esc(po.get("linkki_teksti") or "Lue lisää")
+            linkki = f'<a class="np-link" href="../{esc(po["linkki"])}">{_lt}</a>'
+        kortit.append(f"""
+    <article class="npost">
+      <div class="np-head"><span class="np-k">{esc(tyyppi)}</span><span class="np-d">{esc(po.get("pvm", ""))}</span></div>
+      <h3>{esc(po.get("otsikko", ""))}</h3>
+      <p>{esc(po.get("teksti", ""))}</p>
+      {linkki}
+    </article>""")
+
+    tyhja = '<div class="panel"><p>Ensimmaiset nostot julkaistaan seuraavan mittauskierroksen jalkeen.</p></div>'
+    body = f"""
+<div class="wrap">
+  <p class="crumb"><a href="../">Etusivu</a> &rsaquo; <b>Uutishuone</b></p>
+  <div class="pageh" style="padding-top:0">
+    <h1>Uutishuone</h1>
+    <p class="lead">Lyhyet nostot siita, mita mittaukset kertovat juuri nyt: uudet vertailut, karkinimet, nousijat ja laskijat seka yleisimmat lapinakyvyysaukot. Jokainen nosto on laskettu mittausdatasta &mdash; emme kirjoita niita kasin.</p>
+    <div class="meta-row"><span class="upd">{len(posts)} nostoa &middot; paivitetty {esc(posts[0]["pvm"]) if posts else UPDATED}</span></div>
+  </div>
+  <div class="nposts">{"".join(kortit) if kortit else tyhja}</div>
+  <div class="note" style="margin-top:26px"><b>Miten nama syntyvat:</b> uutishuone lukee jokaisen kategorian mittausdatan ja poimii siita muutokset ja aariarvot. Se ei osaa keksia uutisia eika kirjoita mielipiteita &mdash; jos vaitetta ei voi laskea datasta, sita ei julkaista. Pisteet mittaavat verkkosivun lapinakyvyytta, eivat palvelun laatua.</div>
+</div>"""
+    return page("Uutishuone | Suomen Paras",
+                "Viikon nostot mittausdatasta: uudet vertailut, karkinimet, nousijat ja lapinakyvyysaukot.",
+                body, root="../", active="uutishuone")
+
+
 def build_meista():
     body = f"""
 <div class="wrap">
@@ -1967,6 +2024,7 @@ def main():
     w("yhteiso/index.html", build_yhteiso())
     w("meista/index.html", build_meista())
     w("luottamus/index.html", build_luottamus())
+    w("uutishuone/index.html", build_uutishuone())
     for _slug, (_title, _paras) in LEGAL_PAGES.items():
         w(f"{_slug}/index.html", build_legal(_slug, _title, _paras))
     n = 3
