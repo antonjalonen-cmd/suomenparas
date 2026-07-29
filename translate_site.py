@@ -143,6 +143,23 @@ def cmd_apply():
     print(f"cache now {len(cache)} entries (+{added})")
 
 
+# Lippukytkin (28.7.2026): fi-sivulla Ruotsin lippu, sv-sivulla Suomen lippu.
+# Inline-SVG, koska sivusto on staattinen eika kaannoskerros saa koskea siihen.
+FLAG_SE = ('<svg class="flagsvg" viewBox="0 0 16 10" width="26" height="17" aria-hidden="true">'
+           '<rect width="16" height="10" fill="#005293"/>'
+           '<rect x="5" width="2" height="10" fill="#FECB00"/>'
+           '<rect y="4" width="16" height="2" fill="#FECB00"/></svg>')
+FLAG_FI = ('<svg class="flagsvg" viewBox="0 0 16 10" width="26" height="17" aria-hidden="true">'
+           '<rect width="16" height="10" fill="#fff"/>'
+           '<rect x="5" width="2.4" height="10" fill="#003580"/>'
+           '<rect y="4" width="16" height="2.4" fill="#003580"/></svg>')
+
+
+def toggle_html(href, flag, label, lang):
+    """Lippulinkki. Teksti jaa ruudunlukijalle, visuaalisesti nakyy lippu."""
+    return (f'<a class="langsw" href="{href}" lang="{lang}" title="{label}" '
+            f'aria-label="{label}">{flag}<span class="sr">{label}</span></a>')
+
 TOGGLE_RE = re.compile(r"(<nav class=\"main\">)")
 
 
@@ -198,7 +215,8 @@ def cmd_build():
         root = "../" * depth  # original page's root prefix
 
         # 1) fi page gets an SV toggle
-        fi_toggle = f'<a class="langsw" href="{root}sv/{rel.rsplit("/", 1)[0] + "/" if depth else ""}" lang="sv">Svenska</a>'
+        fi_toggle = toggle_html(f'{root}sv/{rel.rsplit("/", 1)[0] + "/" if depth else ""}',
+                                FLAG_SE, "Svenska", "sv")
         fi_html = TOGGLE_RE.sub(r"\1" + fi_toggle, html, count=1)
         open(p, "w", encoding="utf-8").write(fi_html)
 
@@ -206,7 +224,8 @@ def cmd_build():
         sv = translate_html(html, cache)
         sv = sv.replace('<html lang="fi">', '<html lang="sv">')
         sv_root_to_fi = "../" * (depth + 1)
-        sv_toggle = f'<a class="langsw" href="{sv_root_to_fi}{rel.rsplit("/", 1)[0] + "/" if depth else ""}" lang="fi">Suomeksi</a>'
+        sv_toggle = toggle_html(f'{sv_root_to_fi}{rel.rsplit("/", 1)[0] + "/" if depth else ""}',
+                                FLAG_FI, "Suomeksi", "fi")
         sv = TOGGLE_RE.sub(r"\1" + sv_toggle, sv, count=1)
         dest = os.path.join(SV_DIR, rel)
         os.makedirs(os.path.dirname(dest), exist_ok=True)

@@ -245,8 +245,11 @@ nav.main a.on{color:var(--gold-line)}
 .npost h3{font-size:1.06rem;line-height:1.25;color:var(--ink);margin-bottom:6px}
 .npost p{font-size:.92rem;color:var(--body);margin:0}
 .np-link{display:inline-block;margin-top:10px;font-weight:800;font-size:.86rem;color:var(--blue-deep)}
-.langsw{border:1.5px solid rgba(255,255,255,.45);border-radius:999px;padding:4px 12px;font-size:.8rem;font-weight:800;color:#fff;letter-spacing:.04em}
-.langsw:hover{background:rgba(255,255,255,.14);text-decoration:none}
+.langsw{display:inline-flex;align-items:center;padding:3px;border-radius:6px;line-height:0;border:0;background:none;transition:transform .16s ease,box-shadow .16s ease}
+.langsw:hover{transform:translateY(-1px);text-decoration:none}
+.flagsvg{display:block;border-radius:3px;border:1.5px solid rgba(255,255,255,.7);box-shadow:0 2px 5px rgba(0,0,0,.28)}
+.langsw:hover .flagsvg{border-color:#fff;box-shadow:0 3px 9px rgba(0,0,0,.36)}
+.sr{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 @media(prefers-reduced-motion:reduce){.live-dot{animation:none}}
 .board-row{display:flex;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid var(--line)}
@@ -836,8 +839,8 @@ def page(title, desc, body, root="", active=""):
 <meta name="description" content="{esc(desc)}">
 {FONTS}
 <link rel="icon" type="image/png" href="{root}assets/favicon.png">
-<link rel="stylesheet" href="{root}assets/style.css?v=21">
-<script src="{root}assets/app.js?v=21" defer></script>
+<link rel="stylesheet" href="{root}assets/style.css?v=22">
+<script src="{root}assets/app.js?v=22" defer></script>
 </head>
 <body>
 <header class="site">
