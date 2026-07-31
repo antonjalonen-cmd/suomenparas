@@ -54,7 +54,9 @@ def pages():
     out = []
     for root, dirs, files in os.walk(BASE):
         rel = os.path.relpath(root, BASE)
-        if rel.split(os.sep)[0] in ("sv", "pipeline", "node_modules", ".git", "data", "assets"):
+        # kysy-kaverilta = konseptidemo, ei tuotantosivustoa -> ei myoskaan sv-peiliin
+        if rel.split(os.sep)[0] in ("sv", "pipeline", "node_modules", ".git", "data", "assets",
+                                    "kysy-kaverilta"):
             continue
         for f in files:
             if f == "index.html":
@@ -238,6 +240,9 @@ def cmd_build():
         # 2) sv mirror (same relative structure inside sv/ so page links stay sv)
         sv = translate_html(html, cache)
         sv = sv.replace('<html lang="fi">', '<html lang="sv">')
+        # Kysy kaverilta on toistaiseksi vain suomeksi -> linkki pois sv-navista,
+        # muuten se osoittaisi sv-puun sisalle sivulle jota ei ole.
+        sv = re.sub(r'<a href="[^"]*kysy-kaverilta/"[^>]*>[^<]*</a>\s*', "", sv)
         sv_root_to_fi = "../" * (depth + 1)
         sv_toggle = toggle_html(f'{sv_root_to_fi}{rel.rsplit("/", 1)[0] + "/" if depth else ""}',
                                 FLAG_FI, "Suomeksi", "fi")

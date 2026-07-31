@@ -850,6 +850,7 @@ def page(title, desc, body, root="", active=""):
       <a href="{root}"{on('etusivu')}>Etusivu</a>
       <a href="{root}kategoriat/"{on('kategoriat')}>Kaikki kategoriat</a>
       <a href="{root}uutishuone/"{on('uutishuone')}>Uutishuone</a>
+      <a href="{root}kysy-kaverilta/"{on('kysy')}>Kysy kaverilta</a>
       <a href="{root}luottamus/"{on('metodologia')}>Näin pisteytämme</a>
       <a href="{root}sertifikaatti/"{on('sertifikaatti')}>Sertifikaatti</a>
       <a href="{root}yhteiso/"{on('yhteiso')}>Liity mukaan</a>

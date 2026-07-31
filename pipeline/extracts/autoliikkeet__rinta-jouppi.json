@@ -1,0 +1,52 @@
+{
+  "slug": "rinta-jouppi",
+  "fetched_ok": [
+    "https://www.rintajouppi.fi/",
+    "https://www.rintajouppi.fi/vaihtoautot/",
+    "https://www.rintajouppi.fi/yhteystiedot/",
+    "https://www.rintajouppi.fi/lisapalvelut-ja-rahoitus/",
+    "https://www.rintajouppi.fi/haku/",
+    "https://www.rintajouppi.fi/vaihtoautot/audi/a3/"
+  ],
+  "hinnat_esilla": "kylla",
+  "takuu_kerrottu": "osittain",
+  "rahoituskulut_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Hinnat selkeästi näkyvillä kaikissa automyynnin listingoissa ja hakutuloksissa.",
+    "14 päivän palautusoikeus korostettu näkyvästi sivuston ylälaidassa kaikilla sivuilla.",
+    "Monipuolisia rahoitusvaihtoehtoja: 6 kk korotonta maksuaikaa, osamaksu ilman käsirahaa, kiinteät korkotarjoukset (1,9%) uusille ajoneuvoille."
+  ],
+  "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti näkyvillä verkkosivuilla, vaikka se olisi oleellinen tieto yritystiedoissa.",
+    "Takuujen sisältö ja kesto eivät ole yksityiskohtaisesti kerrottu sivuston julkisilla sivuilla – tieto saatavilla vain suoraan ottamalla yhteyttä.",
+    "Sähköpostiosoitetta ei ole helposti löydettävissä; asiakkaiden on käytettävä chat-toimintoa tai puhelinta yhteydenottoihin."
+  ],
+  "yhteenveto": "J. Rinta-Jouppi on laaja suomalainen autoliike, jolla on yli 5000 ajoneuvon valikoima ja useita toimipisteitä eri puolilla Suomea. Sivusto tarjoaa selkeät hinnat kaikissa autolistingoissa ja toimii tehokkaana ostokäyttöliittymänä. Yhtiö korostaa 14 päivän palautusoikeutta ja tarjoaa joustavat osamaksuoptioinsa. Rahoitusosassa J. Rinta-Jouppi mainostaa J. autorahoitusta ja J. autoturvaa, mutta todellisen vuosikoron yksityiskohdat ja takuun sisältö edellyttävät suoraan yhteyttä ottamista.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kaikissa autolinjauksissa hinnat näytetään selkeästi, esim. '13 480 €', '21 800 €' ja kuukausierät 'alk. 158 € / kk'. Haut-sivulla näkyy 4826 ajoneuvoa hinnoiteltuna.",
+    "takuu_kerrottu": "HAVAINTO: J. autoturva mainitaan monissa autolistingoissa symboleilla '- J. autoturva', mutta varsinaisen takuun kesto ja sisältö eivät ole kuvattu verkkosivuilla. Takuu edellyttää suoraa yhteyttä.",
+    "rahoituskulut_kerrottu": "HAVAINTO: Rahoituslaskuri on saatavilla ('Rahoituslaskuri'), ja uusille ajoneuvoille mainostetaan '1,9 % korolla + kulut'. Kuuden kuukauden 'korotonta ja kulutonta maksuaikaa' mainostetaan laajasti. Todellinen vuosikorko ei ole kuitenkaan mainittuna yleisesti saatavilla olevilla sivuilla.",
+    "palautusehdot_saatavilla": "HAVAINTO: '14 päivän palautusoikeus' on mainittuna sivuston ylälaidassa kaikilla sivuilla benefit-baarina. Se kuuluu yhtiön pääarvoihin yhdessä 'Kotimainen perheyritys' ja 'Yli 5000 ajoneuvon valikoima' kanssa.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla listaan 18 toimipistettä (Espoo, Helsinki, Hyvinkää, Hämeenlinna, Ilmajoki, Jyväskylä, Kotka, Kuopio, Lahti, Lappeenranta, Oulu, Pori, Porvoo, Raisio, Seinäjoki, Tampere, Vantaa). Kaikissa näytetään osoite, aukioloajat (yleensä ma–pe 10–18, la 10–16) ja palvelut.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt miltään hatuista sivuista. Footerissa näkyy '© J. Rinta-Jouppi Oy 2019–2026' mutta ei Y-tunnusta (esim. 'Y-tunnus: 1234567-8' muotoinen tieto).",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla toimipisteiden yhteystiedoissa viitataan 'Katso toimipiste ja yhteyshenkilöt' linkkeihin, mutta puhelinnumeroita ei näytetty staattiset fetc-sivuilla. WhatsApp-kontakti mainitaan autolinjauksissa ('Katso tiedot WhatsApp').",
+    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näytä olevan julkisesti näkyvillä verkkosivuilla.",
+    "chat_mainittu": "HAVAINTO: Chat-funktio mainitaan 'Hae'-välineissä ja kaikkien autojen kohdalla näkyy WhatsApp-kontaktointimahdollisuus ('Katso tiedot WhatsApp').",
+    "aukioloajat_esilla": "HAVAINTO: Myynnin aukioloajat esitetty footerissa: 'ma - pe 10 - 18, la 10 - 16'. Toimipiste-sivulla kukin sijainti näyttää omat aukioloaika (esim. Kuopio Puhelinpalvelu avoinna klo 8–16)."
+  }
+}

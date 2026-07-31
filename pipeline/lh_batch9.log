@@ -1,0 +1,37 @@
+[kamux] attempt 1: https://kamux.fi
+[kamux] OK perf=35 a11y=85 seo=100 bp=92
+[rinta-jouppi] attempt 1: https://rintajouppi.fi
+[rinta-jouppi] OK perf=45 a11y=96 seo=100 bp=100
+[laakkonen] attempt 1: https://laakkonen.fi
+[laakkonen] OK perf=61 a11y=82 seo=92 bp=77
+[veho] attempt 1: https://veho.fi
+[veho] OK perf=42 a11y=87 seo=100 bp=100
+[saka] attempt 1: https://saka.fi
+[saka] OK perf=45 a11y=87 seo=100 bp=100
+[wetteri] attempt 1: https://wetteri.fi
+[wetteri] OK perf=27 a11y=82 seo=92 bp=58
+[autokeskus] attempt 1: https://autokeskus.fi
+[autokeskus] OK perf=26 a11y=77 seo=92 bp=77
+[hartikainen] attempt 1: https://hartikainen.com
+[hartikainen] OK perf=76 a11y=85 seo=92 bp=100
+[hesburger] attempt 1: https://hesburger.fi
+[hesburger] OK perf=57 a11y=83 seo=92 bp=100
+[mcdonalds] attempt 1: https://mcdonalds.fi
+[mcdonalds] runtimeError INSECURE_DOCUMENT_REQUEST
+[mcdonalds] attempt 2: https://mcdonalds.fi
+[mcdonalds] runtimeError INSECURE_DOCUMENT_REQUEST
+[mcdonalds] FAILED after retries
+[kotipizza] attempt 1: https://kotipizza.fi
+[kotipizza] OK perf=21 a11y=100 seo=100 bp=81
+[burger-king] attempt 1: https://burgerking.fi
+[burger-king] OK perf=60 a11y=95 seo=92 bp=92
+[taco-bell] attempt 1: https://tacobell.fi
+[taco-bell] OK perf=56 a11y=98 seo=92 bp=96
+[rax] attempt 1: https://rax.fi
+[rax] OK perf=19 a11y=95 seo=100 bp=96
+[fafas] attempt 1: https://fafas.fi
+[fafas] OK perf=14 a11y=87 seo=100 bp=81
+[sibylla] attempt 1: https://sibylla.fi
+[sibylla] OK perf=45 a11y=95 seo=85 bp=77
+
+done — 431 measured, summary at pipeline/lh_cache/_summary.json

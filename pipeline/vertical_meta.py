@@ -1594,3 +1594,61 @@ _meta2("kirjakauppojen-verkkokaupat", "Kirjakauppojen verkkokaupat", "Kirjakaupa
       "vertailussa, omistus avoimesti kerrottuna. Suomalainen Kirjakauppa kuuluu Otavalle."),
      ("<b>Äänikirjapalvelut eivät ole tässä vertailussa.</b> BookBeat, Storytel ja Nextory "
       "ovat tilauspalveluita, eivät kirjakauppoja — ne ansaitsevat oman kategoriansa.")])
+
+META["autoliikkeet"] = {
+    "slug": "autoliikkeet",
+    "nimi": "Autoliikkeet",
+    "nav": "Autoliikkeet",
+    "h1": "Suomen paras autoliike 2026",
+    "yksikko": "Suomessa toimivaa autoliikeketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa autoliikeketjua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö auton hinnan, takuun sisällön ja rahoituksen kulut ennen kuin "
+             "jätät yhteystietosi?"),
+    "meta_title": "Suomen paras autoliike 2026 | pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} autoliikeketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Vaihtoautokauppa on keskittynyt.</b> Laakkosen autotalot ovat nykyään "
+         "ruotsalaisen Hedin Mobility Groupin omistuksessa (Hedin Automotive Finland Oy, "
+         "aiemmin Veljekset Laakkonen Oy), ja samalle omistajalle kuuluu Suomessa myös "
+         "Delta Auto. Kerromme omistajan jokaisen yhtiön sivulla, koska kahden ketjun "
+         "vertailu ei ole vertailua, jos omistaja on sama."),
+        ("<b>Mitä tämä vertailu ei mittaa.</b> Emme arvioi autojen kuntoa, hintatasoa "
+         "emmekä kauppojen palvelua. Mittaamme sen, mitä ostaja näkee julkisilta sivuilta "
+         "ennen yhteydenottoa: hinnat, vaihtoautotakuun sisällön, rahoituksen kulut ja "
+         "palautus- tai vaihto-oikeuden."),
+        ("<b>Rahoituksen kulut ovat alan vaikein kohta.</b> Kuukausierä näkyy usein "
+         "isolla, mutta todellinen vuosikorko ja kokonaiskulut vasta pienellä tai "
+         "erillisessä liitteessä. Pisteytämme sen, löytyykö todellinen vuosikorko "
+         "julkiselta sivulta ilman lomakkeen täyttöä."),
+    ],
+}
+
+META["pikaruokaketjut"] = {
+    "slug": "pikaruokaketjut",
+    "nimi": "Pikaruokaketjut",
+    "nav": "Pikaruokaketjut",
+    "h1": "Suomen paras pikaruokaketju 2026",
+    "yksikko": "Suomessa toimivaa pikaruokaketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa pikaruokaketjua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö hinnat, allergeenit ja raaka-aineiden alkuperän ennen kuin "
+             "menet ravintolaan?"),
+    "meta_title": "Suomen paras pikaruokaketju 2026 | pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} pikaruokaketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Kolme ketjua, yksi operaattori.</b> Burger King, Taco Bell ja Golden Rax "
+         "kuuluvat kaikki Osuuskunta Tradekan omistamaan Restel-konserniin. Ketjut ovat "
+         "vertailussa erikseen, koska niillä on omat sivustot ja oma hinnoittelu, mutta "
+         "omistaja kerrotaan jokaisen kohdalla."),
+        ("<b>Emme arvioi ruokaa.</b> Maku, laatu ja ravintoloiden siisteys eivät ole "
+         "mitattavissa verkkosivulta. Mittaamme sen, mitä ketju kertoo julkisesti: "
+         "hinnat, allergeeni- ja ravintosisältötiedot, raaka-aineiden alkuperän sekä "
+         "ravintoloiden aukioloajat."),
+        ("<b>Allergeenitiedot ovat lain vaatimus, mutta esitystapa ei.</b> Tieto voi olla "
+         "selattavassa taulukossa, latautuvassa PDF:ssä tai vain ravintolassa kysyttäessä. "
+         "Pisteytämme sen, löytyykö tieto julkiselta sivulta tuotekohtaisesti."),
+    ],
+}

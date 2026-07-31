@@ -1481,3 +1481,51 @@ COMPANIES["kirjakauppojen-verkkokaupat"] = [
     dict(slug="karkkainen", nimi="Kärkkäinen", domain="karkkainen.com", y_tunnus="0865108-6",
          omistaja="Perheomisteisen ylivieskalaisen tavarataloyhtiö Kärkkäinen Oy:n (aputoiminimi J. Kärkkäinen) verkkokauppa, jossa kirjat ovat oma yli tuhannen nimikkeen osastonsa — tavaratalo, ei puhdas kirjakauppa."),
 ]
+
+# --- autoliikkeet (29.7.2026, Antonin pyyntö; PRH v3 + domain-tarkistus) ------
+# Delta Auto jätetty pois: deltaauto.fi ei enää vastaa — Delta Auto Oy on
+# sulautunut Hedin Automotive Retail Oy:hyn, eli sama omistaja kuin Laakkosella.
+# Vaihtoplus (Vehon vaihtoautoketju) jätetty pois: ei omaa elävää sivustoa,
+# vaihtoplus.fi ei vastaa — Vehon vaihtoautot mitataan veho.fi:n kautta.
+COMPANIES["autoliikkeet"] = [
+    dict(slug="kamux", nimi="Kamux", domain="kamux.fi", y_tunnus="2442327-8",
+         omistaja="Kamux Oyj (PRH: aktiivinen) on Helsingin pörssiin listattu käytettyjen autojen ketju, joka toimii Suomen lisäksi Ruotsissa ja Saksassa; Suomen liiketoiminnasta vastaa Kamux Suomi Oy."),
+    dict(slug="rinta-jouppi", nimi="J. Rinta-Jouppi", domain="rintajouppi.fi", y_tunnus="2045608-0",
+         omistaja="J. Rinta-Jouppi on Jarmo Rinta-Jouppi Oy:n (PRH: aktiivinen) aputoiminimi; seinäjokelainen perheyhtiö vuodesta 1987, konserniin kuuluvat myös Rinta-Jouppi Caravan ja Autojouppi."),
+    dict(slug="hedin-automotive", nimi="Hedin Automotive", domain="hedinautomotive.fi", y_tunnus="2081088-7",
+         omistaja="Hedin Automotive Finland Oy (PRH: aktiivinen, aiempi nimi Veljekset Laakkonen Oy) kuuluu ruotsalaiseen Hedin Mobility Groupiin; samalle omistajalle kuuluu Suomessa myös Delta Auto (Hedin Automotive Retail Oy). Laakkonen-nimi jäi autokaupasta pois: laakkonen.fi on nykyään Laakkonen Kiinteistöt Oy:n sivusto."),
+    dict(slug="veho", nimi="Veho", domain="veho.fi", y_tunnus="0115761-6",
+         omistaja="Veho Oy Ab (PRH: aktiivinen) on suomalainen autokaupan konserni vuodelta 1939, omistajina Vehon perheomistajat; vaihtoautoja myydään sekä Vehon omilla kauppapaikoilla että Vaihtoplus-konseptilla."),
+    dict(slug="saka", nimi="SAKA", domain="saka.fi", y_tunnus="3205932-2",
+         omistaja="SAKA Finland Oy (PRH: aktiivinen, aputoiminimet Suomen Autokauppa ja Saka Finland) on kotimainen käytettyjen autojen ketju, joka keskittyy vaihtoautokauppaan ilman merkkiedustuksia."),
+    dict(slug="wetteri", nimi="Wetteri", domain="wetteri.fi", y_tunnus="0548170-4",
+         omistaja="Wetteri Oyj (PRH: aktiivinen) on Helsingin pörssiin listattu pohjoissuomalainen autotalokonserni, joka myy sekä uusia että käytettyjä autoja usealla paikkakunnalla."),
+    dict(slug="autokeskus", nimi="Autokeskus", domain="autokeskus.fi", y_tunnus="1093812-3",
+         omistaja="Autokeskus Oy (PRH: aktiivinen, aputoiminimi AK-Outlet) on pääkaupunkiseudulla, Tampereella ja Turussa toimiva autotaloketju, joka myy uusia ja vaihtoautoja sekä ylläpitää AK-Outlet-vaihtoautomyymälöitä."),
+    dict(slug="hartikainen", nimi="Autotalo Hartikainen", domain="hartikainen.com", y_tunnus="9210103-5",
+         omistaja="Autotalo Hartikainen on E. Hartikainen Oy:n (PRH: aktiivinen) aputoiminimi; itäsuomalainen perheyhtiö, jonka autokauppa toimii Joensuussa, Kuopiossa ja Savonlinnassa."),
+]
+
+# --- pikaruokaketjut (29.7.2026, Antonin pyyntö; PRH v3 + domain-tarkistus) ---
+# Subway jätetty pois: subway.fi ohjaa subway.com/fi-fi-sivulle, joka ei vastaa
+# mittaukseen (yhteys katkeaa) — mittausaukko, ei väite puuttuvasta tiedosta.
+# Pancho Villa ja Pizza Hut jätetty pois: panchovilla.fi vastaa 403 (botti-esto)
+# eikä Pizza Hutin Suomen operaattoria voitu varmistaa PRH:sta.
+COMPANIES["pikaruokaketjut"] = [
+    dict(slug="hesburger", nimi="Hesburger", domain="hesburger.fi", y_tunnus="0845504-2",
+         omistaja="Hesburger on Burger-In Oy:n (PRH: aktiivinen) ketju; salolainen Harri ja Kirsti Ljungqvistin perheyhtiö vuodesta 1980, Suomen laajin pikaruokaketju."),
+    dict(slug="mcdonalds", nimi="McDonald's", domain="mcdonalds.fi", y_tunnus="2779836-6",
+         omistaja="McDonald's-ravintoloista Suomessa vastaa Food Folk Suomi Oy (PRH: aktiivinen), joka osti Pohjoismaiden McDonald's-liiketoiminnan vuonna 2017; brändi on yhdysvaltalaisen McDonald's Corporationin."),
+    dict(slug="kotipizza", nimi="Kotipizza", domain="kotipizza.fi", y_tunnus="0548483-3",
+         omistaja="Kotipizza Oyj (PRH: aktiivinen) on Suomen suurin pizzaketju; omistaja on norjalainen Orkla ASA, ja ravintolat toimivat yrittäjävetoisina franchising-ravintoloina."),
+    dict(slug="burger-king", nimi="Burger King", domain="burgerking.fi", y_tunnus="2538302-8",
+         omistaja="Burger Kingin Suomen ravintoloista vastaa Restel Fast Food Oy (PRH: aktiivinen), joka kuuluu Osuuskunta Tradekan omistamaan Resteliin; sama yhtiö operoi myös Taco Bellia Suomessa."),
+    dict(slug="taco-bell", nimi="Taco Bell", domain="tacobell.fi", y_tunnus="2538302-8",
+         omistaja="Taco Bellin Suomen ravintoloista vastaa Restel Fast Food Oy (PRH: aktiivinen) eli sama Tradekan omistama yhtiö kuin Burger Kingin; osa ravintoloista toimii yhteisravintoloina Burger Kingin kanssa."),
+    dict(slug="rax", nimi="Golden Rax", domain="rax.fi", y_tunnus="1572598-7",
+         omistaja="Golden Rax Pizzabuffet on Rax Ravintolat Oy:n (PRH: aktiivinen) ketju, joka kuuluu Osuuskunta Tradekan omistamaan Restel-konserniin — sama omistaja kuin Burger Kingillä ja Taco Bellilla."),
+    dict(slug="fafas", nimi="Fafa's", domain="fafas.fi", y_tunnus="2442719-9",
+         omistaja="Fafa's on Fafa's Plats Oy:n (PRH: aktiivinen) kotimainen pitaketju vuodelta 2011; ravintolat toimivat pääosin franchising-periaatteella."),
+    dict(slug="sibylla", nimi="Sibylla", domain="sibylla.fi", y_tunnus="1731965-9",
+         omistaja="Sibylla-konseptista Suomessa vastaa Atria Concept Oy (PRH: aktiivinen, aputoiminimi Sibylla), joka kuuluu suomalaiseen Atria Oyj:hyn; ravintolat toimivat huoltoasemien ja kauppojen yhteydessä."),
+]

@@ -575,3 +575,23 @@ TRANSPARENCY["taksipalvelut"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- erä 9 (29.7.2026): autoliikkeet + pikaruokaketjut -----------------------
+TRANSPARENCY["autoliikkeet"] = [
+    ("hinnat_esilla", "Autojen hinnat verkossa esillä", 25),
+    ("takuu_kerrottu", "Vaihtoautotakuun sisältö ja kesto kerrottu", 20),
+    ("rahoituskulut_kerrottu", "Rahoituksen todellinen vuosikorko ja kulut esillä", 15),
+    ("palautusehdot_saatavilla", "Palautus- tai vaihto-oikeus kerrottu", 15),
+    ("toimipisteet_ja_aukioloajat", "Toimipisteet ja aukioloajat kerrottu", 10),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 5),
+]
+
+TRANSPARENCY["pikaruokaketjut"] = [
+    ("hinnat_esilla", "Tuotteiden hinnat verkossa esillä", 25),
+    ("allergeenit_esilla", "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti", 25),
+    ("alkupera_kerrottu", "Raaka-aineiden alkuperä kerrottu", 15),
+    ("ravintolat_ja_aukioloajat", "Ravintolat ja aukioloajat kerrottu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
