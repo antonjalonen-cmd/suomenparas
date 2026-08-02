@@ -102,6 +102,7 @@ CATEGORY_GROUPS = [
         ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", "autoliikkeet", True),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", "taksipalvelut", True),
+        ("Pakettipalvelut", "pakettipalvelut", True),
     ]),
     ("Terveys ja hyvinvointi", [
         ("Hammaslääkärit", "hammaslaakarit", True), ("Yksityislääkärit", "yksityislaakarit", True),

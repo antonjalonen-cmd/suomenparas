@@ -1,0 +1,62 @@
+{
+  "slug": "postnord",
+  "fetched_ok": [
+    "https://www.postnord.fi/",
+    "https://www.postnord.fi/asiakaspalvelu",
+    "https://www.postnord.fi/asiakaspalvelu/kuluttaja-asiakkaat/",
+    "https://www.postnord.fi/tyokalut/etsi-noutopiste/",
+    "https://www.postnord.fi/tyokalut/sovellus/",
+    "https://www.postnord.fi/laheta/paketit/postnord-kotipaketti/",
+    "https://www.postnord.fi/laheta/paketit/postnord-automaatti/",
+    "https://www.postnord.fi/yhteystiedot/",
+    "https://www.postnord.fi/yhteystiedot/toimipisteet/",
+    "https://www.postnord.fi/yhteystiedot/myynti/",
+    "https://www.postnord.fi/asiakaspalvelu/yhteydenottolomake/",
+    "https://www.postnord.fi/postnordin-sovellusten-ja-verkkosivustojen-kayttoehdot/",
+    "https://www.postnord.fi/tietoa-postnordista/ajankohtaista/tiedotteet/postnordille-jalleen-kultaa-ecovadiksen-vastuullisuusarvioinnissa2/",
+    "https://www.postnord.fi/tietoa-postnordista/ajankohtaista/tiedotteet/postnordin-uudistunut-ja-monipuolinen-noutopisteverkosto-valmiina-suomalaisten-kayttoon/",
+    "https://www.postnord.fi/MogulSeoManagerSitemap",
+    "https://www.postnord.fi/robots.txt"
+  ],
+  "hinnasto_kuluttajalle": "ei",
+  "toimitusaika_kerrottu": "kylla",
+  "noutopisteet_tiedot": "kylla",
+  "reklamaatiomenettely": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 62,
+    "hintojen_loydettavyys": 15,
+    "sisallon_kattavuus": 55
+  },
+  "vahvuudet": [
+    "Noutopisteverkosto on selvästi esillä: sivusto kertoo 2 600 noutopistettä läpi Suomen ja tarjoaa hakutyökalun postinumeron tai osoitteen mukaan",
+    "Mobiilisovellus (PostNord-sovellus) on kattavasti kuvattu – chat-asiakaspalvelu, pakettien seuranta, Lähiboksin avaus ja ilmoitukset yhdessä sovelluksessa",
+    "EcoVadis-kultamitali 2026 ja kuluttajatutkimuksen vastuullisuustunnustus ovat julkisesti dokumentoitu omalla sivustolla"
+  ],
+  "kehityskohteet": [
+    "Kuluttajahinnat puuttuvat kokonaan julkiselta sivustolta – kaikki hintatiedot edellyttävät sopimusasiakkuutta, yksityishenkilölle ei ole yhtään hintaa näkyvissä",
+    "Reklamaatio- ja korvausmenettely kadonneelle tai vahingoittuneelle paketille ei ole kuvattu kuluttajasivuilla – yhteydenottolomakkeesta ei käy ilmi korvauspolku",
+    "Kuluttaja-asiakaspalveluosiosta puuttuu erillinen UKK-osio tai FAQ; 'Paketti-Pasi' -chatbot mainitaan mutta sen sisältöä ei voi arvioida ilman JavaScript-renderöintiä"
+  ],
+  "yhteenveto": "PostNord Oy (Y-tunnus 1056251-7) on ruotsalaisen PostNord AB:n tytäryhtiö, joka toimittaa paketteja 2 600 noutopisteeseen läpi Suomen ja tarjoaa kotiintoimituksen 1–3 arkipäivässä. Sivusto on rakennettu ensisijaisesti yritysasiakkaille: kuluttajahinnat eivät ole julkisesti saatavilla, mutta asiakaspalvelukanavat (puhelin 060096616, chat sovelluksessa, yhteydenottolomake) sekä noutopistehakutyökalu ovat selkeästi esillä.",
+  "evidence": {
+    "hinnasto_kuluttajalle": "HAVAINTO: Palvelusivuilla (postnord-kotipaketti, postnord-automaatti) sanotaan eksplisiittisesti 'Katso tämänhetkiset hinnat palvelusopimusasiakkaillemme' – hinnat eivät ole julkisesti näkyvissä eikä kuluttajalle suunnattua hinnastoa löydy mistään sivuston osiosta.",
+    "toimitusaika_kerrottu": "HAVAINTO: PostNord Kotipaketti -sivulla kerrotaan 'Suomen sisällä 1–3 arkipäivää', PostNord Automaatti -sivulla '1–2 arkipäivää kotimaassa ja 2–6 arkipäivää ulkomaille'. Toimitusajat on ilmoitettu tuotekohtaisesti.",
+    "noutopisteet_tiedot": "HAVAINTO: Sivulla tyokalut/etsi-noutopiste/ kerrotaan 'PostNord toimittaa paketteja 2 600 noutopisteeseen läpi Suomen' ja tarjotaan hakutyökalu postinumeron, paikkakunnan tai katuosoitteen mukaan. Noutopistetyypit (Lähiboksi-ulkoautomaatit 350 sijaintia, sisäautomaatit 850 sijaintia, palvelupisteet yli 1 100) on kuvattu uutissivuilla.",
+    "reklamaatiomenettely": "HAVAINTO: Yhteydenottolomakkeella (asiakaspalvelu/yhteydenottolomake/) asiakas voi lähettää viestin kirjaamalla seurantanumeron, mutta korvaus- tai reklamaatiomenettelyä kadonneelle tai vahingoittuneelle lähetykselle ei ole erillisellä sivulla kuvattu. Sivu /vastaanota/kadonneet-vahingoittuneet-tai-myohassa-saapuvat-lahetykset/ on sitemapissa mutta palautti HTTP 403.",
+    "y_tunnus_esilla": "HAVAINTO: Käyttöehdoissa (postnordin-sovellusten-ja-verkkosivustojen-kayttoehdot/) mainitaan 'PostNord Oy Y-tunnus 1056251-7, Osoite: Firdonkatu 2 T 81, 00520 Helsinki'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla on julkinen tiedote (2026-05-22) EcoVadis-kultatason vastuullisuusarvioinnista: 'PostNord Suomi kuuluu maailman vastuullisimman neljän prosentin yritysten joukkoon'. Myös kuluttajatutkimuksen perusteella myönnetty vastuullisuustunnustus on mainittu useissa uutistiedotteissa.",
+    "puhelin_esilla": "HAVAINTO: Kuluttaja-asiakaspalvelusivulla kerrotaan 'Puhelimitse palvelemme numerossa 060096616, puhelun hinta on 0,993 €/min, palvelemme puhelimitse arkisin klo 8–18'.",
+    "email_esilla": "HAVAINTO: Kuluttajille suunnattua sähköpostiosoitetta ei näytetä julkisesti – yhteydenotto ohjataan lomakkeen tai puhelimen kautta. Myyntisähköposti sales.fi@postnord.com on näkyvillä myynnin yhteystiedoissa, mutta se on B2B-osoite eikä kuluttaja-asiakaspalvelua.",
+    "chat_mainittu": "HAVAINTO: Kuluttaja-asiakaspalvelusivulla kerrotaan 'Kätevimmin asioit kanssamme chatissa. Chat toimii PostNordin mobiilisovelluksessa ja palvelemme siellä arkipäivisin klo 8–18'. Lisäksi 'Paketti-Pasi' -chatbot mainitaan sivun oikeassa alareunassa.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelimen aukioloaika 'arkisin klo 8–18' ja chatin aukioloaika 'arkipäivisin klo 8–18' on ilmoitettu selkeästi kuluttaja-asiakaspalvelusivulla.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellus on kattavasti kuvattu omalla sivullaan (tyokalut/sovellus/): seuranta, ilmoitukset, chat-asiakaspalvelu, Lähiboksin avaus ja latauslinkit App Storeen ja Google Playhin."
+  }
+}

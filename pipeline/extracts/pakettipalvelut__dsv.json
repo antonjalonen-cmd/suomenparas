@@ -1,0 +1,53 @@
+{
+  "slug": "dsv",
+  "fetched_ok": [
+    "https://www.dsv.com/fi-fi/",
+    "https://www.dsv.com/fi-fi/kuluttajat/",
+    "https://www.dsv.com/fi-fi/tukipalvelut/faq/",
+    "https://www.dsv.com/fi-fi/tietoa-dsvsta/",
+    "https://www.dsv.com/fi-fi/tukipalvelut/toimipaikat-suomessa/",
+    "https://www.dsv.com/fi-fi/tukipalvelut/itsepalvelut/"
+  ],
+  "hinnasto_kuluttajalle": "ei",
+  "toimitusaika_kerrottu": "ei",
+  "noutopisteet_tiedot": "kylla",
+  "reklamaatiomenettely": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 55,
+    "hintojen_loydettavyys": 5,
+    "sisallon_kattavuus": 30
+  },
+  "vahvuudet": [
+    "Noutopisteverkoston kattava kuvaus kuluttajasivulla sekä hakutyökalu lähimmän noutopisteen tai terminaalin löytämiseen",
+    "Suomen terminaalien aukioloajat ja puhelinnumerot listattu kattavasti toimipaikat-sivulla",
+    "Korvausvaatimuksia varten on olemassa eClaims-portaali, joka mainitaan itsepalvelut-sivulla"
+  ],
+  "kehityskohteet": [
+    "Kuluttajahinnat puuttuvat täysin julkiselta sivustolta — kotimaanpakettihinnat eivät näy ilman kirjautumista tai tarjouspyyntöä",
+    "Toimitusaikoja ei kerrota kuluttajasivuilla millään palveluluokalla (ei päivämäärähaarukkaa)",
+    "Y-tunnusta ei löydy mistään suomenkieliseltä sivulta, vaikka yhtiöiden nimet (DSV Road Oy ym.) mainitaan"
+  ],
+  "yhteenveto": "DSV (ent. DB Schenker) on kansainvälinen logistiikkajätti, jonka Suomen sivusto on suunnattu ensisijaisesti yrityksille. Kuluttajille on oma osio, joka kuvaa noutopisteverkoston ja pakettiautomaatit selkeästi, mutta hintatiedot, toimitusajat ja korvausmenettelyjen yksityiskohdat ovat piilossa kirjautumisseinän tai yhteydenottolomakkeen takana. Yksityisasiakkaan on käytännössä mahdotonta vertailla hintoja tai arvinoida palvelun ehtoja ennen rekisteröitymistä.",
+  "evidence": {
+    "hinnasto_kuluttajalle": "HAVAINTO: Kuluttajat-sivulla ei ole lainkaan hintoja kotimaan paketeille. Etusivulla lukee 'Kirjautuminen vaaditaan lentorahdin hinnoittelun tarkasteluun' ja 'Näe sopimushinnat kirjautumalla tilillesi'. Kuluttajasivulla näytetään vain noutopistekuvaus ilman hintamainintaa.",
+    "toimitusaika_kerrottu": "HAVAINTO: Kuluttajat-sivulla todetaan 'Toimitamme pakettiautomaatteihin jokaisena arkipäivänä', mutta tarkkaa toimitusaikahaarukkaa (esim. 1–3 vrk) ei mainita missään julkisella suomenkielisellä sivulla.",
+    "noutopisteet_tiedot": "HAVAINTO: Kuluttajat-sivulla kuvataan noutopisteiden kattavuus ('ympäri Suomen sekä haja-asutusalueilla että kaupungeissa, lähikaupoissa, kioskeissa ja huoltoasemilla') ja tarjotaan hakutyökalut lähimmän noutopisteen, pakettiautomaatin ja terminaalin löytämiseen.",
+    "reklamaatiomenettely": "HAVAINTO: Itsepalvelut-sivulla mainitaan 'Korvausvaatimukset: Hyödynnä eClaims-palveluamme korvausvaatimusten tekemiseen ja seurantaan'. FAQ-sivulla on otsikkotaso 'Ohjeet kuljetusvahingon sattuessa' ja 'Miten voin tehdä korvausvaatimuksen koskien lähetystäni?', mutta vastausten sisältö ei avaudu staattisessa haussa.",
+    "y_tunnus_esilla": "HAVAINTO: Toimipaikat-sivulla listataan DSV Road Oy, DSV Air & Sea Oy ja DSV Contract Logistics Oy osoitteineen, mutta Y-tunnusta ei mainita millään sivulla.",
+    "riippumaton_arvio": "HAVAINTO: Suomenkielisillä sivuilla ei näy palkintoja, sertifikaatteja tai muita riippumattomia arvioita, joihin kuluttaja voisi viitata.",
+    "puhelin_esilla": "HAVAINTO: Kuluttajat-sivulla lukee 'Tiedustelut koskien noutopistelähetyksiä p. 010 520 05'. Toimipaikat-sivulla on kattava listaus terminaalien puhelinnumeroista (010 520 00 ja terminaalikohtaiset numerot).",
+    "email_esilla": "HAVAINTO: Kuluttajat-sivulla on 'Lähetä sähköpostia' -painike, mutta sähköpostiosoitetta ei näytetä selväkielisenä tekstinä — linkki johtaa todennäköisesti lomakkeelle tai mailto-osoitteeseen joka ei ole suoraan luettavissa.",
+    "chat_mainittu": "HAVAINTO: Etusivulla mainitaan 'Keskustele virtuaaliavustajamme kanssa' ja 'Avaa chatbot', mutta sivujen alareunassa lukee 'The chatbot is under maintenance. Please try again later.' — chat on mainittu mutta ei toiminnassa.",
+    "aukioloajat_esilla": "HAVAINTO: Toimipaikat-sivulla listataan jokaisen Suomen terminaalin aukioloajat tarkasti, esim. 'Ma-Pe 07.00–18.00' (Lahti), 'Ma-Pe 06.00–18.00' (Kruunupyy) jne.",
+    "ukk_osio": "HAVAINTO: Sivustolla on erillinen FAQ-sivu (/tukipalvelut/faq/) kattavalla osiojaottelulla, mukaan lukien 'Pakettipalvelut ja kuriirilähetykset' -osio, jossa on mm. kysymys 'Mitä palveluita tarjoatte yksityiselle kuluttajalle?'.",
+    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita millään suomenkielisellä sivulla. Digitaaliset ratkaisut viittaavat myDSV-verkkoportaaliin, ei mobiilisovellukseen."
+  }
+}

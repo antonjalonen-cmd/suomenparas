@@ -1,0 +1,1365 @@
+{
+ "slug": "pakettipalvelut",
+ "nimi": "Pakettipalvelut",
+ "nav": "Pakettipalvelut",
+ "h1": "Suomen paras pakettipalvelu 2026",
+ "yksikko": "pakettipalveluntarjoajaa",
+ "lead": "Pisteytimme {n} Suomessa toimivaa pakettipalvelua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: saatko hinnan tietää ennen kuin rekisteröit pakettisi?",
+ "meta_title": "Suomen paras pakettipalvelu 2026 — Posti, DHL, Matkahuolto, PostNord, GLS, DSV pisteytettynä | Suomen Paras",
+ "meta_desc": "6 suomalaista pakettipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>DB Schenker on nyt DSV.</b> Deutsche Bahn myi koko DB Schenker -liiketoiminnan tanskalaiselle DSV A/S:lle 30.4.2025 (14,3 miljardia euroa). Suomessa Schenker Oy jatkaa toimintaansa DSV:n tytäryhtiönä ja dbschenker.com ohjaa nyt dsv.com/fi-fi/ -sivulle. Mittauksessa on siis DSV, ei DB Schenker.",
+  "<b>Vertailemme kuluttajapalvelua.</b> Kaikki kuusi yhtiötä tarjoavat pakettien lähetyspalvelun myös yksityishenkilöille, mutta B2B-paino vaihtelee merkittävästi: Posti ja Matkahuolto ovat selvästi kuluttajapainotteisia, DHL ja GLS kuluttaja- ja yrityspalvelua rinnakkain, DSV painottuu vahvasti yritysasiakkaisiin. Tämä näkyy hintaviestinnän selkeydessä ja noutopisteinformaatiossa.",
+  "<b>Noutopisteet, ei kotiinkuljetus.</b> Suurin osa suomalaisesta pakettikuljetuksesta kulkee noutopisteverkoston kautta. Mittaamme onko noutopisteiden määrä tai kartta julkisella sivulla, koska se on kuluttajalle yksi tärkeimmistä valintatekijöistä.",
+  "Emme vertaile lähetysnopeutta tai paketin perille saapumista käytännössä. Mittaamme sivuston julkista tietoa: hinnasto, aikataulut, noutopisteet ja reklamaatiomenettely."
+ ],
+ "yritykset": [
+  {
+   "slug": "matkahuolto",
+   "nimi": "Matkahuolto",
+   "domain": "matkahuolto.fi",
+   "omistaja": "Oy Matkahuolto Ab — suomalaisten linja-autoyritysten omistama, perustettu 1933; pakettipalvelut toimivat linja-autoasema- ja sopimusverkostossa",
+   "y_tunnus": "0111393-9",
+   "rekisteroity": 1978,
+   "score": 85.1,
+   "pillars": {
+    "digitaalinen": 75.0,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 85.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy välittömästi hintataulukko: XXS 6,80 €, XS 7,80 €, S 8,80 €, M 10,80 € sekä sarjapakettihinnat 56–76 €. Rekisteröintiä tai kirjautumista ei vaadita."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /paketit/laheta-ilman-sopimusta lukee 'Kuljetamme pakettisi 1-3 arkipäivän kuluessa.' Sama tieto toistuu asiakaspalvelusivulla /asiakaspalvelu/paketit/miten-lahetan-paketin: 'Kuljetusaika: Kuljetamme pakettisi 1-3 arkivuorokauden kuluessa.'"
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /paketit/palvelupisteverkosto ilmoitetaan 'Käytössäsi 1 450 pakettiautomaattia' ja kokonaisverkostona 2 550 pistettä (mainitaan liiketoimintasivulla). Sivulla on interaktiivinen kartta ja pisteen hakutoiminto postitoimipaikan tai -numeron mukaan."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Osoitteessa /vahingonkorvaushakemus on kuluttajille avoin lomake vahingoittumiseen, katoamiseen ja viivästymiseen. Sivulla neuvotaan kuvaamaan vauriot, toimittamaan kuitit ja ilmoitetaan lakisääteinen enimmäiskorvaus 20 €/kg (tiekuljetussopimuslaki)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa (/tietosuojaseloste-pakettipalvelut) lukee: 'Oy Matkahuolto Ab, Y-tunnus 0111393-9'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole esillä riippumattomia palkintoja, sertifiointeja tai ulkopuolisia arviointeja palvelun laadusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivuilla toistuu neuvontanumero p. 0600 11300 (ma–pe 8–18, 2,49 €/min) sekä tekninen tuki p. 020 33 6161 (ma-pe 8–10 ja 14–16, pvm/mpm)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajille ei ole ilmoitettu asiakaspalvelun sähköpostiosoitetta. Tietosuojasivulla mainitaan tietosuoja@matkahuolto.fi vain tietosuoja-asioita varten."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /paketit/paketit-sovellus mainitaan 'Maksuton asiakaspalveluchat palvelee arkisin ja lauantaisin' Paketit-sovelluksen kautta. Mauno-chatbotti ohjaa asiakaspalvelijalle tarvittaessa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinneuvonnan aukioloaika ma–pe 8–18 mainitaan toistuvasti asiakaspalvelusivuilla. Chat-palvelun kerrotaan palvelevan 'arkisin ja lauantaisin'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /usein-kysyttya on laaja FAQ-osio sekä matkustajille että pakettiasiakkaille. Pakettiosio kattaa mm. lähetyksen, vastaanottamisen, pakkaamisen ja vahinkotilanteet."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Matkahuolto Paketit -sovellus (iOS ja Android) esitellään omalla sivullaan /paketit/paketit-sovellus. Sovelluksella voi lähettää, seurata, noutaa ja palauttaa paketteja sekä käyttää chatia."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 18169.606,
+    "cls": 0.0138707489682453,
+    "tbt_ms": 2357
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kotimaanpakettihinnat (XXS 6,80 € – M 10,80 €) näkyvät suoraan etusivulla ilman kirjautumista tai lomakkeita",
+    "Kattava palvelupisteverkosto: 1 450 pakettiautomaattia ja yhteensä 2 550 pistettä ympäri Suomen, joiden sijainnit löytyvät interaktiiviselta kartalta",
+    "Vahingonkorvaushakemus kuluttajille on avoimesti saatavilla lomakkeena osoitteessa /vahingonkorvaushakemus yksityiskohtaisine täyttöohjeineen"
+   ],
+   "kehityskohteet": [
+    "Asiakaspalvelun sähköpostiosoitetta ei ole esillä kuluttajille – yhteydenottokanavana toimii vain puhelin tai chatti sovelluksen kautta",
+    "Riippumatonta arvioita, palkintoja tai ulkopuolisia luokituksia ei tuoda esiin sivustolla",
+    "Asiakaspalveluchat on saatavilla vain Paketit-mobiilisovelluksen kautta, ei suoraan verkkosivulta"
+   ],
+   "yhteenveto": "Matkahuolto on suomalainen paketti- ja linja-autoliikenneyhtiö, joka kuljettaa 20 miljoonaa pakettia vuodessa laajan 2 550 pisteen verkostonsa avulla. Kuluttajille suunnattu sivusto on selkeä: hinnat näkyvät etusivulla, toimitusaika (1–3 arkivuorokautta) on ilmoitettu usealla sivulla, ja vahingonkorvausprosessi on kuvattu avoimella lomakkeella. Asiakaspalvelu hoidetaan pääasiassa puhelimitse ja sovelluksen chatbotin kautta, eikä suoraa sähköpostiosoitetta kuluttajille ole tarjolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "gls",
+   "nimi": "GLS",
+   "domain": "gls-group.com",
+   "omistaja": "General Logistics Systems Finland Oy — osa GLS Group -konsernia; omistaja International Distributions Services plc (UK, ent. Royal Mail Group)",
+   "y_tunnus": "1739617-9",
+   "rekisteroity": 2001,
+   "score": 79.4,
+   "pillars": {
+    "digitaalinen": 77.6,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 65.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "59/100",
+       "paino": 40,
+       "pisteet": 59,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajasivulla (laheta-gls-lla/Kuluttajat-kertaluonteiset/) näkyy painoluokittainen hinnasto: max. 1 kg 24€, max. 3 kg 29€, max. 15 kg 59€, max. 25 kg 79€. Nouto osoitteesta +20€, osoitteeseen jakelu +5€."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajasivulla todetaan: 'Suomesta lähetettäessä kuljetusaikamme on pääsääntöisesti 1–3 arkipäivää naapurimaihin kuten Ruotsiin tai Baltian maihin. Kaukaisempiin Euroopan maihin toimitus tapahtuu pääosin 3–5 työpäivässä, syrjäisemmillekin alueille kahdeksan työpäivän kuluessa.'"
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan toistuvasti Matkahuollon toimipisteet ja pakettiautomaatit noutopaikkoina, mutta noutopisteiden tarkkaa lukumäärää tai interaktiivista karttaa ei ole julkisella sivulla saatavilla."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla /palautukset-palaute-reklamaatiot/ kuvataan reklamaatioprosessi: GLS:ltä suoraan ostettuun kuljetukseen reklamaatio sähköpostitse, viimeistään viiden arkipäivän kuluessa toimituksesta. Vahinkotilanteissa suositellaan valokuvia. Toimitusehdoissa kohdat 7.1–7.5 kattavat reklamaatioajat yksityiskohtaisesti."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yrityksen tiedot -sivulla (yrityksen-tiedot/) näkyy selkeästi: 'General Logistics Systems Finland Oy, Y-tunnus: 1739617-9, Rydöntie 6, 20360 Turku'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita yhtäkään riippumatonta palkintoa, sertifiointia (kuluttajanäkökulmasta) tai julkista arviolähdettä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja toimitus-sivuilla näkyy asiakaspalvelunumero +358 200 31300 (0,99€/min) pakettikyselyihin."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja useilla alasivuilla näkyy sähköpostiosoite glscustomerservice@gls-finland.com pakettikyselyihin."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelun puhelinpalvelun tai sähköpostipalvelun aukioloaikoja ei mainita sivustolla missään."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on kattava UKK-osio (/ukk/) erikseen lähettäjille ja vastaanottajille, sisältäen mm. toimitusajat, paketin mitat, reklamaatiokäytännöt ja seurantaohjeet."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 59,
+    "accessibility": 99,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 6992.026999999999,
+    "cls": 0.1974520506282767,
+    "tbt_ms": 219.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kuluttajahinnat esitetty selkeästi GLSpaketti.fi-sivulla painoluokittain (1 kg=24€, 3 kg=29€, 15 kg=59€, 25 kg=79€) ilman rekisteröintiä",
+    "Toimitusajat kerrottu konkreettisesti: 1–3 arkipäivää naapurimaihin, 3–5 työpäivää kaukaisempiin EU-maihin",
+    "Reklamaatio- ja palautusprosessi kuvattu omalla sivullaan sekä UKK:ssa ja toimitusehdoissa selkeästi"
+   ],
+   "kehityskohteet": [
+    "Noutopisteiden lukumäärää tai karttaa ei löydy julkiselta sivulta — vain maininta Matkahuollon toimipisteistä ja pakettiautomaateista",
+    "Asiakaspalvelun aukioloajat puuttuvat kokonaan sivustolta, vaikka puhelinnumero ja sähköposti ovat esillä",
+    "Riippumattomia arvioita tai palkintoja ei mainita sivustolla lainkaan"
+   ],
+   "yhteenveto": "GLS Finland (General Logistics Systems Finland Oy) on eurooppalainen pakettipalveluyritys, joka tarjoaa kuluttajille pakettien lähettämistä EU-maihin GLSpaketti.fi-portaalin kautta ilman sopimusta. Hinnat ja toimitusajat ovat julkisesti näkyvillä, mutta noutopisteverkoston laajuutta ei avata lukumäärällä tai kartalla. Reklamaatiomenettely on kuvattu selkeästi omalla sivullaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "Luotettava Kumppani",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://gls-group.com/FI/fi/"
+    },
+    {
+     "mittari": "ISO 14001 (ympäristöjärjestelmä)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://gls-group.com/GROUP/en/sustainability/"
+    }
+   ]
+  },
+  {
+   "slug": "posti",
+   "nimi": "Posti",
+   "domain": "posti.fi",
+   "omistaja": "Posti Jakelu Oy — Suomen valtio omistaa Posti Group Oyj:n (100 %); Suomen postipalveluiden pääoperaattori",
+   "y_tunnus": "0109357-9",
+   "rekisteroity": 1978,
+   "score": 73.9,
+   "pillars": {
+    "digitaalinen": 64.8,
+    "lapinakyvyys": 95.0,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 82.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "18/100",
+       "paino": 40,
+       "pisteet": 18,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.posti.fi/lahettaminen/paketit/pakettien-hinnastot näkyy täydellinen käteishinnasto pakettikoon mukaan: Pikkupaketti (XXS) 7,90 €, S 9,90 €, M 11,90 €, L 16,90 €, XL 22,90 €, XXL 44,90 € (posti.fi ja OmaPosti). Hinnat ovat näkyvillä ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuilla https://www.posti.fi/fi/ ja https://www.posti.fi/fi/lahettaminen näkyy selkeästi kunkin pakettikoon toimitusaika: S-, M- ja L-paketeille 'Toimitus noutopisteeseen 1–3 arkipäivässä', Pikkupaketti (XXS) 'Toimitus 5 työpäivässä postilaatikkoon'."
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.posti.fi/fi/ kerrotaan: 'Palvelemme ympäri Suomea yli 2100 automaatilla ja noin 1100 henkilökohtaisella palvelupisteellä. Automaattien lokeroita meillä on jo yli 170 000.' Sivulla https://www.posti.fi/palvelupisteet-kartalla on interaktiivinen Google-kartta palvelupisteiden hakemiseen."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on erillinen osio https://www.posti.fi/asiakaspalvelu/vahinkotilanteet, josta löytyvät alasivut vahingoittuneesta lähetyksestä ilmoittamiseen, korvausperusteisiin (10–20 e/kg painon mukaan) sekä perillesaamattoman paketin selvityspyyntöön. Korvausmenettely on kuvattu yksityiskohtaisesti esimerkein."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.posti.fi/asiakaspalvelu/ehdot-ja-selosteet/kayttoehdot/paketti-verkkopalvelusta mainitaan: 'Verkkopalvelun tarjoaa Posti Oy (y-tunnus: 2344200-4)'. Y-tunnus toistuu myös sähköisten kuluttajapalveluiden käyttöehdoissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhdeltäkään ladatuista sivuista ei löydy mainintaa riippumattomista palkinnosta, sertifikaatista tai ulkopuolisen tahon arviosta kuluttajille suunnatuissa pakettipalveluissa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivut (https://www.posti.fi/asiakaspalvelu ja https://www.posti.fi/yhteystiedot) eivät renderöineet React-pohjaisia yhteystietoja headless-selaimella – sivuilla näkyi 'Odottamaton ongelma'. Käyttöehtojen yhteystiedoissa mainitaan vain postiosoite ja posti.fi/yhteystiedot-linkki, ei puhelinnumeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://www.posti.fi/omaposti on selkeä kehotus ladata OmaPosti-sovellus, ja suorat linkit App Storeen ja Google Playhin on esillä. OmaPosti mainitaan myös etusivulla ja lähettämissivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 18,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 10139.807920000001,
+    "cls": 0.380693413865918,
+    "tbt_ms": 2086.456019999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Pakettien hinnat ovat selkeästi esillä etusivulla ja erillisellä hinnastosivulla ilman rekisteröitymistä: Pikkupaketti 7,90 €, S 9,90 €, M 11,90 €, L 16,90 €, XL 22,90 €, XXL 44,90 €.",
+    "Vahinkotilanteet on käsitelty perusteellisesti: sivustolla on oma osio korvausperusteille, vahinkoilmoituslomakkeelle ja kadonneelle paketille konkreettisin esimerkein (10–20 e/kg).",
+    "Noutopisteverkoston laajuus kerrotaan selkeästi (yli 2 100 automaattia ja noin 1 100 henkilökohtaista palvelupistettä) ja interaktiivinen kartta on saatavilla."
+   ],
+   "kehityskohteet": [
+    "Asiakaspalvelusivun reaktiiviset komponentit eivät lataudu luotettavasti headless-selaimella – puhelinnumero ja UKK-sisältö jäävät näkymättömiin.",
+    "Sähköpostiosoitetta ei löydy mistään ladatuista sivuista; yhteydenotto ohjataan verkkolomakkeelle tai OmaPosti-sovellukseen.",
+    "Riippumatonta arviota tai palkintoa ei ole esillä kuluttajapuolen sivuilla."
+   ],
+   "yhteenveto": "Posti on Suomen valtion omistama postiyhtiö ja maan suurin pakettipalveluiden tarjoaja. Sivusto tarjoaa erinomaisesti hinnat, toimitusajat ja vahinkomenettelyn julkisesti ilman kirjautumista, mutta asiakaspalvelun yhteystietosivu ei latautunut normaalisti headless-selaimella, joten puhelinnumeron ja chat-tuen olemassaoloa ei voitu varmistaa suoraan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "postnord",
+   "nimi": "PostNord",
+   "domain": "postnord.fi",
+   "omistaja": "PostNord Oy — PostNord AB:n (Tanska 40 %, Ruotsi 60 %) suomalainen tytäryhtiö",
+   "y_tunnus": "1056251-7",
+   "rekisteroity": 1996,
+   "score": 64.8,
+   "pillars": {
+    "digitaalinen": 67.5,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 44.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palvelusivuilla (postnord-kotipaketti, postnord-automaatti) sanotaan eksplisiittisesti 'Katso tämänhetkiset hinnat palvelusopimusasiakkaillemme' – hinnat eivät ole julkisesti näkyvissä eikä kuluttajalle suunnattua hinnastoa löydy mistään sivuston osiosta."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: PostNord Kotipaketti -sivulla kerrotaan 'Suomen sisällä 1–3 arkipäivää', PostNord Automaatti -sivulla '1–2 arkipäivää kotimaassa ja 2–6 arkipäivää ulkomaille'. Toimitusajat on ilmoitettu tuotekohtaisesti."
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla tyokalut/etsi-noutopiste/ kerrotaan 'PostNord toimittaa paketteja 2 600 noutopisteeseen läpi Suomen' ja tarjotaan hakutyökalu postinumeron, paikkakunnan tai katuosoitteen mukaan. Noutopistetyypit (Lähiboksi-ulkoautomaatit 350 sijaintia, sisäautomaatit 850 sijaintia, palvelupisteet yli 1 100) on kuvattu uutissivuilla."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenottolomakkeella (asiakaspalvelu/yhteydenottolomake/) asiakas voi lähettää viestin kirjaamalla seurantanumeron, mutta korvaus- tai reklamaatiomenettelyä kadonneelle tai vahingoittuneelle lähetykselle ei ole erillisellä sivulla kuvattu. Sivu /vastaanota/kadonneet-vahingoittuneet-tai-myohassa-saapuvat-lahetykset/ on sitemapissa mutta palautti HTTP 403."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdoissa (postnordin-sovellusten-ja-verkkosivustojen-kayttoehdot/) mainitaan 'PostNord Oy Y-tunnus 1056251-7, Osoite: Firdonkatu 2 T 81, 00520 Helsinki'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on julkinen tiedote (2026-05-22) EcoVadis-kultatason vastuullisuusarvioinnista: 'PostNord Suomi kuuluu maailman vastuullisimman neljän prosentin yritysten joukkoon'. Myös kuluttajatutkimuksen perusteella myönnetty vastuullisuustunnustus on mainittu useissa uutistiedotteissa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttaja-asiakaspalvelusivulla kerrotaan 'Puhelimitse palvelemme numerossa 060096616, puhelun hinta on 0,993 €/min, palvelemme puhelimitse arkisin klo 8–18'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajille suunnattua sähköpostiosoitetta ei näytetä julkisesti – yhteydenotto ohjataan lomakkeen tai puhelimen kautta. Myyntisähköposti sales.fi@postnord.com on näkyvillä myynnin yhteystiedoissa, mutta se on B2B-osoite eikä kuluttaja-asiakaspalvelua."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttaja-asiakaspalvelusivulla kerrotaan 'Kätevimmin asioit kanssamme chatissa. Chat toimii PostNordin mobiilisovelluksessa ja palvelemme siellä arkipäivisin klo 8–18'. Lisäksi 'Paketti-Pasi' -chatbot mainitaan sivun oikeassa alareunassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelimen aukioloaika 'arkisin klo 8–18' ja chatin aukioloaika 'arkipäivisin klo 8–18' on ilmoitettu selkeästi kuluttaja-asiakaspalvelusivulla."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellus on kattavasti kuvattu omalla sivullaan (tyokalut/sovellus/): seuranta, ilmoitukset, chat-asiakaspalvelu, Lähiboksin avaus ja latauslinkit App Storeen ja Google Playhin."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 14155.293499999998,
+    "cls": 0.15776659767792645,
+    "tbt_ms": 1080.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Noutopisteverkosto on selvästi esillä: sivusto kertoo 2 600 noutopistettä läpi Suomen ja tarjoaa hakutyökalun postinumeron tai osoitteen mukaan",
+    "Mobiilisovellus (PostNord-sovellus) on kattavasti kuvattu – chat-asiakaspalvelu, pakettien seuranta, Lähiboksin avaus ja ilmoitukset yhdessä sovelluksessa",
+    "EcoVadis-kultamitali 2026 ja kuluttajatutkimuksen vastuullisuustunnustus ovat julkisesti dokumentoitu omalla sivustolla"
+   ],
+   "kehityskohteet": [
+    "Kuluttajahinnat puuttuvat kokonaan julkiselta sivustolta – kaikki hintatiedot edellyttävät sopimusasiakkuutta, yksityishenkilölle ei ole yhtään hintaa näkyvissä",
+    "Reklamaatio- ja korvausmenettely kadonneelle tai vahingoittuneelle paketille ei ole kuvattu kuluttajasivuilla – yhteydenottolomakkeesta ei käy ilmi korvauspolku",
+    "Kuluttaja-asiakaspalveluosiosta puuttuu erillinen UKK-osio tai FAQ; 'Paketti-Pasi' -chatbot mainitaan mutta sen sisältöä ei voi arvioida ilman JavaScript-renderöintiä"
+   ],
+   "yhteenveto": "PostNord Oy (Y-tunnus 1056251-7) on ruotsalaisen PostNord AB:n tytäryhtiö, joka toimittaa paketteja 2 600 noutopisteeseen läpi Suomen ja tarjoaa kotiintoimituksen 1–3 arkipäivässä. Sivusto on rakennettu ensisijaisesti yritysasiakkaille: kuluttajahinnat eivät ole julkisesti saatavilla, mutta asiakaspalvelukanavat (puhelin 060096616, chat sovelluksessa, yhteydenottolomake) sekä noutopistehakutyökalu ovat selkeästi esillä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "dhl",
+   "nimi": "DHL",
+   "domain": "express.dhl",
+   "omistaja": "DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); kuluttajapalvelu portaalissa mydhl.express.dhl/fi/fi/ (dhl.com ei vastannut mittaushetkellä 2.8.2026)",
+   "y_tunnus": "2717767-4",
+   "rekisteroity": 2015,
+   "score": 63.6,
+   "pillars": {
+    "digitaalinen": 73.2,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 95.0,
+    "ai_laatu": 45.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston etusivulla on painike 'Tarkista hinta ja toimitusaika', mutta se vie lomakkeeseen jossa lähettäjän ja vastaanottajan osoitteet on pakollisia — yhtäkään euromääräistä hintaa ei näytetä ennen tietojen syöttämistä. Julkista hinnastosivua ei löydy navigaatiosta."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuljetuspalvelut-sivulla on vertailutaulukko, joka kertoo palveluluokista (Express 9:00, Express 10:30, Express 12:00, Express Worldwide, Express Easy) ja mainitsee 'Seuraava mahdollinen työpäivä' sekä '1-3 Työpäivää' vähemmän kiireellisille — mutta nämä koskevat kansainvälisiä lähetyksiä, kotimaan toimitusaikoja ei mainita."
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on 'Etsi palvelupiste' -linkki (locator.html), mutta kyseinen sivu ei ladannut sisältöä testauksen aikana. Noutopisteiden määrää tai karttaa ei näy julkisella sivulla."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yleisissä kuljetusehdoissa (kohta 7, Korvausvaatimukset) lukee: 'Kaikki vaatimukset on esitettävä DHL:lle kirjallisesti kolmenkymmenen (30) vuorokauden kuluessa siitä päivästä, jolloin DHL hyväksyi Lähetyksen kuljetettavaksi.' Lisäksi 'Apua ja tukea' -sivulla on erillinen sähköpostiyhteydenotto-osio otsakkeella 'Korvausvaatimukset'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Apua ja tukea' -sivun DHL-toimipiste-osiossa mainitaan 'DHL Express (Finland) Oy, Tietotie 9, 01530 VANTAA, VAT No. FI27177674'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei löydy mainintaa riippumattomista arviolähteistä, palkinnoista tai ulkopuolisista auditoinneista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelunumero 030 45 345 on esillä 'Apua ja tukea' -sivulla, aukioloaikoineen 'Arkisin klo 8.00–17.00'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Apua ja tukea' -sivulla on 'Lähetä meille sähköpostia' -osio, jossa voi valita yhteydenoton aiheen (mm. Korvausvaatimukset, Asiakaspalvelu, Myynti). Sähköpostiosoite avautuu lomakkeen kautta."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Chattaa kanssamme WhatsAppissa' sekä 'Digitaalinen avustajamme auttaa sinua vuorokauden ympäri. Avaa Chat!' on esillä 'Apua ja tukea' -sivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Apua ja tukea' -sivulla on selkeä aukioloaikataulu: 'Asiakaspalvelu maanantai–perjantai 8:00–16:00, lauantai: suljettu, sunnuntai: suljettu'. Lisäksi loma-aikojen kalenteri on näkyvissä."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-linkki on sekä päänavikaatiossa ('Apua ja tukea' > UKK) että sivuston alatunnisteessa. 'Apua ja tukea' -sivulla näkyy UKK-kategoriat: Lähettäminen verkossa, Noudot, Seuranta ja valvonta, Tullit ja verot, Palautuslähetykset, Maksaminen ja laskutus jne."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan MyDHL+, joka on käytettävissä verkkoselaimessa. Erillistä mobiilisovellusta tai App Store / Google Play -linkkiä ei löydy julkisilta sivuilta."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 8828.724999999999,
+    "cls": 0.05076705707270765,
+    "tbt_ms": 585.8040000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yhteystiedot erittäin kattavat: puhelin, sähköposti, WhatsApp-chat ja ympärivuorokautinen digitaalinen avustaja löytyvät selkeästi yhdeltä sivulta",
+    "Y-tunnus (FI27177674) ja reklamaatiomenettely julkaistu avoimesti yleisissä kuljetusehdoissa — vaatimus esitettävä 30 vrk:n kuluessa kirjallisesti",
+    "Palveluvertailutaulukko kertoo eri Express-tuotteista (Express 9:00, 10:30, 12:00, Express Worldwide, Express Easy) ja niiden aikatauluprofiilit"
+   ],
+   "kehityskohteet": [
+    "Yksityishenkilölle ei ole näkyvissä yhtäkään euromääräistä hintaa ennen osoitetietojen syöttämistä — hinnasto on kokonaan piilossa lomakkeen takana",
+    "Kotimaan pakettilähettämistä ei mainita lainkaan — DHL Express on selvästi suunnattu kansainvälisiin lähetyksiin, eikä palvele suomalaisen kuluttajan tavallista kotimaanpakettitarvetta",
+    "Noutopisteiden hakusivu (Etsi palvelupiste) ei latautunut sivustolta sisältöineen, joten pisteiden määrästä tai sijainnista ei saa tietoa julkisella sivulla"
+   ],
+   "yhteenveto": "DHL Express on kansainväliseen pikakuljetukseen erikoistunut kuriiriyhtiö, jonka suomalainen sivusto (mydhl.express.dhl/fi/fi/) on suunnattu pääasiassa yrityksille eikä tarjoa kuluttajalle julkista hinnastoa kotimaan lähetyksille. Yhteystiedot, aukioloajat ja reklamaatiomenettely on kuvattu selkeästi, mutta hintoihin pääsee vasta syöttämällä osoitetiedot järjestelmään tai kirjautumalla sisään.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "dsv",
+   "nimi": "DSV",
+   "domain": "dsv.com",
+   "omistaja": "Schenker Oy — DSV A/S:n (Tanska) tytäryhtiö; Deutsche Bahn myi DB Schenkerin DSV:lle 30.4.2025; domain vaihtunut dbschenker.com -> dsv.com",
+   "y_tunnus": "0124239-4",
+   "rekisteroity": 1978,
+   "score": 53.3,
+   "pillars": {
+    "digitaalinen": 80.0,
+    "lapinakyvyys": 27.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 30.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "75/100",
+       "paino": 40,
+       "pisteet": 75,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "77/100",
+       "paino": 30,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajat-sivulla ei ole lainkaan hintoja kotimaan paketeille. Etusivulla lukee 'Kirjautuminen vaaditaan lentorahdin hinnoittelun tarkasteluun' ja 'Näe sopimushinnat kirjautumalla tilillesi'. Kuluttajasivulla näytetään vain noutopistekuvaus ilman hintamainintaa."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajat-sivulla todetaan 'Toimitamme pakettiautomaatteihin jokaisena arkipäivänä', mutta tarkkaa toimitusaikahaarukkaa (esim. 1–3 vrk) ei mainita missään julkisella suomenkielisellä sivulla."
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajat-sivulla kuvataan noutopisteiden kattavuus ('ympäri Suomen sekä haja-asutusalueilla että kaupungeissa, lähikaupoissa, kioskeissa ja huoltoasemilla') ja tarjotaan hakutyökalut lähimmän noutopisteen, pakettiautomaatin ja terminaalin löytämiseen."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Itsepalvelut-sivulla mainitaan 'Korvausvaatimukset: Hyödynnä eClaims-palveluamme korvausvaatimusten tekemiseen ja seurantaan'. FAQ-sivulla on otsikkotaso 'Ohjeet kuljetusvahingon sattuessa' ja 'Miten voin tehdä korvausvaatimuksen koskien lähetystäni?', mutta vastausten sisältö ei avaudu staattisessa haussa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla listataan DSV Road Oy, DSV Air & Sea Oy ja DSV Contract Logistics Oy osoitteineen, mutta Y-tunnusta ei mainita millään sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suomenkielisillä sivuilla ei näy palkintoja, sertifikaatteja tai muita riippumattomia arvioita, joihin kuluttaja voisi viitata."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajat-sivulla lukee 'Tiedustelut koskien noutopistelähetyksiä p. 010 520 05'. Toimipaikat-sivulla on kattava listaus terminaalien puhelinnumeroista (010 520 00 ja terminaalikohtaiset numerot)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajat-sivulla on 'Lähetä sähköpostia' -painike, mutta sähköpostiosoitetta ei näytetä selväkielisenä tekstinä — linkki johtaa todennäköisesti lomakkeelle tai mailto-osoitteeseen joka ei ole suoraan luettavissa."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'Keskustele virtuaaliavustajamme kanssa' ja 'Avaa chatbot', mutta sivujen alareunassa lukee 'The chatbot is under maintenance. Please try again later.' — chat on mainittu mutta ei toiminnassa."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipaikat-sivulla listataan jokaisen Suomen terminaalin aukioloajat tarkasti, esim. 'Ma-Pe 07.00–18.00' (Lahti), 'Ma-Pe 06.00–18.00' (Kruunupyy) jne."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on erillinen FAQ-sivu (/tukipalvelut/faq/) kattavalla osiojaottelulla, mukaan lukien 'Pakettipalvelut ja kuriirilähetykset' -osio, jossa on mm. kysymys 'Mitä palveluita tarjoatte yksityiselle kuluttajalle?'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita millään suomenkielisellä sivulla. Digitaaliset ratkaisut viittaavat myDSV-verkkoportaaliin, ei mobiilisovellukseen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 75,
+    "accessibility": 77,
+    "seo": 83,
+    "best_practices": 96,
+    "lcp_ms": 4915.728000000001,
+    "cls": 0.08388719421275634,
+    "tbt_ms": 114.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Noutopisteverkoston kattava kuvaus kuluttajasivulla sekä hakutyökalu lähimmän noutopisteen tai terminaalin löytämiseen",
+    "Suomen terminaalien aukioloajat ja puhelinnumerot listattu kattavasti toimipaikat-sivulla",
+    "Korvausvaatimuksia varten on olemassa eClaims-portaali, joka mainitaan itsepalvelut-sivulla"
+   ],
+   "kehityskohteet": [
+    "Kuluttajahinnat puuttuvat täysin julkiselta sivustolta — kotimaanpakettihinnat eivät näy ilman kirjautumista tai tarjouspyyntöä",
+    "Toimitusaikoja ei kerrota kuluttajasivuilla millään palveluluokalla (ei päivämäärähaarukkaa)",
+    "Y-tunnusta ei löydy mistään suomenkieliseltä sivulta, vaikka yhtiöiden nimet (DSV Road Oy ym.) mainitaan"
+   ],
+   "yhteenveto": "DSV (ent. DB Schenker) on kansainvälinen logistiikkajätti, jonka Suomen sivusto on suunnattu ensisijaisesti yrityksille. Kuluttajille on oma osio, joka kuvaa noutopisteverkoston ja pakettiautomaatit selkeästi, mutta hintatiedot, toimitusajat ja korvausmenettelyjen yksityiskohdat ovat piilossa kirjautumisseinän tai yhteydenottolomakkeen takana. Yksityisasiakkaan on käytännössä mahdotonta vertailla hintoja tai arvinoida palvelun ehtoja ennen rekisteröitymistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "2.8.2026",
+ "opas": {
+  "johdanto": "Suomessa on useita pakettipalveluja, joista voit valita kotimaiseen tai kansainväliseen lähetykseen. Suurimmat kuluttajapalvelut ovat Posti, Matkahuolto, PostNord, DHL, GLS ja DSV (ent. DB Schenker). Hintaero samanlaisen paketin lähettämisessä voi olla merkittävä, joten kannattaa vertailla ennen valintaa.",
+  "huomioita": [
+   "DB Schenker on nyt DSV: Deutsche Bahn myi koko DB Schenker -liiketoiminnan tanskalaiselle DSV:lle 30.4.2025. dbschenker.com ohjaa nyt dsv.com/fi-fi/-sivulle.",
+   "Lähes kaikki suuret operaattorit toimivat noutopisteverkoston kautta — pakettia ei enää aina tuoda ovelle, vaan noudat sen lähimmästä automaatista tai palvelupisteestä.",
+   "Hinnat vaihtelevat paketin koon, painon ja palveluluokan mukaan. Kotimaisten operaattoreiden (Posti, Matkahuolto, PostNord) kotimaan pakettihinnat ovat julkisesti näkyvissä. DHL ja DSV ovat kansainväliseen pikakuljetukseen erikoistuneita — niiden hinnat on usein pyydettävä erikseen.",
+   "GLS on saanut ISO 14001 -ympäristösertifioinnin kaikissa ryhmän yhtiöissä. Posti, Matkahuolto ja PostNord raportoivat ympäristötoimistaan julkisesti."
+  ],
+  "vinkit": [
+   "Vertaile hintoja ennen jokaista lähetystä: operaattoreiden hinnat vaihtelevat, ja tarjoukset muuttuvat.",
+   "Tarkista noutopisteiden sijainti ennen valintaa — kaikki operaattorit eivät toimi kaikissa kaupoissa tai alueilla.",
+   "Tutustu reklamaatiomenettelyyn ennen lähetystä: kadonneesta tai vahingoittuneesta paketista on yleensä ilmoitettava 7-30 vuorokauden kuluessa.",
+   "Jos lähetät kansainvälisesti, DHL Express tai DSV voivat olla nopeampia — mutta kalliimpia kuin Postin kansainvälinen paketti.",
+   "Seuraa paketin tilaa reaaliaikaisesti operaattorin omalla seurantasivulla tai -sovelluksella."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on edullisin tapa lähettää paketti Suomessa?",
+    "a": "Posti, Matkahuolto ja PostNord tarjoavat edullisimmat kotimaan pakettihinnat kuluttajille. Hinta riippuu paketin koosta ja painosta. Vertaile aina ennen lähettämistä, sillä hinnat vaihtelevat ja tarjouksia on usein saatavilla."
+   },
+   {
+    "q": "Mitä jos pakettini katoaa tai vahingoittuu?",
+    "a": "Reklamaatio on tehtävä kirjallisesti operaattorille. Aikarajat vaihtelevat: DHL vaatii ilmoituksen 30 vuorokauden kuluessa, muilla yleensä 7-14 päivää. Tee reklamaatio välittömästi, kun havaitset ongelman."
+   },
+   {
+    "q": "Miksi DB Schenker ei enää näy vertailussa?",
+    "a": "DB Schenker ei enää ole itsenäinen brändi: Deutsche Bahn myi sen tanskalaiselle DSV:lle 30.4.2025, ja sivusto on siirtynyt dsv.com-osoitteeseen. Vertailussa on nyt DSV (ent. DB Schenker)."
+   },
+   {
+    "q": "Voiko paketteja lähettää myös yksityishenkilöltä yksityishenkilölle?",
+    "a": "Kyllä. Posti, Matkahuolto ja PostNord palvelevat selkeimmin yksityisasiakkaita ja tarjoavat hinnat sekä noutopisteverkoston julkisilla sivuillaan. DHL ja DSV ovat enemmän yrityssuuntautuneita, mutta tarjoavat myös yksityishenkilöiden lähetyksiä."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä (30), toimitusaika per palveluluokka kerrottu (20), noutopisteiden määrä tai kartta saatavilla (20), korvaus- ja reklamaatiomenettely kuvattu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (5)"
+}

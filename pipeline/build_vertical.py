@@ -97,6 +97,7 @@ MEASURED = {
     # erä 9
     "autoliikkeet": "2.8.2026",
     "pikaruokaketjut": "2.8.2026",
+    "pakettipalvelut": "2.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

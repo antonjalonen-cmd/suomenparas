@@ -1,0 +1,60 @@
+{
+  "slug": "matkahuolto",
+  "fetched_ok": [
+    "https://www.matkahuolto.fi/",
+    "https://www.matkahuolto.fi/paketit/laheta-ilman-sopimusta",
+    "https://www.matkahuolto.fi/paketit/palvelupisteverkosto",
+    "https://www.matkahuolto.fi/vahingonkorvaushakemus",
+    "https://www.matkahuolto.fi/usein-kysyttya",
+    "https://www.matkahuolto.fi/asiakaspalvelu",
+    "https://www.matkahuolto.fi/yhteystiedot",
+    "https://www.matkahuolto.fi/matkahuolto-yrityksena/liiketoiminta",
+    "https://www.matkahuolto.fi/tietosuojaseloste-pakettipalvelut",
+    "https://www.matkahuolto.fi/paketit/kuljetusehdot-kateisasiakkaille",
+    "https://www.matkahuolto.fi/asiakaspalvelu/paketit/miten-lahetan-paketin",
+    "https://www.matkahuolto.fi/asiakaspalvelu/paketit/miten-vastaanotan-paketin",
+    "https://www.matkahuolto.fi/paketit/paketit-sovellus"
+  ],
+  "hinnasto_kuluttajalle": "kylla",
+  "toimitusaika_kerrottu": "kylla",
+  "noutopisteet_tiedot": "kylla",
+  "reklamaatiomenettely": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 82,
+    "sisallon_kattavuus": 85,
+    "hintojen_loydettavyys": 90
+  },
+  "vahvuudet": [
+    "Kotimaanpakettihinnat (XXS 6,80 € – M 10,80 €) näkyvät suoraan etusivulla ilman kirjautumista tai lomakkeita",
+    "Kattava palvelupisteverkosto: 1 450 pakettiautomaattia ja yhteensä 2 550 pistettä ympäri Suomen, joiden sijainnit löytyvät interaktiiviselta kartalta",
+    "Vahingonkorvaushakemus kuluttajille on avoimesti saatavilla lomakkeena osoitteessa /vahingonkorvaushakemus yksityiskohtaisine täyttöohjeineen"
+  ],
+  "kehityskohteet": [
+    "Asiakaspalvelun sähköpostiosoitetta ei ole esillä kuluttajille – yhteydenottokanavana toimii vain puhelin tai chatti sovelluksen kautta",
+    "Riippumatonta arvioita, palkintoja tai ulkopuolisia luokituksia ei tuoda esiin sivustolla",
+    "Asiakaspalveluchat on saatavilla vain Paketit-mobiilisovelluksen kautta, ei suoraan verkkosivulta"
+  ],
+  "yhteenveto": "Matkahuolto on suomalainen paketti- ja linja-autoliikenneyhtiö, joka kuljettaa 20 miljoonaa pakettia vuodessa laajan 2 550 pisteen verkostonsa avulla. Kuluttajille suunnattu sivusto on selkeä: hinnat näkyvät etusivulla, toimitusaika (1–3 arkivuorokautta) on ilmoitettu usealla sivulla, ja vahingonkorvausprosessi on kuvattu avoimella lomakkeella. Asiakaspalvelu hoidetaan pääasiassa puhelimitse ja sovelluksen chatbotin kautta, eikä suoraa sähköpostiosoitetta kuluttajille ole tarjolla.",
+  "evidence": {
+    "hinnasto_kuluttajalle": "HAVAINTO: Etusivulla näkyy välittömästi hintataulukko: XXS 6,80 €, XS 7,80 €, S 8,80 €, M 10,80 € sekä sarjapakettihinnat 56–76 €. Rekisteröintiä tai kirjautumista ei vaadita.",
+    "toimitusaika_kerrottu": "HAVAINTO: Sivulla /paketit/laheta-ilman-sopimusta lukee 'Kuljetamme pakettisi 1-3 arkipäivän kuluessa.' Sama tieto toistuu asiakaspalvelusivulla /asiakaspalvelu/paketit/miten-lahetan-paketin: 'Kuljetusaika: Kuljetamme pakettisi 1-3 arkivuorokauden kuluessa.'",
+    "noutopisteet_tiedot": "HAVAINTO: Sivulla /paketit/palvelupisteverkosto ilmoitetaan 'Käytössäsi 1 450 pakettiautomaattia' ja kokonaisverkostona 2 550 pistettä (mainitaan liiketoimintasivulla). Sivulla on interaktiivinen kartta ja pisteen hakutoiminto postitoimipaikan tai -numeron mukaan.",
+    "reklamaatiomenettely": "HAVAINTO: Osoitteessa /vahingonkorvaushakemus on kuluttajille avoin lomake vahingoittumiseen, katoamiseen ja viivästymiseen. Sivulla neuvotaan kuvaamaan vauriot, toimittamaan kuitit ja ilmoitetaan lakisääteinen enimmäiskorvaus 20 €/kg (tiekuljetussopimuslaki).",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa (/tietosuojaseloste-pakettipalvelut) lukee: 'Oy Matkahuolto Ab, Y-tunnus 0111393-9'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole esillä riippumattomia palkintoja, sertifiointeja tai ulkopuolisia arviointeja palvelun laadusta.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivuilla toistuu neuvontanumero p. 0600 11300 (ma–pe 8–18, 2,49 €/min) sekä tekninen tuki p. 020 33 6161 (ma-pe 8–10 ja 14–16, pvm/mpm).",
+    "email_esilla": "HAVAINTO: Kuluttajille ei ole ilmoitettu asiakaspalvelun sähköpostiosoitetta. Tietosuojasivulla mainitaan tietosuoja@matkahuolto.fi vain tietosuoja-asioita varten.",
+    "chat_mainittu": "HAVAINTO: Sivulla /paketit/paketit-sovellus mainitaan 'Maksuton asiakaspalveluchat palvelee arkisin ja lauantaisin' Paketit-sovelluksen kautta. Mauno-chatbotti ohjaa asiakaspalvelijalle tarvittaessa.",
+    "aukioloajat_esilla": "HAVAINTO: Puhelinneuvonnan aukioloaika ma–pe 8–18 mainitaan toistuvasti asiakaspalvelusivuilla. Chat-palvelun kerrotaan palvelevan 'arkisin ja lauantaisin'.",
+    "ukk_osio": "HAVAINTO: Sivulla /usein-kysyttya on laaja FAQ-osio sekä matkustajille että pakettiasiakkaille. Pakettiosio kattaa mm. lähetyksen, vastaanottamisen, pakkaamisen ja vahinkotilanteet.",
+    "mobiilisovellus": "HAVAINTO: Matkahuolto Paketit -sovellus (iOS ja Android) esitellään omalla sivullaan /paketit/paketit-sovellus. Sovelluksella voi lähettää, seurata, noutaa ja palauttaa paketteja sekä käyttää chatia."
+  }
+}

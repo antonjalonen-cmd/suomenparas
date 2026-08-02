@@ -1,0 +1,52 @@
+{
+  "slug": "gls",
+  "fetched_ok": [
+    "https://gls-group.com/FI/fi/home/",
+    "https://gls-group.com/FI/fi/laheta-gls-lla/Kuluttajat-kertaluonteiset/",
+    "https://gls-group.com/FI/fi/vastaanota-lahetys/toimitus-suomessa/",
+    "https://gls-group.com/FI/fi/vastaanota-lahetys/palautukset-palaute-reklamaatiot/",
+    "https://gls-group.com/FI/fi/ukk/",
+    "https://gls-group.com/FI/fi/yrityksen-tiedot/",
+    "https://gls-group.com/FI/fi/toimitusehdot/"
+  ],
+  "hinnasto_kuluttajalle": "kylla",
+  "toimitusaika_kerrottu": "kylla",
+  "noutopisteet_tiedot": "osittain",
+  "reklamaatiomenettely": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {
+    "selkeys": 72,
+    "sisallon_kattavuus": 70,
+    "hintojen_loydettavyys": 78
+  },
+  "vahvuudet": [
+    "Kuluttajahinnat esitetty selkeästi GLSpaketti.fi-sivulla painoluokittain (1 kg=24€, 3 kg=29€, 15 kg=59€, 25 kg=79€) ilman rekisteröintiä",
+    "Toimitusajat kerrottu konkreettisesti: 1–3 arkipäivää naapurimaihin, 3–5 työpäivää kaukaisempiin EU-maihin",
+    "Reklamaatio- ja palautusprosessi kuvattu omalla sivullaan sekä UKK:ssa ja toimitusehdoissa selkeästi"
+  ],
+  "kehityskohteet": [
+    "Noutopisteiden lukumäärää tai karttaa ei löydy julkiselta sivulta — vain maininta Matkahuollon toimipisteistä ja pakettiautomaateista",
+    "Asiakaspalvelun aukioloajat puuttuvat kokonaan sivustolta, vaikka puhelinnumero ja sähköposti ovat esillä",
+    "Riippumattomia arvioita tai palkintoja ei mainita sivustolla lainkaan"
+  ],
+  "yhteenveto": "GLS Finland (General Logistics Systems Finland Oy) on eurooppalainen pakettipalveluyritys, joka tarjoaa kuluttajille pakettien lähettämistä EU-maihin GLSpaketti.fi-portaalin kautta ilman sopimusta. Hinnat ja toimitusajat ovat julkisesti näkyvillä, mutta noutopisteverkoston laajuutta ei avata lukumäärällä tai kartalla. Reklamaatiomenettely on kuvattu selkeästi omalla sivullaan.",
+  "evidence": {
+    "hinnasto_kuluttajalle": "HAVAINTO: Kuluttajasivulla (laheta-gls-lla/Kuluttajat-kertaluonteiset/) näkyy painoluokittainen hinnasto: max. 1 kg 24€, max. 3 kg 29€, max. 15 kg 59€, max. 25 kg 79€. Nouto osoitteesta +20€, osoitteeseen jakelu +5€.",
+    "toimitusaika_kerrottu": "HAVAINTO: Kuluttajasivulla todetaan: 'Suomesta lähetettäessä kuljetusaikamme on pääsääntöisesti 1–3 arkipäivää naapurimaihin kuten Ruotsiin tai Baltian maihin. Kaukaisempiin Euroopan maihin toimitus tapahtuu pääosin 3–5 työpäivässä, syrjäisemmillekin alueille kahdeksan työpäivän kuluessa.'",
+    "noutopisteet_tiedot": "HAVAINTO: Sivustolla mainitaan toistuvasti Matkahuollon toimipisteet ja pakettiautomaatit noutopaikkoina, mutta noutopisteiden tarkkaa lukumäärää tai interaktiivista karttaa ei ole julkisella sivulla saatavilla.",
+    "reklamaatiomenettely": "HAVAINTO: Sivulla /palautukset-palaute-reklamaatiot/ kuvataan reklamaatioprosessi: GLS:ltä suoraan ostettuun kuljetukseen reklamaatio sähköpostitse, viimeistään viiden arkipäivän kuluessa toimituksesta. Vahinkotilanteissa suositellaan valokuvia. Toimitusehdoissa kohdat 7.1–7.5 kattavat reklamaatioajat yksityiskohtaisesti.",
+    "y_tunnus_esilla": "HAVAINTO: Yrityksen tiedot -sivulla (yrityksen-tiedot/) näkyy selkeästi: 'General Logistics Systems Finland Oy, Y-tunnus: 1739617-9, Rydöntie 6, 20360 Turku'.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita yhtäkään riippumatonta palkintoa, sertifiointia (kuluttajanäkökulmasta) tai julkista arviolähdettä.",
+    "puhelin_esilla": "HAVAINTO: Etusivulla ja toimitus-sivuilla näkyy asiakaspalvelunumero +358 200 31300 (0,99€/min) pakettikyselyihin.",
+    "email_esilla": "HAVAINTO: Etusivulla ja useilla alasivuilla näkyy sähköpostiosoite glscustomerservice@gls-finland.com pakettikyselyihin.",
+    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun puhelinpalvelun tai sähköpostipalvelun aukioloaikoja ei mainita sivustolla missään.",
+    "ukk_osio": "HAVAINTO: Sivustolla on kattava UKK-osio (/ukk/) erikseen lähettäjille ja vastaanottajille, sisältäen mm. toimitusajat, paketin mitat, reklamaatiokäytännöt ja seurantaohjeet."
+  }
+}

@@ -1545,7 +1545,7 @@ COMPANIES["pakettipalvelut"] = [
     dict(slug="postnord", nimi="PostNord", domain="postnord.fi", y_tunnus="1056251-7",
          omistaja="PostNord Oy — PostNord AB:n (Tanska 40 %, Ruotsi 60 %) suomalainen tytäryhtiö"),
     dict(slug="dhl", nimi="DHL", domain="dhl.com", y_tunnus="2717767-4",
-         omistaja="DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); kuluttajapalvelu osoitteessa dhl.com/fi-fi"),
+         omistaja="DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); Suomen verkkosivusto dhl.com/fi-fi on yritysasiakkaille suunnattu — kotimaan kuluttajareklamaatiot ohjataan Postin sivuille"),
     dict(slug="gls", nimi="GLS", domain="gls-group.com", y_tunnus="1739617-9",
          omistaja="General Logistics Systems Finland Oy — osa GLS Group -konsernia; omistaja International Distributions Services plc (UK, ent. Royal Mail Group)"),
     # DSV HUOM: db Schenkerin kuluttajasivu ohjautuu nyt dsv.com/fi-fi/. DSV on B2B-painotteinen
