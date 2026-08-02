@@ -25,7 +25,7 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 
 ## Jono
 - [x] autoliikkeet — julkaistu 2.8.2026 (autopilot-tikki; 7 yhtiötä, check_extracts 7/7 OK; Kamux #1 82,6, Veho viimeinen 64,2; Hartikainen karsittu: myi autokaupan Wetterille 8.3.2023, hartikainen.com nyt maarakennusyhtiö; Autokeskus: ISO 9001/14001 + Suomalaisen Työn Liitto sertit)
-- [ ] pikaruokaketjut — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH ajettu (mcdonalds vaatii www.mcdonalds.fi), 0 extraktia. Poissuljetut dokumentoitu companies.py:ssä (Subway ei vastaa, Pancho Villa 403, Pizza Hutin operaattoria ei varmistettu). Jatka vaiheesta 4 (ekstraktio).
+- [~] pikaruokaketjut — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH ajettu (mcdonalds vaatii www.mcdonalds.fi), 0 extraktia. Poissuljetut dokumentoitu companies.py:ssä (Subway ei vastaa, Pancho Villa 403, Pizza Hutin operaattoria ei varmistettu). Jatka vaiheesta 4 (ekstraktio).
 - [x] lastenvaatteiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Reima #1 74,5; Papu konkurssi 10/2025, Polarn O. Pyret karsittu SPA+Cloudflare)
 - [x] lemmikkitarvikkeiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Koiranurkka #1 83,3; Faunatar ei vastaa, affiliate-aggregaattorit karsittu)
 - [x] hotelliketjut — julkaistu 28.7.2026 (6 ketjua; Omena #1 78,8, Scandic viimeinen 61,0; Radisson+Best Western karsittu 403-esto)
