@@ -48,7 +48,7 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 - [x] apteekkien-verkkokaupat — julkaistu 24.7.2026 (autopilot-tikki; 7 yhtiota, check_extracts 7/7 OK; Nettiapteekki #1 86.3 p, Yliopiston Apteekki #2 85.0 p)
 - [x] silmasairaalat — julkaistu 26.7.2026 (päätyösessio, Antonin pyyntö; 6 yhtiötä, check_extracts 6/6 OK; Mehiläinen #1 75,8; Terveystalo vaati /fi/-polut, Imperva-esto ohitettu oikeilla linkeillä ei kiertämällä)
 - [x] tyonvalityspalvelut — julkaistu 26.7.2026 (päätyösessio; 8 yhtiötä, check_extracts 8/8 OK; Barona #1 68,0; palkkatieto puuttuu lähes koko alalta)
-- [ ] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
+- [~] varainhoito-roboneuvojat — kandidaatit: tarkista päällekkäisyys sijoitusalustat-kategorian kanssa ennen aloitusta
 - [ ] kotisiivouksen-tilauspalvelut — tarkista päällekkäisyys siivouspalvelut-kategorian kanssa → todennäköisesti [s]
 - [x] aurinkopaneeliasentajat — julkaistu 28.7.2026 (8 yhtiötä; Solarum+1KOMMA5° jaettu #1 78,5; Fortum/Vattenfall/Otovo/Naps poistuneet markkinalta; Seronin ovimyyntihuomautus kerrottu avoimesti)
 - [x] lämpöpumppuasentajat — julkaistu 27.7.2026 (8 yhtiötä; Zatap #1 82,0; markkinajohtaja Tom Allen Senera vasta 59,9 — tavoitettavuus 15)
