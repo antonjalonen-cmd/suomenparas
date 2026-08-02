@@ -1,0 +1,52 @@
+{
+  "slug": "saka",
+  "fetched_ok": [
+    "https://saka.fi/fi",
+    "https://saka.fi/fi/tuotteet-ja-palvelut/rahoitus",
+    "https://saka.fi/fi/tuotteet-ja-palvelut/sakavarma",
+    "https://saka.fi/fi/yritys/saka-yrityksena",
+    "https://saka.fi/fi/usein-kysytyt-kysymykset",
+    "https://saka.fi/fi/vaihtoautot",
+    "https://saka.fi/fi/yritys/saka-kokemuksia",
+    "https://saka.fi/fi/autoliike",
+    "https://saka.fi/fi/yritys/laskutustiedot"
+  ],
+  "hinnat_esilla": "kylla",
+  "takuu_kerrottu": "kylla",
+  "rahoituskulut_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "ei",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 82,
+    "sisallon_kattavuus": 75,
+    "hintojen_loydettavyys": 85
+  },
+  "vahvuudet": [
+    "Kaikki 29 toimipisteen osoitteet ja aukioloajat löytyvät selkeästi yhdeltä sivulta puhelinnumeroineen.",
+    "SakaVarma-lisäturvan kesto (12–24 kk) ja ehdot on kuvattu kattavasti omalla sivullaan, ja virhevastuu erotetaan selkeästi lisäturvasta.",
+    "Y-tunnus (3205932-2) on julkisesti näkyvillä laskutustiedot-sivulla, ja Google-arvostelut (ka. 4,5/5) sekä Auto Bild Palvelu 1 -palkinto mainitaan yrityssivuilla."
+  ],
+  "kehityskohteet": [
+    "Rahoitussivulta puuttuu lakisääteinen todellinen vuosikorko (TVK) tai edustava esimerkkilaskelma; laskuri antaa vain viitteellisiä lukuja.",
+    "Sivustolla ei mainita palautusoikeutta tai kokeiluaikaa etäostoksille, vaikka Saka Select -etämyynti on käytössä.",
+    "Asiakkaalle suunnattua sähköpostiosoitetta ei löydy; yhteydenotto on ohjattu lomakkeeseen, ja ainut näkyvä sähköposti (ostolaskut@saka.fi) on tarkoitettu toimittajien laskuille."
+  ],
+  "yhteenveto": "Saka Finland Oy on Suomen suurin vaihtoautokauppaketju noin 761 miljoonan euron liikevaihdolla ja 29 myymälällä. Sivusto on selkeärakenteinen ja kattaa toimipisteet, aukioloajat, takuuehdot ja UKK-osion hyvin, mutta rahoituksen todellinen vuosikorko ja etäkaupan palautusoikeus puuttuvat julkisesta sisällöstä. Google-arvostelut (ka. 4,5/5) ja Auto Bild -palkinto vuosilta 2022, 2024 ja 2025 ovat riippumattomia luottamusindikaattoreita.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla kerrotaan 'yli 3500 vaihtoautoa' ja rahoitussivulla todetaan 'Jokaisen auton myynti-ilmoituksessa on käytössä autorahoituslaskuri' – hinnat näkyvät ilmoituskohtaisesti. Vaihtoautot-sivu (https://saka.fi/fi/vaihtoautot) ladattu onnistuneesti.",
+    "takuu_kerrottu": "HAVAINTO: SakaVarma-sivulla (https://saka.fi/fi/tuotteet-ja-palvelut/sakavarma) kerrotaan: 'SakaVarma on voimassa aina 12 kuukauden ajan, ellet valitse pidempää kestoa' sekä sopimuskauden korotus 24 kk:teen. Eri turvatason tasot (SakaVarma, SakaVarma Laaja, SakaVarma Laaja+) ja 150 € omavastuu on julkisesti kuvattu.",
+    "rahoituskulut_kerrottu": "HAVAINTO: Rahoitussivulla (https://saka.fi/fi/tuotteet-ja-palvelut/rahoitus) mainitaan autorahoituslaskuri, mutta sen luvut ovat 'aina viitteellisiä'. Todellista vuosikorkoa (TVK) tai kuluttajansuojalain mukaista edustava esimerkkilaskelmaa ei löydy julkiselta sivulta – laskuri vaatii yhteydenottoa myyjään.",
+    "palautusehdot_saatavilla": "HAVAINTO: Kaikilla ladatuilla sivuilla (etusivu, rahoitus, SakaVarma, UKK, yrityssivu) ei mainita palautusoikeutta, vaihto-oikeutta tai koeaikaa. UKK-sivun kysymykset käsittelevät rengaspaineita, rahoitusta ja vikaraportoita, mutta eivät palautusta. Saka Select -etämyynti mainitaan, mutta palautusprosessia ei kuvata.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla (https://saka.fi/fi/autoliike) listataan jokainen myymälä osoitteineen ja aukioloaikoineen (esim. Hämeenlinna: Ma-Pe 10.00–18.00, La 10.00–16.00, Su Suljettu). JSON-LD-skeemassa on myös 29 toimipisteen puhelinnumerot ja osoitteet.",
+    "y_tunnus_esilla": "HAVAINTO: Laskutustiedot-sivulla (https://saka.fi/fi/yritys/laskutustiedot) lukee selvästi: 'Y-tunnus: 3205932-2' laskutustiedoissa.",
+    "riippumaton_arvio": "HAVAINTO: Yrityssivulla (https://saka.fi/fi/yritys/saka-yrityksena) mainitaan 'Googlen asiakasarvostelut keskimäärin 4,5/5' ja 'Auto Bild -lehden Palvelu 1 -tutkimuksen voittaja vuosina 2022, 2024 ja 2025'. Kokemuksia-sivulla (https://saka.fi/fi/yritys/saka-kokemuksia) esitetään Google-arvosteluja suoraan."
+  }
+}

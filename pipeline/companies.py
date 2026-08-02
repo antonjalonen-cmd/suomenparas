@@ -1502,8 +1502,9 @@ COMPANIES["autoliikkeet"] = [
          omistaja="Wetteri Oyj (PRH: aktiivinen) on Helsingin pörssiin listattu pohjoissuomalainen autotalokonserni, joka myy sekä uusia että käytettyjä autoja usealla paikkakunnalla."),
     dict(slug="autokeskus", nimi="Autokeskus", domain="autokeskus.fi", y_tunnus="1093812-3",
          omistaja="Autokeskus Oy (PRH: aktiivinen, aputoiminimi AK-Outlet) on pääkaupunkiseudulla, Tampereella ja Turussa toimiva autotaloketju, joka myy uusia ja vaihtoautoja sekä ylläpitää AK-Outlet-vaihtoautomyymälöitä."),
-    dict(slug="hartikainen", nimi="Autotalo Hartikainen", domain="hartikainen.com", y_tunnus="9210103-5",
-         omistaja="Autotalo Hartikainen on E. Hartikainen Oy:n (PRH: aktiivinen) aputoiminimi; itäsuomalainen perheyhtiö, jonka autokauppa toimii Joensuussa, Kuopiossa ja Savonlinnassa."),
+    # hartikainen KARSITTU 2.8.2026: E. Hartikainen Oy myi koko autokauppaliiketoimintansa
+    # Wetteri Oyj:lle 8.3.2023 (34,4 M€). hartikainen.com on nyt maarakennusyhtiön sivusto —
+    # autokauppa poistunut kokonaan; /vaihtoautot 404. Wetteri on jo listassa.
 ]
 
 # --- pikaruokaketjut (29.7.2026, Antonin pyyntö; PRH v3 + domain-tarkistus) ---

@@ -1,0 +1,56 @@
+{
+  "slug": "wetteri",
+  "fetched_ok": [
+    "https://www.wetteri.fi/",
+    "https://www.wetteri.fi/vaihtoautot.html",
+    "https://www.wetteri.fi/vaihtoautot/wetteri-turva",
+    "https://www.wetteri.fi/vaihtoautot/etamyynnin-ehdot.html",
+    "https://www.wetteri.fi/yhteystiedot.html",
+    "https://www.wetteri.fi/yhteystiedot/oulu.html",
+    "https://www.wetteri.fi/tietoa-meista/laskutustiedot.html",
+    "https://www.wetteri.fi/tietoa-meista/wetteri-yrityksena.html",
+    "https://www.wetteri.fi/tietoa-meista/rekisteriseloste.html",
+    "https://www.wetteri.fi/tarjoukset.html",
+    "https://www.wetteri.fi/tarjoukset/polestar-4-coupe-dual-motor-yksityisleasing-business-varustepaketilla-alkaen-649-e2-82-ackk.html",
+    "https://www.wetteri.fi/uudet-autot/kia.html",
+    "https://www.wetteri.fi/hakutulokset.html?s=datecreated&z=desc"
+  ],
+  "hinnat_esilla": "kylla",
+  "takuu_kerrottu": "kylla",
+  "rahoituskulut_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 80,
+    "sisallon_kattavuus": 82,
+    "hintojen_loydettavyys": 88
+  },
+  "vahvuudet": [
+    "Vaihtoautojen hinnat ja kuukausierät (alk. X €/kk) näkyvät selkeästi listauksissa ilman kirjautumista.",
+    "Wetteri Turva -lisäturvan kattavuus, sopimusajat (12 kk/20 tkm tai 24 kk/40 tkm) ja hinnat eriteltynä teholuokittain on kuvattu yksityiskohtaisesti.",
+    "Etämyynnin ehdot julkaistu avoimesti: kuluttajalla on 14 vuorokauden peruutusoikeus, palautusohjeet ja toimipisteiden yhteystiedot ovat selkeästi esillä."
+  ],
+  "kehityskohteet": [
+    "Rahoituksen todellinen vuosikorko (TVK) puuttuu: listauksissa näkyy vain kuukausierä ja joissakin tarjouksissa nimelliskorko (esim. 2,99 %), mutta EU:n kulutusluottodirektiivin mukainen rahoitusesimerkki kokonaiskustannuksineen on julkaisematta.",
+    "Wetteri Oyj:n Y-tunnus (0548170-4) ei löydy sivustolta; laskutustiedoissa näkyy vain tytäryhtiö Wetteri Auto Oy:n Y-tunnus (1814605-9).",
+    "Sivustolta puuttuu erillinen UKK/FAQ-osio, jossa vastattaisiin yleisimpiin ostokysymyksiin kootusti."
+  ],
+  "yhteenveto": "Wetteri on yksi Suomen suurimmista autoliikkeistä, joka toimii laajalti Pohjois- ja Keski-Suomessa sekä useissa muissa kaupungeissa. Sivusto tarjoaa kattavat tiedot vaihtoauto- ja uusautovaihtoehtoista, toimipisteistä sekä huoltopalveluista, ja etämyynnin palautusehdot on julkaistu selkeästi. Rahoituksen läpinäkyvyyttä heikentää todellisen vuosikoron puuttuminen listaustasolta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Vaihtoautohaussa (JS-renderöity hakutulokset.html) jokaisen ajoneuvon kohdalla näkyy sekä kokonaishinta (esim. 42 800 €, 17 990 €, 6 900 €) että kuukausierä (esim. alk. 383 €/kk, alk. 168 €/kk). Hinnat ovat julkisia ilman kirjautumista.",
+    "takuu_kerrottu": "HAVAINTO: Wetteri Turva -sivulla (wetteri-turva) kerrotaan lisäturvan olevan ostettavissa vaihtoautoon, sopimuskausi on 12 kk/20 tkm tai 24 kk/40 tkm, hinnat vaihtelevat teholuokan mukaan (esim. alle 200 kW: 695 € / 12 kk), kattavuus on eritelty 15 komponentin laajuudella alle 10-vuotiaille autoille ja 6-komponentin laajuudella vanhemmille autoille. Omavastuuosuus on 100 €/vika.",
+    "rahoituskulut_kerrottu": "HAVAINTO: Vaihtoautolistauksissa näkyy kuukausierä 'alk. X €/kk' mutta ei todellista vuosikorkoa (TVK). Uusautojen tarjoussivuilla mainitaan nimelliskorko (esim. 'korko 1,99 % + kulut', 'rahoituskorko 2,99 %'), mutta EU:n kulutusluottodirektiivin mukaista täyttä rahoitusesimerkkiä (luottomäärä, kulut, TVK, takaisinmaksuaika, kokonaiskustannus) ei ole julkaistu. Arvioidaan osittaiseksi.",
+    "palautusehdot_saatavilla": "HAVAINTO: Etämyynnin ehdot -sivulla (etamyynnin-ehdot.html) todetaan selkeästi: 'Kuluttajalla on oikeus peruuttaa kauppa 14 vuorokauden kuluessa ostetun ajoneuvon tai tuotteen vastaanottamisesta.' Sivulla kuvataan peruuttamismenettely, palautustoimipisteet sekä palautussumman maksuaikataulu (14 vrk auton palautuksesta).",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla (yhteystiedot.html) listataan kaikki toimipisteet (Airport, Iisalmi, Joensuu, Kajaani x2, Kemi, Kuopio, Kuusamo, Lahti, Lempäälä, Mikkeli, Oulu, Pori, Rauma, Rovaniemi, Savonlinna, Ylivieska). Yksittäisissä toimipisteissä (esim. Oulu) aukioloajat eritelty palveluittain: 'Automyynti ma-pe 09.00–18.00', 'Huolto ja korjaus ma-pe 07.00–17.00' jne.",
+    "y_tunnus_esilla": "HAVAINTO: Laskutustiedot-sivulla (laskutustiedot.html) näkyy Y-tunnus 1814605-9 (Wetteri Auto Oy) sekä 0877345-4 (toinen konserniyhtiö). Tehtäväkuvauksessa mainittu Wetteri Oyj:n Y-tunnus 0548170-4 ei esiinny millään löydetyllä sivulla. Rekisteriselosteessa mainitaan 'Wetteri Auto Oy (1814605-9)'. Arvioidaan osittaiseksi, koska jokin Y-tunnus on kyllä julkaistu.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla (JS-renderöity) näkyy osio 'Asiakkaamme kertovat' jossa näytetään Google-arvostelujen koontinäkymä: keskiarvo 4.0 / 4715 arvostelua, viimeisimmät arvostelut nimettömänä tekstinä. Arvostelut renderöityvät selaimen JS:llä, mutta ne ovat julkisesti nähtävissä ilman kirjautumista."
+  }
+}

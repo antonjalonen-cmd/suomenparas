@@ -1,0 +1,55 @@
+{
+  "slug": "autokeskus",
+  "fetched_ok": [
+    "https://autokeskus.fi/",
+    "https://autokeskus.fi/autohaku/",
+    "https://autokeskus.fi/turva/",
+    "https://autokeskus.fi/toimipisteet/",
+    "https://autokeskus.fi/toimipisteet/helsinki/",
+    "https://autokeskus.fi/autokeskus-oy/",
+    "https://autokeskus.fi/autokeskus-oy/laskutustiedot/",
+    "https://autokeskus.fi/ota-yhteytta-myyjaan/",
+    "https://autokeskus.fi/huolto/huoltopalvelut/huollon-rahoitus/",
+    "https://autokeskus.fi/reklamaatio/",
+    "https://autokeskus.fi/bmw/",
+    "https://autokeskus.fi/tarjoukset/"
+  ],
+  "hinnat_esilla": "kylla",
+  "takuu_kerrottu": "kylla",
+  "rahoituskulut_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "toimipisteet_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 78,
+    "sisallon_kattavuus": 72,
+    "hintojen_loydettavyys": 85
+  },
+  "vahvuudet": [
+    "Vaihtoautojen hinnat näkyvät selkeästi hakutuloksissa sekä euromääräisenä kokonaishintana että kuukausieränä.",
+    "Takuuvaihtoautoille luvataan julkisesti yksi vuosi takuuta ilman kilometrirajoitusta, ja takuun ehdot ja ikärajat (alle 9 v / 180 000 km) kerrotaan sivustolla.",
+    "Yhdeksän toimipisteen osoitteet ja aukioloajat ovat helposti löydettävissä omalta toimipistesivulta, ja jokaiselle liikkeelle on listattu erilliset puhelinnumerot palveluittain."
+  ],
+  "kehityskohteet": [
+    "Rahoituksen todellista vuosikorkoa tai edustuksellista luottokustannusesimerkkiä ei julkaista – ilmoitettu '1,99 % + kulut' ei täytä kuluttajaluottodirektiivin mukaisen kustannusesimerkin vaatimusta.",
+    "Vaihto-oikeus koskee ainoastaan Takuuvaihtoautoja ja on rajoitettu vaihto toiseen autoon (ei palautusoikeutta tai rahanpalautusta), eikä asiaa selitetä selkeästi ostajan näkökulmasta.",
+    "Asiakaspalvelun sähköpostiosoitetta ei julkaista kuluttajille – yhteydenotto tapahtuu lomakkeella tai puhelimella, mikä voi hankaloittaa asioiden dokumentointia kirjallisesti."
+  ],
+  "yhteenveto": "Autokeskus on Aro-Yhtymän omistama täyden palvelun autokauppaketju, jolla on yhdeksän toimipistettä Etelä-Suomessa ja Pirkanmaalla. Sivusto kertoo vaihtoautojen hinnat, takuuehdot ja toimipisteiden aukioloajat kattavasti, mutta rahoituksen kokonaiskulujen läpinäkyvyydessä ja kuluttajapalvelun sähköpostiyhteyden puuttumisessa on kehittämisen varaa. Riippumattomia asiakasarvioita esitetään Trustmary-upotuksen kautta, mutta niiden näkyvyys staattisessa sisällössä on rajallinen.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: autohaku-sivulla (JS-renderöity) jokainen vaihtoauto näyttää kokonaishinnan (esim. '5 900 €', '6 290 €') ja kuukausierän (esim. 'alk. 89 €/KK', 'alk. 93 €/KK') ilman kirjautumista.",
+    "takuu_kerrottu": "HAVAINTO: /turva/-sivulla ja autohaku-sivun Takuuvaihtoauto-osiossa kerrotaan: 'Autokeskus Takuuvaihtoautot ovat vaihtoautovalikoimamme ehdottomia helmiä, joille tarjoamme vuoden takuun. Takuu sisältyy valikoituihin vaihtoautoihin, joilla on ajettu alle 9 vuotta tai 180 000 kilometriä. Ei vuosittaista kilometrirajoitusta takuukauden aikana.' Lisäksi Autokeskus Turva -palvelupaketti tarjoaa 12 kk lisätakuun alk. 349 €.",
+    "rahoituskulut_kerrottu": "HAVAINTO: /bmw/-sivulla ja autohaku-suodattimessa mainitaan 'BMW-rahoitus 1,99 % + kulut', ja autohaku näyttää kuukausierät. Todellista vuosikorkoa tai täydellistä edustuksellista kustannusesimerkkiä (lainasumma, laina-aika, kokonaismaksu, todellinen vuosikorko) ei ole julkaistu millään ladatulla sivulla.",
+    "palautusehdot_saatavilla": "HAVAINTO: autohaku JS-sivulla Takuuvaihtoauto-osiossa mainitaan '14 vuorokauden vaihto-oikeus saman hintaiseen tai kalliimpaan Takuuvaihtoautoon'. Tämä on vaihto-oikeus toiseen autoon, ei rahanpalautusoikeus eikä ns. koeomistusjakso. Palautusoikeutta tai peruuttamisoikeutta etämyynnin ulkopuolella ei mainita.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: /toimipisteet/-sivulla listataan 9 toimipistettä (Helsinki Konala, FordStore Konala, Vantaa Airport, Tampere, Hämeenlinna, Raisio, Turku, Hyvinkää, Espoo Olari) täysin osoitteineen ja aukioloaikoineen. Esim. 'Autokeskus Konala, Ristipellontie 5-7, 00390 Helsinki – Automyynti ma-pe 10-18, la-su suljettu; Huolto ma-pe 8-16, la-su suljettu.'",
+    "y_tunnus_esilla": "HAVAINTO: /autokeskus-oy/laskutustiedot/-sivulla näkyy selkeästi: 'Autokeskus Oy, 1093812-3, PL 7, 80020 Kollektor Scan'. Y-tunnus 1093812-3 on julkisesti näkyvillä laskutustietosivulla.",
+    "riippumaton_arvio": "HAVAINTO: Sivuston HTML:ssä on embed.trustmary.com -upotus (Trustmary on riippumaton arviointialusta). Cookiekuvauksen mukaan se 'Allows the user to add and see product reviews on the website.' JS-renderöidyssä sisällössä tunnistettiin Trustmary-widgetin latauspyyntö, mutta arvioita ei renderöidy staattiseen tekstisisältöön – widget vaatii JavaScriptin toimiakseen täysin."
+  }
+}

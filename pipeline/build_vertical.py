@@ -94,6 +94,8 @@ MEASURED = {
     "autokorjaamot": "21.7.2026",
     "suoratoistopalvelut": "21.7.2026",
     "virustorjuntaohjelmat": "21.7.2026",
+    # erä 9
+    "autoliikkeet": "2.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

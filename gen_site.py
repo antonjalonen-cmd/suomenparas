@@ -99,7 +99,7 @@ CATEGORY_GROUPS = [
         ("Autokorjaamot", "autokorjaamot", True), ("Autokatsastus", "autokatsastus", True),
         ("Rengasliikkeet", "rengasliikkeet", True), ("Autopesulat", "autopesulat", True),
         ("Autokoulut", "autokoulut", True), ("Autovuokraamot", "autovuokraamot", True),
-        ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", None, False),
+        ("Sähköauton latausasennukset", None, False), ("Autoliikkeet", "autoliikkeet", True),
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", "taksipalvelut", True),
     ]),

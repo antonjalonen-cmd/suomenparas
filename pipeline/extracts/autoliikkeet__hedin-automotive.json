@@ -1,0 +1,52 @@
+{
+  "slug": "hedin-automotive",
+  "fetched_ok": [
+    "https://hedinautomotive.fi/",
+    "https://hedinautomotive.fi/vaihtoautot/",
+    "https://hedinautomotive.fi/toimipisteet/",
+    "https://hedinautomotive.fi/hedin-certified/",
+    "https://hedinautomotive.fi/konserni/",
+    "https://hedinautomotive.fi/yhteydenotto/",
+    "https://hedinautomotive.fi/tarjoukset/rahoitustarjous/",
+    "https://hedinautomotive.fi/hedin-drive/"
+  ],
+  "hinnat_esilla": "kylla",
+  "takuu_kerrottu": "kylla",
+  "rahoituskulut_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "ei",
+  "toimipisteet_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 68,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 61
+  },
+  "vahvuudet": [
+    "Vaihtoautojen hinnat näkyvät selkeästi hakutuloksissa eurohintoina ja kuukausierän arviona.",
+    "Hedin Certified -vaihtoautotakuun sisältö, kestot (12/24/36 kk) ja hinnat on kuvattu yksityiskohtaisesti.",
+    "Y-tunnukset kaikille konserniyhtiöille (mm. Hedin Automotive Finland Oy 2081088-7) on listattu konsernisivulla."
+  ],
+  "kehityskohteet": [
+    "Rahoituksen todellinen vuosikorko (TVK) tai lakisääteinen kustannusesimerkki puuttuu – listauksissa näkyy vain nimellinenkorko 3,99 % ilman kokonaiskustannuksia.",
+    "Palautusoikeudesta tai vaihto-oikeudesta ei löydy mitään mainintaa sivustolta.",
+    "Toimipisteiden puhelinnumerot eivät lataudu hakukoneluettavaksi – puhelinluettelo-linkki johtaa 404-sivulle eikä numeroita renderöidy ilman JS-interaktiota."
+  ],
+  "yhteenveto": "Hedin Automotive Finland on Hedin Mobility Groupin Suomen-maayhtiö, joka edustaa 13 automerkkiä yli 34 toimipisteessä ja myy vuosittain lähes 28 000 autoa. Yhtiö tarjoaa kattavan Hedin Certified -vaihtoautotakuun ja hinnat ovat avoimesti esillä verkossa, mutta rahoituksen kokonaiskustannukset ja palautusehdot puuttuvat sivustolta. Yhteystiedot ovat osittain vajaat, sillä puhelinluettelo ei toimi ja aukioloajat näkyvät vain avoinna/suljettu-tilana ilman kellonaikoja.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Vaihtoautot-sivulla (hedinautomotive.fi/vaihtoautot/) jokaisen auton kohdalla näkyy sekä kokonaishinta (esim. '33 900 €') että kuukausierä ('alk. 299 €/kk'). Hinnat ovat julkisesti näkyvissä ilman kirjautumista.",
+    "takuu_kerrottu": "HAVAINTO: Hedin Certified -sivulla (hedinautomotive.fi/hedin-certified/) kuvataan yksityiskohtaisesti vaihtoautotakuun sisältö: sopimusajat 12/24/36 kk, hinnat 990/1490/1990 €, korjauskatot ikäluokittain (esim. alle 10-v. auto: 12 kk = 6 000 €), omavastuu 100 €/vika sekä sopimusehdot erikseen sähkö- ja polttomoottoiautoille.",
+    "rahoituskulut_kerrottu": "HAVAINTO: Vaihtoautolistauksissa näkyy 'Rahoitustarjous 3,99% (+kulut)' ja kuukausierä, mutta todellista vuosikorkoa (TVK), laina-aikaa, käsirahan määrää tai kokonaiskustannusten esimerkkiä ei ole missään löydetyillä sivuilla julkaistu. Nimellinenkorko ilman TVK:ta ei täytä täydellisen läpinäkyvyyden vaatimusta.",
+    "palautusehdot_saatavilla": "HAVAINTO: Sivustolla ei löydy mainintaa palautusoikeudesta, vaihto-oikeudesta tai koeaikaperiodista. Hedin Certified on vikaturvajärjestelmä (takuu), ei palautus- tai vaihto-oikeus. Yhteydenotto-sivu (hedinautomotive.fi/yhteydenotto/) mainitsee reklamaatiolomakkeen muttei palautusoikeutta.",
+    "toimipisteet_ja_aukioloajat": "HAVAINTO: Toimipisteet-sivulla (hedinautomotive.fi/toimipisteet/) listataan 34 toimipistettä osoitteineen (esim. 'Hedin Automotive BMW Helsinki, Mekaanikonkatu 2, 00880 Helsinki'). Aukioloaikatilanne näkyy 'Automyynti avoinna tänään / Suljettu' -merkintänä, mutta täydelliset viikoittaiset kellonajat eivät renderöidy headless-haussa – ne ovat JS-dynaamista dataa.",
+    "y_tunnus_esilla": "HAVAINTO: Konserni-sivulla (hedinautomotive.fi/konserni/) on listattu kaikkien konserniyhtiöiden Y-tunnukset: 'Hedin Automotive Finland Oy (Y-tunnus 2081088-7)', 'Hedin Automotive Bavaria Oy (Y-tunnus 3152287-2)', 'Hedin Automotive Retail Oy (Y-tunnus 0872076-6)', 'Hedin Automotive Oy (Y-tunnus 3281753-3)'.",
+    "riippumaton_arvio": "HAVAINTO: Yhdeltäkään ladetuista sivuista ei löydy Trustpilot-widgettiä, Google-arvostelujen upotusta tai muuta kolmannen osapuolen arvostelupalvelua. Konserni-sivulla mainitaan 'Asiakastyytyväisyys'-osio sivunavigaatiossa, mutta sivulle johtava URL ei renderöi sisältöä eikä ulkoista arvostelupalvelua.",
+    "puhelin_esilla": "HAVAINTO: Puhelinluettelo-linkki näkyy navigaatiossa ja yhteydenotto-sivulla, mutta sivuun johtava URL (hedinautomotive.fi/puhelinluettelo/) palauttaa 404-virheen. Toimipisteet-sivulla puhelinnumerot näkyvät tekstissä 'Puhelinnumerot: false', viittaen siihen että ne ovat JS:n takana. Hedin Certified -sivulla esiintyy kumppanin (Fragus Group) puhelinnumero 09 315 80 470, mutta ei Hedinin omaa asiakaspalvelunumeroa."
+  }
+}
