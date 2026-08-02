@@ -24,7 +24,7 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
-- [ ] autoliikkeet — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH 16/16 ajettu, extraktit valmiina kamux + rinta-jouppi (6 puuttuu: hedin-automotive, veho, saka, wetteri, autokeskus, hartikainen). HUOM: laakkonen.fi on nykyään kiinteistöyhtiö — autotalot ovat Hedin Automotive (hedinautomotive.fi), companies.py jo korjattu. Jatka vaiheesta 4 (ekstraktio).
+- [~] autoliikkeet — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH 16/16 ajettu, extraktit valmiina kamux + rinta-jouppi (6 puuttuu: hedin-automotive, veho, saka, wetteri, autokeskus, hartikainen). HUOM: laakkonen.fi on nykyään kiinteistöyhtiö — autotalot ovat Hedin Automotive (hedinautomotive.fi), companies.py jo korjattu. Jatka vaiheesta 4 (ekstraktio).
 - [ ] pikaruokaketjut — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH ajettu (mcdonalds vaatii www.mcdonalds.fi), 0 extraktia. Poissuljetut dokumentoitu companies.py:ssä (Subway ei vastaa, Pancho Villa 403, Pizza Hutin operaattoria ei varmistettu). Jatka vaiheesta 4 (ekstraktio).
 - [x] lastenvaatteiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Reima #1 74,5; Papu konkurssi 10/2025, Polarn O. Pyret karsittu SPA+Cloudflare)
 - [x] lemmikkitarvikkeiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Koiranurkka #1 83,3; Faunatar ei vastaa, affiliate-aggregaattorit karsittu)
