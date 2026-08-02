@@ -891,223 +891,6 @@
    "sitoutumisindeksi": []
   },
   {
-   "slug": "dhl",
-   "nimi": "DHL",
-   "domain": "express.dhl",
-   "omistaja": "DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); kuluttajapalvelu portaalissa mydhl.express.dhl/fi/fi/ (dhl.com ei vastannut mittaushetkellä 2.8.2026)",
-   "y_tunnus": "2717767-4",
-   "rekisteroity": 2015,
-   "score": 63.6,
-   "pillars": {
-    "digitaalinen": 73.2,
-    "lapinakyvyys": 45.0,
-    "tavoitettavuus": 95.0,
-    "ai_laatu": 45.8
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "44/100",
-       "paino": 40,
-       "pisteet": 44,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "99/100",
-       "paino": 30,
-       "pisteet": 99,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "81/100",
-       "paino": 15,
-       "pisteet": 81,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
-       "arvo": "Ei",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston etusivulla on painike 'Tarkista hinta ja toimitusaika', mutta se vie lomakkeeseen jossa lähettäjän ja vastaanottajan osoitteet on pakollisia — yhtäkään euromääräistä hintaa ei näytetä ennen tietojen syöttämistä. Julkista hinnastosivua ei löydy navigaatiosta."
-      },
-      {
-       "mittari": "Toimitusaika per palveluluokka kerrottu",
-       "arvo": "Osittain",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Kuljetuspalvelut-sivulla on vertailutaulukko, joka kertoo palveluluokista (Express 9:00, Express 10:30, Express 12:00, Express Worldwide, Express Easy) ja mainitsee 'Seuraava mahdollinen työpäivä' sekä '1-3 Työpäivää' vähemmän kiireellisille — mutta nämä koskevat kansainvälisiä lähetyksiä, kotimaan toimitusaikoja ei mainita."
-      },
-      {
-       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
-       "arvo": "Osittain",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa on 'Etsi palvelupiste' -linkki (locator.html), mutta kyseinen sivu ei ladannut sisältöä testauksen aikana. Noutopisteiden määrää tai karttaa ei näy julkisella sivulla."
-      },
-      {
-       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yleisissä kuljetusehdoissa (kohta 7, Korvausvaatimukset) lukee: 'Kaikki vaatimukset on esitettävä DHL:lle kirjallisesti kolmenkymmenen (30) vuorokauden kuluessa siitä päivästä, jolloin DHL hyväksyi Lähetyksen kuljetettavaksi.' Lisäksi 'Apua ja tukea' -sivulla on erillinen sähköpostiyhteydenotto-osio otsakkeella 'Korvausvaatimukset'."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Kyllä",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 10.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Apua ja tukea' -sivun DHL-toimipiste-osiossa mainitaan 'DHL Express (Finland) Oy, Tietotie 9, 01530 VANTAA, VAT No. FI27177674'."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 5,
-       "pisteet_max": 5,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei löydy mainintaa riippumattomista arviolähteistä, palkinnoista tai ulkopuolisista auditoinneista."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Asiakaspalvelunumero 030 45 345 on esillä 'Apua ja tukea' -sivulla, aukioloaikoineen 'Arkisin klo 8.00–17.00'."
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Apua ja tukea' -sivulla on 'Lähetä meille sähköpostia' -osio, jossa voi valita yhteydenoton aiheen (mm. Korvausvaatimukset, Asiakaspalvelu, Myynti). Sähköpostiosoite avautuu lomakkeen kautta."
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Chattaa kanssamme WhatsAppissa' sekä 'Digitaalinen avustajamme auttaa sinua vuorokauden ympäri. Avaa Chat!' on esillä 'Apua ja tukea' -sivulla."
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: 'Apua ja tukea' -sivulla on selkeä aukioloaikataulu: 'Asiakaspalvelu maanantai–perjantai 8:00–16:00, lauantai: suljettu, sunnuntai: suljettu'. Lisäksi loma-aikojen kalenteri on näkyvissä."
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: UKK-linkki on sekä päänavikaatiossa ('Apua ja tukea' > UKK) että sivuston alatunnisteessa. 'Apua ja tukea' -sivulla näkyy UKK-kategoriat: Lähettäminen verkossa, Noudot, Seuranta ja valvonta, Tullit ja verot, Palautuslähetykset, Maksaminen ja laskutus jne."
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Osittain",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 5.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla mainitaan MyDHL+, joka on käytettävissä verkkoselaimessa. Erillistä mobiilisovellusta tai App Store / Google Play -linkkiä ei löydy julkisilta sivuilta."
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "62/100",
-       "paino": 34,
-       "pisteet": 62,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "20/100",
-       "paino": 33,
-       "pisteet": 20,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "55/100",
-       "paino": 33,
-       "pisteet": 55,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 44,
-    "accessibility": 99,
-    "seo": 92,
-    "best_practices": 81,
-    "lcp_ms": 8828.724999999999,
-    "cls": 0.05076705707270765,
-    "tbt_ms": 585.8040000000001
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Yhteystiedot erittäin kattavat: puhelin, sähköposti, WhatsApp-chat ja ympärivuorokautinen digitaalinen avustaja löytyvät selkeästi yhdeltä sivulta",
-    "Y-tunnus (FI27177674) ja reklamaatiomenettely julkaistu avoimesti yleisissä kuljetusehdoissa — vaatimus esitettävä 30 vrk:n kuluessa kirjallisesti",
-    "Palveluvertailutaulukko kertoo eri Express-tuotteista (Express 9:00, 10:30, 12:00, Express Worldwide, Express Easy) ja niiden aikatauluprofiilit"
-   ],
-   "kehityskohteet": [
-    "Yksityishenkilölle ei ole näkyvissä yhtäkään euromääräistä hintaa ennen osoitetietojen syöttämistä — hinnasto on kokonaan piilossa lomakkeen takana",
-    "Kotimaan pakettilähettämistä ei mainita lainkaan — DHL Express on selvästi suunnattu kansainvälisiin lähetyksiin, eikä palvele suomalaisen kuluttajan tavallista kotimaanpakettitarvetta",
-    "Noutopisteiden hakusivu (Etsi palvelupiste) ei latautunut sivustolta sisältöineen, joten pisteiden määrästä tai sijainnista ei saa tietoa julkisella sivulla"
-   ],
-   "yhteenveto": "DHL Express on kansainväliseen pikakuljetukseen erikoistunut kuriiriyhtiö, jonka suomalainen sivusto (mydhl.express.dhl/fi/fi/) on suunnattu pääasiassa yrityksille eikä tarjoa kuluttajalle julkista hinnastoa kotimaan lähetyksille. Yhteystiedot, aukioloajat ja reklamaatiomenettely on kuvattu selkeästi, mutta hintoihin pääsee vasta syöttämällä osoitetiedot järjestelmään tai kirjautumalla sisään.",
-   "sitoutumis_bonus": 0.0,
-   "sitoutumisindeksi": []
-  },
-  {
    "slug": "dsv",
    "nimi": "DSV",
    "domain": "dsv.com",
@@ -1321,6 +1104,219 @@
     "Y-tunnusta ei löydy mistään suomenkieliseltä sivulta, vaikka yhtiöiden nimet (DSV Road Oy ym.) mainitaan"
    ],
    "yhteenveto": "DSV (ent. DB Schenker) on kansainvälinen logistiikkajätti, jonka Suomen sivusto on suunnattu ensisijaisesti yrityksille. Kuluttajille on oma osio, joka kuvaa noutopisteverkoston ja pakettiautomaatit selkeästi, mutta hintatiedot, toimitusajat ja korvausmenettelyjen yksityiskohdat ovat piilossa kirjautumisseinän tai yhteydenottolomakkeen takana. Yksityisasiakkaan on käytännössä mahdotonta vertailla hintoja tai arvinoida palvelun ehtoja ennen rekisteröitymistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "dhl",
+   "nimi": "DHL",
+   "domain": "dhl.com",
+   "omistaja": "DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); Suomen verkkosivusto dhl.com/fi-fi on yritysasiakkaille suunnattu — kotimaan kuluttajareklamaatiot ohjataan Postin sivuille",
+   "y_tunnus": "2717767-4",
+   "rekisteroity": 2015,
+   "score": 38.8,
+   "pillars": {
+    "digitaalinen": 73.2,
+    "lapinakyvyys": 27.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 27.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kotimaanpakettihinnat kuluttajalle julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tarjouksen pyytaminen -sivulla kerrotaan 'meiltä saat välittömästi kuljetustarpeitasi vastaavan tarjouksen' – hinta edellyttää lomakkeen täyttämistä eikä julkista euromääräistä hinnastoa ole dhl.com/fi-fi-sivuilla näkyvissä."
+      },
+      {
+       "mittari": "Toimitusaika per palveluluokka kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivulla ilmoitetaan eCommerce-saapumislähetyksille 'toimitusaika on 2–3 vuorokautta naapurimaihin ja jopa 20 vuorokautta kauempana oleviin maihin', mutta tämä koskee vain saapuvia kansainvälisiä paketteja – kuluttajan lähettämien pakettien toimitusaikaa ei ole mainittu."
+      },
+      {
+       "mittari": "Noutopisteiden määrä tai kartta saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ServicePoint-haku-sivulla todetaan 'ServicePoint-pisteet ovat pakettikauppoja, postitoimistoja ja Packstations-asemia, jotka sijaitsevat kätevissä paikoissa' sekä tarjotaan DHL Finder -karttahaku, mutta kartan lataaminen vaatii JavaScript-renderöinnin eikä pisteiden lukumäärää mainita."
+      },
+      {
+       "mittari": "Korvaus- ja reklamaatiomenettely kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivulla todetaan 'Jos toimitus on vaurioitunut tai siitä puuttuu sisältöä, noudata Postin verkkosivuilla annettuja ohjeita.' Kadonneista paketeista kerrotaan 'reklamaation voi tehdä vain DHL:n sopimuskumppanina toimiva lähettäjä' – yksityinen vastaanottaja ei siis voi reklamoida suoraan DHL:lle."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta tai suomalaista VAT-numeroa ei löydy etusivulta, käyttöehdoista eikä muilta tutkituilta dhl.com/fi-fi-sivuilta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tutkituilla dhl.com/fi-fi-sivuilla ei ole mainintaa riippumattomista palkinnoista, sertifikaateista tai julkisista arvosteluista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: dhl.com/fi-fi-sivuilla ei ole puhelinnumeroa näkyvissä; find-your-contact-sivu ohjaa syöttämään seurantanumeron oikean yksikön löytämiseksi, jonka jälkeen yhteydenotto tapahtuu mydhl.express.dhl-sivuston kautta."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'DHL eCommerce lähetysseurannan usein kysytyt kysymykset' -sivu, joka sisältää osiot Lähetysseuranta, Toimitus, Reklamaatiot, Palautukset ja Tullaus/huolinta selkeinä vastauksina."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "45/100",
+       "paino": 34,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "28/100",
+       "paino": 33,
+       "pisteet": 28,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 8828.724999999999,
+    "cls": 0.05076705707270765,
+    "tbt_ms": 585.8040000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "UKK-osio kattaa lähetysseurannan, toimituksen, reklamaatiot, palautukset ja tullauksen selkeässä osiossa",
+    "ServicePoint-hakusivu löytyy julkiselta sivulta ja kertoo noutopisteiden olevan kauppoja, postitoimistoja ja Packstations-asemia",
+    "Sivustolla kerrotaan avoimesti, että Suomessa kotimaan toimitukset hoitaa Postin kanssa tehty kumppanuus"
+   ],
+   "kehityskohteet": [
+    "Kuluttajalle ei ole julkista hinnastoa kotimaanlähetyksistä – hinnat saa vain täyttämällä tarjouslomakkeen tai kirjautumalla MyDHL+-palveluun",
+    "Puhelinnumero, sähköposti, chat ja aukioloajat puuttuvat dhl.com/fi-fi-sivuilta – asiakaspalvelulinkit ohjaavat mydhl.express.dhl-alueelle, joka on eri domain",
+    "Y-tunnus tai suomalainen yritysrekisterinumero ei löydy mistään tutkitun sivuston sivulta"
+   ],
+   "yhteenveto": "DHL on kansainvälinen logistiikkayhtiö, jonka Suomen verkkosivusto (dhl.com/fi-fi) on suunnattu pääasiassa yritys- ja sopimusasiakkaille. Kuluttajan näkökulmasta sivusto on niukka: julkista hinnastoa kotimaan pakettilähetyksistä ei ole, eikä yhteystietoja (puhelinnumero, sähköposti tai chat) löydy dhl.com-sivuilta. Reklamaatioissa yksityinen asiakas ohjataan Postin sivuille, sillä DHL:n kanssa reklamaation voi tehdä vain sopimusasiakas.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   }
