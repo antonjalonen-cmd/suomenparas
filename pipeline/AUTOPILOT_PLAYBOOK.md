@@ -106,6 +106,13 @@ ajatusviivoja, ei malli-/työkalunimiä.
 
 ## 9. Sivusto + julkaisu
 
+0. **SV-peili JA kielikytkimet:** `python gen_site.py` kirjoittaa fi-sivut ILMAN
+   kielikytkintä — liput palauttaa vasta `python translate_site.py --build`.
+   Aja siis AINA gen_site.py:n jälkeen: `python translate_site.py --extract`
+   (uudet segmentit talteen pipeline/sv_missing/-batcheihin) ja sitten
+   `python translate_site.py --build`. Uuden kategorian sv-sivut jäävät osin
+   suomeksi kunnes batchit käännetään — mainitse batchien määrä yhteenvedossa,
+   ÄLÄ yritä kääntää niitä tikin sisällä.
 1. `python gen_site.py` — sivumäärän pitää kasvaa. Uusi kategoria tulee
    automaattisesti Kaikki kategoriat -sivulle ja hakuindeksiin.
    **HAETUIMMAT-listaan (etusivun 6 kärkeä) EI kosketa** (Antonin päätös).

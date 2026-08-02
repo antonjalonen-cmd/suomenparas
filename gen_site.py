@@ -114,6 +114,7 @@ CATEGORY_GROUPS = [
         ("Joogastudiot", None, False), ("Ravintoterapeutit", None, False),
     ]),
     ("Ravintolat ja kahvilat", [
+        ("Pikaruokaketjut", "pikaruokaketjut", True),
         ("Pizzeriat", None, False), ("Sushiravintolat", None, False),
         ("Hampurilaisravintolat", None, False), ("Lounasravintolat", None, False),
         ("Kahvilat", None, False), ("Kebab-ravintolat", None, False),

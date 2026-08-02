@@ -1,0 +1,45 @@
+{
+  "slug": "fafas",
+  "fetched_ok": [
+    "https://fafas.fi",
+    "https://www.fafas.fi/",
+    "https://www.fafas.fi/menu",
+    "https://www.fafas.fi/ravintolat"
+  ],
+  "hinnat_esilla": "osittain",
+  "allergeenit_esilla": "osittain",
+  "alkupera_kerrottu": "osittain",
+  "ravintolat_ja_aukioloajat": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {
+    "selkeys": 38,
+    "hintojen_loydettavyys": 28,
+    "sisallon_kattavuus": 30
+  },
+  "vahvuudet": [
+    "Oiva-raportit mainittu navigaatiossa",
+    "MENU-, RAVINTOLAT-, CATERING- ja PALAUTE-linkit navigaatiossa esitetty selkeästi",
+    "Sivusto on kaksikielinen (suomi/englanti) kielivalitsimella"
+  ],
+  "kehityskohteet": [
+    "Sivuston sisältösivut (menu, ravintolat) eivat avaudu renderöinnillä — sivusto renderoitui vain 144 merkiksi ja ali-URLit palauttavat 404",
+    "Tuotteiden hintoja, allergeeneja tai ravintosisaltoja ei voitu vahvistaa mittauksessa",
+    "Y-tunnus ei ole esilla sivustolla"
+  ],
+  "yhteenveto": "Fafas on kotimainen pitaketju vuodelta 2011, jonka verkkosivusto on rakennettu asiakaspuolen renderointiin perustuvaksi. Etusivu renderoitui vain 144 merkiksi eika menu- tai ravintolasivu avautunut mittauksessa. Hintatietoja, allergeeneja tai raaka-aineiden alkuperaa ei voitu vahvistaa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivusto nayttaa MENU- ja TILAA RAVINTOLASTA -linkit navigaatiossa, mutta /menu-URL palauttaa 404-virheen. Hintoja ei voitu vahvistaa mittauksessa — mittausaukko, ei todiste hintojen puuttumisesta.",
+    "allergeenit_esilla": "HAVAINTO: Sivuston navigaatiossa nakyy MENU-linkki, mutta menu-sivu ei avautunut. Allergeeni- tai ravintosisaltotietoja ei voitu vahvistaa — mittausaukko.",
+    "alkupera_kerrottu": "HAVAINTO: Saavutetuissa sivuissa (etusivu 144 merkia) ei loydetty mainintaa raaka-aineiden alkuperasta. Tiedon olemassaoloa ei voida vahvistaa tai kieltaa.",
+    "ravintolat_ja_aukioloajat": "HAVAINTO: Navigaatiossa on RAVINTOLAT-linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintolaluettelo ja aukioloajat eivat avautuneet mittauksessa.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esiteta Y-tunnusta. Yritys on Fafas Plats Oy (Y-tunnus 2442719-9), mutta tata ei nayta sivustolla.",
+    "riippumaton_arvio": "HAVAINTO: Navigaatiossa on Oiva-raportit-linkki. Oiva-raporttisivun sisaltoa ei voitu vahvistaa."
+  }
+}

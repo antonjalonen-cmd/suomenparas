@@ -96,6 +96,7 @@ MEASURED = {
     "virustorjuntaohjelmat": "21.7.2026",
     # erä 9
     "autoliikkeet": "2.8.2026",
+    "pikaruokaketjut": "2.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships
@@ -407,7 +408,11 @@ def build(vertical):
         # campaign domain and redirects to the group's global ruukki.com/fin/katot.
         # Same owner (SSAB subsidiary), not a sold brand — verified via LH fetch_url
         # 24.7 and the 26.7 extraction crawl that followed ruukkikatot.fi's own nav.
-        SAME_COMPANY = {("fortum.fi", "fortum.com"), ("ruukkikatot.fi", "ruukki.com")}
+        # (2.8.2026): mcdonalds.fi is Food Folk Suomi Oy's Finnish domain and
+        # 301-redirects to McDonald's global mcdonalds.com/fi/fi-fi/ — same operator,
+        # verified from hinnasto page text ("McDonald's") and company history.
+        SAME_COMPANY = {("fortum.fi", "fortum.com"), ("ruukkikatot.fi", "ruukki.com"),
+                        ("mcdonalds.fi", "mcdonalds.com")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:

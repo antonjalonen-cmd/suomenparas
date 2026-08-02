@@ -1,0 +1,1741 @@
+{
+ "slug": "pikaruokaketjut",
+ "nimi": "Pikaruokaketjut",
+ "nav": "Pikaruokaketjut",
+ "h1": "Suomen paras pikaruokaketju 2026",
+ "yksikko": "Suomessa toimivaa pikaruokaketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa pikaruokaketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö hinnat, allergeenit ja raaka-aineiden alkuperän ennen kuin menet ravintolaan?",
+ "meta_title": "Suomen paras pikaruokaketju 2026 | pisteytettynä | Suomen Paras",
+ "meta_desc": "8 pikaruokaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kolme ketjua, yksi operaattori.</b> Burger King, Taco Bell ja Golden Rax kuuluvat kaikki Osuuskunta Tradekan omistamaan Restel-konserniin. Ketjut ovat vertailussa erikseen, koska niillä on omat sivustot ja oma hinnoittelu, mutta omistaja kerrotaan jokaisen kohdalla.",
+  "<b>Emme arvioi ruokaa.</b> Maku, laatu ja ravintoloiden siisteys eivät ole mitattavissa verkkosivulta. Mittaamme sen, mitä ketju kertoo julkisesti: hinnat, allergeeni- ja ravintosisältötiedot, raaka-aineiden alkuperän sekä ravintoloiden aukioloajat.",
+  "<b>Allergeenitiedot ovat lain vaatimus, mutta esitystapa ei.</b> Tieto voi olla selattavassa taulukossa, latautuvassa PDF:ssä tai vain ravintolassa kysyttäessä. Pisteytämme sen, löytyykö tieto julkiselta sivulta tuotekohtaisesti."
+ ],
+ "yritykset": [
+  {
+   "slug": "hesburger",
+   "nimi": "Hesburger",
+   "domain": "hesburger.fi",
+   "omistaja": "Hesburger on Burger-In Oy:n (PRH: aktiivinen) ketju; salolainen Harri ja Kirsti Ljungqvistin perheyhtiö vuodesta 1980, Suomen laajin pikaruokaketju.",
+   "y_tunnus": "0845504-2",
+   "rekisteroity": 1991,
+   "score": 75.3,
+   "pillars": {
+    "digitaalinen": 77.7,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 81.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "60/100",
+       "paino": 40,
+       "pisteet": 60,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "83/100",
+       "paino": 30,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotteet-sivulla on suora linkki 'Hinnasto' (/mellow/output/getfile.php?id=5789), joka on julkisesti ladattavissa ilman kirjautumista."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivu /ravintoarvot-ja-lisatietoa-allergeeneista sisältää kaikki tuotteet taulukoituna ravintoarvojen kanssa (energia, rasva, proteiini, suola, laktoosi). Esimerkki: 'Kahden cheddarin jalapenohampurilainen 2 665 kJ / 639 kcal, rasva 40,8 g, proteiini 31,6 g, laktoosi 1,00 g.'"
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vastuullisuus-osiossa on alaotsikko 'Raaka-aineita kotimaisilta yrityksiltä', mikä viittaa kotimaiseen hankintaan, mutta alkuperämaata ei mainita suoraan asiakkaalle helposti näkyvässä kohdassa."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ravintolat-sivulla listataan 84 Hesburger-ravintolaa osoitteineen, puhelinnumeroineen ja päiväkohtaisine aukioloaikoineen. Esimerkki: 'Hesburger Akaa Toijala ABC, Sirkesalontie 2, 37800 Akaa, +358107672620, ma-to 9.30-24, pe-la 9.30-01.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa lukee '© 2026 Burger-In Oy' eikä Y-tunnusta (0845504-2) esitetä missään löydetyssä kohdassa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolta ei löydetty Oiva-raportteja, kolmannen osapuolen sertifikaatteja tai ulkopuolisia arvioita kuluttajille näkyvästi esitettynä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "84/100",
+       "paino": 33,
+       "pisteet": 84,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 60,
+    "accessibility": 83,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 5304.273880000001,
+    "cls": 0.2760827520583528,
+    "tbt_ms": 39.000000000000455
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava ravintoarvo- ja allergeenisivu listaa jokaisen tuotteen energian, rasvan, proteiinin, suolan ja laktoosin — täysin julkisesti ilman kirjautumista",
+    "84 ravintolaa listattu osoitteineen, puhelinnumeroineen ja aukioloaikoineen karttanäkymässä",
+    "Hesburger-sovellus tarjolla ja hinnasto ladattavissa suoraan tuotteet-sivulta"
+   ],
+   "kehityskohteet": [
+    "Y-tunnusta ei löydy sivustolta — yritystiedoissa mainitaan vain 'Burger-In Oy' ilman rekisterinumeroa",
+    "Lihan tai muiden pääraaka-aineiden alkuperämaa ei käy ilmi asiakkaalle helposti löydettävässä paikassa",
+    "Riippumattomia arvioita tai sertifikaatteja ei esitellä sivustolla kuluttajille näkyvästi"
+   ],
+   "yhteenveto": "Hesburger on Suomen laajin kotimainen pikaruokaketju, jonka sivusto tarjoaa kattavat tuotekohtaiset ravintoarvo- ja allergeeni­tiedot sekä selkeän ravintolahaun aukioloaikoineen. Hinnat ovat saatavilla ladattavana hinnastona, mutta lihan alkuperämaa ja yrityksen Y-tunnus eivät ole helposti löydettävissä verkkosivuilta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "taco-bell",
+   "nimi": "Taco Bell",
+   "domain": "tacobell.fi",
+   "omistaja": "Taco Bellin Suomen ravintoloista vastaa Restel Fast Food Oy (PRH: aktiivinen) eli sama Tradekan omistama yhtiö kuin Burger Kingin; osa ravintoloista toimii yhteisravintoloina Burger Kingin kanssa.",
+   "y_tunnus": "2538302-8",
+   "rekisteroity": 2013,
+   "score": 72.1,
+   "pillars": {
+    "digitaalinen": 77.2,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 77.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "49/100",
+       "paino": 40,
+       "pisteet": 49,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menu-sivulla (/menu/?taxonomy_name=ateriat) nakyy hinnat suoraan tuotteittain: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, TACO SUPREME MEAL 6,95 eur, CHALUPA SUPREME MEAL 7,95 eur, CHEESE QUESADILLA MEAL 7,95 eur. Merkinta: Valikoima ja hinnat ovat voimassa klo 22 asti."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menu-sivulla on eksplisiittinen teksti: Katso allergeenitaulukko tasta. Katso ravintoarvotaulukko tasta. Myos: Otamme myos allergiat huomioon."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotelistauksessa kerrotaan proteiiniksi naudan jauheliha, grillattu kana, Crispy Chicken tai kasviproteiini, mutta alkuperämaata ei mainita missaan saavutetussa sivussa."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ravintolat-sivulla (/ravintolat/) listataan ravintolat osoitteineen, puhelinnumeroineen ja paivittaisine aukioloaikoineen. Esimerkki: Taco Bell Bakersi Helsinki, Kalevankatu 2, 040 686 5301, ma 11:00-01:00, ti 11:00-01:00, ke-pe 11:00-05:00, la 11:00-05:00, su 11:00-01:00."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esiteta Y-tunnusta (Restel Fast Food Oy, 2538302-8). Sivustolla nakyy Tietosuoja ja Sivujen kayttoehdot -linkit mutta ei yritystietoja."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa on linkki Oiva-raportit, joka viittaa viranomaisten elintarvikevalvontaraportteihin. Muita riippumattomia arvioita tai sertifikaatteja ei nayta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 49,
+    "accessibility": 98,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 10278.894385543823,
+    "cls": 0,
+    "tbt_ms": 563
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotteiden hinnat esilla selkeästi: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, CHALUPA SUPREME MEAL 7,95 eur valikossa julkisesti",
+    "Allergeeni- ja ravintoarvotaulukot ilmoitettu menu-sivulla linkkeineen: Katso allergeenitaulukko tasta ja Katso ravintoarvotaulukko tasta",
+    "Ravintolat esitellaan osoitteineen, puhelinnumeroineen ja tarkoilla paivittaisilla aukioloajoilla: esim. Taco Bell Bakersi Helsinki, Kalevankatu 2, ma 11-01, ke 11-05"
+   ],
+   "kehityskohteet": [
+    "Raaka-aineiden alkuperämaata (esim. kotimainen naudan jauheliha) ei kerrota julkisesti verkkosivustolla",
+    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa tai footer-tekstissa ei ilmoiteta operaattorin rekisteritietoja",
+    "Palaute- ja UKK-osio puuttuvat tai eivat loydy helposti navigaatiosta"
+   ],
+   "yhteenveto": "Taco Bell on toiminut Suomessa vuodesta 2017, ja sen sivusto esittelee hinnat selkeästi sekalle linkit allergeeni- ja ravintoarvotaulukoihin. Ravintolalista aukioloaikoineen on kattava. Raaka-aineiden alkuperämaata ei kerrota, ja Y-tunnus puuttuu sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "burger-king",
+   "nimi": "Burger King",
+   "domain": "burgerking.fi",
+   "omistaja": "Burger Kingin Suomen ravintoloista vastaa Restel Fast Food Oy (PRH: aktiivinen), joka kuuluu Osuuskunta Tradekan omistamaan Resteliin; sama yhtiö operoi myös Taco Bellia Suomessa.",
+   "y_tunnus": "2538302-8",
+   "rekisteroity": 2013,
+   "score": 71.9,
+   "pillars": {
+    "digitaalinen": 78.5,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 85.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "56/100",
+       "paino": 40,
+       "pisteet": 56,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla (/hinnasto/) on taydellinen hinnasto tuoteryhmittain: WHOPPER-ateria 9,95 eur / hampurilainen 7,45 eur, Double WHOPPER 13,95 eur / 11,45 eur, Bacon King 15,95 eur / 12,45 eur. Merkinta: Hinnat ovat alkaen hintoja. Voimassa klo 06-24."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotteet-sivu nayttaa allergeenisuodattimen (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija). Allergeenit-sivu toteaa: Tuotekohtaiset tiedot allergeeneista loydat taalta."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivulla on merkinta: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU. — nakyy suoraan julkisessa hinnastossa."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Etsi ravintola -linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintoloiden aukioloajoja ei voitu vahvistaa verkkosivuston kautta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa: TM & 2026 Burger King Corporation. Used under license. Suomalaisen operaattorin (Restel Fast Food Oy, Y-tunnus 2538302-8) tietoja ei esiteta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaation BK INFO -osiossa on Oiva-raportit-linkki. Konkreettisia arviointituloksia tai sertifikaatteja ei esiteta etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "84/100",
+       "paino": 34,
+       "pisteet": 84,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 56,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 92,
+    "lcp_ms": 10830.68836,
+    "cls": 0,
+    "tbt_ms": 332
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava hinnasto kaikille tuotteille julkisesti: WHOPPER-ateria 9,95 eur, Bacon King -ateria 15,95 eur taulukkomuodossa",
+    "Tuotteiden alkuperamaa kerrottu hinnastossa eksplisiittisesti: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU.",
+    "Allergeenisuodatin tuotteet-sivulla (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija) ja allergeenit-sivu tuotekohtaisine tietoineen"
+   ],
+   "kehityskohteet": [
+    "Ravintoloiden aukioloajat eivat ole helposti saatavilla verkkosivustolta — /ravintolat palauttaa 404",
+    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain Burger King Corporation",
+    "Oiva-raportit mainittu navigaatiossa mutta konkreettisia tuloksia ei esiteta etusivulla"
+   ],
+   "yhteenveto": "Burger Kingin sivusto tarjoaa erinomaisen hintalapinakymmyyden: kaikkien tuotteiden hinnat on julkinen hinnastona ja naudanlihan seka kanan alkuperamaa EU on kerrottu eksplisiittisesti. Allergeenisuodatin helpottaa sopivien tuotteiden loytyamista. Ravintolahaun puuttuminen verkkosivustolta heikentaa kaytonmukavuutta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "rax",
+   "nimi": "Golden Rax",
+   "domain": "rax.fi",
+   "omistaja": "Golden Rax Pizzabuffet on Rax Ravintolat Oy:n (PRH: aktiivinen) ketju, joka kuuluu Osuuskunta Tradekan omistamaan Restel-konserniin — sama omistaja kuin Burger Kingillä ja Taco Bellilla.",
+   "y_tunnus": "1572598-7",
+   "rekisteroity": 2000,
+   "score": 65.1,
+   "pillars": {
+    "digitaalinen": 66.3,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "21/100",
+       "paino": 40,
+       "pisteet": 21,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnastot-sivulla (/hinnastot/) nakyy kaikki buffethinnat: Arkibuffet 13,70 eur (ma-to + pe klo 14 asti), Viikonloppubuffet 15,90 eur (pe klo 14 jalkeen + la-su), Salaattibuffet 12,70 eur, 3-6-vuotiaat 5,00 eur, 7-11-vuotiaat 8,90 eur."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Allergeenit-sivu (/allergeenit/) renderoitui vain 420 merkiksi sisallon: Katso ruokien allergeenitiedot taalta — linkki olemassa mutta tuotekohtaista allergeenisisaltoa ei voitu vahvistaa renderöinnillä."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Saavutetuissa sivuissa ei loydetty mainintaa raaka-aineiden alkuperamaasta tai hankinta-alueesta."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ravintolat-sivulla (/ravintolat/) listataan ravintolat tiedoin: Rax Pizzabuffet Flamingo Vantaa, Tasetie 8 Vantaa, 0417316481, flamingo.rax@restel.fi, ma-to 11-21, pe-la 11-22, su 11-20."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa lukee 2026 Rax Pizzabuffet. Y-tunnusta (Rax Ravintolat Oy, 1572598-7) ei esiteta sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa ja alatunnisteessa on linkki Oiva-raportit — viittaus elintarvikevalvontaraportteihin. Muita riippumattomia arvioita ei nayta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 21,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 22026.462258171083,
+    "cls": 0.7921904651153524,
+    "tbt_ms": 696
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kaikki buffethinnat esitetaan selkeästi: Arkibuffet 13,70 eur, Viikonloppubuffet 15,90 eur, Salaattibuffet 12,70 eur, lasten hinnat eriteltyina",
+    "Ravintolat listattu osoitteineen, sahkoposteineen ja paivittaisine aukioloaikoineen: Rax Pizzabuffet Flamingo Vantaa, 0417316481, flamingo.rax@restel.fi, ma-to 11-21",
+    "Allergeenisivu on olemassa linkitettyna — Katso ruokien allergeenitiedot taalta — vaikka sisalto ei avautunut renderonnissa"
+   ],
+   "kehityskohteet": [
+    "Allergeenisivu renderoitui 420 merkiksi ilman konkreettista sisaltoa — allergeenien tuotekohtaisuutta ei voitu vahvistaa",
+    "Raaka-aineiden alkuperämaata ei mainita sivustolla",
+    "Y-tunnus ei ole esilla — alatunnisteessa lukee vain 2026 Rax Pizzabuffet"
+   ],
+   "yhteenveto": "Golden Rax on Restel-konsernin pizzabuffetketju, jonka sivustolla buffethinnat ovat selkeästi julkisia. Ravintolat esitellaan yhteystietoineen ja aukioloaikoineen. Allergeenisivusto on olemassa, mutta sen tuotekohtainen sisalto ei avautunut automaattisessa mittauksessa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "kotipizza",
+   "nimi": "Kotipizza",
+   "domain": "kotipizza.fi",
+   "omistaja": "Kotipizza Oyj (PRH: aktiivinen) on Suomen suurin pizzaketju; omistaja on norjalainen Orkla ASA, ja ravintolat toimivat yrittäjävetoisina franchising-ravintoloina.",
+   "y_tunnus": "0548483-3",
+   "rekisteroity": 1984,
+   "score": 62.1,
+   "pillars": {
+    "digitaalinen": 65.5,
+    "lapinakyvyys": 57.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 78.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "21/100",
+       "paino": 40,
+       "pisteet": 21,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla nakyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Raaka-aineet, mutta sivu palauttaa 404-virheen. Allergeeni- ja ravintoarvosisaltoa ei voitu vahvistaa."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei loydetty tietoa mittauksessa saatavilla olleista sivuista."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ravintolat-sivu latautuu ja nayttaa Google Maps -karttanakyma, mutta yksittaisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissa nayttay."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetty Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Oiva-raportit, joka viittaa viranomaisten elintarvikevalvontaraportteihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 21,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 18397.98625999999,
+    "cls": 0.1676263492335335,
+    "tbt_ms": 4560
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotteiden hinnat nakyivat suoraan etusivulla: Buffalo Pollo Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur ilman kirjautumista",
+    "Tilausprosessi alkaa suoraan etusivulta ilman rekisteroitymista, valikko on selkea ja kategorisoitu",
+    "Kotipizza-sovellus tarjolla ja kanta-asiakasohjelma esitelty selkein eduin"
+   ],
+   "kehityskohteet": [
+    "Allergeeni- ja ravintosisältösivut eivat avaudu selaimen renderöinnillä, joten sisaltoa ei voitu vahvistaa",
+    "Ravintoloiden yhteystiedot ja aukioloajat eivat nakyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
+    "Y-tunnus ei ole esilla sivustolla"
+   ],
+   "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivat avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittaisten ravintoloiden aukioloajat eivat olleet tekstitasolla saatavilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "mcdonalds",
+   "nimi": "McDonald's",
+   "domain": "mcdonalds.fi",
+   "omistaja": "McDonald's-ravintoloista Suomessa vastaa Food Folk Suomi Oy (PRH: aktiivinen), joka osti Pohjoismaiden McDonald's-liiketoiminnan vuonna 2017; brändi on yhdysvaltalaisen McDonald's Corporationin.",
+   "y_tunnus": "2779836-6",
+   "rekisteroity": 2016,
+   "score": 50.4,
+   "pillars": {
+    "digitaalinen": 75.8,
+    "lapinakyvyys": 32.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 41.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivu sisaltaa tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat naet kuitenkin McDonaldsi-sovelluksesta tehdessasi mobiilitilauksen."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on linkki Erityisruokavaliot, mutta sivu ei avautunut renderonnissa. Allergeeni- ja ravintoarvotietojen olemassaoloa ei voitu vahvistaa mittauksessa."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisaltoa ei voitu vahvistaa mittauksessa."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ravintolahaku-sivu latautuu ja nayttaa karttanakyman, mutta yksittaisten ravintoloiden osoite- ja aukiolotiedot eivat tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisaltoa ei voitu vahvistaa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esiteta missaan mittauksessa loydetyssa kohdassa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa nakyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisaltoa ei voitu vahvistaa renderöinnillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "12/100",
+       "paino": 33,
+       "pisteet": 12,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "48/100",
+       "paino": 33,
+       "pisteet": 48,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 4683.010050000001,
+    "cls": 0.18889455193000598,
+    "tbt_ms": 1098.0873999999994
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Mobiilisovellus kattaa tilaukset, pisteiden keräyksen ja ravintolakohtaiset hinnat",
+    "Ravintolahaku kartalla toimii ja nayttaa lahimmat ravintolat sijainnin perusteella",
+    "Navigaatiossa on viitteet ravintoarvolaskuriin, allergeeni- ja raaka-ainetietoihin seka Oiva-raportteihin"
+   ],
+   "kehityskohteet": [
+    "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat nakyy vain sovelluksesta",
+    "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivat lataudu selaimen renderöinnillä",
+    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
+   ],
+   "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivat avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "fafas",
+   "nimi": "Fafa's",
+   "domain": "fafas.fi",
+   "omistaja": "Fafa's on Fafa's Plats Oy:n (PRH: aktiivinen) kotimainen pitaketju vuodelta 2011; ravintolat toimivat pääosin franchising-periaatteella.",
+   "y_tunnus": "2442719-9",
+   "rekisteroity": 2011,
+   "score": 44.4,
+   "pillars": {
+    "digitaalinen": 58.4,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 35.0,
+    "ai_laatu": 32.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "13/100",
+       "paino": 40,
+       "pisteet": 13,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto nayttaa MENU- ja TILAA RAVINTOLASTA -linkit navigaatiossa, mutta /menu-URL palauttaa 404-virheen. Hintoja ei voitu vahvistaa mittauksessa — mittausaukko, ei todiste hintojen puuttumisesta."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston navigaatiossa nakyy MENU-linkki, mutta menu-sivu ei avautunut. Allergeeni- tai ravintosisaltotietoja ei voitu vahvistaa — mittausaukko."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Saavutetuissa sivuissa (etusivu 144 merkia) ei loydetty mainintaa raaka-aineiden alkuperasta. Tiedon olemassaoloa ei voida vahvistaa tai kieltaa."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on RAVINTOLAT-linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintolaluettelo ja aukioloajat eivat avautuneet mittauksessa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esiteta Y-tunnusta. Yritys on Fafas Plats Oy (Y-tunnus 2442719-9), mutta tata ei nayta sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa on Oiva-raportit-linkki. Oiva-raporttisivun sisaltoa ei voitu vahvistaa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "38/100",
+       "paino": 34,
+       "pisteet": 38,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "28/100",
+       "paino": 33,
+       "pisteet": 28,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 13,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 14772.9166,
+    "cls": 0.4671433434957438,
+    "tbt_ms": 1392.4999999999964
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Oiva-raportit mainittu navigaatiossa",
+    "MENU-, RAVINTOLAT-, CATERING- ja PALAUTE-linkit navigaatiossa esitetty selkeästi",
+    "Sivusto on kaksikielinen (suomi/englanti) kielivalitsimella"
+   ],
+   "kehityskohteet": [
+    "Sivuston sisältösivut (menu, ravintolat) eivat avaudu renderöinnillä — sivusto renderoitui vain 144 merkiksi ja ali-URLit palauttavat 404",
+    "Tuotteiden hintoja, allergeeneja tai ravintosisaltoja ei voitu vahvistaa mittauksessa",
+    "Y-tunnus ei ole esilla sivustolla"
+   ],
+   "yhteenveto": "Fafas on kotimainen pitaketju vuodelta 2011, jonka verkkosivusto on rakennettu asiakaspuolen renderointiin perustuvaksi. Etusivu renderoitui vain 144 merkiksi eika menu- tai ravintolasivu avautunut mittauksessa. Hintatietoja, allergeeneja tai raaka-aineiden alkuperaa ei voitu vahvistaa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "sibylla",
+   "nimi": "Sibylla",
+   "domain": "sibylla.fi",
+   "omistaja": "Sibylla-konseptista Suomessa vastaa Atria Concept Oy (PRH: aktiivinen, aputoiminimi Sibylla), joka kuuluu suomalaiseen Atria Oyj:hyn; ravintolat toimivat huoltoasemien ja kauppojen yhteydessä.",
+   "y_tunnus": "1731965-9",
+   "rekisteroity": 2001,
+   "score": 36.0,
+   "pillars": {
+    "digitaalinen": 65.2,
+    "lapinakyvyys": 20.0,
+    "tavoitettavuus": 22.5,
+    "ai_laatu": 29.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei esiteta kuluttajahintoja. Sivusto on B2B-konseptisivu: KONSEPTIMME, TUOTTEET (franchising-nakokulma), LAITTEET, OTA YHTEYTTA. Kuluttajahintoja ei ole."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotteet-osiossa todetaan: Sibyllan omat tuotesivut ovat tyonalla. Klikkaamalla eteenpain, sirryt Atria Foodservice -sivustolle selaamaan tuotesivuja ja tuotetietoja. Allergeeneja ei esiteta suoraan sibylla.fi-sivustolla."
+      },
+      {
+       "mittari": "Raaka-aineiden alkuperä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan Atria-konsernin vastuullisuustyolinkit ja KOHTI HIILINEUTRAALIA ELINTARVIKEKETJUA, mutta raaka-aineiden konkreettista alkuperämaata ei mainita."
+      },
+      {
+       "mittari": "Ravintolat ja aukioloajat kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei ole ravintolaluetteloa tai aukioloaikoja. Sibylla-pisteet ovat huoltoasemien ja kauppojen tiloissa, mutta naita ei listata sivustolla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa lukee Atria Suomi Oy. Y-tunnusta (Atria Concept Oy, 1731965-9) ei esiteta sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei nakynyt Oiva-raportteja, sertifikaatteja tai muita riippumattomia arviointeja."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "52/100",
+       "paino": 34,
+       "pisteet": 52,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "8/100",
+       "paino": 33,
+       "pisteet": 8,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "28/100",
+       "paino": 33,
+       "pisteet": 28,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 95,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 11379.458750000002,
+    "cls": 0.28100093532725134,
+    "tbt_ms": 631.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Sivusto esittelee Sibylla-konseptin selkeästi franchising-kumppaneille",
+    "Vastuullisuus ja Atrian hiilineutraalius-tavoitteet esitelty sivustolla",
+    "Yhteydenottolomake ja toimisto-osoite (Atria Suomi Oy, Lakkisepantie 23, 00620 Helsinki) ovat esilla"
+   ],
+   "kehityskohteet": [
+    "Sivusto on suunnattu B2B-asiakkaille (franchising-kauppiaat), ei kuluttajille — kuluttajahinnat, allergeenit tai ravintolatiedot eivat ole saatavilla",
+    "Tuotesivut ovat tyon alla: Sibyllan omat tuotesivut ovat tyonalla, ja tuotetiedot on ohjattu Atria Foodservice -sivustolle",
+    "Ravintoloita tai pisteiden aukioloaikoja ei listata — Sibylla-pisteet ovat usein huoltoasemien tai kauppojen yhteydessa"
+   ],
+   "yhteenveto": "Sibylla-sivusto on suunnattu franchising-kumppaneille, ei kuluttajille: se esittelee konseptia kauppiaille eika sisalla kuluttajahintoja, allergeeneja tai ravintolaluetteloa. Tuotesivut ovat tyon alla ja tiedot on ohjattu Atria Foodservice -sivustolle. Kuluttajan nakokulmasta verkkosivusto ei tarjoa vertailtavissa olevia tietoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "2.8.2026",
+ "opas": {
+  "johdanto": "Suomen pikaruokamarkkina on keskittyneempi kuin ruokalistoista arvaisi: Burger King, Taco Bell ja Golden Rax kuuluvat kaikki Osuuskunta Tradekan omistamaan Restel-konserniin, Hesburger on salolaisen perheyhtiön ketju, McDonald'sin ravintoloista vastaa Food Folk Suomi Oy ja Kotipizzan omistaa norjalainen Orkla. Vertailussa mitataan, mitä ketju kertoo julkisilla sivuillaan ennen kuin astut ravintolaan: hinnat, allergeenit, raaka-aineiden alkuperä ja ravintoloiden tiedot.",
+  "huomioita": [
+   "Yksikään kahdeksasta mitatusta ketjusta ei kerro Y-tunnustaan julkisilla sivuillaan. Se on koko sivuston mittaushistorian heikoin tulos tässä mittarissa ja alan yhteinen läpinäkyvyysaukko.",
+   "McDonald's on poistanut hinnat verkkosivuiltaan tietoisesti: sivusto ohjaa katsomaan ravintolakohtaiset hinnat mobiilisovelluksesta. Hintavertailu ilman sovelluksen asentamista ei siis onnistu.",
+   "Kolme ketjua, yksi operaattori: Burger Kingin, Taco Bellin ja Golden Raxin taustalla on sama Restel Fast Food Oy / Restel-konserni. Ketjut ovat vertailussa erikseen, koska niillä on omat sivustot ja oma hinnoittelu.",
+   "Sibyllan sivusto on suunnattu kioski- ja huoltoasemakauppiaille, ei kuluttajille. Se näkyy pisteissä: kuluttaja ei löydä sieltä hintoja eikä tuotekohtaisia allergeenitietoja."
+  ],
+  "vinkit": [
+   "Katso allergeeni- ja ravintosisältötaulukko ketjun omalta sivulta ennen tilaamista. Parhailla ketjuilla tiedot löytyvät tuotekohtaisesti, huonoimmilla vain kysymällä ravintolasta.",
+   "Vertaa aterian kokonaishintaa, ei pelkän annoksen hintaa. Sama burgeri voi olla eri hintainen eri ravintoloissa, ja osa ketjuista näyttää vain sovelluksen kampanjahinnat.",
+   "Raaka-aineiden alkuperä kannattaa tarkistaa sivulta erikseen: osa ketjuista kertoo lihan alkuperämaan tuotekohtaisesti, osa ei kerro sitä lainkaan.",
+   "Jos hintatietoa ei löydy verkosta, se on valinta eikä vahinko. Läpinäkyvä ketju uskaltaa näyttää hinnastonsa ilman sovelluksen asentamista."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi McDonald'sin sivuilla ei näy hintoja?",
+    "a": "Yhtiö on poistanut hinnat verkkosivuiltaan ja ohjaa asiakkaat mobiilisovellukseen, jossa hinnat näkyvät ravintolakohtaisesti. Mittauksessa tämä kirjataan niin kuin asiakas sen kokee: hintoja ei näe julkisilta sivuilta ilman sovellusta."
+   },
+   {
+    "q": "Kuuluvatko Burger King ja Taco Bell samalle omistajalle?",
+    "a": "Kyllä. Molempia operoi Suomessa Restel Fast Food Oy, joka kuuluu Osuuskunta Tradekan omistamaan Restel-konserniin, samoin Golden Rax. Kerromme omistajan jokaisen ketjun sivulla, koska kahden ketjun vertailu ei ole vertailua, jos taustalla on sama yhtiö."
+   },
+   {
+    "q": "Miksi Subway ei ole vertailussa?",
+    "a": "Subwayn suomenkielinen sivusto ohjaa kansainväliselle subway.com-sivulle, joka ei vastannut mittaukseen. Kyseessä on mittausaukko, ei väite siitä että ketjulta puuttuisi tietoja. Samasta syystä pois jäivät Pancho Villa (botti-esto) ja Pizza Hut, jonka Suomen-operaattoria emme voineet varmistaa julkisista lähteistä."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttää pikaruokaketjut?",
+    "a": "Mittaamme julkisen verkkosivun läpinäkyvyyttä: näkyvätkö hinnat, löytyvätkö allergeeni- ja ravintosisältötiedot tuotekohtaisesti, kerrotaanko raaka-aineiden alkuperä ja löytyvätkö ravintolat aukioloaikoineen. Emme arvioi ruoan makua, laatua emmekä ravintoloiden siisteyttä."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotteiden hinnat verkossa esillä (25), allergeeni- ja ravintosisältötiedot tuotekohtaisesti (25), raaka-aineiden alkuperä kerrottu (15), ravintolat ja aukioloajat kerrottu (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}

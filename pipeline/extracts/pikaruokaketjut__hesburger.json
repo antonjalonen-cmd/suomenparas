@@ -1,0 +1,44 @@
+{
+  "slug": "hesburger",
+  "fetched_ok": [
+    "https://www.hesburger.fi/",
+    "https://www.hesburger.fi/tuotteet",
+    "https://www.hesburger.fi/ravintoarvolaskuri",
+    "https://www.hesburger.fi/ravintoarvot-ja-lisatietoa-allergeeneista",
+    "https://www.hesburger.fi/ravintolat",
+    "https://www.hesburger.fi/kayttoehdot-ja-yksityisyydensuoja",
+    "https://www.hesburger.fi/vastuullisuus/laadukkaat-tuotteet"
+  ],
+  "hinnat_esilla": "kylla",
+  "allergeenit_esilla": "kylla",
+  "alkupera_kerrottu": "osittain",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 82, "hintojen_loydettavyys": 78, "sisallon_kattavuus": 84},
+  "vahvuudet": [
+    "Kattava ravintoarvo- ja allergeenisivu listaa jokaisen tuotteen energian, rasvan, proteiinin, suolan ja laktoosin — täysin julkisesti ilman kirjautumista",
+    "84 ravintolaa listattu osoitteineen, puhelinnumeroineen ja aukioloaikoineen karttanäkymässä",
+    "Hesburger-sovellus tarjolla ja hinnasto ladattavissa suoraan tuotteet-sivulta"
+  ],
+  "kehityskohteet": [
+    "Y-tunnusta ei löydy sivustolta — yritystiedoissa mainitaan vain 'Burger-In Oy' ilman rekisterinumeroa",
+    "Lihan tai muiden pääraaka-aineiden alkuperämaa ei käy ilmi asiakkaalle helposti löydettävässä paikassa",
+    "Riippumattomia arvioita tai sertifikaatteja ei esitellä sivustolla kuluttajille näkyvästi"
+  ],
+  "yhteenveto": "Hesburger on Suomen laajin kotimainen pikaruokaketju, jonka sivusto tarjoaa kattavat tuotekohtaiset ravintoarvo- ja allergeeni­tiedot sekä selkeän ravintolahaun aukioloaikoineen. Hinnat ovat saatavilla ladattavana hinnastona, mutta lihan alkuperämaa ja yrityksen Y-tunnus eivät ole helposti löydettävissä verkkosivuilta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotteet-sivulla on suora linkki 'Hinnasto' (/mellow/output/getfile.php?id=5789), joka on julkisesti ladattavissa ilman kirjautumista.",
+    "allergeenit_esilla": "HAVAINTO: Sivu /ravintoarvot-ja-lisatietoa-allergeeneista sisältää kaikki tuotteet taulukoituna ravintoarvojen kanssa (energia, rasva, proteiini, suola, laktoosi). Esimerkki: 'Kahden cheddarin jalapenohampurilainen 2 665 kJ / 639 kcal, rasva 40,8 g, proteiini 31,6 g, laktoosi 1,00 g.'",
+    "alkupera_kerrottu": "HAVAINTO: Vastuullisuus-osiossa on alaotsikko 'Raaka-aineita kotimaisilta yrityksiltä', mikä viittaa kotimaiseen hankintaan, mutta alkuperämaata ei mainita suoraan asiakkaalle helposti näkyvässä kohdassa.",
+    "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolat-sivulla listataan 84 Hesburger-ravintolaa osoitteineen, puhelinnumeroineen ja päiväkohtaisine aukioloaikoineen. Esimerkki: 'Hesburger Akaa Toijala ABC, Sirkesalontie 2, 37800 Akaa, +358107672620, ma-to 9.30-24, pe-la 9.30-01.'",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa lukee '© 2026 Burger-In Oy' eikä Y-tunnusta (0845504-2) esitetä missään löydetyssä kohdassa.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolta ei löydetty Oiva-raportteja, kolmannen osapuolen sertifikaatteja tai ulkopuolisia arvioita kuluttajille näkyvästi esitettynä."
+  }
+}

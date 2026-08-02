@@ -1,0 +1,1657 @@
+{
+ "slug": "autoliikkeet",
+ "nimi": "Autoliikkeet",
+ "nav": "Autoliikkeet",
+ "h1": "Suomen paras autoliike 2026",
+ "yksikko": "Suomessa toimivaa autoliikeketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa autoliikeketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö auton hinnan, takuun sisällön ja rahoituksen kulut ennen kuin jätät yhteystietosi?",
+ "meta_title": "Suomen paras autoliike 2026 | pisteytettynä | Suomen Paras",
+ "meta_desc": "7 autoliikeketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Vaihtoautokauppa on keskittynyt.</b> Laakkosen autotalot ovat nykyään ruotsalaisen Hedin Mobility Groupin omistuksessa (Hedin Automotive Finland Oy, aiemmin Veljekset Laakkonen Oy), ja samalle omistajalle kuuluu Suomessa myös Delta Auto. Kerromme omistajan jokaisen yhtiön sivulla, koska kahden ketjun vertailu ei ole vertailua, jos omistaja on sama.",
+  "<b>Mitä tämä vertailu ei mittaa.</b> Emme arvioi autojen kuntoa, hintatasoa emmekä kauppojen palvelua. Mittaamme sen, mitä ostaja näkee julkisilta sivuilta ennen yhteydenottoa: hinnat, vaihtoautotakuun sisällön, rahoituksen kulut ja palautus- tai vaihto-oikeuden.",
+  "<b>Rahoituksen kulut ovat alan vaikein kohta.</b> Kuukausierä näkyy usein isolla, mutta todellinen vuosikorko ja kokonaiskulut vasta pienellä tai erillisessä liitteessä. Pisteytämme sen, löytyykö todellinen vuosikorko julkiselta sivulta ilman lomakkeen täyttöä."
+ ],
+ "yritykset": [
+  {
+   "slug": "kamux",
+   "nimi": "Kamux",
+   "domain": "kamux.fi",
+   "omistaja": "Kamux Oyj (PRH: aktiivinen) on Helsingin pörssiin listattu käytettyjen autojen ketju, joka toimii Suomen lisäksi Ruotsissa ja Saksassa; Suomen liiketoiminnasta vastaa Kamux Suomi Oy.",
+   "y_tunnus": "2442327-8",
+   "rekisteroity": 2011,
+   "score": 82.6,
+   "pillars": {
+    "digitaalinen": 68.3,
+    "lapinakyvyys": 87.5,
+    "tavoitettavuus": 95.0,
+    "ai_laatu": 81.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hakusivulla /search näkyvät autot hinnastoin järjestyksessä, ja sivulla mainitaan 'Verkkokaupassa tehdyissä tilauksissa voimassa oleva hinta on se, joka on esillä Verkkokaupassa tuotekohtaisesti tilaushetkellä'."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vaihtoautotakuun sisältö ja kesto eivät ole erityisen esillä pääsivuilla. Takuusta mainitaan Kamux Plus -lisävastuusitoumuksen yhteydessä, mutta perustakin vaihtoautotakuun tietoja ei löydy helposti etusivulta tai pääpalveluista."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autorahoitus-sivulla mainitaan 'autorahoituslaskuri' jolla voi kokeilla 'rahoitusesimerkkejä erilaisilla sopimusajoilla'. Sivulla kerrotaan rahoituksesta jopa 72 kuukauden maksuajalla ja että korko on kiinteä, mutta yksityiskohtaisia todellisen vuosikoron lukuja ei näy tekstissä."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etämyyntiehdot-sivulla sanotaan selvästi: 'Etämyynnissä ostetuilla autoilla on kuluttajansuojalain mukainen 14 päivän peruuttamisoikeus, joka alkaa auton vastaanottamispäivästä.'"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Stores-sivulla listataan 47 Kamux-myymälää ympäri Suomea osoitteittain, puhelinnumeroin ja aukioloajoin. Esimerkiksi: 'Espoo Niittykumpu Riihitontuntie 10-12, 02200 Espoo, Suljettu, Myymälä aukeaa TO 10:00 - 18:00, 0107785501'."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus näkyy jokaisen sivun jalkalaidassa: 'Kamux Oyj (y-tunnus: 2442327-8)' sekä etämyyntiehdoissa: 'Kamux Oyj (y-tunnus: 2442327-8)'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hallinto-sivulla mainitaan sisäinen NPS-mittaus ('NPS-keskiarvo oli 61'), mutta kolmannen osapuolen riippumatonta arviota tai sertifikaatteja ei ole esillä. Sivulla mainitaan Trustpilot-widgetti ja Buenno-arviot koodissa, mutta niistä ei ole konkreettisia lukuja näkyvissä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääasiakaspalvelun numero näkyy yhteydenotto-sivulla: '09 8560 4000', sekä jokaisen 47 myymälän omat puhelinnumerot stores-sivulla. Asiakaspalvelu palvelee arkisin ja lauantaina klo 8-20."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitteet näkyvät useissa paikoissa: asiakaspalvelu@kamux.fi, remotesales@kamux.fi etämyyntioikeudet varten, ja markkinointi@kamux.fi."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenotto-sivulla sanotaan: 'Suosittelemme, että otat meihin ensisijaisesti yhteyttä chatissa.' Chat-palvelu tarjoaa aukioloajat ma-pe 8-22, la 8-21, su 9-21."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Stores-sivulla jokaisen 47 myymälän aukioloajat on lueteltu. Yleensä aukiolot ovat ma-la 10:00-18:00 tai 10:00-17:00, yhteydenotto-sivulla mainitaan asiakaspalvelun aukioloajat chatissa ja puhelimitse."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Täydellinen FAQ-sivu osoitteessa /ukk sisältää kategoriat 'Auton ostaminen', 'Auton myynti' ja 'Muut asiat' sekä 12+ kysymystä vastauksineen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei ole mainittu missään käytetyissä sivuilla, vaikka sivusto on selvästi mobiilioptimioitu ja responsiivinen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 5482.156000000001,
+    "cls": 0.05444142696024147,
+    "tbt_ms": 6649.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava 47 myymälän verkosto ympäri Suomea selkein aukioloajoin ja puhelinnumeroin",
+    "Hinnat näkyvät hakutulosten yhteydessä, rahoituslaskuri tarjoaa joustavia maksuvaihtoehtoja",
+    "14 päivän palautusoikeus etämyynnissä, sekä chat- että puhelinpalvelu arkipäivät klo 8-22"
+   ],
+   "kehityskohteet": [
+    "Vaihtoautotakuun sisällön ja keston tiedot eivät ole selkeästi esillä pääsivuilla, vaan löytyy vain Kamux Plus -lisäpalvelun kautta",
+    "Riippumaton arviointi puuttuu – näkyvissä vain sisäinen NPS-mittaus asiakastyytyväisyydestä",
+    "Mobiilisovellusta ei ole mainittu, vaikka mobiilioptimointikin näkyy sivuston käytössä"
+   ],
+   "yhteenveto": "Kamux on Suomen suurin käytettyjen autojen ketju, jolla on 47 myymälää ympäri maata ja yli 7000 auton valikoima. Sivusto on selkeästi organisoitu ja hinnat näkyvät kaikille autoille heti hakutuloksissa. Palvelut ovat kattavat: rahoituksesta vaihto-oikeuteen, ja asiakaspalvelu tavoitettavissa chatissa, puhelimitse ja sähköpostilla. Takuusta ja rahoituskuluista löytyy tietoa, vaikka ne voivat olla osa eri palvelupaketteja.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Etämyyntiehdot-sivulla sanotaan selvästi: 'Etämyynnissä ostetuilla autoilla on kuluttajansuojalain mukainen 14 päivän peruuttamisoikeus, joka alkaa auton vastaanottamispäivästä.'"
+    }
+   ]
+  },
+  {
+   "slug": "wetteri",
+   "nimi": "Wetteri",
+   "domain": "wetteri.fi",
+   "omistaja": "Wetteri Oyj (PRH: aktiivinen) on Helsingin pörssiin listattu pohjoissuomalainen autotalokonserni, joka myy sekä uusia että käytettyjä autoja usealla paikkakunnalla.",
+   "y_tunnus": "0548170-4",
+   "rekisteroity": 1984,
+   "score": 75.8,
+   "pillars": {
+    "digitaalinen": 57.9,
+    "lapinakyvyys": 87.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vaihtoautohaussa (JS-renderöity hakutulokset.html) jokaisen ajoneuvon kohdalla näkyy sekä kokonaishinta (esim. 42 800 €, 17 990 €, 6 900 €) että kuukausierä (esim. alk. 383 €/kk, alk. 168 €/kk). Hinnat ovat julkisia ilman kirjautumista."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Wetteri Turva -sivulla (wetteri-turva) kerrotaan lisäturvan olevan ostettavissa vaihtoautoon, sopimuskausi on 12 kk/20 tkm tai 24 kk/40 tkm, hinnat vaihtelevat teholuokan mukaan (esim. alle 200 kW: 695 € / 12 kk), kattavuus on eritelty 15 komponentin laajuudella alle 10-vuotiaille autoille ja 6-komponentin laajuudella vanhemmille autoille. Omavastuuosuus on 100 €/vika."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vaihtoautolistauksissa näkyy kuukausierä 'alk. X €/kk' mutta ei todellista vuosikorkoa (TVK). Uusautojen tarjoussivuilla mainitaan nimelliskorko (esim. 'korko 1,99 % + kulut', 'rahoituskorko 2,99 %'), mutta EU:n kulutusluottodirektiivin mukaista täyttä rahoitusesimerkkiä (luottomäärä, kulut, TVK, takaisinmaksuaika, kokonaiskustannus) ei ole julkaistu. Arvioidaan osittaiseksi."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etämyynnin ehdot -sivulla (etamyynnin-ehdot.html) todetaan selkeästi: 'Kuluttajalla on oikeus peruuttaa kauppa 14 vuorokauden kuluessa ostetun ajoneuvon tai tuotteen vastaanottamisesta.' Sivulla kuvataan peruuttamismenettely, palautustoimipisteet sekä palautussumman maksuaikataulu (14 vrk auton palautuksesta)."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla (yhteystiedot.html) listataan kaikki toimipisteet (Airport, Iisalmi, Joensuu, Kajaani x2, Kemi, Kuopio, Kuusamo, Lahti, Lempäälä, Mikkeli, Oulu, Pori, Rauma, Rovaniemi, Savonlinna, Ylivieska). Yksittäisissä toimipisteissä (esim. Oulu) aukioloajat eritelty palveluittain: 'Automyynti ma-pe 09.00–18.00', 'Huolto ja korjaus ma-pe 07.00–17.00' jne."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laskutustiedot-sivulla (laskutustiedot.html) näkyy Y-tunnus 1814605-9 (Wetteri Auto Oy) sekä 0877345-4 (toinen konserniyhtiö). Tehtäväkuvauksessa mainittu Wetteri Oyj:n Y-tunnus 0548170-4 ei esiinny millään löydetyllä sivulla. Rekisteriselosteessa mainitaan 'Wetteri Auto Oy (1814605-9)'. Arvioidaan osittaiseksi, koska jokin Y-tunnus on kyllä julkaistu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla (JS-renderöity) näkyy osio 'Asiakkaamme kertovat' jossa näytetään Google-arvostelujen koontinäkymä: keskiarvo 4.0 / 4715 arvostelua, viimeisimmät arvostelut nimettömänä tekstinä. Arvostelut renderöityvät selaimen JS:llä, mutta ne ovat julkisesti nähtävissä ilman kirjautumista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 82,
+    "seo": 92,
+    "best_practices": 58,
+    "lcp_ms": 13579.535130000004,
+    "cls": 0.006119554096031146,
+    "tbt_ms": 2682.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vaihtoautojen hinnat ja kuukausierät (alk. X €/kk) näkyvät selkeästi listauksissa ilman kirjautumista.",
+    "Wetteri Turva -lisäturvan kattavuus, sopimusajat (12 kk/20 tkm tai 24 kk/40 tkm) ja hinnat eriteltynä teholuokittain on kuvattu yksityiskohtaisesti.",
+    "Etämyynnin ehdot julkaistu avoimesti: kuluttajalla on 14 vuorokauden peruutusoikeus, palautusohjeet ja toimipisteiden yhteystiedot ovat selkeästi esillä."
+   ],
+   "kehityskohteet": [
+    "Rahoituksen todellinen vuosikorko (TVK) puuttuu: listauksissa näkyy vain kuukausierä ja joissakin tarjouksissa nimelliskorko (esim. 2,99 %), mutta EU:n kulutusluottodirektiivin mukainen rahoitusesimerkki kokonaiskustannuksineen on julkaisematta.",
+    "Wetteri Oyj:n Y-tunnus (0548170-4) ei löydy sivustolta; laskutustiedoissa näkyy vain tytäryhtiö Wetteri Auto Oy:n Y-tunnus (1814605-9).",
+    "Sivustolta puuttuu erillinen UKK/FAQ-osio, jossa vastattaisiin yleisimpiin ostokysymyksiin kootusti."
+   ],
+   "yhteenveto": "Wetteri on yksi Suomen suurimmista autoliikkeistä, joka toimii laajalti Pohjois- ja Keski-Suomessa sekä useissa muissa kaupungeissa. Sivusto tarjoaa kattavat tiedot vaihtoauto- ja uusautovaihtoehtoista, toimipisteistä sekä huoltopalveluista, ja etämyynnin palautusehdot on julkaistu selkeästi. Rahoituksen läpinäkyvyyttä heikentää todellisen vuosikoron puuttuminen listaustasolta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Etämyynnin ehdot -sivulla (etamyynnin-ehdot.html) todetaan selkeästi: 'Kuluttajalla on oikeus peruuttaa kauppa 14 vuorokauden kuluessa ostetun ajoneuvon tai tuotteen vastaanottamisesta.' Sivulla kuvataan peruuttamismenettely, palautustoimipisteet sekä palautussumman maksuaikataulu (14 vrk auton palautuksesta)."
+    }
+   ]
+  },
+  {
+   "slug": "saka",
+   "nimi": "SAKA",
+   "domain": "saka.fi",
+   "omistaja": "SAKA Finland Oy (PRH: aktiivinen, aputoiminimet Suomen Autokauppa ja Saka Finland) on kotimainen käytettyjen autojen ketju, joka keskittyy vaihtoautokauppaan ilman merkkiedustuksia.",
+   "y_tunnus": "3205932-2",
+   "rekisteroity": 2021,
+   "score": 75.1,
+   "pillars": {
+    "digitaalinen": 74.1,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 80.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "45/100",
+       "paino": 40,
+       "pisteet": 45,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla kerrotaan 'yli 3500 vaihtoautoa' ja rahoitussivulla todetaan 'Jokaisen auton myynti-ilmoituksessa on käytössä autorahoituslaskuri' – hinnat näkyvät ilmoituskohtaisesti. Vaihtoautot-sivu (https://saka.fi/fi/vaihtoautot) ladattu onnistuneesti."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: SakaVarma-sivulla (https://saka.fi/fi/tuotteet-ja-palvelut/sakavarma) kerrotaan: 'SakaVarma on voimassa aina 12 kuukauden ajan, ellet valitse pidempää kestoa' sekä sopimuskauden korotus 24 kk:teen. Eri turvatason tasot (SakaVarma, SakaVarma Laaja, SakaVarma Laaja+) ja 150 € omavastuu on julkisesti kuvattu."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rahoitussivulla (https://saka.fi/fi/tuotteet-ja-palvelut/rahoitus) mainitaan autorahoituslaskuri, mutta sen luvut ovat 'aina viitteellisiä'. Todellista vuosikorkoa (TVK) tai kuluttajansuojalain mukaista edustava esimerkkilaskelmaa ei löydy julkiselta sivulta – laskuri vaatii yhteydenottoa myyjään."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikilla ladatuilla sivuilla (etusivu, rahoitus, SakaVarma, UKK, yrityssivu) ei mainita palautusoikeutta, vaihto-oikeutta tai koeaikaa. UKK-sivun kysymykset käsittelevät rengaspaineita, rahoitusta ja vikaraportoita, mutta eivät palautusta. Saka Select -etämyynti mainitaan, mutta palautusprosessia ei kuvata."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla (https://saka.fi/fi/autoliike) listataan jokainen myymälä osoitteineen ja aukioloaikoineen (esim. Hämeenlinna: Ma-Pe 10.00–18.00, La 10.00–16.00, Su Suljettu). JSON-LD-skeemassa on myös 29 toimipisteen puhelinnumerot ja osoitteet."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laskutustiedot-sivulla (https://saka.fi/fi/yritys/laskutustiedot) lukee selvästi: 'Y-tunnus: 3205932-2' laskutustiedoissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yrityssivulla (https://saka.fi/fi/yritys/saka-yrityksena) mainitaan 'Googlen asiakasarvostelut keskimäärin 4,5/5' ja 'Auto Bild -lehden Palvelu 1 -tutkimuksen voittaja vuosina 2022, 2024 ja 2025'. Kokemuksia-sivulla (https://saka.fi/fi/yritys/saka-kokemuksia) esitetään Google-arvosteluja suoraan."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 45,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5961.0070000000005,
+    "cls": 0,
+    "tbt_ms": 2405.4999999999973
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kaikki 29 toimipisteen osoitteet ja aukioloajat löytyvät selkeästi yhdeltä sivulta puhelinnumeroineen.",
+    "SakaVarma-lisäturvan kesto (12–24 kk) ja ehdot on kuvattu kattavasti omalla sivullaan, ja virhevastuu erotetaan selkeästi lisäturvasta.",
+    "Y-tunnus (3205932-2) on julkisesti näkyvillä laskutustiedot-sivulla, ja Google-arvostelut (ka. 4,5/5) sekä Auto Bild Palvelu 1 -palkinto mainitaan yrityssivuilla."
+   ],
+   "kehityskohteet": [
+    "Rahoitussivulta puuttuu lakisääteinen todellinen vuosikorko (TVK) tai edustava esimerkkilaskelma; laskuri antaa vain viitteellisiä lukuja.",
+    "Sivustolla ei mainita palautusoikeutta tai kokeiluaikaa etäostoksille, vaikka Saka Select -etämyynti on käytössä.",
+    "Asiakkaalle suunnattua sähköpostiosoitetta ei löydy; yhteydenotto on ohjattu lomakkeeseen, ja ainut näkyvä sähköposti (ostolaskut@saka.fi) on tarkoitettu toimittajien laskuille."
+   ],
+   "yhteenveto": "Saka Finland Oy on Suomen suurin vaihtoautokauppaketju noin 761 miljoonan euron liikevaihdolla ja 29 myymälällä. Sivusto on selkeärakenteinen ja kattaa toimipisteet, aukioloajat, takuuehdot ja UKK-osion hyvin, mutta rahoituksen todellinen vuosikorko ja etäkaupan palautusoikeus puuttuvat julkisesta sisällöstä. Google-arvostelut (ka. 4,5/5) ja Auto Bild -palkinto vuosilta 2022, 2024 ja 2025 ovat riippumattomia luottamusindikaattoreita.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "autokeskus",
+   "nimi": "Autokeskus",
+   "domain": "autokeskus.fi",
+   "omistaja": "Autokeskus Oy (PRH: aktiivinen, aputoiminimi AK-Outlet) on pääkaupunkiseudulla, Tampereella ja Turussa toimiva autotaloketju, joka myy uusia ja vaihtoautoja sekä ylläpitää AK-Outlet-vaihtoautomyymälöitä.",
+   "y_tunnus": "1093812-3",
+   "rekisteroity": 1997,
+   "score": 73.2,
+   "pillars": {
+    "digitaalinen": 58.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 78.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "77/100",
+       "paino": 30,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: autohaku-sivulla (JS-renderöity) jokainen vaihtoauto näyttää kokonaishinnan (esim. '5 900 €', '6 290 €') ja kuukausierän (esim. 'alk. 89 €/KK', 'alk. 93 €/KK') ilman kirjautumista."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /turva/-sivulla ja autohaku-sivun Takuuvaihtoauto-osiossa kerrotaan: 'Autokeskus Takuuvaihtoautot ovat vaihtoautovalikoimamme ehdottomia helmiä, joille tarjoamme vuoden takuun. Takuu sisältyy valikoituihin vaihtoautoihin, joilla on ajettu alle 9 vuotta tai 180 000 kilometriä. Ei vuosittaista kilometrirajoitusta takuukauden aikana.' Lisäksi Autokeskus Turva -palvelupaketti tarjoaa 12 kk lisätakuun alk. 349 €."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /bmw/-sivulla ja autohaku-suodattimessa mainitaan 'BMW-rahoitus 1,99 % + kulut', ja autohaku näyttää kuukausierät. Todellista vuosikorkoa tai täydellistä edustuksellista kustannusesimerkkiä (lainasumma, laina-aika, kokonaismaksu, todellinen vuosikorko) ei ole julkaistu millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: autohaku JS-sivulla Takuuvaihtoauto-osiossa mainitaan '14 vuorokauden vaihto-oikeus saman hintaiseen tai kalliimpaan Takuuvaihtoautoon'. Tämä on vaihto-oikeus toiseen autoon, ei rahanpalautusoikeus eikä ns. koeomistusjakso. Palautusoikeutta tai peruuttamisoikeutta etämyynnin ulkopuolella ei mainita."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /toimipisteet/-sivulla listataan 9 toimipistettä (Helsinki Konala, FordStore Konala, Vantaa Airport, Tampere, Hämeenlinna, Raisio, Turku, Hyvinkää, Espoo Olari) täysin osoitteineen ja aukioloaikoineen. Esim. 'Autokeskus Konala, Ristipellontie 5-7, 00390 Helsinki – Automyynti ma-pe 10-18, la-su suljettu; Huolto ma-pe 8-16, la-su suljettu.'"
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /autokeskus-oy/laskutustiedot/-sivulla näkyy selkeästi: 'Autokeskus Oy, 1093812-3, PL 7, 80020 Kollektor Scan'. Y-tunnus 1093812-3 on julkisesti näkyvillä laskutustietosivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston HTML:ssä on embed.trustmary.com -upotus (Trustmary on riippumaton arviointialusta). Cookiekuvauksen mukaan se 'Allows the user to add and see product reviews on the website.' JS-renderöidyssä sisällössä tunnistettiin Trustmary-widgetin latauspyyntö, mutta arvioita ei renderöidy staattiseen tekstisisältöön – widget vaatii JavaScriptin toimiakseen täysin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 77,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 18589.53525,
+    "cls": 0.05484357141580405,
+    "tbt_ms": 3470
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vaihtoautojen hinnat näkyvät selkeästi hakutuloksissa sekä euromääräisenä kokonaishintana että kuukausieränä.",
+    "Takuuvaihtoautoille luvataan julkisesti yksi vuosi takuuta ilman kilometrirajoitusta, ja takuun ehdot ja ikärajat (alle 9 v / 180 000 km) kerrotaan sivustolla.",
+    "Yhdeksän toimipisteen osoitteet ja aukioloajat ovat helposti löydettävissä omalta toimipistesivulta, ja jokaiselle liikkeelle on listattu erilliset puhelinnumerot palveluittain."
+   ],
+   "kehityskohteet": [
+    "Rahoituksen todellista vuosikorkoa tai edustuksellista luottokustannusesimerkkiä ei julkaista – ilmoitettu '1,99 % + kulut' ei täytä kuluttajaluottodirektiivin mukaisen kustannusesimerkin vaatimusta.",
+    "Vaihto-oikeus koskee ainoastaan Takuuvaihtoautoja ja on rajoitettu vaihto toiseen autoon (ei palautusoikeutta tai rahanpalautusta), eikä asiaa selitetä selkeästi ostajan näkökulmasta.",
+    "Asiakaspalvelun sähköpostiosoitetta ei julkaista kuluttajille – yhteydenotto tapahtuu lomakkeella tai puhelimella, mikä voi hankaloittaa asioiden dokumentointia kirjallisesti."
+   ],
+   "yhteenveto": "Autokeskus on Aro-Yhtymän omistama täyden palvelun autokauppaketju, jolla on yhdeksän toimipistettä Etelä-Suomessa ja Pirkanmaalla. Sivusto kertoo vaihtoautojen hinnat, takuuehdot ja toimipisteiden aukioloajat kattavasti, mutta rahoituksen kokonaiskulujen läpinäkyvyydessä ja kuluttajapalvelun sähköpostiyhteyden puuttumisessa on kehittämisen varaa. Riippumattomia asiakasarvioita esitetään Trustmary-upotuksen kautta, mutta niiden näkyvyys staattisessa sisällössä on rajallinen.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: autohaku JS-sivulla Takuuvaihtoauto-osiossa mainitaan '14 vuorokauden vaihto-oikeus saman hintaiseen tai kalliimpaan Takuuvaihtoautoon'. Tämä on vaihto-oikeus toiseen autoon, ei rahanpalautusoikeus eikä ns. koeomistusjakso. Palautusoikeutta tai peruuttamisoikeutta etämyynnin ulkopuolella ei mainita."
+    }
+   ],
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "ISO 9001:2015",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: autokeskus.fi/autokeskus-oy/ toteaa: \"Yrityksen johtamisjärjestelmä täyttää ISO 9001:2015 & ISO 14001:2015 -standardin vaatimukset\""
+    },
+    {
+     "mittari": "ISO 14001:2015",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: autokeskus.fi/autokeskus-oy/ toteaa: \"Yrityksen johtamisjärjestelmä täyttää ISO 9001:2015 & ISO 14001:2015 -standardin vaatimukset\""
+    },
+    {
+     "mittari": "Suomalaisen Työn Liitto — jäsen",
+     "arvo": "Vahvistettu (ei laskettu, max 2)",
+     "pisteet": 0,
+     "lahde": "HAVAINTO: autokeskus.fi/autokeskus-oy/ toteaa: \"Suomalaisen Työn Liiton jäsen\""
+    }
+   ]
+  },
+  {
+   "slug": "rinta-jouppi",
+   "nimi": "J. Rinta-Jouppi",
+   "domain": "rintajouppi.fi",
+   "omistaja": "J. Rinta-Jouppi on Jarmo Rinta-Jouppi Oy:n (PRH: aktiivinen) aputoiminimi; seinäjokelainen perheyhtiö vuodesta 1987, konserniin kuuluvat myös Rinta-Jouppi Caravan ja Autojouppi.",
+   "y_tunnus": "2045608-0",
+   "rekisteroity": 2006,
+   "score": 68.1,
+   "pillars": {
+    "digitaalinen": 76.8,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "45/100",
+       "paino": 40,
+       "pisteet": 45,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikissa autolinjauksissa hinnat näytetään selkeästi, esim. '13 480 €', '21 800 €' ja kuukausierät 'alk. 158 € / kk'. Haut-sivulla näkyy 4826 ajoneuvoa hinnoiteltuna."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: J. autoturva mainitaan monissa autolistingoissa symboleilla '- J. autoturva', mutta varsinaisen takuun kesto ja sisältö eivät ole kuvattu verkkosivuilla. Takuu edellyttää suoraa yhteyttä."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rahoituslaskuri on saatavilla ('Rahoituslaskuri'), ja uusille ajoneuvoille mainostetaan '1,9 % korolla + kulut'. Kuuden kuukauden 'korotonta ja kulutonta maksuaikaa' mainostetaan laajasti. Todellinen vuosikorko ei ole kuitenkaan mainittuna yleisesti saatavilla olevilla sivuilla."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: '14 päivän palautusoikeus' on mainittuna sivuston ylälaidassa kaikilla sivuilla benefit-baarina. Se kuuluu yhtiön pääarvoihin yhdessä 'Kotimainen perheyritys' ja 'Yli 5000 ajoneuvon valikoima' kanssa."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla listaan 18 toimipistettä (Espoo, Helsinki, Hyvinkää, Hämeenlinna, Ilmajoki, Jyväskylä, Kotka, Kuopio, Lahti, Lappeenranta, Oulu, Pori, Porvoo, Raisio, Seinäjoki, Tampere, Vantaa). Kaikissa näytetään osoite, aukioloajat (yleensä ma–pe 10–18, la 10–16) ja palvelut."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei löytynyt miltään hatuista sivuista. Footerissa näkyy '© J. Rinta-Jouppi Oy 2019–2026' mutta ei Y-tunnusta (esim. 'Y-tunnus: 1234567-8' muotoinen tieto)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla toimipisteiden yhteystiedoissa viitataan 'Katso toimipiste ja yhteyshenkilöt' linkkeihin, mutta puhelinnumeroita ei näytetty staattiset fetc-sivuilla. WhatsApp-kontakti mainitaan autolinjauksissa ('Katso tiedot WhatsApp')."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näytä olevan julkisesti näkyvillä verkkosivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Chat-funktio mainitaan 'Hae'-välineissä ja kaikkien autojen kohdalla näkyy WhatsApp-kontaktointimahdollisuus ('Katso tiedot WhatsApp')."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Myynnin aukioloajat esitetty footerissa: 'ma - pe 10 - 18, la 10 - 16'. Toimipiste-sivulla kukin sijainti näyttää omat aukioloaika (esim. Kuopio Puhelinpalvelu avoinna klo 8–16)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 45,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 6106.758000000001,
+    "cls": 0.04772367011968356,
+    "tbt_ms": 1387.6145000000006
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi näkyvillä kaikissa automyynnin listingoissa ja hakutuloksissa.",
+    "14 päivän palautusoikeus korostettu näkyvästi sivuston ylälaidassa kaikilla sivuilla.",
+    "Monipuolisia rahoitusvaihtoehtoja: 6 kk korotonta maksuaikaa, osamaksu ilman käsirahaa, kiinteät korkotarjoukset (1,9%) uusille ajoneuvoille."
+   ],
+   "kehityskohteet": [
+    "Y-tunnus ei ole julkisesti näkyvillä verkkosivuilla, vaikka se olisi oleellinen tieto yritystiedoissa.",
+    "Takuujen sisältö ja kesto eivät ole yksityiskohtaisesti kerrottu sivuston julkisilla sivuilla – tieto saatavilla vain suoraan ottamalla yhteyttä.",
+    "Sähköpostiosoitetta ei ole helposti löydettävissä; asiakkaiden on käytettävä chat-toimintoa tai puhelinta yhteydenottoihin."
+   ],
+   "yhteenveto": "J. Rinta-Jouppi on laaja suomalainen autoliike, jolla on yli 5000 ajoneuvon valikoima ja useita toimipisteitä eri puolilla Suomea. Sivusto tarjoaa selkeät hinnat kaikissa autolistingoissa ja toimii tehokkaana ostokäyttöliittymänä. Yhtiö korostaa 14 päivän palautusoikeutta ja tarjoaa joustavat osamaksuoptioinsa. Rahoitusosassa J. Rinta-Jouppi mainostaa J. autorahoitusta ja J. autoturvaa, mutta todellisen vuosikoron yksityiskohdat ja takuun sisältö edellyttävät suoraan yhteyttä ottamista.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: '14 päivän palautusoikeus' on mainittuna sivuston ylälaidassa kaikilla sivuilla benefit-baarina. Se kuuluu yhtiön pääarvoihin yhdessä 'Kotimainen perheyritys' ja 'Yli 5000 ajoneuvon valikoima' kanssa."
+    }
+   ]
+  },
+  {
+   "slug": "hedin-automotive",
+   "nimi": "Hedin Automotive",
+   "domain": "hedinautomotive.fi",
+   "omistaja": "Hedin Automotive Finland Oy (PRH: aktiivinen, aiempi nimi Veljekset Laakkonen Oy) kuuluu ruotsalaiseen Hedin Mobility Groupiin; samalle omistajalle kuuluu Suomessa myös Delta Auto (Hedin Automotive Retail Oy). Laakkonen-nimi jäi autokaupasta pois: laakkonen.fi on nykyään Laakkonen Kiinteistöt Oy:n sivusto.",
+   "y_tunnus": "2081088-7",
+   "rekisteroity": 2006,
+   "score": 65.3,
+   "pillars": {
+    "digitaalinen": 76.7,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 70.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vaihtoautot-sivulla (hedinautomotive.fi/vaihtoautot/) jokaisen auton kohdalla näkyy sekä kokonaishinta (esim. '33 900 €') että kuukausierä ('alk. 299 €/kk'). Hinnat ovat julkisesti näkyvissä ilman kirjautumista."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hedin Certified -sivulla (hedinautomotive.fi/hedin-certified/) kuvataan yksityiskohtaisesti vaihtoautotakuun sisältö: sopimusajat 12/24/36 kk, hinnat 990/1490/1990 €, korjauskatot ikäluokittain (esim. alle 10-v. auto: 12 kk = 6 000 €), omavastuu 100 €/vika sekä sopimusehdot erikseen sähkö- ja polttomoottoiautoille."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vaihtoautolistauksissa näkyy 'Rahoitustarjous 3,99% (+kulut)' ja kuukausierä, mutta todellista vuosikorkoa (TVK), laina-aikaa, käsirahan määrää tai kokonaiskustannusten esimerkkiä ei ole missään löydetyillä sivuilla julkaistu. Nimellinenkorko ilman TVK:ta ei täytä täydellisen läpinäkyvyyden vaatimusta."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei löydy mainintaa palautusoikeudesta, vaihto-oikeudesta tai koeaikaperiodista. Hedin Certified on vikaturvajärjestelmä (takuu), ei palautus- tai vaihto-oikeus. Yhteydenotto-sivu (hedinautomotive.fi/yhteydenotto/) mainitsee reklamaatiolomakkeen muttei palautusoikeutta."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimipisteet-sivulla (hedinautomotive.fi/toimipisteet/) listataan 34 toimipistettä osoitteineen (esim. 'Hedin Automotive BMW Helsinki, Mekaanikonkatu 2, 00880 Helsinki'). Aukioloaikatilanne näkyy 'Automyynti avoinna tänään / Suljettu' -merkintänä, mutta täydelliset viikoittaiset kellonajat eivät renderöidy headless-haussa – ne ovat JS-dynaamista dataa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Konserni-sivulla (hedinautomotive.fi/konserni/) on listattu kaikkien konserniyhtiöiden Y-tunnukset: 'Hedin Automotive Finland Oy (Y-tunnus 2081088-7)', 'Hedin Automotive Bavaria Oy (Y-tunnus 3152287-2)', 'Hedin Automotive Retail Oy (Y-tunnus 0872076-6)', 'Hedin Automotive Oy (Y-tunnus 3281753-3)'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhdeltäkään ladetuista sivuista ei löydy Trustpilot-widgettiä, Google-arvostelujen upotusta tai muuta kolmannen osapuolen arvostelupalvelua. Konserni-sivulla mainitaan 'Asiakastyytyväisyys'-osio sivunavigaatiossa, mutta sivulle johtava URL ei renderöi sisältöä eikä ulkoista arvostelupalvelua."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinluettelo-linkki näkyy navigaatiossa ja yhteydenotto-sivulla, mutta sivuun johtava URL (hedinautomotive.fi/puhelinluettelo/) palauttaa 404-virheen. Toimipisteet-sivulla puhelinnumerot näkyvät tekstissä 'Puhelinnumerot: false', viittaen siihen että ne ovat JS:n takana. Hedin Certified -sivulla esiintyy kumppanin (Fragus Group) puhelinnumero 09 315 80 470, mutta ei Hedinin omaa asiakaspalvelunumeroa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "61/100",
+       "paino": 33,
+       "pisteet": 61,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 11264.871,
+    "cls": 3.343014086728185e-05,
+    "tbt_ms": 583
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Vaihtoautojen hinnat näkyvät selkeästi hakutuloksissa eurohintoina ja kuukausierän arviona.",
+    "Hedin Certified -vaihtoautotakuun sisältö, kestot (12/24/36 kk) ja hinnat on kuvattu yksityiskohtaisesti.",
+    "Y-tunnukset kaikille konserniyhtiöille (mm. Hedin Automotive Finland Oy 2081088-7) on listattu konsernisivulla."
+   ],
+   "kehityskohteet": [
+    "Rahoituksen todellinen vuosikorko (TVK) tai lakisääteinen kustannusesimerkki puuttuu – listauksissa näkyy vain nimellinenkorko 3,99 % ilman kokonaiskustannuksia.",
+    "Palautusoikeudesta tai vaihto-oikeudesta ei löydy mitään mainintaa sivustolta.",
+    "Toimipisteiden puhelinnumerot eivät lataudu hakukoneluettavaksi – puhelinluettelo-linkki johtaa 404-sivulle eikä numeroita renderöidy ilman JS-interaktiota."
+   ],
+   "yhteenveto": "Hedin Automotive Finland on Hedin Mobility Groupin Suomen-maayhtiö, joka edustaa 13 automerkkiä yli 34 toimipisteessä ja myy vuosittain lähes 28 000 autoa. Yhtiö tarjoaa kattavan Hedin Certified -vaihtoautotakuun ja hinnat ovat avoimesti esillä verkossa, mutta rahoituksen kokonaiskustannukset ja palautusehdot puuttuvat sivustolta. Yhteystiedot ovat osittain vajaat, sillä puhelinluettelo ei toimi ja aukioloajat näkyvät vain avoinna/suljettu-tilana ilman kellonaikoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "veho",
+   "nimi": "Veho",
+   "domain": "veho.fi",
+   "omistaja": "Veho Oy Ab (PRH: aktiivinen) on suomalainen autokaupan konserni vuodelta 1939, omistajina Vehon perheomistajat; vaihtoautoja myydään sekä Vehon omilla kauppapaikoilla että Vaihtoplus-konseptilla.",
+   "y_tunnus": "0115761-6",
+   "rekisteroity": 1978,
+   "score": 64.2,
+   "pillars": {
+    "digitaalinen": 72.9,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 67.5,
+    "ai_laatu": 67.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Autojen hinnat verkossa esillä",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Autohaku-sivu (https://veho.fi/henkiloautot/autohaku/) latautui onnistuneesti, mutta autokorttien hintatiedot ladataan asiakaspuolisella JS-kutsulla eikä näy raakassa HTML:ssä. Vaihtoautot-sivu viittaa autohakuun 'voit rajata hakua mm. hinnan perusteella', mikä vahvistaa hintojen olevan saatavilla verkon kautta, mutta ne eivät näy ilman JS-suoritusta."
+      },
+      {
+       "mittari": "Vaihtoautotakuun sisältö ja kesto kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla https://veho.fi/henkiloautot/vaihtoautot/mercedes-benz-certified/ todetaan selkeästi: 'kahden vuoden/40 000 km takuu' sekä kriteerit (enintään 6 v ikäiset, max 120 000 km). Myös Veho Turva -lisäturva mainitaan erillisellä sivulla /vaihtoautot/veho-turva/."
+      },
+      {
+       "mittari": "Rahoituksen todellinen vuosikorko ja kulut esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Rahoitussivu https://veho.fi/henkiloautot/auton-ostaminen/auton-rahoitus/ kuvaa osamaksurahoituksen yleisesti (OP Yrityspankki, kiinteä korko), mutta ei ilmoita todellista vuosikorkoa, edustuslaskelmaa eikä euromääräistä kokonaiskustannusesimerkkiä. Kuukausierä yksin ei riitä."
+      },
+      {
+       "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Certified-sivulla https://veho.fi/henkiloautot/vaihtoautot/mercedes-benz-certified/ mainitaan ohjelman sisällön listauksessa '14 vrk/1 000 km vaihto-oikeus'. Tämä koskee vain Certified-ohjelman autoja. Muille vaihtoautoille ei löydy palautusoikeuslausumaa tutkituilla sivuilla."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivu https://veho.fi/etusivu/liikkeet/ (HTTP 200) sisältää metatekstin 'Katso kaikki Veho henkilöauto- ja hyötyajoneuvoliikkeiden osoitteet, puhelinnumerot sekä aukioloajat.' ja pääsisällön: 'Veho palvelee 19 paikkakunnalla Suomessa. Kattava, 21 myynti- ja huoltoliikkeen verkosto.' Aukioloajat ja osoitteet ovat sen tarkoitus, vaikka listakorttien sisältö latautuu JS:llä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta 0115761-6 ei löydy yhdeltäkään ladatuista sivuista: etusivu, liikkeet, vaihtoautot, rahoitus, Certified, autohaku, tietosuoja. Y-tunnus ei ole näkyvissä veho.fi:n julkisilla sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-, Google-arvio- tai muuta riippumatonta arviointiwidgettiä ei löydy etusivulta, vaihtoautot-sivulta, rahoitus- eikä liikkeet-sivulta. Sivusto ei esitä asiakasarvioita verifioidusta lähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 9794.037,
+    "cls": 0,
+    "tbt_ms": 2140.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Autohaku-työkalu mahdollistaa vaihtoautojen suodattamisen hinnan mukaan ja liikkeet-sivu lupaa selkeästi osoitteet, puhelinnumerot ja aukioloajat kaikille 21 toimipisteelle.",
+    "Mercedes-Benz Certified -takuuvaihtoautoille kerrotaan tarkasti kahden vuoden / 40 000 km takuu ja 14 vuorokauden vaihto-oikeus.",
+    "Chatbot-palvelu on mainittu sivuston evästeasetuksissa, mikä viittaa asiakastuen saatavuuteen verkossa."
+   ],
+   "kehityskohteet": [
+    "Rahoituksen todellinen vuosikorko tai euromääräinen kokonaiskustannusesimerkki puuttuu kokonaan rahoitussivulta — vain osamaksun yleinen kuvaus on saatavilla.",
+    "Y-tunnus (0115761-6) ei löydy verkkosivuilta mistään ladatulta sivulta, mikä heikentää oikeudellista läpinäkyvyyttä.",
+    "Palautusoikeus koskee vain Mercedes-Benz Certified -autoja (14 vrk / 1 000 km), ei kaikkia vaihtoautoja — epäselvyys muiden vaihtoautojen palautusehdoista."
+   ],
+   "yhteenveto": "Veho on Suomen suurin Mercedes-Benz-jälleenmyyjä, joka on toiminut alalla vuodesta 1939 ja palvelee 21 toimipisteellä. Sivusto tarjoaa kattavan autohakutyökalun, selkeän takuuvalikoiman vaihtoautoille ja liikeverkoston yhteystiedot. Rahoituksen kustannusläpinäkyvyys ja Y-tunnuksen puuttuminen verkkosivuilta ovat merkittäviä puutteita kuluttajanäkökulmasta.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- tai vaihto-oikeus kerrottu",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Certified-sivulla https://veho.fi/henkiloautot/vaihtoautot/mercedes-benz-certified/ mainitaan ohjelman sisällön listauksessa '14 vrk/1 000 km vaihto-oikeus'. Tämä koskee vain Certified-ohjelman autoja. Muille vaihtoautoille ei löydy palautusoikeuslausumaa tutkituilla sivuilla."
+    }
+   ]
+  }
+ ],
+ "updated": "2.8.2026",
+ "opas": {
+  "johdanto": "Käytetyn auton ostaminen on yksi suurimmista yksittäisistä kuluttajahankinnoista. Vertaamme seitsemää valtakunnallista autoliikeketjua ostajan näkökulmasta: näkyvätkö hinnat verkossa, kerrotaanko vaihtoautotakuun sisältö ja kesto, julkaistaanko rahoituksen todelliset kustannukset ja onko palautusoikeudesta kerrottu selkeästi?",
+  "huomioita": [
+   "Vaihtoautotakuu vaihtelee merkittävästi ketjujen välillä: osa tarjoaa 12 kuukauden kattavan takuun sisältöineen, osa ei kerro takuun ehdoista julkisesti lainkaan.",
+   "Rahoituksen todellinen vuosikorko (TVK) puuttuu lähes kaikilla ketjuilla verkkosivuilta. Useat ilmoittavat vain nimelliskoron tai kuukausierän, joka ei kerro lainan kokonaiskustannusta.",
+   "Palautusoikeus koskee etämyynnissä ostettuja autoja kuluttajansuojalain nojalla. Useimmat ketjut eivät mainitse tätä selkeästi, vaikka laki takaa 14 vuorokauden peruuttamisoikeuden verkkokauppaostoksille."
+  ],
+  "vinkit": [
+   "Tarkista aina vaihtoautotakuun sisältö ja kesto kirjallisena ennen kaupantekoa. Takuun pituus vaihtelee muutamasta kuukaudesta kahteen vuoteen.",
+   "Pyydä rahoitustarjouksesta kirjallinen esimerkki, jossa näkyvät todellinen vuosikorko, kokonaissumma ja kuukausierä. Pelkkä nimelliskorko tai kuukausimaksu ei kerro lainan todellista hintaa.",
+   "Varmista toimipisteen aukioloajat etukäteen. Myymälöiden aukioloajat vaihtelevat, ja huolto- ja myyntiosaston ajat voivat erota toisistaan."
+  ],
+  "ukk": [
+   {
+    "q": "Onko käytetyn auton ostajalla palautusoikeus?",
+    "a": "Etämyynnissä (verkossa tai puhelimitse ilman käyntiä myymälässä) ostetulle autolle kuluttajalla on 14 vuorokauden peruuttamisoikeus kuluttajansuojalain nojalla. Myymälässä tehtyyn kauppaan palautusoikeutta ei ole, ellei myyjä sitä erikseen lupaa."
+   },
+   {
+    "q": "Mitä vaihtoautotakuu kattaa?",
+    "a": "Vaihtoautotakuun sisältö vaihtelee myyjäliikkeittäin. Kattavimmillaan se sisältää moottorin, vaihdelaatikon ja muut tekniset osat tietyin rajoituksin. Kuluvat osat, kuten renkaat ja jarrupalat, jäävät yleensä takuun ulkopuolelle. Takuun kesto on tyypillisesti 6-24 kuukautta."
+   },
+   {
+    "q": "Mitä rahoituksen todellinen vuosikorko tarkoittaa?",
+    "a": "Todellinen vuosikorko (TVK) kertoo lainan kokonaiskustannuksen prosentteina lainasummasta vuodessa. Se sisältää nimellikoron lisäksi kaikki muut kulut kuten käsittelymaksut. TVK on ainoa tapa vertailla eri lainojen todellista hintaa keskenään."
+   },
+   {
+    "q": "Kannattaako auto ostaa verkkokaupasta vai myymälässä?",
+    "a": "Verkkokaupasta ostettaessa saat kuluttajansuojalain mukaisen 14 vuorokauden peruuttamisoikeuden. Myymälässä voit tutustua autoon paremmin ennen päätöstä, mutta palautusoikeutta ei automaattisesti synny. Molemmissa tapauksissa kannattaa tarkistaa vaihtoautotakuun ehdot kirjallisena."
+   }
+  ]
+ },
+ "mittarit": 20,
+ "lapinakyvyys_kriteerit": "Autojen hinnat verkossa esillä (25), vaihtoautotakuun sisältö ja kesto kerrottu (20), rahoituksen todellinen vuosikorko ja kulut esillä (15), palautus- tai vaihto-oikeus kerrottu (15), toimipisteet ja aukioloajat kerrottu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (5)"
+}
