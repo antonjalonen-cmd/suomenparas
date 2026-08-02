@@ -1,8 +1,10 @@
-# Kategoriajono — AUTOMAATIO POIS PÄÄLTÄ (Anton 24.7.2026)
+# Kategoriajono — TUNTIAUTOMAATIO PÄÄLLÄ (Anton 2.8.2026)
 #
-# Kategorioita lisätään VAIN kun Anton erikseen pyytää. Autopilotin
-# suomenparas-tikki on kytketty pois (autopilot_suomenparas_every_hours=0).
-# Jono säilyy tulevia pyyntöjä varten.
+# Anton pyysi 2.8.2026: yksi uusi kategoria tunnissa. Autopilotin
+# suomenparas-tikki ajaa AUTOPILOT_PLAYBOOK.md:n reseptin kerran tunnissa
+# (autopilot_suomenparas_every_hours=1, autopilot_suomenparas_only=true —
+# mikään muu automaatio EI ole päällä). Tikki ottaa ylimmän [ ]-rivin;
+# kun jono tyhjenee, tikki tutkii 5 uutta elinkelpoista kategoriaa jonoon.
 
 Tilat: `[ ]` vapaa · `[~]` työn alla (varattu, merkitse + committaa HETI) ·
 `[x]` julkaistu · `[s]` hylätty (syy riville).
@@ -22,6 +24,8 @@ urheiluvalineketjut (+ tilitoimistoihin lisätty Smart Office).
 ÄLÄ rakenna näitä uudestaan.
 
 ## Jono
+- [ ] autoliikkeet — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH 16/16 ajettu, extraktit valmiina kamux + rinta-jouppi (6 puuttuu: hedin-automotive, veho, saka, wetteri, autokeskus, hartikainen). HUOM: laakkonen.fi on nykyään kiinteistöyhtiö — autotalot ovat Hedin Automotive (hedinautomotive.fi), companies.py jo korjattu. Jatka vaiheesta 4 (ekstraktio).
+- [ ] pikaruokaketjut — PUOLIVALMIS 1.8.2026: companies/meta/score_rules/targets/BRIEF tehty, LH ajettu (mcdonalds vaatii www.mcdonalds.fi), 0 extraktia. Poissuljetut dokumentoitu companies.py:ssä (Subway ei vastaa, Pancho Villa 403, Pizza Hutin operaattoria ei varmistettu). Jatka vaiheesta 4 (ekstraktio).
 - [x] lastenvaatteiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Reima #1 74,5; Papu konkurssi 10/2025, Polarn O. Pyret karsittu SPA+Cloudflare)
 - [x] lemmikkitarvikkeiden-verkkokaupat — julkaistu 28.7.2026 (7 kauppaa; Koiranurkka #1 83,3; Faunatar ei vastaa, affiliate-aggregaattorit karsittu)
 - [x] hotelliketjut — julkaistu 28.7.2026 (6 ketjua; Omena #1 78,8, Scandic viimeinen 61,0; Radisson+Best Western karsittu 403-esto)
