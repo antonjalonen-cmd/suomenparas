@@ -1530,3 +1530,27 @@ COMPANIES["pikaruokaketjut"] = [
     dict(slug="sibylla", nimi="Sibylla", domain="sibylla.fi", y_tunnus="1731965-9",
          omistaja="Sibylla-konseptista Suomessa vastaa Atria Concept Oy (PRH: aktiivinen, aputoiminimi Sibylla), joka kuuluu suomalaiseen Atria Oyj:hyn; ravintolat toimivat huoltoasemien ja kauppojen yhteydessä."),
 ]
+
+# PAKETTIPALVELUT (2.8.2026) — kuluttajan kotimaiset ja kansainväliset pakettipalvelut.
+# POISSULJETUT: UPS (pääosin B2B Suomessa; kuluttajapalvelu epäselvä); FedEx (kansainv.
+# pikarahti, ei kuluttajan kotimaanlähetyksiä); Instabox/Budbee (Suomen toiminta
+# epäselvä 8/2026). DSV (ent. DB Schenker): dbschenker.com ohjaa nyt dsv.com/fi-fi/;
+# DSV osti DB Schenkerin Deutsche Bahn AG:lta 30.4.2025 (14,3 Mrd EUR); Schenker Oy
+# (Y: 0124239-4) on edelleen Finnish entity DSV:n tytäryhtiönä; brändi = DSV.
+COMPANIES["pakettipalvelut"] = [
+    dict(slug="posti", nimi="Posti", domain="posti.fi", y_tunnus="0109357-9",
+         omistaja="Posti Jakelu Oy — Suomen valtio omistaa Posti Group Oyj:n (100 %); Suomen postipalveluiden pääoperaattori"),
+    dict(slug="matkahuolto", nimi="Matkahuolto", domain="matkahuolto.fi", y_tunnus="0111393-9",
+         omistaja="Oy Matkahuolto Ab — suomalaisten linja-autoyritysten omistama, perustettu 1933; pakettipalvelut toimivat linja-autoasema- ja sopimusverkostossa"),
+    dict(slug="postnord", nimi="PostNord", domain="postnord.fi", y_tunnus="1056251-7",
+         omistaja="PostNord Oy — PostNord AB:n (Tanska 40 %, Ruotsi 60 %) suomalainen tytäryhtiö"),
+    dict(slug="dhl", nimi="DHL", domain="dhl.com", y_tunnus="2717767-4",
+         omistaja="DHL Express (Finland) Oy — osa Deutsche Post DHL -konsernia (Saksa); kuluttajapalvelu osoitteessa dhl.com/fi-fi"),
+    dict(slug="gls", nimi="GLS", domain="gls-group.com", y_tunnus="1739617-9",
+         omistaja="General Logistics Systems Finland Oy — osa GLS Group -konsernia; omistaja International Distributions Services plc (UK, ent. Royal Mail Group)"),
+    # DSV HUOM: db Schenkerin kuluttajasivu ohjautuu nyt dsv.com/fi-fi/. DSV on B2B-painotteinen
+    # mutta tarjoaa myös kuluttajapalvelun (Kuluttajat-osio dsv.com/fi-fi/). Mittaus julkisesta
+    # sivusta on mahdollinen; tulos todennäköisesti heikko kuluttajaläpinäkyvyydessä.
+    dict(slug="dsv", nimi="DSV", domain="dsv.com", y_tunnus="0124239-4",
+         omistaja="Schenker Oy — DSV A/S:n (Tanska) tytäryhtiö; Deutsche Bahn myi DB Schenkerin DSV:lle 30.4.2025; domain vaihtunut dbschenker.com -> dsv.com"),
+]

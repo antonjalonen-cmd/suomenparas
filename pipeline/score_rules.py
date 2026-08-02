@@ -595,3 +595,12 @@ TRANSPARENCY["pikaruokaketjut"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+TRANSPARENCY["pakettipalvelut"] = [
+    ("hinnasto_kuluttajalle", "Kotimaanpakettihinnat kuluttajalle julkisesti esillä", 30),
+    ("toimitusaika_kerrottu", "Toimitusaika per palveluluokka kerrottu", 20),
+    ("noutopisteet_tiedot", "Noutopisteiden määrä tai kartta saatavilla", 20),
+    ("reklamaatiomenettely", "Korvaus- ja reklamaatiomenettely kuvattu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 5),
+]

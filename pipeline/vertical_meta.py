@@ -1625,6 +1625,37 @@ META["autoliikkeet"] = {
     ],
 }
 
+META["pakettipalvelut"] = {
+    "slug": "pakettipalvelut",
+    "nimi": "Pakettipalvelut",
+    "nav": "Pakettipalvelut",
+    "h1": "Suomen paras pakettipalvelu 2026",
+    "yksikko": "pakettipalveluntarjoajaa",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa pakettipalvelua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "saatko hinnan tietää ennen kuin rekisteröit pakettisi?"),
+    "meta_title": "Suomen paras pakettipalvelu 2026 — Posti, DHL, Matkahuolto, PostNord, GLS, DSV pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista pakettipalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>DB Schenker on nyt DSV.</b> Deutsche Bahn myi koko DB Schenker -liiketoiminnan "
+         "tanskalaiselle DSV A/S:lle 30.4.2025 (14,3 miljardia euroa). Suomessa Schenker Oy "
+         "jatkaa toimintaansa DSV:n tytäryhtiönä ja dbschenker.com ohjaa nyt dsv.com/fi-fi/ "
+         "-sivulle. Mittauksessa on siis DSV, ei DB Schenker."),
+        ("<b>Vertailemme kuluttajapalvelua.</b> Kaikki kuusi yhtiötä tarjoavat pakettien "
+         "lähetyspalvelun myös yksityishenkilöille, mutta B2B-paino vaihtelee merkittävästi: "
+         "Posti ja Matkahuolto ovat selvästi kuluttajapainotteisia, DHL ja GLS kuluttaja- ja "
+         "yrityspalvelua rinnakkain, DSV painottuu vahvasti yritysasiakkaisiin. "
+         "Tämä näkyy hintaviestinnän selkeydessä ja noutopisteinformaatiossa."),
+        ("<b>Noutopisteet, ei kotiinkuljetus.</b> Suurin osa suomalaisesta pakettikuljetuksesta "
+         "kulkee noutopisteverkoston kautta. Mittaamme onko noutopisteiden määrä tai kartta "
+         "julkisella sivulla, koska se on kuluttajalle yksi tärkeimmistä valintatekijöistä."),
+        ("Emme vertaile lähetysnopeutta tai paketin perille saapumista käytännössä. "
+         "Mittaamme sivuston julkista tietoa: hinnasto, aikataulut, noutopisteet ja "
+         "reklamaatiomenettely."),
+    ],
+}
+
 META["pikaruokaketjut"] = {
     "slug": "pikaruokaketjut",
     "nimi": "Pikaruokaketjut",
