@@ -103,6 +103,14 @@ ajatusviivoja, ei malli-/työkalunimiä.
 - Aja `python pipeline/build_vertical.py <vertical>` ja **varmista että lokissa
   on "wrote data/<vertical>.json" — domain-vahti kaataa buildin hiljaa** (jos
   kaksi yhtiötä jakaa domainin oikeasti, lisää SAME_COMPANY-poikkeus).
+- Jos domain vaihtuu companies.py:ssä LH-ajon jälkeen: päivitä myös
+  `pipeline/lh_cache/_summary.json`:n "domain"-kenttä ko. entrylle tai domain-vahti
+  kaataa buildin. Esim. `python -c "import json; lh=json.load(open(...)); lh[key]['domain']='uusi'; open(...,'w').write(json.dumps(lh,...))"`.
+- GOTCHA (2.8.2026 DHL): dhl.com antaa ERR_HTTP2_PROTOCOL_ERROR headless Chromessa
+  mutta Lighthouse pystyy lataamaan sen. Jos extract-agentti ei pääse domainin alkuun,
+  kokeile Lighthouse-lokin `fetched_url`-kenttää — se kertoo mille URL oikeasti löydettiin.
+  Vaihtoehto: käytä alidomainia (esim. express.dhl) jos se on tavoitettavissa ja edustaa
+  kuluttajan todellista käyntikohdetta paremmin.
 
 ## 9. Sivusto + julkaisu
 
