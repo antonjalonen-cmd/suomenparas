@@ -1712,6 +1712,33 @@ META["musiikkipalvelut"] = {
     ],
 }
 
+META["pelitilauspalvelut"] = {
+    "slug": "pelitilauspalvelut",
+    "nimi": "Pelitilauspalvelut",
+    "nav": "Pelipalvelut",
+    "h1": "Suomen paras pelitilauspalvelu 2026",
+    "yksikko": "Suomessa myytavaa pelitilauspalvelua",
+    "lead": ("Pisteytimme {n} Suomessa myytavaa pelitilauspalvelua {m} mittarilla. "
+             "Tairkein kysymys: nakyvatko kuukausihinnat per taso, pelikirjaston kuvaus "
+             "ja irtisanomisoikeus selkeasti ennen tilauksen tekemista?"),
+    "meta_title": "Suomen paras pelitilauspalvelu 2026 | Xbox, PlayStation, Nintendo | Suomen Paras",
+    "meta_desc": ("{n} pelitilauspalvelua pisteytetty lapinakyvalla kaavalla. "
+                  "Katso mista jokainen piste tulee: Xbox Game Pass, PlayStation Plus, Nintendo Switch Online ja muut."),
+    "notes": [
+        ("<b>Kaikki kuusi palvelua ovat kansainvalisten yritysten tuotteita.</b> "
+         "Microsoft, Sony ja Nintendo ovat suuria julkisesti listattuja yrityksita. "
+         "EA ja Ubisoft ovat eurooppalaisen peliteollisuuden jatteja. "
+         "Apple on maailman arvokkain teknologiayritys. Yksikaan ei ole suomalainen."),
+        ("<b>Nintendo Switch Online on ainoa palvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi).</b> "
+         "Muut toimijat palvelevat Suomea kansainvalisten tai skandinaavisten sivustojensa kautta. "
+         "Suomenkielinen palvelu pisteyttaa 'kylla' suomenkielinen_palvelu-mittarilla, "
+         "pelkka euro-hinnoittelu pisteyttaa 'osittain'."),
+        ("<b>Emme arvioi pelikirjaston kokoa, teknista suorituskykyia tai laitteistoa.</b> "
+         "Vertailu mittaa julkisten verkkosivujen lapinakyvyytta: kerrotaanko hinnat, "
+         "tasojen erot, kirjaston sisalto ja irtisanominen ennen tilaamista?"),
+    ],
+}
+
 META["pikaruokaketjut"] = {
     "slug": "pikaruokaketjut",
     "nimi": "Pikaruokaketjut",

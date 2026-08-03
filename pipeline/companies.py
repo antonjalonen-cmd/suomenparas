@@ -1602,3 +1602,25 @@ COMPANIES["kauneustuotteet-verkkokaupat"] = [
     dict(slug="nordicfeel", nimi="NordicFeel", domain="eleven.fi", y_tunnus=None,
          omistaja="NordicFeel AB (Ruotsi) operoi eleven.fi-suomalaisdomain kautta nordicfeel.com/fi-sivustoa; Pohjoismainen kauneusverkkokauppa, yli 3 milj. asiakasta; ei suomalaista Y-tunnusta."),
 ]
+
+# --- pelitilauspalvelut (3.8.2026; autopilot-tikki) ---
+# Kaikki globaaleja toimijoita, vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen.
+# POISSULJETUT:
+#   PC Game Pass / Xbox Game Pass PC: sama tilaus kuin Xbox Game Pass (nyk. Game Pass Standard/Ultimate),
+#     ei erillinen tuote — mitataan yhden Xbox-merkinnän alla.
+#   GeForce Now (nvidia.com): pilvistriimaamo ei pelitilauspalvelu — ei sisallyta.
+#   Amazon Luna: ei saatavilla Suomessa (EU-julkaisu tapahtumaton elokuuhun 2026 mennessa).
+COMPANIES["pelitilauspalvelut"] = [
+    dict(slug="xbox-game-pass", nimi="Xbox Game Pass", domain="xbox.com", y_tunnus=None,
+         omistaja="Microsoft Corporation (Yhdysvallat, NASDAQ: MSFT) — pelitilauspalvelu saatavilla xbox.com/fi-fi; taso-vaihtoehdot Game Pass Standard ja Game Pass Ultimate (sis. EA Play)"),
+    dict(slug="playstation-plus", nimi="PlayStation Plus", domain="playstation.com", y_tunnus=None,
+         omistaja="Sony Interactive Entertainment LLC (Yhdysvallat) — tytaryhtio Sony Group Corporation (Japani, TSE: 6758); Suomi-sivu store.playstation.com/fi-fi"),
+    dict(slug="nintendo-switch-online", nimi="Nintendo Switch Online", domain="nintendo.fi", y_tunnus=None,
+         omistaja="Nintendo Co., Ltd. (Japani, TSE: 7974) — ainoa listattu pelitilauspalvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi); tilaussivu nintendo.fi/nintendo-switch-perhe/nintendo-switch-online"),
+    dict(slug="ea-play", nimi="EA Play", domain="ea.com", y_tunnus=None,
+         omistaja="Electronic Arts Inc. (Yhdysvallat, NASDAQ: EA) — Suomi-sivu ea.com/fi-fi; EA Play on EA:n oma tilauspalvelu, sisaltyy myos Xbox Game Pass Ultimate -tilaukseen"),
+    dict(slug="ubisoft-plus", nimi="Ubisoft+", domain="ubisoft.com", y_tunnus=None,
+         omistaja="Ubisoft Entertainment SA (Ranska, Euronext: UBI) — Suomi-sivu ubisoft.com/fi-fi; Ubisoft+ Classic ja Ubisoft+ Premium kaksi tasoa"),
+    dict(slug="apple-arcade", nimi="Apple Arcade", domain="apple.com", y_tunnus=None,
+         omistaja="Apple Inc. (Yhdysvallat, NASDAQ: AAPL) — Suomi-sivu apple.com/fi/apple-arcade; yksi kiintea kuukausihinta, ei tasoja"),
+]

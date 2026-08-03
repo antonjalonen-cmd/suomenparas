@@ -1,0 +1,44 @@
+{
+  "slug": "ea-play",
+  "fetched_ok": [
+    "https://www.ea.com/fi-fi/ea-play",
+    "https://www.ea.com/fi-fi/ea-play/games-ea-play"
+  ],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "osittain",
+  "pelikirjasto_kuvaus": "kylla",
+  "irtisanominen_kerrottu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "perustaso_kk_hinta_eur": 5.99,
+  "ai_arviot": {
+    "selkeys": 70,
+    "hintojen_loydettavyys": 82,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "Hinnat esitetty selkeasti suomeksi: EA Play 5,99 e/kk (39,99 e/v) ja EA Play Pro 16,99 e/kk (119,99 e/v)",
+    "Pelikirjasto selattavissa julkisesti alustan mukaan (The Play List -sivu)",
+    "UKK-osio vastaa keskeisiin kysymyksiin hinnoittelusta ja pelaamisesta"
+  ],
+  "kehityskohteet": [
+    "EA Play- ja EA Play Pro -tasojen sisaltoeron (Pro = uusimmat pelit rajoituksetta) voisi esittaa selkemmin rinnakkain",
+    "Irtisanomisohjeistus jää epätäydelliseksi: 'automaattisesti uusitaan' mainitaan, mutta peruutuspolkua ei kuvata sivulla",
+    "Asiakastuen kanavat (puhelin, chat, sahkoposti) eivat nay EA Play -sivulla"
+  ],
+  "yhteenveto": "EA Play on Electronic Artsin pelitilauspalvelu, joka myydaan Suomessa kahdessa tasossa: EA Play (5,99 e/kk, The Play List -kirjasto) ja EA Play Pro (16,99 e/kk, uusimmat EA-pelit rajattomasti). Hinnat ja kirjasto ovat julkisesti nahtavilla, mutta tasojen sisaltoeroa ja irtisanomisprosessia ei seliteta riittavan selkeasti sivustolla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Sivun UKK-osiossa: 'EA Play -jäsenyys maksaa vain 5,99 euroa kuukaudessa tai 39,99 euroa koko vuodelta. EA Play Pro maksaa 16,99 euroa kuukaudessa tai 119,99 euroa koko vuodelta.'",
+    "tasojen_erot_kerrottu": "HAVAINTO: Sivulla mainitaan EA Play ('The Play List') ja EA Play Pro ('The Pro Play List') erikseen, mutta ero ei ole välittömästi silmään pistava — 'Pro' on kuvailtu vain nimenaan eika sen etuja listata erikseen samalla sivulla.",
+    "pelikirjasto_kuvaus": "HAVAINTO: 'Tutustu kokoelmaan' -linkki johtaa sivulle ea.com/fi-fi/ea-play/games, jossa pelit on lueteltu alustan mukaan (EA app – EA Play, EA app – EA Play Pro, Xbox).",
+    "irtisanominen_kerrottu": "HAVAINTO: 'Maksu uusitaan automaattisesti joka kuukausi tai vuosi jäsenyytesi mukaan.' Peruutusoikeus mainitaan vain yhteydenottolomakkeen yhteydessä, ei selkeana ohjeena tilaussivulla.",
+    "omistaja_kerrottu": "HAVAINTO: Yhteydenottotekstissä: 'Electronic Arts Inc., ATTN: Email Opt-Out, 209 Redwood Shores Pkwy, Redwood City, CA, 94065, USA.' Omistaja on Yhdysvalloissa listattu Electronic Arts Inc.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei viitata riippumattomaan arviolahteeseen tai sertifikaattiin."
+  }
+}

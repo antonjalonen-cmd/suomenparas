@@ -101,6 +101,8 @@ MEASURED = {
     "kauneustuotteet-verkkokaupat": "3.8.2026",
     # erä 11
     "musiikkipalvelut": "3.8.2026",
+    # erä 12
+    "pelitilauspalvelut": "3.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

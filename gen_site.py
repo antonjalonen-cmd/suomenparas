@@ -80,6 +80,7 @@ CATEGORY_GROUPS = [
     ("Media ja tapahtumat", [
         ("Uutismediat", "uutismediat", True), ("Aikakauslehdet", "aikakauslehdet", True),
         ("Tapahtumaliput", "tapahtumaliput", True), ("Musiikkipalvelut", "musiikkipalvelut", True),
+        ("Pelitilauspalvelut", "pelitilauspalvelut", True),
         ("Podcast-palvelut", None, False), ("Äänikirjapalvelut", None, False),
     ]),
     ("Koti ja asuminen", [

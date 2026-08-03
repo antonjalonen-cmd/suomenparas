@@ -616,6 +616,17 @@ TRANSPARENCY["musiikkipalvelut"] = [
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
 
+# --- era 12 (3.8.2026): pelitilauspalvelut --------------------------------------
+# vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen (globaalit palvelut).
+TRANSPARENCY["pelitilauspalvelut"] = [
+    ("hinnat_esilla", "Kuukausihinta per taso julkisesti esillä", 30),
+    ("tasojen_erot_kerrottu", "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty", 20),
+    ("pelikirjasto_kuvaus", "Pelikirjaston kuvaus tai lista ennen tilaamista", 15),
+    ("irtisanominen_kerrottu", "Irtisanominen ja ilmaiskokeilun ehdot kerrottu", 15),
+    ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
+
 # --- era 10 (3.8.2026): kauneustuotteet-verkkokaupat ---------------------------
 TRANSPARENCY["kauneustuotteet-verkkokaupat"] = [
     ("hinnat_esilla", "Tuotehinnat verkossa esillä", 25),
