@@ -1754,3 +1754,34 @@ COMPANIES["kirjanpito-ohjelmistot"] = [
          y_tunnus="2017863-1",
          omistaja="Lemonsoft Oyj — suomalainen, pörssilistattu Nasdaq First North (2021); ERP + taloushallinto pk-yrityksille; tuotenimiä: WorkIn, Käyttösofta"),
 ]
+
+# ---------------------------------------------------------------------------
+# KAHVILAKETJUT — 6 valtakunnallista kahvila- tai pikapalveluketjua,
+# tarkistettu 4.8.2026.
+# POISSULJETUT:
+#   Wayne's Coffee: poistui Suomesta 2012.
+#   Starbucks: starbucks.fi ei ole olemassa (HTTP 000); kansainvälinen
+#     starbucks.com ei suomenkielinen eikä fi-kotisivu; BFI ilmoitti 2024
+#     laajentavansa Pohjoismaihin, mutta Suomessa ei toistaiseksi omia toimipisteitä.
+#   Coffee House: coffeehouse.fi ohjautuu raflaamo.fi-alustalle (S-Group);
+#     ei omaa erillistä verkkosivua — karsittu domainongelman vuoksi.
+COMPANIES["kahvilaketjut"] = [
+    dict(slug="espresso-house", nimi="Espresso House", domain="espressohouse.com",
+         y_tunnus="2663296-2",
+         omistaja="Espresso House Finland Oy — ruotsalaisen Espresso House AB:n omistama; 65+ toimipaikkaa Suomessa; fi-sivu fi.espressohouse.com"),
+    dict(slug="roberts-coffee", nimi="Robert's Coffee", domain="robertscoffee.com",
+         y_tunnus=None,
+         omistaja="Gilvaria Oy (Robert's Coffee Suomessa; franchise-ketju; pääkonttori Sienikuja 6, 00760 Helsinki; Y-tunnus ei löytynyt suoraan sivustolta)"),
+    dict(slug="arnolds", nimi="Arnolds", domain="arnolds.fi",
+         y_tunnus="0864440-9",
+         omistaja="Hermen Oy — brändin ja konseptin omistaja; franchise-pohjainen ketju; perustettu 1991; 30+ toimipaikkaa"),
+    dict(slug="fazer-cafe", nimi="Fazer Café", domain="fazer.fi",
+         y_tunnus="0202669-3",
+         omistaja="Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa paakaupunkiseudulla, Turussa ja Tampereella; lippulaivaKarl Fazer Café avattu 1891"),
+    dict(slug="picnic", nimi="Picnic", domain="picnic.fi",
+         y_tunnus="0789907-1",
+         omistaja="Picnic Finland Oy — suomalainen; perustettu 1991; noin 40 ravintolaa yli 15 kaupungissa; patonki-, uuniperunat- ja salaattiketju, jossa kahvi on keskeinen tuote"),
+    dict(slug="coffee-house", nimi="Coffee House", domain="coffeehouse.fi",
+         y_tunnus=None,
+         omistaja="Restamax Oyj / Eateria Oy (ketju-omistaja ei vahvistettavissa PRH:sta suoraan; aiemmin S-Group, nyt Restamax-konsernin alla); 15 toimipaikkaa; coffeehouse.fi ohjautuu raflaamo.fi-alustalle"),
+]

@@ -111,6 +111,8 @@ MEASURED = {
     "lentoyhtiot": "3.8.2026",
     # erä 16
     "kirjanpito-ohjelmistot": "4.8.2026",
+    # erä 17
+    "kahvilaketjut": "4.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships
@@ -432,7 +434,11 @@ def build(vertical):
                         ("eleven.fi", "nordicfeel.com"),
                         # (3.8.2026): music.youtube.com ohjautuu Euroopassa consent.youtube.com:iin
                         # (GDPR-evastesuostumusportaali) — sama yhtiö Google/Alphabet, ei brändinmuutos.
-                        ("music.youtube.com", "consent.youtube.com")}
+                        ("music.youtube.com", "consent.youtube.com"),
+                        # (4.8.2026): coffeehouse.fi on Coffee House -ketjun domain ja ohjaa
+                        # S-ryhmän Raflaamo-alustalle (raflaamo.fi/fi/ketju/coffee-house) —
+                        # sama omistaja SOK, ei brändinmuutos; Y-tunnus 0116323-1 footerissa.
+                        ("coffeehouse.fi", "raflaamo.fi")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:

@@ -1876,3 +1876,36 @@ META["kirjanpito-ohjelmistot"] = {
          "ilmaista kokeilua, kerrotaanko integraatiot, ja löytyykö suomenkielinen tuki?"),
     ],
 }
+
+# --- era 13 (4.8.2026): kahvilaketjut -----------------------------------------
+META["kahvilaketjut"] = {
+    "slug": "kahvilaketjut",
+    "nimi": "Kahvilaketjut",
+    "nav": "Kahvilaketjut",
+    "h1": "Suomen paras kahvilaketju 2026",
+    "yksikko": "Suomessa toimivaa kahvila- tai pikapalveluketjua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa kahvila- tai pikapalveluketjua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö tuotteiden hinnat, allergeenit ja kahvin alkuperän ennen kuin "
+             "astut ovesta sisaan?"),
+    "meta_title": "Suomen paras kahvilaketju 2026 | pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} kahvilaketjua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Fazer Cafén sivusto vaatii evästesuostumuksen.</b> Fazer.fi:n evästemuuri "
+         "estää sisällön lukemisen ennen hyväksyntää. Tämä vaikuttaa mittaustulokseen: "
+         "suostumuksen takana olevia tietoja ei voida mitata (merkitty 'ei mitattavissa'). "
+         "Evästemuuri on itsessään läpinäkyvyyttä heikentävä tekijä."),
+        ("<b>Coffee Housen verkkonäkyvyys on Raflaamo-alustalla.</b> coffeehouse.fi "
+         "ohjautuu raflaamo.fi-varausalustalle, eikä Coffee Housella ole erillistä "
+         "omaa verkkosivua. Mittaamme sen, mitä käyttäjä kokee ketjun omalla osoitteella."),
+        ("<b>Omistus ja ketjut.</b> Espresso House on ruotsalaisen Espresso House AB:n omistama. "
+         "Robert's Coffee on suomalainen franchise-ketju omalla paahtimonsa tuotteilla. "
+         "Arnolds (Hermen Oy) ja Picnic (Picnic Finland Oy) ovat suomalaisia. "
+         "Fazer Cafe kuuluu Oy Karl Fazer Ab:lle."),
+        ("<b>Poissuljetut.</b> Wayne's Coffee poistui Suomesta 2012. Starbucks ei toistaiseksi "
+         "toimi Suomessa omilla toimipisteillään eikä sillä ole suomenkielistä sivustoa. "
+         "Coffee House sisällytetty coffeehouse.fi-osoitteensa kautta, vaikka se ohjautuu "
+         "Raflaamo-alustalle."),
+    ],
+}

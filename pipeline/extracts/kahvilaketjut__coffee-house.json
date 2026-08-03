@@ -1,0 +1,45 @@
+{
+  "slug": "coffee-house",
+  "nimi": "Coffee House",
+  "domain": "coffeehouse.fi",
+  "fetched_ok": [
+    "https://coffeehouse.fi/",
+    "https://www.raflaamo.fi/fi/ketju/coffee-house"
+  ],
+  "hinnat_esilla": "ei",
+  "allergeenit_esilla": "ei",
+  "kahvin_alkupera": "ei",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "kanta_asiakasohjelma_kerrottu": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 40,
+    "hintojen_loydettavyys": 10,
+    "sisallon_kattavuus": 30
+  },
+  "vahvuudet": [
+    "HAVAINTO: 15 toimipisteen osoitteet listattu selkeästi (Helsinki, Espoo, Joensuu, Kittilä, Kouvola, Kuopio, Lappeenranta, Oulu)",
+    "Oiva-raportit linkitetty footerissa — hygieniataso tarkistettavissa",
+    "SOK:n Y-tunnus (0116323-1) näkyvissä Raflaamo-sivun footerissa"
+  ],
+  "kehityskohteet": [
+    "Tuotteiden hintoja ei näy missään — ei ketjusivulla, ei toimipistesivuilla",
+    "Allergeeni- ja ravintosisältötiedot puuttuvat kokonaan verkosta",
+    "coffeehouse.fi ohjautuu Raflaamo-alustalle — Coffee House -brändin oma verkkopresenssi on käytännössä olematon"
+  ],
+  "yhteenveto": "Coffee House toimii S-ryhmän Raflaamo-alustalla, joka listaa toimipisteet ja Oiva-raporttilinkki löytyy footerista. Tuotteiden hinnat, allergeenit, kahvin alkuperä ja aukioloajat puuttuvat — ketjun verkkotransparenssi on kategoriasta alhaisin.",
+  "evidence": {
+    "ravintolat_ja_aukioloajat": "HAVAINTO: Ketjusivu listaa 15 ravintolaa osoitteineen: Coffee House Iso Omena (Espoo), Coffee House Asema-aukio (Helsinki), Coffee House Vaakuna (Joensuu), Coffee House Levi (Kittilä) jne.",
+    "y_tunnus_esilla": "Raflaamo-sivun footer: 'SOK PL 1 00088 S-RYHMÄ, Y-tunnus 0116323-1' — S-ryhmän Y-tunnus näkyvissä.",
+    "riippumaton_arvio": "Footer: 'Oiva-raportit Avautuu uuteen välilehteen' — Oiva-raportti linkitetty footerissa.",
+    "hinnat_esilla": "coffeehouse.fi ohjautuu raflaamo.fi/fi/ketju/coffee-house -sivulle (ketjun esittelysivu). Sivulla ei ole ruoka- tai juomalistaa hinnoilla. Hintoja ei löydy.",
+    "kahvin_alkupera": "Raflaamo-ketjusivulla ei mainita kahvin alkuperää, sertifiointia tai vastuullisuussitoumuksia."
+  }
+}

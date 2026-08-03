@@ -1,0 +1,51 @@
+{
+  "slug": "arnolds",
+  "nimi": "Arnolds",
+  "domain": "arnolds.fi",
+  "fetched_ok": [
+    "https://arnolds.fi/",
+    "https://arnolds.fi/tuotteet/",
+    "https://arnolds.fi/yritys/",
+    "https://arnolds.fi/kayttoehdot/",
+    "https://arnolds.fi/ukk/"
+  ],
+  "hinnat_esilla": "ei",
+  "allergeenit_esilla": "ei",
+  "kahvin_alkupera": "ei",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "kanta_asiakasohjelma_kerrottu": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {
+    "selkeys": 60,
+    "hintojen_loydettavyys": 25,
+    "sisallon_kattavuus": 55
+  },
+  "vahvuudet": [
+    "Y-tunnus (Hermen Oy, 0864440-9) ja rekisteröity toimipaikka kerrottu käyttöehdoissa selkeästi",
+    "HAVAINTO: Kattava kahvila-hakemisto (arnolds.fi/kahvilat/) — yli 50 kaupunkia aakkosittain aukioloaikoineen ja kartalla",
+    "Oiva-raportit footerissa; UKK-osio (arnolds.fi/ukk/) vastaa yleisimpiin kysymyksiin"
+  ],
+  "kehityskohteet": [
+    "Tuotehinnat eivät ole lainkaan saatavilla verkossa — kuluttaja ei pysty vertailemaan hintoja etukäteen",
+    "Allergeeni- ja ravintosisältötiedot puuttuvat kokonaan tuotesivuilta",
+    "Kahvin alkuperä- ja vastuullisuussivu on poistettu (404) — vastuullisuustieto ei tavoita kuluttajaa"
+  ],
+  "yhteenveto": "Arnolds on hyvin löydettävissä paikallisesti kattavalla kahvila-hakemistolla ja Y-tunnus löytyy käyttöehdoista. Avoin verkkosisältö on kuitenkin ohut: hinnat, allergeenit ja vastuullisuustieto puuttuvat verkosta kokonaan.",
+  "evidence": {
+    "ravintolat_ja_aukioloajat": "HAVAINTO: Laaja toimipistelistaus arnolds.fi/kahvilat/ — yli 50 kaupunkia listattu aakkosittain, hakutoiminto 'Etsi lähin kahvila', yksittäisten kahviloiden sivuilla aukioloajat.",
+    "y_tunnus_esilla": "Käyttöehdot-sivu (arnolds.fi/kayttoehdot/): 'Arnolds.fi sivustoa ylläpitää Hermen Oy, y-tunnus 0864440-9. Yrityksellä on rekisteröity toimipaikka Suomessa osoitteessa Annankatu 22 A 1, 00100 Helsinki.'",
+    "riippumaton_arvio": "Footer: 'Oiva-raportit' -linkki näkyvissä sivuston footerissa.",
+    "kanta_asiakasohjelma_kerrottu": "Tuotteet-sivu: 'Nappaa herkut mukaasi. Muista jatkuvat makeiden tuotteiden Take away -edut: osta 5, saat 6 ja osta 9, saat 12.'",
+    "puhelin_esilla": "Etusivu (alustana kahvila-hakemisto): '010 2018300' näkyvissä toimipisteen yhteystiedoissa.",
+    "aukioloajat_esilla": "Etusivu: 'Poikkeavat aukioloajat:' -osio ja yksittäisten kahviloiden sivuilla aukioloajat.",
+    "ukk_osio": "HAVAINTO: arnolds.fi/ukk/ — Usein kysytyt kysymykset -sivu, mm. SOVELLUS, KOTIINKULJETUS, LAHJAKORTIT, FRANCHISING.",
+    "mobiilisovellus": "UKK-sivu: 'Arnoldsilla on tällä hetkellä käytössä asiakassovellus, joka poistuu käytöstä 31.7.2026.' — sovellus poistettu käytöstä mittauspäivänä 4.8.2026, merkitään 'ei'."
+  }
+}

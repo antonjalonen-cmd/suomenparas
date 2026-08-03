@@ -118,6 +118,7 @@ CATEGORY_GROUPS = [
     ]),
     ("Ravintolat ja kahvilat", [
         ("Pikaruokaketjut", "pikaruokaketjut", True),
+        ("Kahvilaketjut", "kahvilaketjut", True),
         ("Pizzeriat", None, False), ("Sushiravintolat", None, False),
         ("Hampurilaisravintolat", None, False), ("Lounasravintolat", None, False),
         ("Kahvilat", None, False), ("Kebab-ravintolat", None, False),

@@ -1,0 +1,1377 @@
+{
+ "slug": "kahvilaketjut",
+ "nimi": "Kahvilaketjut",
+ "nav": "Kahvilaketjut",
+ "h1": "Suomen paras kahvilaketju 2026",
+ "yksikko": "Suomessa toimivaa kahvila- tai pikapalveluketjua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa kahvila- tai pikapalveluketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö tuotteiden hinnat, allergeenit ja kahvin alkuperän ennen kuin astut ovesta sisaan?",
+ "meta_title": "Suomen paras kahvilaketju 2026 | pisteytettynä | Suomen Paras",
+ "meta_desc": "6 kahvilaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Fazer Cafén sivusto vaatii evästesuostumuksen.</b> Fazer.fi:n evästemuuri estää sisällön lukemisen ennen hyväksyntää. Tämä vaikuttaa mittaustulokseen: suostumuksen takana olevia tietoja ei voida mitata (merkitty 'ei mitattavissa'). Evästemuuri on itsessään läpinäkyvyyttä heikentävä tekijä.",
+  "<b>Coffee Housen verkkonäkyvyys on Raflaamo-alustalla.</b> coffeehouse.fi ohjautuu raflaamo.fi-varausalustalle, eikä Coffee Housella ole erillistä omaa verkkosivua. Mittaamme sen, mitä käyttäjä kokee ketjun omalla osoitteella.",
+  "<b>Omistus ja ketjut.</b> Espresso House on ruotsalaisen Espresso House AB:n omistama. Robert's Coffee on suomalainen franchise-ketju omalla paahtimonsa tuotteilla. Arnolds (Hermen Oy) ja Picnic (Picnic Finland Oy) ovat suomalaisia. Fazer Cafe kuuluu Oy Karl Fazer Ab:lle.",
+  "<b>Poissuljetut.</b> Wayne's Coffee poistui Suomesta 2012. Starbucks ei toistaiseksi toimi Suomessa omilla toimipisteillään eikä sillä ole suomenkielistä sivustoa. Coffee House sisällytetty coffeehouse.fi-osoitteensa kautta, vaikka se ohjautuu Raflaamo-alustalle."
+ ],
+ "yritykset": [
+  {
+   "slug": "roberts-coffee",
+   "nimi": "Robert's Coffee",
+   "domain": "robertscoffee.com",
+   "omistaja": "Gilvaria Oy (Robert's Coffee Suomessa; franchise-ketju; pääkonttori Sienikuja 6, 00760 Helsinki; Y-tunnus ei löytynyt suoraan sivustolta)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 71.5,
+   "pillars": {
+    "digitaalinen": 71.7,
+    "lapinakyvyys": 70.0,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 75.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu (raw-haku): 'Kahvi S & Täytetty Pretzel Croissant 5,90 €. Mehu +2 €. Jogurtti/Chiavanukas +2 €. 3,90 €.' — konkreettiset menuhinnastot näkyvissä etusivulla."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vastuullisuus-sivu: 'Vihreiden raakapapujen hankinnassa huomioimme ympäristövastuun ja luonnon monimuotoisuuden suojelun. EU:n metsäkatoasetuksen (EUDR) vaatimusten noudattaminen on olennainen osa sitoutumistamme vastuulliseen raaka-ainehankintaan.'"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Löydä lähin Robert's Coffee' -painike navigaatiossa ja footerissa; kahvilakartta saatavilla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Footer/etusivu: 'Kahviloiden Oiva-raportit' -linkki näkyvissä etusivun lopussa."
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Robert's Coffee Club -sovellus' etusivulla: '20 kerrytettyä kahvipapua tarkoittaa yhtä ilmaista menujuomaa. Sovelluksesta löydät myös vaihtuvia tarjouksia.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystiedot-sivu: 'Puh. (+358) 029 170 7761'"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystiedot-sivu: 'robertscoffee@robertscoffee.com'"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa Robert's Coffee Club -sovellus' yhteystiedot-sivulla ja etusivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 87,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10387.518000000002,
+    "cls": 0,
+    "tbt_ms": 794.9999999999973
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "HAVAINTO: Konkreettiset hinnat etusivulla: 'Kahvi S & Täytetty Pretzel Croissant 5,90 €' — kuluttaja näkee hinnat heti",
+    "Vastuullisuussivulla EUDR-sitoumus kirjattuna ja ladattava vastuullisuusraportti saatavilla",
+    "Puhelinnumero (+358 029 170 7761) ja sähköposti (robertscoffee@robertscoffee.com) selkeästi yhteystiedoissa; Oiva-raportit footerissa"
+   ],
+   "kehityskohteet": [
+    "Tuotekohtaiset allergeeni- ja ravintosisältötiedot puuttuvat kokonaan sivustolta",
+    "Y-tunnus ei löydy sivustolta — tietosuojasivu on 404",
+    "Tuotevalikoiman kattavuus on rajallinen: vain kampanjahinnat etusivulla, ei koko menulistaa"
+   ],
+   "yhteenveto": "Robert's Coffee tarjoaa selkeimmän hinnoittelun arvioiduista ketjuista ja kertoo vastuullisuudesta avoimesti EUDR-sitoumuksella. Allergeenien ja Y-tunnuksen puuttuminen ovat merkittävimmät puutteet erityisruokavaliota noudattaville ja tietosuojan kannalta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "picnic",
+   "nimi": "Picnic",
+   "domain": "picnic.fi",
+   "omistaja": "Picnic Finland Oy — suomalainen; perustettu 1991; noin 40 ravintolaa yli 15 kaupungissa; patonki-, uuniperunat- ja salaattiketju, jossa kahvi on keskeinen tuote",
+   "y_tunnus": "0789907-1",
+   "rekisteroity": 1990,
+   "score": 66.5,
+   "pillars": {
+    "digitaalinen": 76.0,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menu-sivu (picnic.fi/our-menu/) listaa tuotteet hinnoilla: 'Juusto-kananmunaruisleipä 5.90€', 'Kinkku-juustosämpylä 5.90€', 'Aamiainen: Kahvi + 1 aamiaistuote 6.90€'. Hinnat näkyvissä ilman kirjautumista."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Menu-sivu: 'Kaikki Picnicin kahvit ovat peräisin Punavuorelaiselta paahtimolta KAFFAROASTERY. Kaikki kahvijuomamme on saatavilla myös kasvimaitoon valmistettuna.'"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Lähin Picnic' -linkki toimipisteen hakuun; noin 40 ravintolaa yli 15 kaupungissa mainittu etusivulla."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojaseloste (picnic.fi/tietosuojaseloste/): 'Picnic Finland Oy, Y-tunnus: 0789907-1'."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Footer: 'Oiva-raportit' -linkki näkyvissä sivuston footerissa."
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu: 'Saldo kasvaa syödessä — lataa picnic-äppi nyt ja hyödynnä edut! Mitä useammin käyt – Sitä enemmän hyödyt.' Kanta-asiakasohjelma kuvattu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Toimipisteen hakusivuilla yksittäisten ravintoloiden aukioloajat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Picnic-äppi' mainittu footerissa ja etusivulla etuohjelman yhteydessä."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 9264.772,
+    "cls": 0,
+    "tbt_ms": 529.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "HAVAINTO: Menu-sivu listaa tuotteet hinnoilla (esim. Juusto-kananmunaruisleipä 5,90 €, Aamiainen: Kahvi + 1 aamiaistuote 6,90 €) — selkeä hinnasto ilman kirjautumista",
+    "Kahvin alkuperä kerrottu: 'Kaikki Picnicin kahvit ovat peräisin Punavuorelaiselta paahtimolta KAFFAROASTERY' — paikallinen yhteistyö",
+    "Y-tunnus (Picnic Finland Oy, 0789907-1) selkeästi tietosuojaselosteessa; Picnic-äppi kanta-asiakasohjelma kuvattu etusivulla"
+   ],
+   "kehityskohteet": [
+    "Allergeeni- ja ravintosisältötiedot puuttuvat verkkosivulta — ei tuotekohtaisia allergeenilistoja",
+    "Asiakaspalvelun yhteystiedot (puhelin, sähköposti) eivät löydy sivustolta — ota yhteyttä -sivu on 404",
+    "UKK-osiota ei ole — palveluun liittyvät kysymykset vaativat suoran yhteydenoton"
+   ],
+   "yhteenveto": "Picnic tarjoaa selkeän hinnaston menu-sivulla ja kertoo kahvinsa alkuperän helsinkiläiseltä Kaffa Roastery -paahtimolta. Allergeenien puuttuminen ja yhteystietojen löytymisen vaikeus ovat merkittävimmät puutteet. Kanta-asiakasohjelma (Picnic-äppi) on esillä ja kuvattu selkeästi etusivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "espresso-house",
+   "nimi": "Espresso House",
+   "domain": "espressohouse.com",
+   "omistaja": "Espresso House Finland Oy — ruotsalaisen Espresso House AB:n omistama; 65+ toimipaikkaa Suomessa; fi-sivu fi.espressohouse.com",
+   "y_tunnus": "2663296-2",
+   "rekisteroity": 2014,
+   "score": 59.8,
+   "pillars": {
+    "digitaalinen": 80.8,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 55.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "55/100",
+       "paino": 40,
+       "pisteet": 55,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillinen allergeenisivu (fi.espressohouse.com/ravitsemus-ja-allergeenit/) kertoo EU-elintarviketietoasetuksen mukaisesta allergeenimerkinnästä; allergeenit merkitään ISOILLA KIRJAIMILLA tuotekohtaisesti."
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Vastuullisuus-sivu: 'Kaikki kahvimme on 100-prosenttisesti vastuullisesti hankittua Enveritaksen riippumattoman varmennuksen kautta.' Enveritas akkreditoitu ISO 17065 -standardin mukaisesti."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'LÖYDÄ LÄHIN KAHVILASI' -painike etusivulla johtaa kahvilakarttaan; 'Löydä meidät' -valikko navigaatiossa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Fika Club' -sovellus kuvattu etusivulla: 'Lataa Fika Club nyt saadaksesi mahtavia tarjouksia.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ota yhteyttä -sivu: 'Tutustu usein kysyttyihin kysymyksiin löytääksesi tarvitsemasi tiedot.' — FAQ-osio mainittu ja linkitetty."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Fika Club -mobiilisovellus esitelty etusivulla; navigaatiossa 'Fika Club' -linkki."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 55,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3971.5615,
+    "cls": 0.0002336230760325033,
+    "tbt_ms": 1096.8165000000008
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Allergeenisivu EU-asetuksen mukaisella rakenteella — allergeenit merkitty ISOILLA KIRJAIMILLA tuotekohtaisesti",
+    "Kahvin alkuperä ja vastuullisuus selvitetty kattavasti: 100 % Enveritas ISO 17065 -varmennettu, erikoislaatuinen Specialty Coffee Etelä-Amerikasta",
+    "Fika Club -kanta-asiakasohjelma kuvattu selkeästi eduilla ja liittymisohjeella etusivulla"
+   ],
+   "kehityskohteet": [
+    "Tuotehinnat eivät näy ilman cookie-suostumusta — kuluttaja ei tiedä hintoja ennen tiskille menemistä",
+    "Y-tunnus ei löydy sivustolta; Oiva-raportit-linkki footerissa on rikki (404)",
+    "Asiakaspalvelun puhelinnumero ja sähköpostiosoite puuttuvat — yhteydenotto vain lomakkeella"
+   ],
+   "yhteenveto": "Espresso House erottuu vastuullisuudellaan ja allergeenimerkinnöillään: kahvi on sertifioitu ja allergeenitieto järjestetty EU-asetuksen mukaisesti. Hinnat jäävät piiloon evästemuurin vuoksi, eikä Y-tunnusta löydy sivustolta — kokonaistransparenssi on kohtuullinen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "arnolds",
+   "nimi": "Arnolds",
+   "domain": "arnolds.fi",
+   "omistaja": "Hermen Oy — brändin ja konseptin omistaja; franchise-pohjainen ketju; perustettu 1991; 30+ toimipaikkaa",
+   "y_tunnus": "0864440-9",
+   "rekisteroity": 1991,
+   "score": 53.2,
+   "pillars": {
+    "digitaalinen": 66.0,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 46.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "88/100",
+       "paino": 15,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Laaja toimipistelistaus arnolds.fi/kahvilat/ — yli 50 kaupunkia listattu aakkosittain, hakutoiminto 'Etsi lähin kahvila', yksittäisten kahviloiden sivuilla aukioloajat."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdot-sivu (arnolds.fi/kayttoehdot/): 'Arnolds.fi sivustoa ylläpitää Hermen Oy, y-tunnus 0864440-9. Yrityksellä on rekisteröity toimipaikka Suomessa osoitteessa Annankatu 22 A 1, 00100 Helsinki.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Footer: 'Oiva-raportit' -linkki näkyvissä sivuston footerissa."
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tuotteet-sivu: 'Nappaa herkut mukaasi. Muista jatkuvat makeiden tuotteiden Take away -edut: osta 5, saat 6 ja osta 9, saat 12.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu (alustana kahvila-hakemisto): '010 2018300' näkyvissä toimipisteen yhteystiedoissa."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Poikkeavat aukioloajat:' -osio ja yksittäisten kahviloiden sivuilla aukioloajat."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: arnolds.fi/ukk/ — Usein kysytyt kysymykset -sivu, mm. SOVELLUS, KOTIINKULJETUS, LAHJAKORTIT, FRANCHISING."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "UKK-sivu: 'Arnoldsilla on tällä hetkellä käytössä asiakassovellus, joka poistuu käytöstä 31.7.2026.' — sovellus poistettu käytöstä mittauspäivänä 4.8.2026, merkitään 'ei'."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "25/100",
+       "paino": 33,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 84,
+    "seo": 85,
+    "best_practices": 88,
+    "lcp_ms": 8247.16,
+    "cls": 0,
+    "tbt_ms": 2284.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus (Hermen Oy, 0864440-9) ja rekisteröity toimipaikka kerrottu käyttöehdoissa selkeästi",
+    "HAVAINTO: Kattava kahvila-hakemisto (arnolds.fi/kahvilat/) — yli 50 kaupunkia aakkosittain aukioloaikoineen ja kartalla",
+    "Oiva-raportit footerissa; UKK-osio (arnolds.fi/ukk/) vastaa yleisimpiin kysymyksiin"
+   ],
+   "kehityskohteet": [
+    "Tuotehinnat eivät ole lainkaan saatavilla verkossa — kuluttaja ei pysty vertailemaan hintoja etukäteen",
+    "Allergeeni- ja ravintosisältötiedot puuttuvat kokonaan tuotesivuilta",
+    "Kahvin alkuperä- ja vastuullisuussivu on poistettu (404) — vastuullisuustieto ei tavoita kuluttajaa"
+   ],
+   "yhteenveto": "Arnolds on hyvin löydettävissä paikallisesti kattavalla kahvila-hakemistolla ja Y-tunnus löytyy käyttöehdoista. Avoin verkkosisältö on kuitenkin ohut: hinnat, allergeenit ja vastuullisuustieto puuttuvat verkosta kokonaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "coffee-house",
+   "nimi": "Coffee House",
+   "domain": "coffeehouse.fi",
+   "omistaja": "Restamax Oyj / Eateria Oy (ketju-omistaja ei vahvistettavissa PRH:sta suoraan; aiemmin S-Group, nyt Restamax-konsernin alla); 15 toimipaikkaa; coffeehouse.fi ohjautuu raflaamo.fi-alustalle",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 40.2,
+   "pillars": {
+    "digitaalinen": 81.2,
+    "lapinakyvyys": 35.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 26.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "53/100",
+       "paino": 40,
+       "pisteet": 53,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "coffeehouse.fi ohjautuu raflaamo.fi/fi/ketju/coffee-house -sivulle (ketjun esittelysivu). Sivulla ei ole ruoka- tai juomalistaa hinnoilla. Hintoja ei löydy."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Raflaamo-ketjusivulla ei mainita kahvin alkuperää, sertifiointia tai vastuullisuussitoumuksia."
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ketjusivu listaa 15 ravintolaa osoitteineen: Coffee House Iso Omena (Espoo), Coffee House Asema-aukio (Helsinki), Coffee House Vaakuna (Joensuu), Coffee House Levi (Kittilä) jne."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Raflaamo-sivun footer: 'SOK PL 1 00088 S-RYHMÄ, Y-tunnus 0116323-1' — S-ryhmän Y-tunnus näkyvissä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Footer: 'Oiva-raportit Avautuu uuteen välilehteen' — Oiva-raportti linkitetty footerissa."
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "40/100",
+       "paino": 34,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 53,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 4118.9935,
+    "cls": 0,
+    "tbt_ms": 1903.0340000000006
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "HAVAINTO: 15 toimipisteen osoitteet listattu selkeästi (Helsinki, Espoo, Joensuu, Kittilä, Kouvola, Kuopio, Lappeenranta, Oulu)",
+    "Oiva-raportit linkitetty footerissa — hygieniataso tarkistettavissa",
+    "SOK:n Y-tunnus (0116323-1) näkyvissä Raflaamo-sivun footerissa"
+   ],
+   "kehityskohteet": [
+    "Tuotteiden hintoja ei näy missään — ei ketjusivulla, ei toimipistesivuilla",
+    "Allergeeni- ja ravintosisältötiedot puuttuvat kokonaan verkosta",
+    "coffeehouse.fi ohjautuu Raflaamo-alustalle — Coffee House -brändin oma verkkopresenssi on käytännössä olematon"
+   ],
+   "yhteenveto": "Coffee House toimii S-ryhmän Raflaamo-alustalla, joka listaa toimipisteet ja Oiva-raporttilinkki löytyy footerista. Tuotteiden hinnat, allergeenit, kahvin alkuperä ja aukioloajat puuttuvat — ketjun verkkotransparenssi on kategoriasta alhaisin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "fazer-cafe",
+   "nimi": "Fazer Café",
+   "domain": "fazer.fi",
+   "omistaja": "Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa paakaupunkiseudulla, Turussa ja Tampereella; lippulaivaKarl Fazer Café avattu 1891",
+   "y_tunnus": "0202669-3",
+   "rekisteroity": 1978,
+   "score": 23.0,
+   "pillars": {
+    "digitaalinen": 73.3,
+    "lapinakyvyys": 0.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 5.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "46/100",
+       "paino": 40,
+       "pisteet": 46,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotteiden hinnat verkossa esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "fazer.fi palauttaa staattisena vain sivuotsikon 'Fazer Café - Fazer.fi' (21 merkkiä). Kaikki sisältö vaatii evästesuostumuksen. Mittausaukko: evästemuuri."
+      },
+      {
+       "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Toimipisteet ja aukioloajat helposti löydettävissä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Kaikki fazer.fi-sisältö on evästemuuri. Toimipisteet eivät löydy ilman evästeiden hyväksymistä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Evästemuuri estää sisällön lukemisen. Huom: Oy Karl Fazer Ab, Y-tunnus 0202669-3 on PRH-todennettu — mutta ei nähtävissä verkkosivulla ilman evästeiden hyväksymistä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "5/100",
+       "paino": 34,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 46,
+    "accessibility": 87,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 11959.9635,
+    "cls": 0.0009279103196103507,
+    "tbt_ms": 505.4999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Fazer on Suomen tunnetuin elintarvikealan perheyhtiö — brändillä on vahva luottamuspääoma",
+    "Karl Fazer Café Helsingin lippulaivakahvila on tunnettu korkeasta laadusta (avattu 1891)",
+    "Oy Karl Fazer Ab:n Y-tunnus (0202669-3) on löydettävissä PRH:n rekisteristä"
+   ],
+   "kehityskohteet": [
+    "Koko fazer.fi-sivusto on evästemuuri — yhtään sisältöä ei voi lukea ilman evästeiden hyväksyntää; hinnat, allergeenit, aukioloajat ja toimipisteet ovat piilossa",
+    "Asiakaspalvelun yhteystietoja (puhelin, sähköposti) ei voi tarkastaa ilman evästesuostumusta",
+    "Oiva-raportteihin tai muihin riippumattomiin arviointeihin ei pääse ilman evästeiden hyväksymistä"
+   ],
+   "yhteenveto": "Fazer Cafén kaikki verkkosisältö on käytännössä piilossa evästesuostumusmuurin takana — mittaustulokset heijastavat sitä, mitä kuluttaja kohtaa sivustolle saapuessaan. Fazer-brändillä on vahva maine, mutta verkkotransparenssi on tässä kategoriassa alhaisin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "4.8.2026",
+ "opas": {
+  "johdanto": "Kahvilaketjujen verkkosivut eroavat toisistaan merkittävästi sen suhteen, kuinka avoimesti ne kertovat hinnat, allergeenit, kahvin alkuperän ja toimipisteiden sijainnit. Tällä sivulla vertailemme kuutta Suomessa toimivaa kahvilaketjua sen perusteella, kuinka helposti kuluttaja löytää nämä perustiedot ennen kahvilaan menemistä.",
+  "huomioita": [
+   "Fazer Cafén koko verkkosisältö on evästesuostumusmuurin takana — hinnat, allergeenit, toimipisteet ja muut perustiedot eivät näy ilman hyväksyntää.",
+   "Coffee House (coffeehouse.fi) ohjautuu S-ryhmän Raflaamo-alustalle, eikä ketjulla ole omaa verkkosivustoa. Hintoja tai allergeeneja ei löydy Raflaamo-sivultakaan.",
+   "Robert's Coffee näyttää hinnat suoraan etusivulla ja tarjoaa puhelinnumeron sekä sähköpostiosoitteen — selkein läpinäkyvyys yhteystiedoissa.",
+   "Picnic käyttää Helsinki-pohjaista Kaffa Roastery -paahtimoa ja kertoo tämän avoimesti menu-sivullaan. Hinnat näkyvät selkeästi.",
+   "Arnoldsin mobiilisovellus on poistettu käytöstä 31.7.2026 — ketjun kanta-asiakasohjelma on muuttunut yksinkertaiseksi osta-5-saat-6-järjestelmäksi.",
+   "Espresso House erottuu allergeenimerkinnöillään: erillinen allergeenisivu EU-asetuksen mukaisella rakenteella löytyy."
+  ],
+  "vinkit": [
+   "Jos tarvitset allergeenittomia tuotteita, soita tai käy paikan päällä — vain Espresso House tarjoaa allergeenilistauksen verkossa.",
+   "Vertaa hintoja etukäteen: Robert's Coffee ja Picnic näyttävät hinnat verkossa, muut ketjut eivät.",
+   "Arnolds-kahvilan löydät hakemistosta yli 50 kaupungista aukioloaikoineen — laajin toimipisteverkosto arvioiduista.",
+   "Coffee House sijaitsee usein kauppakeskuksissa — tarkista aukioloajat kauppakeskuksen sivuilta, koska coffeehouse.fi ei niitä näytä.",
+   "Fazer Cafén pääkonttori ja lippulaivakahvila sijaitsevat Helsingissä. Kotisivuille pääsee vain hyväksymällä evästeet ensin."
+  ],
+  "ukk": [
+   {
+    "q": "Millä kahvilaketjulla on eniten toimipisteitä Suomessa?",
+    "a": "Arnoldsilla on yli 50 toimipistettä yli 30 kaupungissa, mikä tekee siitä arvioiduista laajimman verkoston. Espresso Housella on 65+ toimipistettä ja Picnicillä noin 40."
+   },
+   {
+    "q": "Missä voin tarkistaa allergeenit ennen kahvilaan menoa?",
+    "a": "Espresso Housella on erillinen allergeenisivu (ravitsemus-ja-allergeenit), jossa allergeenit on merkitty EU-asetuksen mukaisesti. Muut ketjut eivät tarjoa allergeeneja verkkosivuillaan — soita tai kysy paikan päällä."
+   },
+   {
+    "q": "Onko suomalaisilla kahvilaketjuilla Reilun kaupan kahvia?",
+    "a": "Espresso House käyttää Enveritas-varmennettu kahvi (ISO 17065), Robert's Coffee noudattaa EU:n metsäkatoasetusta (EUDR). Picnic käyttää Kaffa Roastery -paahtimoa Helsingistä. Perinteisiä Reilun kaupan -sertifiointeja ei arvioiduilla ketjuilla ole esillä verkkosivuillaan."
+   },
+   {
+    "q": "Mikä kahvilaketju on halvimmat hinnat?",
+    "a": "Robert's Coffee näyttää hinnan etusivulla: Kahvi S + Täytetty Pretzel Croissant 5,90 €. Picnicin aamiainen (Kahvi + 1 tuote) maksaa 6,90 €. Muiden ketjujen hinnat eivät ole vertailtavissa verkossa."
+   },
+   {
+    "q": "Onko Coffee Housella omaa sovellusta?",
+    "a": "Coffee Housella ei ole omaa sovellusta. Ketju toimii S-ryhmän Raflaamo-alustalla, ja kanta-asiakkuus voi liittyä S-Etukorttiin (Bonusta Applen Lompakolla -linkki sivustolla), mutta ohjelmaa ei ole kuvattu tarkemmin."
+   }
+  ]
+ },
+ "mittarit": 20,
+ "lapinakyvyys_kriteerit": "Tuotteiden hinnat verkossa esillä (25), allergeeni- ja ravintosisältötiedot tuotekohtaisesti (20), kahvin alkuperä tai reilu kauppa -sitoumus kerrottu (15), toimipisteet ja aukioloajat helposti löydettävissä (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10), kanta-asiakasohjelma tai sovellus kuvattu sivustolla (5)"
+}

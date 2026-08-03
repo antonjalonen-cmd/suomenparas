@@ -1,0 +1,49 @@
+{
+  "slug": "picnic",
+  "nimi": "Picnic",
+  "domain": "picnic.fi",
+  "fetched_ok": [
+    "https://picnic.fi/",
+    "https://picnic.fi/our-menu/",
+    "https://picnic.fi/tietosuojaseloste/"
+  ],
+  "hinnat_esilla": "kylla",
+  "allergeenit_esilla": "ei",
+  "kahvin_alkupera": "kylla",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "kylla",
+  "kanta_asiakasohjelma_kerrottu": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 80,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "HAVAINTO: Menu-sivu listaa tuotteet hinnoilla (esim. Juusto-kananmunaruisleipä 5,90 €, Aamiainen: Kahvi + 1 aamiaistuote 6,90 €) — selkeä hinnasto ilman kirjautumista",
+    "Kahvin alkuperä kerrottu: 'Kaikki Picnicin kahvit ovat peräisin Punavuorelaiselta paahtimolta KAFFAROASTERY' — paikallinen yhteistyö",
+    "Y-tunnus (Picnic Finland Oy, 0789907-1) selkeästi tietosuojaselosteessa; Picnic-äppi kanta-asiakasohjelma kuvattu etusivulla"
+  ],
+  "kehityskohteet": [
+    "Allergeeni- ja ravintosisältötiedot puuttuvat verkkosivulta — ei tuotekohtaisia allergeenilistoja",
+    "Asiakaspalvelun yhteystiedot (puhelin, sähköposti) eivät löydy sivustolta — ota yhteyttä -sivu on 404",
+    "UKK-osiota ei ole — palveluun liittyvät kysymykset vaativat suoran yhteydenoton"
+  ],
+  "yhteenveto": "Picnic tarjoaa selkeän hinnaston menu-sivulla ja kertoo kahvinsa alkuperän helsinkiläiseltä Kaffa Roastery -paahtimolta. Allergeenien puuttuminen ja yhteystietojen löytymisen vaikeus ovat merkittävimmät puutteet. Kanta-asiakasohjelma (Picnic-äppi) on esillä ja kuvattu selkeästi etusivulla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Menu-sivu (picnic.fi/our-menu/) listaa tuotteet hinnoilla: 'Juusto-kananmunaruisleipä 5.90€', 'Kinkku-juustosämpylä 5.90€', 'Aamiainen: Kahvi + 1 aamiaistuote 6.90€'. Hinnat näkyvissä ilman kirjautumista.",
+    "kahvin_alkupera": "HAVAINTO: Menu-sivu: 'Kaikki Picnicin kahvit ovat peräisin Punavuorelaiselta paahtimolta KAFFAROASTERY. Kaikki kahvijuomamme on saatavilla myös kasvimaitoon valmistettuna.'",
+    "ravintolat_ja_aukioloajat": "HAVAINTO: Navigaatiossa 'Lähin Picnic' -linkki toimipisteen hakuun; noin 40 ravintolaa yli 15 kaupungissa mainittu etusivulla.",
+    "y_tunnus_esilla": "Tietosuojaseloste (picnic.fi/tietosuojaseloste/): 'Picnic Finland Oy, Y-tunnus: 0789907-1'.",
+    "riippumaton_arvio": "Footer: 'Oiva-raportit' -linkki näkyvissä sivuston footerissa.",
+    "kanta_asiakasohjelma_kerrottu": "HAVAINTO: Etusivu: 'Saldo kasvaa syödessä — lataa picnic-äppi nyt ja hyödynnä edut! Mitä useammin käyt – Sitä enemmän hyödyt.' Kanta-asiakasohjelma kuvattu.",
+    "aukioloajat_esilla": "Toimipisteen hakusivuilla yksittäisten ravintoloiden aukioloajat.",
+    "mobiilisovellus": "HAVAINTO: 'Picnic-äppi' mainittu footerissa ja etusivulla etuohjelman yhteydessä."
+  }
+}

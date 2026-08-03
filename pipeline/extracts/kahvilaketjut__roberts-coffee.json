@@ -1,0 +1,49 @@
+{
+  "slug": "roberts-coffee",
+  "nimi": "Robert's Coffee",
+  "domain": "robertscoffee.com",
+  "fetched_ok": [
+    "https://robertscoffee.com/",
+    "https://robertscoffee.com/vastuullisuus/",
+    "https://robertscoffee.com/yhteystiedot/"
+  ],
+  "hinnat_esilla": "kylla",
+  "allergeenit_esilla": "ei",
+  "kahvin_alkupera": "kylla",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "kanta_asiakasohjelma_kerrottu": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 75,
+    "hintojen_loydettavyys": 85,
+    "sisallon_kattavuus": 65
+  },
+  "vahvuudet": [
+    "HAVAINTO: Konkreettiset hinnat etusivulla: 'Kahvi S & Täytetty Pretzel Croissant 5,90 €' — kuluttaja näkee hinnat heti",
+    "Vastuullisuussivulla EUDR-sitoumus kirjattuna ja ladattava vastuullisuusraportti saatavilla",
+    "Puhelinnumero (+358 029 170 7761) ja sähköposti (robertscoffee@robertscoffee.com) selkeästi yhteystiedoissa; Oiva-raportit footerissa"
+  ],
+  "kehityskohteet": [
+    "Tuotekohtaiset allergeeni- ja ravintosisältötiedot puuttuvat kokonaan sivustolta",
+    "Y-tunnus ei löydy sivustolta — tietosuojasivu on 404",
+    "Tuotevalikoiman kattavuus on rajallinen: vain kampanjahinnat etusivulla, ei koko menulistaa"
+  ],
+  "yhteenveto": "Robert's Coffee tarjoaa selkeimmän hinnoittelun arvioiduista ketjuista ja kertoo vastuullisuudesta avoimesti EUDR-sitoumuksella. Allergeenien ja Y-tunnuksen puuttuminen ovat merkittävimmät puutteet erityisruokavaliota noudattaville ja tietosuojan kannalta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivu (raw-haku): 'Kahvi S & Täytetty Pretzel Croissant 5,90 €. Mehu +2 €. Jogurtti/Chiavanukas +2 €. 3,90 €.' — konkreettiset menuhinnastot näkyvissä etusivulla.",
+    "kahvin_alkupera": "Vastuullisuus-sivu: 'Vihreiden raakapapujen hankinnassa huomioimme ympäristövastuun ja luonnon monimuotoisuuden suojelun. EU:n metsäkatoasetuksen (EUDR) vaatimusten noudattaminen on olennainen osa sitoutumistamme vastuulliseen raaka-ainehankintaan.'",
+    "ravintolat_ja_aukioloajat": "HAVAINTO: 'Löydä lähin Robert's Coffee' -painike navigaatiossa ja footerissa; kahvilakartta saatavilla.",
+    "riippumaton_arvio": "Footer/etusivu: 'Kahviloiden Oiva-raportit' -linkki näkyvissä etusivun lopussa.",
+    "kanta_asiakasohjelma_kerrottu": "HAVAINTO: 'Robert's Coffee Club -sovellus' etusivulla: '20 kerrytettyä kahvipapua tarkoittaa yhtä ilmaista menujuomaa. Sovelluksesta löydät myös vaihtuvia tarjouksia.'",
+    "puhelin_esilla": "Yhteystiedot-sivu: 'Puh. (+358) 029 170 7761'",
+    "email_esilla": "Yhteystiedot-sivu: 'robertscoffee@robertscoffee.com'",
+    "mobiilisovellus": "HAVAINTO: 'Lataa Robert's Coffee Club -sovellus' yhteystiedot-sivulla ja etusivulla."
+  }
+}

@@ -703,3 +703,14 @@ TRANSPARENCY["lentoyhtiot"] = [
     ("omistaja_tai_rekisterointimaa", "Omistava yhtiö tai rekisteröintimaa kerrottu", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 5),
 ]
+
+# --- era 13 (4.8.2026): kahvilaketjut -----------------------------------------
+TRANSPARENCY["kahvilaketjut"] = [
+    ("hinnat_esilla", "Tuotteiden hinnat verkossa esillä", 25),
+    ("allergeenit_esilla", "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti", 20),
+    ("kahvin_alkupera", "Kahvin alkuperä tai reilu kauppa -sitoumus kerrottu", 15),
+    ("ravintolat_ja_aukioloajat", "Toimipisteet ja aukioloajat helposti löydettävissä", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+    ("kanta_asiakasohjelma_kerrottu", "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla", 5),
+]

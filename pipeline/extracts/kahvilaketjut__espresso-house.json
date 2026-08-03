@@ -1,0 +1,49 @@
+{
+  "slug": "espresso-house",
+  "nimi": "Espresso House",
+  "domain": "espressohouse.com",
+  "fetched_ok": [
+    "https://fi.espressohouse.com/",
+    "https://fi.espressohouse.com/menu/",
+    "https://fi.espressohouse.com/vastuullisuus/",
+    "https://fi.espressohouse.com/ravitsemus-ja-allergeenit/",
+    "https://fi.espressohouse.com/ota-yhteytta"
+  ],
+  "hinnat_esilla": "ei",
+  "allergeenit_esilla": "kylla",
+  "kahvin_alkupera": "kylla",
+  "ravintolat_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "kanta_asiakasohjelma_kerrottu": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {
+    "selkeys": 65,
+    "hintojen_loydettavyys": 30,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Allergeenisivu EU-asetuksen mukaisella rakenteella — allergeenit merkitty ISOILLA KIRJAIMILLA tuotekohtaisesti",
+    "Kahvin alkuperä ja vastuullisuus selvitetty kattavasti: 100 % Enveritas ISO 17065 -varmennettu, erikoislaatuinen Specialty Coffee Etelä-Amerikasta",
+    "Fika Club -kanta-asiakasohjelma kuvattu selkeästi eduilla ja liittymisohjeella etusivulla"
+  ],
+  "kehityskohteet": [
+    "Tuotehinnat eivät näy ilman cookie-suostumusta — kuluttaja ei tiedä hintoja ennen tiskille menemistä",
+    "Y-tunnus ei löydy sivustolta; Oiva-raportit-linkki footerissa on rikki (404)",
+    "Asiakaspalvelun puhelinnumero ja sähköpostiosoite puuttuvat — yhteydenotto vain lomakkeella"
+  ],
+  "yhteenveto": "Espresso House erottuu vastuullisuudellaan ja allergeenimerkinnöillään: kahvi on sertifioitu ja allergeenitieto järjestetty EU-asetuksen mukaisesti. Hinnat jäävät piiloon evästemuurin vuoksi, eikä Y-tunnusta löydy sivustolta — kokonaistransparenssi on kohtuullinen.",
+  "evidence": {
+    "allergeenit_esilla": "HAVAINTO: Erillinen allergeenisivu (fi.espressohouse.com/ravitsemus-ja-allergeenit/) kertoo EU-elintarviketietoasetuksen mukaisesta allergeenimerkinnästä; allergeenit merkitään ISOILLA KIRJAIMILLA tuotekohtaisesti.",
+    "kahvin_alkupera": "Vastuullisuus-sivu: 'Kaikki kahvimme on 100-prosenttisesti vastuullisesti hankittua Enveritaksen riippumattoman varmennuksen kautta.' Enveritas akkreditoitu ISO 17065 -standardin mukaisesti.",
+    "ravintolat_ja_aukioloajat": "HAVAINTO: 'LÖYDÄ LÄHIN KAHVILASI' -painike etusivulla johtaa kahvilakarttaan; 'Löydä meidät' -valikko navigaatiossa.",
+    "kanta_asiakasohjelma_kerrottu": "HAVAINTO: 'Fika Club' -sovellus kuvattu etusivulla: 'Lataa Fika Club nyt saadaksesi mahtavia tarjouksia.'",
+    "ukk_osio": "Ota yhteyttä -sivu: 'Tutustu usein kysyttyihin kysymyksiin löytääksesi tarvitsemasi tiedot.' — FAQ-osio mainittu ja linkitetty.",
+    "mobiilisovellus": "HAVAINTO: Fika Club -mobiilisovellus esitelty etusivulla; navigaatiossa 'Fika Club' -linkki."
+  }
+}
