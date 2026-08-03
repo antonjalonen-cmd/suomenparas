@@ -1688,6 +1688,30 @@ META["kauneustuotteet-verkkokaupat"] = {
     ],
 }
 
+META["musiikkipalvelut"] = {
+    "slug": "musiikkipalvelut",
+    "nimi": "Musiikkipalvelut",
+    "nav": "Musiikki",
+    "h1": "Suomen paras musiikkipalvelu 2026",
+    "yksikko": "Suomessa myytavaa musiikkipalvelua",
+    "lead": ("Pisteytimme {n} Suomessa myytavaa musiikkipalvelua {m} mittarilla. "
+             "Tairkein kysymys: kerrotaanko kuukausihinta, tilaustasojen erot ja "
+             "irtisanominen selkeasti ennen tilaamista?"),
+    "meta_title": "Suomen paras musiikkipalvelu 2026 | palvelut pisteytettyina | Suomen Paras",
+    "meta_desc": "{n} musiikkipalvelua pisteytetty lapinakyvalla kaavalla. Katso mista jokainen piste tulee.",
+    "notes": [
+        ("<b>Kaikki kuusi palvelua ovat kansainvalisia yhtiota.</b> Spotify on ruotsalainen, "
+         "Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien palveluita. "
+         "Yksikaan ei ole suomalainen. Naytamme omistajan jokaisen kohdalla."),
+        ("<b>Qobuz on listan ainoa hi-res-erikoispalvelu.</b> Se on ainoa joka markkinoi "
+         "lossless- ja hi-res-aania ensisijaisena ominaisuutenaan. Muut palvelut tarjoavat "
+         "korkealaatuista aanta lisatason ominaisuutena tai ei lainkaan."),
+        ("<b>Emme arvioi musiikin maaraa tai soittolistoja.</b> Vertailu mittaa julkisten "
+         "verkkosivujen mitattavia ominaisuuksia: hinnat, tilaustasojen erot, irtisanominen "
+         "ja omistajan lapinakyyvys ennen tilaamista."),
+    ],
+}
+
 META["pikaruokaketjut"] = {
     "slug": "pikaruokaketjut",
     "nimi": "Pikaruokaketjut",

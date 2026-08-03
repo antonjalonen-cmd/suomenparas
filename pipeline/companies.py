@@ -1555,6 +1555,29 @@ COMPANIES["pakettipalvelut"] = [
          omistaja="Schenker Oy — DSV A/S:n (Tanska) tytäryhtiö; Deutsche Bahn myi DB Schenkerin DSV:lle 30.4.2025; domain vaihtunut dbschenker.com -> dsv.com"),
 ]
 
+# MUSIIKKIPALVELUT (3.8.2026) — musiikin kuuntelun tilauspalvelut Suomessa.
+# Globaalit toimijat, vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen.
+# POISSULJETUT:
+#   Tidal (tidal.com): koko domain palauttaa 403 myos JS-renderoinnilla (kuten McAfee/IKH).
+#   Napster: on pivotoitunut AI-agenttiyhtioksi, ei enaa musiikkistriimausta.
+#   SoundCloud Go+: soundcloud.com/go palauttaa HTTP 000; suomi-sivu ei tavoitettavissa.
+#   Amazon Music: music.amazon.fi ei ole olemassa; music.amazon.com on sisaankirjautumisportti
+#     ilman julkista hinnoittelua — ei mitattavissa kuluttajalle suunnatun hintatiedon osalta.
+COMPANIES["musiikkipalvelut"] = [
+    dict(slug="spotify", nimi="Spotify", domain="spotify.com", y_tunnus=None,
+         omistaja="Spotify AB (Ruotsi) — porssiyhtion NYSE: SPOT; maailman suurin musiikkistriimaamo"),
+    dict(slug="apple-music", nimi="Apple Music", domain="music.apple.com", y_tunnus=None,
+         omistaja="Apple Inc. (Yhdysvallat) — tilaussivu apple.com/fi/apple-music/; music.apple.com on web-soitin"),
+    dict(slug="youtube-music", nimi="YouTube Music", domain="music.youtube.com", y_tunnus=None,
+         omistaja="Alphabet Inc. / Google LLC (Yhdysvallat) — sisaltyy YouTube Premium -tilaukseen"),
+    dict(slug="deezer", nimi="Deezer", domain="deezer.com", y_tunnus=None,
+         omistaja="Deezer SA (Ranska) — porssiyhtion Euronext: DEEZR; suomenkielinen palvelu deezer.com/fi"),
+    dict(slug="qobuz", nimi="Qobuz", domain="qobuz.com", y_tunnus=None,
+         omistaja="Xandrie SA (Ranska) — yksityisomisteinen; erikoistunut hi-res/lossless-aanentoistoon; palvelu Suomessa qobuz.com/fi-en"),
+    dict(slug="amazon-music", nimi="Amazon Music", domain="music.amazon.com", y_tunnus=None,
+         omistaja="Amazon.com, Inc. (Yhdysvallat); Amazon Music Unlimited saatavilla Suomessa amazon.de-kautta; music.amazon.com on web-soitin"),
+]
+
 # --- kauneustuotteet-verkkokaupat (3.8.2026, autopilot-tikki; PRH v3 + domain-tarkistus) ---
 # Notino.fi KARSITTU: Cloudflare 403 myos selain-UA:lla — ei mitattavissa.
 # Lookfantastic.fi KARSITTU: ohjautuu eu.lookfantastic.com (englanti, ei suomalaista sisaltoa).
