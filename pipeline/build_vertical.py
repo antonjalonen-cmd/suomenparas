@@ -107,6 +107,8 @@ MEASURED = {
     "aanikirjapalvelut": "3.8.2026",
     # erä 14
     "kylpylat": "3.8.2026",
+    # erä 15
+    "lentoyhtiöt": "3.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

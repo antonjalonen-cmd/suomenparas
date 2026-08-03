@@ -1,0 +1,38 @@
+{
+  "slug": "norwegian",
+  "fetched_ok": [
+    "https://www.norwegian.com/fi/"
+  ],
+  "lisamaksut_nakyy_varauksessa": "kylla",
+  "kokonaishinta_ennen_maksua": "kylla",
+  "peruutus_ja_muutosehdot": "kylla",
+  "lojaaliohjelma_kerrottu": "kylla",
+  "omistaja_tai_rekisterointimaa": "kylla",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 80},
+  "vahvuudet": [
+    "Omistaja ilmoitettu selkeästi: '© 2026 Norwegian Air Shuttle ASA. Huomaa, että tämä on norjalainen verkkomyymälä' — rekisteröintimaa ja yhtiönimi etusivun footerissa",
+    "Riippumaton Cirium-täsmällisyysraportti (toukokuu 2026) mainittu sivustolla kolmantena osapuolena, mikä on harvinaista lentoyhtiöiden keskuudessa",
+    "Norwegian Reward -ohjelma (Spenn/CashPoints) kattavasti dokumentoitu — 'Tietoa Rewardista', 'Tietoa eduista' ja UKK selkeästi navigaatiossa"
+  ],
+  "kehityskohteet": [
+    "Valinnaiset palvelumaksut -sivu oli navigaatiossa mutta footerissa — hinnat vaativat erillistä hakua, eivät näy etusivulla",
+    "Puhelinnumero ei näy etusivulla; 'Ohjeet ja yhteystiedot' -sivu vaatii navigointia",
+    "Chat-asiakastukea ei mainittu pääsivulla, vaikka se on lentoalalla yleinen"
+  ],
+  "yhteenveto": "Norwegian.com/fi on sisällöllisesti yksi läpinäkyvimmistä tutkituista lentoyhtiöistä: omistaja, rekisteröintimaa, kanta-asiakasohjelma ja peruutusehdot ovat kaikki helposti löydettävissä suomenkieliseltä etusivulta. Riippumaton Cirium-täsmällisyysdata vahvistaa yhtiön omia väitteitä täsmällisyydestä.",
+  "evidence": {
+    "lisamaksut_nakyy_varauksessa": "HAVAINTO: Footer-navigaatiossa on erillinen 'Valinnaiset palvelumaksut' -osio sekä 'Matkatavarakiintiö ja -maksut' -sivu. Lisämaksut tunnistettu julkiseksi tiedoksi ennen varauksen aloittamista.",
+    "kokonaishinta_ennen_maksua": "HAVAINTO: Footer: 'tämä on norjalainen verkkomyymälä. Maksuihin ja/tai veloituksiin sovelletaan Norjan lainsäädäntöä ja määräyksiä.' Etusivulla näkyvät tarjoushinnat ('Alk. / suunta 94,48 €') — lähtöhinnat julkisia.",
+    "peruutus_ja_muutosehdot": "HAVAINTO: Footer sisältää 'Yleiset kuljetusehdot' -linkin. Navigaatiossa 'Muutosten tekeminen varaukseen'. Etusivulla teksti: 'Flex-liput hyvitetään kokonaan peruutuksen yhteydessä. Lisätietoja on lipputyyppien ehdoissa.'",
+    "lojaaliohjelma_kerrottu": "HAVAINTO: Norwegian Reward -kanta-asiakasohjelma: Spenn-pisteet ja CashPointsit. Navigaatiossa: 'Tietoa Norwegian Rewardista', 'Tietoa eduista', 'Usein kysytyt kysymykset'. Ohjelma löytyy etusivun päänavigaatiosta.",
+    "omistaja_tai_rekisterointimaa": "HAVAINTO: Footer: '© 2026 Norwegian Air Shuttle ASA. Huomaa, että tämä on norjalainen verkkomyymälä. Maksuihin ja/tai veloituksiin sovelletaan Norjan lainsäädäntöä ja määräyksiä.' — norjalainen yhtiö nimi ja kotimaa selkeästi.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla viite: '*Cirium, The On-time Performance Monthly Report, Airlines, toukokuu 2026.' Cirium on riippumaton ilmailudata-analytiikkayhtiö, ja raportti on kolmannen osapuolen arviointilähde."
+  }
+}

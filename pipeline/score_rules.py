@@ -658,3 +658,27 @@ TRANSPARENCY["kylpylat"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- era 15 (3.8.2026): lentoyhtiöt ----------------------------------------------
+# Kaikki paitsi Finnair ovat globaaleja yhtiöitä — vpn-palvelut-konventio:
+# omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta
+# (sis. lisämaksut) ennen kuin olet jo syöttänyt matkustajatietosi?
+# Weights: 30+20+20+15+10+5 = 100
+TRANSPARENCY["lentoyhtiöt"] = [
+    # Halpalentoyhtiöillä matkatavara-, paikkavalinta- ja prioriteettipalvelumaksut
+    # voivat moninkertaistaa perushinnan. Tärkein mittari on näytetäänkö ne ENNEN kassaa.
+    ("lisamaksut_nakyy_varauksessa", "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana", 30),
+    # Lopullinen kokonaishinta veroineen on oltava näkyvissä ennen maksua EU-lainsäädännön
+    # (EU 1008/2008) nojalla — mittaamme onko se selvästi näkyvissä ENNEN checkout-nappia.
+    ("kokonaishinta_ennen_maksua", "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua", 20),
+    # Muutokset ja peruutukset ovat keskeinen kuluttajariski lennoissa — pitäisi olla
+    # helposti löydettävissä ilman asiakaspalveluyhteydenottoa.
+    ("peruutus_ja_muutosehdot", "Peruutus- ja muutosehdot julkisesti saatavilla", 20),
+    # Kanta-asiakasohjelmat ohjaavat paljon matkustuspäätöksiä — näkyykö etujen sisältö
+    # ja tasovaatimukset selkeästi ennen liittymistä?
+    ("lojaaliohjelma_kerrottu", "Lojaaliohjelma, etujen sisältö ja tasot kerrottu", 15),
+    # Kaikki paitsi Finnair ovat ulkomaisia yhtiöitä — kertoo kuluttajalle kenen sääntelyn
+    # piirissä yhtiö toimii ja mistä pitää reklamoida.
+    ("omistaja_tai_rekisterointimaa", "Omistava yhtiö tai rekisteröintimaa kerrottu", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 5),
+]

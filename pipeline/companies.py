@@ -1686,3 +1686,37 @@ COMPANIES["kylpylat"] = [
          y_tunnus="0176471-5",
          omistaja="Peurunka Oy — Laukaassa Peurunkajärven rannalla, noin 30 km Jyväskylästä; Suomalaiset Kylpylät ry:n jäsen"),
 ]
+
+# ---------------------------------------------------------------------------
+# LENTOYHTIÖT — 6 Suomesta säännöllisesti lentävää yhtiötä, tarkistettu 3.8.2026.
+# Kaikki globaaleja toimijoita, vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen.
+# Finnair on ainoa suomalainen, Y-tunnus 0108023-3 (Finnair Oyj, PRH-tarkistettu 3.8.2026).
+# POISSULJETUT:
+#   easyJet (easyjet.com/fi/): 404 — ei suomalaista sivustoa; lentää SUOMEEN ei SUOMESTA
+#     säännöllisesti; Helsinki on saapumiskohde, ei lähtöasema easyJetin reittiverkostossa.
+#   Lufthansa (lufthansa.com/fi): Cloudflare-esto; B2B-painotus eikä suomenkielistä sivustoa.
+#   KLM (klm.com): Cloudflare 403 myös --js:llä; ei suomenkielistä sivustoa.
+#   Turkish Airlines (turkishairlines.com/fi-fi/): HTTP 000 kaikilla hakumetodeilla — ei
+#     mitattavissa.
+#   British Airways: ei suomenkielistä sivua eikä suoria lentoja Suomesta.
+#   Wizz Air vaihtoehto: LENTÄÄ Turusta (Turku–Vilnius, Turku–Bukarest, Turku–Gdańsk)
+#     vaikka wizzair.com/fi-FI → 404; globaali .com toimii, riittää mittaukseen.
+# SAS HUOM: flysas.com/fi-fi --raw hakeminen ohjaa fi-en (englanninkielinen FI-versio);
+#   data-country="FI" vahvistaa Suomen markkinan; ei suomenkielistä käyttöliittymää.
+# airBaltic HUOM: airbaltic.com/en-fi/ — englanninkielinen mutta Suomen lentoasemapainotus;
+#   lentää 6 suomalaiselta lentoasemalta (Helsinki, Tampere, Turku, Oulu, Kittilä, Kuusamo).
+COMPANIES["lentoyhtiöt"] = [
+    dict(slug="finnair", nimi="Finnair", domain="finnair.com",
+         y_tunnus="0108023-3",
+         omistaja="Finnair Oyj — Suomen valtio omistaa noin 56 % osakkeista; Helsinki-Vantaalta yli 80 kohteeseen; pörssilistattu Nasdaq Helsinki: FIA1S"),
+    dict(slug="norwegian", nimi="Norwegian", domain="norwegian.com", y_tunnus=None,
+         omistaja="Norwegian Air Shuttle ASA (Norja) — pörssilistattu Oslo Børs: NAS; lentää usealta suomalaiselta lentoasemalta; Suomi-sivu norwegian.com/fi/"),
+    dict(slug="ryanair", nimi="Ryanair", domain="ryanair.com", y_tunnus=None,
+         omistaja="Ryanair DAC (Irlanti) — pörssilistattu Nasdaq Dublin / London Stock Exchange: RYA; Euroopan matkustajamääriltään suurin lentoyhtiö; lentää mm. Helsingistä ja Rovaniemeltä; Suomi-sivu ryanair.com/fi/fi"),
+    dict(slug="flysas", nimi="SAS", domain="flysas.com", y_tunnus=None,
+         omistaja="SAS AB (Ruotsi/Tanska/Norja) — uudelleenjärjestelty 2024; Castlelake L.P. ja Air France-KLM suurimpia omistajia; Suomen sivu flysas.com/fi-fi (englanninkielinen FI-versio)"),
+    dict(slug="airbaltic", nimi="airBaltic", domain="airbaltic.com", y_tunnus=None,
+         omistaja="airBaltic Corporation AS (Latvia) — pörssilistattu Nasdaq Riga: BTC1R; Latvian valtio suurin omistaja; lentää 6 suomalaiselta lentoasemalta (Helsinki, Tampere, Turku, Oulu, Kittilä, Kuusamo); Suomi-sivu airbaltic.com/en-fi/"),
+    dict(slug="wizzair", nimi="Wizz Air", domain="wizzair.com", y_tunnus=None,
+         omistaja="Wizz Air Holdings Plc (Unkari) — pörssilistattu London Stock Exchange: WIZZ; lentää Turun lentoasemalta (Vilna, Bukarest, Gdańsk); globaali sivu wizzair.com"),
+]

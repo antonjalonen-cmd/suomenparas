@@ -1,0 +1,39 @@
+{
+  "slug": "ryanair",
+  "fetched_ok": [
+    "https://www.ryanair.com/fi/fi",
+    "https://corporate.ryanair.com"
+  ],
+  "lisamaksut_nakyy_varauksessa": "ei",
+  "kokonaishinta_ennen_maksua": "osittain",
+  "peruutus_ja_muutosehdot": "ei",
+  "lojaaliohjelma_kerrottu": "ei",
+  "omistaja_tai_rekisterointimaa": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 25, "hintojen_loydettavyys": 20, "sisallon_kattavuus": 15},
+  "vahvuudet": [
+    "ryanair.com/fi/fi palautti HTTP 200 — sivusto on olemassa ja osoitteistettu Suomeen",
+    "corporate.ryanair.com vahvistaa: 'Ryanair Holdings plc, Europe's largest airline group' — yritysrakenne dokumentoitu yrityskannalla",
+    "EU 1008/2008 -laki velvoittaa kokonaishinnan näyttämiseen ennen maksua — oikeudellinen velvoite on olemassa"
+  ],
+  "kehityskohteet": [
+    "Kuluttajasivusto ryanair.com/fi/fi on täysin JavaScript-riippuvainen SPA — sisältöä ei voi ladata automaattisesti, selkeystaso erittäin matala",
+    "Matkatavaramaksu- ja palvelumaksusivut palauttivat HTTP 404 — hintatietoja ei voida verifioida julkisilta sivuilta",
+    "Peruutusehtosivut 404, lojaaliohjelma puuttuu, chat ja puhelin eivät näy — läpinäkyvyys heikoin tutkituista lentoyhtiöistä"
+  ],
+  "yhteenveto": "Ryanair.com/fi/fi on JavaScript-pohjainen SPA, joka ei ladannut mitään sisältöä automaattisella haulla — selain-renderöinti tuotti tyhjän sivun ja raw-haku pelkän latausindikaattorin. Yritystieto löytyy erilliseltä corporate.ryanair.com-sivulta, mutta kuluttajasivuston läpinäkyvyyttä ei voitu verifioida haun perusteella. EU-lainsäädäntö velvoittaa kokonaishinnan näyttämiseen, mutta sen toteuttamista ei pystytty vahvistamaan.",
+  "evidence": {
+    "lisamaksut_nakyy_varauksessa": "HAVAINTO: ryanair.com/fi/fi palautti React SPA-komentotiedoston latausindikaattorin (4 743 merkkiä, ei sisältöä). Matkatavaroita koskevat alasivut palauttivat HTTP 404. Lisämaksuja ei pystytty verifioimaan.",
+    "kokonaishinta_ennen_maksua": "HAVAINTO: EU 1008/2008 velvoittaa kokonaishinnan näyttämiseen — oikeudellinen velvoite on olemassa kaikille EU-lentoyhtiöille. Varauspolkua ei pystytty testaamaan SPA-esteen vuoksi.",
+    "peruutus_ja_muutosehdot": "HAVAINTO: Peruutusehtosivut palauttivat HTTP 404. Kuljetusehtoja ei löydetty automaattisella haulla kuluttajasivustolta.",
+    "lojaaliohjelma_kerrottu": "HAVAINTO: Ryanairilla ei ole perinteistä pistepohjaista kanta-asiakasohjelmaa. Ryanair Choice on lisäpalvelupaketti, ei kanta-asiakasohjelma. Sivuston sisältöä ei pystytty ladata.",
+    "omistaja_tai_rekisterointimaa": "HAVAINTO: corporate.ryanair.com kertoo: 'Ryanair Holdings plc, Europe's largest airline group, parent company of Buzz, Lauda, Malta Air, Ryanair & Ryanair UK.' — irlantilainen holding-yhtiö. Tämä on yrityskansion sivu, ei kuluttajan pääsivu ryanair.com/fi/fi.",
+    "riippumaton_arvio": "HAVAINTO: Kuluttajasivuston sisältö ei latautunut. corporate.ryanair.com mainitsee 'Customer Satisfaction' -osion, mutta se on yrityskannalla, ei kuluttajasivustolla."
+  }
+}

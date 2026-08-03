@@ -104,6 +104,7 @@ CATEGORY_GROUPS = [
         ("Autohinaus", None, False), ("Moottoripyöräkorjaamot", None, False),
         ("Autotarvikeliikkeet", None, False), ("Taksipalvelut", "taksipalvelut", True),
         ("Pakettipalvelut", "pakettipalvelut", True),
+        ("Lentoyhtiöt", "lentoyhtiöt", True),
     ]),
     ("Terveys ja hyvinvointi", [
         ("Hammaslääkärit", "hammaslaakarit", True), ("Yksityislääkärit", "yksityislaakarit", True),

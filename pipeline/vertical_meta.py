@@ -1821,3 +1821,31 @@ META["aanikirjapalvelut"] = {
          "tilaamista?"),
     ],
 }
+
+META["lentoyhtiöt"] = {
+    "slug": "lentoyhtiöt",
+    "nimi": "Lentoyhtiöt",
+    "nav": "Lennot",
+    "h1": "Suomen paras lentoyhtiö 2026",
+    "yksikko": "Suomesta säännöllisesti lentävää lentoyhtiötä",
+    "lead": ("Pisteytimme {n} Suomesta säännöllisesti lentävää lentoyhtiötä {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näkyykö kokonaishinta — matkatavaramaksut mukaan lukien — ennen kuin syötät "
+             "matkustajatietosi?"),
+    "meta_title": "Suomen paras lentoyhtiö 2026 — Finnair, Norwegian, Ryanair pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} Suomesta lentävää lentoyhtiötä pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee: Finnair, Norwegian, Ryanair, SAS, airBaltic, Wizz Air."),
+    "notes": [
+        ("<b>Finnair on ainoa suomalainen lentoyhtiö.</b> Muut viisi — Norwegian, Ryanair, "
+         "SAS, airBaltic ja Wizz Air — ovat ulkomaisia yhtiöitä. Näytämme omistajan ja "
+         "rekisteröintimaan jokaisen kohdalla. EU-lainsäädäntö (asetus 1008/2008) velvoittaa "
+         "kaikkia EU-lentoyhtiöitä näyttämään lopullisen kokonaishinnan ennen ostoa."),
+        ("<b>Miksi listalla on kuusi yhtiötä?</b> Mukaan otettiin lentoyhtiöt, joilla on "
+         "säännöllinen reittiliikenne Suomesta ja joiden sivusto on mitattavissa. "
+         "Poissuljetut: easyJet lentää pääasiassa Suomeen eikä Suomesta; Turkish Airlines, "
+         "Lufthansa ja KLM ovat joko Cloudflare-estetty tai ilman suomenkielistä sivustoa."),
+        ("<b>Emme arvioi lentojen hintaa, täsmällisyyttä tai palvelutasoa.</b> Mittaamme "
+         "julkisten verkkosivujen läpinäkyvyyttä: näkyvätkö lisämaksut varauksen aikana, "
+         "onko kokonaishinta selvä ennen maksua, löytyvätkö peruutusehdot helposti?"),
+    ],
+}

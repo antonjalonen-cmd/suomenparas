@@ -1,0 +1,1390 @@
+{
+ "slug": "lentoyhtiöt",
+ "nimi": "Lentoyhtiöt",
+ "nav": "Lennot",
+ "h1": "Suomen paras lentoyhtiö 2026",
+ "yksikko": "Suomesta säännöllisesti lentävää lentoyhtiötä",
+ "lead": "Pisteytimme {n} Suomesta säännöllisesti lentävää lentoyhtiötä {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näkyykö kokonaishinta — matkatavaramaksut mukaan lukien — ennen kuin syötät matkustajatietosi?",
+ "meta_title": "Suomen paras lentoyhtiö 2026 — Finnair, Norwegian, Ryanair pisteytettynä | Suomen Paras",
+ "meta_desc": "6 Suomesta lentävää lentoyhtiötä pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee: Finnair, Norwegian, Ryanair, SAS, airBaltic, Wizz Air.",
+ "notes": [
+  "<b>Finnair on ainoa suomalainen lentoyhtiö.</b> Muut viisi — Norwegian, Ryanair, SAS, airBaltic ja Wizz Air — ovat ulkomaisia yhtiöitä. Näytämme omistajan ja rekisteröintimaan jokaisen kohdalla. EU-lainsäädäntö (asetus 1008/2008) velvoittaa kaikkia EU-lentoyhtiöitä näyttämään lopullisen kokonaishinnan ennen ostoa.",
+  "<b>Miksi listalla on kuusi yhtiötä?</b> Mukaan otettiin lentoyhtiöt, joilla on säännöllinen reittiliikenne Suomesta ja joiden sivusto on mitattavissa. Poissuljetut: easyJet lentää pääasiassa Suomeen eikä Suomesta; Turkish Airlines, Lufthansa ja KLM ovat joko Cloudflare-estetty tai ilman suomenkielistä sivustoa.",
+  "<b>Emme arvioi lentojen hintaa, täsmällisyyttä tai palvelutasoa.</b> Mittaamme julkisten verkkosivujen läpinäkyvyyttä: näkyvätkö lisämaksut varauksen aikana, onko kokonaishinta selvä ennen maksua, löytyvätkö peruutusehdot helposti?"
+ ],
+ "yritykset": [
+  {
+   "slug": "norwegian",
+   "nimi": "Norwegian",
+   "domain": "norwegian.com",
+   "omistaja": "Norwegian Air Shuttle ASA (Norja) — pörssilistattu Oslo Børs: NAS; lentää usealta suomalaiselta lentoasemalta; Suomi-sivu norwegian.com/fi/",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 73.5,
+   "pillars": {
+    "digitaalinen": 65.5,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 76.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "33/100",
+       "paino": 40,
+       "pisteet": 33,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-navigaatiossa on erillinen 'Valinnaiset palvelumaksut' -osio sekä 'Matkatavarakiintiö ja -maksut' -sivu. Lisämaksut tunnistettu julkiseksi tiedoksi ennen varauksen aloittamista."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer: 'tämä on norjalainen verkkomyymälä. Maksuihin ja/tai veloituksiin sovelletaan Norjan lainsäädäntöä ja määräyksiä.' Etusivulla näkyvät tarjoushinnat ('Alk. / suunta 94,48 €') — lähtöhinnat julkisia."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer sisältää 'Yleiset kuljetusehdot' -linkin. Navigaatiossa 'Muutosten tekeminen varaukseen'. Etusivulla teksti: 'Flex-liput hyvitetään kokonaan peruutuksen yhteydessä. Lisätietoja on lipputyyppien ehdoissa.'"
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Norwegian Reward -kanta-asiakasohjelma: Spenn-pisteet ja CashPointsit. Navigaatiossa: 'Tietoa Norwegian Rewardista', 'Tietoa eduista', 'Usein kysytyt kysymykset'. Ohjelma löytyy etusivun päänavigaatiosta."
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer: '© 2026 Norwegian Air Shuttle ASA. Huomaa, että tämä on norjalainen verkkomyymälä. Maksuihin ja/tai veloituksiin sovelletaan Norjan lainsäädäntöä ja määräyksiä.' — norjalainen yhtiö nimi ja kotimaa selkeästi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla viite: '*Cirium, The On-time Performance Monthly Report, Airlines, toukokuu 2026.' Cirium on riippumaton ilmailudata-analytiikkayhtiö, ja raportti on kolmannen osapuolen arviointilähde."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "75/100",
+       "paino": 34,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 33,
+    "accessibility": 88,
+    "seo": 92,
+    "best_practices": 81,
+    "lcp_ms": 9303.14591,
+    "cls": 0.10231780440639145,
+    "tbt_ms": 1540.8711199999989
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Omistaja ilmoitettu selkeästi: '© 2026 Norwegian Air Shuttle ASA. Huomaa, että tämä on norjalainen verkkomyymälä' — rekisteröintimaa ja yhtiönimi etusivun footerissa",
+    "Riippumaton Cirium-täsmällisyysraportti (toukokuu 2026) mainittu sivustolla kolmantena osapuolena, mikä on harvinaista lentoyhtiöiden keskuudessa",
+    "Norwegian Reward -ohjelma (Spenn/CashPoints) kattavasti dokumentoitu — 'Tietoa Rewardista', 'Tietoa eduista' ja UKK selkeästi navigaatiossa"
+   ],
+   "kehityskohteet": [
+    "Valinnaiset palvelumaksut -sivu oli navigaatiossa mutta footerissa — hinnat vaativat erillistä hakua, eivät näy etusivulla",
+    "Puhelinnumero ei näy etusivulla; 'Ohjeet ja yhteystiedot' -sivu vaatii navigointia",
+    "Chat-asiakastukea ei mainittu pääsivulla, vaikka se on lentoalalla yleinen"
+   ],
+   "yhteenveto": "Norwegian.com/fi on sisällöllisesti yksi läpinäkyvimmistä tutkituista lentoyhtiöistä: omistaja, rekisteröintimaa, kanta-asiakasohjelma ja peruutusehdot ovat kaikki helposti löydettävissä suomenkieliseltä etusivulta. Riippumaton Cirium-täsmällisyysdata vahvistaa yhtiön omia väitteitä täsmällisyydestä.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Footer sisältää 'Yleiset kuljetusehdot' -linkin. Navigaatiossa 'Muutosten tekeminen varaukseen'. Etusivulla teksti: 'Flex-liput hyvitetään kokonaan peruutuksen yhteydessä. Lisätietoja on lipputyyppien ehdoissa.'"
+    }
+   ]
+  },
+  {
+   "slug": "finnair",
+   "nimi": "Finnair",
+   "domain": "finnair.com",
+   "omistaja": "Finnair Oyj — Suomen valtio omistaa noin 56 % osakkeista; Helsinki-Vantaalta yli 80 kohteeseen; pörssilistattu Nasdaq Helsinki: FIA1S",
+   "y_tunnus": "0108023-3",
+   "rekisteroity": null,
+   "score": 70.6,
+   "pillars": {
+    "digitaalinen": 77.4,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 66.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "51/100",
+       "paino": 40,
+       "pisteet": 51,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa löytyy erillinen 'Lisämatkatavaramaksut'-sivu ja 'Istuinpaikat Euroopan-lennoilla'-sivu, mutta automaattinen haku palautti tyhjän sivun (267 merkkiä). Hintataulukko ei näy julkisella infosivulla ilman varauspolkuun menemistä."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer toteaa 'Finnair.com on suomalainen verkkokauppa. Ostamiseen sovelletaan Suomen maksupalvelulakia.' — kokonaishinnan näyttäminen ennen maksua on lakisääteinen vaatimus."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer sisältää linkit 'Kuljetusehdot ja ilmoitukset' ja 'Käyttöehdot'. Navigaatiossa näkyy 'Finnair Peruutusturva', 'Joustavat lippuvaihtoehdot' ja 'Näin vaihdat lentosi Finnairilla'."
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Finnair Plus -sivu listaa seitsemän tasoa: Basic, Silver, Gold, Platinum, Platinum Lumo, Lifetime, Junior. Avios-pisteet, oneworld-allianssi ja ohjelmasäännöt linkitetty. Selkeimmät ohjelmiedut löydettävissä ilman kirjautumista."
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer: '© Finnair 2026. Finnair.com on suomalainen verkkokauppa.' Tunnistaa selkeästi suomalaiseksi, ja 'Finnair Konserni' -linkki footer-navigaatiossa. Y-tunnus ei näy suoraan kuluttajasivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei näy Trustpilot-arviota, tähtiarvosanaa tai muuta riippumatonta arviolähdettä ladetuilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 51,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3611.939199999999,
+    "cls": 0.0001836986957350049,
+    "tbt_ms": 1140.999999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava Finnair Plus -kanta-asiakasohjelma seitsemällä tasolla (Basic–Platinum Lumo) ja säännöt selkeästi löydettävissä",
+    "Suomenkielinen sivusto — ainoa listattu lentoyhtiö omalla kotimaisella kielellä — navigaatio looginen ja sisältö kattava",
+    "Chat-asiakastuki suoraan sivustolla, ja 'Lähtöselvitys Finnairin lennoille'-osio ohjaa lentokentällä toimisessa"
+   ],
+   "kehityskohteet": [
+    "Lisämatkatavaramaksut-sivu ei ladannut hintoja automaattisella haulla — kuluttajan pitää klikata itsensä syvälle navigaatioon",
+    "Y-tunnus tai rekisteröintitiedot eivät näy helposti etusivulla tai footerissa; 'Finnair Konserni' -linkki vie investor-sivulle",
+    "Peruutusehdot-URL palautti virhesivun, vaikka 'Kuljetusehdot ja ilmoitukset' -linkki footerissa löytyy"
+   ],
+   "yhteenveto": "Finnair tarjoaa Suomen ainoan kotimaisen lentoyhtiön sivuston suomeksi — navigaatio on selkeä ja kanta-asiakasohjelma hyvin dokumentoitu. Lisämaksujen hintatiedot ja peruutusehdot löytyvät navigaatiosta mutta vaativat useamman klikkauksen, eikä kokonaishinta näy julkisilla infosivuilla ennen varauspolkuun astumista.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Footer sisältää linkit 'Kuljetusehdot ja ilmoitukset' ja 'Käyttöehdot'. Navigaatiossa näkyy 'Finnair Peruutusturva', 'Joustavat lippuvaihtoehdot' ja 'Näin vaihdat lentosi Finnairilla'."
+    }
+   ],
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "oneworld-allianssi (täysjäsen)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://www.finnair.com/fi/fi/finnair-plus"
+    },
+    {
+     "mittari": "IOSA-turvallisuussertifikaatti (IATA Operational Safety Audit)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://www.iata.org/en/programs/ops-infra/iosa/registry/"
+    }
+   ]
+  },
+  {
+   "slug": "airbaltic",
+   "nimi": "airBaltic",
+   "domain": "airbaltic.com",
+   "omistaja": "airBaltic Corporation AS (Latvia) — pörssilistattu Nasdaq Riga: BTC1R; Latvian valtio suurin omistaja; lentää 6 suomalaiselta lentoasemalta (Helsinki, Tampere, Turku, Oulu, Kittilä, Kuusamo); Suomi-sivu airbaltic.com/en-fi/",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 62.6,
+   "pillars": {
+    "digitaalinen": 88.1,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 58.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "74/100",
+       "paino": 40,
+       "pisteet": 74,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: airbaltic.com/en-fi/ etusivu ei listaa lisämaksuja tai matkatavaramaksuja hintaluettelona. 'C airBaltic – payment card' kertoo eduista, mutta kirjallista hinnastoa lisämaksuille ei löydetty ladatuista sivuista."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehtosivulla viitataan EU-lentosäädöksiin ('EU Regulation No 261/2004'). Varausvuota ei voitu testata automaattisesti."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdot-sivulla (airbaltic.com/en/terms-of-use) listattu: 'General conditions of carriage', 'Terms of use', 'EU Regulation No 261/2004', 'Alternative dispute resolution'. Kaikki julkisesti saatavilla."
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu: 'C airBaltic – payment card that earns flights! Turn everyday spending into future flights with the C airBaltic payment card from Citadele Bank. Collect airBaltic Club points on everyday purchases, earn even more points when booking airBaltic flights, and enjoy free heavy cabin baggage, free seat selection, travel insurance, and more.' — ohjelma selkeästi kuvattu."
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdoissa (airbaltic.com/en/terms-of-use): 'these are the terms and conditions of use for all the websites operated by akciju sabiedrība Air Baltic Corporation' — latvialaisen osakeyhtiön nimi ja oikeudellinen muoto."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy kolme riippumatonta palkintoa: 'APEX 2026 Best Wi-Fi in Europe Award', 'APEX 2026 Five Star Major Airline Award', 'Flyers Choice awards 2025'. APEX on kansainvälinen lentopassangeeriyhdistys."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 74,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3527.8030000000117,
+    "cls": 0.001593872179567925,
+    "tbt_ms": 0
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Omistaja selkeästi ilmoitettu käyttöehtosivulla: 'akciju sabiedrība Air Baltic Corporation' — latvialainen osakeyhtiö nimi ja oikeudellinen muoto",
+    "Useita riippumattomia palkintoja näkyvissä: APEX 2026 Best Wi-Fi in Europe, APEX 2026 Five Star Major Airline, Flyers Choice awards 2025",
+    "airBaltic Club -kanta-asiakasohjelma selkeästi kuvattu etusivulla Citadele Bank -yhteistyöllä"
+   ],
+   "kehityskohteet": [
+    "Lisämaksujen hinnat eivät näy etusivulla — varausvuo vaatii JavaScript-renderöintiä, joka ei onnistunut automaattisella haulla",
+    "FAQ:ta ei löydetty ladatuista sivuista; asiakaspalveluun pääsy vaatii navigaatiota 'Contact us' -linkin kautta",
+    "Sivusto on englanninkielinen myös Suomen markkina-alueella — suomeksi haettava vaihtoehto puuttuu"
+   ],
+   "yhteenveto": "airBaltic.com/en-fi on englanniksi Suomen markkinalle — sivuston vaihtoehdot kattavat 8 kieltä mukaan lukien suomi, mutta en-fi on oletusvalinta Suomessa. Omistaja, käyttöehdot, kuljetusehdot ja riippumattomat palkinnot ovat hyvin esillä. Lisämaksujen hinnat eivät näy julkisella etusivulla — varauspolkuun täytyy astua niiden löytämiseksi.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Käyttöehdot-sivulla (airbaltic.com/en/terms-of-use) listattu: 'General conditions of carriage', 'Terms of use', 'EU Regulation No 261/2004', 'Alternative dispute resolution'. Kaikki julkisesti saatavilla."
+    }
+   ],
+   "sertifikaatti_bonus": 3.0,
+   "sertifikaatit": [
+    {
+     "mittari": "APEX 2026 Five Star Major Airline Award",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://www.airbaltic.com/en-fi/"
+    },
+    {
+     "mittari": "APEX 2026 Best Wi-Fi in Europe Award",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://www.airbaltic.com/en-fi/"
+    }
+   ]
+  },
+  {
+   "slug": "wizzair",
+   "nimi": "Wizz Air",
+   "domain": "wizzair.com",
+   "omistaja": "Wizz Air Holdings Plc (Unkari) — pörssilistattu London Stock Exchange: WIZZ; lentää Turun lentoasemalta (Vilna, Bukarest, Gdańsk); globaali sivu wizzair.com",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 48.9,
+   "pillars": {
+    "digitaalinen": 64.8,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 53.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "84/100",
+       "paino": 30,
+       "pisteet": 84,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: wizzair.com etusivulla: 'WIZZ Priority Bring an extra trolley bag onboard and enjoy the benefits of priority boarding and check-in.' — palvelu mainitaan mutta hintoja ei näy. Varauspolku vaatii JavaScript-renderöintiä."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: EU 1008/2008 velvoittaa kaikkia EU-lentoyhtiöitä. wizzair.com/en-gb/flights ladattiin onnistuneesti — sivusto toimii. Varausvuota ei voitu testata täysimääräisesti."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: wizzair.com etusivulla 'WIZZ Flex' on listattu osana palveluvalikoimaa, mikä viittaa joustojärjestelmään. 'Website Terms of Use' linkitetty footerissa, mutta /legal/terms-and-conditions palautti 404."
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu listaa: 'WIZZ Discount Club Join the Club to save on booking and baggage', 'WIZZ All You Can Fly One pass, numerous adventures', 'WIZZ Multipass Fly more while saving money with a monthly subscription', 'WIZZ Memberships Your next adventure is just a fly away. Unique membership programs tailored to your needs.'"
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer: 'Wizz Air Hungary Ltd. All rights reserved. © 2004–2026 Wizz Air' — unkarilainen rekisteröinti ja yhtiönimi eksplisiittisesti."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla tai ladatuissa sivuissa ei näy Trustpilot-arviota, APEX-palkintoa tai muuta riippumatonta arviolähdettä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 84,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 11283.232000000053,
+    "cls": 0.0003497963094242524,
+    "tbt_ms": 6867.999999999997
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Omistaja selkeästi ilmoitettu footerissa: 'Wizz Air Hungary Ltd. All rights reserved. © 2004–2026 Wizz Air' — unkarilainen rekisteröinti eksplisiittisesti",
+    "Kanta-asiakasohjelmat kattavasti esillä: WIZZ Discount Club, WIZZ All You Can Fly, WIZZ Multipass, WIZZ Memberships — neljä eri jäsenyystyyppiä",
+    "Mobiilisovellus ja FAQ-tuki (Help Centre) selkeästi navigaatiossa ja footerissa"
+   ],
+   "kehityskohteet": [
+    "Lisämaksujen hinnat eivät näy etusivulla — 'WIZZ Priority Bring an extra trolley bag' mainitaan mutta hintaa ei ladata",
+    "Peruutusehdot vaativat WIZZ Flex -palvelun ymmärtämistä — suora 'terms and conditions'-sivu palautti 404",
+    "Sivusto on englanninkielinen — suomenkielinen versio puuttuu, vaikka lentoja on Turusta"
+   ],
+   "yhteenveto": "Wizzair.com tarjoaa kattavan valikoiman jäsenyys- ja palveluohjelmia, joiden kuvaukset löytyvät etusivulta. Omistaja (unkarilanen Wizz Air Hungary Ltd.) ilmoitettu footerissa, ja FAQ on helposti löydettävissä. Lisämaksujen hintatiedot ja peruutusehdot vaativat kuitenkin syvempää navigaatiota eikä niitä pystytty verifioimaan ladatuista sivuista.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: wizzair.com etusivulla 'WIZZ Flex' on listattu osana palveluvalikoimaa, mikä viittaa joustojärjestelmään. 'Website Terms of Use' linkitetty footerissa, mutta /legal/terms-and-conditions palautti 404."
+    }
+   ]
+  },
+  {
+   "slug": "ryanair",
+   "nimi": "Ryanair",
+   "domain": "ryanair.com",
+   "omistaja": "Ryanair DAC (Irlanti) — pörssilistattu Nasdaq Dublin / London Stock Exchange: RYA; Euroopan matkustajamääriltään suurin lentoyhtiö; lentää mm. Helsingistä ja Rovaniemeltä; Suomi-sivu ryanair.com/fi/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 28.9,
+   "pillars": {
+    "digitaalinen": 67.9,
+    "lapinakyvyys": 15.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 20.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ryanair.com/fi/fi palautti React SPA-komentotiedoston latausindikaattorin (4 743 merkkiä, ei sisältöä). Matkatavaroita koskevat alasivut palauttivat HTTP 404. Lisämaksuja ei pystytty verifioimaan."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: EU 1008/2008 velvoittaa kokonaishinnan näyttämiseen — oikeudellinen velvoite on olemassa kaikille EU-lentoyhtiöille. Varauspolkua ei pystytty testaamaan SPA-esteen vuoksi."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutusehtosivut palauttivat HTTP 404. Kuljetusehtoja ei löydetty automaattisella haulla kuluttajasivustolta."
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ryanairilla ei ole perinteistä pistepohjaista kanta-asiakasohjelmaa. Ryanair Choice on lisäpalvelupaketti, ei kanta-asiakasohjelma. Sivuston sisältöä ei pystytty ladata."
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: corporate.ryanair.com kertoo: 'Ryanair Holdings plc, Europe's largest airline group, parent company of Buzz, Lauda, Malta Air, Ryanair & Ryanair UK.' — irlantilainen holding-yhtiö. Tämä on yrityskansion sivu, ei kuluttajan pääsivu ryanair.com/fi/fi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuluttajasivuston sisältö ei latautunut. corporate.ryanair.com mainitsee 'Customer Satisfaction' -osion, mutta se on yrityskannalla, ei kuluttajasivustolla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "25/100",
+       "paino": 34,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 9764.335025,
+    "cls": 0.0016368119395076207,
+    "tbt_ms": 2679.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "ryanair.com/fi/fi palautti HTTP 200 — sivusto on olemassa ja osoitteistettu Suomeen",
+    "corporate.ryanair.com vahvistaa: 'Ryanair Holdings plc, Europe's largest airline group' — yritysrakenne dokumentoitu yrityskannalla",
+    "EU 1008/2008 -laki velvoittaa kokonaishinnan näyttämiseen ennen maksua — oikeudellinen velvoite on olemassa"
+   ],
+   "kehityskohteet": [
+    "Kuluttajasivusto ryanair.com/fi/fi on täysin JavaScript-riippuvainen SPA — sisältöä ei voi ladata automaattisesti, selkeystaso erittäin matala",
+    "Matkatavaramaksu- ja palvelumaksusivut palauttivat HTTP 404 — hintatietoja ei voida verifioida julkisilta sivuilta",
+    "Peruutusehtosivut 404, lojaaliohjelma puuttuu, chat ja puhelin eivät näy — läpinäkyvyys heikoin tutkituista lentoyhtiöistä"
+   ],
+   "yhteenveto": "Ryanair.com/fi/fi on JavaScript-pohjainen SPA, joka ei ladannut mitään sisältöä automaattisella haulla — selain-renderöinti tuotti tyhjän sivun ja raw-haku pelkän latausindikaattorin. Yritystieto löytyy erilliseltä corporate.ryanair.com-sivulta, mutta kuluttajasivuston läpinäkyvyyttä ei voitu verifioida haun perusteella. EU-lainsäädäntö velvoittaa kokonaishinnan näyttämiseen, mutta sen toteuttamista ei pystytty vahvistamaan.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "flysas",
+   "nimi": "SAS",
+   "domain": "flysas.com",
+   "omistaja": "SAS AB (Ruotsi/Tanska/Norja) — uudelleenjärjestelty 2024; Castlelake L.P. ja Air France-KLM suurimpia omistajia; Suomen sivu flysas.com/fi-fi (englanninkielinen FI-versio)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 27.7,
+   "pillars": {
+    "digitaalinen": 73.0,
+    "lapinakyvyys": 10.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 6.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: https://www.flysas.com/fi-fi/ palautti HTTP 403 Cloudflare Managed Challenge -sivun (5 680 merkkiä). Teksti: 'You are not allowed to board / Access Restricted.' Varsinaista SAS-sivuston sisältöä ei ladattu."
+      },
+      {
+       "mittari": "Kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: EU 1008/2008 velvoittaa kaikki EU-alueen lentoyhtiöt kokonaishinnan näyttämiseen. Tämä on oikeudellinen velvoite, mutta toteutusta ei pystytty vahvistamaan sivuston haun perusteella."
+      },
+      {
+       "mittari": "Peruutus- ja muutosehdot julkisesti saatavilla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: flysas.com/fi-fi/ ei ladannut mitään kuljetusehtoja tai peruutusehtoja — HTTP 403 esti pääsyn kaikkeen sisältöön."
+      },
+      {
+       "mittari": "Lojaaliohjelma, etujen sisältö ja tasot kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: SAS:lla on EuroBonus-kanta-asiakasohjelma, mutta sivuston sisältöä ei voitu ladata automaattisesti eikä ohjelmaa voitu verifioida ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Omistava yhtiö tai rekisteröintimaa kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mitään omistajatietoja ei löydetty ladatuista sivuista — HTTP 403 esti sisällön latauksen. flysas.com-domain on tunnistettavissa SAS-sivuksi, mutta rekisteröintimaata ei voitu vahvistaa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei voitu ladata mitään sivuston sisältöä. Riippumatonta arviolähdettä ei pystytty vahvistamaan tai hylkäämään."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "10/100",
+       "paino": 34,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 4344.94612,
+    "cls": 0.0008016353556195109,
+    "tbt_ms": 4164
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "flysas.com DNS on toimiva (104.18.15.14 — Cloudflare) — sivusto on olemassa",
+    "Lighthouse mittasi sivuston perf=41 oikealla Chrome-selaimella — sivu toimii oikeille käyttäjille",
+    "EU 1008/2008 velvoittaa SAS:n kokonaishinnan näyttämiseen eurooppalaisena lentoyhtiönä"
+   ],
+   "kehityskohteet": [
+    "flysas.com palautti HTTP 403 Cloudflare-haasteen kaikilla hakumenetelmillä (--raw ja --js) — sisältöä ei voitu ladata automaattisesti",
+    "Cloudflare-suojaus on asetettu 'Managed Challenge' -tasolle — tämä estää automaattisen läpinäkyvyysarvioinnin",
+    "Kaikki läpinäkyvyyskriteerit jäivät vahvistamatta; SAS sai heikoimman pisteet tässä kategoriassa"
+   ],
+   "yhteenveto": "flysas.com palautti HTTP 403 Cloudflare-haasteen kaikilla hakuyrityksillä — varsinaista SAS-sivuston sisältöä ei voitu ladata automaattisesti. Lighthouse (perf=41) vahvistaa sivuston toimivan oikeilla selaimilla, mutta automaattinen läpinäkyvyysarviointi ei onnistunut. Kaikki läpinäkyvyyskriteerit on pisteytetty 'ei'-arvoina, koska sisältöä ei voitu verifioida.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "SkyTeam-allianssin assosiaatiojäsen (2024 uudelleenjärjestelyn jälkeen)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://www.flysas.com"
+    }
+   ]
+  }
+ ],
+ "updated": "3.8.2026",
+ "opas": {
+  "johdanto": "Suomesta lentää säännöllisesti useita kotimaisia ja ulkomaisia lentoyhtiöitä. Finnair on ainoa suomalainen lentoyhtiö ja Helsingin päänabo, mutta halpalentoyhtiöt Norwegian, Ryanair, airBaltic ja Wizz Air tarjoavat vaihtoehtoja — usein edullisemmin. Lentohinnat vaihtelevat suuresti ajankohdasta, varaamishetkestä ja lisäpalveluista riippuen: halvin peruslippu voi moninkertaistua matkatavaroilla, istuinvalinnoilla ja ruualla.",
+  "huomioita": [
+   "Finnair on Suomen valtio-omisteinen lentoyhtiö (valtio omistaa noin 56 %) — se lentää Helsinki-Vantaalta yli 80 kohteeseen ja on oneworld-allianssissa.",
+   "Norwegian lentää Suomesta mm. Barcelonaan, Osloon ja Lontooseen. Norwegian Reward -kanta-asiakasohjelma kerryttää Spenn-pisteitä, ja Flex-liput ovat täysin peruutettavissa.",
+   "Ryanair lentää Helsingistä ja Rovaniemeltä useisiin Euroopan kohteisiin. Peruslippu on usein halpa, mutta matkatavara- ja istuinvalintamaksut voivat nostaa kokonaishinnan huomattavasti.",
+   "airBaltic lentää peräti kuudelta suomalaiselta lentoasemalta (Helsinki, Tampere, Turku, Oulu, Kittilä, Kuusamo) — laajin suomalainen reittikattavuus halpalentoyhtiöistä.",
+   "SAS muutti omistusrakennettaan 2024: Castlelake L.P. ja Air France-KLM ovat nyt suurimpia omistajia. SAS lentää Suomesta Kööpenhaminaan, Tukholmaan ja Osloon.",
+   "Wizz Air lentää Turun lentoasemalta mm. Vilnaan, Bukarestiin ja Gdańskiin — edullisin vaihtoehto Lounais-Suomesta matkustaville."
+  ],
+  "vinkit": [
+   "Vertaile kokonaishintaa, älä peruslippua — lisää hintaan ainakin käsimatkatavara, matkatavara, istuinvalinta ja mahdollinen ennakkoturvatarkastus.",
+   "Varaa ajoissa: halpalentoyhtiöiden hinnat nousevat nopeasti. Finnairilla sesonkihinnat voivat olla kilpailukykyisiä, jos muut palvelut (ruoka, matkatavara) sisältyvät.",
+   "Peruutus- ja muutosehdot vaihtelevat lippuluokan mukaan — Flex-lippu tai WIZZ Flex maksaa enemmän mutta antaa joustoa.",
+   "Jos lentäät usealta paikkakunnalta, tarkista airBalticin reitit Tampereelta, Turusta tai Oulusta — suora lento voi olla edullisempi kuin bussi+lento Helsingistä.",
+   "Kanta-asiakasohjelmat kannattaa: Finnair Plus, Norwegian Reward ja airBaltic Club kaikki kerryttävät etuja jopa peruslipuista.",
+   "EU:n matkustajanoikeudet (asetus 261/2004) suojaavat sinut myöhästymisiltä ja peruutuksilta — kaikilla listatuilla lentoyhtiöillä on näihin liittyvä vastuu."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on halvin tapa lentää Suomesta Eurooppaan?",
+    "a": "Se riippuu kohteesta ja lähtöpaikkakunnasta. Ryanairilla ja Wizz Airilla on usein alhaisimmat perushinnat, mutta lisäpalvelut nostavat hintaa nopeasti. Vertaile kokonaishintaa matkatavaran kanssa, jolloin Norwegian tai airBaltic voi olla kilpailukykyinen vaihtoehto."
+   },
+   {
+    "q": "Mitä tapahtuu, jos lento peruuntuu tai myöhästyy?",
+    "a": "EU:n asetus 261/2004 velvoittaa lentoyhtiöt maksamaan hyvitystä (250–600 € kohteen mukaan) yli 3 tunnin myöhästymisistä tai peruutuksista, ellei kyse ole poikkeuksellisista olosuhteista. Kaikki tutkitut lentoyhtiöt operoivat EU:n alueelta ja ovat säädöksen piirissä."
+   },
+   {
+    "q": "Tarvitseeko kanta-asiakasohjelmaan liittyä?",
+    "a": "Ei pakollisesti, mutta se kannattaa. Finnair Plus, Norwegian Reward ja airBaltic Club ovat ilmaisia liittyä. Pisteet kertyvät joka lennolta ja niillä voi saada ilmaislentoja tai päivityksiä. WIZZ Discount Club ja WIZZ Memberships maksavat, mutta alentavat lippu- ja matkatavarahintoja merkittävästi tiheille matkustajille."
+   },
+   {
+    "q": "Mikä on suomalainen lentoyhtiö?",
+    "a": "Finnair Oyj (Y-tunnus 0108023-3) on ainoa tutkituista yhtiöistä, joka on rekisteröity Suomeen. Suomen valtio omistaa siitä noin 56 %. Muut viisi — Norwegian (Norja), Ryanair (Irlanti), SAS (Ruotsi/Tanska/Norja), airBaltic (Latvia) ja Wizz Air (Unkari) — ovat ulkomaisia yhtiöitä."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana (30), kokonaishinta verot ja maksut mukaan lukien näytetään ennen maksua (20), peruutus- ja muutosehdot julkisesti saatavilla (20), lojaaliohjelma, etujen sisältö ja tasot kerrottu (15), omistava yhtiö tai rekisteröintimaa kerrottu (10), riippumaton arviolähde esillä (5)"
+}
