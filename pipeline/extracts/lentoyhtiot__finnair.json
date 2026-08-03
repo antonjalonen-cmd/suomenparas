@@ -1,0 +1,39 @@
+{
+  "slug": "finnair",
+  "fetched_ok": [
+    "https://www.finnair.com/fi/fi",
+    "https://www.finnair.com/fi/fi/finnair-plus"
+  ],
+  "lisamaksut_nakyy_varauksessa": "osittain",
+  "kokonaishinta_ennen_maksua": "kylla",
+  "peruutus_ja_muutosehdot": "kylla",
+  "lojaaliohjelma_kerrottu": "kylla",
+  "omistaja_tai_rekisterointimaa": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Kattava Finnair Plus -kanta-asiakasohjelma seitsemällä tasolla (Basic–Platinum Lumo) ja säännöt selkeästi löydettävissä",
+    "Suomenkielinen sivusto — ainoa listattu lentoyhtiö omalla kotimaisella kielellä — navigaatio looginen ja sisältö kattava",
+    "Chat-asiakastuki suoraan sivustolla, ja 'Lähtöselvitys Finnairin lennoille'-osio ohjaa lentokentällä toimimisessa"
+  ],
+  "kehityskohteet": [
+    "Lisämatkatavaramaksut-sivu ei ladannut hintoja automaattisella haulla — kuluttajan pitää klikata itsensä syvälle navigaatioon",
+    "Y-tunnus tai rekisteröintitiedot eivät näy helposti etusivulla tai footerissa; 'Finnair Konserni' -linkki vie investor-sivulle",
+    "Peruutusehdot-URL palautti virhesivun, vaikka 'Kuljetusehdot ja ilmoitukset' -linkki footerissa löytyy"
+  ],
+  "yhteenveto": "Finnair tarjoaa Suomen ainoan kotimaisen lentoyhtiön sivuston suomeksi — navigaatio on selkeä ja kanta-asiakasohjelma hyvin dokumentoitu. Lisämaksujen hintatiedot ja peruutusehdot löytyvät navigaatiosta mutta vaativat useamman klikkauksen, eikä kokonaishinta näy julkisilla infosivuilla ennen varauspolkuun astumista.",
+  "evidence": {
+    "lisamaksut_nakyy_varauksessa": "HAVAINTO: Navigaatiossa löytyy erillinen 'Lisämatkatavaramaksut'-sivu ja 'Istuinpaikat Euroopan-lennoilla'-sivu, mutta automaattinen haku palautti tyhjän sivun (267 merkkiä). Hintataulukko ei näy julkisella infosivulla ilman varauspolkuun menemistä.",
+    "kokonaishinta_ennen_maksua": "HAVAINTO: Footer toteaa 'Finnair.com on suomalainen verkkokauppa. Ostamiseen sovelletaan Suomen maksupalvelulakia.' — kokonaishinnan näyttäminen ennen maksua on lakisääteinen vaatimus.",
+    "peruutus_ja_muutosehdot": "HAVAINTO: Footer sisältää linkit 'Kuljetusehdot ja ilmoitukset' ja 'Käyttöehdot'. Navigaatiossa näkyy 'Finnair Peruutusturva', 'Joustavat lippuvaihtoehdot' ja 'Näin vaihdat lentosi Finnairilla'.",
+    "lojaaliohjelma_kerrottu": "HAVAINTO: Finnair Plus -sivu listaa seitsemän tasoa: Basic, Silver, Gold, Platinum, Platinum Lumo, Lifetime, Junior. Avios-pisteet, oneworld-allianssi ja ohjelmasäännöt linkitetty. Selkeimmät ohjelmiedut löydettävissä ilman kirjautumista.",
+    "omistaja_tai_rekisterointimaa": "HAVAINTO: Footer: '© Finnair 2026. Finnair.com on suomalainen verkkokauppa.' Tunnistaa selkeästi suomalaiseksi, ja 'Finnair Konserni' -linkki footer-navigaatiossa. Y-tunnus ei näy suoraan kuluttajasivulla.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei näy Trustpilot-arviota, tähtiarvosanaa tai muuta riippumatonta arviolähdettä ladatuilla sivuilla."
+  }
+}

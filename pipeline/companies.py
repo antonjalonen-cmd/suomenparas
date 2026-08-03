@@ -1705,7 +1705,7 @@ COMPANIES["kylpylat"] = [
 #   data-country="FI" vahvistaa Suomen markkinan; ei suomenkielistä käyttöliittymää.
 # airBaltic HUOM: airbaltic.com/en-fi/ — englanninkielinen mutta Suomen lentoasemapainotus;
 #   lentää 6 suomalaiselta lentoasemalta (Helsinki, Tampere, Turku, Oulu, Kittilä, Kuusamo).
-COMPANIES["lentoyhtiöt"] = [
+COMPANIES["lentoyhtiot"] = [
     dict(slug="finnair", nimi="Finnair", domain="finnair.com",
          y_tunnus="0108023-3",
          omistaja="Finnair Oyj — Suomen valtio omistaa noin 56 % osakkeista; Helsinki-Vantaalta yli 80 kohteeseen; pörssilistattu Nasdaq Helsinki: FIA1S"),

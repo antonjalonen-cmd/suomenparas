@@ -1822,8 +1822,8 @@ META["aanikirjapalvelut"] = {
     ],
 }
 
-META["lentoyhtiöt"] = {
-    "slug": "lentoyhtiöt",
+META["lentoyhtiot"] = {
+    "slug": "lentoyhtiot",
     "nimi": "Lentoyhtiöt",
     "nav": "Lennot",
     "h1": "Suomen paras lentoyhtiö 2026",

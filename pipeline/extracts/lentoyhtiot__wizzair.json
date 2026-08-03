@@ -1,0 +1,39 @@
+{
+  "slug": "wizzair",
+  "fetched_ok": [
+    "https://wizzair.com/",
+    "https://wizzair.com/en-gb/flights"
+  ],
+  "lisamaksut_nakyy_varauksessa": "ei",
+  "kokonaishinta_ennen_maksua": "osittain",
+  "peruutus_ja_muutosehdot": "osittain",
+  "lojaaliohjelma_kerrottu": "kylla",
+  "omistaja_tai_rekisterointimaa": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 35, "sisallon_kattavuus": 60},
+  "vahvuudet": [
+    "Omistaja selkeästi ilmoitettu footerissa: 'Wizz Air Hungary Ltd. All rights reserved. © 2004–2026 Wizz Air' — unkarilainen rekisteröinti eksplisiittisesti",
+    "Kanta-asiakasohjelmat kattavasti esillä: WIZZ Discount Club, WIZZ All You Can Fly, WIZZ Multipass, WIZZ Memberships — neljä eri jäsenyystyyppiä",
+    "Mobiilisovellus ja FAQ-tuki (Help Centre) selkeästi navigaatiossa ja footerissa"
+  ],
+  "kehityskohteet": [
+    "Lisämaksujen hinnat eivät näy etusivulla — 'WIZZ Priority Bring an extra trolley bag' mainitaan mutta hintaa ei ladata",
+    "Peruutusehdot vaativat WIZZ Flex -palvelun ymmärtämistä — suora 'terms and conditions'-sivu palautti 404",
+    "Sivusto on englanninkielinen — suomenkielinen versio puuttuu, vaikka lentoja on Turusta"
+  ],
+  "yhteenveto": "Wizzair.com tarjoaa kattavan valikoiman jäsenyys- ja palveluohjelmia, joiden kuvaukset löytyvät etusivulta. Omistaja (unkarilainen Wizz Air Hungary Ltd.) ilmoitettu footerissa, ja FAQ on helposti löydettävissä. Lisämaksujen hintatiedot ja peruutusehdot vaativat kuitenkin syvempää navigaatiota eikä niitä pystytty verifioimaan ladatuista sivuista.",
+  "evidence": {
+    "lisamaksut_nakyy_varauksessa": "HAVAINTO: wizzair.com etusivulla: 'WIZZ Priority Bring an extra trolley bag onboard and enjoy the benefits of priority boarding and check-in.' — palvelu mainitaan mutta hintoja ei näy. Varauspolku vaatii JavaScript-renderöintiä.",
+    "kokonaishinta_ennen_maksua": "HAVAINTO: EU 1008/2008 velvoittaa kaikkia EU-lentoyhtiöitä. wizzair.com/en-gb/flights ladattiin onnistuneesti — sivusto toimii. Varausvuota ei voitu testata täysimääräisesti.",
+    "peruutus_ja_muutosehdot": "HAVAINTO: wizzair.com etusivulla 'WIZZ Flex' on listattu osana palveluvalikoimaa, mikä viittaa joustojärjestelmään. 'Website Terms of Use' linkitetty footerissa, mutta /legal/terms-and-conditions palautti 404.",
+    "lojaaliohjelma_kerrottu": "HAVAINTO: Etusivu listaa: 'WIZZ Discount Club Join the Club to save on booking and baggage', 'WIZZ All You Can Fly One pass, numerous adventures', 'WIZZ Multipass Fly more while saving money with a monthly subscription', 'WIZZ Memberships Your next adventure is just a fly away. Unique membership programs tailored to your needs.'",
+    "omistaja_tai_rekisterointimaa": "HAVAINTO: Footer: 'Wizz Air Hungary Ltd. All rights reserved. © 2004–2026 Wizz Air' — unkarilainen rekisteröinti ja yhtiönimi eksplisiittisesti.",
+    "riippumaton_arvio": "HAVAINTO: Etusivulla tai ladatuissa sivuissa ei näy Trustpilot-arviota, APEX-palkintoa tai muuta riippumatonta arviolähdettä."
+  }
+}

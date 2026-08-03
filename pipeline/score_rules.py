@@ -664,7 +664,7 @@ TRANSPARENCY["kylpylat"] = [
 # omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta
 # (sis. lisämaksut) ennen kuin olet jo syöttänyt matkustajatietosi?
 # Weights: 30+20+20+15+10+5 = 100
-TRANSPARENCY["lentoyhtiöt"] = [
+TRANSPARENCY["lentoyhtiot"] = [
     # Halpalentoyhtiöillä matkatavara-, paikkavalinta- ja prioriteettipalvelumaksut
     # voivat moninkertaistaa perushinnan. Tärkein mittari on näytetäänkö ne ENNEN kassaa.
     ("lisamaksut_nakyy_varauksessa", "Lisämaksujen (matkatavarat, istumapaikka) hinnat näkyvät varauksen aikana", 30),
