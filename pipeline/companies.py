@@ -1624,3 +1624,34 @@ COMPANIES["pelitilauspalvelut"] = [
     dict(slug="apple-arcade", nimi="Apple Arcade", domain="apple.com", y_tunnus=None,
          omistaja="Apple Inc. (Yhdysvallat, NASDAQ: AAPL) — Suomi-sivu apple.com/fi/apple-arcade; yksi kiintea kuukausihinta, ei tasoja"),
 ]
+
+# --- aanikirjapalvelut (3.8.2026; autopilot-tikki) ---
+# Kaikki globaaleja toimijoita, vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen.
+# POISSULJETUT:
+#   Audible (audible.fi / audible.com): ei suomenkielistä markkinaa — Amazonia ei ole
+#     avannut Suomea omana alueena; audible.fi ei vastaa (HTTP 000). Lähimmät EU-sivustot
+#     (audible.co.uk, audible.de) ovat englanti-/saksankielisiä eikä niillä ole
+#     suomenkielistä sisältöä tai hinnoittelua.
+#   Elisa Kirja (kirja.elisa.fi): domain ei vastaa (HTTP 000) — palvelu lakkautettu.
+#   Fabel (fabel.fi): domain ei vastaa (HTTP 000) — palvelu poistunut Suomen markkinalta.
+#   Scribd (scribd.com): kansainvalinen palvelu ilman suomenkielistä sivustoa tai
+#     hinnoittelua euroissa — ei vertailukelpoinensuomalaiselle kuluttajalle.
+#   Blinkist (blinkist.com): kirjojen lyhennelmät, ei kokonaiset äänikirjat — eri kategoria.
+# HUOM Spotify: Spotify on mitattu myos musiikkipalvelut-kategoriassa. Tassa kategoriassa
+#   mitataan Spotifyn aanikritjapalvelu-ominaisuus erikseen: Premium-tilaukseen kuuluva
+#   15 h/kk aanikuunteluaika, yli 150 000 äänikirjaa, erillinen osta-kapasiteettirajoituksen
+#   ylitys. spotify.com/fi/audiobooks/ on Spotifyn oma suomenkielinen äänikirjasivu.
+COMPANIES["aanikirjapalvelut"] = [
+    dict(slug="storytel", nimi="Storytel", domain="storytel.com", y_tunnus=None,
+         omistaja="Storytel AB (Ruotsi) — poerssilistattu Nasdaq Stockholm: STORY A/STORY B; maailman suurimpia äänikirjapalveluja yli miljoonalla nimikkeellä; Suomi-sivu storytel.com/fi"),
+    dict(slug="bookbeat", nimi="BookBeat", domain="bookbeat.com", y_tunnus=None,
+         omistaja="BookBeat AB (Ruotsi) — Bonnier Books AB:n kokonaan omistama tytaryhtion; Bonnier on ruotsalainen yksityinen mediakonserni; Suomi-sivu bookbeat.com/fi"),
+    dict(slug="nextory", nimi="Nextory", domain="nextory.com", y_tunnus=None,
+         omistaja="Nextory AB (Ruotsi) — yksityisomisteinen pohjoismainen äänikirja- ja e-kirjapalvelu, perustettu 2019 Tukholmassa; Suomi-sivu nextory.com/fi"),
+    dict(slug="kobo", nimi="Kobo", domain="kobo.com", y_tunnus=None,
+         omistaja="Rakuten Kobo Inc. (Kanada) — japanilaisen Rakuten Group, Inc.:n (Tokyo Stock Exchange: 4755) tytaryhtion; Kobo Plus Listen -tilaus sisaltaa aaanikirjoja; Suomi-sivu kobo.com/fi/fi"),
+    dict(slug="podimo", nimi="Podimo", domain="podimo.com", y_tunnus=None,
+         omistaja="Podimo ApS (Tanska) — yksityisomisteinen, perustettu 2019 Koopenhamminassa; tarjoaa seka podcasteja etta aaanikirjoja; Suomi-sivu podimo.com/fi"),
+    dict(slug="spotify-audiobooks", nimi="Spotify", domain="spotify.com", y_tunnus=None,
+         omistaja="Spotify AB (Ruotsi) — poerssilistattu NYSE: SPOT; Premium-tilaukseen kuuluu 15 h/kk aaanikirjakuuntelua; Suomi-sivu spotify.com/fi/audiobooks/"),
+]

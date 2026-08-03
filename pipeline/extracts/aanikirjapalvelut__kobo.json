@@ -1,0 +1,44 @@
+{
+  "slug": "kobo",
+  "fetched_ok": [
+    "https://www.kobo.com/fi/fi",
+    "https://www.kobo.com/fi/fi/p/koboplus"
+  ],
+  "hinnat_esilla": "ei",
+  "kokeilujakso_kerrottu": "ei",
+  "kirjastokoko_kerrottu": "ei",
+  "tasojen_erot_kerrottu": "ei",
+  "omistaja_kerrottu": "osittain",
+  "kuunteluaika_rajoitukset": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 20,
+    "sisallon_kattavuus": 10,
+    "hintojen_loydettavyys": 5
+  },
+  "vahvuudet": [
+    "Kobo-sovellus mainitaan etusivulla ('ilmaisella Rakuten Kobo -sovelluksella')",
+    "Pääsivu (kobo.com/fi/fi) latautuu ja on suomeksi",
+    "Rakuten-yhteys mainitaan metakuvauksessa"
+  ],
+  "kehityskohteet": [
+    "Kobo Plus -tilauspalvelun sivu palauttaa 404 Suomen markkinalla — tilaushinnat eivät ole julkisesti mitattavissa",
+    "Pääsivu renderöityy ilman hintatietoja (client-side rendering ei toiminut mittaushetkellä)",
+    "Kobo Plus Listen -äänikirjatilauksen saatavuus ja ehdot Suomessa eivät käy ilmi julkisesta sivusta"
+  ],
+  "yhteenveto": "Kobo toimii Suomessa kirjakauppana (kobo.com/fi/fi) mutta Kobo Plus -tilauspalvelun sivu (äänikirjat ja e-kirjat tilauksella) palautti 404-virheen mittaushetkellä. Tilaushinnat, -ehdot ja kirjaston koko eivät ole julkisesti mitattavissa suomalaiselta sivustolta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: kobo.com/fi/fi ei näytä Kobo Plus -tilauksen hintoja — sivu renderöityy ilman hintatietoja. kobo.com/fi/fi/p/koboplus palauttaa HTTP 404.",
+    "kokeilujakso_kerrottu": "HAVAINTO: Ilmaiskokeilua ei mainita julkisella sivulla — kobo.com/fi/fi/p/koboplus on 404.",
+    "kirjastokoko_kerrottu": "HAVAINTO: Kirjaston kokoa tai äänikirjojen määrää ei mainita mitattavissa olevalla sivulla.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Kobo Plus Read ja Kobo Plus Listen -tasot ovat olemassa (suomenkieliset käännökset sivuston JS-koodissa), mutta tasoja vertaileva sivu ei ole tavoitettavissa Suomen markkinalla.",
+    "omistaja_kerrottu": "HAVAINTO: 'ilmaisella Rakuten Kobo -sovelluksella' mainitaan pääsivun metakuvauksessa — Rakuten-yhteys käy ilmi, mutta täydellistä omistusrakennetta (Rakuten Group, Inc., Japani) ei mainita.",
+    "kuunteluaika_rajoitukset": "HAVAINTO: Kuunteluajan rajoituksia ei mainita julkisella sivulla — tilaussivuja ei ole tavoitettavissa."
+  }
+}

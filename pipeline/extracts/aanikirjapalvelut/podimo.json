@@ -1,0 +1,43 @@
+{
+  "slug": "podimo",
+  "fetched_ok": [
+    "https://podimo.com/fi"
+  ],
+  "hinnat_esilla": "ei",
+  "kokeilujakso_kerrottu": "ei",
+  "kirjastokoko_kerrottu": "osittain",
+  "tasojen_erot_kerrottu": "ei",
+  "omistaja_kerrottu": "ei",
+  "kuunteluaika_rajoitukset": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": null,
+  "ai_arviot": {
+    "selkeys": 15,
+    "hintojen_loydettavuus": 5,
+    "sisallon_kattavuus": 15
+  },
+  "vahvuudet": [
+    "Sivuston otsikko kertoo tarjonnan: 'Ainutlaatuiset podcastit & tuhannet äänikirjat'",
+    "Suomenkielinen sivusto olemassa (podimo.com/fi)",
+    "Podimo on laajentunut Pohjoismaisille markkinoille — sisältöä myös suomeksi"
+  ],
+  "kehityskohteet": [
+    "Cloudflare-bottisuojaus estää verkkosivuston julkisen mittaamisen — hinnat, ehdot ja kirjaston koko eivät ole mitattavissa",
+    "Äänikirjojen ja podcastien suomenkielinen valikoima ei ilmene julkisesta etusivusta",
+    "Omistava yhtiö Podimo ApS (Tanska) ei mainita sivustolla mitattavissa olevassa osassa"
+  ],
+  "yhteenveto": "Podimo tarjoaa sekä podcasteja että äänikirjoja suomalaisilla sivuillaan, mutta Cloudflare-bottisuojaus estää hintojen, tilausehtojen ja muun oleellisen tiedon julkisen mittaamisen. Palvelun läpinäkyvyyttä ei pysty arvioimaan verkkosivujen perusteella.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Cloudflare-bottisuojaus ('Turvatarkistuksen suorittaminen') estää sivuston sisällön lataamisen headless-selaimella — hintoja ei voi mitata.",
+    "kokeilujakso_kerrottu": "HAVAINTO: Kokeilujaksoa ei mainita sivuston mitattavissa olevassa HTML:ssä — bottiesto estää sivun sisällön.",
+    "kirjastokoko_kerrottu": "HAVAINTO: Sivuotsikko kertoo 'tuhannet äänikirjat' — tarkempaa lukumäärää ei mainita mitattavissa osassa sivustoa.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Tilausvaihtoehtojen eroja ei pysty mittaamaan Cloudflare-eston takia.",
+    "omistaja_kerrottu": "HAVAINTO: Omistava yhtiö (Podimo ApS, Tanska) ei mainita sivuston mitattavissa olevassa HTML-osassa.",
+    "kuunteluaika_rajoitukset": "HAVAINTO: Kuunteluajan rajoituksia ei mainita sivuston mitattavissa olevassa osassa — bottiesto estää sisällön."
+  }
+}

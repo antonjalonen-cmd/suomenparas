@@ -1,0 +1,44 @@
+{
+  "slug": "spotify-audiobooks",
+  "fetched_ok": [
+    "https://www.spotify.com/fi/audiobooks/",
+    "https://www.spotify.com/fi/premium/"
+  ],
+  "hinnat_esilla": "kylla",
+  "kokeilujakso_kerrottu": "kylla",
+  "kirjastokoko_kerrottu": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "kuunteluaika_rajoitukset": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 12.99,
+  "ai_arviot": {
+    "selkeys": 82,
+    "hintojen_loydettavuus": 80,
+    "sisallon_kattavuus": 80
+  },
+  "vahvuudet": [
+    "Kuukausittainen 12 tunnin äänikirjakuunteluraja kerrotaan selkeästi suomenkielisellä äänikirjasivulla",
+    "Neljä tilausvaihtoehtoa (Yksilö, Duo, Perhe, Opiskelija) hintoineen esillä julkisesti",
+    "Yli 600 000 äänikirjan valikoima mainittu ja omistava yhtiö Spotify AB kerrottu footerissa"
+  ],
+  "kehityskohteet": [
+    "Spotify on ensisijaisesti musiikkipalvelu — äänikirjaominaisuus on lisäosa eikä erillinen tuote, mikä voi hämmentää vertailevaa kuluttajaa",
+    "Lisäosien (tuntirajan ylityksen) hinnoittelu ei ole selkeästi esillä äänikirjasivulla — pitää navigoida erikseen",
+    "Opiskelija-Premiumin ja muiden tasojen äänikirjakuuntelurajoitusten erot eivät käy ilmi äänikirjasivulta"
+  ],
+  "yhteenveto": "Spotify tarjoaa äänikirjoja osana Premium-tilausta (12 h/kk sisältyy), ja sekä hinnat että kuunteluraja ovat julkisesti esillä suomenkielisillä sivuilla. Palvelu on ensisijaisesti musiikkistriimaamo, mutta äänikirjaominaisuutensa osalta se on läpinäkyvä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: spotify.com/fi/premium/ näyttää hinnat: Yksilö-Premium 12,99 €/kk (1 kuukausi 0 €), Opiskelija-Premium 7,49 €/kk; muiden tasojen hinnat myös esillä.",
+    "kokeilujakso_kerrottu": "HAVAINTO: 'Kuuntele ilman rajoja. Kokeile tilausta Yksilö-Premium 1 kuukausi hintaan 0 €. Vain 12,99 €/kk sen jälkeen. Voit peruuttaa tilauksen milloin vain.'",
+    "kirjastokoko_kerrottu": "HAVAINTO: 'yli 600 000 teoksen tilaajien katalogista' — äänikirjakatalogikoko mainitaan äänikirjasivulla.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Yksilö-, Duo-, Perhe- ja Opiskelija-Premium-tasot esillä hinnoilla; äänikirjasivulla kerrotaan mitkä tilaustyypit sisältävät äänikirjatunnit.",
+    "omistaja_kerrottu": "HAVAINTO: Footerissa '© 2026 Spotify AB' — omistava yhtiö (Spotify AB, Ruotsi, NYSE: SPOT) kerrottu.",
+    "kuunteluaika_rajoitukset": "HAVAINTO: 'Nyt voit nauttia äänikirjoista 12 tunnin ajan joka kuukausi Premiumilla' — kuunteluraja kerrotaan selkeästi äänikirjasivun alussa."
+  }
+}

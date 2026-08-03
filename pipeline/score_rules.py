@@ -636,3 +636,14 @@ TRANSPARENCY["kauneustuotteet-verkkokaupat"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- era 13 (3.8.2026): aanikirjapalvelut ----------------------------------------
+# vpn-palvelut-konventio: omistaja_kerrottu korvaa y_tunnuksen (kaikki globaaleja palveluja).
+TRANSPARENCY["aanikirjapalvelut"] = [
+    ("hinnat_esilla", "Kuukausihinta julkisesti esillä", 30),
+    ("kokeilujakso_kerrottu", "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu", 20),
+    ("kirjastokoko_kerrottu", "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu", 15),
+    ("tasojen_erot_kerrottu", "Tilaustasojen erot kerrottu (jos tasoja on useita)", 15),
+    ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 10),
+    ("kuunteluaika_rajoitukset", "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi", 10),
+]

@@ -1,0 +1,1325 @@
+{
+ "slug": "aanikirjapalvelut",
+ "nimi": "Äänikirjapalvelut",
+ "nav": "Äänikirjat",
+ "h1": "Suomen paras äänikirjapalvelu 2026",
+ "yksikko": "Suomessa toimivaa äänikirjapalvelua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa äänikirjapalvelua {m} mittarilla. Tärkein kysymys: kerrotaanko kuukausihinta, kirjaston koko ja irtisanominen selkeästi ennen tilauksen tekemistä?",
+ "meta_title": "Suomen paras äänikirjapalvelu 2026 | Storytel, BookBeat, Nextory | Suomen Paras",
+ "meta_desc": "6 äänikirjapalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee: Storytel, BookBeat, Nextory, Kobo, Podimo ja Spotify.",
+ "notes": [
+  "<b>Kaikki kuusi palvelua ovat pohjoismaisia tai kansainvälisiä yhtiöitä.</b> Storytel, BookBeat ja Nextory ovat ruotsalaisia, Podimo tanskalainen, Kobo kanadalainen ja Spotify ruotsalainen. Yksikään ei ole suomalainen. Näytämme omistajan jokaisen palvelun kohdalla.",
+  "<b>Spotify on ensisijaisesti musiikkipalvelu.</b> Sen Premium-tilaus sisältää 15 tuntia kuukaudessa äänikirjakuuntelua, minkä jälkeen kirjoja voi ostaa erikseen. Muut viisi palvelua ovat rakennettu ensisijaisesti äänikirjoja varten. Vertailu mittaa jokaisen palvelun äänikirjaominaisuuksia, ei musiikkia.",
+  "<b>Emme arvioi kirjaston kokoa tai äänenlaatua.</b> Mittaamme julkisten verkkosivujen läpinäkyvyyttä: näkyykö kuukausihinta, kirjaston kuvaus, tilaustasojen erot, irtisanomisen ehdot ja kuunteluajan rajoitukset ennen tilaamista?"
+ ],
+ "yritykset": [
+  {
+   "slug": "nextory",
+   "nimi": "Nextory",
+   "domain": "nextory.com",
+   "omistaja": "Nextory AB (Ruotsi) — yksityisomisteinen pohjoismainen äänikirja- ja e-kirjapalvelu, perustettu 2019 Tukholmassa; Suomi-sivu nextory.com/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 78.7,
+   "pillars": {
+    "digitaalinen": 82.2,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 87.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "63/100",
+       "paino": 40,
+       "pisteet": 63,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Neljä tilaustyyppiä hintoineen näkyvät etusivulla: Mini 8,99 €/kk, Standard 12,99 €/kk, Plus 17,99 €/kk, Unlimited alkaen 26,99 €/kk."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Aloita ilmainen kokeilujakso jo tänään, niin saat lukea ja kuunnella kirjoja 30 tuntia ilmaiseksi 14 päivän ajan, minkä jälkeen maksat 8,99 € / kk. [...] Peruuta milloin vain.'"
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Avaa käyttöösi 1,4 miljoonan ääni- ja e-kirjan valikoima' — kirjaston koko ilmoitetaan eksplisiittisesti."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Standard 30 tuntia/kk, Plus 60 tuntia/kk, Unlimited rajaton; profiilien määrä (4) ja rinnakkainen kuuntelu mainitaan tasotaulukossa."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa lukee 'Tietosuoja · Ehdot · Evästeet Tekijänoikeus © 2026 Nextory AB' — omistaja kerrottu."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Standard 30 h/kk, Plus 60 h/kk, Unlimited 'Lue ja kuuntele niin paljon kuin haluat' — tuntirajoitukset esillä tasotaulukossa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "88/100",
+       "paino": 34,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 63,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 2210.7734305114745,
+    "cls": 0,
+    "tbt_ms": 7141.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Neljä selkeästi hinnoiteltua tasoa (Mini 8,99 €, Standard 12,99 €, Plus 17,99 €, Unlimited alkaen 26,99 €) kuuntelutunteineen julkisesti esillä",
+    "Kirjaston koko (1,4 miljoonaa ääni- ja e-kirjaa) ja Trustpilot-arvio mainitaan etusivulla",
+    "Omistava yhtiö Nextory AB kerrotaan footerissa ('Tekijänoikeus © 2026 Nextory AB')"
+   ],
+   "kehityskohteet": [
+    "Mini-tason kuuntelutuntiraja ei ilmene selkeästi tilaustasojen vertailusta",
+    "Asiakaspalvelun suorat yhteystiedot (sähköposti, puhelin) eivät näy pääsivustolla",
+    "Peruutusprosessin tarkat askeleet eivät ole pääsivulla — 'Peruuta milloin vain' on ainoa maininta"
+   ],
+   "yhteenveto": "Nextory on läpinäkyvin äänikirjapalvelu arvioiduista: se kertoo hinnat, tilaustasojen erot kuuntelutunteineen, kirjaston koon ja omistajan selkeästi yhdellä sivulla. Halvimmalla tasolla (8,99 €/kk) tarjotaan 14 päivän ilmainen kokeilu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "spotify-audiobooks",
+   "nimi": "Spotify",
+   "domain": "spotify.com",
+   "omistaja": "Spotify AB (Ruotsi) — poerssilistattu NYSE: SPOT; Premium-tilaukseen kuuluu 15 h/kk aaanikirjakuuntelua; Suomi-sivu spotify.com/fi/audiobooks/",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.4,
+   "pillars": {
+    "digitaalinen": 65.9,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 80.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "20/100",
+       "paino": 40,
+       "pisteet": 20,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: spotify.com/fi/premium/ näyttää hinnat: Yksilö-Premium 12,99 €/kk (1 kuukausi 0 €), Opiskelija-Premium 7,49 €/kk; muiden tasojen hinnat myös esillä."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Kuuntele ilman rajoja. Kokeile tilausta Yksilö-Premium 1 kuukausi hintaan 0 €. Vain 12,99 €/kk sen jälkeen. Voit peruuttaa tilauksen milloin vain.'"
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'yli 600 000 teoksen tilaajien katalogista' — äänikirjakatalogikoko mainitaan äänikirjasivulla."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yksilö-, Duo-, Perhe- ja Opiskelija-Premium-tasot esillä hinnoilla; äänikirjasivulla kerrotaan mitkä tilaustyypit sisältävät äänikirjatunnit."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa '© 2026 Spotify AB' — omistava yhtiö (Spotify AB, Ruotsi, NYSE: SPOT) kerrottu."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Nyt voit nauttia äänikirjoista 12 tunnin ajan joka kuukausi Premiumilla' — kuunteluraja kerrotaan selkeästi äänikirjasivun alussa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 20,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 23999.186999999998,
+    "cls": 0.2837203190768444,
+    "tbt_ms": 1115
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kuukausittainen 12 tunnin äänikirjakuunteluraja kerrotaan selkeästi suomenkielisellä äänikirjasivulla",
+    "Neljä tilausvaihtoehtoa (Yksilö, Duo, Perhe, Opiskelija) hintoineen esillä julkisesti",
+    "Yli 600 000 äänikirjan valikoima mainittu ja omistava yhtiö Spotify AB kerrottu footerissa"
+   ],
+   "kehityskohteet": [
+    "Spotify on ensisijaisesti musiikkipalvelu — äänikirjaominaisuus on lisäosa eikä erillinen tuote, mikä voi hämmentää vertailevaa kuluttajaa",
+    "Lisäosien (tuntirajan ylityksen) hinnoittelu ei ole selkeästi esillä äänikirjasivulla — pitää navigoida erikseen",
+    "Opiskelija-Premiumin ja muiden tasojen äänikirjakuuntelurajoitusten erot eivät käy ilmi äänikirjasivulta"
+   ],
+   "yhteenveto": "Spotify tarjoaa äänikirjoja osana Premium-tilausta (12 h/kk sisältyy), ja sekä hinnat että kuunteluraja ovat julkisesti esillä suomenkielisillä sivuilla. Palvelu on ensisijaisesti musiikkistriimaamo, mutta äänikirjaominaisuutensa osalta se on läpinäkyvä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "storytel",
+   "nimi": "Storytel",
+   "domain": "storytel.com",
+   "omistaja": "Storytel AB (Ruotsi) — poerssilistattu Nasdaq Stockholm: STORY A/STORY B; maailman suurimpia äänikirjapalveluja yli miljoonalla nimikkeellä; Suomi-sivu storytel.com/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 69.7,
+   "pillars": {
+    "digitaalinen": 67.4,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolta löytyy viisi hinnoitteluvaihtoehtoa: Flex 9,99 €/kk, Standard 16,99 €/kk, Premium 19,99 €/kk, Unlimited 29,99 €/kk, Family alkaen 26,99 €/kk — kaikki esillä julkisella hinnastosivulla."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Unlimited ja Family -tasoilla '14 päivää ilmaiseksi', Flex-tasolla '7 päivää ilmaiseksi'; jokainen taso kertoo lisäksi 'Ei sitoutumisaikaa'."
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla lukee 'Yli miljoona tarinaa' kokoelman suuruuden kuvuksena."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokainen viidestä tasosta kertoo kuuntelutuntimäärän (Flex 20 h/kk, Standard 50 h/kk, Premium 100 h/kk, Unlimited rajaton, Family 100 h/kk/käyttäjä) ja käyttäjätilien määrän."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Storytel AB -yhtiötä ei mainita sivustolla; footer ei sisällä yritysrekisteritietoja tai viittauksia ruotsalaiseen emoyhtiöön."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisen tason kohdalla kerrotaan kuukausittainen kuuntelutuntimäärä; Unlimited-tasosta mainitaan erikseen 'Kuuntele ja lue rajattomasti'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 10669.304,
+    "cls": 0.01424196028583835,
+    "tbt_ms": 2793
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Viisi selkeästi hinnoiteltua tasoa (Flex, Standard, Premium, Unlimited, Family) joiden kuuntelutuntimäärät kerrotaan",
+    "Ilmainen kokeilu joka tasolla (7-14 päivää) ja 'Ei sitoutumisaikaa' -maininta joka vaihtoehdossa",
+    "Yli miljoona tarinaa ja laaja tukisivusto (support.storytel.com/hc/fi) suomeksi"
+   ],
+   "kehityskohteet": [
+    "Omistava yhtiö Storytel AB (Ruotsi, Nasdaq Stockholm: STORY) ei ole mainittu suomalaisella sivustolla",
+    "Asiakaspalvelun yhteystiedot (sähköposti, chat) ei näy ilman kirjautumista",
+    "Hinnat näkyvät vain kampanjahintoina — normaalihinnat löytyvät vasta, kun kampanjatarjous on suljettu"
+   ],
+   "yhteenveto": "Storytel on laajalla tilausvalikoimalla johtava äänikirjapalvelu, joka kertoo hinnat ja kuuntelutuntirajoitukset selkeästi joka tasolla. Omistava emoyhtiö Storytel AB ei kuitenkaan ilmene suomalaiselta sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "bookbeat",
+   "nimi": "BookBeat",
+   "domain": "bookbeat.com",
+   "omistaja": "BookBeat AB (Ruotsi) — Bonnier Books AB:n kokonaan omistama tytaryhtion; Bonnier on ruotsalainen yksityinen mediakonserni; Suomi-sivu bookbeat.com/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 64.6,
+   "pillars": {
+    "digitaalinen": 75.3,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 69.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla mainitaan 'alkaen hintaan 10,99 €/kk' mutta eri tilaustasojen hinnat ja erot eivät näy selkeästi — subscription-sivu ei renderoitunut julkisesti luettavaan muotoon."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Kuuntele äänikirjoja 45 päivää maksutta' — kokeilujaksolla 30 tunnin kuuntelulimit, peruutus milloin tahansa."
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tutustu yli miljoonaan kirjaan' mainitaan etusivulla."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Basic-paketti' mainitaan opiskelija-alennuksen yhteydessä mutta Basic-tason ja pääpaketin eroja ei selitetä pääsivulla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa lukee '©BookBeat AB, 2026' — omistava yhtiö kerrottu selkeästi."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kokeilujaksolla 30 h/kk-raja mainitaan, mutta normaalin tilauksen kuuntelutuntiraja ei ilmene julkisesta pääsivusta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 3738.7529999999983,
+    "cls": 0.013813027305018063,
+    "tbt_ms": 3183.2337500000003
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Pisin ilmainen kokeilujakso: 45 päivää maksutta (alalla normi on 14-30 päivää)",
+    "Omistava yhtiö BookBeat AB mainitaan selkeästi footerissa ('©BookBeat AB, 2026')",
+    "Yli miljoonan kirjan valikoima, kaikki suoratoistettavissa tai ladattavissa"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelusivu ei näytä eri tilaustasojen hintoja selkeästi — etusivulla vain 'alkaen 10,99 €/kk' -maininta",
+    "Kokeilujaksolla käytössä 30 tunnin kuunteluraja, mutta normaalin tilauksen mahdollinen tuntiraja ei käy ilmi julkisesta sivusta",
+    "Opiskelijatilauksen (Basic-paketti) hinta ja erot muihin tasoihin eivät ole esillä pääsivustolla"
+   ],
+   "yhteenveto": "BookBeat tarjoaa alan pisimmän 45 päivän ilmaiskokeilun ja kertoo avoimesti omistajuudesta. Tilaustasojen erot ja tarkka hintarakenne jäävät kuitenkin osittain piiloon verkkosivustolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "podimo",
+   "nimi": "Podimo",
+   "domain": "podimo.com",
+   "omistaja": "Podimo ApS (Tanska) — yksityisomisteinen, perustettu 2019 Koopenhamminassa; tarjoaa seka podcasteja etta aaanikirjoja; Suomi-sivu podimo.com/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 27.4,
+   "pillars": {
+    "digitaalinen": 69.5,
+    "lapinakyvyys": 7.5,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 11.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Cloudflare-bottisuojaus ('Turvatarkistuksen suorittaminen') estää sivuston sisällön lataamisen headless-selaimella — hintoja ei voi mitata."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kokeilujaksoa ei mainita sivuston mitattavissa olevassa HTML:ssä — bottiesto estää sivun sisällön."
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuotsikko kertoo 'tuhannet äänikirjat' — tarkempaa lukumäärää ei mainita mitattavissa osassa sivustoa."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilausvaihtoehtojen eroja ei pysty mittaamaan Cloudflare-eston takia."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omistava yhtiö (Podimo ApS, Tanska) ei mainita sivuston mitattavissa olevassa HTML-osassa."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuunteluajan rajoituksia ei mainita sivuston mitattavissa olevassa osassa — bottiesto estää sisällön."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "15/100",
+       "paino": 34,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 81,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 3543.535,
+    "cls": 0.003527052987629723,
+    "tbt_ms": 2151.452
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Sivuston otsikko kertoo tarjonnan: 'Ainutlaatuiset podcastit & tuhannet äänikirjat'",
+    "Suomenkielinen sivusto olemassa (podimo.com/fi)",
+    "Podimo on laajentunut Pohjoismaisille markkinoille — sisältöä myös suomeksi"
+   ],
+   "kehityskohteet": [
+    "Cloudflare-bottisuojaus estää verkkosivuston julkisen mittaamisen — hinnat, ehdot ja kirjaston koko eivät ole mitattavissa",
+    "Äänikirjojen ja podcastien suomenkielinen valikoima ei ilmene julkisesta etusivusta",
+    "Omistava yhtiö Podimo ApS (Tanska) ei mainita sivustolla mitattavissa olevassa osassa"
+   ],
+   "yhteenveto": "Podimo tarjoaa sekä podcasteja että äänikirjoja suomalaisilla sivuillaan, mutta Cloudflare-bottisuojaus estää hintojen, tilausehtojen ja muun oleellisen tiedon julkisen mittaamisen. Palvelun läpinäkyvyyttä ei pysty arvioimaan verkkosivujen perusteella.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "kobo",
+   "nimi": "Kobo",
+   "domain": "kobo.com",
+   "omistaja": "Rakuten Kobo Inc. (Kanada) — japanilaisen Rakuten Group, Inc.:n (Tokyo Stock Exchange: 4755) tytaryhtion; Kobo Plus Listen -tilaus sisaltaa aaanikirjoja; Suomi-sivu kobo.com/fi/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 25.8,
+   "pillars": {
+    "digitaalinen": 66.5,
+    "lapinakyvyys": 5.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 11.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: kobo.com/fi/fi ei näytä Kobo Plus -tilauksen hintoja — sivu renderöityy ilman hintatietoja. kobo.com/fi/fi/p/koboplus palauttaa HTTP 404."
+      },
+      {
+       "mittari": "Ilmaiskokeilun ja irtisanomisen ehdot kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ilmaiskokeilua ei mainita julkisella sivulla — kobo.com/fi/fi/p/koboplus on 404."
+      },
+      {
+       "mittari": "Kirjaston koko tai suomenkielisten kirjojen määrä kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kirjaston kokoa tai äänikirjojen määrää ei mainita mitattavissa olevalla sivulla."
+      },
+      {
+       "mittari": "Tilaustasojen erot kerrottu (jos tasoja on useita)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kobo Plus Read ja Kobo Plus Listen -tasot ovat olemassa (suomenkieliset käännökset sivuston JS-koodissa), mutta tasoja vertaileva sivu ei ole tavoitettavissa Suomen markkinalla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'ilmaisella Rakuten Kobo -sovelluksella' mainitaan pääsivun metakuvauksessa — Rakuten-yhteys käy ilmi, mutta täydellistä omistusrakennetta (Rakuten Group, Inc., Japani) ei mainita."
+      },
+      {
+       "mittari": "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kuunteluajan rajoituksia ei mainita julkisella sivulla — tilaussivuja ei ole tavoitettavissa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "20/100",
+       "paino": 34,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 97,
+    "seo": 69,
+    "best_practices": 100,
+    "lcp_ms": 3432.8272400000014,
+    "cls": 0.3664851529287219,
+    "tbt_ms": 4717.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kobo-sovellus mainitaan etusivulla ('ilmaisella Rakuten Kobo -sovelluksella')",
+    "Pääsivu (kobo.com/fi/fi) latautuu ja on suomeksi",
+    "Rakuten-yhteys mainitaan metakuvauksessa"
+   ],
+   "kehityskohteet": [
+    "Kobo Plus -tilauspalvelun sivu palauttaa 404 Suomen markkinalla — tilaushinnat eivät ole julkisesti mitattavissa",
+    "Pääsivu renderöityy ilman hintatietoja (client-side rendering ei toiminut mittaushetkellä)",
+    "Kobo Plus Listen -äänikirjatilauksen saatavuus ja ehdot Suomessa eivät käy ilmi julkisesta sivusta"
+   ],
+   "yhteenveto": "Kobo toimii Suomessa kirjakauppana (kobo.com/fi/fi) mutta Kobo Plus -tilauspalvelun sivu (äänikirjat ja e-kirjat tilauksella) palautti 404-virheen mittaushetkellä. Tilaushinnat, -ehdot ja kirjaston koko eivät ole julkisesti mitattavissa suomalaiselta sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "3.8.2026",
+ "opas": {
+  "johdanto": "Äänikirjapalvelut ovat kuukausimaksullisia tilauksia, jotka antavat pääsyn suureen äänikirja- ja e-kirjavalikoimaan. Ne sopivat kuuntelijoille, jotka haluavat lukea useita kirjoja kuukaudessa ilman, että jokainen ostetaan erikseen. Tällä sivulla vertailemme kuutta Suomessa saatavilla olevaa palvelua sen perusteella, kuinka selkeästi ne kertovat kuukausihinnan, kirjaston koon, tilaustasojen erot, kuuntelurajoitukset ja irtisanomisehdot ennen tilauksen tekemistä.",
+  "huomioita": [
+   "Kaikki kuusi palvelua ovat ruotsalaisten, tanskalaisen tai suurempien kansainvälisten yhtiöiden tuotteita. Storytel, BookBeat ja Nextory ovat ruotsalaisia, Podimo tanskalainen, Kobo kanadalainen (Rakuten) ja Spotify ruotsalainen.",
+   "Spotify on ensisijaisesti musiikkipalvelu, mutta Premium-tilaukseen kuuluu 12 tuntia äänikirjakuuntelua kuukaudessa. Muut viisi palvelua on rakennettu ensisijaisesti äänikirjoja ja e-kirjoja varten.",
+   "Nextory nousi selkeimpänä: se näyttää kaikki neljä hinnoittelutasoa, kuuntelutuntimäärät ja kirjaston koon yhdellä etusivulla ilman kirjautumista.",
+   "Kobon Kobo Plus -tilaussivusto ei ollut tavoitettavissa Suomen markkinalla mittaushetkellä (HTTP 404). Kobo toimii Suomessa lähinnä yksittäisten kirjojen myyntipaikkana.",
+   "Podimo käyttää Cloudflare-bottisuojausta, joka estää hintatietojen ja tilausehtojen julkisen mittaamisen. Hinnoittelu on löydettävissä vain kirjautumalla tai lataamalla sovellus."
+  ],
+  "vinkit": [
+   "Vertaile kuuntelutuntimääriä ennen tilaamista: jos kuuntelet paljon, Standard-tasot voivat loppua jo kuukauden puolivälissä. Unlimited-tason hinta on noin kolminkertainen perustasoihin verrattuna.",
+   "Hyödynnä ilmaiskokeilujaksot ennen sitoutumista: BookBeat tarjoaa alan pisimmän 45 päivän kokeilun, Storytel ja Nextory 14 päivää, Spotify 1 kuukauden.",
+   "Tarkista suomenkielisten kirjojen valikoima ennen tilaamista — se vaihtelee palveluittain, eikä sitä aina kerrota pääsivulla. Kirjasto selattavissa usein ilman kirjautumista.",
+   "Jos kuuntelet satunnaisesti, harkitse Storytelin Flex-tasoa (20 h/kk, 9,99 €/kk) tai Spotifyn Premium-tilausta (12 h/kk äänikirjoja mukana), sen sijaan että maksat täydestä rajattomasta tasosta.",
+   "Peruuta tilaus ennen kokeilujakson päättymistä, jos palvelu ei sovi — kaikki palvelut uusivat maksun automaattisesti kokeilujakson jälkeen."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on halvin tapa kuunnella äänikirjoja?",
+    "a": "Nextory Mini tarjoaa halvimman kuukausitilauksen (8,99 €/kk), mutta kuuntelutuntimäärä on rajattu. Spotify Premium (12,99 €/kk) sisältää 12 tuntia äänikirjakuuntelua osana musiikkitilausta. Kirjastot ja Celian äänikirjat ovat ilmaisia erityisryhmille."
+   },
+   {
+    "q": "Minkä palvelun suomenkielinen kirjasto on laajin?",
+    "a": "Storytel markkinoi itseään 'Suomen parhaana äänikirjapalveluna' ja on toiminut suomalaisilla markkinoilla pisimpään. Nextory ja BookBeat ovat kasvaneet nopeasti ja tarjoavat myös laajan suomenkielisen valikoiman. Tarkkaa vertailua kirjastojen koosta ei voi tehdä verkkosivujen perusteella."
+   },
+   {
+    "q": "Sisältääkö Spotify Premium äänikirjat automaattisesti?",
+    "a": "Kyllä, Yksilö-, Duo- ja Perhe-Premium-tilauksiin sisältyy 12 tuntia äänikirjakuuntelua kuukaudessa. Tunnit loppuessa voi ostaa lisää erikseen. Opiskelija-Premium ei sisällä äänikirjatunteja samalla tavalla."
+   },
+   {
+    "q": "Voiko samalla tilauksella kuunnella useampi henkilö?",
+    "a": "Kyllä, useimmilla palveluilla: Nextoryssa jopa 4 profiilia, Storytelin Family-tasolla 2-6 käyttäjätiliä, Spotifin Perhe-Premiumilla enintään 6 tiliä. BookBeatin ja Podimon perhetilauksen yksityiskohdat eivät käyneet ilmi pääsivustolta."
+   },
+   {
+    "q": "Onko tilaaminen turvallista — voinko peruuttaa milloin vain?",
+    "a": "Kaikki selkeästi hinnoitellut palvelut (Storytel, BookBeat, Nextory, Spotify) kertovat avoimesti, että tilauksen voi peruuttaa milloin vain ilman sitoutumisaikaa. Peruutus kannattaa tehdä sovelluksesta tai tilin asetuksista ennen seuraavaa veloituspäivää."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta julkisesti esillä (30), ilmaiskokeilun ja irtisanomisen ehdot kerrottu (20), kirjaston koko tai suomenkielisten kirjojen määrä kerrottu (15), tilaustasojen erot kerrottu (jos tasoja on useita) (15), omistava yhtiö kerrottu sivustolla (10), kuunteluajan tai latauksien rajoitukset kerrottu selkeästi (10)"
+}

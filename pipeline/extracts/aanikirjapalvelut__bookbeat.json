@@ -1,0 +1,44 @@
+{
+  "slug": "bookbeat",
+  "fetched_ok": [
+    "https://www.bookbeat.com/fi",
+    "https://www.bookbeat.com/fi/subscription"
+  ],
+  "hinnat_esilla": "osittain",
+  "kokeilujakso_kerrottu": "kylla",
+  "kirjastokoko_kerrottu": "kylla",
+  "tasojen_erot_kerrottu": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "kuunteluaika_rajoitukset": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 10.99,
+  "ai_arviot": {
+    "selkeys": 72,
+    "hintojen_loydettavyys": 65,
+    "sisallon_kattavuus": 70
+  },
+  "vahvuudet": [
+    "Pisin ilmainen kokeilujakso: 45 päivää maksutta (alalla normi on 14-30 päivää)",
+    "Omistava yhtiö BookBeat AB mainitaan selkeästi footerissa ('©BookBeat AB, 2026')",
+    "Yli miljoonan kirjan valikoima, kaikki suoratoistettavissa tai ladattavissa"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelusivu ei näytä eri tilaustasojen hintoja selkeästi — etusivulla vain 'alkaen 10,99 €/kk' -maininta",
+    "Kokeilujaksolla käytössä 30 tunnin kuunteluraja, mutta normaalin tilauksen mahdollinen tuntiraja ei käy ilmi julkisesta sivusta",
+    "Opiskelijatilauksen (Basic-paketti) hinta ja erot muihin tasoihin eivät ole esillä pääsivustolla"
+  ],
+  "yhteenveto": "BookBeat tarjoaa alan pisimmän 45 päivän ilmaiskokeilun ja kertoo avoimesti omistajuudesta. Tilaustasojen erot ja tarkka hintarakenne jäävät kuitenkin osittain piiloon verkkosivustolla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla mainitaan 'alkaen hintaan 10,99 €/kk' mutta eri tilaustasojen hinnat ja erot eivät näy selkeästi — subscription-sivu ei renderoitunut julkisesti luettavaan muotoon.",
+    "kokeilujakso_kerrottu": "HAVAINTO: 'Kuuntele äänikirjoja 45 päivää maksutta' — kokeilujaksolla 30 tunnin kuuntelulimit, peruutus milloin tahansa.",
+    "kirjastokoko_kerrottu": "HAVAINTO: 'Tutustu yli miljoonaan kirjaan' mainitaan etusivulla.",
+    "tasojen_erot_kerrottu": "HAVAINTO: 'Basic-paketti' mainitaan opiskelija-alennuksen yhteydessä mutta Basic-tason ja pääpaketin eroja ei selitetä pääsivulla.",
+    "omistaja_kerrottu": "HAVAINTO: Footerissa lukee '©BookBeat AB, 2026' — omistava yhtiö kerrottu selkeästi.",
+    "kuunteluaika_rajoitukset": "HAVAINTO: Kokeilujaksolla 30 h/kk-raja mainitaan, mutta normaalin tilauksen kuuntelutuntiraja ei ilmene julkisesta pääsivusta."
+  }
+}

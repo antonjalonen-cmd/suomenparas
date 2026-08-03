@@ -1766,3 +1766,31 @@ META["pikaruokaketjut"] = {
          "Pisteytämme sen, löytyykö tieto julkiselta sivulta tuotekohtaisesti."),
     ],
 }
+
+META["aanikirjapalvelut"] = {
+    "slug": "aanikirjapalvelut",
+    "nimi": "Äänikirjapalvelut",
+    "nav": "Äänikirjat",
+    "h1": "Suomen paras äänikirjapalvelu 2026",
+    "yksikko": "Suomessa toimivaa äänikirjapalvelua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa äänikirjapalvelua {m} mittarilla. "
+             "Tärkein kysymys: kerrotaanko kuukausihinta, kirjaston koko ja "
+             "irtisanominen selkeästi ennen tilauksen tekemistä?"),
+    "meta_title": "Suomen paras äänikirjapalvelu 2026 | Storytel, BookBeat, Nextory | Suomen Paras",
+    "meta_desc": ("{n} äänikirjapalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee: Storytel, BookBeat, Nextory, Kobo, Podimo ja Spotify."),
+    "notes": [
+        ("<b>Kaikki kuusi palvelua ovat pohjoismaisia tai kansainvälisiä yhtiöitä.</b> "
+         "Storytel, BookBeat ja Nextory ovat ruotsalaisia, Podimo tanskalainen, Kobo "
+         "kanadalainen ja Spotify ruotsalainen. Yksikään ei ole suomalainen. "
+         "Näytämme omistajan jokaisen palvelun kohdalla."),
+        ("<b>Spotify on ensisijaisesti musiikkipalvelu.</b> Sen Premium-tilaus sisältää "
+         "15 tuntia kuukaudessa äänikirjakuuntelua, minkä jälkeen kirjoja voi ostaa "
+         "erikseen. Muut viisi palvelua ovat rakennettu ensisijaisesti äänikirjoja varten. "
+         "Vertailu mittaa jokaisen palvelun äänikirjaominaisuuksia, ei musiikkia."),
+        ("<b>Emme arvioi kirjaston kokoa tai äänenlaatua.</b> Mittaamme julkisten "
+         "verkkosivujen läpinäkyvyyttä: näkyykö kuukausihinta, kirjaston kuvaus, "
+         "tilaustasojen erot, irtisanomisen ehdot ja kuunteluajan rajoitukset ennen "
+         "tilaamista?"),
+    ],
+}
