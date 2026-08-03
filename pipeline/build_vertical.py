@@ -109,6 +109,8 @@ MEASURED = {
     "kylpylat": "3.8.2026",
     # erä 15
     "lentoyhtiot": "3.8.2026",
+    # erä 16
+    "kirjanpito-ohjelmistot": "4.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

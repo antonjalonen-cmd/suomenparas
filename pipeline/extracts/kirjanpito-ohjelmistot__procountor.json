@@ -1,0 +1,45 @@
+{
+  "slug": "procountor",
+  "fetched_ok": [
+    "https://procountor.fi/",
+    "https://procountor.fi/procountor-solo/",
+    "https://procountor.fi/integraatiot/",
+    "https://procountor.fi/yhteystiedot/"
+  ],
+  "hinta_esilla": "osittain",
+  "ilmainen_kokeilu": "kylla",
+  "integraatiot_kuvattu": "kylla",
+  "tuki_suomeksi": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "ukk_ja_ohjeet": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 35, "sisallon_kattavuus": 78},
+  "vahvuudet": [
+    "Yli 100 ohjelmistokumppanin integraatioekosysteemi ja oma Procountor Store integraatioille",
+    "Maksuton Kampus-oppimisalusta ja kattava suomenkielinen ohjekirja kaikille taitotasoille",
+    "Ilmainen kokeilu (Kokeile maksutta) tarjolla suoraan etusivulta ilman rekisteröintiä"
+  ],
+  "kehityskohteet": [
+    "Hinnaston sivut palauttavat HTTP 404 — varsinainen kuukausihinta ei ole julkisesti löydettävissä verkkosivustolta",
+    "Y-tunnus (0836922-4) ei näytetä sivustolla; footerissa näkyy vain 'Finago Oy' ilman rekisterinumeroa",
+    "Chat-tukea ei ole julkisella verkkosivustolla; Procobotti on vain kirjautuneiden käyttäjien käytettävissä ohjelmiston sisällä"
+  ],
+  "yhteenveto": "Procountor on Finago Oy:n (ent. Accountor Finago Oy, Y-tunnus 0836922-4) taloushallinto-ohjelmisto pk-yrityksille ja yksinyrittäjille, saatavilla osoitteessa procountor.fi. Ohjelmistoon saa ilmaisen kokeilujakson ja integraatioekosysteemi kattaa yli 100 kumppania, mutta kuukausihinta ei ole julkisesti esillä verkkosivustolla: hinnastosivut palauttavat 404-virheen.",
+  "evidence": {
+    "hinta_esilla": "HAVAINTO: Etusivulla banneri 'Finago Procountorin kk-maksut nyt jopa -40 %' viittaa kuukausimaksuihin, mutta hinnastoa ei löydä sivustolta (procountor.fi/hinnasto/ → HTTP 404). Solo-sivulla mainitaan '9,99 € / kk' pankkiyhteyspalvelulle, mutta ohjelmiston oma hinnoittelu ei ole näkyvissä.",
+    "ilmainen_kokeilu": "HAVAINTO: Jokaisella sivulla on 'Kokeile maksutta' -painike navigaatiossa. Solo-sivulla 'Uudelle yritykselle vuosi ilman kuukausimaksua' -kampanjaetu.",
+    "integraatiot_kuvattu": "HAVAINTO: /integraatiot/-sivu on olemassa (HTTP 200). Etusivulla: 'Procountor Store — Löydä parhaat ratkaisut tehostamaan liiketoimintaasi lukuisten palveluiden, lisäominaisuuksien ja yli 100 ohjelmistokumppanin joukosta.' Pankkipalvelut, palkanlaskenta ja laskutus mainittu erikseen.",
+    "tuki_suomeksi": "HAVAINTO: Yhteystiedot-sivulla: 'Asiakaspalvelu palvelee sinua arkisin klo 8.30-16. Tavoitat meidät puhelimitse ma-pe klo 8:30-12:00. Puh. 020 7879 840.' Tuki suomeksi, tukipyyntöjä käsitellään klo 16 asti.",
+    "y_tunnus_esilla": "HAVAINTO: Footerissa lukee '© 2026 Finago Oy', omistavan yhtiön nimi on julkisesti näkyvissä. Y-tunnus-numeroa (0836922-4) ei kuitenkaan näytetä erikseen missään löydetyssä sivussa.",
+    "ukk_ja_ohjeet": "HAVAINTO: Sivustolla on Procountor ohjekirja, Kampus-oppimisalusta ('maksuton, kaikki taitotasot huomioiva verkko-oppimisalusta') sekä Procobotti ohjelmiston sisällä. Linkit ohjekirjoihin näkyvät tukisivulla.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla: 'Puh. 020 7879 840', aukiolo ma-pe klo 8:30-12:00.",
+    "email_esilla": "HAVAINTO: 404-sivun yhteystiedoissa: 'koulutus@procountor.com' ja 'integrations@procountor.com' näkyvissä. Yleistukeen ohjataan lomakkeella.",
+    "aukioloajat_esilla": "HAVAINTO: 'Asiakaspalvelu palvelee sinua arkisin klo 8.30-16', puhelinpalvelu ma-pe klo 8:30-12:00.",
+    "mobiilisovellus": "HAVAINTO: Navigaatiossa 'Mobiilikäyttö — Ota talousrutiinit haltuun helposti matkapuhelimella' mainitaan erillisenä ominaisuutena."
+  }
+}

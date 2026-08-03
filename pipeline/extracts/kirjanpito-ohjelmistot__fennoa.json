@@ -1,0 +1,43 @@
+{
+  "slug": "fennoa",
+  "fetched_ok": [
+    "https://fennoa.com/",
+    "https://fennoa.com/hinnoittelu/",
+    "https://fennoa.com/integraatiot/",
+    "https://fennoa.com/tietosuojaseloste/"
+  ],
+  "hinta_esilla": "osittain",
+  "ilmainen_kokeilu": "ei",
+  "integraatiot_kuvattu": "kylla",
+  "tuki_suomeksi": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "ukk_ja_ohjeet": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 73, "hintojen_loydettavyys": 40, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Avainlippu-sertifikaatti (merkki suomalaisesta palvelusta) ja kotimaiset palvelimet Suomessa — tietosuojan läpinäkyvyys korostettu",
+    "Fennoa Mobiili -sovellus mainittu erikseen, kirjanpito mahdollista liikkeellä",
+    "Kattava oppimisympäristö: Tietopankki, Koulutukset, Oppaat, Videokirjasto ja Blogi"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelukalenteri vaatii JavaScriptiä ja evästeiden hyväksymistä — hinta ei näy ilman selaimen tukea, mikä vaikeuttaa vertailua",
+    "Ilmaista kokeilujaksoa ei tarjota — vain 'Varaa demo' myyntiesittelyn kautta",
+    "Puhelinnumero tai yleinen tukisähköposti puuttuu verkkosivustolta — yhteystietosivu palauttaa 404-virheen"
+  ],
+  "yhteenveto": "Fennoa on Fennoa Oy:n (Y-tunnus 2593931-3) suomalainen taloushallinto-ohjelmisto, jota myydään pääasiassa tilitoimistojen kautta. Sivustolla on kattava oppimisympäristö ja Avainlippu-sertifikaatti suomalaisesta palvelusta, mutta hinnoittelu edellyttää JavaScript-renderöintiä eikä ole nähtävissä ilman evästeiden hyväksymistä.",
+  "evidence": {
+    "hinta_esilla": "HAVAINTO: /hinnoittelu/-sivu on olemassa (HTTP 200) ja sisältää HeadQ-hinnoittelulaskurin, mutta hinnat latautuvat JavaScriptillä — evästeiden hyväksymistä vaaditaan. Tekstinä näkyy vain 'Hinnoittelumalli' -otsikko ilman eurohinnoittelua.",
+    "ilmainen_kokeilu": "HAVAINTO: Sivustolla ei mainita ilmaista kokeilujaksoa. Navigaatiossa ja painikkeissa toistuu 'Varaa demo' — myyntiyhteydenotto esittelyn kautta on ainoa tutustumistapa.",
+    "integraatiot_kuvattu": "HAVAINTO: /integraatiot/-sivu on olemassa (HTTP 200, uudelleenohjautuu /ohjelmisto/integraatiot). Sivulla: 'Alta löydät listan Fennoan valmiista integraatioista. Jos haluttua integraatiota ei löydy, niin löydät ohjeet uuden integraation toteutukseen.' Maksuliikenne ja pankki -integraatiot mainittu erikseen.",
+    "tuki_suomeksi": "HAVAINTO: Kaikki sivut suomeksi. Footerissa 'Ota yhteyttä' -linkki. Tietosuojaselosteessa 'tietosuoja@fennoa.com' yhteystieto. Sivusto on täysin suomenkielinen.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa: 'Fennoa Oy (2593931-3), jonka rekisteröity toimipaikka on osoitteessa PL 100, 13131 Hämeenlinna.'",
+    "ukk_ja_ohjeet": "HAVAINTO: Navigaatiossa: 'Ohjeet', 'Oppaat', 'Blogi', 'Koulutukset', 'Videokirjasto', 'Tapahtumat'. Footerissa: 'Tietopankki' ja 'Koulutukset'.",
+    "email_esilla": "HAVAINTO: Tietosuojaselosteessa näkyy 'tietosuoja@fennoa.com' mutta yleistä tukisähköpostiosoitetta ei löydy etusivulta tai yhteystietosivulta (404).",
+    "mobiilisovellus": "HAVAINTO: Navigaatiossa 'Mobiilisovellus yritysten arkeen' ja navigaation tuotesivuilla 'Fennoa Mobiili' mainittuna erikseen omana ominaisuutena."
+  }
+}

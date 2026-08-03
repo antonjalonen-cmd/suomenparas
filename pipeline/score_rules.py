@@ -659,6 +659,27 @@ TRANSPARENCY["kylpylat"] = [
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
 
+# --- era 16 (4.8.2026): kirjanpito-ohjelmistot -----------------------------------
+# SaaS-ohjelmistot pk-yrityksille. Tärkein kysymys: näkyykö kuukausihinta
+# ennen kuin syötät yritystietosi tai rekisteröidyt kokeilujaksoon?
+# Kaikki 6 yhtiötä ovat suomalaisrekisteröityjä (y_tunnus saatavilla).
+# Weights: 30+20+20+15+10+5 = 100
+TRANSPARENCY["kirjanpito-ohjelmistot"] = [
+    # Korkein paino: SaaS-palvelun ostopäätöksen peruste on kuukausihinta —
+    # jos se on piilossa rekisterin takana, kuluttaja ei voi vertailla.
+    ("hinta_esilla", "Kuukausihinta tai hinnoittelu julkisesti esillä", 30),
+    # Ilmainen kokeilu madaltaa kynnystä testata ohjelmistoa ennen sitoutumista.
+    ("ilmainen_kokeilu", "Ilmainen kokeilujakso tai freemium tarjolla", 20),
+    # Kirjanpito-ohjelma on arvoton ilman pankkiyhteyksiä ja laskutusintegraatioita.
+    ("integraatiot_kuvattu", "Integraatiot (pankit, laskutus, palkka) kuvattu", 20),
+    # Yrittäjälle suomenkielinen tuki on usein ratkaiseva käytettävyyskriteeri.
+    ("tuki_suomeksi", "Suomenkielinen asiakastuki mainittu", 15),
+    # Kertoo kuka vastaa datasta ja missä sitä käsitellään.
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä", 10),
+    # Ohjekeskus tai UKK vähentää tukipyyntöjä ja osoittaa palvelun kypsyyden.
+    ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
+]
+
 # --- era 15 (3.8.2026): lentoyhtiöt ----------------------------------------------
 # Kaikki paitsi Finnair ovat globaaleja yhtiöitä — vpn-palvelut-konventio:
 # omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta

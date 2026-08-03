@@ -1849,3 +1849,30 @@ META["lentoyhtiot"] = {
          "onko kokonaishinta selvä ennen maksua, löytyvätkö peruutusehdot helposti?"),
     ],
 }
+
+META["kirjanpito-ohjelmistot"] = {
+    "slug": "kirjanpito-ohjelmistot",
+    "nimi": "Kirjanpito-ohjelmistot",
+    "nav": "Kirjanpito",
+    "h1": "Suomen paras kirjanpito-ohjelma 2026",
+    "yksikko": "kirjanpito-ohjelmistoa pk-yrityksille",
+    "lead": ("Pisteytimme {n} kirjanpito-ohjelmistoa pk-yrityksille {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näkyykö kuukausihinta selkeästi sivustolla ennen kuin syötät yritystietosi?"),
+    "meta_title": "Suomen paras kirjanpito-ohjelma 2026 — Procountor, Netvisor, Fennoa, Holvi, Kitsas, Lemonsoft | Suomen Paras",
+    "meta_desc": ("{n} kirjanpito-ohjelmistoa pk-yrityksille pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee: hinnoittelu, integraatiot, tuki ja tekniikka."),
+    "notes": [
+        ("<b>Kirjanpito-ohjelmistot ovat SaaS-palveluita.</b> Hinta on yleensä kuukausimaksu "
+         "käyttäjää tai yritystä kohti. Mittaamme onko kuukausihinta julkisesti esillä ennen "
+         "kuin sinun täytyy rekisteröityä tai antaa yritystietosi."),
+        ("<b>Miksi listalla on kuusi ohjelmistoa?</b> Mukaan otettiin Suomen markkinalla "
+         "aktiivisesti toimivat ja kuluttajille tai yrittäjille suoraan myyvät ohjelmistot. "
+         "Poissuljetut: Passeli Merit (Y-tunnus ei varmistettavissa PRH:sta), Tikon "
+         "(Accountor-konserni, sama omistaja kuin Procountor), Fivaldi (Visma Solutions, "
+         "sama yhtiö kuin Netvisor), Heeros (tilitoimistoille, ei suoraan yrittäjille)."),
+        ("<b>Emme arvioi ohjelmiston toiminnallisuuksia tai kirjanpidon oikeellisuutta.</b> "
+         "Mittaamme julkisen verkkosivuston läpinäkyvyyttä: onko hinta näkyvissä, tarjotaanko "
+         "ilmaista kokeilua, kerrotaanko integraatiot, ja löytyykö suomenkielinen tuki?"),
+    ],
+}

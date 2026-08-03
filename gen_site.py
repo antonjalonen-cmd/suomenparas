@@ -75,7 +75,7 @@ CATEGORY_GROUPS = [
         ("Suoratoistopalvelut", "suoratoistopalvelut", True), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),
         ("Virustorjuntaohjelmat", "virustorjuntaohjelmat", True), ("Salasananhallintapalvelut", "salasananhallintapalvelut", True),
         ("Sähköpostipalvelut", None, False), ("Verkkotunnusvälittäjät", None, False),
-        ("Kirjanpito-ohjelmat", None, False), ("Verkkokauppa-alustat", None, False),
+        ("Kirjanpito-ohjelmistot", "kirjanpito-ohjelmistot", True), ("Verkkokauppa-alustat", None, False),
     ]),
     ("Media ja tapahtumat", [
         ("Uutismediat", "uutismediat", True), ("Aikakauslehdet", "aikakauslehdet", True),

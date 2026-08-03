@@ -1,0 +1,1360 @@
+{
+ "slug": "kirjanpito-ohjelmistot",
+ "nimi": "Kirjanpito-ohjelmistot",
+ "nav": "Kirjanpito",
+ "h1": "Suomen paras kirjanpito-ohjelma 2026",
+ "yksikko": "kirjanpito-ohjelmistoa pk-yrityksille",
+ "lead": "Pisteytimme {n} kirjanpito-ohjelmistoa pk-yrityksille {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näkyykö kuukausihinta selkeästi sivustolla ennen kuin syötät yritystietosi?",
+ "meta_title": "Suomen paras kirjanpito-ohjelma 2026 — Procountor, Netvisor, Fennoa, Holvi, Kitsas, Lemonsoft | Suomen Paras",
+ "meta_desc": "6 kirjanpito-ohjelmistoa pk-yrityksille pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee: hinnoittelu, integraatiot, tuki ja tekniikka.",
+ "notes": [
+  "<b>Kirjanpito-ohjelmistot ovat SaaS-palveluita.</b> Hinta on yleensä kuukausimaksu käyttäjää tai yritystä kohti. Mittaamme onko kuukausihinta julkisesti esillä ennen kuin sinun täytyy rekisteröityä tai antaa yritystietosi.",
+  "<b>Miksi listalla on kuusi ohjelmistoa?</b> Mukaan otettiin Suomen markkinalla aktiivisesti toimivat ja kuluttajille tai yrittäjille suoraan myyvät ohjelmistot. Poissuljetut: Passeli Merit (Y-tunnus ei varmistettavissa PRH:sta), Tikon (Accountor-konserni, sama omistaja kuin Procountor), Fivaldi (Visma Solutions, sama yhtiö kuin Netvisor), Heeros (tilitoimistoille, ei suoraan yrittäjille).",
+  "<b>Emme arvioi ohjelmiston toiminnallisuuksia tai kirjanpidon oikeellisuutta.</b> Mittaamme julkisen verkkosivuston läpinäkyvyyttä: onko hinta näkyvissä, tarjotaanko ilmaista kokeilua, kerrotaanko integraatiot, ja löytyykö suomenkielinen tuki?"
+ ],
+ "yritykset": [
+  {
+   "slug": "netvisor",
+   "nimi": "Netvisor",
+   "domain": "netvisor.fi",
+   "omistaja": "Visma Solutions Oy (ent. Netvisor Oy) — norjalainen Visma Group -konserni omistaa; pilvipohjainen ERP- ja taloushallinto-ohjelmisto",
+   "y_tunnus": "1967543-8",
+   "rekisteroity": 2005,
+   "score": 84.7,
+   "pillars": {
+    "digitaalinen": 65.1,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 85.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "77/100",
+       "paino": 30,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla: 'Netvisor Starter-paketti pienyritykselle: Aidosti kiinteähintainen ja kaikenkattava taloushallinto. 39 € tai 69 € / kk.' Sekä hinnoitteluosiossa: 'Alle 100 000 € — 25 €' pienimmälle liikevaihtorypäälle. Myös 'Kokeile riskittä — saat ensimmäisen kuukauden ilman kuukausimaksua.'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Maksuton koekäyttö' -painike. Etusivulla: 'Kokeile riskittä — saat ensimmäisen kuukauden ilman kuukausimaksua.' Lisäksi: 'Uudet yritykset — fiksu taloushallinto vuodeksi ilman kk-maksuja.'"
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Integraatiot — Tutustu integraatioihin Marketplacessa.' Etusivulla mainitaan Kassavirta Plus, Intrum Riski-indikaattori, Netvisor Store lisäpalvelut sekä 'satoihin muihin ohjelmistoihin' -integraatiot."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: 'Chat: Avoinna arkisin klo 9-14', 'Puhelin: 010 5058 490, Avoinna arkisin klo 9-11 ja 13-14', 'Sähköposti: [email protected]'. Kaikki tuki suomeksi."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: 'Y-tunnus: 1967543-8' erikseen esitettynä. Footerissa: '© 2026 Netvisor on osa Visma Solutions Oy:tä'."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa: 'Tuki ja asiakaspalvelu', 'Koulutukset', 'Community' — selkeä tukisivurakenne. Yhteystiedoissa ohjataan kirjalliseen ja puhelintukeen."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: 'Chat: Avoinna arkisin klo 9-14'."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ma-pe klo: 9-16' (sähköposti), 'Avoinna arkisin klo 9-11 ja 13-14' (puhelin ja chat)."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 77,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 12110.154679999996,
+    "cls": 0.0019205598458863697,
+    "tbt_ms": 5335.696079999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinta näkyy selkeästi etusivulla: 25 €/kk pienimmälle yritykselle, Starter-paketti 39 tai 69 €/kk — läpinäkyvin hinnoittelu kaikista vertailluista",
+    "Laaja tuki: puhelin 010 5058 490, sähköposti tuki@netvisor.fi ja chat arkisin klo 9-14 sekä Y-tunnus 1967543-8 yhteystiedoissa",
+    "Yli 40 000 yritystä käyttäjänä ja Netvisor Marketplace satoilla integraatiokumppaneilla"
+   ],
+   "kehityskohteet": [
+    "Mobiilisovellusta ei mainita verkkosivustolla erikseen, vaikka selainpohjainen käyttö on mahdollista",
+    "Hinnoittelu perustuu liikevaihtoihin ja tapahtumamaksuihin — lopullinen kustannus vaihtelee eikä sitä selitetä yhtenä selkeänä pakettihintana",
+    "Ohjelmiston käyttöönotto vaatii tuoteasiantuntijan yhteydenoton — itsenäinen rekisteröityminen ilman myyntiyhteyttä ei ole selkeästi esillä"
+   ],
+   "yhteenveto": "Netvisor on Visma Solutions Oy:n (Y-tunnus 1967543-8) pilvipohjainen taloushallinto-ohjelmisto, joka on suunnattu kaiken kokoisille yrityksille. Hinnoittelu on läpinäkyvästi esillä etusivulla (alkaen 25 €/kk), ja asiakaspalvelu on saatavilla puhelimitse, sähköpostitse ja chatin kautta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "kitsas",
+   "nimi": "Kitsas",
+   "domain": "kitsas.fi",
+   "omistaja": "Kitsas Oy — suomalainen avoimen lähdekoodin kirjanpito-ohjelmisto; ilmaisversio + maksullinen pilvipalvelu",
+   "y_tunnus": "3093902-7",
+   "rekisteroity": 2019,
+   "score": 82.8,
+   "pillars": {
+    "digitaalinen": 71.1,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 82.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "57/100",
+       "paino": 40,
+       "pisteet": 57,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla hinnoittelu selkeästi esillä: 'Ilmainen 0 €/kk + alv 25,5%', '4,17 €/kk + alv 25,5%', '10,42 €/kk + alv 25,5%', 'alkaen 50 €/kk + alv 25,5%'. 'Katso koko hinnasto' -linkki johtaa lisätietoihin."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla: 'Ennen tilauksen tekemistä pääset vielä kokeilemaan ohjelman kaikkia ominaisuuksia 30 päivän kokeilujakson ajan.' Lisäksi: 'Kitsas on ilmainen, kun tallennat kirjanpidon omalle koneellesi.'"
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla: 'Verkkolaskujen vastaanottaminen ja lähettäminen suoraan ohjelmasta.' Uutisissa: 'Päivityksiä WebService-pankkiyhteydessä' — pankkiyhteys mainittu."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivu: 'Kitsaan ohjeet — kattavat ohjeet Kitsaan käyttämiseen. Helpdesk — kitsas.helpdesk@taopa.fi. 0600 30 5000 arkisin klo 10-14.' Kaikki suomeksi."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa: '© 2026 Kitsas Oy' — yrityksen nimi näkyvissä. Y-tunnus-numeroa (3093902-7) ei löydetty sivustolta."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Ohjeet' -linkki. Tukisivulla: 'Kitsaan ohjeet — näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivulla: '0600 30 5000 arkisin klo 10-14. Numero on maksullinen 1,98 € / min (sis. alv:n).'"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivulla: 'kitsas.helpdesk@taopa.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivulla: '0600 30 5000 arkisin klo 10-14'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "95/100",
+       "paino": 33,
+       "pisteet": 95,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 57,
+    "accessibility": 81,
+    "seo": 83,
+    "best_practices": 77,
+    "lcp_ms": 7226.1165,
+    "cls": 0.049479390875832,
+    "tbt_ms": 533
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Avoimen lähdekoodin ilmaisversio (0 €/kk) + julkinen hinnasto etusivulla: 4,17 €/kk, 10,42 €/kk ja alkaen 50 €/kk — läpinäkyvyys poikkeuksellinen",
+    "30 päivän kokeilujakso ennen tilauksen tekemistä, lisäksi itse ohjelmisto täysin ilmainen paikalliseen käyttöön",
+    "Verkkolaskuintegraatio (lähetys ja vastaanotto) sekä WebService-pankkiyhteys mainittuna etusivulla"
+   ],
+   "kehityskohteet": [
+    "Puhelintuki on maksullinen premium-numero (0600 30 5000, 1,98 €/min) — ilmaiskäyttäjät eivät saa henkilökohtaista tukea lainkaan",
+    "Mobiilisovellusta ei mainita — ohjelmisto on selainpohjainen tai desktop-asennettava",
+    "Y-tunnus (3093902-7) ei näy verkkosivustolla; ainoastaan 'Kitsas Oy' footerissa"
+   ],
+   "yhteenveto": "Kitsas on Kitsas Oy:n (Y-tunnus 3093902-7) avoimen lähdekoodin kirjanpito-ohjelmisto, joka on ilmainen paikalliseen käyttöön (tallentaa tietoja omalle koneelle) ja saatavilla edullisena pilvitilauksena alkaen 4,17 €/kk. Hinnoittelu ja 30 päivän kokeilujakso ovat avoimesti esillä etusivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "procountor",
+   "nimi": "Procountor",
+   "domain": "procountor.fi",
+   "omistaja": "Finago Oy (ent. Accountor Finago Oy, nimi muuttui 19.11.2025) — Accountor Group -konsernin omistama; pilvipalvelu kirjanpitoon, palkanlaskentaan ja laskutukseen",
+   "y_tunnus": "0836922-4",
+   "rekisteroity": 1991,
+   "score": 74.3,
+   "pillars": {
+    "digitaalinen": 64.7,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 61.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "23/100",
+       "paino": 40,
+       "pisteet": 23,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla banneri 'Finago Procountorin kk-maksut nyt jopa -40 %' viittaa kuukausimaksuihin, mutta hinnastoa ei löydä sivustolta (procountor.fi/hinnasto/ → HTTP 404). Solo-sivulla mainitaan '9,99 € / kk' pankkiyhteyspalvelulle, mutta ohjelmiston oma hinnoittelu ei ole näkyvissä."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaisella sivulla on 'Kokeile maksutta' -painike navigaatiossa. Solo-sivulla 'Uudelle yritykselle vuosi ilman kuukausimaksua' -kampanjaetu."
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /integraatiot/-sivu on olemassa (HTTP 200). Etusivulla: 'Procountor Store — Löydä parhaat ratkaisut tehostamaan liiketoimintaasi lukuisten palveluiden, lisäominaisuuksien ja yli 100 ohjelmistokumppanin joukosta.' Pankkipalvelut, palkanlaskenta ja laskutus mainittu erikseen."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: 'Asiakaspalvelu palvelee sinua arkisin klo 8.30-16. Tavoitat meidät puhelimitse ma-pe klo 8:30-12:00. Puh. 020 7879 840.' Tuki suomeksi, tukipyyntöjä käsitellään klo 16 asti."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa lukee '© 2026 Finago Oy', omistavan yhtiön nimi on julkisesti näkyvissä. Y-tunnus-numeroa (0836922-4) ei kuitenkaan näytetä erikseen missään löydetyssä sivussa."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on Procountor ohjekirja, Kampus-oppimisalusta ('maksuton, kaikki taitotasot huomioiva verkko-oppimisalusta') sekä Procobotti ohjelmiston sisällä. Linkit ohjekirjoihin näkyvät tukisivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla: 'Puh. 020 7879 840', aukiolo ma-pe klo 8:30-12:00."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 404-sivun yhteystiedoissa: 'koulutus@procountor.com' ja 'integrations@procountor.com' näkyvissä. Yleistukeen ohjataan lomakkeella."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Asiakaspalvelu palvelee sinua arkisin klo 8.30-16', puhelinpalvelu ma-pe klo 8:30-12:00."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Mobiilikäyttö — Ota talousrutiinit haltuun helposti matkapuhelimella' mainitaan erillisenä ominaisuutena."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 23,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 18207.425,
+    "cls": 0.212636695018226,
+    "tbt_ms": 6130.179999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yli 100 ohjelmistokumppanin integraatioekosysteemi ja oma Procountor Store integraatioille",
+    "Maksuton Kampus-oppimisalusta ja kattava suomenkielinen ohjekirja kaikille taitotasoille",
+    "Ilmainen kokeilu (Kokeile maksutta) tarjolla suoraan etusivulta ilman rekisteröintiä"
+   ],
+   "kehityskohteet": [
+    "Hinnaston sivut palauttavat HTTP 404 — varsinainen kuukausihinta ei ole julkisesti löydettävissä verkkosivustolta",
+    "Y-tunnus (0836922-4) ei näytetä sivustolla; footerissa näkyy vain 'Finago Oy' ilman rekisterinumeroa",
+    "Chat-tukea ei ole julkisella verkkosivustolla; Procobotti on vain kirjautuneiden käyttäjien käytettävissä ohjelmiston sisällä"
+   ],
+   "yhteenveto": "Procountor on Finago Oy:n (ent. Accountor Finago Oy, Y-tunnus 0836922-4) taloushallinto-ohjelmisto pk-yrityksille ja yksinyrittäjille, saatavilla osoitteessa procountor.fi. Ohjelmistoon saa ilmaisen kokeilujakson ja integraatioekosysteemi kattaa yli 100 kumppania, mutta kuukausihinta ei ole julkisesti esillä verkkosivustolla: hinnastosivut palauttavat 404-virheen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "fennoa",
+   "nimi": "Fennoa",
+   "domain": "fennoa.com",
+   "omistaja": "Fennoa Oy (ent. BIS Network Oy) — suomalainen; pilvikirjanpito-ohjelmisto erityisesti pienyrityksille ja yrittäjille",
+   "y_tunnus": "2593931-3",
+   "rekisteroity": 2014,
+   "score": 61.2,
+   "pillars": {
+    "digitaalinen": 70.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 62.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /hinnoittelu/-sivu on olemassa (HTTP 200) ja sisältää HeadQ-hinnoittelulaskurin, mutta hinnat latautuvat JavaScriptillä — evästeiden hyväksymistä vaaditaan. Tekstinä näkyy vain 'Hinnoittelumalli' -otsikko ilman eurohinnoittelua."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita ilmaista kokeilujaksoa. Navigaatiossa ja painikkeissa toistuu 'Varaa demo' — myyntiyhteydenotto esittelyn kautta on ainoa tutustumistapa."
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /integraatiot/-sivu on olemassa (HTTP 200, uudelleenohjautuu /ohjelmisto/integraatiot). Sivulla: 'Alta löydät listan Fennoan valmiista integraatioista. Jos haluttua integraatiota ei löydy, niin löydät ohjeet uuden integraation toteutukseen.' Maksuliikenne ja pankki -integraatiot mainittu erikseen."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikki sivut suomeksi. Footerissa 'Ota yhteyttä' -linkki. Tietosuojaselosteessa 'tietosuoja@fennoa.com' yhteystieto. Sivusto on täysin suomenkielinen."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa: 'Fennoa Oy (2593931-3), jonka rekisteröity toimipaikka on osoitteessa PL 100, 13131 Hämeenlinna.'"
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa: 'Ohjeet', 'Oppaat', 'Blogi', 'Koulutukset', 'Videokirjasto', 'Tapahtumat'. Footerissa: 'Tietopankki' ja 'Koulutukset'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa näkyy 'tietosuoja@fennoa.com' mutta yleistä tukisähköpostiosoitetta ei löydy etusivulta tai yhteystietosivulta (404)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Mobiilisovellus yritysten arkeen' ja navigaation tuotesivuilla 'Fennoa Mobiili' mainittuna erikseen omana ominaisuutena."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "73/100",
+       "paino": 34,
+       "pisteet": 73,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11687.656,
+    "cls": 0.07311645026566158,
+    "tbt_ms": 3710.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Avainlippu-sertifikaatti (merkki suomalaisesta palvelusta) ja kotimaiset palvelimet Suomessa — tietosuojan läpinäkyvyys korostettu",
+    "Fennoa Mobiili -sovellus mainittu erikseen, kirjanpito mahdollista liikkeellä",
+    "Kattava oppimisympäristö: Tietopankki, Koulutukset, Oppaat, Videokirjasto ja Blogi"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelukalenteri vaatii JavaScriptiä ja evästeiden hyväksymistä — hinta ei näy ilman selaimen tukea, mikä vaikeuttaa vertailua",
+    "Ilmaista kokeilujaksoa ei tarjota — vain 'Varaa demo' myyntiesittelyn kautta",
+    "Puhelinnumero tai yleinen tukisähköposti puuttuu verkkosivustolta — yhteystietosivu palauttaa 404-virheen"
+   ],
+   "yhteenveto": "Fennoa on Fennoa Oy:n (Y-tunnus 2593931-3) suomalainen taloushallinto-ohjelmisto, jota myydään pääasiassa tilitoimistojen kautta. Sivustolla on kattava oppimisympäristö ja Avainlippu-sertifikaatti suomalaisesta palvelusta, mutta hinnoittelu edellyttää JavaScript-renderöintiä eikä ole nähtävissä ilman evästeiden hyväksymistä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Avainlippu (suomalainen palvelu)",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://fennoa.com/"
+    }
+   ]
+  },
+  {
+   "slug": "lemonsoft",
+   "nimi": "Lemonsoft",
+   "domain": "lemonsoft.fi",
+   "omistaja": "Lemonsoft Oyj — suomalainen, pörssilistattu Nasdaq First North (2021); ERP + taloushallinto pk-yrityksille; tuotenimiä: WorkIn, Käyttösofta",
+   "y_tunnus": "2017863-1",
+   "rekisteroity": 2006,
+   "score": 57.9,
+   "pillars": {
+    "digitaalinen": 67.9,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 50.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita euromääräisiä hintoja missään. Kaikissa toimintakehotteissa 'Ota yhteyttä', 'Pyydä demo', 'Tutustu ratkaisuihin' — ei itsepalvelutilauksia eikä hinnastosivuja."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita ilmaista kokeilujaksoa. 'Ota yhteyttä' ja 'Pyydä demo' -painikkeet johtavat myyntiorganisaatiolle — trial-mahdollisuutta ei esitellä."
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Laajennukset ja integraatiot' -osio sisältää: Finazilla for Lemonsoft, Verkkopalveluratkaisut, Integraatiot ja Mobiilisovellukset. Integraatioekosysteemi laajasti kuvattu."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer: 'Service Desk — Soita: 010 328 1010, Email: info@lemonsoft.fi'. Sivusto täysin suomeksi."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tietosuojaselosteessa: 'Lemonsoft Oyj, Vaasanpuistikko 20 A, 65100 VAASA, info@lemonsoft.fi, Y-tunnus 2017863-1'. Y-tunnus eksplisiittisesti esillä."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa: 'Tietopankki', 'Blogi', 'Podcast', 'Oppaat', 'Ohjelmakohtaiset kuvaukset', 'Asiakastarinat' — kattava tietopankkirakenne ohjemateriaaleineen."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa: 'Soita: 010 328 1010' (Service Desk)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa: 'Email: info@lemonsoft.fi' ja tietosuojaselosteessa sama sähköposti."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei varsinaista UKK-sivua, mutta Tietopankki, Blogi ja Ohjelmakohtaiset kuvaukset toimivat ohjekeskuksena. Perinteistä Q&A-osiota ei ole."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Navigaatiossa 'Mobiilisovellukset' oma linkki. Sovellukset: 'Kellokortti Työajanseuranta' ja 'Duunissa Työajanseuranta pienille yrityksille' — molemmat mobiilikäyttöön."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 88,
+    "seo": 85,
+    "best_practices": 77,
+    "lcp_ms": 8489.862000000001,
+    "cls": 0.0004295857312862845,
+    "tbt_ms": 690
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus (2017863-1) löytyy tietosuojaselosteesta ja Lemonsoft Oyj -nimi on selkeästi esillä footerissa — omistajan tunnistaminen helppoa",
+    "Laaja integraatiovalikoima ja mobiilisovellukset (Kellokortti, Duunissa) — myös pienille yrityksille suunnattuja ratkaisuja löytyy",
+    "Suomenkielinen Service Desk puhelimella (010 328 1010) ja sähköpostilla (info@lemonsoft.fi) sekä Tietopankki, Blogi ja Oppaat ohjemateriaalina"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelua ei ole julkisesti saatavilla lainkaan — kaikki ostoprosessit edellyttävät myyntiyhteydenottoa tai demopyyntöä",
+    "Ilmaista kokeilujaksoa ei tarjota — ERP-järjestelmä myydään demoesittelyn ja henkilökohtaisen tarjouksen kautta",
+    "Yhteystiedot-sivu palauttaa 404-virheen; asiakaspalvelunumerot löytyvät vain footerista, ei omalta sivulta"
+   ],
+   "yhteenveto": "Lemonsoft Oyj (Y-tunnus 2017863-1, Nasdaq First North -listattu 2021) kehittää toiminnanohjausjärjestelmiä (ERP) etenkin teollisuudelle ja tukkukaupoille. Vaikka ekosysteemissä on myös pienille yrityksille soveltuvat Kellokortti- ja Duunissa-sovellukset, itse pääohjelmiston hinnoittelu on täysin salattu — vertailu pelkästään verkkosivun perusteella ei onnistu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "holvi",
+   "nimi": "Holvi",
+   "domain": "holvi.com",
+   "omistaja": "Holvi Payment Services Oy — BBVA S.A. (Espanja) omistaa; yritystili ja valmisteleva kirjanpito yksinyrittäjille ja pk-yrityksille; holvi.com/fi/",
+   "y_tunnus": "2193756-4",
+   "rekisteroity": 2008,
+   "score": 57.4,
+   "pillars": {
+    "digitaalinen": 60.2,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 51.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "23/100",
+       "paino": 40,
+       "pisteet": 23,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /fi/hinnoittelu/ palauttaa HTTP 404 sekä ilman JavaScript-renderöintiä että sen kanssa. Etusivulla ei ole eurohinnoittelua — mainintana vain '1,5 % korkoa Holvi Business -asiakkaille' ja 'Tutustu hinnoitteluun' -painike joka johtaa 404-sivulle."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla 'Avaa Holvi' -painike ja 'Voit avata Holvi-tilin verkossa helposti ja nopeasti — vaikka suoraan kotisohvalta', mikä viittaa maksuttomaan aloitusmahdollisuuteen. Eksplisiittistä 'ilmainen kokeilu' -tekstiä ei löytynyt."
+      },
+      {
+       "mittari": "Integraatiot (pankit, laskutus, palkka) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa: 'Yhteydet', 'Pankkiyhteydet Uutta' navigaatiossa. Tukisivustolla oma 'Yhteydet'-kategoria: 'Lisätietoja Holvin pankkiyhteyksistä sekä maksuliikeaineistojen välityksestä.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla: 'Asiakastuki, joka puhuu kanssasi samaa kieltä — asiantuntijamme ovat arkisin vain puhelinsoiton päässä.' Tukikeskus (support.holvi.com/hc/fi) on täysin suomenkielinen."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa ja tukisivustolla: 'Holvi Payment Services Oy on maksulaitos, jolla on Finanssivalvonnan myöntämä maksulaitoksen toimilupa.' Yhtiönimi on esillä mutta Y-tunnusta (2193756-4) ei näytetä."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: support.holvi.com/hc/fi on kattava suomenkielinen tukikeskus: kategoriat Tilin avaaminen, Yritystili, Maksukortit, Laskutus, Kirjanpito ja Holvi Zen & Holvi Zen+, Vakuutukset, Palkanlaskenta sekä Holvipedia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 404-sivulla ja tukikeskuksen footerissa: 'support@holvi.com' esillä. Tukisivulla 'Lähetä pyyntö' ja 'Ota yhteyttä tukitiimiimme'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerin navigaatiossa 'Mobiilisovellus' omana linkkinä. Etusivulla: 'Kuitit kuvataan suoraan sovellukseen, joten kirjanpito pysyy selkeänä.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 23,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 58,
+    "lcp_ms": 13250.326544999998,
+    "cls": 0.1580466942578865,
+    "tbt_ms": 9194.36046
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava suomenkielinen tukikeskus (support.holvi.com/hc/fi) UKK-osioilla kirjanpidosta, laskutuksesta, palkoista ja turvallisuudesta",
+    "Suomenkielinen asiakaspalvelu puhelimitse arkisin sekä support@holvi.com sähköposti",
+    "Mobiilisovellus yrityksen arkeen: kuittikuvaus, kortit ja laskutus suoraan puhelimesta"
+   ],
+   "kehityskohteet": [
+    "Kuukausihintaa ei löydy mistään verkkosivun sivulta — /fi/hinnoittelu/ palauttaa 404; käyttäjä ei voi vertailla hintoja ennen tilin avaamista",
+    "Y-tunnusta (2193756-4) tai BBVA-omistajuutta ei mainita julkisella verkkosivustolla — vain 'Holvi Payment Services Oy' näkyy footerissa ilman rekisterinumeroa",
+    "Puhelinnumeroa ei ole näkyvissä etusivulla; tukeen ohjataan fraasilla 'arkisin vain puhelinsoiton päässä' ilman tarkkaa numeroa tai aukioloaikaa"
+   ],
+   "yhteenveto": "Holvi on Holvi Payment Services Oy:n (Y-tunnus 2193756-4, omistaja BBVA S.A./Espanja) yhdistetty yritystili ja taloushallinnon työkalu yksinyrittäjille ja pk-yrityksille. Suomenkielinen tukikeskus on kattava, mutta kuukausihintaa ei löydy verkkosivustolta lainkaan — hinnoittelusivu palauttaa 404-virheen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": [],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Finanssivalvonnan maksulaitoksen toimilupa",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "https://holvi.com/fi/"
+    }
+   ]
+  }
+ ],
+ "updated": "4.8.2026",
+ "opas": {
+  "johdanto": "Suomessa on tarjolla useita pilvipohjaisia kirjanpito-ohjelmistoja pk-yrityksille ja yksinyrittäjille. Netvisor, Procountor, Fennoa, Holvi, Kitsas ja Lemonsoft eroavat toisistaan kohderyhmän, hinnoittelun läpinäkyvyyden ja ominaisuuksien suhteen selvästi. Netvisor ja Procountor sopivat laajempaa taloushallintoa tarvitseville yrityksille, Holvi ja Kitsas pienille yrittäjille, Fennoa pääasiassa tilitoimistoille ja Lemonsoft ERP-ratkaisua hakeville teollisuuden ja tukkukaupan yrityksille.",
+  "huomioita": [
+   "Netvisor on ainoa vertailluista ohjelmistoista, joka näyttää kuukausihinnan selkeästi etusivullaan (alkaen 25 €/kk). Muiden ohjelmistojen hinnoittelu vaatii myyntiyhteydenoton tai perehtymistä piilotettuihin sivuihin.",
+   "Holvin hinnoittelusivu (holvi.com/fi/hinnoittelu/) palauttaa 404-virheen — hinnat eivät ole julkisesti saatavilla lainkaan. Hinnan selvittäminen vaatii tilin avaamisen.",
+   "Procountor (Finago Oy) on Accountor-konsernin omistama. Netvisor (Visma Solutions Oy) kuuluu norjalaiseen Visma Group -konserniin. Holvi on espanjalaisen BBVA:n omistama. Fennoa ja Kitsas ovat suomalaisia riippumattomia yhtiöitä.",
+   "Kitsas on ainoa avoimen lähdekoodin vaihtoehto — ohjelmisto on ilmainen paikalliseen käyttöön, ja hinnat julkaistetaan selkeästi etusivulla. Hyvä valinta pienelle yritykselle, jolla on osaamista itse hallita kirjanpitoaan.",
+   "Lemonsoft on listattuna Nasdaq First North -markkinapaikalla ja kohdistuu selkeästi teollisuuteen ja tukkukauppaan. Se ei ole vertailukelpoinen samassa kategoriassa kuin muut itseohjautuvaan pk-käyttöön suunnatut ohjelmistot."
+  ],
+  "vinkit": [
+   "Vertaile hintoja ennen ostopäätöstä: pyydä tarjous myyntitiimiltä ja kysy kokonaiskustannus sisältäen käyttöönoton, koulutuksen ja vuosimaksut.",
+   "Varmista, että ohjelmisto integroituu käyttämääsi pankkiin — pankkiyhteys ja SEPA-maksut ovat olennaisia ominaisuuksia suomalaiselle yrittäjälle.",
+   "Jos olet yksinyrittäjä tai ammatinharjoittaja, Kitsas tai Holvi voivat riittää — laajempi ERP kuten Netvisor tai Lemonsoft on ylimitoitettu.",
+   "Tarkista ohjelmiston ALV-käsittely erityisesti, jos myyt EU:n ulkopuolelle tai sinulla on käännetty verovelvollisuus.",
+   "Pyydä aina ilmainen kokeilujakso ennen sitoutumista: Netvisor tarjoaa kuukauden ilmaiseksi, Kitsas 30 päivää, Procountor koekäytön pyydettäessä."
+  ],
+  "ukk": [
+   {
+    "q": "Mikä on paras kirjanpito-ohjelma pienelle yritykselle?",
+    "a": "Se riippuu tarpeistasi. Kitsas on ilmainen avoimen lähdekoodin vaihtoehto yksinkertaiseen kirjanpitoon. Holvi sopii yksinyrittäjille, jotka haluavat yritystilin ja kirjanpidon samassa paikassa. Netvisor on monipuolisin, mutta myös monimutkaisin ja hintaisin ratkaisu kasvavalle pk-yritykselle."
+   },
+   {
+    "q": "Onko Holvin hinnoittelu esillä verkkosivuilla?",
+    "a": "Ei. Holvin hinnoittelusivu (holvi.com/fi/hinnoittelu/) palauttaa 404-virheen mittaushetkellä elokuussa 2026. Hinnat selviävät vasta tilin avaamisen jälkeen."
+   },
+   {
+    "q": "Mitä eroa on Netvisorin ja Procountorin välillä?",
+    "a": "Molemmat ovat laajoja pilvikirjanpito-ohjelmistoja suomalaisille yrityksille. Netvisor näyttää hinnan selkeästi etusivullaan (alkaen 25 €/kk) ja tarjoaa laajan integraatiomarkkinapaikan. Procountor on vahva tilitoimistoyhteistyön ja palkanlaskennan osalta, mutta hinnoittelu ei ole julkisesti esillä."
+   },
+   {
+    "q": "Sopiiko Lemonsoft pk-yritykselle?",
+    "a": "Lemonsoft on pääasiassa teollisuuden ja tukkukaupan ERP-järjestelmä, ei perinteinen kirjanpito-ohjelma itseohjautuvaan pk-käyttöön. Hinnoittelu vaatii myyntiyhteydenoton. Lemonsoft Oyj:llä on kuitenkin erillisiä piensovelluksia kuten Kellokortti ja Duunissa, jotka sopivat pienemmille yrityksille."
+   },
+   {
+    "q": "Onko Fennoa tarkoitettu tilitoimistoille vai yrittäjille itse?",
+    "a": "Fennoa on suunniteltu pääasiassa tilitoimistojen käyttöön, vaikka suora asiakkuus on mahdollinen. Hinnoittelu ei näy sivustolla ilman JavaScriptiä, eikä ilmaista kokeilujaksoa ole tarjolla — ensin vaaditaan 'Varaa demo' -myyntikohtaaminen."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta tai hinnoittelu julkisesti esillä (30), ilmainen kokeilujakso tai freemium tarjolla (20), integraatiot (pankit, laskutus, palkka) kuvattu (20), suomenkielinen asiakastuki mainittu (15), Y-tunnus tai omistava yhtiö esillä (10), ohjekeskus, oppaat tai UKK saatavilla (5)"
+}

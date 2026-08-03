@@ -1,0 +1,43 @@
+{
+  "slug": "lemonsoft",
+  "fetched_ok": [
+    "https://lemonsoft.fi/",
+    "https://lemonsoft.fi/tietosuojaseloste/"
+  ],
+  "hinta_esilla": "ei",
+  "ilmainen_kokeilu": "ei",
+  "integraatiot_kuvattu": "kylla",
+  "tuki_suomeksi": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "ukk_ja_ohjeet": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 5, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Y-tunnus (2017863-1) löytyy tietosuojaselosteesta ja Lemonsoft Oyj -nimi on selkeästi esillä footerissa — omistajan tunnistaminen helppoa",
+    "Laaja integraatiovalikoima ja mobiilisovellukset (Kellokortti, Duunissa) — myös pienille yrityksille suunnattuja ratkaisuja löytyy",
+    "Suomenkielinen Service Desk puhelimella (010 328 1010) ja sähköpostilla (info@lemonsoft.fi) sekä Tietopankki, Blogi ja Oppaat ohjemateriaalina"
+  ],
+  "kehityskohteet": [
+    "Hinnoittelua ei ole julkisesti saatavilla lainkaan — kaikki ostoprosessit edellyttävät myyntiyhteydenottoa tai demopyyntöä",
+    "Ilmaista kokeilujaksoa ei tarjota — ERP-järjestelmä myydään demoesittelyn ja henkilökohtaisen tarjouksen kautta",
+    "Yhteystiedot-sivu palauttaa 404-virheen; asiakaspalvelunumerot löytyvät vain footerista, ei omalta sivulta"
+  ],
+  "yhteenveto": "Lemonsoft Oyj (Y-tunnus 2017863-1, Nasdaq First North -listattu 2021) kehittää toiminnanohjausjärjestelmiä (ERP) etenkin teollisuudelle ja tukkukaupoille. Vaikka ekosysteemissä on myös pienille yrityksille soveltuvat Kellokortti- ja Duunissa-sovellukset, itse pääohjelmiston hinnoittelu on täysin salattu — vertailu pelkästään verkkosivun perusteella ei onnistu.",
+  "evidence": {
+    "hinta_esilla": "HAVAINTO: Sivustolla ei mainita euromääräisiä hintoja missään. Kaikissa toimintakehotteissa 'Ota yhteyttä', 'Pyydä demo', 'Tutustu ratkaisuihin' — ei itsepalvelutilauksia eikä hinnastosivuja.",
+    "ilmainen_kokeilu": "HAVAINTO: Sivustolla ei mainita ilmaista kokeilujaksoa. 'Ota yhteyttä' ja 'Pyydä demo' -painikkeet johtavat myyntiorganisaatiolle — trial-mahdollisuutta ei esitellä.",
+    "integraatiot_kuvattu": "HAVAINTO: Navigaatiossa 'Laajennukset ja integraatiot' -osio sisältää: Finazilla for Lemonsoft, Verkkopalveluratkaisut, Integraatiot ja Mobiilisovellukset. Integraatioekosysteemi laajasti kuvattu.",
+    "tuki_suomeksi": "HAVAINTO: Footer: 'Service Desk — Soita: 010 328 1010, Email: info@lemonsoft.fi'. Sivusto täysin suomeksi.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojaselosteessa: 'Lemonsoft Oyj, Vaasanpuistikko 20 A, 65100 VAASA, info@lemonsoft.fi, Y-tunnus 2017863-1'. Y-tunnus eksplisiittisesti esillä.",
+    "ukk_ja_ohjeet": "HAVAINTO: Navigaatiossa: 'Tietopankki', 'Blogi', 'Podcast', 'Oppaat', 'Ohjelmakohtaiset kuvaukset', 'Asiakastarinat' — kattava tietopankkirakenne ohjemateriaaleineen.",
+    "puhelin_esilla": "HAVAINTO: Footerissa: 'Soita: 010 328 1010' (Service Desk).",
+    "email_esilla": "HAVAINTO: Footerissa: 'Email: info@lemonsoft.fi' ja tietosuojaselosteessa sama sähköposti.",
+    "mobiilisovellus": "HAVAINTO: Navigaatiossa 'Mobiilisovellukset' oma linkki. Sovellukset: 'Kellokortti Työajanseuranta' ja 'Duunissa Työajanseuranta pienille yrityksille' — molemmat mobiilikäyttöön.",
+    "ukk_osio": "HAVAINTO: Ei varsinaista UKK-sivua, mutta Tietopankki, Blogi ja Ohjelmakohtaiset kuvaukset toimivat ohjekeskuksena. Perinteistä Q&A-osiota ei ole."
+  }
+}

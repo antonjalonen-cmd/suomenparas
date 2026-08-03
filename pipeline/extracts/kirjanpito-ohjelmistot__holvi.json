@@ -1,0 +1,42 @@
+{
+  "slug": "holvi",
+  "fetched_ok": [
+    "https://holvi.com/fi/",
+    "https://holvi.com/fi/hinnoittelu/",
+    "https://support.holvi.com/hc/fi"
+  ],
+  "hinta_esilla": "ei",
+  "ilmainen_kokeilu": "osittain",
+  "integraatiot_kuvattu": "kylla",
+  "tuki_suomeksi": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "ukk_ja_ohjeet": "kylla",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 72},
+  "vahvuudet": [
+    "Kattava suomenkielinen tukikeskus (support.holvi.com/hc/fi) UKK-osioilla kirjanpidosta, laskutuksesta, palkoista ja turvallisuudesta",
+    "Suomenkielinen asiakaspalvelu puhelimitse arkisin sekä support@holvi.com sähköposti",
+    "Mobiilisovellus yrityksen arkeen: kuittikuvaus, kortit ja laskutus suoraan puhelimesta"
+  ],
+  "kehityskohteet": [
+    "Kuukausihintaa ei löydy mistään verkkosivun sivulta — /fi/hinnoittelu/ palauttaa 404; käyttäjä ei voi vertailla hintoja ennen tilin avaamista",
+    "Y-tunnusta (2193756-4) tai BBVA-omistajuutta ei mainita julkisella verkkosivustolla — vain 'Holvi Payment Services Oy' näkyy footerissa ilman rekisterinumeroa",
+    "Puhelinnumeroa ei ole näkyvissä etusivulla; tukeen ohjataan fraasilla 'arkisin vain puhelinsoiton päässä' ilman tarkkaa numeroa tai aukioloaikaa"
+  ],
+  "yhteenveto": "Holvi on Holvi Payment Services Oy:n (Y-tunnus 2193756-4, omistaja BBVA S.A./Espanja) yhdistetty yritystili ja taloushallinnon työkalu yksinyrittäjille ja pk-yrityksille. Suomenkielinen tukikeskus on kattava, mutta kuukausihintaa ei löydy verkkosivustolta lainkaan — hinnoittelusivu palauttaa 404-virheen.",
+  "evidence": {
+    "hinta_esilla": "HAVAINTO: /fi/hinnoittelu/ palauttaa HTTP 404 sekä ilman JavaScript-renderöintiä että sen kanssa. Etusivulla ei ole eurohinnoittelua — mainintana vain '1,5 % korkoa Holvi Business -asiakkaille' ja 'Tutustu hinnoitteluun' -painike joka johtaa 404-sivulle.",
+    "ilmainen_kokeilu": "HAVAINTO: Etusivulla 'Avaa Holvi' -painike ja 'Voit avata Holvi-tilin verkossa helposti ja nopeasti — vaikka suoraan kotisohvalta', mikä viittaa maksuttomaan aloitusmahdollisuuteen. Eksplisiittistä 'ilmainen kokeilu' -tekstiä ei löytynyt.",
+    "integraatiot_kuvattu": "HAVAINTO: Footerissa: 'Yhteydet', 'Pankkiyhteydet Uutta' navigaatiossa. Tukisivustolla oma 'Yhteydet'-kategoria: 'Lisätietoja Holvin pankkiyhteyksistä sekä maksuliikeaineistojen välityksestä.'",
+    "tuki_suomeksi": "HAVAINTO: Etusivulla: 'Asiakastuki, joka puhuu kanssasi samaa kieltä — asiantuntijamme ovat arkisin vain puhelinsoiton päässä.' Tukikeskus (support.holvi.com/hc/fi) on täysin suomenkielinen.",
+    "y_tunnus_esilla": "HAVAINTO: Footerissa ja tukisivustolla: 'Holvi Payment Services Oy on maksulaitos, jolla on Finanssivalvonnan myöntämä maksulaitoksen toimilupa.' Yhtiönimi on esillä mutta Y-tunnusta (2193756-4) ei näytetä.",
+    "ukk_ja_ohjeet": "HAVAINTO: support.holvi.com/hc/fi on kattava suomenkielinen tukikeskus: kategoriat Tilin avaaminen, Yritystili, Maksukortit, Laskutus, Kirjanpito ja Holvi Zen & Holvi Zen+, Vakuutukset, Palkanlaskenta sekä Holvipedia.",
+    "email_esilla": "HAVAINTO: 404-sivulla ja tukikeskuksen footerissa: 'support@holvi.com' esillä. Tukisivulla 'Lähetä pyyntö' ja 'Ota yhteyttä tukitiimiimme'.",
+    "mobiilisovellus": "HAVAINTO: Footerin navigaatiossa 'Mobiilisovellus' omana linkkinä. Etusivulla: 'Kuitit kuvataan suoraan sovellukseen, joten kirjanpito pysyy selkeänä.'"
+  }
+}

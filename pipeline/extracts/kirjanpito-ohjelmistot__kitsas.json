@@ -1,0 +1,42 @@
+{
+  "slug": "kitsas",
+  "fetched_ok": [
+    "https://kitsas.fi/",
+    "https://kitsas.fi/tuki/"
+  ],
+  "hinta_esilla": "kylla",
+  "ilmainen_kokeilu": "kylla",
+  "integraatiot_kuvattu": "kylla",
+  "tuki_suomeksi": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "ukk_ja_ohjeet": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 95, "sisallon_kattavuus": 72},
+  "vahvuudet": [
+    "Avoimen lähdekoodin ilmaisversio (0 €/kk) + julkinen hinnasto etusivulla: 4,17 €/kk, 10,42 €/kk ja alkaen 50 €/kk — läpinäkyvyys poikkeuksellinen",
+    "30 päivän kokeilujakso ennen tilauksen tekemistä, lisäksi itse ohjelmisto täysin ilmainen paikalliseen käyttöön",
+    "Verkkolaskuintegraatio (lähetys ja vastaanotto) sekä WebService-pankkiyhteys mainittuna etusivulla"
+  ],
+  "kehityskohteet": [
+    "Puhelintuki on maksullinen premium-numero (0600 30 5000, 1,98 €/min) — ilmaiskäyttäjät eivät saa henkilökohtaista tukea lainkaan",
+    "Mobiilisovellusta ei mainita — ohjelmisto on selainpohjainen tai desktop-asennettava",
+    "Y-tunnus (3093902-7) ei näy verkkosivustolla; ainoastaan 'Kitsas Oy' footerissa"
+  ],
+  "yhteenveto": "Kitsas on Kitsas Oy:n (Y-tunnus 3093902-7) avoimen lähdekoodin kirjanpito-ohjelmisto, joka on ilmainen paikalliseen käyttöön (tallentaa tietoja omalle koneelle) ja saatavilla edullisena pilvitilauksena alkaen 4,17 €/kk. Hinnoittelu ja 30 päivän kokeilujakso ovat avoimesti esillä etusivulla.",
+  "evidence": {
+    "hinta_esilla": "HAVAINTO: Etusivulla hinnoittelu selkeästi esillä: 'Ilmainen 0 €/kk + alv 25,5%', '4,17 €/kk + alv 25,5%', '10,42 €/kk + alv 25,5%', 'alkaen 50 €/kk + alv 25,5%'. 'Katso koko hinnasto' -linkki johtaa lisätietoihin.",
+    "ilmainen_kokeilu": "HAVAINTO: Etusivulla: 'Ennen tilauksen tekemistä pääset vielä kokeilemaan ohjelman kaikkia ominaisuuksia 30 päivän kokeilujakson ajan.' Lisäksi: 'Kitsas on ilmainen, kun tallennat kirjanpidon omalle koneellesi.'",
+    "integraatiot_kuvattu": "HAVAINTO: Etusivulla: 'Verkkolaskujen vastaanottaminen ja lähettäminen suoraan ohjelmasta.' Uutisissa: 'Päivityksiä WebService-pankkiyhteydessä' — pankkiyhteys mainittu.",
+    "tuki_suomeksi": "HAVAINTO: Tukisivu: 'Kitsaan ohjeet — kattavat ohjeet Kitsaan käyttämiseen. Helpdesk — kitsas.helpdesk@taopa.fi. 0600 30 5000 arkisin klo 10-14.' Kaikki suomeksi.",
+    "y_tunnus_esilla": "HAVAINTO: Footerissa: '© 2026 Kitsas Oy' — yrityksen nimi näkyvissä. Y-tunnus-numeroa (3093902-7) ei löydetty sivustolta.",
+    "ukk_ja_ohjeet": "HAVAINTO: Navigaatiossa 'Ohjeet' -linkki. Tukisivulla: 'Kitsaan ohjeet — näiltä sivuilta löydät kattavat ohjeet Kitsaan käyttämiseen.'",
+    "puhelin_esilla": "HAVAINTO: Tukisivulla: '0600 30 5000 arkisin klo 10-14. Numero on maksullinen 1,98 € / min (sis. alv:n).'",
+    "email_esilla": "HAVAINTO: Tukisivulla: 'kitsas.helpdesk@taopa.fi'.",
+    "aukioloajat_esilla": "HAVAINTO: Tukisivulla: '0600 30 5000 arkisin klo 10-14'."
+  }
+}

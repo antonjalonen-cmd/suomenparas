@@ -1720,3 +1720,37 @@ COMPANIES["lentoyhtiot"] = [
     dict(slug="wizzair", nimi="Wizz Air", domain="wizzair.com", y_tunnus=None,
          omistaja="Wizz Air Holdings Plc (Unkari) — pörssilistattu London Stock Exchange: WIZZ; lentää Turun lentoasemalta (Vilna, Bukarest, Gdańsk); globaali sivu wizzair.com"),
 ]
+
+# ---------------------------------------------------------------------------
+# KIRJANPITO-OHJELMISTOT — 6 pk-yrityksille suunnattua taloushallinto-ohjelmistoa,
+# tarkistettu 4.8.2026. Kaikki suomalaisrekisteröityjä yhtiöitä (Y-tunnus tiedossa).
+# Netvisorilla norjalainen Visma-omistus; Holvilla espanjalainen BBVA-omistus —
+# omistajuus kerrotaan sivulla avoimesti.
+# POISSULJETUT:
+#   Passeli Merit (passeli.fi): meritaktiva.fi ohjautuu /passelimerit-sivulle — yhtiön
+#     y-tunnusta ei löydetty PRH:sta nimellä "Passeli Oy"; jätetään pois.
+#   Tikon (tikon.fi): Accountor Group -tuote, sama konserni kuin Procountor —
+#     SAME_COMPANY-este, ei voida mitata erikseen.
+#   Fivaldi (fivaldi.fi): Visma Solutions Oy:n tuote, sama yhtiö kuin Netvisor —
+#     SAME_COMPANY-este.
+#   Heeros (heeros.com): suunnattu tilitoimistoille, ei yrittäjän itsensä valittavaksi.
+COMPANIES["kirjanpito-ohjelmistot"] = [
+    dict(slug="procountor", nimi="Procountor", domain="procountor.fi",
+         y_tunnus="0836922-4",
+         omistaja="Finago Oy (ent. Accountor Finago Oy, nimi muuttui 19.11.2025) — Accountor Group -konsernin omistama; pilvipalvelu kirjanpitoon, palkanlaskentaan ja laskutukseen"),
+    dict(slug="netvisor", nimi="Netvisor", domain="netvisor.fi",
+         y_tunnus="1967543-8",
+         omistaja="Visma Solutions Oy (ent. Netvisor Oy) — norjalainen Visma Group -konserni omistaa; pilvipohjainen ERP- ja taloushallinto-ohjelmisto"),
+    dict(slug="fennoa", nimi="Fennoa", domain="fennoa.com",
+         y_tunnus="2593931-3",
+         omistaja="Fennoa Oy (ent. BIS Network Oy) — suomalainen; pilvikirjanpito-ohjelmisto erityisesti pienyrityksille ja yrittäjille"),
+    dict(slug="holvi", nimi="Holvi", domain="holvi.com",
+         y_tunnus="2193756-4",
+         omistaja="Holvi Payment Services Oy — BBVA S.A. (Espanja) omistaa; yritystili ja valmisteleva kirjanpito yksinyrittäjille ja pk-yrityksille; holvi.com/fi/"),
+    dict(slug="kitsas", nimi="Kitsas", domain="kitsas.fi",
+         y_tunnus="3093902-7",
+         omistaja="Kitsas Oy — suomalainen avoimen lähdekoodin kirjanpito-ohjelmisto; ilmaisversio + maksullinen pilvipalvelu"),
+    dict(slug="lemonsoft", nimi="Lemonsoft", domain="lemonsoft.fi",
+         y_tunnus="2017863-1",
+         omistaja="Lemonsoft Oyj — suomalainen, pörssilistattu Nasdaq First North (2021); ERP + taloushallinto pk-yrityksille; tuotenimiä: WorkIn, Käyttösofta"),
+]
