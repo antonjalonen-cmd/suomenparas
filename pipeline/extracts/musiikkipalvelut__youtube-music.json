@@ -1,0 +1,41 @@
+{
+  "slug": "youtube-music",
+  "fetched_ok": [
+    "https://music.youtube.com/",
+    "https://music.youtube.com/premium",
+    "https://support.google.com/youtube/answer/6308116?hl=fi"
+  ],
+  "hinnat_esilla": "ei",
+  "tasojen_erot_kerrottu": "osittain",
+  "irtisanominen_kerrottu": "ei",
+  "omistaja_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": null,
+  "ai_arviot": {"selkeys": 18, "hintojen_loydettavyys": 5, "sisallon_kattavuus": 30},
+  "vahvuudet": [
+    "Suomenkielinen ohjesivusto (support.google.com/youtube?hl=fi) kattaa YouTube Music -ominaisuudet",
+    "Mobiilisovellus saatavilla iOS:lle ja Androidille",
+    "YouTube Music sisaltyy YouTube Premium -tilaukseen: yhteys palvelun rakenteeseen selitetty ohjekeskuksessa"
+  ],
+  "kehityskohteet": [
+    "Tilaussivusto (music.youtube.com/premium) on GDPR-evastemuuri takana: hinnat ei nayteta ilman evasteiden hyvaksymista",
+    "Hinnat, tilaustasojen erot ja peruutusohjeet eivat ole laisinkaan nahtavissa julkiselta sivulta ilman kirjautumista tai evastehyvaksyntaa",
+    "Omistajan (Google LLC / Alphabet Inc.) mainitseminen selkeasti tilaajalle puuttuu tilaussivulta kokonaan"
+  ],
+  "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisalto on GDPR-evastemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivat ole nahtavissa ilman evasteiden hyvaksymista. Ohjekeskus selittaa YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei loydy avoimelta sivulta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: music.youtube.com/premium nakyttaa GDPR-evastemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivat nayteta ennen hyvaksyntaa.",
+    "tasojen_erot_kerrottu": "HAVAINTO: support.google.com/youtube/answer/6308116 mainitsee YouTube Music Premiumin osana YouTube Premium -tilauksen etuja (mainokset pois, offline, musiikki sovelluksessa), mutta ei erittele tilausvaihtoehtoja tai hintoja.",
+    "irtisanominen_kerrottu": "HAVAINTO: Peruuttamisohjeita ei nayta julkisesti ilman evastehyvaksyntaa tilaussivustolla.",
+    "omistaja_kerrottu": "HAVAINTO: Ohjekeskuksessa tekijanoikeusteksti '2026 Google' — Google LLC mainittu implisiittisesti, mutta Alphabet Inc. -omistusrakenne ei selity kuluttajalle.",
+    "suomenkielinen_palvelu": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evastemuuri takana. Hintojen euromaaraisuus ei vahvistettavissa avoimesti.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei nayteta avoimella tilaussivulla."
+  }
+}

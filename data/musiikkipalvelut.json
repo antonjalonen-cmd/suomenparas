@@ -1,0 +1,1321 @@
+{
+ "slug": "musiikkipalvelut",
+ "nimi": "Musiikkipalvelut",
+ "nav": "Musiikki",
+ "h1": "Suomen paras musiikkipalvelu 2026",
+ "yksikko": "Suomessa myytavaa musiikkipalvelua",
+ "lead": "Pisteytimme {n} Suomessa myytavaa musiikkipalvelua {m} mittarilla. Tairkein kysymys: kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeasti ennen tilaamista?",
+ "meta_title": "Suomen paras musiikkipalvelu 2026 | palvelut pisteytettyina | Suomen Paras",
+ "meta_desc": "6 musiikkipalvelua pisteytetty lapinakyvalla kaavalla. Katso mista jokainen piste tulee.",
+ "notes": [
+  "<b>Kaikki kuusi palvelua ovat kansainvalisia yhtiota.</b> Spotify on ruotsalainen, Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien palveluita. Yksikaan ei ole suomalainen. Naytamme omistajan jokaisen kohdalla.",
+  "<b>Qobuz on listan ainoa hi-res-erikoispalvelu.</b> Se on ainoa joka markkinoi lossless- ja hi-res-aania ensisijaisena ominaisuutenaan. Muut palvelut tarjoavat korkealaatuista aanta lisatason ominaisuutena tai ei lainkaan.",
+  "<b>Emme arvioi musiikin maaraa tai soittolistoja.</b> Vertailu mittaa julkisten verkkosivujen mitattavia ominaisuuksia: hinnat, tilaustasojen erot, irtisanominen ja omistajan lapinakyyvys ennen tilaamista."
+ ],
+ "yritykset": [
+  {
+   "slug": "apple-music",
+   "nimi": "Apple Music",
+   "domain": "music.apple.com",
+   "omistaja": "Apple Inc. (Yhdysvallat) — tilaussivu apple.com/fi/apple-music/; music.apple.com on web-soitin",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 75.3,
+   "pillars": {
+    "digitaalinen": 63.0,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 92.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "24/100",
+       "paino": 40,
+       "pisteet": 24,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "82/100",
+       "paino": 30,
+       "pisteet": 82,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Oma 11,99 €/kk', 'Perhe 19,99 €/kk', 'Opiskelija vain 6,99 €/kk', 'Apple One -tilausten hinnat alkavat 20,95 € kuukaudessa'"
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaustasojen erot (yksilö vs perhe 6 henk., opiskelija + Apple TV) kuvattu. Ominaisuudet kuten lossless, Dolby Atmos, offline-lataus esitelty kaikille tasoille."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Ei sitoumuksia. Peru milloin vain.' ja alatunnisteessa: 'Tilaus uusitaan automaattisesti, kunnes se perutaan.'"
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa 'Copyright © 2026 Apple Inc. Kaikki oikeudet pidätetään.'"
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivu suomeksi (apple.com/fi/apple-music/), hinnat euroissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näy sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "92/100",
+       "paino": 34,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "94/100",
+       "paino": 33,
+       "pisteet": 94,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 24,
+    "accessibility": 82,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 13174.18,
+    "cls": 0.07954498478582786,
+    "tbt_ms": 4464.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeästi esillä: oma 11,99, perhe 19,99, opiskelija 6,99 e/kk – kaikki samalla sivulla",
+    "Peruutusohjeet yksinkertaiset: 'Ei sitoumuksia. Peru milloin vain.'",
+    "Laaja FAQ-osio selittää tilaustasojen erot, lossless-äänen, Dolby Atmosin ja laiteyhteensopivuuden"
+   ],
+   "kehityskohteet": [
+    "Riippumattomat ulkopuoliset arviot puuttuvat sivustolta",
+    "Omistajan (Apple Inc.) mainitsee vain alatunnisteessa tekijänoikeustekstissä",
+    "Ei chat-tukea tai sähköpostia suoraan tilaussivulta"
+   ],
+   "yhteenveto": "Apple Music esittää suomenkielisellä sivulla kaikki hinnat, tilaustasojen erot ja peruutusehdot selkeästi ilman kirjautumista. Puhelinnumero (0800 922 72) mainitaan alatunnisteessa. Omistaja Apple Inc. näkyy alatunnisteessa tekijänoikeustekstinä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "spotify",
+   "nimi": "Spotify",
+   "domain": "spotify.com",
+   "omistaja": "Spotify AB (Ruotsi) — porssiyhtion NYSE: SPOT; maailman suurin musiikkistriimaamo",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 70.0,
+   "pillars": {
+    "digitaalinen": 63.1,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 95.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "13/100",
+       "paino": 40,
+       "pisteet": 13,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Yksilö-Premium: Myöhemmin 12,99 €/kk', 'Opiskelija: Myöhemmin 7,49 €/kk', 'Duo: 18,49 € kuukaudessa', 'Perhe: 21,99 € kuukaudessa'"
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailutaulukko näyttää Free vs Premium erot (mainokset, offline, äänenlaatu, kuuntelujono); eri tilaustyyppien erot kuvattu erillisesti."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Voit peruuttaa tilauksen milloin vain' + FAQ: 'Voit peruuttaa Premium-tilauksesi helposti verkossa olevalta tilisivulta milloin tahansa.'"
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa '© 2026 Spotify AB' — omistava yhtiö selvästi mainittu."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivu suomeksi (spotify.com/fi/premium/), hinnat euroissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näy hinnoittelusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "96/100",
+       "paino": 34,
+       "pisteet": 96,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "98/100",
+       "paino": 33,
+       "pisteet": 98,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 13,
+    "accessibility": 99,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 25269.59306,
+    "cls": 0.5352848912824153,
+    "tbt_ms": 1043.0000000000018
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kaikki hinnat (yksilö 12,99, opiskelija 7,49, duo 18,49, perhe 21,99 e/kk) esillä selkeästi yhdellä sivulla",
+    "Peruuttamisohjeet erittäin yksityiskohtaiset: milloin tilaus päättyy, mitä tapahtuu kokeilujaksolle",
+    "Tilaustasojen erot (mainokset, offline, äänenlaatu, kuuntelujono) vertailutaulukossa"
+   ],
+   "kehityskohteet": [
+    "Ei puhelintukea eikä chatia suoraan hinnoittelusivulta",
+    "Riippumattomat arviot tai ulkopuoliset pisteytykset puuttuvat sivustolta",
+    "Omistajan (Spotify AB, Ruotsi) mainitsee vain alatunnisteessa pienellä tekstillä"
+   ],
+   "yhteenveto": "Spotify esittää kaikki hinnat ja tilaustasojen erot selkeästi suomenkielisellä sivulla ilman kirjautumista. Peruutusehdot kuvataan yksityiskohtaisesti FAQ-osiossa. Yhtiön omistaja mainitaan alatunnisteessa tekijänoikeustekstissä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "qobuz",
+   "nimi": "Qobuz",
+   "domain": "qobuz.com",
+   "omistaja": "Xandrie SA (Ranska) — yksityisomisteinen; erikoistunut hi-res/lossless-aanentoistoon; palvelu Suomessa qobuz.com/fi-en",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 57.8,
+   "pillars": {
+    "digitaalinen": 57.6,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "80/100",
+       "paino": 30,
+       "pisteet": 80,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'From €13,50 /Month* ... Monthly subscription available at €15,99/month.' Molemmat hinnat selkeasti paasivulla."
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa mainitaan Qobuz Duo, Qobuz Family, Qobuz Student -tilaukset, mutta niiden hinnat tai erot eivat naydy paasivu. Tarkkaa vertailua ei loydetty avoimelta sivulta."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: '* For a 12-month non-refundable subscription, with a single payment of €162,00. Monthly subscription available at €15,99/month.' — vuositilaus ei-palautettava, kuukausitilaus ei sido."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla (footer): '© 2026 XANDRIE SA – 45 rue de Delizy, 93692 Pantin CEDEX, France' — oikeusmuoto, osoite ja kotimaa kaikki ilmoitettu."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: qobuz.com/fi-en/ nakyttaa englanninkielisen sisallon (fi-en = Finland, English). Hinnat euroissa kyllakin. Suomenkielinen sivusto puuttuu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei naytetty paasivu tai tilaussivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 80,
+    "seo": 85,
+    "best_practices": 54,
+    "lcp_ms": 18580.682500000003,
+    "cls": 0.032892473365577164,
+    "tbt_ms": 2235.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat selkeasti esilla jo paasivu: 13,50 e/kk (vuositilaus) ja 15,99 e/kk (kuukausitilaus)",
+    "Omistaja tarkasti ilmoitettu: '© 2026 XANDRIE SA - 45 rue de Delizy, 93692 Pantin CEDEX, France'",
+    "Vuositilauksen ei-palautettavuus mainitaan selkeasti asteriskihuomautuksessa"
+   ],
+   "kehityskohteet": [
+    "Suomenkielinen palvelu puuttuu: Suomen lokaalin kieli on englanti (fi-en), ei suomi",
+    "Tilaustasojen erot (Solo, Duo, Family, Student) eivat nay vertailevana taulukkona paasivu",
+    "Yhteystiedot vain 'ota yhteytta'-linkkina; ei puhelinnumeroa, sahkopostia tai chatia"
+   ],
+   "yhteenveto": "Qobuz nayttaa hinnat selkeasti paasivu (13,50 e/kk vuosi- tai 15,99 e/kk kuukausitilaus), omistaja on tarkasti ilmoitettu (XANDRIE SA, Ranska) ja vuositilauksen ei-palautettavuus mainitaan. Heikkous: Suomen lokaalin kieli on englanti, ei suomi, joten suomenkielista asiointia ei ole. Tilaustasojen vertailu puuttuu paasivu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "deezer",
+   "nimi": "Deezer",
+   "domain": "deezer.com",
+   "omistaja": "Deezer SA (Ranska) — porssiyhtion Euronext: DEEZR; suomenkielinen palvelu deezer.com/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 56.1,
+   "pillars": {
+    "digitaalinen": 59.9,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 56.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "43/100",
+       "paino": 40,
+       "pisteet": 43,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "52/100",
+       "paino": 30,
+       "pisteet": 52,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: deezer.com/fi/offers/ nakyttaa: 'Premium vuosi: sen jalkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua."
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Premium 1 tili, Duo 2 tilia, Family 6 tilia' — tilaustyypit eroteltuna. Myos 'Musiikkia ilman mainoksia' ja 'Kuuntele ilman nettiyhteyytta' listattu premiumin eduiksi vs. Free."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Tarjoukset eivat ole sitovia, eli tilauksen voi peruuttaa milloin tahansa.' + footerissa linkki 'Peru tilaukseni'."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei naydy."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivusto suomeksi (deezer.com/fi/), hinnat euroissa (osittain nakyvissa vuosihinnat)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Paasivulla: 'Yli 3 miljoonaa 5 tahden arviota' — viittaa sovelluskauppa-arvosteluihin, mutta ei erittele lahdetta tai alustaa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "58/100",
+       "paino": 34,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 43,
+    "accessibility": 52,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 5347.323999999996,
+    "cls": 0.0002176618769553802,
+    "tbt_ms": 965
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Peruuttaminen selkeasti: 'Tarjoukset eivat ole sitovia, eli tilauksen voi peruuttaa milloin tahansa' + suora 'Peru tilaukseni' -linkki",
+    "Tilaustasojen erot (Premium/Duo/Family, kuukausi- vs vuositilaus) kuvattu tarjoussivulla",
+    "Suomenkielinen palvelu taysin lokalisoitu, sovellukset iOS:lle ja Androidille"
+   ],
+   "kehityskohteet": [
+    "Kuukausittainen perishinta ei nayty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat nakyvat",
+    "Omistaja mainitaan vain alatunnisteessa nimella 'Deezer' ilman oikeusmuotoa tai kotimaata (Deezer SA, Ranska)",
+    "Asiakastuki vain verkkolomakkeella; ei puhelinnumeroa, ei chatia"
+   ],
+   "yhteenveto": "Deezerin tarjoussivulla nakyy kolme tilaustyyppia (Premium, Duo, Family) seka vuosihinnat euroissa, mutta kuukausihinnat eivat renderoidu avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeat ja suora 'Peru tilaukseni' -linkki loytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "youtube-music",
+   "nimi": "YouTube Music",
+   "domain": "music.youtube.com",
+   "omistaja": "Alphabet Inc. / Google LLC (Yhdysvallat) — sisaltyy YouTube Premium -tilaukseen",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 42.2,
+   "pillars": {
+    "digitaalinen": 89.6,
+    "lapinakyvyys": 22.5,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 17.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "77/100",
+       "paino": 40,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: music.youtube.com/premium nakyttaa GDPR-evastemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivat nayteta ennen hyvaksyntaa."
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: support.google.com/youtube/answer/6308116 mainitsee YouTube Music Premiumin osana YouTube Premium -tilauksen etuja (mainokset pois, offline, musiikki sovelluksessa), mutta ei erittele tilausvaihtoehtoja tai hintoja."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruuttamisohjeita ei nayta julkisesti ilman evastehyvaksyntaa tilaussivustolla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ohjekeskuksessa tekijanoikeusteksti '2026 Google' — Google LLC mainittu implisiittisesti, mutta Alphabet Inc. -omistusrakenne ei selity kuluttajalle."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evastemuuri takana. Hintojen euromaaraisuus ei vahvistettavissa avoimesti."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei nayteta avoimella tilaussivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "18/100",
+       "paino": 34,
+       "pisteet": 18,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "5/100",
+       "paino": 33,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 77,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 3290.05568,
+    "cls": 0,
+    "tbt_ms": 212
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Suomenkielinen ohjesivusto (support.google.com/youtube?hl=fi) kattaa YouTube Music -ominaisuudet",
+    "Mobiilisovellus saatavilla iOS:lle ja Androidille",
+    "YouTube Music sisaltyy YouTube Premium -tilaukseen: yhteys palvelun rakenteeseen selitetty ohjekeskuksessa"
+   ],
+   "kehityskohteet": [
+    "Tilaussivusto (music.youtube.com/premium) on GDPR-evastemuuri takana: hinnat ei nayteta ilman evasteiden hyvaksymista",
+    "Hinnat, tilaustasojen erot ja peruutusohjeet eivat ole laisinkaan nahtavissa julkiselta sivulta ilman kirjautumista tai evastehyvaksyntaa",
+    "Omistajan (Google LLC / Alphabet Inc.) mainitseminen selkeasti tilaajalle puuttuu tilaussivulta kokonaan"
+   ],
+   "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisalto on GDPR-evastemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivat ole nahtavissa ilman evasteiden hyvaksymista. Ohjekeskus selittaa YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei loydy avoimelta sivulta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "amazon-music",
+   "nimi": "Amazon Music",
+   "domain": "music.amazon.com",
+   "omistaja": "Amazon.com, Inc. (Yhdysvallat); Amazon Music Unlimited saatavilla Suomessa amazon.de-kautta; music.amazon.com on web-soitin",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 19.7,
+   "pillars": {
+    "digitaalinen": 63.8,
+    "lapinakyvyys": 0.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 2.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "21/100",
+       "paino": 40,
+       "pisteet": 21,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "98/100",
+       "paino": 30,
+       "pisteet": 98,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinnat julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: music.amazon.com nakyttaa vain 'Stream music and podcasts FREE on Amazon Music. No credit card required. Listen free' — tilaushintoja ei naytetty lainkaan avoimella sivulla."
+      },
+      {
+       "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tilaustasojen eroja (Prime Music vs Unlimited) ei naytetty kirjautumatta."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutusohjeet eivat naydy avoimella sivulla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omistajan (Amazon.com, Inc. tai Amazon EU SARL) mainitseminen puuttuu avoimelta sivulta kokonaan."
+      },
+      {
+       "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: music.amazon.com naytta englanninkielisen sisallon; Suomenkielinen musiikkipalveluportaali puuttuu (Suomi ohjataan amazon.de:hen)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei naytetty avoimella sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "5/100",
+       "paino": 34,
+       "pisteet": 5,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "0/100",
+       "paino": 33,
+       "pisteet": 0,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "3/100",
+       "paino": 33,
+       "pisteet": 3,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 21,
+    "accessibility": 98,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 30593.917999999998,
+    "cls": 0.2993134383364657,
+    "tbt_ms": 2796.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Amazon Music on saatavilla Suomessa amazon.de-kautta Prime- ja Unlimited-tilauksella",
+    "Amazon Music Unlimited on globaalisti yksi suurimmista musiikkipalveluista yli 100 milj. kappaleella",
+    "Mobiilisovellus saatavilla iOS:lle ja Androidille (tieto yleisesti tunnettu, ei vahvistettavissa avoimelta sivulta)"
+   ],
+   "kehityskohteet": [
+    "music.amazon.com on kirjautumisportti: kaikki sisalto (hinnat, tilaukset, peruutus) vaatii kirjautumisen — ei mitattavissa kuluttajalle suunnatun lapinakyvyyden osalta",
+    "Ei suomenkielista musiikkipalvelusivua: Suomen kayttajia ohjataan amazon.de:hen (saksa)",
+    "Omistajaa (Amazon.com, Inc.) ei mainita avoimella sivulla lainkaan"
+   ],
+   "yhteenveto": "Amazon Musicin verkkosivusto (music.amazon.com) on sisaankirjautumisportti: kaikki tilaushintoja, tilaustasojen eroja tai peruutusohjeita koskeva sisalto vaatii kirjautumisen, eika se ole nahtavissa julkisesti. Suomalaisen kuluttajan tilaamissivu on saksankielisella amazon.de/music/unlimited -sivulla, ei suomeksi. Lapinakyvyys on mittauksen heikoin.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "3.8.2026",
+ "opas": {
+  "johdanto": "Musiikkipalveluiden vertailu keskittyy siihen, kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeästi ennen tilaamista. Hinnoittelun avoimuus vaihtelee merkittavasti palvelusta riippuen: osa nayttaa kaikki hinnat yhdella sivulla, toisilla tiedot jäävät etsimiseen tai sisaankirjautumismuuri takana.",
+  "huomioita": [
+   "Kaikki kuusi mitattua palvelua ovat kansainvalisia yhtiöita: Spotify on ruotsalainen, Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien omistamia.",
+   "Amazon Music Unlimited on Suomessa tilattavissa, mutta suomalaiselle kuluttajalle suunnattu tilaussivusto on saksankielinen amazon.de. Suomenkielinen palvelusivu puuttuu.",
+   "YouTube Music on osa YouTube Premium -tilausta, jonka hintasivu on GDPR-evastemuuri takana. Hinnat eivat naydy ilman evasteiden hyvaksyntaa.",
+   "Qobuz on listan ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon. Kuukausihinta (15,99 e) on listan korkein, mutta aanenlaatu on vertailun paras.",
+   "Deezerin kuukausihinnat eivat renderoidu selaimessa ilman JavaScript-latausta — vain vuosihinnat nakyvat suoraan (9,00 e/kk vuosimaksulla)."
+  ],
+  "vinkit": [
+   "Vertaa kokonaiskustannuksia: Spotifyn opiskelija-alennuksella hinta on 7,49 e/kk, mutta tarvitset korkeakouluopiskelijastatuksen.",
+   "Tarkista tilaustasojen erot ennen tilaamista: esimerkiksi perhetilauksen hyoty vaatii samassa taloudessa asumisen.",
+   "Jos aanenlaatu on sinulle tarkea, harkitse Qobuzin kuukausitilaus — se on ainoa palvelu, joka tarjoaa lossless-aanen perustasona.",
+   "Tarkista irtisanomisen helppous: kaikki listatut palvelut lupaavatkin peruutusoikeuden, mutta prosessi vaihtelee.",
+   "Spotifyn ja Apple Musicin ensikuukausi on ilmainen uusille tilaajille — hyvä tapa kokeilla ennen sitoutumista."
+  ],
+  "ukk": [
+   {
+    "q": "Mita eroa on Spotify Premiumilla ja Apple Musicilla?",
+    "a": "Molemmat tarjoavat yli 100 miljoonaa kappaletta, offline-kuuntelun ja mainoksettoman kokemuksen. Spotify on 12,99 e/kk, Apple Music 11,99 e/kk. Apple Musicissa on lossless- ja hi-res-aani seka Dolby Atmos -tila sisallytettyna, Spotifyssa viivattomasti saatavana ominaisuutena. Valinta riippuu ekosysteemistasi: iPhone-kayttajille Apple Music integroituu saumattomammin."
+   },
+   {
+    "q": "Mika on halvin tapa saada musiikkipalvelu Suomessa?",
+    "a": "Opiskelija-alennuksilla Spotify (7,49 e/kk) ja Apple Music (6,99 e/kk) ovat halvimmat. Ilman alennusta Spotify on 12,99 e/kk ja Apple Music 11,99 e/kk. Deezerin vuosisuunnitelma (9,00 e/kk vuosimaksulla) on edullisempi, mutta edellyttaa kertamaksua (107,99 e/vuosi)."
+   },
+   {
+    "q": "Mika musiikkipalvelu tarjoaa parhaan aanenlaadun?",
+    "a": "Qobuz on ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon (jopa 24-bittinen/192 kHz) perustasona. Apple Music sisaltyy lossless- ja Dolby Atmos -aanentoiston perushintaan. Spotify lisasi lossless-aanentoiston (Spotify HiFi) vuonna 2025."
+   },
+   {
+    "q": "Miten Suomen Paras pisteyttaa musiikkipalvelut?",
+    "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeasti ennen tilaamista, onko sivusto suomeksi, ja toimiiko sivusto teknisesti hyvin. Emme arvioi musiikkikirjaston sisaltoa tai makuasioita."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinnat julkisesti esillä (30), tilaustasojen erot (laatu, laitteet, offline) kerrottu (20), irtisanominen ja ilmaiskokeilun ehdot kerrottu (15), omistava yhtiö kerrottu sivustolla (15), suomenkielinen sivusto ja hinnat euroissa (10), riippumaton arviolähde esillä (10)"
+}

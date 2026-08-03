@@ -1,0 +1,37 @@
+{
+  "slug": "apple-music",
+  "fetched_ok": ["https://music.apple.com/fi/new", "https://www.apple.com/fi/apple-music/"],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 11.99,
+  "ai_arviot": {"selkeys": 92, "hintojen_loydettavyys": 94, "sisallon_kattavuus": 90},
+  "vahvuudet": [
+    "Hinnat selkeästi esillä: oma 11,99, perhe 19,99, opiskelija 6,99 e/kk – kaikki samalla sivulla",
+    "Peruutusohjeet yksinkertaiset: 'Ei sitoumuksia. Peru milloin vain.'",
+    "Laaja FAQ-osio selittää tilaustasojen erot, lossless-äänen, Dolby Atmosin ja laiteyhteensopivuuden"
+  ],
+  "kehityskohteet": [
+    "Riippumattomat ulkopuoliset arviot puuttuvat sivustolta",
+    "Omistajan (Apple Inc.) mainitsee vain alatunnisteessa tekijänoikeustekstissä",
+    "Ei chat-tukea tai sähköpostia suoraan tilaussivulta"
+  ],
+  "yhteenveto": "Apple Music esittää suomenkielisellä sivulla kaikki hinnat, tilaustasojen erot ja peruutusehdot selkeästi ilman kirjautumista. Puhelinnumero (0800 922 72) mainitaan alatunnisteessa. Omistaja Apple Inc. näkyy alatunnisteessa tekijänoikeustekstinä.",
+  "evidence": {
+    "hinnat_esilla": "Sivulla: 'Oma 11,99 €/kk', 'Perhe 19,99 €/kk', 'Opiskelija vain 6,99 €/kk', 'Apple One -tilausten hinnat alkavat 20,95 € kuukaudessa'",
+    "tasojen_erot_kerrottu": "HAVAINTO: Tilaustasojen erot (yksilö vs perhe 6 henk., opiskelija + Apple TV) kuvattu. Ominaisuudet kuten lossless, Dolby Atmos, offline-lataus esitelty kaikille tasoille.",
+    "irtisanominen_kerrottu": "Sivulla: 'Ei sitoumuksia. Peru milloin vain.' ja alatunnisteessa: 'Tilaus uusitaan automaattisesti, kunnes se perutaan.'",
+    "omistaja_kerrottu": "HAVAINTO: Alatunnisteessa 'Copyright © 2026 Apple Inc. Kaikki oikeudet pidätetään.'",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivu suomeksi (apple.com/fi/apple-music/), hinnat euroissa.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näy sivulla."
+  }
+}

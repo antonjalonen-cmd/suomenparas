@@ -419,7 +419,10 @@ def build(vertical):
                         ("mcdonalds.fi", "mcdonalds.com"),
                         # (3.8.2026): eleven.fi on NordicFeel AB:n Suomi-domain joka ohjaa
                         # nordicfeel.com/fi-sivulle — sama yhtiö, ei brändinmuutos.
-                        ("eleven.fi", "nordicfeel.com")}
+                        ("eleven.fi", "nordicfeel.com"),
+                        # (3.8.2026): music.youtube.com ohjautuu Euroopassa consent.youtube.com:iin
+                        # (GDPR-evastesuostumusportaali) — sama yhtiö Google/Alphabet, ei brändinmuutos.
+                        ("music.youtube.com", "consent.youtube.com")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:

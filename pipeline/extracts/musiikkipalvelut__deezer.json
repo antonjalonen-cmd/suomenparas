@@ -1,0 +1,40 @@
+{
+  "slug": "deezer",
+  "fetched_ok": [
+    "https://www.deezer.com/fi/",
+    "https://www.deezer.com/fi/offers/"
+  ],
+  "hinnat_esilla": "osittain",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "osittain",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": null,
+  "ai_arviot": {"selkeys": 58, "hintojen_loydettavyys": 50, "sisallon_kattavuus": 62},
+  "vahvuudet": [
+    "Peruuttaminen selkeasti: 'Tarjoukset eivat ole sitovia, eli tilauksen voi peruuttaa milloin tahansa' + suora 'Peru tilaukseni' -linkki",
+    "Tilaustasojen erot (Premium/Duo/Family, kuukausi- vs vuositilaus) kuvattu tarjoussivulla",
+    "Suomenkielinen palvelu taysin lokalisoitu, sovellukset iOS:lle ja Androidille"
+  ],
+  "kehityskohteet": [
+    "Kuukausittainen perishinta ei nayty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat nakyvat",
+    "Omistaja mainitaan vain alatunnisteessa nimella 'Deezer' ilman oikeusmuotoa tai kotimaata (Deezer SA, Ranska)",
+    "Asiakastuki vain verkkolomakkeella; ei puhelinnumeroa, ei chatia"
+  ],
+  "yhteenveto": "Deezerin tarjoussivulla nakyy kolme tilaustyyppia (Premium, Duo, Family) seka vuosihinnat euroissa, mutta kuukausihinnat eivat renderoidu avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeat ja suora 'Peru tilaukseni' -linkki loytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: deezer.com/fi/offers/ nakyttaa: 'Premium vuosi: sen jalkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua.",
+    "tasojen_erot_kerrottu": "Sivulla: 'Premium 1 tili, Duo 2 tilia, Family 6 tilia' — tilaustyypit eroteltuna. Myos 'Musiikkia ilman mainoksia' ja 'Kuuntele ilman nettiyhteyytta' listattu premiumin eduiksi vs. Free.",
+    "irtisanominen_kerrottu": "Sivulla: 'Tarjoukset eivat ole sitovia, eli tilauksen voi peruuttaa milloin tahansa.' + footerissa linkki 'Peru tilaukseni'.",
+    "omistaja_kerrottu": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei naydy.",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto suomeksi (deezer.com/fi/), hinnat euroissa (osittain nakyvissa vuosihinnat).",
+    "riippumaton_arvio": "Paasivulla: 'Yli 3 miljoonaa 5 tahden arviota' — viittaa sovelluskauppa-arvosteluihin, mutta ei erittele lahdetta tai alustaa."
+  }
+}

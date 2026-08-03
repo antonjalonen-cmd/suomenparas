@@ -1,0 +1,37 @@
+{
+  "slug": "spotify",
+  "fetched_ok": ["https://www.spotify.com/fi/premium/"],
+  "hinnat_esilla": "kylla",
+  "tasojen_erot_kerrottu": "kylla",
+  "irtisanominen_kerrottu": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "suomenkielinen_palvelu": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "perustaso_kk_hinta_eur": 12.99,
+  "ai_arviot": {"selkeys": 96, "hintojen_loydettavyys": 98, "sisallon_kattavuus": 92},
+  "vahvuudet": [
+    "Kaikki hinnat (yksilö 12,99, opiskelija 7,49, duo 18,49, perhe 21,99 e/kk) esillä selkeästi yhdellä sivulla",
+    "Peruuttamisohjeet erittäin yksityiskohtaiset: milloin tilaus päättyy, mitä tapahtuu kokeilujaksolle",
+    "Tilaustasojen erot (mainokset, offline, äänenlaatu, kuuntelujono) vertailutaulukossa"
+  ],
+  "kehityskohteet": [
+    "Ei puhelintukea eikä chatia suoraan hinnoittelusivulta",
+    "Riippumattomat arviot tai ulkopuoliset pisteytykset puuttuvat sivustolta",
+    "Omistajan (Spotify AB, Ruotsi) mainitsee vain alatunnisteessa pienellä tekstillä"
+  ],
+  "yhteenveto": "Spotify esittää kaikki hinnat ja tilaustasojen erot selkeästi suomenkielisellä sivulla ilman kirjautumista. Peruutusehdot kuvataan yksityiskohtaisesti FAQ-osiossa. Yhtiön omistaja mainitaan alatunnisteessa tekijänoikeustekstissä.",
+  "evidence": {
+    "hinnat_esilla": "Sivulla: 'Yksilö-Premium: Myöhemmin 12,99 €/kk', 'Opiskelija: Myöhemmin 7,49 €/kk', 'Duo: 18,49 € kuukaudessa', 'Perhe: 21,99 € kuukaudessa'",
+    "tasojen_erot_kerrottu": "HAVAINTO: Vertailutaulukko näyttää Free vs Premium erot (mainokset, offline, äänenlaatu, kuuntelujono); eri tilaustyyppien erot kuvattu erillisesti.",
+    "irtisanominen_kerrottu": "Sivulla: 'Voit peruuttaa tilauksen milloin vain' + FAQ: 'Voit peruuttaa Premium-tilauksesi helposti verkossa olevalta tilisivulta milloin tahansa.'",
+    "omistaja_kerrottu": "HAVAINTO: Alatunnisteessa '© 2026 Spotify AB' — omistava yhtiö selvästi mainittu.",
+    "suomenkielinen_palvelu": "HAVAINTO: Koko sivu suomeksi (spotify.com/fi/premium/), hinnat euroissa.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näy hinnoittelusivulla."
+  }
+}

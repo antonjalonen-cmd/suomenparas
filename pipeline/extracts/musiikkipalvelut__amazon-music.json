@@ -1,0 +1,39 @@
+{
+  "slug": "amazon-music",
+  "fetched_ok": [
+    "https://music.amazon.com/"
+  ],
+  "hinnat_esilla": "ei",
+  "tasojen_erot_kerrottu": "ei",
+  "irtisanominen_kerrottu": "ei",
+  "omistaja_kerrottu": "ei",
+  "suomenkielinen_palvelu": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "ei",
+  "perustaso_kk_hinta_eur": null,
+  "ai_arviot": {"selkeys": 5, "hintojen_loydettavyys": 0, "sisallon_kattavuus": 3},
+  "vahvuudet": [
+    "Amazon Music on saatavilla Suomessa amazon.de-kautta Prime- ja Unlimited-tilauksella",
+    "Amazon Music Unlimited on globaalisti yksi suurimmista musiikkipalveluista yli 100 milj. kappaleella",
+    "Mobiilisovellus saatavilla iOS:lle ja Androidille (tieto yleisesti tunnettu, ei vahvistettavissa avoimelta sivulta)"
+  ],
+  "kehityskohteet": [
+    "music.amazon.com on kirjautumisportti: kaikki sisalto (hinnat, tilaukset, peruutus) vaatii kirjautumisen — ei mitattavissa kuluttajalle suunnatun lapinakyvyyden osalta",
+    "Ei suomenkielista musiikkipalvelusivua: Suomen kayttajia ohjataan amazon.de:hen (saksa)",
+    "Omistajaa (Amazon.com, Inc.) ei mainita avoimella sivulla lainkaan"
+  ],
+  "yhteenveto": "Amazon Musicin verkkosivusto (music.amazon.com) on sisaankirjautumisportti: kaikki tilaushintoja, tilaustasojen eroja tai peruutusohjeita koskeva sisalto vaatii kirjautumisen, eika se ole nahtavissa julkisesti. Suomalaisen kuluttajan tilaamissivu on saksankielisella amazon.de/music/unlimited -sivulla, ei suomeksi. Lapinakyvyys on mittauksen heikoin.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: music.amazon.com nakyttaa vain 'Stream music and podcasts FREE on Amazon Music. No credit card required. Listen free' — tilaushintoja ei naytetty lainkaan avoimella sivulla.",
+    "tasojen_erot_kerrottu": "HAVAINTO: Tilaustasojen eroja (Prime Music vs Unlimited) ei naytetty kirjautumatta.",
+    "irtisanominen_kerrottu": "HAVAINTO: Peruutusohjeet eivat naydy avoimella sivulla.",
+    "omistaja_kerrottu": "HAVAINTO: Omistajan (Amazon.com, Inc. tai Amazon EU SARL) mainitseminen puuttuu avoimelta sivulta kokonaan.",
+    "suomenkielinen_palvelu": "HAVAINTO: music.amazon.com naytta englanninkielisen sisallon; Suomenkielinen musiikkipalveluportaali puuttuu (Suomi ohjataan amazon.de:hen).",
+    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei naytetty avoimella sivulla."
+  }
+}
