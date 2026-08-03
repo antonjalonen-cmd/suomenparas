@@ -1,0 +1,42 @@
+{
+  "slug": "serena",
+  "fetched_ok": [
+    "https://serena.fi/",
+    "https://serena.fi/tietosuojakaytanto/"
+  ],
+  "paivylipun_hinta_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "sijainti_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 88, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 82},
+  "vahvuudet": [
+    "Päivälippu 37,00 € näkyy heti etusivulla selkeästi, ei vaadi navigointia hintatietoihin",
+    "Y-tunnus (0564528-9 / Puuharyhmä Oyj) kerrottu tietosuojakäytännössä; yritystieto ja osoite footerissa",
+    "Liput ostettavissa verkkokaupassa suoraan etusivun painikkeesta — aukioloajat myös etusivulla"
+  ],
+  "kehityskohteet": [
+    "Riippumattomia arviolähteitä (TripAdvisor, Google) ei linkitetä sivustolta",
+    "Chat-tukea ei ole — yhteys pelkästään puhelimella ja sähköpostilla",
+    "Kausikorttihinnat esillä vain yleisellä tasolla (alkaen 115 €), tarkempi hinnasto erillisellä sivulla"
+  ],
+  "yhteenveto": "Serena on Suomen suurin vesipuisto Espoossa, Puuharyhmä Oyj:n omistama (espanjalainen Aspro Ocio S.A.). Päivälipun hinta 37 € näkyy etusivulla selkeästi ja liput voi ostaa verkkokaupassa. Tietosuojakäytännössä kerrotaan Y-tunnus ja yritystiedot.",
+  "evidence": {
+    "paivylipun_hinta_esilla": "HAVAINTO: Etusivulla näkyy 'Päivälippu 37,00 € — Kokopäivälippu vesipuistoon, 0-3-vuotiaat veloituksetta'. Perhelippu (4-5 hlö) alkaen 133,60 €.",
+    "varaus_verkossa": "HAVAINTO: Etusivulla 'Osta liput netistä — Pääsyliput, kausikortit, yhdistelmäliput... Osta nyt' -painike. Liput ostettavissa verkkokaupassa.",
+    "palvelut_kuvattu": "HAVAINTO: Sivustolla kuvataan sisä- ja ulkovesipuisto, liukumäet ja altaat, hiihtokeskus, mökit, ravintolat ja myymälä sekä vesipuiston säännöt.",
+    "sijainti_ja_aukioloajat": "HAVAINTO: Footer: 'Puuharyhmä Oyj Serena, Tornimäentie 10, 02970 ESPOO'. Aukioloajat mainitaan etusivulla useaan kertaan ja erillisellä aukioloajat-sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Tietosuojakäytäntösivulla 'Puuharyhmä Oyj (y-tunnus: 05645289)' — Y-tunnus löytyy julkiselta sivulta.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei linkitetä TripAdvisor-, Google- tai muita riippumattomia arviolähteitä.",
+    "puhelin_esilla": "HAVAINTO: Footerissa numero +358 (0) 20 5010 300 selkeästi esillä.",
+    "email_esilla": "HAVAINTO: Footerissa sähköposti info.serena@puuhagroup.com selkeästi esillä.",
+    "ukk_osio": "HAVAINTO: Etusivulla linkki 'Usein kysytyt kysymykset' näkyvillä navigaatiossa."
+  }
+}

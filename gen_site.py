@@ -140,7 +140,7 @@ CATEGORY_GROUPS = [
         ("Kielikurssit", None, False), ("Tanssikoulut", None, False),
         ("Kukkien verkkokaupat", "kukkakauppojen-verkkokaupat", True), ("Matkatoimistot", "matkatoimistot", True),
         ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False), ("Lemmikkitarvikkeiden verkkokaupat", "lemmikkitarvikkeiden-verkkokaupat", True),
-        ("Hotelliketjut", "hotelliketjut", True), ("Kirjakauppojen verkkokaupat", "kirjakauppojen-verkkokaupat", True),
+        ("Kylpylät", "kylpylat", True), ("Hotelliketjut", "hotelliketjut", True), ("Kirjakauppojen verkkokaupat", "kirjakauppojen-verkkokaupat", True),
         ("Lastenvaatteiden verkkokaupat", "lastenvaatteiden-verkkokaupat", True),
         ("Kauneustuotteiden verkkokaupat", "kauneustuotteet-verkkokaupat", True),
     ]),

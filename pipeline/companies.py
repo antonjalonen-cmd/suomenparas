@@ -1655,3 +1655,34 @@ COMPANIES["aanikirjapalvelut"] = [
     dict(slug="spotify-audiobooks", nimi="Spotify", domain="spotify.com", y_tunnus=None,
          omistaja="Spotify AB (Ruotsi) — pörssilistattu NYSE: SPOT; Premium-tilaukseen kuuluu 15 h/kk äänikirjakuuntelua; Suomi-sivu spotify.com/fi/audiobooks/"),
 ]
+
+# ---------------------------------------------------------------------------
+# KYLPYLÄT — 6 suomalaista kylpylää/vesipuistoa, tarkistettu 3.8.2026.
+# Kaikki tarjoavat päivälipun tai vastaavan kuluttajapääsyn, toimivat vähintään
+# kahdella paikkakunnalla tai ovat valtakunnallisesti tunnettuja.
+# EXCLUDED: HaVen Ylläs (Holiday Club Resorts Oy:n kohde — SAME_COMPANY Holiday
+#   Clubin kanssa); Virkistyshotelli Yyteri (toimii, mutta 6 riittää edustamaan
+#   markkinaa); Imatran Kylpylä, Peurunka kylpylähotelli, Rauhalahti jne. (Suomalaiset
+#   Kylpylät ry:n listalla, mutta alla on jo 6 hyvää kohdetta).
+# OMISTUS: Serena = Puuharyhmä Oyj (espanjalainen Aspro Ocio S.A. omistaa);
+#   Naantalin Kylpylä = Naantalin Kylpylänranta Oy, Sunborn Hotels & Restaurants.
+COMPANIES["kylpylat"] = [
+    dict(slug="holiday-club", nimi="Holiday Club Resorts", domain="holidayclubresorts.com",
+         y_tunnus="2033337-1",
+         omistaja="Holiday Club Resorts Oy — Suomen suurin kylpyläketju; kohteet mm. Saimaa, Caribia (Turku), Kuusamon Tropiikki, Ylläs, Saariselkä, Tampereen Kehräämö"),
+    dict(slug="serena", nimi="Serena", domain="serena.fi",
+         y_tunnus="0564528-9",
+         omistaja="Puuharyhmä Oyj — espanjalaisen Aspro Ocio S.A.:n omistama; Suomen ja Pohjoismaiden suurin vesipuisto, Espoo"),
+    dict(slug="flamingo-spa", nimi="Flamingo Spa", domain="flamingospa.fi",
+         y_tunnus="2029086-9",
+         omistaja="Flamingospa Oy — Vantaa, kauppakeskus Jumbon yhteydessä; yksi Pohjoismaiden suurimmista sisäkylpylöistä"),
+    dict(slug="ikaalinen-spa", nimi="Ikaalinen Spa & Resort", domain="ikaalinenspa.fi",
+         y_tunnus="3186123-3",
+         omistaja="Ikaalinen Spa Oy — Ikaalisissa Kyrösjärven rannalla; uusi paikallisomisteinen operaattori vuodesta 2021"),
+    dict(slug="naantali-spa", nimi="Naantalin Kylpylä", domain="naantalispa.fi",
+         y_tunnus="1711966-5",
+         omistaja="Naantalin Kylpylänranta Oy (Sunborn Hotels & Restaurants) — Naantali; ei kuulu Holiday Club -ketjuun"),
+    dict(slug="peurunka", nimi="Peurunka", domain="peurunka.fi",
+         y_tunnus="0176471-5",
+         omistaja="Peurunka Oy — Laukaassa Peurunkajärven rannalla, noin 30 km Jyväskylästä; Suomalaiset Kylpylät ry:n jäsen"),
+]

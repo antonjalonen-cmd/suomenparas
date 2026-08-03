@@ -1767,6 +1767,33 @@ META["pikaruokaketjut"] = {
     ],
 }
 
+META["kylpylat"] = {
+    "slug": "kylpylat",
+    "nimi": "Kylpylät",
+    "nav": "Kylpylät",
+    "h1": "Suomen paras kylpylä 2026",
+    "yksikko": "suomalaista kylpylää",
+    "lead": ("Pisteytimme {n} suomalaista kylpylää {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näkyykö "
+             "päivälipun hinta sivustolla ennen kuin luovutat yhteystietosi?"),
+    "meta_title": "Suomen paras kylpylä 2026 — kylpylät pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista kylpylää pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Omistus ja ketjut.</b> Holiday Club Resorts Oy on Suomen suurin kylpyläketju "
+         "ja operoi useita kohteita ympäri Suomea. Serena kuuluu espanjalaisen Aspro Ocio "
+         "S.A.:n omistamaan Puuharyhmä Oyj:öön. Muut neljä kylpylää ovat itsenäisiä tai "
+         "erillisten operaattoreiden ylläpitämiä. Näytämme omistajan jokaisen kohdalla."),
+        ("<b>Miksi listalla on vain {n} kylpylää?</b> Tarkistimme jokaisen kylpylän "
+         "toiminnan elokuussa 2026. Mukaan otettiin kohteet, joilla on julkinen hinnasto "
+         "ja joiden pääsy on avoinna kaikille kuluttajille ilman jäsenyyttä. Paikallisia "
+         "pieniä kylpylöitä ei sisällytetty."),
+        ("<b>Emme arvioi veden lämpötilaa, laitteiden kuntoa tai palvelun tasoa.</b> "
+         "Vertailu kuvaa julkisten verkkosivujen mitattavia ominaisuuksia: "
+         "hintaavoimuutta, varausmahdollisuuksia ja tietojen kattavuutta."),
+    ],
+}
+
 META["aanikirjapalvelut"] = {
     "slug": "aanikirjapalvelut",
     "nimi": "Äänikirjapalvelut",

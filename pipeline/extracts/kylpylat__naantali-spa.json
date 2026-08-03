@@ -1,0 +1,45 @@
+{
+  "slug": "naantali-spa",
+  "fetched_ok": [
+    "https://www.naantalispa.fi/",
+    "https://www.naantalispa.fi/kylpylan-altaat/",
+    "https://www.naantalispa.fi/info/aukioloajat/",
+    "https://www.naantalispa.fi/info/yhteystiedot/",
+    "https://www.naantalispa.fi/info/usein-kysyttya/"
+  ],
+  "paivylipun_hinta_esilla": "kylla",
+  "varaus_verkossa": "ei",
+  "palvelut_kuvattu": "kylla",
+  "sijainti_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 72, "sisallon_kattavuus": 85},
+  "vahvuudet": [
+    "Päivälipun hinta selkeästi kylpylän altaat -sivulla: aikuiset 30 € (su–to) / 35 € (pe–la), lapset 4–12 v 9 € / 13 €, perhelippu 2+2: 60 € / 78 €",
+    "Laaja UKK-osio vastaa käytännön kysymyksiin (varaukset, lapset, pyyhkeet, peruutusehdot)",
+    "Palvelusisältö kattava: viisi teemasaunaa, viisi allasta (sis. ulkoallas merimaisemissa), allasbaari, hoidot, kuntosali"
+  ],
+  "kehityskohteet": [
+    "Päivälipun verkko-ostoa ei ole — FAQ vahvistaa 'emme ota allasosastolle varauksia, tule paikan päälle'; ranneke ostetaan vastaanotosta",
+    "Y-tunnus ei löydy yhdeltäkään julkiselta sivulta (homepage, yhteystiedot, UKK, aukioloajat, kylpylän altaat)",
+    "Riippumattomia asiakasar­violähteitä ei linkitetä — vain oma markkinointisisältö"
+  ],
+  "yhteenveto": "Naantalin Kylpylä on Sunborn Hotels & Restaurants -ketjun ylellinen kylpylähotelli Naantalissa, Matkailijantie 2. Päivälipun hinta on julkisesti esillä kylpylän altaat -sivulla, mutta lippua ei voi ostaa verkossa — maksu tapahtuu paikan päällä vastaanotossa. Y-tunnus ei näy millään julkisella sivulla.",
+  "evidence": {
+    "paivylipun_hinta_esilla": "HAVAINTO: Kylpylän altaat -sivulla: 'Aikuiset 30,- (su-to) | 35,- (pe-la)'. Lapset 4–12 v: '9,- (su-to) | 13,- (pe-la)'. Perhelippu 2 aikuista + 2 lasta 4–12 v: '60,- (su-to) | 78,- (pe-la)'. Kylpyläkäynnin kesto 3 h.",
+    "varaus_verkossa": "HAVAINTO: UKK-sivulla: 'Pitääkö allasosastolle tehdä varaus? Emme ota allasosastolle varauksia, eli voit tulla paikan päälle ilman varausta.' Ranneke ostetaan vastaanotosta. Navigaatiossa on 'OSTA LAHJAKORTTI' mutta ei päivälipun verkko-ostoa.",
+    "palvelut_kuvattu": "HAVAINTO: Kylpylän altaat -sivulla kuvataan viisi allasta: ympäri vuoden lämmin ulkoallas (30°C), roomalainen allas (35°C), liikunta-allas (30°C), poreallas (35°C) ja terapia-allas (27°C). Lisäksi viisi uutta teemasaunaa, allasbaari, kuntosali OLOFitness sekä kauneuskeskus Bellezza.",
+    "sijainti_ja_aukioloajat": "HAVAINTO: Footer: 'Naantali Spa, Matkailijantie 2, FI-21100 Naantali'. Aukioloajat-sivulla saunat ja altaat: Ma–To 8–20.45, Pe–La 8–21.45, Su 8–20.45. Kassa ja info: Ma–To 8–19.45, Pe–La 8–20.45.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy etusivulta, yhteystiedot-, kylpylän altaat-, aukioloajat- eikä UKK-sivulta. Footerissa näkyy 'Naantali Spa' ja 'Sunborn asiakaspalvelu' mutta ei Y-tunnusta.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei linkitetä TripAdvisor-, Google- tai muita kuluttaja-arviolähteitä. Vastuullisuus-sivulla mainitaan Green Key- ja Sustainable Travel Finland -sertifioinneista, mutta varsinaisia asiakasarvioita ei esitetä.",
+    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla 'Sunborn asiakaspalvelu: 0300 44550. Puhelun hinta 0,65 €/min + pvm/mpm'.",
+    "email_esilla": "HAVAINTO: UKK-sivulla 'info@naantalispa.fi'. Yhteystiedot-sivulla 'sales@sunborn.fi' (asiakaspalvelu) ja 'events@sunborn.fi' (yritys- ja tapahtumamyynti).",
+    "ukk_osio": "HAVAINTO: /info/usein-kysyttya/ on laaja, kattaa varaukset, altaat, lahjakortit, lounas- ja liikuntasetelit, löytötavarat."
+  }
+}

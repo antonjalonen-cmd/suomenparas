@@ -1,0 +1,44 @@
+{
+  "slug": "holiday-club",
+  "fetched_ok": [
+    "https://www.holidayclubresorts.com/",
+    "https://www.holidayclubresorts.com/fi/kylpylahotellit-resortit/katinkulta/kylpyla-ja-hoidot/",
+    "https://www.holidayclubresorts.com/fi/asiakaspalvelu/",
+    "https://www.holidayclubresorts.com/fi/tietoa-holiday-clubista/"
+  ],
+  "paivylipun_hinta_esilla": "kylla",
+  "varaus_verkossa": "kylla",
+  "palvelut_kuvattu": "kylla",
+  "sijainti_ja_aukioloajat": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 60, "sisallon_kattavuus": 78},
+  "vahvuudet": [
+    "Päivälipun hinta esillä kohteittain: Katinkulta aikuinen 27 €, lapsi 21 €, perhelippu 2+2 69 €",
+    "Liput ostettavissa verkkokaupassa ennakkoon — myös majoitusvarauksen yhteydessä",
+    "Kylpylän aukioloajat ja palvelukuvaus (saunamaailma, porealtaat, liukumäki) löytyvät jokaiselta kohdesivulta"
+  ],
+  "kehityskohteet": [
+    "Y-tunnusta ei löydy julkisilta sivuilta — footer, tietosuoja eikä asiakaspalveluosio näytä yritystunnusta",
+    "Päivälipun hinta vaatii navigoimaan kunkin kohteen omalle kylpylä-sivulle; etusivulta hintaa ei näe",
+    "Chat-tukea ei tarjota — asiakaspalvelu vain puhelin ja sähköpostilomake"
+  ],
+  "yhteenveto": "Holiday Club Resorts on Suomen suurin kylpyläketju, jonka seitsemässä resortissa on oma kylpylä. Päivälipun hinta on julkisesti esillä jokaisen kohteen kylpylä-sivulla ja liput voi ostaa verkkokaupassa ennakkoon. Y-tunnus ei näy julkisilla sivuilla.",
+  "evidence": {
+    "paivylipun_hinta_esilla": "HAVAINTO: Katinkulta-sivulla lukee 'Kylpylän normaalihinta aikuisille 27 € ja lapsille 21 €' sekä perhelippu 2+2 tai 1+3: 69 €. Sama hinnasto on saatavilla kaikilla resorttisivuilla kohteen kylpylä-alasivulla.",
+    "varaus_verkossa": "HAVAINTO: Sivuilla kehotetaan ostamaan liput verkkokaupasta ennakkoon. Teksti: 'Voit ostaa kertakäyntiin oikeuttavat kylpyläliput ennakkoon myös omilta lomasivuilta.'",
+    "palvelut_kuvattu": "HAVAINTO: Katinkullan kylpylä-sivulla kuvataan saunamaailma, kuntoallas, poreallas, ulkoallas, vesiliukumäki sekä savusauna ja paljut. Jokaisella kohteella on oma kylpylä- ja hoidot-alasivunsa.",
+    "sijainti_ja_aukioloajat": "HAVAINTO: Katinkullan kylpylä on avoinna päivittäin klo 11-21 (ja 16.8. alkaen su-to 11-20, pe-la 11-21). Kohteet sijaitsevat Katinkullassa, Kuusamon Tropiikissa, Saariselällä, Saimaan Rauhassa, Tampereella, Turun Caribiassa ja Vierumäellä.",
+    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy footerista, asiakaspalvelusivulta eikä tietosuoja-alasivulta. Yritysnimi 'Holiday Club Resorts' mainitaan footerissa tekijänoikeusmerkinnässä, mutta Y-tunnus 2033337-1 ei ole esillä.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita TripAdvisor-, Google-arvosteluita tai muita riippumattomia arviolähteitä. Näkyvillä on vain Holiday Clubin oma markkinointisisältö.",
+    "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla numero 0300 870 900 (ma-pe klo 9-16.30) on selkeästi esillä. Lisäksi kohdekohtaiset numerot resorttikohtaisilla sivuilla.",
+    "email_esilla": "HAVAINTO: Yhteydenottolomake saatavilla, ja joillakin osastoilla sähköpostiosoitteet (esim. ryhmat@holidayclub.fi). Pääasiakaspalvelun sähköpostiosoitetta ei ole näkyvillä — vain lomake.",
+    "ukk_osio": "HAVAINTO: Asiakaspalvelusivulla linkki 'Katso myös usein kysytyt kysymykset'. Erillinen UKK-osio olemassa."
+  }
+}

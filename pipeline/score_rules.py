@@ -647,3 +647,14 @@ TRANSPARENCY["aanikirjapalvelut"] = [
     ("omistaja_kerrottu", "Omistava yhtiö kerrottu sivustolla", 10),
     ("kuunteluaika_rajoitukset", "Kuunteluajan tai latauksien rajoitukset kerrottu selkeästi", 10),
 ]
+
+# --- era 14 (3.8.2026): kylpylat ------------------------------------------------
+# Core question: can you see the day-pass price before handing over your data?
+TRANSPARENCY["kylpylat"] = [
+    ("paivylipun_hinta_esilla", "Päivälipun hinta julkisesti esillä", 30),
+    ("varaus_verkossa", "Lipun tai kylpyläpäivän voi ostaa tai varata verkossa", 20),
+    ("palvelut_kuvattu", "Kylpylä-, sauna- ja vesipuistopalvelut kuvattu", 15),
+    ("sijainti_ja_aukioloajat", "Sijainti ja aukioloajat kerrottu", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
