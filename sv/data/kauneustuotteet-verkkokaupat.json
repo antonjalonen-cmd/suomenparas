@@ -1,0 +1,1371 @@
+{
+ "slug": "kauneustuotteet-verkkokaupat",
+ "nimi": "Kauneustuotteet-verkkokaupat",
+ "nav": "Kauneustuotteet",
+ "h1": "Suomen paras kauneustuotteiden verkkokauppa 2026",
+ "yksikko": "kosmetiikan ja kauneustuotteiden verkkokauppaa",
+ "lead": "Pisteytimme {n} Suomessa toimivaa kosmetiikan ja kauneustuotteiden verkkokauppaa {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: naatko hinnat, toimituskulut ja ainesosaluettelot ilman kirjautumista?",
+ "meta_title": "Suomen paras kauneustuotteiden verkkokauppa 2026 — Lyko, Bangerhead, Cocopanda, KICKS, Parfym.fi, NordicFeel pisteytettyna | Suomen Paras",
+ "meta_desc": "6 kosmetiikan verkkokauppaa pisteytetty lapinakyvallakaavalla. Katso mista jokainen piste tulee.",
+ "notes": [
+  "<b>Kolme yhtiota ei suomalaista Y-tunnusta.</b> Lyko (ruotsalainen Lyko Group AB), Parfym.fi (ruotsalainen Parfym Sverige AB) ja NordicFeel (ruotsalainen NordicFeel AB) operoivat Suomessa ulkomaisena yhtiönä ilman suomalaista tytaryhtiota. Omanikki kerrotaan jokaisen yhtion kohdalla.",
+  "<b>Parfym.fi ja Hajuvesi.fi ovat sama kauppa.</b> Molemmat domainit kuuluvat ruotsalaiselle Parfym Sverige AB:lle ja toimittavat samoista varastoista. Mittauksessa on vain parfym.fi, jolla on laajempi valikoima.",
+  "<b>Emme vertaile tuotevalikoimaa tai hintatasoa.</b> Kaikki kuusi kauppaa myyvat useita tuhansia tuotteita. Mittaamme sen, mita kauppa kertoo julkisesti: hinnat, toimituskulut, palautusehdot ja ainesosaluettelot ennen kuin asiakas kirjautuu tai lisaa tuotteen koriin.",
+  "<b>Ainesosaluettelot ovat kosmetiikka-asetuksen vaatimus.</b> EU-kosmetiikka-asetus edellyttaa INCI-luettelon tuotteen pakkauksessa, mutta ei verkkokaupan sivulla. Pisteytamme sen, tarjoaako kauppa ainesosatiedot tuotekohtaisesti myos verkossa, mika on erityisen tarkeaa allergisoituville asiakkaille."
+ ],
+ "yritykset": [
+  {
+   "slug": "lyko",
+   "nimi": "Lyko",
+   "domain": "lyko.com",
+   "omistaja": "Lyko Group AB (Ruotsi, per. 1974) operoi lyko.com/fi-suomenkielista verkkokauppaa; ei suomalaista Y-tunnusta. Ruotsalainen porssilistaamaton perheyhtiö (Kungsbacka).",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 74.1,
+   "pillars": {
+    "digitaalinen": 66.8,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 76.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja kategoriasivuilla tuotteiden hinnat näytetään selkeästi, esim. 'By Lyko Tan-formation Self Tan Mist 12,90 €' ja 'La Roche Posay Balm B5+ 15,20 €'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdoissa julkinen taulukko: Postnord 0-30€=4,90€ / 30-60€=0,90€ / yli 60€=ilmainen; Matkahuolto 0-30€=3,90€ / yli 30€=ilmainen; Budbee Box 0-30€=3,90€."
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdot: '14 päivän sisään tuotteiden vastaanottamisesta' peruuttamisoikeus; 'Lyko maksaa palautuskulut'; ohjeet joko verkossa 'PERUUTA SOPIMUS TÄSTÄ' -painikkeella tai sähköpostilla asiakaspalvelu@lyko.fi."
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivuilla on erillinen 'AINESOSAT'-välilehti (havaittu By Lyko Self Tan Mist -tuotesivulla), mutta sisältö ei latautunut tekstiksi selain-UA-haun eikä JS-renderöinnin avulla — luettelo saattaa vaatia välilehden klikkaamisen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdot: 'Yrityksen tiedot: Lyko Oy, Sveavägen 53, 113 59 Stockholm, Yritysnumero 556575-3018' — ruotsalainen organisaationumero, ei suomalainen Y-tunnus."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviointilähde ei löydy etusivulta, tilausehdoista eikä tuotesivuilta. Tuotesivuilla on Lykon omat asiakasarvostelut."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 89,
+    "seo": 85,
+    "best_practices": 100,
+    "lcp_ms": 13769.481564849855,
+    "cls": 0.0035715101208434546,
+    "tbt_ms": 4347.725
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Toimitustaulukko (Postnord, Matkahuolto, Budbee) hintatietoineen julkaistu avoimesti tilausehdoissa",
+    "Ilmainen palautus 14 vuorokauden kuluessa; peruutusprosessi selitetty vaihe vaiheelta",
+    "Asiakaspalvelu tavoitettavissa puhelimella, sähköpostilla ja chat-widgetillä"
+   ],
+   "kehityskohteet": [
+    "Ainesosaluettelo (INCI) tuotesivuilla on erillinen välilehti, mutta sisältö ei lataudu ilman kirjautumista tai välilehdenvaihtoa",
+    "Riippumatonta arviointia (esim. Trustpilot) ei näy julkisilla sivuilla",
+    "Asiakaspalvelun aukioloaikoja ei kerrota julkisesti"
+   ],
+   "yhteenveto": "Lyko on Ruotsalaisen Lyko Group AB:n laaja kauneusverkkokauppa, joka toimii Suomessa suomenkielisellä lyko.com/fi-sivustolla. Hinnat, toimituskulut ja palautusehdot ovat selkeästi esillä, mutta ruotsalainen yritystunnus 556575-3018 (ei suomalainen Y-tunnus) ja ainesosaluetteloiden heikko saavutettavuus jättävät läpinäkyvyyteen aukkoja.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "Tilausehdot: '14 päivän sisään tuotteiden vastaanottamisesta' peruuttamisoikeus; 'Lyko maksaa palautuskulut'; ohjeet joko verkossa 'PERUUTA SOPIMUS TÄSTÄ' -painikkeella tai sähköpostilla asiakaspalvelu@lyko.fi."
+    }
+   ]
+  },
+  {
+   "slug": "parfymfi",
+   "nimi": "Parfym.fi",
+   "domain": "parfym.fi",
+   "omistaja": "Parfym.fi:ta operoi ruotsalainen Parfym Sverige AB (org.nr 556705-2799); sisarsivusto hajuvesi.fi on sama kauppa eri domainilla; ei suomalaista Y-tunnusta.",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.7,
+   "pillars": {
+    "digitaalinen": 59.4,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 45.0,
+    "ai_laatu": 84.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "6/100",
+       "paino": 40,
+       "pisteet": 6,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "90/100",
+       "paino": 30,
+       "pisteet": 90,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla tuotteiden hinnat ovat selkeästi esillä, esim. 'Valentino Born In Roma Uomo Intense, EdP, Jäsenhinta 113,95 € Ovh. 150,95 €'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdoissa kohta 5.4: 'Tilauksen toimitusmaksu on 3,95-4,95 euroa valitun toimitustavan mukaan'. Kohta 5.5 listaa kaikki toimitustavat: Posti noutopiste (3-5 arkipäivää), Matkahuolto (3-5 arkipäivää), Budbee Box (2-4 arkipäivää), Budbee Home kotiinkuljetus (2-4 arkipäivää). Etusivulla: 'Ilmainen toimitus 49€ tilauksiin'."
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdoissa kohta 6.1: '14 päivän kuluessa siitä, kun olet vastaanottanut tuotteet'. Kohta 6.2: 'Jos palautat tilauksesi, katamme ohjeistuksemme mukaisella tavalla tehdyn palautuksen toimituskulut.' Yhteydenotot: asiakaspalvelu@parfym.fi."
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tuotesivulla (Valentino Born In Roma Uomo Intense): 'Ainesosat: ALCOHOL, PARFUM / FRAGRANCE, AQUA / WATER / EAU, LIMONENE, ETHYLHEXYL SALICYLATE, BUTYL METHOXYDIBENZOYLMETHANE, COUMARIN...' Koko INCI-lista julkaistu."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tilausehdoissa: 'Sivuston omistaa ja sen toimintaa hallitsee Parfym Sverige AB (Y-tunnus 556705-2799).' Ruotsalainen yhtiö; 556705-2799 on ruotsalainen organisaatiotunnus, ei suomalainen Y-tunnus."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Alatunnisteessa: 'Lue asiakasarvostelumme' -linkki ja Trygg e-handel -luottamusmerkki. Arvostelualustaa ei voitu varmistaa ilman klikkaamista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 6,
+    "accessibility": 90,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 16164.640300000003,
+    "cls": 0.878761117277736,
+    "tbt_ms": 3109.338060000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "INCI-ainesosaluettelo näkyy selkeästi tuotesivuilla erillisessä Ainesosat-osiossa (esim. Valentino hajuvesituotteella koko INCI-lista)",
+    "Toimituskulut (3,95-4,95 €) ja kaikki toimitustavat (Posti, Matkahuolto, Budbee Box, Budbee Home) kerrottu tilausehdoissa yksityiskohtaisesti; ilmainen toimitus yli 49 €:n tilauksille",
+    "14 päivän palautusoikeus ja asiakaspalvelun sähköpostiosoite (asiakaspalvelu@parfym.fi) julkaistu tilausehdoissa selkeästi"
+   ],
+   "kehityskohteet": [
+    "Yhtiön tunniste (556705-2799) on ruotsalainen organisaatiotunnus, ei suomalainen Y-tunnus; tilausehdoissa se merkitään Y-tunnukseksi, vaikka kyse on ruotsalaisesta Parfym Sverige AB:sta",
+    "Asiakaspalvelua tavoittaa vain sähköpostilla; puhelinnumeroa tai aukioloaikoja ei kerrota",
+    "Riippumaton arviolähde ei ole suoraan näkyvissä etusivulla; 'Lue asiakasarvostelumme' -linkki löytyy alatunnisteesta mutta kohde jäi vahvistamatta"
+   ],
+   "yhteenveto": "Parfym.fi on ruotsalaisen Parfym Sverige AB:n suomenkielinen hajuvesi- ja kosmetiikkaverkkokauppa. Tuotesivuilla on kattava INCI-ainesosaluettelo, ja toimitusehdot on kuvattu poikkeuksellisen tarkasti tilausehdoissa. Asiakaspalvelu toimii vain sähköpostitse eikä puhelinnumeroa julkaista.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "Tilausehdoissa kohta 6.1: '14 päivän kuluessa siitä, kun olet vastaanottanut tuotteet'. Kohta 6.2: 'Jos palautat tilauksesi, katamme ohjeistuksemme mukaisella tavalla tehdyn palautuksen toimituskulut.' Yhteydenotot: asiakaspalvelu@parfym.fi."
+    }
+   ],
+   "sertifikaatti_bonus": 1.5,
+   "sertifikaatit": [
+    {
+     "mittari": "Trygg e-handel",
+     "arvo": "Vahvistettu",
+     "pisteet": 1.5,
+     "lahde": "HAVAINTO: parfym.fi-alatunnisteessa näkyy Trygg e-handel -luottamusmerkki; pohjoismaisen verkkokaupan riippumaton sertifiointi (Nordic Ecommerce Organisation)"
+    }
+   ]
+  },
+  {
+   "slug": "kicks",
+   "nimi": "KICKS",
+   "domain": "kicks.fi",
+   "omistaja": "Kicks Kosmetikkedjan Oy (PRH: aktiivinen, per. 2006) on ruotsalaisen KICKS-ketjun Suomen tytaryhtio; KICKS on Scandinavian Beauty Group AB:n brändi.",
+   "y_tunnus": "2061510-9",
+   "rekisteroity": 2006,
+   "score": 72.0,
+   "pillars": {
+    "digitaalinen": 62.2,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 77.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "20/100",
+       "paino": 40,
+       "pisteet": 20,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kategoriasivuilla tuotteiden hinnat ovat esillä selkeästi ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yritysinfosivulla: 'Ilmainen toimitus yli 29 euron tilauksille! Voit myös noutaa tuotteesi ilmaiseksi myymälästä 4 tunnin sisällä.'"
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yritysinfosivulla: 'Sinulla on aina 30 päivän palautusoikeus shoppaillessasi meillä. Palautus myymälään on ilmainen.'"
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on SPA-arkkitehtuuria; yritä tuotesivuja ei voitu ladata tekstimuodossa fetch-haulla. INCI-ainesosaluetteloiden saatavuus tuotekohtaisesti jäi vahvistamatta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yritysinfosivulla: 'KICKSin pääkonttori: Klarabergsviadukten 90, 101 28 Stockholm. Yritysrekisterinumero: 556432-9281' — ruotsalainen rekisterinumero, suomalainen Y-tunnus ei näy."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviolähdettä ei löytynyt yritysinfosivulta, alatunnisteesta eikä etusivulta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 20,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 22439.692500000012,
+    "cls": 0.14979031822985683,
+    "tbt_ms": 7203.500000000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Toimituskynnys selkeästi esillä: 'Ilmainen toimitus yli 29 euron tilauksille' yritysinfosivulla ja sivuston alatunnisteessa",
+    "30 päivän palautusoikeus ja ilmainen palautus myymälään kerrottu julkisesti",
+    "Asiakaspalvelun puhelinnumero (09-348 93 31) ja aukioloajat (ma-pe 10-18) näkyvissä joka sivun alatunnisteessa"
+   ],
+   "kehityskohteet": [
+    "Yritysrekisterinumero 556432-9281 on ruotsalainen; suomalaista Y-tunnusta ei näy sivustolla",
+    "Tuotesivujen INCI-ainesosaluettelot eivät latautuneet fetch-haulla (SPA-sivusto); saatavuus jäi vahvistamatta",
+    "Riippumatonta arviolähdettä (Trustpilot tai vastaava) ei löydy sivustolta"
+   ],
+   "yhteenveto": "KICKS on ruotsalaisen KICKS Beauty AB:n suomenkielinen kosmetiikkaverkkokauppa, jolla on myös fyysisiä myymälöitä Suomessa. Toimitus- ja palautusehdot ovat selkeästi esillä, ja asiakaspalvelu on tavoitettavissa puhelimitse arkisin. Ruotsalainen yritysrekisterinumero on julkaistu, mutta suomalaista Y-tunnusta ei löydy sivustolta.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "Yritysinfosivulla: 'Sinulla on aina 30 päivän palautusoikeus shoppaillessasi meillä. Palautus myymälään on ilmainen.'"
+    }
+   ]
+  },
+  {
+   "slug": "cocopanda",
+   "nimi": "Cocopanda",
+   "domain": "cocopanda.fi",
+   "omistaja": "Cocopanda.fi Oy Ab (PRH: aktiivinen, per. 2015) on Suomessa rekisteroity verkkokauppayhtion; liittyy myos norjalaiseen Blivakker & Cocopanda Retail AS:aan, jonka Suomen Sivuliike (Y: 3515859-6) on myos rekisteroity.",
+   "y_tunnus": "2718362-8",
+   "rekisteroity": 2015,
+   "score": 67.3,
+   "pillars": {
+    "digitaalinen": 72.6,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 37.5,
+    "ai_laatu": 71.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kategoriasivuilla tuotteiden hinnat ovat näkyvissä selkeästi ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdoissa: 'Tarkat toimituskustannukset ja saatavilla olevat toimitusvaihtoehdot näytetään selkeästi kassalle siirryttäessä.' Toimitusaika 1-5 arkipäivää kerrottu julkisesti."
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdoissa: 'Ostaessasi verkkokaupastamme sinulla on kuluttajana 14 päivän palautusoikeus. Jos käytät palautuksessa sopimusnumeroamme tai palautuslomakettamme, palautuskulu on 5 €.'"
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Avainainesosat'-tuoteluokittelu ja kategoriahaku ainesosien mukaan, mutta yksittäisten tuotteiden INCI-luettelot eivät latautuneet tekstimuodossa JS-renderöinnin estosta johtuen."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdoissa: 'Kaikki Cocopanda.fi-sivuston sisältö kuuluu Cocopanda.fi Oy:lle'. Suomalainen yhtiönimi on mainittu, mutta Y-tunnusnumeroa ei julkaista sivustolla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Alatunnisteessa: Trustpilot-linkki näkyy asiakaspalvelun yhteydessä ('Tarvitsetko apua? Ota meihin yhteyttä | Toimitus | Palautus | Käyttöehdot | Tietosuojakäytäntö | Trustpilot')."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "71/100",
+       "paino": 34,
+       "pisteet": 71,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 5724.6655,
+    "cls": 0.04012038336303405,
+    "tbt_ms": 2163.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "14 päivän palautusoikeus julkaistussa käyttöehdoissa; palautusprosessi ja kustannukset (5 €) kerrottu selkeästi",
+    "Trustpilot-linkki näkyy alatunnisteessa riippumattomana arviolähteenä",
+    "Bubbi-chat-widget saatavilla asiakaspalvelukäyttöön (tunnistettu evästekonsentin kautta)"
+   ],
+   "kehityskohteet": [
+    "Tarkat toimituskulut näytetään vasta kassalla, ei julkisella sivulla",
+    "Suomalainen Y-tunnus ei näy sivustolla; käyttöehdoissa mainitaan vain Cocopanda.fi Oy:n nimi ilman tunnusnumeroa",
+    "Tuotesivujen ainesosaluettelot (INCI) eivät latautuneet tekstihaulla JS-renderöinnin vuoksi"
+   ],
+   "yhteenveto": "Cocopanda.fi on norjalaisen Brandsdal Group AS:n omistama suomalainen kosmetiikkaverkkokauppa, joka operoi Cocopanda.fi Oy:n nimissä. Palautusehdot ja toimitusajat on kerrottu selkeästi, ja Trustpilot-arviot löytyvät alatunnisteesta. Toimituskulujen tarkka hinnoittelu selviää kuitenkin vasta kassalla, ja suomalaista Y-tunnusnumeroa ei julkaista sivustolla.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "Käyttöehdoissa: 'Ostaessasi verkkokaupastamme sinulla on kuluttajana 14 päivän palautusoikeus. Jos käytät palautuksessa sopimusnumeroamme tai palautuslomakettamme, palautuskulu on 5 €.'"
+    }
+   ]
+  },
+  {
+   "slug": "bangerhead",
+   "nimi": "Bangerhead",
+   "domain": "bangerhead.fi",
+   "omistaja": "Bangerhead AB filial i Finland (PRH: aktiivinen) on ruotsalaisen Bangerhead AB:n Suomen sivuliike; Bangerhead AB perustettiin 2009 Tukholmassa.",
+   "y_tunnus": "2607224-8",
+   "rekisteroity": 2014,
+   "score": 59.0,
+   "pillars": {
+    "digitaalinen": 69.1,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ja kategoriasivuilla tuotteiden hinnat ovat näkyvissä selkeästi ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Usein kysyttyä -sivulla: 'Saat kaikki yli 75 euron tilaukset ilman toimituskuluja. Alle 75 euron tilauksien toimituskulut vaihtelevat riippuen tilauksen arvosta ja valitusta toimitustavasta. Löydät eri toimitustavat kassalta jossa näet myös toimituksen hinnan aina ennen tilauksen maksamista.' Toimitustavat mainitaan: Posti noutopiste (3-5 arkipäivää), Budbee kotiinkuljetus (2-3 arkipäivää Helsingissä, Turussa ja Oulussa)."
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Palautukset-sivulla: 14 vuorokauden palautusoikeus; kontaktiosoite moi@bangerhead.fi palautuksille."
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotesivut ovat JS-renderöityjä eikä ainesosaluetteloja voitu lukea tekstihaulla. Bangerhead luokittelee tuotteita aktiivisten ainesosien mukaan (niasiiniamidi, C-vitamiini, retinoli ym.) mutta INCI-luetteloiden saatavuutta tuotekohtaisesti ei voitu varmistaa."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alatunniste näyttää vain '© 2026 Bangerhead AB'. Suomalaista Y-tunnusta tai ruotsalaista organisaatiotunnusta ei löydy julkisilta sivuilta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviolähdettä ei löydy etusivulta, tuotesivuilta eikä tuki- tai yhteystietosivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 9371.063499999998,
+    "cls": 0.004234279057887673,
+    "tbt_ms": 2017.9999999999982
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ilmaistoimitus yli 75 euron tilauksille; toimitustavat (Posti 3-5 pv, Budbee 2-3 pv Helsingissä, Turussa ja Oulussa) kerrottu usein kysyttyä -sivulla",
+    "14 vuorokauden palautusoikeus ja palautusohjeet julkisesti saatavilla palautukset-sivulla",
+    "Yhteydenottolomake ja sähköpostiosoite moi@bangerhead.fi löytyvät ota yhteyttä -sivulta"
+   ],
+   "kehityskohteet": [
+    "Toimituskulujen tarkat hinnat näytetään vasta kassalla, ei julkisella sivulla",
+    "Suomalainen Y-tunnus tai ruotsalainen organisaatiotunnus ei näy verkkosivustolla; alatunniste mainitsee vain Bangerhead AB",
+    "Bangerhead on yrityssaneerauksessa (ilmoitettu usein kysyttyä -sivulla), mikä luo epävarmuutta palvelun jatkuvuudesta"
+   ],
+   "yhteenveto": "Bangerhead on ruotsalaisen Bangerhead AB:n suomenkielinen kosmetiikkaverkkokauppa, joka myy kansainvälisiä kauneudenhoitobrändejä. Sivusto kertoo toimitusajan ja ilmaistoimituksen rajan, mutta tarkat toimituskulut selviävät vasta kassalla. Yritys on ilmoittanut olevansa yrityssaneerauksessa, mikä näkyy usein kysyttyä -sivulla.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "Palautukset-sivulla: 14 vuorokauden palautusoikeus; kontaktiosoite moi@bangerhead.fi palautuksille."
+    }
+   ]
+  },
+  {
+   "slug": "nordicfeel",
+   "nimi": "NordicFeel",
+   "domain": "eleven.fi",
+   "omistaja": "NordicFeel AB (Ruotsi) operoi eleven.fi-suomalaisdomain kautta nordicfeel.com/fi-sivustoa; Pohjoismainen kauneusverkkokauppa, yli 3 milj. asiakasta; ei suomalaista Y-tunnusta.",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 58.9,
+   "pillars": {
+    "digitaalinen": 60.0,
+    "lapinakyvyys": 67.5,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 71.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "68/100",
+       "paino": 30,
+       "pisteet": 68,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla tuotteiden hinnat ovat selkeästi esillä, esim. 'Olaplex Bond Maintenance Set Arvo 72,40 € 54,30 €'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Toimitustiedot-sivulla: 'Tarjoamme useita eri toimitusvaihtoehtoja: kotiinkuljetuksen, noutopisteen ja kuriiripalvelun. Vaihtoehdot voivat vaihdella asuinpaikkasi mukaan. Anna postinumerosi kassalla nähdäksesi sinulle saatavilla olevat vaihtoehdot.' Ilmainen toimitus yli 49 €:n ostoksille kerrottu etusivulla."
+      },
+      {
+       "mittari": "Palautusehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Reklamaatiot ja palautukset -sivulla: 'Palautusportaalissa rekisteröit asiasi helposti itse.' Palautusehdot ja -aika ohjataan ohjekeskukseen; tarkkoja päiviä ei löydy suoraan sivulta."
+      },
+      {
+       "mittari": "Tuotteiden ainesosaluettelot (INCI) löydettävissä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on Nuxt.js SPA-arkkitehtuuria; tuotesivujen sisältöä ei voitu ladata fetch-haulla. INCI-luetteloiden saatavuus tuotekohtaisesti jäi vahvistamatta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Alatunnisteessa: 'Nordicfeel Group AB, Org.nr 556746-8904, Norrlandsgatan 18, 111 43 Stockholm' — ruotsalainen organisaatiotunnus; suomalainen Y-tunnus ei näy."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla: '4,6/5 arvosana' ja toimitustiedot-sivulla: '4,5/5 TRUSTPILOT-ARVOSTELUSSA' mainittu selkeästi."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 68,
+    "seo": 100,
+    "best_practices": 92,
+    "lcp_ms": 11504.527799999996,
+    "cls": 0.03873045830168119,
+    "tbt_ms": 3678.000000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Trustpilot-arvosana (4,5/5) näkyy selkeästi sivustolla useassa kohdassa riippumattomana arviolähteenä",
+    "Sähköpostiosoite (info@nordicfeel.fi) julkaistu alatunnisteessa ja yritystiedot (Nordicfeel Group AB, Org.nr 556746-8904, osoite Tukholmassa) ovat julkisesti saatavilla",
+    "Asiakaspalvelusivulla selkeä rakenne: usein kysyttyä, toimitusohjeet, palautusportaali ja ohjekeskus"
+   ],
+   "kehityskohteet": [
+    "Toimituskulujen tarkkoja hintoja ei löydy julkiselta sivulta; vain ilmaisen toimituksen 49 €:n raja on mainittu, muuten kehotetaan tarkistamaan kassalta",
+    "Palautusehdoissa ei kerrota päiviä suoraan palautus-sivulla; yksityiskohdat ohjeistetaan etsimään erillisestä ohjekeskuksesta",
+    "Ruotsalainen organisaatiotunnus (556746-8904) on näkyvissä mutta suomalainen Y-tunnus puuttuu; puhelin tai chat ei ole saatavilla"
+   ],
+   "yhteenveto": "NordicFeel on pohjoismainen kosmetiikkaverkkokauppa, joka toimii Suomessa nordicfeel.com/fi-sivustolla (eleven.fi uudelleenohjaa sinne). Sivustolla on yli 3 miljoonan pohjoismaaisen asiakkaan Trustpilot-arvostelu selkeästi esillä. Tarkat toimituskulut ja palautusehdot selviävät kassalla tai ohjekeskuksesta, ei suoraan julkisilta sivuilta.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "Reklamaatiot ja palautukset -sivulla: 'Palautusportaalissa rekisteröit asiasi helposti itse.' Palautusehdot ja -aika ohjataan ohjekeskukseen; tarkkoja päiviä ei löydy suoraan sivulta."
+    }
+   ]
+  }
+ ],
+ "updated": "3.8.2026",
+ "opas": {
+  "johdanto": "Kosmetiikan ja kauneustuotteiden erikoisverkkokaupat tarjoavat laajat valikoimat ihonhoitoa, meikkejä, hiustuotteita ja hajuvesiä usein edullisemmin kuin kivijalkakaupat. Pohjoismaisilla toimijoilla on useimmiten suomenkieliset sivustot ja toimitus Suomeen Postilla tai Matkahuollolla. Palveluita vertaillessa kannattaa kiinnittää huomiota toimituskuluihin, palautusehdoihin ja siihen, miten hyvin tuotteiden ainesosaluettelot (INCI) on julkaistu.",
+  "huomioita": [
+   "Suurin osa kategoriamme toimijoista on ruotsalaisia tai norjalaisia yhtiöitä, joilla ei ole suomalaista Y-tunnusta. Tämä ei tarkoita epäluotettavuutta, mutta kuluttajasuojalain mukainen reklamointi kannattaa tehdä kirjallisesti.",
+   "Bangerhead on ilmoittanut olevansa yrityssaneerauksessa (2026). Tilauksissa kannattaa varmistaa, että tilaus lähtee ennen mahdollisia toimintakatkoja.",
+   "INCI-ainesosaluetteloiden näkyvyys tuotesivuilla vaihtelee merkittävästi. Parfym.fi julkaisee INCI-listan selkeästi; muilla se voi olla JS-teknologian takana.",
+   "Ilmaisen toimituksen rajat vaihtelevat: Lyko 60 euroa (tietyille toimitustavoille), KICKS 29 euroa, Cocopanda 29 euron minimitilaus, Parfym.fi 49 euroa, NordicFeel 49 euroa."
+  ],
+  "vinkit": [
+   "Tarkista aina toimituskulutaulukko ennen ostopäätöstä. Osassa palveluista tarkat toimituskulut selviävät vasta kassalla.",
+   "Jos ostat kosmetiikkaa INCI-ainesosatietojen perusteella (allergia, raaka-ainevapaukset), tarkista Parfym.fi, jolla luettelo on selkeästi tuotesivuilla.",
+   "Palautusoikeus vaihtelee 14-30 päivän välillä. KICKS tarjoaa 30 päivää; muut pääosin EU:n minimivaatimuksen 14 päivää.",
+   "Vertaile jäsenedut: useimmilla toimijoilla on kanta-asiakasohjelma, joka alentaa hintaa tai kerryttää pisteitä toistuvissa ostoksissa."
+  ],
+  "ukk": [
+   {
+    "q": "Mitä eroa on hajuvesi- ja kosmetiikkakaupalla?",
+    "a": "Hajuvesikaupat (kuten Parfym.fi) erikoistuvat tuoksuihin mutta myyvät usein myös ihonhoitoa. Laaja-alaiset kosmetiikkakaupat (Lyko, KICKS, Cocopanda, Bangerhead) tarjoavat kaiken meikistä hiustuotteisiin. NordicFeel on välimuoto hajuvesi- ja ihonhoitopainotuksella."
+   },
+   {
+    "q": "Voiko kosmetiikkaa palauttaa avattuna?",
+    "a": "Useimmilla toimijoilla avatun tai käytetyn kosmetiikan palautusoikeus on rajoitettu hygieniasyistä. Tarkista palautusehdot ennen ostoa, etenkin ihonhoitotuotteiden ja meikkien kohdalla."
+   },
+   {
+    "q": "Mitä INCI tarkoittaa?",
+    "a": "INCI (International Nomenclature of Cosmetic Ingredients) on kansainvälinen standardi kosmetiikan ainesosien nimeämiseen. Tuotteen pakkauksessa ja parhaissa verkkokaupoissa INCI-lista löytyy tuotesivulta. Se auttaa tunnistamaan allergeenit ja tarkistamaan, sisältääkö tuote esimerkiksi parabeenejä tai hajusteita."
+   },
+   {
+    "q": "Onko turvallista tilata hajuvesi ulkomaisesta verkkokaupasta?",
+    "a": "Kyllä, jos verkkokauppa toimittaa Suomeen ja on EU:n kuluttajansuojalain piirissä. Kaikki kategoriamme kaupat ovat pohjoismaisia ja EU-alueella toimivia. Maksaminen onnistuu turvallisesti Klarnalla tai kortilla. Tarkista silti, onko yrityksellä selkeät yhteystiedot ja julkinen palautusosoite."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat verkossa esillä (25), toimitustavat ja -kulut kerrottu ennen kassaa (20), palautusehdot julkisesti saatavilla (20), tuotteiden ainesosaluettelot (INCI) löydettävissä (15), Y-tunnus esillä (10), riippumaton arviolähde esillä (10)"
+}
