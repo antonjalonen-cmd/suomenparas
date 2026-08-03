@@ -1868,7 +1868,7 @@ META["kirjanpito-ohjelmistot"] = {
          "kuin sinun täytyy rekisteröityä tai antaa yritystietosi."),
         ("<b>Miksi listalla on kuusi ohjelmistoa?</b> Mukaan otettiin Suomen markkinalla "
          "aktiivisesti toimivat ja kuluttajille tai yrittäjille suoraan myyvät ohjelmistot. "
-         "Poissuljetut: Passeli Merit (Y-tunnus ei varmistettavissa PRH:sta), Tikon "
+         "Poissuljetut: Passeli ja Merit (Y-tunnus ei varmistettavissa PRH:sta), Tikon "
          "(Accountor-konserni, sama omistaja kuin Procountor), Fivaldi (Visma Solutions, "
          "sama yhtiö kuin Netvisor), Heeros (tilitoimistoille, ei suoraan yrittäjille)."),
         ("<b>Emme arvioi ohjelmiston toiminnallisuuksia tai kirjanpidon oikeellisuutta.</b> "
