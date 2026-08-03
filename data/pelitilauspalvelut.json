@@ -1,0 +1,1325 @@
+{
+ "slug": "pelitilauspalvelut",
+ "nimi": "Pelitilauspalvelut",
+ "nav": "Pelipalvelut",
+ "h1": "Suomen paras pelitilauspalvelu 2026",
+ "yksikko": "Suomessa myytavaa pelitilauspalvelua",
+ "lead": "Pisteytimme {n} Suomessa myytavaa pelitilauspalvelua {m} mittarilla. Tairkein kysymys: nakyvatko kuukausihinnat per taso, pelikirjaston kuvaus ja irtisanomisoikeus selkeasti ennen tilauksen tekemista?",
+ "meta_title": "Suomen paras pelitilauspalvelu 2026 | Xbox, PlayStation, Nintendo | Suomen Paras",
+ "meta_desc": "6 pelitilauspalvelua pisteytetty lapinakyvalla kaavalla. Katso mista jokainen piste tulee: Xbox Game Pass, PlayStation Plus, Nintendo Switch Online ja muut.",
+ "notes": [
+  "<b>Kaikki kuusi palvelua ovat kansainvalisten yritysten tuotteita.</b> Microsoft, Sony ja Nintendo ovat suuria julkisesti listattuja yrityksita. EA ja Ubisoft ovat eurooppalaisen peliteollisuuden jatteja. Apple on maailman arvokkain teknologiayritys. Yksikaan ei ole suomalainen.",
+  "<b>Nintendo Switch Online on ainoa palvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi).</b> Muut toimijat palvelevat Suomea kansainvalisten tai skandinaavisten sivustojensa kautta. Suomenkielinen palvelu pisteyttaa 'kylla' suomenkielinen_palvelu-mittarilla, pelkka euro-hinnoittelu pisteyttaa 'osittain'.",
+  "<b>Emme arvioi pelikirjaston kokoa, teknista suorituskykyia tai laitteistoa.</b> Vertailu mittaa julkisten verkkosivujen lapinakyvyytta: kerrotaanko hinnat, tasojen erot, kirjaston sisalto ja irtisanominen ennen tilaamista?"
+ ],
+ "yritykset": [
+  {
+   "slug": "apple-arcade",
+   "nimi": "Apple Arcade",
+   "domain": "apple.com",
+   "omistaja": "Apple Inc. (Yhdysvallat, NASDAQ: AAPL) — Suomi-sivu apple.com/fi/apple-arcade; yksi kiintea kuukausihinta, ei tasoja",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 83.8,
+   "pillars": {
+    "digitaalinen": 73.2,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 85.0,
+    "ai_laatu": 89.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "42/100",
+       "paino": 40,
+       "pisteet": 42,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa: 'Apple Arcade maksaa 7,99 euroa kuukaudessa tai 59,99 euroa vuodessa.' Lisäksi mainitaan Apple One -paketti vaihtoehtona."
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Apple Arcade on yksi taso — 'Jaa tilauksi jopa viiden henkilön kanssa ilman lisämaksua.' Perhe-ominaisuus sisältyy samaan hintaan. Apple One -paketti mainitaan vaihtoehtona mutta on eri tuote."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Löydät satoja Apple Arcade -pelejä selaamalla App Storen Arcade-välilehteä.' Pelejä voi selata App Storessa ennen tilaamista, ja sivulla listataan peliesimerkkejä."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: FAQ-osiossa: 'Kyllä, menetät pääsyn Apple Arcade -peleihin, mikäli perut tilauksesi. Jos sinulla on käytössä iCloud, voit kuitenkin tilauksen uusittuasi jatkaa pelejä siitä, mihin jäit.'"
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Apple' ja 'Apple Inc.' tulevat ilmi kaikkialla sivustolla (apple.com, Apple (FI) -otsikko, tekijänoikeustiedot). Omistava yhtio on Apple Inc., Yhdysvallat."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei viitata riippumattomaan arviolahteeseen tai sertifikaattiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "90/100",
+       "paino": 34,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "86/100",
+       "paino": 33,
+       "pisteet": 86,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 42,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10513.889,
+    "cls": 0.16656774408234903,
+    "tbt_ms": 504.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Koko sivusto suomeksi — ainut kategoriassa jonka kaikki sisaltö on täysin suomenkielista",
+    "Hinta (7,99 e/kk tai 59,99 e/v), irtisanominen ja pelikirjaston selaus kuvattu selkeasti FAQ-osiossa",
+    "Suomalainen ilmainen palvelunumero (0800 922 72) ja chat-tuki aukioloaikoineen esillä"
+   ],
+   "kehityskohteet": [
+    "Apple Arcade itsessaan on yksi taso ilman vaihtoehtoja — kuluttaja ei voi valita halvempaa tai kalliimpaa tasoa",
+    "Sahkopostitukea ei tarjota; tuella on rajoitetut aukioloajat (ma–pe 9–17)",
+    "Riippumatonta arviota tai sertifikaattia ei esiteta"
+   ],
+   "yhteenveto": "Apple Arcade on Apple Inc.:n pelitilauspalvelu, joka on koko kategorian selkein suomeksi: hinta 7,99 euroa kuukaudessa, irtisanominen ja peliliikettä kuvataan kattavasti suomenkielisessä FAQ-osiossa. Tuki on tavoitettavissa suomalaisesta puhelinnumerosta ja chatilla. Ainoa selkea heikkous on, etta Arcade tarjoaa vain yhden tilaustason eika riippumatonta arviota esiteta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "playstation-plus",
+   "nimi": "PlayStation Plus",
+   "domain": "playstation.com",
+   "omistaja": "Sony Interactive Entertainment LLC (Yhdysvallat) — tytaryhtio Sony Group Corporation (Japani, TSE: 6758); Suomi-sivu store.playstation.com/fi-fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 69.9,
+   "pillars": {
+    "digitaalinen": 62.1,
+    "lapinakyvyys": 90.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 81.6
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "27/100",
+       "paino": 40,
+       "pisteet": 27,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla nakyy kolme hintaa selkeasti: Essential 9,95 euroa/kk, Extra 15,95 euroa/kk, Premium 18,95 euroa/kk. Myos 3 kk- ja 12 kk-hinnat esitetty."
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kolme tasoa (Essential, Extra, Premium) esitetaan rinnakkain ominaisuuslistojen kanssa: Essential sisaltaa moninpelin ja kuukauden pelit; Extra lisaa pelivalikoiman; Premium lisaa pilvisuoratoiston, klassikkovalikoiman ja pelin kokeiluversiot."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: PS Plus -sivulla on 'Katso kaikki pelit' ja 'Kaikki pelit A-Z' -linkki, joka avaa selattavan pelikirjaston ennen tilausta."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tilaus jatkuu, kunnes se peruutetaan. Lue lisää hintojen muutoksista ja tilauksen perumisesta PS Plus -palvelun ehdoista.' Myos downgrade-prosessi selitetaan."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivu viittaa 'Sony'-brändiin toistuvasti (Sony Pictures Catalog, Sony Interactive Entertainment). 404-sivun alatunniste mainitsee 'SIE' eli Sony Interactive Entertainment."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei viitata riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 27,
+    "accessibility": 92,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 15312.689499999997,
+    "cls": 0.0164144750926064,
+    "tbt_ms": 2376.306499999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kolmen tason hinnat (Essential 9,95 e, Extra 15,95 e, Premium 18,95 e kuukaudessa) esitetty selkeasti rinnakkain suomeksi",
+    "Pelivalikoima selattavissa julkisesti ennen tilaamista (Kaikki pelit A-Z -linkki)",
+    "PlayStation App saatavilla iOSille ja Androidille"
+   ],
+   "kehityskohteet": [
+    "Tukikanavien aukioloaikoja ei kerrota PS Plus -sivulla",
+    "Puhelin- tai sahkopostituen numero tai osoite ei nay julkisesti",
+    "Riippumatonta ulkopuolista arviota tai sertifikaattia ei esiteta"
+   ],
+   "yhteenveto": "PlayStation Plus on Sonyn pelitilauspalvelu, jota myydaan Suomessa kolmessa tasossa: Essential (9,95 e/kk), Extra (15,95 e/kk) ja Premium (18,95 e/kk). Hinnat, tasojen erot ja peruutusehdot on esitetty kattavasti suomeksi, ja pelivalikoima on selattavissa julkisesti ennen tilauksen tekemista. Tukikanavista ainoastaan verkkokeskustelu mainitaan, eika puhelin- tai sahkopostitukea tarjota.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "xbox-game-pass",
+   "nimi": "Xbox Game Pass",
+   "domain": "xbox.com",
+   "omistaja": "Microsoft Corporation (Yhdysvallat, NASDAQ: MSFT) — pelitilauspalvelu saatavilla xbox.com/fi-fi; taso-vaihtoehdot Game Pass Standard ja Game Pass Ultimate (sis. EA Play)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 66.9,
+   "pillars": {
+    "digitaalinen": 54.5,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 55.0,
+    "ai_laatu": 74.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "2/100",
+       "paino": 40,
+       "pisteet": 2,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla lukee 'Saat ensimmäisen kuukauden 1 eurolla, minkä jälkeen tilaus maksaa 8,99 euroa/kuukausi' (PC Game Pass) ja '12,99 euroa/kuukausi' (Game Pass Ultimate). Lisäksi 'Palvelupakettien hinnat alkaen 8,99 euroa / kuukaudessa'."
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla erotellaan PC Game Pass (yli 300 PC-peliä) ja Game Pass Ultimate (yli 400 peliä konsolille ja PC:lle, pilvisuoratoisto, EA Play, moninpeli). Erot esitetty rinnakkain suomeksi."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kirjaston koko mainitaan (300+ PC, 400+ konsoli+PC) ja yksittaisia pelejä esitellaan, mutta koko selattavaa listaa ei ole ilman sisaankirjautumista."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tilaus jatkuu automaattisesti normaaliin kuukausihintaan, ellei sitä peruuteta Microsoft-tilisi kautta.' Hyvitys 30 paivan kuluessa mainita viimeisimmasta veloituksesta."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Microsoft' nakyy sivuston navigaatiossa, alatunnisteessa ja tilausehdoissa. 'Microsoft-tilisi kautta' toistuu useissa kohdissa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei viitata yhteenkaan riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 2,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 22523.1065,
+    "cls": 0.7664059701874096,
+    "tbt_ms": 3949.7387500000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat ja tilaustasojen erot esitetty selkeasti suomeksi: PC Game Pass 8,99 e/kk, Game Pass Ultimate 12,99 e/kk",
+    "Peruutusehdot ja hyvitysoikeus (30 pv) kerrottu julkisesti tilaussivulla",
+    "Live-chat-tuki saatavilla vuorokauden ympari ilman ajanvarausta"
+   ],
+   "kehityskohteet": [
+    "Koko pelikirjastoa ei voi selata ilman Microsoft-tiliin kirjautumista",
+    "Puhelin- tai sahkopostitukea ei tarjota; ainoa kanava on verkkokeskustelu",
+    "Riippumatonta arviota tai sertifiointia ei esiteta sivustolla"
+   ],
+   "yhteenveto": "Xbox Game Pass on Microsoftin pelitilauspalvelu, joka myydaan Suomessa kahdessa tasossa: PC Game Pass (8,99 e/kk, yli 300 PC-peliä) ja Game Pass Ultimate (12,99 e/kk, yli 400 peliä konsolille ja PC:lle, sisaltaa pilvipelaamisen ja EA Playn). Hinnat, tilaustasojen erot ja peruutusoikeus on kerrottu selkeasti suomeksi, mutta koko pelikirjastoa ei voi selata ilman kirjautumista.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "ea-play",
+   "nimi": "EA Play",
+   "domain": "ea.com",
+   "omistaja": "Electronic Arts Inc. (Yhdysvallat, NASDAQ: EA) — Suomi-sivu ea.com/fi-fi; EA Play on EA:n oma tilauspalvelu, sisaltyy myos Xbox Game Pass Ultimate -tilaukseen",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 57.2,
+   "pillars": {
+    "digitaalinen": 56.5,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 20.0,
+    "ai_laatu": 72.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "75/100",
+       "paino": 15,
+       "pisteet": 75,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun UKK-osiossa: 'EA Play -jäsenyys maksaa vain 5,99 euroa kuukaudessa tai 39,99 euroa koko vuodelta. EA Play Pro maksaa 16,99 euroa kuukaudessa tai 119,99 euroa koko vuodelta.'"
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan EA Play ('The Play List') ja EA Play Pro ('The Pro Play List') erikseen, mutta ero ei ole välittömästi silmään pistava — 'Pro' on kuvailtu vain nimenaan eika sen etuja listata erikseen samalla sivulla."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Tutustu kokoelmaan' -linkki johtaa sivulle ea.com/fi-fi/ea-play/games, jossa pelit on lueteltu alustan mukaan (EA app – EA Play, EA app – EA Play Pro, Xbox)."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Maksu uusitaan automaattisesti joka kuukausi tai vuosi jäsenyytesi mukaan.' Peruutusoikeus mainitaan vain yhteydenottolomakkeen yhteydessä, ei selkeana ohjeena tilaussivulla."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteydenottotekstissä: 'Electronic Arts Inc., ATTN: Email Opt-Out, 209 Redwood Shores Pkwy, Redwood City, CA, 94065, USA.' Omistaja on Yhdysvalloissa listattu Electronic Arts Inc."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei viitata riippumattomaan arviolahteeseen tai sertifikaattiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 87,
+    "seo": 75,
+    "best_practices": 58,
+    "lcp_ms": 9901.736999999997,
+    "cls": 0.1348724179829891,
+    "tbt_ms": 3335.8719999999985
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnat esitetty selkeasti suomeksi: EA Play 5,99 e/kk (39,99 e/v) ja EA Play Pro 16,99 e/kk (119,99 e/v)",
+    "Pelikirjasto selattavissa julkisesti alustan mukaan (The Play List -sivu)",
+    "UKK-osio vastaa keskeisiin kysymyksiin hinnoittelusta ja pelaamisesta"
+   ],
+   "kehityskohteet": [
+    "EA Play- ja EA Play Pro -tasojen sisaltoeron (Pro = uusimmat pelit rajoituksetta) voisi esittaa selkemmin rinnakkain",
+    "Irtisanomisohjeistus jää epätäydelliseksi: 'automaattisesti uusitaan' mainitaan, mutta peruutuspolkua ei kuvata sivulla",
+    "Asiakastuen kanavat (puhelin, chat, sahkoposti) eivat nay EA Play -sivulla"
+   ],
+   "yhteenveto": "EA Play on Electronic Artsin pelitilauspalvelu, joka myydaan Suomessa kahdessa tasossa: EA Play (5,99 e/kk, The Play List -kirjasto) ja EA Play Pro (16,99 e/kk, uusimmat EA-pelit rajattomasti). Hinnat ja kirjasto ovat julkisesti nahtavilla, mutta tasojen sisaltoeroa ja irtisanomisprosessia ei seliteta riittavan selkeasti sivustolla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "nintendo-switch-online",
+   "nimi": "Nintendo Switch Online",
+   "domain": "nintendo.fi",
+   "omistaja": "Nintendo Co., Ltd. (Japani, TSE: 7974) — ainoa listattu pelitilauspalvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi); tilaussivu nintendo.fi/nintendo-switch-perhe/nintendo-switch-online",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 53.5,
+   "pillars": {
+    "digitaalinen": 71.3,
+    "lapinakyvyys": 52.5,
+    "tavoitettavuus": 32.5,
+    "ai_laatu": 49.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: NSO-sivulla lukee 'Ajantasaiset hinnat löydät Nintendo eShopista.' Yhtaan euromaaraista hintaa ei nayta sivustolla."
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Voit valita neljästä eri jäsenyydestä: Yksilö tai Perhe, sekä sen, haluatko Expansion Packin vai et.' Jokaiselle tasolle on listattu omat etunsa (verkkomoninpeli, Klassikopelit, N64, etuudet)."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan NES-, Super NES-, Game Boy- ja N64-pelit (Expansion Pack) nimeltä yksitellen, mutta koko selattavaa listausta ei ole ennen tilauksen tekemistä."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Jos olet ottanut käyttöön jäsenyyden automaattisen uusimisen, voit peruuttaa Nintendo Switch Online -jäsenyytesi poistamalla automaattisen uusimisen käytöstä Nintendo eShopin Account Information -kohdasta. Muistathan tehdä tämän vähintään 48 tuntia ennen jäsenyytesi päättymispäivää.' Lisäksi mainitaan 14 päivän lakisääteinen peruuttamisoikeus."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tukisivun alaosassa: 'Nintendo Co., Ltd. of Kyoto, Japan, on erityisesti luovuudestaan tunnustusta saanut maailmanlaajuinen interaktiivisen viihteen johtaja.' Myös Bergsala mainitaan virallisena jakelijana."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei viitata yhdenkaan riippumattoman osapuolen arvioon tai sertifiointiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 7507.263480000002,
+    "cls": 0.17798313113085096,
+    "tbt_ms": 564.0108100000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ainoa palvelu jolla on suomenkielinen verkkotunnus (nintendo.fi) — koko NSO-sivu suomeksi",
+    "Neljat jaseenyysvaihtoehdot (Yksilö/Perhe x Expansion Pack vai ei) selitetty selkeasti",
+    "Peruutusoikeus kerrottu: 48h ennen päättymistä + 14 vrk lakisääteinen peruutusoikeus eShop-ostoksille"
+   ],
+   "kehityskohteet": [
+    "Hinnat eivat nay lainkaan verkkosivustolla — 'Ajantasaiset hinnat löydät Nintendo eShopista'",
+    "Klassikkopelikirjastoa ei voi selata ennen tilaamista; vain pelikonsolimallit mainitaan",
+    "Yhteystukena vain lomake, ei puhelinnumeroa eika suoraa sahkopostia; chat-tuki puuttuu"
+   ],
+   "yhteenveto": "Nintendo Switch Online on ainut listattu pelitilauspalvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi). Jaseenyystasot ja etuudet on selitetty kattavasti suomeksi, mutta hinnat on jätetty kokonaan pois sivustolta — kuluttajan on siirryttava Nintendo eShopiin nahdakseen aktuaaliset hinnat. Tama on kategorian merkittavin puute lapinakyvyysmittarilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "ubisoft-plus",
+   "nimi": "Ubisoft+",
+   "domain": "ubisoft.com",
+   "omistaja": "Ubisoft Entertainment SA (Ranska, Euronext: UBI) — Suomi-sivu ubisoft.com/fi-fi; Ubisoft+ Classic ja Ubisoft+ Premium kaksi tasoa",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 33.0,
+   "pillars": {
+    "digitaalinen": 66.1,
+    "lapinakyvyys": 20.0,
+    "tavoitettavuus": 5.0,
+    "ai_laatu": 30.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta per taso julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla (joka on oikeasti en-us-versio) nakyy 'Get Premium editions, rewards & discounts with Ubisoft+ for €17,99/month'. Hinta on euroissa, mutta sivusto on englanninkielinen eika suomenkielinen."
+      },
+      {
+       "mittari": "Tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan vain yksi hinta (17,99 e/kk). Erillistä Classic- tai Premium-tason vertailutaulukkoa ei nayta; Suomessa saatavilla oleva taso ei ole selvää."
+      },
+      {
+       "mittari": "Pelikirjaston kuvaus tai lista ennen tilaamista",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla ei ole pelikirjaston selaustoimintoa. Ubisoft-pelejä mainitaan esimerkkeinä (Assassin's Creed, Rainbow Six), mutta koko kirjastoa ei voi katsella ennen tilauksen tekemista."
+      },
+      {
+       "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Peruutusehtoja tai irtisanomisohjeistusta ei nay sivustolla. Automaattisesta uusimisesta ei kerrota."
+      },
+      {
+       "mittari": "Omistava yhtiö kerrottu sivustolla",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Ubisoft'-brändi nakyy kaikkialla, mutta sivustolla ei mainita 'Ubisoft Entertainment SA' -yhtion nimeä tai kotipaikkatietoja erillisena lausumana julkisella sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei viitata riippumattomaan arviolahteeseen tai sertifikaattiin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "32/100",
+       "paino": 34,
+       "pisteet": 32,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "35/100",
+       "paino": 33,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "25/100",
+       "paino": 33,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 12069.317500000001,
+    "cls": 0.07549929809246304,
+    "tbt_ms": 2462.500000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kuukausihinta (17,99 e/kk) on mainittu sivulla englanniksi",
+    "Ubisoft Connect -yhdistymissovellus tarjolla kaikille alustoille",
+    "Ubisoft-brändi on välittömästi tunnistettava"
+   ],
+   "kehityskohteet": [
+    "Suomenkielinen sivu (ubisoft.com/fi-fi) ohjautuu automaattisesti englanninkieliselle yhdysvaltalaiselle sivulle — ei suomenkielistä tilauskuvausta",
+    "Peruutusehdot, irtisanominen ja tilaustasojen erot eivat nay ohjautuvalla sivulla",
+    "Pelikirjastoa ei voi selata ennen tilaamista sivustolta"
+   ],
+   "yhteenveto": "Ubisoft+ on ranskalaisen Ubisoft Entertainment SA:n pelitilauspalvelu, joka myydaan Euroopassa hintaan 17,99 euroa kuukaudessa. Suomenkielinen osoite (ubisoft.com/fi-fi) ohjautuu kuitenkin englanninkieliselle yhdysvaltalaiselle etusivulle ilman suomenkielistä tilaussivua. Hinnan nayttaminen, tasojen erot, pelikirjasto, irtisanomisohjeet ja asiakastuen kanavat eivat nay ohjautuvalla sivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "3.8.2026",
+ "opas": {
+  "johdanto": "Pelitilauspalvelut ovat kuukausimaksullisia tilauksia, jotka antavat pääsyn suureen pelikirjastoon yhden kiinteän hinnan sijaan. Ne sopivat pelaajille, jotka haluavat kokeilla monia pelejä ilman, että jokainen peli ostetaan erikseen. Tällä sivulla vertailemme kuutta Suomessa myytävää palvelua sen perusteella, kuinka selkeästi ne kertovat hinnat, tilaustasojen erot, pelikirjaston sisällön ja irtisanomisehdot ennen tilauksen tekemistä.",
+  "huomioita": [
+   "Kaikki kuusi palvelua ovat kansainvälisten yhtiöiden tuotteita — Microsoft, Sony, Nintendo, Electronic Arts, Ubisoft ja Apple. Yksikään ei ole suomalainen.",
+   "Nintendo Switch Online on ainoa palvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi). Ubisoft+ ohjaa suomalaisen osoitteen automaattisesti englanninkieliselle sivulle.",
+   "Nintendo Switch Online on ainoa palvelu, joka ei näytä hintoja verkkosivullaan: kuluttajan on siirryttävä Nintendo eShopiin saadakseen hintatiedot.",
+   "Xbox Game Pass Ultimate sisältää EA Playn. Jos tilaat Ultimate-tason, sinulla on jo EA Play mukana — erillinen EA Play -tilaus olisi päällekkäinen.",
+   "PlayStation Plus -tilaajat saavat myös käyttöoikeuden Ubisoft+ Classics -peleihin osana tilauksia (Extra ja Premium), joten eri palveluilla on päällekkäisyyksiä."
+  ],
+  "vinkit": [
+   "Ennen tilaamista selaa palvelun pelikirjastoa — kaikilla paitsi Ubisoftilla ja Nintendolla se onnistuu ilman kirjautumista.",
+   "Tarkista, onko palvelu saatavilla haluamallasi laitteella: PlayStation Plus vaatii PlayStation-konsolin, Nintendo Switch Online Nintendo Switch -konsolin, Apple Arcade Apple-laitteen.",
+   "Lue tilausehdot huolella: useimmilla palveluilla maksu uusiutuu automaattisesti, ja peruutus tulee tehdä ennen seuraavaa veloituspäivää.",
+   "Jos sinulla on Xbox Game Pass Ultimate, EA Play sisältyy siihen — älä tilaa EA Playta erikseen.",
+   "Harkitse perhejäsenyyttä, jos perheessäsi on useita pelaajia: Nintendo Switch Online, PlayStation Plus ja Apple Arcade tukevat perheen jakamista."
+  ],
+  "ukk": [
+   {
+    "q": "Mitkä palvelut toimivat PC:llä?",
+    "a": "Xbox Game Pass (PC Game Pass tai Ultimate), EA Play ja Ubisoft+ toimivat PC:llä. PlayStation Plus ja Nintendo Switch Online vaativat valmistajan oman konsolin. Apple Arcade toimii Macilla ja myös iPhonella, iPadilla sekä Apple TV 4K:lla."
+   },
+   {
+    "q": "Voinko pelata lataamattomia pelejä suoraan pilvestä?",
+    "a": "Kyllä, Xbox Game Pass Ultimate sisältää Xbox Cloud Gaming -pilvipelaamisen, ja PlayStation Plus Premium tarjoaa PS5-pilvipelaamismahdollisuuden. Muut palvelut vaativat pelin lataamisen laitteelle."
+   },
+   {
+    "q": "Mitä tapahtuu peleilleni, jos peruutan tilauksen?",
+    "a": "Menetät pääsyn pelikirjaston peleihin tilauksen päätyttyä. Poikkeus: jos olet ostanut pelin erikseen alennuksella (Xbox, EA Play), se säilyy omistuksessasi. Apple Arcade kertoo tästä selkeimmin verkkosivullaan."
+   },
+   {
+    "q": "Sisältääkö jokin palvelu toisen palvelun?",
+    "a": "Kyllä: Xbox Game Pass Ultimate sisältää EA Playn, joten erillistä EA Play -tilausta ei tarvita Ultimate-asiakkaille. PlayStation Plus Extra ja Premium sisältävät Ubisoft+ Classics -pelivalikoiman."
+   },
+   {
+    "q": "Miksi Nintendo Switch Online ei näytä hintojaan verkkosivullaan?",
+    "a": "Nintendo on päättänyt ohjata hintatiedot Nintendo eShopiin. Tämä on kategorian merkittävin läpinäkyvyyspuute: kuluttaja ei voi vertailla hintoja muihin palveluihin ilman ylimääräistä vaihetta."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta per taso julkisesti esillä (30), tilaustasojen erot (pelikirjasto, laitteet, hinta) selitetty (20), pelikirjaston kuvaus tai lista ennen tilaamista (15), irtisanominen ja ilmaiskokeilun ehdot kerrottu (15), omistava yhtiö kerrottu sivustolla (10), riippumaton arviolähde esillä (10)"
+}
