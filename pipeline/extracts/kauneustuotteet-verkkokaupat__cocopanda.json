@@ -1,0 +1,40 @@
+{
+  "slug": "cocopanda",
+  "fetched_ok": [
+    "https://www.cocopanda.fi/",
+    "https://www.cocopanda.fi/asiakaspalvelu",
+    "https://www.cocopanda.fi/asiakaspalvelu/kayttoehdot"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "ainesosaluettelo_saatavilla": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 71, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 68},
+  "vahvuudet": [
+    "14 päivän palautusoikeus julkaistussa käyttöehdoissa; palautusprosessi ja kustannukset (5 €) kerrottu selkeästi",
+    "Trustpilot-linkki näkyy alatunnisteessa riippumattomana arviolähteenä",
+    "Bubbi-chat-widget saatavilla asiakaspalvelukäyttöön (tunnistettu evästekonsentin kautta)"
+  ],
+  "kehityskohteet": [
+    "Tarkat toimituskulut näytetään vasta kassalla, ei julkisella sivulla",
+    "Suomalainen Y-tunnus ei näy sivustolla; käyttöehdoissa mainitaan vain Cocopanda.fi Oy:n nimi ilman tunnusnumeroa",
+    "Tuotesivujen ainesosaluettelot (INCI) eivät latautuneet tekstihaulla JS-renderöinnin vuoksi"
+  ],
+  "yhteenveto": "Cocopanda.fi on norjalaisen Brandsdal Group AS:n omistama suomalainen kosmetiikkaverkkokauppa, joka operoi Cocopanda.fi Oy:n nimissä. Palautusehdot ja toimitusajat on kerrottu selkeästi, ja Trustpilot-arviot löytyvät alatunnisteesta. Toimituskulujen tarkka hinnoittelu selviää kuitenkin vasta kassalla, ja suomalaista Y-tunnusnumeroa ei julkaista sivustolla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kategoriasivuilla tuotteiden hinnat ovat näkyvissä selkeästi ilman kirjautumista.",
+    "toimitus_kerrottu": "Käyttöehdoissa: 'Tarkat toimituskustannukset ja saatavilla olevat toimitusvaihtoehdot näytetään selkeästi kassalle siirryttäessä.' Toimitusaika 1-5 arkipäivää kerrottu julkisesti.",
+    "palautusehdot_saatavilla": "Käyttöehdoissa: 'Ostaessasi verkkokaupastamme sinulla on kuluttajana 14 päivän palautusoikeus. Jos käytät palautuksessa sopimusnumeroamme tai palautuslomakettamme, palautuskulu on 5 €.'",
+    "ainesosaluettelo_saatavilla": "HAVAINTO: Sivustolla on 'Avainainesosat'-tuoteluokittelu ja kategoriahaku ainesosien mukaan, mutta yksittäisten tuotteiden INCI-luettelot eivät latautuneet tekstimuodossa JS-renderöinnin estosta johtuen.",
+    "y_tunnus_esilla": "Käyttöehdoissa: 'Kaikki Cocopanda.fi-sivuston sisältö kuuluu Cocopanda.fi Oy:lle'. Suomalainen yhtiönimi on mainittu, mutta Y-tunnusnumeroa ei julkaista sivustolla.",
+    "riippumaton_arvio": "Alatunnisteessa: Trustpilot-linkki näkyy asiakaspalvelun yhteydessä ('Tarvitsetko apua? Ota meihin yhteyttä | Toimitus | Palautus | Käyttöehdot | Tietosuojakäytäntö | Trustpilot')."
+  }
+}

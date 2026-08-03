@@ -141,6 +141,7 @@ CATEGORY_GROUPS = [
         ("Hautaustoimistot", "hautaustoimistot", True), ("Lemmikkihoitolat", None, False), ("Lemmikkitarvikkeiden verkkokaupat", "lemmikkitarvikkeiden-verkkokaupat", True),
         ("Hotelliketjut", "hotelliketjut", True), ("Kirjakauppojen verkkokaupat", "kirjakauppojen-verkkokaupat", True),
         ("Lastenvaatteiden verkkokaupat", "lastenvaatteiden-verkkokaupat", True),
+        ("Kauneustuotteiden verkkokaupat", "kauneustuotteet-verkkokaupat", True),
     ]),
 ]
 TOTAL_CATS = sum(len(cats) for _, cats in CATEGORY_GROUPS)

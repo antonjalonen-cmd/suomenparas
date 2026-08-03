@@ -1,0 +1,39 @@
+{
+  "slug": "kicks",
+  "fetched_ok": [
+    "https://www.kicks.fi/",
+    "https://www.kicks.fi/kicks-yritysinfo"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "ainesosaluettelo_saatavilla": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "ei",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 85, "sisallon_kattavuus": 70},
+  "vahvuudet": [
+    "Toimituskynnys selkeästi esillä: 'Ilmainen toimitus yli 29 euron tilauksille' yritysinfosivulla ja sivuston alatunnisteessa",
+    "30 päivän palautusoikeus ja ilmainen palautus myymälään kerrottu julkisesti",
+    "Asiakaspalvelun puhelinnumero (09-348 93 31) ja aukioloajat (ma-pe 10-18) näkyvissä joka sivun alatunnisteessa"
+  ],
+  "kehityskohteet": [
+    "Yritysrekisterinumero 556432-9281 on ruotsalainen; suomalaista Y-tunnusta ei näy sivustolla",
+    "Tuotesivujen INCI-ainesosaluettelot eivät latautuneet fetch-haulla (SPA-sivusto); saatavuus jäi vahvistamatta",
+    "Riippumatonta arviolähdettä (Trustpilot tai vastaava) ei löydy sivustolta"
+  ],
+  "yhteenveto": "KICKS on ruotsalaisen KICKS Beauty AB:n suomenkielinen kosmetiikkaverkkokauppa, jolla on myös fyysisiä myymälöitä Suomessa. Toimitus- ja palautusehdot ovat selkeästi esillä, ja asiakaspalvelu on tavoitettavissa puhelimitse arkisin. Ruotsalainen yritysrekisterinumero on julkaistu, mutta suomalaista Y-tunnusta ei löydy sivustolta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Kategoriasivuilla tuotteiden hinnat ovat esillä selkeästi ilman kirjautumista.",
+    "toimitus_kerrottu": "Yritysinfosivulla: 'Ilmainen toimitus yli 29 euron tilauksille! Voit myös noutaa tuotteesi ilmaiseksi myymälästä 4 tunnin sisällä.'",
+    "palautusehdot_saatavilla": "Yritysinfosivulla: 'Sinulla on aina 30 päivän palautusoikeus shoppaillessasi meillä. Palautus myymälään on ilmainen.'",
+    "ainesosaluettelo_saatavilla": "HAVAINTO: Sivusto on SPA-arkkitehtuuria; yritä tuotesivuja ei voitu ladata tekstimuodossa fetch-haulla. INCI-ainesosaluetteloiden saatavuus tuotekohtaisesti jäi vahvistamatta.",
+    "y_tunnus_esilla": "Yritysinfosivulla: 'KICKSin pääkonttori: Klarabergsviadukten 90, 101 28 Stockholm. Yritysrekisterinumero: 556432-9281' — ruotsalainen rekisterinumero, suomalainen Y-tunnus ei näy.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviolähdettä ei löytynyt yritysinfosivulta, alatunnisteesta eikä etusivulta."
+  }
+}

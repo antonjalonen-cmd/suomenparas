@@ -1554,3 +1554,28 @@ COMPANIES["pakettipalvelut"] = [
     dict(slug="dsv", nimi="DSV", domain="dsv.com", y_tunnus="0124239-4",
          omistaja="Schenker Oy — DSV A/S:n (Tanska) tytäryhtiö; Deutsche Bahn myi DB Schenkerin DSV:lle 30.4.2025; domain vaihtunut dbschenker.com -> dsv.com"),
 ]
+
+# --- kauneustuotteet-verkkokaupat (3.8.2026, autopilot-tikki; PRH v3 + domain-tarkistus) ---
+# Notino.fi KARSITTU: Cloudflare 403 myos selain-UA:lla — ei mitattavissa.
+# Lookfantastic.fi KARSITTU: ohjautuu eu.lookfantastic.com (englanti, ei suomalaista sisaltoa).
+# Douglas.fi KARSITTU: domain vastaa 200:lla mutta palauttaa 0 tavua — sivusto tyhja/kuollut.
+# Parfym Sverige AB:n kaksi Suomi-branssia: parfym.fi (kaikki kategoriat) ja hajuvesi.fi
+#   (vain tuoksut) — SAME_COMPANY, sisarsivustoja; mitataan vain parfym.fi.
+# NordicFeel: eleven.fi on virallinen fi-domain joka ohjaa nordicfeel.com/fi-sivulle.
+# Cocopanda: kaksi PRH-entriaa (Cocopanda.fi Oy Ab 2718362-8 ja norjalaisen Blivakker &
+#   Cocopanda Retail AS Suomen Sivuliike 3515859-6) — yhtio myytaneen tai yhtiokookiratkaisut;
+#   verkkosivusta vastaa Cocopanda.fi Oy Ab.
+COMPANIES["kauneustuotteet-verkkokaupat"] = [
+    dict(slug="lyko", nimi="Lyko", domain="lyko.com", y_tunnus=None,
+         omistaja="Lyko Group AB (Ruotsi, per. 1974) operoi lyko.com/fi-suomenkielista verkkokauppaa; ei suomalaista Y-tunnusta. Ruotsalainen porssilistaamaton perheyhtiö (Kungsbacka)."),
+    dict(slug="bangerhead", nimi="Bangerhead", domain="bangerhead.fi", y_tunnus="2607224-8",
+         omistaja="Bangerhead AB filial i Finland (PRH: aktiivinen) on ruotsalaisen Bangerhead AB:n Suomen sivuliike; Bangerhead AB perustettiin 2009 Tukholmassa."),
+    dict(slug="cocopanda", nimi="Cocopanda", domain="cocopanda.fi", y_tunnus="2718362-8",
+         omistaja="Cocopanda.fi Oy Ab (PRH: aktiivinen, per. 2015) on Suomessa rekisteroity verkkokauppayhtion; liittyy myos norjalaiseen Blivakker & Cocopanda Retail AS:aan, jonka Suomen Sivuliike (Y: 3515859-6) on myos rekisteroity."),
+    dict(slug="kicks", nimi="KICKS", domain="kicks.fi", y_tunnus="2061510-9",
+         omistaja="Kicks Kosmetikkedjan Oy (PRH: aktiivinen, per. 2006) on ruotsalaisen KICKS-ketjun Suomen tytaryhtio; KICKS on Scandinavian Beauty Group AB:n brändi."),
+    dict(slug="parfymfi", nimi="Parfym.fi", domain="parfym.fi", y_tunnus=None,
+         omistaja="Parfym.fi:ta operoi ruotsalainen Parfym Sverige AB (org.nr 556705-2799); sisarsivusto hajuvesi.fi on sama kauppa eri domainilla; ei suomalaista Y-tunnusta."),
+    dict(slug="nordicfeel", nimi="NordicFeel", domain="eleven.fi", y_tunnus=None,
+         omistaja="NordicFeel AB (Ruotsi) operoi eleven.fi-suomalaisdomain kautta nordicfeel.com/fi-sivustoa; Pohjoismainen kauneusverkkokauppa, yli 3 milj. asiakasta; ei suomalaista Y-tunnusta."),
+]

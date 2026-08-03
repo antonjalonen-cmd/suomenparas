@@ -98,6 +98,7 @@ MEASURED = {
     "autoliikkeet": "2.8.2026",
     "pikaruokaketjut": "2.8.2026",
     "pakettipalvelut": "2.8.2026",
+    "kauneustuotteet-verkkokaupat": "3.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships
@@ -413,7 +414,10 @@ def build(vertical):
         # 301-redirects to McDonald's global mcdonalds.com/fi/fi-fi/ — same operator,
         # verified from hinnasto page text ("McDonald's") and company history.
         SAME_COMPANY = {("fortum.fi", "fortum.com"), ("ruukkikatot.fi", "ruukki.com"),
-                        ("mcdonalds.fi", "mcdonalds.com")}
+                        ("mcdonalds.fi", "mcdonalds.com"),
+                        # (3.8.2026): eleven.fi on NordicFeel AB:n Suomi-domain joka ohjaa
+                        # nordicfeel.com/fi-sivulle — sama yhtiö, ei brändinmuutos.
+                        ("eleven.fi", "nordicfeel.com")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:

@@ -1,0 +1,41 @@
+{
+  "slug": "lyko",
+  "fetched_ok": [
+    "https://lyko.com/fi",
+    "https://lyko.com/fi/info/tilausehdot",
+    "https://lyko.com/fi/ihonhoito",
+    "https://lyko.com/fi/ihonhoito/aurinkotuotteet/itseruskettavat/by-lyko-self-tan-mist"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "ainesosaluettelo_saatavilla": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 70},
+  "vahvuudet": [
+    "Toimitustaulukko (Postnord, Matkahuolto, Budbee) hintatietoineen julkaistu avoimesti tilausehdoissa",
+    "Ilmainen palautus 14 vuorokauden kuluessa; peruutusprosessi selitetty vaihe vaiheelta",
+    "Asiakaspalvelu tavoitettavissa puhelimella, sähköpostilla ja chat-widgetillä"
+  ],
+  "kehityskohteet": [
+    "Ainesosaluettelo (INCI) tuotesivuilla on erillinen välilehti, mutta sisältö ei lataudu ilman kirjautumista tai välilehdenvaihtoa",
+    "Riippumatonta arviointia (esim. Trustpilot) ei näy julkisilla sivuilla",
+    "Asiakaspalvelun aukioloaikoja ei kerrota julkisesti"
+  ],
+  "yhteenveto": "Lyko on Ruotsalaisen Lyko Group AB:n laaja kauneusverkkokauppa, joka toimii Suomessa suomenkielisellä lyko.com/fi-sivustolla. Hinnat, toimituskulut ja palautusehdot ovat selkeästi esillä, mutta ruotsalainen yritystunnus 556575-3018 (ei suomalainen Y-tunnus) ja ainesosaluetteloiden heikko saavutettavuus jättävät läpinäkyvyyteen aukkoja.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla ja kategoriasivuilla tuotteiden hinnat näytetään selkeästi, esim. 'By Lyko Tan-formation Self Tan Mist 12,90 €' ja 'La Roche Posay Balm B5+ 15,20 €'.",
+    "toimitus_kerrottu": "Tilausehdoissa julkinen taulukko: Postnord 0-30€=4,90€ / 30-60€=0,90€ / yli 60€=ilmainen; Matkahuolto 0-30€=3,90€ / yli 30€=ilmainen; Budbee Box 0-30€=3,90€.",
+    "palautusehdot_saatavilla": "Tilausehdot: '14 päivän sisään tuotteiden vastaanottamisesta' peruuttamisoikeus; 'Lyko maksaa palautuskulut'; ohjeet joko verkossa 'PERUUTA SOPIMUS TÄSTÄ' -painikkeella tai sähköpostilla asiakaspalvelu@lyko.fi.",
+    "ainesosaluettelo_saatavilla": "HAVAINTO: Tuotesivuilla on erillinen 'AINESOSAT'-välilehti (havaittu By Lyko Self Tan Mist -tuotesivulla), mutta sisältö ei latautunut tekstiksi selain-UA-haun eikä JS-renderöinnin avulla — luettelo saattaa vaatia välilehden klikkaamisen.",
+    "y_tunnus_esilla": "Tilausehdot: 'Yrityksen tiedot: Lyko Oy, Sveavägen 53, 113 59 Stockholm, Yritysnumero 556575-3018' — ruotsalainen organisaationumero, ei suomalainen Y-tunnus.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviointilähde ei löydy etusivulta, tilausehdoista eikä tuotesivuilta. Tuotesivuilla on Lykon omat asiakasarvostelut."
+  }
+}

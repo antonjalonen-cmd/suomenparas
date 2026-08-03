@@ -1,0 +1,42 @@
+{
+  "slug": "nordicfeel",
+  "fetched_ok": [
+    "https://eleven.fi",
+    "https://www.nordicfeel.com/fi",
+    "https://www.nordicfeel.com/fi/asiakaspalvelu/toimitustiedot",
+    "https://www.nordicfeel.com/fi/asiakaspalvelu/reklamaatiot-ja-palautukset",
+    "https://www.nordicfeel.com/fi/asiakaspalvelu/ota-meihin-yhteytta"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "ainesosaluettelo_saatavilla": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 65},
+  "vahvuudet": [
+    "Trustpilot-arvosana (4,5/5) näkyy selkeästi sivustolla useassa kohdassa riippumattomana arviolähteenä",
+    "Sähköpostiosoite (info@nordicfeel.fi) julkaistu alatunnisteessa ja yritystiedot (Nordicfeel Group AB, Org.nr 556746-8904, osoite Tukholmassa) ovat julkisesti saatavilla",
+    "Asiakaspalvelusivulla selkeä rakenne: usein kysyttyä, toimitusohjeet, palautusportaali ja ohjekeskus"
+  ],
+  "kehityskohteet": [
+    "Toimituskulujen tarkkoja hintoja ei löydy julkiselta sivulta; vain ilmaisen toimituksen 49 €:n raja on mainittu, muuten kehotetaan tarkistamaan kassalta",
+    "Palautusehdoissa ei kerrota päiviä suoraan palautus-sivulla; yksityiskohdat ohjeistetaan etsimään erillisestä ohjekeskuksesta",
+    "Ruotsalainen organisaatiotunnus (556746-8904) on näkyvissä mutta suomalainen Y-tunnus puuttuu; puhelin tai chat ei ole saatavilla"
+  ],
+  "yhteenveto": "NordicFeel on pohjoismainen kosmetiikkaverkkokauppa, joka toimii Suomessa nordicfeel.com/fi-sivustolla (eleven.fi uudelleenohjaa sinne). Sivustolla on yli 3 miljoonan pohjoismaaisen asiakkaan Trustpilot-arvostelu selkeästi esillä. Tarkat toimituskulut ja palautusehdot selviävät kassalla tai ohjekeskuksesta, ei suoraan julkisilta sivuilta.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla tuotteiden hinnat ovat selkeästi esillä, esim. 'Olaplex Bond Maintenance Set Arvo 72,40 € 54,30 €'.",
+    "toimitus_kerrottu": "Toimitustiedot-sivulla: 'Tarjoamme useita eri toimitusvaihtoehtoja: kotiinkuljetuksen, noutopisteen ja kuriiripalvelun. Vaihtoehdot voivat vaihdella asuinpaikkasi mukaan. Anna postinumerosi kassalla nähdäksesi sinulle saatavilla olevat vaihtoehdot.' Ilmainen toimitus yli 49 €:n ostoksille kerrottu etusivulla.",
+    "palautusehdot_saatavilla": "Reklamaatiot ja palautukset -sivulla: 'Palautusportaalissa rekisteröit asiasi helposti itse.' Palautusehdot ja -aika ohjataan ohjekeskukseen; tarkkoja päiviä ei löydy suoraan sivulta.",
+    "ainesosaluettelo_saatavilla": "HAVAINTO: Sivusto on Nuxt.js SPA-arkkitehtuuria; tuotesivujen sisältöä ei voitu ladata fetch-haulla. INCI-luetteloiden saatavuus tuotekohtaisesti jäi vahvistamatta.",
+    "y_tunnus_esilla": "Alatunnisteessa: 'Nordicfeel Group AB, Org.nr 556746-8904, Norrlandsgatan 18, 111 43 Stockholm' — ruotsalainen organisaatiotunnus; suomalainen Y-tunnus ei näy.",
+    "riippumaton_arvio": "Etusivulla: '4,6/5 arvosana' ja toimitustiedot-sivulla: '4,5/5 TRUSTPILOT-ARVOSTELUSSA' mainittu selkeästi."
+  }
+}

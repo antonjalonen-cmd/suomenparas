@@ -604,3 +604,13 @@ TRANSPARENCY["pakettipalvelut"] = [
     ("y_tunnus_esilla", "Y-tunnus esillä", 10),
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 5),
 ]
+
+# --- era 10 (3.8.2026): kauneustuotteet-verkkokaupat ---------------------------
+TRANSPARENCY["kauneustuotteet-verkkokaupat"] = [
+    ("hinnat_esilla", "Tuotehinnat verkossa esillä", 25),
+    ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+    ("palautusehdot_saatavilla", "Palautusehdot julkisesti saatavilla", 20),
+    ("ainesosaluettelo_saatavilla", "Tuotteiden ainesosaluettelot (INCI) löydettävissä", 15),
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

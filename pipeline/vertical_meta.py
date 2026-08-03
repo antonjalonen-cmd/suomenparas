@@ -1656,6 +1656,38 @@ META["pakettipalvelut"] = {
     ],
 }
 
+META["kauneustuotteet-verkkokaupat"] = {
+    "slug": "kauneustuotteet-verkkokaupat",
+    "nimi": "Kauneustuotteet-verkkokaupat",
+    "nav": "Kauneustuotteet",
+    "h1": "Suomen paras kauneustuotteiden verkkokauppa 2026",
+    "yksikko": "kosmetiikan ja kauneustuotteiden verkkokauppaa",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa kosmetiikan ja kauneustuotteiden verkkokauppaa "
+             "{m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. "
+             "Tärkein kysymys: naatko hinnat, toimituskulut ja ainesosaluettelot ilman "
+             "kirjautumista?"),
+    "meta_title": "Suomen paras kauneustuotteiden verkkokauppa 2026 — Lyko, Bangerhead, Cocopanda, KICKS, Parfym.fi, NordicFeel pisteytettyna | Suomen Paras",
+    "meta_desc": ("{n} kosmetiikan verkkokauppaa pisteytetty lapinakyvallakaavalla. "
+                  "Katso mista jokainen piste tulee."),
+    "notes": [
+        ("<b>Kolme yhtiota ei suomalaista Y-tunnusta.</b> Lyko (ruotsalainen Lyko Group AB), "
+         "Parfym.fi (ruotsalainen Parfym Sverige AB) ja NordicFeel (ruotsalainen NordicFeel AB) "
+         "operoivat Suomessa ulkomaisena yhtiönä ilman suomalaista tytaryhtiota. Omanikki "
+         "kerrotaan jokaisen yhtion kohdalla."),
+        ("<b>Parfym.fi ja Hajuvesi.fi ovat sama kauppa.</b> Molemmat domainit kuuluvat "
+         "ruotsalaiselle Parfym Sverige AB:lle ja toimittavat samoista varastoista. "
+         "Mittauksessa on vain parfym.fi, jolla on laajempi valikoima."),
+        ("<b>Emme vertaile tuotevalikoimaa tai hintatasoa.</b> Kaikki kuusi kauppaa myyvat "
+         "useita tuhansia tuotteita. Mittaamme sen, mita kauppa kertoo julkisesti: hinnat, "
+         "toimituskulut, palautusehdot ja ainesosaluettelot ennen kuin asiakas kirjautuu tai "
+         "lisaa tuotteen koriin."),
+        ("<b>Ainesosaluettelot ovat kosmetiikka-asetuksen vaatimus.</b> EU-kosmetiikka-asetus "
+         "edellyttaa INCI-luettelon tuotteen pakkauksessa, mutta ei verkkokaupan sivulla. "
+         "Pisteytamme sen, tarjoaako kauppa ainesosatiedot tuotekohtaisesti myos verkossa, "
+         "mika on erityisen tarkeaa allergisoituville asiakkaille."),
+    ],
+}
+
 META["pikaruokaketjut"] = {
     "slug": "pikaruokaketjut",
     "nimi": "Pikaruokaketjut",

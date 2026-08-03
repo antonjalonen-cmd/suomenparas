@@ -1,0 +1,41 @@
+{
+  "slug": "bangerhead",
+  "fetched_ok": [
+    "https://www.bangerhead.fi",
+    "https://www.bangerhead.fi/palautukset",
+    "https://www.bangerhead.fi/usein-kysyttya",
+    "https://www.bangerhead.fi/ota-yhteytta"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "ainesosaluettelo_saatavilla": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 62, "hintojen_loydettavyys": 78, "sisallon_kattavuus": 55},
+  "vahvuudet": [
+    "Ilmaistoimitus yli 75 euron tilauksille; toimitustavat (Posti 3-5 pv, Budbee 2-3 pv Helsingissä, Turussa ja Oulussa) kerrottu usein kysyttyä -sivulla",
+    "14 vuorokauden palautusoikeus ja palautusohjeet julkisesti saatavilla palautukset-sivulla",
+    "Yhteydenottolomake ja sähköpostiosoite moi@bangerhead.fi löytyvät ota yhteyttä -sivulta"
+  ],
+  "kehityskohteet": [
+    "Toimituskulujen tarkat hinnat näytetään vasta kassalla, ei julkisella sivulla",
+    "Suomalainen Y-tunnus tai ruotsalainen organisaatiotunnus ei näy verkkosivustolla; alatunniste mainitsee vain Bangerhead AB",
+    "Bangerhead on yrityssaneerauksessa (ilmoitettu usein kysyttyä -sivulla), mikä luo epävarmuutta palvelun jatkuvuudesta"
+  ],
+  "yhteenveto": "Bangerhead on ruotsalaisen Bangerhead AB:n suomenkielinen kosmetiikkaverkkokauppa, joka myy kansainvälisiä kauneudenhoitobrändejä. Sivusto kertoo toimitusajan ja ilmaistoimituksen rajan, mutta tarkat toimituskulut selviävät vasta kassalla. Yritys on ilmoittanut olevansa yrityssaneerauksessa, mikä näkyy usein kysyttyä -sivulla.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivulla ja kategoriasivuilla tuotteiden hinnat ovat näkyvissä selkeästi ilman kirjautumista.",
+    "toimitus_kerrottu": "Usein kysyttyä -sivulla: 'Saat kaikki yli 75 euron tilaukset ilman toimituskuluja. Alle 75 euron tilauksien toimituskulut vaihtelevat riippuen tilauksen arvosta ja valitusta toimitustavasta. Löydät eri toimitustavat kassalta jossa näet myös toimituksen hinnan aina ennen tilauksen maksamista.' Toimitustavat mainitaan: Posti noutopiste (3-5 arkipäivää), Budbee kotiinkuljetus (2-3 arkipäivää Helsingissä, Turussa ja Oulussa).",
+    "palautusehdot_saatavilla": "Palautukset-sivulla: 14 vuorokauden palautusoikeus; kontaktiosoite moi@bangerhead.fi palautuksille.",
+    "ainesosaluettelo_saatavilla": "HAVAINTO: Tuotesivut ovat JS-renderöityjä eikä ainesosaluetteloja voitu lukea tekstihaulla. Bangerhead luokittelee tuotteita aktiivisten ainesosien mukaan (niasiiniamidi, C-vitamiini, retinoli ym.) mutta INCI-luetteloiden saatavuutta tuotekohtaisesti ei voitu varmistaa.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston alatunniste näyttää vain '© 2026 Bangerhead AB'. Suomalaista Y-tunnusta tai ruotsalaista organisaatiotunnusta ei löydy julkisilta sivuilta.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot-linkkiä tai muuta riippumatonta arviolähdettä ei löydy etusivulta, tuotesivuilta eikä tuki- tai yhteystietosivuilta."
+  }
+}
