@@ -125,8 +125,15 @@ ajatusviivoja, ei malli-/työkalunimiä.
    automaattisesti Kaikki kategoriat -sivulle ja hakuindeksiin.
    **HAETUIMMAT-listaan (etusivun 6 kärkeä) EI kosketa** (Antonin päätös).
 2. `git add -A && git commit` (suomenkielinen viesti) `&& git pull --rebase && git push`
-3. Varmista live: `curl -s --ssl-no-revoke https://suomenparas.antonjalonen.fi/<vertical>/`
-   palauttaa sivun jossa yhtiöiden nimet näkyvät.
+3. Varmista live OIKEASTI: ennen pushia `git status --short` EI saa näyttää
+   yhtään `??`-riviä poluissa `<vertical>/`, `yritys/<vertical>/`, `sv/` tai
+   `data/` — uudet hakemistot ovat untracked eikä pelkkä tunnettujen polkujen
+   add vie niitä mukaan (3.8.2026: tikki raportoi 'live confirmed' vaikka koko
+   kategoriahakemisto puuttui repostosta ja live oli 404 — katteeton
+   onnistumisilmoitus on tämän putken pahin mahdollinen virhe).
+   Pushin jälkeen curlaa live-URLia kunnes se palauttaa 200 (Pages buildaa
+   1-5 min; yritä 6 min ajan). Jos 200 ei koskaan tule, yhteenvetosi on
+   'SUOMENPARAS BLOKATTU: live-varmistus epäonnistui', EI 'KATEGORIA'.
 4. Merkitse backlog-rivi `[x] ... — julkaistu <pvm>` ja committaa.
 
 ## 10. Raportointi
