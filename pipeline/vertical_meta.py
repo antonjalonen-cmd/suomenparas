@@ -1942,3 +1942,29 @@ META["muotikaupat"] = {
          "palveluja mutta eivät mahtuneet kuuden yhtiön rajoituksella mukaan."),
     ],
 }
+
+META["sahkoautojen-lataus"] = {
+    "slug": "sahkoautojen-lataus",
+    "nimi": "Sähköautojen lataus",
+    "nav": "Sähköautojen lataus",
+    "h1": "Suomen paras sähköautojen julkinen latauspalvelu 2026",
+    "yksikko": "latauspalvelua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa julkista sähköautojen latauspalvelua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "saatko latauksen hinnan tietää ennen kuin kytket johdon?"),
+    "meta_title": "Suomen paras sähköauton latauspalvelu 2026 — K-Lataus, ABC, IONITY, Fortum, Recharge, Helen pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista sähköautojen julkista latauspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Recharge on entinen Fortum Charge & Drive -infrastruktuuri.</b> Infracapital osti "
+         "Fortum Oyj:ltä enemmistön pohjoismaisesta Charge & Drive -latausinfrastruktuurista. "
+         "Toiminta jatkuu Recharge-nimellä (rechargeinfra.com). Fortum jatkaa omaa "
+         "Charge & Drive -kuluttajapalvelua (chargedrive.com) erillisenä palveluna."),
+        ("<b>K-Lataus toimii yhteistyössä St1:n ja Rechargen kanssa.</b> K-Latauksen sovelluksessa "
+         "näkyvät myös kumppaniasemien pisteet. Mittauksessa arvioidaan kunkin yhtiön oma "
+         "julkinen sivusto — kumppaniverkosto ei vaikuta pisteisiin suoraan."),
+        ("<b>IONITY on Euroopan suurteholatausverkko.</b> IONITY GmbH on BMW-, Mercedes-, "
+         "VW-, Hyundai- ja Ford-ryhmien yhteisyritys. Se erikoistuu moottoriteiden varrella "
+         "sijaitseviin 350 kW suurteholatureihin pitkille matkoille."),
+    ],
+}

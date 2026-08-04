@@ -1821,3 +1821,32 @@ COMPANIES["muotikaupat"] = [
          y_tunnus="1442131-6",
          omistaja="Ellos Finland Oy (PRH 1442131-6) on ruotsalaisen Ellos Group AB:n Suomen tytäryhtiö; postimyyntiyhtiönä perustettu 1947, nykyisin monialainen muoti- ja lifestyleverkkokauppa; liikevaihto 35,2 M€ (2024)"),
 ]
+
+# SÄHKÖAUTOJEN LATAUS (4.8.2026) — sähköauton julkiset latauspalvelut Suomessa.
+# POISSULJETUT:
+# Virta (virta.fi): B2B-latausalusta (SaaS yrityksille latauspisteverkostojen hallintaan);
+#   kuluttajasivu ohjaa yritysmyyntiin ja B2B-tukeen — ei kuluttajan latauspalvelu.
+# Plugit (plugit.fi → plugit.com): "Turnkey EV charging solutions" B2B-yrityksille;
+#   englanninkielinen sivusto, ei suomenkielistä kuluttajapalvelua.
+# St1 (st1.fi): kumppanina K-Latauksen verkostossa, mutta ei omaa kuluttajasuuntaista
+#   latausverkkosivustoa — st1.fi/sahkolataus 404.
+COMPANIES["sahkoautojen-lataus"] = [
+    dict(slug="k-lataus", nimi="K-Lataus", domain="k-lataus.fi",
+         y_tunnus="0154578-2",
+         omistaja="K Auto Oy (PRH 0154578-2, Tikkurilantie 123 Vantaa) on Kesko Oyj:n autoalan tytäryhtiö; K-Lataus on K-Auton sähköautojen latausverkosto, joka on yhteistyössä St1:n ja Rechargen kanssa; kuuluu K-Auto Oy:hyn"),
+    dict(slug="abc-lataus", nimi="ABC Lataus", domain="abcasemat.fi",
+         y_tunnus="0116323-1",
+         omistaja="Suomen Osuuskauppojen Keskuskunta SOK (PRH 0116323-1) omistaa ABC-ketjun; ABC-lataus on S-ryhmän sähköautojen latausverkosto ABC-asemilla, S-ruokakaupoilla ja hotelleilla; Suomen suurin teholatausverkosto"),
+    dict(slug="ionity", nimi="IONITY", domain="ionity.eu",
+         y_tunnus=None,
+         omistaja="IONITY GmbH (Saksa) on BMW Groupin, Mercedes-Benzin, Volkswagen Groupin (Audi, Porsche), Hyundai-konsernin ja Ford Motorsin yhteisyritys; eurooppalainen suurteholatausverkosto moottoriteiden varsilla; fi-sivu ionity.eu/fi"),
+    dict(slug="fortum-charge-drive", nimi="Fortum Charge & Drive", domain="chargedrive.com",
+         y_tunnus="1463611-4",
+         omistaja="Fortum Oyj (PRH 1463611-4, Helsinki; Suomen valtio enemmistöomistajana) operoi Charge & Drive -latauspalvelua suomalaisille sähköautoilijoille; chargedrive.com ohjaa fi-FI-sivulle automaattisesti"),
+    dict(slug="recharge", nimi="Recharge", domain="rechargeinfra.com",
+         y_tunnus=None,
+         omistaja="Recharge AS (Norja) on pohjoismainen julkinen pikalatausverkko; Infracapital osti enemmistön Fortum Charge & Drive -infrastruktuurista ja rebrändäsi sen Recharge-nimellä; fi-sivu rechargeinfra.com/fi/"),
+    dict(slug="helen-lataus", nimi="Helen Lataus", domain="helen.fi",
+         y_tunnus="2630573-4",
+         omistaja="Helen Oy (PRH 2630573-4) on Helsingin kaupungin kokonaan omistama energiayhtiö; Helen Lataus on yli 800 latauspisteen julkinen sähköautojen latausverkosto Suomessa; lataus Oma Helen -sovelluksella"),
+]

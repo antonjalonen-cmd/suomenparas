@@ -740,3 +740,27 @@ TRANSPARENCY["muotikaupat"] = [
     # kokemuksista ennen ostopäätöstä.
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
 ]
+
+# --- era 14 (4.8.2026): sahkoautojen-lataus ------------------------------------
+# Kaikki 6 yhtiötä tarjoavat kuluttajalle julkista latauspalvelua. Osa yhtiöistä
+# (IONITY, Recharge) on kansainvälisiä — käytetään omistaja_kerrottu-kenttää,
+# joka pätee sekä kotimaisille (Y-tunnus) että ulkomaisille yhtiöille.
+# Weights: 30+20+20+15+10+5 = 100
+TRANSPARENCY["sahkoautojen-lataus"] = [
+    # Sähköauton latauksen hinnoittelu (€/kWh tai €/min) on kuluttajan tärkein
+    # vertailukohde — on oltava julkisesti saatavilla ilman rekisteröintiä.
+    ("hinnoittelu_esilla", "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä", 30),
+    # Latausasemien tai latauspisteiden määrä Suomessa kertoo verkoston kattavuudesta.
+    ("latausverkosto_koko", "Latausasemien tai -pisteiden määrä Suomessa kerrottu", 20),
+    # Mobiilisovellus on käytännössä pakollinen sähköauton lataukseen — ilmainen
+    # saatavuus on kuluttajan perusedellytys.
+    ("mobiilisovellus", "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)", 20),
+    # Suomenkielinen asiakaspalvelu on erityisen tärkeää tien päällä latauksen
+    # yhteydessä ilmaantuvissa ongelmissa.
+    ("asiakaspalvelu_suomi", "Suomenkielinen asiakaspalvelu kuvattu", 15),
+    # Latauspisteen käyttö ilman pakollista rekisteröintiä tai kuukausimaksua
+    # on kuluttajan kannalta oleellinen vapaus.
+    ("kaytto_ilman_rekisteroitymista", "Lataus mahdollista ilman pakollista tiliä tai sopimusta", 10),
+    # Omistavan yhtiön tai Y-tunnuksen esittäminen lisää luottamusta.
+    ("omistaja_kerrottu", "Omistava yhtiö tai Y-tunnus esillä sivustolla", 5),
+]

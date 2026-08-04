@@ -439,7 +439,11 @@ def build(vertical):
                         # (4.8.2026): coffeehouse.fi on Coffee House -ketjun domain ja ohjaa
                         # S-ryhmän Raflaamo-alustalle (raflaamo.fi/fi/ketju/coffee-house) —
                         # sama omistaja SOK, ei brändinmuutos; Y-tunnus 0116323-1 footerissa.
-                        ("coffeehouse.fi", "raflaamo.fi")}
+                        ("coffeehouse.fi", "raflaamo.fi"),
+                        # (4.8.2026): k-lataus.fi on K-Lataukseen merkitty brändi-domain joka
+                        # 301-ohjautuu www.k-auto.fi/k-lataus/ -alasivulle — sama yhtiö K Auto Oy,
+                        # ei brändinmuutos; Y-tunnus 0154578-2 footerissa k-auto.fi:ssä.
+                        ("k-lataus.fi", "k-auto.fi")}
         if (base, host) in SAME_COMPANY:
             pass
         elif host and base not in host and host not in base:
