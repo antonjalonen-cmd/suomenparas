@@ -1,46 +1,46 @@
 {
-  "slug": "tassukauppa",
-  "fetched_ok": [
-    "https://tassukauppa.fi/",
-    "https://tassukauppa.fi/toimitusehdot",
-    "https://tassukauppa.fi/yhteystiedot",
-    "https://tassukauppa.fi/?ObjectPath=/Shops/tassukauppa/Categories/CustomerInformation",
-    "https://tassukauppa.fi/?ObjectPath=/Shops/tassukauppa/Products/06004-LG74013707"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "osittain",
-  "myymalat_ja_aukioloajat": "ei",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 82,
-    "sisallon_kattavuus": 62
-  },
-  "vahvuudet": [
-    "Tuotehinnat ovat selkeästi näkyvissä kaikilla tuotesivuilla (esim. 8,90 €, 17,90 €, 16,90 €)",
-    "Toimituskulut ilmoitetaan selvästi sivun yläosassa (5,90 € postipaketille) ennen ostoksen viimeistelyä",
-    "Sähköpostiyhteys on helppo ottaa: info@tassukauppa.fi näkyy selkeästi yhteystiedot-sivulla"
-  ],
-  "kehityskohteet": [
-    "Palautusehdot puuttuvat tai ne eivät lataudu kunnolla - pelkät linkit ovat näkyvissä ilman sisältöä",
-    "Y-tunnus puuttuu kokonaan - ei löydy yhteystiedot-sivulta, toimitusehdot-sivulta tai muista julkisista sivuista",
-    "Puhelinnumero tai chat-tuki puuttuu - asiakkaiden on turvauduttava vain sähköpostiin"
-  ],
-  "yhteenveto": "Tassukauppa.fi on koiratarvikkeiden verkkokauppa, joka näyttää tuotehinnat ja toimituskulut (5,90 €) selkeästi. Sähköpostiyhteys (info@tassukauppa.fi) on helppo, mutta sivusto vaatii parannusta: Y-tunnus puuttuu, palautusehdot eivät ole saavutettavissa, eikä puhelintukea ole tarjolla.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: JS-renderoidulla tuotesivulla näkyvät tuotehinnat selkeästi (esim. Garden Bites Senior Soft Fruity Sticks M 8,90 €, Kong Rope Rally Bone 17,90 €, Kong Snuzzles Koala M 16,90 €). Hinnat ovat näkyvillä varastotilanteen kanssa.",
-    "toimitus_kerrottu": "HAVAINTO: Toimituskulut ilmoitetaan selvästi sivun ylälaidassa: 'Toimituskulut postipaketille vain 5,90 €'. Toimitusehdot-sivu latautui HTTP 200 -vastauksella.",
-    "palautusehdot_saatavilla": "HAVAINTO: Yhteystiedot-sivulla mainitaan palautuksista linkkillä 'Palautukset', mutta sisällölle ei saatu verkon kautta yksityiskohtaisia ehtoja. Palautuspolitiikka ei ole julkisesti saavutettavissa.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla todetaan: 'Tilausten toimitukset vain verkkokaupan toimitustavoilla, varastoltamme ei ole mahdollista noutaa tilauksia.' Ei ole myymälöitä, joilla asiakkaat voisivat käydä.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydetty yhteystiedot-sivulta, toimitusehdot-sivulta tai asiakastiedot-sivulta. Tietosuojaselostetta ei saatu ladattua HTTP-pyyntöjen avulla.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoite info@tassukauppa.fi näkyy sekä yhteystiedot-sivulla että sivun yläosassa kaikilla sivuilla: 'Kysyttävää? Tavoitat meidät sähköpostilla: info@tassukauppa.fi'"
-  }
+ "slug": "tassukauppa",
+ "fetched_ok": [
+  "https://tassukauppa.fi/",
+  "https://tassukauppa.fi/toimitusehdot",
+  "https://tassukauppa.fi/yhteystiedot",
+  "https://tassukauppa.fi/?ObjectPath=/Shops/tassukauppa/Categories/CustomerInformation",
+  "https://tassukauppa.fi/?ObjectPath=/Shops/tassukauppa/Products/06004-LG74013707"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "osittain",
+ "myymalat_ja_aukioloajat": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 82,
+  "sisallon_kattavuus": 62
+ },
+ "vahvuudet": [
+  "Tuotehinnat ovat selkeästi näkyvissä kaikilla tuotesivuilla (esim. 8,90 €, 17,90 €, 16,90 €)",
+  "Toimituskulut ilmoitetaan selvästi sivun yläosassa (5,90 € postipaketille) ennen ostoksen viimeistelyä",
+  "Sähköpostiyhteys on helppo ottaa: info@tassukauppa.fi näkyy selkeästi yhteystiedot-sivulla"
+ ],
+ "kehityskohteet": [
+  "Palautusehdot puuttuvat tai ne eivät lataudu kunnolla - pelkät linkit ovat näkyvissä ilman sisältöä",
+  "Y-tunnus puuttuu kokonaan - ei löydy yhteystiedot-sivulta, toimitusehdot-sivulta tai muista julkisista sivuista",
+  "Puhelinnumero tai chat-tuki puuttuu - asiakkaiden on turvauduttava vain sähköpostiin"
+ ],
+ "yhteenveto": "Tassukauppa.fi on koiratarvikkeiden verkkokauppa, joka näyttää tuotehinnat ja toimituskulut (5,90 €) selkeästi. Sähköpostiyhteys (info@tassukauppa.fi) on helppo, mutta sivusto vaatii parannusta: Y-tunnus puuttuu, palautusehdot eivät ole saavutettavissa, eikä puhelintukea ole tarjolla.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: JS-renderöidylla tuotesivulla näkyvät tuotehinnat selkeästi (esim. Garden Bites Senior Soft Fruity Sticks M 8,90 €, Kong Rope Rally Bone 17,90 €, Kong Snuzzles Koala M 16,90 €). Hinnat ovat näkyvillä varastotilanteen kanssa.",
+  "toimitus_kerrottu": "HAVAINTO: Toimituskulut ilmoitetaan selvästi sivun ylälaidassa: 'Toimituskulut postipaketille vain 5,90 €'. Toimitusehdot-sivu latautui HTTP 200 -vastauksella.",
+  "palautusehdot_saatavilla": "HAVAINTO: Yhteystiedot-sivulla mainitaan palautuksista linkkillä 'Palautukset', mutta sisällölle ei saatu verkon kautta yksityiskohtaisia ehtoja. Palautuspolitiikka ei ole julkisesti saavutettavissa.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Yhteystiedot-sivulla todetaan: 'Tilausten toimitukset vain verkkokaupan toimitustavoilla, varastoltamme ei ole mahdollista noutaa tilauksia.' Ei ole myymälöitä, joilla asiakkaat voisivat käydä.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydetty yhteystiedot-sivulta, toimitusehdot-sivulta tai asiakastiedot-sivulta. Tietosuojaselostetta ei saatu ladattua HTTP-pyyntöjen avulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite info@tassukauppa.fi näkyy sekä yhteystiedot-sivulla että sivun yläosassa kaikilla sivuilla: 'Kysyttävää? Tavoitat meidät sähköpostilla: info@tassukauppa.fi'"
+ }
 }

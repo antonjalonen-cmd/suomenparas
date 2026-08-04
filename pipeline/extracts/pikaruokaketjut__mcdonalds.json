@@ -31,15 +31,15 @@
  "kehityskohteet": [
   "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat näkyy vain sovelluksesta",
   "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivät lataudu selaimen renderöinnillä",
-  "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
+  "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain 2026 McDonald's"
  ],
- "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivät avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
+ "yhteenveto": "McDonald'sn Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivät avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
  "evidence": {
-  "hinnat_esilla": "HAVAINTO: Hinnasto-sivu sisältää tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat näet kuitenkin McDonaldsi-sovelluksesta tehdessäsi mobiilitilauksen.",
-  "allergeenit_esilla": "HAVAINTO: Navigaatiossa on linkki Erityisruokavaliot, mutta sivu ei avautunut renderonnissa. Allergeeni- ja ravintoarvotietojen olemassaoloa ei voitu vahvistaa mittauksessa.",
-  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisältöä ei voitu vahvistaa mittauksessa.",
+  "hinnat_esilla": "HAVAINTO: Hinnasto-sivu sisältää tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat näet kuitenkin McDonald's-sovelluksesta tehdessäsi mobiilitilauksen.",
+  "allergeenit_esilla": "HAVAINTO: Navigaatiossa on linkki Erityisruokavaliot, mutta sivu ei avautunut renderöinnissä. Allergeeni- ja ravintoarvotietojen olemassaoloa ei voitu vahvistaa mittauksessa.",
+  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderöinnissä. Raaka-aineiden alkuperästä kertovaa sisältöä ei voitu vahvistaa mittauksessa.",
   "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolahaku-sivu latautuu ja näyttää karttanakyman, mutta yksittäisten ravintoloiden osoite- ja aukiolotiedot eivät tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisältöä ei voitu vahvistaa.",
-  "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esitetä missään mittauksessa löydetyssä kohdassa.",
+  "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonald's. Kaikki oikeudet pidätetään. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esitetä missään mittauksessa löydetyssä kohdassa.",
   "riippumaton_arvio": "HAVAINTO: Navigaatiossa näkyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisältöä ei voitu vahvistaa renderöinnillä."
  }
 }

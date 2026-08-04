@@ -34,12 +34,12 @@
   "Ravintoloiden yhteystiedot ja aukioloajat eivät näkyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
   "Y-tunnus ei ole esillä sivustolla"
  ],
- "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivät avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittäisten ravintoloiden aukioloajat eivät olleet tekstitasolla saatavilla.",
+ "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat näytetään selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivät avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittäisten ravintoloiden aukioloajat eivät olleet tekstitasolla saatavilla.",
  "evidence": {
   "hinnat_esilla": "HAVAINTO: Etusivulla näkyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur.",
   "allergeenit_esilla": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Raaka-aineet, mutta sivu palauttaa 404-virheen. Allergeeni- ja ravintoarvosisaltoa ei voitu vahvistaa.",
-  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei löydetty tietoa mittauksessa saatavilla olleista sivuista.",
-  "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolat-sivu latautuu ja näyttää Google Maps -karttanakyma, mutta yksittäisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissä nayttay.",
+  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperästä ei löydetty tietoa mittauksessa saatavilla olleista sivuista.",
+  "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolat-sivu latautuu ja näyttää Google Maps -karttanakyma, mutta yksittäisten ravintoloiden osoite- ja aukiolotietoja ei renderöidyssä tekstissä näytäy.",
   "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetty Y-tunnusta.",
   "riippumaton_arvio": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Oiva-raportit, joka viittaa viranomaisten elintarvikevalvontaraportteihin."
  }

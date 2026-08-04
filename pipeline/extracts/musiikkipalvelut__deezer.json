@@ -28,16 +28,16 @@
   "Suomenkielinen palvelu täysin lokalisoitu, sovellukset iOS:lle ja Androidille"
  ],
  "kehityskohteet": [
-  "Kuukausittainen perishinta ei nayty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat näkyvät",
+  "Kuukausittainen perishinta ei näyty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat näkyvät",
   "Omistaja mainitaan vain alatunnisteessa nimellä 'Deezer' ilman oikeusmuotoa tai kotimaata (Deezer SA, Ranska)",
   "Asiakastuki vain verkkolomakkeella; ei puhelinnumeroa, ei chatia"
  ],
- "yhteenveto": "Deezerin tarjoussivulla näkyy kolme tilaustyyppia (Premium, Duo, Family) sekä vuosihinnat euroissa, mutta kuukausihinnat eivät renderoidu avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeät ja suora 'Peru tilaukseni' -linkki löytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
+ "yhteenveto": "Deezerin tarjoussivulla näkyy kolme tilaustyyppiä (Premium, Duo, Family) sekä vuosihinnat euroissa, mutta kuukausihinnat eivät renderöidy avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeät ja suora 'Peru tilaukseni' -linkki löytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
  "evidence": {
-  "hinnat_esilla": "HAVAINTO: deezer.com/fi/offers/ nakyttaa: 'Premium vuosi: sen jälkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua.",
+  "hinnat_esilla": "HAVAINTO: deezer.com/fi/offers/ näyttää: 'Premium vuosi: sen jälkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua.",
   "tasojen_erot_kerrottu": "Sivulla: 'Premium 1 tili, Duo 2 tiliä, Family 6 tiliä' — tilaustyypit eroteltuna. Myös 'Musiikkia ilman mainoksia' ja 'Kuuntele ilman nettiyhteyytta' listattu premiumin eduiksi vs. Free.",
   "irtisanominen_kerrottu": "Sivulla: 'Tarjoukset eivät ole sitovia, eli tilauksen voi peruuttaa milloin tahansa.' + footerissa linkki 'Peru tilaukseni'.",
-  "omistaja_kerrottu": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei naydy.",
+  "omistaja_kerrottu": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei näydy.",
   "suomenkielinen_palvelu": "HAVAINTO: Koko sivusto suomeksi (deezer.com/fi/), hinnat euroissa (osittain näkyvissä vuosihinnat).",
   "riippumaton_arvio": "Pääsivulla: 'Yli 3 miljoonaa 5 tähden arviota' — viittaa sovelluskauppa-arvosteluihin, mutta ei erittele lähdettä tai alustaa."
  }

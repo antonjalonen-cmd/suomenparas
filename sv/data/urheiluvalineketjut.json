@@ -540,7 +540,7 @@
        "pisteet_max": 20,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston navigaatiossa mainitaan 'Toimitus- ja maksutavat' ja 'Tilaus-, toimitus- ja palautusehdot', mutta näitä sivuja ei voida avata järjestelmällisesti. SPA-reititys estää paasynn."
+       "quote": "HAVAINTO: Sivuston navigaatiossa mainitaan 'Toimitus- ja maksutavat' ja 'Tilaus-, toimitus- ja palautusehdot', mutta näitä sivuja ei voida avata järjestelmällisesti. SPA-reititys estää pääsynn."
       },
       {
        "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
@@ -681,7 +681,7 @@
     "Asiakaspalveluun voi olla yhteydessä puhelimitse (arkisin 10-14) ja sähköpostilla"
    ],
    "kehityskohteet": [
-    "Toimitus- ja maksutavoista sekä palautus- ja takuuehdoista ei saa tietoa ilman järjestelmän sisään tuumista",
+    "Toimitus- ja maksutavoista sekä palautus- ja takuuehdoista ei saa tietoa ilman järjestelmään kirjautumista",
     "Usein kysytyt kysymykset -sivu on merkitty navigaatioon mutta ei ole saavutettavissa järjestelmäpohjaisesti",
     "Mobiilisovellusta ei mainittu eikä riippumattomia arviolaheita (kuten Trustpilot) ole nakyvillä"
    ],
@@ -1611,7 +1611,7 @@
   ],
   "vinkit": [
    "Vertaa kokonaishintaa toimituskuluineen ja tarkista ilmaisen toimituksen raja: se vaihtelee kympeista sataan euroon.",
-   "Hyödynnä pitkiä palautusaikoja sovittamiseen, mutta säilytä pakkaus ja kuitit: kaytetyn tuotteen palautusarvo voi laskea.",
+   "Hyödynnä pitkiä palautusaikoja sovittamiseen, mutta säilytä pakkaus ja kuitit: käytetyn tuotteen palautusarvo voi laskea.",
    "Talvivarusteet kannattaa ostaa sesongin ulkopuolella: alan alennussyklit ovat voimakkaita ja sama tuote voi maksaa puolet vahemman keväällä."
   ],
   "ukk": [
@@ -1620,7 +1620,7 @@
     "a": "Urheiluvalineiden hinnoittelu on kampanjavetoista: normaalihinta ja tarjoushinta vaihtelevat viikoittain. Siksi vertailu kannattaa tehdä ostohetkella useammasta kaupasta, ja hintatakuun ehdot kannattaa lukea tarkasti."
    },
    {
-    "q": "Voinko palauttaa kaytetyn tuotteen?",
+    "q": "Voinko palauttaa käytetyn tuotteen?",
     "a": "Verkko-ostoksen 14 vuorokauden peruuttamisoikeus sallii tuotteeseen tutustumisen kuten myymälässä, eli sovittamisen, mutta ei varsinaista käyttöä. Ketjujen omat pidennetyt palautusajat voivat olla ehdoiltaan tiukempia käytön suhteen."
    },
    {

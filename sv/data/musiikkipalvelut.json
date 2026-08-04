@@ -493,7 +493,7 @@
        "pisteet_max": 30,
        "pisteet": 30.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Sivulla: 'From €13,50 /Month* ... Monthly subscription available at €15,99/month.' Molemmat hinnat selkeästi paasivulla."
+       "quote": "Sivulla: 'From €13,50 /Month* ... Monthly subscription available at €15,99/month.' Molemmat hinnat selkeästi pääsivulla."
       },
       {
        "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
@@ -502,7 +502,7 @@
        "pisteet_max": 20,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Footerissa mainitaan Qobuz Duo, Qobuz Family, Qobuz Student -tilaukset, mutta niiden hinnat tai erot eivät naydy paasivu. Tarkkaa vertailua ei löydetty avoimelta sivulta."
+       "quote": "HAVAINTO: Footerissa mainitaan Qobuz Duo, Qobuz Family, Qobuz Student -tilaukset, mutta niiden hinnat tai erot eivät näydy paasivu. Tarkkaa vertailua ei löydetty avoimelta sivulta."
       },
       {
        "mittari": "Irtisanominen ja ilmaiskokeilun ehdot kerrottu",
@@ -529,7 +529,7 @@
        "pisteet_max": 10,
        "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: qobuz.com/fi-en/ nakyttaa englanninkielisen sisällön (fi-en = Finland, English). Hinnat euroissa kyllakin. Suomenkielinen sivusto puuttuu."
+       "quote": "HAVAINTO: qobuz.com/fi-en/ näyttää englanninkielisen sisällön (fi-en = Finland, English). Hinnat euroissa kyllakin. Suomenkielinen sivusto puuttuu."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -639,7 +639,7 @@
    ],
    "kehityskohteet": [
     "Suomenkielinen palvelu puuttuu: Suomen lokaalin kieli on englanti (fi-en), ei suomi",
-    "Tilaustasojen erot (Solo, Duo, Family, Student) eivät nay vertailevana taulukkona pääsivu",
+    "Tilaustasojen erot (Solo, Duo, Family, Student) eivät näy vertailevana taulukkona pääsivu",
     "Yhteystiedot vain 'ota yhteyttä'-linkkinä; ei puhelinnumeroa, sähköpostia tai chatia"
    ],
    "yhteenveto": "Qobuz näyttää hinnat selkeästi pääsivu (13,50 e/kk vuosi- tai 15,99 e/kk kuukausitilaus), omistaja on tarkasti ilmoitettu (XANDRIE SA, Ranska) ja vuositilauksen ei-palautettavuus mainitaan. Heikkous: Suomen lokaalin kieli on englanti, ei suomi, joten suomenkielistä asiointia ei ole. Tilaustasojen vertailu puuttuu paasivu.",
@@ -704,7 +704,7 @@
        "pisteet_max": 30,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: deezer.com/fi/offers/ nakyttaa: 'Premium vuosi: sen jälkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua."
+       "quote": "HAVAINTO: deezer.com/fi/offers/ näyttää: 'Premium vuosi: sen jälkeen 9,00 e/kk, kun maksetaan vuosittain (107,99 e/vuosi)', mutta kuukausihinta nakyyy vain '/kk' ilman lukua."
       },
       {
        "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
@@ -731,7 +731,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei naydy."
+       "quote": "HAVAINTO: Alatunnisteessa vain '© 2026 Deezer' — oikeusmuoto (SA) tai kotimaa (Ranska) ei näydy."
       },
       {
        "mittari": "Suomenkielinen sivusto ja hinnat euroissa",
@@ -849,11 +849,11 @@
     "Suomenkielinen palvelu täysin lokalisoitu, sovellukset iOS:lle ja Androidille"
    ],
    "kehityskohteet": [
-    "Kuukausittainen perishinta ei nayty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat näkyvät",
+    "Kuukausittainen perishinta ei näyty sivulla (placeholder '/kk' ilman lukua) — vain vuosihinnat näkyvät",
     "Omistaja mainitaan vain alatunnisteessa nimellä 'Deezer' ilman oikeusmuotoa tai kotimaata (Deezer SA, Ranska)",
     "Asiakastuki vain verkkolomakkeella; ei puhelinnumeroa, ei chatia"
    ],
-   "yhteenveto": "Deezerin tarjoussivulla näkyy kolme tilaustyyppia (Premium, Duo, Family) sekä vuosihinnat euroissa, mutta kuukausihinnat eivät renderoidu avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeät ja suora 'Peru tilaukseni' -linkki löytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
+   "yhteenveto": "Deezerin tarjoussivulla näkyy kolme tilaustyyppiä (Premium, Duo, Family) sekä vuosihinnat euroissa, mutta kuukausihinnat eivät renderöidy avoimesti (placeholder '/kk' ilman lukua). Peruutusohjeet ovat selkeät ja suora 'Peru tilaukseni' -linkki löytyy alatunnisteesta. Omistajatiedon ilmoittaminen on puutteellinen: 'Deezer' ilman juridista muotoa tai kotimaata.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -915,7 +915,7 @@
        "pisteet_max": 30,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: music.youtube.com/premium nakyttaa GDPR-evästemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivät näytetä ennen hyvaksyntaa."
+       "quote": "HAVAINTO: music.youtube.com/premium näyttää GDPR-evästemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivät näytetä ennen hyväksyntäa."
       },
       {
        "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
@@ -933,7 +933,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Peruuttamisohjeita ei näytä julkisesti ilman evastehyvaksyntaa tilaussivustolla."
+       "quote": "HAVAINTO: Peruuttamisohjeita ei näytä julkisesti ilman evastehyväksyntäa tilaussivustolla."
       },
       {
        "mittari": "Omistava yhtiö kerrottu sivustolla",
@@ -951,7 +951,7 @@
        "pisteet_max": 10,
        "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evästemuuri takana. Hintojen euromaaraisuus ei vahvistettavissa avoimesti."
+       "quote": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evästemuuri takana. Hintojen euromääräisyys ei vahvistettavissa avoimesti."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1061,10 +1061,10 @@
    ],
    "kehityskohteet": [
     "Tilaussivusto (music.youtube.com/premium) on GDPR-evästemuuri takana: hinnat ei näytetä ilman evästeiden hyväksymistä",
-    "Hinnat, tilaustasojen erot ja peruutusohjeet eivät ole laisinkaan nähtävissä julkiselta sivulta ilman kirjautumista tai evastehyvaksyntaa",
+    "Hinnat, tilaustasojen erot ja peruutusohjeet eivät ole lainkaan nähtävissä julkiselta sivulta ilman kirjautumista tai evastehyväksyntäa",
     "Omistajan (Google LLC / Alphabet Inc.) mainitseminen selkeästi tilaajalle puuttuu tilaussivulta kokonaan"
    ],
-   "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisältö on GDPR-evästemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivät ole nähtävissä ilman evästeiden hyvaksymista. Ohjekeskus selittää YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei löydy avoimelta sivulta.",
+   "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisältö on GDPR-evästemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivät ole nähtävissä ilman evästeiden hyväksymistä. Ohjekeskus selittää YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei löydy avoimelta sivulta.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -1126,7 +1126,7 @@
        "pisteet_max": 30,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: music.amazon.com nakyttaa vain 'Stream music and podcasts FREE on Amazon Music. No credit card required. Listen free' — tilaushintoja ei näytetty lainkaan avoimella sivulla."
+       "quote": "HAVAINTO: music.amazon.com näyttää vain 'Stream music and podcasts FREE on Amazon Music. No credit card required. Listen free' — tilaushintoja ei näytetty lainkaan avoimella sivulla."
       },
       {
        "mittari": "Tilaustasojen erot (laatu, laitteet, offline) kerrottu",
@@ -1144,7 +1144,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Peruutusohjeet eivät naydy avoimella sivulla."
+       "quote": "HAVAINTO: Peruutusohjeet eivät näydy avoimella sivulla."
       },
       {
        "mittari": "Omistava yhtiö kerrottu sivustolla",
@@ -1162,7 +1162,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: music.amazon.com naytta englanninkielisen sisällön; Suomenkielinen musiikkipalveluportaali puuttuu (Suomi ohjataan amazon.de:hen)."
+       "quote": "HAVAINTO: music.amazon.com näytä englanninkielisen sisällön; Suomenkielinen musiikkipalveluportaali puuttuu (Suomi ohjataan amazon.de:hen)."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1275,44 +1275,44 @@
     "Ei suomenkielistä musiikkipalvelusivua: Suomen käyttäjiä ohjataan amazon.de:hen (saksa)",
     "Omistajaa (Amazon.com, Inc.) ei mainita avoimella sivulla lainkaan"
    ],
-   "yhteenveto": "Amazon Musicin verkkosivusto (music.amazon.com) on sisaankirjautumisportti: kaikki tilaushintoja, tilaustasojen eroja tai peruutusohjeita koskeva sisältö vaatii kirjautumisen, eikä se ole nähtävissä julkisesti. Suomalaisen kuluttajan tilaamissivu on saksankielisella amazon.de/music/unlimited -sivulla, ei suomeksi. Läpinäkyvyys on mittauksen heikoin.",
+   "yhteenveto": "Amazon Musicin verkkosivusto (music.amazon.com) on sisäänkirjautumisportti: kaikki tilaushintoja, tilaustasojen eroja tai peruutusohjeita koskeva sisältö vaatii kirjautumisen, eikä se ole nähtävissä julkisesti. Suomalaisen kuluttajan tilaamissivu on saksankielisellä amazon.de/music/unlimited -sivulla, ei suomeksi. Läpinäkyvyys on mittauksen heikoin.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   }
  ],
  "updated": "3.8.2026",
  "opas": {
-  "johdanto": "Musiikkipalveluiden vertailu keskittyy siihen, kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeästi ennen tilaamista. Hinnoittelun avoimuus vaihtelee merkittavasti palvelusta riippuen: osa nayttaa kaikki hinnat yhdella sivulla, toisilla tiedot jäävät etsimiseen tai sisaankirjautumismuuri takana.",
+  "johdanto": "Musiikkipalveluiden vertailu keskittyy siihen, kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeästi ennen tilaamista. Hinnoittelun avoimuus vaihtelee merkittävästi palvelusta riippuen: osa näytäa kaikki hinnat yhdellä sivulla, toisilla tiedot jäävät etsimiseen tai sisaankirjautumismuuri takana.",
   "huomioita": [
-   "Kaikki kuusi mitattua palvelua ovat kansainvalisia yhtiöita: Spotify on ruotsalainen, Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien omistamia.",
+   "Kaikki kuusi mitattua palvelua ovat kansainvälisiä yhtiöita: Spotify on ruotsalainen, Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien omistamia.",
    "Amazon Music Unlimited on Suomessa tilattavissa, mutta suomalaiselle kuluttajalle suunnattu tilaussivusto on saksankielinen amazon.de. Suomenkielinen palvelusivu puuttuu.",
-   "YouTube Music on osa YouTube Premium -tilausta, jonka hintasivu on GDPR-evastemuuri takana. Hinnat eivat naydy ilman evasteiden hyvaksyntaa.",
-   "Qobuz on listan ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon. Kuukausihinta (15,99 e) on listan korkein, mutta aanenlaatu on vertailun paras.",
-   "Deezerin kuukausihinnat eivat renderoidu selaimessa ilman JavaScript-latausta — vain vuosihinnat nakyvat suoraan (9,00 e/kk vuosimaksulla)."
+   "YouTube Music on osa YouTube Premium -tilausta, jonka hintasivu on GDPR-evästemuuri takana. Hinnat eivät näydy ilman evästeiden hyväksyntäa.",
+   "Qobuz on listan ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon. Kuukausihinta (15,99 e) on listan korkein, mutta äänenlaatu on vertailun paras.",
+   "Deezerin kuukausihinnat eivät renderöidy selaimessa ilman JavaScript-latausta — vain vuosihinnat näkyvät suoraan (9,00 e/kk vuosimaksulla)."
   ],
   "vinkit": [
    "Vertaa kokonaiskustannuksia: Spotifyn opiskelija-alennuksella hinta on 7,49 e/kk, mutta tarvitset korkeakouluopiskelijastatuksen.",
    "Tarkista tilaustasojen erot ennen tilaamista: esimerkiksi perhetilauksen hyoty vaatii samassa taloudessa asumisen.",
-   "Jos aanenlaatu on sinulle tarkea, harkitse Qobuzin kuukausitilaus — se on ainoa palvelu, joka tarjoaa lossless-aanen perustasona.",
+   "Jos äänenlaatu on sinulle tärkeä, harkitse Qobuzin kuukausitilaus — se on ainoa palvelu, joka tarjoaa lossless-äänen perustasona.",
    "Tarkista irtisanomisen helppous: kaikki listatut palvelut lupaavatkin peruutusoikeuden, mutta prosessi vaihtelee.",
    "Spotifyn ja Apple Musicin ensikuukausi on ilmainen uusille tilaajille — hyvä tapa kokeilla ennen sitoutumista."
   ],
   "ukk": [
    {
     "q": "Mita eroa on Spotify Premiumilla ja Apple Musicilla?",
-    "a": "Molemmat tarjoavat yli 100 miljoonaa kappaletta, offline-kuuntelun ja mainoksettoman kokemuksen. Spotify on 12,99 e/kk, Apple Music 11,99 e/kk. Apple Musicissa on lossless- ja hi-res-aani seka Dolby Atmos -tila sisallytettyna, Spotifyssa viivattomasti saatavana ominaisuutena. Valinta riippuu ekosysteemistasi: iPhone-kayttajille Apple Music integroituu saumattomammin."
+    "a": "Molemmat tarjoavat yli 100 miljoonaa kappaletta, offline-kuuntelun ja mainoksettoman kokemuksen. Spotify on 12,99 e/kk, Apple Music 11,99 e/kk. Apple Musicissa on lossless- ja hi-res-aani seka Dolby Atmos -tila sisallytettyna, Spotifyssa viivattomasti saatavana ominaisuutena. Valinta riippuu ekosysteemistasi: iPhone-käyttäjille Apple Music integroituu saumattomammin."
    },
    {
     "q": "Mika on halvin tapa saada musiikkipalvelu Suomessa?",
-    "a": "Opiskelija-alennuksilla Spotify (7,49 e/kk) ja Apple Music (6,99 e/kk) ovat halvimmat. Ilman alennusta Spotify on 12,99 e/kk ja Apple Music 11,99 e/kk. Deezerin vuosisuunnitelma (9,00 e/kk vuosimaksulla) on edullisempi, mutta edellyttaa kertamaksua (107,99 e/vuosi)."
+    "a": "Opiskelija-alennuksilla Spotify (7,49 e/kk) ja Apple Music (6,99 e/kk) ovat halvimmat. Ilman alennusta Spotify on 12,99 e/kk ja Apple Music 11,99 e/kk. Deezerin vuosisuunnitelma (9,00 e/kk vuosimaksulla) on edullisempi, mutta edellyttää kertamaksua (107,99 e/vuosi)."
    },
    {
     "q": "Mika musiikkipalvelu tarjoaa parhaan aanenlaadun?",
-    "a": "Qobuz on ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon (jopa 24-bittinen/192 kHz) perustasona. Apple Music sisaltyy lossless- ja Dolby Atmos -aanentoiston perushintaan. Spotify lisasi lossless-aanentoiston (Spotify HiFi) vuonna 2025."
+    "a": "Qobuz on ainoa palvelu, joka erikoistuu lossless- ja hi-res-aanentoistoon (jopa 24-bittinen/192 kHz) perustasona. Apple Music sisältyy lossless- ja Dolby Atmos -aanentoiston perushintaan. Spotify lisasi lossless-aanentoiston (Spotify HiFi) vuonna 2025."
    },
    {
-    "q": "Miten Suomen Paras pisteyttaa musiikkipalvelut?",
-    "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeasti ennen tilaamista, onko sivusto suomeksi, ja toimiiko sivusto teknisesti hyvin. Emme arvioi musiikkikirjaston sisaltoa tai makuasioita."
+    "q": "Miten Suomen Paras pisteyttää musiikkipalvelut?",
+    "a": "Mittaamme jokaisen palvelun julkisen verkkosivuston samalla kaavalla: kerrotaanko kuukausihinta, tilaustasojen erot ja irtisanominen selkeästi ennen tilaamista, onko sivusto suomeksi, ja toimiiko sivusto teknisesti hyvin. Emme arvioi musiikkikirjaston sisältöä tai makuasioita."
    }
   ]
  },

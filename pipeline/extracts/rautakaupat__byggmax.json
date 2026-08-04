@@ -1,49 +1,49 @@
 {
-  "slug": "byggmax",
-  "fetched_ok": [
-    "https://www.byggmax.fi/",
-    "https://www.byggmax.fi/ostoehdot",
-    "https://www.byggmax.fi/maalit",
-    "https://www.byggmax.fi/meista"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 70,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 68
-  },
-  "vahvuudet": [
-    "Hinnat ja toimituskustannukset näkyvät selvästi kassalla ennen tilauksen vahvistusta",
-    "Ostoehdot, palautusoikeudet ja takuut ovat yksityiskohtaisesti julkaistu verkossa",
-    "Asiakaspalvelun yhteystiedot (puhelin, sähköposti ja tukikeskus) helposti löydettävissä"
-  ],
-  "kehityskohteet": [
-    "Myymälät ja aukioloajat eivät ole täysin saatavilla web-muodossa, sivuston renderointiongelmat estävät pääsyn",
-    "Riippumattoman arviointipalvelun tai asiakasarvioiden puuttuminen tuotesivuilta",
-    "FAQ-osion puute helpottaisi asiakkaiden yleisten kysymysten vastaamiseen"
-  ],
-  "yhteenveto": "Byggmax on pohjoismalainen rautakauppaketju, jonka verkkosivusto tarjoaa selkeät hinnat ja toimitusehdot. Yrityksen tiedot, palautusoikeudet ja asiakaspalvelun yhteystiedot ovat julkisesti saatavilla. Sivustoa rasittavat teknilliset rajoitukset estävät täysin kaikkien tietojen saavutettavuuden, varsinkin myymälöiden aukioloaikojen osalta.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät selvästi kategoriasivuilla (esim. maaleja 19,95 €, 14,95 €, 8,95 €) ja ostoehdoissa mainitaan hintojen näkyvän kassalla ennen tilauksen vahvistusta.",
-    "toimitus_kerrottu": "HAVAINTO: Ostoehdot ilmoittavat 'Rahti- ja keräilykustannukset näkyvät kassalla ennen tilauksen tekoa'. Sivulla mainitaan myös ilmainen kotiinkuljetus yli 1000 euron ostoksiin.",
-    "palautusehdot_saatavilla": "HAVAINTO: Kattavat palautusoikeudet julkaistu ostoehdot-sivulla, joka sisältää 14 päivän palautusoikeudet ja 365 päivän laajennetun palautusoikeuden tiedot.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Myymälä-valitsin näyttää osoitteet ja postinumerot etusivulla, mutta yksityiskohtaiset aukioloajat eivät ole täysin ladattavissa sivuston teknisista rajoituksista johtuen.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2132241-2 näkyy selvästi sivuston jalkaosassa ja ostoehdoissa.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei löydy riippumatonta arviointipalvelua, auditoitua sertifiointia tai kolmannen osapuolen arviointia.",
-    "puhelin_esilla": "HAVAINTO: Puhelinnumero 0771-89 00 89 mainitaan ostoehdoissa asiakaspalvelun yhteystiedoissa.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoite support@byggmax.fi näkyy useilla sivuilla, mukaan lukien ostoehdot ja Meistä-sivulla.",
-    "chat_mainittu": "HAVAINTO: Sivuilla mainitaan 'Siirry tukikeskukseemme' -linkki, mutta chat-rajapinta ei ole täysin käytettävissä sivuston renderointiongelmien vuoksi.",
-    "aukioloajat_esilla": "HAVAINTO: Myymälä-valitsimessa näkyy viittaus aukioloaikoihin, mutta yksityiskohtaiset aukioloajat eivät lataudu sivuston teknisista rajoituksista johtuen."
-  }
+ "slug": "byggmax",
+ "fetched_ok": [
+  "https://www.byggmax.fi/",
+  "https://www.byggmax.fi/ostoehdot",
+  "https://www.byggmax.fi/maalit",
+  "https://www.byggmax.fi/meista"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 70,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 68
+ },
+ "vahvuudet": [
+  "Hinnat ja toimituskustannukset näkyvät selvästi kassalla ennen tilauksen vahvistusta",
+  "Ostoehdot, palautusoikeudet ja takuut ovat yksityiskohtaisesti julkaistu verkossa",
+  "Asiakaspalvelun yhteystiedot (puhelin, sähköposti ja tukikeskus) helposti löydettävissä"
+ ],
+ "kehityskohteet": [
+  "Myymälät ja aukioloajat eivät ole täysin saatavilla web-muodossa, sivuston renderointiongelmat estävät pääsyn",
+  "Riippumattoman arviointipalvelun tai asiakasarvioiden puuttuminen tuotesivuilta",
+  "FAQ-osion puute helpottaisi asiakkaiden yleisten kysymysten vastaamiseen"
+ ],
+ "yhteenveto": "Byggmax on pohjoismalainen rautakauppaketju, jonka verkkosivusto tarjoaa selkeät hinnat ja toimitusehdot. Yrityksen tiedot, palautusoikeudet ja asiakaspalvelun yhteystiedot ovat julkisesti saatavilla. Sivustoa rasittavat teknilliset rajoitukset estävät täysin kaikkien tietojen saavutettavuuden, varsinkin myymälöiden aukioloaikojen osalta.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotehinnat näkyvät selvästi kategoriasivuilla (esim. maaleja 19,95 €, 14,95 €, 8,95 €) ja ostoehdoissa mainitaan hintojen näkyvän kassalla ennen tilauksen vahvistusta.",
+  "toimitus_kerrottu": "HAVAINTO: Ostoehdot ilmoittavat 'Rahti- ja keräilykustannukset näkyvät kassalla ennen tilauksen tekoa'. Sivulla mainitaan myös ilmainen kotiinkuljetus yli 1000 euron ostoksiin.",
+  "palautusehdot_saatavilla": "HAVAINTO: Kattavat palautusoikeudet julkaistu ostoehdot-sivulla, joka sisältää 14 päivän palautusoikeudet ja 365 päivän laajennetun palautusoikeuden tiedot.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Myymälä-valitsin näyttää osoitteet ja postinumerot etusivulla, mutta yksityiskohtaiset aukioloajat eivät ole täysin ladattavissa sivuston teknisistä rajoituksista johtuen.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2132241-2 näkyy selvästi sivuston jalkaosassa ja ostoehdoissa.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei löydy riippumatonta arviointipalvelua, auditoitua sertifiointia tai kolmannen osapuolen arviointia.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumero 0771-89 00 89 mainitaan ostoehdoissa asiakaspalvelun yhteystiedoissa.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite support@byggmax.fi näkyy useilla sivuilla, mukaan lukien ostoehdot ja Meistä-sivulla.",
+  "chat_mainittu": "HAVAINTO: Sivuilla mainitaan 'Siirry tukikeskukseemme' -linkki, mutta chat-rajapinta ei ole täysin käytettävissä sivuston renderointiongelmien vuoksi.",
+  "aukioloajat_esilla": "HAVAINTO: Myymälä-valitsimessa näkyy viittaus aukioloaikoihin, mutta yksityiskohtaiset aukioloajat eivät lataudu sivuston teknisistä rajoituksista johtuen."
+ }
 }

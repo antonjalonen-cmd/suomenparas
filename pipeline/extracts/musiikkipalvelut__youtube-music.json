@@ -30,16 +30,16 @@
  ],
  "kehityskohteet": [
   "Tilaussivusto (music.youtube.com/premium) on GDPR-evästemuuri takana: hinnat ei näytetä ilman evästeiden hyväksymistä",
-  "Hinnat, tilaustasojen erot ja peruutusohjeet eivät ole laisinkaan nähtävissä julkiselta sivulta ilman kirjautumista tai evastehyvaksyntaa",
+  "Hinnat, tilaustasojen erot ja peruutusohjeet eivät ole lainkaan nähtävissä julkiselta sivulta ilman kirjautumista tai evastehyväksyntäa",
   "Omistajan (Google LLC / Alphabet Inc.) mainitseminen selkeästi tilaajalle puuttuu tilaussivulta kokonaan"
  ],
- "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisältö on GDPR-evästemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivät ole nähtävissä ilman evästeiden hyvaksymista. Ohjekeskus selittää YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei löydy avoimelta sivulta.",
+ "yhteenveto": "YouTube Music -tilaussivuston (music.youtube.com/premium) sisältö on GDPR-evästemuuri takana, joten hinnat, tilaustasojen erot ja peruutusohjeet eivät ole nähtävissä ilman evästeiden hyväksymistä. Ohjekeskus selittää YouTube Musicin ominaisuuksia suomeksi, mutta hinnoittelutietoa ei löydy avoimelta sivulta.",
  "evidence": {
-  "hinnat_esilla": "HAVAINTO: music.youtube.com/premium nakyttaa GDPR-evästemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivät näytetä ennen hyvaksyntaa.",
+  "hinnat_esilla": "HAVAINTO: music.youtube.com/premium näyttää GDPR-evästemuuri-modal 'Ennen kuin jatkat YouTubeen' — hinnat eivät näytetä ennen hyväksyntäa.",
   "tasojen_erot_kerrottu": "HAVAINTO: support.google.com/youtube/answer/6308116 mainitsee YouTube Music Premiumin osana YouTube Premium -tilauksen etuja (mainokset pois, offline, musiikki sovelluksessa), mutta ei erittele tilausvaihtoehtoja tai hintoja.",
-  "irtisanominen_kerrottu": "HAVAINTO: Peruuttamisohjeita ei näytä julkisesti ilman evastehyvaksyntaa tilaussivustolla.",
+  "irtisanominen_kerrottu": "HAVAINTO: Peruuttamisohjeita ei näytä julkisesti ilman evastehyväksyntäa tilaussivustolla.",
   "omistaja_kerrottu": "HAVAINTO: Ohjekeskuksessa tekijanoikeusteksti '2026 Google' — Google LLC mainittu implisiittisesti, mutta Alphabet Inc. -omistusrakenne ei selity kuluttajalle.",
-  "suomenkielinen_palvelu": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evästemuuri takana. Hintojen euromaaraisuus ei vahvistettavissa avoimesti.",
+  "suomenkielinen_palvelu": "HAVAINTO: Ohjekeskus saatavilla suomeksi (?hl=fi), mutta tilaussivusto evästemuuri takana. Hintojen euromääräisyys ei vahvistettavissa avoimesti.",
   "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näytetä avoimella tilaussivulla."
  }
 }

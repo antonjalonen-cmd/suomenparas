@@ -1,54 +1,54 @@
 {
-  "slug": "suomen-kuvalehti",
-  "fetched_ok": [
-    "https://suomenkuvalehti.fi/",
-    "https://suomenkuvalehti.fi/tilaa",
-    "https://suomenkuvalehti.fi/toimituksen-yhteystiedot/",
-    "https://otavamedia.fi/",
-    "https://otavamedia.fi/tilaus-ja-kayttoehdot/",
-    "https://otavamedia.fi/tietosuoja/"
-  ],
-  "tilaushinta_esilla": "kylla",
-  "tilauksen_peruutus_kerrottu": "kylla",
-  "paatoimittaja_esilla": "kylla",
-  "mainonta_eroteltu": "ei",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "osittain",
-  "kestotilaus_eur_12kk": 169,
-  "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 70
-  },
-  "vahvuudet": [
-    "Tilaushinnat näkyvät selvästi jo ensimmäisellä katsantokierroksella ennen tietojen antamista",
-    "Peruutusehdot ja irtisanomisajat on kuvattu yksityiskohtaisesti julkisesti saatavilla olevilla sivuilla",
-    "Päätoimittaja nimetään ja toimituksen yhteystiedot on helposti löydettävissä"
-  ],
-  "kehityskohteet": [
-    "Kaupallisen sisällön merkitseminen ja erottelu journalismista ei ole näkyvää sivustolla",
-    "Suomen Kuvalehden omaa Y-tunnusta ei ole esillä; Otavamedia Oy:n (0196807-2) Y-tunnus näkyy, mutta ei lehden omaa",
-    "Riippumattomia arviolähteitä kuten JSN-jäsenyyttä tai levikintarkastusta ei ole dokumentoitu"
-  ],
-  "yhteenveto": "Suomen Kuvalehti on Otavamedian julkaisema aikakauslehti, jonka tilauspalvelu on käyttäjäystävällinen ja hinnoittelu näkyvä. Peruutus- ja irtisanomisehdot on kuvattu yksityiskohtaisesti, ja toimituksellinen yhteystieto (päätoimittaja Matti Kalliokoski) on julkaistu. Asiakaspalvelu on saavutettavissa puhelimitse, sähköpostilla ja chatissa. Kehitysalueita ovat kaupallisen sisällön merkitsemisen puute sekä riippumattomien arviointilähteisiin viittaamisen tai omalle lehdelle Y-tunnuksen näyttämisen puuttuminen.",
-  "evidence": {
-    "tilaushinta_esilla": "HAVAINTO: Tilausvaihtoehdot näkyvät selvästi sivulla https://suomenkuvalehti.fi/tilaa: Suomen Kuvalehti digi 6 kk 49 euroa (norm. 101,40 €), lehti + digi 6 kk 99 euroa (norm. 225 €), lehti + digi 12 kk 169 euroa (norm. 417 €). Kaikilla on merkintä 'Jatkuva tilaus'.",
-    "tilauksen_peruutus_kerrottu": "HAVAINTO: Peruutusehdot löytyvät sekä tilaa-sivulta että https://otavamedia.fi/tilaus-ja-kayttoehdot/ osoitteesta. Tilaa-sivulla: 'Peruutusehdot: Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Jatkuva tilaus jatkuu automaattisesti kiinteän tarjousjakson jälkeen... Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'",
-    "paatoimittaja_esilla": "HAVAINTO: Sivulla https://suomenkuvalehti.fi/toimituksen-yhteystiedot/ on listattu 'PÄÄTOIMITTAJA Matti Kalliokoski' ja sähköpostiosoite matti.kalliokoski@otava.fi. Koko toimituksen yhteystiedot ja rakenne on dokumentoitu.",
-    "mainonta_eroteltu": "HAVAINTO: Sivustolla ei ole näkyvää merkitsemistä tai erottelua kaupallisen sisällön ja journalismin välillä. Mainonnan kohdeajoja kuvataan tietosuojaselosteessa, mutta kaupallisen sisällön merkitseminen sivuilla on puutteellista.",
-    "y_tunnus_esilla": "HAVAINTO: Otavamedian Y-tunnus 0196807-2 näkyy kaikilla sivuston sivuilla (footer). Suomen Kuvalehden omaa Y-tunnusta tai lakisääteistä tunnusta ei ole erillisesti näkyvissä. Lehti kuuluu Otavamedian julkaistuihin lehtiin, mutta omaa identiteettiä ei ole tunnus-tasolla korostettu.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia arviolähteitä. Otavamedian verkkosivuilla tai Suomen Kuvalehden sivuilla ei löydy viittauksia tällaisiin sertifikaatteihin.",
-    "puhelin_esilla": "HAVAINTO: Digipalvelut: (09) 156 6227 ja Painettu lehti: 010190093 ovat näkyvissä asiakaspalvelun yhteystiedoissa. Avoinna ma-pe 8-19.",
-    "email_esilla": "HAVAINTO: Digi-palveluun: digi@otavamedia.fi, Asiakaspalveluun: asiakaspalvelu@otavamedia.fi, Toimitukselle: etunimi.sukunimi@otava.fi (muodossa), sk.oikaisupyynnot@otava.fi oikaisupyynnöille.",
-    "chat_mainittu": "HAVAINTO: Tilausehdoissa mainitaan: 'Tilauksen peruuttamisen voi tehdä asiointipalvelun kautta tai ottamalla yhteyttä Otavamedian asiakaspalveluun sähköpostilla, puhelimitse, kirjeitse tai Otavamedian verkkosivuilla chat-palvelun välityksellä.'",
-    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvät: Digipalvelut (09) 156 6227 Avoinna ma-pe 8-19.",
-    "ukk_osio": "HAVAINTO: Suomen Kuvalehden omalla sivustolla (suomenkuvalehti.fi) ei ole FAQ-osiota. Otavamedialla on 'Usein kysytyt kysymykset' -sivu omalla sivustollaan, mutta se ei ole Suomen Kuvalehden omaa.",
-    "mobiilisovellus": "HAVAINTO: Sivun lähdekoodi viittaa smart-app-banner -pluginiin, mikä viittaa sovelluspainikkeen olemassaoloon. Varsinaista sovelluksesta kertovaa sisältöä ei ole kuitenkaan renderoidun sivun tekstissä näkyvissä."
-  }
+ "slug": "suomen-kuvalehti",
+ "fetched_ok": [
+  "https://suomenkuvalehti.fi/",
+  "https://suomenkuvalehti.fi/tilaa",
+  "https://suomenkuvalehti.fi/toimituksen-yhteystiedot/",
+  "https://otavamedia.fi/",
+  "https://otavamedia.fi/tilaus-ja-kayttoehdot/",
+  "https://otavamedia.fi/tietosuoja/"
+ ],
+ "tilaushinta_esilla": "kylla",
+ "tilauksen_peruutus_kerrottu": "kylla",
+ "paatoimittaja_esilla": "kylla",
+ "mainonta_eroteltu": "ei",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "osittain",
+ "kestotilaus_eur_12kk": 169,
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 70
+ },
+ "vahvuudet": [
+  "Tilaushinnat näkyvät selvästi jo ensimmäisellä katsantokierroksella ennen tietojen antamista",
+  "Peruutusehdot ja irtisanomisajat on kuvattu yksityiskohtaisesti julkisesti saatavilla olevilla sivuilla",
+  "Päätoimittaja nimetään ja toimituksen yhteystiedot on helposti löydettävissä"
+ ],
+ "kehityskohteet": [
+  "Kaupallisen sisällön merkitseminen ja erottelu journalismista ei ole näkyvää sivustolla",
+  "Suomen Kuvalehden omaa Y-tunnusta ei ole esillä; Otavamedia Oy:n (0196807-2) Y-tunnus näkyy, mutta ei lehden omaa",
+  "Riippumattomia arviolähteitä kuten JSN-jäsenyyttä tai levikintarkastusta ei ole dokumentoitu"
+ ],
+ "yhteenveto": "Suomen Kuvalehti on Otavamedian julkaisema aikakauslehti, jonka tilauspalvelu on käyttäjäystävällinen ja hinnoittelu näkyvä. Peruutus- ja irtisanomisehdot on kuvattu yksityiskohtaisesti, ja toimituksellinen yhteystieto (päätoimittaja Matti Kalliokoski) on julkaistu. Asiakaspalvelu on saavutettavissa puhelimitse, sähköpostilla ja chatissa. Kehitysalueita ovat kaupallisen sisällön merkitsemisen puute sekä riippumattomien arviointilähteisiin viittaamisen tai omalle lehdelle Y-tunnuksen näyttämisen puuttuminen.",
+ "evidence": {
+  "tilaushinta_esilla": "HAVAINTO: Tilausvaihtoehdot näkyvät selvästi sivulla https://suomenkuvalehti.fi/tilaa: Suomen Kuvalehti digi 6 kk 49 euroa (norm. 101,40 €), lehti + digi 6 kk 99 euroa (norm. 225 €), lehti + digi 12 kk 169 euroa (norm. 417 €). Kaikilla on merkintä 'Jatkuva tilaus'.",
+  "tilauksen_peruutus_kerrottu": "HAVAINTO: Peruutusehdot löytyvät sekä tilaa-sivulta että https://otavamedia.fi/tilaus-ja-kayttoehdot/ osoitteesta. Tilaa-sivulla: 'Peruutusehdot: Tilaajalla on oikeus peruuttaa tilaus 14 vuorokauden kuluessa. Jatkuva tilaus jatkuu automaattisesti kiinteän tarjousjakson jälkeen... Voimassa olevan jatkuvan tilauksen voi kiinteän tarjousjakson jälkeen irtisanoa 30 päivän irtisanomisajalla.'",
+  "paatoimittaja_esilla": "HAVAINTO: Sivulla https://suomenkuvalehti.fi/toimituksen-yhteystiedot/ on listattu 'PÄÄTOIMITTAJA Matti Kalliokoski' ja sähköpostiosoite matti.kalliokoski@otava.fi. Koko toimituksen yhteystiedot ja rakenne on dokumentoitu.",
+  "mainonta_eroteltu": "HAVAINTO: Sivustolla ei ole näkyvää merkitsemistä tai erottelua kaupallisen sisällön ja journalismin välillä. Mainonnan kohdeajoja kuvataan tietosuojaselosteessa, mutta kaupallisen sisällön merkitseminen sivuilla on puutteellista.",
+  "y_tunnus_esilla": "HAVAINTO: Otavamedian Y-tunnus 0196807-2 näkyy kaikilla sivuston sivuilla (footer). Suomen Kuvalehden omaa Y-tunnusta tai lakisääteistä tunnusta ei ole erillisesti näkyvissä. Lehti kuuluu Otavamedian julkaistuihin lehtiin, mutta omaa identiteettiä ei ole tunnus-tasolla korostettu.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei mainita JSN-jäsenyyttä, levikintarkastusta tai muita riippumattomia arviolähteitä. Otavamedian verkkosivuilla tai Suomen Kuvalehden sivuilla ei löydy viittauksia tällaisiin sertifikaatteihin.",
+  "puhelin_esilla": "HAVAINTO: Digipalvelut: (09) 156 6227 ja Painettu lehti: 010190093 ovat näkyvissä asiakaspalvelun yhteystiedoissa. Avoinna ma-pe 8-19.",
+  "email_esilla": "HAVAINTO: Digi-palveluun: digi@otavamedia.fi, Asiakaspalveluun: asiakaspalvelu@otavamedia.fi, Toimitukselle: etunimi.sukunimi@otava.fi (muodossa), sk.oikaisupyynnot@otava.fi oikaisupyynnöille.",
+  "chat_mainittu": "HAVAINTO: Tilausehdoissa mainitaan: 'Tilauksen peruuttamisen voi tehdä asiointipalvelun kautta tai ottamalla yhteyttä Otavamedian asiakaspalveluun sähköpostilla, puhelimitse, kirjeitse tai Otavamedian verkkosivuilla chat-palvelun välityksellä.'",
+  "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelun aukioloajat näkyvät: Digipalvelut (09) 156 6227 Avoinna ma-pe 8-19.",
+  "ukk_osio": "HAVAINTO: Suomen Kuvalehden omalla sivustolla (suomenkuvalehti.fi) ei ole FAQ-osiota. Otavamedialla on 'Usein kysytyt kysymykset' -sivu omalla sivustollaan, mutta se ei ole Suomen Kuvalehden omaa.",
+  "mobiilisovellus": "HAVAINTO: Sivun lähdekoodi viittaa smart-app-banner -pluginiin, mikä viittaa sovelluspainikkeen olemassaoloon. Varsinaista sovelluksesta kertovaa sisältöä ei ole kuitenkaan renderöidyn sivun tekstissä näkyvissä."
+ }
 }

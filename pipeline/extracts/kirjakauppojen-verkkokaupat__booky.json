@@ -1,51 +1,51 @@
 {
-  "slug": "booky",
-  "fetched_ok": [
-    "https://www.booky.fi/",
-    "https://www.booky.fi/toimitusehdot",
-    "https://www.booky.fi/asiakaspalvelu",
-    "https://www.booky.fi/yhteystiedot",
-    "https://www.booky.fi/maksutavat"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 78,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 75
-  },
-  "vahvuudet": [
-    "Kattavat ja selkeät toimitusehdot sekä palautuskäytännöt ovat helposti löydettävissä",
-    "Y-tunnus ja yhteydenottokanavat (puhelin, sähköposti) näkyvät selvästi useilla sivuilla",
-    "Tuotehinnat esillä koko sivustolla heti etusivulla ja eri kategorioissa"
-  ],
-  "kehityskohteet": [
-    "Ei fyysisiä myymälöitä tai aukioloaikoja - ainoastaan noutopisteet ja verkkokauppa",
-    "Riippumattomia arviota tai sertifiointeja ei ole näkyvissä sivustolla",
-    "Mobiilisovellus puuttuu - palvelu on vain web-pohjainen"
-  ],
-  "yhteenveto": "Booky.fi on kotimainen verkkokirjakauppa, joka tarjoaa kotimaiset ja ulkomaiset kirjat sekä musiikkia. Sivusto esittää tuotehinnat selvästi, toimitusehdot ovat kattavat, ja yhteydenottokanavat helppokäyttöiset. Yrityksen tiedot sekä palautusolosuhteet julkaistaan avoimesti. Palvelulla ei ole fyysisiä myymälöitä, eikä riippumattomia arvioita tai sertifiointeja näy sivustolla.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla ja kaikkien tuotteiden yhteydessä näkyvät eurohintamerkinnät (esim. € 32,50, € 24,90, € 27,60). Hinnat ovat selvästi esillä ilman sisäänkirjautumista.",
-    "toimitus_kerrottu": "HAVAINTO: /toimitusehdot-sivulla kuvataan neljä toimittajaa Suomessa (Posti, Matkahuolto, Budbee, Schenker) ja DHL kansainvälisille tilauksille. Sivulla todetaan 'Toimituskulut riippuvat ostoskorin sisällöstä ja yhteispainosta sekä valitusta toimitustavasta.' Kassalla näkyy 'tarkka toimituskulu'.",
-    "palautusehdot_saatavilla": "HAVAINTO: /toimitusehdot-sivulla on laaja osio 'Kuluttaja-asiakkaan peruuttamisoikeus' jossa selitetään 14 päivän peruuttamisen aika, poikkeukset (avatut hygieniaprodukti, digitaaliset tuotteet), palautusosoite (Porvoon Kirjakeskus), palautuskuluista vastaaminen ja maksujen palautus.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Ei mainintoja fyysisista myymälöistä. Palvelu on puhtaasti verkkokauppa. Palautukselle on annettu osoite Porvooseen, ja asiakaspalvelulle annetaan aukioloajat (arkisin klo 9-15), mutta omille myymälöille ei ole tietoja.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2131125-4 näkyy sekä /yhteystiedot-sivulla että /toimitusehdot-sivulla. /yhteystiedot-sivulla on osio 'VERKKOLASKUT' jossa mainitaan 'Y-tunnus: 2131125-4'.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviolähteisiin (kuten TrustedShops, Feefo, Google Reviews) eikä sertifiointeihin (ISO, Trusted Shop Badge ym). Sivusto ei mainitse asiakasarvioita tai -palautteita.",
-    "puhelin_esilla": "HAVAINTO: /asiakaspalvelu-sivulla mainitaan 'Puhelin: +358 9 5840 4500, arkisin klo 9-15'. Sama numero näkyy myös /yhteystiedot-sivulla ja /toimitusehdot-sivulla.",
-    "email_esilla": "HAVAINTO: /yhteystiedot-sivulla ja /asiakaspalvelu-sivulla näkyy sähköpostiosoite asiakaspalvelu@booky.fi. Lisäksi on erilliset sähköpostit kustantajille (kustantajat@booky.fi) ja saatavuuskyselyille (saatavuuskyselyt@booky.fi).",
-    "chat_mainittu": "HAVAINTO: Sivustolla ei ole mainintoja chat-palvelusta tai live-chat-toiminnosta. Yhteydenottokanavat rajoittuvat sähköpostiin ja puhelimeen.",
-    "aukioloajat_esilla": "HAVAINTO: /asiakaspalvelu-sivulla mainitaan 'Puhelin: +358 9 5840 4500, arkisin klo 9-15'. Lisäksi kustantajien yhteystietojen yhteydessä mainitaan 'arkisin 9-16'. Palautuspuhelimelle ei ole erillisiä aukioloaikoja.",
-    "ukk_osio": "HAVAINTO: /asiakaspalvelu-sivulla näkyy teksti 'Katso ensin löytyykö kysymykseesi vastaus alla olevista usein kysytyistä kysymyksistä' ja siinä luetellaan neljä kategoriaa: 'Tilauksen toimitus', 'Tuotteen vaihtaminen tai palauttaminen', 'Tekniset haasteet' ja 'Tilauksen maksaminen'. Kuitenkin render_page.py:llä haetessa sisältö ei täysin renderöitynyt, joten markkinoitu osio on osittain vahvistettu."
-  }
+ "slug": "booky",
+ "fetched_ok": [
+  "https://www.booky.fi/",
+  "https://www.booky.fi/toimitusehdot",
+  "https://www.booky.fi/asiakaspalvelu",
+  "https://www.booky.fi/yhteystiedot",
+  "https://www.booky.fi/maksutavat"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Kattavat ja selkeät toimitusehdot sekä palautuskäytännöt ovat helposti löydettävissä",
+  "Y-tunnus ja yhteydenottokanavat (puhelin, sähköposti) näkyvät selvästi useilla sivuilla",
+  "Tuotehinnat esillä koko sivustolla heti etusivulla ja eri kategorioissa"
+ ],
+ "kehityskohteet": [
+  "Ei fyysisiä myymälöitä tai aukioloaikoja - ainoastaan noutopisteet ja verkkokauppa",
+  "Riippumattomia arviota tai sertifiointeja ei ole näkyvissä sivustolla",
+  "Mobiilisovellus puuttuu - palvelu on vain web-pohjainen"
+ ],
+ "yhteenveto": "Booky.fi on kotimainen verkkokirjakauppa, joka tarjoaa kotimaiset ja ulkomaiset kirjat sekä musiikkia. Sivusto esittää tuotehinnat selvästi, toimitusehdot ovat kattavat, ja yhteydenottokanavat helppokäyttöiset. Yrityksen tiedot sekä palautusolosuhteet julkaistaan avoimesti. Palvelulla ei ole fyysisiä myymälöitä, eikä riippumattomia arvioita tai sertifiointeja näy sivustolla.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla ja kaikkien tuotteiden yhteydessä näkyvät eurohintamerkinnät (esim. € 32,50, € 24,90, € 27,60). Hinnat ovat selvästi esillä ilman sisäänkirjautumista.",
+  "toimitus_kerrottu": "HAVAINTO: /toimitusehdot-sivulla kuvataan neljä toimittajaa Suomessa (Posti, Matkahuolto, Budbee, Schenker) ja DHL kansainvälisille tilauksille. Sivulla todetaan 'Toimituskulut riippuvat ostoskorin sisällöstä ja yhteispainosta sekä valitusta toimitustavasta.' Kassalla näkyy 'tarkka toimituskulu'.",
+  "palautusehdot_saatavilla": "HAVAINTO: /toimitusehdot-sivulla on laaja osio 'Kuluttaja-asiakkaan peruuttamisoikeus' jossa selitetään 14 päivän peruuttamisen aika, poikkeukset (avatut hygieniaprodukti, digitaaliset tuotteet), palautusosoite (Porvoon Kirjakeskus), palautuskuluista vastaaminen ja maksujen palautus.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Ei mainintoja fyysisistä myymälöistä. Palvelu on puhtaasti verkkokauppa. Palautukselle on annettu osoite Porvooseen, ja asiakaspalvelulle annetaan aukioloajat (arkisin klo 9-15), mutta omille myymälöille ei ole tietoja.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 2131125-4 näkyy sekä /yhteystiedot-sivulla että /toimitusehdot-sivulla. /yhteystiedot-sivulla on osio 'VERKKOLASKUT' jossa mainitaan 'Y-tunnus: 2131125-4'.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole linkkejä riippumattomiin arviolähteisiin (kuten TrustedShops, Feefo, Google Reviews) eikä sertifiointeihin (ISO, Trusted Shop Badge ym). Sivusto ei mainitse asiakasarvioita tai -palautteita.",
+  "puhelin_esilla": "HAVAINTO: /asiakaspalvelu-sivulla mainitaan 'Puhelin: +358 9 5840 4500, arkisin klo 9-15'. Sama numero näkyy myös /yhteystiedot-sivulla ja /toimitusehdot-sivulla.",
+  "email_esilla": "HAVAINTO: /yhteystiedot-sivulla ja /asiakaspalvelu-sivulla näkyy sähköpostiosoite asiakaspalvelu@booky.fi. Lisäksi on erilliset sähköpostit kustantajille (kustantajat@booky.fi) ja saatavuuskyselyille (saatavuuskyselyt@booky.fi).",
+  "chat_mainittu": "HAVAINTO: Sivustolla ei ole mainintoja chat-palvelusta tai live-chat-toiminnosta. Yhteydenottokanavat rajoittuvat sähköpostiin ja puhelimeen.",
+  "aukioloajat_esilla": "HAVAINTO: /asiakaspalvelu-sivulla mainitaan 'Puhelin: +358 9 5840 4500, arkisin klo 9-15'. Lisäksi kustantajien yhteystietojen yhteydessä mainitaan 'arkisin 9-16'. Palautuspuhelimelle ei ole erillisiä aukioloaikoja.",
+  "ukk_osio": "HAVAINTO: /asiakaspalvelu-sivulla näkyy teksti 'Katso ensin löytyykö kysymykseesi vastaus alla olevista usein kysytyistä kysymyksistä' ja siinä luetellaan neljä kategoriaa: 'Tilauksen toimitus', 'Tuotteen vaihtaminen tai palauttaminen', 'Tekniset haasteet' ja 'Tilauksen maksaminen'. Kuitenkin render_page.py:llä haetessa sisältö ei täysin renderöitynyt, joten markkinoitu osio on osittain vahvistettu."
+ }
 }
