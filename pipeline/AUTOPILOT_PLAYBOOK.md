@@ -22,6 +22,14 @@ valtakunnallisesti tai monessa kaupungissa, kullakin OMA elävä sivusto.
 
 - Brändit kuolevat hiljaa: tarkista fuusiot, konkurssit ja markkinapoistumiset
   viimeisen 2 vuoden ajalta (webhaku). Esim. Väre→Helen, Lendo poistui Suomesta.
+- **Elävä domain EI todista, että yhtiö yhä harjoittaa juuri tätä liiketoimintaa.**
+  Tee jokaiselle ehdokkaalle webhaku muodossa "<yhtiö> <kategoria> myyty|osti|
+  yrityskauppa <vuosi>" ENNEN mittausta. 4.8.2026 tikki mittasi Helen Latauksen
+  kategorian ykköseksi (80,9) — Helen oli myynyt koko julkisen latausverkkonsa
+  Plugitille kuukautta aiemmin (199 asemaa, 798 pistettä, 55 000 käyttäjää).
+  helen.fi vastasi 200, koska Helen myy yhä sähköä; vain se liiketoiminta, jota
+  kategoria mittaa, oli vaihtanut omistajaa. Väärä ykkönen on pahempi kuin
+  puuttuva yhtiö.
 - JOKAINEN domain: `curl -sI --ssl-no-revoke -L -A "Mozilla/5.0" https://domain.fi`
   JA etusivun teksti: elävä domain + otsikko ≠ myy. Jos leipäteksti sanoo
   "ei uusia asiakkaita/nostoja" tms. → HYLKÄÄ ja dokumentoi (Risicum-oppi).
@@ -124,7 +132,14 @@ ajatusviivoja, ei malli-/työkalunimiä.
 1. `python gen_site.py` — sivumäärän pitää kasvaa. Uusi kategoria tulee
    automaattisesti Kaikki kategoriat -sivulle ja hakuindeksiin.
    **HAETUIMMAT-listaan (etusivun 6 kärkeä) EI kosketa** (Antonin päätös).
-2. `git add -A && git commit` (suomenkielinen viesti) `&& git pull --rebase && git push`
+2. `git add` VAIN eksplisiittisillä poluilla — **`git add -A` on kielletty**
+   (Antonin sääntö): tässä reposta kirjoittaa myös päätyösessio, ja -A lakaisee
+   mukaan toisen keskeneräiset, vahvistamattomat tiedostot. Käytä `git add -u`
+   (jo seuratut muutokset) + uusien polkujen nimeäminen käsin. Sitten
+   `git commit` (suomenkielinen viesti) `&& git pull --rebase && git push`.
+   **Ennen committia:** `grep -c langsw index.html` pitää palauttaa 1. Jos
+   palauttaa 0, kohta 0 jäi ajamatta ja olet poistamassa kielikytkimen KAIKILTA
+   sivustolta (4.8.2026: näin kävi, ja liveltä puuttui lippu 1100+ sivulta).
 3. Varmista live OIKEASTI: ennen pushia `git status --short` EI saa näyttää
    yhtään `??`-riviä poluissa `<vertical>/`, `yritys/<vertical>/`, `sv/` tai
    `data/` — uudet hakemistot ovat untracked eikä pelkkä tunnettujen polkujen
