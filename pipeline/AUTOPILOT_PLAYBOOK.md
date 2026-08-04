@@ -75,6 +75,18 @@ Agentin ohjeet (pakolliset):
 - ÄLÄ KOSKAAN kuvaa toisen yhtiön sivua väärän yhtiön tiedostoon (agentit ovat
   keksineet "uudelleenohjauksia" kilpailijalle kun haku epäonnistui — portti
   nappaa tämän).
+- **Väite "palvelu on rikki" vaatii HTTP-koodin todisteeksi.** Älä koskaan
+  kirjoita extractiin palvelinkatkosta, rikkinäistä varausjärjestelmää tai
+  toimimatonta skriptiä ilman, että olet ladannut kyseisen osoitteen ja
+  kirjannut sen statuskoodin evidenssiin. 4.8.2026 tikki julkaisi Huvila.netista
+  väitteen "CGI-skriptipalvelinkatkos alkaen 23.4.2025" ja pisteytti sen
+  viimeiseksi — hakuskripti palautti 200 ja 749 kohdetta, eikä moista
+  tiedotetta ollut sivustolla missään. Portti ei nappaa tätä: se tarkistaa
+  ternaarit ja domainit, ei keksittyä kertomusta. Tämä on julkaistu väite
+  oikeasta suomalaisesta yrityksestä, joten se on putken vakavin virhetyyppi.
+- Jos hinta tai luku "ei näy", tarkista merkintätapa ennen kuin väität sitä
+  puuttuvaksi: hinnat voivat olla `&euro;`-entiteettinä, jolloin pelkkää
+  euromerkkiä etsivä haku antaa nollatuloksen täydeltä hinnastolta.
 
 ## 5. PORTTI: check_extracts
 
