@@ -114,6 +114,8 @@ MEASURED = {
     # erä 17
     "kahvilaketjut": "4.8.2026",
     "muotikaupat": "4.8.2026",
+    # erä 18
+    "sahkoautojen-lataus": "4.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

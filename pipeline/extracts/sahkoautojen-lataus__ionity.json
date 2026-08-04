@@ -1,0 +1,37 @@
+{
+  "slug": "ionity",
+  "fetched_ok": [
+    "https://www.ionity.eu/fi"
+  ],
+  "hinnoittelu_esilla": "kylla",
+  "latausverkosto_koko": "osittain",
+  "mobiilisovellus": "kylla",
+  "asiakaspalvelu_suomi": "osittain",
+  "kaytto_ilman_rekisteroitymista": "kylla",
+  "omistaja_kerrottu": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "ei",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 65},
+  "vahvuudet": [
+    "Omistajat (BMW, Ford, Hyundai, Mercedes-Benz, Volkswagen) kerrottu avoimesti suomenkielisellä sivulla",
+    "Latauksen hinta (0,39 €/kWh sovelluksella) ja kuukausitilausvaihtoehdot selkeästi esillä",
+    "IONITY App mahdollistaa lataamisen ilman tilaus- tai kuukausimaksuja"
+  ],
+  "kehityskohteet": [
+    "Latausasemien lukumäärää Suomessa ei mainita — vain eurooppalaiset kokonaisluvut (822 asemaa)",
+    "Suomenkielinen asiakaspalvelunumero tai chat-tuki ei löydy sivustolta",
+    "UKK-osiota ei ole suomenkielisellä sivustolla"
+  ],
+  "yhteenveto": "IONITY on BMW-, Ford-, Hyundai-, Mercedes-Benz- ja Volkswagen-ryhmien yhteinen eurooppalainen suurteholatausverkosto (822 asemaa, 24 maata). Suomenkielinen sivu näyttää hinnat selkeästi: sovelluksella 0,39 €/kWh ilman kuukausimaksua tai kalliimman tilauksen kautta. Asemien kontaktiton maksaminen on mahdollista ilman rekisteröintiä.",
+  "evidence": {
+    "hinnoittelu_esilla": "HAVAINTO: Etusivulla näytetään 0,39 €/kWh IONITY App-hintana sekä kuukausitilausvaihtoehdot (99,99 €/kk tai 119,99 €/vuosi). 'Ei tilaus- tai kuukausimaksuja' mainitaan app-hinnoittelussa.",
+    "latausverkosto_koko": "HAVAINTO: Sivulla näytetään '822 Asemat' ja '24' maata eurooppalaisena yhteenvetona, mutta Suomen asemamäärää ei mainita erikseen.",
+    "mobiilisovellus": "HAVAINTO: 'IONITY App' mainitaan erikseen hinnoittelusivulla ja navigaatiossa 'Lataus > App'. Sovellus ladattavissa ilmaiseksi.",
+    "asiakaspalvelu_suomi": "HAVAINTO: Sivustolla on 'Tuki FI' -linkki, mutta erilliselle tukisivulle ei päässyt. newsletter@ionity.eu mainittu uutiskirjeen peruutuksessa mutta ei asiakaspalveluna.",
+    "kaytto_ilman_rekisteroitymista": "HAVAINTO: Sivulla mainitaan EU:n AFIR-direktiivin mukainen kontaktiton maksaminen ('Ei kausi- tai ruuhkahuippuhinnoittelua'). App-lataus on ilmainen ja tilausvapaata.",
+    "omistaja_kerrottu": "HAVAINTO: Suomenkielisellä sivulla luetellaan 'BMW, Ford, Hyundai, Mercedes-Benz, Volkswagen' ja footerissa näkyy 'IONITY GmbH © 2025 IONITY GmbH'."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "k-lataus",
+  "fetched_ok": [
+    "https://k-lataus.fi",
+    "https://www.k-auto.fi/k-lataus/",
+    "https://www.k-auto.fi/yhteystiedot"
+  ],
+  "hinnoittelu_esilla": "kylla",
+  "latausverkosto_koko": "ei",
+  "mobiilisovellus": "kylla",
+  "asiakaspalvelu_suomi": "kylla",
+  "kaytto_ilman_rekisteroitymista": "kylla",
+  "omistaja_kerrottu": "osittain",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "ai_arviot": {"selkeys": 82, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 70},
+  "vahvuudet": [
+    "Yksityiskohtainen AC/DC-hinnasto päivä- ja yöhinnoin julkisesti etusivulla ilman kirjautumista",
+    "Lataus onnistuu ilman rekisteröintiä; rekisteröityneenä asiakas saa aina paremman hinnan",
+    "Asiakaspalvelu 24/7 puhelimitse (010 533 2425) kaikkina viikonpäivinä"
+  ],
+  "kehityskohteet": [
+    "Latausasemien tai -pisteiden lukumäärää Suomessa ei mainita sivustolla",
+    "Y-tunnus ei näy sivustolla, vain yritysnimi K Auto Oy footerissa",
+    "Sovelluksen App Store- ja Google Play -latauslinkit eivät ole näkyvästi etusivulla"
+  ],
+  "yhteenveto": "K-Lataus on Kesko-konsernin sähköautojen latausverkosto, joka toimii yhteistyössä St1:n, Rechargen ja IONITYn kanssa. Sivusto esittelee AC- ja DC-latauksen hinnat selkeästi sekä rekisteröityneille (0,24–0,35 €/kWh) että rekisteröitymättömille (0,34–0,45 €/kWh), ja lataus onnistuu ilman tiliä. Asiakaspalvelu on tavoitettavissa 24/7.",
+  "evidence": {
+    "hinnoittelu_esilla": "HAVAINTO: Etusivulla on julkinen hintataulukko, jossa AC-lataus rekisteröityneelle 0,24 €/kWh (päivä) ja 0,20 €/kWh (yö); DC-lataus 0,35 €/kWh. Rekisteröitymättömälle AC 0,34 €/kWh, DC 0,45 €/kWh.",
+    "latausverkosto_koko": "HAVAINTO: Sivustolla ei mainita latausasemien tai -pisteiden lukumäärää; käytetään vain ilmausta 'koko maan kattava latausverkosto'.",
+    "mobiilisovellus": "HAVAINTO: Sivustolla kehotetaan lataamaan K-Lataus-sovellus ja mainitaan 'K-Latauksen sovellus ja lataustunniste' -osio; sovellus ladattavissa ilmaiseksi.",
+    "asiakaspalvelu_suomi": "HAVAINTO: 'K-Latauksen asiakaspalvelu palvelee kaikissa K-Lataukseen liittyvissä asioissa ympäri vuorokauden.' Puhelin 010 533 2425 footerissa.",
+    "kaytto_ilman_rekisteroitymista": "HAVAINTO: 'K-Latausta voit käyttää myös ilman rekisteröitymistä, mutta rekisteröityneenä lataat aina edullisemmin.' Rekisteröitymättömien hinnat näytetään erikseen.",
+    "omistaja_kerrottu": "HAVAINTO: Footer näyttää 'K Auto Oy Tikkurilantie 123 01530 Vantaa © 2026 K Auto Oy' mutta Y-tunnusta ei mainita."
+  }
+}

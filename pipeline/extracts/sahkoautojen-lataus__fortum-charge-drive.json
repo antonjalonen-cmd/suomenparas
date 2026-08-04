@@ -1,0 +1,37 @@
+{
+  "slug": "fortum-charge-drive",
+  "fetched_ok": [
+    "https://chargedrive.com/fi-FI"
+  ],
+  "hinnoittelu_esilla": "osittain",
+  "latausverkosto_koko": "kylla",
+  "mobiilisovellus": "kylla",
+  "asiakaspalvelu_suomi": "osittain",
+  "kaytto_ilman_rekisteroitymista": "osittain",
+  "omistaja_kerrottu": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 72},
+  "vahvuudet": [
+    "Laaja verkosto: yli 7 000 latauspistettä Suomessa ja 50 000 Pohjoismaissa yhdellä sovelluksella",
+    "Fortum Latauspaketti yhdistää sähkösopimuksen, kotilatauksen ja julkisen latauksen yhdeksi kokonaisuudeksi",
+    "'Powered by Fortum' ja Fortum-brandi selkeästi esillä — yhteys Fortum Oyj:hyn näkyy"
+  ],
+  "kehityskohteet": [
+    "Yksittäisten latausasemien €/kWh-hinnat eivät näy verkkosivustolla — vain 'vaihtelevat operaattoreittain'",
+    "Latauksen aloittaminen edellyttää rekisteröitymistä (ilmainen, mutta pakollinen)",
+    "Asiakaspalvelun puhelinnumero tai aukioloajat eivät näy sivustolla"
+  ],
+  "yhteenveto": "Fortum Charge & Drive on Fortum Oyj:n sähköautojen latauspalvelu, joka yhdistää Pohjoismaat kattavan verkoston yli 7 000 pisteellä Suomessa. Palvelu toimii enimmäkseen sovelluksen kautta ja hinnat vaihtelevat latauspisteoperaattoreittain — tarkat €/kWh-hinnat näkee vasta sovelluksesta ennen latauksen aloittamista. Fortum Latauspaketti tarjoaa 20 % alennuksen pikalatauksesta.",
+  "evidence": {
+    "hinnoittelu_esilla": "HAVAINTO: Sivustolla mainitaan 'Fortum Latauspaketti tarjoaa 20 % alennuksen pikalatauksesta' ja 'Tesla-latureilla €0.10/kWh alennus' mutta yksittäisten asemien €/kWh-hintoja ei näytetä: 'Jokainen latauspisteoperaattori määrittää omat hintansa, jotka vaikuttavat sovelluksessa näkemääsi hintaan.'",
+    "latausverkosto_koko": "HAVAINTO: 'yli 7000 latauspistettä Suomessa ja yli 50,000 ympäri Pohjoismaita' mainitaan selkeästi FAQ-osiossa.",
+    "mobiilisovellus": "HAVAINTO: 'Lataa Fortum Charge & Drive -sovellus App Storesta tai Google Playsta' sekä QR-koodi etusivulla. Sovellus ilmainen.",
+    "asiakaspalvelu_suomi": "HAVAINTO: Footer-valikossa 'Asiakastuki — Ota yhteyttä' -linkki on olemassa, mutta aukioloaikoja tai puhelinnumeroa ei näytetä etusivulla tai footerissa.",
+    "kaytto_ilman_rekisteroitymista": "HAVAINTO: 'Lataa ensin sovellus ja rekisteröidy käyttäjäksi täysin ilmaiseksi' — rekisteröityminen on ilmaista mutta pakollista. RFID-avain/kortti on vaihtoehto mutta sekin tilataan sovelluksen kautta.",
+    "omistaja_kerrottu": "HAVAINTO: Footerissa lukee 'Powered by Fortum'. Palvelu on nimetty 'Fortum Charge & Drive' ja brändissä Fortum Oyj on selkeästi esillä."
+  }
+}

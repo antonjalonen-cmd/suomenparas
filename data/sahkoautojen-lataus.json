@@ -1,0 +1,1292 @@
+{
+ "slug": "sahkoautojen-lataus",
+ "nimi": "Sähköautojen lataus",
+ "nav": "Sähköautojen lataus",
+ "h1": "Suomen paras sähköautojen julkinen latauspalvelu 2026",
+ "yksikko": "latauspalvelua",
+ "lead": "Pisteytimme {n} Suomessa toimivaa julkista sähköautojen latauspalvelua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: saatko latauksen hinnan tietää ennen kuin kytket johdon?",
+ "meta_title": "Suomen paras sähköauton latauspalvelu 2026 — K-Lataus, ABC, IONITY, Fortum, Recharge, Helen pisteytettynä | Suomen Paras",
+ "meta_desc": "6 suomalaista sähköautojen julkista latauspalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Recharge on entinen Fortum Charge & Drive -infrastruktuuri.</b> Infracapital osti Fortum Oyj:ltä enemmistön pohjoismaisesta Charge & Drive -latausinfrastruktuurista. Toiminta jatkuu Recharge-nimellä (rechargeinfra.com). Fortum jatkaa omaa Charge & Drive -kuluttajapalvelua (chargedrive.com) erillisenä palveluna.",
+  "<b>K-Lataus toimii yhteistyössä St1:n ja Rechargen kanssa.</b> K-Latauksen sovelluksessa näkyvät myös kumppaniasemien pisteet. Mittauksessa arvioidaan kunkin yhtiön oma julkinen sivusto — kumppaniverkosto ei vaikuta pisteisiin suoraan.",
+  "<b>IONITY on Euroopan suurteholatausverkko.</b> IONITY GmbH on BMW-, Mercedes-, VW-, Hyundai- ja Ford-ryhmien yhteisyritys. Se erikoistuu moottoriteiden varrella sijaitseviin 350 kW suurteholatureihin pitkille matkoille."
+ ],
+ "yritykset": [
+  {
+   "slug": "helen-lataus",
+   "nimi": "Helen Lataus",
+   "domain": "helen.fi",
+   "omistaja": "Helen Oy (PRH 2630573-4) on Helsingin kaupungin kokonaan omistama energiayhtiö; Helen Lataus on yli 800 latauspisteen julkinen sähköautojen latausverkosto Suomessa; lataus Oma Helen -sovelluksella",
+   "y_tunnus": "2630573-4",
+   "rekisteroity": 2014,
+   "score": 80.9,
+   "pillars": {
+    "digitaalinen": 67.8,
+    "lapinakyvyys": 97.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 86.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "99/100",
+       "paino": 30,
+       "pisteet": 99,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näytetään alueittain: Helsinki Kantakaupunki 1 'päivähinta 7-21: alkaen 0,27 €/kWh + 2 €/h', yöhinta '0,27 €/kWh ilman aikaveloitusta'. Muu Suomi 'alkaen 0,27 €/kWh + 1 €/h ensimmäisen 3 tunnin jälkeen'. Pikalataus '0,25 €/min'. Suurteholataus '0,38 €/kWh + 0,20 €/min'."
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'yli 800 latauspistettä ympäri Suomen' ja toisaalla 'Helenin yli 800 julkista latauspistettä'."
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa Oma Helen -sovellus puhelimesi sovelluskaupasta ja rekisteröidy käyttäjäksi.' App Store- ja Google Play -linkit näkyvät sivustolla."
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Helen Lataus 24/7 asiakaspalvelu: 09 617 8035'. Palvelu on suomenkielistä ja tavoitettavissa ympäri vuorokauden."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Voit asioida Helenin julkisen latausverkoston latauspisteellä ilman, että rekisteröidyt Helen Lataus -asiakkaaksi. Tällöin lataus maksetaan joko Paylla tai kohteessa olevan maksukioskin avulla.'"
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer näyttää '© Helen Oy 2026' mutta Y-tunnusta (2630573-4) ei mainita sivustolla. Helen Oy on Helsingin kaupungin kokonaan omistama."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa Oma Helen -sovellus puhelimesi sovelluskaupasta ja rekisteröidy käyttäjäksi.' App Store- ja Google Play -linkit näkyvät sivustolla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "84/100",
+       "paino": 34,
+       "pisteet": 84,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 99,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 9473.66,
+    "cls": 0.0006300469783603319,
+    "tbt_ms": 1211.000000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Aluekohtainen hinnoittelu julkisesti esillä ilman kirjautumista: Helsinki Kantakaupunki 0,27 €/kWh + 2 €/h (päivä), Muu Suomi 0,27 €/kWh + 1 €/h, pikalataus 0,25 €/min",
+    "Yli 800 julkista latauspistettä ympäri Suomea mainitaan selkeästi; lataus mahdollista ilman rekisteröintiä Paylla tai kohteen maksukioskilla",
+    "Asiakaspalvelu 24/7 puhelimitse (09 617 8035) sekä laaja UKK-osio rekisteröinnistä, hinnoittelusta ja vianetsinnästä"
+   ],
+   "kehityskohteet": [
+    "Sähköpostia tai chat-tukea ei tarjota sähköauton latauspalveluun liittyvissä asioissa",
+    "Oma Helen -sovelluksen maksuttomuutta ei erikseen mainita lataussivuilla — 'Lataa sovelluskaupasta' ei kerro hintaa",
+    "Y-tunnus (2630573-4) ei näy sivustolla; footer näyttää vain 'Helen Oy' ilman yritystunnusta"
+   ],
+   "yhteenveto": "Helen Lataus on Helsingin kaupungin kokonaan omistaman Helen Oy:n yli 800 julkisen latauspisteen verkosto ympäri Suomea. Hinnoittelu on yksityiskohtaisesti esillä aluekohtaisesti: peruslataus 0,27 €/kWh päivällä (+ aikamaksu sijainnin mukaan), pikalataus 0,25 €/min ja suurteholataus 0,38 €/kWh + 0,20 €/min. Lataus onnistuu ilman rekisteröintiä korttimaksulla tai latausautomaatilla, ja asiakaspalvelu on tavoitettavissa 24/7 puhelimitse.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "recharge",
+   "nimi": "Recharge",
+   "domain": "rechargeinfra.com",
+   "omistaja": "Recharge AS (Norja) on pohjoismainen julkinen pikalatausverkko; Infracapital osti enemmistön Fortum Charge & Drive -infrastruktuurista ja rebrändäsi sen Recharge-nimellä; fi-sivu rechargeinfra.com/fi/",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 80.2,
+   "pillars": {
+    "digitaalinen": 93.6,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 74.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "87/100",
+       "paino": 40,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla listataan MOVE (0,33 €/kWh + 4,99 €/kk), FLOW (0,39 €/kWh, ei kuukausimaksua) ja drop-in (0,39 €/kWh, maksa kortilla). Alaviite: '*Hinnat koskevat pika- ja suurteholatureita'."
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla käytetään ilmausta 'Pohjoismaiden suurimmalla latausverkolla' mutta latausasemien tai -pisteiden lukumäärää Suomessa ei mainita erikseen."
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyvät App Store (apps.apple.com/fi/app/recharge-ev-charging) ja Google Play -latauslinkit. Sovelluksessa on latauskartta, reaaliaikainen tilainfo ja automaattiset kuitit."
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Asiakaspalvelusivulla lukee '+358 20 334 455' ja 'Asiakaspalvelumme on aina saatavilla – 24/7, ympäri vuoden'. Numero on suomalainen (+358-etuliite)."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla esitetään drop-in -vaihtoehto kuvauksella 'Maksa suoraan kortilla' ilman sovellusta tai sopimusta. FLOW-tilaus on myös sopimukseton ilman kuukausimaksua."
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyy brändinimi 'Recharge' ja osoite 'Firdonkatu 2 T 63, 00520 Helsinki, Finland', mutta omistavan yhtiön virallinen nimi (Recharge AS) tai Y-tunnus ei ole esillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla näkyvät App Store (apps.apple.com/fi/app/recharge-ev-charging) ja Google Play -latauslinkit. Sovelluksessa on latauskartta, reaaliaikainen tilainfo ja automaattiset kuitit."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "76/100",
+       "paino": 34,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 87,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 3121.01,
+    "cls": 0.004689665510029422,
+    "tbt_ms": 261
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kolme hinnoitteluvaihtoehtoa esillä julkisesti: MOVE (0,33 €/kWh + 4,99 €/kk), FLOW (0,39 €/kWh ilman sopimusta) ja drop-in kortilla (0,39 €/kWh)",
+    "Lataus onnistuu ilman rekisteröintiä maksamalla suoraan kortilla drop-in -vaihtoehdolla",
+    "Asiakaspalvelu tavoitettavissa 24/7 suomalaisella numerolla +358 20 334 455 ympäri vuoden"
+   ],
+   "kehityskohteet": [
+    "Latausasemien tai -pisteiden lukumäärää Suomessa ei mainita; käytetään vain 'Pohjoismaiden suurimmalla latausverkolla' -ilmausta",
+    "Omistavan yhtiön virallinen nimi (Recharge AS, Norja) tai Y-tunnus ei näy sivustolla",
+    "Sähköpostia tai chat-tukea ei tarjota; yhteydenotto mahdollista vain puhelimitse tai verkkolomakkeella"
+   ],
+   "yhteenveto": "Recharge (ent. Fortum Charge & Drive) on norjalaisen Recharge AS:n ylläpitämä pohjoismainen julkinen pikalatausverkko. Suomalaiselle kuluttajalle sivusto näyttää kolme hinnoitteluvaihtoehtoa ilman kirjautumista: MOVE-tilaus (0,33 €/kWh + 4,99 €/kk), FLOW ilman sopimusta (0,39 €/kWh) ja drop-in kortilla (0,39 €/kWh). Latausasemien lukumäärää Suomessa ei kerrota, ja omistavan yhtiön tiedot puuttuvat sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "k-lataus",
+   "nimi": "K-Lataus",
+   "domain": "k-lataus.fi",
+   "omistaja": "K Auto Oy (PRH 0154578-2, Tikkurilantie 123 Vantaa) on Kesko Oyj:n autoalan tytäryhtiö; K-Lataus on K-Auton sähköautojen latausverkosto, joka on yhteistyössä St1:n ja Rechargen kanssa; kuuluu K-Auto Oy:hyn",
+   "y_tunnus": "0154578-2",
+   "rekisteroity": 1978,
+   "score": 74.7,
+   "pillars": {
+    "digitaalinen": 71.1,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 70.0,
+    "ai_laatu": 80.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "36/100",
+       "paino": 40,
+       "pisteet": 36,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on julkinen hintataulukko, jossa AC-lataus rekisteröityneelle 0,24 €/kWh (päivä) ja 0,20 €/kWh (yö); DC-lataus 0,35 €/kWh. Rekisteröitymättömälle AC 0,34 €/kWh, DC 0,45 €/kWh."
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla ei mainita latausasemien tai -pisteiden lukumäärää; käytetään vain ilmausta 'koko maan kattava latausverkosto'."
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla kehotetaan lataamaan K-Lataus-sovellus ja mainitaan 'K-Latauksen sovellus ja lataustunniste' -osio; sovellus ladattavissa ilmaiseksi."
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'K-Latauksen asiakaspalvelu palvelee kaikissa K-Lataukseen liittyvissä asioissa ympäri vuorokauden.' Puhelin 010 533 2425 footerissa."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'K-Latausta voit käyttää myös ilman rekisteröitymistä, mutta rekisteröityneenä lataat aina edullisemmin.' Rekisteröitymättömien hinnat näytetään erikseen."
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer näyttää 'K Auto Oy Tikkurilantie 123 01530 Vantaa © 2026 K Auto Oy' mutta Y-tunnusta ei mainita."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla kehotetaan lataamaan K-Lataus-sovellus ja mainitaan 'K-Latauksen sovellus ja lataustunniste' -osio; sovellus ladattavissa ilmaiseksi."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 36,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 10891.981000000002,
+    "cls": 0.001783361306096575,
+    "tbt_ms": 1278.5000000000027
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksityiskohtainen AC/DC-hinnasto päivä- ja yöhinnoin julkisesti etusivulla ilman kirjautumista",
+    "Lataus onnistuu ilman rekisteröintiä; rekisteröityneenä asiakas saa aina paremman hinnan",
+    "Asiakaspalvelu 24/7 puhelimitse (010 533 2425) kaikkina viikonpäivinä"
+   ],
+   "kehityskohteet": [
+    "Latausasemien tai -pisteiden lukumäärää Suomessa ei mainita sivustolla",
+    "Y-tunnus ei näy sivustolla, vain yritysnimi K Auto Oy footerissa",
+    "Sovelluksen App Store- ja Google Play -latauslinkit eivät ole näkyvästi etusivulla"
+   ],
+   "yhteenveto": "K-Lataus on Kesko-konsernin sähköautojen latausverkosto, joka toimii yhteistyössä St1:n, Rechargen ja IONITYn kanssa. Sivusto esittelee AC- ja DC-latauksen hinnat selkeästi sekä rekisteröityneille (0,24–0,35 €/kWh) että rekisteröitymättömille (0,34–0,45 €/kWh), ja lataus onnistuu ilman tiliä. Asiakaspalvelu on tavoitettavissa 24/7.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "ionity",
+   "nimi": "IONITY",
+   "domain": "ionity.eu",
+   "omistaja": "IONITY GmbH (Saksa) on BMW Groupin, Mercedes-Benzin, Volkswagen Groupin (Audi, Porsche), Hyundai-konsernin ja Ford Motorsin yhteisyritys; eurooppalainen suurteholatausverkosto moottoriteiden varsilla; fi-sivu ionity.eu/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 63.9,
+   "pillars": {
+    "digitaalinen": 70.7,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 17.5,
+    "ai_laatu": 72.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näytetään 0,39 €/kWh IONITY App-hintana sekä kuukausitilausvaihtoehdot (99,99 €/kk tai 119,99 €/vuosi). 'Ei tilaus- tai kuukausimaksuja' mainitaan app-hinnoittelussa."
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla näytetään '822 Asemat' ja '24' maata eurooppalaisena yhteenvetona, mutta Suomen asemamäärää ei mainita erikseen."
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'IONITY App' mainitaan erikseen hinnoittelusivulla ja navigaatiossa 'Lataus > App'. Sovellus ladattavissa ilmaiseksi."
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on 'Tuki FI' -linkki, mutta erilliselle tukisivulle ei päässyt. newsletter@ionity.eu mainittu uutiskirjeen peruutuksessa mutta ei asiakaspalveluna."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan EU:n AFIR-direktiivin mukainen kontaktiton maksaminen ('Ei kausi- tai ruuhkahuippuhinnoittelua'). App-lataus on ilmainen ja tilausvapaata."
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Suomenkielisellä sivulla luetellaan 'BMW, Ford, Hyundai, Mercedes-Benz, Volkswagen' ja footerissa näkyy 'IONITY GmbH © 2025 IONITY GmbH'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'IONITY App' mainitaan erikseen hinnoittelusivulla ja navigaatiossa 'Lataus > App'. Sovellus ladattavissa ilmaiseksi."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 97,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 5813.026,
+    "cls": 0.1172159781287971,
+    "tbt_ms": 1888.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Omistajat (BMW, Ford, Hyundai, Mercedes-Benz, Volkswagen) kerrottu avoimesti suomenkielisellä sivulla",
+    "Latauksen hinta (0,39 €/kWh sovelluksella) ja kuukausitilausvaihtoehdot selkeästi esillä",
+    "IONITY App mahdollistaa lataamisen ilman tilaus- tai kuukausimaksuja"
+   ],
+   "kehityskohteet": [
+    "Latausasemien lukumäärää Suomessa ei mainita — vain eurooppalaiset kokonaisluvut (822 asemaa)",
+    "Suomenkielinen asiakaspalvelunumero tai chat-tuki ei löydy sivustolta",
+    "UKK-osiota ei ole suomenkielisellä sivustolla"
+   ],
+   "yhteenveto": "IONITY on BMW-, Ford-, Hyundai-, Mercedes-Benz- ja Volkswagen-ryhmien yhteinen eurooppalainen suurteholatausverkosto (822 asemaa, 24 maata). Suomenkielinen sivu näyttää hinnat selkeästi: sovelluksella 0,39 €/kWh ilman kuukausimaksua tai kalliimman tilauksen kautta. Asemien kontaktiton maksaminen on mahdollista ilman rekisteröintiä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "abc-lataus",
+   "nimi": "ABC Lataus",
+   "domain": "abcasemat.fi",
+   "omistaja": "Suomen Osuuskauppojen Keskuskunta SOK (PRH 0116323-1) omistaa ABC-ketjun; ABC-lataus on S-ryhmän sähköautojen latausverkosto ABC-asemilla, S-ruokakaupoilla ja hotelleilla; Suomen suurin teholatausverkosto",
+   "y_tunnus": "0116323-1",
+   "rekisteroity": 1978,
+   "score": 63.0,
+   "pillars": {
+    "digitaalinen": 72.1,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 62.5,
+    "ai_laatu": 50.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "37/100",
+       "paino": 40,
+       "pisteet": 37,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla todetaan 'Lataushinnat voivat vaihdella asemittain... Helpoiten tarkistat hinnan ABC-mobiilista'. UKK:ssa 'Näet ajan tasalla olevan hintatiedon ABC-mobiili-sovelluksesta tai maksupäätteestä aina ennen latauksen aloittamista.' Kiinteitä hintoja ei näytetä."
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: UKK-sivulla mainitaan selkeästi 'ABC-latausasemia on lähes 400 kappaletta ja niissä on yhteensä noin 2800 latauspistettä.'"
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ABC-mobiili mainitaan toistuvasti; 'Tarvitset ABC-latauksen käyttöön ABC-mobiilin. Lataa sovellus puhelimeesi.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Pääsivulla 'ABC-latauksen 24/7 asiakaspalvelu (mpm/pvm) Soita 010 7680080'."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataus maksetaan ABC-mobiili-sovelluksen avulla, tai jo lukuisilta asemilta löytyvään maksupäätteeseen suoraan maksukortilla.' Kortilla maksu mahdollista ilman rekisteröitymistä, mutta sovellus on ensisijainen tapa."
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Osittain",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 2.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla kerrotaan 'S-ryhmän oma sähköautojen latausverkosto', mutta Y-tunnusta tai SOK:n virallista rekisterinumeroa ei näytetä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ABC-mobiili mainitaan toistuvasti; 'Tarvitset ABC-latauksen käyttöön ABC-mobiilin. Lataa sovellus puhelimeesi.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 37,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 13074.013499999994,
+    "cls": 0.03888213851761847,
+    "tbt_ms": 1679.999999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Suomen suurin teholatausverkosto: lähes 400 asemaa ja noin 2800 latauspistettä (UKK-sivu)",
+    "Asiakaspalvelu 24/7 puhelimitse (010 7680080) kaikkina viikonpäivinä",
+    "ABC-mobiililla voi maksaa, seurata varaustilannetta ja aloittaa latauksen etänä"
+   ],
+   "kehityskohteet": [
+    "Latauksen hintoja ei näy verkkosivustolla — tiedot vain sovelluksessa tai maksupäätteellä",
+    "Hinnat vaihtelevat asemittain alueosuuskauppojen mukaan, mikä hankaloittaa vertailua",
+    "Y-tunnus tai SOK:n virallinen yritystieto ei näy sivustolla"
+   ],
+   "yhteenveto": "ABC-lataus on S-ryhmän Suomen suurin teholatausverkosto, jossa on lähes 400 asemaa ja noin 2800 latauspistettä. Latauksen hinnat vaihtelevat asemittain alueosuuskauppojen mukaan eikä niitä julkisteta verkkosivustolla — hinta tarkistetaan sovelluksesta tai maksupäätteeltä. Asiakaspalvelu on avoinna 24/7 puhelimitse.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "fortum-charge-drive",
+   "nimi": "Fortum Charge & Drive",
+   "domain": "chargedrive.com",
+   "omistaja": "Fortum Oyj (PRH 1463611-4, Helsinki; Suomen valtio enemmistöomistajana) operoi Charge & Drive -latauspalvelua suomalaisille sähköautoilijoille; chargedrive.com ohjaa fi-FI-sivulle automaattisesti",
+   "y_tunnus": "1463611-4",
+   "rekisteroity": 1998,
+   "score": 61.6,
+   "pillars": {
+    "digitaalinen": 72.8,
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "41/100",
+       "paino": 40,
+       "pisteet": 41,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla mainitaan 'Fortum Latauspaketti tarjoaa 20 % alennuksen pikalatauksesta' ja 'Tesla-latureilla €0.10/kWh alennus' mutta yksittäisten asemien €/kWh-hintoja ei näytetä: 'Jokainen latauspisteoperaattori määrittää omat hintansa, jotka vaikuttavat sovelluksessa näkemääsi hintaan.'"
+      },
+      {
+       "mittari": "Latausasemien tai -pisteiden määrä Suomessa kerrottu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'yli 7000 latauspistettä Suomessa ja yli 50,000 ympäri Pohjoismaita' mainitaan selkeästi FAQ-osiossa."
+      },
+      {
+       "mittari": "Mobiilisovellus saatavilla ilmaiseksi (iOS/Android)",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa Fortum Charge & Drive -sovellus App Storesta tai Google Playsta' sekä QR-koodi etusivulla. Sovellus ilmainen."
+      },
+      {
+       "mittari": "Suomenkielinen asiakaspalvelu kuvattu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer-valikossa 'Asiakastuki — Ota yhteyttä' -linkki on olemassa, mutta aukioloaikoja tai puhelinnumeroa ei näytetä etusivulla tai footerissa."
+      },
+      {
+       "mittari": "Lataus mahdollista ilman pakollista tiliä tai sopimusta",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa ensin sovellus ja rekisteröidy käyttäjäksi täysin ilmaiseksi' — rekisteröityminen on ilmaista mutta pakollista. RFID-avain/kortti on vaihtoehto mutta sekin tilataan sovelluksen kautta."
+      },
+      {
+       "mittari": "Omistava yhtiö tai Y-tunnus esillä sivustolla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa lukee 'Powered by Fortum'. Palvelu on nimetty 'Fortum Charge & Drive' ja brändissä Fortum Oyj on selkeästi esillä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Lataa Fortum Charge & Drive -sovellus App Storesta tai Google Playsta' sekä QR-koodi etusivulla. Sovellus ilmainen."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 41,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 11816.780124999997,
+    "cls": 0,
+    "tbt_ms": 1098.4339200000013
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja verkosto: yli 7 000 latauspistettä Suomessa ja 50 000 Pohjoismaissa yhdellä sovelluksella",
+    "Fortum Latauspaketti yhdistää sähkösopimuksen, kotilatauksen ja julkisen latauksen yhdeksi kokonaisuudeksi",
+    "'Powered by Fortum' ja Fortum-brandi selkeästi esillä — yhteys Fortum Oyj:hyn näkyy"
+   ],
+   "kehityskohteet": [
+    "Yksittäisten latausasemien €/kWh-hinnat eivät näy verkkosivustolla — vain 'vaihtelevat operaattoreittain'",
+    "Latauksen aloittaminen edellyttää rekisteröitymistä (ilmainen, mutta pakollinen)",
+    "Asiakaspalvelun puhelinnumero tai aukioloajat eivät näy sivustolla"
+   ],
+   "yhteenveto": "Fortum Charge & Drive on Fortum Oyj:n sähköautojen latauspalvelu, joka yhdistää Pohjoismaat kattavan verkoston yli 7 000 pisteellä Suomessa. Palvelu toimii enimmäkseen sovelluksen kautta ja hinnat vaihtelevat latauspisteoperaattoreittain — tarkat €/kWh-hinnat näkee vasta sovelluksesta ennen latauksen aloittamista. Fortum Latauspaketti tarjoaa 20 % alennuksen pikalatauksesta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "4.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Latausten hinnoittelu (€/kWh tai €/min) julkisesti esillä (30), latausasemien tai -pisteiden määrä Suomessa kerrottu (20), mobiilisovellus saatavilla ilmaiseksi (iOS/Android) (20), suomenkielinen asiakaspalvelu kuvattu (15), lataus mahdollista ilman pakollista tiliä tai sopimusta (10), omistava yhtiö tai Y-tunnus esillä sivustolla (5)"
+}
