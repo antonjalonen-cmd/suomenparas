@@ -1,41 +1,49 @@
 {
-  "slug": "alvadi",
-  "fetched_ok": [
-    "https://www.alvadi.fi/",
-    "https://www.alvadi.fi/toimitusehdot/",
-    "https://www.alvadi.fi/asiakaspalvelu/",
-    "https://www.alvadi.fi/osat/jarruosat/"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "yhteensopivuushaku": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {"selkeys": 74, "hintojen_loydettavyys": 82, "sisallon_kattavuus": 70},
-  "vahvuudet": [
-    "Tuotehinnat selkeästi esillä kirjautumatta — kategoriasivu listaa hinnat suoraan (esim. 333,32 €, 820,17 €)",
-    "Toimitusehdot kattavat: pakettiautomaattitoimitus ilmainen yli 80 €, kotipaketti yli 150 €, alle rajan 4,99 €",
-    "Ajoneuvokohtainen haku: rekisterinumerohaku sekä osa- ja OEM-numerohaku"
-  ],
-  "kehityskohteet": [
-    "Arvostelut ovat vain ALVADIn omasta arvostelusystemistä — riippumatonta Trustpilot- tai Trusted Shops -merkintää ei löydy",
-    "Yhtiö on virolainen (Alvadi OÜ, reg. 11487376, Tallinn) eikä suomalainen Y-tunnus ole saatavilla",
-    "Chat-tukea tai pikaviestimahdollisuutta ei mainita asiakaspalvelusivulla"
-  ],
-  "yhteenveto": "ALVADI on virolainen autovaraosaverkkokauppa, joka palvelee suomalaisia asiakkaita suomenkielisellä sivustolla. Tuotehinnat ovat selkeästi esillä ja toimitusehdot yksityiskohtaiset, mutta riippumatonta asiakasarviointia tai suomalaista Y-tunnusta ei ole julkaistu.",
-  "evidence": {
-    "hinnat_esilla": "Jarruosat-kategoriasivulta (alvadi.fi/osat/jarruosat/): tuotteet listattu hinnoin esim. '333,32 EUR', '820,17 EUR', '54,41 EUR' — hinnat näkyvät kirjautumatta.",
-    "toimitus_kerrottu": "Toimitusehdot-sivulta: 'Toimitus pakettiautomaattiin ILMAINEN yli 80.00 EUR tilauksille. Kotiinkuljetus ILMAINEN yli 150.00 EUR tilauksille. Alle rajan toimituskulut 4,99 EUR.'",
-    "palautusehdot_saatavilla": "Toimitusehdot-sivulta: '14 päivän rahat takaisin -oikeus. Jos et ole tyytyväinen tuotteeseen, voit palauttaa sen 14 päivän kuluessa. Palautuskulut maksaa asiakas.'",
-    "yhteensopivuushaku": "Etusivulta: 'Löydä autoosi sopivat osat rekisterinumerolla' sekä OEM- ja osanumerohaku. Kategoriasivu myös mahdollistaa ajoneuvon valinnan.",
-    "y_tunnus_esilla": "HAVAINTO: Toimitusehdoissa mainitsee 'ALVADI OÜ, reg. 11487376, Majaka 10, Tallinn, Eesti (Viro)' — virolainen rekisterinumero, ei suomalainen Y-tunnus.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla on 'Arvostelut ALVADIsta' -osio, joka näyttää sisäisiä arvosteluja. Trustpilot-, Google Reviews- tai Trusted Shops -widgettiä ei löydy etusivulta eikä toimitusehdoista."
-  }
+ "slug": "alvadi",
+ "fetched_ok": [
+  "https://alvadi.fi/fi/",
+  "https://alvadi.fi/fi/info/delivery",
+  "https://alvadi.fi/fi/info/contact",
+  "https://alvadi.fi/fi/info/faq",
+  "https://alvadi.fi/fi/varaosat/jarrulevy/"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "osittain",
+ "yhteensopivuushaku": "kylla",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 64, "hintojen_loydettavyys": 76, "sisallon_kattavuus": 68},
+ "vahvuudet": [
+  "Tuotehinnat näkyvät kirjautumatta osakohtaisilla listasivuilla, esimerkiksi jarrulevyt 21.44 eur, 26.41 eur ja 35.86 eur, ja hinnat on merkitty suoraan tuoteriville",
+  "Toimitustavat esitetään taulukkona hintoineen ja toimitusaikoineen: Posti pakettiautomaatti alkaen 9.90 eur (1-6 työpäivää), PostNord Collect alkaen 10.01 eur (1-2 työpäivää), International Post alkaen 8.81 eur, ja toimitus on ilmainen yli 80.00 euron tilauksille",
+  "Yhteystietosivulla puhelinnumero +358 9315 888 39, aukioloajat ma-pe 9:00-18:00 ja la 10:00-15:00 sekä palvelukielet suomi, venäjä ja englanti"
+ ],
+ "kehityskohteet": [
+  "Palautusehdoista kerrotaan vain menettely: usein kysytyissä kysymyksissä ohjataan lähettämään sähköposti osoitteeseen return@alvadi.ee ja liittämään tilausnumero, tuotekoodi ja palautuksen syy, mutta palautusaikaa tai takuuehtoja ei kerrota",
+  "Riippumatonta arviolähdettä ei ole: sivustolla näkyvät vain ALVADIn omat arvostelut, eikä Trustpilot- tai Trusted Shops -merkintää löydy",
+  "Suomenkielinen käännös on paikoin konekäännöksen tasoa, esimerkiksi 'Sähkoposti', 'Venejä' ja 'Tilauksen tekeminen verkkokaupassa edellytä rekisteröitymistä', mikä heikentää luotettavuusvaikutelmaa"
+ ],
+ "yhteenveto": "ALVADI on virolaisen Alvadi OÜ:n autovaraosaverkkokauppa, joka palvelee suomalaisia asiakkaita suomenkielisellä sivustolla ja suomalaisella puhelinnumerolla. Hinnat ja toimituskulut ovat avoimesti esillä kirjautumatta, ja yhteystiedoissa kerrotaan sekä virolainen rekisterinumero että suomalaismuotoinen ALV-tunnus. Palautusehdoista kerrotaan vain menettely ilman määräaikaa, eikä riippumatonta arviolähdettä ole.",
+ "evidence": {
+  "hinnat_esilla": "Osakohtaiselta listasivulta alvadi.fi/fi/varaosat/jarrulevy/ (sivu latautuu kirjautumatta): tuoteriveillä hinnat '21.44 eur', '26.41 eur', '35.86 eur', '44.68 eur', '50.66 eur'.",
+  "toimitus_kerrottu": "Sivulta alvadi.fi/fi/info/delivery toimitustaulukko: 'International Post — Postitoimisto — 5 työpäivä — Alkaen 8.81 eur — Ilmainen toimitus: Ei', 'Posti — Pakettiautomaatit — 1 - 6 työpäivä — Alkaen 9.90 eur — Alkaen 80.00 eur', 'PostNord Collect — Pakettiautomaatit — 1 - 2 työpäivä — Alkaen 10.01 eur — Alkaen 80.00 eur'. Sivun otsikkonosto: 'Ilmainen toimitus PostNord Collectin tai Postin kautta yli 80.00 eur tilauksille'.",
+  "palautusehdot_saatavilla": "HAVAINTO: Usein kysytyissä kysymyksissä (alvadi.fi/fi/info/faq) kohta 'Jos mä haluan palauta tuotteen?': 'muista ilmoittaa asiasta asiakasapalveluun lähettämällä meille sähköpostia osoitteeseen return@alvadi.ee. Kirjoita kirjeessä: - Tilaus - tai laskunumero - Tuotekoodi - Palautuksen syy'. Palautusaikaa, kuluja tai takuuehtoja ei mainita.",
+  "yhteensopivuushaku": "Etusivun hakukenttä: 'Hae tuotenumerolla, tuotenimellä tai OEM koodilla' ja 'Syötä tuotenumero (alkuperäinen, valmistajan tai ALVADI koodi)'. Osasivuilla ajoneuvon valinta merkkiluettelosta.",
+  "y_tunnus_esilla": "HAVAINTO: Yhteystietosivulla alvadi.fi/fi/info/contact lukee 'Alvadi OÜ Reg nr.: EE101288462, VAT: FI29400083'. Sivustolla näkyy siis suomalaismuotoinen ALV-tunnus, mutta ei Y-tunnukseksi nimettynä, ja yhtiö on virolainen (Majaka 10, Tallinn 11412, Estonia).",
+  "riippumaton_arvio": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa hauilla trustpilot, trusted shops. Sivustolla on oma 'Arvostelut ALVADIsta' -osio, jossa näkyy asiakkaiden nimiä ja päiväyksiä, mutta arviot ovat ALVADIn omalla sivustolla eivätkä riippumattomassa palvelussa.",
+  "puhelin_esilla": "Yhteystietosivulta: 'Puhelin (+358) 9315 888 39', sama numero myös sivuston ylätunnisteessa muodossa 'Soittakaa +358 9315 888 39'.",
+  "email_esilla": "Usein kysytyissä kysymyksissä palautusosoite 'return@alvadi.ee'. Yhteystietosivulla sähköpostikenttä on piilotettu ('Sähkoposti [hidden]').",
+  "chat_mainittu": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa haulla chat; yhteydenotto puhelimitse ja sähköpostitse.",
+  "aukioloajat_esilla": "Yhteystietosivulta: 'Aukioloajat M-P 9:00 - 18:00, L 10:00 - 15:00, Sun Suljettu'.",
+  "ukk_osio": "Sivu alvadi.fi/fi/info/faq 'Usein kysytyt kysymykset' aihealueittain: Tärkeintä, Myyntiehdot, Neuvonantaminen, Luotto ja palautus, Muut kysymykset.",
+  "mobiilisovellus": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa hauilla play.google ja apps.apple; mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-04"
 }

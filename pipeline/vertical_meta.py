@@ -2006,17 +2006,23 @@ META["autotarvikkeet-verkossa"] = {
     "lead": ("Pisteytimme {n} autovaraosien ja -tarvikkeiden verkkokauppaa {m} mittarilla: "
              "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
              "näetkö hinnan ja toimituskulut ennen kuin syötät maksukorttisi tiedot?"),
-    "meta_title": "Suomen paras autotarvikeverkkokauppa 2026 — Motonet, Biltema, Autodoc, Motointegrator, ALVADI, EU Varaosat pisteytettynä | Suomen Paras",
+    "meta_title": "Suomen paras autotarvikeverkkokauppa 2026 — Motonet, Motointegrator, ALVADI, Autodoc, Biltema pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} autovaraosa- ja autotarvikeverkkokauppaa pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),
     "notes": [
         ("<b>Motonet on ainoa suomalainen toimija.</b> Motonet Oy (Broman Group) on Suomessa "
          "perustettu ja PRH:ssa rekisteröity yhtiö, jolla on yli 41 tavarataloa Suomessa. "
-         "Muut viisi palvelua ovat ulkomaisten yhtiöiden suomenkielisiä verkkokauppoja."),
+         "Muut neljä palvelua ovat ulkomaisten yhtiöiden suomenkielisiä verkkokauppoja."),
         ("<b>Autodoc ja Motointegrator ovat eurooppalaisia suurverkkokauppoja.</b> Saksalainen "
-         "Autodoc SE (yli 6,7 miljoonaa tuotetta, 27 maata) ja puolalaisen Auto Partner SA:n "
-         "Motointegrator (lähes 5 miljoonaa osaa) ovat Euroopan suurimpia autovaraosatoimittajia. "
+         "Autodoc SE (yli 6,7 miljoonaa tuotetta, 27 maata) ja Motointegrator (lähes 5 miljoonaa "
+         "osaa), jonka sopimusehdoissa myyjäksi nimetään saksalainen CLEVERLOG-AUTOTEILE GmbH, "
+         "ovat Euroopan suurimpia autovaraosakauppoja. "
          "Kummallakaan ei ole suomalaista Y-tunnusta, mutta molemmilla on suomenkielinen palvelu."),
+        ("<b>EU Varaosat karsittiin: se on sama yhtiö kuin Autodoc.</b> euvaraosat.fi:n omissa "
+         "toimitusehdoissa sopimusosapuoleksi nimetään AUTODOC SE (ALV-tunniste DE260634589, "
+         "kaupparekisteri HRB 247677 B) ja verkkosivuksi www.autodoc.fi. Kaksi saman yhtiön "
+         "kauppapaikkaa samassa vertailussa antaisi sille kaksi sijaa, joten mukana on vain "
+         "Autodoc."),
         ("<b>Biltema myy muutakin kuin autovaraosia.</b> Biltema on pohjoismainen tavaratalo, "
          "jonka valikoimaan kuuluvat myös MP, veneily, koti ja vapaa-aika. "
          "Kategoria mittaa vain autoilu- ja MP-osiota."),

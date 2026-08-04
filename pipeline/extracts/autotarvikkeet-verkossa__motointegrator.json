@@ -1,41 +1,48 @@
 {
-  "slug": "motointegrator",
-  "fetched_ok": [
-    "https://www.motointegrator.fi/",
-    "https://www.motointegrator.fi/cms/info/toimitustavat",
-    "https://www.motointegrator.fi/cms/info/palautusehdot",
-    "https://www.motointegrator.fi/cms/info/asiakaspalvelu"
-  ],
-  "hinnat_esilla": "osittain",
-  "toimitus_kerrottu": "osittain",
-  "palautusehdot_saatavilla": "kylla",
-  "yhteensopivuushaku": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "kylla",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 62, "sisallon_kattavuus": 75},
-  "vahvuudet": [
-    "Trusted Shops -sertifioitu: arvosana 4.76/5 perustuen 34 arvosteluun — riippumaton laaduntae",
-    "Selkeä 30 päivän palautusoikeus mainittu bannerissa suoraan etusivulla kirjautumatta",
-    "Laaja yhteensopivuushaku: rekisterinumerohaku sekä merkki/malli/vuosi-valitsin useimmille ajoneuvoille"
-  ],
-  "kehityskohteet": [
-    "Tuotehinnat eivät ole varmennettavissa staattisesta HTML:stä — tarvitaan JavaScript-renderöinti",
-    "Toimituskuluista mainitaan 'Ilmainen toimitus' mutta tarkka hinnoittelu alle rajan jää epäselväksi",
-    "Yhtiön taustatietoa (Y-tunnus, kotimaa, omistaja) ei ole julkaistu sivustolla"
-  ],
-  "yhteenveto": "Motointegrator on puolalaisen Auto Partner SA:n eurooppalainen autovaraosaverkkokauppa, joka toimii Suomessa. Sivustolla on Trusted Shops -sertifiointi ja selkeä palautusoikeus, mutta tuotehinnat vaativat JavaScript-renderöinnin eikä yhtiötietoja ole julkaistu.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivun staattisessa HTML:ssä ei näy tuotehintoja — sivusto käyttää React/SPA-arkkitehtuuria joka lataa hinnat JS:n kautta. Kategoriasivu ei ollut saavutettavissa staattisena. Osittain, koska tilaus on mahdollinen mutta hintojen löydettävyys edellyttää JS:ää.",
-    "toimitus_kerrottu": "Etusivulta: 'Ilmainen toimitus' mainitaan bannerissa, mutta tarkkoja toimituskulusummia (euromäärää alle rajan tai eri toimitustavoille) ei löydy ladatuista staattisista sivuista. Osittain.",
-    "palautusehdot_saatavilla": "Etusivun bannerissa: '30 päivän palautusoikeus'. Palautusehdot-sivu kertoo menettelytavat yksityiskohtaisemmin — täysi palautusoikeus 30 päivän ajan ostopäivästä.",
-    "yhteensopivuushaku": "Etusivulta: 'ETSI AUTON VARAOSIA REKISTERINUMERON MUKAAN' -kenttä ja 'tai valitse ajoneuvosi: Valitse merkki / Valitse malli / Valitse vuosi'.",
-    "y_tunnus_esilla": "HAVAINTO: Ladatuilla sivuilla ei mainita Y-tunnusta eikä suomalaista yritysrekisterinumeroa. Yhtiötiedoissa viitataan Auto Partner SA:han (Puola), mutta FI-rekisteröintiä ei julkaista.",
-    "riippumaton_arvio": "Etusivulta: Trusted Shops -logo ja 'Arvosana 4.76 / 5.00 (34 arvostelua)' — sertifioitu eurooppalainen ostosturvastandardi."
-  }
+ "slug": "motointegrator",
+ "fetched_ok": [
+  "https://www.motointegrator.fi/",
+  "https://www.motointegrator.fi/s/palautukset-ja-valitukset/",
+  "https://www.motointegrator.fi/s/faq-usein-kysytyt-kysymykset/",
+  "https://www.motointegrator.fi/s/yleiset-sopimusehdot/"
+ ],
+ "hinnat_esilla": "osittain",
+ "toimitus_kerrottu": "osittain",
+ "palautusehdot_saatavilla": "kylla",
+ "yhteensopivuushaku": "kylla",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "kylla",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 60, "sisallon_kattavuus": 76},
+ "vahvuudet": [
+  "Riippumaton arviolähde näkyy joka sivulla: Trusted Shops -arvosana 4,76 / 5,00 ja 34 arvostelua, linkitettynä palvelun omaan arvostelusivuun",
+  "Asiakaspalvelun tavat ja ajat kerrotaan sivuston ylätunnisteessa: puhelinpalvelu 0800 413 714 ma-pe klo 8-21, lisäksi chat, sähköposti ja maininta 'We speak English'",
+  "Ajoneuvokohtainen haku on poikkeuksellisen kattava: rekisterinumerohaku sekä merkin, mallin, tuotantovuoden ja moottoriversion (cm3, hv, kW) valinta, ja erilliset osiot henkilöautoille, kuorma-autoille, maatalouskoneille, moottoripyörille ja veneille"
+ ],
+ "kehityskohteet": [
+  "Tuotehinnat eivät näy staattisessa HTML:ssä vaan latautuvat JavaScriptilla, ja sivu ilmoittaa suoraan 'sinun on otettava JavaScript käyttöön selaimesi asetuksissa, jotta sivu toimisi oikein'",
+  "Toimituskuluja ei eritellä euromäärinä ladatuilla sivuilla: esillä on vain 'Ilmainen toimitus' -nosto ilman rajaa tai eri toimitustapojen hintoja",
+  "Myyjä on saksalainen CLEVERLOG-AUTOTEILE GmbH eikä suomalaista Y-tunnusta ole; myyjän nimi löytyy vasta yleisten sopimusehtojen kohdasta 1.1"
+ ],
+ "yhteenveto": "Motointegrator on saksalaisen CLEVERLOG-AUTOTEILE GmbH:n suomenkielinen autovaraosaverkkokauppa. Vahvinta on tavoitettavuus ja luotettavuussignaalit: Trusted Shops -arvosana 4,76/5,00 näkyy joka sivulla, puhelinpalvelu palvelee ma-pe klo 8-21 ja rinnalla on chat ja sähköposti. Palautusoikeus on 30 päivää. Hinnat ja toimituskulut jäävät kuitenkin JavaScriptin taakse, joten niitä ei näe sivun lähdekoodista eikä ilman selainta.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Ladatuilla sivuilla ei näy tuotehintoja; sivu ilmoittaa 'Pahoittelemme, mutta sinun on otettava JavaScript käyttöön selaimesi asetuksissa, jotta sivu toimisi oikein.' Hinnat renderöidään JS:lla.",
+  "toimitus_kerrottu": "HAVAINTO: Ylätunnisteessa nosto 'Ilmainen toimitus'. Euromääräistä rajaa tai eri toimitustapojen hintoja ei esiinny ladatuilla sivuilla.",
+  "palautusehdot_saatavilla": "Sivulta motointegrator.fi/s/palautukset-ja-valitukset/ nosto '30 päivän palautusoikeus'. Lisäksi erilliset sivut /s/peruuttamisehdot-ja-peruuttamislomake/ ja /s/yleiset-sopimusehdot/.",
+  "yhteensopivuushaku": "Etusivulta: 'Hae rekisterinumerolla FIN' sekä 'Hae valitsemalla ajoneuvon merkki ja malli' kentillä Tuotantovuosi, Ajoneuvon merkki, Ajoneuvon malli ja Versio (cm3, HV, kW). Ylävalikossa Henkilöautot, Kuorma-autot, Maatalous, Moottoripyörät, Veneet.",
+  "y_tunnus_esilla": "HAVAINTO: Yleisten sopimusehtojen kohta 1.1: 'Näitä CLEVERLOG-AUTOTEILE GmbH:n (jäljempänä \"Myyjä\") yleisiä sopimusehtoja sovelletaan kaikkiin tavarantoimitussopimuksiin'. Suomalaista Y-tunnusta ei mainita millään ladatulla sivulla.",
+  "riippumaton_arvio": "Sivuston ylätunnisteessa joka sivulla: 'Motointegrator 4,76 / 5.00 34 Motointegrator.fi Arvostelut & kokemukset | Trusted Shops'.",
+  "puhelin_esilla": "Ylätunnisteesta: 'Puhelinpalvelu 0800 413 714 (ma-pe klo 8-21)'.",
+  "email_esilla": "Ylätunnisteessa 'Email'-yhteydenottolinkki chatin vieressä.",
+  "chat_mainittu": "Ylätunnisteessa 'Chat'-linkki puhelinnumeron vieressä.",
+  "aukioloajat_esilla": "Ylätunnisteesta: 'Puhelinpalvelu 0800 413 714 (ma-pe klo 8-21)'.",
+  "ukk_osio": "Sivu motointegrator.fi/s/faq-usein-kysytyt-kysymykset/ on linkitetty sivuston valikosta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita eikä sovelluskauppalinkkejä ole ladatuilla sivuilla."
+ },
+ "updated": "2026-08-04"
 }

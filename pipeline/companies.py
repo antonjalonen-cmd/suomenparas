@@ -1907,11 +1907,21 @@ COMPANIES["autotarvikkeet-verkossa"] = [
          omistaja="Autodoc SE (Berliini, Saksa) — eurooppalainen autovaraosaverkkokauppa, perustettu 2008; yli 6,7 miljoonaa tuotetta 27 maassa; palvelee yli 9 miljoonaa asiakasta vuodessa; autodoc.fi on suomenkielinen sivusto, ei suomalaista Y-tunnusta"),
     dict(slug="motointegrator", nimi="Motointegrator", domain="motointegrator.fi",
          y_tunnus=None,
-         omistaja="Auto Partner SA (Puola, Varsova) — yksi Euroopan suurimmista autovaraosatoimittajista; motointegrator.fi on suomenkielinen kuluttajaverkkokauppa, jossa lähes 5 miljoonaa varaosaa; suomenkielinen puhelinpalvelu 0800 413 714 (ma-pe 8-21); ei suomalaista Y-tunnusta"),
+         # 4.8.2026: tikki kirjoitti tähän "Auto Partner SA (Puola, Varsova)" sivulta
+         # jota se ei ollut hakenut (kaikki kolme sen fetched_ok-polkua olivat 404).
+         # motointegrator.fi:n yleiset sopimusehdot nimeävät myyjäksi saksalaisen
+         # CLEVERLOG-AUTOTEILE GmbH:n. Kirjataan se mitä sivustolla lukee.
+         omistaja="CLEVERLOG-AUTOTEILE GmbH (Saksa) on motointegrator.fi:n yleisissä sopimusehdoissa nimetty myyjä ja sopimusosapuoli; Motointegrator on suomenkielinen kuluttajaverkkokauppa, jossa lähes 5 miljoonaa varaosaa; suomenkielinen puhelinpalvelu 0800 413 714 (ma-pe 8-21); Trusted Shops -arvosana 4,76/5,00; ei suomalaista Y-tunnusta"),
     dict(slug="alvadi", nimi="ALVADI", domain="alvadi.fi",
          y_tunnus=None,
          omistaja="ALVADI (viro) — virolainen autovaraosaverkkokauppa, joka palvelee useita Euroopan maita suomalainen asiakaskunta mukaan lukien; fi-sivu alvadi.fi; suomalainen asiakaspalvelunumero +358 9315 888 39; pääkonttori Majaka 10, Tallinn; ilmainen toimitus yli 80 €:n tilauksille"),
-    dict(slug="euvaraosat", nimi="EU Varaosat", domain="euvaraosat.fi",
-         y_tunnus=None,
-         omistaja="EU Varaosat — eurooppalainen autovaraosaverkkokauppa, joka toimii yli 24 maassa; fi-sivu euvaraosat.fi suomalaisille asiakkaille; valikoimassa yli 1 miljoona auton osaa; maksu Klarnalla, Trustly-e-maksulla, luottokortilla tai PayPalilla; 14 päivän palautusoikeus; ei suomalaista Y-tunnusta"),
+    # EU Varaosat (euvaraosat.fi) karsittu 4.8.2026: SAMA YHTIÖ kuin Autodoc.
+    # euvaraosat.fi:n omat toimitusehdot nimeävät sopimusosapuoleksi "AUTODOC SE,
+    # Josef-Orlopp-Straße 55, 10365 Berliini, Arvonlisäverotunniste: DE260634589,
+    # Kaupparekisteri: HRB 247677 B" ja jopa ilmoittavat verkkosivuksi
+    # www.autodoc.fi — samat tunnisteet kuin autodoc-extraktissa. Kaksi saman
+    # yhtiön kauppapaikkaa samassa kategoriassa kasvattaisi kentän keinotekoisesti
+    # ja antaisi AUTODOC SE:lle kaksi sijaa. Sama linja kuin coffeehouse.fi →
+    # raflaamo.fi ja fortum.fi → fortum.com. Tikki oli pisteyttänyt sen erikseen
+    # viimeiseksi (58,7).
 ]

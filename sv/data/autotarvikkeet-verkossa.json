@@ -5,232 +5,15 @@
  "h1": "Suomen paras autotarvikeverkkokauppa 2026",
  "yksikko": "autotarvikeverkkokauppaa",
  "lead": "Pisteytimme {n} autovaraosien ja -tarvikkeiden verkkokauppaa {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö hinnan ja toimituskulut ennen kuin syötät maksukorttisi tiedot?",
- "meta_title": "Suomen paras autotarvikeverkkokauppa 2026 — Motonet, Biltema, Autodoc, Motointegrator, ALVADI, EU Varaosat pisteytettynä | Suomen Paras",
- "meta_desc": "6 autovaraosa- ja autotarvikeverkkokauppaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "meta_title": "Suomen paras autotarvikeverkkokauppa 2026 — Motonet, Motointegrator, ALVADI, Autodoc, Biltema pisteytettynä | Suomen Paras",
+ "meta_desc": "5 autovaraosa- ja autotarvikeverkkokauppaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
-  "<b>Motonet on ainoa suomalainen toimija.</b> Motonet Oy (Broman Group) on Suomessa perustettu ja PRH:ssa rekisteröity yhtiö, jolla on yli 41 tavarataloa Suomessa. Muut viisi palvelua ovat ulkomaisten yhtiöiden suomenkielisiä verkkokauppoja.",
-  "<b>Autodoc ja Motointegrator ovat eurooppalaisia suurverkkokauppoja.</b> Saksalainen Autodoc SE (yli 6,7 miljoonaa tuotetta, 27 maata) ja puolalaisen Auto Partner SA:n Motointegrator (lähes 5 miljoonaa osaa) ovat Euroopan suurimpia autovaraosatoimittajia. Kummallakaan ei ole suomalaista Y-tunnusta, mutta molemmilla on suomenkielinen palvelu.",
+  "<b>Motonet on ainoa suomalainen toimija.</b> Motonet Oy (Broman Group) on Suomessa perustettu ja PRH:ssa rekisteröity yhtiö, jolla on yli 41 tavarataloa Suomessa. Muut neljä palvelua ovat ulkomaisten yhtiöiden suomenkielisiä verkkokauppoja.",
+  "<b>Autodoc ja Motointegrator ovat eurooppalaisia suurverkkokauppoja.</b> Saksalainen Autodoc SE (yli 6,7 miljoonaa tuotetta, 27 maata) ja Motointegrator (lähes 5 miljoonaa osaa), jonka sopimusehdoissa myyjäksi nimetään saksalainen CLEVERLOG-AUTOTEILE GmbH, ovat Euroopan suurimpia autovaraosakauppoja. Kummallakaan ei ole suomalaista Y-tunnusta, mutta molemmilla on suomenkielinen palvelu.",
+  "<b>EU Varaosat karsittiin: se on sama yhtiö kuin Autodoc.</b> euvaraosat.fi:n omissa toimitusehdoissa sopimusosapuoleksi nimetään AUTODOC SE (ALV-tunniste DE260634589, kaupparekisteri HRB 247677 B) ja verkkosivuksi www.autodoc.fi. Kaksi saman yhtiön kauppapaikkaa samassa vertailussa antaisi sille kaksi sijaa, joten mukana on vain Autodoc.",
   "<b>Biltema myy muutakin kuin autovaraosia.</b> Biltema on pohjoismainen tavaratalo, jonka valikoimaan kuuluvat myös MP, veneily, koti ja vapaa-aika. Kategoria mittaa vain autoilu- ja MP-osiota."
  ],
  "yritykset": [
-  {
-   "slug": "alvadi",
-   "nimi": "ALVADI",
-   "domain": "alvadi.fi",
-   "omistaja": "ALVADI (viro) — virolainen autovaraosaverkkokauppa, joka palvelee useita Euroopan maita suomalainen asiakaskunta mukaan lukien; fi-sivu alvadi.fi; suomalainen asiakaspalvelunumero +358 9315 888 39; pääkonttori Majaka 10, Tallinn; ilmainen toimitus yli 80 €:n tilauksille",
-   "y_tunnus": null,
-   "rekisteroity": null,
-   "score": 74.0,
-   "pillars": {
-    "digitaalinen": 69.7,
-    "lapinakyvyys": 80.0,
-    "tavoitettavuus": 67.5,
-    "ai_laatu": 75.3
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "44/100",
-       "paino": 40,
-       "pisteet": 44,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "95/100",
-       "paino": 30,
-       "pisteet": 95,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "92/100",
-       "paino": 15,
-       "pisteet": 92,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "65/100",
-       "paino": 15,
-       "pisteet": 65,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Tuotehinnat esillä kirjautumatta",
-       "arvo": "Kyllä",
-       "paino": 25,
-       "pisteet_max": 25,
-       "pisteet": 25.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Jarruosat-kategoriasivulta (alvadi.fi/osat/jarruosat/): tuotteet listattu hinnoin esim. '333,32 EUR', '820,17 EUR', '54,41 EUR' — hinnat näkyvät kirjautumatta."
-      },
-      {
-       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Toimitusehdot-sivulta: 'Toimitus pakettiautomaattiin ILMAINEN yli 80.00 EUR tilauksille. Kotiinkuljetus ILMAINEN yli 150.00 EUR tilauksille. Alle rajan toimituskulut 4,99 EUR.'"
-      },
-      {
-       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Toimitusehdot-sivulta: '14 päivän rahat takaisin -oikeus. Jos et ole tyytyväinen tuotteeseen, voit palauttaa sen 14 päivän kuluessa. Palautuskulut maksaa asiakas.'"
-      },
-      {
-       "mittari": "Ajoneuvokohtainen yhteensopivuushaku (rekisterinumero tai merkki/malli) saatavilla",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivulta: 'Löydä autoosi sopivat osat rekisterinumerolla' sekä OEM- ja osanumerohaku. Kategoriasivu myös mahdollistaa ajoneuvon valinnan."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Toimitusehdoissa mainitsee 'ALVADI OÜ, reg. 11487376, Majaka 10, Tallinn, Eesti (Viro)' — virolainen rekisterinumero, ei suomalainen Y-tunnus."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla on 'Arvostelut ALVADIsta' -osio, joka näyttää sisäisiä arvosteluja. Trustpilot-, Google Reviews- tai Trusted Shops -widgettiä ei löydy etusivulta eikä toimitusehdoista."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "74/100",
-       "paino": 34,
-       "pisteet": 74,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "82/100",
-       "paino": 33,
-       "pisteet": 82,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "70/100",
-       "paino": 33,
-       "pisteet": 70,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 44,
-    "accessibility": 95,
-    "seo": 92,
-    "best_practices": 65,
-    "lcp_ms": 4564.165999999999,
-    "cls": 4.386160619739842e-05,
-    "tbt_ms": 6030.035670000003
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Tuotehinnat selkeästi esillä kirjautumatta — kategoriasivu listaa hinnat suoraan (esim. 333,32 €, 820,17 €)",
-    "Toimitusehdot kattavat: pakettiautomaattitoimitus ilmainen yli 80 €, kotipaketti yli 150 €, alle rajan 4,99 €",
-    "Ajoneuvokohtainen haku: rekisterinumerohaku sekä osa- ja OEM-numerohaku"
-   ],
-   "kehityskohteet": [
-    "Arvostelut ovat vain ALVADIn omasta arvostelusystemistä — riippumatonta Trustpilot- tai Trusted Shops -merkintää ei löydy",
-    "Yhtiö on virolainen (Alvadi OÜ, reg. 11487376, Tallinn) eikä suomalainen Y-tunnus ole saatavilla",
-    "Chat-tukea tai pikaviestimahdollisuutta ei mainita asiakaspalvelusivulla"
-   ],
-   "yhteenveto": "ALVADI on virolainen autovaraosaverkkokauppa, joka palvelee suomalaisia asiakkaita suomenkielisellä sivustolla. Tuotehinnat ovat selkeästi esillä ja toimitusehdot yksityiskohtaiset, mutta riippumatonta asiakasarviointia tai suomalaista Y-tunnusta ei ole julkaistu.",
-   "sitoutumis_bonus": 0.5,
-   "sitoutumisindeksi": [
-    {
-     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
-     "arvo": "Esillä",
-     "pisteet": 0.5,
-     "lahde": "Toimitusehdot-sivulta: '14 päivän rahat takaisin -oikeus. Jos et ole tyytyväinen tuotteeseen, voit palauttaa sen 14 päivän kuluessa. Palautuskulut maksaa asiakas.'"
-    }
-   ]
-  },
   {
    "slug": "motonet",
    "nimi": "Motonet",
@@ -453,15 +236,15 @@
    "slug": "motointegrator",
    "nimi": "Motointegrator",
    "domain": "motointegrator.fi",
-   "omistaja": "Auto Partner SA (Puola, Varsova) — yksi Euroopan suurimmista autovaraosatoimittajista; motointegrator.fi on suomenkielinen kuluttajaverkkokauppa, jossa lähes 5 miljoonaa varaosaa; suomenkielinen puhelinpalvelu 0800 413 714 (ma-pe 8-21); ei suomalaista Y-tunnusta",
+   "omistaja": "CLEVERLOG-AUTOTEILE GmbH (Saksa) on motointegrator.fi:n yleisissä sopimusehdoissa nimetty myyjä ja sopimusosapuoli; Motointegrator on suomenkielinen kuluttajaverkkokauppa, jossa lähes 5 miljoonaa varaosaa; suomenkielinen puhelinpalvelu 0800 413 714 (ma-pe 8-21); Trusted Shops -arvosana 4,76/5,00; ei suomalaista Y-tunnusta",
    "y_tunnus": null,
    "rekisteroity": null,
-   "score": 70.6,
+   "score": 73.5,
    "pillars": {
     "digitaalinen": 59.6,
-    "lapinakyvyys": 67.5,
-    "tavoitettavuus": 82.5,
-    "ai_laatu": 69.7
+    "lapinakyvyys": 72.5,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 69.4
    },
    "breakdown": {
     "digitaalinen": {
@@ -507,7 +290,7 @@
        "pisteet_max": 25,
        "pisteet": 12.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivun staattisessa HTML:ssä ei näy tuotehintoja — sivusto käyttää React/SPA-arkkitehtuuria joka lataa hinnat JS:n kautta. Kategoriasivu ei ollut saavutettavissa staattisena. Osittain, koska tilaus on mahdollinen mutta hintojen löydettävyys edellyttää JS:ää."
+       "quote": "HAVAINTO: Ladatuilla sivuilla ei näy tuotehintoja; sivu ilmoittaa 'Pahoittelemme, mutta sinun on otettava JavaScript käyttöön selaimesi asetuksissa, jotta sivu toimisi oikein.' Hinnat renderöidään JS:lla."
       },
       {
        "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
@@ -516,7 +299,7 @@
        "pisteet_max": 20,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivulta: 'Ilmainen toimitus' mainitaan bannerissa, mutta tarkkoja toimituskulusummia (euromäärää alle rajan tai eri toimitustavoille) ei löydy ladatuista staattisista sivuista. Osittain."
+       "quote": "HAVAINTO: Ylätunnisteessa nosto 'Ilmainen toimitus'. Euromääräistä rajaa tai eri toimitustapojen hintoja ei esiinny ladatuilla sivuilla."
       },
       {
        "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
@@ -525,7 +308,7 @@
        "pisteet_max": 20,
        "pisteet": 20.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivun bannerissa: '30 päivän palautusoikeus'. Palautusehdot-sivu kertoo menettelytavat yksityiskohtaisemmin — täysi palautusoikeus 30 päivän ajan ostopäivästä."
+       "quote": "Sivulta motointegrator.fi/s/palautukset-ja-valitukset/ nosto '30 päivän palautusoikeus'. Lisäksi erilliset sivut /s/peruuttamisehdot-ja-peruuttamislomake/ ja /s/yleiset-sopimusehdot/."
       },
       {
        "mittari": "Ajoneuvokohtainen yhteensopivuushaku (rekisterinumero tai merkki/malli) saatavilla",
@@ -534,16 +317,16 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivulta: 'ETSI AUTON VARAOSIA REKISTERINUMERON MUKAAN' -kenttä ja 'tai valitse ajoneuvosi: Valitse merkki / Valitse malli / Valitse vuosi'."
+       "quote": "Etusivulta: 'Hae rekisterinumerolla FIN' sekä 'Hae valitsemalla ajoneuvon merkki ja malli' kentillä Tuotantovuosi, Ajoneuvon merkki, Ajoneuvon malli ja Versio (cm3, HV, kW). Ylävalikossa Henkilöautot, Kuorma-autot, Maatalous, Moottoripyörät, Veneet."
       },
       {
        "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
+       "arvo": "Osittain",
        "paino": 10,
        "pisteet_max": 10,
-       "pisteet": 0.0,
+       "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Ladatuilla sivuilla ei mainita Y-tunnusta eikä suomalaista yritysrekisterinumeroa. Yhtiötiedoissa viitataan Auto Partner SA:han (Puola), mutta FI-rekisteröintiä ei julkaista."
+       "quote": "HAVAINTO: Yleisten sopimusehtojen kohta 1.1: 'Näitä CLEVERLOG-AUTOTEILE GmbH:n (jäljempänä \"Myyjä\") yleisiä sopimusehtoja sovelletaan kaikkiin tavarantoimitussopimuksiin'. Suomalaista Y-tunnusta ei mainita millään ladatulla sivulla."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -552,7 +335,7 @@
        "pisteet_max": 10,
        "pisteet": 10.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivulta: Trusted Shops -logo ja 'Arvosana 4.76 / 5.00 (34 arvostelua)' — sertifioitu eurooppalainen ostosturvastandardi."
+       "quote": "Sivuston ylätunnisteessa joka sivulla: 'Motointegrator 4,76 / 5.00 34 Motointegrator.fi Arvostelut & kokemukset | Trusted Shops'."
       }
      ]
     },
@@ -565,7 +348,8 @@
        "paino": 30,
        "pisteet_max": 30,
        "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ylätunnisteesta: 'Puhelinpalvelu 0800 413 714 (ma-pe klo 8-21)'."
       },
       {
        "mittari": "Sähköposti esillä",
@@ -573,7 +357,8 @@
        "paino": 15,
        "pisteet_max": 15,
        "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ylätunnisteessa 'Email'-yhteydenottolinkki chatin vieressä."
       },
       {
        "mittari": "Chat-tuki",
@@ -581,15 +366,17 @@
        "paino": 15,
        "pisteet_max": 15,
        "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ylätunnisteessa 'Chat'-linkki puhelinnumeron vieressä."
       },
       {
        "mittari": "Aukioloajat esillä",
-       "arvo": "Osittain",
+       "arvo": "Kyllä",
        "paino": 15,
        "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ylätunnisteesta: 'Puhelinpalvelu 0800 413 714 (ma-pe klo 8-21)'."
       },
       {
        "mittari": "UKK-osio",
@@ -597,7 +384,8 @@
        "paino": 15,
        "pisteet_max": 15,
        "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu motointegrator.fi/s/faq-usein-kysytyt-kysymykset/ on linkitetty sivuston valikosta."
       },
       {
        "mittari": "Mobiilisovellus",
@@ -605,7 +393,8 @@
        "paino": 10,
        "pisteet_max": 10,
        "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita eikä sovelluskauppalinkkejä ole ladatuilla sivuilla."
       }
      ]
     },
@@ -621,16 +410,16 @@
       },
       {
        "mittari": "Hintatietojen löydettävyys",
-       "arvo": "62/100",
+       "arvo": "60/100",
        "paino": 33,
-       "pisteet": 62,
+       "pisteet": 60,
        "lahde": "AI-analyysi"
       },
       {
        "mittari": "Sisällön kattavuus",
-       "arvo": "75/100",
+       "arvo": "76/100",
        "paino": 33,
-       "pisteet": 75,
+       "pisteet": 76,
        "lahde": "AI-analyysi"
       }
      ]
@@ -647,23 +436,23 @@
    },
    "facts_extra": [],
    "vahvuudet": [
-    "Trusted Shops -sertifioitu: arvosana 4.76/5 perustuen 34 arvosteluun — riippumaton laaduntae",
-    "Selkeä 30 päivän palautusoikeus mainittu bannerissa suoraan etusivulla kirjautumatta",
-    "Laaja yhteensopivuushaku: rekisterinumerohaku sekä merkki/malli/vuosi-valitsin useimmille ajoneuvoille"
+    "Riippumaton arviolähde näkyy joka sivulla: Trusted Shops -arvosana 4,76 / 5,00 ja 34 arvostelua, linkitettynä palvelun omaan arvostelusivuun",
+    "Asiakaspalvelun tavat ja ajat kerrotaan sivuston ylätunnisteessa: puhelinpalvelu 0800 413 714 ma-pe klo 8-21, lisäksi chat, sähköposti ja maininta 'We speak English'",
+    "Ajoneuvokohtainen haku on poikkeuksellisen kattava: rekisterinumerohaku sekä merkin, mallin, tuotantovuoden ja moottoriversion (cm3, hv, kW) valinta, ja erilliset osiot henkilöautoille, kuorma-autoille, maatalouskoneille, moottoripyörille ja veneille"
    ],
    "kehityskohteet": [
-    "Tuotehinnat eivät ole varmennettavissa staattisesta HTML:stä — tarvitaan JavaScript-renderöinti",
-    "Toimituskuluista mainitaan 'Ilmainen toimitus' mutta tarkka hinnoittelu alle rajan jää epäselväksi",
-    "Yhtiön taustatietoa (Y-tunnus, kotimaa, omistaja) ei ole julkaistu sivustolla"
+    "Tuotehinnat eivät näy staattisessa HTML:ssä vaan latautuvat JavaScriptilla, ja sivu ilmoittaa suoraan 'sinun on otettava JavaScript käyttöön selaimesi asetuksissa, jotta sivu toimisi oikein'",
+    "Toimituskuluja ei eritellä euromäärinä ladatuilla sivuilla: esillä on vain 'Ilmainen toimitus' -nosto ilman rajaa tai eri toimitustapojen hintoja",
+    "Myyjä on saksalainen CLEVERLOG-AUTOTEILE GmbH eikä suomalaista Y-tunnusta ole; myyjän nimi löytyy vasta yleisten sopimusehtojen kohdasta 1.1"
    ],
-   "yhteenveto": "Motointegrator on puolalaisen Auto Partner SA:n eurooppalainen autovaraosaverkkokauppa, joka toimii Suomessa. Sivustolla on Trusted Shops -sertifiointi ja selkeä palautusoikeus, mutta tuotehinnat vaativat JavaScript-renderöinnin eikä yhtiötietoja ole julkaistu.",
+   "yhteenveto": "Motointegrator on saksalaisen CLEVERLOG-AUTOTEILE GmbH:n suomenkielinen autovaraosaverkkokauppa. Vahvinta on tavoitettavuus ja luotettavuussignaalit: Trusted Shops -arvosana 4,76/5,00 näkyy joka sivulla, puhelinpalvelu palvelee ma-pe klo 8-21 ja rinnalla on chat ja sähköposti. Palautusoikeus on 30 päivää. Hinnat ja toimituskulut jäävät kuitenkin JavaScriptin taakse, joten niitä ei näe sivun lähdekoodista eikä ilman selainta.",
    "sitoutumis_bonus": 0.5,
    "sitoutumisindeksi": [
     {
      "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
      "arvo": "Esillä",
      "pisteet": 0.5,
-     "lahde": "Etusivun bannerissa: '30 päivän palautusoikeus'. Palautusehdot-sivu kertoo menettelytavat yksityiskohtaisemmin — täysi palautusoikeus 30 päivän ajan ostopäivästä."
+     "lahde": "Sivulta motointegrator.fi/s/palautukset-ja-valitukset/ nosto '30 päivän palautusoikeus'. Lisäksi erilliset sivut /s/peruuttamisehdot-ja-peruuttamislomake/ ja /s/yleiset-sopimusehdot/."
     }
    ],
    "sertifikaatti_bonus": 1.5,
@@ -673,6 +462,230 @@
      "arvo": "Vahvistettu",
      "pisteet": 1.5,
      "lahde": "HAVAINTO: Etusivulla näkyy Trusted Shops -logo ja arvosana 4.76/5 (34 arvostelua) — eurooppalainen ostervarma-sertifikaatti."
+    }
+   ]
+  },
+  {
+   "slug": "alvadi",
+   "nimi": "ALVADI",
+   "domain": "alvadi.fi",
+   "omistaja": "ALVADI (viro) — virolainen autovaraosaverkkokauppa, joka palvelee useita Euroopan maita suomalainen asiakaskunta mukaan lukien; fi-sivu alvadi.fi; suomalainen asiakaspalvelunumero +358 9315 888 39; pääkonttori Majaka 10, Tallinn; ilmainen toimitus yli 80 €:n tilauksille",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 72.5,
+   "pillars": {
+    "digitaalinen": 69.7,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 75.0,
+    "ai_laatu": 69.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "65/100",
+       "paino": 15,
+       "pisteet": 65,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat esillä kirjautumatta",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Osakohtaiselta listasivulta alvadi.fi/fi/varaosat/jarrulevy/ (sivu latautuu kirjautumatta): tuoteriveillä hinnat '21.44 eur', '26.41 eur', '35.86 eur', '44.68 eur', '50.66 eur'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulta alvadi.fi/fi/info/delivery toimitustaulukko: 'International Post — Postitoimisto — 5 työpäivä — Alkaen 8.81 eur — Ilmainen toimitus: Ei', 'Posti — Pakettiautomaatit — 1 - 6 työpäivä — Alkaen 9.90 eur — Alkaen 80.00 eur', 'PostNord Collect — Pakettiautomaatit — 1 - 2 työpäivä — Alkaen 10.01 eur — Alkaen 80.00 eur'. Sivun otsikkonosto: 'Ilmainen toimitus PostNord Collectin tai Postin kautta yli 80.00 eur tilauksille'."
+      },
+      {
+       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Usein kysytyissä kysymyksissä (alvadi.fi/fi/info/faq) kohta 'Jos mä haluan palauta tuotteen?': 'muista ilmoittaa asiasta asiakasapalveluun lähettämällä meille sähköpostia osoitteeseen return@alvadi.ee. Kirjoita kirjeessä: - Tilaus - tai laskunumero - Tuotekoodi - Palautuksen syy'. Palautusaikaa, kuluja tai takuuehtoja ei mainita."
+      },
+      {
+       "mittari": "Ajoneuvokohtainen yhteensopivuushaku (rekisterinumero tai merkki/malli) saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun hakukenttä: 'Hae tuotenumerolla, tuotenimellä tai OEM koodilla' ja 'Syötä tuotenumero (alkuperäinen, valmistajan tai ALVADI koodi)'. Osasivuilla ajoneuvon valinta merkkiluettelosta."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla alvadi.fi/fi/info/contact lukee 'Alvadi OÜ Reg nr.: EE101288462, VAT: FI29400083'. Sivustolla näkyy siis suomalaismuotoinen ALV-tunnus, mutta ei Y-tunnukseksi nimettynä, ja yhtiö on virolainen (Majaka 10, Tallinn 11412, Estonia)."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa hauilla trustpilot, trusted shops. Sivustolla on oma 'Arvostelut ALVADIsta' -osio, jossa näkyy asiakkaiden nimiä ja päiväyksiä, mutta arviot ovat ALVADIn omalla sivustolla eivätkä riippumattomassa palvelussa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivulta: 'Puhelin (+358) 9315 888 39', sama numero myös sivuston ylätunnisteessa muodossa 'Soittakaa +358 9315 888 39'."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Usein kysytyissä kysymyksissä palautusosoite 'return@alvadi.ee'. Yhteystietosivulla sähköpostikenttä on piilotettu ('Sähkoposti [hidden]')."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa haulla chat; yhteydenotto puhelimitse ja sähköpostitse."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivulta: 'Aukioloajat M-P 9:00 - 18:00, L 10:00 - 15:00, Sun Suljettu'."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu alvadi.fi/fi/info/faq 'Usein kysytyt kysymykset' aihealueittain: Tärkeintä, Myyntiehdot, Neuvonantaminen, Luotto ja palautus, Muut kysymykset."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun lähdekoodissa 0 osumaa hauilla play.google ja apps.apple; mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "64/100",
+       "paino": 34,
+       "pisteet": 64,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "76/100",
+       "paino": 33,
+       "pisteet": 76,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 95,
+    "seo": 92,
+    "best_practices": 65,
+    "lcp_ms": 4564.165999999999,
+    "cls": 4.386160619739842e-05,
+    "tbt_ms": 6030.035670000003
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat näkyvät kirjautumatta osakohtaisilla listasivuilla, esimerkiksi jarrulevyt 21.44 eur, 26.41 eur ja 35.86 eur, ja hinnat on merkitty suoraan tuoteriville",
+    "Toimitustavat esitetään taulukkona hintoineen ja toimitusaikoineen: Posti pakettiautomaatti alkaen 9.90 eur (1-6 työpäivää), PostNord Collect alkaen 10.01 eur (1-2 työpäivää), International Post alkaen 8.81 eur, ja toimitus on ilmainen yli 80.00 euron tilauksille",
+    "Yhteystietosivulla puhelinnumero +358 9315 888 39, aukioloajat ma-pe 9:00-18:00 ja la 10:00-15:00 sekä palvelukielet suomi, venäjä ja englanti"
+   ],
+   "kehityskohteet": [
+    "Palautusehdoista kerrotaan vain menettely: usein kysytyissä kysymyksissä ohjataan lähettämään sähköposti osoitteeseen return@alvadi.ee ja liittämään tilausnumero, tuotekoodi ja palautuksen syy, mutta palautusaikaa tai takuuehtoja ei kerrota",
+    "Riippumatonta arviolähdettä ei ole: sivustolla näkyvät vain ALVADIn omat arvostelut, eikä Trustpilot- tai Trusted Shops -merkintää löydy",
+    "Suomenkielinen käännös on paikoin konekäännöksen tasoa, esimerkiksi 'Sähkoposti', 'Venejä' ja 'Tilauksen tekeminen verkkokaupassa edellytä rekisteröitymistä', mikä heikentää luotettavuusvaikutelmaa"
+   ],
+   "yhteenveto": "ALVADI on virolaisen Alvadi OÜ:n autovaraosaverkkokauppa, joka palvelee suomalaisia asiakkaita suomenkielisellä sivustolla ja suomalaisella puhelinnumerolla. Hinnat ja toimituskulut ovat avoimesti esillä kirjautumatta, ja yhteystiedoissa kerrotaan sekä virolainen rekisterinumero että suomalaismuotoinen ALV-tunnus. Palautusehdoista kerrotaan vain menettely ilman määräaikaa, eikä riippumatonta arviolähdettä ole.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Usein kysytyissä kysymyksissä (alvadi.fi/fi/info/faq) kohta 'Jos mä haluan palauta tuotteen?': 'muista ilmoittaa asiasta asiakasapalveluun lähettämällä meille sähköpostia osoitteeseen return@alvadi.ee. Kirjoita kirjeessä: - Tilaus - tai laskunumero - Tuotekoodi - Palautuksen syy'. Palautusaikaa, kuluja tai takuuehtoja ei mainita."
     }
    ]
   },
@@ -1111,233 +1124,15 @@
      "lahde": "Palautus-sivulta: 'Bilteman tuotteilla on 30 päivän palautusoikeus. Palautus on asiakkaalle maksutonta, jos palautettava tuote on virheetön ja sen voi lähettää Postin normaalipakettina. Paketin päälle on merkittävä Postin sopimustunnus 638492.'"
     }
    ]
-  },
-  {
-   "slug": "euvaraosat",
-   "nimi": "EU Varaosat",
-   "domain": "euvaraosat.fi",
-   "omistaja": "EU Varaosat — eurooppalainen autovaraosaverkkokauppa, joka toimii yli 24 maassa; fi-sivu euvaraosat.fi suomalaisille asiakkaille; valikoimassa yli 1 miljoona auton osaa; maksu Klarnalla, Trustly-e-maksulla, luottokortilla tai PayPalilla; 14 päivän palautusoikeus; ei suomalaista Y-tunnusta",
-   "y_tunnus": null,
-   "rekisteroity": null,
-   "score": 58.7,
-   "pillars": {
-    "digitaalinen": 54.2,
-    "lapinakyvyys": 67.5,
-    "tavoitettavuus": 52.5,
-    "ai_laatu": 55.7
-   },
-   "breakdown": {
-    "digitaalinen": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Suorituskyky (mobiili)",
-       "arvo": "26/100",
-       "paino": 40,
-       "pisteet": 26,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Saavutettavuus",
-       "arvo": "69/100",
-       "paino": 30,
-       "pisteet": 69,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Löydettävyys (SEO)",
-       "arvo": "100/100",
-       "paino": 15,
-       "pisteet": 100,
-       "lahde": "Tekninen mittaus"
-      },
-      {
-       "mittari": "Tekniset käytännöt",
-       "arvo": "54/100",
-       "paino": 15,
-       "pisteet": 54,
-       "lahde": "Tekninen mittaus"
-      }
-     ]
-    },
-    "lapinakyvyys": {
-     "paino_kokonaisuudesta": 30,
-     "rivit": [
-      {
-       "mittari": "Tuotehinnat esillä kirjautumatta",
-       "arvo": "Osittain",
-       "paino": 25,
-       "pisteet_max": 25,
-       "pisteet": 12.5,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Kategoriasivun staattisessa HTML:ssä tuotteiden hinnoiksi näkyi '0 €' useissa kohdissa — tämä on todennäköisesti kauppaohjelmiston seurantakoodien aiheuttama artefakti, ei todellinen tuotehinta. Todellisten hintojen näkyminen vaatii JavaScript-renderöinnin. Osittain."
-      },
-      {
-       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Toimitusehdot-sivulta: 'Ilmainen toimitus yli 150 €. Alle 150 € tilaukset: toimituskulu 5,90 €.' Toimitustapana Posti tai Matkahuolto."
-      },
-      {
-       "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
-       "arvo": "Kyllä",
-       "paino": 20,
-       "pisteet_max": 20,
-       "pisteet": 20.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Toimitusehdot-sivulta: 'Kuluttajalla on oikeus peruuttaa tilaus kahden viikon (14 päivää) kuluessa tuotteen vastaanottamisesta. Ilmoita peruutuksesta sähköpostitse ennen palautusta.'"
-      },
-      {
-       "mittari": "Ajoneuvokohtainen yhteensopivuushaku (rekisterinumero tai merkki/malli) saatavilla",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Etusivulta ja kategoriasivulta: rekisterinumerohaku mainittu; 'Hae auton rekisterinumerolla' -toiminto saatavilla. Merkki/malli-valitsin myös saatavilla."
-      },
-      {
-       "mittari": "Y-tunnus esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Yhteystiedot-sivulla ja toimitusehdoissa ei mainita Y-tunnusta eikä suomalaista yritysrekisterinumeroa. Yhtiötiedot ovat minimaaliset."
-      },
-      {
-       "mittari": "Riippumaton arviolähde esillä",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivulla, yhteystiedoissa eikä toimitusehdoissa löydy Trustpilot-, Google Reviews- tai vastaavaa ulkopuolista arviointiwidgettiä tai -linkkiä."
-      }
-     ]
-    },
-    "tavoitettavuus": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Puhelinnumero esillä",
-       "arvo": "Kyllä",
-       "paino": 30,
-       "pisteet_max": 30,
-       "pisteet": 30.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Sähköposti esillä",
-       "arvo": "Kyllä",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 15.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Chat-tuki",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Aukioloajat esillä",
-       "arvo": "Osittain",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 7.5,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "UKK-osio",
-       "arvo": "Ei",
-       "paino": 15,
-       "pisteet_max": 15,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      },
-      {
-       "mittari": "Mobiilisovellus",
-       "arvo": "Ei",
-       "paino": 10,
-       "pisteet_max": 10,
-       "pisteet": 0.0,
-       "lahde": "Verkkosivu + AI-ekstraktio"
-      }
-     ]
-    },
-    "ai_laatu": {
-     "paino_kokonaisuudesta": 20,
-     "rivit": [
-      {
-       "mittari": "Tietojen selkeys",
-       "arvo": "60/100",
-       "paino": 34,
-       "pisteet": 60,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Hintatietojen löydettävyys",
-       "arvo": "45/100",
-       "paino": 33,
-       "pisteet": 45,
-       "lahde": "AI-analyysi"
-      },
-      {
-       "mittari": "Sisällön kattavuus",
-       "arvo": "62/100",
-       "paino": 33,
-       "pisteet": 62,
-       "lahde": "AI-analyysi"
-      }
-     ]
-    }
-   },
-   "lh": {
-    "performance": 26,
-    "accessibility": 69,
-    "seo": 100,
-    "best_practices": 54,
-    "lcp_ms": 26700.11449999998,
-    "cls": 0,
-    "tbt_ms": 5266.000000000005
-   },
-   "facts_extra": [],
-   "vahvuudet": [
-    "Ilmainen toimitus yli 150 € tilauksille kerrotaan selkeästi etusivulla ja toimitusehdoissa",
-    "14 päivän palautusoikeus mainittuna toimitusehdoissa kuluttajansuojalain mukaisesti",
-    "Rekisterinumerohakumahdollisuus mainitaan; ajoneuvokohtainen yhteensopivuushaku saatavilla"
-   ],
-   "kehityskohteet": [
-    "Tuotehinnat eivät näy luotettavasti — kategoriasivuilla näkyi '0 €' osumia (tracking-koodi, ei oikea hinta)",
-    "Riippumatonta asiakasarviointipalvelua (Trustpilot, Google Reviews) ei löydy sivustolta",
-    "Y-tunnusta ei ole julkaistu sivustolla; yhtiön taustatiedot ovat niukat"
-   ],
-   "yhteenveto": "EU Varaosat on autovaraosaverkkokauppa, joka toimii yli 24 maassa. Toimitusehtoihin ja palautusoikeuteen on kirjattu asiamukaiset tiedot, mutta tuotehinnat eivät näy luotettavasti staattisissa sivuissa eikä riippumatonta asiakasarviointia löydy.",
-   "sitoutumis_bonus": 0.5,
-   "sitoutumisindeksi": [
-    {
-     "mittari": "Palautus- ja takuuehdot julkisesti saatavilla",
-     "arvo": "Esillä",
-     "pisteet": 0.5,
-     "lahde": "Toimitusehdot-sivulta: 'Kuluttajalla on oikeus peruuttaa tilaus kahden viikon (14 päivää) kuluessa tuotteen vastaanottamisesta. Ilmoita peruutuksesta sähköpostitse ennen palautusta.'"
-    }
-   ]
   }
  ],
  "updated": "4.8.2026",
  "opas": {
-  "johdanto": "Suomalaiset ostavat autovaraosia ja -tarvikkeita verkosta yhä enemmän: valikoima on laaja, hinnat usein edullisemmat kuin kivijalkamyymälässä ja oikean osan löytäminen helpottuu rekisterinumerohaulla. Tässä vertailussa on mukana kuusi verkkokauppaa, jotka myyvät kuluttajille autovaraosia, öljyjä, renkaita tai muita autotarvikkeita. Vertailu mittaa sivuston läpinäkyvyyttä ostajan näkökulmasta: näkyvätkö tuotehinnat ennen kirjautumista, kerrotaanko toimitusmaksut selkeästi, onko palautusehdot helposti löydettävissä ja löytyykö ajoneuvokohtainen yhteensopivuushaku?",
+  "johdanto": "Suomalaiset ostavat autovaraosia ja -tarvikkeita verkosta yhä enemmän: valikoima on laaja, hinnat usein edullisemmat kuin kivijalkamyymälässä ja oikean osan löytäminen helpottuu rekisterinumerohaulla. Tässä vertailussa on mukana viisi verkkokauppaa, jotka myyvät kuluttajille autovaraosia, öljyjä, renkaita tai muita autotarvikkeita. Vertailu mittaa sivuston läpinäkyvyyttä ostajan näkökulmasta: näkyvätkö tuotehinnat ennen kirjautumista, kerrotaanko toimitusmaksut selkeästi, onko palautusehdot helposti löydettävissä ja löytyykö ajoneuvokohtainen yhteensopivuushaku?",
   "huomioita": [
    "Hinnat vaativat usein JavaScriptin: osa kaupoista käyttää moderneja SPA-arkkitehtuureja, joissa tuotehinnat latautuvat vasta selaimen suoritettua JavaScript-koodin. Tämä voi hankaloittaa hintojen näkemistä hitailla yhteyksillä tai vanhoilla laitteilla.",
    "Ajoneuvokohtainen yhteensopivuushaku on kaikkialla: jokainen mitattu verkkokauppa tarjoaa rekisterinumerolla tai merkki/malli-valitsimella toimivan haun, minkä ansiosta väärän osan tilaaminen vähenee merkittävästi.",
-   "Ulkomaiset verkkokaupat ovat yleisiä: kolme kuudesta mitatusta kaupasta on ulkomaisessa omistuksessa (saksalainen, puolalainen, virolainen) eikä niillä ole suomalaista Y-tunnusta. Tämä voi vaikuttaa reklamaatiotilanteen käsittelyn sujuvuuteen.",
+   "Ulkomaiset verkkokaupat ovat yleisiä: neljä viidestä mitatusta kaupasta on ulkomaisessa omistuksessa (kaksi saksalaista, yksi ruotsalainen, yksi virolainen) eikä niillä ole suomalaista Y-tunnusta. Tämä voi vaikuttaa reklamaatiotilanteen käsittelyn sujuvuuteen.",
    "Palautusoikeudet vaihtelevat: osa kaupoista tarjoaa 30 päivän palautusoikeuden, osa vain 14 päivää. Tarkista aina verkkokaupan palautusehdot ennen tilaamista.",
    "Yhteensopivuuden varmistaminen on ostajan vastuulla: vaikka rekisterinumerohaku auttaa, tarkista aina lopullinen yhteensopivuus tuotteen tietosivulta — etenkin vanhoilla tai harvinaisilla ajoneuvoilla."
   ],
@@ -1345,7 +1140,7 @@
    "Käytä rekisterinumerohakua: nopein tapa löytää autosi varaosat on syöttää rekisterinumero hakukenttään — useimmat kaupat suodattavat automaattisesti yhteensopivat osat.",
    "Vertaile toimituskulut: ilmainen toimitus on yleensä tarjolla yli 80–160 € tilauksille. Pienemmissä tilauksissa toimituskulut voivat nostaa kokonaiskustannusta merkittävästi.",
    "Tarkista palautusehdot etukäteen: etenkin kalliimpien osien kohdalla on tärkeää tietää, kuinka pitkä palautusoikeus on ja kuka maksaa palautuskulut.",
-   "Tunnista yhtiön kotimaa: jos tarvitset reklamaatiotukea tai yhtiö on saksalainen, puolalainen tai virolainen, kuluttajaviranomaisten käytännöt voivat poiketa suomalaisten kauppojen käytännöistä."
+   "Tunnista yhtiön kotimaa: jos tarvitset reklamaatiotukea tai yhtiö on saksalainen, ruotsalainen tai virolainen, kuluttajaviranomaisten käytännöt voivat poiketa suomalaisten kauppojen käytännöistä."
   ],
   "ukk": [
    {
