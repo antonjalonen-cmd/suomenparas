@@ -1092,30 +1092,30 @@ META["autopesulat"] = {
 
 META["tavaransailytys"] = {
     "slug": "tavaransailytys",
-    "nimi": "Tavaransailytys",
-    "nav": "Tavaransailytys",
-    "h1": "Suomen paras tavaransailytys 2026",
-    "yksikko": "suomalaista tavaransailytyspalvelua",
-    "lead": ("Pisteytimme {n} suomalaista itsepalveluvarastoyhtiota {m} mittarilla: tekninen laatu, "
-             "lapinakyvyys, tavoitettavuus ja AI-laatuarvio. Tarkein kysymys: nakyvatko "
+    "nimi": "Tavaransäilytys",
+    "nav": "Tavaransäilytys",
+    "h1": "Suomen paras tavaransäilytys 2026",
+    "yksikko": "suomalaista tavaransäilytyspalvelua",
+    "lead": ("Pisteytimme {n} suomalaista itsepalveluvarastoyhtiötä {m} mittarilla: tekninen laatu, "
+             "läpinäkyvyys, tavoitettavuus ja AI-laatuarvio. Tarkein kysymys: näkyvätkö "
              "varastotilan hinta ja sopimusehdot ennen kuin annat yhteystietosi?"),
-    "meta_title": "Suomen paras tavaransailytys 2026 | vuokravarastot pisteytettyna | Suomen Paras",
-    "meta_desc": ("{n} suomalaista tavaransailytyspalvelua pisteytetty lapinakyvalla kaavalla. "
-                  "Katso mista jokainen piste tulee."),
+    "meta_title": "Suomen paras tavaransäilytys 2026 | vuokravarastot pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista tavaransäilytyspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
     "notes": [
         ("<b>Cityvarasto on Suomen suurin:</b> Cityvarasto Oyj (per. 1999) on julkinen "
          "osakeyhtiö, jolla on yli 58 toimipistettä yli 15 kaupungissa. Pelican Self Storage "
          "on Pohjoismainen ketju, jolla on 14 toimipistettä pääkaupunkiseudulla ja Turussa. "
-         "Muut listalla olevat palvelevat useammalla kuin yhdella paikkakunnalla."),
-        ("<b>Miksi listalla on vain {n} yhtiota?</b> Etsimme kansallisesti tai useassa "
+         "Muut listalla olevat palvelevat useammalla kuin yhdellä paikkakunnalla."),
+        ("<b>Miksi listalla on vain {n} yhtiötä?</b> Etsimme kansallisesti tai useassa "
          "kaupungissa toimivia kuluttajapalveluita, joilla on oma verkkosivusto. 24varasto.fi "
-         "palvelee Joensuussa ja Pirkkalassa mutta sivusto oli botti-estojen takana eika "
+         "palvelee Joensuussa ja Pirkkalassa mutta sivusto oli botti-estojen takana eikä "
          "ollut mitattavissa. Warasto Finland (warasto.fi) on B2B-logistiikkayhtiö ilman "
          "kuluttajatuotetta. Yhden kaupungin toimijat rajattiin pois."),
         ("Vertailu kuvaa yhtiöiden julkisten verkkosivujen mitattavia ominaisuuksia, ei "
-         "varastojen fyysistä kuntoa, turvallisuuslaitteita tai kulkuyhteyksistä. Todellinen "
+         "varastojen fyysistä kuntoa, turvallisuuslaitteita tai kulkuyhteyksiä. Todellinen "
          "varastotilan hinta riippuu koosta, sijainnista ja sopimuksen kestosta; vertailu "
-         "mittaa kerrotaanko hinta, ei mika se on. Demo voi sisältää affiliate-linkkejä; "
+         "mittaa kerrotaanko hinta, ei mikä se on. Demo voi sisältää affiliate-linkkejä; "
          "ne eivät vaikuta pisteisiin."),
     ],
 }
@@ -1216,8 +1216,8 @@ META["tyonvalityspalvelut"] = {
     "lead": ("Pisteytimme {n} valtakunnallista henkilöstöpalveluyhtiötä työnhakijan "
              "näkökulmasta {m} mittarilla. Tärkein kysymys: voiko avoimia paikkoja selata ja "
              "hakuprosessin ymmärtää ilman kirjautumista, ja kerrotaanko palkka?"),
-    "meta_title": "Suomen paras henkilostopalveluyhtio 2026 | tyonvalitys pisteytettyna | Suomen Paras",
-    "meta_desc": "{n} henkilostopalveluyhtiota pisteytetty tyonhakijan nakokulmasta. Katso mista jokainen piste tulee.",
+    "meta_title": "Suomen paras henkilöstöpalveluyhtiö 2026 | työnvälitys pisteytettynä | Suomen Paras",
+    "meta_desc": "{n} henkilöstöpalveluyhtiötä pisteytetty työnhakijan näkökulmasta. Katso mistä jokainen piste tulee.",
     "notes": [
         ("<b>Keitä listalla on?</b> Suurimmat valtakunnalliset henkilöstöpalveluyhtiöt: "
          "Barona, Eezy, StaffPoint, Academic Work, Bolt.Works, Manpower, Bondata ja Adecco. "
@@ -1292,7 +1292,7 @@ META["silmasairaalat"] = {
          "useita toimipisteitä ympäri Suomea ja jotka tarjoavat silmäkirurgisia palveluja "
          "verkkosivujensa kautta. Yksittäisissä kaupungeissa toimivat klinikat (OGA Tampere, "
          "Turun Silmalaser, Laser-Porus Oulu, Eiran Sairaala Helsinki) on rajattu ulkopuolelle. "
-         "Listalla on sekä erikoistuneita silmasairaalaketjuja etta suuria terveyskonserneja, "
+         "Listalla on sekä erikoistuneita silmasairaalaketjuja että suuria terveyskonserneja, "
          "joiden silmakirurgiayksikko on kuluttajalle yhtä lailla vaihtoehto."),
         ("Emme anna laakarineuvontaa emmeka suosittele toimenpidetta. Vertailu kuvaa "
          "yritysten julkisten verkkosivujen mitattavia ominaisuuksia. Silmaleikkauksen "
@@ -1667,10 +1667,10 @@ META["kauneustuotteet-verkkokaupat"] = {
              "Tärkein kysymys: naatko hinnat, toimituskulut ja ainesosaluettelot ilman "
              "kirjautumista?"),
     "meta_title": "Suomen paras kauneustuotteiden verkkokauppa 2026 — Lyko, Bangerhead, Cocopanda, KICKS, Parfym.fi, NordicFeel pisteytettyna | Suomen Paras",
-    "meta_desc": ("{n} kosmetiikan verkkokauppaa pisteytetty lapinakyvallakaavalla. "
-                  "Katso mista jokainen piste tulee."),
+    "meta_desc": ("{n} kosmetiikan verkkokauppaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
     "notes": [
-        ("<b>Kolme yhtiota ei suomalaista Y-tunnusta.</b> Lyko (ruotsalainen Lyko Group AB), "
+        ("<b>Kolmella yhtiöllä ei ole suomalaista Y-tunnusta.</b> Lyko (ruotsalainen Lyko Group AB), "
          "Parfym.fi (ruotsalainen Parfym Sverige AB) ja NordicFeel (ruotsalainen NordicFeel AB) "
          "operoivat Suomessa ulkomaisena yhtiönä ilman suomalaista tytaryhtiota. Omanikki "
          "kerrotaan jokaisen yhtion kohdalla."),
@@ -1682,9 +1682,9 @@ META["kauneustuotteet-verkkokaupat"] = {
          "toimituskulut, palautusehdot ja ainesosaluettelot ennen kuin asiakas kirjautuu tai "
          "lisaa tuotteen koriin."),
         ("<b>Ainesosaluettelot ovat kosmetiikka-asetuksen vaatimus.</b> EU-kosmetiikka-asetus "
-         "edellyttaa INCI-luettelon tuotteen pakkauksessa, mutta ei verkkokaupan sivulla. "
-         "Pisteytamme sen, tarjoaako kauppa ainesosatiedot tuotekohtaisesti myos verkossa, "
-         "mika on erityisen tarkeaa allergisoituville asiakkaille."),
+         "edellyttää INCI-luettelon tuotteen pakkauksessa, mutta ei verkkokaupan sivulla. "
+         "Pisteytämme sen, tarjoaako kauppa ainesosatiedot tuotekohtaisesti myös verkossa, "
+         "mika on erityisen tärkeää allergisoituville asiakkaille."),
     ],
 }
 
@@ -1693,14 +1693,14 @@ META["musiikkipalvelut"] = {
     "nimi": "Musiikkipalvelut",
     "nav": "Musiikki",
     "h1": "Suomen paras musiikkipalvelu 2026",
-    "yksikko": "Suomessa myytavaa musiikkipalvelua",
-    "lead": ("Pisteytimme {n} Suomessa myytavaa musiikkipalvelua {m} mittarilla. "
-             "Tairkein kysymys: kerrotaanko kuukausihinta, tilaustasojen erot ja "
-             "irtisanominen selkeasti ennen tilaamista?"),
+    "yksikko": "Suomessa myytävää musiikkipalvelua",
+    "lead": ("Pisteytimme {n} Suomessa myytävää musiikkipalvelua {m} mittarilla. "
+             "Tärkein kysymys: kerrotaanko kuukausihinta, tilaustasojen erot ja "
+             "irtisanominen selkeästi ennen tilaamista?"),
     "meta_title": "Suomen paras musiikkipalvelu 2026 | palvelut pisteytettyina | Suomen Paras",
-    "meta_desc": "{n} musiikkipalvelua pisteytetty lapinakyvalla kaavalla. Katso mista jokainen piste tulee.",
+    "meta_desc": "{n} musiikkipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
     "notes": [
-        ("<b>Kaikki kuusi palvelua ovat kansainvalisia yhtiota.</b> Spotify on ruotsalainen, "
+        ("<b>Kaikki kuusi palvelua ovat kansainvälisiä yhtiöitä.</b> Spotify on ruotsalainen, "
          "Deezer ja Qobuz ranskalaisia, loput yhdysvaltalaisten teknologiajattien palveluita. "
          "Yksikaan ei ole suomalainen. Naytamme omistajan jokaisen kohdalla."),
         ("<b>Qobuz on listan ainoa hi-res-erikoispalvelu.</b> Se on ainoa joka markkinoi "
@@ -1708,7 +1708,7 @@ META["musiikkipalvelut"] = {
          "korkealaatuista aanta lisatason ominaisuutena tai ei lainkaan."),
         ("<b>Emme arvioi musiikin maaraa tai soittolistoja.</b> Vertailu mittaa julkisten "
          "verkkosivujen mitattavia ominaisuuksia: hinnat, tilaustasojen erot, irtisanominen "
-         "ja omistajan lapinakyyvys ennen tilaamista."),
+         "ja omistajan läpinäkyvyys ennen tilaamista."),
     ],
 }
 
@@ -1717,13 +1717,13 @@ META["pelitilauspalvelut"] = {
     "nimi": "Pelitilauspalvelut",
     "nav": "Pelipalvelut",
     "h1": "Suomen paras pelitilauspalvelu 2026",
-    "yksikko": "Suomessa myytavaa pelitilauspalvelua",
-    "lead": ("Pisteytimme {n} Suomessa myytavaa pelitilauspalvelua {m} mittarilla. "
-             "Tairkein kysymys: nakyvatko kuukausihinnat per taso, pelikirjaston kuvaus "
-             "ja irtisanomisoikeus selkeasti ennen tilauksen tekemista?"),
+    "yksikko": "Suomessa myytävää pelitilauspalvelua",
+    "lead": ("Pisteytimme {n} Suomessa myytävää pelitilauspalvelua {m} mittarilla. "
+             "Tärkein kysymys: näkyvätkö kuukausihinnat per taso, pelikirjaston kuvaus "
+             "ja irtisanomisoikeus selkeästi ennen tilauksen tekemistä?"),
     "meta_title": "Suomen paras pelitilauspalvelu 2026 | Xbox, PlayStation, Nintendo | Suomen Paras",
-    "meta_desc": ("{n} pelitilauspalvelua pisteytetty lapinakyvalla kaavalla. "
-                  "Katso mista jokainen piste tulee: Xbox Game Pass, PlayStation Plus, Nintendo Switch Online ja muut."),
+    "meta_desc": ("{n} pelitilauspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee: Xbox Game Pass, PlayStation Plus, Nintendo Switch Online ja muut."),
     "notes": [
         ("<b>Kaikki kuusi palvelua ovat kansainvalisten yritysten tuotteita.</b> "
          "Microsoft, Sony ja Nintendo ovat suuria julkisesti listattuja yrityksita. "
@@ -1734,7 +1734,7 @@ META["pelitilauspalvelut"] = {
          "Suomenkielinen palvelu pisteyttaa 'kylla' suomenkielinen_palvelu-mittarilla, "
          "pelkka euro-hinnoittelu pisteyttaa 'osittain'."),
         ("<b>Emme arvioi pelikirjaston kokoa, teknista suorituskykyia tai laitteistoa.</b> "
-         "Vertailu mittaa julkisten verkkosivujen lapinakyvyytta: kerrotaanko hinnat, "
+         "Vertailu mittaa julkisten verkkosivujen läpinäkyvyyttä: kerrotaanko hinnat, "
          "tasojen erot, kirjaston sisalto ja irtisanominen ennen tilaamista?"),
     ],
 }

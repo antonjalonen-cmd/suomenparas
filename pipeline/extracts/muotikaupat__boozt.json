@@ -1,41 +1,45 @@
 {
-  "slug": "boozt",
-  "fetched_ok": [
-    "https://www.boozt.com/fi/fi",
-    "https://www.boozt.com/fi/fi/asiakaspalvelu",
-    "https://www.boozt.com/fi/fi/asiakaspalvelu/toimitus",
-    "https://www.boozt.com/fi/fi/tietoa-boozt"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "koko_opas": "osittain",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "kylla",
-  "puhelin_esilla": "ei",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 68},
-  "vahvuudet": [
-    "Toimitusehdot ja -kustannus esillä joka sivulla: 'Ilmainen toimitus yli 59 euron tilauksista'",
-    "Palautusoikeus selkeästi esillä: 'Ilmainen palautusoikeus 30 päivää' kaikilla sivuilla",
-    "Trustpilot-arviot näkyvissä asiakaspalvelu- ja tietoa-sivuilla; 24/7-chatbotti saatavilla"
-  ],
-  "kehityskohteet": [
-    "Suomalaista Y-tunnusta ei näy sivustolla; footer näyttää ruotsalaisen VAT-numeron SE 5567-10469901",
-    "Erillinen koko-opas puuttuu; multi-brand-alustalla koko-ohjeet ovat tuote- ja brändikohtaisia",
-    "Asiakaspalvelun puhelinnumero tai sähköposti ei ole julkisesti esillä; vain chat tarjolla"
-  ],
-  "yhteenveto": "Boozt on pohjoismainen muodin verkkokauppa, joka toimii Suomessa suomenkielisellä boozt.com/fi/fi-sivustolla. Toimitusehdot, -kulut ja palautusoikeus ovat selkeästi esillä kaikilla sivuilla, ja Trustpilot-arviot vahvistavat riippumattoman palautekanavan olemassaolon. Yhtiötieto näkyy ruotsalaisena VAT-numerona, ei suomalaisena Y-tunnuksena.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvissä Leijonat-kampanjatuotteiden hinnat, esim. '92.50 EUR' (alennettu 185 eurosta). Hinnat näytetään selkeästi ilman kirjautumista.",
-    "toimitus_kerrottu": "HAVAINTO: Sivuston ylätunnisteessa joka sivulla teksti 'Ilmainen toimitus yli 59 euron tilauksista | Nopea toimitus 2-5 arkipäivää'. Erillinen toimistussivu (asiakaspalvelu/toimitus) listaa toimitustavat, toimitusajan ja hinnan.",
-    "palautusehdot_saatavilla": "HAVAINTO: Sivuston ylätunnisteessa 'Ilmainen palautusoikeus 30 päivää' joka sivulla. Asiakaspalvelussa oma palautukset-osio, jossa 'Valmiiksi maksettu palautustarra' mainittu.",
-    "koko_opas": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt sivuston navigationarakentesesta. Boozt on monibrändikauppa, jossa koko-ohjeet ovat tuote- ja brändikohtaisia.",
-    "y_tunnus_esilla": "HAVAINTO: Sivuston alafooterissa teksti '© Boozt Fashion AB vat. nr. SE 5567-10469901'. Näkyy ruotsalainen ALV-tunnus, ei suomalainen Y-tunnus.",
-    "riippumaton_arvio": "HAVAINTO: Trustpilot-widgetti 'Näytä kaikki' näkyy sekä asiakaspalvelusivulla että Tietoa meistä -sivulla."
-  }
+ "slug": "boozt",
+ "fetched_ok": [
+  "https://www.boozt.com/fi/fi",
+  "https://www.boozt.com/fi/fi/asiakaspalvelu",
+  "https://www.boozt.com/fi/fi/asiakaspalvelu/toimitus",
+  "https://www.boozt.com/fi/fi/tietoa-boozt"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "koko_opas": "osittain",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 72,
+  "hintojen_loydettavyys": 80,
+  "sisallon_kattavuus": 68
+ },
+ "vahvuudet": [
+  "Toimitusehdot ja -kustannus esillä joka sivulla: 'Ilmainen toimitus yli 59 euron tilauksista'",
+  "Palautusoikeus selkeästi esillä: 'Ilmainen palautusoikeus 30 päivää' kaikilla sivuilla",
+  "Trustpilot-arviot näkyvissä asiakaspalvelu- ja tietoa-sivuilla; 24/7-chatbotti saatavilla"
+ ],
+ "kehityskohteet": [
+  "Suomalaista Y-tunnusta ei näy sivustolla; footer näyttää ruotsalaisen VAT-numeron SE 5567-10469901",
+  "Erillinen koko-opas puuttuu; multi-brand-alustalla koko-ohjeet ovat tuote- ja brändikohtaisia",
+  "Asiakaspalvelun puhelinnumero tai sähköposti ei ole julkisesti esillä; vain chat tarjolla"
+ ],
+ "yhteenveto": "Boozt on pohjoismainen muodin verkkokauppa, joka toimii Suomessa suomenkielisellä boozt.com/fi/fi-sivustolla. Toimitusehdot, -kulut ja palautusoikeus ovat selkeästi esillä kaikilla sivuilla, ja Trustpilot-arviot vahvistavat riippumattoman palautekanavan olemassaolon. Yhtiötieto näkyy ruotsalaisena VAT-numerona, ei suomalaisena Y-tunnuksena.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla näkyvissä Leijonat-kampanjatuotteiden hinnat, esim. '92.50 EUR' (alennettu 185 eurosta). Hinnat näytetään selkeästi ilman kirjautumista.",
+  "toimitus_kerrottu": "HAVAINTO: Sivuston ylätunnisteessa joka sivulla teksti 'Ilmainen toimitus yli 59 euron tilauksista | Nopea toimitus 2-5 arkipäivää'. Erillinen toimitussivu (asiakaspalvelu/toimitus) listaa toimitustavat, toimitusajan ja hinnan.",
+  "palautusehdot_saatavilla": "HAVAINTO: Sivuston ylätunnisteessa 'Ilmainen palautusoikeus 30 päivää' joka sivulla. Asiakaspalvelussa oma palautukset-osio, jossa 'Valmiiksi maksettu palautustarra' mainittu.",
+  "koko_opas": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt sivuston navigaatiorakenteesta. Boozt on monibrändikauppa, jossa koko-ohjeet ovat tuote- ja brändikohtaisia.",
+  "y_tunnus_esilla": "HAVAINTO: Sivuston alafooterissa teksti '© Boozt Fashion AB vat. nr. SE 5567-10469901'. Näkyy ruotsalainen ALV-tunnus, ei suomalainen Y-tunnus.",
+  "riippumaton_arvio": "HAVAINTO: Trustpilot-widgetti 'Näytä kaikki' näkyy sekä asiakaspalvelusivulla että Tietoa meistä -sivulla."
+ }
 }

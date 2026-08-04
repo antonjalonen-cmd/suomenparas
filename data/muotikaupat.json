@@ -80,7 +80,7 @@
        "pisteet_max": 20,
        "pisteet": 20.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston ylätunnisteessa joka sivulla teksti 'Ilmainen toimitus yli 59 euron tilauksista | Nopea toimitus 2-5 arkipäivää'. Erillinen toimistussivu (asiakaspalvelu/toimitus) listaa toimitustavat, toimitusajan ja hinnan."
+       "quote": "HAVAINTO: Sivuston ylätunnisteessa joka sivulla teksti 'Ilmainen toimitus yli 59 euron tilauksista | Nopea toimitus 2-5 arkipäivää'. Erillinen toimitussivu (asiakaspalvelu/toimitus) listaa toimitustavat, toimitusajan ja hinnan."
       },
       {
        "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
@@ -98,7 +98,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt sivuston navigationarakentesesta. Boozt on monibrändikauppa, jossa koko-ohjeet ovat tuote- ja brändikohtaisia."
+       "quote": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt sivuston navigaatiorakenteesta. Boozt on monibrändikauppa, jossa koko-ohjeet ovat tuote- ja brändikohtaisia."
       },
       {
        "mittari": "Y-tunnus tai omistava yhtiö esillä",
@@ -325,7 +325,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Footerissa, yritysstiedoissa tai muualla sivustolla ei näy Y-tunnusta 1442131-6 eikä mainintaa Ellos Finland Oy:stä. Ainoastaan © Ellos -copyright."
+       "quote": "HAVAINTO: Footerissa, yritystiedoissa tai muualla sivustolla ei näy Y-tunnusta 1442131-6 eikä mainintaa Ellos Finland Oy:stä. Ainoastaan © Ellos -copyright."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1188,7 +1188,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Koko-oppaan tai sovitusohjeen olemassaoloa ei voida vahvistaa sivulatauksen epäonnistuessa kaikilla polulla."
+       "quote": "HAVAINTO: Koko-oppaan tai sovitusohjeen olemassaoloa ei voida vahvistaa sivulatauksen epäonnistuessa kaikilla poluilla."
       },
       {
        "mittari": "Y-tunnus tai omistava yhtiö esillä",
@@ -1324,18 +1324,18 @@
  ],
  "updated": "4.8.2026",
  "opas": {
-  "johdanto": "Suomalainen muotiverkkokauppa on kahden ääripään markkina: kansainväliset jätit kuten Zalando ja H&M käyttävät teknisiä botti-estoja jotka tekevät hintojen ja ehtojen ohjelmallisesta mittaamisesta mahdotonta, kun taas pohjoismaiset vertaiskaunat Boozt ja Ellos tarjoavat kaikki tiedot suoraan avoimesti. Vertailussa on mitattu kuutta muotikauppaa sillä mitä heidän sivustoillaan oikeasti lukee: hinnat, toimitusehdot, palautusoikeus, koko-opas, omistajatiedot ja riippumattomat arvostelut.",
+  "johdanto": "Suomalainen muotiverkkokauppa on kahden ääripään markkina: kansainväliset jätit kuten Zalando ja H&M käyttävät teknisiä botti-estoja jotka tekevät hintojen ja ehtojen ohjelmallisesta mittaamisesta mahdotonta, kun taas pohjoismaiset vertaiskaupat Boozt ja Ellos tarjoavat kaikki tiedot suoraan avoimesti. Vertailussa on mitattu kuutta muotikauppaa sillä mitä heidän sivustoillaan oikeasti lukee: hinnat, toimitusehdot, palautusoikeus, koko-opas, omistajatiedot ja riippumattomat arvostelut.",
   "huomioita": [
    "Zalando ja H&M ovat käyttäneet teknisiä botti-estoja, jotka estävät tietojen ohjelmallisen tarkistuksen. Tämä ei tarkoita, ettei tietoja olisi sivustolla, mutta automaattinen mittaus ei pysty vahvistamaan niitä.",
    "Koko-opas on muotikaupassa merkittävin puute: yksikään vertailun kauppa ei tarjoa helposti löydettävää yleistä koko-opasta. Brändikohtaiset mitoitustaulukot ovat yleinen tapa, mutta ne vaativat tuotesivun avaamisen.",
-   "Ilmaisen toimituksen raja vaihtelee 50 eurosta 69 euroon. Cubus lupaa ilmaisen myymälätoimiston, Boozt tarjoaa ilmaisen kotiinkuljetuksen yli 59 euron tilauksista.",
+   "Ilmaisen toimituksen raja vaihtelee 50 eurosta 69 euroon. Cubus lupaa ilmaisen myymälätoimituksen, Boozt tarjoaa ilmaisen kotiinkuljetuksen yli 59 euron tilauksista.",
    "Palautusoikeus on jokaisessa kaupassa vähintään 30 päivää, Cubuksella jopa 100 päivää. EU:n 14 vuorokauden minimivaatimus ylitetään kaikkialla.",
    "H&M on yksi tunnetuimmista Suomessa toimivista muotiketjuista, mutta sen sivuston mittaaminen osoittautui teknisesti mahdottomaksi Akamai-suojauksen takia."
   ],
   "vinkit": [
    "Tarkista palauttamisen hinta ennen tilausta: maksuton palautus on enemmän poikkeus kuin sääntö muotikaupassa, ja palautusmaksu voi olla 3-7 euroa.",
    "Katso ilmaisen toimituksen raja ennen tilauksen tekemistä; muutaman euron lisäys ostoskoriin voi poistaa toimituskulun kokonaan.",
-   "Koko-ohjeen löydät useimmiten suoraan tuotesivulta, ei kaupan yleisestä valikosta. Jos oikean koon löytäminen on tärkeää, ala tuotesivusta eikä etusivusta."
+   "Koko-ohjeen löydät useimmiten suoraan tuotesivulta, ei kaupan yleisestä valikosta. Jos oikean koon löytäminen on tärkeää, aloita tuotesivusta eikä etusivusta."
   ],
   "ukk": [
    {
@@ -1344,7 +1344,7 @@
    },
    {
     "q": "Mitä tarkoittaa 100 päivän avoin myynti Cubuksen kohdalla?",
-    "a": "Se tarkoittaa pitkennetttyä palautusoikeutta: ostat tuotteen, ja sinulla on 100 päivää päättää pidätkö sen. EU:n laki takaa 14 päivää, mutta Cubus tarjoaa yli seitsemän kertaa pidemmän ajan."
+    "a": "Se tarkoittaa pidennettyä palautusoikeutta: ostat tuotteen, ja sinulla on 100 päivää päättää pidätkö sen. EU:n laki takaa 14 päivää, mutta Cubus tarjoaa yli seitsemän kertaa pidemmän ajan."
    },
    {
     "q": "Onko turvallista ostaa ruotsalaiselta tai norjalaiselta muotisivustolta?",

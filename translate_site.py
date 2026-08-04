@@ -65,13 +65,34 @@ def pages():
 
 
 class Segmenter(HTMLParser):
-    """Collect translatable segments from one page."""
+    """Collect translatable segments from one page.
+
+    Entiteetit (4.8.2026): HTMLParser kutsuu handle_data erikseen kummallakin
+    puolella entiteettia, joten "H&amp;M" pilkkoi lauseen kahtia ja kaannettavaksi
+    paatyi 37 sirpaletta ("Group omistaa H" + ":n lisaksi COS-..."). Ne on
+    mahdotonta kaantaa oikein, koska ruotsin sanajarjestys ei noudata sirpaleen
+    rajoja. Ratkaisu: tekstimaiset entiteetit (&amp; &quot; &#39; &nbsp;) liitetaan
+    takaisin samaan jonoon, typografiset (&mdash; &middot; &rsaquo;) jaavat
+    rajoiksi kuten ennen — silloin vanha valimuisti pysyy voimassa.
+    """
+
+    INLINE_ENTS = {"amp", "quot", "apos", "nbsp", "lt", "gt"}
+
     def __init__(self):
         super().__init__(convert_charrefs=False)
         self.stack = []
         self.segs = []
+        self.buf = []
+
+    def _flush(self):
+        if self.buf:
+            text = "".join(self.buf)
+            self.buf = []
+            if wants_translation(text):
+                self.segs.append(norm(text))
 
     def handle_starttag(self, tag, attrs):
+        self._flush()
         self.stack.append(tag)
         d = dict(attrs)
         if tag == "meta" and d.get("name") == "description" and d.get("content"):
@@ -82,14 +103,34 @@ class Segmenter(HTMLParser):
                     self.segs.append(v)
 
     def handle_endtag(self, tag):
+        self._flush()
         if self.stack and self.stack[-1] == tag:
             self.stack.pop()
+
+    def handle_entityref(self, name):
+        if self.stack and self.stack[-1] in SKIP_TAGS:
+            return
+        if name in self.INLINE_ENTS and self.buf:
+            self.buf.append(f"&{name};")
+        else:
+            self._flush()
+
+    def handle_charref(self, name):
+        if self.stack and self.stack[-1] in SKIP_TAGS:
+            return
+        if name in ("39", "34", "160") and self.buf:
+            self.buf.append(f"&#{name};")
+        else:
+            self._flush()
 
     def handle_data(self, data):
         if self.stack and self.stack[-1] in SKIP_TAGS:
             return
-        if wants_translation(data):
-            self.segs.append(norm(data))
+        self.buf.append(data)
+
+    def close(self):
+        super().close()
+        self._flush()
 
 
 def collect():
@@ -209,7 +250,11 @@ def translate_html(html, cache):
             # joten valimuistin avaimet ovat entiteettien valisia paloja. Sama
             # jako on tehtava tassa, muuten esim. "... mittausdatasta &mdash; emme
             # kirjoita ..." ei osu mihinkaan avaimeen ja jaa kokonaan suomeksi.
-            for piece in re.split(r"(&[a-zA-Z]+;|&#\d+;)", part):
+            # Sama jako kuin Segmenterissa: tekstimaiset entiteetit EIVAT ole
+            # rajoja (muuten "H&amp;M" pilkkoisi lauseen), typografiset ovat.
+            for piece in re.split(
+                    r"(&(?!amp;|quot;|apos;|nbsp;|lt;|gt;|#39;|#34;|#160;)[a-zA-Z]+;"
+                    r"|&(?!#39;|#34;|#160;)#\d+;)", part):
                 t = norm(piece)
                 if t and not piece.startswith("&") and t in cache:
                     lead = piece[:len(piece) - len(piece.lstrip())]

@@ -1,36 +1,44 @@
 {
-  "slug": "zalando",
-  "fetched_ok": ["https://www.zalando.fi/", "https://www.zalando.fi/naisten-vaatteet/", "https://www.zalando.fi/toimitus-ja-palautukset/"],
-  "hinnat_esilla": "osittain",
-  "toimitus_kerrottu": "osittain",
-  "palautusehdot_saatavilla": "osittain",
-  "koko_opas": "osittain",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "osittain",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "osittain",
-  "ai_arviot": {"selkeys": 50, "hintojen_loydettavyys": 50, "sisallon_kattavuus": 50},
-  "vahvuudet": [
-    "Euroopan suurin muodin verkkokauppa laajalla tuotevalikoimalla",
-    "Suomenkielinen domain zalando.fi osoittaa sitoutumisen suomalaisiin asiakkaisiin",
-    "Zalando Finland Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 2697196-4)"
-  ],
-  "kehityskohteet": [
-    "Sivusto on suojattu bottiesteellä: kaikki sivut palauttavat 403-virheen automaattisille lukijoille",
-    "Tietojen ohjelmallinen mittaaminen on mahdotonta botti-eston takia",
-    "Läpinäkyvyyskriteerien vahvistaminen vaatii manuaalisen kirjautumisen tai VPN:n"
-  ],
-  "yhteenveto": "Zalando on Euroopan suurin muodin verkkokauppa, jolla on suomalainen tytäryhtiö ja suomenkielinen zalando.fi-verkkokauppa. Sivuston kaikki sivut ovat automaattisten mittaustyökalujen saavuttamattomissa botti-eston vuoksi, minkä takia läpinäkyvyyskriteerit merkitään mittausaukoiksi eikä puuttuviksi ominaisuuksiksi.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Kaikki haetut sivut palautuvat HTTP 403 -virheellä ja tekstillä 'Sivustoa ei ole saatavilla tällä hetkellä'. Hintojen ohjelmallinen tarkastelu on mahdotonta; hintojen näkyvyyttä oikeille käyttäjille ei voida vahvistaa eikä kiistää.",
-    "toimitus_kerrottu": "HAVAINTO: Toimitusehtosivua (zalando.fi/toimitus-ja-palautukset/) ei voida ladata botti-eston takia; HTTP 403.",
-    "palautusehdot_saatavilla": "HAVAINTO: Palautusehtosivua ei voida ladata; botti-esto estää kaikkien sivujen latauksen.",
-    "koko_opas": "HAVAINTO: Koko-oppaan tai sovitusohjeen olemassaoloa ei voida vahvistaa sivulatauksen epäonnistuessa kaikilla polulla.",
-    "y_tunnus_esilla": "HAVAINTO: Zalando Finland Oy (Y-tunnus 2697196-4) löytyy PRH:sta, mutta Y-tunnuksen näkyminen sivustolla ei ole vahvistettavissa botti-eston vuoksi.",
-    "riippumaton_arvio": "HAVAINTO: Trustpilot- tai muuta riippumatonta arviota sivustolla ei voida vahvistaa botti-eston takia."
-  }
+ "slug": "zalando",
+ "fetched_ok": [
+  "https://www.zalando.fi/",
+  "https://www.zalando.fi/naisten-vaatteet/",
+  "https://www.zalando.fi/toimitus-ja-palautukset/"
+ ],
+ "hinnat_esilla": "osittain",
+ "toimitus_kerrottu": "osittain",
+ "palautusehdot_saatavilla": "osittain",
+ "koko_opas": "osittain",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "osittain",
+ "ai_arviot": {
+  "selkeys": 50,
+  "hintojen_loydettavyys": 50,
+  "sisallon_kattavuus": 50
+ },
+ "vahvuudet": [
+  "Euroopan suurin muodin verkkokauppa laajalla tuotevalikoimalla",
+  "Suomenkielinen domain zalando.fi osoittaa sitoutumisen suomalaisiin asiakkaisiin",
+  "Zalando Finland Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 2697196-4)"
+ ],
+ "kehityskohteet": [
+  "Sivusto on suojattu bottiesteellä: kaikki sivut palauttavat 403-virheen automaattisille lukijoille",
+  "Tietojen ohjelmallinen mittaaminen on mahdotonta botti-eston takia",
+  "Läpinäkyvyyskriteerien vahvistaminen vaatii manuaalisen kirjautumisen tai VPN:n"
+ ],
+ "yhteenveto": "Zalando on Euroopan suurin muodin verkkokauppa, jolla on suomalainen tytäryhtiö ja suomenkielinen zalando.fi-verkkokauppa. Sivuston kaikki sivut ovat automaattisten mittaustyökalujen saavuttamattomissa botti-eston vuoksi, minkä takia läpinäkyvyyskriteerit merkitään mittausaukoiksi eikä puuttuviksi ominaisuuksiksi.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Kaikki haetut sivut palautuvat HTTP 403 -virheellä ja tekstillä 'Sivustoa ei ole saatavilla tällä hetkellä'. Hintojen ohjelmallinen tarkastelu on mahdotonta; hintojen näkyvyyttä oikeille käyttäjille ei voida vahvistaa eikä kiistää.",
+  "toimitus_kerrottu": "HAVAINTO: Toimitusehtosivua (zalando.fi/toimitus-ja-palautukset/) ei voida ladata botti-eston takia; HTTP 403.",
+  "palautusehdot_saatavilla": "HAVAINTO: Palautusehtosivua ei voida ladata; botti-esto estää kaikkien sivujen latauksen.",
+  "koko_opas": "HAVAINTO: Koko-oppaan tai sovitusohjeen olemassaoloa ei voida vahvistaa sivulatauksen epäonnistuessa kaikilla poluilla.",
+  "y_tunnus_esilla": "HAVAINTO: Zalando Finland Oy (Y-tunnus 2697196-4) löytyy PRH:sta, mutta Y-tunnuksen näkyminen sivustolla ei ole vahvistettavissa botti-eston vuoksi.",
+  "riippumaton_arvio": "HAVAINTO: Trustpilot- tai muuta riippumatonta arviota sivustolla ei voida vahvistaa botti-eston takia."
+ }
 }
