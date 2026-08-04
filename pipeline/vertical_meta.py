@@ -1105,7 +1105,7 @@ META["tavaransailytys"] = {
     "notes": [
         ("<b>Cityvarasto on Suomen suurin:</b> Cityvarasto Oyj (per. 1999) on julkinen "
          "osakeyhtiö, jolla on yli 58 toimipistettä yli 15 kaupungissa. Pelican Self Storage "
-         "on Pohjoismainen ketju, jolla on 14 toimipistettä paakaupunkiseudulla ja Turussa. "
+         "on Pohjoismainen ketju, jolla on 14 toimipistettä pääkaupunkiseudulla ja Turussa. "
          "Muut listalla olevat palvelevat useammalla kuin yhdella paikkakunnalla."),
         ("<b>Miksi listalla on vain {n} yhtiota?</b> Etsimme kansallisesti tai useassa "
          "kaupungissa toimivia kuluttajapalveluita, joilla on oma verkkosivusto. 24varasto.fi "
@@ -1887,7 +1887,7 @@ META["kahvilaketjut"] = {
     "lead": ("Pisteytimme {n} Suomessa toimivaa kahvila- tai pikapalveluketjua {m} mittarilla: "
              "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
              "näetkö tuotteiden hinnat, allergeenit ja kahvin alkuperän ennen kuin "
-             "astut ovesta sisaan?"),
+             "astut ovesta sisään?"),
     "meta_title": "Suomen paras kahvilaketju 2026 | pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} kahvilaketjua pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),

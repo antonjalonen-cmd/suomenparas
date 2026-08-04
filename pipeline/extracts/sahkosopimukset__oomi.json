@@ -7,7 +7,11 @@
  "y_tunnus_esilla": "ei",
  "y_tunnus": null,
  "riippumaton_arvio": "ei",
- "asiakasarvio": {"arvosana": null, "maara": null, "lahde": null},
+ "asiakasarvio": {
+  "arvosana": null,
+  "maara": null,
+  "lahde": null
+ },
  "puhelin_esilla": "kylla",
  "puhelin": "09 2522 1100",
  "email_esilla": "ei",
@@ -15,12 +19,28 @@
  "aukioloajat_esilla": "kylla",
  "ukk_osio": "osittain",
  "mobiilisovellus": "ei",
- "sopimustyypit": ["porssisahko", "kiintea", "maaraaikainen"],
+ "sopimustyypit": [
+  "pörssisähkö",
+  "kiinteä",
+  "määräaikainen"
+ ],
  "hinta_snt_kwh": 8.19,
- "perusmaksu_eur_kk": 5.90,
- "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 70},
- "vahvuudet": ["Hinnat näkyvät ilman rekisteröimistä", "Useita sopimustyyppejä ja perusmaksujen vaihtoehtoja", "Selkeät uusiutuvan energian lisäpalvelut"],
- "kehityskohteet": ["Y-tunnus ja sähköpostiosoite puuttuvat", "Sopimusehdot-sivu palauttaa 404-virheen", "Riippumaton asiakasarvio (Trustpilot/EPSI) puuttuu"],
+ "perusmaksu_eur_kk": 5.9,
+ "ai_arviot": {
+  "selkeys": 80,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 70
+ },
+ "vahvuudet": [
+  "Hinnat näkyvät ilman rekisteröimistä",
+  "Useita sopimustyyppejä ja perusmaksujen vaihtoehtoja",
+  "Selkeät uusiutuvan energian lisäpalvelut"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus ja sähköpostiosoite puuttuvat",
+  "Sopimusehdot-sivu palauttaa 404-virheen",
+  "Riippumaton asiakasarvio (Trustpilot/EPSI) puuttuu"
+ ],
  "yhteenveto": "Oomi on suomalainen energiapalveluyritys, joka palvelee yli 800 000 asiakasta. Sähkösopimusten hinnat ja perusmaksut näkyvät sivustolla selkeästi ilman yhteystietojen antamista, ja uusiutuvan energian vaihtoehdot on dokumentoitu hyvin. Puutteina ovat Y-tunnus, sähköpostiosoite, riippumattomat asiakasarviot sekä puutteellinen sopimusehdoista kertova sivu.",
  "evidence": {
   "hinta_esilla_ilman_yhteystietoja": "Oomi Jousto 24 months: Fixed energy price 8.19 c/kWh",

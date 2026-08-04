@@ -1,55 +1,55 @@
 {
-  "slug": "terveystalo",
-  "fetched_ok": [
-    "https://www.terveystalo.com/fi/asiakaspalvelu/hinnasto",
-    "https://www.terveystalo.com/fi/yhtio/yhteystiedot",
-    "https://www.terveystalo.com/fi/toimipaikat",
-    "https://www.terveystalo.com/fi/palvelut",
-    "https://ajanvaraus.terveystalo.com/fi/",
-    "https://www.terveystalo.com/fi/yhtio"
-  ],
-  "hinnat_esilla": "kylla",
-  "menetelmat_kuvattu": "osittain",
-  "varaus_verkossa": "kylla",
-  "takuu_tai_jalkitarkastus": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "kylla",
-  "laserleikkaus_hinta_alkaen_eur": 988.60,
-  "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 60
-  },
-  "vahvuudet": [
-    "Selkeä hinnoittelu silmälaserleikkauksille julkisesti saatavilla olevassa hinnastossa",
-    "Verkkoajanvaraus saatavilla ajanvaraus.terveystalo.com-palvelussa",
-    "Jälkitarkastukset ja esitutkimukset kuvattu osana palvelun kokonaishintaa"
-  ],
-  "kehityskohteet": [
-    "Leikkauspalvelu saatavilla vain Oulussa, mikä rajaa palvelun kattavuuden merkittävästi",
-    "Leikkauskeinoista (FEMTO, SMILE, PRK) puuttuu selittävä kuvaus potilaiden päätöksenteon tueksi",
-    "Y-tunnus ja riippumaton laadun arviointi eivät ole näkyvillä sivustolla"
-  ],
-  "yhteenveto": "Terveystalo tarjoaa silmälaserleikkauksia (SMILE, FEMTO, PRK) ja hinnat ovat julkisesti saatavilla hinnastossa. Ajanvaraus ja jälkitarkastukset on järjestetty verkossa. Palvelun merkittävä rajoitus on maantieteellinen saatavuus: leikkaukset ovat saatavilla vain Oululaisille, mikä rajaa potentiaalisten potilaiden joukkoa huomattavasti.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Hinnastosta löytyvät silmälaserleikkausten hinnat: SMILE 1188,60 EUR (1 silmä), FEMTO 988,60 EUR (1 silmä), PRK 988,60 EUR (1 silmä). Esitutkimus maksaa 203,70 EUR ja jälkitarkastus 363,50 EUR.",
-    "menetelmat_kuvattu": "HAVAINTO: Hinnastossa listataan leikkausmenetelmät (FEMTO, SMILE, PRK) ja jälkitarkastus, mutta yksityiskohtainen selitys siitä, mitä kukin menetelmä on tai milloin sitä käytetään, puuttuu.",
-    "varaus_verkossa": "HAVAINTO: Ajanvarauspalvelu ajanvaraus.terveystalo.com/fi/ on julkisesti saatavilla verkossa.",
-    "takuu_tai_jalkitarkastus": "HAVAINTO: Jälkitarkastus on kuvattu erilliseksi palveluksi hinnastossa hinnalla 363,50 EUR ja esitetään osana leikkauksen kokonaishintaa.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt yhteystiedot-, yritys- tai muista tarkistetun kotisivun sivuista.",
-    "riippumaton_arvio": "HAVAINTO: Riippumatonta laadun arviointia (esim. potilaiden arvioita, sertifikaatteja, auditoinnin tuloksia) ei ole näkyvillä julkisella sivustolla.",
-    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 0900 30 000 on näkyvillä yhteystiedot-sivulla ja markkinointisivuilla. Palvelu on avoinna 24/7.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt yhteydenottosivulta tai muista tarkistetun kotisivun sivuista.",
-    "chat_mainittu": "HAVAINTO: Lääkäri-chat (doctor-chat) on mainittu palveluksena ja ninchat.com-palvelua käytetään chatin toteuttamiseen.",
-    "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu ja ajanvaraus ovat avoinna 24/7, kuten mainitaan yhteystiedot-sivulla.",
-    "ukk_osio": "HAVAINTO: Erillista usein kysyttyjen kysymysten (FAQ) osiota ei löytynyt julkiselta sivustolta.",
-    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta mainitaan meta-tagissa (app-id=438441318), mikä viittaa iOS-sovellukseen.",
-    "laserleikkaus_hinta_alkaen_eur": "HAVAINTO: Silmälaserleikkausten halvimmaksi hinnaksi on mainittu FEMTO ja PRK molemmat 988,60 EUR yhdelle silmälle."
-  }
+ "slug": "terveystalo",
+ "fetched_ok": [
+  "https://www.terveystalo.com/fi/asiakaspalvelu/hinnasto",
+  "https://www.terveystalo.com/fi/yhtio/yhteystiedot",
+  "https://www.terveystalo.com/fi/toimipaikat",
+  "https://www.terveystalo.com/fi/palvelut",
+  "https://ajanvaraus.terveystalo.com/fi/",
+  "https://www.terveystalo.com/fi/yhtio"
+ ],
+ "hinnat_esilla": "kylla",
+ "menetelmat_kuvattu": "osittain",
+ "varaus_verkossa": "kylla",
+ "takuu_tai_jalkitarkastus": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "laserleikkaus_hinta_alkaen_eur": 988.6,
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 60
+ },
+ "vahvuudet": [
+  "Selkeä hinnoittelu silmälaserleikkauksille julkisesti saatavilla olevassa hinnastossa",
+  "Verkkoajanvaraus saatavilla ajanvaraus.terveystalo.com-palvelussa",
+  "Jälkitarkastukset ja esitutkimukset kuvattu osana palvelun kokonaishintaa"
+ ],
+ "kehityskohteet": [
+  "Leikkauspalvelu saatavilla vain Oulussa, mikä rajaa palvelun kattavuuden merkittävästi",
+  "Leikkauskeinoista (FEMTO, SMILE, PRK) puuttuu selittävä kuvaus potilaiden päätöksenteon tueksi",
+  "Y-tunnus ja riippumaton laadun arviointi eivät ole näkyvillä sivustolla"
+ ],
+ "yhteenveto": "Terveystalo tarjoaa silmälaserleikkauksia (SMILE, FEMTO, PRK) ja hinnat ovat julkisesti saatavilla hinnastossa. Ajanvaraus ja jälkitarkastukset on järjestetty verkossa. Palvelun merkittävä rajoitus on maantieteellinen saatavuus: leikkaukset ovat saatavilla vain Oululaisille, mikä rajaa potentiaalisten potilaiden joukkoa huomattavasti.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Hinnastosta löytyvät silmälaserleikkausten hinnat: SMILE 1188,60 EUR (1 silmä), FEMTO 988,60 EUR (1 silmä), PRK 988,60 EUR (1 silmä). Esitutkimus maksaa 203,70 EUR ja jälkitarkastus 363,50 EUR.",
+  "menetelmat_kuvattu": "HAVAINTO: Hinnastossa listataan leikkausmenetelmät (FEMTO, SMILE, PRK) ja jälkitarkastus, mutta yksityiskohtainen selitys siitä, mitä kukin menetelmä on tai milloin sitä käytetään, puuttuu.",
+  "varaus_verkossa": "HAVAINTO: Ajanvarauspalvelu ajanvaraus.terveystalo.com/fi/ on julkisesti saatavilla verkossa.",
+  "takuu_tai_jalkitarkastus": "HAVAINTO: Jälkitarkastus on kuvattu erilliseksi palveluksi hinnastossa hinnalla 363,50 EUR ja esitetään osana leikkauksen kokonaishintaa.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt yhteystiedot-, yritys- tai muista tarkistetun kotisivun sivuista.",
+  "riippumaton_arvio": "HAVAINTO: Riippumatonta laadun arviointia (esim. potilaiden arvioita, sertifikaatteja, auditoinnin tuloksia) ei ole näkyvillä julkisella sivustolla.",
+  "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumero 0900 30 000 on näkyvillä yhteystiedot-sivulla ja markkinointisivuilla. Palvelu on avoinna 24/7.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löytynyt yhteydenottosivulta tai muista tarkistetun kotisivun sivuista.",
+  "chat_mainittu": "HAVAINTO: Lääkäri-chat (doctor-chat) on mainittu palveluksena ja ninchat.com-palvelua käytetään chatin toteuttamiseen.",
+  "aukioloajat_esilla": "HAVAINTO: Asiakaspalvelu ja ajanvaraus ovat avoinna 24/7, kuten mainitaan yhteystiedot-sivulla.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysyttyjen kysymysten (FAQ) osiota ei löytynyt julkiselta sivustolta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta mainitaan meta-tagissa (app-id=438441318), mikä viittaa iOS-sovellukseen.",
+  "laserleikkaus_hinta_alkaen_eur": "HAVAINTO: Silmälaserleikkausten halvimmaksi hinnaksi on mainittu FEMTO ja PRK molemmat 988,60 EUR yhdelle silmälle."
+ }
 }

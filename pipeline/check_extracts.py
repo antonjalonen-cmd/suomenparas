@@ -10,7 +10,8 @@ instead of dying on the first.
 
 Usage: python pipeline/check_extracts.py <vertical> [<vertical> ...]
 """
-import glob, json, os, sys
+import glob
+import re, json, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from score_rules import TRANSPARENCY, REACH, AI
@@ -88,6 +89,43 @@ for vert in sys.argv[1:]:
                 errs.append(f"{k} has {len(e.get(k) or [])} items, need 3")
         if not (e.get("yhteenveto") or "").strip():
             errs.append("yhteenveto empty")
+        # Umlautit ASCII-korvikkeina (3.-4.8.2026). Tikit ovat kirjoittaneet
+        # julkaistavaa suomea muodossa "poerssilistattu", "Koopenhamminassa",
+        # "aaanikirjoja", "tytaryhtion", "paakaupunkiseudulla" ja "sisaan" — kaikki
+        # menivat liveen, koska pelkka kehotus promptissa ei pida. Portti on ainoa
+        # tapa pysayttaa ne. Sanalista, ei heuristiikka: vaarat positiiviset
+        # (esim. vieraskieliset nimet) maksaisivat enemman kuin hyoty.
+        # Skannataan VAIN nakyvat arvomerkkijonot. Avaimet ovat tunnisteita
+        # (bonusjarjestelma_kerrottu, lisamaksut_nakyy_varauksessa) ja URLit
+        # ovat URLeja — kumpikaan ei saa laueta.
+        # Kaksi listaa: harvinaiset turmeltumat osamerkkijonoina (eivat voi osua
+        # vaarin), tavalliset sanat sanarajoilla — muuten "korvauksetta" laukaisee
+        # "etta"-osuman (117 vaaraa positiivista ensimmaisessa versiossa).
+        ASCII_SUB = ["aaanikirj", "poerss", "koopenhamm", "tytaryhtio",
+                     "paakaupunki", "jarjestelma", "kayttaja", "tyontekij"]
+        ASCII_WORD = ["etta", "seka", "myos", "nakyy", "sisaan", "loydy", "loydat",
+                      "selkeasti", "esilla", "sahkoposti", "kaannos", "paivays"]
+        TERNARY_VALUES = {"kylla", "osittain", "ei"}
+        SKIP_VALUE_KEYS = {"slug", "domain", "y_tunnus", "fetched_ok", "url", "updated"}
+
+        def _strings(node, key=""):
+            if isinstance(node, dict):
+                for k, v in node.items():
+                    yield from _strings(v, k)
+            elif isinstance(node, list):
+                for v in node:
+                    yield from _strings(v, key)
+            elif isinstance(node, str) and key not in SKIP_VALUE_KEYS:
+                if node.strip().lower() not in TERNARY_VALUES and "://" not in node:
+                    yield node
+
+        blob = " ".join(_strings(e)).lower()
+        hits = sorted({w for w in ASCII_SUB if w in blob}
+                      | {w for w in ASCII_WORD
+                         if re.search(r"(?<![a-zäö])" + w + r"(?![a-zäö])", blob)})
+        if hits:
+            errs.append(f"ASCII-korvikeumlautteja suomenkielisessa tekstissa: {hits} "
+                        f"— kirjoita a-umlaut ja o-umlaut oikein")
         if errs:
             bad += 1
             print(f"FAIL     {vert}__{slug}")

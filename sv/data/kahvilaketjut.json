@@ -4,7 +4,7 @@
  "nav": "Kahvilaketjut",
  "h1": "Suomen paras kahvilaketju 2026",
  "yksikko": "Suomessa toimivaa kahvila- tai pikapalveluketjua",
- "lead": "Pisteytimme {n} Suomessa toimivaa kahvila- tai pikapalveluketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö tuotteiden hinnat, allergeenit ja kahvin alkuperän ennen kuin astut ovesta sisaan?",
+ "lead": "Pisteytimme {n} Suomessa toimivaa kahvila- tai pikapalveluketjua {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: näetkö tuotteiden hinnat, allergeenit ja kahvin alkuperän ennen kuin astut ovesta sisään?",
  "meta_title": "Suomen paras kahvilaketju 2026 | pisteytettynä | Suomen Paras",
  "meta_desc": "6 kahvilaketjua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
  "notes": [
@@ -667,7 +667,7 @@
     "Fika Club -kanta-asiakasohjelma kuvattu selkeästi eduilla ja liittymisohjeella etusivulla"
    ],
    "kehityskohteet": [
-    "Tuotehinnat eivät näy ilman cookie-suostumusta — kuluttaja ei tiedä hintoja ennen tiskille menemistä",
+    "Tuotehinnat eivät näy ilman evästesuostumusta — kuluttaja ei tiedä hintoja ennen tiskille menemistä",
     "Y-tunnus ei löydy sivustolta; Oiva-raportit-linkki footerissa on rikki (404)",
     "Asiakaspalvelun puhelinnumero ja sähköpostiosoite puuttuvat — yhteydenotto vain lomakkeella"
    ],
@@ -1118,7 +1118,7 @@
    "slug": "fazer-cafe",
    "nimi": "Fazer Café",
    "domain": "fazer.fi",
-   "omistaja": "Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa paakaupunkiseudulla, Turussa ja Tampereella; lippulaivaKarl Fazer Café avattu 1891",
+   "omistaja": "Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa pääkaupunkiseudulla, Turussa ja Tampereella; lippulaiva Karl Fazer Café avattu 1891",
    "y_tunnus": "0202669-3",
    "rekisteroity": 1978,
    "score": 23.0,
@@ -1197,7 +1197,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "Kaikki fazer.fi-sisältö on evästemuuri. Toimipisteet eivät löydy ilman evästeiden hyväksymistä."
+       "quote": "Kaikki fazer.fi-sisältö on evästemuurin takana. Toimipisteet eivät löydy ilman evästeiden hyväksymistä."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -1360,10 +1360,10 @@
    },
    {
     "q": "Onko suomalaisilla kahvilaketjuilla Reilun kaupan kahvia?",
-    "a": "Espresso House käyttää Enveritas-varmennettu kahvi (ISO 17065), Robert's Coffee noudattaa EU:n metsäkatoasetusta (EUDR). Picnic käyttää Kaffa Roastery -paahtimoa Helsingistä. Perinteisiä Reilun kaupan -sertifiointeja ei arvioiduilla ketjuilla ole esillä verkkosivuillaan."
+    "a": "Espresso House käyttää Enveritas-varmennettua kahvia (ISO 17065), Robert's Coffee noudattaa EU:n metsäkatoasetusta (EUDR). Picnic käyttää Kaffa Roastery -paahtimoa Helsingistä. Perinteisiä Reilun kaupan -sertifiointeja ei arvioiduilla ketjuilla ole esillä verkkosivuillaan."
    },
    {
-    "q": "Mikä kahvilaketju on halvimmat hinnat?",
+    "q": "Millä kahvilaketjulla on halvimmat hinnat?",
     "a": "Robert's Coffee näyttää hinnan etusivulla: Kahvi S + Täytetty Pretzel Croissant 5,90 €. Picnicin aamiainen (Kahvi + 1 tuote) maksaa 6,90 €. Muiden ketjujen hinnat eivät ole vertailtavissa verkossa."
    },
    {

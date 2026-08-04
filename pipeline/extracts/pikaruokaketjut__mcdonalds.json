@@ -1,45 +1,45 @@
 {
-  "slug": "mcdonalds",
-  "fetched_ok": [
-    "https://www.mcdonalds.fi",
-    "https://www.mcdonalds.com/fi/fi-fi.html",
-    "https://www.mcdonalds.com/fi/fi-fi/palvelut/hinnasto.html",
-    "https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html"
-  ],
-  "hinnat_esilla": "ei",
-  "allergeenit_esilla": "osittain",
-  "alkupera_kerrottu": "osittain",
-  "ravintolat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "osittain",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {
-    "selkeys": 65,
-    "hintojen_loydettavyys": 12,
-    "sisallon_kattavuus": 48
-  },
-  "vahvuudet": [
-    "Mobiilisovellus kattaa tilaukset, pisteiden keräyksen ja ravintolakohtaiset hinnat",
-    "Ravintolahaku kartalla toimii ja nayttaa lahimmat ravintolat sijainnin perusteella",
-    "Navigaatiossa on viitteet ravintoarvolaskuriin, allergeeni- ja raaka-ainetietoihin seka Oiva-raportteihin"
-  ],
-  "kehityskohteet": [
-    "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat nakyy vain sovelluksesta",
-    "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivat lataudu selaimen renderöinnillä",
-    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
-  ],
-  "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivat avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Hinnasto-sivu sisaltaa tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat naet kuitenkin McDonaldsi-sovelluksesta tehdessasi mobiilitilauksen.",
-    "allergeenit_esilla": "HAVAINTO: Navigaatiossa on linkki Erityisruokavaliot, mutta sivu ei avautunut renderonnissa. Allergeeni- ja ravintoarvotietojen olemassaoloa ei voitu vahvistaa mittauksessa.",
-    "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisaltoa ei voitu vahvistaa mittauksessa.",
-    "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolahaku-sivu latautuu ja nayttaa karttanakyman, mutta yksittaisten ravintoloiden osoite- ja aukiolotiedot eivat tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisaltoa ei voitu vahvistaa.",
-    "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esiteta missaan mittauksessa loydetyssa kohdassa.",
-    "riippumaton_arvio": "HAVAINTO: Navigaatiossa nakyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisaltoa ei voitu vahvistaa renderöinnillä."
-  }
+ "slug": "mcdonalds",
+ "fetched_ok": [
+  "https://www.mcdonalds.fi",
+  "https://www.mcdonalds.com/fi/fi-fi.html",
+  "https://www.mcdonalds.com/fi/fi-fi/palvelut/hinnasto.html",
+  "https://www.mcdonalds.com/fi/fi-fi/palvelut/ravintolahaku.html"
+ ],
+ "hinnat_esilla": "ei",
+ "allergeenit_esilla": "osittain",
+ "alkupera_kerrottu": "osittain",
+ "ravintolat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 65,
+  "hintojen_loydettavyys": 12,
+  "sisallon_kattavuus": 48
+ },
+ "vahvuudet": [
+  "Mobiilisovellus kattaa tilaukset, pisteiden keräyksen ja ravintolakohtaiset hinnat",
+  "Ravintolahaku kartalla toimii ja näyttää lahimmat ravintolat sijainnin perusteella",
+  "Navigaatiossa on viitteet ravintoarvolaskuriin, allergeeni- ja raaka-ainetietoihin sekä Oiva-raportteihin"
+ ],
+ "kehityskohteet": [
+  "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat näkyy vain sovelluksesta",
+  "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivät lataudu selaimen renderöinnillä",
+  "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
+ ],
+ "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivät avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Hinnasto-sivu sisältää tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat näet kuitenkin McDonaldsi-sovelluksesta tehdessäsi mobiilitilauksen.",
+  "allergeenit_esilla": "HAVAINTO: Navigaatiossa on linkki Erityisruokavaliot, mutta sivu ei avautunut renderonnissa. Allergeeni- ja ravintoarvotietojen olemassaoloa ei voitu vahvistaa mittauksessa.",
+  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisältöä ei voitu vahvistaa mittauksessa.",
+  "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolahaku-sivu latautuu ja näyttää karttanakyman, mutta yksittäisten ravintoloiden osoite- ja aukiolotiedot eivät tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisältöä ei voitu vahvistaa.",
+  "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esitetä missään mittauksessa löydetyssä kohdassa.",
+  "riippumaton_arvio": "HAVAINTO: Navigaatiossa näkyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisältöä ei voitu vahvistaa renderöinnillä."
+ }
 }

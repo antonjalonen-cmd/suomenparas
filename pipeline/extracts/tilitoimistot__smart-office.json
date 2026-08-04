@@ -1,53 +1,53 @@
 {
-  "slug": "smart-office",
-  "fetched_ok": [
-    "https://www.smartoffice.fi/",
-    "https://www.smartoffice.fi/palvelut/",
-    "https://www.smartoffice.fi/tietoa-meista/",
-    "https://www.smartoffice.fi/yhteystiedot/",
-    "https://www.smartoffice.fi/meidan-tiimi/"
-  ],
-  "hinnat_esilla": "ei",
-  "palvelut_kuvattu": "kylla",
-  "ohjelmistot_kerrottu": "kylla",
-  "auktorisointi_kerrottu": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "ei",
-  "kk_hinta_alkaen_eur": null,
-  "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 15,
-    "sisallon_kattavuus": 68
-  },
-  "vahvuudet": [
-    "Taloushallintoliiton auktorisointi näkyvästi esillä, mikä vahvistaa luotettavuutta",
-    "Kattava palveluiden kuvaus (kirjanpito, palkanlaskenta, veroneuvonta, yritysjärjestelyt, yhtiöoikeudelliset palvelut)",
-    "Henkilökohtaiset yhteystiedot tiimin jäsenille sekä kaksi toimistoa (Helsinki ja Tampere) antavat kasvokkaispalvelun mahdollisuuden"
-  ],
-  "kehityskohteet": [
-    "Hinnoittelu ei ole lainkaan esillä, ei edes hinnoittelupakettejen peruskuvauksia tai arvioituja hintahaitaria",
-    "Y-tunnusta ei mainita missään, mikä heikentää yritystietojen avoimuutta",
-    "Ei FAQ-osiota tai selkeää aukioloaikatietoa, vaikka kaksi fyysistä toimistoa olisi helpo kirjata"
-  ],
-  "yhteenveto": "Tilitoimisto Smart Office esittelee itsensä auktorisoituna, perheyrityksenä, jolla on yli 20 vuoden kokemus. Palvelut on kuvattu kattavasti (kirjanpito, palkanlaskenta, veroneuvonta), ja käytettävät ohjelmistot (Taxdome, Procountor, Netvisor) mainitaan. Sivusto on kuitenkin huomattavasti keskittynyt luottamuksen rakentamiseen, eikä julkinen hinnoittelu tai yritystiedot (Y-tunnus) ole näkyvissä.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla mainitaan 'paketoidut kiinteähintaiset palvelumme' mutta konkreettisia eurohintoja tai pakettikuvauksia ei esitetä missään ladatuissa sivuissa.",
-    "palvelut_kuvattu": "HAVAINTO: Palvelut-sivulla kuvataan kuusi päätoimintoa: palkanlaskenta, sisäinen laskenta, kirjanpito, yritysjärjestelyt, veroneuvonta ja yhtiöoikeudelliset palvelut.",
-    "ohjelmistot_kerrottu": "HAVAINTO: Etusivulla mainitaan Taxdome-ohjelmisto. Palvelut-sivulla listataan myös Procountor ja Netvisor taloushallinnan ohjelmistoiksi.",
-    "auktorisointi_kerrottu": "HAVAINTO: Etusivulla ja tietoa-meista -sivulla korostetaan 'Taloushallintoliiton auktorisoima tilitoimisto', joka noudattaa liiton standardeja ja on säännöllisen valvonnan alaisena.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita millään sivulla. Vain yrityksen nimi 'Tilitoimisto Smart Office' ja toimistojen osoitteet (Elimäenkatu, Helsinki; Finlaysoninkuja, Tampere) ovat saatavilla.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointeihin, asiakasarvioihin tai kolmannen osapuolen laatutodistuksiin.",
-    "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa: +358 40 531 8055 (Helsinki) ja +358 40 542 2329 (Tampere) näkyvät sekä footer-osassa että yhteystiedot-sivulla. Meidän tiimi -sivulla jokaisen kirjanpitäjän henkilökohtainen puhelinnumero on lueteltu.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoite info@smartoffice.fi on näkyvillä kaikilla sivuilla. Lisäksi tiimisivulla kullakin kirjanpitäjällä on henkilökohtainen sähköpostiosoite.",
-    "chat_mainittu": "HAVAINTO: Sivustolla ei ole mainintoja chat-palvelusta, live-chatista tai verkkokeskustelusta.",
-    "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole missään dokumentoitu, vaikka kaksi fyysistä toimistoa on olemassa.",
-    "ukk_osio": "HAVAINTO: Sivustolla ei ole FAQ-osiota (usein kysytyt kysymykset).",
-    "mobiilisovellus": "HAVAINTO: Sivuston teksti ei mainitse omaa mobiilisovellusta. Mainitut ohjelmistot (Taxdome, Procountor, Netvisor) ovat kolmannen osapuolen palveluita."
-  }
+ "slug": "smart-office",
+ "fetched_ok": [
+  "https://www.smartoffice.fi/",
+  "https://www.smartoffice.fi/palvelut/",
+  "https://www.smartoffice.fi/tietoa-meista/",
+  "https://www.smartoffice.fi/yhteystiedot/",
+  "https://www.smartoffice.fi/meidan-tiimi/"
+ ],
+ "hinnat_esilla": "ei",
+ "palvelut_kuvattu": "kylla",
+ "ohjelmistot_kerrottu": "kylla",
+ "auktorisointi_kerrottu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "kk_hinta_alkaen_eur": null,
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 15,
+  "sisallon_kattavuus": 68
+ },
+ "vahvuudet": [
+  "Taloushallintoliiton auktorisointi näkyvästi esillä, mikä vahvistaa luotettavuutta",
+  "Kattava palveluiden kuvaus (kirjanpito, palkanlaskenta, veroneuvonta, yritysjärjestelyt, yhtiöoikeudelliset palvelut)",
+  "Henkilökohtaiset yhteystiedot tiimin jäsenille sekä kaksi toimistoa (Helsinki ja Tampere) antavat kasvokkaispalvelun mahdollisuuden"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelu ei ole lainkaan esillä, ei edes hinnoittelupakettejen peruskuvauksia tai arvioituja hintahaitaria",
+  "Y-tunnusta ei mainita missään, mikä heikentää yritystietojen avoimuutta",
+  "Ei FAQ-osiota tai selkeää aukioloaikatietoa, vaikka kaksi fyysistä toimistoa olisi helpo kirjata"
+ ],
+ "yhteenveto": "Tilitoimisto Smart Office esittelee itsensä auktorisoituna, perheyrityksenä, jolla on yli 20 vuoden kokemus. Palvelut on kuvattu kattavasti (kirjanpito, palkanlaskenta, veroneuvonta), ja käytettävät ohjelmistot (Taxdome, Procountor, Netvisor) mainitaan. Sivusto on kuitenkin huomattavasti keskittynyt luottamuksen rakentamiseen, eikä julkinen hinnoittelu tai yritystiedot (Y-tunnus) ole näkyvissä.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla mainitaan 'paketoidut kiinteähintaiset palvelumme' mutta konkreettisia eurohintoja tai pakettikuvauksia ei esitetä missään ladatuissa sivuissa.",
+  "palvelut_kuvattu": "HAVAINTO: Palvelut-sivulla kuvataan kuusi päätoimintoa: palkanlaskenta, sisäinen laskenta, kirjanpito, yritysjärjestelyt, veroneuvonta ja yhtiöoikeudelliset palvelut.",
+  "ohjelmistot_kerrottu": "HAVAINTO: Etusivulla mainitaan Taxdome-ohjelmisto. Palvelut-sivulla listataan myös Procountor ja Netvisor taloushallinnan ohjelmistoiksi.",
+  "auktorisointi_kerrottu": "HAVAINTO: Etusivulla ja tietoa-meistä -sivulla korostetaan 'Taloushallintoliiton auktorisoima tilitoimisto', joka noudattaa liiton standardeja ja on säännöllisen valvonnan alaisena.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita millään sivulla. Vain yrityksen nimi 'Tilitoimisto Smart Office' ja toimistojen osoitteet (Elimäenkatu, Helsinki; Finlaysoninkuja, Tampere) ovat saatavilla.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole viittauksia riippumattomiin arviointeihin, asiakasarvioihin tai kolmannen osapuolen laatutodistuksiin.",
+  "puhelin_esilla": "HAVAINTO: Kaksi puhelinnumeroa: +358 40 531 8055 (Helsinki) ja +358 40 542 2329 (Tampere) näkyvät sekä footer-osassa että yhteystiedot-sivulla. Meidän tiimi -sivulla jokaisen kirjanpitäjän henkilökohtainen puhelinnumero on lueteltu.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite info@smartoffice.fi on näkyvillä kaikilla sivuilla. Lisäksi tiimisivulla kullakin kirjanpitäjällä on henkilökohtainen sähköpostiosoite.",
+  "chat_mainittu": "HAVAINTO: Sivustolla ei ole mainintoja chat-palvelusta, live-chatista tai verkkokeskustelusta.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei ole missään dokumentoitu, vaikka kaksi fyysistä toimistoa on olemassa.",
+  "ukk_osio": "HAVAINTO: Sivustolla ei ole FAQ-osiota (usein kysytyt kysymykset).",
+  "mobiilisovellus": "HAVAINTO: Sivuston teksti ei mainitse omaa mobiilisovellusta. Mainitut ohjelmistot (Taxdome, Procountor, Netvisor) ovat kolmannen osapuolen palveluita."
+ }
 }

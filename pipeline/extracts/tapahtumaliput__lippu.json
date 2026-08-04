@@ -1,41 +1,43 @@
 {
-  "slug": "lippu",
-  "fetched_ok": ["https://lippu.fi/"],
-  "palvelumaksut_esilla": "osittain",
-  "kokonaishinta_ilman_ostoa": "osittain",
-  "peruutusehdot_esilla": "osittain",
-  "ostaa_ilman_rekisteroitymista": "osittain",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "osittain",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "osittain",
-  "palvelumaksu_eur_per_lippu": null,
-  "ai_arviot": {
-    "selkeys": 50,
-    "hintojen_loydettavyys": 50,
-    "sisallon_kattavuus": 50
-  },
-  "vahvuudet": [
-    "Yksi Suomen suurimmista lipunmyyntipalveluista — yli 35 000 tapahtumaa vuodessa (Google Play -tiedot)",
-    "Osa eurooppalaista CTS Eventim -konsernia, joka takaa vakaan toiminnan",
-    "Mobiilisovellus saatavilla (Google Play ja App Store)"
-  ],
-  "kehityskohteet": [
-    "Sivusto ei ollut automaattisesti mitattavissa — Akamai-CDN katkaisi kaikki automaattiset HTTP-pyynnöt ilman vastausta",
-    "Mittausaukko koskee kaikkia pilareja: laatu, läpinäkyvyys ja tavoitettavuus pisteytetty 'osittain' (ei 'ei') koska kyse on mittausesteestä, ei puutteesta",
-    "Lippu.fi (Lippupiste Oy, Y-tunnus 1789232-4) omistajana CTS Eventim SE & Co. KGaA (Saksa)"
-  ],
-  "yhteenveto": "Lippu.fi on Suomen suurimpia lipunmyyntipalveluita, mutta Akamai-CDN:n botti-esto esti kaiken automaattisen mittauksen. Kaikki arvot on merkitty 'osittain' mittausaukkona, ei palvelupuutteena. Pisteitä ei voi tällä mittauskerralla antaa laatu-, läpinäkyvyys- tai tavoitettavuuspillareihin.",
-  "evidence": {
-    "palvelumaksut_esilla": "HAVAINTO: Sivusto on teknisesti saavutettavissa selaimella (Lighthouse Chrome: perf=34, lippu.fi), mutta Akamai-CDN katkaisi kaikki automaattiset HTTP-tekstipyynnöt (HTTP 000). Tekstisisältöä ei voitu lukea — mittausaukko, ei havainto puutteesta.",
-    "kokonaishinta_ilman_ostoa": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esilla.",
-    "peruutusehdot_esilla": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esilla.",
-    "ostaa_ilman_rekisteroitymista": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esilla.",
-    "y_tunnus_esilla": "HAVAINTO: Lippupiste Oy:n Y-tunnus 1789232-4 on PRH:n rekisterissä, mutta sivustolta ei voitu varmistaa näkyykö se julkisesti.",
-    "riippumaton_arvio": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esilla."
-  }
+ "slug": "lippu",
+ "fetched_ok": [
+  "https://lippu.fi/"
+ ],
+ "palvelumaksut_esilla": "osittain",
+ "kokonaishinta_ilman_ostoa": "osittain",
+ "peruutusehdot_esilla": "osittain",
+ "ostaa_ilman_rekisteroitymista": "osittain",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "osittain",
+ "palvelumaksu_eur_per_lippu": null,
+ "ai_arviot": {
+  "selkeys": 50,
+  "hintojen_loydettavyys": 50,
+  "sisallon_kattavuus": 50
+ },
+ "vahvuudet": [
+  "Yksi Suomen suurimmista lipunmyyntipalveluista — yli 35 000 tapahtumaa vuodessa (Google Play -tiedot)",
+  "Osa eurooppalaista CTS Eventim -konsernia, joka takaa vakaan toiminnan",
+  "Mobiilisovellus saatavilla (Google Play ja App Store)"
+ ],
+ "kehityskohteet": [
+  "Sivusto ei ollut automaattisesti mitattavissa — Akamai-CDN katkaisi kaikki automaattiset HTTP-pyynnöt ilman vastausta",
+  "Mittausaukko koskee kaikkia pilareja: laatu, läpinäkyvyys ja tavoitettavuus pisteytetty 'osittain' (ei 'ei') koska kyse on mittausesteestä, ei puutteesta",
+  "Lippu.fi (Lippupiste Oy, Y-tunnus 1789232-4) omistajana CTS Eventim SE & Co. KGaA (Saksa)"
+ ],
+ "yhteenveto": "Lippu.fi on Suomen suurimpia lipunmyyntipalveluita, mutta Akamai-CDN:n botti-esto esti kaiken automaattisen mittauksen. Kaikki arvot on merkitty 'osittain' mittausaukkona, ei palvelupuutteena. Pisteitä ei voi tällä mittauskerralla antaa laatu-, läpinäkyvyys- tai tavoitettavuuspillareihin.",
+ "evidence": {
+  "palvelumaksut_esilla": "HAVAINTO: Sivusto on teknisesti saavutettavissa selaimella (Lighthouse Chrome: perf=34, lippu.fi), mutta Akamai-CDN katkaisi kaikki automaattiset HTTP-tekstipyynnöt (HTTP 000). Tekstisisältöä ei voitu lukea — mittausaukko, ei havainto puutteesta.",
+  "kokonaishinta_ilman_ostoa": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esillä.",
+  "peruutusehdot_esilla": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esillä.",
+  "ostaa_ilman_rekisteroitymista": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esillä.",
+  "y_tunnus_esilla": "HAVAINTO: Lippupiste Oy:n Y-tunnus 1789232-4 on PRH:n rekisterissä, mutta sivustolta ei voitu varmistaa näkyykö se julkisesti.",
+  "riippumaton_arvio": "HAVAINTO: Ei mitattavissa — katso palvelumaksut_esillä."
+ }
 }

@@ -282,7 +282,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Menu-sivulla (/menu/?taxonomy_name=ateriat) nakyy hinnat suoraan tuotteittain: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, TACO SUPREME MEAL 6,95 eur, CHALUPA SUPREME MEAL 7,95 eur, CHEESE QUESADILLA MEAL 7,95 eur. Merkinta: Valikoima ja hinnat ovat voimassa klo 22 asti."
+       "quote": "HAVAINTO: Menu-sivulla (/menu/?taxonomy_name=ateriat) näkyy hinnat suoraan tuotteittain: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, TACO SUPREME MEAL 6,95 eur, CHALUPA SUPREME MEAL 7,95 eur, CHEESE QUESADILLA MEAL 7,95 eur. Merkintä: Valikoima ja hinnat ovat voimassa klo 22 asti."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -291,7 +291,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Menu-sivulla on eksplisiittinen teksti: Katso allergeenitaulukko tasta. Katso ravintoarvotaulukko tasta. Myos: Otamme myos allergiat huomioon."
+       "quote": "HAVAINTO: Menu-sivulla on eksplisiittinen teksti: Katso allergeenitaulukko tasta. Katso ravintoarvotaulukko tasta. Myös: Otamme myös allergiat huomioon."
       },
       {
        "mittari": "Raaka-aineiden alkuperä kerrottu",
@@ -300,7 +300,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tuotelistauksessa kerrotaan proteiiniksi naudan jauheliha, grillattu kana, Crispy Chicken tai kasviproteiini, mutta alkuperämaata ei mainita missaan saavutetussa sivussa."
+       "quote": "HAVAINTO: Tuotelistauksessa kerrotaan proteiiniksi naudan jauheliha, grillattu kana, Crispy Chicken tai kasviproteiini, mutta alkuperämaata ei mainita missään saavutetussa sivussa."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -318,7 +318,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esiteta Y-tunnusta (Restel Fast Food Oy, 2538302-8). Sivustolla nakyy Tietosuoja ja Sivujen kayttoehdot -linkit mutta ei yritystietoja."
+       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetä Y-tunnusta (Restel Fast Food Oy, 2538302-8). Sivustolla näkyy Tietosuoja ja Sivujen käyttöehdot -linkit mutta ei yritystietoja."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -422,14 +422,14 @@
    },
    "facts_extra": [],
    "vahvuudet": [
-    "Tuotteiden hinnat esilla selkeästi: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, CHALUPA SUPREME MEAL 7,95 eur valikossa julkisesti",
-    "Allergeeni- ja ravintoarvotaulukot ilmoitettu menu-sivulla linkkeineen: Katso allergeenitaulukko tasta ja Katso ravintoarvotaulukko tasta",
-    "Ravintolat esitellaan osoitteineen, puhelinnumeroineen ja tarkoilla paivittaisilla aukioloajoilla: esim. Taco Bell Bakersi Helsinki, Kalevankatu 2, ma 11-01, ke 11-05"
+    "Tuotteiden hinnat esillä selkeästi: CHICKEN NACHOS MEAL 5,95 eur, TACO MEAL 5,95 eur, CHALUPA SUPREME MEAL 7,95 eur valikossa julkisesti",
+    "Allergeeni- ja ravintoarvotaulukot ilmoitettu menu-sivulla linkkeineen: Katso allergeenitaulukko tästä ja Katso ravintoarvotaulukko tästä",
+    "Ravintolat esitellään osoitteineen, puhelinnumeroineen ja tarkoilla paivittaisilla aukioloajoilla: esim. Taco Bell Bakersi Helsinki, Kalevankatu 2, ma 11-01, ke 11-05"
    ],
    "kehityskohteet": [
     "Raaka-aineiden alkuperämaata (esim. kotimainen naudan jauheliha) ei kerrota julkisesti verkkosivustolla",
-    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa tai footer-tekstissa ei ilmoiteta operaattorin rekisteritietoja",
-    "Palaute- ja UKK-osio puuttuvat tai eivat loydy helposti navigaatiosta"
+    "Y-tunnus ei ole esillä sivustolla — alatunnisteessa tai footer-tekstissä ei ilmoiteta operaattorin rekisteritietoja",
+    "Palaute- ja UKK-osio puuttuvat tai eivät löydy helposti navigaatiosta"
    ],
    "yhteenveto": "Taco Bell on toiminut Suomessa vuodesta 2017, ja sen sivusto esittelee hinnat selkeästi sekalle linkit allergeeni- ja ravintoarvotaulukoihin. Ravintolalista aukioloaikoineen on kattava. Raaka-aineiden alkuperämaata ei kerrota, ja Y-tunnus puuttuu sivustolta.",
    "sitoutumis_bonus": 0.0,
@@ -493,7 +493,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnasto-sivulla (/hinnasto/) on taydellinen hinnasto tuoteryhmittain: WHOPPER-ateria 9,95 eur / hampurilainen 7,45 eur, Double WHOPPER 13,95 eur / 11,45 eur, Bacon King 15,95 eur / 12,45 eur. Merkinta: Hinnat ovat alkaen hintoja. Voimassa klo 06-24."
+       "quote": "HAVAINTO: Hinnasto-sivulla (/hinnasto/) on täydellinen hinnasto tuoteryhmittain: WHOPPER-ateria 9,95 eur / hampurilainen 7,45 eur, Double WHOPPER 13,95 eur / 11,45 eur, Bacon King 15,95 eur / 12,45 eur. Merkintä: Hinnat ovat alkaen hintoja. Voimassa klo 06-24."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -502,7 +502,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tuotteet-sivu nayttaa allergeenisuodattimen (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija). Allergeenit-sivu toteaa: Tuotekohtaiset tiedot allergeeneista loydat taalta."
+       "quote": "HAVAINTO: Tuotteet-sivu näyttää allergeenisuodattimen (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija). Allergeenit-sivu toteaa: Tuotekohtaiset tiedot allergeeneista löydät taalta."
       },
       {
        "mittari": "Raaka-aineiden alkuperä kerrottu",
@@ -511,7 +511,7 @@
        "pisteet_max": 15,
        "pisteet": 15.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnasto-sivulla on merkinta: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU. — nakyy suoraan julkisessa hinnastossa."
+       "quote": "HAVAINTO: Hinnasto-sivulla on merkintä: Naudanlihan alkuperämaa: EU. Kanan alkuperämaa: EU. — näkyy suoraan julkisessa hinnastossa."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -538,7 +538,7 @@
        "pisteet_max": 10,
        "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaation BK INFO -osiossa on Oiva-raportit-linkki. Konkreettisia arviointituloksia tai sertifikaatteja ei esiteta etusivulla."
+       "quote": "HAVAINTO: Navigaation BK INFO -osiossa on Oiva-raportit-linkki. Konkreettisia arviointituloksia tai sertifikaatteja ei esitetä etusivulla."
       }
      ]
     },
@@ -634,15 +634,15 @@
    "facts_extra": [],
    "vahvuudet": [
     "Kattava hinnasto kaikille tuotteille julkisesti: WHOPPER-ateria 9,95 eur, Bacon King -ateria 15,95 eur taulukkomuodossa",
-    "Tuotteiden alkuperamaa kerrottu hinnastossa eksplisiittisesti: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU.",
+    "Tuotteiden alkuperämaa kerrottu hinnastossa eksplisiittisesti: Naudanlihan alkuperämaa: EU. Kanan alkuperämaa: EU.",
     "Allergeenisuodatin tuotteet-sivulla (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija) ja allergeenit-sivu tuotekohtaisine tietoineen"
    ],
    "kehityskohteet": [
-    "Ravintoloiden aukioloajat eivat ole helposti saatavilla verkkosivustolta — /ravintolat palauttaa 404",
-    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain Burger King Corporation",
-    "Oiva-raportit mainittu navigaatiossa mutta konkreettisia tuloksia ei esiteta etusivulla"
+    "Ravintoloiden aukioloajat eivät ole helposti saatavilla verkkosivustolta — /ravintolat palauttaa 404",
+    "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain Burger King Corporation",
+    "Oiva-raportit mainittu navigaatiossa mutta konkreettisia tuloksia ei esitetä etusivulla"
    ],
-   "yhteenveto": "Burger Kingin sivusto tarjoaa erinomaisen hintalapinakymmyyden: kaikkien tuotteiden hinnat on julkinen hinnastona ja naudanlihan seka kanan alkuperamaa EU on kerrottu eksplisiittisesti. Allergeenisuodatin helpottaa sopivien tuotteiden loytyamista. Ravintolahaun puuttuminen verkkosivustolta heikentaa kaytonmukavuutta.",
+   "yhteenveto": "Burger Kingin sivusto tarjoaa erinomaisen hintalapinakymmyyden: kaikkien tuotteiden hinnat on julkinen hinnastona ja naudanlihan sekä kanan alkuperämaa EU on kerrottu eksplisiittisesti. Allergeenisuodatin helpottaa sopivien tuotteiden loytyamista. Ravintolahaun puuttuminen verkkosivustolta heikentää kaytonmukavuutta.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -704,7 +704,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnastot-sivulla (/hinnastot/) nakyy kaikki buffethinnat: Arkibuffet 13,70 eur (ma-to + pe klo 14 asti), Viikonloppubuffet 15,90 eur (pe klo 14 jalkeen + la-su), Salaattibuffet 12,70 eur, 3-6-vuotiaat 5,00 eur, 7-11-vuotiaat 8,90 eur."
+       "quote": "HAVAINTO: Hinnastot-sivulla (/hinnastot/) näkyy kaikki buffethinnat: Arkibuffet 13,70 eur (ma-to + pe klo 14 asti), Viikonloppubuffet 15,90 eur (pe klo 14 jälkeen + la-su), Salaattibuffet 12,70 eur, 3-6-vuotiaat 5,00 eur, 7-11-vuotiaat 8,90 eur."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -713,7 +713,7 @@
        "pisteet_max": 25,
        "pisteet": 12.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Allergeenit-sivu (/allergeenit/) renderoitui vain 420 merkiksi sisallon: Katso ruokien allergeenitiedot taalta — linkki olemassa mutta tuotekohtaista allergeenisisaltoa ei voitu vahvistaa renderöinnillä."
+       "quote": "HAVAINTO: Allergeenit-sivu (/allergeenit/) renderoitui vain 420 merkiksi sisällön: Katso ruokien allergeenitiedot täältä — linkki olemassa mutta tuotekohtaista allergeenisisaltoa ei voitu vahvistaa renderöinnillä."
       },
       {
        "mittari": "Raaka-aineiden alkuperä kerrottu",
@@ -722,7 +722,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Saavutetuissa sivuissa ei loydetty mainintaa raaka-aineiden alkuperamaasta tai hankinta-alueesta."
+       "quote": "HAVAINTO: Saavutetuissa sivuissa ei löydetty mainintaa raaka-aineiden alkuperamaasta tai hankinta-alueesta."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -740,7 +740,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Alatunnisteessa lukee 2026 Rax Pizzabuffet. Y-tunnusta (Rax Ravintolat Oy, 1572598-7) ei esiteta sivustolla."
+       "quote": "HAVAINTO: Alatunnisteessa lukee 2026 Rax Pizzabuffet. Y-tunnusta (Rax Ravintolat Oy, 1572598-7) ei esitetä sivustolla."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -844,16 +844,16 @@
    },
    "facts_extra": [],
    "vahvuudet": [
-    "Kaikki buffethinnat esitetaan selkeästi: Arkibuffet 13,70 eur, Viikonloppubuffet 15,90 eur, Salaattibuffet 12,70 eur, lasten hinnat eriteltyina",
+    "Kaikki buffethinnat esitetään selkeästi: Arkibuffet 13,70 eur, Viikonloppubuffet 15,90 eur, Salaattibuffet 12,70 eur, lasten hinnat eriteltyinä",
     "Ravintolat listattu osoitteineen, sahkoposteineen ja paivittaisine aukioloaikoineen: Rax Pizzabuffet Flamingo Vantaa, 0417316481, flamingo.rax@restel.fi, ma-to 11-21",
-    "Allergeenisivu on olemassa linkitettyna — Katso ruokien allergeenitiedot taalta — vaikka sisalto ei avautunut renderonnissa"
+    "Allergeenisivu on olemassa linkitettyna — Katso ruokien allergeenitiedot täältä — vaikka sisältö ei avautunut renderonnissa"
    ],
    "kehityskohteet": [
-    "Allergeenisivu renderoitui 420 merkiksi ilman konkreettista sisaltoa — allergeenien tuotekohtaisuutta ei voitu vahvistaa",
+    "Allergeenisivu renderoitui 420 merkiksi ilman konkreettista sisältöä — allergeenien tuotekohtaisuutta ei voitu vahvistaa",
     "Raaka-aineiden alkuperämaata ei mainita sivustolla",
-    "Y-tunnus ei ole esilla — alatunnisteessa lukee vain 2026 Rax Pizzabuffet"
+    "Y-tunnus ei ole esillä — alatunnisteessa lukee vain 2026 Rax Pizzabuffet"
    ],
-   "yhteenveto": "Golden Rax on Restel-konsernin pizzabuffetketju, jonka sivustolla buffethinnat ovat selkeästi julkisia. Ravintolat esitellaan yhteystietoineen ja aukioloaikoineen. Allergeenisivusto on olemassa, mutta sen tuotekohtainen sisalto ei avautunut automaattisessa mittauksessa.",
+   "yhteenveto": "Golden Rax on Restel-konsernin pizzabuffetketju, jonka sivustolla buffethinnat ovat selkeästi julkisia. Ravintolat esitellään yhteystietoineen ja aukioloaikoineen. Allergeenisivusto on olemassa, mutta sen tuotekohtainen sisältö ei avautunut automaattisessa mittauksessa.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -915,7 +915,7 @@
        "pisteet_max": 25,
        "pisteet": 25.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Etusivulla nakyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur."
+       "quote": "HAVAINTO: Etusivulla näkyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -933,7 +933,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei loydetty tietoa mittauksessa saatavilla olleista sivuista."
+       "quote": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei löydetty tietoa mittauksessa saatavilla olleista sivuista."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -942,7 +942,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Ravintolat-sivu latautuu ja nayttaa Google Maps -karttanakyma, mutta yksittaisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissa nayttay."
+       "quote": "HAVAINTO: Ravintolat-sivu latautuu ja näyttää Google Maps -karttanakyma, mutta yksittäisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissä nayttay."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -1056,15 +1056,15 @@
    "facts_extra": [],
    "vahvuudet": [
     "Tuotteiden hinnat nakyivat suoraan etusivulla: Buffalo Pollo Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur ilman kirjautumista",
-    "Tilausprosessi alkaa suoraan etusivulta ilman rekisteroitymista, valikko on selkea ja kategorisoitu",
+    "Tilausprosessi alkaa suoraan etusivulta ilman rekisteröitymistä, valikko on selkeä ja kategorisoitu",
     "Kotipizza-sovellus tarjolla ja kanta-asiakasohjelma esitelty selkein eduin"
    ],
    "kehityskohteet": [
-    "Allergeeni- ja ravintosisältösivut eivat avaudu selaimen renderöinnillä, joten sisaltoa ei voitu vahvistaa",
-    "Ravintoloiden yhteystiedot ja aukioloajat eivat nakyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
-    "Y-tunnus ei ole esilla sivustolla"
+    "Allergeeni- ja ravintosisältösivut eivät avaudu selaimen renderöinnillä, joten sisältöä ei voitu vahvistaa",
+    "Ravintoloiden yhteystiedot ja aukioloajat eivät näkyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
+    "Y-tunnus ei ole esillä sivustolla"
    ],
-   "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivat avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittaisten ravintoloiden aukioloajat eivat olleet tekstitasolla saatavilla.",
+   "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivät avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittäisten ravintoloiden aukioloajat eivät olleet tekstitasolla saatavilla.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -1126,7 +1126,7 @@
        "pisteet_max": 25,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Hinnasto-sivu sisaltaa tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat naet kuitenkin McDonaldsi-sovelluksesta tehdessasi mobiilitilauksen."
+       "quote": "HAVAINTO: Hinnasto-sivu sisältää tekstin: Saamamme asiakaspalautteen vuoksi olemme poistaneet hinnaston verkkosivuiltamme. Ravintolakohtaiset hinnat näet kuitenkin McDonaldsi-sovelluksesta tehdessäsi mobiilitilauksen."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -1144,7 +1144,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisaltoa ei voitu vahvistaa mittauksessa."
+       "quote": "HAVAINTO: Navigaatiossa on linkki Raaka-aineet ruoan laatu -osiossa, mutta sivu ei avautunut renderonnissa. Raaka-aineiden alkuperasta kertovaa sisältöä ei voitu vahvistaa mittauksessa."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -1153,7 +1153,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Ravintolahaku-sivu latautuu ja nayttaa karttanakyman, mutta yksittaisten ravintoloiden osoite- ja aukiolotiedot eivat tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisaltoa ei voitu vahvistaa."
+       "quote": "HAVAINTO: Ravintolahaku-sivu latautuu ja näyttää karttanakyman, mutta yksittäisten ravintoloiden osoite- ja aukiolotiedot eivät tulleet renderointiin. Ravintolalista on oletettavasti kartassa, mutta sisältöä ei voitu vahvistaa."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -1162,7 +1162,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esiteta missaan mittauksessa loydetyssa kohdassa."
+       "quote": "HAVAINTO: Sivuston alatunnisteessa lukee 2026 McDonaldsi. Kaikki oikeudet pidatetaan. Y-tunnusta (Food Folk Suomi Oy 2779836-6) ei esitetä missään mittauksessa löydetyssä kohdassa."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1171,7 +1171,7 @@
        "pisteet_max": 10,
        "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa nakyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisaltoa ei voitu vahvistaa renderöinnillä."
+       "quote": "HAVAINTO: Navigaatiossa näkyy Oiva-raportit vastuullisuus-osiossa. Oiva-raporttisivun sisältöä ei voitu vahvistaa renderöinnillä."
       }
      ]
     },
@@ -1267,15 +1267,15 @@
    "facts_extra": [],
    "vahvuudet": [
     "Mobiilisovellus kattaa tilaukset, pisteiden keräyksen ja ravintolakohtaiset hinnat",
-    "Ravintolahaku kartalla toimii ja nayttaa lahimmat ravintolat sijainnin perusteella",
-    "Navigaatiossa on viitteet ravintoarvolaskuriin, allergeeni- ja raaka-ainetietoihin seka Oiva-raportteihin"
+    "Ravintolahaku kartalla toimii ja näyttää lahimmat ravintolat sijainnin perusteella",
+    "Navigaatiossa on viitteet ravintoarvolaskuriin, allergeeni- ja raaka-ainetietoihin sekä Oiva-raportteihin"
    ],
    "kehityskohteet": [
-    "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat nakyy vain sovelluksesta",
-    "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivat lataudu selaimen renderöinnillä",
-    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
+    "Hinnat on tietoisesti poistettu verkkosivuilta — sivusto ilmoittaa: olemme poistaneet hinnaston verkkosivuiltamme, hinnat näkyy vain sovelluksesta",
+    "Useat sisältösivut (ravintoarvolaskuri, raaka-aineet, allergeenit, menu) eivät lataudu selaimen renderöinnillä",
+    "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain 2026 McDonaldsi"
    ],
-   "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivat avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
+   "yhteenveto": "McDonaldsin Suomen sivusto on siirtymisvaiheessa sovelluskesteiseen malliin: hinnat on tietoisesti poistettu verkkosivuilta ja ohjattu sovellukseen. Ravintolahaku toimii, mutta lukuisat sisältösivut eivät avaudu automaattisella renderöinnillä. Sivusto antaa kuluttajalle puutteellisen kuvan saatavilla olevasta tiedosta ilman sovelluksen lataamista.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -1337,7 +1337,7 @@
        "pisteet_max": 25,
        "pisteet": 12.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivusto nayttaa MENU- ja TILAA RAVINTOLASTA -linkit navigaatiossa, mutta /menu-URL palauttaa 404-virheen. Hintoja ei voitu vahvistaa mittauksessa — mittausaukko, ei todiste hintojen puuttumisesta."
+       "quote": "HAVAINTO: Sivusto näyttää MENU- ja TILAA RAVINTOLASTA -linkit navigaatiossa, mutta /menu-URL palauttaa 404-virheen. Hintoja ei voitu vahvistaa mittauksessa — mittausaukko, ei todiste hintojen puuttumisesta."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -1346,7 +1346,7 @@
        "pisteet_max": 25,
        "pisteet": 12.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston navigaatiossa nakyy MENU-linkki, mutta menu-sivu ei avautunut. Allergeeni- tai ravintosisaltotietoja ei voitu vahvistaa — mittausaukko."
+       "quote": "HAVAINTO: Sivuston navigaatiossa näkyy MENU-linkki, mutta menu-sivu ei avautunut. Allergeeni- tai ravintosisaltotietoja ei voitu vahvistaa — mittausaukko."
       },
       {
        "mittari": "Raaka-aineiden alkuperä kerrottu",
@@ -1355,7 +1355,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Saavutetuissa sivuissa (etusivu 144 merkia) ei loydetty mainintaa raaka-aineiden alkuperasta. Tiedon olemassaoloa ei voida vahvistaa tai kieltaa."
+       "quote": "HAVAINTO: Saavutetuissa sivuissa (etusivu 144 merkia) ei löydetty mainintaa raaka-aineiden alkuperasta. Tiedon olemassaoloa ei voida vahvistaa tai kieltaa."
       },
       {
        "mittari": "Ravintolat ja aukioloajat kerrottu",
@@ -1364,7 +1364,7 @@
        "pisteet_max": 15,
        "pisteet": 7.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa on RAVINTOLAT-linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintolaluettelo ja aukioloajat eivat avautuneet mittauksessa."
+       "quote": "HAVAINTO: Navigaatiossa on RAVINTOLAT-linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintolaluettelo ja aukioloajat eivät avautuneet mittauksessa."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -1373,7 +1373,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esiteta Y-tunnusta. Yritys on Fafas Plats Oy (Y-tunnus 2442719-9), mutta tata ei nayta sivustolla."
+       "quote": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetä Y-tunnusta. Yritys on Fafas Plats Oy (Y-tunnus 2442719-9), mutta tätä ei näytä sivustolla."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1382,7 +1382,7 @@
        "pisteet_max": 10,
        "pisteet": 5.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Navigaatiossa on Oiva-raportit-linkki. Oiva-raporttisivun sisaltoa ei voitu vahvistaa."
+       "quote": "HAVAINTO: Navigaatiossa on Oiva-raportit-linkki. Oiva-raporttisivun sisältöä ei voitu vahvistaa."
       }
      ]
     },
@@ -1482,11 +1482,11 @@
     "Sivusto on kaksikielinen (suomi/englanti) kielivalitsimella"
    ],
    "kehityskohteet": [
-    "Sivuston sisältösivut (menu, ravintolat) eivat avaudu renderöinnillä — sivusto renderoitui vain 144 merkiksi ja ali-URLit palauttavat 404",
+    "Sivuston sisältösivut (menu, ravintolat) eivät avaudu renderöinnillä — sivusto renderoitui vain 144 merkiksi ja ali-URLit palauttavat 404",
     "Tuotteiden hintoja, allergeeneja tai ravintosisaltoja ei voitu vahvistaa mittauksessa",
-    "Y-tunnus ei ole esilla sivustolla"
+    "Y-tunnus ei ole esillä sivustolla"
    ],
-   "yhteenveto": "Fafas on kotimainen pitaketju vuodelta 2011, jonka verkkosivusto on rakennettu asiakaspuolen renderointiin perustuvaksi. Etusivu renderoitui vain 144 merkiksi eika menu- tai ravintolasivu avautunut mittauksessa. Hintatietoja, allergeeneja tai raaka-aineiden alkuperaa ei voitu vahvistaa.",
+   "yhteenveto": "Fafas on kotimainen pitaketju vuodelta 2011, jonka verkkosivusto on rakennettu asiakaspuolen renderointiin perustuvaksi. Etusivu renderoitui vain 144 merkiksi eikä menu- tai ravintolasivu avautunut mittauksessa. Hintatietoja, allergeeneja tai raaka-aineiden alkuperää ei voitu vahvistaa.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   },
@@ -1548,7 +1548,7 @@
        "pisteet_max": 25,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei esiteta kuluttajahintoja. Sivusto on B2B-konseptisivu: KONSEPTIMME, TUOTTEET (franchising-nakokulma), LAITTEET, OTA YHTEYTTA. Kuluttajahintoja ei ole."
+       "quote": "HAVAINTO: Sivustolla ei esitetä kuluttajahintoja. Sivusto on B2B-konseptisivu: KONSEPTIMME, TUOTTEET (franchising-nakokulma), LAITTEET, OTA YHTEYTTA. Kuluttajahintoja ei ole."
       },
       {
        "mittari": "Allergeeni- ja ravintosisältötiedot tuotekohtaisesti",
@@ -1557,7 +1557,7 @@
        "pisteet_max": 25,
        "pisteet": 12.5,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Tuotteet-osiossa todetaan: Sibyllan omat tuotesivut ovat tyonalla. Klikkaamalla eteenpain, sirryt Atria Foodservice -sivustolle selaamaan tuotesivuja ja tuotetietoja. Allergeeneja ei esiteta suoraan sibylla.fi-sivustolla."
+       "quote": "HAVAINTO: Tuotteet-osiossa todetaan: Sibyllan omat tuotesivut ovat tyonalla. Klikkaamalla eteenpain, sirryt Atria Foodservice -sivustolle selaamaan tuotesivuja ja tuotetietoja. Allergeeneja ei esitetä suoraan sibylla.fi-sivustolla."
       },
       {
        "mittari": "Raaka-aineiden alkuperä kerrottu",
@@ -1575,7 +1575,7 @@
        "pisteet_max": 15,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei ole ravintolaluetteloa tai aukioloaikoja. Sibylla-pisteet ovat huoltoasemien ja kauppojen tiloissa, mutta naita ei listata sivustolla."
+       "quote": "HAVAINTO: Sivustolla ei ole ravintolaluetteloa tai aukioloaikoja. Sibylla-pisteet ovat huoltoasemien ja kauppojen tiloissa, mutta näitä ei listata sivustolla."
       },
       {
        "mittari": "Y-tunnus esillä",
@@ -1584,7 +1584,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Alatunnisteessa lukee Atria Suomi Oy. Y-tunnusta (Atria Concept Oy, 1731965-9) ei esiteta sivustolla."
+       "quote": "HAVAINTO: Alatunnisteessa lukee Atria Suomi Oy. Y-tunnusta (Atria Concept Oy, 1731965-9) ei esitetä sivustolla."
       },
       {
        "mittari": "Riippumaton arviolähde esillä",
@@ -1593,7 +1593,7 @@
        "pisteet_max": 10,
        "pisteet": 0.0,
        "lahde": "Verkkosivu + AI-ekstraktio",
-       "quote": "HAVAINTO: Sivustolla ei nakynyt Oiva-raportteja, sertifikaatteja tai muita riippumattomia arviointeja."
+       "quote": "HAVAINTO: Sivustolla ei näkynyt Oiva-raportteja, sertifikaatteja tai muita riippumattomia arviointeja."
       }
      ]
     },
@@ -1690,14 +1690,14 @@
    "vahvuudet": [
     "Sivusto esittelee Sibylla-konseptin selkeästi franchising-kumppaneille",
     "Vastuullisuus ja Atrian hiilineutraalius-tavoitteet esitelty sivustolla",
-    "Yhteydenottolomake ja toimisto-osoite (Atria Suomi Oy, Lakkisepantie 23, 00620 Helsinki) ovat esilla"
+    "Yhteydenottolomake ja toimisto-osoite (Atria Suomi Oy, Lakkisepantie 23, 00620 Helsinki) ovat esillä"
    ],
    "kehityskohteet": [
-    "Sivusto on suunnattu B2B-asiakkaille (franchising-kauppiaat), ei kuluttajille — kuluttajahinnat, allergeenit tai ravintolatiedot eivat ole saatavilla",
-    "Tuotesivut ovat tyon alla: Sibyllan omat tuotesivut ovat tyonalla, ja tuotetiedot on ohjattu Atria Foodservice -sivustolle",
-    "Ravintoloita tai pisteiden aukioloaikoja ei listata — Sibylla-pisteet ovat usein huoltoasemien tai kauppojen yhteydessa"
+    "Sivusto on suunnattu B2B-asiakkaille (franchising-kauppiaat), ei kuluttajille — kuluttajahinnat, allergeenit tai ravintolatiedot eivät ole saatavilla",
+    "Tuotesivut ovat työn alla: Sibyllan omat tuotesivut ovat tyonalla, ja tuotetiedot on ohjattu Atria Foodservice -sivustolle",
+    "Ravintoloita tai pisteiden aukioloaikoja ei listata — Sibylla-pisteet ovat usein huoltoasemien tai kauppojen yhteydessä"
    ],
-   "yhteenveto": "Sibylla-sivusto on suunnattu franchising-kumppaneille, ei kuluttajille: se esittelee konseptia kauppiaille eika sisalla kuluttajahintoja, allergeeneja tai ravintolaluetteloa. Tuotesivut ovat tyon alla ja tiedot on ohjattu Atria Foodservice -sivustolle. Kuluttajan nakokulmasta verkkosivusto ei tarjoa vertailtavissa olevia tietoja.",
+   "yhteenveto": "Sibylla-sivusto on suunnattu franchising-kumppaneille, ei kuluttajille: se esittelee konseptia kauppiaille eikä sisällä kuluttajahintoja, allergeeneja tai ravintolaluetteloa. Tuotesivut ovat työn alla ja tiedot on ohjattu Atria Foodservice -sivustolle. Kuluttajan näkökulmasta verkkosivusto ei tarjoa vertailtavissa olevia tietoja.",
    "sitoutumis_bonus": 0.0,
    "sitoutumisindeksi": []
   }

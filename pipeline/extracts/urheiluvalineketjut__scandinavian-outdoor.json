@@ -1,50 +1,50 @@
 {
-  "slug": "scandinavian-outdoor",
-  "fetched_ok": [
-    "https://scandinavianoutdoor.fi/",
-    "https://scandinavianoutdoor.fi/sivu/asiakaspalvelu/",
-    "https://scandinavianoutdoor.fi/sivu/tietosuojaseloste/",
-    "https://scandinavianoutdoor.fi/sivu/asiakaslupaus/"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 78,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 72
-  },
-  "vahvuudet": [
-    "Tuotehinnat ja vertailuhinnat esillä selkeästi tuotekaruselleissa ja sivulla",
-    "Ilmainen toimitus yli 149 euron tilauksille ja 100 päivän palautusoikeus prominentisti etusivulla näkyvissä",
-    "Asiakaspalvelukanavat (chat, sähköposti, puhelin) selkeästi esillä sivulla"
-  ],
-  "kehityskohteet": [
-    "Myymälöiden aukioloajat puuttuvat jokaisen myymälän osalta; footerissa luetelaan kaupunkien nimet mutta ei aukioloaikoja",
-    "Sisäsivujen (toimitus, palautus, maksutavat) sisältö ei latautuu normaalisti JS-renderöinnillä; sivuilla näkyy vain 404-viesti vaikka URL:t ovat olemassa",
-    "Ei häkösivua (FAQ) yleisten asiakaskysymysten vastauksille eikä mobiilisovellusta listattu"
-  ],
-  "yhteenveto": "Scandinavian Outdoor on suomalainen retkeilyvaruste- ja ulkoiluvaatekauppa, joka perustettiin vuonna 1970. Etusivulla näkyy selkeästi tuotehinnat, ilmainen toimitus ja 100 päivän palautusoikeus. Yritystunnus ja asiakaspalvelutiedot ovat julkisesti saatavilla. Kuitenkin myymälöiden aukioloajat puuttuvat, sisäsivut eivät lataudu kunnolla ja asiakaspalvelussa ei ole häkösivua tai mobiilisovellusta.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Tuotehinnat ja vertailuhinnat näkyvät etusivun tuotekaruselleissa (esim. Klubihinta 79,90 € / Vertailuhinta: 109 €)",
-    "toimitus_kerrottu": "HAVAINTO: Etusivulla selkeä ilmoitus 'Ilmainen toimitus - Kaikkiin yli 149 euron tilauksiin'",
-    "palautusehdot_saatavilla": "HAVAINTO: Etusivulla näkyy '100 päivän palautusoikeus - Palauta ilmaiseksi käyttämätön tuote'",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Footerissa luetelaan kuuden myymälän sijainnit (Helsinki Forum, Pirkkala Veska, Pori Puuvilla, Raisio Kuninkoja, Vantaa Tammisto, Suksihuolto) mutta aukioloaikoja ei ole näkyvissä",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus Y-2066059-1 löytyy tietosuojaselostesivulta",
-    "riippumaton_arvio": "HAVAINTO: Sivuilla ei näy linkkejä riippumattomiin arviolähteihin",
-    "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla näkyy puhelin 010 3970 590 (ma-ti klo 10-16) ja tietosuojaselostossa 010-3970-550",
-    "email_esilla": "HAVAINTO: Sähköpostiosoite info@scandinavianoutdoor.fi näkyy asiakaspalvelusivulla ja footerissa",
-    "chat_mainittu": "HAVAINTO: Chat-palvelu mainittu asiakaspalvelusivulla 'Chat on nopein tapa ottaa meihin yhteyttä!' arkisin klo 8-20",
-    "aukioloajat_esilla": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 8-20) näkyvät, mutta puhelimen aukioloajat ovat rajoitetut (ma-ti 10-16) ja myymälöiden aukioloajat puuttuvat kokonaan",
-    "ukk_osio": "HAVAINTO: Sivuilla ei ole erillista FAQ-osaa"
-  }
+ "slug": "scandinavian-outdoor",
+ "fetched_ok": [
+  "https://scandinavianoutdoor.fi/",
+  "https://scandinavianoutdoor.fi/sivu/asiakaspalvelu/",
+  "https://scandinavianoutdoor.fi/sivu/tietosuojaseloste/",
+  "https://scandinavianoutdoor.fi/sivu/asiakaslupaus/"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 72
+ },
+ "vahvuudet": [
+  "Tuotehinnat ja vertailuhinnat esillä selkeästi tuotekaruselleissa ja sivulla",
+  "Ilmainen toimitus yli 149 euron tilauksille ja 100 päivän palautusoikeus prominentisti etusivulla näkyvissä",
+  "Asiakaspalvelukanavat (chat, sähköposti, puhelin) selkeästi esillä sivulla"
+ ],
+ "kehityskohteet": [
+  "Myymälöiden aukioloajat puuttuvat jokaisen myymälän osalta; footerissa luetelaan kaupunkien nimet mutta ei aukioloaikoja",
+  "Sisäsivujen (toimitus, palautus, maksutavat) sisältö ei latautuu normaalisti JS-renderöinnillä; sivuilla näkyy vain 404-viesti vaikka URL:t ovat olemassa",
+  "Ei häkösivua (FAQ) yleisten asiakaskysymysten vastauksille eikä mobiilisovellusta listattu"
+ ],
+ "yhteenveto": "Scandinavian Outdoor on suomalainen retkeilyvaruste- ja ulkoiluvaatekauppa, joka perustettiin vuonna 1970. Etusivulla näkyy selkeästi tuotehinnat, ilmainen toimitus ja 100 päivän palautusoikeus. Yritystunnus ja asiakaspalvelutiedot ovat julkisesti saatavilla. Kuitenkin myymälöiden aukioloajat puuttuvat, sisäsivut eivät lataudu kunnolla ja asiakaspalvelussa ei ole häkösivua tai mobiilisovellusta.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotehinnat ja vertailuhinnat näkyvät etusivun tuotekaruselleissa (esim. Klubihinta 79,90 € / Vertailuhinta: 109 €)",
+  "toimitus_kerrottu": "HAVAINTO: Etusivulla selkeä ilmoitus 'Ilmainen toimitus - Kaikkiin yli 149 euron tilauksiin'",
+  "palautusehdot_saatavilla": "HAVAINTO: Etusivulla näkyy '100 päivän palautusoikeus - Palauta ilmaiseksi käyttämätön tuote'",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Footerissa luetelaan kuuden myymälän sijainnit (Helsinki Forum, Pirkkala Veska, Pori Puuvilla, Raisio Kuninkoja, Vantaa Tammisto, Suksihuolto) mutta aukioloaikoja ei ole näkyvissä",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus Y-2066059-1 löytyy tietosuojaselostesivulta",
+  "riippumaton_arvio": "HAVAINTO: Sivuilla ei näy linkkejä riippumattomiin arviolähteihin",
+  "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla näkyy puhelin 010 3970 590 (ma-ti klo 10-16) ja tietosuojaselostossa 010-3970-550",
+  "email_esilla": "HAVAINTO: Sähköpostiosoite info@scandinavianoutdoor.fi näkyy asiakaspalvelusivulla ja footerissa",
+  "chat_mainittu": "HAVAINTO: Chat-palvelu mainittu asiakaspalvelusivulla 'Chat on nopein tapa ottaa meihin yhteyttä!' arkisin klo 8-20",
+  "aukioloajat_esilla": "HAVAINTO: Chat-palvelun aukioloajat (arkisin 8-20) näkyvät, mutta puhelimen aukioloajat ovat rajoitetut (ma-ti 10-16) ja myymälöiden aukioloajat puuttuvat kokonaan",
+  "ukk_osio": "HAVAINTO: Sivuilla ei ole erillistä FAQ-osaa"
+ }
 }

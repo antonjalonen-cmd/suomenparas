@@ -1,40 +1,44 @@
 {
-  "slug": "qobuz",
-  "fetched_ok": [
-    "https://www.qobuz.com/fi-en/",
-    "https://www.qobuz.com/fi-en/discover"
-  ],
-  "hinnat_esilla": "kylla",
-  "tasojen_erot_kerrottu": "osittain",
-  "irtisanominen_kerrottu": "kylla",
-  "omistaja_kerrottu": "kylla",
-  "suomenkielinen_palvelu": "osittain",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "ei",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "perustaso_kk_hinta_eur": 13.50,
-  "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 72, "sisallon_kattavuus": 58},
-  "vahvuudet": [
-    "Hinnat selkeasti esilla jo paasivu: 13,50 e/kk (vuositilaus) ja 15,99 e/kk (kuukausitilaus)",
-    "Omistaja tarkasti ilmoitettu: '© 2026 XANDRIE SA - 45 rue de Delizy, 93692 Pantin CEDEX, France'",
-    "Vuositilauksen ei-palautettavuus mainitaan selkeasti asteriskihuomautuksessa"
-  ],
-  "kehityskohteet": [
-    "Suomenkielinen palvelu puuttuu: Suomen lokaalin kieli on englanti (fi-en), ei suomi",
-    "Tilaustasojen erot (Solo, Duo, Family, Student) eivat nay vertailevana taulukkona paasivu",
-    "Yhteystiedot vain 'ota yhteytta'-linkkina; ei puhelinnumeroa, sahkopostia tai chatia"
-  ],
-  "yhteenveto": "Qobuz nayttaa hinnat selkeasti paasivu (13,50 e/kk vuosi- tai 15,99 e/kk kuukausitilaus), omistaja on tarkasti ilmoitettu (XANDRIE SA, Ranska) ja vuositilauksen ei-palautettavuus mainitaan. Heikkous: Suomen lokaalin kieli on englanti, ei suomi, joten suomenkielista asiointia ei ole. Tilaustasojen vertailu puuttuu paasivu.",
-  "evidence": {
-    "hinnat_esilla": "Sivulla: 'From €13,50 /Month* ... Monthly subscription available at €15,99/month.' Molemmat hinnat selkeasti paasivulla.",
-    "tasojen_erot_kerrottu": "HAVAINTO: Footerissa mainitaan Qobuz Duo, Qobuz Family, Qobuz Student -tilaukset, mutta niiden hinnat tai erot eivat naydy paasivu. Tarkkaa vertailua ei loydetty avoimelta sivulta.",
-    "irtisanominen_kerrottu": "Sivulla: '* For a 12-month non-refundable subscription, with a single payment of €162,00. Monthly subscription available at €15,99/month.' — vuositilaus ei-palautettava, kuukausitilaus ei sido.",
-    "omistaja_kerrottu": "Sivulla (footer): '© 2026 XANDRIE SA – 45 rue de Delizy, 93692 Pantin CEDEX, France' — oikeusmuoto, osoite ja kotimaa kaikki ilmoitettu.",
-    "suomenkielinen_palvelu": "HAVAINTO: qobuz.com/fi-en/ nakyttaa englanninkielisen sisallon (fi-en = Finland, English). Hinnat euroissa kyllakin. Suomenkielinen sivusto puuttuu.",
-    "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei naytetty paasivu tai tilaussivulla."
-  }
+ "slug": "qobuz",
+ "fetched_ok": [
+  "https://www.qobuz.com/fi-en/",
+  "https://www.qobuz.com/fi-en/discover"
+ ],
+ "hinnat_esilla": "kylla",
+ "tasojen_erot_kerrottu": "osittain",
+ "irtisanominen_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "suomenkielinen_palvelu": "osittain",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "perustaso_kk_hinta_eur": 13.5,
+ "ai_arviot": {
+  "selkeys": 65,
+  "hintojen_loydettavyys": 72,
+  "sisallon_kattavuus": 58
+ },
+ "vahvuudet": [
+  "Hinnat selkeästi esillä jo pääsivu: 13,50 e/kk (vuositilaus) ja 15,99 e/kk (kuukausitilaus)",
+  "Omistaja tarkasti ilmoitettu: '© 2026 XANDRIE SA - 45 rue de Delizy, 93692 Pantin CEDEX, France'",
+  "Vuositilauksen ei-palautettavuus mainitaan selkeästi asteriskihuomautuksessa"
+ ],
+ "kehityskohteet": [
+  "Suomenkielinen palvelu puuttuu: Suomen lokaalin kieli on englanti (fi-en), ei suomi",
+  "Tilaustasojen erot (Solo, Duo, Family, Student) eivät nay vertailevana taulukkona pääsivu",
+  "Yhteystiedot vain 'ota yhteyttä'-linkkinä; ei puhelinnumeroa, sähköpostia tai chatia"
+ ],
+ "yhteenveto": "Qobuz näyttää hinnat selkeästi pääsivu (13,50 e/kk vuosi- tai 15,99 e/kk kuukausitilaus), omistaja on tarkasti ilmoitettu (XANDRIE SA, Ranska) ja vuositilauksen ei-palautettavuus mainitaan. Heikkous: Suomen lokaalin kieli on englanti, ei suomi, joten suomenkielistä asiointia ei ole. Tilaustasojen vertailu puuttuu paasivu.",
+ "evidence": {
+  "hinnat_esilla": "Sivulla: 'From €13,50 /Month* ... Monthly subscription available at €15,99/month.' Molemmat hinnat selkeästi paasivulla.",
+  "tasojen_erot_kerrottu": "HAVAINTO: Footerissa mainitaan Qobuz Duo, Qobuz Family, Qobuz Student -tilaukset, mutta niiden hinnat tai erot eivät naydy paasivu. Tarkkaa vertailua ei löydetty avoimelta sivulta.",
+  "irtisanominen_kerrottu": "Sivulla: '* For a 12-month non-refundable subscription, with a single payment of €162,00. Monthly subscription available at €15,99/month.' — vuositilaus ei-palautettava, kuukausitilaus ei sido.",
+  "omistaja_kerrottu": "Sivulla (footer): '© 2026 XANDRIE SA – 45 rue de Delizy, 93692 Pantin CEDEX, France' — oikeusmuoto, osoite ja kotimaa kaikki ilmoitettu.",
+  "suomenkielinen_palvelu": "HAVAINTO: qobuz.com/fi-en/ nakyttaa englanninkielisen sisällön (fi-en = Finland, English). Hinnat euroissa kyllakin. Suomenkielinen sivusto puuttuu.",
+  "riippumaton_arvio": "HAVAINTO: Riippumattomia arvioita tai palkintologoja ei näytetty pääsivu tai tilaussivulla."
+ }
 }

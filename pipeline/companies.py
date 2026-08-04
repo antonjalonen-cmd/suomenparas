@@ -934,7 +934,7 @@ COMPANIES["hautaustoimistot"] = [
     dict(slug="toro", nimi="Hautaustoimisto Toro", domain="hautaustoimistotoro.fi", y_tunnus="2740478-5",
          omistaja="Torowit Oy — Uusimaa, Varsinais-Suomi ja useita kaupunkeja (Tampere, Jyväskylä, Lahti, Kuopio, Vaasa, Oulu)"),
     dict(slug="hok-elannon-hautauspalvelu", nimi="HOK-Elannon Hautauspalvelu", domain="hok-elannonhautauspalvelu.fi", y_tunnus="1837957-3",
-         omistaja="HOK-Elanto Liiketoiminta Oy — S-ryhmän osuuskauppa, 12 toimistoa paakaupunkiseudulla"),
+         omistaja="HOK-Elanto Liiketoiminta Oy — S-ryhmän osuuskauppa, 12 toimistoa pääkaupunkiseudulla"),
     dict(slug="lohtu", nimi="Lohtu", domain="lohtu.fi", y_tunnus="3340382-6",
          omistaja="Lohtu Oy — verkkohautaustoimisto, palvelee lähes koko Suomessa"),
     dict(slug="hautauspalvelusi", nimi="Hautauspalvelusi.fi", domain="hautauspalvelusi.fi", y_tunnus="3518496-2",
@@ -1561,7 +1561,7 @@ COMPANIES["pakettipalvelut"] = [
 #   Tidal (tidal.com): koko domain palauttaa 403 myos JS-renderoinnilla (kuten McAfee/IKH).
 #   Napster: on pivotoitunut AI-agenttiyhtioksi, ei enaa musiikkistriimausta.
 #   SoundCloud Go+: soundcloud.com/go palauttaa HTTP 000; suomi-sivu ei tavoitettavissa.
-#   Amazon Music: music.amazon.fi ei ole olemassa; music.amazon.com on sisaankirjautumisportti
+#   Amazon Music: music.amazon.fi ei ole olemassa; music.amazon.com on sisäänkirjautumisportti
 #     ilman julkista hinnoittelua — ei mitattavissa kuluttajalle suunnatun hintatiedon osalta.
 COMPANIES["musiikkipalvelut"] = [
     dict(slug="spotify", nimi="Spotify", domain="spotify.com", y_tunnus=None,
@@ -1777,7 +1777,7 @@ COMPANIES["kahvilaketjut"] = [
          omistaja="Hermen Oy — brändin ja konseptin omistaja; franchise-pohjainen ketju; perustettu 1991; 30+ toimipaikkaa"),
     dict(slug="fazer-cafe", nimi="Fazer Café", domain="fazer.fi",
          y_tunnus="0202669-3",
-         omistaja="Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa paakaupunkiseudulla, Turussa ja Tampereella; lippulaivaKarl Fazer Café avattu 1891"),
+         omistaja="Oy Karl Fazer Ab — suomalainen perheyhtiö; Fazer Café on Fazer Foodservices -yksikön ketju; 24+ toimipaikkaa pääkaupunkiseudulla, Turussa ja Tampereella; lippulaiva Karl Fazer Café avattu 1891"),
     dict(slug="picnic", nimi="Picnic", domain="picnic.fi",
          y_tunnus="0789907-1",
          omistaja="Picnic Finland Oy — suomalainen; perustettu 1991; noin 40 ravintolaa yli 15 kaupungissa; patonki-, uuniperunat- ja salaattiketju, jossa kahvi on keskeinen tuote"),

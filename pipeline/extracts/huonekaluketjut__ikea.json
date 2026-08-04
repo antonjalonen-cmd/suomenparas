@@ -1,54 +1,54 @@
 {
-  "slug": "ikea",
-  "fetched_ok": [
-    "https://www.ikea.com/fi/fi/",
-    "https://www.ikea.com/fi/fi/customer-service/services/",
-    "https://www.ikea.com/fi/fi/customer-service/",
-    "https://www.ikea.com/fi/fi/stores/",
-    "https://www.ikea.com/fi/fi/stores/espoo/",
-    "https://www.ikea.com/fi/fi/search/?q=malm",
-    "https://www.ikea.com/fi/fi/customer-service/terms-conditions/"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {
-    "selkeys": 85,
-    "hintojen_loydettavyys": 80,
-    "sisallon_kattavuus": 75
-  },
-  "vahvuudet": [
-    "Kattava ja selkeä palvelujen esittely tuoteryhmittäin (kuljetus, Click & Collect, nouto, kokoaminen, suunnittelu) sekä niiden hinnoittelu perusperiaatteet kerrottu läpinäkyvästi",
-    "Tuotehintoja näkyvissä verkkokaupassa ja hakutuloksissa selkeästi ilman piilokuluita; 365 päivän vaihto- ja palautusoikeus mainittuna",
-    "Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteella ja aukioloajoilla; myös noutopisteet ja suunnittelustudiot merkittyinä"
-  ],
-  "kehityskohteet": [
-    "Y-tunnus ei näkyvissä asiakkaiden etusivulla vaan vain juridiset tekstit viittaavat Inter IKEA Systems B.V:n omistukseen; IKEA Oy tunnistetaan mutta rekisteritunnusta ei ilmoiteta",
-    "Puhelinnumero asiakaspalvelulle (soittaminen mainitaan palveluvaihtoehtona mutta numero puuttuu); vain chat ja toimipaikkapalvelut konkreettisesti saavutettavissa",
-    "Riippumattomia arviointeja tai sertifiointeja (kuten ympäristösertifikaatteja tuotteille) ei näkyvissä; pelkät omat asiakastarinat ja tuotearvostelut esillä"
-  ],
-  "yhteenveto": "IKEA on laaja kansainvälinen huonekaluketju, jolle palvelun läpinäkyvyys on keskiössä. Verkkosivuilla toimitusmaksut ja palautusehdot esitellään selkeästi, tuotehinnat ovat helposti saatavilla ja kaikki Suomen toimipaikat merkittyinä aukioloaikoineen. Puuttuvat Y-tunnus ja puhelinnumero sekä riippumattomien arvioiden puute heikentävät liiketoiminnan ja vastuullisuuden läpinäkyvyyttä hieman.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat näkyvät hakutuloksissa ja tuotesivuilla (esim. MALM-sängynrunko 149-549 euroa), hinnat merkitty selkeästi ja päivitettävissä reaaliajassa.",
-    "toimitus_kerrottu": "HAVAINTO: Palveluiden sivulla kerrotaan kuljetus- ja toimitusvaihtoehdoista sekä hinnastosta. Sivulla mainitaan: Pidämme hinnat edullisina ja läpinäkyvinä: toimitus osoitteeseesi ei piiloudu tuote kuluihin, joten maksat vain käyttämästäsi palvelusta. Click & Collect, peräkärryjen vuokraus ja IKEA Family -jäsenen hinnat mainittuina.",
-    "palautusehdot_saatavilla": "HAVAINTO: 365 päivän vaihto- ja palautusoikeus mainittuina asiakaspalvelun sivulla selkeästi. IKEA-takuu ja tuoteturvallisuus-osiot löytyvät, takaisinvedot dokumentoituina.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteilla ja aukioloajoilla (Espoo, Kuopio, Raisio, Tampere, Vantaa). Espoon tavaratalolla esimerkiksi Ma-Pe 10:00-21:00 ja La-Su 10:00-20:00. Noutopisteet ja suunnittelustudiot erikseen merkittyinä.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näytetä julkisesti verkkosivuilla. Vain kansainvälisen emoyhtiön Inter IKEA Systems B.V. maininta löytyy tekijänoikeusosassa; IKEA Oy mainitaan mutta rekisteritunnusta ei ilmoiteta.",
-    "riippumaton_arvio": "HAVAINTO: Riippumattomia kolmannen osapuolen arviointeja, auditointeja tai sertifiointeja ei näytetä. Pelkät IKEA:n omat asiakasarvostelut tuotteista esillä (esim. 4.5/5 tähteä, määrä arviostelut).",
-    "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla mainitaan soittaminen yhteydenpitotapana (soita tai chattaa), mutta konkreettista puhelinnumeroa ei näytetä asiakassivuilla. Puhelintuki on mainittu mutta numero on piilotettu tai vaatii kirjautumisen.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitetta asiakaspalvelulle ei näytetä julkisesti verkkosivuilla. Chat ja puhelintuki mainittuina, mutta email-yhteydenotto-ohjetta ei löydy.",
-    "chat_mainittu": "HAVAINTO: Asiakaspalvelun sivuilla mainitaan chattaaminen yhteydenpitotapana useaan otteeseen: Asiakaspalvelumme on täällä sinua varten. Osta verkosta, sovelluksesta, toimipaikasta, soita tai chattaa.",
-    "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvät selkeästi kunkin toimipaikan sivuilla (esim. Espoon tavaratalolla Ma-Pe 10:00-21:00, La-Su 10:00-20:00). Myös ravintolan, Click & Collectin ja Småland-leikkihuoneen omat aukioloajat merkittyinä.",
-    "ukk_osio": "HAVAINTO: Asiakaspalvelun sivulla on Usein kysyttyjä kysymyksia -osio, jossa apu tarjolla ostosten jokaisessa vaiheessa.",
-    "mobiilisovellus": "HAVAINTO: IKEA-sovellusta mainitaan footereissa ja tavaratalon sivuilla. Espoon tavaratalolla lukee: Fiksumpia ostoksia IKEA-sovelluksella. Sovelluksen latauslinkkejä ja ominaisuuksia promotoitaan."
-  }
+ "slug": "ikea",
+ "fetched_ok": [
+  "https://www.ikea.com/fi/fi/",
+  "https://www.ikea.com/fi/fi/customer-service/services/",
+  "https://www.ikea.com/fi/fi/customer-service/",
+  "https://www.ikea.com/fi/fi/stores/",
+  "https://www.ikea.com/fi/fi/stores/espoo/",
+  "https://www.ikea.com/fi/fi/search/?q=malm",
+  "https://www.ikea.com/fi/fi/customer-service/terms-conditions/"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 85,
+  "hintojen_loydettavyys": 80,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Kattava ja selkeä palvelujen esittely tuoteryhmittäin (kuljetus, Click & Collect, nouto, kokoaminen, suunnittelu) sekä niiden hinnoittelu perusperiaatteet kerrottu läpinäkyvästi",
+  "Tuotehintoja näkyvissä verkkokaupassa ja hakutuloksissa selkeästi ilman piilokuluita; 365 päivän vaihto- ja palautusoikeus mainittuna",
+  "Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteella ja aukioloajoilla; myös noutopisteet ja suunnittelustudiot merkittyinä"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus ei näkyvissä asiakkaiden etusivulla vaan vain juridiset tekstit viittaavat Inter IKEA Systems B.V:n omistukseen; IKEA Oy tunnistetaan mutta rekisteritunnusta ei ilmoiteta",
+  "Puhelinnumero asiakaspalvelulle (soittaminen mainitaan palveluvaihtoehtona mutta numero puuttuu); vain chat ja toimipaikkapalvelut konkreettisesti saavutettavissa",
+  "Riippumattomia arviointeja tai sertifiointeja (kuten ympäristösertifikaatteja tuotteille) ei näkyvissä; pelkät omat asiakastarinat ja tuotearvostelut esillä"
+ ],
+ "yhteenveto": "IKEA on laaja kansainvälinen huonekaluketju, jolle palvelun läpinäkyvyys on keskiössä. Verkkosivuilla toimitusmaksut ja palautusehdot esitellään selkeästi, tuotehinnat ovat helposti saatavilla ja kaikki Suomen toimipaikat merkittyinä aukioloaikoineen. Puuttuvat Y-tunnus ja puhelinnumero sekä riippumattomien arvioiden puute heikentävät liiketoiminnan ja vastuullisuuden läpinäkyvyyttä hieman.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat näkyvät hakutuloksissa ja tuotesivuilla (esim. MALM-sängynrunko 149-549 euroa), hinnat merkitty selkeästi ja päivitettävissä reaaliajassa.",
+  "toimitus_kerrottu": "HAVAINTO: Palveluiden sivulla kerrotaan kuljetus- ja toimitusvaihtoehdoista sekä hinnastosta. Sivulla mainitaan: Pidämme hinnat edullisina ja läpinäkyvinä: toimitus osoitteeseesi ei piiloudu tuote kuluihin, joten maksat vain käyttämästäsi palvelusta. Click & Collect, peräkärryjen vuokraus ja IKEA Family -jäsenen hinnat mainittuina.",
+  "palautusehdot_saatavilla": "HAVAINTO: 365 päivän vaihto- ja palautusoikeus mainittuina asiakaspalvelun sivulla selkeästi. IKEA-takuu ja tuoteturvallisuus-osiot löytyvät, takaisinvedot dokumentoituina.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Kaikki viisi Suomen IKEA-tavarataloa listattuina osoitteilla ja aukioloajoilla (Espoo, Kuopio, Raisio, Tampere, Vantaa). Espoon tavaratalolla esimerkiksi Ma-Pe 10:00-21:00 ja La-Su 10:00-20:00. Noutopisteet ja suunnittelustudiot erikseen merkittyinä.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei näytetä julkisesti verkkosivuilla. Vain kansainvälisen emoyhtiön Inter IKEA Systems B.V. maininta löytyy tekijänoikeusosassa; IKEA Oy mainitaan mutta rekisteritunnusta ei ilmoiteta.",
+  "riippumaton_arvio": "HAVAINTO: Riippumattomia kolmannen osapuolen arviointeja, auditointeja tai sertifiointeja ei näytetä. Pelkät IKEA:n omat asiakasarvostelut tuotteista esillä (esim. 4.5/5 tähteä, määrä arviostelut).",
+  "puhelin_esilla": "HAVAINTO: Asiakaspalvelusivulla mainitaan soittaminen yhteydenpitotapana (soita tai chattaa), mutta konkreettista puhelinnumeroa ei näytetä asiakassivuilla. Puhelintuki on mainittu mutta numero on piilotettu tai vaatii kirjautumisen.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta asiakaspalvelulle ei näytetä julkisesti verkkosivuilla. Chat ja puhelintuki mainittuina, mutta email-yhteydenotto-ohjetta ei löydy.",
+  "chat_mainittu": "HAVAINTO: Asiakaspalvelun sivuilla mainitaan chattaaminen yhteydenpitotapana useaan otteeseen: Asiakaspalvelumme on täällä sinua varten. Osta verkosta, sovelluksesta, toimipaikasta, soita tai chattaa.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloajat näkyvät selkeästi kunkin toimipaikan sivuilla (esim. Espoon tavaratalolla Ma-Pe 10:00-21:00, La-Su 10:00-20:00). Myös ravintolan, Click & Collectin ja Småland-leikkihuoneen omat aukioloajat merkittyinä.",
+  "ukk_osio": "HAVAINTO: Asiakaspalvelun sivulla on Usein kysyttyjä kysymyksiä -osio, jossa apu tarjolla ostosten jokaisessa vaiheessa.",
+  "mobiilisovellus": "HAVAINTO: IKEA-sovellusta mainitaan footereissa ja tavaratalon sivuilla. Espoon tavaratalolla lukee: Fiksumpia ostoksia IKEA-sovelluksella. Sovelluksen latauslinkkejä ja ominaisuuksia promotoitaan."
+ }
 }

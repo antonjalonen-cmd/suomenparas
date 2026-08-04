@@ -1,46 +1,46 @@
 {
-  "slug": "xxl",
-  "fetched_ok": [
-    "https://www.xxl.fi/",
-    "https://www.xxl.fi/toimitusehdot",
-    "https://www.xxl.fi/vaihto-ja-palautus"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 78,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 75
-  },
-  "vahvuudet": [
-    "Tuotehinnat, toimitusmaksut ja palautusehdot on esitetty selkeasti verkkokaupan eri sivuilla ennen kassaa",
-    "28 päivän vaihto- ja palautusoikeus sekä useita toimitusvaihtoehtoja (posti, Click & Collect, kotiinkuljetus) hintatiedoin",
-    "Asiakaspalvelu ja chat-palvelu saatavilla, XXL Reward -jäsenohjelma tarjoaa pisteitä ostoksista"
-  ],
-  "kehityskohteet": [
-    "Myymälöiden paikannin ja aukioloajat ovat vaikeasti löydettävissä; erillinen myymäläsivu antaa 404-virheen",
-    "Y-tunnus ei ole julkisesti esillä verkkokaupan sivuilla",
-    "FAQ-sivu antaa 404-virheen eikä riippumattomia arviota tai sertifiointeja esitellä"
-  ],
-  "yhteenveto": "XXL on pohjoismainen urheilukauppaketju, jonka verkkokaupassa tuotehinnat, toimitusvaihtoehdot ja palautusehdot esitetään avoimesti. Sivusto tarjoaa hyvät tiedot toimituksesta ja palautuksista, mutta myymälöiden löytäminen ja yritystietojen saatavuus voisi parantua.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Tuotehinnat ovat näkyvissä etusivulla ja tuotelistoissa (esim. Nike Run Defy 32€, Asics Gel-flux 8 78€, ActivePulse Duffelbag 12€)",
-    "toimitus_kerrottu": "HAVAINTO: /toimitusehdot-sivulla on yksityiskohtaiset tiedot toimitustavoista (posti 8,49€, Click & Collect 4,50€, kotiinkuljetus 8,49€-49,99€, Budbee) ja toimitusajoista (2-4 arkipäivää)",
-    "palautusehdot_saatavilla": "HAVAINTO: /vaihto-ja-palautus-sivulla on selkeät 28 päivän palautus- ja vaihto-oikeudet, ohjeistus palautuksesta ja poikkeukset (uima-asut, kellot, kuulokkeet)",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Navigaatiossa ja footer-osiossa mainitaan 'Tavaratalot' ja 'Yhteystiedot', mutta /tavaratalot ja /yhteystiedot-sivut palauttavat 404-virheitä",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy mitään julkisen verkkosivuston alueella. Footerissa on viittaukset 'Yrityksenä', 'Ihmisoikeuksiin' ja 'Yritysvastuu', mutta ne eivät sisällä Y-tunnusta",
-    "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei ole viittauksia riippumattomiin sertifiointeihin tai arviointilähteisiin. Sivuilla on vain XXL:n omat asiakasarviot (5/5 tähteä jne.)",
-    "chat_mainittu": "HAVAINTO: Etusivulla ja /toimitusehdot-sivulla mainitaan 'verkkokaupan chat-palvelu' ja 'chat-palvelussa' asiakaspalvelun yhteystietona",
-    "aukioloajat_esilla": "HAVAINTO: /toimitusehdot-sivulla mainitaan toimituksen ajankohta ('Lähetykset toimitetaan vastaanottajalle arkipäivisin'), mutta myymälöiden aukioloajat eivät ole löydettävissä"
-  }
+ "slug": "xxl",
+ "fetched_ok": [
+  "https://www.xxl.fi/",
+  "https://www.xxl.fi/toimitusehdot",
+  "https://www.xxl.fi/vaihto-ja-palautus"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Tuotehinnat, toimitusmaksut ja palautusehdot on esitetty selkeästi verkkokaupan eri sivuilla ennen kassaa",
+  "28 päivän vaihto- ja palautusoikeus sekä useita toimitusvaihtoehtoja (posti, Click & Collect, kotiinkuljetus) hintatiedoin",
+  "Asiakaspalvelu ja chat-palvelu saatavilla, XXL Reward -jäsenohjelma tarjoaa pisteitä ostoksista"
+ ],
+ "kehityskohteet": [
+  "Myymälöiden paikannin ja aukioloajat ovat vaikeasti löydettävissä; erillinen myymäläsivu antaa 404-virheen",
+  "Y-tunnus ei ole julkisesti esillä verkkokaupan sivuilla",
+  "FAQ-sivu antaa 404-virheen eikä riippumattomia arviota tai sertifiointeja esitellä"
+ ],
+ "yhteenveto": "XXL on pohjoismainen urheilukauppaketju, jonka verkkokaupassa tuotehinnat, toimitusvaihtoehdot ja palautusehdot esitetään avoimesti. Sivusto tarjoaa hyvät tiedot toimituksesta ja palautuksista, mutta myymälöiden löytäminen ja yritystietojen saatavuus voisi parantua.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotehinnat ovat näkyvissä etusivulla ja tuotelistoissa (esim. Nike Run Defy 32€, Asics Gel-flux 8 78€, ActivePulse Duffelbag 12€)",
+  "toimitus_kerrottu": "HAVAINTO: /toimitusehdot-sivulla on yksityiskohtaiset tiedot toimitustavoista (posti 8,49€, Click & Collect 4,50€, kotiinkuljetus 8,49€-49,99€, Budbee) ja toimitusajoista (2-4 arkipäivää)",
+  "palautusehdot_saatavilla": "HAVAINTO: /vaihto-ja-palautus-sivulla on selkeät 28 päivän palautus- ja vaihto-oikeudet, ohjeistus palautuksesta ja poikkeukset (uima-asut, kellot, kuulokkeet)",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Navigaatiossa ja footer-osiossa mainitaan 'Tavaratalot' ja 'Yhteystiedot', mutta /tavaratalot ja /yhteystiedot-sivut palauttavat 404-virheitä",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydy mitään julkisen verkkosivuston alueella. Footerissa on viittaukset 'Yrityksenä', 'Ihmisoikeuksiin' ja 'Yritysvastuu', mutta ne eivät sisällä Y-tunnusta",
+  "riippumaton_arvio": "HAVAINTO: Verkkosivuilla ei ole viittauksia riippumattomiin sertifiointeihin tai arviointilähteisiin. Sivuilla on vain XXL:n omat asiakasarviot (5/5 tähteä jne.)",
+  "chat_mainittu": "HAVAINTO: Etusivulla ja /toimitusehdot-sivulla mainitaan 'verkkokaupan chat-palvelu' ja 'chat-palvelussa' asiakaspalvelun yhteystietona",
+  "aukioloajat_esilla": "HAVAINTO: /toimitusehdot-sivulla mainitaan toimituksen ajankohta ('Lähetykset toimitetaan vastaanottajalle arkipäivisin'), mutta myymälöiden aukioloajat eivät ole löydettävissä"
+ }
 }

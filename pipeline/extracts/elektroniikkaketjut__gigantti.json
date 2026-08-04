@@ -1,47 +1,47 @@
 {
-  "slug": "gigantti",
-  "fetched_ok": [
-    "https://www.gigantti.fi/",
-    "https://www.gigantti.fi/asiakaspalvelu",
-    "https://www.gigantti.fi/asiakaspalvelu/ota-yhteytta",
-    "https://www.gigantti.fi/asiakaspalvelu/ostoehdot-yksityisasiakkaat",
-    "https://www.gigantti.fi/tietoa-gigantista",
-    "https://www.gigantti.fi/asiakaspalvelu/huolto-ja-tuki"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "kylla",
-  "palautusehdot_saatavilla": "kylla",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 80,
-    "hintojen_loydettavyys": 95,
-    "sisallon_kattavuus": 75
-  },
-  "vahvuudet": [
-    "Hinnat näkyvät selkeästi tuoteluetteloissa ilman kassalle menemistä, mikä helpottaa hintavertailua",
-    "Asiakaspalvelu saatavilla useissa kanavissa (puhelin, chat, live-myyjä) ja pitkät aukioloajat arkisin 9-20",
-    "Pitkä palautusoikeus - jopa 50 päivää Gigantti-klubin jäsenille ja 30 päivää muille ostajille, selkeät ehdot verkkosivuilla"
-  ],
-  "kehityskohteet": [
-    "Myymälöiden etsintäpalvelu ei ole käytettävissä (linkki johtaa 404-virheeseen), mikä vaikeuttaa nopeaa myymälöiden sijaintien tarkistamista",
-    "Itsenäisiä asiakasarvioita (esim. Trustpilot tai muita ulkoisia arvostelualustoja) ei ole linkattu verkkosivuilla",
-    "Mobiilisovellusta ei ole mainittu tai tarjottu, vaikka se helpottaisi hintojen vertailua ja tilausten seurantaa liikkeellä"
-  ],
-  "yhteenveto": "Gigantti on Suomen johtava elektronikkaketju, joka tarjoaa verkkokaupassaan selkeästi näkyviä hintoja, monipuolisia toimitusvaihtoehtoja ja asiakasystävällistä palvelua useissa kanavissa. Yritys noudattaa avoimesti suomalaisia liiketoimintakäytäntöjä ja tarjoaa pitkän palautusoikeuden myös asiakasklubin jäsenille. Kehitysmahdollisuuksia on fyysisten myymälöiden helpommassa löydettävyydessä verkossa ja riippumattomien arvioiden linkittämisessä asiakkaiden luottamuksen parantamiseksi.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotteet (Apple AirPods 119 euro, Samsung Galaxy -puhelimet 499 eurosta) on hinnoiteltu selkeästi ilman evästeiden hyväksymistä",
-    "toimitus_kerrottu": "HAVAINTO: Asiakaspalvelusivulla kerrotaan normaali toimitus-aika olevan 2-4 arkipäivää, suuremmille tuotteille voi valita itse toimituspäivän. Kodinkoneiden toimitus- ja asennusehdot linkitetty erillisesti",
-    "palautusehdot_saatavilla": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jasen paivassa paivassa 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Etusivulla mainitaan 'Etsi lahin myymala' ja asiakaspalvelusivulla viitataan myymaloiden loytamiseen, mutta myymaloiden hakupalvelun linkit johtavat 404-virheisiin",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1523846-8 ja paaosoite Sanomatalo, Tooloenlahden-katu 2, 00100 Helsinki mainitaan kahdella ostoehdoissa ja footerissa",
-    "riippumaton_arvio": "HAVAINTO: Tuotesivuilla nakyy Gigantin omat asiakasarviot (esim. 4,4/5 tähteä), mutta itsenäisiä ulkoisia arviointisivustoja ei ole linkattu"
-  }
+ "slug": "gigantti",
+ "fetched_ok": [
+  "https://www.gigantti.fi/",
+  "https://www.gigantti.fi/asiakaspalvelu",
+  "https://www.gigantti.fi/asiakaspalvelu/ota-yhteytta",
+  "https://www.gigantti.fi/asiakaspalvelu/ostoehdot-yksityisasiakkaat",
+  "https://www.gigantti.fi/tietoa-gigantista",
+  "https://www.gigantti.fi/asiakaspalvelu/huolto-ja-tuki"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "kylla",
+ "palautusehdot_saatavilla": "kylla",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 80,
+  "hintojen_loydettavyys": 95,
+  "sisallon_kattavuus": 75
+ },
+ "vahvuudet": [
+  "Hinnat näkyvät selkeästi tuoteluetteloissa ilman kassalle menemistä, mikä helpottaa hintavertailua",
+  "Asiakaspalvelu saatavilla useissa kanavissa (puhelin, chat, live-myyjä) ja pitkät aukioloajat arkisin 9-20",
+  "Pitkä palautusoikeus - jopa 50 päivää Gigantti-klubin jäsenille ja 30 päivää muille ostajille, selkeät ehdot verkkosivuilla"
+ ],
+ "kehityskohteet": [
+  "Myymälöiden etsintäpalvelu ei ole käytettävissä (linkki johtaa 404-virheeseen), mikä vaikeuttaa nopeaa myymälöiden sijaintien tarkistamista",
+  "Itsenäisiä asiakasarvioita (esim. Trustpilot tai muita ulkoisia arvostelualustoja) ei ole linkattu verkkosivuilla",
+  "Mobiilisovellusta ei ole mainittu tai tarjottu, vaikka se helpottaisi hintojen vertailua ja tilausten seurantaa liikkeellä"
+ ],
+ "yhteenveto": "Gigantti on Suomen johtava elektronikkaketju, joka tarjoaa verkkokaupassaan selkeästi näkyviä hintoja, monipuolisia toimitusvaihtoehtoja ja asiakasystävällistä palvelua useissa kanavissa. Yritys noudattaa avoimesti suomalaisia liiketoimintakäytäntöjä ja tarjoaa pitkän palautusoikeuden myös asiakasklubin jäsenille. Kehitysmahdollisuuksia on fyysisten myymälöiden helpommassa löydettävyydessä verkossa ja riippumattomien arvioiden linkittämisessä asiakkaiden luottamuksen parantamiseksi.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla näkyvät tuotteet (Apple AirPods 119 euro, Samsung Galaxy -puhelimet 499 eurosta) on hinnoiteltu selkeästi ilman evästeiden hyväksymistä",
+  "toimitus_kerrottu": "HAVAINTO: Asiakaspalvelusivulla kerrotaan normaali toimitus-aika olevan 2-4 arkipäivää, suuremmille tuotteille voi valita itse toimituspäivän. Kodinkoneiden toimitus- ja asennusehdot linkitetty erillisesti",
+  "palautusehdot_saatavilla": "HAVAINTO: Yksityisasiakkaat voivat peruuttaa 14 paivanissa toimituksesta, Gigantti-klubin jäsen päivässä päivässä 50 paivassa. Palautusehtojen paivat mainitaan verkkokaupan etusivulla ja yksityiskohtaisesti ostoehdoissa",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Etusivulla mainitaan 'Etsi lähin myymälä' ja asiakaspalvelusivulla viitataan myymälöiden löytämiseen, mutta myymälöiden hakupalvelun linkit johtavat 404-virheisiin",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1523846-8 ja paaosoite Sanomatalo, Tooloenlahden-katu 2, 00100 Helsinki mainitaan kahdella ostoehdoissa ja footerissa",
+  "riippumaton_arvio": "HAVAINTO: Tuotesivuilla näkyy Gigantin omat asiakasarviot (esim. 4,4/5 tähteä), mutta itsenäisiä ulkoisia arviointisivustoja ei ole linkattu"
+ }
 }

@@ -1,44 +1,44 @@
 {
-  "slug": "xbox-game-pass",
-  "fetched_ok": [
-    "https://www.xbox.com/fi-fi/xbox-game-pass",
-    "https://support.xbox.com/fi-FI/contact-us"
-  ],
-  "hinnat_esilla": "kylla",
-  "tasojen_erot_kerrottu": "kylla",
-  "pelikirjasto_kuvaus": "osittain",
-  "irtisanominen_kerrottu": "kylla",
-  "omistaja_kerrottu": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "perustaso_kk_hinta_eur": 8.99,
-  "ai_arviot": {
-    "selkeys": 72,
-    "hintojen_loydettavyys": 80,
-    "sisallon_kattavuus": 70
-  },
-  "vahvuudet": [
-    "Hinnat ja tilaustasojen erot esitetty selkeasti suomeksi: PC Game Pass 8,99 e/kk, Game Pass Ultimate 12,99 e/kk",
-    "Peruutusehdot ja hyvitysoikeus (30 pv) kerrottu julkisesti tilaussivulla",
-    "Live-chat-tuki saatavilla vuorokauden ympari ilman ajanvarausta"
-  ],
-  "kehityskohteet": [
-    "Koko pelikirjastoa ei voi selata ilman Microsoft-tiliin kirjautumista",
-    "Puhelin- tai sahkopostitukea ei tarjota; ainoa kanava on verkkokeskustelu",
-    "Riippumatonta arviota tai sertifiointia ei esiteta sivustolla"
-  ],
-  "yhteenveto": "Xbox Game Pass on Microsoftin pelitilauspalvelu, joka myydaan Suomessa kahdessa tasossa: PC Game Pass (8,99 e/kk, yli 300 PC-peliä) ja Game Pass Ultimate (12,99 e/kk, yli 400 peliä konsolille ja PC:lle, sisaltaa pilvipelaamisen ja EA Playn). Hinnat, tilaustasojen erot ja peruutusoikeus on kerrottu selkeasti suomeksi, mutta koko pelikirjastoa ei voi selata ilman kirjautumista.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Sivulla lukee 'Saat ensimmäisen kuukauden 1 eurolla, minkä jälkeen tilaus maksaa 8,99 euroa/kuukausi' (PC Game Pass) ja '12,99 euroa/kuukausi' (Game Pass Ultimate). Lisäksi 'Palvelupakettien hinnat alkaen 8,99 euroa / kuukaudessa'.",
-    "tasojen_erot_kerrottu": "HAVAINTO: Sivulla erotellaan PC Game Pass (yli 300 PC-peliä) ja Game Pass Ultimate (yli 400 peliä konsolille ja PC:lle, pilvisuoratoisto, EA Play, moninpeli). Erot esitetty rinnakkain suomeksi.",
-    "pelikirjasto_kuvaus": "HAVAINTO: Kirjaston koko mainitaan (300+ PC, 400+ konsoli+PC) ja yksittaisia pelejä esitellaan, mutta koko selattavaa listaa ei ole ilman sisaankirjautumista.",
-    "irtisanominen_kerrottu": "HAVAINTO: 'Tilaus jatkuu automaattisesti normaaliin kuukausihintaan, ellei sitä peruuteta Microsoft-tilisi kautta.' Hyvitys 30 paivan kuluessa mainita viimeisimmasta veloituksesta.",
-    "omistaja_kerrottu": "HAVAINTO: 'Microsoft' nakyy sivuston navigaatiossa, alatunnisteessa ja tilausehdoissa. 'Microsoft-tilisi kautta' toistuu useissa kohdissa.",
-    "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata yhteenkaan riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
-  }
+ "slug": "xbox-game-pass",
+ "fetched_ok": [
+  "https://www.xbox.com/fi-fi/xbox-game-pass",
+  "https://support.xbox.com/fi-FI/contact-us"
+ ],
+ "hinnat_esilla": "kylla",
+ "tasojen_erot_kerrottu": "kylla",
+ "pelikirjasto_kuvaus": "osittain",
+ "irtisanominen_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "perustaso_kk_hinta_eur": 8.99,
+ "ai_arviot": {
+  "selkeys": 72,
+  "hintojen_loydettavyys": 80,
+  "sisallon_kattavuus": 70
+ },
+ "vahvuudet": [
+  "Hinnat ja tilaustasojen erot esitetty selkeästi suomeksi: PC Game Pass 8,99 e/kk, Game Pass Ultimate 12,99 e/kk",
+  "Peruutusehdot ja hyvitysoikeus (30 pv) kerrottu julkisesti tilaussivulla",
+  "Live-chat-tuki saatavilla vuorokauden ympäri ilman ajanvarausta"
+ ],
+ "kehityskohteet": [
+  "Koko pelikirjastoa ei voi selata ilman Microsoft-tiliin kirjautumista",
+  "Puhelin- tai sahkopostitukea ei tarjota; ainoa kanava on verkkokeskustelu",
+  "Riippumatonta arviota tai sertifiointia ei esitetä sivustolla"
+ ],
+ "yhteenveto": "Xbox Game Pass on Microsoftin pelitilauspalvelu, joka myydään Suomessa kahdessa tasossa: PC Game Pass (8,99 e/kk, yli 300 PC-peliä) ja Game Pass Ultimate (12,99 e/kk, yli 400 peliä konsolille ja PC:lle, sisältää pilvipelaamisen ja EA Playn). Hinnat, tilaustasojen erot ja peruutusoikeus on kerrottu selkeästi suomeksi, mutta koko pelikirjastoa ei voi selata ilman kirjautumista.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Sivulla lukee 'Saat ensimmäisen kuukauden 1 eurolla, minkä jälkeen tilaus maksaa 8,99 euroa/kuukausi' (PC Game Pass) ja '12,99 euroa/kuukausi' (Game Pass Ultimate). Lisäksi 'Palvelupakettien hinnat alkaen 8,99 euroa / kuukaudessa'.",
+  "tasojen_erot_kerrottu": "HAVAINTO: Sivulla erotellaan PC Game Pass (yli 300 PC-peliä) ja Game Pass Ultimate (yli 400 peliä konsolille ja PC:lle, pilvisuoratoisto, EA Play, moninpeli). Erot esitetty rinnakkain suomeksi.",
+  "pelikirjasto_kuvaus": "HAVAINTO: Kirjaston koko mainitaan (300+ PC, 400+ konsoli+PC) ja yksittäisiä pelejä esitellään, mutta koko selattavaa listaa ei ole ilman sisaankirjautumista.",
+  "irtisanominen_kerrottu": "HAVAINTO: 'Tilaus jatkuu automaattisesti normaaliin kuukausihintaan, ellei sitä peruuteta Microsoft-tilisi kautta.' Hyvitys 30 päivän kuluessa mainita viimeisimmasta veloituksesta.",
+  "omistaja_kerrottu": "HAVAINTO: 'Microsoft' näkyy sivuston navigaatiossa, alatunnisteessa ja tilausehdoissa. 'Microsoft-tilisi kautta' toistuu useissa kohdissa.",
+  "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata yhteenkaan riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
+ }
 }

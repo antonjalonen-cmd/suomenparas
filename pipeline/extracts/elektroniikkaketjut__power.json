@@ -1,52 +1,52 @@
 {
-  "slug": "power",
-  "fetched_ok": [
-    "https://www.power.fi/",
-    "https://www.power.fi/asiakaspalvelu/toimitus/",
-    "https://www.power.fi/asiakaspalvelu/palautukset/",
-    "https://www.power.fi/asiakaspalvelu/ota-yhteytta/",
-    "https://www.power.fi/samsung/puhelimet/"
-  ],
-  "hinnat_esilla": "kylla",
-  "toimitus_kerrottu": "osittain",
-  "palautusehdot_saatavilla": "osittain",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "osittain",
-  "ai_arviot": {
-    "selkeys": 55,
-    "hintojen_loydettavyys": 75,
-    "sisallon_kattavuus": 50
-  },
-  "vahvuudet": [
-    "Selkeä brändi ja markkinointi: Power tunnetaan sloganillaan 'Sama halpa hinta myymälässä ja netissä', joka viestii läpinäkyvästä hinnoittelusta.",
-    "Verkko-ostamisen peruspalvelut saatavilla: Toimitus-, palautus- ja asiakaspalvelusivut ovat olemassa ja sivusto löydettävissä.",
-    "Laaja tuotevalikoima esillä: Verkkokaupan tuotekategoriat ovat saatavilla ja selailtavissa."
-  ],
-  "kehityskohteet": [
-    "Asiakaspalvelun sisältö ei ole helposti luettavissa: Asiakaspalvelun sivut latautuvat, mutta varsinainen sisältö on evästekäyttäjien takana, mikä vaikeuttaa tiedon löytämistä.",
-    "Kontaktitiedot ja aukioloajat eivät ole selvästi esillä: Sivusto vaatii merkittävää selailua tai JavaScript-renderointia tietojen löytämiseksi.",
-    "Riippumattomia arvioita ei ole esillä: Sivustolla ei ole näkyvää kolmannen osapuolen arviointipalvelun tai asiakasarvioiden integrointia."
-  ],
-  "yhteenveto": "Power on tunnettu suomalainen elektroniikkaketju, joka myy verkossa ja myymälöissä. Sivusto latautuu ja sisältää peruspalvelut, mutta on hyvin JavaScript-riippuvainen ja sisältö on pääosin evästekonsenttien takana. Hinnoittelu näkyy tuotesivuilla, mutta toimitus-, palautus- ja muut asiakaspalvelutiedot ovat vaikeaselkoisia johtuen sivuston tekniikasta.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat näkyvät tuotekategorioiden sivuilla (esim. Samsung-puhelimet), ja hinta näkyy välittömästi tuotesivun latautuessa.",
-    "toimitus_kerrottu": "HAVAINTO: Sivustolla on osoitteessa /asiakaspalvelu/toimitus/ olevä toimitus-sivu, joka latautuu HTTP 200:lla, mutta sisältö on evästekäyttäjän takana eivätkä toimitustiedot näy selvästi staattisen haun perusteella.",
-    "palautusehdot_saatavilla": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderointia vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: /myymala/-osoite ohjautuu takaisin etusivulle, mikä viittaa että myymälöiden listaus ei ole erillisellä sivulla vaan todennäköisesti interaktiivinen kartta JavaScript-päätteellä.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydetty etusivun staattisesta sisällöstä; se on todennäköisesti jalassa (footer) tai yritystiedot-sivulla, joita ei voitu lukea täysin JavaScript-renderingin rajoitusten vuoksi.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä kolmannen osapuolen arvioita (kuten TrustPilot tai Google-arvioita), eikä asiakasarvioita tuotesivuilla.",
-    "puhelin_esilla": "HAVAINTO: Ota yhteyttä -sivu latautuu, mutta puhelinnumero ei näy staattisessa haussa; se on todennäköisesti sivun interaktiivisessa osassa.",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löydy etusivun staattisesta sisällöstä; se on todennäköisesti asiakaspalvelusivuilla, joita ei voitu täysin lukea.",
-    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu etusivun näkyvissä osissa, mutta voi olla asiakaspalvelusivuilla tai interaktiivisena widgetinä.",
-    "aukioloajat_esilla": "HAVAINTO: Myymälöiden aukioloajoista ei löydy tietoja etusivulta; asiakaspalvelusivulla saattaa olla tietoja, mutta ne eivät näkyneet staattisessa haussa.",
-    "ukk_osio": "HAVAINTO: Sivustolla on /asiakaspalvelu/usein-kysytyt-kysymykset/ -sivu, joka latautuu, mutta FAQ-sisältö on evästekäyttöjen takana eivätkä kysymykset näkyneet staattisessa haussa.",
-    "mobiilisovellus": "HAVAINTO: Sovelluksesta ei ole mainintaa etusivulla; saattaa olla olemassa, mutta sitä ei mainostettu näkyvällä paikalla verkkokaupassa."
-  }
+ "slug": "power",
+ "fetched_ok": [
+  "https://www.power.fi/",
+  "https://www.power.fi/asiakaspalvelu/toimitus/",
+  "https://www.power.fi/asiakaspalvelu/palautukset/",
+  "https://www.power.fi/asiakaspalvelu/ota-yhteytta/",
+  "https://www.power.fi/samsung/puhelimet/"
+ ],
+ "hinnat_esilla": "kylla",
+ "toimitus_kerrottu": "osittain",
+ "palautusehdot_saatavilla": "osittain",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "osittain",
+ "ai_arviot": {
+  "selkeys": 55,
+  "hintojen_loydettavyys": 75,
+  "sisallon_kattavuus": 50
+ },
+ "vahvuudet": [
+  "Selkeä brändi ja markkinointi: Power tunnetaan sloganillaan 'Sama halpa hinta myymälässä ja netissä', joka viestii läpinäkyvästä hinnoittelusta.",
+  "Verkko-ostamisen peruspalvelut saatavilla: Toimitus-, palautus- ja asiakaspalvelusivut ovat olemassa ja sivusto löydettävissä.",
+  "Laaja tuotevalikoima esillä: Verkkokaupan tuotekategoriat ovat saatavilla ja selailtavissa."
+ ],
+ "kehityskohteet": [
+  "Asiakaspalvelun sisältö ei ole helposti luettavissa: Asiakaspalvelun sivut latautuvat, mutta varsinainen sisältö on evästekäyttäjien takana, mikä vaikeuttaa tiedon löytämistä.",
+  "Kontaktitiedot ja aukioloajat eivät ole selvästi esillä: Sivusto vaatii merkittävää selailua tai JavaScript-renderöintiä tietojen löytämiseksi.",
+  "Riippumattomia arvioita ei ole esillä: Sivustolla ei ole näkyvää kolmannen osapuolen arviointipalvelun tai asiakasarvioiden integrointia."
+ ],
+ "yhteenveto": "Power on tunnettu suomalainen elektroniikkaketju, joka myy verkossa ja myymälöissä. Sivusto latautuu ja sisältää peruspalvelut, mutta on hyvin JavaScript-riippuvainen ja sisältö on pääosin evästekonsenttien takana. Hinnoittelu näkyy tuotesivuilla, mutta toimitus-, palautus- ja muut asiakaspalvelutiedot ovat vaikeaselkoisia johtuen sivuston tekniikasta.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Tuotteiden hinnat näkyvät tuotekategorioiden sivuilla (esim. Samsung-puhelimet), ja hinta näkyy välittömästi tuotesivun latautuessa.",
+  "toimitus_kerrottu": "HAVAINTO: Sivustolla on osoitteessa /asiakaspalvelu/toimitus/ olevä toimitus-sivu, joka latautuu HTTP 200:lla, mutta sisältö on evästekäyttäjän takana eivätkä toimitustiedot näy selvästi staattisen haun perusteella.",
+  "palautusehdot_saatavilla": "HAVAINTO: Palautuksien sivu /asiakaspalvelu/palautukset/ latautuu HTTP 200:lla, mutta sisältö on JavaScript-renderöintiä vaativa ja evästekäyttöjen takana, joten palautusehtojen täysi lukeminen ei onnistunut automaattisella haulla.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: /myymala/-osoite ohjautuu takaisin etusivulle, mikä viittaa että myymälöiden listaus ei ole erillisellä sivulla vaan todennäköisesti interaktiivinen kartta JavaScript-päätteellä.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löydetty etusivun staattisesta sisällöstä; se on todennäköisesti jalassa (footer) tai yritystiedot-sivulla, joita ei voitu lukea täysin JavaScript-renderingin rajoitusten vuoksi.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä kolmannen osapuolen arvioita (kuten TrustPilot tai Google-arvioita), eikä asiakasarvioita tuotesivuilla.",
+  "puhelin_esilla": "HAVAINTO: Ota yhteyttä -sivu latautuu, mutta puhelinnumero ei näy staattisessa haussa; se on todennäköisesti sivun interaktiivisessa osassa.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei löydy etusivun staattisesta sisällöstä; se on todennäköisesti asiakaspalvelusivuilla, joita ei voitu täysin lukea.",
+  "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu etusivun näkyvissä osissa, mutta voi olla asiakaspalvelusivuilla tai interaktiivisena widgetinä.",
+  "aukioloajat_esilla": "HAVAINTO: Myymälöiden aukioloajoista ei löydy tietoja etusivulta; asiakaspalvelusivulla saattaa olla tietoja, mutta ne eivät näkyneet staattisessa haussa.",
+  "ukk_osio": "HAVAINTO: Sivustolla on /asiakaspalvelu/usein-kysytyt-kysymykset/ -sivu, joka latautuu, mutta FAQ-sisältö on evästekäyttöjen takana eivätkä kysymykset näkyneet staattisessa haussa.",
+  "mobiilisovellus": "HAVAINTO: Sovelluksesta ei ole mainintaa etusivulla; saattaa olla olemassa, mutta sitä ei mainostettu näkyvällä paikalla verkkokaupassa."
+ }
 }

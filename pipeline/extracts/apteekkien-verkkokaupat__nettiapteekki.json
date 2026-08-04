@@ -6,9 +6,9 @@
  "otc_hinnat_esilla": "kylla",
  "toimitusehdot_esilla": "kylla",
  "kehityskohteet": [
-  "Etusivu on tarjous- ja tuotelistapainotteinen; perustiedot loytyy alasivuilta navigoinnin kautta",
-  "Omaa mobiilisovellusta ei ole; kaytto vain selaimen kautta",
-  "Toimitusehdot-sivu loytyy vain Shopify policies-polulta, ei suoraa linkkia etusivulta"
+  "Etusivu on tarjous- ja tuotelistapainotteinen; perustiedot löytyy alasivuilta navigoinnin kautta",
+  "Omaa mobiilisovellusta ei ole; käyttö vain selaimen kautta",
+  "Toimitusehdot-sivu löytyy vain Shopify policies-polulta, ei suoraa linkkiä etusivulta"
  ],
  "riippumaton_arvio": "kylla",
  "fetched_ok": [
@@ -24,28 +24,28 @@
   "sisallon_kattavuus": 83,
   "hintojen_loydettavyys": 85
  },
- "yhteenveto": "Nettiapteekki on Seitseman veljeksen apteekin (Nurmijärvi) yllapitama verkkokauppa joka tarjoaa resepti- ja OTC-tuotteita seka laajan apteekkikosmetiikan valikoiman. Y-tunnus, toimitusehdot, palautusohjeet ja Fimea-viittaus ovat kaikki julkisesti saatavilla. Asiakaspalvelua tarjotaan puhelimitse, chattina ja sahkopostitse.",
+ "yhteenveto": "Nettiapteekki on Seitsemän veljeksen apteekin (Nurmijärvi) ylläpitämä verkkokauppa joka tarjoaa resepti- ja OTC-tuotteita sekä laajan apteekkikosmetiikan valikoiman. Y-tunnus, toimitusehdot, palautusohjeet ja Fimea-viittaus ovat kaikki julkisesti saatavilla. Asiakaspalvelua tarjotaan puhelimitse, chattina ja sahkopostitse.",
  "chat_mainittu": "kylla",
  "mobiilisovellus": "ei",
  "vahvuudet": [
-  "Y-tunnus (2629858-9) ja yrityksen kayntiosoite selkeasti esilla kayttoehdoissa",
+  "Y-tunnus (2629858-9) ja yrityksen kayntiosoite selkeästi esillä käyttöehdoissa",
   "Kattavat palautusohjeet: Posti, Schenker, Budbee ja PostNord; palautusmenettelyt yksityiskohtaisesti kuvattu",
-  "Chat-palvelu ma-pe 9-17, puhelin 050 4685986 ja sahkoposti info@nettiapteekki.fi; aukioloajat nakyvilla"
+  "Chat-palvelu ma-pe 9-17, puhelin 050 4685986 ja sähköposti info@nettiapteekki.fi; aukioloajat näkyvillä"
  ],
  "resepti_prosessi_selitetty": "kylla",
  "puhelin_esilla": "kylla",
  "evidence": {
-  "toimitusehdot_esilla": "HAVAINTO: Toimituskaytanto-sivu (policies/shipping-policy) on julkinen ja kattaa toimitushinnat, -ajat ja eri kuljetusyhtion vaihtoehdot.",
+  "toimitusehdot_esilla": "HAVAINTO: Toimituskäytäntö-sivu (policies/shipping-policy) on julkinen ja kattaa toimitushinnat, -ajat ja eri kuljetusyhtion vaihtoehdot.",
   "chat_mainittu": "HAVAINTO: Yhteystiedot-sivulla chat-palvelu mainittu: ma-pe 9-17, arkipyhina suljettu.",
-  "riippumaton_arvio": "HAVAINTO: Footerissa teksti Verkkokauppamme noudattaa Laakealan turvallisuus- ja kehittamiskeskus Fimean maarayksia, Fimea 029 522 3341.",
-  "otc_hinnat_esilla": "HAVAINTO: Etusivulla on laaja tuotelisting hintoineen; tarjoustuotteet hintoineen nakyvat ilman kirjautumista.",
-  "resepti_prosessi_selitetty": "HAVAINTO: Yhteystiedot-sivulla kerrotaan etta reseptipalvelu hoidetaan kirjautumalla ja reseptipyynnoilla; farmaseutti ottaa yhteyttä puhelimitse arkisin klo 9-16.",
-  "palautuspolitiikka_kerrottu": "HAVAINTO: Palautuskaytanto-sivu (policies/refund-policy) kertoo 14 paivan peruuttamisoikeuden, palautusohjeet Postille, Schenkerille, Budbeelle ja PostNordille, seka maksujen palautuskaytiannot.",
+  "riippumaton_arvio": "HAVAINTO: Footerissa teksti Verkkokauppamme noudattaa Laakealan turvallisuus- ja kehittamiskeskus Fimean määräyksiä, Fimea 029 522 3341.",
+  "otc_hinnat_esilla": "HAVAINTO: Etusivulla on laaja tuotelisting hintoineen; tarjoustuotteet hintoineen näkyvät ilman kirjautumista.",
+  "resepti_prosessi_selitetty": "HAVAINTO: Yhteystiedot-sivulla kerrotaan että reseptipalvelu hoidetaan kirjautumalla ja reseptipyynnoilla; farmaseutti ottaa yhteyttä puhelimitse arkisin klo 9-16.",
+  "palautuspolitiikka_kerrottu": "HAVAINTO: Palautuskäytäntö-sivu (policies/refund-policy) kertoo 14 päivän peruuttamisoikeuden, palautusohjeet Postille, Schenkerille, Budbeelle ja PostNordille, sekä maksujen palautuskaytiannot.",
   "mobiilisovellus": "HAVAINTO: Omaa mobiilisovellusta ei mainita sivustolla.",
-  "email_esilla": "HAVAINTO: Yhteystiedot-sivulla sahkoposti info@nettiapteekki.fi.",
+  "email_esilla": "HAVAINTO: Yhteystiedot-sivulla sähköposti info@nettiapteekki.fi.",
   "aukioloajat_esilla": "HAVAINTO: Yhteystiedot-sivulla aukioloajat: ma-pe 8:30-20, la 9-17, su 12-16.",
   "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla puhelin 050 4685986 (ma-pe 8:30-20, la 9-17, su 12-16).",
-  "y_tunnus_esilla": "HAVAINTO: Kayttoehdoissa (policies/terms-of-service) lukee y-tunnus: 2629858-9, kayntiosoite Mahlamaentie 2, 01900 Nurmijärvi.",
+  "y_tunnus_esilla": "HAVAINTO: Käyttöehdoissa (policies/terms-of-service) lukee y-tunnus: 2629858-9, kayntiosoite Mahlamaentie 2, 01900 Nurmijärvi.",
   "ukk_osio": "HAVAINTO: Footerin tietosivut-osassa on Usein kysytyt kysymykset -linkki."
  },
  "slug": "nettiapteekki",

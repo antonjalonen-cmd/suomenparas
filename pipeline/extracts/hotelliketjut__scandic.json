@@ -1,47 +1,47 @@
 {
-  "slug": "scandic",
-  "fetched_ok": [
-    "https://www.scandichotels.com/fi",
-    "https://www.scandichotels.com/fi/kohteet",
-    "https://www.scandichotels.com/fi/asiakaspalvelu",
-    "https://www.scandichotels.com/fi/hotelreservation/hae-varaus",
-    "https://www.scandichotels.com/fi/kohteet/suomi/helsinki",
-    "https://www.scandichotels.com/fi/meista"
-  ],
-  "hinnat_esilla": "osittain",
-  "peruutusehdot_esilla": "osittain",
-  "lisapalvelut_hinnoiteltu": "osittain",
-  "hotellit_ja_sijainnit": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {
-    "selkeys": 65,
-    "hintojen_loydettavyys": 45,
-    "sisallon_kattavuus": 58
-  },
-  "vahvuudet": [
-    "Laaja hotellien luettelo (56 suomalaisessa kaupungissa) ja kansainväliset kohteet selkeästi järjestetyt",
-    "Asiakaspalvelu helposti saavutettavissa usealla yhteystiedolla (puhelimella, sähköpostilla) ja selkeät aukioloajat",
-    "Mobiilisovellus ja kanta-asiakasohjelma (Scandic Friends) tarjoavat lisäarvoa vierailijoille"
-  ],
-  "kehityskohteet": [
-    "Huonehintojen näkyvyys vaatii varauspohjaiseen hakuun siirtymisen; staattisilla sivuilla hintoja ei näytetä ilman JS-renderointia",
-    "Varaus- ja peruutusehdot ovat saavutettavissa vain JS:n kautta, jotka estyivät CDN-suojalla (HTTP 403)",
-    "Lisäpalvelujen (aamiainen, huoneiden korotukset) hinnoittelu mainitaan, mutta ei näy etukäteen varausta tekemättä"
-  ],
-  "yhteenveto": "Scandic Hotels on Pohjoismainen hotelliketju, jolla on laajat hotelli-valinnat Suomessa ja muualla. Sivusto tarjoaa hyvät asiakaspalvelukontaktit ja selkeän hotelliluettelon, mutta hintojen, peruutusehtojen ja lisäpalvelujen hinnoittelun näkyvyys jää puutteelliseksi varsinaisen varauksen tekemisen myötä. Varaus-ehdot ovat tekniikan takia osittain pääsemättömät.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Varaussivulla ilmoitetaan 'Huonevaraukset teet kätevimmin nettisivuillamme' ja 'Nettisivuillamme saat aina parhaat edut ja parhaan mahdollisen hinnan', mutta staattisen HTML-hakuun hinnat eivät näy; vaaditaan JavaScript-renderointia.",
-    "peruutusehdot_esilla": "HAVAINTO: Asiakaspalvelun sivulla kerrotaan peruutusmenettelystä ('Netissä tehtyjä varauksia voit perua netissä'), mutta varaus- ja peruutusehdot-sivut palauttavat HTTP 200 mutta sisälsivät vain header/footer tai olivat CDN-estetyt (403). Ehdot eivät ole täysin julkisesti saavutettavissa ilman dynaamista renderointia.",
-    "lisapalvelut_hinnoiteltu": "HAVAINTO: FAQ mainitsee aamiaisen muutokset ('muuttaa varauksesi aamiaisosuutta'), ja pääsivulla kerrotaan aamiaispäivityksistä, mutta varsinaisia hintoja ei näytetä varaushaun ulkopuolella. Lisäpalveluiden hinnat vaativat varausvaiheeseen pääsyä.",
-    "hotellit_ja_sijainnit": "HAVAINTO: Kohteet-sivulla on kattava luettelo hotelleista 56:ssa suomalaisessa kaupungissa (Helsinki 18, Tampere 6, Turku 4, Jyväskylä 3 jne.). Kunkin kaupungin kohdalta näytetään hotellin lukumäärä, mutta yksittäisten hotellien osoitteita, puhelinnumeroita tai sähköpostiosoitteita ei ole listattu keskitetysti; ne saattavat olla saatavilla yksittäisten hotellien sivuilla.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita missään pääsivuilla, asiakaspalvelulla, tietosuojaselosteissa tai meistä-sivulla. Yhtiön rekisterinumeroa ei ole julkisesti näkyvillä web-sivuilla.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla mainitaan 'Joutsenmerkittyjä' (Swan certification) hotelleista, mikä on ympäristösertifikaatti. Muita riippumattomia auditointeja, arvioita tai kolmansien osapuolten sertifikaatteja ei mainita."
-  }
+ "slug": "scandic",
+ "fetched_ok": [
+  "https://www.scandichotels.com/fi",
+  "https://www.scandichotels.com/fi/kohteet",
+  "https://www.scandichotels.com/fi/asiakaspalvelu",
+  "https://www.scandichotels.com/fi/hotelreservation/hae-varaus",
+  "https://www.scandichotels.com/fi/kohteet/suomi/helsinki",
+  "https://www.scandichotels.com/fi/meista"
+ ],
+ "hinnat_esilla": "osittain",
+ "peruutusehdot_esilla": "osittain",
+ "lisapalvelut_hinnoiteltu": "osittain",
+ "hotellit_ja_sijainnit": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 65,
+  "hintojen_loydettavyys": 45,
+  "sisallon_kattavuus": 58
+ },
+ "vahvuudet": [
+  "Laaja hotellien luettelo (56 suomalaisessa kaupungissa) ja kansainväliset kohteet selkeästi järjestetyt",
+  "Asiakaspalvelu helposti saavutettavissa usealla yhteystiedolla (puhelimella, sähköpostilla) ja selkeät aukioloajat",
+  "Mobiilisovellus ja kanta-asiakasohjelma (Scandic Friends) tarjoavat lisäarvoa vierailijoille"
+ ],
+ "kehityskohteet": [
+  "Huonehintojen näkyvyys vaatii varauspohjaiseen hakuun siirtymisen; staattisilla sivuilla hintoja ei näytetä ilman JS-renderöintiä",
+  "Varaus- ja peruutusehdot ovat saavutettavissa vain JS:n kautta, jotka estyivät CDN-suojalla (HTTP 403)",
+  "Lisäpalvelujen (aamiainen, huoneiden korotukset) hinnoittelu mainitaan, mutta ei näy etukäteen varausta tekemättä"
+ ],
+ "yhteenveto": "Scandic Hotels on Pohjoismainen hotelliketju, jolla on laajat hotelli-valinnat Suomessa ja muualla. Sivusto tarjoaa hyvät asiakaspalvelukontaktit ja selkeän hotelliluettelon, mutta hintojen, peruutusehtojen ja lisäpalvelujen hinnoittelun näkyvyys jää puutteelliseksi varsinaisen varauksen tekemisen myötä. Varaus-ehdot ovat tekniikan takia osittain pääsemättömät.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Varaussivulla ilmoitetaan 'Huonevaraukset teet kätevimmin nettisivuillamme' ja 'Nettisivuillamme saat aina parhaat edut ja parhaan mahdollisen hinnan', mutta staattisen HTML-hakuun hinnat eivät näy; vaaditaan JavaScript-renderointia.",
+  "peruutusehdot_esilla": "HAVAINTO: Asiakaspalvelun sivulla kerrotaan peruutusmenettelystä ('Netissä tehtyjä varauksia voit perua netissä'), mutta varaus- ja peruutusehdot-sivut palauttavat HTTP 200 mutta sisälsivät vain header/footer tai olivat CDN-estetyt (403). Ehdot eivät ole täysin julkisesti saavutettavissa ilman dynaamista renderointia.",
+  "lisapalvelut_hinnoiteltu": "HAVAINTO: FAQ mainitsee aamiaisen muutokset ('muuttaa varauksesi aamiaisosuutta'), ja pääsivulla kerrotaan aamiaispäivityksistä, mutta varsinaisia hintoja ei näytetä varaushaun ulkopuolella. Lisäpalveluiden hinnat vaativat varausvaiheeseen pääsyä.",
+  "hotellit_ja_sijainnit": "HAVAINTO: Kohteet-sivulla on kattava luettelo hotelleista 56:ssa suomalaisessa kaupungissa (Helsinki 18, Tampere 6, Turku 4, Jyväskylä 3 jne.). Kunkin kaupungin kohdalta näytetään hotellin lukumäärä, mutta yksittäisten hotellien osoitteita, puhelinnumeroita tai sähköpostiosoitteita ei ole listattu keskitetysti; ne saattavat olla saatavilla yksittäisten hotellien sivuilla.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei mainita missään pääsivuilla, asiakaspalvelulla, tietosuojaselosteissa tai meistä-sivulla. Yhtiön rekisterinumeroa ei ole julkisesti näkyvillä web-sivuilla.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla mainitaan 'Joutsenmerkittyjä' (Swan certification) hotelleista, mikä on ympäristösertifikaatti. Muita riippumattomia auditointeja, arvioita tai kolmansien osapuolten sertifikaatteja ei mainita."
+ }
 }

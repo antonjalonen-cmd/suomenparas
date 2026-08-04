@@ -1,54 +1,54 @@
 {
-  "slug": "tekniikan-maailma",
-  "fetched_ok": [
-    "https://tekniikanmaailma.fi/",
-    "https://tekniikanmaailma.fi/toimituksen-yhteystiedot/",
-    "https://tilaus.tekniikanmaailma.fi/tilaus",
-    "https://otavamedia.fi/tilaus-ja-kayttoehdot/",
-    "https://tekniikanmaailma.fi/digilehden-lukuohje/"
-  ],
-  "tilaushinta_esilla": "kylla",
-  "tilauksen_peruutus_kerrottu": "kylla",
-  "paatoimittaja_esilla": "kylla",
-  "mainonta_eroteltu": "kylla",
-  "y_tunnus_esilla": "osittain",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "kylla",
-  "kestotilaus_eur_12kk": 179,
-  "ai_arviot": {
-    "selkeys": 80,
-    "hintojen_loydettavyys": 92,
-    "sisallon_kattavuus": 78
-  },
-  "vahvuudet": [
-    "Tilaushinnat (3kk digi 15€ norm. 44,70€, 10kk lehti+digi 99€ norm. 289€) esillä selkeästi ennen maksutietoja",
-    "Päätoimittaja Sami Rainisto nimetty ja toimituksen yhteystiedot täydelliset (040 342 4481, etunimi.sukunimi@otava.fi)",
-    "Asiakaspalvelu tavoitettavissa monella kanavalla (puhelin, sähköposti, chat, portal) ma-pe 8-19"
-  ],
-  "kehityskohteet": [
-    "Y-tunnus (0196807-2) näkyy vain Otavamedian sivuilla, ei tekniikanmaailma.fi:llä",
-    "Riippumatonta arviota (JSN-jäsenyys tai levikkitarkastus) ei mainittu",
-    "FAQ-sivu palauttaa 404-virheen osoitteesta /usein-kysytyt-kysymykset/"
-  ],
-  "yhteenveto": "Tekniikan Maailma on Otavamedian julkaisema teknologiaa ja autoja käsittelevä aikakauslehti. Sivusto tarjoaa selkeät tilaushinnat ja peruutusehdot sekä helposti löydettävät yhteystiedot toimitukselle ja asiakaspalvelulle. Päätoimittaja nimetään toimituksen yhteystiedot -sivulla ja mainokset ovat merkitty selkeästi.",
-  "evidence": {
-    "tilaushinta_esilla": "HAVAINTO: Tilaus.tekniikanmaailma.fi:n tilaussivulla näkyvät tilaushinnat ennen tietojen antamista: digi 3kk 15€ (norm. 44,70€), lehti+digi 3kk 29€ (norm. 86,70€), lehti+digi 10kk 99€ (norm. 289€)",
-    "tilauksen_peruutus_kerrottu": "HAVAINTO: Otavamedian tilaus-ja-kayttoehdot-sivulla selostetaan: 14 vuorokauden peruutusoikeus, jatkuvien tilausten irtisanominen 30 päivän irtisanomisajalla ensimmäisen tarjousjakson jälkeen",
-    "paatoimittaja_esilla": "HAVAINTO: Toimituksen yhteystiedot -sivulla mainitaan vastaava päätoimittaja Sami Rainisto, 040 342 4481. Toimituksen sähköpostiosoitteet muodossa etunimi.sukunimi@otava.fi",
-    "mainonta_eroteltu": "HAVAINTO: Etusivun HTML sisältää selkeästi merkittyjä mainoksia <h2>Mainos</h2>-otsikoilla, kaupallinen sisältö eroteltu redaktionellisesta",
-    "y_tunnus_esilla": "HAVAINTO: Julkaisija Otavamedia nimetään, Y-tunnus 0196807-2 näkyy Otavamedian tilaus-ja-kayttoehdot-sivulla mutta ei tekniikanmaailma.fi:lla",
-    "riippumaton_arvio": "HAVAINTO: JSN-jäsenyyttä tai levikkitarkastusta ei mainittu katsotulla sivulla",
-    "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumerot (09) 156 6227 ja 010 190 094 esillä, päätoimittaja Sami Rainiston numero 040 342 4481",
-    "email_esilla": "HAVAINTO: Sähköpostiosoitteet digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi ja toimituksen muodossa etunimi.sukunimi@otava.fi",
-    "chat_mainittu": "HAVAINTO: Otavamedian tilaus-ja-kayttoehdot-sivulla mainitaan chat-palvelu: tilauksen peruuttaminen onnistuu chat-palvelun välityksellä",
-    "aukioloajat_esilla": "HAVAINTO: Aukioloajat ma-pe 8-19 mainittu sekä etusivulla että muilla sivuilla",
-    "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -linkki osoitteesta /usein-kysytyt-kysymykset/ palauttaa 404-virheen",
-    "mobiilisovellus": "HAVAINTO: Tilaussivulla mainitaan TM-sovellus: Lue uusimmat testit, vertailut ja koeajot myös TM-sovelluksessa",
-    "kestotilaus_eur_12kk": "HAVAINTO: Halvin jatkuva tilaus on digi. Normaalihinta 3kk:lle on 44,70€, vuosihintaksi laskettuna 179€. Promootiohinta on 15€ per 3kk (60€ vuodessa), mutta se on kesäalennustuote."
-  }
+ "slug": "tekniikan-maailma",
+ "fetched_ok": [
+  "https://tekniikanmaailma.fi/",
+  "https://tekniikanmaailma.fi/toimituksen-yhteystiedot/",
+  "https://tilaus.tekniikanmaailma.fi/tilaus",
+  "https://otavamedia.fi/tilaus-ja-kayttoehdot/",
+  "https://tekniikanmaailma.fi/digilehden-lukuohje/"
+ ],
+ "tilaushinta_esilla": "kylla",
+ "tilauksen_peruutus_kerrottu": "kylla",
+ "paatoimittaja_esilla": "kylla",
+ "mainonta_eroteltu": "kylla",
+ "y_tunnus_esilla": "osittain",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "kestotilaus_eur_12kk": 179,
+ "ai_arviot": {
+  "selkeys": 80,
+  "hintojen_loydettavyys": 92,
+  "sisallon_kattavuus": 78
+ },
+ "vahvuudet": [
+  "Tilaushinnat (3kk digi 15€ norm. 44,70€, 10kk lehti+digi 99€ norm. 289€) esillä selkeästi ennen maksutietoja",
+  "Päätoimittaja Sami Rainisto nimetty ja toimituksen yhteystiedot täydelliset (040 342 4481, etunimi.sukunimi@otava.fi)",
+  "Asiakaspalvelu tavoitettavissa monella kanavalla (puhelin, sähköposti, chat, portal) ma-pe 8-19"
+ ],
+ "kehityskohteet": [
+  "Y-tunnus (0196807-2) näkyy vain Otavamedian sivuilla, ei tekniikanmaailma.fi:llä",
+  "Riippumatonta arviota (JSN-jäsenyys tai levikkitarkastus) ei mainittu",
+  "FAQ-sivu palauttaa 404-virheen osoitteesta /usein-kysytyt-kysymykset/"
+ ],
+ "yhteenveto": "Tekniikan Maailma on Otavamedian julkaisema teknologiaa ja autoja käsittelevä aikakauslehti. Sivusto tarjoaa selkeät tilaushinnat ja peruutusehdot sekä helposti löydettävät yhteystiedot toimitukselle ja asiakaspalvelulle. Päätoimittaja nimetään toimituksen yhteystiedot -sivulla ja mainokset ovat merkitty selkeästi.",
+ "evidence": {
+  "tilaushinta_esilla": "HAVAINTO: Tilaus.tekniikanmaailma.fi:n tilaussivulla näkyvät tilaushinnat ennen tietojen antamista: digi 3kk 15€ (norm. 44,70€), lehti+digi 3kk 29€ (norm. 86,70€), lehti+digi 10kk 99€ (norm. 289€)",
+  "tilauksen_peruutus_kerrottu": "HAVAINTO: Otavamedian tilaus-ja-käyttöehdot-sivulla selostetaan: 14 vuorokauden peruutusoikeus, jatkuvien tilausten irtisanominen 30 päivän irtisanomisajalla ensimmäisen tarjousjakson jälkeen",
+  "paatoimittaja_esilla": "HAVAINTO: Toimituksen yhteystiedot -sivulla mainitaan vastaava päätoimittaja Sami Rainisto, 040 342 4481. Toimituksen sähköpostiosoitteet muodossa etunimi.sukunimi@otava.fi",
+  "mainonta_eroteltu": "HAVAINTO: Etusivun HTML sisältää selkeästi merkittyjä mainoksia <h2>Mainos</h2>-otsikoilla, kaupallinen sisältö eroteltu redaktionellisesta",
+  "y_tunnus_esilla": "HAVAINTO: Julkaisija Otavamedia nimetään, Y-tunnus 0196807-2 näkyy Otavamedian tilaus-ja-käyttöehdot-sivulla mutta ei tekniikanmaailma.fi:lla",
+  "riippumaton_arvio": "HAVAINTO: JSN-jäsenyyttä tai levikkitarkastusta ei mainittu katsotulla sivulla",
+  "puhelin_esilla": "HAVAINTO: Asiakaspalvelun puhelinnumerot (09) 156 6227 ja 010 190 094 esillä, päätoimittaja Sami Rainiston numero 040 342 4481",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitteet digi@otavamedia.fi, asiakaspalvelu@otavamedia.fi ja toimituksen muodossa etunimi.sukunimi@otava.fi",
+  "chat_mainittu": "HAVAINTO: Otavamedian tilaus-ja-käyttöehdot-sivulla mainitaan chat-palvelu: tilauksen peruuttaminen onnistuu chat-palvelun välityksellä",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloajat ma-pe 8-19 mainittu sekä etusivulla että muilla sivuilla",
+  "ukk_osio": "HAVAINTO: Usein kysytyt kysymykset -linkki osoitteesta /usein-kysytyt-kysymykset/ palauttaa 404-virheen",
+  "mobiilisovellus": "HAVAINTO: Tilaussivulla mainitaan TM-sovellus: Lue uusimmat testit, vertailut ja koeajot myös TM-sovelluksessa",
+  "kestotilaus_eur_12kk": "HAVAINTO: Halvin jatkuva tilaus on digi. Normaalihinta 3kk:lle on 44,70€, vuosihintaksi laskettuna 179€. Promootiohinta on 15€ per 3kk (60€ vuodessa), mutta se on kesäalennustuote."
+ }
 }

@@ -1,43 +1,43 @@
 {
-  "slug": "stadium",
-  "fetched_ok": [
-    "https://www.stadium.fi/",
-    "https://www.stadium.fi/fi/kysymyksia-ja-vastauksia"
-  ],
-  "hinnat_esilla": "osittain",
-  "toimitus_kerrottu": "osittain",
-  "palautusehdot_saatavilla": "osittain",
-  "myymalat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 45,
-    "hintojen_loydettavyys": 35,
-    "sisallon_kattavuus": 40
-  },
-  "vahvuudet": [
-    "Y-tunnus ja yhteystiedot selvästi näkyvissä etusivulla",
-    "Aukioloajat (10.00-14.00 ma-pe) ilmoitettu asiakaspalvelun yhteydessä",
-    "FAQ-osio olemassa ja saavutettavissa"
-  ],
-  "kehityskohteet": [
-    "Tuotteiden hinnat eivät näy pääsivulla - kategoriasivut palauttavat HTTP 500 virheitä",
-    "Toimitus- ja palautusehtojen sivut eivät ole saavutettavissa automaattisille asiakkaille",
-    "Myymälöiden sijainnit ja aukioloajat linkitetty mutta sivut palauttavat virheitä"
-  ],
-  "yhteenveto": "Stadium on suomalainen urheiluvalineketju, jonka verkkosivuilla on merkittäviä saavutettavuusongelmia automaattisille asiakkaille. Yritystiedot (Y-tunnus 1515574-2), asiakaspalvelun yhteystiedot ja aukioloajat ovat näkyvissä, mutta tuotteiden hintojen löytäminen, toimitus-, palautus- ja myymäläsivut palauttavat virheitä. Sivusto näyttää olevan JavaScript-pohjainen, ja monet sisällön sivut ovat käytännöllisesti katsoen saavuttamattomia crawlerille.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla näkyy tuotekategorioita, mutta hinnat eivät ole näkyvissä tekstissä. Kategoriasivut palauttavat HTTP 500, joten hintojen näkyvyyttä ei voitu varmistaa.",
-    "toimitus_kerrottu": "HAVAINTO: Footer-alueella on linkki 'Toimitus', mutta sivu palauttaa HTTP 500 virhen. Toimitusehtoja ei voitu tutkia.",
-    "palautusehdot_saatavilla": "HAVAINTO: Footer-alueella on linkki 'Palautus/Reklamaatio', mutta sivu palauttaa HTTP 500 virhen. Palautusehtoja ei voitu tutkia.",
-    "myymalat_ja_aukioloajat": "HAVAINTO: Footer-alueella mainitaan 'Myymälämme' ja linkki kartalle, mutta myymälä- ja osoitesivut palauttavat HTTP 500 virheitä.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1515574-2 näkyy selvästi sivun alareunan tekijänoikeusilmoituksessa: '© Stadium Oy, Klovinpellontie 1-3 02180 Espoo, Y-tunnus: 1515574-2'",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä viitteitä riippumattomiin arviointipalveluihin tai asiakastuntemuksiin."
-  }
+ "slug": "stadium",
+ "fetched_ok": [
+  "https://www.stadium.fi/",
+  "https://www.stadium.fi/fi/kysymyksia-ja-vastauksia"
+ ],
+ "hinnat_esilla": "osittain",
+ "toimitus_kerrottu": "osittain",
+ "palautusehdot_saatavilla": "osittain",
+ "myymalat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 45,
+  "hintojen_loydettavyys": 35,
+  "sisallon_kattavuus": 40
+ },
+ "vahvuudet": [
+  "Y-tunnus ja yhteystiedot selvästi näkyvissä etusivulla",
+  "Aukioloajat (10.00-14.00 ma-pe) ilmoitettu asiakaspalvelun yhteydessä",
+  "FAQ-osio olemassa ja saavutettavissa"
+ ],
+ "kehityskohteet": [
+  "Tuotteiden hinnat eivät näy pääsivulla - kategoriasivut palauttavat HTTP 500 virheitä",
+  "Toimitus- ja palautusehtojen sivut eivät ole saavutettavissa automaattisille asiakkaille",
+  "Myymälöiden sijainnit ja aukioloajat linkitetty mutta sivut palauttavat virheitä"
+ ],
+ "yhteenveto": "Stadium on suomalainen urheiluvälineketju, jonka verkkosivuilla on merkittäviä saavutettavuusongelmia automaattisille asiakkaille. Yritystiedot (Y-tunnus 1515574-2), asiakaspalvelun yhteystiedot ja aukioloajat ovat näkyvissä, mutta tuotteiden hintojen löytäminen, toimitus-, palautus- ja myymäläsivut palauttavat virheitä. Sivusto näyttää olevan JavaScript-pohjainen, ja monet sisällön sivut ovat käytännöllisesti katsoen saavuttamattomia crawlerille.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla näkyy tuotekategorioita, mutta hinnat eivät ole näkyvissä tekstissä. Kategoriasivut palauttavat HTTP 500, joten hintojen näkyvyyttä ei voitu varmistaa.",
+  "toimitus_kerrottu": "HAVAINTO: Footer-alueella on linkki 'Toimitus', mutta sivu palauttaa HTTP 500 virhen. Toimitusehtoja ei voitu tutkia.",
+  "palautusehdot_saatavilla": "HAVAINTO: Footer-alueella on linkki 'Palautus/Reklamaatio', mutta sivu palauttaa HTTP 500 virhen. Palautusehtoja ei voitu tutkia.",
+  "myymalat_ja_aukioloajat": "HAVAINTO: Footer-alueella mainitaan 'Myymälämme' ja linkki kartalle, mutta myymälä- ja osoitesivut palauttavat HTTP 500 virheitä.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1515574-2 näkyy selvästi sivun alareunan tekijänoikeusilmoituksessa: '© Stadium Oy, Klovinpellontie 1-3 02180 Espoo, Y-tunnus: 1515574-2'",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei ole näkyvissä viitteitä riippumattomiin arviointipalveluihin tai asiakastuntemuksiin."
+ }
 }

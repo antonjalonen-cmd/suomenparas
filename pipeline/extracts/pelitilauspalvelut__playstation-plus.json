@@ -1,44 +1,44 @@
 {
-  "slug": "playstation-plus",
-  "fetched_ok": [
-    "https://www.playstation.com/fi-fi/ps-plus/",
-    "https://www.playstation.com/fi-fi/support/"
-  ],
-  "hinnat_esilla": "kylla",
-  "tasojen_erot_kerrottu": "kylla",
-  "pelikirjasto_kuvaus": "kylla",
-  "irtisanominen_kerrottu": "kylla",
-  "omistaja_kerrottu": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "ei",
-  "chat_mainittu": "kylla",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "perustaso_kk_hinta_eur": 9.95,
-  "ai_arviot": {
-    "selkeys": 78,
-    "hintojen_loydettavyys": 85,
-    "sisallon_kattavuus": 82
-  },
-  "vahvuudet": [
-    "Kolmen tason hinnat (Essential 9,95 e, Extra 15,95 e, Premium 18,95 e kuukaudessa) esitetty selkeasti rinnakkain suomeksi",
-    "Pelivalikoima selattavissa julkisesti ennen tilaamista (Kaikki pelit A-Z -linkki)",
-    "PlayStation App saatavilla iOSille ja Androidille"
-  ],
-  "kehityskohteet": [
-    "Tukikanavien aukioloaikoja ei kerrota PS Plus -sivulla",
-    "Puhelin- tai sahkopostituen numero tai osoite ei nay julkisesti",
-    "Riippumatonta ulkopuolista arviota tai sertifikaattia ei esiteta"
-  ],
-  "yhteenveto": "PlayStation Plus on Sonyn pelitilauspalvelu, jota myydaan Suomessa kolmessa tasossa: Essential (9,95 e/kk), Extra (15,95 e/kk) ja Premium (18,95 e/kk). Hinnat, tasojen erot ja peruutusehdot on esitetty kattavasti suomeksi, ja pelivalikoima on selattavissa julkisesti ennen tilauksen tekemista. Tukikanavista ainoastaan verkkokeskustelu mainitaan, eika puhelin- tai sahkopostitukea tarjota.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Sivulla nakyy kolme hintaa selkeasti: Essential 9,95 euroa/kk, Extra 15,95 euroa/kk, Premium 18,95 euroa/kk. Myos 3 kk- ja 12 kk-hinnat esitetty.",
-    "tasojen_erot_kerrottu": "HAVAINTO: Kolme tasoa (Essential, Extra, Premium) esitetaan rinnakkain ominaisuuslistojen kanssa: Essential sisaltaa moninpelin ja kuukauden pelit; Extra lisaa pelivalikoiman; Premium lisaa pilvisuoratoiston, klassikkovalikoiman ja pelin kokeiluversiot.",
-    "pelikirjasto_kuvaus": "HAVAINTO: PS Plus -sivulla on 'Katso kaikki pelit' ja 'Kaikki pelit A-Z' -linkki, joka avaa selattavan pelikirjaston ennen tilausta.",
-    "irtisanominen_kerrottu": "HAVAINTO: 'Tilaus jatkuu, kunnes se peruutetaan. Lue lisää hintojen muutoksista ja tilauksen perumisesta PS Plus -palvelun ehdoista.' Myos downgrade-prosessi selitetaan.",
-    "omistaja_kerrottu": "HAVAINTO: Sivu viittaa 'Sony'-brändiin toistuvasti (Sony Pictures Catalog, Sony Interactive Entertainment). 404-sivun alatunniste mainitsee 'SIE' eli Sony Interactive Entertainment.",
-    "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
-  }
+ "slug": "playstation-plus",
+ "fetched_ok": [
+  "https://www.playstation.com/fi-fi/ps-plus/",
+  "https://www.playstation.com/fi-fi/support/"
+ ],
+ "hinnat_esilla": "kylla",
+ "tasojen_erot_kerrottu": "kylla",
+ "pelikirjasto_kuvaus": "kylla",
+ "irtisanominen_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "perustaso_kk_hinta_eur": 9.95,
+ "ai_arviot": {
+  "selkeys": 78,
+  "hintojen_loydettavyys": 85,
+  "sisallon_kattavuus": 82
+ },
+ "vahvuudet": [
+  "Kolmen tason hinnat (Essential 9,95 e, Extra 15,95 e, Premium 18,95 e kuukaudessa) esitetty selkeästi rinnakkain suomeksi",
+  "Pelivalikoima selattavissa julkisesti ennen tilaamista (Kaikki pelit A-Z -linkki)",
+  "PlayStation App saatavilla iOSille ja Androidille"
+ ],
+ "kehityskohteet": [
+  "Tukikanavien aukioloaikoja ei kerrota PS Plus -sivulla",
+  "Puhelin- tai sahkopostituen numero tai osoite ei nay julkisesti",
+  "Riippumatonta ulkopuolista arviota tai sertifikaattia ei esitetä"
+ ],
+ "yhteenveto": "PlayStation Plus on Sonyn pelitilauspalvelu, jota myydään Suomessa kolmessa tasossa: Essential (9,95 e/kk), Extra (15,95 e/kk) ja Premium (18,95 e/kk). Hinnat, tasojen erot ja peruutusehdot on esitetty kattavasti suomeksi, ja pelivalikoima on selattavissa julkisesti ennen tilauksen tekemista. Tukikanavista ainoastaan verkkokeskustelu mainitaan, eikä puhelin- tai sahkopostitukea tarjota.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Sivulla näkyy kolme hintaa selkeästi: Essential 9,95 euroa/kk, Extra 15,95 euroa/kk, Premium 18,95 euroa/kk. Myös 3 kk- ja 12 kk-hinnat esitetty.",
+  "tasojen_erot_kerrottu": "HAVAINTO: Kolme tasoa (Essential, Extra, Premium) esitetään rinnakkain ominaisuuslistojen kanssa: Essential sisältää moninpelin ja kuukauden pelit; Extra lisää pelivalikoiman; Premium lisää pilvisuoratoiston, klassikkovalikoiman ja pelin kokeiluversiot.",
+  "pelikirjasto_kuvaus": "HAVAINTO: PS Plus -sivulla on 'Katso kaikki pelit' ja 'Kaikki pelit A-Z' -linkki, joka avaa selattavan pelikirjaston ennen tilausta.",
+  "irtisanominen_kerrottu": "HAVAINTO: 'Tilaus jatkuu, kunnes se peruutetaan. Lue lisää hintojen muutoksista ja tilauksen perumisesta PS Plus -palvelun ehdoista.' Myös downgrade-prosessi selitetaan.",
+  "omistaja_kerrottu": "HAVAINTO: Sivu viittaa 'Sony'-brändiin toistuvasti (Sony Pictures Catalog, Sony Interactive Entertainment). 404-sivun alatunniste mainitsee 'SIE' eli Sony Interactive Entertainment.",
+  "riippumaton_arvio": "HAVAINTO: Sivulla ei viitata riippumattomaan arviolahteeseen tai sertifiointiorganisaatioon."
+ }
 }

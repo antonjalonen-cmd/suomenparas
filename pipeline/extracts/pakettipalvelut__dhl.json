@@ -1,55 +1,55 @@
 {
-  "slug": "dhl",
-  "fetched_ok": [
-    "https://www.dhl.com/fi-fi/home.html",
-    "https://www.dhl.com/fi-fi/home/express.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu/find-your-contact.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-lahetysseuranta-ukk.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-servicepoint-haku-verkkokaupan-noudoille-ja-palautuksille.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-asiakaspalvelu.html",
-    "https://www.dhl.com/fi-fi/home/asiakaspalvelu/ota-yhteytta-dhl-ecommercein-liittyen-lahetykseen.html",
-    "https://www.dhl.com/fi-fi/home/tarjouksen-pyytaminen.html",
-    "https://www.dhl.com/fi-fi/home/laheta/rahtilahetysvaihtoehdot.html",
-    "https://www.dhl.com/fi-fi/home/alatunniste/kayttoehdot.html",
-    "https://www.dhl.com/fi-fi/home/alatunniste/petosten-tunnistaminen.html"
-  ],
-  "hinnasto_kuluttajalle": "ei",
-  "toimitusaika_kerrottu": "osittain",
-  "noutopisteet_tiedot": "osittain",
-  "reklamaatiomenettely": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "ei",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 45,
-    "hintojen_loydettavyys": 10,
-    "sisallon_kattavuus": 28
-  },
-  "vahvuudet": [
-    "UKK-osio kattaa lähetysseurannan, toimituksen, reklamaatiot, palautukset ja tullauksen selkeässä osiossa",
-    "ServicePoint-hakusivu löytyy julkiselta sivulta ja kertoo noutopisteiden olevan kauppoja, postitoimistoja ja Packstations-asemia",
-    "Sivustolla kerrotaan avoimesti, että Suomessa kotimaan toimitukset hoitaa Postin kanssa tehty kumppanuus"
-  ],
-  "kehityskohteet": [
-    "Kuluttajalle ei ole julkista hinnastoa kotimaanlähetyksistä – hinnat saa vain täyttämällä tarjouslomakkeen tai kirjautumalla MyDHL+-palveluun",
-    "Puhelinnumero, sähköposti, chat ja aukioloajat puuttuvat dhl.com/fi-fi-sivuilta – asiakaspalvelulinkit ohjaavat mydhl.express.dhl-alueelle, joka on eri domain",
-    "Y-tunnus tai suomalainen yritysrekisterinumero ei löydy mistään tutkitun sivuston sivulta"
-  ],
-  "yhteenveto": "DHL on kansainvälinen logistiikkayhtiö, jonka Suomen verkkosivusto (dhl.com/fi-fi) on suunnattu pääasiassa yritys- ja sopimusasiakkaille. Kuluttajan näkökulmasta sivusto on niukka: julkista hinnastoa kotimaan pakettilähetyksistä ei ole, eikä yhteystietoja (puhelinnumero, sähköposti tai chat) löydy dhl.com-sivuilta. Reklamaatioissa yksityinen asiakas ohjataan Postin sivuille, sillä DHL:n kanssa reklamaation voi tehdä vain sopimusasiakas.",
-  "evidence": {
-    "hinnasto_kuluttajalle": "HAVAINTO: Tarjouksen pyytaminen -sivulla kerrotaan 'meiltä saat välittömästi kuljetustarpeitasi vastaavan tarjouksen' – hinta edellyttää lomakkeen täyttämistä eikä julkista euromääräistä hinnastoa ole dhl.com/fi-fi-sivuilla näkyvissä.",
-    "toimitusaika_kerrottu": "HAVAINTO: UKK-sivulla ilmoitetaan eCommerce-saapumislähetyksille 'toimitusaika on 2–3 vuorokautta naapurimaihin ja jopa 20 vuorokautta kauempana oleviin maihin', mutta tämä koskee vain saapuvia kansainvälisiä paketteja – kuluttajan lähettämien pakettien toimitusaikaa ei ole mainittu.",
-    "noutopisteet_tiedot": "HAVAINTO: ServicePoint-haku-sivulla todetaan 'ServicePoint-pisteet ovat pakettikauppoja, postitoimistoja ja Packstations-asemia, jotka sijaitsevat kätevissä paikoissa' sekä tarjotaan DHL Finder -karttahaku, mutta kartan lataaminen vaatii JavaScript-renderöinnin eikä pisteiden lukumäärää mainita.",
-    "reklamaatiomenettely": "HAVAINTO: UKK-sivulla todetaan 'Jos toimitus on vaurioitunut tai siitä puuttuu sisältöä, noudata Postin verkkosivuilla annettuja ohjeita.' Kadonneista paketeista kerrotaan 'reklamaation voi tehdä vain DHL:n sopimuskumppanina toimiva lähettäjä' – yksityinen vastaanottaja ei siis voi reklamoida suoraan DHL:lle.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta tai suomalaista VAT-numeroa ei löydy etusivulta, käyttöehdoista eikä muilta tutkituilta dhl.com/fi-fi-sivuilta.",
-    "riippumaton_arvio": "HAVAINTO: Tutkituilla dhl.com/fi-fi-sivuilla ei ole mainintaa riippumattomista palkinnoista, sertifikaateista tai julkisista arvosteluista.",
-    "puhelin_esilla": "HAVAINTO: dhl.com/fi-fi-sivuilla ei ole puhelinnumeroa näkyvissä; find-your-contact-sivu ohjaa syöttämään seurantanumeron oikean yksikön löytämiseksi, jonka jälkeen yhteydenotto tapahtuu mydhl.express.dhl-sivuston kautta.",
-    "ukk_osio": "HAVAINTO: Sivustolla on 'DHL eCommerce lähetysseurannan usein kysytyt kysymykset' -sivu, joka sisältää osiot Lähetysseuranta, Toimitus, Reklamaatiot, Palautukset ja Tullaus/huolinta selkeinä vastauksina."
-  }
+ "slug": "dhl",
+ "fetched_ok": [
+  "https://www.dhl.com/fi-fi/home.html",
+  "https://www.dhl.com/fi-fi/home/express.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu/find-your-contact.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-lahetysseuranta-ukk.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-servicepoint-haku-verkkokaupan-noudoille-ja-palautuksille.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu/dhl-ecommerce-asiakaspalvelu.html",
+  "https://www.dhl.com/fi-fi/home/asiakaspalvelu/ota-yhteytta-dhl-ecommercein-liittyen-lahetykseen.html",
+  "https://www.dhl.com/fi-fi/home/tarjouksen-pyytaminen.html",
+  "https://www.dhl.com/fi-fi/home/laheta/rahtilahetysvaihtoehdot.html",
+  "https://www.dhl.com/fi-fi/home/alatunniste/kayttoehdot.html",
+  "https://www.dhl.com/fi-fi/home/alatunniste/petosten-tunnistaminen.html"
+ ],
+ "hinnasto_kuluttajalle": "ei",
+ "toimitusaika_kerrottu": "osittain",
+ "noutopisteet_tiedot": "osittain",
+ "reklamaatiomenettely": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 45,
+  "hintojen_loydettavyys": 10,
+  "sisallon_kattavuus": 28
+ },
+ "vahvuudet": [
+  "UKK-osio kattaa lähetysseurannan, toimituksen, reklamaatiot, palautukset ja tullauksen selkeässä osiossa",
+  "ServicePoint-hakusivu löytyy julkiselta sivulta ja kertoo noutopisteiden olevan kauppoja, postitoimistoja ja Packstations-asemia",
+  "Sivustolla kerrotaan avoimesti, että Suomessa kotimaan toimitukset hoitaa Postin kanssa tehty kumppanuus"
+ ],
+ "kehityskohteet": [
+  "Kuluttajalle ei ole julkista hinnastoa kotimaanlähetyksistä – hinnat saa vain täyttämällä tarjouslomakkeen tai kirjautumalla MyDHL+-palveluun",
+  "Puhelinnumero, sähköposti, chat ja aukioloajat puuttuvat dhl.com/fi-fi-sivuilta – asiakaspalvelulinkit ohjaavat mydhl.express.dhl-alueelle, joka on eri domain",
+  "Y-tunnus tai suomalainen yritysrekisterinumero ei löydy mistään tutkitun sivuston sivulta"
+ ],
+ "yhteenveto": "DHL on kansainvälinen logistiikkayhtiö, jonka Suomen verkkosivusto (dhl.com/fi-fi) on suunnattu pääasiassa yritys- ja sopimusasiakkaille. Kuluttajan näkökulmasta sivusto on niukka: julkista hinnastoa kotimaan pakettilähetyksistä ei ole, eikä yhteystietoja (puhelinnumero, sähköposti tai chat) löydy dhl.com-sivuilta. Reklamaatioissa yksityinen asiakas ohjataan Postin sivuille, sillä DHL:n kanssa reklamaation voi tehdä vain sopimusasiakas.",
+ "evidence": {
+  "hinnasto_kuluttajalle": "HAVAINTO: Tarjouksen pyytäminen -sivulla kerrotaan 'meiltä saat välittömästi kuljetustarpeitasi vastaavan tarjouksen' – hinta edellyttää lomakkeen täyttämistä eikä julkista euromääräistä hinnastoa ole dhl.com/fi-fi-sivuilla näkyvissä.",
+  "toimitusaika_kerrottu": "HAVAINTO: UKK-sivulla ilmoitetaan eCommerce-saapumislähetyksille 'toimitusaika on 2–3 vuorokautta naapurimaihin ja jopa 20 vuorokautta kauempana oleviin maihin', mutta tämä koskee vain saapuvia kansainvälisiä paketteja – kuluttajan lähettämien pakettien toimitusaikaa ei ole mainittu.",
+  "noutopisteet_tiedot": "HAVAINTO: ServicePoint-haku-sivulla todetaan 'ServicePoint-pisteet ovat pakettikauppoja, postitoimistoja ja Packstations-asemia, jotka sijaitsevat kätevissä paikoissa' sekä tarjotaan DHL Finder -karttahaku, mutta kartan lataaminen vaatii JavaScript-renderöinnin eikä pisteiden lukumäärää mainita.",
+  "reklamaatiomenettely": "HAVAINTO: UKK-sivulla todetaan 'Jos toimitus on vaurioitunut tai siitä puuttuu sisältöä, noudata Postin verkkosivuilla annettuja ohjeita.' Kadonneista paketeista kerrotaan 'reklamaation voi tehdä vain DHL:n sopimuskumppanina toimiva lähettäjä' – yksityinen vastaanottaja ei siis voi reklamoida suoraan DHL:lle.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta tai suomalaista VAT-numeroa ei löydy etusivulta, käyttöehdoista eikä muilta tutkituilta dhl.com/fi-fi-sivuilta.",
+  "riippumaton_arvio": "HAVAINTO: Tutkituilla dhl.com/fi-fi-sivuilla ei ole mainintaa riippumattomista palkinnoista, sertifikaateista tai julkisista arvosteluista.",
+  "puhelin_esilla": "HAVAINTO: dhl.com/fi-fi-sivuilla ei ole puhelinnumeroa näkyvissä; find-your-contact-sivu ohjaa syöttämään seurantanumeron oikean yksikön löytämiseksi, jonka jälkeen yhteydenotto tapahtuu mydhl.express.dhl-sivuston kautta.",
+  "ukk_osio": "HAVAINTO: Sivustolla on 'DHL eCommerce lähetysseurannan usein kysytyt kysymykset' -sivu, joka sisältää osiot Lähetysseuranta, Toimitus, Reklamaatiot, Palautukset ja Tullaus/huolinta selkeinä vastauksina."
+ }
 }

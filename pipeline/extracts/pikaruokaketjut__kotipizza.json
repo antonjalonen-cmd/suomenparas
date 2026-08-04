@@ -1,46 +1,46 @@
 {
-  "slug": "kotipizza",
-  "fetched_ok": [
-    "https://kotipizza.fi",
-    "https://www.kotipizza.fi/",
-    "https://www.kotipizza.fi/ravintolat",
-    "https://www.kotipizza.fi/raaka-aineet",
-    "https://www.kotipizza.fi/info/allergeenit"
-  ],
-  "hinnat_esilla": "kylla",
-  "allergeenit_esilla": "osittain",
-  "alkupera_kerrottu": "osittain",
-  "ravintolat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "osittain",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {
-    "selkeys": 80,
-    "hintojen_loydettavyys": 88,
-    "sisallon_kattavuus": 68
-  },
-  "vahvuudet": [
-    "Tuotteiden hinnat nakyivat suoraan etusivulla: Buffalo Pollo Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur ilman kirjautumista",
-    "Tilausprosessi alkaa suoraan etusivulta ilman rekisteroitymista, valikko on selkea ja kategorisoitu",
-    "Kotipizza-sovellus tarjolla ja kanta-asiakasohjelma esitelty selkein eduin"
-  ],
-  "kehityskohteet": [
-    "Allergeeni- ja ravintosisältösivut eivat avaudu selaimen renderöinnillä, joten sisaltoa ei voitu vahvistaa",
-    "Ravintoloiden yhteystiedot ja aukioloajat eivat nakyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
-    "Y-tunnus ei ole esilla sivustolla"
-  ],
-  "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivat avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittaisten ravintoloiden aukioloajat eivat olleet tekstitasolla saatavilla.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Etusivulla nakyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur.",
-    "allergeenit_esilla": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Raaka-aineet, mutta sivu palauttaa 404-virheen. Allergeeni- ja ravintoarvosisaltoa ei voitu vahvistaa.",
-    "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei loydetty tietoa mittauksessa saatavilla olleista sivuista.",
-    "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolat-sivu latautuu ja nayttaa Google Maps -karttanakyma, mutta yksittaisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissa nayttay.",
-    "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetty Y-tunnusta.",
-    "riippumaton_arvio": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Oiva-raportit, joka viittaa viranomaisten elintarvikevalvontaraportteihin."
-  }
+ "slug": "kotipizza",
+ "fetched_ok": [
+  "https://kotipizza.fi",
+  "https://www.kotipizza.fi/",
+  "https://www.kotipizza.fi/ravintolat",
+  "https://www.kotipizza.fi/raaka-aineet",
+  "https://www.kotipizza.fi/info/allergeenit"
+ ],
+ "hinnat_esilla": "kylla",
+ "allergeenit_esilla": "osittain",
+ "alkupera_kerrottu": "osittain",
+ "ravintolat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 80,
+  "hintojen_loydettavyys": 88,
+  "sisallon_kattavuus": 68
+ },
+ "vahvuudet": [
+  "Tuotteiden hinnat nakyivat suoraan etusivulla: Buffalo Pollo Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur ilman kirjautumista",
+  "Tilausprosessi alkaa suoraan etusivulta ilman rekisteröitymistä, valikko on selkeä ja kategorisoitu",
+  "Kotipizza-sovellus tarjolla ja kanta-asiakasohjelma esitelty selkein eduin"
+ ],
+ "kehityskohteet": [
+  "Allergeeni- ja ravintosisältösivut eivät avaudu selaimen renderöinnillä, joten sisältöä ei voitu vahvistaa",
+  "Ravintoloiden yhteystiedot ja aukioloajat eivät näkyneet tekstisisallossa, vaikka ravintolahaku latautui karttana",
+  "Y-tunnus ei ole esillä sivustolla"
+ ],
+ "yhteenveto": "Kotipizza on Suomen suurin pizzaketju, jonka sivustolla tuotteiden hinnat naytetan selkeästi suoraan valikossa. Allergeeni- ja raaka-ainesivut ovat navigaatiossa, mutta eivät avautuneet mittauksessa. Ravintolahaku toimii karttanakymana, mutta yksittäisten ravintoloiden aukioloajat eivät olleet tekstitasolla saatavilla.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Etusivulla näkyy useita tuotteita hinnastoineen: Buffalo Pollo Rulla 13,50 eur, Caprese Rulla 13,50 eur, Falafel Rulla 13,50 eur, Crispy Kana 3 kpl 4,90 eur, Fetasalaatti 14,20 eur.",
+  "allergeenit_esilla": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Raaka-aineet, mutta sivu palauttaa 404-virheen. Allergeeni- ja ravintoarvosisaltoa ei voitu vahvistaa.",
+  "alkupera_kerrottu": "HAVAINTO: Navigaatiossa on Raaka-aineet-linkki, mutta sivu ei avautunut. Raaka-aineiden alkuperasta ei löydetty tietoa mittauksessa saatavilla olleista sivuista.",
+  "ravintolat_ja_aukioloajat": "HAVAINTO: Ravintolat-sivu latautuu ja näyttää Google Maps -karttanakyma, mutta yksittäisten ravintoloiden osoite- ja aukiolotietoja ei renderoidussa tekstissä nayttay.",
+  "y_tunnus_esilla": "HAVAINTO: Sivuston alatunnisteessa tai saavutetuissa sivuissa ei esitetty Y-tunnusta.",
+  "riippumaton_arvio": "HAVAINTO: Navigaation TUOTTEET & LAATU -osiossa on linkki Oiva-raportit, joka viittaa viranomaisten elintarvikevalvontaraportteihin."
+ }
 }

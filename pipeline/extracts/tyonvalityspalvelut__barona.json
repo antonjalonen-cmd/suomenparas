@@ -1,53 +1,53 @@
 {
-  "slug": "barona",
-  "fetched_ok": [
-    "https://www.barona.fi/",
-    "https://www.barona.fi/tyopaikat/avoimet-tyopaikat-elintarviketeollisuus/",
-    "https://www.barona.fi/barona-tyonantajana/",
-    "https://www.barona.fi/barona/yhteystiedot/",
-    "https://www.barona.fi/barona/",
-    "https://www.barona.fi/vinkit-tyonhakuun/"
-  ],
-  "tyopaikat_esilla": "kylla",
-  "hakuprosessi_kuvattu": "kylla",
-  "palkkatieto_ilmoituksissa": "osittain",
-  "tyosuhteen_ehdot": "kylla",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "kylla",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "kylla",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "ei",
-  "ai_arviot": {
-    "selkeys": 75,
-    "hintojen_loydettavyys": 35,
-    "sisallon_kattavuus": 80
-  },
-  "vahvuudet": [
-    "Hakuprosessi on selkeasti kuvattu viidessä vaiheessa: profiilin luominen, työpaikkojen selaaminen, hakemuksen lähettäminen, edistymisen seuranta ja työn aloittaminen.",
-    "Työsuhteen muodot selitetty kattavasti: keikkatyö, määräaikaiset ja vakituiset tehtävät sekä mahdollisuus työskennellä Baronalla tai suoraan asiakasyrityksessa.",
-    "Kattava työntekijäetujen kuvaus sisältäen työterveyshuollon, TES-mukaisen palkan, joustavat työjärjestelyt ja urakehitysmahdollisuudet."
-  ],
-  "kehityskohteet": [
-    "Palkkatieto puuttuu tyypillisissä työnilmoituksissa: sivuilla käsitellään palkkatoivetta käsitteenä, mutta ei näytetä todellisia palkka-alukkita avatuissa työpaikoissa.",
-    "Y-tunnus ei ole näkyvissä yhteystiedoissa tai yritystiedoissa, vaikka se on perustieto työnhakijoille.",
-    "Riippumaton arvio tai sertifiointi puuttuu kokonaan: ei mainintoja työpaikkaselvityksenä tai vertailupalvelun arvioista."
-  ],
-  "yhteenveto": "Barona on vuonna 1999 perustettu suomalainen työnvälityspalvelu, joka tarjoaa monipuolisia työmahdollisuuksia keikkatyöstä vakituisiin tehtäviin. Sivusto on selkeä ja informatiivinen hakuprosessista sekä työsuhteen muodoista, mutta konkreettiset palkkitiedot eivät ole näkyvissä yrityksen omilla sivuilla vaan linkittyvät erilliselle Barona Careers -alustalle.",
-  "evidence": {
-    "tyopaikat_esilla": "HAVAINTO: Pääsivulla ja kategoriasivuilla mainitaan avoimet työpaikat ja viitataan Barona Careers -palveluun, jossa voi hakea kaikkia avoimia paikkoja. Sivusto ohjaa työnhakijoita selaamaan ja hakemaan töitä.",
-    "hakuprosessi_kuvattu": "HAVAINTO: 'Barona työnantajana' -sivulla kuvataan viisi vaihetta: 1) profiilin luominen, 2) työpaikkojen selaaminen ja räätälöityjen suositusten vastaanottaminen, 3) hakemuksen lähettäminen, 4) hakemuksen edistymisen seuranta, 5) työn aloittaminen.",
-    "palkkatieto_ilmoituksissa": "HAVAINTO: 'Vinkit työnhakuun' -sivulla käsitellään palkkatoivetta käsitteenä ja neuvottelua, mutta todellisia palkkasummia ei näytetä elintarviketeollisuuden kategoriasivulla. Maininta: 'Joillakin aloilla ja joissakin tehtävissä palkka muotoutuu automaattisesti työehtosopimusten mukaan'.",
-    "tyosuhteen_ehdot": "HAVAINTO: 'Barona työnantajana' -sivulla selitetään neljä tapaa työskennellä: keikkatyö, määräaikaiset tehtävät, vakituiset roolit ja työskentelymahdollisuudet ulkomailla. Etuja kuvataan kattavan työterveyshuollon, TES-mukaisen palkan, joustavien järjestelyjen ja uravalmennuksen kautta.",
-    "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt yhteystiedot-sivulla eikä yritystiedot-sivulla, vaikka perustetaan 'Barona on vuonna 1999 perustettu työelämäyhtiö'.",
-    "riippumaton_arvio": "HAVAINTO: Mitään riippumatonta arviota, sertifiointia tai ulkopuolisen tahon palvelun arviota ei mainita sivuilla.",
-    "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy '+358 20 198 3460' sekä palveluajat 'ma–pe 6–19, la 8–16 ja su 11–17'.",
-    "email_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy sähköpostiosoite 'info@barona.fi'.",
-    "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu millään fetatuilla sivuilla.",
-    "aukioloajat_esilla": "HAVAINTO: Puhelinnumeron yhteydessä mainitaan aukioloajat: 'ma–pe 6–19, la 8–16 ja su 11–17'.",
-    "ukk_osio": "HAVAINTO: FAQ-osio on olemassa kahdella tavalla: 'Töihin ulkomaille - Usein kysytyt kysymykset' -sivu käsittelee ulkomailla työskentelyn kysymyksiä, ja 'Barona työnantajana' -sivulla on osio 'Usein kysyttyjä kysymyksiä Baronasta työnantajana' jossa käsitellään erilaisia työsuhteita ja etuja.",
-    "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu sivuilla. Barona Careersin sanotaan olevan digitaalinen työnhakupalvelu, mutta erillisen sovelluksen olemassaoloa ei mainittu."
-  }
+ "slug": "barona",
+ "fetched_ok": [
+  "https://www.barona.fi/",
+  "https://www.barona.fi/tyopaikat/avoimet-tyopaikat-elintarviketeollisuus/",
+  "https://www.barona.fi/barona-tyonantajana/",
+  "https://www.barona.fi/barona/yhteystiedot/",
+  "https://www.barona.fi/barona/",
+  "https://www.barona.fi/vinkit-tyonhakuun/"
+ ],
+ "tyopaikat_esilla": "kylla",
+ "hakuprosessi_kuvattu": "kylla",
+ "palkkatieto_ilmoituksissa": "osittain",
+ "tyosuhteen_ehdot": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {
+  "selkeys": 75,
+  "hintojen_loydettavyys": 35,
+  "sisallon_kattavuus": 80
+ },
+ "vahvuudet": [
+  "Hakuprosessi on selkeästi kuvattu viidessä vaiheessa: profiilin luominen, työpaikkojen selaaminen, hakemuksen lähettäminen, edistymisen seuranta ja työn aloittaminen.",
+  "Työsuhteen muodot selitetty kattavasti: keikkatyö, määräaikaiset ja vakituiset tehtävät sekä mahdollisuus työskennellä Baronalla tai suoraan asiakasyrityksessa.",
+  "Kattava työntekijäetujen kuvaus sisältäen työterveyshuollon, TES-mukaisen palkan, joustavat työjärjestelyt ja urakehitysmahdollisuudet."
+ ],
+ "kehityskohteet": [
+  "Palkkatieto puuttuu tyypillisissä työnilmoituksissa: sivuilla käsitellään palkkatoivetta käsitteenä, mutta ei näytetä todellisia palkka-alukkita avatuissa työpaikoissa.",
+  "Y-tunnus ei ole näkyvissä yhteystiedoissa tai yritystiedoissa, vaikka se on perustieto työnhakijoille.",
+  "Riippumaton arvio tai sertifiointi puuttuu kokonaan: ei mainintoja työpaikkaselvityksenä tai vertailupalvelun arvioista."
+ ],
+ "yhteenveto": "Barona on vuonna 1999 perustettu suomalainen työnvälityspalvelu, joka tarjoaa monipuolisia työmahdollisuuksia keikkatyöstä vakituisiin tehtäviin. Sivusto on selkeä ja informatiivinen hakuprosessista sekä työsuhteen muodoista, mutta konkreettiset palkkitiedot eivät ole näkyvissä yrityksen omilla sivuilla vaan linkittyvät erilliselle Barona Careers -alustalle.",
+ "evidence": {
+  "tyopaikat_esilla": "HAVAINTO: Pääsivulla ja kategoriasivuilla mainitaan avoimet työpaikat ja viitataan Barona Careers -palveluun, jossa voi hakea kaikkia avoimia paikkoja. Sivusto ohjaa työnhakijoita selaamaan ja hakemaan töitä.",
+  "hakuprosessi_kuvattu": "HAVAINTO: 'Barona työnantajana' -sivulla kuvataan viisi vaihetta: 1) profiilin luominen, 2) työpaikkojen selaaminen ja räätälöityjen suositusten vastaanottaminen, 3) hakemuksen lähettäminen, 4) hakemuksen edistymisen seuranta, 5) työn aloittaminen.",
+  "palkkatieto_ilmoituksissa": "HAVAINTO: 'Vinkit työnhakuun' -sivulla käsitellään palkkatoivetta käsitteenä ja neuvottelua, mutta todellisia palkkasummia ei näytetä elintarviketeollisuuden kategoriasivulla. Maininta: 'Joillakin aloilla ja joissakin tehtävissä palkka muotoutuu automaattisesti työehtosopimusten mukaan'.",
+  "tyosuhteen_ehdot": "HAVAINTO: 'Barona työnantajana' -sivulla selitetään neljä tapaa työskennellä: keikkatyö, määräaikaiset tehtävät, vakituiset roolit ja työskentelymahdollisuudet ulkomailla. Etuja kuvataan kattavan työterveyshuollon, TES-mukaisen palkan, joustavien järjestelyjen ja uravalmennuksen kautta.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta ei löytynyt yhteystiedot-sivulla eikä yritystiedot-sivulla, vaikka perustetaan 'Barona on vuonna 1999 perustettu työelämäyhtiö'.",
+  "riippumaton_arvio": "HAVAINTO: Mitään riippumatonta arviota, sertifiointia tai ulkopuolisen tahon palvelun arviota ei mainita sivuilla.",
+  "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy '+358 20 198 3460' sekä palveluajat 'ma–pe 6–19, la 8–16 ja su 11–17'.",
+  "email_esilla": "HAVAINTO: Yhteystiedot-sivulla näkyy sähköpostiosoite 'info@barona.fi'.",
+  "chat_mainittu": "HAVAINTO: Chat-palvelua ei mainittu millään fetatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Puhelinnumeron yhteydessä mainitaan aukioloajat: 'ma–pe 6–19, la 8–16 ja su 11–17'.",
+  "ukk_osio": "HAVAINTO: FAQ-osio on olemassa kahdella tavalla: 'Töihin ulkomaille - Usein kysytyt kysymykset' -sivu käsittelee ulkomailla työskentelyn kysymyksiä, ja 'Barona työnantajana' -sivulla on osio 'Usein kysyttyjä kysymyksiä Baronasta työnantajana' jossa käsitellään erilaisia työsuhteita ja etuja.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainittu sivuilla. Barona Careersin sanotaan olevan digitaalinen työnhakupalvelu, mutta erillisen sovelluksen olemassaoloa ei mainittu."
+ }
 }

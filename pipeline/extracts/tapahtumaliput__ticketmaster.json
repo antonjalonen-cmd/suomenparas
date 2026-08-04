@@ -1,44 +1,44 @@
 {
-  "slug": "ticketmaster",
-  "fetched_ok": [
-    "https://www.ticketmaster.fi/",
-    "https://help.ticketmaster.fi/hc/fi"
-  ],
-  "palvelumaksut_esilla": "ei",
-  "kokonaishinta_ilman_ostoa": "ei",
-  "peruutusehdot_esilla": "osittain",
-  "ostaa_ilman_rekisteroitymista": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "kylla",
-  "email_esilla": "ei",
-  "chat_mainittu": "osittain",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "osittain",
-  "mobiilisovellus": "kylla",
-  "palvelumaksu_eur_per_lippu": null,
-  "ai_arviot": {
-    "selkeys": 42,
-    "hintojen_loydettavyys": 18,
-    "sisallon_kattavuus": 38
-  },
-  "vahvuudet": [
-    "Laaja tapahtumatarjonta kattaa musiikin, urheilun, festivaalit, teatterin ja perheen",
-    "Mobiilisovellus saatavilla (Lataa Ticketmaster-sovellus -linkki etusivulla)",
-    "Puhelinnumero (0600 10 800) nakyy etusivulla ilman kirjautumista"
-  ],
-  "kehityskohteet": [
-    "Palvelumaksut eivat nay julkisesti ennen kassalle menoa — kuluttaja ei tiedä kokonaishintaa etukäteen",
-    "Sivusto vaatii JavaScriptin ja evastesuostumuksen sisällön näyttämiseen; automaattinen luku sai vain 2 228 merkkia",
-    "Y-tunnus (Ticketmaster Suomi Oy 0110928-6) ei näy sivustolla, omistaja (Live Nation Entertainment) mainitaan vain alaotsikossa"
-  ],
-  "yhteenveto": "Ticketmaster on Suomen tunnetuin lipunmyyntipalvelu ja tarjoaa laajan tapahtumavalikoiman, mutta palvelumaksuja ei kerrota ennen kassalle siirtymistä. Sivusto toimii lähes kokonaan JavaScriptillä, minkä vuoksi sisältö ei aukea ilman evästesuostumusta. Mobiilisovellus on saatavilla ja puhelinnumero näkyy etusivulla.",
-  "evidence": {
-    "palvelumaksut_esilla": "HAVAINTO: Etusivulla ja apusivuilla ei ole palvelumaksu-sivua eikä lisämaksutietoja ennen ostoprosessia. Maksuihin liittyvät tiedot eivät ole löydettävissä julkiselta sivulta.",
-    "kokonaishinta_ilman_ostoa": "HAVAINTO: Sivusto näyttää vain lipun perushinnan tapahtumalistauksissa; palvelumaksun sisältävää kokonaishintaa ei pysty selvittämään ennen kassalle siirtymistä.",
-    "peruutusehdot_esilla": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderointia tai evastesuostumusta.",
-    "ostaa_ilman_rekisteroitymista": "HAVAINTO: Navigaatiossa on 'Käyttäjätilisi'-linkki; vieraskassan saatavuus ei varmistettavissa ilman JavaScriptiä.",
-    "y_tunnus_esilla": "HAVAINTO: Footer mainitsee 'Live Nation Entertainment' mutta Ticketmaster Suomi Oy:n Y-tunnusta (0110928-6) ei näy sivustolla.",
-    "riippumaton_arvio": "HAVAINTO: Riippumaton arvio tai sertifiointi ei ole näkyvissä etusivulla eikä helppages-osiossa."
-  }
+ "slug": "ticketmaster",
+ "fetched_ok": [
+  "https://www.ticketmaster.fi/",
+  "https://help.ticketmaster.fi/hc/fi"
+ ],
+ "palvelumaksut_esilla": "ei",
+ "kokonaishinta_ilman_ostoa": "ei",
+ "peruutusehdot_esilla": "osittain",
+ "ostaa_ilman_rekisteroitymista": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "ei",
+ "chat_mainittu": "osittain",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "kylla",
+ "palvelumaksu_eur_per_lippu": null,
+ "ai_arviot": {
+  "selkeys": 42,
+  "hintojen_loydettavyys": 18,
+  "sisallon_kattavuus": 38
+ },
+ "vahvuudet": [
+  "Laaja tapahtumatarjonta kattaa musiikin, urheilun, festivaalit, teatterin ja perheen",
+  "Mobiilisovellus saatavilla (Lataa Ticketmaster-sovellus -linkki etusivulla)",
+  "Puhelinnumero (0600 10 800) näkyy etusivulla ilman kirjautumista"
+ ],
+ "kehityskohteet": [
+  "Palvelumaksut eivät nay julkisesti ennen kassalle menoa — kuluttaja ei tiedä kokonaishintaa etukäteen",
+  "Sivusto vaatii JavaScriptin ja evästesuostumuksen sisällön näyttämiseen; automaattinen luku sai vain 2 228 merkkiä",
+  "Y-tunnus (Ticketmaster Suomi Oy 0110928-6) ei näy sivustolla, omistaja (Live Nation Entertainment) mainitaan vain alaotsikossa"
+ ],
+ "yhteenveto": "Ticketmaster on Suomen tunnetuin lipunmyyntipalvelu ja tarjoaa laajan tapahtumavalikoiman, mutta palvelumaksuja ei kerrota ennen kassalle siirtymistä. Sivusto toimii lähes kokonaan JavaScriptillä, minkä vuoksi sisältö ei aukea ilman evästesuostumusta. Mobiilisovellus on saatavilla ja puhelinnumero näkyy etusivulla.",
+ "evidence": {
+  "palvelumaksut_esilla": "HAVAINTO: Etusivulla ja apusivuilla ei ole palvelumaksu-sivua eikä lisämaksutietoja ennen ostoprosessia. Maksuihin liittyvät tiedot eivät ole löydettävissä julkiselta sivulta.",
+  "kokonaishinta_ilman_ostoa": "HAVAINTO: Sivusto näyttää vain lipun perushinnan tapahtumalistauksissa; palvelumaksun sisältävää kokonaishintaa ei pysty selvittämään ennen kassalle siirtymistä.",
+  "peruutusehdot_esilla": "HAVAINTO: Etusivun footer mainitsee 'Lippuvakuutus' mutta varsinaiset peruutusehdot eivät avaudu ilman JavaScript-renderöintiä tai evastesuostumusta.",
+  "ostaa_ilman_rekisteroitymista": "HAVAINTO: Navigaatiossa on 'Käyttäjätilisi'-linkki; vieraskassan saatavuus ei varmistettavissa ilman JavaScriptiä.",
+  "y_tunnus_esilla": "HAVAINTO: Footer mainitsee 'Live Nation Entertainment' mutta Ticketmaster Suomi Oy:n Y-tunnusta (0110928-6) ei näy sivustolla.",
+  "riippumaton_arvio": "HAVAINTO: Riippumaton arvio tai sertifiointi ei ole näkyvissä etusivulla eikä helppages-osiossa."
+ }
 }

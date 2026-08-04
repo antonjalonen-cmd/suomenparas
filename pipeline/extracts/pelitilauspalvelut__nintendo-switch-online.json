@@ -1,44 +1,44 @@
 {
-  "slug": "nintendo-switch-online",
-  "fetched_ok": [
-    "https://www.nintendo.fi/nintendo-switch-perhe/nintendo-switch-online",
-    "https://www.nintendo.fi/tuki/"
-  ],
-  "hinnat_esilla": "ei",
-  "tasojen_erot_kerrottu": "kylla",
-  "pelikirjasto_kuvaus": "osittain",
-  "irtisanominen_kerrottu": "kylla",
-  "omistaja_kerrottu": "kylla",
-  "riippumaton_arvio": "ei",
-  "puhelin_esilla": "ei",
-  "email_esilla": "osittain",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "ei",
-  "ukk_osio": "kylla",
-  "mobiilisovellus": "kylla",
-  "perustaso_kk_hinta_eur": null,
-  "ai_arviot": {
-    "selkeys": 62,
-    "hintojen_loydettavyys": 20,
-    "sisallon_kattavuus": 65
-  },
-  "vahvuudet": [
-    "Ainoa palvelu jolla on suomenkielinen verkkotunnus (nintendo.fi) — koko NSO-sivu suomeksi",
-    "Neljat jaseenyysvaihtoehdot (Yksilö/Perhe x Expansion Pack vai ei) selitetty selkeasti",
-    "Peruutusoikeus kerrottu: 48h ennen päättymistä + 14 vrk lakisääteinen peruutusoikeus eShop-ostoksille"
-  ],
-  "kehityskohteet": [
-    "Hinnat eivat nay lainkaan verkkosivustolla — 'Ajantasaiset hinnat löydät Nintendo eShopista'",
-    "Klassikkopelikirjastoa ei voi selata ennen tilaamista; vain pelikonsolimallit mainitaan",
-    "Yhteystukena vain lomake, ei puhelinnumeroa eika suoraa sahkopostia; chat-tuki puuttuu"
-  ],
-  "yhteenveto": "Nintendo Switch Online on ainut listattu pelitilauspalvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi). Jaseenyystasot ja etuudet on selitetty kattavasti suomeksi, mutta hinnat on jätetty kokonaan pois sivustolta — kuluttajan on siirryttava Nintendo eShopiin nahdakseen aktuaaliset hinnat. Tama on kategorian merkittavin puute lapinakyvyysmittarilla.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: NSO-sivulla lukee 'Ajantasaiset hinnat löydät Nintendo eShopista.' Yhtaan euromaaraista hintaa ei nayta sivustolla.",
-    "tasojen_erot_kerrottu": "HAVAINTO: 'Voit valita neljästä eri jäsenyydestä: Yksilö tai Perhe, sekä sen, haluatko Expansion Packin vai et.' Jokaiselle tasolle on listattu omat etunsa (verkkomoninpeli, Klassikopelit, N64, etuudet).",
-    "pelikirjasto_kuvaus": "HAVAINTO: Sivulla mainitaan NES-, Super NES-, Game Boy- ja N64-pelit (Expansion Pack) nimeltä yksitellen, mutta koko selattavaa listausta ei ole ennen tilauksen tekemistä.",
-    "irtisanominen_kerrottu": "HAVAINTO: 'Jos olet ottanut käyttöön jäsenyyden automaattisen uusimisen, voit peruuttaa Nintendo Switch Online -jäsenyytesi poistamalla automaattisen uusimisen käytöstä Nintendo eShopin Account Information -kohdasta. Muistathan tehdä tämän vähintään 48 tuntia ennen jäsenyytesi päättymispäivää.' Lisäksi mainitaan 14 päivän lakisääteinen peruuttamisoikeus.",
-    "omistaja_kerrottu": "HAVAINTO: Tukisivun alaosassa: 'Nintendo Co., Ltd. of Kyoto, Japan, on erityisesti luovuudestaan tunnustusta saanut maailmanlaajuinen interaktiivisen viihteen johtaja.' Myös Bergsala mainitaan virallisena jakelijana.",
-    "riippumaton_arvio": "HAVAINTO: Sivustolla ei viitata yhdenkaan riippumattoman osapuolen arvioon tai sertifiointiin."
-  }
+ "slug": "nintendo-switch-online",
+ "fetched_ok": [
+  "https://www.nintendo.fi/nintendo-switch-perhe/nintendo-switch-online",
+  "https://www.nintendo.fi/tuki/"
+ ],
+ "hinnat_esilla": "ei",
+ "tasojen_erot_kerrottu": "kylla",
+ "pelikirjasto_kuvaus": "osittain",
+ "irtisanominen_kerrottu": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "osittain",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "perustaso_kk_hinta_eur": null,
+ "ai_arviot": {
+  "selkeys": 62,
+  "hintojen_loydettavyys": 20,
+  "sisallon_kattavuus": 65
+ },
+ "vahvuudet": [
+  "Ainoa palvelu jolla on suomenkielinen verkkotunnus (nintendo.fi) — koko NSO-sivu suomeksi",
+  "Neljat jaseenyysvaihtoehdot (Yksilö/Perhe x Expansion Pack vai ei) selitetty selkeästi",
+  "Peruutusoikeus kerrottu: 48h ennen päättymistä + 14 vrk lakisääteinen peruutusoikeus eShop-ostoksille"
+ ],
+ "kehityskohteet": [
+  "Hinnat eivät nay lainkaan verkkosivustolla — 'Ajantasaiset hinnat löydät Nintendo eShopista'",
+  "Klassikkopelikirjastoa ei voi selata ennen tilaamista; vain pelikonsolimallit mainitaan",
+  "Yhteystukena vain lomake, ei puhelinnumeroa eikä suoraa sähköpostia; chat-tuki puuttuu"
+ ],
+ "yhteenveto": "Nintendo Switch Online on ainut listattu pelitilauspalvelu, jolla on suomenkielinen verkkotunnus (nintendo.fi). Jaseenyystasot ja etuudet on selitetty kattavasti suomeksi, mutta hinnat on jätetty kokonaan pois sivustolta — kuluttajan on siirryttava Nintendo eShopiin nähdäkseen aktuaaliset hinnat. Tämä on kategorian merkittavin puute lapinakyvyysmittarilla.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: NSO-sivulla lukee 'Ajantasaiset hinnat löydät Nintendo eShopista.' Yhtään euromääräistä hintaa ei näytä sivustolla.",
+  "tasojen_erot_kerrottu": "HAVAINTO: 'Voit valita neljästä eri jäsenyydestä: Yksilö tai Perhe, sekä sen, haluatko Expansion Packin vai et.' Jokaiselle tasolle on listattu omat etunsa (verkkomoninpeli, Klassikopelit, N64, etuudet).",
+  "pelikirjasto_kuvaus": "HAVAINTO: Sivulla mainitaan NES-, Super NES-, Game Boy- ja N64-pelit (Expansion Pack) nimeltä yksitellen, mutta koko selattavaa listausta ei ole ennen tilauksen tekemistä.",
+  "irtisanominen_kerrottu": "HAVAINTO: 'Jos olet ottanut käyttöön jäsenyyden automaattisen uusimisen, voit peruuttaa Nintendo Switch Online -jäsenyytesi poistamalla automaattisen uusimisen käytöstä Nintendo eShopin Account Information -kohdasta. Muistathan tehdä tämän vähintään 48 tuntia ennen jäsenyytesi päättymispäivää.' Lisäksi mainitaan 14 päivän lakisääteinen peruuttamisoikeus.",
+  "omistaja_kerrottu": "HAVAINTO: Tukisivun alaosassa: 'Nintendo Co., Ltd. of Kyoto, Japan, on erityisesti luovuudestaan tunnustusta saanut maailmanlaajuinen interaktiivisen viihteen johtaja.' Myös Bergsala mainitaan virallisena jakelijana.",
+  "riippumaton_arvio": "HAVAINTO: Sivustolla ei viitata yhdenkaan riippumattoman osapuolen arvioon tai sertifiointiin."
+ }
 }

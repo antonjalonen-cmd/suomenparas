@@ -1,45 +1,45 @@
 {
-  "slug": "burger-king",
-  "fetched_ok": [
-    "https://www.burgerking.fi",
-    "https://burgerking.fi/tuotteet/",
-    "https://burgerking.fi/hinnasto/",
-    "https://burgerking.fi/allergeenit/"
-  ],
-  "hinnat_esilla": "kylla",
-  "allergeenit_esilla": "kylla",
-  "alkupera_kerrottu": "kylla",
-  "ravintolat_ja_aukioloajat": "osittain",
-  "y_tunnus_esilla": "ei",
-  "riippumaton_arvio": "osittain",
-  "puhelin_esilla": "osittain",
-  "email_esilla": "osittain",
-  "chat_mainittu": "ei",
-  "aukioloajat_esilla": "osittain",
-  "ukk_osio": "ei",
-  "mobiilisovellus": "kylla",
-  "ai_arviot": {
-    "selkeys": 84,
-    "hintojen_loydettavyys": 90,
-    "sisallon_kattavuus": 82
-  },
-  "vahvuudet": [
-    "Kattava hinnasto kaikille tuotteille julkisesti: WHOPPER-ateria 9,95 eur, Bacon King -ateria 15,95 eur taulukkomuodossa",
-    "Tuotteiden alkuperamaa kerrottu hinnastossa eksplisiittisesti: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU.",
-    "Allergeenisuodatin tuotteet-sivulla (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija) ja allergeenit-sivu tuotekohtaisine tietoineen"
-  ],
-  "kehityskohteet": [
-    "Ravintoloiden aukioloajat eivat ole helposti saatavilla verkkosivustolta — /ravintolat palauttaa 404",
-    "Y-tunnus ei ole esilla sivustolla — alatunnisteessa lukee vain Burger King Corporation",
-    "Oiva-raportit mainittu navigaatiossa mutta konkreettisia tuloksia ei esiteta etusivulla"
-  ],
-  "yhteenveto": "Burger Kingin sivusto tarjoaa erinomaisen hintalapinakymmyyden: kaikkien tuotteiden hinnat on julkinen hinnastona ja naudanlihan seka kanan alkuperamaa EU on kerrottu eksplisiittisesti. Allergeenisuodatin helpottaa sopivien tuotteiden loytyamista. Ravintolahaun puuttuminen verkkosivustolta heikentaa kaytonmukavuutta.",
-  "evidence": {
-    "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla (/hinnasto/) on taydellinen hinnasto tuoteryhmittain: WHOPPER-ateria 9,95 eur / hampurilainen 7,45 eur, Double WHOPPER 13,95 eur / 11,45 eur, Bacon King 15,95 eur / 12,45 eur. Merkinta: Hinnat ovat alkaen hintoja. Voimassa klo 06-24.",
-    "allergeenit_esilla": "HAVAINTO: Tuotteet-sivu nayttaa allergeenisuodattimen (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija). Allergeenit-sivu toteaa: Tuotekohtaiset tiedot allergeeneista loydat taalta.",
-    "alkupera_kerrottu": "HAVAINTO: Hinnasto-sivulla on merkinta: Naudanlihan alkuperamaa: EU. Kanan alkuperamaa: EU. — nakyy suoraan julkisessa hinnastossa.",
-    "ravintolat_ja_aukioloajat": "HAVAINTO: Navigaatiossa on Etsi ravintola -linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintoloiden aukioloajoja ei voitu vahvistaa verkkosivuston kautta.",
-    "y_tunnus_esilla": "HAVAINTO: Alatunnisteessa: TM & 2026 Burger King Corporation. Used under license. Suomalaisen operaattorin (Restel Fast Food Oy, Y-tunnus 2538302-8) tietoja ei esiteta.",
-    "riippumaton_arvio": "HAVAINTO: Navigaation BK INFO -osiossa on Oiva-raportit-linkki. Konkreettisia arviointituloksia tai sertifikaatteja ei esiteta etusivulla."
-  }
+ "slug": "burger-king",
+ "fetched_ok": [
+  "https://www.burgerking.fi",
+  "https://burgerking.fi/tuotteet/",
+  "https://burgerking.fi/hinnasto/",
+  "https://burgerking.fi/allergeenit/"
+ ],
+ "hinnat_esilla": "kylla",
+ "allergeenit_esilla": "kylla",
+ "alkupera_kerrottu": "kylla",
+ "ravintolat_ja_aukioloajat": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "osittain",
+ "puhelin_esilla": "osittain",
+ "email_esilla": "osittain",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "osittain",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {
+  "selkeys": 84,
+  "hintojen_loydettavyys": 90,
+  "sisallon_kattavuus": 82
+ },
+ "vahvuudet": [
+  "Kattava hinnasto kaikille tuotteille julkisesti: WHOPPER-ateria 9,95 eur, Bacon King -ateria 15,95 eur taulukkomuodossa",
+  "Tuotteiden alkuperämaa kerrottu hinnastossa eksplisiittisesti: Naudanlihan alkuperämaa: EU. Kanan alkuperämaa: EU.",
+  "Allergeenisuodatin tuotteet-sivulla (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija) ja allergeenit-sivu tuotekohtaisine tietoineen"
+ ],
+ "kehityskohteet": [
+  "Ravintoloiden aukioloajat eivät ole helposti saatavilla verkkosivustolta — /ravintolat palauttaa 404",
+  "Y-tunnus ei ole esillä sivustolla — alatunnisteessa lukee vain Burger King Corporation",
+  "Oiva-raportit mainittu navigaatiossa mutta konkreettisia tuloksia ei esitetä etusivulla"
+ ],
+ "yhteenveto": "Burger Kingin sivusto tarjoaa erinomaisen hintalapinakymmyyden: kaikkien tuotteiden hinnat on julkinen hinnastona ja naudanlihan sekä kanan alkuperämaa EU on kerrottu eksplisiittisesti. Allergeenisuodatin helpottaa sopivien tuotteiden loytyamista. Ravintolahaun puuttuminen verkkosivustolta heikentää kaytonmukavuutta.",
+ "evidence": {
+  "hinnat_esilla": "HAVAINTO: Hinnasto-sivulla (/hinnasto/) on täydellinen hinnasto tuoteryhmittain: WHOPPER-ateria 9,95 eur / hampurilainen 7,45 eur, Double WHOPPER 13,95 eur / 11,45 eur, Bacon King 15,95 eur / 12,45 eur. Merkintä: Hinnat ovat alkaen hintoja. Voimassa klo 06-24.",
+  "allergeenit_esilla": "HAVAINTO: Tuotteet-sivu näyttää allergeenisuodattimen (Gluteeni, Kala, Kananmuna, Laktoosi, Maitotuotteet, Seesami, Selleri, Sinappi, Soija). Allergeenit-sivu toteaa: Tuotekohtaiset tiedot allergeeneista löydät taalta.",
+  "alkupera_kerrottu": "HAVAINTO: Hinnasto-sivulla on merkintä: Naudanlihan alkuperämaa: EU. Kanan alkuperämaa: EU. — näkyy suoraan julkisessa hinnastossa.",
+  "ravintolat_ja_aukioloajat": "HAVAINTO: Navigaatiossa on Etsi ravintola -linkki, mutta /ravintolat-URL palauttaa 404-virheen. Ravintoloiden aukioloajoja ei voitu vahvistaa verkkosivuston kautta.",
+  "y_tunnus_esilla": "HAVAINTO: Alatunnisteessa: TM & 2026 Burger King Corporation. Used under license. Suomalaisen operaattorin (Restel Fast Food Oy, Y-tunnus 2538302-8) tietoja ei esiteta.",
+  "riippumaton_arvio": "HAVAINTO: Navigaation BK INFO -osiossa on Oiva-raportit-linkki. Konkreettisia arviointituloksia tai sertifikaatteja ei esitetä etusivulla."
+ }
 }
