@@ -1785,3 +1785,39 @@ COMPANIES["kahvilaketjut"] = [
          y_tunnus=None,
          omistaja="Restamax Oyj / Eateria Oy (ketju-omistaja ei vahvistettavissa PRH:sta suoraan; aiemmin S-Group, nyt Restamax-konsernin alla); 15 toimipaikkaa; coffeehouse.fi ohjautuu raflaamo.fi-alustalle"),
 ]
+
+# --- era 17 (4.8.2026): muotikaupat (aikuisten vaatteiden verkkokaupat) -----
+# Vertailtavat: kansainväliset ja pohjoismaiset muotiverkkokaupat, jotka palvelevat
+# suomalaisia kuluttajia omilla fi-sivustoillaan tai fi-kielisillä sivuillaan.
+# KARSITUT:
+# Lindex (lindex.com/fi): Akamai-estetty täysin — kaikki polut 403. Yli 3 kokonaan
+#   estettyjä yhtiöitä samassa kategoriassa heikentäisi vertailun luotettavuutta.
+# Nelly (nelly.com/fi): elossa ja toimiva, mutta ei yhtä iso fi-markkina-asema
+#   kuin Zalando tai H&M; karsittu 6:n yhtiön rajoituksella.
+# Vero Moda (veromoda.com/fi-fi): naisten muotiin erikoistunut; mukana Boozt-valikoimassa;
+#   Bestseller Group omistaa myös Jack & Jones, ONLY, Pieces — laske vain yksi.
+# Zara (zara.com/fi): 0 tavua — täysin JS-renderöity, ei mitattavissa selain-UA:lla.
+# Mango (mango.com/fi/fi): ohjautuu UK-sivustolle, ei suomenkielistä sisältöä.
+# H&M Group omistaa H&M + COS + Monki + Weekday — lasketaan vain H&M (suurin fi-toimija).
+# Inditex omistaa Zara + Mango + Massimo Dutti — lasketaan vain Zara, joka on kuitenkin
+#   täysin estetty boteille, joten ei sisällytetä.
+COMPANIES["muotikaupat"] = [
+    dict(slug="zalando", nimi="Zalando", domain="zalando.fi",
+         y_tunnus="2697196-4",
+         omistaja="Zalando Finland Oy (PRH 2697196-4) on saksalaisen Zalando SE:n (Frankfurt: ZAL) Suomen tytäryhtiö; Euroopan suurin muodin verkkokauppa; yli 2 miljoonaa tuotetta; zalando.fi on suomenkielinen domain"),
+    dict(slug="hm", nimi="H&M", domain="www2.hm.com",
+         y_tunnus="1080854-8",
+         omistaja="H & M Hennes & Mauritz Oy (PRH 1080854-8) on ruotsalaisen H & M Hennes & Mauritz AB:n (Nasdaq Stockholm: HM B) Suomen tytäryhtiö; H&M Group omistaa myös COS, Monki, Weekday — vain H&M mitataan; fi-sivu www2.hm.com/fi_fi/"),
+    dict(slug="boozt", nimi="Boozt", domain="boozt.com",
+         y_tunnus=None,
+         omistaja="Boozt AB (Ruotsi, Nasdaq Stockholm: BOOZT) — ei suomalaista tytäryhtiötä PRH:ssa; pohjoismainen muodin verkkokauppa, perustettu 2007 Malmössa; suomenkielinen palvelu boozt.com/fi/fi"),
+    dict(slug="kappahl", nimi="KappAhl", domain="kappahl.com",
+         y_tunnus="0758506-4",
+         omistaja="KappAhl Oy (PRH 0758506-4) on ruotsalaisen KappAhl AB:n (Nasdaq Stockholm: KAHL) Suomen tytäryhtiö; perustettu 1953 Göteborgissa; myymälöitä ja verkkokauppa Suomessa; fi-sivu kappahl.com/fi-fi/"),
+    dict(slug="cubus", nimi="Cubus", domain="cubus.com",
+         y_tunnus="2379502-9",
+         omistaja="Cubus Finland Oy Ab (PRH 2379502-9) on norjalaisen Varner AS:n (Varner-konserni) omistaman Cubus AS:n Suomen tytäryhtiö; Varner omistaa myös Dressmann, Bik Bok, Volt — vain Cubus mitataan; fi-sivu cubus.com/fi/"),
+    dict(slug="ellos", nimi="Ellos", domain="ellos.fi",
+         y_tunnus="1442131-6",
+         omistaja="Ellos Finland Oy (PRH 1442131-6) on ruotsalaisen Ellos Group AB:n Suomen tytäryhtiö; postimyyntiyhtiönä perustettu 1947, nykyisin monialainen muoti- ja lifestyleverkkokauppa; liikevaihto 35,2 M€ (2024)"),
+]

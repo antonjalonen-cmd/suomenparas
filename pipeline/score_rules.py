@@ -714,3 +714,29 @@ TRANSPARENCY["kahvilaketjut"] = [
     ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
     ("kanta_asiakasohjelma_kerrottu", "Kanta-asiakasohjelma tai sovellus kuvattu sivustolla", 5),
 ]
+
+# --- era 17 (4.8.2026): muotikaupat ----------------------------------------
+# Aikuisten vaatteiden verkkokaupat. Tärkein ostopäätöstekijä: voiko hintoja
+# selata ilman rekisteröitymistä? Toiseksi tärkein: onko palauttaminen helppoa
+# ja sen ehdot selkeästi esillä? Kolmanneksi: näytetäänkö toimitusvaihtoehdot ja
+# niiden hinnat ennen kassaa? Koko-opas on muotiverkkokaupan kriittisin
+# palautusmäärään vaikuttava tekijä.
+# Weights: 25+20+20+15+10+10 = 100
+TRANSPARENCY["muotikaupat"] = [
+    # Tuotehintojen on oltava näkyvissä ilman rekisteröitymistä tai kirjautumista —
+    # perusvaatimus ostosvertailulle.
+    ("hinnat_esilla", "Tuotehinnat verkossa esillä ilman kirjautumista", 25),
+    # Toimitusmaksut ovat osa ostoksen kokonaishintaa — pitää näkyä ennen kassalle menoa.
+    ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+    # Vaatteiden palautukset ovat erittäin yleisiä — palautusehdot ja -prosessi on oltava
+    # selkeästi esillä ennen ostopäätöstä.
+    ("palautusehdot_saatavilla", "Palautusehdot ja palautusaika julkisesti saatavilla", 20),
+    # Koko-opas tai sovitusohje vähentää palautusmäärää merkittävästi — käyttäjälle
+    # arvokas työkalu, jonka puuttuminen on selkeä puute muotikaupassa.
+    ("koko_opas", "Koko-opas tai sovitusohje saatavilla", 15),
+    # Kertoo kuluttajalle kuka vastaa tilauksesta ja missä yhtiö on rekisteröity.
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä", 10),
+    # Riippumaton arvio (Trustpilot, Google Reviews tms.) kertoo muiden asiakkaiden
+    # kokemuksista ennen ostopäätöstä.
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]

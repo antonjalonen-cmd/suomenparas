@@ -1,0 +1,36 @@
+{
+  "slug": "hm",
+  "fetched_ok": ["https://www2.hm.com/fi_fi/", "https://www.hm.com/fi_fi/"],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "koko_opas": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 50},
+  "vahvuudet": [
+    "H & M Hennes & Mauritz Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 1080854-8)",
+    "Yksi maailman tunnetuimmista muotibrändeistä laajalla myymäläverkostolla Suomessa",
+    "H&M on suomalaisen kuluttajan hyvin tuntema ja laajasti saatavilla oleva muotiketju"
+  ],
+  "kehityskohteet": [
+    "Sivusto on suojattu Akamai-bottiesteellä: kaikki sivut palauttavat 403-virheen",
+    "Tietojen ohjelmallinen mittaaminen on mahdotonta; kaikki API-polut palauttavat Access Denied",
+    "Lighthouse-työkalu pääsi sivustolle (www2.hm.com), mutta sisällön lukeminen ohjelmallisesti on estetty"
+  ],
+  "yhteenveto": "H&M on yksi Suomen tunnetuimmista muotikaupoista sekä verkossa että myymälöissä, ja sillä on suomalainen tytäryhtiö H & M Hennes & Mauritz Oy. Sivuston kaikki sisältö on suojattu Akamai-bottiesteellä, minkä vuoksi läpinäkyvyyskriteerit merkitään mittausaukoiksi ohjelmallisen tarkastelumahdollisuuden puuttumisen takia.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: www2.hm.com/fi_fi/ palauttaa HTTP 403 'Access Denied' kaikilla URL-poluilla. Akamai-botti-esto estää sisällön lukemisen; hintojen näkyvyyttä ei voida vahvistaa.",
+    "toimitus_kerrottu": "HAVAINTO: Toimitusehtosivulle ei pääse botti-eston takia; 403 kaikilla poluilla.",
+    "palautusehdot_saatavilla": "HAVAINTO: Palautusehtosivua ei voida ladata Akamai-eston takia.",
+    "koko_opas": "HAVAINTO: Koko-oppaan olemassaoloa ei voida vahvistaa sivulataustekniikan epäonnistuessa.",
+    "y_tunnus_esilla": "HAVAINTO: H & M Hennes & Mauritz Oy (Y-tunnus 1080854-8) vahvistettu PRH:sta, mutta Y-tunnuksen näkymistä sivustolla ei voida tarkastaa botti-eston takia.",
+    "riippumaton_arvio": "HAVAINTO: Riippumattoman arvion olemassaoloa sivustolla ei voida vahvistaa botti-eston takia."
+  }
+}

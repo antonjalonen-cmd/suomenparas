@@ -1909,3 +1909,36 @@ META["kahvilaketjut"] = {
          "Raflaamo-alustalle."),
     ],
 }
+
+# --- era 17 (4.8.2026): muotikaupat ----------------------------------------
+META["muotikaupat"] = {
+    "slug": "muotikaupat",
+    "nimi": "Muotikaupat",
+    "nav": "Muotikaupat",
+    "h1": "Suomen paras muodin verkkokauppa 2026",
+    "yksikko": "Suomessa toimivaa muodin verkkokauppaa",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa muodin verkkokauppaa {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "voitko selata hintoja, löytää koko-oppaan ja tarkistaa palautusehdot "
+             "ennen kuin annat korttitietosi?"),
+    "meta_title": "Suomen paras muodin verkkokauppa 2026 | Zalando, H&M, Boozt, KappAhl | Suomen Paras",
+    "meta_desc": ("{n} muotiverkkokauppaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee: hinnat, toimitus, palautukset ja koko-opas."),
+    "notes": [
+        ("<b>Zalando ja H&M estävät automaattisen mittaamisen.</b> Kummankin verkkosivusto "
+         "on suojattu bottiesteellä (Zalando: oma suojaus, H&M: Akamai), joka estää "
+         "sisällön lukemisen ohjelmallisesti. Kriteerit joita ei voida vahvistaa merkitään "
+         "'ei mitattavissa'. Botti-esto on mittausaukko, ei merkki puuttuvista tiedoista "
+         "ihmiskäyttäjälle."),
+        ("<b>Omistusrakenteet.</b> H&M Group omistaa H&M:n lisäksi COS-, Monki- ja "
+         "Weekday-brändit: vertailimme vain H&M:n (suurin fi-toimija). Varner-konserni "
+         "omistaa Cubuksen lisäksi Dressmann-, Bik Bok-, Volt- ja Carlings-ketjut. "
+         "Boozt (ruotsal. pörssiyhtiö) ja Ellos (ruotsal. Ellos Group) operoivat "
+         "Suomessa omien suomalaisten tytäryhtiöidensä kautta."),
+        ("<b>Poissuljetut.</b> Lindex (lindex.com/fi) on Akamai-estetty täysin. "
+         "Zara (zara.com/fi) on täysin JS-renderöity eikä tuota sisältöä selain-UA:lla. "
+         "Mango ohjaa suomalaiset käyttäjät UK-sivulle. "
+         "Nelly (nelly.com/fi) ja Vero Moda (veromoda.com/fi-fi) ovat elinvoimaisia "
+         "palveluja mutta eivät mahtuneet kuuden yhtiön rajoituksella mukaan."),
+    ],
+}

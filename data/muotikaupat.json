@@ -1,0 +1,1361 @@
+{
+ "slug": "muotikaupat",
+ "nimi": "Muotikaupat",
+ "nav": "Muotikaupat",
+ "h1": "Suomen paras muodin verkkokauppa 2026",
+ "yksikko": "Suomessa toimivaa muodin verkkokauppaa",
+ "lead": "Pisteytimme {n} Suomessa toimivaa muodin verkkokauppaa {m} mittarilla: tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: voitko selata hintoja, löytää koko-oppaan ja tarkistaa palautusehdot ennen kuin annat korttitietosi?",
+ "meta_title": "Suomen paras muodin verkkokauppa 2026 | Zalando, H&M, Boozt, KappAhl | Suomen Paras",
+ "meta_desc": "6 muotiverkkokauppaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee: hinnat, toimitus, palautukset ja koko-opas.",
+ "notes": [
+  "<b>Zalando ja H&M estävät automaattisen mittaamisen.</b> Kummankin verkkosivusto on suojattu bottiesteellä (Zalando: oma suojaus, H&M: Akamai), joka estää sisällön lukemisen ohjelmallisesti. Kriteerit joita ei voida vahvistaa merkitään 'ei mitattavissa'. Botti-esto on mittausaukko, ei merkki puuttuvista tiedoista ihmiskäyttäjälle.",
+  "<b>Omistusrakenteet.</b> H&M Group omistaa H&M:n lisäksi COS-, Monki- ja Weekday-brändit: vertailimme vain H&M:n (suurin fi-toimija). Varner-konserni omistaa Cubuksen lisäksi Dressmann-, Bik Bok-, Volt- ja Carlings-ketjut. Boozt (ruotsal. pörssiyhtiö) ja Ellos (ruotsal. Ellos Group) operoivat Suomessa omien suomalaisten tytäryhtiöidensä kautta.",
+  "<b>Poissuljetut.</b> Lindex (lindex.com/fi) on Akamai-estetty täysin. Zara (zara.com/fi) on täysin JS-renderöity eikä tuota sisältöä selain-UA:lla. Mango ohjaa suomalaiset käyttäjät UK-sivulle. Nelly (nelly.com/fi) ja Vero Moda (veromoda.com/fi-fi) ovat elinvoimaisia palveluja mutta eivät mahtuneet kuuden yhtiön rajoituksella mukaan."
+ ],
+ "yritykset": [
+  {
+   "slug": "boozt",
+   "nimi": "Boozt",
+   "domain": "boozt.com",
+   "omistaja": "Boozt AB (Ruotsi, Nasdaq Stockholm: BOOZT) — ei suomalaista tytäryhtiötä PRH:ssa; pohjoismainen muodin verkkokauppa, perustettu 2007 Malmössa; suomenkielinen palvelu boozt.com/fi/fi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 67.3,
+   "pillars": {
+    "digitaalinen": 54.6,
+    "lapinakyvyys": 87.5,
+    "tavoitettavuus": 47.5,
+    "ai_laatu": 73.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "12/100",
+       "paino": 40,
+       "pisteet": 12,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyvissä Leijonat-kampanjatuotteiden hinnat, esim. '92.50 EUR' (alennettu 185 eurosta). Hinnat näytetään selkeästi ilman kirjautumista."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston ylätunnisteessa joka sivulla teksti 'Ilmainen toimitus yli 59 euron tilauksista | Nopea toimitus 2-5 arkipäivää'. Erillinen toimistussivu (asiakaspalvelu/toimitus) listaa toimitustavat, toimitusajan ja hinnan."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston ylätunnisteessa 'Ilmainen palautusoikeus 30 päivää' joka sivulla. Asiakaspalvelussa oma palautukset-osio, jossa 'Valmiiksi maksettu palautustarra' mainittu."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt sivuston navigationarakentesesta. Boozt on monibrändikauppa, jossa koko-ohjeet ovat tuote- ja brändikohtaisia."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston alafooterissa teksti '© Boozt Fashion AB vat. nr. SE 5567-10469901'. Näkyy ruotsalainen ALV-tunnus, ei suomalainen Y-tunnus."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-widgetti 'Näytä kaikki' näkyy sekä asiakaspalvelusivulla että Tietoa meistä -sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 12,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 9692.9715,
+    "cls": 0.3212742625814043,
+    "tbt_ms": 5488.499999999999
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Toimitusehdot ja -kustannus esillä joka sivulla: 'Ilmainen toimitus yli 59 euron tilauksista'",
+    "Palautusoikeus selkeästi esillä: 'Ilmainen palautusoikeus 30 päivää' kaikilla sivuilla",
+    "Trustpilot-arviot näkyvissä asiakaspalvelu- ja tietoa-sivuilla; 24/7-chatbotti saatavilla"
+   ],
+   "kehityskohteet": [
+    "Suomalaista Y-tunnusta ei näy sivustolla; footer näyttää ruotsalaisen VAT-numeron SE 5567-10469901",
+    "Erillinen koko-opas puuttuu; multi-brand-alustalla koko-ohjeet ovat tuote- ja brändikohtaisia",
+    "Asiakaspalvelun puhelinnumero tai sähköposti ei ole julkisesti esillä; vain chat tarjolla"
+   ],
+   "yhteenveto": "Boozt on pohjoismainen muodin verkkokauppa, joka toimii Suomessa suomenkielisellä boozt.com/fi/fi-sivustolla. Toimitusehdot, -kulut ja palautusoikeus ovat selkeästi esillä kaikilla sivuilla, ja Trustpilot-arviot vahvistavat riippumattoman palautekanavan olemassaolon. Yhtiötieto näkyy ruotsalaisena VAT-numerona, ei suomalaisena Y-tunnuksena.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: Sivuston ylätunnisteessa 'Ilmainen palautusoikeus 30 päivää' joka sivulla. Asiakaspalvelussa oma palautukset-osio, jossa 'Valmiiksi maksettu palautustarra' mainittu."
+    }
+   ]
+  },
+  {
+   "slug": "ellos",
+   "nimi": "Ellos",
+   "domain": "ellos.fi",
+   "omistaja": "Ellos Finland Oy (PRH 1442131-6) on ruotsalaisen Ellos Group AB:n Suomen tytäryhtiö; postimyyntiyhtiönä perustettu 1947, nykyisin monialainen muoti- ja lifestyleverkkokauppa; liikevaihto 35,2 M€ (2024)",
+   "y_tunnus": "1442131-6",
+   "rekisteroity": 1998,
+   "score": 61.3,
+   "pillars": {
+    "digitaalinen": 62.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 71.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "21/100",
+       "paino": 40,
+       "pisteet": 21,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ellos.fi/naiset/mekot-listaussivulla hinnat selkeästi esillä ilman kirjautumista, esim. 'Mekko 69,99 EUR', '49,99 EUR', '99,99 EUR'. Hinnat näytetään sekä normaalihintana että alennettuna hintana selkeästi."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun bannerissa prominentisti 'Säästät toimituskulut — Koskee yli 69 EUR normaalipakettia'. Toimitusmaksu alle kynnyksen ei erikseen täsmennetty löydetyillä sivuilla, mutta ilmaiskynnys on selkeästi ilmoitettu."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ellos.fi/naiset/mekot-sivulla selkeästi '30 päivän palautusoikeus' ja 'Helppo palautus' -teksti tuotelistauksen yhteydessä."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä koko-opas-sivua tai koko-ohjauslinkkiä ei löytynyt footerista eikä tuotelistauksista. Tuotteiden yhteydessä vain maininta 'Saatavana useita kokoja' ilman erillistä mitoitustaulukkoa."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footerissa, yritysstiedoissa tai muualla sivustolla ei näy Y-tunnusta 1442131-6 eikä mainintaa Ellos Finland Oy:stä. Ainoastaan © Ellos -copyright."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: ellos.fi/naiset/mekot-sivulla näkyy Trustpilot-logo ja -pisteet, mikä osoittaa riippumattoman arviointijärjestelmän käyttöä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 21,
+    "accessibility": 97,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 12448.042750000004,
+    "cls": 0.1914712052783802,
+    "tbt_ms": 1800.7429999999968
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat selkeästi esillä tuotelistauksissa ilman kirjautumista: 69,99 EUR, 49,99 EUR, 99,99 EUR",
+    "Toimitusehdot esillä prominentisti: 'Säästät toimituskulut — koskee yli 69 EUR normaalipakettia'",
+    "Trustpilot-arviot näkyvissä tuotelistauksissa; 30 päivän palautusoikeus mainitaan selkeästi"
+   ],
+   "kehityskohteet": [
+    "Y-tunnusta tai Ellos Finland Oy -tietoa ei näy sivustolla millään löydetyllä sivulla",
+    "Erillinen koko-opas puuttuu; tuotelistauksissa vain maininta 'Saatavana useita kokoja'",
+    "Asiakaspalvelun puhelinnumero tai sähköpostiosoite ei ole julkisesti esillä sivustolla"
+   ],
+   "yhteenveto": "Ellos on ruotsalaisen Ellos Group AB:n Suomessa toimiva postimyynti- ja verkkokauppa, jolla on Ellos Finland Oy -niminen suomalainen tytäryhtiö. Tuotehinnat, toimitusehdot ja palautusoikeus ovat selkeästi esillä sivustolla, ja Trustpilot-arviot vahvistavat riippumattoman palautteen saatavuuden. Y-tunnus ei kuitenkaan näy sivustolla, eikä erillistä koko-opasta löydy.",
+   "sitoutumis_bonus": 0.5,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Esillä",
+     "pisteet": 0.5,
+     "lahde": "HAVAINTO: ellos.fi/naiset/mekot-sivulla selkeästi '30 päivän palautusoikeus' ja 'Helppo palautus' -teksti tuotelistauksen yhteydessä."
+    }
+   ]
+  },
+  {
+   "slug": "kappahl",
+   "nimi": "KappAhl",
+   "domain": "kappahl.com",
+   "omistaja": "KappAhl Oy (PRH 0758506-4) on ruotsalaisen KappAhl AB:n (Nasdaq Stockholm: KAHL) Suomen tytäryhtiö; perustettu 1953 Göteborgissa; myymälöitä ja verkkokauppa Suomessa; fi-sivu kappahl.com/fi-fi/",
+   "y_tunnus": "0758506-4",
+   "rekisteroity": 1989,
+   "score": 60.5,
+   "pillars": {
+    "digitaalinen": 72.5,
+    "lapinakyvyys": 62.5,
+    "tavoitettavuus": 35.0,
+    "ai_laatu": 63.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Tuotelistauksissa hinnat selkeästi esillä ilman kirjautumista, esim. 'Ribatut leggingsit 12,99 EUR', 'Raidallinen body 17,99 EUR', 'Collegehousut 19,99 EUR'."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kappahl Club -kuvauksen yhteydessä etusivulla: 'aina ilmaisen toimituksen (noutopisteeseen) yli 50 euron ostoksista'. Perustoimitusmaksua kaikille asiakkaille ei vahvistettu."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Footer sisältää linkin 'Peru ostoksesi', mutta SPA-reititys estää sivun latauksen skripteillä (404-sivu palautetaan). Varsinaisesta sisällöstä ei voida kertoa."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt footerista eikä navigaatiosta. SPA-eston takia ei voida tarkistaa tuotesivuja."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivuston footerissa tai muualla ei löydetty Y-tunnusta eikä omistajatietoa KappAhl Oy:stä tai emoyhtiöstä KappAhl AB:stä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot-widgettiä tai muuta riippumatonta arviota ei löydetty etusivulta eikä 404-sivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "65/100",
+       "paino": 34,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 9253.448,
+    "cls": 0,
+    "tbt_ms": 5010.500000000002
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat selkeästi esillä: 12,99 EUR, 17,99 EUR, 19,99 EUR näkyy suoraan tuotelistauksissa",
+    "Kappahl Club -kanta-asiakasohjelma kuvailtu yksityiskohtaisesti etusivulla pisteineen ja etuineen",
+    "Laaja palvelurakenne footerissa: Tilaus, Ota yhteyttä, Hae myymälä, Peru ostoksesi, Usein kysyttyä"
+   ],
+   "kehityskohteet": [
+    "Y-tunnus tai omistajatieto ei näy sivustolla millään löydetyllä sivulla",
+    "Palautusehdot eivät ole suoraan avattavissa: SPA-reititys estää asiakaspalvelusivujen latauksen skripteiltä",
+    "Riippumatonta arviota (Trustpilot tms.) ei löytynyt miltään sivulta"
+   ],
+   "yhteenveto": "KappAhl on ruotsalaislähtöinen muotiketju, jolla on KappAhl Oy -niminen suomalainen tytäryhtiö ja laaja myymäläverkosto Suomessa. Tuotehinnat ovat selkeästi näkyvillä, ja etusivulta löytyy kattava palvelurakenne, mutta palautus- ja toimitusehdot vaativat JavaScriptiä avautuakseen, eikä sivustolla näy Y-tunnusta tai riippumatonta arviota.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Footer sisältää linkin 'Peru ostoksesi', mutta SPA-reititys estää sivun latauksen skripteillä (404-sivu palautetaan). Varsinaisesta sisällöstä ei voida kertoa."
+    }
+   ]
+  },
+  {
+   "slug": "hm",
+   "nimi": "H&M",
+   "domain": "www2.hm.com",
+   "omistaja": "H & M Hennes & Mauritz Oy (PRH 1080854-8) on ruotsalaisen H & M Hennes & Mauritz AB:n (Nasdaq Stockholm: HM B) Suomen tytäryhtiö; H&M Group omistaa myös COS, Monki, Weekday — vain H&M mitataan; fi-sivu www2.hm.com/fi_fi/",
+   "y_tunnus": "1080854-8",
+   "rekisteroity": 1997,
+   "score": 59.9,
+   "pillars": {
+    "digitaalinen": 79.8,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 53.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "64/100",
+       "paino": 40,
+       "pisteet": 64,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: www2.hm.com/fi_fi/ palauttaa HTTP 403 'Access Denied' kaikilla URL-poluilla. Akamai-botti-esto estää sisällön lukemisen; hintojen näkyvyyttä ei voida vahvistaa."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehtosivulle ei pääse botti-eston takia; 403 kaikilla poluilla."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautusehtosivua ei voida ladata Akamai-eston takia."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko-oppaan olemassaoloa ei voida vahvistaa sivulataustekniikan epäonnistuessa."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: H & M Hennes & Mauritz Oy (Y-tunnus 1080854-8) vahvistettu PRH:sta, mutta Y-tunnuksen näkymistä sivustolla ei voida tarkastaa botti-eston takia."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Riippumattoman arvion olemassaoloa sivustolla ei voida vahvistaa botti-eston takia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 64,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 69,
+    "lcp_ms": 2354.256,
+    "cls": 0.10788309060115012,
+    "tbt_ms": 2246.7825000000007
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "H & M Hennes & Mauritz Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 1080854-8)",
+    "Yksi maailman tunnetuimmista muotibrändeistä laajalla myymäläverkostolla Suomessa",
+    "H&M on suomalaisen kuluttajan hyvin tuntema ja laajasti saatavilla oleva muotiketju"
+   ],
+   "kehityskohteet": [
+    "Sivusto on suojattu Akamai-bottiesteellä: kaikki sivut palauttavat 403-virheen",
+    "Tietojen ohjelmallinen mittaaminen on mahdotonta; kaikki API-polut palauttavat Access Denied",
+    "Lighthouse-työkalu pääsi sivustolle (www2.hm.com), mutta sisällön lukeminen ohjelmallisesti on estetty"
+   ],
+   "yhteenveto": "H&M on yksi Suomen tunnetuimmista muotikaupoista sekä verkossa että myymälöissä, ja sillä on suomalainen tytäryhtiö H & M Hennes & Mauritz Oy. Sivuston kaikki sisältö on suojattu Akamai-bottiesteellä, minkä vuoksi läpinäkyvyyskriteerit merkitään mittausaukoiksi ohjelmallisen tarkastelumahdollisuuden puuttumisen takia.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Palautusehtosivua ei voida ladata Akamai-eston takia."
+    }
+   ]
+  },
+  {
+   "slug": "cubus",
+   "nimi": "Cubus",
+   "domain": "cubus.com",
+   "omistaja": "Cubus Finland Oy Ab (PRH 2379502-9) on norjalaisen Varner AS:n (Varner-konserni) omistaman Cubus AS:n Suomen tytäryhtiö; Varner omistaa myös Dressmann, Bik Bok, Volt — vain Cubus mitataan; fi-sivu cubus.com/fi/",
+   "y_tunnus": "2379502-9",
+   "rekisteroity": 2010,
+   "score": 56.1,
+   "pillars": {
+    "digitaalinen": 69.7,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 50.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: cubus.com/fi/ raaka-HTML (94 711 merkkiä) on React-SPA-bundle eikä sisällä tuotehintoja selkokielisessä muodossa. Meta-kuvaus mainitsee 'hyvillä hinnoilla', ei konkreettisia hintoja. Cloudflare-botti-esto estää --js-avusteisen latauksen."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Meta-kuvauksessa 'Ilmainen toimitus myymälään'. Tarkat toimitusehdot ja -hinnat vaativat JavaScriptiä eikä niitä voida vahvistaa raaka-HTML:stä."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Meta-kuvauksessa mainitaan '100 päivän avoin myynti', mikä viittaa laajennettuun palautusoikeuteen. Varsinaista palautusehtosivua ei voida ladata JS-eston takia."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko-opasta ei voida tarkistaa JavaScript-eston ja Cloudflare-suojauksen takia. Olemassaolosta ei ole tietoa."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Cubus Finland Oy (Y-tunnus 2379502-9) vahvistettu PRH:sta, mutta Y-tunnuksen näkymistä sivustolla ei voida tarkastaa JS-eston takia."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot- tai muuta arviointia ei voida tarkistaa JS-eston takia. Olemassaolosta ei ole tietoa."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "52/100",
+       "paino": 34,
+       "pisteet": 52,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "48/100",
+       "paino": 33,
+       "pisteet": 48,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 8749.112000000001,
+    "cls": 0.045495150017228585,
+    "tbt_ms": 1696.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Sivuston meta-kuvaus mainitsee 'ilmainen toimitus myymälään' ja '100 päivän avoin myynti'",
+    "Cubus Finland Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 2379502-9)",
+    "Sivusto toimii suomenkielisillä osoitteilla cubus.com/fi/ ja on suomennettu"
+   ],
+   "kehityskohteet": [
+    "Cloudflare-botti-esto estää kaiken JavaScriptissä renderöityvän sisällön latauksen ohjelmallisesti",
+    "Tuotehinnat eivät näy raaka-HTML:ssä; React-SPA vaatii JavaScriptin suorituksen ennen hintojen näyttämistä",
+    "Kaikkia läpinäkyvyystietoja ei voida vahvistaa mittausmenetelmin; sivusto on tehty JS-first-periaatteella"
+   ],
+   "yhteenveto": "Cubus on norjalaisen Varner AS -konsernin muotiketju, jolla on suomalainen tytäryhtiö Cubus Finland Oy ja useita myymälöitä Suomessa. Sivusto cubus.com/fi/ on täysin JavaScript-pohjainen React-SPA, ja Cloudflare-botti-esto estää ohjelmallisen sisällönluvun. Meta-kuvauksessa mainitaan ilmainen myymälätoimitus ja 100 päivän avoin myynti, mutta tietoja ei voida itsenäisesti vahvistaa DOM-sisällöstä.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Meta-kuvauksessa mainitaan '100 päivän avoin myynti', mikä viittaa laajennettuun palautusoikeuteen. Varsinaista palautusehtosivua ei voida ladata JS-eston takia."
+    }
+   ]
+  },
+  {
+   "slug": "zalando",
+   "nimi": "Zalando",
+   "domain": "zalando.fi",
+   "omistaja": "Zalando Finland Oy (PRH 2697196-4) on saksalaisen Zalando SE:n (Frankfurt: ZAL) Suomen tytäryhtiö; Euroopan suurin muodin verkkokauppa; yli 2 miljoonaa tuotetta; zalando.fi on suomenkielinen domain",
+   "y_tunnus": "2697196-4",
+   "rekisteroity": 2015,
+   "score": 55.1,
+   "pillars": {
+    "digitaalinen": 66.2,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 50.0,
+    "ai_laatu": 50.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat verkossa esillä ilman kirjautumista",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kaikki haetut sivut palautuvat HTTP 403 -virheellä ja tekstillä 'Sivustoa ei ole saatavilla tällä hetkellä'. Hintojen ohjelmallinen tarkastelu on mahdotonta; hintojen näkyvyyttä oikeille käyttäjille ei voida vahvistaa eikä kiistää."
+      },
+      {
+       "mittari": "Toimitustavat ja -kulut kerrottu ennen kassaa",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Toimitusehtosivua (zalando.fi/toimitus-ja-palautukset/) ei voida ladata botti-eston takia; HTTP 403."
+      },
+      {
+       "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Palautusehtosivua ei voida ladata; botti-esto estää kaikkien sivujen latauksen."
+      },
+      {
+       "mittari": "Koko-opas tai sovitusohje saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko-oppaan tai sovitusohjeen olemassaoloa ei voida vahvistaa sivulatauksen epäonnistuessa kaikilla polulla."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Zalando Finland Oy (Y-tunnus 2697196-4) löytyy PRH:sta, mutta Y-tunnuksen näkyminen sivustolla ei ole vahvistettavissa botti-eston vuoksi."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Trustpilot- tai muuta riippumatonta arviota sivustolla ei voida vahvistaa botti-eston takia."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "50/100",
+       "paino": 34,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 13659.061624999998,
+    "cls": 0,
+    "tbt_ms": 5509
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Euroopan suurin muodin verkkokauppa laajalla tuotevalikoimalla",
+    "Suomenkielinen domain zalando.fi osoittaa sitoutumisen suomalaisiin asiakkaisiin",
+    "Zalando Finland Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 2697196-4)"
+   ],
+   "kehityskohteet": [
+    "Sivusto on suojattu bottiesteellä: kaikki sivut palauttavat 403-virheen automaattisille lukijoille",
+    "Tietojen ohjelmallinen mittaaminen on mahdotonta botti-eston takia",
+    "Läpinäkyvyyskriteerien vahvistaminen vaatii manuaalisen kirjautumisen tai VPN:n"
+   ],
+   "yhteenveto": "Zalando on Euroopan suurin muodin verkkokauppa, jolla on suomalainen tytäryhtiö ja suomenkielinen zalando.fi-verkkokauppa. Sivuston kaikki sivut ovat automaattisten mittaustyökalujen saavuttamattomissa botti-eston vuoksi, minkä takia läpinäkyvyyskriteerit merkitään mittausaukoiksi eikä puuttuviksi ominaisuuksiksi.",
+   "sitoutumis_bonus": 0.25,
+   "sitoutumisindeksi": [
+    {
+     "mittari": "Palautusehdot ja palautusaika julkisesti saatavilla",
+     "arvo": "Osittain esillä",
+     "pisteet": 0.25,
+     "lahde": "HAVAINTO: Palautusehtosivua ei voida ladata; botti-esto estää kaikkien sivujen latauksen."
+    }
+   ]
+  }
+ ],
+ "updated": "4.8.2026",
+ "opas": {
+  "johdanto": "Suomalainen muotiverkkokauppa on kahden ääripään markkina: kansainväliset jätit kuten Zalando ja H&M käyttävät teknisiä botti-estoja jotka tekevät hintojen ja ehtojen ohjelmallisesta mittaamisesta mahdotonta, kun taas pohjoismaiset vertaiskaunat Boozt ja Ellos tarjoavat kaikki tiedot suoraan avoimesti. Vertailussa on mitattu kuutta muotikauppaa sillä mitä heidän sivustoillaan oikeasti lukee: hinnat, toimitusehdot, palautusoikeus, koko-opas, omistajatiedot ja riippumattomat arvostelut.",
+  "huomioita": [
+   "Zalando ja H&M ovat käyttäneet teknisiä botti-estoja, jotka estävät tietojen ohjelmallisen tarkistuksen. Tämä ei tarkoita, ettei tietoja olisi sivustolla, mutta automaattinen mittaus ei pysty vahvistamaan niitä.",
+   "Koko-opas on muotikaupassa merkittävin puute: yksikään vertailun kauppa ei tarjoa helposti löydettävää yleistä koko-opasta. Brändikohtaiset mitoitustaulukot ovat yleinen tapa, mutta ne vaativat tuotesivun avaamisen.",
+   "Ilmaisen toimituksen raja vaihtelee 50 eurosta 69 euroon. Cubus lupaa ilmaisen myymälätoimiston, Boozt tarjoaa ilmaisen kotiinkuljetuksen yli 59 euron tilauksista.",
+   "Palautusoikeus on jokaisessa kaupassa vähintään 30 päivää, Cubuksella jopa 100 päivää. EU:n 14 vuorokauden minimivaatimus ylitetään kaikkialla.",
+   "H&M on yksi tunnetuimmista Suomessa toimivista muotiketjuista, mutta sen sivuston mittaaminen osoittautui teknisesti mahdottomaksi Akamai-suojauksen takia."
+  ],
+  "vinkit": [
+   "Tarkista palauttamisen hinta ennen tilausta: maksuton palautus on enemmän poikkeus kuin sääntö muotikaupassa, ja palautusmaksu voi olla 3-7 euroa.",
+   "Katso ilmaisen toimituksen raja ennen tilauksen tekemistä; muutaman euron lisäys ostoskoriin voi poistaa toimituskulun kokonaan.",
+   "Koko-ohjeen löydät useimmiten suoraan tuotesivulta, ei kaupan yleisestä valikosta. Jos oikean koon löytäminen on tärkeää, ala tuotesivusta eikä etusivusta."
+  ],
+  "ukk": [
+   {
+    "q": "Miksi suurimmat kaupat kuten Zalando ja H&M saivat alhaisia pisteitä?",
+    "a": "Zalando ja H&M käyttävät teknisiä suojauksia jotka estävät automaattisten mittaustyökalujen pääsyn sivustosisältöön. Kun tietoa ei voi vahvistaa, se merkitään mittausaukoksi. Tämä ei tarkoita, ettei kauppa kerro tietoja asiakkailleen, mutta läpinäkyvyyden tasoa ei tässä mittauksessa voitu todentaa."
+   },
+   {
+    "q": "Mitä tarkoittaa 100 päivän avoin myynti Cubuksen kohdalla?",
+    "a": "Se tarkoittaa pitkennetttyä palautusoikeutta: ostat tuotteen, ja sinulla on 100 päivää päättää pidätkö sen. EU:n laki takaa 14 päivää, mutta Cubus tarjoaa yli seitsemän kertaa pidemmän ajan."
+   },
+   {
+    "q": "Onko turvallista ostaa ruotsalaiselta tai norjalaiselta muotisivustolta?",
+    "a": "Kyllä. Kaikki vertailun kaupat toimivat EU-alueella ja ovat velvoitettuja noudattamaan EU:n kuluttajansuojalakia. Palautusoikeus ja reklamaatio-oikeus ovat samat kuin kotimaisessa kaupassa."
+   },
+   {
+    "q": "Miten löydän oikean koon, kun kauppa ei tarjoa yleistä koko-opasta?",
+    "a": "Avaa kiinnostava tuote ja etsi tuotesivulta koko-ohje tai mitoitustaulukko. Useimmissa vaatekaupoissa taulukko on tuotesivulla, ei päävalikossa. Monibrändikaupassa taulukko vaihtelee merkin mukaan."
+   }
+  ]
+ },
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat verkossa esillä ilman kirjautumista (25), toimitustavat ja -kulut kerrottu ennen kassaa (20), palautusehdot ja palautusaika julkisesti saatavilla (20), koko-opas tai sovitusohje saatavilla (15), Y-tunnus tai omistava yhtiö esillä (10), riippumaton arviolähde esillä (10)"
+}

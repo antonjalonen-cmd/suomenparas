@@ -1,0 +1,38 @@
+{
+  "slug": "cubus",
+  "fetched_ok": [
+    "https://www.cubus.com/fi/"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "osittain",
+  "koko_opas": "osittain",
+  "y_tunnus_esilla": "osittain",
+  "riippumaton_arvio": "osittain",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {"selkeys": 52, "hintojen_loydettavyys": 50, "sisallon_kattavuus": 48},
+  "vahvuudet": [
+    "Sivuston meta-kuvaus mainitsee 'ilmainen toimitus myymälään' ja '100 päivän avoin myynti'",
+    "Cubus Finland Oy on PRH-rekisteröity suomalainen tytäryhtiö (Y-tunnus 2379502-9)",
+    "Sivusto toimii suomenkielisillä osoitteilla cubus.com/fi/ ja on suomennettu"
+  ],
+  "kehityskohteet": [
+    "Cloudflare-botti-esto estää kaiken JavaScriptissä renderöityvän sisällön latauksen ohjelmallisesti",
+    "Tuotehinnat eivät näy raaka-HTML:ssä; React-SPA vaatii JavaScriptin suorituksen ennen hintojen näyttämistä",
+    "Kaikkia läpinäkyvyystietoja ei voida vahvistaa mittausmenetelmin; sivusto on tehty JS-first-periaatteella"
+  ],
+  "yhteenveto": "Cubus on norjalaisen Varner AS -konsernin muotiketju, jolla on suomalainen tytäryhtiö Cubus Finland Oy ja useita myymälöitä Suomessa. Sivusto cubus.com/fi/ on täysin JavaScript-pohjainen React-SPA, ja Cloudflare-botti-esto estää ohjelmallisen sisällönluvun. Meta-kuvauksessa mainitaan ilmainen myymälätoimitus ja 100 päivän avoin myynti, mutta tietoja ei voida itsenäisesti vahvistaa DOM-sisällöstä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: cubus.com/fi/ raaka-HTML (94 711 merkkiä) on React-SPA-bundle eikä sisällä tuotehintoja selkokielisessä muodossa. Meta-kuvaus mainitsee 'hyvillä hinnoilla', ei konkreettisia hintoja. Cloudflare-botti-esto estää --js-avusteisen latauksen.",
+    "toimitus_kerrottu": "HAVAINTO: Meta-kuvauksessa 'Ilmainen toimitus myymälään'. Tarkat toimitusehdot ja -hinnat vaativat JavaScriptiä eikä niitä voida vahvistaa raaka-HTML:stä.",
+    "palautusehdot_saatavilla": "HAVAINTO: Meta-kuvauksessa mainitaan '100 päivän avoin myynti', mikä viittaa laajennettuun palautusoikeuteen. Varsinaista palautusehtosivua ei voida ladata JS-eston takia.",
+    "koko_opas": "HAVAINTO: Koko-opasta ei voida tarkistaa JavaScript-eston ja Cloudflare-suojauksen takia. Olemassaolosta ei ole tietoa.",
+    "y_tunnus_esilla": "HAVAINTO: Cubus Finland Oy (Y-tunnus 2379502-9) vahvistettu PRH:sta, mutta Y-tunnuksen näkymistä sivustolla ei voida tarkastaa JS-eston takia.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot- tai muuta arviointia ei voida tarkistaa JS-eston takia. Olemassaolosta ei ole tietoa."
+  }
+}

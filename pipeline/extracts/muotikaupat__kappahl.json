@@ -1,0 +1,39 @@
+{
+  "slug": "kappahl",
+  "fetched_ok": [
+    "https://www.kappahl.com/fi-fi/",
+    "https://www.kappahl.com/fi-fi/info/customer-service/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "osittain",
+  "koko_opas": "osittain",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "osittain",
+  "ai_arviot": {"selkeys": 65, "hintojen_loydettavyys": 70, "sisallon_kattavuus": 55},
+  "vahvuudet": [
+    "Tuotehinnat selkeästi esillä: 12,99 EUR, 17,99 EUR, 19,99 EUR näkyy suoraan tuotelistauksissa",
+    "Kappahl Club -kanta-asiakasohjelma kuvailtu yksityiskohtaisesti etusivulla pisteineen ja etuineen",
+    "Laaja palvelurakenne footerissa: Tilaus, Ota yhteyttä, Hae myymälä, Peru ostoksesi, Usein kysyttyä"
+  ],
+  "kehityskohteet": [
+    "Y-tunnus tai omistajatieto ei näy sivustolla millään löydetyllä sivulla",
+    "Palautusehdot eivät ole suoraan avattavissa: SPA-reititys estää asiakaspalvelusivujen latauksen skripteiltä",
+    "Riippumatonta arviota (Trustpilot tms.) ei löytynyt miltään sivulta"
+  ],
+  "yhteenveto": "KappAhl on ruotsalaislähtöinen muotiketju, jolla on KappAhl Oy -niminen suomalainen tytäryhtiö ja laaja myymäläverkosto Suomessa. Tuotehinnat ovat selkeästi näkyvillä, ja etusivulta löytyy kattava palvelurakenne, mutta palautus- ja toimitusehdot vaativat JavaScriptiä avautuakseen, eikä sivustolla näy Y-tunnusta tai riippumatonta arviota.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Tuotelistauksissa hinnat selkeästi esillä ilman kirjautumista, esim. 'Ribatut leggingsit 12,99 EUR', 'Raidallinen body 17,99 EUR', 'Collegehousut 19,99 EUR'.",
+    "toimitus_kerrottu": "HAVAINTO: Kappahl Club -kuvauksen yhteydessä etusivulla: 'aina ilmaisen toimituksen (noutopisteeseen) yli 50 euron ostoksista'. Perustoimitusmaksua kaikille asiakkaille ei vahvistettu.",
+    "palautusehdot_saatavilla": "HAVAINTO: Footer sisältää linkin 'Peru ostoksesi', mutta SPA-reititys estää sivun latauksen skripteillä (404-sivu palautetaan). Varsinaisesta sisällöstä ei voida kertoa.",
+    "koko_opas": "HAVAINTO: Erillistä koko-opas-sivua tai -linkkiä ei löytynyt footerista eikä navigaatiosta. SPA-eston takia ei voida tarkistaa tuotesivuja.",
+    "y_tunnus_esilla": "HAVAINTO: Sivuston footerissa tai muualla ei löydetty Y-tunnusta eikä omistajatietoa KappAhl Oy:stä tai emoyhtiöstä KappAhl AB:stä.",
+    "riippumaton_arvio": "HAVAINTO: Trustpilot-widgettiä tai muuta riippumatonta arviota ei löydetty etusivulta eikä 404-sivuilta."
+  }
+}
