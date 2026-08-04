@@ -1,0 +1,40 @@
+{
+  "slug": "airbnb",
+  "fetched_ok": [
+    "https://www.airbnb.fi/",
+    "https://www.airbnb.fi/s/Suomi/homes",
+    "https://www.airbnb.fi/help/article/149"
+  ],
+  "hinnat_esilla": "kylla",
+  "peruutusehdot_kerrottu": "kylla",
+  "varaus_verkossa": "kylla",
+  "kohteiden_maara_fi": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "asiakaspalvelu_suomeksi": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 82, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Hinnat näkyvät hakutuloksissa ilman rekisteröitymistä — selaus on mahdollista kirjautumatta",
+    "Kattava suomenkielinen Apukeskus ja peruutusehtojen selityssivu Peruutusvaihtoehdot",
+    "Mobiilisovellus iOS:lle ja Androidille; tunnettu brändi, AirCover-vierassuoja joka varauksessa"
+  ],
+  "kehityskohteet": [
+    "Suomessa olevien mökkien tai kohteiden tarkkaa lukumäärää ei kerrota — hakutulokset näyttävät vain 'Over 1,000 stays'",
+    "Puhelintukea ei ole suoraan saatavilla — kaikki asiakaspalvelu kulkee verkkolomakkeiden kautta",
+    "Omistajayhtiö on Airbnb Ireland UC (Irlanti) eikä suomalainen yhtiö — Y-tunnusta ei ole"
+  ],
+  "yhteenveto": "Airbnb on globaali majoitusalusta, jolla on yli tuhat kohdetta Suomessa, mutta tarkka luku ei näy hakutuloksissa. Sivusto toimii kokonaan suomeksi ja sisältää kattavan Apukeskuksen peruutusehtoineen. Hinnat näkyvät hakutuloksissa ilman rekisteröitymistä ja varaus tapahtuu kokonaan verkossa.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Airbnb-hakutulokset näyttävät yöhinnan jokaisen kohteen kortissa ennen kirjautumista — tarkistettu suomenkielisellä airbnb.fi/s/Suomi/homes -sivulla.",
+    "peruutusehdot_kerrottu": "SITAATTI: 'Peruutusvaihtoehdot' — footer-linkki airbnb.fi:ssä; Apukeskus/article/149: 'Etsi tarjoajan peruutusehdot kaikille kohteille, palveluille ja elämyksille'.",
+    "varaus_verkossa": "HAVAINTO: Airbnb on puhtaasti verkossa toimiva varaus- ja maksamissalusta — varaus ja maksu tapahtuvat kokonaan sivustolla tai sovelluksessa.",
+    "kohteiden_maara_fi": "SITAATTI: Hakutulossivu näkyy Suomi-haulla mutta näyttää vain 'Over 1,000 stays' — tarkka luku ei ole esillä.",
+    "y_tunnus_esilla": "SITAATTI: '© 2026 Airbnb, Inc.' ja 'Yritystiedot' -linkki — footer joka sivulla; Airbnb Ireland UC on EU-alueen vastuuyhtiö, ei suomalainen Y-tunnus.",
+    "asiakaspalvelu_suomeksi": "HAVAINTO: Sivusto on kokonaan suomenkielinen, Apukeskus suomeksi; 'Ota yhteyttä meihin' -lomake saatavilla."
+  }
+}

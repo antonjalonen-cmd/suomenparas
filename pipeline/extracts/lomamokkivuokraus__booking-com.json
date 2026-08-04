@@ -1,0 +1,39 @@
+{
+  "slug": "booking-com",
+  "fetched_ok": [
+    "https://www.booking.com/country/fi.fi.html",
+    "https://www.booking.com/content/terms.fi.html"
+  ],
+  "hinnat_esilla": "kylla",
+  "peruutusehdot_kerrottu": "kylla",
+  "varaus_verkossa": "kylla",
+  "kohteiden_maara_fi": "osittain",
+  "y_tunnus_esilla": "kylla",
+  "asiakaspalvelu_suomeksi": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 72},
+  "vahvuudet": [
+    "Hinnat näkyvät hakutuloksissa ilman rekisteröitymistä; 15 709 majoitusta Suomessa — kaikki varattavissa",
+    "24/7 chat-asiakaspalvelu saatavilla suomeksi mobiilisovelluksessa ja verkossa",
+    "Booking.com B.V. (Alankomaat) mainitaan käyttöehdoissa vastuuyhtiönä — omistaja kerrottu"
+  ],
+  "kehityskohteet": [
+    "Mökkien tarkka lukumäärä ei näy erikseen — 15 709 sisältää myös hotellit ja muut majoitustyypit, puhtaita mökkejä ei eritellä",
+    "Suomenkielinen puhelinnumero ei ole saatavilla — kaikki asiakaspalvelu chat- tai lomakepohjaisesti",
+    "Peruutusehdot vaihtelevat kohdittain ja voidaan näyttää vasta varausprosessin aikana — ei yleistä yhtenäistä selityssivua"
+  ],
+  "yhteenveto": "Booking.com on kansainvälinen alusta, jolla on yli 15 000 majoituspaikkaa Suomessa, mutta mökki on yksi monesta majoitustyypistä. Hinnat näkyvät hakutuloksissa ilman rekisteröitymistä ja sivusto toimii suomeksi. Omistajayhtiö Booking.com B.V. (Alankomaat) on mainittu käyttöehdoissa, eikä suomalaista Y-tunnusta ole.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Booking.com näyttää yöhinnat jokaisen majoituksen kortissa hakutuloksissa ilman rekisteröitymistä — tämä on Booking.comin globaali perustoiminto.",
+    "peruutusehdot_kerrottu": "SITAATTI: 'Jos perut varauksen hyväksyttävän peruutusajanjakson aikana, hyvitämme sinulle täysimääräisesti sinulta aluksi veloittamamme summan.' — käyttöehdot; jokainen kohde näyttää oman peruutusehtonsa kohdekortilla.",
+    "varaus_verkossa": "HAVAINTO: Booking.com on puhtaasti verkossa toimiva varaus- ja maksamissalusta — varaus ja maksu tapahtuvat kokonaan sivustolla tai sovelluksessa.",
+    "kohteiden_maara_fi": "SITAATTI: '15 709 hotellia ja muuta majoituspaikkaa' Suomessa — Finland country page (booking.com/country/fi.fi.html), mutta lukema kattaa kaikki majoitustyypit, ei vain mökit.",
+    "y_tunnus_esilla": "SITAATTI: 'Kun varaat majoituksen... Booking.com B.V. tarjoaa alustan ja on vastuussa siitä.' — käyttöehdot; Booking.com B.V. on alankomaalainen yhtiö, ei suomalainen Y-tunnus.",
+    "asiakaspalvelu_suomeksi": "HAVAINTO: Sivusto toimii suomeksi; apukeskus suomeksi; chat-tuki 24/7 saatavilla sovelluksen kautta."
+  }
+}

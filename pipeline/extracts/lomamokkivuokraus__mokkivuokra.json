@@ -1,0 +1,39 @@
+{
+  "slug": "mokkivuokra",
+  "fetched_ok": [
+    "https://www.mokkivuokra.fi/",
+    "https://www.mokkivuokra.fi/faq/"
+  ],
+  "hinnat_esilla": "kylla",
+  "peruutusehdot_kerrottu": "osittain",
+  "varaus_verkossa": "osittain",
+  "kohteiden_maara_fi": "kylla",
+  "y_tunnus_esilla": "osittain",
+  "asiakaspalvelu_suomeksi": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 76, "sisallon_kattavuus": 73},
+  "vahvuudet": [
+    "842 mökkiä koko Suomessa — luku näkyy selkeästi sivuston päänavigoinnissa heti etusivulla",
+    "Hinnoittelutyökalu näyttää kunkin mökin ajankohtaisen hinnaston suoraan — 'Mökin hintatyökalusta näet majoituskohteen asettaman ajankohtaisen hinnaston'",
+    "Yrityksen nimi ja osoite kerrotaan sivuston footerissa: Mökkivuokra Marketing Oy, Meritullinkatu 33, 00170 Helsinki; osa Villada Group Oy -konsernia (perustettu 2019)"
+  ],
+  "kehityskohteet": [
+    "Varaukset tehdään suoraan mökinomistajalle eikä Mökkivuokra.fi-alustan kautta — peruutusehdot vaihtelevat kohteittain eikä yleistä peruutuspolitiikkaa kerrota alustatasolla",
+    "Y-tunnusta (3364418-7) ei kerrota sivustolla — footerissa näkyy vain yhtiön nimi ja osoite",
+    "Asiakaspalvelun puhelinnumero tai sähköposti ei ole julkisilla sivuilla nähtävissä"
+  ],
+  "yhteenveto": "Mökkivuokra.fi on vuonna 2019 perustettu Mökkivuokra Marketing Oy:n (Villada Group) operoima premium-mökkivuokrapalvelu, jossa on 842 kohdetta ympäri Suomea. Hinnat näkyvät kohdekohtaisesti ilman rekisteröitymistä, mutta varauksen viimeistely tapahtuu suoraan mökinomistajan kanssa eikä alustan kautta. Omistajayrityksen nimi ja osoite on kerrottu footerissa mutta Y-tunnusta ei ole julkisesti esillä.",
+  "evidence": {
+    "hinnat_esilla": "SITAATTI: 'Mökin hintatyökalusta näet majoituskohteen asettaman ajankohtaisen hinnaston. Teet varauksen suoraan majoitustoimijalle, mikä takaa sinulle aina parhaan mahdollisen hinnan.' — etusivu; hinnat näkyvät jokaisessa kohdekortissa.",
+    "peruutusehdot_kerrottu": "HAVAINTO: 'Käyttöehdot'-linkki footerissa; käyttöehdot-sivu ei ladannut sisältöä (0 merkkiä). Peruutusehdot vaihtelevat kohteittain, sillä varaus tehdään suoraan mökinomistajalle.",
+    "varaus_verkossa": "SITAATTI: 'Palvelumme erottuu edukseen selkeydellään ja suoraviivaisuudellaan – varauksen teet suoraan mökinomistajalle.' — etusivu; varaus siirtyy mökinomistajalle, ei tapahdu kokonaan Mökkivuokra.fi-alustan kautta.",
+    "kohteiden_maara_fi": "SITAATTI: '842 mökkiä' — näkyy sivuston päänavigointipalkissa etusivulla ja kaikilla alasivuilla.",
+    "y_tunnus_esilla": "SITAATTI: 'Mökkivuokra Marketing Oy, Meritullinkatu 33, 00170 Helsinki' ja '© Mökkivuokra - part of Villada Group 2026' — footer; yhtiön nimi ja osoite kerrotaan mutta Y-tunnusta (3364418-7) ei mainita sivustolla.",
+    "asiakaspalvelu_suomeksi": "HAVAINTO: Sivusto on kokonaan suomenkielinen; 'FAQ'-sivu saatavilla osoitteessa /faq/; 'Tietoa Mökkivuokra.fi-palvelusta' -linkki footerissa."
+  }
+}

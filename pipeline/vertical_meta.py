@@ -1968,3 +1968,30 @@ META["sahkoautojen-lataus"] = {
          "sijaitseviin 350 kW suurteholatureihin pitkille matkoille."),
     ],
 }
+
+# --- era 17 (4.8.2026): lomamokkivuokraus ----------------------------------------
+META["lomamokkivuokraus"] = {
+    "slug": "lomamokkivuokraus",
+    "nimi": "Lomamökkivuokraus",
+    "nav": "Lomamökkivuokraus",
+    "h1": "Suomen paras lomamökkivuokrauspalvelu 2026",
+    "yksikko": "mökkivuokrauspalvelua",
+    "lead": ("Pisteytimme {n} Suomessa toimivaa lomamökkien vuokrauspalvelua {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö mökin hinnan ennen kuin luovutat yhteystietosi?"),
+    "meta_title": "Suomen paras lomamökkivuokrauspalvelu 2026 — Lomarengas, Nettimökki, Airbnb, Booking.com, Huvila.net, Mökkivuokra.fi pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista lomamökkivuokrauspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Nettimökki kuuluu Alma Mediaan.</b> Alma Media Finland Oy omistaa Nettimökki-palvelun "
+         "osana verkkomarkkinapaikkaportfoliotaan. Muut neljä suomalaista palvelua ovat "
+         "itsenäisiä tai pienempien omistajaryhmien operoimia."),
+        ("<b>Airbnb ja Booking.com ovat kansainvälisiä alustoja.</b> Airbnb Ireland UC ja "
+         "Booking.com B.V. eivät ole suomalaisia yhtiöitä, eikä niillä ole suomalaista "
+         "Y-tunnusta. Mittauksessa arvioidaan niiden suomenkielistä palvelua ja Suomessa "
+         "olevien mökkikohteiden tarjontaa."),
+        ("<b>Mökkivuokra.fi erikoistuu premium-kohteisiin.</b> Mökkivuokra Marketing Oy "
+         "on osa Villada Group -konsernia ja profiloituu luksus- ja premium-mökkien "
+         "välitykseen. Palvelu toimii myös kansainvälisesti CottageFinland.fi-nimellä."),
+    ],
+}

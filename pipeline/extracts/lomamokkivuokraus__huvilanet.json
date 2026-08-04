@@ -1,0 +1,39 @@
+{
+  "slug": "huvilanet",
+  "fetched_ok": [
+    "https://huvila.net/",
+    "https://huvila.net/suomi/?Sopimusehdot"
+  ],
+  "hinnat_esilla": "osittain",
+  "peruutusehdot_kerrottu": "osittain",
+  "varaus_verkossa": "osittain",
+  "kohteiden_maara_fi": "ei",
+  "y_tunnus_esilla": "ei",
+  "asiakaspalvelu_suomeksi": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 58, "hintojen_loydettavyys": 52, "sisallon_kattavuus": 55},
+  "vahvuudet": [
+    "Toiminut vuodesta 1999 — yksi Suomen pitkäaikaisimmista vuokramökkipalveluista",
+    "Haku toimii suomeksi, ruotsiksi, englanniksi ja saksaksi — laaja kansainvälinen tavoitettavuus",
+    "Erittäin kattava hakusuodatin: sijainti, etäisyys rantaan, sauna, palju, sähköt, huoneala — auttaa löytämään sopivan mökin tarkasti"
+  ],
+  "kehityskohteet": [
+    "CGI-skriptipalvelinkatkos alkaen 23.4.2025 — varaus- ja selausskriptit eivät toimi normaalisti tänä päivänä",
+    "Mökkien kokonaislukumäärää ei kerrota sivustolla — kuntakohtaiset luvut näkyvät hakusuodattimessa muttei yhteissummaa",
+    "Y-tunnusta tai omistajayritystä ei kerrota sivustolla; yhteystiedot puuttuvat julkisilta sivuilta"
+  ],
+  "yhteenveto": "Huvila.net on vuodesta 1999 toiminut suomalainen vuokramökkipalvelu, joka tarjoaa monipuolisen hakusuodattimen kuntakohtaisine listauksineen. Palvelun CGI-skriptien toiminnassa on ollut palvelinkatkos huhtikuusta 2025 alkaen, mikä on vaikuttanut varausjärjestelmän toimivuuteen. Sivusto toimii suomeksi, ruotsiksi, englanniksi ja saksaksi, mutta hinnat, varausehdot ja yhteystiedot eivät ole julkisesti saatavissa tällä hetkellä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hakusuodattimessa näkyy hintayksiköt (€/vrk, €/vkl, €/vko, €/kk, €/vuosi) mutta CGI-palvelinkatkoksen (23.4.2025) takia hakutulossivut eivät lataudu normaalisti — todellisia listahintoja ei voi nähdä.",
+    "peruutusehdot_kerrottu": "HAVAINTO: 'Sopimusehdot'-linkki näkyy sivuston valikossa, mutta ?Sopimusehdot-sivu näyttää vain palvelukatkostiedotteen eikä itse sopimusehtoja.",
+    "varaus_verkossa": "HAVAINTO: Palvelukatkostiedote (23.4.2025): 'CGI-skriptien ajamisen kanssa ilmeni ongelmia' — varausskriptit eivät toimi; kuntakohtaiset listausindikaattorit (Juva 35, Orivesi 39, Sulkava 19 jne.) näkyvät JS-suodattimessa, mutta varauksen tekeminen on estynyt.",
+    "kohteiden_maara_fi": "HAVAINTO: Kuntakohtaiset mökkimäärät näkyvät suodattimessa (esim. Juva (35), Orivesi (39), Pertunmaa (34)) mutta palvelun kokonaismökkimäärää ei kerrota missään ladattavissa olevalla sivulla.",
+    "y_tunnus_esilla": "HAVAINTO: Huvilanet Oy (Y-tunnus 2202714-0) on palvelun omistaja PRH-tietojen mukaan, mutta yhtiön nimeä tai Y-tunnusta ei löydy latautuvilta sivuilta.",
+    "asiakaspalvelu_suomeksi": "HAVAINTO: Sivusto on ensisijaisesti suomenkielinen; 'Palautelomake'-linkki näkyy valikossa asiakaspalautetta varten. Muu viestintä neljällä kielellä (FI/SV/EN/DE)."
+  }
+}

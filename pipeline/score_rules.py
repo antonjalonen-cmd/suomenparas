@@ -764,3 +764,21 @@ TRANSPARENCY["sahkoautojen-lataus"] = [
     # Omistavan yhtiön tai Y-tunnuksen esittäminen lisää luottamusta.
     ("omistaja_kerrottu", "Omistava yhtiö tai Y-tunnus esillä sivustolla", 5),
 ]
+
+# --- era 17 (4.8.2026): lomamokkivuokraus ----------------------------------------
+# Kuluttajan tärkein kysymys: näetkö mökin yöhinnan hakutuloksissa ennen rekisteröintiä?
+# Weights: 30+20+20+15+10+5 = 100
+TRANSPARENCY["lomamokkivuokraus"] = [
+    # Hintanäkyvyys on mökkivuokrauksessa perusasia — vertailu on mahdotonta ilman hintoja.
+    ("hinnat_esilla", "Vuorokausi- tai viikkohinta nähtävissä hakutuloksissa ilman rekisteröitymistä", 30),
+    # Peruutusehdot vaihtelevat paljon alustojen välillä — kuluttajan on nähtävä ne ennen varausta.
+    ("peruutusehdot_kerrottu", "Peruutus- tai varausehdot kerrottu selkeästi", 20),
+    # Verkkovaraus ja maksaminen suoraan alustalla on kuluttajan perustoiminto.
+    ("varaus_verkossa", "Mökin voi varata ja maksaa kokonaan verkossa", 20),
+    # Kohteiden lukumäärä on helpoin tapa arvioida valikoiman laajuutta.
+    ("kohteiden_maara_fi", "Suomessa olevien mökkien tai loma-asuntojen lukumäärä kerrottu", 15),
+    # Y-tunnus tai omistajatiedot lisäävät luottamusta — ulkomaisilla alustoilla riittää omistajan kerrottu.
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä sivustolla", 10),
+    # Suomenkielinen asiakaspalvelu on tärkeä erityisesti ongelmatilanteissa.
+    ("asiakaspalvelu_suomeksi", "Suomenkielinen asiakaspalvelu saatavilla", 5),
+]

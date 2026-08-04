@@ -1855,3 +1855,31 @@ COMPANIES["sahkoautojen-lataus"] = [
          y_tunnus="2513960-7",
          omistaja="Plugit Finland Oy (PRH 2513960-7) on suomalainen latausoperaattori; osti Helenin julkisen latausliiketoiminnan heinäkuussa 2026 (199 latausasemaa ja 798 latauspistettä sekä 55 000 käyttäjää) ja nousi pääkaupunkiseudun suurimmaksi julkiseksi latausoperaattoriksi; plugit.fi ohjaa osoitteeseen plugit.com"),
 ]
+
+# LOMAMÖKKIVUOKRAUS (4.8.2026; 6 mökkivuokrauksen verkkoalustaa)
+# Karsinnat:
+#   Cottages.fi — domain ei vastannut (connection refused)
+#   Loma-Hytti.fi — domain ei vastannut (connection refused)
+#   Lomaviikko.fi — ajoittain toimiva mutta ei täysiverinen kansallinen alusta
+# Kaikki 6 valittua ovat kansallisesti toimivia alustoja, joilla suomalaiset
+# kuluttajat voivat etsiä ja varata lomamökkejä Suomesta.
+COMPANIES["lomamokkivuokraus"] = [
+    dict(slug="lomarengas", nimi="Lomarengas", domain="lomarengas.fi",
+         y_tunnus="0980172-8",
+         omistaja="Oy Lomarengas Ab, Ltd (PRH 0980172-8, Helsinki; perustettu 1994) on Suomen suurin mökkivuokrauksen välittäjä; yli 4 400 kohdetta Suomessa; If Peruutusturva sisältyy kaikkiin varauksiin; Siltasaarenkatu 8–10, Helsinki"),
+    dict(slug="nettimokki", nimi="Nettimökki", domain="nettimokki.com",
+         y_tunnus="0869288-1",
+         omistaja="Alma Media Finland Oy (PRH 0869288-1) operoi Nettimökki-palvelua; Alma Media on suomalainen mediayhtiö, jonka palveluihin kuuluu useita verkkomarkkinapaikkoja; nettimokki.com"),
+    dict(slug="airbnb", nimi="Airbnb", domain="airbnb.fi",
+         y_tunnus=None,
+         omistaja="Airbnb Ireland UC (Irlanti) — Airbnb, Inc.:n (NASDAQ: ABNB, San Francisco) eurooppalainen toimipiste; airbnb.fi ohjaa suomenkieliselle sivustolle"),
+    dict(slug="booking-com", nimi="Booking.com", domain="booking.com",
+         y_tunnus=None,
+         omistaja="Booking.com B.V. (Alankomaat) on Booking Holdings Inc.:n (NASDAQ: BKNG) tytäryhtiö; yksi maailman suurimmista majoituksen varaustalustoista; toimii myös Suomessa mökkivuokrauksessa osoitteessa booking.com/fi"),
+    dict(slug="huvilanet", nimi="Huvila.net", domain="huvila.net",
+         y_tunnus="2202714-0",
+         omistaja="Huvilanet Oy (PRH 2202714-0, Oulu; perustettu 2008) — mökkivuokrauksen välityspalvelu vuodesta 1999; suomalainen pienoperaattori"),
+    dict(slug="mokkivuokra", nimi="Mökkivuokra.fi", domain="mokkivuokra.fi",
+         y_tunnus="3364418-7",
+         omistaja="Mökkivuokra Marketing Oy (PRH 3364418-7, Helsinki) on osa Villada Group Oy -konsernia; erikoistunut premium- ja luksusmajoituskohteiden välitykseen; toimii myös CottageFinland.fi-nimellä ulkomaisille asiakkaille"),
+]

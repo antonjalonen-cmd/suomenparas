@@ -1,0 +1,39 @@
+{
+  "slug": "nettimokki",
+  "fetched_ok": [
+    "https://www.nettimokki.com/",
+    "https://www.nettimokki.com/en/nettimokki-terms"
+  ],
+  "hinnat_esilla": "kylla",
+  "peruutusehdot_kerrottu": "kylla",
+  "varaus_verkossa": "kylla",
+  "kohteiden_maara_fi": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "asiakaspalvelu_suomeksi": "kylla",
+  "puhelin_esilla": "osittain",
+  "email_esilla": "ei",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 78, "sisallon_kattavuus": 80},
+  "vahvuudet": [
+    "2420 mökkiä Suomessa, joista 1999 varattavissa ja maksettavissa suoraan verkossa (Nettimaksu-toiminto)",
+    "Neljän erillisen peruutusehdon malli (Joustava, Keskiverto, Tiukka, Erittäin tiukka) kerrotaan läpinäkyvästi käyttöehdoissa",
+    "Palvelun omistaja Alma Media Finland Oy ilmoitetaan selkeästi käyttöehdoissa"
+  ],
+  "kehityskohteet": [
+    "Asiakaspalvelun puhelinnumero tai sähköposti ei löydy julkisilta sivuilta ilman kirjautumista",
+    "Aukioloaikoja ei kerrota julkisesti",
+    "Mobiilisovellusta ei ole — varaus onnistuu vain selaimen kautta"
+  ],
+  "yhteenveto": "Nettimökki on Alma Media Finland Oy:n operoima mökkimarkkinapaikka, jossa on yli 2 420 mökkiä ympäri Suomea. Hinnat näkyvät hakutuloksissa ilman rekisteröitymistä, ja laajan Nettimaksu-toiminnon kautta suurin osa mökeistä voidaan varata ja maksaa suoraan palvelussa. Käyttöehdot kuvaavat läpinäkyvästi neljän erilaisen peruutusehdon mallin.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Käyttöehdoissa todetaan 'Käyttäjä voi selata Palvelua rekisteröitymättä' — hinnat näkyvät hakutuloksissa ennen kirjautumista.",
+    "peruutusehdot_kerrottu": "SITAATTI: 'Palveluntarjoaja tarjoaa neljää erilaisia peruutusehtoja, joista Vuokralleantaja on valinnut vuokrakohteelle sopivan: 1. Joustava, 2. Keskiverto, 3. Tiukka, 4. Erittäin tiukka' — käyttöehdot.",
+    "varaus_verkossa": "SITAATTI: 'Nettimaksulliset vuokrakohteet varataan Palvelun kautta ja maksetaan Palvelussa olevan maksupalvelun tarjoajan maksupalvelun kautta.' — 1 999 Nettimaksullista mökkiä näytettiin 404-sivulla hakutuloslinkkina.",
+    "kohteiden_maara_fi": "SITAATTI: '2420 mökkiä — Parhaimmat arvostelut' — näkyy 404-virhesivulla hakutuloslinkkina.",
+    "y_tunnus_esilla": "SITAATTI: 'Näitä yleisiä sopimusehtoja sovelletaan Alma Media Finland Oy:n (Palveluntarjoaja) ja sen tarjoamaa Nettimökki-palvelua käyttävän käyttäjän välillä.' — käyttöehdot-sivu.",
+    "asiakaspalvelu_suomeksi": "HAVAINTO: Sivusto on kokonaan suomenkielinen; footer sisältää linkin 'Asiakastuki ja palaute' ja 'Usein kysyttyä'; palvelu tarjotaan suomalaisille kuluttajille."
+  }
+}
