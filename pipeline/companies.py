@@ -1883,3 +1883,35 @@ COMPANIES["lomamokkivuokraus"] = [
          y_tunnus="3364418-7",
          omistaja="Mökkivuokra Marketing Oy (PRH 3364418-7, Helsinki) on osa Villada Group Oy -konsernia; erikoistunut premium- ja luksusmajoituskohteiden välitykseen; toimii myös CottageFinland.fi-nimellä ulkomaisille asiakkaille"),
 ]
+
+# --- AUTOTARVIKKEET-VERKOSSA (4.8.2026): autovaraosien ja -tarvikkeiden verkkokaupat ---
+# Vertailtavat: kansalliset ja kansainväliset autovaraosa- ja autotarvikeverkkokaupat,
+# jotka palvelevat suomalaisia kuluttajia omilla fi-sivustoillaan tai fi-kielisillä sivuillaan.
+# KARSITUT:
+#   Nettivaraosa (nettivaraosa.com): Alma Median ilmoitusmarkkinapaikka (C2C-classified),
+#     ei suoramyyntiverkkokauppa — eri liiketoimintamalli kuin muut.
+#   Bilema (bilema.fi): domain on Astra WordPress -teemapohja, ei autovaraosatoimijaa.
+#   Mekonomen (mekonomen.fi): korjaamoketju, ei kuluttajalle myyvä varaosaverkkokauppa.
+#   Trodo (trodo.fi): Cloudflare 403 -botti-esto; mittausaukko — ei hylkäysperuste.
+#   Fixusnet (fixusnet.fi): Fixus-korjaamojen B2B-tavarantoimittaja; edellyttää myymälä-
+#     tunnuksia ennen hintojen näyttämistä — ei kuluttajaverkkokauppa.
+COMPANIES["autotarvikkeet-verkossa"] = [
+    dict(slug="motonet", nimi="Motonet", domain="motonet.fi",
+         y_tunnus="0699457-9",
+         omistaja="Motonet Oy (PRH 0699457-9, Turku) on suomalaisen Broman Group Oy:n tytäryhtiö; perustettu 1975; Suomen johtava autotarvikeketju, jolla on yli 41 tavarataloa Suomessa; myy varaosia, työkaluja, vapaa-ajan tuotteita ja kodintuotteita myymälöissä ja verkossa"),
+    dict(slug="biltema", nimi="Biltema", domain="biltema.fi",
+         y_tunnus=None,
+         omistaja="Biltema Nordic Retail AB (Ruotsi) — pohjoismainen vähittäiskauppaketju; perustettu 1963 Ruotsissa; yli 20 tavarataloa Suomessa; myy autoilu-, MP-, veneily-, koti- ja vapaa-ajan tuotteita; biltema.fi on suomenkielinen verkkokauppa, toimitusmaksu alkaen 4,85 €; ei suomalaista Y-tunnusta"),
+    dict(slug="autodoc", nimi="Autodoc", domain="autodoc.fi",
+         y_tunnus=None,
+         omistaja="Autodoc SE (Berliini, Saksa) — eurooppalainen autovaraosaverkkokauppa, perustettu 2008; yli 6,7 miljoonaa tuotetta 27 maassa; palvelee yli 9 miljoonaa asiakasta vuodessa; autodoc.fi on suomenkielinen sivusto, ei suomalaista Y-tunnusta"),
+    dict(slug="motointegrator", nimi="Motointegrator", domain="motointegrator.fi",
+         y_tunnus=None,
+         omistaja="Auto Partner SA (Puola, Varsova) — yksi Euroopan suurimmista autovaraosatoimittajista; motointegrator.fi on suomenkielinen kuluttajaverkkokauppa, jossa lähes 5 miljoonaa varaosaa; suomenkielinen puhelinpalvelu 0800 413 714 (ma-pe 8-21); ei suomalaista Y-tunnusta"),
+    dict(slug="alvadi", nimi="ALVADI", domain="alvadi.fi",
+         y_tunnus=None,
+         omistaja="ALVADI (viro) — virolainen autovaraosaverkkokauppa, joka palvelee useita Euroopan maita suomalainen asiakaskunta mukaan lukien; fi-sivu alvadi.fi; suomalainen asiakaspalvelunumero +358 9315 888 39; pääkonttori Majaka 10, Tallinn; ilmainen toimitus yli 80 €:n tilauksille"),
+    dict(slug="euvaraosat", nimi="EU Varaosat", domain="euvaraosat.fi",
+         y_tunnus=None,
+         omistaja="EU Varaosat — eurooppalainen autovaraosaverkkokauppa, joka toimii yli 24 maassa; fi-sivu euvaraosat.fi suomalaisille asiakkaille; valikoimassa yli 1 miljoona auton osaa; maksu Klarnalla, Trustly-e-maksulla, luottokortilla tai PayPalilla; 14 päivän palautusoikeus; ei suomalaista Y-tunnusta"),
+]

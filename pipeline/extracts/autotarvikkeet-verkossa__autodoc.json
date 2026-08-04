@@ -1,0 +1,40 @@
+{
+  "slug": "autodoc",
+  "fetched_ok": [
+    "https://www.autodoc.fi/",
+    "https://www.autodoc.fi/services/toimitusehdot",
+    "https://www.autodoc.fi/services/yhtiomme"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "yhteensopivuushaku": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "ei",
+  "email_esilla": "osittain",
+  "chat_mainittu": "osittain",
+  "aukioloajat_esilla": "ei",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 82},
+  "vahvuudet": [
+    "Tuotehinnat esillä etusivulla kirjautumatta: selkeät yksikköhinnat (414,99 €, 98,34 €, jne.) heti näkyvissä",
+    "Trustpilot-arvosana 'Erinomainen' yli 300 000 arvosteluun perustuen — vahva riippumaton luottamusindikaattori",
+    "Laaja yhteensopivuushaku: rekisterinumerohaku sekä merkki/malli-valitsin yli 6,7 miljoonalle tuotteelle"
+  ],
+  "kehityskohteet": [
+    "Tilaaminen edellyttää rekisteröitymistä (sopimusehdot kohta 3.1) — ostaminen ilman tiliä ei onnistu",
+    "Suomenkielistä puhelinnumeroa ei löytynyt — kontaktisivu oli Cloudflare-estetty mittaushetkellä",
+    "Yhtiö on saksalainen (Autodoc SE, Berliini) eikä sillä ole suomalaista Y-tunnusta"
+  ],
+  "yhteenveto": "Autodoc on Euroopan suurimpia autovaraosaverkkokauppoja, jolla on yli 6,7 miljoonaa tuotetta ja yli 300 000 Trustpilot-arvostelua. Hinnat ovat selkeästi esillä etusivulla ja toimitustieto on yksityiskohtaista, mutta tilaaminen vaatii rekisteröitymisen eikä suomalaista Y-tunnusta ole.",
+  "evidence": {
+    "hinnat_esilla": "Etusivulta: 'Meidän hintamme: 414,99 €', '98,34 €', '33,49 €', '24,49 €' — tuotehinnat näkyvät selkeästi ilman kirjautumista, sisältäen ALV 25,5% ja toimituskulut.",
+    "toimitus_kerrottu": "Sopimusehdoista (kohta 6.1): 'Toimitusmaksu alle 160 € tilauksille on 10,95 €. Tarjoamme ilmaiset toimitukset yli 160 € tilauksille (poislukien toimitukset ulkomaille ja erikoislähetykset).'",
+    "palautusehdot_saatavilla": "Sopimusehdoista: 'Käyttämällä vaihtoehtoista toimintoa Turvallinen tilaus voit laajentaa lakisääteistä peruuttamisoikeuttasi. Maksamalla 6,55 € suuruisen lisämaksun, tarjoamme sinulle täyden palautusoikeuden ja ilmaisen palautuksen ilman erillistä syytä ensimmäisten 200 päivän ajan.'",
+    "yhteensopivuushaku": "Etusivulta: 'Hae auton varaosat rekisterinumerolla' ja 'Valitse automalli etsiäksesi auton osia — Valitse merkki / Valitse malli — Suositut mallit / Kaikki mallit'.",
+    "y_tunnus_esilla": "Sopimusehdoissa mainitaan yhtiötiedot: 'AUTODOC SE, Josef-Orlopp-Straße 55, 10365 Berliini, Arvonlisäverotunniste: DE260634589, Kaupparekisteri: HRB 247677 B.' Suomalainen Y-tunnus puuttuu.",
+    "riippumaton_arvio": "Etusivulta: 'yli 300 000 Trustpilot-arvostelun tuloksena AUTODOCin kokonaisarvosana on Erinomainen kautta Euroopan.'"
+  }
+}

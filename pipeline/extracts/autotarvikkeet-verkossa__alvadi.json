@@ -1,0 +1,41 @@
+{
+  "slug": "alvadi",
+  "fetched_ok": [
+    "https://www.alvadi.fi/",
+    "https://www.alvadi.fi/toimitusehdot/",
+    "https://www.alvadi.fi/asiakaspalvelu/",
+    "https://www.alvadi.fi/osat/jarruosat/"
+  ],
+  "hinnat_esilla": "kylla",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "yhteensopivuushaku": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "osittain",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 74, "hintojen_loydettavyys": 82, "sisallon_kattavuus": 70},
+  "vahvuudet": [
+    "Tuotehinnat selkeästi esillä kirjautumatta — kategoriasivu listaa hinnat suoraan (esim. 333,32 €, 820,17 €)",
+    "Toimitusehdot kattavat: pakettiautomaattitoimitus ilmainen yli 80 €, kotipaketti yli 150 €, alle rajan 4,99 €",
+    "Ajoneuvokohtainen haku: rekisterinumerohaku sekä osa- ja OEM-numerohaku"
+  ],
+  "kehityskohteet": [
+    "Arvostelut ovat vain ALVADIn omasta arvostelusystemistä — riippumatonta Trustpilot- tai Trusted Shops -merkintää ei löydy",
+    "Yhtiö on virolainen (Alvadi OÜ, reg. 11487376, Tallinn) eikä suomalainen Y-tunnus ole saatavilla",
+    "Chat-tukea tai pikaviestimahdollisuutta ei mainita asiakaspalvelusivulla"
+  ],
+  "yhteenveto": "ALVADI on virolainen autovaraosaverkkokauppa, joka palvelee suomalaisia asiakkaita suomenkielisellä sivustolla. Tuotehinnat ovat selkeästi esillä ja toimitusehdot yksityiskohtaiset, mutta riippumatonta asiakasarviointia tai suomalaista Y-tunnusta ei ole julkaistu.",
+  "evidence": {
+    "hinnat_esilla": "Jarruosat-kategoriasivulta (alvadi.fi/osat/jarruosat/): tuotteet listattu hinnoin esim. '333,32 EUR', '820,17 EUR', '54,41 EUR' — hinnat näkyvät kirjautumatta.",
+    "toimitus_kerrottu": "Toimitusehdot-sivulta: 'Toimitus pakettiautomaattiin ILMAINEN yli 80.00 EUR tilauksille. Kotiinkuljetus ILMAINEN yli 150.00 EUR tilauksille. Alle rajan toimituskulut 4,99 EUR.'",
+    "palautusehdot_saatavilla": "Toimitusehdot-sivulta: '14 päivän rahat takaisin -oikeus. Jos et ole tyytyväinen tuotteeseen, voit palauttaa sen 14 päivän kuluessa. Palautuskulut maksaa asiakas.'",
+    "yhteensopivuushaku": "Etusivulta: 'Löydä autoosi sopivat osat rekisterinumerolla' sekä OEM- ja osanumerohaku. Kategoriasivu myös mahdollistaa ajoneuvon valinnan.",
+    "y_tunnus_esilla": "HAVAINTO: Toimitusehdoissa mainitsee 'ALVADI OÜ, reg. 11487376, Majaka 10, Tallinn, Eesti (Viro)' — virolainen rekisterinumero, ei suomalainen Y-tunnus.",
+    "riippumaton_arvio": "HAVAINTO: Sivustolla on 'Arvostelut ALVADIsta' -osio, joka näyttää sisäisiä arvosteluja. Trustpilot-, Google Reviews- tai Trusted Shops -widgettiä ei löydy etusivulta eikä toimitusehdoista."
+  }
+}

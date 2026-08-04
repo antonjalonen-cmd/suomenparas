@@ -1,0 +1,44 @@
+{
+  "slug": "motonet",
+  "fetched_ok": [
+    "https://www.motonet.fi/varaosat",
+    "https://www.motonet.fi/asiakaspalvelu",
+    "https://www.motonet.fi/toimitustavat-ja-kulut",
+    "https://www.motonet.fi/vaihto-ja-palautus",
+    "https://www.motonet.fi/myyntiehdot",
+    "https://www.motonet.fi/tietosuojaseloste",
+    "https://www.motonet.fi/haku?q=moottorioljy"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "kylla",
+  "palautusehdot_saatavilla": "kylla",
+  "yhteensopivuushaku": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 58, "sisallon_kattavuus": 82},
+  "vahvuudet": [
+    "Yksityiskohtainen toimituserittely viidestä eri vaihtoehdosta hinnoiteltuina: Postipaketti 5,20 €, Matkahuolto 4,70 €, kotipaketti 9,90 €, Schenker alkaen 49 €",
+    "Selkeä 30 päivän palautusoikeus, maksuton palautus Postin sopimustunnuksella 601041 tai Matkahuollon palautuskoodilla 9508024",
+    "Kattava yhteensopivuushaku: rekisterinumerohaku sekä merkki/malli-valitsin yli 700 ajoneuvoon"
+  ],
+  "kehityskohteet": [
+    "Tuotehinnat eivät näy staattisessa HTML-latauksessa — JavaScript-renderointi vaaditaan; hakutulossivulla tuotteet listataan ilman hintaa",
+    "Y-tunnus (0699457-9) ei näy sivustolla, vaikka yhtiö on suomalainen Motonet Oy",
+    "Riippumatonta asiakasarviointipalvelua (esim. Trustpilot) ei löydy sivustolta"
+  ],
+  "yhteenveto": "Motonet on Suomen kattavin autovaraosa- ja autotarvikeketju, jolla on yli 41 tavarataloa ja laaja verkkokauppa. Toimitusinformaatio on erittäin yksityiskohtaista ja palautusehdot selkeät, mutta tuotehinnat vaativat JavaScript-renderöinnin eikä Y-tunnusta tai riippumatonta arviointipalvelua ole näkyvillä.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Hakutulossivulla (haku?q=moottorioljy) listataan 600 tuotetta ilman yhtään hintaa staattisessa HTML:ssä; Next.js-sivusto lataa hinnat vasta JS-hydraation jälkeen, mutta myyntiehdot vahvistavat tilauksen onnistuvan ilman rekisteröitymistä.",
+    "toimitus_kerrottu": "Sivulta toimitustavat-ja-kulut: 'Postipaketti: 5,20 €', 'Postipaketti kotiinkuljetuksella: 9,90 €', 'Matkahuollon lähellä-paketti: 4,70 €', 'Matkahuolto, kotijakelu: 9,40 €', 'Schenker kotiintoimitus: alkaen 49,00 €'.",
+    "palautusehdot_saatavilla": "Sivulta vaihto-ja-palautus: 'Motonet-tavarataloista ja verkkokaupasta ostetuilla myyntikuntoisilla tuotteilla on 30 päivän palautusoikeus.' Palautus maksuton Postin sopimustunnuksella 601041 tai Matkahuollon palautuskoodilla 9508024.",
+    "yhteensopivuushaku": "Varaosat-sivulla: 'Hae varaosia rekisterinumerolla — Varaosat yli 700 erilaiseen ajoneuvoon' ja erillinen merkki/malli-valitsin Audi, BMW, Ford jne.",
+    "y_tunnus_esilla": "HAVAINTO: Sivusto mainitsee 'Motonet Oy' useilla sivuilla ja tietosuojaselosteessa osoitteen (PL 169, 80101 Joensuu), mutta Y-tunnusta (0699457-9) ei ole julkaistu millään ladatulla sivulla.",
+    "riippumaton_arvio": "HAVAINTO: Asiakaspalvelusivulla, toimitusehdoissa, vaihto-palautussivulla eikä etusivulla löydy Trustpilot-, Google Reviews- tai vastaavaa ulkopuolista arviointiwidgettiä."
+  }
+}

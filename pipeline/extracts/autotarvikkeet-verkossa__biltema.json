@@ -1,0 +1,43 @@
+{
+  "slug": "biltema",
+  "fetched_ok": [
+    "https://www.biltema.fi/",
+    "https://www.biltema.fi/autoilu---mp/",
+    "https://www.biltema.fi/tietoja-biltemasta/asiakaspalvelu/ostamiseen-liittyvaa-tietoa/verkkokauppa/toimitustavat/",
+    "https://www.biltema.fi/tietoja-biltemasta/asiakaspalvelu/ostamiseen-liittyvaa-tietoa/verkkokauppa/palautus-ja-reklamaatio/",
+    "https://www.biltema.fi/tietoja-biltemasta/asiakaspalvelu/ostamiseen-liittyvaa-tietoa/verkkokauppa/yleiset-ehdot/",
+    "https://www.biltema.fi/tietoja-biltemasta/asiakaspalvelu/"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "yhteensopivuushaku": "kylla",
+  "y_tunnus_esilla": "kylla",
+  "riippumaton_arvio": "ei",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "ei",
+  "aukioloajat_esilla": "kylla",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "kylla",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Y-tunnus julkaistu yleisissä ehdoissa: Biltema Suomi Oy, Y-tunnus 1560844-9",
+    "Kattava 30 päivän palautusoikeus; maksuton palautus Postin sopimustunnuksella 638492",
+    "Biltema App: 19 000 tuotetta mobiilisovelluksessa; Osta & Nouda Drive In -palvelu kahden tunnin noudolla"
+  ],
+  "kehityskohteet": [
+    "Toimituskulut lasketaan vasta kassalla painon ja tilavuuden mukaan — tarkkaa hintaa ei näe ennen tilaamista",
+    "Tuotehinnat eivät näy kategoriasivujen staattisessa HTML:ssä, vaativat JavaScript-renderöinnin",
+    "Riippumatonta arviointipalvelua (Trustpilot tms.) ei löydy sivustolta"
+  ],
+  "yhteenveto": "Biltema on laaja pohjoismainen tavaratalo, jolla on yli 20 myymälää Suomessa ja monipuolinen verkkokauppa autotarvikkeisiin. Palautusehdot ja Y-tunnus ovat esillä, mutta toimituskulujen tarkka laskenta tapahtuu vasta kassalla eikä riippumatonta asiakasarviointia löydy.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Autoilu-MP-kategoriasivu (biltema.fi/autoilu---mp/) listaa tuotekategoriat ilman tuotehintoja staattisessa HTML:ssä. Verkkokaupan etusivu mainitsee 'Toimitukset verkkokaupasta alk. 4.85!' mutta ei yksittäisiä tuotehintoja.",
+    "toimitus_kerrottu": "Toimitustapa-sivulla: 'Toimituskulut määräytyvät painon, tilavuuden, toimitusosoitteen ja valitun toimitustavan mukaisesti. Tilauksen toimituskulut lasketaan kassalla.' Etusivulla kerrotaan lähtöhintana 'alk. 4.85 €'.",
+    "palautusehdot_saatavilla": "Palautus-sivulta: 'Bilteman tuotteilla on 30 päivän palautusoikeus. Palautus on asiakkaalle maksutonta, jos palautettava tuote on virheetön ja sen voi lähettää Postin normaalipakettina. Paketin päälle on merkittävä Postin sopimustunnus 638492.'",
+    "yhteensopivuushaku": "Autoilu-MP-sivulla: 'Voit etsiä ajoneuvosi rekisterinumeron perusteella juuri siihen sopivat varaosat.' Myös make/model-valitsin saatavilla: 'Ei rekisterinumeroa? Valitse auto listasta'.",
+    "y_tunnus_esilla": "Yleisissä ehdoissa: 'Näitä verkkokaupan yleisiä ehtoja sovelletaan Sinun ja Biltema Suomi Oy:n, Y-tunnus 1560844-9, (jatkossa Biltema) välillä.'",
+    "riippumaton_arvio": "HAVAINTO: Asiakaspalvelusivulla, toimitusehdoissa eikä autoilu-kategoriasivulla löydy Trustpilot-, Google Reviews- tai vastaavaa ulkopuolista arviointilinkkiä tai -widgettiä."
+  }
+}

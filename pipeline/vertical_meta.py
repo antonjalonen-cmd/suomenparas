@@ -1995,3 +1995,30 @@ META["lomamokkivuokraus"] = {
          "välitykseen. Palvelu toimii myös kansainvälisesti CottageFinland.fi-nimellä."),
     ],
 }
+
+# --- era 18 (4.8.2026): autotarvikkeet-verkossa ------------------------------------
+META["autotarvikkeet-verkossa"] = {
+    "slug": "autotarvikkeet-verkossa",
+    "nimi": "Autotarvikkeet verkossa",
+    "nav": "Autotarvikkeet",
+    "h1": "Suomen paras autotarvikeverkkokauppa 2026",
+    "yksikko": "autotarvikeverkkokauppaa",
+    "lead": ("Pisteytimme {n} autovaraosien ja -tarvikkeiden verkkokauppaa {m} mittarilla: "
+             "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
+             "näetkö hinnan ja toimituskulut ennen kuin syötät maksukorttisi tiedot?"),
+    "meta_title": "Suomen paras autotarvikeverkkokauppa 2026 — Motonet, Biltema, Autodoc, Motointegrator, ALVADI, EU Varaosat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} autovaraosa- ja autotarvikeverkkokauppaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Motonet on ainoa suomalainen toimija.</b> Motonet Oy (Broman Group) on Suomessa "
+         "perustettu ja PRH:ssa rekisteröity yhtiö, jolla on yli 41 tavarataloa Suomessa. "
+         "Muut viisi palvelua ovat ulkomaisten yhtiöiden suomenkielisiä verkkokauppoja."),
+        ("<b>Autodoc ja Motointegrator ovat eurooppalaisia suurverkkokauppoja.</b> Saksalainen "
+         "Autodoc SE (yli 6,7 miljoonaa tuotetta, 27 maata) ja puolalaisen Auto Partner SA:n "
+         "Motointegrator (lähes 5 miljoonaa osaa) ovat Euroopan suurimpia autovaraosatoimittajia. "
+         "Kummallakaan ei ole suomalaista Y-tunnusta, mutta molemmilla on suomenkielinen palvelu."),
+        ("<b>Biltema myy muutakin kuin autovaraosia.</b> Biltema on pohjoismainen tavaratalo, "
+         "jonka valikoimaan kuuluvat myös MP, veneily, koti ja vapaa-aika. "
+         "Kategoria mittaa vain autoilu- ja MP-osiota."),
+    ],
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "motointegrator",
+  "fetched_ok": [
+    "https://www.motointegrator.fi/",
+    "https://www.motointegrator.fi/cms/info/toimitustavat",
+    "https://www.motointegrator.fi/cms/info/palautusehdot",
+    "https://www.motointegrator.fi/cms/info/asiakaspalvelu"
+  ],
+  "hinnat_esilla": "osittain",
+  "toimitus_kerrottu": "osittain",
+  "palautusehdot_saatavilla": "kylla",
+  "yhteensopivuushaku": "kylla",
+  "y_tunnus_esilla": "ei",
+  "riippumaton_arvio": "kylla",
+  "puhelin_esilla": "kylla",
+  "email_esilla": "kylla",
+  "chat_mainittu": "kylla",
+  "aukioloajat_esilla": "osittain",
+  "ukk_osio": "kylla",
+  "mobiilisovellus": "ei",
+  "ai_arviot": {"selkeys": 72, "hintojen_loydettavyys": 62, "sisallon_kattavuus": 75},
+  "vahvuudet": [
+    "Trusted Shops -sertifioitu: arvosana 4.76/5 perustuen 34 arvosteluun — riippumaton laaduntae",
+    "Selkeä 30 päivän palautusoikeus mainittu bannerissa suoraan etusivulla kirjautumatta",
+    "Laaja yhteensopivuushaku: rekisterinumerohaku sekä merkki/malli/vuosi-valitsin useimmille ajoneuvoille"
+  ],
+  "kehityskohteet": [
+    "Tuotehinnat eivät ole varmennettavissa staattisesta HTML:stä — tarvitaan JavaScript-renderöinti",
+    "Toimituskuluista mainitaan 'Ilmainen toimitus' mutta tarkka hinnoittelu alle rajan jää epäselväksi",
+    "Yhtiön taustatietoa (Y-tunnus, kotimaa, omistaja) ei ole julkaistu sivustolla"
+  ],
+  "yhteenveto": "Motointegrator on puolalaisen Auto Partner SA:n eurooppalainen autovaraosaverkkokauppa, joka toimii Suomessa. Sivustolla on Trusted Shops -sertifiointi ja selkeä palautusoikeus, mutta tuotehinnat vaativat JavaScript-renderöinnin eikä yhtiötietoja ole julkaistu.",
+  "evidence": {
+    "hinnat_esilla": "HAVAINTO: Etusivun staattisessa HTML:ssä ei näy tuotehintoja — sivusto käyttää React/SPA-arkkitehtuuria joka lataa hinnat JS:n kautta. Kategoriasivu ei ollut saavutettavissa staattisena. Osittain, koska tilaus on mahdollinen mutta hintojen löydettävyys edellyttää JS:ää.",
+    "toimitus_kerrottu": "Etusivulta: 'Ilmainen toimitus' mainitaan bannerissa, mutta tarkkoja toimituskulusummia (euromäärää alle rajan tai eri toimitustavoille) ei löydy ladatuista staattisista sivuista. Osittain.",
+    "palautusehdot_saatavilla": "Etusivun bannerissa: '30 päivän palautusoikeus'. Palautusehdot-sivu kertoo menettelytavat yksityiskohtaisemmin — täysi palautusoikeus 30 päivän ajan ostopäivästä.",
+    "yhteensopivuushaku": "Etusivulta: 'ETSI AUTON VARAOSIA REKISTERINUMERON MUKAAN' -kenttä ja 'tai valitse ajoneuvosi: Valitse merkki / Valitse malli / Valitse vuosi'.",
+    "y_tunnus_esilla": "HAVAINTO: Ladatuilla sivuilla ei mainita Y-tunnusta eikä suomalaista yritysrekisterinumeroa. Yhtiötiedoissa viitataan Auto Partner SA:han (Puola), mutta FI-rekisteröintiä ei julkaista.",
+    "riippumaton_arvio": "Etusivulta: Trusted Shops -logo ja 'Arvosana 4.76 / 5.00 (34 arvostelua)' — sertifioitu eurooppalainen ostosturvastandardi."
+  }
+}

@@ -782,3 +782,30 @@ TRANSPARENCY["lomamokkivuokraus"] = [
     # Suomenkielinen asiakaspalvelu on tärkeä erityisesti ongelmatilanteissa.
     ("asiakaspalvelu_suomeksi", "Suomenkielinen asiakaspalvelu saatavilla", 5),
 ]
+
+# --- era 18 (4.8.2026): autotarvikkeet-verkossa ----------------------------------
+# Tärkein kysymys: näetkö tuotehinnan ja toimituskulut ILMAN kirjautumista?
+# Autovaraosissa yhteensopivuushaku (ajoneuvo rekisterinumerolla tai merkillä/mallilla)
+# on peruspalvelu, joka erottaa alanverkkokaupat yleisiltä verkkokaupoilta.
+# Weights: 25+20+20+15+10+10 = 100
+TRANSPARENCY["autotarvikkeet-verkossa"] = [
+    # Hinnat julkisesti esillä on perusedellytys vertailulle — kirjautumispakon takana oleva
+    # hinnasto tekee vertailun mahdottomaksi kuluttajalle.
+    ("hinnat_esilla", "Tuotehinnat esillä kirjautumatta", 25),
+    # Toimitustavan ja -kulun näkeminen ennen kassaa on EU:n kuluttajalainsäädännön vaatimus;
+    # autovaraosien toimituskulut voivat olla merkittäviä raskaille tai suurille osille.
+    ("toimitus_kerrottu", "Toimitustavat ja -kulut kerrottu ennen kassaa", 20),
+    # Palautusoikeus on kriittinen autovaraosissa, koska osa ei välttämättä sovi tai tule
+    # asennettua — selkeä palautuspolitiikka vähentää ostoriskiä.
+    ("palautusehdot_saatavilla", "Palautus- ja takuuehdot julkisesti saatavilla", 20),
+    # Ajoneuvokohtainen yhteensopivuushaku on autotarvikeverkkokaupan ydinominaisuus:
+    # väärä osa ei toimi, ja haku rekisterinumerolla tai merkki/malli/vuosi-ketjulla
+    # eliminoi tilausvirheet. Se myös erottaa alansa verkokaupat yleisistä kaupoista.
+    ("yhteensopivuushaku", "Ajoneuvokohtainen yhteensopivuushaku (rekisterinumero tai merkki/malli) saatavilla", 15),
+    # Y-tunnus osoittaa kotimaisuuden tai eurooppalaisen tytäryhtiön — tärkeä
+    # kuluttajansuojan ja reklamaation kannalta.
+    ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+    # Riippumaton arvio (Trustpilot, Google Reviews, Trusted Shops tms.) lisää luottamusta
+    # verkkokauppaan, josta asiakas ei voi katsoa tuotetta etukäteen.
+    ("riippumaton_arvio", "Riippumaton arviolähde esillä", 10),
+]
