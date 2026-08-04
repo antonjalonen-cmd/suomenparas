@@ -1846,7 +1846,12 @@ COMPANIES["sahkoautojen-lataus"] = [
     dict(slug="recharge", nimi="Recharge", domain="rechargeinfra.com",
          y_tunnus=None,
          omistaja="Recharge AS (Norja) on pohjoismainen julkinen pikalatausverkko; Infracapital osti enemmistön Fortum Charge & Drive -infrastruktuurista ja rebrändäsi sen Recharge-nimellä; fi-sivu rechargeinfra.com/fi/"),
-    dict(slug="helen-lataus", nimi="Helen Lataus", domain="helen.fi",
-         y_tunnus="2630573-4",
-         omistaja="Helen Oy (PRH 2630573-4) on Helsingin kaupungin kokonaan omistama energiayhtiö; Helen Lataus on yli 800 latauspisteen julkinen sähköautojen latausverkosto Suomessa; lataus Oma Helen -sovelluksella"),
+    # Helen Lataus mitattiin 4.8.2026 tähän kategoriaan ensin omana yhtiönään. Helen
+    # myi koko julkisen latausliiketoimintansa Plugitille heinäkuussa 2026 (199 asemaa,
+    # 798 latauspistettä, 55 000 käyttäjää siirtyi Plugitin sovellukseen), joten se
+    # verkko on nyt Plugitin. helen.fi vastasi yhä 200, mikä ei riittänyt paljastamaan
+    # omistajanvaihdosta — sama ansa kuin Väre→Helen 31.5.2026.
+    dict(slug="plugit", nimi="Plugit", domain="plugit.com",
+         y_tunnus="2513960-7",
+         omistaja="Plugit Finland Oy (PRH 2513960-7) on suomalainen latausoperaattori; osti Helenin julkisen latausliiketoiminnan heinäkuussa 2026 (199 latausasemaa ja 798 latauspistettä sekä 55 000 käyttäjää) ja nousi pääkaupunkiseudun suurimmaksi julkiseksi latausoperaattoriksi; plugit.fi ohjaa osoitteeseen plugit.com"),
 ]

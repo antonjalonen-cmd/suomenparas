@@ -1,0 +1,51 @@
+{
+ "slug": "plugit",
+ "fetched_ok": [
+  "https://plugit.com/fi/",
+  "https://plugit.com/fi/julkinen-lataaminen/",
+  "https://plugit.com/fi/latausverkosto/",
+  "https://plugit.com/fi/kuluttaja-asiakaspalvelu/",
+  "https://plugit.com/fi/ota-yhteytta/"
+ ],
+ "hinnoittelu_esilla": "ei",
+ "latausverkosto_koko": "kylla",
+ "mobiilisovellus": "kylla",
+ "asiakaspalvelu_suomi": "kylla",
+ "kaytto_ilman_rekisteroitymista": "kylla",
+ "omistaja_kerrottu": "kylla",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "ai_arviot": {
+  "selkeys": 74,
+  "hintojen_loydettavyys": 22,
+  "sisallon_kattavuus": 71
+ },
+ "vahvuudet": [
+  "Latausverkoston koko kerrotaan numeroina: yli 130 omaa julkista latausasemaa Suomessa, yli 6 000 latausasemaa Pohjoismaissa sekä 4 miljoonaa lataustapahtumaa ja 123 GWh vuonna 2025",
+  "Lataus onnistuu ilman tiliä tai sopimusta maksukortilla suoraan latausasemalla, vaihtoehtoina myös Plugit Charge -sovellus ja RFID-tunniste",
+  "Kuluttajille oma tukisivu, jolla puhelinnumero 0207 350 330 (24/7 akuuteissa latausongelmissa), sähköposti asiakaspalvelu@plugit.fi, aukioloajat ma-pe 8-16 ja latausohjeet vaihe vaiheelta"
+ ],
+ "kehityskohteet": [
+  "Latauksen hintaa ei kerrota sivustolla lainkaan: usein kysytyissä kysymyksissä ohjataan katsomaan hinta sovelluksesta latauslaitekohtaisesti, joten kuluttaja ei näe hintaa ennen sovelluksen asentamista",
+  "Kuluttajahinnasto-PDF (voimassa 1.9.2024 alkaen) ei koske julkista latausta vaan oman latauspisteen operointipalveluita, huoltoa ja asiantuntijatukea, mikä on omiaan hämmentämään hintaa etsivää autoilijaa",
+  "Chat-tukea ei ole, ja sivusto on rakennettu ensisijaisesti yritysasiakkaille: kuluttaja löytää oman osionsa vain päävalikon Kuluttajat-linkin kautta"
+ ],
+ "yhteenveto": "Plugit Finland Oy on suomalainen latausoperaattori, joka osti Helenin julkisen latausliiketoiminnan heinäkuussa 2026 ja nousi samalla pääkaupunkiseudun suurimmaksi julkiseksi latausoperaattoriksi. Verkoston koko kerrotaan avoimesti ja lataaminen onnistuu ilman tiliä maksukortilla, mutta latauksen hintaa ei löydy sivustolta millään: hinnat näkyvät vasta Plugit Charge -sovelluksessa latauslaitekohtaisesti. Sivusto palvelee ensisijaisesti yritysasiakkaita, ja kuluttajasisältö on koottu yhdelle tukisivulle.",
+ "evidence": {
+  "hinnoittelu_esilla": "HAVAINTO: Kuluttajatukisivun usein kysytyissä kysymyksissä kohta 'Mistä tiedän, paljonko lataus maksaa?' vastaa: 'Latauksen hintatiedot löydät sovelluksesta kunkin latauslaitteen tiedoista. Kertalataajalle hinta esitetään myös maksusivulla, kun latauslaitteen ID-numero on syötetty.' Yhtään euromääräistä €/kWh- tai €/min-hintaa ei esiinny sivustolla. Sivun 'Katso hinnasto (PDF)' -painike vie tiedostoon HINNASTO-Kuluttaja_0109-2024.pdf, jonka kuvausteksti kertoo sen kattavan 'latauspisteen kuukausittaiset operointipalvelut sekä asiantuntijatuen, huollon ja valinnaiset palvelut' eli oman latauspisteen omistajan palvelut, ei julkisen latauksen hintoja.",
+  "latausverkosto_koko": "HAVAINTO: Latausverkosto-sivulla nostot '6 000+ latausasemaa' (Pohjoismaat), '130+ julkista Plugit-asemaa', '4 milj.+ lataustapahtumaa vuonna 2025' ja '123 milj.+ kWh toimitettu vuonna 2025'. Leipätekstissä: 'Plugitilla on jo yli 130 omaa julkista latausasemaa Suomessa.'",
+  "mobiilisovellus": "HAVAINTO: Kuluttajatukisivulta linkit App Storeen (apps.apple.com/fi/app/plugit-charge) ja Google Playhin (play.google.com/store/apps/details?id=fi.plugit.app); sovelluksen nimi Plugit Charge.",
+  "asiakaspalvelu_suomi": "HAVAINTO: Koko sivusto on saatavilla suomeksi (plugit.com/fi/), ja kuluttaja-asiakaspalvelu toimii suomeksi puhelimitse, sähköpostitse ja lomakkeella.",
+  "kaytto_ilman_rekisteroitymista": "HAVAINTO: Julkinen lataaminen -sivu: 'Kuka tahansa voi ladata Plugitin julkisilla asemilla Plugit Charge -sovelluksella, RFID-tunnisteella tai maksukortilla' ja 'Kuka tahansa voi ladata Plugit Charge -sovelluksella, RFID:llä tai maksukortilla ilman erillistä tilausta.'",
+  "omistaja_kerrottu": "HAVAINTO: Ota yhteyttä -sivun Yritystiedot-osio: 'Plugit, Y-tunnus: 2513960-7, Pääkonttori: Ruutanakorventie 7, 33960 Pirkkala, Suomi', lisäksi toimistot Helsingissä ja Turussa.",
+  "puhelin_esilla": "HAVAINTO: Kuluttaja-asiakaspalvelu, Puhelin: 0207 350 330 (mpm/pvm).",
+  "email_esilla": "HAVAINTO: asiakaspalvelu@plugit.fi kuluttajatukisivulla, myös mailto-linkkinä.",
+  "chat_mainittu": "HAVAINTO: Sivuston lähdekoodista ei löydy chat-alustaa eikä chat-tukea mainita; ainoat osumat sanaan chat olivat WordPressin some-tyylien Snapchat-luokkia. Yhteydenottotavat ovat puhelin, sähköposti, lomake ja sovellus.",
+  "aukioloajat_esilla": "HAVAINTO: 'Aukioloajat: 24/7 akuuteissa latausasioissa puhelimitse. Muissa asioissa ma-pe klo 08:00-16:00 puhelimitse, sähköpostitse ja lomakkeella.'",
+  "ukk_osio": "HAVAINTO: Kuluttajatukisivulla 'Usein kysytyt kysymykset' -osio, jossa muun muassa 'En löydä latauslaitetta sovelluksesta', 'Mistä tiedän, paljonko lataus maksaa?' ja 'Miten aloitan latauksen?'."
+ },
+ "updated": "2026-08-04"
+}

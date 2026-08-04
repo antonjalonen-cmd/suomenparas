@@ -1952,7 +1952,7 @@ META["sahkoautojen-lataus"] = {
     "lead": ("Pisteytimme {n} Suomessa toimivaa julkista sähköautojen latauspalvelua {m} mittarilla: "
              "tekninen laatu, läpinäkyvyys, tavoitettavuus ja AI-laatu. Tärkein kysymys: "
              "saatko latauksen hinnan tietää ennen kuin kytket johdon?"),
-    "meta_title": "Suomen paras sähköauton latauspalvelu 2026 — K-Lataus, ABC, IONITY, Fortum, Recharge, Helen pisteytettynä | Suomen Paras",
+    "meta_title": "Suomen paras sähköauton latauspalvelu 2026 — Recharge, K-Lataus, Plugit, IONITY, ABC, Fortum pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} suomalaista sähköautojen julkista latauspalvelua pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),
     "notes": [
