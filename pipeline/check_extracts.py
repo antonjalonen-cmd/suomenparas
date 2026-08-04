@@ -12,6 +12,7 @@ Usage: python pipeline/check_extracts.py <vertical> [<vertical> ...]
 """
 import glob
 import re, json, os, sys
+import urllib.request, urllib.error
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from score_rules import TRANSPARENCY, REACH, AI
@@ -19,6 +20,29 @@ from companies import COMPANIES
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 bad = missing = ok = 0
+
+# fetched_ok-URLien statustarkistus (4.8.2026). Portti tarkisti aiemmin VAIN etta
+# URL sisaltaa oikean domainin — ei sita, ETTA SIVU ON OLEMASSA. 4.8.2026 tikki
+# kirjoitti autotarvikkeet-verkossa-kategoriaan 28 fetched_ok-URLia, joista 9 ei
+# palauta 200: keksittyja suomalaisilta kuulostavia polkuja (/toimitusehdot/,
+# /asiakaspalvelu/, /yhteystiedot) joista oli silti siteerattu tarkkoja
+# euromaaria ("333,32 EUR", "ILMAINEN yli 80.00 EUR"). Mukana seka kategorian
+# ykkonen etta viimeinen. 404 = sivua ei ole = evidenssi on keksitty, ja se on
+# hard fail. 403/429 on todennakoinen bottiesto, joten se on vain varoitus:
+# oikea sivu voi hyvin torjua urllibin mutta paastaa selaimen lapi.
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
+SKIP_URL_CHECK = "--no-url-check" in sys.argv
+
+
+def url_status(u):
+    try:
+        return urllib.request.urlopen(
+            urllib.request.Request(u, headers=UA), timeout=25).getcode()
+    except urllib.error.HTTPError as e:
+        return e.code
+    except Exception as e:
+        return f"ERR {type(e).__name__}"
 
 for vert in sys.argv[1:]:
     for meta in COMPANIES[vert]:
@@ -49,6 +73,16 @@ for vert in sys.argv[1:]:
                 errs.append("fetched_ok empty — cannot tell what it read")
         elif not any(base in u for u in fetched):
             errs.append(f"never loaded {meta['domain']}: {fetched}")
+        if fetched and not SKIP_URL_CHECK:
+            for u in (e.get("fetched_ok") or []):
+                st = url_status(str(u))
+                if st in (404, 410):
+                    errs.append(f"fetched_ok-URL {u} palauttaa {st} — sivua EI OLE "
+                                f"olemassa, joten siita siteerattu evidenssi on "
+                                f"keksitty. Hae oikeat polut sivuston hrefeista.")
+                elif st != 200:
+                    print(f"         (varoitus) {vert}__{slug}: {u} -> {st} "
+                          f"(mahdollinen bottiesto, tarkista kasin)")
         # An agent that read a competitor's site names it in fetched_ok. Catch it.
         # Exception: a URL on another listed company's domain whose PATH names this
         # product is the product's OWN page on a shared issuer platform, not competitor
