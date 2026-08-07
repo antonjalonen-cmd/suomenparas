@@ -2083,7 +2083,28 @@ META["lentovertailupalvelut"] = {
     "meta_title": "Suomen paras lentojen hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} lentojen hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),
-    "notes": [],
+    "notes": [
+        ("<b>Yhtään hintaa ei näy ilman JavaScriptiä — eikä yhtään pistettä siitä annettu.</b> "
+         "Kaikkien viiden palvelun hakutulokset renderöityvät selaimessa; staattisessa "
+         "lataksessa yksikään ei näytä yhtään euromääräistä hintaa. Skyscanner torjuu myös "
+         "automatisoidun selaimen erillisellä botti-esto-haasteella. Tämä ei tarkoita, "
+         "etteivätkö palvelut näyttäisi hintoja oikealle käyttäjälle selaimessa — se "
+         "tarkoittaa, ettei kokonaishinnan läpinäkyvyyttä (näkeekö käsittelymaksut heti vai "
+         "vasta varaussivulla) voitu vahvistaa julkisesta lähdekoodista, joten mittari on "
+         "rehellisesti \"ei\" kaikilla viidellä."),
+        ("<b>momondo on Kayakin sisarpalvelu — mutta ei kerro sitä sinulle.</b> Sivun "
+         "omassa teknisessä JSON-datassa on tunniste \"momondo-kyk-wl\" (kyk = Kayak), joka "
+         "paljastaa yhteyden Booking Holdings -konserniin. Tätä ei mainita missään "
+         "käyttäjälle näkyvässä kohdassa sivustolla. Skyscanner sen sijaan kertoo oman "
+         "omistushistoriansa avoimesti: Ctrip (nyk. Trip.com Group) osti sen 2016 "
+         "1,4 miljardilla punnalla."),
+        ("Yhdelläkään viidestä ei ole suomalaista Y-tunnusta sivustollaan. Travellink.fi:n "
+         "PRH-rekisteröinti (Travellink AB, filial i Finland, 1728205-9) löytyi "
+         "kaupparekisteristä, mutta ei itse sivustolta. Lentovertailu.fi:n ilmoittama "
+         "ylläpitäjä \"Silky Sand Media\" ei löydy PRH:sta lainkaan. Emme suosittele "
+         "yksittäisiä lentoja emmekä vertaile todellisia lentohintoja — mittaamme "
+         "vertailupalvelujen omaa avoimuutta."),
+    ],
 }
 
 # ---------------------------------------------------------------- era 21 (5.8.2026)

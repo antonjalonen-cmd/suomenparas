@@ -284,6 +284,17 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
     ],
+    # Lentohakukoneiden klassinen läpinäkyvyysongelma ei ole "vaatiiko rekisteröitymistä"
+    # (harvinaista) vaan piilokulut: näkyykö hakutuloksessa lopullinen hinta vai
+    # paljastuvatko käsittelymaksut vasta varaussivulla.
+    "lentovertailupalvelut": [
+        ("kokonaishinta_esilla", "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa", 30),
+        ("suodattimet_ja_reitit", "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla", 15),
+        ("ansaintamalli_kerrottu", "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti", 15),
+        ("kattavuus_kerrottu", "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu", 15),
+        ("y_tunnus_esilla", "Y-tunnus tai virallinen yritystunniste esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
     # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
     # does the company tell you the price before you hand over your data?
     "autokatsastus": [

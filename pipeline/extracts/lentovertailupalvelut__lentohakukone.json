@@ -1,0 +1,45 @@
+{
+ "slug": "lentohakukone",
+ "fetched_ok": [
+  "https://www.lentohakukone.fi/"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "suodattimet_ja_reitit": "osittain",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 48, "hintojen_loydettavyys": 10, "sisallon_kattavuus": 30},
+ "vahvuudet": [
+  "Etusivun teksti kuvaa palvelun kattavuuden sanallisesti melko tarkasti: 'vertaa satojen lentoyhtiöiden hintoja', kattaa sekä perinteiset että halpalentoyhtiöt, ja auttaa löytämään myös hotelleja 'yli 35 välittäjältä ja 350 000 hotellista'",
+  "Palvelu ilmoittaa olevansa käyttäjälle maksuton ja helppokäyttöinen: 'Palvelun käyttäminen on helppoa ja ilmaista'",
+  "Kertoo avoimesti, että varaus tehdään aina 'yhteistyökumppaneidemme sivuilta', eli itse ei myy lentoja suoraan"
+ ],
+ "kehityskohteet": [
+  "Sivustolta ei löydy lainkaan omistavan yhtiön nimeä, Y-tunnusta, sähköpostia, puhelinnumeroa tai muuta yhteystietoa — ei edes linkkiä tietosuoja- tai käyttöehtosivulle etusivulta",
+  "Ei yhtään näkyvää hintaa staattisessa HTML:ssä; hakutulokset renderöityvät JavaScriptilla",
+  "Ansaintamallia ei kerrota lainkaan, vaikka sivu mainitsee ohjaavansa varaukset 'yhteistyökumppaneiden' sivuille — kumppaneita ei nimetä eikä komissiomallia selitetä"
+ ],
+ "yhteenveto": "Lentohakukone.fi on suomenkielinen lentojen ja hotellien hintavertailusivusto, joka kuvaa toimintansa laajuuden sanallisesti melko avoimesti, mutta jolta puuttuu kokonaan yritystunnistetiedot: ei Y-tunnusta, ei yhtiön nimeä, ei yhteystietoja millään ladatulla sivulla. Hakutulokset eivät näy staattisesti, eikä ansaintamallia tai yhteistyökumppaneita nimetä.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Etusivun 40 000 merkin HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla.",
+  "suodattimet_ja_reitit": "Etusivun teksti: 'Lentohakukone.fi vertaa satojen lentoyhtiöiden hintoja... Hakumme kattaa niin perinteiset kuin halpalentoyhtiöt.' Kuvaa kattavuuden sanallisesti, mutta itse suodatinvalikoimaa ei voitu vahvistaa staattisesti.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Etusivun teksti mainitsee 'varaat lentoliput kätevästi ja turvallisesti yhteistyökumppaneidemme sivuilta', mutta ei nimeä kumppaneita eikä selitä ansaintamallia tai komissioita.",
+  "kattavuus_kerrottu": "Etusivun teksti: 'Lentohakukone.fi auttaa sinua löytämään myös hotellit kaikkialta maailmasta... yli 35 välittäjältä ja 350 000 hotellista.' Lentojen osalta kattavuutta ei kerrota yhtä tarkasti (vain 'satojen lentoyhtiöiden').",
+  "y_tunnus_esilla": "HAVAINTO: Koko etusivun raakateksti tarkistettu regexillä Y-tunnus-muodolle (7 numeroa-viiva-numero) ja sanalle 'Oy' — kumpikaan ei osu kertaakaan. Ei myöskään linkkiä tietosuoja-, käyttöehto- tai yhteystietosivulle.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan etusivulla; ainoa osuma sanalle 'email' oli tekninen (esim. kuvakenttä), ei näkyvä yhteystieto.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

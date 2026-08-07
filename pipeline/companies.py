@@ -1949,3 +1949,23 @@ COMPANIES["vakuutusvertailupalvelut"] = [
          y_tunnus=None,
          omistaja="Omistavaa yhtiötä ei löydy sivustolta: \"Tietoa meistä\" -sivulla vain \"Kotipaikka: Helsinki, Suomi\" ja sähköposti, ei Y-tunnusta eikä yhtiön nimeä; sivusto ilmoittaa joka sivulla \"Sivustomme voi sisältää affiliate-linkkejä\""),
 ]
+
+# LENTOVERTAILUPALVELUT (5.8.2026). Skyscanner haetaan --raw-tilassa: --js-tila
+# palauttaa botti-esto-haasteen ("Are you a person or a robot?").
+COMPANIES["lentovertailupalvelut"] = [
+    dict(slug="skyscanner", nimi="Skyscanner", domain="skyscanner.fi",
+         y_tunnus=None,
+         omistaja="Skyscanner Limited, yksityinen osakeyhtiö, rekisteröity Englannissa ja Walesissa yritysnumerolla 04217916 (sivun oma \"Ehdot\"-sivu); perustettu 2003; Ctrip (nyk. Trip.com Group) osti yrityksen 2016 1,4 miljardilla punnalla (sivun oma \"Tietoa meistä\" -sivu); ei suomalaista Y-tunnusta"),
+    dict(slug="momondo", nimi="momondo", domain="momondo.fi",
+         y_tunnus=None,
+         omistaja="momondo.com A/S (Tanska); sivun omassa JSON-konfiguraatiossa affiliate-tunniste \"momondo-kyk-wl\" (kyk = Kayak) paljastaa Kayak-yhteyden; Kayak ja momondo kuuluvat molemmat Booking Holdings -konserniin; ei suomalaista Y-tunnusta"),
+    dict(slug="travellink", nimi="Travellink", domain="travellink.fi",
+         y_tunnus="1728205-9",
+         omistaja="Travellink AB, filial i Finland (PRH 1728205-9) — ruotsalaisen Travellink AB:n Suomen sivuliike; kuuluu espanjalaiseen Opodo/eDreams ODIGEO -konserniin"),
+    dict(slug="lentovertailu", nimi="Lentovertailu.fi", domain="lentovertailu.fi",
+         y_tunnus=None,
+         omistaja="Sivun oma yhteystietosivu: sivuston tekniikasta ja ylläpidosta vastaa \"espoolainen Silky Sand Media\"; avattu 2007; PRH-haku nimellä \"Silky Sand Media\" ei löydä yhtiötä; ei Y-tunnusta sivustolla"),
+    dict(slug="lentohakukone", nimi="Lentohakukone.fi", domain="lentohakukone.fi",
+         y_tunnus=None,
+         omistaja="Omistavaa yhtiötä ei löydy sivustolta lainkaan: ei Y-tunnusta, ei Oy-nimeä, ei tietosuoja- tai käyttöehtosivua linkitettynä etusivulta"),
+]

@@ -1,0 +1,45 @@
+{
+ "slug": "momondo",
+ "fetched_ok": [
+  "https://www.momondo.fi/"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "suodattimet_ja_reitit": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 18, "sisallon_kattavuus": 40},
+ "vahvuudet": [
+  "Etusivun meta-kuvaus lupaa laajan haun: 'Halvat lennot - Vertaa lentoja ja löydä parhaat lentoliput', ja palvelu kattaa lentojen lisäksi majoitukset, autonvuokrauksen ja pakettimatkat",
+  "Mobiilisovellus mainitaan selkeästi (App Store ja Google Play -linkit sivun rakenteessa) ja sovellusta markkinoidaan 'vähemmän mainoksia, nopeampi haku' -eduilla",
+  "AI-pohjainen matkasuunnittelu ('Suunnittele AI:n avulla') on mainittu etusivulla lisäominaisuutena"
+ ],
+ "kehityskohteet": [
+  "Etusivu on käytännössä täysin JavaScript-renderöity (2,2 megatavun HTML, mutta ei yhtään näkyvää hintaa tai hakutulosta staattisessa lataksessa)",
+  "Omistussuhde ei ole avoimesti kerrottu käyttäjälle: sivun omassa tekninen konfiguraatiodatassa (JSON) esiintyy affiliate-tunniste 'momondo-kyk-wl', jossa 'kyk' viittaa Kayakiin — tämä ei ole millään tavalla näkyvästi kerrottu tavalliselle sivustolla vierailijalle",
+  "Ei Y-tunnusta, puhelinnumeroa, sähköpostia, chat-tukea tai riippumatonta arviolähdettä millään ladatulla sivulla"
+ ],
+ "yhteenveto": "momondo.fi on laajalti tunnettu lentohakukone, joka on osa Kayakin/Booking Holdingsin konsernia — tämä yhteys näkyy vain sivun teknisessä JSON-konfiguraatiossa ('momondo-kyk-wl'), ei käyttäjälle avoimesti kerrottuna. Etusivu on kokonaan JavaScript-renderöity eikä sisällä yhtään näkyvää hintaa staattisessa haussa. Ei suomalaista Y-tunnusta, ei muitakaan yritys- tai yhteystietoja ladatuilla sivuilla.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Etusivun raaka-HTML on 2,2 megatavua, mutta sisältää vain käyttöliittymän kieliversiot, valikkotekstit ja JSON-konfiguraation — ei yhtään näkyvää euromääräistä hintaa tai hakutulosta.",
+  "suodattimet_ja_reitit": "Meta-kuvaus ja etusivun rakenne: 'Lennot Majoitukset Autonvuokraus Pakettimatkat' — palvelu kattaa useita matkustuksen osa-alueita, mikä viittaa laajaan suodatin- ja hakutoimintoon, vaikka itse suodattimia ei nähty staattisesti.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata avoimesti käyttäjälle näkyvässä sisällössä. Sivun tekninen JSON sisältää kentän \"affiliate\":\"momondo-kyk-wl\", joka paljastaa Kayak-yhteyden (kyk=Kayak) — tämä on tekninen tunniste, ei julkilausuttu selitys.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (lentoyhtiöiden tai matkatoimistojen lukumäärää) ei kuvata millään ladatulla sivulla.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta eikä muuta virallista yritystunnistetta näy etusivulla. Omistava yhtiö on yleisesti tunnettu tanskalaiseksi momondo.com A/S:ksi, joka kuuluu Kayakin/Booking Holdingsin konserniin, mutta tätä ei kerrota sivun omassa näkyvässä sisällössä.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta.",
+  "mobiilisovellus": "Etusivun rakenteessa mobiilisovelluksen markkinointitekstejä: 'Lataa appi', 'Nopeampi haku, enemmän ominaisuuksia, vähemmän mainoksia.'"
+ },
+ "updated": "2026-08-05"
+}

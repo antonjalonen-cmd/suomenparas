@@ -1,0 +1,1105 @@
+{
+ "slug": "lentovertailupalvelut",
+ "nimi": "Lentovertailupalvelut",
+ "nav": "Lentovertailu",
+ "h1": "Suomen paras lentojen hintavertailupalvelu 2026",
+ "yksikko": "lentojen hakukonetta",
+ "lead": "Lentohakukoneet vertailevat sadoittain lentoyhtiöitä ja matkatoimistoja kerralla. Pisteytimme {n} Suomessa käytettyä lentojen hintavertailupalvelua {m} mittarilla. Tärkein kysymys: näetkö lopullisen kokonaishinnan hakutuloksessa, vai paljastuvatko lisämaksut vasta varaussivulla?",
+ "meta_title": "Suomen paras lentojen hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
+ "meta_desc": "5 lentojen hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Yhtään hintaa ei näy ilman JavaScriptiä — eikä yhtään pistettä siitä annettu.</b> Kaikkien viiden palvelun hakutulokset renderöityvät selaimessa; staattisessa lataksessa yksikään ei näytä yhtään euromääräistä hintaa. Skyscanner torjuu myös automatisoidun selaimen erillisellä botti-esto-haasteella. Tämä ei tarkoita, etteivätkö palvelut näyttäisi hintoja oikealle käyttäjälle selaimessa — se tarkoittaa, ettei kokonaishinnan läpinäkyvyyttä (näkeekö käsittelymaksut heti vai vasta varaussivulla) voitu vahvistaa julkisesta lähdekoodista, joten mittari on rehellisesti \"ei\" kaikilla viidellä.",
+  "<b>momondo on Kayakin sisarpalvelu — mutta ei kerro sitä sinulle.</b> Sivun omassa teknisessä JSON-datassa on tunniste \"momondo-kyk-wl\" (kyk = Kayak), joka paljastaa yhteyden Booking Holdings -konserniin. Tätä ei mainita missään käyttäjälle näkyvässä kohdassa sivustolla. Skyscanner sen sijaan kertoo oman omistushistoriansa avoimesti: Ctrip (nyk. Trip.com Group) osti sen 2016 1,4 miljardilla punnalla.",
+  "Yhdelläkään viidestä ei ole suomalaista Y-tunnusta sivustollaan. Travellink.fi:n PRH-rekisteröinti (Travellink AB, filial i Finland, 1728205-9) löytyi kaupparekisteristä, mutta ei itse sivustolta. Lentovertailu.fi:n ilmoittama ylläpitäjä \"Silky Sand Media\" ei löydy PRH:sta lainkaan. Emme suosittele yksittäisiä lentoja emmekä vertaile todellisia lentohintoja — mittaamme vertailupalvelujen omaa avoimuutta."
+ ],
+ "yritykset": [
+  {
+   "slug": "skyscanner",
+   "nimi": "Skyscanner",
+   "domain": "skyscanner.fi",
+   "omistaja": "Skyscanner Limited, yksityinen osakeyhtiö, rekisteröity Englannissa ja Walesissa yritysnumerolla 04217916 (sivun oma \"Ehdot\"-sivu); perustettu 2003; Ctrip (nyk. Trip.com Group) osti yrityksen 2016 1,4 miljardilla punnalla (sivun oma \"Tietoa meistä\" -sivu); ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 41.7,
+   "pillars": {
+    "digitaalinen": 61.9,
+    "lapinakyvyys": 30.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 45.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "28/100",
+       "paino": 40,
+       "pisteet": 28,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "91/100",
+       "paino": 15,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: --js-tilassa (headless Chrome) sivu palauttaa botti-esto-haasteen 'Are you a person or a robot?' eikä latauta hakutuloksia. --raw-tilassa (staattinen HTML) etusivulla ei ole yhtään hintaa; vain otsikko ja meta-kuvaus latautuvat palvelinpuolella."
+      },
+      {
+       "mittari": "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Meta-kuvaus: 'Vertaile halpoja lentoja kaikilta isoilta lentoyhtiöiltä sekä matkatoimistoilta ja löydä halvimmat liput kaikkiin kohteisiin.' Skyscannerin suodatintoiminnot (aikataulu, välilaskut, matkatavara) ovat yleisesti tunnettuja palvelun ominaisuuksia, vaikka niitä ei voitu vahvistaa staattisesta HTML:stä botti-eston takia."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehdoissa mainitaan yleisesti kolmansien osapuolten kumppanuudet ('Palvelumme ja alustamme tarjoaa Skyscanner Limited...'), mutta tarkkaa komissiomallia (esim. prosenttiosuus varauksesta) ei kuvata eksplisiittisesti näillä sivuilla."
+      },
+      {
+       "mittari": "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'Tietoa meistä' -sivu kuvaa yleisen tavoitteen ('näyttää matkustajille kaikki lentovaihtoehdot yhdessä paikassa'), mutta tarkkaa lukumäärää vertailtavista lentoyhtiöistä tai matkatoimistoista ei kerrota näillä sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehdot: 'Palvelumme ja alustamme tarjoaa Skyscanner Limited, yksityinen osakeyhtiö, joka on rekisteröitynyt Englannissa ja Walesissa yritysnumerolla 04217916.' Ei suomalaista Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä millään ladatulla sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla tai 'Tietoa meistä' -sivulla; tuki ohjataan help.skyscanner.net-sivustolle."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'Tietoa meistä' -sivulta linkitetty erillinen tukisivusto: 'https://help.skyscanner.net/hc/fi?skyCurrency=currency_eur&skyLanguage=lang_fi&skyMarket=fi_skyscanner'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'Tietoa meistä' -sivun linkeissä ja tekstissä mainitaan sovellus; Skyscannerin mobiilisovellus on yleisesti tunnettu ja laajasti käytetty."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 28,
+    "accessibility": 85,
+    "seo": 91,
+    "best_practices": 77,
+    "lcp_ms": 12831.365000000002,
+    "cls": 0.06774846873363388,
+    "tbt_ms": 10135.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Erittäin läpinäkyvä oma historia: 'Tietoa meistä' -sivu kertoo yksityiskohtaisesti perustamisvuoden 2003, tavoitteen näyttää kaikki lentovaihtoehdot yhdessä paikassa, ja Ctripin (nyk. Trip.com Group) yritysoston 2016 hintaan 1,4 miljardia puntaa",
+    "Käyttöehdoissa ilmoitetaan tarkka rekisteröity yhtiö: 'Skyscanner Limited, yksityinen osakeyhtiö, joka on rekisteröitynyt Englannissa ja Walesissa yritysnumerolla 04217916'",
+    "Mobiilisovellus mainitaan sivustolla ja on laajalti tunnettu; erillinen help.skyscanner.net-tukisivusto tarjoaa usein kysytyt kysymykset kielikohtaisesti (fi-FI)"
+   ],
+   "kehityskohteet": [
+    "Etusivu ja hakutulokset ovat kokonaan JavaScript-renderöityjä: staattisessa haussa ei näy yhtään hintaa eikä lentovaihtoehtoa, ja sivu torjuu myös headless-selaimen botti-esto-haasteella ('Are you a person or a robot?')",
+    "Ei suomalaista Y-tunnusta: rekisteröity yhtiö on brittiläinen (yritysnumero 04217916), ei suomalaisessa kaupparekisterissä",
+    "Puhelinnumeroa, sähköpostia tai chat-tukea ei löydy suoraan etusivulta tai 'Tietoa meistä' -sivulta; tuki on ohjattu erilliselle help.skyscanner.net-sivustolle"
+   ],
+   "yhteenveto": "Skyscanner on brittiläisen Skyscanner Limited -yhtiön (yritysnumero 04217916) ylläpitämä lentohakukone, jonka Kiinan Ctrip (nyk. Trip.com Group) osti 2016. Yritys on avoin omasta historiastaan ja omistajuudestaan, mutta itse hakutoiminto on täysin JavaScript-renderöity ja torjuu jopa automatisoidun selaimen botti-esto-haasteella, joten hintojen näkyvyyttä ei voitu vahvistaa staattisesti. Suomalaista Y-tunnusta ei ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "travellink",
+   "nimi": "Travellink",
+   "domain": "travellink.fi",
+   "omistaja": "Travellink AB, filial i Finland (PRH 1728205-9) — ruotsalaisen Travellink AB:n Suomen sivuliike; kuuluu espanjalaiseen Opodo/eDreams ODIGEO -konserniin",
+   "y_tunnus": "1728205-9",
+   "rekisteroity": 2001,
+   "score": 36.0,
+   "pillars": {
+    "digitaalinen": 51.7,
+    "lapinakyvyys": 22.5,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 43.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "22/100",
+       "paino": 40,
+       "pisteet": 22,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "72/100",
+       "paino": 30,
+       "pisteet": 72,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "50/100",
+       "paino": 15,
+       "pisteet": 50,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /lennot/-sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa; sivu on linkkihakemisto reiteille ja lentoyhtiöille, itse hakutulokset ja hinnat renderöityvät JavaScriptilla."
+      },
+      {
+       "mittari": "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivun linkkirakenne: 'Klm Royal Dutch Airlines lennot Lufthansa lennot Finnair lennot airBaltic lennot Lennot Helsinki–Pristina Lennot Helsinki–Amsterdam... Wizz Air-lennot: Turku – Gdańsk'."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehtosivu on JavaScript-renderöity eikä sisällä näkyvää tekstiä ansaintamallista; sivun omassa staattisessa sisällössä ei mainita komissioita tai affiliate-mallia."
+      },
+      {
+       "mittari": "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu listaa useita nimettyjä lentoyhtiöitä ja reittejä ('Suosituimmat lentoyhtiöt'), mutta ei kerro tarkkaa lukumäärää vertailtavista yhtiöistä tai kattavuuden rajoja."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta ei näy /lennot/- tai /yleiset-kayttoehdot/-sivun staattisessa sisällössä. PRH-haku nimellä 'Travellink' löytää 'Travellink AB, filial i Finland' (Y-tunnus 1728205-9), mutta tätä numeroa ei ole vahvistettu näkyvän sivuston omalta sisällöltä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä ladatuilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla travellink.fi-sivuilla. Kolmannen osapuolen hakemistosivustolla (asiakaspalvelut.com) esiintyy numero +358 9 8366880 Travellink AB filial i Finland -nimellä, mutta koska se ei ole travellink.fi:n omalla sivulla, sitä ei lasketa sivuston omaksi näkyväksi yhteystiedoksi."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivun valikossa: 'Kysymyksiä ja vastauksia'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla: 'Haluatko tarkastuskorttisi? Automaattinen lähtöselvitys, reaaliaikaiset lentoja koskevat päivitykset ja kaikki matkalla tarvitsemasi tiedot — vain sovelluksessa. Lataa Android-sovellus.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "58/100",
+       "paino": 34,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "22/100",
+       "paino": 33,
+       "pisteet": 22,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "50/100",
+       "paino": 33,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 22,
+    "accessibility": 72,
+    "seo": 92,
+    "best_practices": 50,
+    "lcp_ms": 18357.867500000015,
+    "cls": 0.1409473214387203,
+    "tbt_ms": 22629.500000000025
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja reittivalikoima näkyy suoraan lentosivun linkkirakenteessa: nimettyjä lentoyhtiöitä (KLM, Lufthansa, Finnair, airBaltic, Wizz Air, Air France) ja konkreettisia reittejä (Helsinki-Amsterdam, Helsinki-Pariisi, Turku-Gdańsk)",
+    "Mobiilisovellus mainitaan selkeästi omalla toiminnallisuudella: 'Automaattinen lähtöselvitys, reaaliaikaiset lentoja koskevat päivitykset ja kaikki matkalla tarvitsemasi tiedot — vain sovelluksessa'",
+    "Usein kysytyt kysymykset -osio löytyy ('Kysymyksiä ja vastauksia'), ja sivustolla on erillinen 'Lisää majoitusliike' -toiminto kumppaneille sekä ura- ja mainossivut"
+   ],
+   "kehityskohteet": [
+    "Käyttöehtosivu (yleiset-kayttoehdot) on käytännössä tyhjä staattisessa HTML:ssä: sisältää vain kohtien numeroinnin (1.1-8.1) ilman itse tekstisisältöä, joka renderöityy JavaScriptilla",
+    "Ei mitään näkyvää euromääräistä hintaa tai lentotarjousta staattisessa lataksessa millään ladatulla sivulla",
+    "Ei suomalaista Y-tunnusta sivun omassa näkyvässä sisällössä, vaikka PRH:sta löytyy rekisteröity sivuliike"
+   ],
+   "yhteenveto": "Travellink.fi on ruotsalaisen Travellink AB:n Suomen sivuliike (PRH:n mukaan Y-tunnus 1728205-9, ei kuitenkaan sivustolla itsellään näkyvissä), osa espanjalaista Opodo/eDreams ODIGEO -konsernia. Sivusto listaa laajasti lentoyhtiöitä ja reittejä, ja mobiilisovellus sekä UKK-osio ovat esillä, mutta itse käyttöehdot ja hintavertailu renderöityvät JavaScriptilla eikä niitä voitu vahvistaa staattisesti.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "lentovertailu",
+   "nimi": "Lentovertailu.fi",
+   "domain": "lentovertailu.fi",
+   "omistaja": "Sivun oma yhteystietosivu: sivuston tekniikasta ja ylläpidosta vastaa \"espoolainen Silky Sand Media\"; avattu 2007; PRH-haku nimellä \"Silky Sand Media\" ei löydä yhtiötä; ei Y-tunnusta sivustolla",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 35.7,
+   "pillars": {
+    "digitaalinen": 63.0,
+    "lapinakyvyys": 15.0,
+    "tavoitettavuus": 22.5,
+    "ai_laatu": 39.2
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "40/100",
+       "paino": 40,
+       "pisteet": 40,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "70/100",
+       "paino": 30,
+       "pisteet": 70,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /tarjoushaku/-sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla."
+      },
+      {
+       "mittari": "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun rakenne: 'Lentojen hintavertailu Tarjoushaku' -valikko sekä artikkeliosio matkustusvinkeille viittaa jäsenneltyyn hakutoimintoon."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla tai muualla sivustolla ei mainita komissioita, affiliate-linkkejä tai muuta ansaintamallia."
+      },
+      {
+       "mittari": "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailun kattavuutta (lentoyhtiöiden tai matkatoimistojen lukumäärää) ei kerrota millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivu: 'Sivuston tekniikasta ja ylläpidosta vastaa espoolainen Silky Sand Media.' Ei Y-tunnusta. PRH-haku nimellä 'Silky Sand Media' ei löydä yhtiötä kaupparekisteristä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystietosivulla kohta 'puh:' on tyhjä — numeroa ei ole täytetty."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'email: palaute@lentovertailu.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä nimettyä UKK/usein kysytyt kysymykset -osiota ei löytynyt; sivustolla on sen sijaan artikkeliosio matkustusvinkeille (esim. 'Vinkkejä mahdollisimman edullisten lentojen löytämiseksi'), joka osin vastaa samaan tarpeeseen."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita millään ladatulla sivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "42/100",
+       "paino": 33,
+       "pisteet": 42,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 40,
+    "accessibility": 70,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 9285.430499999997,
+    "cls": 0,
+    "tbt_ms": 1580.6745
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yhteystietosivu kertoo sivuston oman historian avoimesti: avattu 2007 yhtenä ensimmäisistä suomenkielisistä lentovertailusivustoista, täysuudistus 2012, tekniikasta vastaa espoolainen Silky Sand Media",
+    "Sähköpostiosoite on selkeästi esillä palautteelle: palaute@lentovertailu.fi",
+    "Sivustolla on erillinen tarjoushaku-toiminto ja artikkeliosio matkavinkeille, mikä kertoo sisällön kattavuudesta lentovertailun ohella"
+   ],
+   "kehityskohteet": [
+    "Yhtään Y-tunnusta tai virallista yritystunnistetta ei löydy yhteystietosivulta eikä muualta sivustolta; PRH-haku nimellä 'Silky Sand Media' ei löydä yhtiötä",
+    "Itse tarjoushaku-sivu ei näytä yhtään hintaa staattisessa HTML:ssä — hakutulokset renderöityvät JavaScriptilla",
+    "Ansaintamallia tai vertailun kattavuutta (kuinka moneen lentoyhtiöön tai matkatoimistoon haku ulottuu) ei kerrota millään ladatulla sivulla"
+   ],
+   "yhteenveto": "Lentovertailu.fi on vuonna 2007 avattu suomenkielinen lentojen hintavertailusivusto, jonka tekniikasta vastaa espoolainen Silky Sand Media -niminen toimija. Sivusto on avoin omasta historiastaan ja tarjoaa sähköpostiyhteyden, mutta PRH:sta ei löydy vastaavaa yhtiötä, itse hakutulokset eivät näy staattisesti, eikä ansaintamallia tai vertailun kattavuutta kerrota.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "momondo",
+   "nimi": "momondo",
+   "domain": "momondo.fi",
+   "omistaja": "momondo.com A/S (Tanska); sivun omassa JSON-konfiguraatiossa affiliate-tunniste \"momondo-kyk-wl\" (kyk = Kayak) paljastaa Kayak-yhteyden; Kayak ja momondo kuuluvat molemmat Booking Holdings -konserniin; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 31.9,
+   "pillars": {
+    "digitaalinen": 59.4,
+    "lapinakyvyys": 15.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 37.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "9/100",
+       "paino": 40,
+       "pisteet": 9,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "88/100",
+       "paino": 30,
+       "pisteet": 88,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun raaka-HTML on 2,2 megatavua, mutta sisältää vain käyttöliittymän kieliversiot, valikkotekstit ja JSON-konfiguraation — ei yhtään näkyvää euromääräistä hintaa tai hakutulosta."
+      },
+      {
+       "mittari": "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Meta-kuvaus ja etusivun rakenne: 'Lennot Majoitukset Autonvuokraus Pakettimatkat' — palvelu kattaa useita matkustuksen osa-alueita, mikä viittaa laajaan suodatin- ja hakutoimintoon, vaikka itse suodattimia ei nähty staattisesti."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata avoimesti käyttäjälle näkyvässä sisällössä. Sivun tekninen JSON sisältää kentän \"affiliate\":\"momondo-kyk-wl\", joka paljastaa Kayak-yhteyden (kyk=Kayak) — tämä on tekninen tunniste, ei julkilausuttu selitys."
+      },
+      {
+       "mittari": "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailun kattavuutta (lentoyhtiöiden tai matkatoimistojen lukumäärää) ei kuvata millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta eikä muuta virallista yritystunnistetta näy etusivulla. Omistava yhtiö on yleisesti tunnettu tanskalaiseksi momondo.com A/S:ksi, joka kuuluu Kayakin/Booking Holdingsin konserniin, mutta tätä ei kerrota sivun omassa näkyvässä sisällössä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun rakenteessa mobiilisovelluksen markkinointitekstejä: 'Lataa appi', 'Nopeampi haku, enemmän ominaisuuksia, vähemmän mainoksia.'"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "18/100",
+       "paino": 33,
+       "pisteet": 18,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 9,
+    "accessibility": 88,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 16993.622500000005,
+    "cls": 0.3258357459964065,
+    "tbt_ms": 8734.942000000006
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Etusivun meta-kuvaus lupaa laajan haun: 'Halvat lennot - Vertaa lentoja ja löydä parhaat lentoliput', ja palvelu kattaa lentojen lisäksi majoitukset, autonvuokrauksen ja pakettimatkat",
+    "Mobiilisovellus mainitaan selkeästi (App Store ja Google Play -linkit sivun rakenteessa) ja sovellusta markkinoidaan 'vähemmän mainoksia, nopeampi haku' -eduilla",
+    "AI-pohjainen matkasuunnittelu ('Suunnittele AI:n avulla') on mainittu etusivulla lisäominaisuutena"
+   ],
+   "kehityskohteet": [
+    "Etusivu on käytännössä täysin JavaScript-renderöity (2,2 megatavun HTML, mutta ei yhtään näkyvää hintaa tai hakutulosta staattisessa lataksessa)",
+    "Omistussuhde ei ole avoimesti kerrottu käyttäjälle: sivun omassa tekninen konfiguraatiodatassa (JSON) esiintyy affiliate-tunniste 'momondo-kyk-wl', jossa 'kyk' viittaa Kayakiin — tämä ei ole millään tavalla näkyvästi kerrottu tavalliselle sivustolla vierailijalle",
+    "Ei Y-tunnusta, puhelinnumeroa, sähköpostia, chat-tukea tai riippumatonta arviolähdettä millään ladatulla sivulla"
+   ],
+   "yhteenveto": "momondo.fi on laajalti tunnettu lentohakukone, joka on osa Kayakin/Booking Holdingsin konsernia — tämä yhteys näkyy vain sivun teknisessä JSON-konfiguraatiossa ('momondo-kyk-wl'), ei käyttäjälle avoimesti kerrottuna. Etusivu on kokonaan JavaScript-renderöity eikä sisällä yhtään näkyvää hintaa staattisessa haussa. Ei suomalaista Y-tunnusta, ei muitakaan yritys- tai yhteystietoja ladatuilla sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "lentohakukone",
+   "nimi": "Lentohakukone.fi",
+   "domain": "lentohakukone.fi",
+   "omistaja": "Omistavaa yhtiötä ei löydy sivustolta lainkaan: ei Y-tunnusta, ei Oy-nimeä, ei tietosuoja- tai käyttöehtosivua linkitettynä etusivulta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 28.9,
+   "pillars": {
+    "digitaalinen": 61.6,
+    "lapinakyvyys": 15.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 29.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "81/100",
+       "paino": 30,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun 40 000 merkin HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla."
+      },
+      {
+       "mittari": "Suodattimet (aikataulu, välilaskut, matkatavara) saatavilla",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun teksti: 'Lentohakukone.fi vertaa satojen lentoyhtiöiden hintoja... Hakumme kattaa niin perinteiset kuin halpalentoyhtiöt.' Kuvaa kattavuuden sanallisesti, mutta itse suodatinvalikoimaa ei voitu vahvistaa staattisesti."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun teksti mainitsee 'varaat lentoliput kätevästi ja turvallisesti yhteistyökumppaneidemme sivuilta', mutta ei nimeä kumppaneita eikä selitä ansaintamallia tai komissioita."
+      },
+      {
+       "mittari": "Vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun teksti: 'Lentohakukone.fi auttaa sinua löytämään myös hotellit kaikkialta maailmasta... yli 35 välittäjältä ja 350 000 hotellista.' Lentojen osalta kattavuutta ei kerrota yhtä tarkasti (vain 'satojen lentoyhtiöiden')."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko etusivun raakateksti tarkistettu regexillä Y-tunnus-muodolle (7 numeroa-viiva-numero) ja sanalle 'Oy' — kumpikaan ei osu kertaakaan. Ei myöskään linkkiä tietosuoja-, käyttöehto- tai yhteystietosivulle."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan etusivulla; ainoa osuma sanalle 'email' oli tekninen (esim. kuvakenttä), ei näkyvä yhteystieto."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "48/100",
+       "paino": 34,
+       "pisteet": 48,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "30/100",
+       "paino": 33,
+       "pisteet": 30,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 81,
+    "seo": 100,
+    "best_practices": 69,
+    "lcp_ms": 4602.5725,
+    "cls": 0.3039817437101274,
+    "tbt_ms": 2348.2377499999993
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Etusivun teksti kuvaa palvelun kattavuuden sanallisesti melko tarkasti: 'vertaa satojen lentoyhtiöiden hintoja', kattaa sekä perinteiset että halpalentoyhtiöt, ja auttaa löytämään myös hotelleja 'yli 35 välittäjältä ja 350 000 hotellista'",
+    "Palvelu ilmoittaa olevansa käyttäjälle maksuton ja helppokäyttöinen: 'Palvelun käyttäminen on helppoa ja ilmaista'",
+    "Kertoo avoimesti, että varaus tehdään aina 'yhteistyökumppaneidemme sivuilta', eli itse ei myy lentoja suoraan"
+   ],
+   "kehityskohteet": [
+    "Sivustolta ei löydy lainkaan omistavan yhtiön nimeä, Y-tunnusta, sähköpostia, puhelinnumeroa tai muuta yhteystietoa — ei edes linkkiä tietosuoja- tai käyttöehtosivulle etusivulta",
+    "Ei yhtään näkyvää hintaa staattisessa HTML:ssä; hakutulokset renderöityvät JavaScriptilla",
+    "Ansaintamallia ei kerrota lainkaan, vaikka sivu mainitsee ohjaavansa varaukset 'yhteistyökumppaneiden' sivuille — kumppaneita ei nimetä eikä komissiomallia selitetä"
+   ],
+   "yhteenveto": "Lentohakukone.fi on suomenkielinen lentojen ja hotellien hintavertailusivusto, joka kuvaa toimintansa laajuuden sanallisesti melko avoimesti, mutta jolta puuttuu kokonaan yritystunnistetiedot: ei Y-tunnusta, ei yhtiön nimeä, ei yhteystietoja millään ladatulla sivulla. Hakutulokset eivät näy staattisesti, eikä ansaintamallia tai yhteistyökumppaneita nimetä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "5.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Lopullinen kokonaishinta (käsittelymaksuineen) näkyy hakutuloksessa (30), suodattimet (aikataulu, välilaskut, matkatavara) saatavilla (15), ansaintamalli (komissiot/affiliate) kerrottu avoimesti (15), vertailun kattavuus (lentoyhtiöt/matkatoimistot) kerrottu (15), Y-tunnus tai virallinen yritystunniste esillä (10), riippumaton arviolähde esillä (15)"
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "skyscanner",
+ "fetched_ok": [
+  "https://www.skyscanner.fi/",
+  "https://www.skyscanner.fi/tietoa-meista",
+  "https://www.skyscanner.fi/terms-of-service"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "suodattimet_ja_reitit": "kylla",
+ "ansaintamalli_kerrottu": "osittain",
+ "kattavuus_kerrottu": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 62, "hintojen_loydettavyys": 20, "sisallon_kattavuus": 55},
+ "vahvuudet": [
+  "Erittäin läpinäkyvä oma historia: 'Tietoa meistä' -sivu kertoo yksityiskohtaisesti perustamisvuoden 2003, tavoitteen näyttää kaikki lentovaihtoehdot yhdessä paikassa, ja Ctripin (nyk. Trip.com Group) yritysoston 2016 hintaan 1,4 miljardia puntaa",
+  "Käyttöehdoissa ilmoitetaan tarkka rekisteröity yhtiö: 'Skyscanner Limited, yksityinen osakeyhtiö, joka on rekisteröitynyt Englannissa ja Walesissa yritysnumerolla 04217916'",
+  "Mobiilisovellus mainitaan sivustolla ja on laajalti tunnettu; erillinen help.skyscanner.net-tukisivusto tarjoaa usein kysytyt kysymykset kielikohtaisesti (fi-FI)"
+ ],
+ "kehityskohteet": [
+  "Etusivu ja hakutulokset ovat kokonaan JavaScript-renderöityjä: staattisessa haussa ei näy yhtään hintaa eikä lentovaihtoehtoa, ja sivu torjuu myös headless-selaimen botti-esto-haasteella ('Are you a person or a robot?')",
+  "Ei suomalaista Y-tunnusta: rekisteröity yhtiö on brittiläinen (yritysnumero 04217916), ei suomalaisessa kaupparekisterissä",
+  "Puhelinnumeroa, sähköpostia tai chat-tukea ei löydy suoraan etusivulta tai 'Tietoa meistä' -sivulta; tuki on ohjattu erilliselle help.skyscanner.net-sivustolle"
+ ],
+ "yhteenveto": "Skyscanner on brittiläisen Skyscanner Limited -yhtiön (yritysnumero 04217916) ylläpitämä lentohakukone, jonka Kiinan Ctrip (nyk. Trip.com Group) osti 2016. Yritys on avoin omasta historiastaan ja omistajuudestaan, mutta itse hakutoiminto on täysin JavaScript-renderöity ja torjuu jopa automatisoidun selaimen botti-esto-haasteella, joten hintojen näkyvyyttä ei voitu vahvistaa staattisesti. Suomalaista Y-tunnusta ei ole.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: --js-tilassa (headless Chrome) sivu palauttaa botti-esto-haasteen 'Are you a person or a robot?' eikä latauta hakutuloksia. --raw-tilassa (staattinen HTML) etusivulla ei ole yhtään hintaa; vain otsikko ja meta-kuvaus latautuvat palvelinpuolella.",
+  "suodattimet_ja_reitit": "Meta-kuvaus: 'Vertaile halpoja lentoja kaikilta isoilta lentoyhtiöiltä sekä matkatoimistoilta ja löydä halvimmat liput kaikkiin kohteisiin.' Skyscannerin suodatintoiminnot (aikataulu, välilaskut, matkatavara) ovat yleisesti tunnettuja palvelun ominaisuuksia, vaikka niitä ei voitu vahvistaa staattisesta HTML:stä botti-eston takia.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Käyttöehdoissa mainitaan yleisesti kolmansien osapuolten kumppanuudet ('Palvelumme ja alustamme tarjoaa Skyscanner Limited...'), mutta tarkkaa komissiomallia (esim. prosenttiosuus varauksesta) ei kuvata eksplisiittisesti näillä sivuilla.",
+  "kattavuus_kerrottu": "'Tietoa meistä' -sivu kuvaa yleisen tavoitteen ('näyttää matkustajille kaikki lentovaihtoehdot yhdessä paikassa'), mutta tarkkaa lukumäärää vertailtavista lentoyhtiöistä tai matkatoimistoista ei kerrota näillä sivuilla.",
+  "y_tunnus_esilla": "Käyttöehdot: 'Palvelumme ja alustamme tarjoaa Skyscanner Limited, yksityinen osakeyhtiö, joka on rekisteröitynyt Englannissa ja Walesissa yritysnumerolla 04217916.' Ei suomalaista Y-tunnusta.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä millään ladatulla sivulla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla tai 'Tietoa meistä' -sivulla; tuki ohjataan help.skyscanner.net-sivustolle.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "'Tietoa meistä' -sivulta linkitetty erillinen tukisivusto: 'https://help.skyscanner.net/hc/fi?skyCurrency=currency_eur&skyLanguage=lang_fi&skyMarket=fi_skyscanner'.",
+  "mobiilisovellus": "'Tietoa meistä' -sivun linkeissä ja tekstissä mainitaan sovellus; Skyscannerin mobiilisovellus on yleisesti tunnettu ja laajasti käytetty."
+ },
+ "updated": "2026-08-05"
+}

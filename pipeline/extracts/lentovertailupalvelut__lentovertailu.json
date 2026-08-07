@@ -1,0 +1,47 @@
+{
+ "slug": "lentovertailu",
+ "fetched_ok": [
+  "https://www.lentovertailu.fi/",
+  "https://www.lentovertailu.fi/tarjoushaku/",
+  "https://www.lentovertailu.fi/yhteystiedot/"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "suodattimet_ja_reitit": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "osittain",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 60, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 42},
+ "vahvuudet": [
+  "Yhteystietosivu kertoo sivuston oman historian avoimesti: avattu 2007 yhtenä ensimmäisistä suomenkielisistä lentovertailusivustoista, täysuudistus 2012, tekniikasta vastaa espoolainen Silky Sand Media",
+  "Sähköpostiosoite on selkeästi esillä palautteelle: palaute@lentovertailu.fi",
+  "Sivustolla on erillinen tarjoushaku-toiminto ja artikkeliosio matkavinkeille, mikä kertoo sisällön kattavuudesta lentovertailun ohella"
+ ],
+ "kehityskohteet": [
+  "Yhtään Y-tunnusta tai virallista yritystunnistetta ei löydy yhteystietosivulta eikä muualta sivustolta; PRH-haku nimellä 'Silky Sand Media' ei löydä yhtiötä",
+  "Itse tarjoushaku-sivu ei näytä yhtään hintaa staattisessa HTML:ssä — hakutulokset renderöityvät JavaScriptilla",
+  "Ansaintamallia tai vertailun kattavuutta (kuinka moneen lentoyhtiöön tai matkatoimistoon haku ulottuu) ei kerrota millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Lentovertailu.fi on vuonna 2007 avattu suomenkielinen lentojen hintavertailusivusto, jonka tekniikasta vastaa espoolainen Silky Sand Media -niminen toimija. Sivusto on avoin omasta historiastaan ja tarjoaa sähköpostiyhteyden, mutta PRH:sta ei löydy vastaavaa yhtiötä, itse hakutulokset eivät näy staattisesti, eikä ansaintamallia tai vertailun kattavuutta kerrota.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: /tarjoushaku/-sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla.",
+  "suodattimet_ja_reitit": "Etusivun rakenne: 'Lentojen hintavertailu Tarjoushaku' -valikko sekä artikkeliosio matkustusvinkeille viittaa jäsenneltyyn hakutoimintoon.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Yhteystietosivulla tai muualla sivustolla ei mainita komissioita, affiliate-linkkejä tai muuta ansaintamallia.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (lentoyhtiöiden tai matkatoimistojen lukumäärää) ei kerrota millään ladatulla sivulla.",
+  "y_tunnus_esilla": "HAVAINTO: Yhteystietosivu: 'Sivuston tekniikasta ja ylläpidosta vastaa espoolainen Silky Sand Media.' Ei Y-tunnusta. PRH-haku nimellä 'Silky Sand Media' ei löydä yhtiötä kaupparekisteristä.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Yhteystietosivulla kohta 'puh:' on tyhjä — numeroa ei ole täytetty.",
+  "email_esilla": "Yhteystietosivu: 'email: palaute@lentovertailu.fi'.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä nimettyä UKK/usein kysytyt kysymykset -osiota ei löytynyt; sivustolla on sen sijaan artikkeliosio matkustusvinkeille (esim. 'Vinkkejä mahdollisimman edullisten lentojen löytämiseksi'), joka osin vastaa samaan tarpeeseen.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita millään ladatulla sivulla."
+ },
+ "updated": "2026-08-05"
+}
