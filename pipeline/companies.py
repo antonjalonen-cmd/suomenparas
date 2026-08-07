@@ -1925,3 +1925,27 @@ COMPANIES["autotarvikkeet-verkossa"] = [
     # raflaamo.fi ja fortum.fi → fortum.com. Tikki oli pisteyttänyt sen erikseen
     # viimeiseksi (58,7).
 ]
+
+# VAKUUTUSVERTAILUPALVELUT (5.8.2026) — "vertailemme vertailijat" toisena versiona
+# sähkövertailupalvelut-kaavasta. Mitataan vertailu-/kilpailutuspalvelun OMAA
+# läpinäkyvyyttä (näkyvätkö tarjoukset ilman henkilötietoja, ansaintamalli,
+# kattavuus, vakuutusyhtiöpaneeli, Y-tunnus, riippumaton arvio) — ei vakuutusten
+# omia hintoja. Insured.fi karsittu: sivu ilmoittaa itse "avaa ovensa mahdollisim-
+# man pian" — ei ole vielä toiminnassa oleva palvelu, vain liittymälomake.
+COMPANIES["vakuutusvertailupalvelut"] = [
+    dict(slug="valitsevakuutus", nimi="Valitse Vakuutus", domain="valitsevakuutus.fi",
+         y_tunnus=None,
+         omistaja="Sonodo (sivuston oma ilmoitus: \"Sonodo-toiminimen ylläpitämä\"); PRH:n haku nimellä \"Sonodo\" löytää Sonodo Oy:n (2887416-4), mutta yhteyttä ei ole vahvistettu — sivustolla itsellään ei näy Y-tunnusta"),
+    dict(slug="vakuutustenvertailu", nimi="Vakuutustenvertailu.fi", domain="vakuutustenvertailu.fi",
+         y_tunnus="2261132-0",
+         omistaja="Effortia Oy (sama omistaja kuin Sähkövertailu.fi ja VertaaEnsin sähkövertailupalvelut-kategoriassa, eri tuote/vertikaali); käyttää Little Buck Oy:n Vakuutuslaskuri.fi-kilpailutussovellusta"),
+    dict(slug="vakuutus-fi", nimi="Vakuutus.fi", domain="vakuutus.fi",
+         y_tunnus=None,
+         omistaja="Tumes Media Ltd (Valley Towers, Suite 5, Valley Road, Malta) — sivun oma tietosuojaseloste nimeää rekisterinpitäjäksi; ei suomalaista Y-tunnusta eikä maltalaista rekisterinumeroa näkyvillä"),
+    dict(slug="vakuutusinfo", nimi="Vakuutusinfo.fi", domain="vakuutusinfo.fi",
+         y_tunnus=None,
+         omistaja="Omistavaa yhtiötä ei löydy sivustolta: ei Y-tunnusta, ei Oy-nimeä millään ladatulla sivulla; sisarsivustoina linkitetty joustoluottoja.fi ja rahoituslaitos.fi"),
+    dict(slug="fiksuraha", nimi="FiksuRaha.fi", domain="fiksuraha.fi",
+         y_tunnus=None,
+         omistaja="Omistavaa yhtiötä ei löydy sivustolta: \"Tietoa meistä\" -sivulla vain \"Kotipaikka: Helsinki, Suomi\" ja sähköposti, ei Y-tunnusta eikä yhtiön nimeä; sivusto ilmoittaa joka sivulla \"Sivustomme voi sisältää affiliate-linkkejä\""),
+]

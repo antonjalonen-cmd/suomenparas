@@ -1,0 +1,49 @@
+{
+ "slug": "vakuutustenvertailu",
+ "fetched_ok": [
+  "https://www.vakuutustenvertailu.fi/",
+  "https://www.vakuutustenvertailu.fi/kilpailuta-autovakuutus",
+  "https://www.vakuutustenvertailu.fi/kayttoehdot",
+  "https://www.vakuutustenvertailu.fi/tietosuojaseloste",
+  "https://www.vakuutustenvertailu.fi/evasteet"
+ ],
+ "tarjoukset_ilman_yhteystietoja": "ei",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "osittain",
+ "yhtiot_listattu": "ei",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 58, "hintojen_loydettavyys": 30, "sisallon_kattavuus": 45},
+ "vahvuudet": [
+  "Y-tunnus ja rekisterinpitäjä kerrotaan selkeästi tietosuojaselosteessa: Effortia Oy, Y-tunnus 2261132-0, Pakkahuoneenkatu 8, 90100 Oulu",
+  "Prosessi kuvataan kolmessa vaiheessa etusivulla (täytä tiedot, vertaile, tee sopimus), joten käyttäjä tietää etukäteen mitä palvelu vaatii",
+  "Palvelu on käyttäjälle maksuton, mikä on kirjattu selkeästi käyttöehtoihin"
+ ],
+ "kehityskohteet": [
+  "Vertailun tulosten näkeminen vaatii henkilötunnuksen syöttämisen: 'Täytä lomakkeeseen tietosi, jotta algoritmimme voi hakea sinulle tulokset... Tarvitset tätä varten henkilötunnuksesi.' Tämä on vaativampi tietopyyntö kuin pelkät yhteystiedot",
+  "Ansaintamallia tai komissioita ei mainita käyttöehdoissa eikä tietosuojaselosteessa; ainoastaan todetaan ettei Effortia Oy vastaa hintojen paikkansapitävyydestä",
+  "Vertailussa mukana olevia vakuutusyhtiöitä ei listata millään ladatulla sivulla; itse kilpailutuslomake (kilpailuta-autovakuutus) on käytännössä tyhjä staattisessa HTML:ssä (162 merkkiä) ja renderöityy JavaScriptilla"
+ ],
+ "yhteenveto": "Vakuutustenvertailu.fi on Effortia Oy:n (sama omistaja kuin Sähkövertailu.fi ja VertaaEnsin sähkövertailupalvelut-kategoriassa) ylläpitämä vakuutusten kilpailutuspalvelu, joka käyttää Little Buck Oy:n Vakuutuslaskuri.fi-sovellusta taustalla. Y-tunnus on selkeästi esillä, mutta itse vertailun näkeminen vaatii henkilötunnuksen syöttämisen eikä ansaintamallia, vakuutusyhtiöpaneelia tai riippumatonta arviolähdettä kerrota millään ladatulla sivulla.",
+ "evidence": {
+  "tarjoukset_ilman_yhteystietoja": "HAVAINTO: Etusivun ohje: '1. Täytä tietosi. Täytä lomakkeeseen tietosi, jotta algoritmimme voi hakea sinulle tulokset eri vakuutusyhtiöiden sivuilta. Tarvitset tätä varten henkilötunnuksesi.' Vertailutulokset eivät siis näy ilman henkilötunnuksen syöttämistä.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Käyttöehdoissa ei mainita komissioita tai ansaintamallia; todetaan vain 'Palvelu on käyttäjälleen maksuton' ja 'Effortia Oy ei ole vastuussa hintojen paikkaansapitävyydestä tai sitovuudesta.'",
+  "kattavuus_kerrottu": "Käyttöehdot: 'Vakuutustenvertailu on Effortia Oy:n sivuilla käyttämä ja Little Buck Oy:n kehittämä vertailupalvelu. Vertailu muodostetaan vakuutusyhtiöiden erinäisten tuotteiden hintatiedoista sekä mahdollisista lisäpalveluista.' Etusivu: 'Tällä hetkellä vain autovakuutus*' — kattavuus kerrotaan osittain (yksi vakuutuslaji, laajennus luvattu), ei vakuutusyhtiöpaneelia.",
+  "yhtiot_listattu": "HAVAINTO: Yhtään vakuutusyhtiön nimeä ei esiinny millään ladatulla sivulla (etusivu, kilpailuta-autovakuutus, käyttöehdot, tietosuojaseloste, evästeet).",
+  "y_tunnus_esilla": "Tietosuojaseloste: 'Rekisterinpitäjä. Nimi: Effortia Oy. Y-tunnus: 2261132-0. Postiosoite: Pakkahuoneenkatu 8, 90100 Oulu.' Sama tietosuojaseloste listaa Effortian muut palvelut: 'Asuntojenmyynti.fi, Sähkövertailu.fi, Neliöhinta.fi, Remonttilinkki.fi, Vertaaensin.fi'.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista, Google-arvosteluista tai muusta riippumattomasta arviolähteestä millään ladatulla sivulla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla.",
+  "email_esilla": "Tietosuojaseloste: 'Yhteystiedot tietosuoja-asioissa: info(at)asuntojenmyynti.fi' (Effortian yhteinen tietosuojasähköposti).",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä UKK-osiota ei löytynyt miltään ladatulta sivulta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

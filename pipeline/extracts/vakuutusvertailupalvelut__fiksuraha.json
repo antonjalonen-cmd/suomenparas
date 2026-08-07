@@ -1,0 +1,47 @@
+{
+ "slug": "fiksuraha",
+ "fetched_ok": [
+  "https://fiksuraha.fi/vakuutukset/",
+  "https://fiksuraha.fi/tietoa-meista/",
+  "https://fiksuraha.fi/tietosuojaseloste/"
+ ],
+ "tarjoukset_ilman_yhteystietoja": "ei",
+ "ansaintamalli_kerrottu": "kylla",
+ "kattavuus_kerrottu": "kylla",
+ "yhtiot_listattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 76, "hintojen_loydettavyys": 38, "sisallon_kattavuus": 70},
+ "vahvuudet": [
+  "Ansaintamalli on ilmoitettu näkyvästi joka sivun yläreunassa: 'Sivustomme voi sisältää affiliate-linkkejä. Lue lisää →' — ei piilotettu alatunnisteeseen kuten useimmilla muilla mitatuilla sivustoilla",
+  "Nimeää konkreettiset vakuutusyhtiöt kilpailutusohjeessaan: 'Pyydä tarjous 2-3 kilpailevalta yhtiöltä (If, LähiTapiola, OP (Pohjola), Fennia, Turva)' ja laskee havainnollisen esimerkin kilpailutuksen säästöstä (10-25%%, taulukko euromäärin)",
+  "Vertaa vakuutuksia -sisältö on osa laajempaa henkilökohtaisen talouden sivustoa (lainat, luottokortit, sijoittaminen, sähkösopimukset, puhelinliittymät), ja sivu ohjaa lukijan myös FINE:n (Vakuutus- ja rahoitusneuvonnan) puolueettomaan vertailutyökaluun"
+ ],
+ "kehityskohteet": [
+  "Sisältö on kokonaan opastekstiä eikä sisällä yhtään näkyvää hintatarjousta tai vertailutaulukkoa omilta sivuiltaan — käyttäjä ohjataan pyytämään tarjoukset itse suoraan vakuutusyhtiöiltä",
+  "Omistavaa yhtiötä ei löydy sivustolta: 'Tietoa meistä' -sivulla kerrotaan vain 'Kotipaikka: Helsinki, Suomi' ja sähköposti, ei Y-tunnusta eikä yhtiön virallista nimeä",
+  "Puhelinnumeroa tai chat-tukea ei ole; ainoa yhteydenottotapa on sähköposti"
+ ],
+ "yhteenveto": "FiksuRaha.fi on suomalainen henkilökohtaisen talouden opas- ja vertailusivusto, jonka vakuutusosio antaa konkreettisia neuvoja ja nimeää oikeita vakuutusyhtiöitä (If, LähiTapiola, OP, Fennia, Turva) mutta ei näytä omia hintavertailuja. Affiliate-ansaintamalli on ilmoitettu näkyvästi joka sivulla, mikä erottaa sen useimmista muista mitatuista palveluista, mutta Y-tunnusta tai yhtiön nimeä ei löydy sivustolta.",
+ "evidence": {
+  "tarjoukset_ilman_yhteystietoja": "HAVAINTO: /vakuutukset/-sivu on kokonaan opastekstiä; ei yhtään näkyvää euromääräistä tarjousta tai vertailutaulukkoa suoraan sivun omasta sisällöstä. Sivu neuvoo: 'Pyydä tarjous 2-3 kilpailevalta yhtiöltä.'",
+  "ansaintamalli_kerrottu": "Joka sivun yläpalkissa: 'Sivustomme voi sisältää affiliate-linkkejä. Lue lisää →'.",
+  "kattavuus_kerrottu": "/vakuutukset/-sivu selittää menetelmän: listaa nykyiset vakuutukset, pyydä tarjous 2-3 yhtiöltä, vertaa korvaussummia/omavastuita/erityisehtoja, laskee esimerkkitaulukon säästöstä (1500-3000 €/v pohjalta 10%% ja 20%% säästöillä).",
+  "yhtiot_listattu": "/vakuutukset/-sivu: 'Pyydä tarjous 2-3 kilpailevalta yhtiöltä (If, LähiTapiola, OP (Pohjola), Fennia, Turva).'",
+  "y_tunnus_esilla": "HAVAINTO: 'Tietoa meistä' -sivu: 'Yhteystiedot. Sivusto: FiksuRaha.fi. Kotipaikka: Helsinki, Suomi. Sähköposti: [sähköposti].' Ei Y-tunnusta eikä yhtiön nimeä (esim. 'Oy') millään ladatulla sivulla.",
+  "riippumaton_arvio": "HAVAINTO: Sivu mainitsee 'FINE:n vakuutusvertailu on hyvä työkalu aloittamiseen — se on Vakuutus- ja rahoitusneuvonnan puolueeton palvelu', mutta tämä on suositus käyttää ULKOISTA riippumatonta palvelua, ei FiksuRahan oman sisällön riippumaton todentaminen (esim. Trustpilot-arvosana omalle sivustolle puuttuu).",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla.",
+  "email_esilla": "'Tietoa meistä' -sivu: 'Sähköposti: [sähköposti]'.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "/vakuutukset/-sivulla 'Usein kysytyt kysymykset' -osio, esim. 'Tarvitsenko matkavakuutuksen jos minulla on luottokortti?'.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

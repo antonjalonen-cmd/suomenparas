@@ -1,0 +1,47 @@
+{
+ "slug": "vakuutus-fi",
+ "fetched_ok": [
+  "https://www.vakuutus.fi/",
+  "https://www.vakuutus.fi/autovakuutus",
+  "https://www.vakuutus.fi/tietosuojaseloste"
+ ],
+ "tarjoukset_ilman_yhteystietoja": "ei",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "yhtiot_listattu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 42, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 35},
+ "vahvuudet": [
+  "Kattaa poikkeuksellisen monta vakuutuslajia yhdellä sivustolla: autovakuutus, henkivakuutus, hevosvakuutus, kissavakuutus, koiravakuutus, kotivakuutus, lainaturvavakuutus, matkavakuutus, moottorikelkan/moottoripyörän vakuutus, uhkapeliesto, sairaus-, tapaturma-, vene- ja vuokranantajan vakuutus sekä yritysvakuutus",
+  "Aihekohtaiset sivut (esim. autovakuutus) selittävät pakollisen liikennevakuutuksen ja vapaaehtoisen kaskon eron ymmärrettävästi",
+  "Sähköpostiyhteys on esillä sivun alatunnisteessa"
+ ],
+ "kehityskohteet": [
+  "Sivu on kauttaaltaan opas-/artikkelisisältöä eikä sisällä yhtään näkyvää hintaa, tarjousta tai vertailutaulukkoa millään ladatulla sivulla",
+  "Rekisterinpitäjäksi ilmoitetaan tietosuojaselosteessa maltalainen 'Tumes Media Ltd', osoite Valley Towers, Suite 5, Valley Road, Malta — ei suomalaista Y-tunnusta eikä maltalaista rekisterinumeroa näy sivustolla",
+  "Vertailussa mukana olevia vakuutusyhtiöitä ei nimetä eikä ansaintamallia (esim. affiliate-komissiot) kerrota; tietosuojaseloste mainitsee vain yleisen kolmansien osapuolten tiedonjaon markkinointitarkoituksiin"
+ ],
+ "yhteenveto": "Vakuutus.fi on maltalaisen Tumes Media Ltd:n ylläpitämä suomenkielinen sisältösivusto vakuutusaiheista. Se kattaa poikkeuksellisen laajan vakuutuslajivalikoiman opastekstein, mutta ei sisällä yhtään näkyvää hintaa, tarjousta tai nimettyä vakuutusyhtiötä millään ladatulla sivulla, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "tarjoukset_ilman_yhteystietoja": "HAVAINTO: Autovakuutus-sivulla ja etusivulla ei esiinny yhtään euromääräistä hintaa, tarjousta tai vertailutaulukkoa — sisältö on kokonaan selittävää opastekstiä ('Autovakuutus koostuu pakollisesta liikennevakuutuksesta sekä vapaaehtoisesta kaskosta...').",
+  "ansaintamalli_kerrottu": "HAVAINTO: Tietosuojaseloste kuvaa vain yleistä tiedonkäsittelyä ('Analysoida kerättyä dataa... Kohdistaa markkinointia') ja kolmansien osapuolten kanssa jaettavaa dataa; komissioita tai kaupallista mallia ei mainita erikseen.",
+  "kattavuus_kerrottu": "HAVAINTO: Mitään vertailun kattavuutta, rajauksia tai menetelmää ei kuvata millään ladatulla sivulla — sisältö on aihekohtaisia oppaita, ei vertailua.",
+  "yhtiot_listattu": "HAVAINTO: Yhtään vakuutusyhtiön nimeä (If, LähiTapiola, Pohjola, Fennia jne.) ei esiinny etusivulla tai autovakuutus-sivulla.",
+  "y_tunnus_esilla": "Tietosuojaseloste: 'Data controller Tumes Media Ltd, osoitteessa Valley Towers, Suite 5, Valley Road, Malta, on pääasiallisesti vastuussa tietojen keräämisestä.' Ei suomalaista Y-tunnusta eikä maltalaista rekisterinumeroa (esim. C-alkuista) näy sivulla.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista, Google-arvosteluista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla.",
+  "email_esilla": "Etusivun alatunniste: '©2026 Vakuutus.fi | Kaikki oikeudet pidetään | Tietosuojaseloste. Yhteys: [sähköposti]'.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita — sivustolla ei ole puhelinpalvelua.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt miltään ladatulta sivulta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

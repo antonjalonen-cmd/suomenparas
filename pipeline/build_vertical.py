@@ -120,6 +120,12 @@ MEASURED = {
     "lomamokkivuokraus": "4.8.2026",
     # erä 20
     "autotarvikkeet-verkossa": "4.8.2026",
+    # erä 21
+    "vakuutusvertailupalvelut": "5.8.2026",
+    "lentovertailupalvelut": "5.8.2026",
+    "matka-ja-hotellivertailut": "5.8.2026",
+    "hintavertailupalvelut": "5.8.2026",
+    "puhelinliittymavertailu": "5.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

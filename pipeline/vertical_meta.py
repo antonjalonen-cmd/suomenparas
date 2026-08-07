@@ -2028,3 +2028,109 @@ META["autotarvikkeet-verkossa"] = {
          "Kategoria mittaa vain autoilu- ja MP-osiota."),
     ],
 }
+
+# ---------------------------------------------------------------- era 21 (5.8.2026)
+# "vertailemme vertailijat" -kaava toisena versiona (sähkövertailupalvelut oli
+# ensimmäinen). Mitataan vertailu-/kilpailutuspalvelun omaa läpinäkyvyyttä, ei
+# vakuutusten hintoja.
+META["vakuutusvertailupalvelut"] = {
+    "slug": "vakuutusvertailupalvelut",
+    "nimi": "Vakuutusvertailupalvelut",
+    "nav": "Vakuutusvertailu",
+    "h1": "Suomen paras vakuutusvertailupalvelu 2026",
+    "yksikko": "vakuutusten kilpailutus- ja vertailupalvelua",
+    "lead": ("Kilpailutuspalvelut vertailevat vakuutusyhtiöitä — me vertailemme kilpailuttajat. "
+             "Pisteytimme {n} suomalaista vakuutusvertailupalvelua {m} mittarilla. Tärkein kysymys: "
+             "näetkö tarjoukset ilman henkilötietojasi — ja kerrotaanko, kuka palvelun takana on ja "
+             "miten se tienaa?"),
+    "meta_title": "Suomen paras vakuutusvertailupalvelu 2026 — kilpailuttajat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista vakuutusten kilpailutuspalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Vain yksi palvelu näyttää tarjoukset ilman rekisteröitymistä.</b> Valitse Vakuutus "
+         "(Sonodo) vertailee 9 nimettyä vakuutusyhtiötä suoraan etusivulla eikä kerää "
+         "henkilötietoja. Vakuutustenvertailu.fi (Effortia Oy) vaatii vertailun näkemiseksi "
+         "henkilötunnuksen — enemmän kuin pelkät yhteystiedot. Vakuutus.fi, Vakuutusinfo.fi ja "
+         "FiksuRaha.fi ovat opassivustoja, joilla ei ole omaa hintavertailutaulukkoa lainkaan; "
+         "Vakuutusinfo.fi:n \"säästölaskuri\" laskee vain käyttäjän itse syöttämien lukujen "
+         "erotuksen, ei oikeita tarjouksia."),
+        ("<b>Sama omistaja kahdessa eri kategoriassa, ei kahteen kertaan samassa.</b> Effortia Oy "
+         "omistaa sekä Vakuutustenvertailu.fi:n (tässä kategoriassa) että Sähkövertailu.fi:n ja "
+         "VertaaEnsinin sähkövertailupalvelut-kategoriassa — eri tuote, eri vertikaali, sama "
+         "läpinäkyvyyskäytäntö sivustolla muualla: samaa yhtiötä ei koskaan pisteytetä kahdesti "
+         "SAMASSA kategoriassa (ks. autotarvikkeet-verkossa, josta EU Varaosat karsittiin, koska "
+         "se osoittautui samaksi yhtiöksi kuin Autodoc)."),
+        ("<b>Y-tunnusta ei näy neljällä viidestä.</b> Vain Vakuutustenvertailu.fi (Effortia Oy, "
+         "2261132-0) ilmoittaa Y-tunnuksensa suoraan. Vakuutus.fi:n rekisterinpitäjäksi ilmoitetaan "
+         "maltalainen Tumes Media Ltd; Vakuutusinfo.fi:ltä ja FiksuRaha.fi:ltä ei löydy omistavan "
+         "yhtiön nimeä lainkaan, ei edes \"Oy\"-päätteistä nimeä. Kilpailutuspalvelu elää "
+         "komissioista eikä se tee palvelusta huonoa, mutta se tekee läpinäkyvyydestä tärkeää. "
+         "Emme vertaile vakuutusten hintoja emmekä suosittele sopimuksia."),
+    ],
+}
+
+# ---------------------------------------------------------------- era 21 (5.8.2026)
+META["lentovertailupalvelut"] = {
+    "slug": "lentovertailupalvelut",
+    "nimi": "Lentovertailupalvelut",
+    "nav": "Lentovertailu",
+    "h1": "Suomen paras lentojen hintavertailupalvelu 2026",
+    "yksikko": "lentojen hakukonetta",
+    "lead": ("Lentohakukoneet vertailevat sadoittain lentoyhtiöitä ja matkatoimistoja kerralla. "
+             "Pisteytimme {n} Suomessa käytettyä lentojen hintavertailupalvelua {m} mittarilla. "
+             "Tärkein kysymys: näetkö lopullisen kokonaishinnan hakutuloksessa, vai paljastuvatko "
+             "lisämaksut vasta varaussivulla?"),
+    "meta_title": "Suomen paras lentojen hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} lentojen hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [],
+}
+
+# ---------------------------------------------------------------- era 21 (5.8.2026)
+META["matka-ja-hotellivertailut"] = {
+    "slug": "matka-ja-hotellivertailut",
+    "nimi": "Matka- ja hotellivertailut",
+    "nav": "Hotellivertailu",
+    "h1": "Suomen paras hotellien hintavertailupalvelu 2026",
+    "yksikko": "hotellien hintavertailupalvelua",
+    "lead": ("Hotellien metahakukoneet keräävät hinnat kymmeniltä eri varaussivustoilta yhteen "
+             "näkymään. Pisteytimme {n} Suomessa käytettyä hotellihakukonetta {m} mittarilla. "
+             "Tärkein kysymys: näetkö kokonaishinnan verottomine kuluineen, vai pitääkö klikata "
+             "kumppanisivustolle nähdäksesi lopullisen hinnan?"),
+    "meta_title": "Suomen paras hotellien hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} hotellien hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [],
+}
+
+# ---------------------------------------------------------------- era 21 (5.8.2026)
+META["hintavertailupalvelut"] = {
+    "slug": "hintavertailupalvelut",
+    "nimi": "Hintavertailupalvelut",
+    "nav": "Hintavertailu",
+    "h1": "Suomen paras tuotteiden hintavertailupalvelu 2026",
+    "yksikko": "tuotteiden hintavertailupalvelua",
+    "lead": ("Hintavertailusivustot kokoavat satojentuhansien verkkokauppojen hinnat yhteen "
+             "hakuun. Pisteytimme {n} suomalaista hintavertailupalvelua {m} mittarilla. Tärkein "
+             "kysymys: näetkö hinnan mukana toimituskulut, vai vertaatko lopulta väärää lukua?"),
+    "meta_title": "Suomen paras tuotteiden hintavertailupalvelu 2026 — vertailusivustot pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} tuotteiden hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [],
+}
+
+# ---------------------------------------------------------------- era 21 (5.8.2026)
+META["puhelinliittymavertailu"] = {
+    "slug": "puhelinliittymavertailu",
+    "nimi": "Puhelinliittymävertailu",
+    "nav": "Liittymävertailu",
+    "h1": "Suomen paras puhelinliittymien vertailupalvelu 2026",
+    "yksikko": "puhelinliittymien vertailupalvelua",
+    "lead": ("Kilpailutuspalvelut vertailevat operaattoreita — me vertailemme kilpailuttajat. "
+             "Pisteytimme {n} suomalaista puhelinliittymien vertailupalvelua {m} mittarilla. "
+             "Tärkein kysymys: näetkö kuukausihinnan heti, vai pitääkö täyttää lomake ensin?"),
+    "meta_title": "Suomen paras puhelinliittymien vertailupalvelu 2026 — kilpailuttajat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} suomalaista puhelinliittymien kilpailutuspalvelua pisteytetty läpinäkyvällä "
+                  "kaavalla. Katso mistä jokainen piste tulee."),
+    "notes": [],
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "vakuutusinfo",
+ "fetched_ok": [
+  "https://vakuutusinfo.fi/",
+  "https://vakuutusinfo.fi/kilpailuta-vakuutus/",
+  "https://vakuutusinfo.fi/yritys-tyo/"
+ ],
+ "tarjoukset_ilman_yhteystietoja": "ei",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "yhtiot_listattu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 50, "hintojen_loydettavyys": 12, "sisallon_kattavuus": 44},
+ "vahvuudet": [
+  "Laaja aihevalikoima vasemman laidan valikossa: ajoneuvot, koti ja rakentaminen, matkustaminen, yritys ja työ, eläimet ja lemmikit, terveys ja hyvinvointi, urheilu ja harrastukset, vakuutusyhtiöt",
+  "Kilpailuta vakuutus -sivulla on interaktiivinen säästölaskuri, joka näyttää havainnollisesti kilpailuttamisen potentiaalisen hyödyn",
+  "Sivulla on kattava usein kysytyt kysymykset -osio ja useita oppaita kilpailuttamisen virheistä ja parhaista käytännöistä"
+ ],
+ "kehityskohteet": [
+  "Säästölaskuri ei näytä oikeita vakuutustarjouksia — käyttäjä syöttää itse sekä nykyisen maksunsa että kuvitteellisen 'parhaan uuden tarjouksen', joten se on yleinen laskin, ei todellinen hintavertailu",
+  "Omistavaa yhtiötä ei löydy sivustolta lainkaan: ei Y-tunnusta, ei Oy-nimeä, ei yhteystietosivua millään ladatulla sivulla — ainoa yhteydenottotapa on JavaScript-uutiskirjelomake",
+  "Yhtään vakuutusyhtiön nimeä tai ansaintamallin kuvausta ei löydy; sisarsivustoina linkitetty joustoluottoja.fi ja rahoituslaitos.fi viittaavat laajempaan lainanvälitys-/liidiverkostoon"
+ ],
+ "yhteenveto": "Vakuutusinfo.fi on laaja opas- ja artikkelisivusto vakuutusaiheista, jolla on 'kilpailuta vakuutus' -brändäys mutta ei todellista hintavertailutoimintoa: säästölaskuri perustuu käyttäjän itse syöttämiin lukuihin, ei oikeisiin tarjouksiin. Omistavaa yhtiötä, Y-tunnusta tai vakuutusyhtiöpaneelia ei löydy sivustolta lainkaan, eikä puhelinta, sähköpostia tai chattia ole näkyvillä.",
+ "evidence": {
+  "tarjoukset_ilman_yhteystietoja": "HAVAINTO: /kilpailuta-vakuutus/ -sivun laskuri kysyy vain 'Nykyinen vuosimaksusi (€)' ja 'Paras uusi tarjous (€)' — käyttäjä syöttää molemmat luvut itse. Sivu itse varoittaa: 'Huomioithan, että laskurin antamat säästöt ovat arvioita.' Todellisia vakuutusyhtiöiden hintoja ei näy.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia tai komissioita ei mainita millään ladatulla sivulla.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta tai menetelmää ei kuvata; sisältö on yleisiä oppaita ('Yleisimmät virheet vakuutuksia kilpailutettaessa ja miten vältät ne').",
+  "yhtiot_listattu": "HAVAINTO: Etusivun valikossa on linkki 'Halvin vakuutusyhtiö', mutta yhtään vakuutusyhtiön nimeä ei esiinny etusivulla, kilpailuta-vakuutus-sivulla tai yritys-tyo-sivulla.",
+  "y_tunnus_esilla": "HAVAINTO: Koko etusivun raakateksti (339 000 merkkiä HTML:ää) tarkistettu suoraan regexillä Y-tunnus-muodolle (7 numeroa-viiva-numero) ja sanalle 'Oy' — kumpikaan ei osu kertaakaan.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla.",
+  "email_esilla": "HAVAINTO: Ainoa yhteydenottokeino on uutiskirjelomake ('Tilaa Uutiskirje. Email. Lähetä. Please enable JavaScript in your browser to submit the form'), ei suoraa sähköpostiosoitetta.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Kilpailuta vakuutus -sivun sisällysluettelossa: 'Mitä vakuutusten vertailussa kannattaa huomioida?', 'Yleisimmät virheet vakuutuksia kilpailutettaessa ja miten vältät ne', 'Usein kysytyt kysymykset'.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

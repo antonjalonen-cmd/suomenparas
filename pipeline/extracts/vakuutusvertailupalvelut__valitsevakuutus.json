@@ -1,0 +1,49 @@
+{
+ "slug": "valitsevakuutus",
+ "fetched_ok": [
+  "https://valitsevakuutus.fi/",
+  "https://valitsevakuutus.fi/menetelma",
+  "https://valitsevakuutus.fi/vakuutusyhtiot",
+  "https://valitsevakuutus.fi/tietosuoja",
+  "https://valitsevakuutus.fi/yhteystiedot"
+ ],
+ "tarjoukset_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "kylla",
+ "kattavuus_kerrottu": "kylla",
+ "yhtiot_listattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 84, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 88},
+ "vahvuudet": [
+  "Ainoana kaikista mitatuista palveluista julkaisee erillisen Menetelmä-sivun, jolla kerrotaan tarkasti datalähteet, päivitystiheys ja kaupalliset suhteet: 'Saamme korvauksen, kun käyttäjä siirtyy vertailusta kumppaniyhtiölle ja pyytää tarjouksen tai solmii vakuutuksen. Korvauksen taso ei muuta järjestystä'",
+  "Vertailussa mukana olevat 9 vakuutusyhtiötä on nimetty ja kuvattu yksitellen omalla sivullaan (mm. Pohjola/OP, LähiTapiola) markkinaosuuksineen, perustamisvuosineen ja asiakasmäärineen",
+  "Ainoa mitattu asiakastyytyväisyysluku perustuu riippumattomaan EPSI Rating Finland -tutkimukseen, joka on erikseen mainittu vaihtoehtoisena lajitteluperusteena; muut toimitukselliset arviot on erikseen merkitty ei-mitatuiksi"
+ ],
+ "kehityskohteet": [
+  "Y-tunnusta tai muuta virallista yritystunnistetta ei näy sivustolla; ylläpitäjäksi ilmoitetaan vain 'Sonodo (toiminimi), Helsinki, Suomi' ilman rekisterinumeroa",
+  "Puhelinnumeroa tai aukioloaikoja ei ole; ainoa yhteydenottotapa on sähköposti ja lomake, jonka sivu itse ilmoittaa olevan vielä tulossa ('Yhteydenottolomake tulossa pian')",
+  "Hinta-arviot on tarkistettu käsin keväällä 2026 ja sivu itse toteaa niiden olevan suuntaa-antavia — ei reaaliaikaista hintadataa"
+ ],
+ "yhteenveto": "Valitse Vakuutus (Sonodo) on suomalainen vakuutusvertailupalvelu, joka erottuu selvästi muista mitatuista palveluista avoimuudellaan: erillinen Menetelmä-sivu kertoo datalähteet ja kaupallisen ansaintamallin yksityiskohtaisesti, 9 vertailtavaa vakuutusyhtiötä on nimetty ja kuvattu, jaainoana mittarina käytetään riippumatonta EPSI Rating -asiakastyytyväisyyttä. Puutteina ovat Y-tunnuksen puuttuminen sivustolta ja puhelinpalvelun/aukioloaikojen puute.",
+ "evidence": {
+  "tarjoukset_ilman_yhteystietoja": "Etusivulla suoraan ilman kirjautumista: '9 vakuutusyhtiötä, 7 vakuutuslajia, 100% ilmainen. Valitse Vakuutus vertailee 9 suomalaisen vakuutusyhtiön 7 vakuutuslajia... Oletusjärjestys on tuotteen hinta-arvio, edullisimmasta kalleimpaan.' Tietosuojasivu vahvistaa: 'Valitse Vakuutus on suunniteltu toimimaan ilman henkilötietojen keräämistä.'",
+  "ansaintamalli_kerrottu": "Menetelmä-sivun 'Kaupalliset suhteet' -osio: 'Toimintamme rahoitetaan vakuutusyhtiöiden kanssa solmituilla yhteistyösopimuksilla, mutta yhteistyö ei vaikuta sijoituksiin vertailussa... Saamme korvauksen, kun käyttäjä siirtyy vertailusta kumppaniyhtiölle ja pyytää tarjouksen tai solmii vakuutuksen.'",
+  "kattavuus_kerrottu": "Menetelmä-sivu: 'Vertailu järjestetään oletuksena tuotteen hinta-arvion mukaan... Voit vaihtaa lajitteluperusteeksi asiakastyytyväisyyden (EPSI Rating), markkinaosuuden tai arvosanan.' Datalähteet-osio listaa EPSI Rating Finland ja Finanssivalvonta (FiVa) lähteinä päivitystiheyksineen.",
+  "yhtiot_listattu": "Sivulla /vakuutusyhtiot: 'Vertailemme 9 Suomen suurinta vakuutusyhtiötä.' Ensimmäisinä nimettyinä Pohjola Vakuutus (OP) markkinaosuus 32,6%% ja LähiTapiola markkinaosuus 26,4%%, kummallakin oma kuvaus, tyytyväisyysluku ja asiakasmäärä.",
+  "y_tunnus_esilla": "HAVAINTO: Tietosuojasivulla rekisterinpitäjäksi ilmoitetaan 'Sonodo (toiminimi), Helsinki, Suomi' ilman Y-tunnusta tai muuta rekisterinumeroa. PRH-haku nimellä 'Sonodo' löytää erillisen 'Sonodo Oy' (2887416-4) -yhtiön, mutta sivusto ei itse ilmoita tätä numeroa eikä yhteyttä voi vahvistaa sivun perusteella.",
+  "riippumaton_arvio": "Menetelmä-sivu: 'EPSI Rating Finland — Vakuutus. Riippumaton asiakastyytyväisyystutkimus suomalaisten vakuutusyhtiöiden asiakkaiden parista. Ainoa mitattu asiakastyytyväisyysluku, jonka näytämme.'",
+  "puhelin_esilla": "HAVAINTO: Yhteystiedot-sivulla ei näy puhelinnumeroa, vain 'Yhteydenottolomake tulossa pian' ja maininta sähköpostiyhteydestä.",
+  "email_esilla": "Yhteystiedot-sivu: 'Kysymykset palvelustamme, vertailustamme tai vakuutuksista yleisesti? Lähetä meille sähköpostia.'",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista millään ladatulla sivulla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita; palvelu on verkkosivusto ilman puhelinpalvelua.",
+  "ukk_osio": "Etusivulla ja alavalikossa 'Oppaat'-osio vastaa yleisimpiin vakuutusten kilpailutusta koskeviin kysymyksiin.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita millään ladatulla sivulla."
+ },
+ "updated": "2026-08-05"
+}

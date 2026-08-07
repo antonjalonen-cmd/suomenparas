@@ -274,6 +274,16 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
     ],
+    # Sama "vertailemme vertailijat" -kaava kuin sähkövertailupalvelut, tuotettu
+    # vakuutuksille 5.8.2026.
+    "vakuutusvertailupalvelut": [
+        ("tarjoukset_ilman_yhteystietoja", "Vakuutustarjoukset/hinta-arviot näkyvät ilman yhteystietoja", 30),
+        ("ansaintamalli_kerrottu", "Ansaintamalli (komissiot) kerrottu avoimesti", 20),
+        ("kattavuus_kerrottu", "Vertailun kattavuus ja rajaukset kerrottu", 15),
+        ("yhtiot_listattu", "Vertailussa mukana olevat vakuutusyhtiöt listattu", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
     # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
     # does the company tell you the price before you hand over your data?
     "autokatsastus": [
