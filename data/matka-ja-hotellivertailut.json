@@ -1,0 +1,888 @@
+{
+ "slug": "matka-ja-hotellivertailut",
+ "nimi": "Matka- ja hotellivertailut",
+ "nav": "Hotellivertailu",
+ "h1": "Suomen paras hotellien hintavertailupalvelu 2026",
+ "yksikko": "hotellien hintavertailupalvelua",
+ "lead": "Hotellien metahakukoneet keräävät hinnat kymmeniltä eri varaussivustoilta yhteen näkymään. Pisteytimme {n} Suomessa käytettyä hotellien vertailupalvelua {m} mittarilla. Tärkein kysymys: näetkö kokonaishinnan veroineen ja kuluineen, vai pitääkö klikata kumppanisivustolle nähdäksesi lopullisen hinnan?",
+ "meta_title": "Suomen paras hotellien hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
+ "meta_desc": "4 hotellien hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Nimi \"hintavertailu\" ei aina tarkoita, että useita sivustoja vertaillaan.</b> Matkailijat.net:in hotellien \"hintavertailu\" on sivun oman ilmoituksen mukaan toteutettu yhteistyössä yhden ainoan kumppanin, Booking.comin, kanssa — se ei siis vertaa varaussivustoja keskenään, vaikka nimi antaa ymmärtää niin. trivago ja hotellit.fi puolestaan kokoavat hintoja kymmeniltä tai sadoilta sivustoilta.",
+  "<b>Voittaja on artikkelisivusto, ei hakukone.</b> Hotellitvertailu.fi ei tarjoa reaaliaikaista hintahakua — se on kokoelma hotellikohtaisia arviointiartikkeleita. Se voitti silti, koska se on ainoa, joka selittää avoimesti sekä ansaintamallinsa (\"saamme pienen komission, kun teet varauksen näiden linkkien kautta\") että arviointimenetelmänsä omalla sivullaan — täsmälleen sama läpinäkyvyysero, joka erotti Valitse Vakuutuksen muista vakuutusvertailupalvelut-kategoriassa.",
+  "Yhdeltäkään neljästä palvelusta ei löydy suomalaista Y-tunnusta niiden omilta sivuilta. trivago.fi:n taustalla on julkisesti noteerattu trivago N.V. (Nasdaq: TRVG, enemmistöomistaja Expedia Group). Emme suosittele yksittäisiä hotelleja emmekä vertaile todellisia huonehintoja — mittaamme vertailupalvelujen omaa avoimuutta."
+ ],
+ "yritykset": [
+  {
+   "slug": "hotellitvertailu",
+   "nimi": "Hotellitvertailu.fi",
+   "domain": "hotellitvertailu.fi",
+   "omistaja": "Ei Y-tunnusta tai yhtiön nimeä yhteystietosivulla; sähköposti info@hotellitvertailu.fi; sivusto ilmoittaa avoimesti oman affiliate-ansaintamallinsa erillisellä sivulla ja selittää arviointimenetelmänsä",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 53.4,
+   "pillars": {
+    "digitaalinen": 96.4,
+    "lapinakyvyys": 37.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 50.9
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "100/100",
+       "paino": 40,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto ei tarjoa hakukonetta jossa näkyisi reaaliaikainen kokonaishinta; sisältö on artikkelimuotoista hotellikohtaista arviointia ja yleisiä tunnuslukuja ('Keskim. yöhinta €142')."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun tunnusluvut ('Keskim. yöhinta €142, Käyttöaste 74 %, Arvostelukeskiarvo 8,7') antavat yleiskuvan, mutta tarkkaa lukumäärää arvioiduista hotelleista tai lähteistä ei kerrota selkeästi."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Affiliate-ilmoitus-sivu: 'Muistathan, että käytämme affiliate-linkkejä, joten saamme pienen komission, kun teet varauksen näiden linkkien kautta. Tämä ei vaikuta hintoihisi, mutta auttaa meitä ylläpitämään sivustoamme.'"
+      },
+      {
+       "mittari": "Arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite)",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Erillinen sivu 'Miten arvioimme hotelleja': 'Arvioimme hotelleja eri kriteerien perusteella, kuten sijainti, hinta, mukavuudet ja asiakasarvostelut... Huomioimme myös sesonkivaihtelut ja kohteen kontekstin.'"
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Yhteystiedot-sivulla ei näy Y-tunnusta eikä yhtiön virallista nimeä, vain sähköpostiosoite."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä; sivuston omat arvostelupisteet (esim. 'Arvostelukeskiarvo 8,7') ovat sivuston itsensä laatimia, ei ulkopuolisen tahon."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Affiliate-ilmoitus-sivu: 'ota rohkeasti yhteyttä sähköpostitse osoitteeseen info@hotellitvertailu.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä nimettyä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 100,
+    "accessibility": 92,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 1537.507,
+    "cls": 0,
+    "tbt_ms": 3
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ansaintamalli kerrotaan avoimesti ja selkeästi omalla sivullaan: 'Muistathan, että käytämme affiliate-linkkejä, joten saamme pienen komission, kun teet varauksen näiden linkkien kautta. Tämä ei vaikuta hintoihisi'",
+    "Erillinen 'Miten arvioimme hotelleja' -sivu selittää arviointikriteerit (sijainti, hinta, mukavuudet, asiakasarvostelut, sesonkivaihtelut) — samantyyppinen menetelmäsivu kuin Valitse Vakuutuksella vakuutusvertailupalvelut-kategoriassa",
+    "Sähköpostiyhteys on selkeästi esillä: info@hotellitvertailu.fi, ja sivustolla on kattava valikoima hotellikohtaisia arviointiartikkeleita eri kategorioissa (luksus, budjetti)"
+   ],
+   "kehityskohteet": [
+    "Sivusto on rakenteeltaan artikkeli-/opaskokoelma yksittäisistä hotelleista, ei reaaliaikainen hakukone; sivun omat tunnusluvut ('Keskim. yöhinta €142') ovat yleisiä tilastoja, ei henkilökohtaisen haun tulos",
+    "Ei Y-tunnusta tai yhtiön virallista nimeä yhteystietosivulla, vain sähköpostiosoite",
+    "Ei riippumatonta arviolähdettä (esim. Trustpilot); omat arvostelut ja pisteet ovat sivuston itsensä laatimia"
+   ],
+   "yhteenveto": "Hotellitvertailu.fi on suomenkielinen hotelliopas- ja arviointisivusto, joka poikkeaa muista mitatuista palveluista avoimuudellaan: se kertoo affiliate-ansaintamallinsa suoraan ja selittää arviointimenetelmänsä erillisellä sivulla, samaan tapaan kuin Valitse Vakuutus vakuutusvertailupalvelut-kategoriassa. Sivusto on kuitenkin rakenteeltaan artikkelikokoelma yksittäisistä hotelleista, ei reaaliaikainen hintahakukone, eikä Y-tunnusta löydy sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "trivago",
+   "nimi": "trivago",
+   "domain": "trivago.fi",
+   "omistaja": "trivago N.V. (Alankomaat) ja sen tytäryhtiöt (sivun oma tietosuojailmoitus); julkisesti noteerattu (Nasdaq: TRVG), enemmistöomistaja Expedia Group; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 41.8,
+   "pillars": {
+    "digitaalinen": 65.8,
+    "lapinakyvyys": 30.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 55.5
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "33/100",
+       "paino": 40,
+       "pisteet": 33,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "69/100",
+       "paino": 15,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla ilman kirjautumista näkyy: 'Oikotiesi upeisiin tarjouksiin 25 % muita sivustoja halvempi Hotellisivusto 170 € per yö...' Nämä ovat kuitenkin markkinointiesimerkkejä eivätkä todellisen haun tuloksia; ei mainintaa sisältävätkö luvut verot ja palvelumaksut."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Säästä jopa 35% seuraavasta hotelliyöpymisestäsi. Vertailemme hotellihintoja yli 100 sivustolta.' Yhteistyökumppanit-osiossa '+100 lisää'."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata käyttäjälle näkyvässä sisällössä; tietosuojailmoitus mainitsee vain 'trivago N.V:n ja sen tytäryhtiöiden' ylläpitämät sivustot yleisesti."
+      },
+      {
+       "mittari": "Arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojailmoitus: 'Tämä tietosuojailmoitus koskee kaikkia trivago N.V:n ja sen tytäryhtiöiden... ylläpitämiä sivustoja.' trivago N.V. on julkisesti noteerattu (Nasdaq: TRVG), mutta suomalaista Y-tunnusta ei näy sivulla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä ladatuilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun valikkorakenteessa mobiilisovellukseen viittaavia elementtejä; trivagon sovellus on yleisesti tunnettu."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 33,
+    "accessibility": 91,
+    "seo": 100,
+    "best_practices": 69,
+    "lcp_ms": 17205.301379999997,
+    "cls": 0,
+    "tbt_ms": 7317.499999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Etusivu kertoo kattavuuden suoraan lukuina: 'Vertailemme hotellihintoja yli 100 sivustolta', ja yhteistyökumppanien logot ('+100 lisää') näkyvät etusivulla",
+    "Homepagen esimerkkihinnat näyttävät konkreettisia yösummia ja säästöprosentteja ilman kirjautumista (esim. '170 € per yö, 25 % muita sivustoja halvempi'), vaikka nämä ovat markkinointiesimerkkejä eivätkä varsinaisen haun tuloksia",
+    "Mobiilisovellus mainitaan sivuston rakenteessa ja on laajalti tunnettu; palvelu on saatavilla suomeksi ja useilla muilla kielillä"
+   ],
+   "kehityskohteet": [
+    "Homepagen esimerkkihinnat eivät ole todellisia hakutuloksia eivätkä kerro sisältävätkö ne verot ja palvelumaksut; oikea hakutulos vaatisi JavaScript-haun, jota ei voitu vahvistaa staattisesti",
+    "Ansaintamallia (komissiot varaussivustoilta) ei kuvata avoimesti käyttäjälle näkyvässä sisällössä, vain yleinen tietosuojailmoitus mainitsee trivago N.V:n ja sen tytäryhtiöt",
+    "Ei suomalaista Y-tunnusta, ei puhelinnumeroa, sähköpostia tai chat-tukea millään ladatulla sivulla; ei myöskään erillistä arviointi- tai vertailumenetelmän selitystä"
+   ],
+   "yhteenveto": "trivago.fi on hollantilaisen, Nasdaqissa noteeratun trivago N.V:n (enemmistöomistaja Expedia Group) ylläpitämä hotellien metahakukone, joka kokoaa hintoja yli 100 sivustolta. Etusivulla näkyy esimerkkihintoja ilman kirjautumista, mutta ne ovat markkinointiesimerkkejä, ei todellisia hakutuloksia, eikä niiden kokonaishintaisuutta (verot, kulut) voitu vahvistaa. Ansaintamallia, Y-tunnusta tai yhteystietoja ei löydy sivustolta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "hotellit-fi",
+   "nimi": "hotellit.fi",
+   "domain": "hotellit.fi",
+   "omistaja": "Osoite Bulevardi 54, 00120 Helsinki (sivun oma käyttöehtosivu); ei Y-tunnusta, puhelinta, sähköpostia eikä chattia sivustolla; etusivulla paikoin täyttämätöntä placeholder-tekstiä (\"This is paragraph 1 text\")",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 32.9,
+   "pillars": {
+    "digitaalinen": 67.4,
+    "lapinakyvyys": 15.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 25.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "47/100",
+       "paino": 40,
+       "pisteet": 47,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "68/100",
+       "paino": 30,
+       "pisteet": 68,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla on hakulomake mutta ei yhtään näkyvää euromääräistä hintaa staattisessa HTML:ssä; hakutulokset renderöityvät JavaScriptilla."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Etsi - vertaa - varaa hotellit helposti Suomesta ja maailmalta... Yli 160 000 hotellia ympäri maailmaa.'"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehtosivun alalaidassa: 'Copyright © hotellit.fi Bulevardi 54, 00120 Helsinki, Finland.' Ei Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Käyttöehtosivun valikossa mainitaan 'Usein kysyttyjä kysymyksiä' omana kohtanaan."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita millään ladatulla sivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "40/100",
+       "paino": 34,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "12/100",
+       "paino": 33,
+       "pisteet": 12,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "25/100",
+       "paino": 33,
+       "pisteet": 25,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 47,
+    "accessibility": 68,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 8420.211,
+    "cls": 0.028911412775777884,
+    "tbt_ms": 1259.9999999999995
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavuus kerrotaan suoraan lukuna: 'Yli 160 000 hotellia ympäri maailmaa'",
+    "Palvelu lupaa hintatakuun: 'Hintatakuu suojaa lompakkoasi ja tekee hotellihuoneen varaamisesta huolettomampaa'",
+    "Sivusto on saatavilla kymmenillä kielillä (mm. suomi, ruotsi, useita muita) ja käyttöehtosivulla mainitaan erillinen usein kysytyt kysymykset -osio"
+   ],
+   "kehityskohteet": [
+    "Etusivun sisältö on paikoin täyttämätöntä placeholder-tekstiä ('This is paragraph 1 text. View more »'), mikä viittaa keskeneräiseen tai mallipohjalta kopioituun sivustoon",
+    "Sivustolta ei löydy lainkaan Y-tunnusta, puhelinnumeroa, sähköpostia tai chat-tukea; ainoa yhteystieto on osoite 'Bulevardi 54, 00120 Helsinki, Finland' käyttöehtosivun alalaidassa",
+    "Ei näkyvää hintaa staattisessa haussa eikä selitystä ansaintamallista tai vertailumenetelmästä"
+   ],
+   "yhteenveto": "hotellit.fi on suomenkielinen hotellihaku- ja varauspalvelu, joka ilmoittaa kattavansa yli 160 000 hotellia maailmanlaajuisesti hintatakuulla. Sivustolla on Helsingin osoite, mutta ei Y-tunnusta eikä muita yhteystietoja, ja etusivun sisällössä on täyttämätöntä placeholder-tekstiä, joka herättää kysymyksiä sivuston viimeistelyasteesta. Ei näkyvää hintaa staattisessa haussa.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "matkailijat-net",
+   "nimi": "Matkailijat.net (hotellivertailu)",
+   "domain": "matkailijat.net",
+   "omistaja": "Matkailijat.net on suomalainen matkafoorumi; hotellien \"hintavertailu\"-toiminto on sivun oman ilmoituksen mukaan toteutettu yhteistyössä yhden kumppanin, Booking.comin, kanssa — ei siis vertaa useita varaussivustoja keskenään; ei Y-tunnusta sivulla",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 28.4,
+   "pillars": {
+    "digitaalinen": 72.5,
+    "lapinakyvyys": 7.5,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 21.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "83/100",
+       "paino": 40,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "53/100",
+       "paino": 30,
+       "pisteet": 53,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "91/100",
+       "paino": 15,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "65/100",
+       "paino": 15,
+       "pisteet": 65,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla Booking.com-integraation kautta."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailun kattavuutta (kuinka moneen hotelliin tai kaupunkiin haku ulottuu) ei kerrota erikseen; sivu mainitsee vain että hotelleja voi etsiä 'Suomesta, Euroopasta tai mistä tahansa maailmalta'."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivun oma teksti: 'Hotellien hintavertailu on toteutettu yhteistyökumppanimme Booking.comin kanssa.' Tämä kertoo kumppanuuden mutta ei selitä komissiomallia tarkemmin, joten merkitään osittain."
+      },
+      {
+       "mittari": "Arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen yritystunniste esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnusta tai yhtiön nimeä ei löydy sivulta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy sivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy sivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "35/100",
+       "paino": 34,
+       "pisteet": 35,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "10/100",
+       "paino": 33,
+       "pisteet": 10,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 83,
+    "accessibility": 53,
+    "seo": 91,
+    "best_practices": 65,
+    "lcp_ms": 3282.99996,
+    "cls": 0,
+    "tbt_ms": 249.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kertoo suoraan ja rehellisesti, että 'hintavertailu' toteutetaan yhteistyössä yhden nimetyn kumppanin, Booking.comin, kanssa — ei väitä vertaavansa useita varaussivustoja",
+    "Palvelu on osa laajempaa Matkailijat.net-matkailufoorumia, jolla on muutakin sisältöä (matkakertomukset, matkakohteet, matkasää)",
+    "Hakulomake mahdollistaa haun Suomesta, Euroopasta tai mistä tahansa maailmalta"
+   ],
+   "kehityskohteet": [
+    "Sivun oma nimi 'hintavertailu' on harhaanjohtava: sivu itse kertoo, ettei se vertaa useita varaussivustoja keskenään, vaan välittää haun yhdelle kumppanille (Booking.com) — tämä ei ole vertailu tavanomaisessa merkityksessä",
+    "Ei näkyvää hintaa staattisessa haussa, ei kattavuuden kuvausta, ei Y-tunnusta, puhelinta, sähköpostia tai chat-tukea millään ladatulla sivulla",
+    "Sivun merkistökoodaus on rikki (esim. 'yhteisty%kumppanimme' ä/ö-kirjainten sijaan), mikä heikentää luotettavuusvaikutelmaa"
+   ],
+   "yhteenveto": "Matkailijat.net:in 'Hotellien hintavertailu' -toiminto on suomalaisen matkafoorumin osio, joka omalla ilmoituksellaan on toteutettu yhteistyössä yhden kumppanin, Booking.comin, kanssa — se ei siis vertaile useita varaussivustoja keskenään, vaikka nimi antaa ymmärtää niin. Ei näkyvää hintaa, kattavuuden kuvausta, Y-tunnusta tai yhteystietoja millään ladatulla sivulla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "5.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa (30), vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu (15), ansaintamalli (komissiot/affiliate) kerrottu avoimesti (15), arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite) (15), Y-tunnus tai virallinen yritystunniste esillä (10), riippumaton arviolähde esillä (15)"
+}

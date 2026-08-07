@@ -1,0 +1,46 @@
+{
+ "slug": "hotellit-fi",
+ "fetched_ok": [
+  "https://hotellit.fi/",
+  "https://hotellit.fi/docs/terms_of_use.html?lang=fi"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "kattavuus_kerrottu": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "menetelma_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 40, "hintojen_loydettavyys": 12, "sisallon_kattavuus": 25},
+ "vahvuudet": [
+  "Kattavuus kerrotaan suoraan lukuna: 'Yli 160 000 hotellia ympäri maailmaa'",
+  "Palvelu lupaa hintatakuun: 'Hintatakuu suojaa lompakkoasi ja tekee hotellihuoneen varaamisesta huolettomampaa'",
+  "Sivusto on saatavilla kymmenillä kielillä (mm. suomi, ruotsi, useita muita) ja käyttöehtosivulla mainitaan erillinen usein kysytyt kysymykset -osio"
+ ],
+ "kehityskohteet": [
+  "Etusivun sisältö on paikoin täyttämätöntä placeholder-tekstiä ('This is paragraph 1 text. View more »'), mikä viittaa keskeneräiseen tai mallipohjalta kopioituun sivustoon",
+  "Sivustolta ei löydy lainkaan Y-tunnusta, puhelinnumeroa, sähköpostia tai chat-tukea; ainoa yhteystieto on osoite 'Bulevardi 54, 00120 Helsinki, Finland' käyttöehtosivun alalaidassa",
+  "Ei näkyvää hintaa staattisessa haussa eikä selitystä ansaintamallista tai vertailumenetelmästä"
+ ],
+ "yhteenveto": "hotellit.fi on suomenkielinen hotellihaku- ja varauspalvelu, joka ilmoittaa kattavansa yli 160 000 hotellia maailmanlaajuisesti hintatakuulla. Sivustolla on Helsingin osoite, mutta ei Y-tunnusta eikä muita yhteystietoja, ja etusivun sisällössä on täyttämätöntä placeholder-tekstiä, joka herättää kysymyksiä sivuston viimeistelyasteesta. Ei näkyvää hintaa staattisessa haussa.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Etusivulla on hakulomake mutta ei yhtään näkyvää euromääräistä hintaa staattisessa HTML:ssä; hakutulokset renderöityvät JavaScriptilla.",
+  "kattavuus_kerrottu": "Etusivu: 'Etsi - vertaa - varaa hotellit helposti Suomesta ja maailmalta... Yli 160 000 hotellia ympäri maailmaa.'",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata millään ladatulla sivulla.",
+  "menetelma_kerrottu": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt.",
+  "y_tunnus_esilla": "Käyttöehtosivun alalaidassa: 'Copyright © hotellit.fi Bulevardi 54, 00120 Helsinki, Finland.' Ei Y-tunnusta.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy millään ladatulla sivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy millään ladatulla sivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Käyttöehtosivun valikossa mainitaan 'Usein kysyttyjä kysymyksiä' omana kohtanaan.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita millään ladatulla sivulla."
+ },
+ "updated": "2026-08-05"
+}

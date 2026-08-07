@@ -1969,3 +1969,21 @@ COMPANIES["lentovertailupalvelut"] = [
          y_tunnus=None,
          omistaja="Omistavaa yhtiötä ei löydy sivustolta lainkaan: ei Y-tunnusta, ei Oy-nimeä, ei tietosuoja- tai käyttöehtosivua linkitettynä etusivulta"),
 ]
+
+# MATKA- JA HOTELLIVERTAILUT (5.8.2026). kuumat.com/hotellit karsittu:
+# sivu on pelkkä käsin koottu affiliate-linkkilista muihin palveluihin
+# (Hotels.com, Trivago, Momondo, Kayak, Trip.com) — ei tee omaa vertailua.
+COMPANIES["matka-ja-hotellivertailut"] = [
+    dict(slug="trivago", nimi="trivago", domain="trivago.fi",
+         y_tunnus=None,
+         omistaja="trivago N.V. (Alankomaat) ja sen tytäryhtiöt (sivun oma tietosuojailmoitus); julkisesti noteerattu (Nasdaq: TRVG), enemmistöomistaja Expedia Group; ei suomalaista Y-tunnusta"),
+    dict(slug="hotellit-fi", nimi="hotellit.fi", domain="hotellit.fi",
+         y_tunnus=None,
+         omistaja="Osoite Bulevardi 54, 00120 Helsinki (sivun oma käyttöehtosivu); ei Y-tunnusta, puhelinta, sähköpostia eikä chattia sivustolla; etusivulla paikoin täyttämätöntä placeholder-tekstiä (\"This is paragraph 1 text\")"),
+    dict(slug="hotellitvertailu", nimi="Hotellitvertailu.fi", domain="hotellitvertailu.fi",
+         y_tunnus=None,
+         omistaja="Ei Y-tunnusta tai yhtiön nimeä yhteystietosivulla; sähköposti info@hotellitvertailu.fi; sivusto ilmoittaa avoimesti oman affiliate-ansaintamallinsa erillisellä sivulla ja selittää arviointimenetelmänsä"),
+    dict(slug="matkailijat-net", nimi="Matkailijat.net (hotellivertailu)", domain="matkailijat.net",
+         y_tunnus=None,
+         omistaja="Matkailijat.net on suomalainen matkafoorumi; hotellien \"hintavertailu\"-toiminto on sivun oman ilmoituksen mukaan toteutettu yhteistyössä yhden kumppanin, Booking.comin, kanssa — ei siis vertaa useita varaussivustoja keskenään; ei Y-tunnusta sivulla"),
+]

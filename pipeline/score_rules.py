@@ -295,6 +295,16 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus tai virallinen yritystunniste esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
     ],
+    # Sama piilokulu-ongelma kuin lennoissa: hotellimetahaussa klassinen kikka on
+    # näyttää houkutteleva hinta ja lisätä verot/palvelumaksut vasta varaussivulla.
+    "matka-ja-hotellivertailut": [
+        ("kokonaishinta_esilla", "Kokonaishinta (verot ja kulut mukaan lukien) näkyy hakutuloksessa", 30),
+        ("kattavuus_kerrottu", "Vertailun kattavuus (kuinka moneen sivustoon/hotelliin haku ulottuu) kerrottu", 15),
+        ("ansaintamalli_kerrottu", "Ansaintamalli (komissiot/affiliate) kerrottu avoimesti", 15),
+        ("menetelma_kerrottu", "Arviointi- tai vertailumenetelmä selitetty (ei vain markkinointiväite)", 15),
+        ("y_tunnus_esilla", "Y-tunnus tai virallinen yritystunniste esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
     # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
     # does the company tell you the price before you hand over your data?
     "autokatsastus": [

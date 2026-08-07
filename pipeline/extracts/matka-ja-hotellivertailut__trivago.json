@@ -1,0 +1,46 @@
+{
+ "slug": "trivago",
+ "fetched_ok": [
+  "https://www.trivago.fi/",
+  "https://www.trivago.fi/fi/sp/tietosuoja"
+ ],
+ "kokonaishinta_esilla": "osittain",
+ "kattavuus_kerrottu": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "menetelma_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 40, "sisallon_kattavuus": 58},
+ "vahvuudet": [
+  "Etusivu kertoo kattavuuden suoraan lukuina: 'Vertailemme hotellihintoja yli 100 sivustolta', ja yhteistyökumppanien logot ('+100 lisää') näkyvät etusivulla",
+  "Homepagen esimerkkihinnat näyttävät konkreettisia yösummia ja säästöprosentteja ilman kirjautumista (esim. '170 € per yö, 25 % muita sivustoja halvempi'), vaikka nämä ovat markkinointiesimerkkejä eivätkä varsinaisen haun tuloksia",
+  "Mobiilisovellus mainitaan sivuston rakenteessa ja on laajalti tunnettu; palvelu on saatavilla suomeksi ja useilla muilla kielillä"
+ ],
+ "kehityskohteet": [
+  "Homepagen esimerkkihinnat eivät ole todellisia hakutuloksia eivätkä kerro sisältävätkö ne verot ja palvelumaksut; oikea hakutulos vaatisi JavaScript-haun, jota ei voitu vahvistaa staattisesti",
+  "Ansaintamallia (komissiot varaussivustoilta) ei kuvata avoimesti käyttäjälle näkyvässä sisällössä, vain yleinen tietosuojailmoitus mainitsee trivago N.V:n ja sen tytäryhtiöt",
+  "Ei suomalaista Y-tunnusta, ei puhelinnumeroa, sähköpostia tai chat-tukea millään ladatulla sivulla; ei myöskään erillistä arviointi- tai vertailumenetelmän selitystä"
+ ],
+ "yhteenveto": "trivago.fi on hollantilaisen, Nasdaqissa noteeratun trivago N.V:n (enemmistöomistaja Expedia Group) ylläpitämä hotellien metahakukone, joka kokoaa hintoja yli 100 sivustolta. Etusivulla näkyy esimerkkihintoja ilman kirjautumista, mutta ne ovat markkinointiesimerkkejä, ei todellisia hakutuloksia, eikä niiden kokonaishintaisuutta (verot, kulut) voitu vahvistaa. Ansaintamallia, Y-tunnusta tai yhteystietoja ei löydy sivustolta.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Etusivulla ilman kirjautumista näkyy: 'Oikotiesi upeisiin tarjouksiin 25 % muita sivustoja halvempi Hotellisivusto 170 € per yö...' Nämä ovat kuitenkin markkinointiesimerkkejä eivätkä todellisen haun tuloksia; ei mainintaa sisältävätkö luvut verot ja palvelumaksut.",
+  "kattavuus_kerrottu": "Etusivu: 'Säästä jopa 35% seuraavasta hotelliyöpymisestäsi. Vertailemme hotellihintoja yli 100 sivustolta.' Yhteistyökumppanit-osiossa '+100 lisää'.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia tai komissioita ei kuvata käyttäjälle näkyvässä sisällössä; tietosuojailmoitus mainitsee vain 'trivago N.V:n ja sen tytäryhtiöiden' ylläpitämät sivustot yleisesti.",
+  "menetelma_kerrottu": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt ladatuilta sivuilta.",
+  "y_tunnus_esilla": "Tietosuojailmoitus: 'Tämä tietosuojailmoitus koskee kaikkia trivago N.V:n ja sen tytäryhtiöiden... ylläpitämiä sivustoja.' trivago N.V. on julkisesti noteerattu (Nasdaq: TRVG), mutta suomalaista Y-tunnusta ei näy sivulla.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä ladatuilla sivuilla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Etusivun valikkorakenteessa mobiilisovellukseen viittaavia elementtejä; trivagon sovellus on yleisesti tunnettu."
+ },
+ "updated": "2026-08-05"
+}

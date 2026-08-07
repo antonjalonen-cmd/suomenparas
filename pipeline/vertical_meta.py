@@ -2115,13 +2115,30 @@ META["matka-ja-hotellivertailut"] = {
     "h1": "Suomen paras hotellien hintavertailupalvelu 2026",
     "yksikko": "hotellien hintavertailupalvelua",
     "lead": ("Hotellien metahakukoneet keräävät hinnat kymmeniltä eri varaussivustoilta yhteen "
-             "näkymään. Pisteytimme {n} Suomessa käytettyä hotellihakukonetta {m} mittarilla. "
-             "Tärkein kysymys: näetkö kokonaishinnan verottomine kuluineen, vai pitääkö klikata "
-             "kumppanisivustolle nähdäksesi lopullisen hinnan?"),
+             "näkymään. Pisteytimme {n} Suomessa käytettyä hotellien vertailupalvelua {m} "
+             "mittarilla. Tärkein kysymys: näetkö kokonaishinnan veroineen ja kuluineen, vai "
+             "pitääkö klikata kumppanisivustolle nähdäksesi lopullisen hinnan?"),
     "meta_title": "Suomen paras hotellien hintavertailupalvelu 2026 — hakukoneet pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} hotellien hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),
-    "notes": [],
+    "notes": [
+        ("<b>Nimi \"hintavertailu\" ei aina tarkoita, että useita sivustoja vertaillaan.</b> "
+         "Matkailijat.net:in hotellien \"hintavertailu\" on sivun oman ilmoituksen mukaan "
+         "toteutettu yhteistyössä yhden ainoan kumppanin, Booking.comin, kanssa — se ei siis "
+         "vertaa varaussivustoja keskenään, vaikka nimi antaa ymmärtää niin. trivago ja "
+         "hotellit.fi puolestaan kokoavat hintoja kymmeniltä tai sadoilta sivustoilta."),
+        ("<b>Voittaja on artikkelisivusto, ei hakukone.</b> Hotellitvertailu.fi ei tarjoa "
+         "reaaliaikaista hintahakua — se on kokoelma hotellikohtaisia arviointiartikkeleita. "
+         "Se voitti silti, koska se on ainoa, joka selittää avoimesti sekä ansaintamallinsa "
+         "(\"saamme pienen komission, kun teet varauksen näiden linkkien kautta\") että "
+         "arviointimenetelmänsä omalla sivullaan — täsmälleen sama läpinäkyvyysero, joka "
+         "erotti Valitse Vakuutuksen muista vakuutusvertailupalvelut-kategoriassa."),
+        ("Yhdeltäkään neljästä palvelusta ei löydy suomalaista Y-tunnusta niiden omilta "
+         "sivuilta. trivago.fi:n taustalla on julkisesti noteerattu trivago N.V. (Nasdaq: "
+         "TRVG, enemmistöomistaja Expedia Group). Emme suosittele yksittäisiä hotelleja "
+         "emmekä vertaile todellisia huonehintoja — mittaamme vertailupalvelujen omaa "
+         "avoimuutta."),
+    ],
 }
 
 # ---------------------------------------------------------------- era 21 (5.8.2026)

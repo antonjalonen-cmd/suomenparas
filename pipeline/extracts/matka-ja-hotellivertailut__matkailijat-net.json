@@ -1,0 +1,45 @@
+{
+ "slug": "matkailijat-net",
+ "fetched_ok": [
+  "https://www.matkailijat.net/hotellit-hintavertailu/"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "kattavuus_kerrottu": "ei",
+ "ansaintamalli_kerrottu": "osittain",
+ "menetelma_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 35, "hintojen_loydettavyys": 10, "sisallon_kattavuus": 20},
+ "vahvuudet": [
+  "Kertoo suoraan ja rehellisesti, että 'hintavertailu' toteutetaan yhteistyössä yhden nimetyn kumppanin, Booking.comin, kanssa — ei väitä vertaavansa useita varaussivustoja",
+  "Palvelu on osa laajempaa Matkailijat.net-matkailufoorumia, jolla on muutakin sisältöä (matkakertomukset, matkakohteet, matkasää)",
+  "Hakulomake mahdollistaa haun Suomesta, Euroopasta tai mistä tahansa maailmalta"
+ ],
+ "kehityskohteet": [
+  "Sivun oma nimi 'hintavertailu' on harhaanjohtava: sivu itse kertoo, ettei se vertaa useita varaussivustoja keskenään, vaan välittää haun yhdelle kumppanille (Booking.com) — tämä ei ole vertailu tavanomaisessa merkityksessä",
+  "Ei näkyvää hintaa staattisessa haussa, ei kattavuuden kuvausta, ei Y-tunnusta, puhelinta, sähköpostia tai chat-tukea millään ladatulla sivulla",
+  "Sivun merkistökoodaus on rikki (esim. 'yhteisty%kumppanimme' ä/ö-kirjainten sijaan), mikä heikentää luotettavuusvaikutelmaa"
+ ],
+ "yhteenveto": "Matkailijat.net:in 'Hotellien hintavertailu' -toiminto on suomalaisen matkafoorumin osio, joka omalla ilmoituksellaan on toteutettu yhteistyössä yhden kumppanin, Booking.comin, kanssa — se ei siis vertaile useita varaussivustoja keskenään, vaikka nimi antaa ymmärtää niin. Ei näkyvää hintaa, kattavuuden kuvausta, Y-tunnusta tai yhteystietoja millään ladatulla sivulla.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa; hakutulokset renderöityvät JavaScriptilla Booking.com-integraation kautta.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (kuinka moneen hotelliin tai kaupunkiin haku ulottuu) ei kerrota erikseen; sivu mainitsee vain että hotelleja voi etsiä 'Suomesta, Euroopasta tai mistä tahansa maailmalta'.",
+  "ansaintamalli_kerrottu": "Sivun oma teksti: 'Hotellien hintavertailu on toteutettu yhteistyökumppanimme Booking.comin kanssa.' Tämä kertoo kumppanuuden mutta ei selitä komissiomallia tarkemmin, joten merkitään osittain.",
+  "menetelma_kerrottu": "HAVAINTO: Erillistä arviointi- tai vertailumenetelmän selitystä ei löytynyt.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnusta tai yhtiön nimeä ei löydy sivulta.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy sivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy sivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

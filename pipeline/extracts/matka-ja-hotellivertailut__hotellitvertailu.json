@@ -1,0 +1,49 @@
+{
+ "slug": "hotellitvertailu",
+ "fetched_ok": [
+  "https://hotellitvertailu.fi/",
+  "https://hotellitvertailu.fi/tietoa-meista/",
+  "https://hotellitvertailu.fi/tietoa-meista/affiliate-ilmoitus/",
+  "https://hotellitvertailu.fi/tietoa-meista/miten-arvioimme-hotelleja/",
+  "https://hotellitvertailu.fi/tietoa-meista/yhteystiedot/"
+ ],
+ "kokonaishinta_esilla": "ei",
+ "kattavuus_kerrottu": "osittain",
+ "ansaintamalli_kerrottu": "kylla",
+ "menetelma_kerrottu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 70, "hintojen_loydettavyys": 20, "sisallon_kattavuus": 62},
+ "vahvuudet": [
+  "Ansaintamalli kerrotaan avoimesti ja selkeästi omalla sivullaan: 'Muistathan, että käytämme affiliate-linkkejä, joten saamme pienen komission, kun teet varauksen näiden linkkien kautta. Tämä ei vaikuta hintoihisi'",
+  "Erillinen 'Miten arvioimme hotelleja' -sivu selittää arviointikriteerit (sijainti, hinta, mukavuudet, asiakasarvostelut, sesonkivaihtelut) — samantyyppinen menetelmäsivu kuin Valitse Vakuutuksella vakuutusvertailupalvelut-kategoriassa",
+  "Sähköpostiyhteys on selkeästi esillä: info@hotellitvertailu.fi, ja sivustolla on kattava valikoima hotellikohtaisia arviointiartikkeleita eri kategorioissa (luksus, budjetti)"
+ ],
+ "kehityskohteet": [
+  "Sivusto on rakenteeltaan artikkeli-/opaskokoelma yksittäisistä hotelleista, ei reaaliaikainen hakukone; sivun omat tunnusluvut ('Keskim. yöhinta €142') ovat yleisiä tilastoja, ei henkilökohtaisen haun tulos",
+  "Ei Y-tunnusta tai yhtiön virallista nimeä yhteystietosivulla, vain sähköpostiosoite",
+  "Ei riippumatonta arviolähdettä (esim. Trustpilot); omat arvostelut ja pisteet ovat sivuston itsensä laatimia"
+ ],
+ "yhteenveto": "Hotellitvertailu.fi on suomenkielinen hotelliopas- ja arviointisivusto, joka poikkeaa muista mitatuista palveluista avoimuudellaan: se kertoo affiliate-ansaintamallinsa suoraan ja selittää arviointimenetelmänsä erillisellä sivulla, samaan tapaan kuin Valitse Vakuutus vakuutusvertailupalvelut-kategoriassa. Sivusto on kuitenkin rakenteeltaan artikkelikokoelma yksittäisistä hotelleista, ei reaaliaikainen hintahakukone, eikä Y-tunnusta löydy sivustolta.",
+ "evidence": {
+  "kokonaishinta_esilla": "HAVAINTO: Sivusto ei tarjoa hakukonetta jossa näkyisi reaaliaikainen kokonaishinta; sisältö on artikkelimuotoista hotellikohtaista arviointia ja yleisiä tunnuslukuja ('Keskim. yöhinta €142').",
+  "kattavuus_kerrottu": "Etusivun tunnusluvut ('Keskim. yöhinta €142, Käyttöaste 74 %, Arvostelukeskiarvo 8,7') antavat yleiskuvan, mutta tarkkaa lukumäärää arvioiduista hotelleista tai lähteistä ei kerrota selkeästi.",
+  "ansaintamalli_kerrottu": "Affiliate-ilmoitus-sivu: 'Muistathan, että käytämme affiliate-linkkejä, joten saamme pienen komission, kun teet varauksen näiden linkkien kautta. Tämä ei vaikuta hintoihisi, mutta auttaa meitä ylläpitämään sivustoamme.'",
+  "menetelma_kerrottu": "Erillinen sivu 'Miten arvioimme hotelleja': 'Arvioimme hotelleja eri kriteerien perusteella, kuten sijainti, hinta, mukavuudet ja asiakasarvostelut... Huomioimme myös sesonkivaihtelut ja kohteen kontekstin.'",
+  "y_tunnus_esilla": "HAVAINTO: Yhteystiedot-sivulla ei näy Y-tunnusta eikä yhtiön virallista nimeä, vain sähköpostiosoite.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä; sivuston omat arvostelupisteet (esim. 'Arvostelukeskiarvo 8,7') ovat sivuston itsensä laatimia, ei ulkopuolisen tahon.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "Affiliate-ilmoitus-sivu: 'ota rohkeasti yhteyttä sähköpostitse osoitteeseen info@hotellitvertailu.fi'.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä nimettyä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}
