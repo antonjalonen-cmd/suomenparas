@@ -758,6 +758,18 @@ TRANSPARENCY["sahkopostipalvelut"] = [
     ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
 ]
 
+# --- era 22 (8.8.2026): verkkotunnusvälittäjät -----------------------------------
+# Domain-alan klassinen sudenkuoppa on halpa ensimmäinen vuosi ja piilotettu
+# uusimishinta — siksi uusimishinta on oma kriteerinsä hinnan rinnalla.
+TRANSPARENCY["verkkotunnusvalittajat"] = [
+    ("hinta_esilla", "Rekisteröintihinta julkisesti esillä", 25),
+    ("uusimishinta_kerrottu", "Uusimishinta (2. vuoden hinta) kerrottu avoimesti", 25),
+    ("ominaisuudet_kuvattu", "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu", 20),
+    ("tuki_suomeksi", "Suomenkielinen asiakastuki mainittu", 15),
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä", 10),
+    ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
+]
+
 # --- era 15 (3.8.2026): lentoyhtiöt ----------------------------------------------
 # Kaikki paitsi Finnair ovat globaaleja yhtiöitä — vpn-palvelut-konventio:
 # omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta

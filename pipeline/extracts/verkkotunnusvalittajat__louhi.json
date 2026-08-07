@@ -1,0 +1,40 @@
+{
+ "slug": "louhi",
+ "fetched_ok": [
+  "https://www.louhi.fi/",
+  "https://www.louhi.fi/yhteystiedot"
+ ],
+ "hinta_esilla": "kylla",
+ "uusimishinta_kerrottu": "ei",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 72},
+ "vahvuudet": [
+  "Alkaen-hinta näkyy heti etusivulla: 'Varaa oma verkkotunnus... HAE alk. 1,71 €/kk (+ alv)'",
+  "Y-tunnus ja osoite löytyvät yhteystietosivulta: 'Louhi Net Oy Y-tunnus:1946409-1 Upseerinkatu 1 02600 Espoo'",
+  "Suomenkielinen asiakaspalvelu mainitaan etusivulla suoraan: 'Tukenasi arvostettu suomalainen asiakaspalvelu ja alan parhaat asiantuntijat', ja 'Tuki ja Ohjeet' sekä 'Usein kysyttyä' -linkit ovat näkyvästi valikossa"
+ ],
+ "kehityskohteet": [
+  "Uusimishintaa (2. vuoden hintaa) ei kerrota etusivulla, vain alkaen-hinta '1,71 €/kk'",
+  "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan etusivulla tai yhteystietosivulla",
+  "Aukioloaikoja ei mainita millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Louhi (Louhi Net Oy, Espoo) näyttää alkaen-hinnan heti etusivulla ja kertoo Y-tunnuksensa avoimesti yhteystietosivullaan, ja suomenkielinen tuki sekä UKK-osio on näkyvästi esillä. Uusimishintaa ei kuitenkaan kerrota, eikä suoria yhteystietoja (puhelin, sähköposti, chat) näy ladatuilla sivuilla.",
+ "evidence": {
+  "hinta_esilla": "Etusivu: 'Varaa oma verkkotunnus Verkkotunnus (eli domain) on yrityksesi nimi verkossa. HAE alk. 1,71 €/kk (+ alv)'.",
+  "uusimishinta_kerrottu": "HAVAINTO: Etusivulla näkyy vain alkaen-hinta '1,71 €/kk'; erillistä uusimis- tai toisen vuoden hintaa ei mainita.",
+  "ominaisuudet_kuvattu": "Etusivu: 'Ostamalla verkkotunnuksen, saat kaupan päälle ilmaisen webhotellin!... Yrityssähköposti omalla domainilla Google Workspace, Microsoft 365, Webmail'.",
+  "tuki_suomeksi": "Etusivu: 'Tukenasi arvostettu suomalainen asiakaspalvelu ja alan parhaat asiantuntijat'.",
+  "y_tunnus_esilla": "Yhteystietosivu: 'Yrityksen tiedot ja osoite Louhi Net Oy Y-tunnus:1946409-1 Upseerinkatu 1 02600 Espoo'.",
+  "ukk_ja_ohjeet": "Etusivun valikko: 'Tuki ja Ohjeet Usein kysyttyä'."
+ },
+ "updated": "2026-08-08"
+}

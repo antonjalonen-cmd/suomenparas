@@ -2302,3 +2302,37 @@ META["sahkopostipalvelut"] = {
          "suomenkielisen asiakaspalvelun puhelimitse ja chatilla."),
     ],
 }
+
+META["verkkotunnusvalittajat"] = {
+    "slug": "verkkotunnusvalittajat",
+    "nimi": "Verkkotunnusvälittäjät",
+    "nav": "Verkkotunnusvälittäjät",
+    "h1": "Suomen paras verkkotunnusvälittäjä 2026",
+    "yksikko": "verkkotunnusvälittäjää",
+    "lead": ("Domain-alan klassinen sudenkuoppa on halpa ensimmäinen vuosi ja "
+             "piilotettu uusimishinta. Pisteytimme {n} verkkotunnusvälittäjää {m} "
+             "mittarilla. Tärkein kysymys: näetkö mitä maksat vuonna kaksi, jo "
+             "ennen ostoa?"),
+    "meta_title": "Suomen paras verkkotunnusvälittäjä 2026 — välittäjät pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} verkkotunnusvälittäjää pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Vain Zoner ja Dynadot näyttävät sekä ensimmäisen että toisen vuoden "
+         "hinnan rinnakkain.</b> Zoner kirjoittaa sen sanoiksi joka domainpäätteelle "
+         "(\"1. vuosi 10,80 € Sen jälkeen 26,40 €\"), Dynadot näyttää molemmat "
+         "summat vierekkäin ilman selitystä (\"€3.10 €13.45\"). Domainhotelli "
+         "näyttää kaksi hintaa mutta ei kerro yksiselitteisesti kumpi on kampanja "
+         "ja kumpi normaalihinta, ja kolmella palvelulla (Louhi, Porkbun, one.com) "
+         "uusimishinta ei näy lainkaan."),
+        ("one.com on ääripää: kattava suomenkielinen 24/7-tuki chatilla ja "
+         "sähköpostilla, oma suomenkielinen UKK-osio — mutta ei yhtään "
+         "euromääräistä hintaa sivun staattisessa sisällössä. Zoner, Louhi ja "
+         "Domainhotelli ovat kaikki suomalaisia yhtiöitä Y-tunnuksineen, mutta "
+         "vain Zoner yhdistää sen selkeään hintatauluun."),
+        ("Kaksi kolmesta ulkomaisesta palvelusta (Dynadot, Porkbun) korostaa "
+         "avoimuutta markkinointitekstissä (\"transparent renewal rates\", "
+         "\"lower prices on domain registrations and renewals\"), mutta vain "
+         "Dynadot lunastaa sen konkreettisilla luvuilla. Kumpikaan ei tarjoa "
+         "suomenkielistä tukea."),
+    ],
+}

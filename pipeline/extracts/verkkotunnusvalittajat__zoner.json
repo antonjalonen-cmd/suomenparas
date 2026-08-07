@@ -1,0 +1,40 @@
+{
+ "slug": "zoner",
+ "fetched_ok": [
+  "https://www.zoner.fi/verkkotunnus/domainhaku",
+  "https://www.zoner.fi/"
+ ],
+ "hinta_esilla": "kylla",
+ "uusimishinta_kerrottu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "kylla",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 88, "hintojen_loydettavyys": 92, "sisallon_kattavuus": 68},
+ "vahvuudet": [
+  "Näyttää sekä ensimmäisen vuoden hinnan että uusimishinnan avoimesti jokaiselle domainpäätteelle: '.fi 10,80 € 1. vuosi 10,80 € Sen jälkeen 26,40 €'",
+  "Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa (sama tieto kuin sähköpostipalvelu-vertailussa): 'Pakkalankuja 6, 01510 Vantaa Y-tunnus: 1985221-1'",
+  "Kattavat suomenkieliset yhteystiedot aukioloaikoineen: 'Chat arkisin 24h la-su 9-17 Tekninen tuki 010 235 6688 arkisin 10-14'"
+ ],
+ "kehityskohteet": [
+  "Domainhaku-sivu ei mainitse erillistä mobiilisovellusta",
+  "Sisällön kattavuus jää suppeaksi: sivu keskittyy domainhakuun ja hintatauluun, ei laajempaan ominaisuuslistaan (esim. yksityisyyssuoja mainitaan vain ohimennen)",
+  "Domainhaku ei takaa saatavuutta: 'Huomaathan, ettemme voi taata verkkotunnuksen saatavuutta'"
+ ],
+ "yhteenveto": "Zoner (Zoner Oy, Vantaa) on ainoa vertailun palvelu, joka näyttää sekä ensimmäisen vuoden hinnan että selkeän uusimishinnan jokaiselle domainpäätteelle, ja täydentää tämän avoimella Y-tunnuksella ja kattavilla suomenkielisillä yhteystiedoilla aukioloaikoineen.",
+ "evidence": {
+  "hinta_esilla": "Domainhaku-sivu: '.fi 10,80 € 1. vuosi 10,80 € Sen jälkeen 26,40 € .com 13,20 € 1. vuosi 13,20 € Sen jälkeen 26,40 €'.",
+  "uusimishinta_kerrottu": "Domainhaku-sivu näyttää jokaiselle TLD:lle sekä '1. vuosi'-hinnan että 'Sen jälkeen'-hinnan erikseen, esim. '.net 13,20 € 1. vuosi 13,20 € Sen jälkeen 26,40 €'.",
+  "ominaisuudet_kuvattu": "Domainhaku-sivu: 'Rekisteröimme ja ylläpidämme kaikentyyppiset verkkotunnukset... suositut domainit, kuten kotimainen .fi-domain, ruotsalainen .se sekä muunmuassa kansainväliset domainpäätteet .com, .net, .org ja .info.'",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan suomeksi, ja etusivun tiedossa aiemmin vahvistetut suomenkieliset yhteystiedot (chat, puhelin, sähköposti) koskevat samaa Zoner-organisaatiota.",
+  "y_tunnus_esilla": "HAVAINTO: Y-tunnus 1985221-1 vahvistettu etusivun alatunnisteessa (sama tieto kuin sähköpostipalvelu-vertailussa).",
+  "ukk_ja_ohjeet": "HAVAINTO: 'Usein kysytyt kysymykset' -linkki näkyy domainhaku-sivulla."
+ },
+ "updated": "2026-08-08"
+}

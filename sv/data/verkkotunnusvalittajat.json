@@ -1,0 +1,1286 @@
+{
+ "slug": "verkkotunnusvalittajat",
+ "nimi": "Verkkotunnusvälittäjät",
+ "nav": "Verkkotunnusvälittäjät",
+ "h1": "Suomen paras verkkotunnusvälittäjä 2026",
+ "yksikko": "verkkotunnusvälittäjää",
+ "lead": "Domain-alan klassinen sudenkuoppa on halpa ensimmäinen vuosi ja piilotettu uusimishinta. Pisteytimme {n} verkkotunnusvälittäjää {m} mittarilla. Tärkein kysymys: näetkö mitä maksat vuonna kaksi, jo ennen ostoa?",
+ "meta_title": "Suomen paras verkkotunnusvälittäjä 2026 — välittäjät pisteytettynä | Suomen Paras",
+ "meta_desc": "6 verkkotunnusvälittäjää pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Vain Zoner ja Dynadot näyttävät sekä ensimmäisen että toisen vuoden hinnan rinnakkain.</b> Zoner kirjoittaa sen sanoiksi joka domainpäätteelle (\"1. vuosi 10,80 € Sen jälkeen 26,40 €\"), Dynadot näyttää molemmat summat vierekkäin ilman selitystä (\"€3.10 €13.45\"). Domainhotelli näyttää kaksi hintaa mutta ei kerro yksiselitteisesti kumpi on kampanja ja kumpi normaalihinta, ja kolmella palvelulla (Louhi, Porkbun, one.com) uusimishinta ei näy lainkaan.",
+  "one.com on ääripää: kattava suomenkielinen 24/7-tuki chatilla ja sähköpostilla, oma suomenkielinen UKK-osio — mutta ei yhtään euromääräistä hintaa sivun staattisessa sisällössä. Zoner, Louhi ja Domainhotelli ovat kaikki suomalaisia yhtiöitä Y-tunnuksineen, mutta vain Zoner yhdistää sen selkeään hintatauluun.",
+  "Kaksi kolmesta ulkomaisesta palvelusta (Dynadot, Porkbun) korostaa avoimuutta markkinointitekstissä (\"transparent renewal rates\", \"lower prices on domain registrations and renewals\"), mutta vain Dynadot lunastaa sen konkreettisilla luvuilla. Kumpikaan ei tarjoa suomenkielistä tukea."
+ ],
+ "yritykset": [
+  {
+   "slug": "zoner",
+   "nimi": "Zoner",
+   "domain": "zoner.fi",
+   "omistaja": "Zoner Oy (PRH 1985221-1, Pakkalankuja 6, 01510 Vantaa)",
+   "y_tunnus": "1985221-1",
+   "rekisteroity": 2005,
+   "score": 85.2,
+   "pillars": {
+    "digitaalinen": 68.7,
+    "lapinakyvyys": 100.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 82.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "33/100",
+       "paino": 40,
+       "pisteet": 33,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Domainhaku-sivu: '.fi 10,80 € 1. vuosi 10,80 € Sen jälkeen 26,40 € .com 13,20 € 1. vuosi 13,20 € Sen jälkeen 26,40 €'."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Domainhaku-sivu näyttää jokaiselle TLD:lle sekä '1. vuosi'-hinnan että 'Sen jälkeen'-hinnan erikseen, esim. '.net 13,20 € 1. vuosi 13,20 € Sen jälkeen 26,40 €'."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Domainhaku-sivu: 'Rekisteröimme ja ylläpidämme kaikentyyppiset verkkotunnukset... suositut domainit, kuten kotimainen .fi-domain, ruotsalainen .se sekä muunmuassa kansainväliset domainpäätteet .com, .net, .org ja .info.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan suomeksi, ja etusivun tiedossa aiemmin vahvistetut suomenkieliset yhteystiedot (chat, puhelin, sähköposti) koskevat samaa Zoner-organisaatiota."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Y-tunnus 1985221-1 vahvistettu etusivun alatunnisteessa (sama tieto kuin sähköpostipalvelu-vertailussa)."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Usein kysytyt kysymykset' -linkki näkyy domainhaku-sivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "88/100",
+       "paino": 34,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "92/100",
+       "paino": 33,
+       "pisteet": 92,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 33,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 12463.426500000001,
+    "cls": 0.0001644810232402441,
+    "tbt_ms": 1306.6290000000008
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Näyttää sekä ensimmäisen vuoden hinnan että uusimishinnan avoimesti jokaiselle domainpäätteelle: '.fi 10,80 € 1. vuosi 10,80 € Sen jälkeen 26,40 €'",
+    "Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa (sama tieto kuin sähköpostipalvelu-vertailussa): 'Pakkalankuja 6, 01510 Vantaa Y-tunnus: 1985221-1'",
+    "Kattavat suomenkieliset yhteystiedot aukioloaikoineen: 'Chat arkisin 24h la-su 9-17 Tekninen tuki 010 235 6688 arkisin 10-14'"
+   ],
+   "kehityskohteet": [
+    "Domainhaku-sivu ei mainitse erillistä mobiilisovellusta",
+    "Sisällön kattavuus jää suppeaksi: sivu keskittyy domainhakuun ja hintatauluun, ei laajempaan ominaisuuslistaan (esim. yksityisyyssuoja mainitaan vain ohimennen)",
+    "Domainhaku ei takaa saatavuutta: 'Huomaathan, ettemme voi taata verkkotunnuksen saatavuutta'"
+   ],
+   "yhteenveto": "Zoner (Zoner Oy, Vantaa) on ainoa vertailun palvelu, joka näyttää sekä ensimmäisen vuoden hinnan että selkeän uusimishinnan jokaiselle domainpäätteelle, ja täydentää tämän avoimella Y-tunnuksella ja kattavilla suomenkielisillä yhteystiedoilla aukioloaikoineen.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "domainhotelli",
+   "nimi": "Domainhotelli",
+   "domain": "domainhotelli.fi",
+   "omistaja": "Planeetta Internet Oy (PRH 1753494-9, Firdonkatu 2 T 105, 00520 Helsinki) — sivun oma yhteystietosivu: \"Domainhotelli (Planeetta Internet Oy)\"",
+   "y_tunnus": "1753494-9",
+   "rekisteroity": 2002,
+   "score": 70.3,
+   "pillars": {
+    "digitaalinen": 72.8,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 58.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Galaksin kovin KESÄ-DIILI – .fi-domain nyt vain 2,90 € / 1. vuosi'... 'TARKISTA DOMAININ SAATAVUUS www. Haku .fi 2,90 €/v 12,90 € .com 12,90 €/v .online 3,99 €/v 44,90 €'."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 12.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu näyttää kaksi rinnakkaista hintaa ('.fi 2,90 €/v 12,90 €') ja erillisen tekstin 'Fi-domainin hinta ensimmäinen vuosi 12,90 € + alv', mutta kampanjahinnan ja normaalihinnan/uusimishinnan suhdetta ei selitetä yksiselitteisesti samalla sivulla."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Domainhaku – Osta verkkotunnus... DNS (Nimipalvelu) Nimipalvelu mahdollistaa domainin ohjaamisen toiseen palveluun... Ei erillistä parkki- tai ylläpitomaksua. Maksat vain domainista.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'Asiakaspalvelu support@domainhotelli.fi +358 9 439 21802 (ma-pe klo 10-14)'."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'Domainhotelli (Planeetta Internet Oy) Firdonkatu 2 T 105, 00520 Helsinki... Y-tunnus: 1753494-9'."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä UKK-osiota tai ohjekeskusta ei löytynyt ladatuilta sivuilta; yhteystietosivulla on vain 'Linkki tukipyyntölomakkeelle'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 92,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 16327.951000000001,
+    "cls": 0,
+    "tbt_ms": 807.9079999999994
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Etusivulla näkyy tarkka kampanjahinta ja vertailuhinta rinnakkain: '.fi 2,90 €/v 12,90 €' sekä erillinen maininta: 'Fi-domainin hinta ensimmäinen vuosi 12,90 € + alv'",
+    "Y-tunnus, omistava yhtiö ja osoite kerrotaan avoimesti yhteystietosivulla: 'Domainhotelli (Planeetta Internet Oy) Firdonkatu 2 T 105, 00520 Helsinki... Y-tunnus: 1753494-9'",
+    "Suomenkieliset yhteystiedot aukioloaikoineen: 'support@domainhotelli.fi +358 9 439 21802 (ma-pe klo 10-14)'"
+   ],
+   "kehityskohteet": [
+    "Kahta rinnakkaista hintaa (2,90 € ja 12,90 €) ei selitetä yksiselitteisesti uusimishintana — toinen voi olla kampanjahinta eikä normaali toisen vuoden hinta, joten uusimishinnan tulkinta jää osittain epäselväksi",
+    "Erillistä UKK-osiota ei löytynyt ladatuilta sivuilta",
+    "Chat-tukea ei mainita, ainoastaan puhelin, sähköposti ja tukipyyntölomake"
+   ],
+   "yhteenveto": "Domainhotelli (Planeetta Internet Oy, Helsinki) näyttää selkeän kampanjahinnan ja vertailuhinnan .fi-domainille, kertoo Y-tunnuksensa ja osoitteensa avoimesti sekä tarjoaa suomenkieliset yhteystiedot aukioloaikoineen. Kahden rinnakkaisen hinnan suhde uusimishintaan jää kuitenkin osittain epäselväksi, eikä erillistä UKK-osiota löytynyt.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "dynadot",
+   "nimi": "Dynadot",
+   "domain": "dynadot.com",
+   "omistaja": "Dynadot LLC (Yhdysvallat), yksityisomisteinen; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 69.4,
+   "pillars": {
+    "digitaalinen": 66.1,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 75.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "31/100",
+       "paino": 40,
+       "pisteet": 31,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "58/100",
+       "paino": 15,
+       "pisteet": 58,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu näyttää hinnat suoraan TLD-listassa: '.co €3.10 €13.45 .io €25.70 €46.42 .xyz €1.78 €11.43 .now €28.76 .inc €229.23 €1787.73 .vip €4.00 €14.12'."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Jokaiselle TLD:lle näytetään kaksi rinnakkaista hintaa (esim. '.co €3.10 €13.45'), joista jälkimmäinen edustaa uusimishintaa; sivu mainitsee myös suoraan: 'competitive prices with no upselling and transparent renewal rates'."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Your Super-Powered Domain Marketplace... Register Transfer AI Search Bulk Search... 11M+ Domains 1M+ Customers 800+ TLDs 24/7 Support'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Domain Name FAQs I'm buying a domain for the first time, what should I consider before registering it?... Support Experts Get help at every stage of buying, transferring, or managing your domain name from our in-house support team, either at [email] or via chat.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "74/100",
+       "paino": 34,
+       "pisteet": 74,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 31,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 58,
+    "lcp_ms": 7630.563770000001,
+    "cls": 0.000153818648412632,
+    "tbt_ms": 7413.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Näyttää molemmat hinnat rinnakkain jokaiselle TLD:lle ilman erillistä hakua: '.co €3.10 €13.45... .io €25.70 €46.42... .xyz €1.78 €11.43'",
+    "Mainostaa avoimuutta suoraan: 'Buy domain names at competitive prices with no upselling and transparent renewal rates'",
+    "Tuki- ja UKK-sisältö on kattava: 'Domain Name FAQs... Get help at every stage of buying, transferring, or managing your domain name from our in-house support team, either at [email] or via chat', ja '24/7 Support' mainitaan"
+   ],
+   "kehityskohteet": [
+    "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä tukea mainita millään ladatulla sivulla",
+    "Ei suomalaista Y-tunnusta millään ladatulla sivulla, Dynadot LLC on yhdysvaltalainen, yksityisomisteinen yhtiö",
+    "Puhelinnumeroa ei mainita, tuki tapahtuu vain sähköpostitse tai chatin kautta"
+   ],
+   "yhteenveto": "Dynadot (Dynadot LLC, Yhdysvallat) näyttää poikkeuksellisen avoimesti sekä rekisteröinti- että uusimishinnan rinnakkain jokaiselle domainpäätteelle ja tarjoaa 24/7-tuen sähköpostitse ja chatilla laajan UKK-sisällön tukemana. Palvelu on kuitenkin kokonaan englanniksi ilman suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "porkbun",
+   "nimi": "Porkbun",
+   "domain": "porkbun.com",
+   "omistaja": "Porkbun LLC (Yhdysvallat), yksityisomisteinen; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 60.1,
+   "pillars": {
+    "digitaalinen": 67.6,
+    "lapinakyvyys": 50.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 64.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "40/100",
+       "paino": 40,
+       "pisteet": 40,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "83/100",
+       "paino": 15,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: '.COM from $11.08 .INC from $257.98 .BLOG from $2.57 .TECH from $6.99'."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivu toteaa yleisesti 'We offer lower prices on domain registrations and renewals', mutta erillistä uusimishintaa numeroina ei löytynyt etusivulta."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Named the #1 domain registrar by USA Today... Get Domain Web Hosting With Cloud for WordPress, Articulation Sitebuilder, a link in bio tool, and multiple cPanel hosting options'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Why Choose Porkbun Porkbun vs Cloudflare FAQs Resources Knowledge Base Porkbun Blog Service Status Help'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "70/100",
+       "paino": 34,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 40,
+    "accessibility": 92,
+    "seo": 83,
+    "best_practices": 77,
+    "lcp_ms": 5079.159000000001,
+    "cls": 0.001105129719481951,
+    "tbt_ms": 1853
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Alkaen-hinnat näkyvät suoraan etusivulla useille suosituille TLD:ille: '.COM from $11.08 .INC from $257.98 .BLOG from $2.57 .TECH from $6.99'",
+    "Poikkeuksellinen puhelintuki mainitaan omana etuna: 'Phone Support Tired of talking to an automated system? At Porkbun, the first person you speak to is'",
+    "UKK ja tietopankki löytyvät helposti: 'FAQs Resources Knowledge Base Porkbun Blog Service Status Help'"
+   ],
+   "kehityskohteet": [
+    "Uusimishintaa ei näytetä numeroina; sivu vain toteaa yleisesti: 'We offer lower prices on domain registrations and renewals' ilman erillistä toisen vuoden hintaa",
+    "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä tukea mainita millään ladatulla sivulla",
+    "Sähköpostiosoitetta ei näy suoraan etusivulla asiakastuen yhteydessä"
+   ],
+   "yhteenveto": "Porkbun (Porkbun LLC, Yhdysvallat) näyttää alkaen-hinnat suosituille TLD:ille suoraan etusivulla ja korostaa aidosti henkilökohtaista puhelintukea sekä kattavaa UKK-sisältöä. Uusimishintaa ei kuitenkaan kerrota numeroina, palvelu on kokonaan englanniksi, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "louhi",
+   "nimi": "Louhi",
+   "domain": "louhi.fi",
+   "omistaja": "Louhi Net Oy (PRH 1946409-1, Upseerinkatu 1, 02600 Espoo) — yhteystiedot-sivun oma tieto",
+   "y_tunnus": "1946409-1",
+   "rekisteroity": 2005,
+   "score": 57.0,
+   "pillars": {
+    "digitaalinen": 61.7,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 65.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "26/100",
+       "paino": 40,
+       "pisteet": 26,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 25.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Varaa oma verkkotunnus Verkkotunnus (eli domain) on yrityksesi nimi verkossa. HAE alk. 1,71 €/kk (+ alv)'."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla näkyy vain alkaen-hinta '1,71 €/kk'; erillistä uusimis- tai toisen vuoden hintaa ei mainita."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Ostamalla verkkotunnuksen, saat kaupan päälle ilmaisen webhotellin!... Yrityssähköposti omalla domainilla Google Workspace, Microsoft 365, Webmail'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Tukenasi arvostettu suomalainen asiakaspalvelu ja alan parhaat asiantuntijat'."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'Yrityksen tiedot ja osoite Louhi Net Oy Y-tunnus:1946409-1 Upseerinkatu 1 02600 Espoo'."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun valikko: 'Tuki ja Ohjeet Usein kysyttyä'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "72/100",
+       "paino": 33,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 26,
+    "accessibility": 92,
+    "seo": 85,
+    "best_practices": 73,
+    "lcp_ms": 21868.724159999998,
+    "cls": 6.517963685657515e-05,
+    "tbt_ms": 3553.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Alkaen-hinta näkyy heti etusivulla: 'Varaa oma verkkotunnus... HAE alk. 1,71 €/kk (+ alv)'",
+    "Y-tunnus ja osoite löytyvät yhteystietosivulta: 'Louhi Net Oy Y-tunnus:1946409-1 Upseerinkatu 1 02600 Espoo'",
+    "Suomenkielinen asiakaspalvelu mainitaan etusivulla suoraan: 'Tukenasi arvostettu suomalainen asiakaspalvelu ja alan parhaat asiantuntijat', ja 'Tuki ja Ohjeet' sekä 'Usein kysyttyä' -linkit ovat näkyvästi valikossa"
+   ],
+   "kehityskohteet": [
+    "Uusimishintaa (2. vuoden hintaa) ei kerrota etusivulla, vain alkaen-hinta '1,71 €/kk'",
+    "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan etusivulla tai yhteystietosivulla",
+    "Aukioloaikoja ei mainita millään ladatulla sivulla"
+   ],
+   "yhteenveto": "Louhi (Louhi Net Oy, Espoo) näyttää alkaen-hinnan heti etusivulla ja kertoo Y-tunnuksensa avoimesti yhteystietosivullaan, ja suomenkielinen tuki sekä UKK-osio on näkyvästi esillä. Uusimishintaa ei kuitenkaan kerrota, eikä suoria yhteystietoja (puhelin, sähköposti, chat) näy ladatuilla sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "one-com",
+   "nimi": "one.com",
+   "domain": "one.com",
+   "omistaja": "Omistavaa yhtiötä ei löydy suomenkieliseltä domain-sivulta: sivun alatunnisteessa vain '@one.com 2026', ei virallista yhtiönimeä tai Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 54.0,
+   "pillars": {
+    "digitaalinen": 68.8,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 60.0,
+    "ai_laatu": 46.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Rekisteröintihinta julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Domain-sivun staattisessa sisällössä ei ole yhtään euromääräistä hintaa domainin rekisteröinnille; hinnat vaativat todennäköisesti domainhaun tai JavaScript-renderöinnin."
+      },
+      {
+       "mittari": "Uusimishinta (2. vuoden hinta) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 25,
+       "pisteet_max": 25,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koska ensimmäistäkään hintaa ei näy sivun staattisessa sisällössä, myöskään uusimishintaa ei näy."
+      },
+      {
+       "mittari": "Palvelut (DNS, siirto, yksityisyyssuoja) kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu: '24/7 tuki... Lähetä meille sähköposti... Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus? Verkkotunnus on sivustosi digitaalinen osoite.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu on kokonaan suomeksi: '24/7 tuki Hae apua Aloita chat Nopein tapa ottaa yhteyttä, vuoden jokaisena päivänä Lähetä meille sähköposti Vastaamme mahdollisimman nopeasti – yleensä 24 tunnin sisällä'."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun alatunniste sisältää vain '@one.com 2026'; omistavan yhtiön virallista nimeä tai Y-tunnusta ei löytynyt."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivu: 'Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus?' omana osionaan."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 5494.710299999999,
+    "cls": 0.04227780069766687,
+    "tbt_ms": 3832.2467900000024
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattava suomenkielinen tuki ympäri vuorokauden: '24/7 tuki Hae apua Aloita chat Nopein tapa ottaa yhteyttä, vuoden jokaisena päivänä Lähetä meille sähköposti Vastaamme mahdollisimman nopeasti – yleensä 24 tunnin sisällä'",
+    "Suomenkielinen UKK-osio suoraan domain-sivulla: 'Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus?'",
+    "Valuutta ja kieli ovat oikein suomalaiselle käyttäjälle: 'Finnish (Finland) · EUR (€)'"
+   ],
+   "kehityskohteet": [
+    "Sivun staattisessa sisällössä ei näy yhtään euromääräistä hintaa domainin rekisteröinnille; hinnat renderöityvät todennäköisesti JavaScriptilla tai domainhaun kautta",
+    "Uusimishintaa ei näy sivun staattisessa sisällössä, sillä sivulla ei ylipäätään näy yhtään euromääräistä hintaa",
+    "Omistavaa yhtiötä ei löydy sivulta: alatunnisteessa vain '@one.com 2026' ilman virallista yhtiönimeä tai Y-tunnusta"
+   ],
+   "yhteenveto": "one.com tarjoaa kattavan suomenkielisen tuen ympäri vuorokauden (chat, sähköposti) ja suomenkielisen UKK-osion suoraan domain-sivulla, mutta sivun staattisessa sisällössä ei näy yhtään euromääräistä hintaa domainin rekisteröinnille tai uusimiselle, eikä sivulta löydy omistavan yhtiön nimeä tai Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "8.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Rekisteröintihinta julkisesti esillä (25), uusimishinta (2. vuoden hinta) kerrottu avoimesti (25), palvelut (DNS, siirto, yksityisyyssuoja) kuvattu (20), suomenkielinen asiakastuki mainittu (15), Y-tunnus tai omistava yhtiö esillä (10), ohjekeskus, oppaat tai UKK saatavilla (5)"
+}

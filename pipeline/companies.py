@@ -2085,3 +2085,24 @@ COMPANIES["sahkopostipalvelut"] = [
          y_tunnus=None,
          omistaja="Tutao GmbH (Saksa); ei suomalaista Y-tunnusta"),
 ]
+
+COMPANIES["verkkotunnusvalittajat"] = [
+    dict(slug="zoner", nimi="Zoner", domain="zoner.fi",
+         y_tunnus="1985221-1",
+         omistaja="Zoner Oy (PRH 1985221-1, Pakkalankuja 6, 01510 Vantaa)"),
+    dict(slug="louhi", nimi="Louhi", domain="louhi.fi",
+         y_tunnus="1946409-1",
+         omistaja="Louhi Net Oy (PRH 1946409-1, Upseerinkatu 1, 02600 Espoo) — yhteystiedot-sivun oma tieto"),
+    dict(slug="domainhotelli", nimi="Domainhotelli", domain="domainhotelli.fi",
+         y_tunnus="1753494-9",
+         omistaja="Planeetta Internet Oy (PRH 1753494-9, Firdonkatu 2 T 105, 00520 Helsinki) — sivun oma yhteystietosivu: \"Domainhotelli (Planeetta Internet Oy)\""),
+    dict(slug="dynadot", nimi="Dynadot", domain="dynadot.com",
+         y_tunnus=None,
+         omistaja="Dynadot LLC (Yhdysvallat), yksityisomisteinen; ei suomalaista Y-tunnusta"),
+    dict(slug="porkbun", nimi="Porkbun", domain="porkbun.com",
+         y_tunnus=None,
+         omistaja="Porkbun LLC (Yhdysvallat), yksityisomisteinen; ei suomalaista Y-tunnusta"),
+    dict(slug="one-com", nimi="one.com", domain="one.com",
+         y_tunnus=None,
+         omistaja="Omistavaa yhtiötä ei löydy suomenkieliseltä domain-sivulta: sivun alatunnisteessa vain '@one.com 2026', ei virallista yhtiönimeä tai Y-tunnusta"),
+]

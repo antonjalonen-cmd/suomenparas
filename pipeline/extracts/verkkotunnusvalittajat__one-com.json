@@ -1,0 +1,39 @@
+{
+ "slug": "one-com",
+ "fetched_ok": [
+  "https://www.one.com/fi/domain"
+ ],
+ "hinta_esilla": "ei",
+ "uusimishinta_kerrottu": "ei",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "kylla",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 60, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Kattava suomenkielinen tuki ympäri vuorokauden: '24/7 tuki Hae apua Aloita chat Nopein tapa ottaa yhteyttä, vuoden jokaisena päivänä Lähetä meille sähköposti Vastaamme mahdollisimman nopeasti – yleensä 24 tunnin sisällä'",
+  "Suomenkielinen UKK-osio suoraan domain-sivulla: 'Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus?'",
+  "Valuutta ja kieli ovat oikein suomalaiselle käyttäjälle: 'Finnish (Finland) · EUR (€)'"
+ ],
+ "kehityskohteet": [
+  "Sivun staattisessa sisällössä ei näy yhtään euromääräistä hintaa domainin rekisteröinnille; hinnat renderöityvät todennäköisesti JavaScriptilla tai domainhaun kautta",
+  "Uusimishintaa ei näy sivun staattisessa sisällössä, sillä sivulla ei ylipäätään näy yhtään euromääräistä hintaa",
+  "Omistavaa yhtiötä ei löydy sivulta: alatunnisteessa vain '@one.com 2026' ilman virallista yhtiönimeä tai Y-tunnusta"
+ ],
+ "yhteenveto": "one.com tarjoaa kattavan suomenkielisen tuen ympäri vuorokauden (chat, sähköposti) ja suomenkielisen UKK-osion suoraan domain-sivulla, mutta sivun staattisessa sisällössä ei näy yhtään euromääräistä hintaa domainin rekisteröinnille tai uusimiselle, eikä sivulta löydy omistavan yhtiön nimeä tai Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: Domain-sivun staattisessa sisällössä ei ole yhtään euromääräistä hintaa domainin rekisteröinnille; hinnat vaativat todennäköisesti domainhaun tai JavaScript-renderöinnin.",
+  "uusimishinta_kerrottu": "HAVAINTO: Koska ensimmäistäkään hintaa ei näy sivun staattisessa sisällössä, myöskään uusimishintaa ei näy.",
+  "ominaisuudet_kuvattu": "Sivu: '24/7 tuki... Lähetä meille sähköposti... Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus? Verkkotunnus on sivustosi digitaalinen osoite.'",
+  "tuki_suomeksi": "Sivu on kokonaan suomeksi: '24/7 tuki Hae apua Aloita chat Nopein tapa ottaa yhteyttä, vuoden jokaisena päivänä Lähetä meille sähköposti Vastaamme mahdollisimman nopeasti – yleensä 24 tunnin sisällä'.",
+  "y_tunnus_esilla": "HAVAINTO: Sivun alatunniste sisältää vain '@one.com 2026'; omistavan yhtiön virallista nimeä tai Y-tunnusta ei löytynyt.",
+  "ukk_ja_ohjeet": "Sivu: 'Usein kysytyt kysymykset (UKK) Mikä on domain eli verkkotunnus?' omana osionaan."
+ },
+ "updated": "2026-08-08"
+}
