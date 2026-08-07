@@ -1,0 +1,46 @@
+{
+ "slug": "skrill",
+ "fetched_ok": [
+  "https://www.skrill.com/en/",
+  "https://www.skrill.com/en/siteinformation/fees/"
+ ],
+ "siirtokustannus_esilla": "kylla",
+ "valuuttakurssi_kerrottu": "ei",
+ "nopeus_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 75, "sisallon_kattavuus": 60},
+ "vahvuudet": [
+  "Erillinen 'Fees'-sivu kokoaa kaikki maksut yhteen tarkkana taulukkona: 'All fees, clearly listed in one place', jaoteltuna talletuksiin, nostoihin, valuutanvaihtoon ja korttimaksuihin",
+  "Konkreettiset prosenttiluvut näkyvät ilman kirjautumista, esim. talletus paikallisilla maksutavoilla '0,00 %' tai '1,00 %', kansainväliset maksutavat '1,25 %'",
+  "Palvelu kattaa laajan käyttötarkoitusjoukon (rahansiirto, verkkomaksut, vedonlyönti, forex-rahoitus, pelaaminen), mikä kertoo monipuolisesta digitaalisesta lompakkopalvelusta"
+ ],
+ "kehityskohteet": [
+  "Valuuttakurssimarginaalia ei kerrota erikseen fees-sivulla; vain prosenttimaksut on eritelty, ei itse kurssin laskentatapaa",
+  "Siirron kestoa tai kattavuutta (kohdemaiden lukumäärää) ei kerrota fees-sivulla eikä etusivulla",
+  "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Skrill (Skrill Limited, osa Paysafe-konsernia) kokoaa kaikki maksunsa erilliselle Fees-sivulle konkreettisina prosenttilukuina ilman kirjautumista. Valuuttakurssimarginaalia, siirron kestoa tai maakattavuutta ei kuitenkaan kerrota, eikä sivustolla ole suomalaista Y-tunnusta tai riippumatonta arviolähdettä.",
+ "evidence": {
+  "siirtokustannus_esilla": "Fees-sivu: 'Deposit funds. Local payment methods fee: 0.00%, fee: 1.00%, fee: Up to 1.00%... Global payment methods fee: 1.25%.' Myös noston kulut eritelty (esim. 'fee: 1.75% Minimum fee of EUR 3.50').",
+  "valuuttakurssi_kerrottu": "HAVAINTO: Fees-sivulla on oma osio 'Currency conversion', mutta itse kurssimarginaalin laskentaperiaatetta ei selitetä sanallisesti fetchatulla sivulla.",
+  "nopeus_kerrottu": "HAVAINTO: Siirron kestoa ei kerrota fees-sivulla tai etusivulla.",
+  "kattavuus_kerrottu": "HAVAINTO: Kohdemaiden tai valuuttojen lukumäärää ei kerrota fetchatuilla sivuilla.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla; sivut ovat englanninkielisiä.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita suoraan ladatuilla sivuilla."
+ },
+ "updated": "2026-08-08"
+}

@@ -2023,3 +2023,25 @@ COMPANIES["puhelinliittymavertailu"] = [
          y_tunnus=None,
          omistaja="Koko sivusto on JavaScript-renderöity (Gatsby); staattisessa HTML:ssä ei ole yhtään tietosuoja-, käyttöehto- tai yhteystietosivun linkkiä eikä yhtiön nimeä"),
 ]
+
+# RAHANSIIRTOPALVELUT (8.8.2026) — CATEGORY_BACKLOG.md:n valmiiksi rajaama erä.
+COMPANIES["rahansiirtopalvelut"] = [
+    dict(slug="wise", nimi="Wise", domain="wise.com",
+         y_tunnus=None,
+         omistaja="Wise Payments Limited (Iso-Britannia), julkisesti noteerattu (LSE: WISE); sivun oma hinnoittelusivu korostaa keski-markkinakurssin käyttöä; ei suomalaista Y-tunnusta"),
+    dict(slug="revolut", nimi="Revolut", domain="revolut.com",
+         y_tunnus=None,
+         omistaja="Revolut Ltd / Revolut Bank UAB (Liettuan pankkilisenssi EU-alueella); ei suomalaista Y-tunnusta sivun englanninkielisellä Suomi-markkinasivulla"),
+    dict(slug="western-union", nimi="Western Union", domain="westernunion.com",
+         y_tunnus=None,
+         omistaja="The Western Union Company (Yhdysvallat), julkisesti noteerattu (NYSE: WU); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta"),
+    dict(slug="moneygram", nimi="MoneyGram", domain="moneygram.com",
+         y_tunnus=None,
+         omistaja="MoneyGram International, Inc. (Yhdysvallat); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta"),
+    dict(slug="paysend", nimi="Paysend", domain="paysend.com",
+         y_tunnus=None,
+         omistaja="Paysend EU Designated Activity Company, rekisteröity Irlannissa (yritysnumero 678642), Irlannin keskuspankin valvoma sähkörahayhteisö (Firm Reference Number C443739) — sivun oma jalkatunniste"),
+    dict(slug="skrill", nimi="Skrill", domain="skrill.com",
+         y_tunnus=None,
+         omistaja="Skrill Limited, osa Paysafe-konsernia (Iso-Britannia); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta"),
+]

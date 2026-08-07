@@ -1,0 +1,46 @@
+{
+ "slug": "wise",
+ "fetched_ok": [
+  "https://wise.com/fi/",
+  "https://wise.com/fi/pricing/"
+ ],
+ "siirtokustannus_esilla": "kylla",
+ "valuuttakurssi_kerrottu": "kylla",
+ "nopeus_kerrottu": "ei",
+ "kattavuus_kerrottu": "osittain",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 82, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Hinnoittelusivu asettaa läpinäkyvyyden koko myyntiväitteeksi: 'Other providers hide fees in the exchange rate to charge you more. Not Wise. See our great rates and low, clear prices' ja 'We only use the mid-market rate — the one you can check on Google'",
+  "Konkreettinen aloitushinta näkyy ilman kirjautumista: 'Sending money... Fee varies by currency. From 0.74%'",
+  "Mobiilisovellus mainitaan osana ydintuotetta ('Wise Account'), ja tili- ja korttipalvelut on eritelty selkeästi henkilö- ja yritysasiakkaille"
+ ],
+ "kehityskohteet": [
+  "Siirron arvioitua kestoa ei kerrota etusivulla tai hinnoittelusivulla yleisellä tasolla; tarkka aika-arvio vaatisi kohdemaan ja valuutan valitsemisen laskurista",
+  "Kattavuutta (kuinka moneen maahan tai valuuttaan palvelu ulottuu) ei kerrota tarkkana lukuna näillä sivuilla",
+  "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä (esim. Trustpilot) mainita ladatuilla sivuilla, vaikka Wise on julkisesti noteerattu yhtiö"
+ ],
+ "yhteenveto": "Wise (Wise Payments Limited, Iso-Britannia, LSE: WISE) rakentaa koko markkinointinsa hintaläpinäkyvyyden varaan: hinnoittelusivu lupaa keski-markkinakurssin käytön ja näyttää aloitushinnan (alkaen 0,74 %) ilman kirjautumista. Siirron kestoa tai tarkkaa maakattavuutta ei kuitenkaan kerrota yleisellä tasolla, eikä sivuilta löydy suomalaista Y-tunnusta tai riippumatonta arviolähdettä.",
+ "evidence": {
+  "siirtokustannus_esilla": "Hinnoittelusivu: 'Fees at a glance... Sending money. Fee varies by currency. From 0.74%.'",
+  "valuuttakurssi_kerrottu": "Hinnoittelusivu: 'Fair exchange rates. We only use the mid-market rate — the one you can check on Google. Truly transparent pricing. Always know what you're paying upfront, unlike others who hide their cut.'",
+  "nopeus_kerrottu": "HAVAINTO: Etusivulla tai hinnoittelusivulla ei kerrota yleistä siirtoaikaa; tarkka arvio vaatisi laskurin käyttöä valitulla valuutalla.",
+  "kattavuus_kerrottu": "Etusivu kuvaa palvelun kansainväliseksi tiliksi ('The international account for sending, spending and converting money like a local') mutta ei anna tarkkaa maiden tai valuuttojen lukumäärää näillä sivuilla.",
+  "y_tunnus_esilla": "HAVAINTO: Ladatuilla sivuilla ei näy suomalaista Y-tunnusta; sivu on englanninkielinen Suomi-markkinasivu.",
+  "riippumaton_arvio": "HAVAINTO: Etusivun linkkilistassa on viittaus 'wise-reviews' -sivulle, mutta itse ladatuilla sivuilla ei näy Trustpilot-arvosanaa tai muuta riippumatonta lukua.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "Etusivu esittelee 'Wise Account'-tuotteen osana ydinpalvelua, ja hinnoittelusivu viittaa sovelluksessa näkyviin tietoihin ('check under Your spending limits in the app')."
+ },
+ "updated": "2026-08-08"
+}

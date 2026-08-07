@@ -1,0 +1,46 @@
+{
+ "slug": "western-union",
+ "fetched_ok": [
+  "https://www.westernunion.com/fi/fi/home.html",
+  "https://www.westernunion.com/fi/fi/terms-conditions.html"
+ ],
+ "siirtokustannus_esilla": "ei",
+ "valuuttakurssi_kerrottu": "ei",
+ "nopeus_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 50, "hintojen_loydettavyys": 15, "sisallon_kattavuus": 40},
+ "vahvuudet": [
+  "Palvelu on täysin suomenkielinen, mukaan lukien käyttöliittymä ja käyttöehtosivu",
+  "Mobiilisovellus (Rahansiirtosovellus) ja seurantatoiminto ('Seuraa rahansiirtoa') ovat omina päävalikon kohtinaan",
+  "Sivustolla on 'Ohje'-osio joka viittaa usein kysyttyihin kysymyksiin liittyviin aiheisiin"
+ ],
+ "kehityskohteet": [
+  "Yhtään euromääräistä siirtokulua tai prosenttilukua ei näy etusivulla tai käyttöehdoissa ilman kirjautumista ja kohteen valitsemista",
+  "Valuuttakurssia, siirron kestoa tai kattavuutta (maiden lukumäärää) ei kerrota konkreettisesti näillä sivuilla",
+  "Ei suomalaista Y-tunnusta millään ladatulla sivulla, vaikka Western Union on globaalisti tunnettu, julkisesti noteerattu yhtiö (NYSE: WU)"
+ ],
+ "yhteenveto": "Western Union tarjoaa täysin suomenkielisen palvelun mobiilisovelluksineen ja seurantatoimintoineen, mutta ei näytä yhtään todellista siirtokulua, valuuttakurssia tai kattavuuslukua etusivulla tai käyttöehdoissa ilman kirjautumista ja kohteen valitsemista. Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä.",
+ "evidence": {
+  "siirtokustannus_esilla": "HAVAINTO: Etusivun staattisessa sisällössä ei ole yhtään euromääräistä kulua tai prosenttilukua; haut 'maksu', 'kulu' ja '€' eivät löytäneet osumia leipätekstistä.",
+  "valuuttakurssi_kerrottu": "HAVAINTO: Valuuttakurssia ei kerrota etusivulla tai käyttöehdoissa.",
+  "nopeus_kerrottu": "HAVAINTO: Siirron kestoa ei kerrota näillä sivuilla.",
+  "kattavuus_kerrottu": "HAVAINTO: Kohdemaiden lukumäärää ei kerrota etusivulla.",
+  "y_tunnus_esilla": "HAVAINTO: Käyttöehtosivu on pitkälti kielivalitsin eikä sisällä Y-tunnusta suomeksi ladatussa versiossa.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista etusivulla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Etusivun päävalikossa oma 'Ohje'-kohta, joka viittaa tukiaiheisiin.",
+  "mobiilisovellus": "Etusivun päävalikko: 'Rahansiirtosovellus' omana kohtanaan."
+ },
+ "updated": "2026-08-08"
+}

@@ -1,0 +1,45 @@
+{
+ "slug": "moneygram",
+ "fetched_ok": [
+  "https://www.moneygram.com/mgo/fi/fi/"
+ ],
+ "siirtokustannus_esilla": "ei",
+ "valuuttakurssi_kerrottu": "ei",
+ "nopeus_kerrottu": "ei",
+ "kattavuus_kerrottu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 20, "sisallon_kattavuus": 58},
+ "vahvuudet": [
+  "Kattavuus kerrotaan konkreettisina lukuina etusivulla: 'Maata 200+, Toimipistettä 470 000+, Kokemusta 85+ vuotta'",
+  "Lupaa avoimuutta sanallisesti: 'mitä maksat ja mitä vastaanottaja saa ennen lähetystä. Ei yllätyksiä tai piilokuluja'",
+  "Etusivu on täysin suomenkielinen ja tarjoaa suoran lähetyslomakkeen ('Lähetysmaa: Suomi')"
+ ],
+ "kehityskohteet": [
+  "Lupauksesta huolimatta yhtään euromääräistä siirtokulua tai prosenttilukua ei näy etusivulla ilman kohdemaan ja summan valitsemista laskurista",
+  "Valuuttakurssia tai sen marginaalia ei kerrota konkreettisesti etusivulla",
+  "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä millään ladatulla sivulla; MoneyGram on kuitenkin julkisesti noteerattu yhtiö (NASDAQ: MGRM)"
+ ],
+ "yhteenveto": "MoneyGram lupaa etusivullaan avoimuutta ('ei yllätyksiä tai piilokuluja') ja kertoo laajan kattavuutensa konkreettisina lukuina (200+ maata, 470 000+ toimipistettä), mutta ei näytä yhtään todellista siirtokulua tai valuuttakurssia ilman laskurin käyttöä. Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä.",
+ "evidence": {
+  "siirtokustannus_esilla": "HAVAINTO: Etusivulla luvataan 'mitä maksat ja mitä vastaanottaja saa ennen lähetystä. Ei yllätyksiä tai piilokuluja', mutta yhtään euromääräistä kulua ei näy staattisessa sisällössä — laskuri vaatii kohdemaan ja summan valinnan.",
+  "valuuttakurssi_kerrottu": "HAVAINTO: Etusivu lupaa 'erinomaiset valuuttakurssit', mutta ei näytä tarkkaa kurssia tai marginaalia ilman laskurin käyttöä.",
+  "nopeus_kerrottu": "HAVAINTO: Siirron kestoa ei kerrota etusivulla.",
+  "kattavuus_kerrottu": "Etusivu: 'Maata 200+ Toimipistettä 470 000+ Kokemusta 85+ vuotta.'",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta etusivulla; linkki 'corporate.moneygram.com/about' viittaa emoyhtiön sivulle, jota ei fetchattu tässä.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä etusivulla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista etusivulla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita suoraan etusivulla."
+ },
+ "updated": "2026-08-08"
+}

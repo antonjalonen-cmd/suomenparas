@@ -69,7 +69,7 @@ CATEGORY_GROUPS = [
         ("Matkavakuutukset", "matkavakuutukset", True), ("Lemmikkivakuutukset", "lemmikkivakuutukset", True),
         ("Pikavipit", None, False), ("Asuntolainat", None, False),
         ("Autorahoitus", None, False), ("Yrityslainat", None, False),
-        ("Säästötilit", None, False),
+        ("Säästötilit", None, False), ("Rahansiirtopalvelut", "rahansiirtopalvelut", True),
     ]),
     ("Digitaaliset palvelut", [
         ("Suoratoistopalvelut", "suoratoistopalvelut", True), ("Pilvitallennuspalvelut", "pilvitallennuspalvelut", True),

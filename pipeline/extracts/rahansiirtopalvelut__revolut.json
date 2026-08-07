@@ -1,0 +1,46 @@
+{
+ "slug": "revolut",
+ "fetched_ok": [
+  "https://www.revolut.com/en-FI/",
+  "https://www.revolut.com/en-FI/our-pricing-plans/"
+ ],
+ "siirtokustannus_esilla": "osittain",
+ "valuuttakurssi_kerrottu": "osittain",
+ "nopeus_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 60, "hintojen_loydettavyys": 45, "sisallon_kattavuus": 62},
+ "vahvuudet": [
+  "Yksityiskohtainen tilivertailutaulukko viidelle tasolle (Standard, Plus, Premium, Metal, Ultra) hintoineen: 'Standard Free, Plus €3.99/month, Premium €10.99/month...'",
+  "Valuutanvaihdon kuukausittaiset ilmaisrajat ja viikonloppulisät kerrotaan tarkasti: '€1,000/month limit... Additional weekend currency exchange fees 1%, 0.5%, No fees'",
+  "Mobiilisovellus on ydintuote ja mainitaan toistuvasti ('Download the app'), ja palvelu kattaa laajan tuotevalikoiman pankkitoiminnasta kortteihin ja säästämiseen"
+ ],
+ "kehityskohteet": [
+  "Rahan kansainvälisen SIIRRON (eri henkilölle lähettäminen) erillistä kulua ei eritellä yhtä selkeästi kuin valuutanvaihdon rajoja — sivu keskittyy tilitasojen vertailuun, ei suoraan lähetyskuluihin",
+  "Siirron kestoa tai kohdemaiden/valuuttojen kattavuutta ei kerrota näillä sivuilla",
+  "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä (esim. Trustpilot) mainittu ladatuilla sivuilla"
+ ],
+ "yhteenveto": "Revolut esittää yksityiskohtaisen viisitasoisen tilivertailun hintoineen, ja valuutanvaihdon ilmaisrajat sekä viikonloppulisät kerrotaan tarkasti prosentteina. Varsinaisen kansainvälisen rahansiirron kulua ei kuitenkaan eritellä yhtä selkeästi, eikä siirron kestoa, maakattavuutta, suomalaista Y-tunnusta tai riippumatonta arviolähdettä löydy ladatuilta sivuilta.",
+ "evidence": {
+  "siirtokustannus_esilla": "Hinnoittelusivu: 'Standard Free, Standard Plus €3.99/month, Plus Premium €10.99/month...' — tilikohtaiset kuukausimaksut näkyvät, mutta erillistä kansainvälisen rahansiirron kulua ei eritellä yhtä selkeästi.",
+  "valuuttakurssi_kerrottu": "Hinnoittelusivu: 'Currency exchange amount with no additional fees, Mon - Fri. Fair usage limits and fees for all exchanges apply depending on your plan... €1,000/month limit... Additional weekend currency exchange fees 1%, 0.5%, No fees.'",
+  "nopeus_kerrottu": "HAVAINTO: Siirron kestoa ei kerrota näillä sivuilla.",
+  "kattavuus_kerrottu": "HAVAINTO: Kohdemaiden tai valuuttojen lukumäärää ei kerrota näillä sivuilla.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta englanninkielisellä Suomi-markkinasivulla; ei myöskään viitattu suoraan Revolut Bank UAB:n tai Revolut Ltd:n rekisteröintiin näillä sivuilla.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä ladatuilla sivuilla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "Etusivu: 'Download the app' toistuu useassa kohdassa, ja koko palvelu on rakennettu sovelluskeskeisesti."
+ },
+ "updated": "2026-08-08"
+}

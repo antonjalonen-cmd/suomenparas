@@ -321,6 +321,14 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
     ],
+    "rahansiirtopalvelut": [
+        ("siirtokustannus_esilla", "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä", 30),
+        ("valuuttakurssi_kerrottu", "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti", 20),
+        ("nopeus_kerrottu", "Siirron arvioitu kesto kerrotaan", 15),
+        ("kattavuus_kerrottu", "Kohdemaiden tai -valuuttojen kattavuus kerrottu", 10),
+        ("y_tunnus_esilla", "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
     # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
     # does the company tell you the price before you hand over your data?
     "autokatsastus": [

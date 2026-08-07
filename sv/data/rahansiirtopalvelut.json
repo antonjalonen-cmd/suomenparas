@@ -1,0 +1,1322 @@
+{
+ "slug": "rahansiirtopalvelut",
+ "nimi": "Rahansiirtopalvelut",
+ "nav": "Rahansiirto",
+ "h1": "Suomen paras kansainvälinen rahansiirtopalvelu 2026",
+ "yksikko": "kansainvälistä rahansiirtopalvelua",
+ "lead": "Kansainvälinen rahansiirto voi maksaa enemmän piilotetussa valuuttakurssissa kuin näkyvässä siirtomaksussa. Pisteytimme {n} Suomessa käytettyä rahansiirtopalvelua {m} mittarilla. Tärkein kysymys: näetkö todellisen kokonaiskulun ennen kirjautumista, vai vasta kun olet syöttänyt tietosi?",
+ "meta_title": "Suomen paras kansainvälinen rahansiirtopalvelu 2026 — palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 kansainvälistä rahansiirtopalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Kaksi ääripäätä: laskuri etusivulla vs. laskuri piilossa.</b> Paysend ja Wise näyttävät todellisen siirtokulun ja valuuttakurssin suoraan etusivulla ilman kirjautumista — Paysendillä jopa valmiiksi täytetty esimerkkisiirto kurssiin asti. Western Union ja MoneyGram sen sijaan lupaavat avoimuutta sanallisesti (\"ei yllätyksiä tai piilokuluja\") mutta eivät näytä yhtään euromäärää ilman kohdemaan ja summan valitsemista laskurista.",
+  "Yksikään kuudesta ei ilmoita suomalaista Y-tunnusta suomenkielisellä tai englanninkielisellä Suomi-markkinasivullaan, vaikka kaikki toimivat laillisesti Suomessa EU:n maksupalveludirektiivin nojalla. Paysend on ainoa, joka nimeää tarkan toimiluvan (Irlannin keskuspankin sähkörahayhteisölupa, Firm Reference Number C443739) suoraan sivullaan.",
+  "Emme vertaile todellisia siirtokuluja emmekä suosittele yksittäistä palvelua — todellinen kulu riippuu summasta, valuutasta ja maksutavasta. Mittaamme sitä, kertooko palvelu nämä tiedot ennen kuin pyytää henkilötietojasi."
+ ],
+ "yritykset": [
+  {
+   "slug": "paysend",
+   "nimi": "Paysend",
+   "domain": "paysend.com",
+   "omistaja": "Paysend EU Designated Activity Company, rekisteröity Irlannissa (yritysnumero 678642), Irlannin keskuspankin valvoma sähkörahayhteisö (Firm Reference Number C443739) — sivun oma jalkatunniste",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 63.3,
+   "pillars": {
+    "digitaalinen": 72.7,
+    "lapinakyvyys": 85.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 80.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "44/100",
+       "paino": 40,
+       "pisteet": 44,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "97/100",
+       "paino": 30,
+       "pisteet": 97,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'International money transfer from Finland. Transfer money online to over 170 countries around the world starting from 0 EUR. You send EUR Recipient gets UZS Fee: 0,00 EUR.'"
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Today's rate: 1,00 EUR = 13 739,3471 UZS' — esimerkkikurssi näytetään suoraan."
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Should arrive: In a few minutes' ja 'Money is usually transferred on the same day.'"
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Transfer money online to over 170 countries around the world.'"
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivun jalkatunniste: 'Paysend EU Designated Activity Company is incorporated in the Republic of Ireland with company registration number 678642... authorised and regulated by the Central Bank of Ireland (Firm Reference Number: C443739).'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista etusivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita suoraan etusivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 44,
+    "accessibility": 97,
+    "seo": 100,
+    "best_practices": 73,
+    "lcp_ms": 5323.675500000001,
+    "cls": 0,
+    "tbt_ms": 2941.842
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Etusivulla suoraan konkreettinen esimerkkisiirto ilman kirjautumista: 'You send EUR... Recipient gets UZS. Fee: 0,00 EUR. Today's rate: 1,00 EUR = 13 739,3471 UZS. Should arrive: In a few minutes'",
+    "Kattavuus kerrotaan lukuna: 'Transfer money online to over 170 countries around the world'",
+    "Toimilupa ja rekisteröinti kerrotaan täsmällisesti: 'Paysend EU Designated Activity Company is incorporated in the Republic of Ireland with company registration number 678642... authorised and regulated by the Central Bank of Ireland (Firm Reference Number: C443739) as an electronic money institution'"
+   ],
+   "kehityskohteet": [
+    "Ei suomalaista Y-tunnusta; sivustolla toimiva yhtiö on irlantilainen sähkörahayhteisö, ei suomalaisrekisteröity",
+    "Ei riippumatonta arviolähdettä (esim. Trustpilot) mainittu etusivulla",
+    "Ei puhelinnumeroa, sähköpostia tai chat-tukea suoraan näkyvissä etusivulla"
+   ],
+   "yhteenveto": "Paysend (Paysend EU Designated Activity Company, rekisteröity Irlannissa, Irlannin keskuspankin valvoma sähkörahayhteisö) näyttää etusivullaan konkreettisen esimerkkisiirron kuluineen ja kurssineen ilman kirjautumista, ja kattavuus (170+ maata) sekä toimilupa kerrotaan täsmällisesti. Suomalaista Y-tunnusta tai riippumatonta arviolähdettä ei kuitenkaan ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "wise",
+   "nimi": "Wise",
+   "domain": "wise.com",
+   "omistaja": "Wise Payments Limited (Iso-Britannia), julkisesti noteerattu (LSE: WISE); sivun oma hinnoittelusivu korostaa keski-markkinakurssin käyttöä; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 53.5,
+   "pillars": {
+    "digitaalinen": 64.5,
+    "lapinakyvyys": 55.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 78.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "25/100",
+       "paino": 40,
+       "pisteet": 25,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "91/100",
+       "paino": 30,
+       "pisteet": 91,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Fees at a glance... Sending money. Fee varies by currency. From 0.74%.'"
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Fair exchange rates. We only use the mid-market rate — the one you can check on Google. Truly transparent pricing. Always know what you're paying upfront, unlike others who hide their cut.'"
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla tai hinnoittelusivulla ei kerrota yleistä siirtoaikaa; tarkka arvio vaatisi laskurin käyttöä valitulla valuutalla."
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu kuvaa palvelun kansainväliseksi tiliksi ('The international account for sending, spending and converting money like a local') mutta ei anna tarkkaa maiden tai valuuttojen lukumäärää näillä sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ladatuilla sivuilla ei näy suomalaista Y-tunnusta; sivu on englanninkielinen Suomi-markkinasivu."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun linkkilistassa on viittaus 'wise-reviews' -sivulle, mutta itse ladatuilla sivuilla ei näy Trustpilot-arvosanaa tai muuta riippumatonta lukua."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu esittelee 'Wise Account'-tuotteen osana ydinpalvelua, ja hinnoittelusivu viittaa sovelluksessa näkyviin tietoihin ('check under Your spending limits in the app')."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 25,
+    "accessibility": 91,
+    "seo": 85,
+    "best_practices": 96,
+    "lcp_ms": 12598.919500000002,
+    "cls": 0.0651972675022035,
+    "tbt_ms": 7285.326999999996
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelusivu asettaa läpinäkyvyyden koko myyntiväitteeksi: 'Other providers hide fees in the exchange rate to charge you more. Not Wise. See our great rates and low, clear prices' ja 'We only use the mid-market rate — the one you can check on Google'",
+    "Konkreettinen aloitushinta näkyy ilman kirjautumista: 'Sending money... Fee varies by currency. From 0.74%'",
+    "Mobiilisovellus mainitaan osana ydintuotetta ('Wise Account'), ja tili- ja korttipalvelut on eritelty selkeästi henkilö- ja yritysasiakkaille"
+   ],
+   "kehityskohteet": [
+    "Siirron arvioitua kestoa ei kerrota etusivulla tai hinnoittelusivulla yleisellä tasolla; tarkka aika-arvio vaatisi kohdemaan ja valuutan valitsemisen laskurista",
+    "Kattavuutta (kuinka moneen maahan tai valuuttaan palvelu ulottuu) ei kerrota tarkkana lukuna näillä sivuilla",
+    "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä (esim. Trustpilot) mainita ladatuilla sivuilla, vaikka Wise on julkisesti noteerattu yhtiö"
+   ],
+   "yhteenveto": "Wise (Wise Payments Limited, Iso-Britannia, LSE: WISE) rakentaa koko markkinointinsa hintaläpinäkyvyyden varaan: hinnoittelusivu lupaa keski-markkinakurssin käytön ja näyttää aloitushinnan (alkaen 0,74 %) ilman kirjautumista. Siirron kestoa tai tarkkaa maakattavuutta ei kuitenkaan kerrota yleisellä tasolla, eikä sivuilta löydy suomalaista Y-tunnusta tai riippumatonta arviolähdettä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "skrill",
+   "nimi": "Skrill",
+   "domain": "skrill.com",
+   "omistaja": "Skrill Limited, osa Paysafe-konsernia (Iso-Britannia); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 41.3,
+   "pillars": {
+    "digitaalinen": 62.5,
+    "lapinakyvyys": 30.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 67.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "18/100",
+       "paino": 40,
+       "pisteet": 18,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Fees-sivu: 'Deposit funds. Local payment methods fee: 0.00%, fee: 1.00%, fee: Up to 1.00%... Global payment methods fee: 1.25%.' Myös noston kulut eritelty (esim. 'fee: 1.75% Minimum fee of EUR 3.50')."
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Fees-sivulla on oma osio 'Currency conversion', mutta itse kurssimarginaalin laskentaperiaatetta ei selitetä sanallisesti fetchatulla sivulla."
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Siirron kestoa ei kerrota fees-sivulla tai etusivulla."
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kohdemaiden tai valuuttojen lukumäärää ei kerrota fetchatuilla sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla; sivut ovat englanninkielisiä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita suoraan ladatuilla sivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 18,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 7451.921799999998,
+    "cls": 0.2420828725774328,
+    "tbt_ms": 8367.0431
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Erillinen 'Fees'-sivu kokoaa kaikki maksut yhteen tarkkana taulukkona: 'All fees, clearly listed in one place', jaoteltuna talletuksiin, nostoihin, valuutanvaihtoon ja korttimaksuihin",
+    "Konkreettiset prosenttiluvut näkyvät ilman kirjautumista, esim. talletus paikallisilla maksutavoilla '0,00 %' tai '1,00 %', kansainväliset maksutavat '1,25 %'",
+    "Palvelu kattaa laajan käyttötarkoitusjoukon (rahansiirto, verkkomaksut, vedonlyönti, forex-rahoitus, pelaaminen), mikä kertoo monipuolisesta digitaalisesta lompakkopalvelusta"
+   ],
+   "kehityskohteet": [
+    "Valuuttakurssimarginaalia ei kerrota erikseen fees-sivulla; vain prosenttimaksut on eritelty, ei itse kurssin laskentatapaa",
+    "Siirron kestoa tai kattavuutta (kohdemaiden lukumäärää) ei kerrota fees-sivulla eikä etusivulla",
+    "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä millään ladatulla sivulla"
+   ],
+   "yhteenveto": "Skrill (Skrill Limited, osa Paysafe-konsernia) kokoaa kaikki maksunsa erilliselle Fees-sivulle konkreettisina prosenttilukuina ilman kirjautumista. Valuuttakurssimarginaalia, siirron kestoa tai maakattavuutta ei kuitenkaan kerrota, eikä sivustolla ole suomalaista Y-tunnusta tai riippumatonta arviolähdettä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "revolut",
+   "nimi": "Revolut",
+   "domain": "revolut.com",
+   "omistaja": "Revolut Ltd / Revolut Bank UAB (Liettuan pankkilisenssi EU-alueella); ei suomalaista Y-tunnusta sivun englanninkielisellä Suomi-markkinasivulla",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 40.0,
+   "pillars": {
+    "digitaalinen": 64.4,
+    "lapinakyvyys": 25.0,
+    "tavoitettavuus": 10.0,
+    "ai_laatu": 55.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "14/100",
+       "paino": 40,
+       "pisteet": 14,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Standard Free, Standard Plus €3.99/month, Plus Premium €10.99/month...' — tilikohtaiset kuukausimaksut näkyvät, mutta erillistä kansainvälisen rahansiirron kulua ei eritellä yhtä selkeästi."
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Currency exchange amount with no additional fees, Mon - Fri. Fair usage limits and fees for all exchanges apply depending on your plan... €1,000/month limit... Additional weekend currency exchange fees 1%, 0.5%, No fees.'"
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Siirron kestoa ei kerrota näillä sivuilla."
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kohdemaiden tai valuuttojen lukumäärää ei kerrota näillä sivuilla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta englanninkielisellä Suomi-markkinasivulla; ei myöskään viitattu suoraan Revolut Bank UAB:n tai Revolut Ltd:n rekisteröintiin näillä sivuilla."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä ladatuilla sivuilla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Download the app' toistuu useassa kohdassa, ja koko palvelu on rakennettu sovelluskeskeisesti."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "60/100",
+       "paino": 34,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "62/100",
+       "paino": 33,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 14,
+    "accessibility": 100,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 38209.86400000001,
+    "cls": 0.30832320777642774,
+    "tbt_ms": 2977.999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Yksityiskohtainen tilivertailutaulukko viidelle tasolle (Standard, Plus, Premium, Metal, Ultra) hintoineen: 'Standard Free, Plus €3.99/month, Premium €10.99/month...'",
+    "Valuutanvaihdon kuukausittaiset ilmaisrajat ja viikonloppulisät kerrotaan tarkasti: '€1,000/month limit... Additional weekend currency exchange fees 1%, 0.5%, No fees'",
+    "Mobiilisovellus on ydintuote ja mainitaan toistuvasti ('Download the app'), ja palvelu kattaa laajan tuotevalikoiman pankkitoiminnasta kortteihin ja säästämiseen"
+   ],
+   "kehityskohteet": [
+    "Rahan kansainvälisen SIIRRON (eri henkilölle lähettäminen) erillistä kulua ei eritellä yhtä selkeästi kuin valuutanvaihdon rajoja — sivu keskittyy tilitasojen vertailuun, ei suoraan lähetyskuluihin",
+    "Siirron kestoa tai kohdemaiden/valuuttojen kattavuutta ei kerrota näillä sivuilla",
+    "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä (esim. Trustpilot) mainittu ladatuilla sivuilla"
+   ],
+   "yhteenveto": "Revolut esittää yksityiskohtaisen viisitasoisen tilivertailun hintoineen, ja valuutanvaihdon ilmaisrajat sekä viikonloppulisät kerrotaan tarkasti prosentteina. Varsinaisen kansainvälisen rahansiirron kulua ei kuitenkaan eritellä yhtä selkeästi, eikä siirron kestoa, maakattavuutta, suomalaista Y-tunnusta tai riippumatonta arviolähdettä löydy ladatuilta sivuilta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "western-union",
+   "nimi": "Western Union",
+   "domain": "westernunion.com",
+   "omistaja": "The Western Union Company (Yhdysvallat), julkisesti noteerattu (NYSE: WU); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 31.8,
+   "pillars": {
+    "digitaalinen": 65.8,
+    "lapinakyvyys": 0.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 35.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "48/100",
+       "paino": 40,
+       "pisteet": 48,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "73/100",
+       "paino": 30,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "73/100",
+       "paino": 15,
+       "pisteet": 73,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun staattisessa sisällössä ei ole yhtään euromääräistä kulua tai prosenttilukua; haut 'maksu', 'kulu' ja '€' eivät löytäneet osumia leipätekstistä."
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Valuuttakurssia ei kerrota etusivulla tai käyttöehdoissa."
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Siirron kestoa ei kerrota näillä sivuilla."
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Kohdemaiden lukumäärää ei kerrota etusivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Käyttöehtosivu on pitkälti kielivalitsin eikä sisällä Y-tunnusta suomeksi ladatussa versiossa."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista etusivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun päävalikossa oma 'Ohje'-kohta, joka viittaa tukiaiheisiin."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun päävalikko: 'Rahansiirtosovellus' omana kohtanaan."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "50/100",
+       "paino": 34,
+       "pisteet": 50,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "15/100",
+       "paino": 33,
+       "pisteet": 15,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "40/100",
+       "paino": 33,
+       "pisteet": 40,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 48,
+    "accessibility": 73,
+    "seo": 92,
+    "best_practices": 73,
+    "lcp_ms": 3266.76,
+    "cls": 0.02563959037158621,
+    "tbt_ms": 9903.966000000004
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Palvelu on täysin suomenkielinen, mukaan lukien käyttöliittymä ja käyttöehtosivu",
+    "Mobiilisovellus (Rahansiirtosovellus) ja seurantatoiminto ('Seuraa rahansiirtoa') ovat omina päävalikon kohtinaan",
+    "Sivustolla on 'Ohje'-osio joka viittaa usein kysyttyihin kysymyksiin liittyviin aiheisiin"
+   ],
+   "kehityskohteet": [
+    "Yhtään euromääräistä siirtokulua tai prosenttilukua ei näy etusivulla tai käyttöehdoissa ilman kirjautumista ja kohteen valitsemista",
+    "Valuuttakurssia, siirron kestoa tai kattavuutta (maiden lukumäärää) ei kerrota konkreettisesti näillä sivuilla",
+    "Ei suomalaista Y-tunnusta millään ladatulla sivulla, vaikka Western Union on globaalisti tunnettu, julkisesti noteerattu yhtiö (NYSE: WU)"
+   ],
+   "yhteenveto": "Western Union tarjoaa täysin suomenkielisen palvelun mobiilisovelluksineen ja seurantatoimintoineen, mutta ei näytä yhtään todellista siirtokulua, valuuttakurssia tai kattavuuslukua etusivulla tai käyttöehdoissa ilman kirjautumista ja kohteen valitsemista. Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "moneygram",
+   "nimi": "MoneyGram",
+   "domain": "moneygram.com",
+   "omistaja": "MoneyGram International, Inc. (Yhdysvallat); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 30.7,
+   "pillars": {
+    "digitaalinen": 62.6,
+    "lapinakyvyys": 10.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 44.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivulla luvataan 'mitä maksat ja mitä vastaanottaja saa ennen lähetystä. Ei yllätyksiä tai piilokuluja', mutta yhtään euromääräistä kulua ei näy staattisessa sisällössä — laskuri vaatii kohdemaan ja summan valinnan."
+      },
+      {
+       "mittari": "Käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivu lupaa 'erinomaiset valuuttakurssit', mutta ei näytä tarkkaa kurssia tai marginaalia ilman laskurin käyttöä."
+      },
+      {
+       "mittari": "Siirron arvioitu kesto kerrotaan",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Siirron kestoa ei kerrota etusivulla."
+      },
+      {
+       "mittari": "Kohdemaiden tai -valuuttojen kattavuus kerrottu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Maata 200+ Toimipistettä 470 000+ Kokemusta 85+ vuotta.'"
+      },
+      {
+       "mittari": "Y-tunnus tai virallinen toimilupa/rekisteröinti esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta etusivulla; linkki 'corporate.moneygram.com/about' viittaa emoyhtiön sivulle, jota ei fetchattu tässä."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä etusivulla."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista etusivulla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita suoraan etusivulla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 6201.638999999997,
+    "cls": 0.0008170299193633038,
+    "tbt_ms": 11117.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavuus kerrotaan konkreettisina lukuina etusivulla: 'Maata 200+, Toimipistettä 470 000+, Kokemusta 85+ vuotta'",
+    "Lupaa avoimuutta sanallisesti: 'mitä maksat ja mitä vastaanottaja saa ennen lähetystä. Ei yllätyksiä tai piilokuluja'",
+    "Etusivu on täysin suomenkielinen ja tarjoaa suoran lähetyslomakkeen ('Lähetysmaa: Suomi')"
+   ],
+   "kehityskohteet": [
+    "Lupauksesta huolimatta yhtään euromääräistä siirtokulua tai prosenttilukua ei näy etusivulla ilman kohdemaan ja summan valitsemista laskurista",
+    "Valuuttakurssia tai sen marginaalia ei kerrota konkreettisesti etusivulla",
+    "Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä millään ladatulla sivulla; MoneyGram on kuitenkin julkisesti noteerattu yhtiö (NASDAQ: MGRM)"
+   ],
+   "yhteenveto": "MoneyGram lupaa etusivullaan avoimuutta ('ei yllätyksiä tai piilokuluja') ja kertoo laajan kattavuutensa konkreettisina lukuina (200+ maata, 470 000+ toimipistettä), mutta ei näytä yhtään todellista siirtokulua tai valuuttakurssia ilman laskurin käyttöä. Ei suomalaista Y-tunnusta eikä riippumatonta arviolähdettä.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "8.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Siirtokustannus (€ tai %) näkyy ilman rekisteröitymistä (30), käytetty valuuttakurssi tai kurssimarginaali kerrotaan avoimesti (20), siirron arvioitu kesto kerrotaan (15), kohdemaiden tai -valuuttojen kattavuus kerrottu (10), Y-tunnus tai virallinen toimilupa/rekisteröinti esillä (10), riippumaton arviolähde esillä (15)"
+}

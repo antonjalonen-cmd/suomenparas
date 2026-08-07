@@ -1,0 +1,45 @@
+{
+ "slug": "paysend",
+ "fetched_ok": [
+  "https://www.paysend.com/fi"
+ ],
+ "siirtokustannus_esilla": "kylla",
+ "valuuttakurssi_kerrottu": "kylla",
+ "nopeus_kerrottu": "kylla",
+ "kattavuus_kerrottu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 70},
+ "vahvuudet": [
+  "Etusivulla suoraan konkreettinen esimerkkisiirto ilman kirjautumista: 'You send EUR... Recipient gets UZS. Fee: 0,00 EUR. Today's rate: 1,00 EUR = 13 739,3471 UZS. Should arrive: In a few minutes'",
+  "Kattavuus kerrotaan lukuna: 'Transfer money online to over 170 countries around the world'",
+  "Toimilupa ja rekisteröinti kerrotaan täsmällisesti: 'Paysend EU Designated Activity Company is incorporated in the Republic of Ireland with company registration number 678642... authorised and regulated by the Central Bank of Ireland (Firm Reference Number: C443739) as an electronic money institution'"
+ ],
+ "kehityskohteet": [
+  "Ei suomalaista Y-tunnusta; sivustolla toimiva yhtiö on irlantilainen sähkörahayhteisö, ei suomalaisrekisteröity",
+  "Ei riippumatonta arviolähdettä (esim. Trustpilot) mainittu etusivulla",
+  "Ei puhelinnumeroa, sähköpostia tai chat-tukea suoraan näkyvissä etusivulla"
+ ],
+ "yhteenveto": "Paysend (Paysend EU Designated Activity Company, rekisteröity Irlannissa, Irlannin keskuspankin valvoma sähkörahayhteisö) näyttää etusivullaan konkreettisen esimerkkisiirron kuluineen ja kurssineen ilman kirjautumista, ja kattavuus (170+ maata) sekä toimilupa kerrotaan täsmällisesti. Suomalaista Y-tunnusta tai riippumatonta arviolähdettä ei kuitenkaan ole.",
+ "evidence": {
+  "siirtokustannus_esilla": "Etusivu: 'International money transfer from Finland. Transfer money online to over 170 countries around the world starting from 0 EUR. You send EUR Recipient gets UZS Fee: 0,00 EUR.'",
+  "valuuttakurssi_kerrottu": "Etusivu: 'Today's rate: 1,00 EUR = 13 739,3471 UZS' — esimerkkikurssi näytetään suoraan.",
+  "nopeus_kerrottu": "Etusivu: 'Should arrive: In a few minutes' ja 'Money is usually transferred on the same day.'",
+  "kattavuus_kerrottu": "Etusivu: 'Transfer money online to over 170 countries around the world.'",
+  "y_tunnus_esilla": "Sivun jalkatunniste: 'Paysend EU Designated Activity Company is incorporated in the Republic of Ireland with company registration number 678642... authorised and regulated by the Central Bank of Ireland (Firm Reference Number: C443739).'",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä etusivulla.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy etusivulla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista etusivulla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt etusivulta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita suoraan etusivulla."
+ },
+ "updated": "2026-08-08"
+}

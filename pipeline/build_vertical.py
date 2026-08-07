@@ -126,6 +126,8 @@ MEASURED = {
     "matka-ja-hotellivertailut": "5.8.2026",
     "hintavertailupalvelut": "5.8.2026",
     "puhelinliittymavertailu": "5.8.2026",
+    # erä 22
+    "rahansiirtopalvelut": "8.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

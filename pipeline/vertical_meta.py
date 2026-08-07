@@ -2208,3 +2208,36 @@ META["puhelinliittymavertailu"] = {
          "vertailupalvelujen omaa avoimuutta."),
     ],
 }
+
+# ---------------------------------------------------------------- era 22 (8.8.2026)
+META["rahansiirtopalvelut"] = {
+    "slug": "rahansiirtopalvelut",
+    "nimi": "Rahansiirtopalvelut",
+    "nav": "Rahansiirto",
+    "h1": "Suomen paras kansainvälinen rahansiirtopalvelu 2026",
+    "yksikko": "kansainvälistä rahansiirtopalvelua",
+    "lead": ("Kansainvälinen rahansiirto voi maksaa enemmän piilotetussa "
+             "valuuttakurssissa kuin näkyvässä siirtomaksussa. Pisteytimme {n} Suomessa "
+             "käytettyä rahansiirtopalvelua {m} mittarilla. Tärkein kysymys: näetkö "
+             "todellisen kokonaiskulun ennen kirjautumista, vai vasta kun olet syöttänyt "
+             "tietosi?"),
+    "meta_title": "Suomen paras kansainvälinen rahansiirtopalvelu 2026 — palvelut pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} kansainvälistä rahansiirtopalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Kaksi ääripäätä: laskuri etusivulla vs. laskuri piilossa.</b> Paysend ja Wise "
+         "näyttävät todellisen siirtokulun ja valuuttakurssin suoraan etusivulla ilman "
+         "kirjautumista — Paysendillä jopa valmiiksi täytetty esimerkkisiirto kurssiin "
+         "asti. Western Union ja MoneyGram sen sijaan lupaavat avoimuutta sanallisesti "
+         "(\"ei yllätyksiä tai piilokuluja\") mutta eivät näytä yhtään euromäärää ilman "
+         "kohdemaan ja summan valitsemista laskurista."),
+        ("Yksikään kuudesta ei ilmoita suomalaista Y-tunnusta suomenkielisellä tai "
+         "englanninkielisellä Suomi-markkinasivullaan, vaikka kaikki toimivat laillisesti "
+         "Suomessa EU:n maksupalveludirektiivin nojalla. Paysend on ainoa, joka nimeää "
+         "tarkan toimiluvan (Irlannin keskuspankin sähkörahayhteisölupa, Firm Reference "
+         "Number C443739) suoraan sivullaan."),
+        ("Emme vertaile todellisia siirtokuluja emmekä suosittele yksittäistä palvelua — "
+         "todellinen kulu riippuu summasta, valuutasta ja maksutavasta. Mittaamme "
+         "sitä, kertooko palvelu nämä tiedot ennen kuin pyytää henkilötietojasi."),
+    ],
+}
