@@ -2241,3 +2241,34 @@ META["rahansiirtopalvelut"] = {
          "sitä, kertooko palvelu nämä tiedot ennen kuin pyytää henkilötietojasi."),
     ],
 }
+
+META["verkkokauppa-alustat"] = {
+    "slug": "verkkokauppa-alustat",
+    "nimi": "Verkkokauppa-alustat",
+    "nav": "Verkkokauppa-alustat",
+    "h1": "Suomen paras verkkokauppa-alusta 2026",
+    "yksikko": "verkkokauppa-alustaa",
+    "lead": ("Verkkokaupan perustaminen on SaaS-ostopäätös siinä missä kirjanpito-ohjelmakin. "
+             "Pisteytimme {n} Suomessa käytettyä verkkokauppa-alustaa {m} mittarilla. Tärkein "
+             "kysymys: näetkö kuukausihinnan heti, vai pitääkö ottaa yhteyttä myyntiin?"),
+    "meta_title": "Suomen paras verkkokauppa-alusta 2026 — alustat pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} verkkokauppa-alustaa pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>WooCommerce kääntää koko hinnoittelulogiikan ympäri.</b> Kun muut alustat "
+         "myyvät kuukausitilausta, WooCommeren ydintuote on kokonaan ilmainen ja avoimen "
+         "lähdekoodin: \"0% revenue share... no tiers or surprise fees\". Käyttäjä maksaa "
+         "vain valitsemistaan lisäosista ja hostauksesta, ei alustasta itsestään."),
+        ("Kotisivukone on ainoa, joka nimeää hinnoittelusivunsa suoraan läpinäkyvyys-"
+         "lupaukseksi (\"Ei arvailuja, ei yllätyksiä\") ja näyttää tarkan kuukausihinnan "
+         "sekä kertaluonteisen aloitusmaksun erikseen jokaiselle kolmelle tasolle. "
+         "Vilkas puolestaan on ainoa, jonka hinnoittelusivulla ei näy yhtään euromäärää — "
+         "hinta selviää vasta yhteydenotosta."),
+        ("Vain MyCashflow (Pulse247 Oy) kertoo omistavan yhtiönsä ja Y-tunnuksensa "
+         "suoraan sivullaan. Shopify ja WooCommerce ovat ulkomaisia pörssi-/pörssiyhtiön "
+         "tytäryhtiöitä eikä niillä ole syytäkään suomalaiseen Y-tunnukseen, mutta Vilkas "
+         "ja Kotisivukone ovat molemmat suomalaisia yrityksiä, joiden oma Y-tunnus ei "
+         "silti näy niiden etusivuilla. Emme suosittele yksittäistä alustaa — oikea "
+         "valinta riippuu tuotemäärästä, teknisestä osaamisesta ja budjetista."),
+    ],
+}

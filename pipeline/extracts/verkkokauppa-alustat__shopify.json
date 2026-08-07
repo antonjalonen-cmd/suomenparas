@@ -1,0 +1,46 @@
+{
+ "slug": "shopify",
+ "fetched_ok": [
+  "https://www.shopify.com/fi",
+  "https://www.shopify.com/fi/pricing"
+ ],
+ "hinta_esilla": "kylla",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "osittain",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "kylla",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 85, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 82},
+ "vahvuudet": [
+  "Hinnoittelusivu näyttää konkreettiset kuukausihinnat neljälle tasolle: 'Basic... Maksa kuukausittain 32 € EUR/kk, Maksa vuosittain 24 € EUR/kk' sekä Grow-, Advanced- ja Plus-tasot",
+  "'Aloita käyttö ilmaiseksi' -kokeilu tarjotaan näkyvästi etusivulla ja hinnoittelusivulla ilman luottokorttivaatimusta",
+  "Ominaisuudet on eritelty tarkasti hinnoittelutaulukossa: myyntikanavat, varastonhallinta, kassaominaisuudet, kolmannen osapuolen yhteistoimijat ja raportointi tasoittain"
+ ],
+ "kehityskohteet": [
+  "Koko suomenkielinen sivusto on käännetty, mutta suoraa mainintaa suomenkielisestä ASIAKASTUESTA (esim. suomenkielinen chat tai puhelinpalvelu) ei löytynyt näiltä sivuilta",
+  "Ei suomalaista Y-tunnusta millään ladatulla sivulla — Shopify on kanadalainen, julkisesti noteerattu yhtiö",
+  "Puhelinnumeroa tai sähköpostiosoitetta ei näy suoraan etusivulla tai hinnoittelusivulla; tuki on ohjattu chat-/ohjekeskusreitille"
+ ],
+ "yhteenveto": "Shopify (Shopify Inc., Kanada, NYSE/TSX: SHOP) näyttää tarkat kuukausihinnat neljälle tasolle suomenkielisellä hinnoittelusivulla ja tarjoaa ilmaisen kokeilun ilman luottokorttia. Ominaisuudet on eritelty tasoittain yksityiskohtaisesti. Suomenkielistä asiakastukea ei kuitenkaan mainita erikseen, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "Hinnoittelusivu: 'Vertaa kaikkia ominaisuuksia Basic Grow Advanced Plus... Maksa kuukausittain 32 € EUR/kk Maksa vuosittain 24 € EUR/kk.'",
+  "ilmainen_kokeilu": "Etusivu ja hinnoittelusivu: 'Aloita käyttö ilmaiseksi.'",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee: 'Verkkokauppa Kaikki ominaisuudet Teemat ja mallit Myy rajattomasti tuotteita Maailman parhaiten konvertoiva kassa Myy sosiaalisessa mediassa ja markkinapaikoilla... Varastonhallinta Varastosijainnit 10 Lisähenkilöstötilit Kutsu kolmannen osapuolen yhteistoimijoita.'",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan suomeksi, mutta erillistä mainintaa suomenkielisestä asiakastuesta (chat, puhelin) ei löytynyt näiltä sivuilta; 'tuki'-sana esiintyy vain yleisessä yhteydessä.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "HAVAINTO: Sivustolla on usein kysyttyihin kysymyksiin viittaavaa sisältöä hinnoittelusivulla; erillistä 'Ohjekeskus'-sanaa ei osunut, mutta ohjeistusta ja tuotelinkkejä (Verkkosivujen rakentaja, Teemat, Verkkotunnukset) on runsaasti.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy etusivulla tai hinnoittelusivulla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan etusivulla tai hinnoittelusivulla.",
+  "chat_mainittu": "HAVAINTO: 'Sidekick' mainitaan kaupankäyntiavustajana ('Se on kätevä kaupankäyntiavustajasi'), ja sivustolla on yleisesti chat-tyyppinen tukikanava käytössä.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Hinnoittelusivulla on kysymys-vastaus-tyyppistä sisältöä hinnoittelusta.",
+  "mobiilisovellus": "Etusivu mainitsee 'Shop-sovellus' osana myyntikanavia."
+ },
+ "updated": "2026-08-08"
+}

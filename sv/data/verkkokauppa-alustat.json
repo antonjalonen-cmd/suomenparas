@@ -1,0 +1,1105 @@
+{
+ "slug": "verkkokauppa-alustat",
+ "nimi": "Verkkokauppa-alustat",
+ "nav": "Verkkokauppa-alustat",
+ "h1": "Suomen paras verkkokauppa-alusta 2026",
+ "yksikko": "verkkokauppa-alustaa",
+ "lead": "Verkkokaupan perustaminen on SaaS-ostopäätös siinä missä kirjanpito-ohjelmakin. Pisteytimme {n} Suomessa käytettyä verkkokauppa-alustaa {m} mittarilla. Tärkein kysymys: näetkö kuukausihinnan heti, vai pitääkö ottaa yhteyttä myyntiin?",
+ "meta_title": "Suomen paras verkkokauppa-alusta 2026 — alustat pisteytettynä | Suomen Paras",
+ "meta_desc": "5 verkkokauppa-alustaa pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>WooCommerce kääntää koko hinnoittelulogiikan ympäri.</b> Kun muut alustat myyvät kuukausitilausta, WooCommeren ydintuote on kokonaan ilmainen ja avoimen lähdekoodin: \"0% revenue share... no tiers or surprise fees\". Käyttäjä maksaa vain valitsemistaan lisäosista ja hostauksesta, ei alustasta itsestään.",
+  "Kotisivukone on ainoa, joka nimeää hinnoittelusivunsa suoraan läpinäkyvyys-lupaukseksi (\"Ei arvailuja, ei yllätyksiä\") ja näyttää tarkan kuukausihinnan sekä kertaluonteisen aloitusmaksun erikseen jokaiselle kolmelle tasolle. Vilkas puolestaan on ainoa, jonka hinnoittelusivulla ei näy yhtään euromäärää — hinta selviää vasta yhteydenotosta.",
+  "Vain MyCashflow (Pulse247 Oy) kertoo omistavan yhtiönsä ja Y-tunnuksensa suoraan sivullaan. Shopify ja WooCommerce ovat ulkomaisia pörssi-/pörssiyhtiön tytäryhtiöitä eikä niillä ole syytäkään suomalaiseen Y-tunnukseen, mutta Vilkas ja Kotisivukone ovat molemmat suomalaisia yrityksiä, joiden oma Y-tunnus ei silti näy niiden etusivuilla. Emme suosittele yksittäistä alustaa — oikea valinta riippuu tuotemäärästä, teknisestä osaamisesta ja budjetista."
+ ],
+ "yritykset": [
+  {
+   "slug": "shopify",
+   "nimi": "Shopify",
+   "domain": "shopify.com",
+   "omistaja": "Shopify Inc. (Kanada), julkisesti noteerattu (NYSE/TSX: SHOP); ei suomalaista Y-tunnusta suomenkielisellä hinnoittelusivulla",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 70.9,
+   "pillars": {
+    "digitaalinen": 70.5,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 85.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "38/100",
+       "paino": 40,
+       "pisteet": 38,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Vertaa kaikkia ominaisuuksia Basic Grow Advanced Plus... Maksa kuukausittain 32 € EUR/kk Maksa vuosittain 24 € EUR/kk.'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu ja hinnoittelusivu: 'Aloita käyttö ilmaiseksi.'"
+      },
+      {
+       "mittari": "Maksutavat, teemat ja integraatiot kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee: 'Verkkokauppa Kaikki ominaisuudet Teemat ja mallit Myy rajattomasti tuotteita Maailman parhaiten konvertoiva kassa Myy sosiaalisessa mediassa ja markkinapaikoilla... Varastonhallinta Varastosijainnit 10 Lisähenkilöstötilit Kutsu kolmannen osapuolen yhteistoimijoita.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan suomeksi, mutta erillistä mainintaa suomenkielisestä asiakastuesta (chat, puhelin) ei löytynyt näiltä sivuilta; 'tuki'-sana esiintyy vain yleisessä yhteydessä."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on usein kysyttyihin kysymyksiin viittaavaa sisältöä hinnoittelusivulla; erillistä 'Ohjekeskus'-sanaa ei osunut, mutta ohjeistusta ja tuotelinkkejä (Verkkosivujen rakentaja, Teemat, Verkkotunnukset) on runsaasti."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy etusivulla tai hinnoittelusivulla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan etusivulla tai hinnoittelusivulla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: 'Sidekick' mainitaan kaupankäyntiavustajana ('Se on kätevä kaupankäyntiavustajasi'), ja sivustolla on yleisesti chat-tyyppinen tukikanava käytössä."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivulla on kysymys-vastaus-tyyppistä sisältöä hinnoittelusta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu mainitsee 'Shop-sovellus' osana myyntikanavia."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "85/100",
+       "paino": 34,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 38,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 5849.646500000001,
+    "cls": 0.03264597848485012,
+    "tbt_ms": 2064.9177499999996
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelusivu näyttää konkreettiset kuukausihinnat neljälle tasolle: 'Basic... Maksa kuukausittain 32 € EUR/kk, Maksa vuosittain 24 € EUR/kk' sekä Grow-, Advanced- ja Plus-tasot",
+    "'Aloita käyttö ilmaiseksi' -kokeilu tarjotaan näkyvästi etusivulla ja hinnoittelusivulla ilman luottokorttivaatimusta",
+    "Ominaisuudet on eritelty tarkasti hinnoittelutaulukossa: myyntikanavat, varastonhallinta, kassaominaisuudet, kolmannen osapuolen yhteistoimijat ja raportointi tasoittain"
+   ],
+   "kehityskohteet": [
+    "Koko suomenkielinen sivusto on käännetty, mutta suoraa mainintaa suomenkielisestä ASIAKASTUESTA (esim. suomenkielinen chat tai puhelinpalvelu) ei löytynyt näiltä sivuilta",
+    "Ei suomalaista Y-tunnusta millään ladatulla sivulla — Shopify on kanadalainen, julkisesti noteerattu yhtiö",
+    "Puhelinnumeroa tai sähköpostiosoitetta ei näy suoraan etusivulla tai hinnoittelusivulla; tuki on ohjattu chat-/ohjekeskusreitille"
+   ],
+   "yhteenveto": "Shopify (Shopify Inc., Kanada, NYSE/TSX: SHOP) näyttää tarkat kuukausihinnat neljälle tasolle suomenkielisellä hinnoittelusivulla ja tarjoaa ilmaisen kokeilun ilman luottokorttia. Ominaisuudet on eritelty tasoittain yksityiskohtaisesti. Suomenkielistä asiakastukea ei kuitenkaan mainita erikseen, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "woocommerce",
+   "nimi": "WooCommerce",
+   "domain": "woocommerce.com",
+   "omistaja": "Automattic Inc. (Yhdysvallat) — WordPress.comin ja Jetpackin taustayhtiö; WooCommerce on avoimen lähdekoodin WordPress-lisäosa; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 58.3,
+   "pillars": {
+    "digitaalinen": 71.0,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 72.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "32/100",
+       "paino": 40,
+       "pisteet": 32,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "94/100",
+       "paino": 30,
+       "pisteet": 94,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'WooCommerce pricing puts you in control... Core platform: WooCommerce Free, w[ith...] 0% revenue share.'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'WooCommerce is free to download and use.' Ydintuote on ilmainen, ei vain aikarajoitettu kokeilu."
+      },
+      {
+       "mittari": "Maksutavat, teemat ja integraatiot kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Choose any payments, any features, any host. Sell online and offline, locally or globally. Adapt your platform to fit your needs.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Omistavan yhtiön (Automattic Inc.) nimeä ei näy suoraan ladatuilla sivuilla; ei myöskään suomalaista Y-tunnusta."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun valikossa 'Resources' ja 'Get support' -kohdat viittaavat ohjesisältöön; hinnoittelusivulla myös 'Estimate your costs' -työkalu."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä nimettyä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta; 'Resources'-valikko viittaa yleisemmin ohjesisältöön."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita erikseen ladatuilla sivuilla."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "72/100",
+       "paino": 34,
+       "pisteet": 72,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "78/100",
+       "paino": 33,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "68/100",
+       "paino": 33,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 32,
+    "accessibility": 94,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 9537.7282,
+    "cls": 0,
+    "tbt_ms": 5148.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelumalli on poikkeuksellisen avoin: '0 % revenue share. Core platform: WooCommerce Free... WooCommerce is free to download and use, and you choose where to invest your budget from there. Get everything you need and nothing you don't, with total transparency and no tiers or surprise fees'",
+    "Ydintuote on kokonaan ilmainen ja avoimen lähdekoodin ('WooCommerce is the free, open-source ecommerce platform for WordPress'), mikä poistaa kokeilukynnyksen kokonaan",
+    "Alustan joustavuus on kuvattu tarkasti: 'Choose any payments, any features, any host. Sell online and offline, locally or globally'"
+   ],
+   "kehityskohteet": [
+    "Suomenkielistä versiota, sisältöä tai tukea ei löydy — koko sivusto on englanniksi eikä mainitse suomenkielistä asiakastukea",
+    "Omistavan yhtiön (Automattic Inc.) nimeä tai virallista rekisteröintiä ei näy suoraan ladatuilla sivuilla — se tunnistettiin taustatiedosta, ei sivun omasta sisällöstä",
+    "Ei puhelinnumeroa, sähköpostia tai chat-tukea suoraan näkyvissä etusivulla tai hinnoittelusivulla; 'Get support' on oma valikkokohtansa mutta ei avaa yhteystietoja näillä sivuilla"
+   ],
+   "yhteenveto": "WooCommerce erottuu poikkeuksellisen avoimella hinnoittelumallilla: ydinalusta on täysin ilmainen ja avoimen lähdekoodin, eikä alustaprosenttia tai piilokuluja peritä ('0% revenue share... no tiers or surprise fees'). Palvelu on kuitenkin kokonaan englanninkielinen ilman mainittua suomenkielistä tukea, eikä omistavan yhtiön nimeä tai rekisteröintiä näy ladatuilla sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "mycashflow",
+   "nimi": "MyCashflow",
+   "domain": "mycashflow.fi",
+   "omistaja": "Pulse247 Oy (PRH 2131570-6, Kajaani) — sivun oma yhteystietosivu: \"Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla\"",
+   "y_tunnus": "2131570-6",
+   "rekisteroity": 2007,
+   "score": 55.2,
+   "pillars": {
+    "digitaalinen": 69.5,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 59.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "29/100",
+       "paino": 40,
+       "pisteet": 29,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Osittain",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnasto-sivun otsikko on 'Hinnat ja palvelupaketit', mutta staattisessa sisällössä ei näkynyt yksittäisiä euromääräisiä kuukausihintoja; sivu ohjaa 'Tarkista verkkokauppasi kustannukset – laske, kuinka paljon voit säästää!' -laskuriin."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ilmaista kokeilujaksoa ei mainittu millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Maksutavat, teemat ja integraatiot kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Verkkokaupan perustaminen... Verkkokaupan siirto... Räätälöity verkkokauppa... Kasvumarkkinointi... Kevytbrändäys... B2B-verkkokauppa Luo verkkokauppa yrity[sasiakkaille].'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: erillinen 'Tuki'-osio: 'Ohjekeskus Lue kattavat ohjeet MyCashflow'n käyttöön... Oppaat... Koulutukset Opiskele verkkokaupan mestariksi koulutusten avulla.'"
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'Yritys. Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla.' Sivun tekstistä löytyy myös Y-tunnus 2131570-6."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivu: 'UKK Lue usein kysytyt kysymykset palvelustamme.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystietosivulla oma 'UKK'-kohta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "68/100",
+       "paino": 34,
+       "pisteet": 68,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "45/100",
+       "paino": 33,
+       "pisteet": 45,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 29,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 7900.0244999999995,
+    "cls": 0.05498678592068816,
+    "tbt_ms": 3549
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus ja omistava yhtiö kerrotaan avoimesti yhteystietosivulla: 'Yritys. Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla', Y-tunnus 2131570-6, Kajaani",
+    "Laaja palveluvalikoima on eritelty selkeästi: verkkokaupan perustaminen, verkkokaupan siirto, räätälöity verkkokauppa, kasvumarkkinointi, kevytbrändäys ja B2B-verkkokauppa omina osioinaan",
+    "Suomenkielinen tuki ja ohjesisältö ovat vahvasti esillä: erillinen 'Tuki'-osio ohjekeskuksineen, oppaineen ja koulutuksineen"
+   ],
+   "kehityskohteet": [
+    "Hinnasto-sivu on olemassa, mutta tarkkoja kuukausihintoja ei näkynyt staattisessa haussa ilman tarkempaa laskuria — sivu kehottaa 'Tarkista verkkokauppasi kustannukset' -laskurin käyttöön",
+    "Ilmaista kokeilujaksoa ei mainita millään ladatulla sivulla; palvelu vaikuttaa myyntikontaktivetoiselta ('ota yhteyttä myyntiin')",
+    "Ei puhelinnumeroa, sähköpostia tai chat-tukea suoraan näkyvissä sivuilla; yhteydenotto tapahtuu lomakkeen kautta"
+   ],
+   "yhteenveto": "MyCashflow (Pulse247 Oy, Y-tunnus 2131570-6, Kajaani) kertoo omistajansa avoimesti ja tarjoaa laajan, suomenkielisen palveluvalikoiman ohjeineen ja tukineen. Tarkkoja kuukausihintoja ei kuitenkaan näy staattisesti — hinnasto ohjaa kustannuslaskuriin — eikä ilmaista kokeilua mainita.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "kotisivukone",
+   "nimi": "Kotisivukone",
+   "domain": "kotisivukone.fi",
+   "omistaja": "Omistavaa yhtiötä ei löydy etusivulta: ei Y-tunnusta eikä yhtiön omaa nimeä (sivun ainoat 'Oy'-osumat ovat asiakasreferenssien yritysnimiä)",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 54.4,
+   "pillars": {
+    "digitaalinen": 54.3,
+    "lapinakyvyys": 77.5,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 74.1
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "14/100",
+       "paino": 40,
+       "pisteet": 14,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "78/100",
+       "paino": 30,
+       "pisteet": 78,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Kotisivukoneen hinnoittelu... Verkkokaupalle Tee verkkosivustostasi myyntikanava ja myy tuotteitasi helposti 88€/kk + aloitusmaksu 2200€ + alv.'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Tekoälypohjainen työkalumme luo sinulle henkilökohtaisen sivustoehdotuksen muutamassa minuutissa. Sen kokeilu on täysin ilmaista, se ei vaadi luottokorttia eikä sido mihinkään.'"
+      },
+      {
+       "mittari": "Maksutavat, teemat ja integraatiot kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee kolme tasoa: 'Löytymiseen... 38€/kk + aloitusmaksu 1100€ + alv... Tarjouspyyntöihin... 59€/kk + aloitusmaksu 1450€ + alv... Verkkokaupalle... 88€/kk + aloitusmaksu 2200€ + alv', kullekin omat ominaisuudet (mm. SEO-sisältö, sivumäärä, ulkoasu)."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivusto on suomenkielinen, mutta erillistä mainintaa suomenkielisestä asiakastuesta (esim. puhelinpalvelu tai chat) ei löytynyt näiltä sivuilta."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Etusivun kaikki 'Oy'-osumat ovat asiakasreferenssejä (esim. 'JuurevaPro Oy', 'Kiti Talous Oy'); omistavan yhtiön omaa nimeä tai Y-tunnusta ei löytynyt."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota tai ohjekeskusta ei löytynyt ladatuilta sivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä UKK-osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 14,
+    "accessibility": 78,
+    "seo": 92,
+    "best_practices": 77,
+    "lcp_ms": 18062.37325,
+    "cls": 0.3268117085040574,
+    "tbt_ms": 2669.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelusivun otsikko on itsessään läpinäkyvyyslupaus ('Ei arvailuja, ei yllätyksiä'), ja verkkokauppapaketin hinta näkyy tarkkana lukuna: 'Verkkokaupalle... 88€/kk + aloitusmaksu 2200€ + alv'",
+    "Ilmainen, sitoumukseton kokeilu on selkeästi kuvattu: 'Sen kokeilu on täysin ilmaista, se ei vaadi luottokorttia eikä sido mihinkään'",
+    "Kolme selkeää palvelutasoa (Löytymiseen, Tarjouspyyntöihin, Verkkokaupalle) on eritelty hintoineen ja ominaisuuksineen vertailutaulukossa"
+   ],
+   "kehityskohteet": [
+    "Omistavan yhtiön nimeä tai Y-tunnusta ei löydy etusivulta; ainoat 'Oy'-osumat ovat asiakasreferenssien yritysnimiä, ei Kotisivukoneen omaa",
+    "Suomenkielisyys on ilmeistä sisällöstä, mutta erillistä mainintaa suomenkielisestä ASIAKASTUESTA (esim. puhelinpalvelu) ei löytynyt näiltä sivuilta",
+    "Ei puhelinnumeroa, sähköpostia, chat-tukea tai erillistä UKK-osiota suoraan näkyvissä ladatuilla sivuilla"
+   ],
+   "yhteenveto": "Kotisivukone erottuu selkeällä hinnoittelulupauksella ('Ei arvailuja, ei yllätyksiä') ja näyttää verkkokauppapaketin tarkan hinnan (88€/kk + 2200€ aloitusmaksu) sekä täysin ilmaisen, luottokortittoman kokeilun. Omistavan yhtiön nimeä tai Y-tunnusta ei kuitenkaan löydy etusivulta, eikä suoria yhteystietoja tai UKK-osiota näy ladatuilla sivuilla.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "vilkas",
+   "nimi": "Vilkas",
+   "domain": "vilkas.fi",
+   "omistaja": "Vilkas Group Oy (Tampere) — yhtiön nimi mainitaan etusivun alatunnisteessa, mutta Y-tunnusnumeroa ei näy sivulla itsellään",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 40.6,
+   "pillars": {
+    "digitaalinen": 66.8,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 0.0,
+    "ai_laatu": 42.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "77/100",
+       "paino": 15,
+       "pisteet": 77,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: /hinnoittelu-sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa tai kuukausimaksua; hinnat renderöityvät todennäköisesti JavaScriptilla tai vaativat yhteydenottoa."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ilmaista kokeilujaksoa ei mainittu millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Maksutavat, teemat ja integraatiot kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Tee se itse -verkkokauppa Moderni ja helppokäyttöinen pohja verkkokaupalle. Vilkas Now Verkkokaupan perustaminen... Räätälöity verkkokauppa Kokonaisvaltaiset digitaalisen verkkoliiketoiminnan ratkaisut. Vilkas Suite PrestaShop... Apteekin verkkokauppa... B2B-verkkokauppa.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko sivusto on suomenkielinen ja kohdennettu suomalaisyrityksille; erillistä mainintaa suomenkielisestä tukikanavasta (chat/puhelin) ei kuitenkaan löytynyt."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Osittain",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun rakenteessa mainitaan 'Vilkas Group Oy', mutta Y-tunnusnumeroa (7 numeroa-viiva-numero) ei löytynyt regex-haulla etusivun raaka-HTML:stä."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Ei",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota tai ohjekeskusta ei löytynyt ladatuilta sivuilta."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä UKK-osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "18/100",
+       "paino": 33,
+       "pisteet": 18,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "55/100",
+       "paino": 33,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 89,
+    "seo": 100,
+    "best_practices": 77,
+    "lcp_ms": 11232.856000000003,
+    "cls": 0.02209008843427927,
+    "tbt_ms": 1615.8919999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Laaja ratkaisuvalikoima on eritelty selkeästi: 'Tee se itse' -verkkokauppa, Vilkas Now, räätälöity verkkokauppa, Vilkas Suite, PrestaShop, apteekin verkkokauppa ja B2B-verkkokauppa omina osioinaan",
+    "Yhtiön nimi mainitaan avoimesti sivun rakenteessa: 'Vilkas Group Oy'",
+    "Palvelu on kokonaan suomenkielinen ja kohdennettu suomalaisille yrityksille eri toimialoille (mm. apteekit)"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelusivu on olemassa omalla osoitteellaan, mutta staattisessa sisällössä ei näkynyt yhtään euromääräistä hintaa tai kuukausimaksua",
+    "Ilmaista kokeilujaksoa ei mainita millään ladatulla sivulla",
+    "Yhtiön nimi ('Vilkas Group Oy') mainitaan, mutta itse Y-tunnusnumeroa ei löytynyt sivun staattisesta sisällöstä; ei myöskään puhelinta, sähköpostia, chat-tukea tai UKK-osiota"
+   ],
+   "yhteenveto": "Vilkas (Vilkas Group Oy, Tampere) tarjoaa laajan valikoiman verkkokauppa­ratkaisuja eri kokoisille ja toimialaisille suomalaisyrityksille, ja yhtiön nimi mainitaan sivun rakenteessa. Hinnoittelusivu on olemassa, mutta ei näytä yhtään konkreettista hintaa staattisesti, eikä sivulta löydy Y-tunnusnumeroa, ilmaista kokeilua tai yhteystietoja.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "8.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta tai hinnoittelu julkisesti esillä (30), ilmainen kokeilujakso tai freemium tarjolla (20), maksutavat, teemat ja integraatiot kuvattu (20), suomenkielinen asiakastuki mainittu (15), Y-tunnus tai omistava yhtiö esillä (10), ohjekeskus, oppaat tai UKK saatavilla (5)"
+}

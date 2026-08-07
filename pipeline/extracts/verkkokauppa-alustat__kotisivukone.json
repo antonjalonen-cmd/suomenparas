@@ -1,0 +1,46 @@
+{
+ "slug": "kotisivukone",
+ "fetched_ok": [
+  "https://kotisivukone.fi/",
+  "https://kotisivukone.fi/hinnoittelu/"
+ ],
+ "hinta_esilla": "kylla",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "osittain",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 82, "sisallon_kattavuus": 60},
+ "vahvuudet": [
+  "Hinnoittelusivun otsikko on itsessään läpinäkyvyyslupaus ('Ei arvailuja, ei yllätyksiä'), ja verkkokauppapaketin hinta näkyy tarkkana lukuna: 'Verkkokaupalle... 88€/kk + aloitusmaksu 2200€ + alv'",
+  "Ilmainen, sitoumukseton kokeilu on selkeästi kuvattu: 'Sen kokeilu on täysin ilmaista, se ei vaadi luottokorttia eikä sido mihinkään'",
+  "Kolme selkeää palvelutasoa (Löytymiseen, Tarjouspyyntöihin, Verkkokaupalle) on eritelty hintoineen ja ominaisuuksineen vertailutaulukossa"
+ ],
+ "kehityskohteet": [
+  "Omistavan yhtiön nimeä tai Y-tunnusta ei löydy etusivulta; ainoat 'Oy'-osumat ovat asiakasreferenssien yritysnimiä, ei Kotisivukoneen omaa",
+  "Suomenkielisyys on ilmeistä sisällöstä, mutta erillistä mainintaa suomenkielisestä ASIAKASTUESTA (esim. puhelinpalvelu) ei löytynyt näiltä sivuilta",
+  "Ei puhelinnumeroa, sähköpostia, chat-tukea tai erillistä UKK-osiota suoraan näkyvissä ladatuilla sivuilla"
+ ],
+ "yhteenveto": "Kotisivukone erottuu selkeällä hinnoittelulupauksella ('Ei arvailuja, ei yllätyksiä') ja näyttää verkkokauppapaketin tarkan hinnan (88€/kk + 2200€ aloitusmaksu) sekä täysin ilmaisen, luottokortittoman kokeilun. Omistavan yhtiön nimeä tai Y-tunnusta ei kuitenkaan löydy etusivulta, eikä suoria yhteystietoja tai UKK-osiota näy ladatuilla sivuilla.",
+ "evidence": {
+  "hinta_esilla": "Hinnoittelusivu: 'Kotisivukoneen hinnoittelu... Verkkokaupalle Tee verkkosivustostasi myyntikanava ja myy tuotteitasi helposti 88€/kk + aloitusmaksu 2200€ + alv.'",
+  "ilmainen_kokeilu": "Hinnoittelusivu: 'Tekoälypohjainen työkalumme luo sinulle henkilökohtaisen sivustoehdotuksen muutamassa minuutissa. Sen kokeilu on täysin ilmaista, se ei vaadi luottokorttia eikä sido mihinkään.'",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee kolme tasoa: 'Löytymiseen... 38€/kk + aloitusmaksu 1100€ + alv... Tarjouspyyntöihin... 59€/kk + aloitusmaksu 1450€ + alv... Verkkokaupalle... 88€/kk + aloitusmaksu 2200€ + alv', kullekin omat ominaisuudet (mm. SEO-sisältö, sivumäärä, ulkoasu).",
+  "tuki_suomeksi": "HAVAINTO: Koko sivusto on suomenkielinen, mutta erillistä mainintaa suomenkielisestä asiakastuesta (esim. puhelinpalvelu tai chat) ei löytynyt näiltä sivuilta.",
+  "y_tunnus_esilla": "HAVAINTO: Etusivun kaikki 'Oy'-osumat ovat asiakasreferenssejä (esim. 'JuurevaPro Oy', 'Kiti Talous Oy'); omistavan yhtiön omaa nimeä tai Y-tunnusta ei löytynyt.",
+  "ukk_ja_ohjeet": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota tai ohjekeskusta ei löytynyt ladatuilta sivuilta.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä UKK-osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-08"
+}

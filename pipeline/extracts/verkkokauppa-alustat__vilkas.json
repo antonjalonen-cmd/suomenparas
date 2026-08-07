@@ -1,0 +1,46 @@
+{
+ "slug": "vilkas",
+ "fetched_ok": [
+  "https://www.vilkas.fi/",
+  "https://www.vilkas.fi/hinnoittelu"
+ ],
+ "hinta_esilla": "ei",
+ "ilmainen_kokeilu": "ei",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "kylla",
+ "y_tunnus_esilla": "osittain",
+ "ukk_ja_ohjeet": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 18, "sisallon_kattavuus": 55},
+ "vahvuudet": [
+  "Laaja ratkaisuvalikoima on eritelty selkeästi: 'Tee se itse' -verkkokauppa, Vilkas Now, räätälöity verkkokauppa, Vilkas Suite, PrestaShop, apteekin verkkokauppa ja B2B-verkkokauppa omina osioinaan",
+  "Yhtiön nimi mainitaan avoimesti sivun rakenteessa: 'Vilkas Group Oy'",
+  "Palvelu on kokonaan suomenkielinen ja kohdennettu suomalaisille yrityksille eri toimialoille (mm. apteekit)"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelusivu on olemassa omalla osoitteellaan, mutta staattisessa sisällössä ei näkynyt yhtään euromääräistä hintaa tai kuukausimaksua",
+  "Ilmaista kokeilujaksoa ei mainita millään ladatulla sivulla",
+  "Yhtiön nimi ('Vilkas Group Oy') mainitaan, mutta itse Y-tunnusnumeroa ei löytynyt sivun staattisesta sisällöstä; ei myöskään puhelinta, sähköpostia, chat-tukea tai UKK-osiota"
+ ],
+ "yhteenveto": "Vilkas (Vilkas Group Oy, Tampere) tarjoaa laajan valikoiman verkkokauppa­ratkaisuja eri kokoisille ja toimialaisille suomalaisyrityksille, ja yhtiön nimi mainitaan sivun rakenteessa. Hinnoittelusivu on olemassa, mutta ei näytä yhtään konkreettista hintaa staattisesti, eikä sivulta löydy Y-tunnusnumeroa, ilmaista kokeilua tai yhteystietoja.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: /hinnoittelu-sivun staattisessa HTML:ssä ei ole yhtään euromääräistä hintaa tai kuukausimaksua; hinnat renderöityvät todennäköisesti JavaScriptilla tai vaativat yhteydenottoa.",
+  "ilmainen_kokeilu": "HAVAINTO: Ilmaista kokeilujaksoa ei mainittu millään ladatulla sivulla.",
+  "ominaisuudet_kuvattu": "Etusivu: 'Tee se itse -verkkokauppa Moderni ja helppokäyttöinen pohja verkkokaupalle. Vilkas Now Verkkokaupan perustaminen... Räätälöity verkkokauppa Kokonaisvaltaiset digitaalisen verkkoliiketoiminnan ratkaisut. Vilkas Suite PrestaShop... Apteekin verkkokauppa... B2B-verkkokauppa.'",
+  "tuki_suomeksi": "HAVAINTO: Koko sivusto on suomenkielinen ja kohdennettu suomalaisyrityksille; erillistä mainintaa suomenkielisestä tukikanavasta (chat/puhelin) ei kuitenkaan löytynyt.",
+  "y_tunnus_esilla": "HAVAINTO: Sivun rakenteessa mainitaan 'Vilkas Group Oy', mutta Y-tunnusnumeroa (7 numeroa-viiva-numero) ei löytynyt regex-haulla etusivun raaka-HTML:stä.",
+  "ukk_ja_ohjeet": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota tai ohjekeskusta ei löytynyt ladatuilta sivuilta.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä UKK-osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-08"
+}

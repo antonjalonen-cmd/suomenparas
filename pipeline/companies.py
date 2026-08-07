@@ -2045,3 +2045,22 @@ COMPANIES["rahansiirtopalvelut"] = [
          y_tunnus=None,
          omistaja="Skrill Limited, osa Paysafe-konsernia (Iso-Britannia); ei suomalaista Y-tunnusta löytynyt ladatuilta sivuilta"),
 ]
+
+# VERKKOKAUPPA-ALUSTAT (8.8.2026).
+COMPANIES["verkkokauppa-alustat"] = [
+    dict(slug="shopify", nimi="Shopify", domain="shopify.com",
+         y_tunnus=None,
+         omistaja="Shopify Inc. (Kanada), julkisesti noteerattu (NYSE/TSX: SHOP); ei suomalaista Y-tunnusta suomenkielisellä hinnoittelusivulla"),
+    dict(slug="woocommerce", nimi="WooCommerce", domain="woocommerce.com",
+         y_tunnus=None,
+         omistaja="Automattic Inc. (Yhdysvallat) — WordPress.comin ja Jetpackin taustayhtiö; WooCommerce on avoimen lähdekoodin WordPress-lisäosa; ei suomalaista Y-tunnusta"),
+    dict(slug="mycashflow", nimi="MyCashflow", domain="mycashflow.fi",
+         y_tunnus="2131570-6",
+         omistaja="Pulse247 Oy (PRH 2131570-6, Kajaani) — sivun oma yhteystietosivu: \"Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla\""),
+    dict(slug="vilkas", nimi="Vilkas", domain="vilkas.fi",
+         y_tunnus=None,
+         omistaja="Vilkas Group Oy (Tampere) — yhtiön nimi mainitaan etusivun alatunnisteessa, mutta Y-tunnusnumeroa ei näy sivulla itsellään"),
+    dict(slug="kotisivukone", nimi="Kotisivukone", domain="kotisivukone.fi",
+         y_tunnus=None,
+         omistaja="Omistavaa yhtiötä ei löydy etusivulta: ei Y-tunnusta eikä yhtiön omaa nimeä (sivun ainoat 'Oy'-osumat ovat asiakasreferenssien yritysnimiä)"),
+]

@@ -1,0 +1,47 @@
+{
+ "slug": "mycashflow",
+ "fetched_ok": [
+  "https://www.mycashflow.fi/",
+  "https://www.mycashflow.fi/hinnasto",
+  "https://www.mycashflow.fi/ota-yhteytta"
+ ],
+ "hinta_esilla": "osittain",
+ "ilmainen_kokeilu": "ei",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 68, "hintojen_loydettavyys": 45, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Y-tunnus ja omistava yhtiö kerrotaan avoimesti yhteystietosivulla: 'Yritys. Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla', Y-tunnus 2131570-6, Kajaani",
+  "Laaja palveluvalikoima on eritelty selkeästi: verkkokaupan perustaminen, verkkokaupan siirto, räätälöity verkkokauppa, kasvumarkkinointi, kevytbrändäys ja B2B-verkkokauppa omina osioinaan",
+  "Suomenkielinen tuki ja ohjesisältö ovat vahvasti esillä: erillinen 'Tuki'-osio ohjekeskuksineen, oppaineen ja koulutuksineen"
+ ],
+ "kehityskohteet": [
+  "Hinnasto-sivu on olemassa, mutta tarkkoja kuukausihintoja ei näkynyt staattisessa haussa ilman tarkempaa laskuria — sivu kehottaa 'Tarkista verkkokauppasi kustannukset' -laskurin käyttöön",
+  "Ilmaista kokeilujaksoa ei mainita millään ladatulla sivulla; palvelu vaikuttaa myyntikontaktivetoiselta ('ota yhteyttä myyntiin')",
+  "Ei puhelinnumeroa, sähköpostia tai chat-tukea suoraan näkyvissä sivuilla; yhteydenotto tapahtuu lomakkeen kautta"
+ ],
+ "yhteenveto": "MyCashflow (Pulse247 Oy, Y-tunnus 2131570-6, Kajaani) kertoo omistajansa avoimesti ja tarjoaa laajan, suomenkielisen palveluvalikoiman ohjeineen ja tukineen. Tarkkoja kuukausihintoja ei kuitenkaan näy staattisesti — hinnasto ohjaa kustannuslaskuriin — eikä ilmaista kokeilua mainita.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: Hinnasto-sivun otsikko on 'Hinnat ja palvelupaketit', mutta staattisessa sisällössä ei näkynyt yksittäisiä euromääräisiä kuukausihintoja; sivu ohjaa 'Tarkista verkkokauppasi kustannukset – laske, kuinka paljon voit säästää!' -laskuriin.",
+  "ilmainen_kokeilu": "HAVAINTO: Ilmaista kokeilujaksoa ei mainittu millään ladatulla sivulla.",
+  "ominaisuudet_kuvattu": "Etusivu: 'Verkkokaupan perustaminen... Verkkokaupan siirto... Räätälöity verkkokauppa... Kasvumarkkinointi... Kevytbrändäys... B2B-verkkokauppa Luo verkkokauppa yrity[sasiakkaille].'",
+  "tuki_suomeksi": "Etusivu: erillinen 'Tuki'-osio: 'Ohjekeskus Lue kattavat ohjeet MyCashflow'n käyttöön... Oppaat... Koulutukset Opiskele verkkokaupan mestariksi koulutusten avulla.'",
+  "y_tunnus_esilla": "Yhteystietosivu: 'Yritys. Tutustu Pulse247 Oy:n tarinaan MyCashflow'n taustalla.' Sivun tekstistä löytyy myös Y-tunnus 2131570-6.",
+  "ukk_ja_ohjeet": "Yhteystietosivu: 'UKK Lue usein kysytyt kysymykset palvelustamme.'",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista ladatuilla sivuilla.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Yhteystietosivulla oma 'UKK'-kohta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-08"
+}

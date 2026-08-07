@@ -735,6 +735,17 @@ TRANSPARENCY["kirjanpito-ohjelmistot"] = [
     ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
 ]
 
+# --- era 22 (8.8.2026): verkkokauppa-alustat -------------------------------------
+# Sama SaaS-kaava kuin kirjanpito-ohjelmistoilla: hinta on ostopäätöksen peruste.
+TRANSPARENCY["verkkokauppa-alustat"] = [
+    ("hinta_esilla", "Kuukausihinta tai hinnoittelu julkisesti esillä", 30),
+    ("ilmainen_kokeilu", "Ilmainen kokeilujakso tai freemium tarjolla", 20),
+    ("ominaisuudet_kuvattu", "Maksutavat, teemat ja integraatiot kuvattu", 20),
+    ("tuki_suomeksi", "Suomenkielinen asiakastuki mainittu", 15),
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä", 10),
+    ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
+]
+
 # --- era 15 (3.8.2026): lentoyhtiöt ----------------------------------------------
 # Kaikki paitsi Finnair ovat globaaleja yhtiöitä — vpn-palvelut-konventio:
 # omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta
