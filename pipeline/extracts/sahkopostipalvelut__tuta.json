@@ -1,0 +1,40 @@
+{
+ "slug": "tuta",
+ "fetched_ok": [
+  "https://tuta.com/pricing",
+  "https://tuta.com/support"
+ ],
+ "hinta_esilla": "ei",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "ei",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 18, "sisallon_kattavuus": 58},
+ "vahvuudet": [
+  "Ilmainen taso tarjotaan selkeästi omana pakettinaan: 'Free Get a taste... 1 GB storage One calendar 3 labels'",
+  "Tallennustila ja ominaisuudet on eritelty tasoittain: 'Revolutionary... 20 GB storage Unlimited number of calendars... 3 custom domains' / 'Legend... 500 GB storage... 10 custom domains'",
+  "Tukisivulla on jäsennelty UKK-osio aihepiireittäin: 'Frequently Asked Questions General questions Security and Privacy How to use Tuta Payment'"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelusivun staattisessa sisällössä ei näy yhtään euromääräistä kuukausihintaa millekään maksulliselle tasolle; hintakentät ovat tyhjiä",
+  "Palvelu on kokonaan englanninkielinen näillä ladatuilla sivuilla, eikä suomenkielistä tukea mainita",
+  "Puhelinnumeroa, sähköpostiosoitetta, chat-tukea tai mobiilisovellusta ei mainita erikseen millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Tuta (Tutao GmbH, Saksa) tarjoaa selkeän ilmaisen tason ja erittelee tallennustilan ja ominaisuudet tasoittain, ja tukisivulla on jäsennelty UKK-osio. Maksullisten tasojen tarkat kuukausihinnat eivät kuitenkaan näy sivun staattisessa sisällössä, palvelu on kokonaan englanniksi, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: Hinnoittelusivun staattisessa sisällössä maksullisten tasojen ('Revolutionary', 'Legend') hintakentät ovat tyhjiä ('/month'); todelliset summat renderöityvät todennäköisesti JavaScriptilla.",
+  "ilmainen_kokeilu": "Hinnoittelusivu: 'Free Get a taste... Fully encrypted, no tracking 1 GB storage One calendar 3 labels'.",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee tasot: 'Revolutionary... 20 GB storage Unlimited number of calendars Unlimited number of labels 15 extra email addresses 3 custom domains' / 'Legend... 500 GB storage... 10 custom domains'.",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan englanniksi näillä ladatuilla sivuilla; suomenkielistä tukea ei mainita.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "Tukisivu: 'How can we help you? Frequently Asked Questions General questions Security and Privacy How to use Tuta Payment'."
+ },
+ "updated": "2026-08-08"
+}

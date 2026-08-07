@@ -1,0 +1,40 @@
+{
+ "slug": "proton-mail",
+ "fetched_ok": [
+  "https://proton.me/mail/pricing",
+  "https://proton.me/support/mail"
+ ],
+ "hinta_esilla": "ei",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "ei",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 62, "hintojen_loydettavyys": 20, "sisallon_kattavuus": 70},
+ "vahvuudet": [
+  "Ilmainen tili tarjotaan näkyvästi ilman luottokorttia: 'Create a free account' toistuu useassa kohdassa sivua",
+  "Yksityisyyteen ja salaukseen liittyvät ominaisuudet on kuvattu tarkasti tasoittain: tallennustila, käyttäjämäärä, verkkotunnukset, salaus",
+  "Mobiili- ja työpöytäsovellukset ladattavissa: 'Mobile apps iOS... Android... Desktop apps macOS Windows Linux'"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelusivun staattisessa sisällössä maksulliset hinnat näkyvät paikkamerkkeinä ('$0.00'), todelliset summat renderöityvät JavaScriptilla",
+  "Palvelu on kokonaan englanninkielinen näillä ladatuilla sivuilla, eikä suomenkielistä tukea mainita",
+  "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukikanavaa ei näy suoraan hinnoittelu- tai tukisivulla"
+ ],
+ "yhteenveto": "Proton Mail (Proton AG, Sveitsi) tarjoaa ilmaisen tilin näkyvästi ja kuvaa yksityisyys- ja salausominaisuudet tarkasti tasoittain, mutta maksullisten tasojen tarkat hinnat eivät näy sivun staattisessa sisällössä vaan renderöityvät JavaScriptilla. Palvelu on kokonaan englanniksi ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: Hinnoittelusivun staattisessa sisällössä maksullisten tasojen hinnat näkyvät paikkamerkkeinä ('$0.00'); todelliset summat renderöityvät todennäköisesti JavaScriptilla.",
+  "ilmainen_kokeilu": "Etusivu ja hinnoittelusivu: 'Create a free account' toistuu useassa kohdassa; Proton Mail -kuvaus: 'Secure email that protects your privacy Create a free account'.",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee: '500 GB storage 1 user 15 extra email addresses for you Support for 3 custom email domains Unlimited folders and labels Unlimited hide-my-email aliases'.",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan englanniksi näillä ladatuilla sivuilla; suomenkielistä tukea ei mainita.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "Tukisivu: 'Proton Mail FAQ What is Proton Mail? View details Proton Mail is the world's largest end-to-end encrypt[ed email service]'."
+ },
+ "updated": "2026-08-08"
+}

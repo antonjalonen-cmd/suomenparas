@@ -746,6 +746,18 @@ TRANSPARENCY["verkkokauppa-alustat"] = [
     ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
 ]
 
+# --- era 22 (8.8.2026): sähköpostipalvelut ---------------------------------------
+# Sama SaaS-kaava kuin verkkokauppa-alustoilla: hinta on ostopäätöksen peruste,
+# ja osa palveluista (Zoho, Proton, Tuta) piilottaa summat laskurin/JS:n taakse.
+TRANSPARENCY["sahkopostipalvelut"] = [
+    ("hinta_esilla", "Kuukausihinta tai hinnoittelu julkisesti esillä", 30),
+    ("ilmainen_kokeilu", "Ilmainen kokeilujakso tai freemium tarjolla", 20),
+    ("ominaisuudet_kuvattu", "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu", 20),
+    ("tuki_suomeksi", "Suomenkielinen asiakastuki mainittu", 15),
+    ("y_tunnus_esilla", "Y-tunnus tai omistava yhtiö esillä", 10),
+    ("ukk_ja_ohjeet", "Ohjekeskus, oppaat tai UKK saatavilla", 5),
+]
+
 # --- era 15 (3.8.2026): lentoyhtiöt ----------------------------------------------
 # Kaikki paitsi Finnair ovat globaaleja yhtiöitä — vpn-palvelut-konventio:
 # omistaja_kerrottu korvaa y_tunnuksen. Tärkein kysymys: näkyykö kokonaishinta

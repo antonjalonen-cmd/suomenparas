@@ -1,0 +1,1286 @@
+{
+ "slug": "sahkopostipalvelut",
+ "nimi": "Sähköpostipalvelut",
+ "nav": "Sähköpostipalvelut",
+ "h1": "Suomen paras sähköpostipalvelu 2026",
+ "yksikko": "sähköpostipalvelua",
+ "lead": "Yrityssähköposti on pieni mutta pitkäaikainen SaaS-sitoumus — vaihtaminen myöhemmin on tuskallista. Pisteytimme {n} sähköpostipalvelua {m} mittarilla. Tärkein kysymys: näetkö kuukausihinnan heti, vai piileekö se laskurin takana?",
+ "meta_title": "Suomen paras sähköpostipalvelu 2026 — palvelut pisteytettynä | Suomen Paras",
+ "meta_desc": "6 sähköpostipalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>Zoner on ainoa suomalainen palvelu vertailussa, ja se myös kertoo sen.</b> Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa, ja tuki on suomeksi aukioloaikoineen: puhelin, chat ja sähköposti. Se kuitenkin häviää yhden pisteen — ilmaista kokeilujaksoa ei mainita, ainoastaan 30 päivän tyytyväisyystakuu.",
+  "Kolme kuudesta piilottaa hintansa laskurin taakse. Zoho Mail, Proton Mail ja Tuta näyttävät kaikki ilmaisen tason avoimesti, mutta yhdenkään maksullisen tason euromäärä ei näy sivun staattisessa sisällössä — hinnat renderöityvät JavaScriptilla. Google Workspace, Fastmail ja Zoner sen sijaan näyttävät tarkat kuukausihinnat suoraan.",
+  "Yksikään kuudesta kansainvälisestä tai ulkomaisesta palvelusta ei mainitse suomenkielistä tukikanavaa — Google Workspacen hinnoittelusivu on suomeksi, mutta itse tukikanavan kieltä ei kerrota. Ainoastaan Zoner tarjoaa aidosti suomenkielisen asiakaspalvelun puhelimitse ja chatilla."
+ ],
+ "yritykset": [
+  {
+   "slug": "zoner",
+   "nimi": "Zoner",
+   "domain": "zoner.fi",
+   "omistaja": "Zoner Oy (PRH 1985221-1, Pakkalankuja 6, 01510 Vantaa) — Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa",
+   "y_tunnus": "1985221-1",
+   "rekisteroity": 2005,
+   "score": 78.7,
+   "pillars": {
+    "digitaalinen": 69.1,
+    "lapinakyvyys": 80.0,
+    "tavoitettavuus": 90.0,
+    "ai_laatu": 79.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "34/100",
+       "paino": 40,
+       "pisteet": 34,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "89/100",
+       "paino": 30,
+       "pisteet": 89,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostisivu: '1 Gt 1,5 € / kk + alv. Edullinen sähköpostilaatikko alkuun. 5 Gt 3 € / kk + alv... 10 Gt 5 € / kk + alv... 20 Gt 9 € / kk + alv. Sähköpostilaatikko isompaakin tarpeeseen.'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivulla mainitaan vain '30pv tyytyväisyystakuu' (rahat takaisin -takuu); erillistä ilmaista kokeilujaksoa ei löytynyt."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostisivu: 'Helppo hallinta... Aliakset... Lomavastaaja hoitaa ajastuksella automaattiset vastaukset viesteihin'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostisivu on kokonaan suomeksi ja etusivun alatunniste: 'Chat arkisin 24h la-su 9-17 Tekninen tuki 010 235 6688 arkisin 10-14 Sähköposti tuki@zoner...' sekä '24/7 asiakaspalvelu'."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun alatunniste: 'Pakkalankuja 6, 01510 Vantaa Y-tunnus: 1985221-1'."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sähköpostisivu: 'Usein kysytyt kysymykset' -linkki."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "84/100",
+       "paino": 34,
+       "pisteet": 84,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 34,
+    "accessibility": 89,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 12021.476250000003,
+    "cls": 0.022551444826392396,
+    "tbt_ms": 1184.2977499999997
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa: 'Pakkalankuja 6, 01510 Vantaa Y-tunnus: 1985221-1'",
+    "Hinnat on eritelty tarkasti sähköpostilaatikon koon mukaan: '1 Gt 1,5 € / kk + alv... 5 Gt 3 € / kk + alv... 10 Gt 5 € / kk + alv... 20 Gt 9 € / kk + alv'",
+    "Kattavat suomenkieliset yhteystiedot aukioloaikoineen: 'Chat arkisin 24h la-su 9-17 Tekninen tuki 010 235 6688 arkisin 10-14 Sähköposti tuki@zoner...'"
+   ],
+   "kehityskohteet": [
+    "Ilmaista kokeilujaksoa ei mainita millään ladatulla sivulla; ainoa vastaava etu on '30pv tyytyväisyystakuu' eli rahat takaisin -takuu, ei ilmainen kokeilu",
+    "Erillistä mobiilisovellusta ei mainita sähköpostipalvelun yhteydessä millään ladatulla sivulla",
+    "Sisällön kattavuus jää suppeaksi verrattuna suuriin kansainvälisiin kilpailijoihin: sivu keskittyy lähinnä hintatauluun ja perusominaisuuksiin (aliakset, lomavastaaja)"
+   ],
+   "yhteenveto": "Zoner (Zoner Oy, Vantaa) on ainoa suomalainen palvelu vertailussa ja kertoo Y-tunnuksensa ja osoitteensa avoimesti, näyttää tarkat kuukausihinnat sähköpostilaatikon koon mukaan ja tarjoaa kattavat suomenkieliset yhteystiedot aukioloaikoineen. Ilmaista kokeilujaksoa ei kuitenkaan mainita, ainoastaan 30 päivän tyytyväisyystakuu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "fastmail",
+   "nimi": "Fastmail",
+   "domain": "fastmail.com",
+   "omistaja": "FastMail Pty Ltd (Australia); ei suomalaista Y-tunnusta, palvelu kokonaan englanniksi",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 71.9,
+   "pillars": {
+    "digitaalinen": 85.1,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 40.0,
+    "ai_laatu": 79.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "71/100",
+       "paino": 40,
+       "pisteet": 71,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "93/100",
+       "paino": 30,
+       "pisteet": 93,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu näyttää euromääräiset hinnat eri tasoille ja laskutusjaksoille (kuukausittain/vuosittain), esim. '€6' / '€5' / '€4.75' / '€4.67' per käyttäjä/kk."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun ja hinnoittelusivun painike: 'Try for free'."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Every plan includes expert support from real people, access to all Fastmail apps, premium mail features like offline support, Scheduled Send, and integrations with 1Password, Dropbox, and more.'"
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Sivulla mainitaan 'Visit our comprehensive help center for more details.'"
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 71,
+    "accessibility": 93,
+    "seo": 92,
+    "best_practices": 100,
+    "lcp_ms": 5010.354,
+    "cls": 0,
+    "tbt_ms": 252
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Hinnoittelusivu näyttää tarkat kuukausihinnat euroissa: '€6... €5... €4.75... €4.67' eri tasoille ja laskutusjaksoille",
+    "Maksuton kokeilujakso tarjotaan: 'Try for free', ja sivu mainitsee 24/7-tuen: '24/7 expert support from real people'",
+    "Sovellukset ladattavissa App Storesta ja Google Playsta: 'Download Fastmail on the App Store... Download Fastmail on Google Play'"
+   ],
+   "kehityskohteet": [
+    "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä versiota tai tukea mainita millään ladatulla sivulla",
+    "Ei suomalaista Y-tunnusta millään ladatulla sivulla, FastMail Pty Ltd on australialainen yhtiö",
+    "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan hinnoittelusivulla; tuki on ohjattu ohjekeskuksen kautta"
+   ],
+   "yhteenveto": "Fastmail (FastMail Pty Ltd, Australia) näyttää tarkat kuukausihinnat euroissa suoraan hinnoittelusivulla ja tarjoaa maksuttoman kokeilujakson sekä mobiilisovellukset. Palvelu on kuitenkin kokonaan englanninkielinen ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "google-workspace",
+   "nimi": "Google Workspace",
+   "domain": "workspace.google.com",
+   "omistaja": "Google LLC / Alphabet Inc. (Yhdysvallat), julkisesti noteerattu (NASDAQ: GOOGL); ei suomalaista Y-tunnusta suomenkielisellä hinnoittelusivulla",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 65.3,
+   "pillars": {
+    "digitaalinen": 69.3,
+    "lapinakyvyys": 82.5,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 84.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "35/100",
+       "paino": 40,
+       "pisteet": 35,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "92/100",
+       "paino": 30,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "85/100",
+       "paino": 15,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Starter 6,80 € /käyttäjä/kk... Standard 13,60 € /käyttäjä/kk... Plus 21,10 € /käyttäjä/kk... Kaikki tilaukset laskutetaan kuukausittain. Kaikki hinnat EUR (€).'"
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Kokeile Google Workspacea 14 päivän ajan' toistuu jokaisella tasolla, esim. 'Kokeile nyt Maksuton 14 päivän ajan'."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee ominaisuudet tasoittain: tallennustila (30 Gt / 2 Tt / 5 Tt), videokokousten osallistujamäärät (100/150/500/1000), Gemini-tekoälyominaisuudet ja tietoturvaominaisuudet kullekin tasolle erikseen."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Osittain",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 7.5,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Koko hinnoittelusivu on suomeksi, mutta erillistä mainintaa suomenkielisestä tukikanavasta (puhelin, chat) ei löytynyt sivulta; ainoa mainittu yhteydenottotapa on 'Ota yhteyttä myyntiin'."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivun yläpalkin valikossa on suora linkki 'Usein kysyttyä' sekä 'Materiaalit'-osio."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 35,
+    "accessibility": 92,
+    "seo": 85,
+    "best_practices": 100,
+    "lcp_ms": 13065.3885,
+    "cls": 0,
+    "tbt_ms": 3231.500000000001
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Suomenkielinen hinnoittelusivu näyttää tarkat kuukausihinnat käyttäjää kohti kaikille tasoille: 'Starter 6,80 € /käyttäjä/kk... Standard 13,60 € /käyttäjä/kk... Plus 21,10 € /käyttäjä/kk'",
+    "Maksuton 14 päivän kokeilujakso tarjotaan näkyvästi jokaisella tasolla: 'Kokeile nyt Maksuton 14 päivän ajan'",
+    "Ominaisuudet on eritelty yksityiskohtaisesti tasoittain (tallennustila, videokokousten osallistujamäärät, tekoälyominaisuudet, tietoturva)"
+   ],
+   "kehityskohteet": [
+    "Suomenkielistä asiakastukikanavaa (esim. puhelin tai chat) ei mainita erikseen hinnoittelusivulla, vaikka sivu itsessään on suomeksi",
+    "Ei suomalaista Y-tunnusta millään ladatulla sivulla, Google on yhdysvaltalainen, julkisesti noteerattu yhtiö",
+    "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan hinnoittelusivulla; ainoa yhteydenottotapa on 'Ota yhteyttä myyntiin'"
+   ],
+   "yhteenveto": "Google Workspace (Google LLC / Alphabet Inc., NASDAQ: GOOGL) näyttää tarkat kuukausihinnat neljälle tasolle suomenkielisellä hinnoittelusivulla ja tarjoaa maksuttoman 14 päivän kokeilujakson kaikilla tasoilla. Ominaisuudet on eritelty yksityiskohtaisesti. Suomenkielistä asiakastukikanavaa ei kuitenkaan mainita erikseen, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "proton-mail",
+   "nimi": "Proton Mail",
+   "domain": "proton.me",
+   "omistaja": "Proton AG (Sveitsi); ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 54.6,
+   "pillars": {
+    "digitaalinen": 86.4,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 50.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "69/100",
+       "paino": 40,
+       "pisteet": 69,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivun staattisessa sisällössä maksullisten tasojen hinnat näkyvät paikkamerkkeinä ('$0.00'); todelliset summat renderöityvät todennäköisesti JavaScriptilla."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu ja hinnoittelusivu: 'Create a free account' toistuu useassa kohdassa; Proton Mail -kuvaus: 'Secure email that protects your privacy Create a free account'."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee: '500 GB storage 1 user 15 extra email addresses for you Support for 3 custom email domains Unlimited folders and labels Unlimited hide-my-email aliases'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi näillä ladatuilla sivuilla; suomenkielistä tukea ei mainita."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tukisivu: 'Proton Mail FAQ What is Proton Mail? View details Proton Mail is the world's largest end-to-end encrypt[ed email service]'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "62/100",
+       "paino": 34,
+       "pisteet": 62,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "20/100",
+       "paino": 33,
+       "pisteet": 20,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "70/100",
+       "paino": 33,
+       "pisteet": 70,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 69,
+    "accessibility": 96,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3678.341,
+    "cls": 0.04287157937523786,
+    "tbt_ms": 811.9275
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ilmainen tili tarjotaan näkyvästi ilman luottokorttia: 'Create a free account' toistuu useassa kohdassa sivua",
+    "Yksityisyyteen ja salaukseen liittyvät ominaisuudet on kuvattu tarkasti tasoittain: tallennustila, käyttäjämäärä, verkkotunnukset, salaus",
+    "Mobiili- ja työpöytäsovellukset ladattavissa: 'Mobile apps iOS... Android... Desktop apps macOS Windows Linux'"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelusivun staattisessa sisällössä maksulliset hinnat näkyvät paikkamerkkeinä ('$0.00'), todelliset summat renderöityvät JavaScriptilla",
+    "Palvelu on kokonaan englanninkielinen näillä ladatuilla sivuilla, eikä suomenkielistä tukea mainita",
+    "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukikanavaa ei näy suoraan hinnoittelu- tai tukisivulla"
+   ],
+   "yhteenveto": "Proton Mail (Proton AG, Sveitsi) tarjoaa ilmaisen tilin näkyvästi ja kuvaa yksityisyys- ja salausominaisuudet tarkasti tasoittain, mutta maksullisten tasojen tarkat hinnat eivät näy sivun staattisessa sisällössä vaan renderöityvät JavaScriptilla. Palvelu on kokonaan englanniksi ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "zoho-mail",
+   "nimi": "Zoho Mail",
+   "domain": "zoho.com",
+   "omistaja": "Zoho Corporation Pvt. Ltd. (Intia), yksityisomisteinen; ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 53.5,
+   "pillars": {
+    "digitaalinen": 82.2,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 25.0,
+    "ai_laatu": 51.7
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "63/100",
+       "paino": 40,
+       "pisteet": 63,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "96/100",
+       "paino": 30,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "92/100",
+       "paino": 15,
+       "pisteet": 92,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivun staattisessa HTML:ssä ei ole yhtään euro- tai dollarimääräistä hintaa maksullisille tasoille (Workplace Standard, Mail Lite jne.); hintakentät ovat tyhjiä, todennäköisesti JavaScript-renderöityjä."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Mail Free Forever free. No credit cad required Sign up Access Zoho Mail... Up to 5 users'."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee ominaisuudet tasoittain: 'Enterprise Email Calendar Shared Calendars ToDo Collaborative Task Management... Mobile & Desktop Apps... Migration Assistance'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla. Sivu mainitsee vain 'Reach us 24x7' ilman kielimainintaa."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Ohjesivu (help.zoho.com): 'Zoho Mail Resources - Help Guides and FAQs... User Guide... Deployment Guide... Admin Guide'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "58/100",
+       "paino": 34,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "22/100",
+       "paino": 33,
+       "pisteet": 22,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "75/100",
+       "paino": 33,
+       "pisteet": 75,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 63,
+    "accessibility": 96,
+    "seo": 92,
+    "best_practices": 96,
+    "lcp_ms": 9517.630000000001,
+    "cls": 0.0041855972439258735,
+    "tbt_ms": 140
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ikuisesti ilmainen taso enintään 5 käyttäjälle ilman luottokorttia: 'Mail Free Forever free. No credit cad required'",
+    "Ominaisuudet on eritelty laajasti tasoittain: tallennustila, sähköposti, kalenteri, tehtävät, migraatioapu ja työpöytäsovellukset",
+    "Mobiili- ja työpöytäsovellukset mainittu erikseen omana ominaisuutenaan: 'Mobile & Desktop Apps'"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelusivun staattisessa HTML:ssä ei näy yhtään euro- tai dollarimääräistä hintaa maksullisille tasoille; summat renderöityvät todennäköisesti JavaScriptilla",
+    "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä tukea mainita millään ladatulla sivulla",
+    "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukikanavaa ei näy suoraan hinnoittelu- tai ohjesivulla; sivu mainitsee ainoastaan 'Reach us 24x7'"
+   ],
+   "yhteenveto": "Zoho Mail (Zoho Corporation Pvt. Ltd., Intia) tarjoaa ikuisesti ilmaisen tason enintään 5 käyttäjälle ja erittelee ominaisuudet laajasti tasoittain, mutta maksullisten tasojen tarkkoja hintoja ei näy sivun staattisessa sisällössä. Palvelu on kokonaan englanniksi ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "tuta",
+   "nimi": "Tuta",
+   "domain": "tuta.com",
+   "omistaja": "Tutao GmbH (Saksa); ei suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 49.4,
+   "pillars": {
+    "digitaalinen": 80.3,
+    "lapinakyvyys": 45.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 43.8
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "62/100",
+       "paino": 40,
+       "pisteet": 62,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "85/100",
+       "paino": 30,
+       "pisteet": 85,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Kuukausihinta tai hinnoittelu julkisesti esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Hinnoittelusivun staattisessa sisällössä maksullisten tasojen ('Revolutionary', 'Legend') hintakentät ovat tyhjiä ('/month'); todelliset summat renderöityvät todennäköisesti JavaScriptilla."
+      },
+      {
+       "mittari": "Ilmainen kokeilujakso tai freemium tarjolla",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu: 'Free Get a taste... Fully encrypted, no tracking 1 GB storage One calendar 3 labels'."
+      },
+      {
+       "mittari": "Tallennustila, käyttäjämäärät ja ominaisuudet kuvattu",
+       "arvo": "Kyllä",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 20.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Hinnoittelusivu erittelee tasot: 'Revolutionary... 20 GB storage Unlimited number of calendars Unlimited number of labels 15 extra email addresses 3 custom domains' / 'Legend... 500 GB storage... 10 custom domains'."
+      },
+      {
+       "mittari": "Suomenkielinen asiakastuki mainittu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivusto on kokonaan englanniksi näillä ladatuilla sivuilla; suomenkielistä tukea ei mainita."
+      },
+      {
+       "mittari": "Y-tunnus tai omistava yhtiö esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Ohjekeskus, oppaat tai UKK saatavilla",
+       "arvo": "Kyllä",
+       "paino": 5,
+       "pisteet_max": 5,
+       "pisteet": 5.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tukisivu: 'How can we help you? Frequently Asked Questions General questions Security and Privacy How to use Tuta Payment'."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio"
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "55/100",
+       "paino": 34,
+       "pisteet": 55,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "18/100",
+       "paino": 33,
+       "pisteet": 18,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "58/100",
+       "paino": 33,
+       "pisteet": 58,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 62,
+    "accessibility": 85,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 5617.95,
+    "cls": 0.16624878550115044,
+    "tbt_ms": 309.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Ilmainen taso tarjotaan selkeästi omana pakettinaan: 'Free Get a taste... 1 GB storage One calendar 3 labels'",
+    "Tallennustila ja ominaisuudet on eritelty tasoittain: 'Revolutionary... 20 GB storage Unlimited number of calendars... 3 custom domains' / 'Legend... 500 GB storage... 10 custom domains'",
+    "Tukisivulla on jäsennelty UKK-osio aihepiireittäin: 'Frequently Asked Questions General questions Security and Privacy How to use Tuta Payment'"
+   ],
+   "kehityskohteet": [
+    "Hinnoittelusivun staattisessa sisällössä ei näy yhtään euromääräistä kuukausihintaa millekään maksulliselle tasolle; hintakentät ovat tyhjiä",
+    "Palvelu on kokonaan englanninkielinen näillä ladatuilla sivuilla, eikä suomenkielistä tukea mainita",
+    "Puhelinnumeroa, sähköpostiosoitetta, chat-tukea tai mobiilisovellusta ei mainita erikseen millään ladatulla sivulla"
+   ],
+   "yhteenveto": "Tuta (Tutao GmbH, Saksa) tarjoaa selkeän ilmaisen tason ja erittelee tallennustilan ja ominaisuudet tasoittain, ja tukisivulla on jäsennelty UKK-osio. Maksullisten tasojen tarkat kuukausihinnat eivät kuitenkaan näy sivun staattisessa sisällössä, palvelu on kokonaan englanniksi, eikä sivustolla ole suomalaista Y-tunnusta.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "8.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Kuukausihinta tai hinnoittelu julkisesti esillä (30), ilmainen kokeilujakso tai freemium tarjolla (20), tallennustila, käyttäjämäärät ja ominaisuudet kuvattu (20), suomenkielinen asiakastuki mainittu (15), Y-tunnus tai omistava yhtiö esillä (10), ohjekeskus, oppaat tai UKK saatavilla (5)"
+}

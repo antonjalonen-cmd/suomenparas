@@ -129,6 +129,7 @@ MEASURED = {
     # erä 22
     "rahansiirtopalvelut": "8.8.2026",
     "verkkokauppa-alustat": "8.8.2026",
+    "sahkopostipalvelut": "8.8.2026",
 }
 
 # Score v1.2 (23.7.2026): certification bonus. Verified certifications, memberships

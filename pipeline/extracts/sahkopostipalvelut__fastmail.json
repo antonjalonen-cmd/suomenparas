@@ -1,0 +1,39 @@
+{
+ "slug": "fastmail",
+ "fetched_ok": [
+  "https://www.fastmail.com/pricing/"
+ ],
+ "hinta_esilla": "kylla",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "ei",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "kylla",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 85, "sisallon_kattavuus": 75},
+ "vahvuudet": [
+  "Hinnoittelusivu näyttää tarkat kuukausihinnat euroissa: '€6... €5... €4.75... €4.67' eri tasoille ja laskutusjaksoille",
+  "Maksuton kokeilujakso tarjotaan: 'Try for free', ja sivu mainitsee 24/7-tuen: '24/7 expert support from real people'",
+  "Sovellukset ladattavissa App Storesta ja Google Playsta: 'Download Fastmail on the App Store... Download Fastmail on Google Play'"
+ ],
+ "kehityskohteet": [
+  "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä versiota tai tukea mainita millään ladatulla sivulla",
+  "Ei suomalaista Y-tunnusta millään ladatulla sivulla, FastMail Pty Ltd on australialainen yhtiö",
+  "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan hinnoittelusivulla; tuki on ohjattu ohjekeskuksen kautta"
+ ],
+ "yhteenveto": "Fastmail (FastMail Pty Ltd, Australia) näyttää tarkat kuukausihinnat euroissa suoraan hinnoittelusivulla ja tarjoaa maksuttoman kokeilujakson sekä mobiilisovellukset. Palvelu on kuitenkin kokonaan englanninkielinen ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "Hinnoittelusivu näyttää euromääräiset hinnat eri tasoille ja laskutusjaksoille (kuukausittain/vuosittain), esim. '€6' / '€5' / '€4.75' / '€4.67' per käyttäjä/kk.",
+  "ilmainen_kokeilu": "Etusivun ja hinnoittelusivun painike: 'Try for free'.",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu: 'Every plan includes expert support from real people, access to all Fastmail apps, premium mail features like offline support, Scheduled Send, and integrations with 1Password, Dropbox, and more.'",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "Sivulla mainitaan 'Visit our comprehensive help center for more details.'"
+ },
+ "updated": "2026-08-08"
+}

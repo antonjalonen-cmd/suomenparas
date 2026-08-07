@@ -1,0 +1,40 @@
+{
+ "slug": "zoho-mail",
+ "fetched_ok": [
+  "https://www.zoho.com/mail/zohomail-pricing.html",
+  "https://www.zoho.com/mail/help/"
+ ],
+ "hinta_esilla": "ei",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "ei",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "kylla",
+ "ai_arviot": {"selkeys": 58, "hintojen_loydettavyys": 22, "sisallon_kattavuus": 75},
+ "vahvuudet": [
+  "Ikuisesti ilmainen taso enintään 5 käyttäjälle ilman luottokorttia: 'Mail Free Forever free. No credit cad required'",
+  "Ominaisuudet on eritelty laajasti tasoittain: tallennustila, sähköposti, kalenteri, tehtävät, migraatioapu ja työpöytäsovellukset",
+  "Mobiili- ja työpöytäsovellukset mainittu erikseen omana ominaisuutenaan: 'Mobile & Desktop Apps'"
+ ],
+ "kehityskohteet": [
+  "Hinnoittelusivun staattisessa HTML:ssä ei näy yhtään euro- tai dollarimääräistä hintaa maksullisille tasoille; summat renderöityvät todennäköisesti JavaScriptilla",
+  "Palvelu on kokonaan englanninkielinen, eikä suomenkielistä tukea mainita millään ladatulla sivulla",
+  "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukikanavaa ei näy suoraan hinnoittelu- tai ohjesivulla; sivu mainitsee ainoastaan 'Reach us 24x7'"
+ ],
+ "yhteenveto": "Zoho Mail (Zoho Corporation Pvt. Ltd., Intia) tarjoaa ikuisesti ilmaisen tason enintään 5 käyttäjälle ja erittelee ominaisuudet laajasti tasoittain, mutta maksullisten tasojen tarkkoja hintoja ei näy sivun staattisessa sisällössä. Palvelu on kokonaan englanniksi ilman mainittua suomenkielistä tukea, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "HAVAINTO: Hinnoittelusivun staattisessa HTML:ssä ei ole yhtään euro- tai dollarimääräistä hintaa maksullisille tasoille (Workplace Standard, Mail Lite jne.); hintakentät ovat tyhjiä, todennäköisesti JavaScript-renderöityjä.",
+  "ilmainen_kokeilu": "Hinnoittelusivu: 'Mail Free Forever free. No credit cad required Sign up Access Zoho Mail... Up to 5 users'.",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee ominaisuudet tasoittain: 'Enterprise Email Calendar Shared Calendars ToDo Collaborative Task Management... Mobile & Desktop Apps... Migration Assistance'.",
+  "tuki_suomeksi": "HAVAINTO: Sivusto on kokonaan englanniksi; suomenkielistä tukea ei mainita millään ladatulla sivulla. Sivu mainitsee vain 'Reach us 24x7' ilman kielimainintaa.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "Ohjesivu (help.zoho.com): 'Zoho Mail Resources - Help Guides and FAQs... User Guide... Deployment Guide... Admin Guide'."
+ },
+ "updated": "2026-08-08"
+}

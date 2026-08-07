@@ -2064,3 +2064,24 @@ COMPANIES["verkkokauppa-alustat"] = [
          y_tunnus=None,
          omistaja="Omistavaa yhtiötä ei löydy etusivulta: ei Y-tunnusta eikä yhtiön omaa nimeä (sivun ainoat 'Oy'-osumat ovat asiakasreferenssien yritysnimiä)"),
 ]
+
+COMPANIES["sahkopostipalvelut"] = [
+    dict(slug="google-workspace", nimi="Google Workspace", domain="workspace.google.com",
+         y_tunnus=None,
+         omistaja="Google LLC / Alphabet Inc. (Yhdysvallat), julkisesti noteerattu (NASDAQ: GOOGL); ei suomalaista Y-tunnusta suomenkielisellä hinnoittelusivulla"),
+    dict(slug="fastmail", nimi="Fastmail", domain="fastmail.com",
+         y_tunnus=None,
+         omistaja="FastMail Pty Ltd (Australia); ei suomalaista Y-tunnusta, palvelu kokonaan englanniksi"),
+    dict(slug="zoner", nimi="Zoner", domain="zoner.fi",
+         y_tunnus="1985221-1",
+         omistaja="Zoner Oy (PRH 1985221-1, Pakkalankuja 6, 01510 Vantaa) — Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa"),
+    dict(slug="zoho-mail", nimi="Zoho Mail", domain="zoho.com",
+         y_tunnus=None,
+         omistaja="Zoho Corporation Pvt. Ltd. (Intia), yksityisomisteinen; ei suomalaista Y-tunnusta"),
+    dict(slug="proton-mail", nimi="Proton Mail", domain="proton.me",
+         y_tunnus=None,
+         omistaja="Proton AG (Sveitsi); ei suomalaista Y-tunnusta"),
+    dict(slug="tuta", nimi="Tuta", domain="tuta.com",
+         y_tunnus=None,
+         omistaja="Tutao GmbH (Saksa); ei suomalaista Y-tunnusta"),
+]

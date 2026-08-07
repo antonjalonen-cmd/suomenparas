@@ -2272,3 +2272,33 @@ META["verkkokauppa-alustat"] = {
          "valinta riippuu tuotemäärästä, teknisestä osaamisesta ja budjetista."),
     ],
 }
+
+META["sahkopostipalvelut"] = {
+    "slug": "sahkopostipalvelut",
+    "nimi": "Sähköpostipalvelut",
+    "nav": "Sähköpostipalvelut",
+    "h1": "Suomen paras sähköpostipalvelu 2026",
+    "yksikko": "sähköpostipalvelua",
+    "lead": ("Yrityssähköposti on pieni mutta pitkäaikainen SaaS-sitoumus — vaihtaminen "
+             "myöhemmin on tuskallista. Pisteytimme {n} sähköpostipalvelua {m} mittarilla. "
+             "Tärkein kysymys: näetkö kuukausihinnan heti, vai piileekö se laskurin takana?"),
+    "meta_title": "Suomen paras sähköpostipalvelu 2026 — palvelut pisteytettynä | Suomen Paras",
+    "meta_desc": ("{n} sähköpostipalvelua pisteytetty läpinäkyvällä kaavalla. "
+                  "Katso mistä jokainen piste tulee."),
+    "notes": [
+        ("<b>Zoner on ainoa suomalainen palvelu vertailussa, ja se myös kertoo sen.</b> "
+         "Y-tunnus ja osoite näkyvät suoraan etusivun alatunnisteessa, ja tuki on "
+         "suomeksi aukioloaikoineen: puhelin, chat ja sähköposti. Se kuitenkin "
+         "häviää yhden pisteen — ilmaista kokeilujaksoa ei mainita, ainoastaan "
+         "30 päivän tyytyväisyystakuu."),
+        ("Kolme kuudesta piilottaa hintansa laskurin taakse. Zoho Mail, Proton Mail "
+         "ja Tuta näyttävät kaikki ilmaisen tason avoimesti, mutta yhdenkään "
+         "maksullisen tason euromäärä ei näy sivun staattisessa sisällössä — hinnat "
+         "renderöityvät JavaScriptilla. Google Workspace, Fastmail ja Zoner sen "
+         "sijaan näyttävät tarkat kuukausihinnat suoraan."),
+        ("Yksikään kuudesta kansainvälisestä tai ulkomaisesta palvelusta ei mainitse "
+         "suomenkielistä tukikanavaa — Google Workspacen hinnoittelusivu on suomeksi, "
+         "mutta itse tukikanavan kieltä ei kerrota. Ainoastaan Zoner tarjoaa aidosti "
+         "suomenkielisen asiakaspalvelun puhelimitse ja chatilla."),
+    ],
+}

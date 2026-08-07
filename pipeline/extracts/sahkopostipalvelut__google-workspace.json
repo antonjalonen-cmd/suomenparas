@@ -1,0 +1,39 @@
+{
+ "slug": "google-workspace",
+ "fetched_ok": [
+  "https://workspace.google.com/intl/fi/pricing.html"
+ ],
+ "hinta_esilla": "kylla",
+ "ilmainen_kokeilu": "kylla",
+ "ominaisuudet_kuvattu": "kylla",
+ "tuki_suomeksi": "osittain",
+ "y_tunnus_esilla": "ei",
+ "ukk_ja_ohjeet": "kylla",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 82, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 82},
+ "vahvuudet": [
+  "Suomenkielinen hinnoittelusivu näyttää tarkat kuukausihinnat käyttäjää kohti kaikille tasoille: 'Starter 6,80 € /käyttäjä/kk... Standard 13,60 € /käyttäjä/kk... Plus 21,10 € /käyttäjä/kk'",
+  "Maksuton 14 päivän kokeilujakso tarjotaan näkyvästi jokaisella tasolla: 'Kokeile nyt Maksuton 14 päivän ajan'",
+  "Ominaisuudet on eritelty yksityiskohtaisesti tasoittain (tallennustila, videokokousten osallistujamäärät, tekoälyominaisuudet, tietoturva)"
+ ],
+ "kehityskohteet": [
+  "Suomenkielistä asiakastukikanavaa (esim. puhelin tai chat) ei mainita erikseen hinnoittelusivulla, vaikka sivu itsessään on suomeksi",
+  "Ei suomalaista Y-tunnusta millään ladatulla sivulla, Google on yhdysvaltalainen, julkisesti noteerattu yhtiö",
+  "Puhelinnumeroa, sähköpostiosoitetta tai chat-tukea ei näy suoraan hinnoittelusivulla; ainoa yhteydenottotapa on 'Ota yhteyttä myyntiin'"
+ ],
+ "yhteenveto": "Google Workspace (Google LLC / Alphabet Inc., NASDAQ: GOOGL) näyttää tarkat kuukausihinnat neljälle tasolle suomenkielisellä hinnoittelusivulla ja tarjoaa maksuttoman 14 päivän kokeilujakson kaikilla tasoilla. Ominaisuudet on eritelty yksityiskohtaisesti. Suomenkielistä asiakastukikanavaa ei kuitenkaan mainita erikseen, eikä sivustolla ole suomalaista Y-tunnusta.",
+ "evidence": {
+  "hinta_esilla": "Hinnoittelusivu: 'Starter 6,80 € /käyttäjä/kk... Standard 13,60 € /käyttäjä/kk... Plus 21,10 € /käyttäjä/kk... Kaikki tilaukset laskutetaan kuukausittain. Kaikki hinnat EUR (€).'",
+  "ilmainen_kokeilu": "Hinnoittelusivu: 'Kokeile Google Workspacea 14 päivän ajan' toistuu jokaisella tasolla, esim. 'Kokeile nyt Maksuton 14 päivän ajan'.",
+  "ominaisuudet_kuvattu": "Hinnoittelusivu erittelee ominaisuudet tasoittain: tallennustila (30 Gt / 2 Tt / 5 Tt), videokokousten osallistujamäärät (100/150/500/1000), Gemini-tekoälyominaisuudet ja tietoturvaominaisuudet kullekin tasolle erikseen.",
+  "tuki_suomeksi": "HAVAINTO: Koko hinnoittelusivu on suomeksi, mutta erillistä mainintaa suomenkielisestä tukikanavasta (puhelin, chat) ei löytynyt sivulta; ainoa mainittu yhteydenottotapa on 'Ota yhteyttä myyntiin'.",
+  "y_tunnus_esilla": "HAVAINTO: Ei suomalaista Y-tunnusta millään ladatulla sivulla.",
+  "ukk_ja_ohjeet": "HAVAINTO: Sivun yläpalkin valikossa on suora linkki 'Usein kysyttyä' sekä 'Materiaalit'-osio."
+ },
+ "updated": "2026-08-08"
+}
