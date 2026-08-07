@@ -1,0 +1,47 @@
+{
+ "slug": "hinta-fi",
+ "fetched_ok": [
+  "https://hinta.fi/",
+  "https://hinta.fi/info/2/yhteystiedot",
+  "https://hinta.fi/info/4/tietosuojakaytanto"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "kylla",
+ "kauppiaat_listattu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 82, "hintojen_loydettavyys": 90, "sisallon_kattavuus": 80},
+ "vahvuudet": [
+  "Kattavuus kerrotaan tarkkoina lukuina etusivulla: '1 447 727 tuotetta, 48 kauppaa ja 3 863 389 hintaa', ja tarjoukset näkyvät suoraan hintavertailuineen ilman kirjautumista (esim. 'MSI GeForce RTX 5070 Ti... 919,90 € 969,90 € -5 %')",
+  "Y-tunnus ja tuottava yhtiö kerrotaan selkeästi: 'Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy, Y-tunnus: 2575141-7', osoite Pohjoisranta 11, Pori",
+  "Erillinen usein kysytyt kysymykset (FAQ) -sivu ja tuotearvostelut-osio löytyvät valikosta; palvelu on saatavilla myös englanniksi"
+ ],
+ "kehityskohteet": [
+  "Ansaintamallia ei selitetä käyttäjälle näkyvässä tekstissä; sivusto näyttää hintavertailun ja kauppalinkit, mutta ei kerro miten kaupat maksavat näkyvyydestä",
+  "Ei riippumatonta arviolähdettä (esim. Trustpilot) mainittu; sivuston oma 'Tuotearvostelut'-osio on käyttäjien kirjoittamaa sisältöä",
+  "Ei puhelinnumeroa tai chat-tukea millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Hinta.fi (Suomen Hintavertailu Oy, Y-tunnus 2575141-7, Pori) on 'Suomen rautaisin hintavertailu', joka näyttää tarkat kattavuusluvut (1,4 miljoonaa tuotetta, 48 kauppaa) ja reaaliaikaisia hintavertailuja alennuksineen suoraan etusivulla. Y-tunnus on selkeästi esillä, mutta ansaintamallia ei selitetä eikä riippumatonta arviolähdettä ole.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Etusivu: 'Parhaat tarjoukset... Näytönohjaimet MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC 919,90 € 969,90 € -5 % Näytä tuote Kauppaan. Pelikonsolit Nintendo Switch 2 459,00 € 497,00 € -8 %.'",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia (esim. klikkauskomissiota tai listautumismaksua) ei kuvata millään ladatulla sivulla.",
+  "kattavuus_kerrottu": "Etusivu: 'Mukana on 1 447 727 tuotetta, 48 kauppaa ja 3 863 389 hintaa.'",
+  "kauppiaat_listattu": "Tuotteiden hintavertailuissa näkyy suoraan kauppa ('Kauppaan'-painike per tarjous); yhteystietosivulla mainitaan myös yritysasiakkaille suunnattu yhteyshenkilö.",
+  "y_tunnus_esilla": "Yhteystiedot-sivu: 'Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy Y-tunnus: 2575141-7. Osoite: Pohjoisranta 11 28600 Pori FINLAND.'",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä; 'Tuotearvostelut'-valikkokohta viittaa sivuston omiin käyttäjäarvosteluihin.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "Yhteystiedot-sivulla henkilökohtainen sähköpostiosoite (spam-suojattu, mutta läsnä: 'sampsa.kurri .obf @ obf. hinta.fi').",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Valikossa: 'Usein kysyttyä (FAQ)'.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

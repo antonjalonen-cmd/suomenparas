@@ -1,0 +1,888 @@
+{
+ "slug": "hintavertailupalvelut",
+ "nimi": "Hintavertailupalvelut",
+ "nav": "Hintavertailu",
+ "h1": "Suomen paras tuotteiden hintavertailupalvelu 2026",
+ "yksikko": "tuotteiden hintavertailupalvelua",
+ "lead": "Hintavertailusivustot kokoavat satojentuhansien verkkokauppojen hinnat yhteen hakuun. Pisteytimme {n} suomalaista hintavertailupalvelua {m} mittarilla. Tärkein kysymys: näetkö hinnan mukana toimituskulut, vai vertaatko lopulta väärää lukua?",
+ "meta_title": "Suomen paras tuotteiden hintavertailupalvelu 2026 — vertailusivustot pisteytettynä | Suomen Paras",
+ "meta_desc": "4 tuotteiden hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. Katso mistä jokainen piste tulee.",
+ "notes": [
+  "<b>\"Hintaopas\" kuulostaa suomalaiselta, muttei ole.</b> Hintaopas.fi markkinoi itseään suomeksi (\"Puolueeton hintavertailu. Kaikki verkkokaupat samalla sivulla\"), mutta sen oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799, Ängelholm) — tämä käy ilmi vasta tietosuojasivulta, ei näkyvästi etusivulta. Suomalaista Y-tunnusta ei ole.",
+  "Kaikki neljä kertovat hinnat ja kaupat avoimesti ilman kirjautumista, ja kolmella neljästä on selkeä Y-tunnus (Hintaseuranta.fi = ePrice Oy, Vertaa.fi = Suomen Vertaa.fi Oy, Hinta.fi = Suomen Hintavertailu Oy). Yksikään ei kuitenkaan selitä ansaintamalliaan tarkasti: Vertaa.fi:n oma kuvaus (\"itsenäinen yritys, jota sen omistajat rahoittavat\") ei kerro, mitä kauppiaat maksavat listautumisesta tai klikkauksista.",
+  "<b>7,2 miljoonaa arvostelua ei ole riippumaton lähde.</b> Vertaa.fi:n etusivulla lukee suuri arvostelumäärä, mutta ne ovat sivuston omia, kuka tahansa kävijä voi kirjoittaa -tyylisiä arvosteluja, ei Trustpilotin tai muun ulkopuolisen tahon sertifioimia. Yhdelläkään neljästä palvelusta ei ole riippumatonta arviolähdettä. Emme vertaile todellisia tuotehintoja emmekä suosittele kauppoja — mittaamme vertailupalvelujen omaa avoimuutta."
+ ],
+ "yritykset": [
+  {
+   "slug": "hinta-fi",
+   "nimi": "Hinta.fi",
+   "domain": "hinta.fi",
+   "omistaja": "Suomen Hintavertailu Oy (PRH 2575141-7, Pohjoisranta 11, Pori) — sivun oma yhteystietosivu: \"Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy\"",
+   "y_tunnus": "2575141-7",
+   "rekisteroity": 2013,
+   "score": 70.1,
+   "pillars": {
+    "digitaalinen": 92.6,
+    "lapinakyvyys": 65.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 84.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "83/100",
+       "paino": 40,
+       "pisteet": 83,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "100/100",
+       "paino": 30,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "96/100",
+       "paino": 15,
+       "pisteet": 96,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat ja kauppojen nimet näkyvät ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Parhaat tarjoukset... Näytönohjaimet MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC 919,90 € 969,90 € -5 % Näytä tuote Kauppaan. Pelikonsolit Nintendo Switch 2 459,00 € 497,00 € -8 %.'"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/mainostulot) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ansaintamallia (esim. klikkauskomissiota tai listautumismaksua) ei kuvata millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kauppojen/tuotteiden määrä) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: 'Mukana on 1 447 727 tuotetta, 48 kauppaa ja 3 863 389 hintaa.'"
+      },
+      {
+       "mittari": "Vertailussa mukana olevat kauppiaat/kaupat listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tuotteiden hintavertailuissa näkyy suoraan kauppa ('Kauppaan'-painike per tarjous); yhteystietosivulla mainitaan myös yritysasiakkaille suunnattu yhteyshenkilö."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystiedot-sivu: 'Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy Y-tunnus: 2575141-7. Osoite: Pohjoisranta 11 28600 Pori FINLAND.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä (ei vain sivuston omat arvostelut)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä; 'Tuotearvostelut'-valikkokohta viittaa sivuston omiin käyttäjäarvosteluihin."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteystiedot-sivulla henkilökohtainen sähköpostiosoite (spam-suojattu, mutta läsnä: 'sampsa.kurri .obf @ obf. hinta.fi')."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Valikossa: 'Usein kysyttyä (FAQ)'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "82/100",
+       "paino": 34,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "90/100",
+       "paino": 33,
+       "pisteet": 90,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 83,
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "lcp_ms": 1189.3210000000001,
+    "cls": 0.0920024012222653,
+    "tbt_ms": 568.9999999999998
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavuus kerrotaan tarkkoina lukuina etusivulla: '1 447 727 tuotetta, 48 kauppaa ja 3 863 389 hintaa', ja tarjoukset näkyvät suoraan hintavertailuineen ilman kirjautumista (esim. 'MSI GeForce RTX 5070 Ti... 919,90 € 969,90 € -5 %')",
+    "Y-tunnus ja tuottava yhtiö kerrotaan selkeästi: 'Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy, Y-tunnus: 2575141-7', osoite Pohjoisranta 11, Pori",
+    "Erillinen usein kysytyt kysymykset (FAQ) -sivu ja tuotearvostelut-osio löytyvät valikosta; palvelu on saatavilla myös englanniksi"
+   ],
+   "kehityskohteet": [
+    "Ansaintamallia ei selitetä käyttäjälle näkyvässä tekstissä; sivusto näyttää hintavertailun ja kauppalinkit, mutta ei kerro miten kaupat maksavat näkyvyydestä",
+    "Ei riippumatonta arviolähdettä (esim. Trustpilot) mainittu; sivuston oma 'Tuotearvostelut'-osio on käyttäjien kirjoittamaa sisältöä",
+    "Ei puhelinnumeroa tai chat-tukea millään ladatulla sivulla"
+   ],
+   "yhteenveto": "Hinta.fi (Suomen Hintavertailu Oy, Y-tunnus 2575141-7, Pori) on 'Suomen rautaisin hintavertailu', joka näyttää tarkat kattavuusluvut (1,4 miljoonaa tuotetta, 48 kauppaa) ja reaaliaikaisia hintavertailuja alennuksineen suoraan etusivulla. Y-tunnus on selkeästi esillä, mutta ansaintamallia ei selitetä eikä riippumatonta arviolähdettä ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "vertaa-fi",
+   "nimi": "Vertaa.fi",
+   "domain": "vertaa.fi",
+   "omistaja": "Suomen Vertaa.fi Oy (PRH 1645358-1, Elimäenkatu 25-27, Helsinki); sivun oma \"Yritys\"-sivu kertoo kuuluvansa kansainväliseen Compare Group -konserniin (Compare Group B.V.), joka operoi vastaavia sivustoja mm. Ruotsissa, Tanskassa, Norjassa, Hollannissa, Belgiassa, Ranskassa ja Saksassa",
+   "y_tunnus": "1645358-1",
+   "rekisteroity": 2001,
+   "score": 70.0,
+   "pillars": {
+    "digitaalinen": 82.9,
+    "lapinakyvyys": 75.0,
+    "tavoitettavuus": 30.0,
+    "ai_laatu": 83.3
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "61/100",
+       "paino": 40,
+       "pisteet": 61,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat ja kauppojen nimet näkyvät ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla ilman kirjautumista: 'Suositut tuotteet 1310x Apple AirPods Pro 3 alkaen 215,80 794x Honor Magic8 Lite 8/512 Gt 5G alkaen 303,70 376x Apple Watch Series 11 GPS...'"
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/mainostulot) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "'Yritys'-sivu: 'Vertaa.fi ei itse myy mitään tuotteita. Sitä varten sinut ohjataan sinulle parhaiten sopivalle tarjoajalle... Vertaa.fi on itsenäinen yritys, jota sen omistajat rahoittavat.' Tarkkaa komissio- tai maksumallia ei avata, joten merkitään osittain."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kauppojen/tuotteiden määrä) kerrottu",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivu: '258 Kaupat 7267921 Arvostelut 6154081 Tuotteet'."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat kauppiaat/kaupat listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla tuotteiden yhteydessä näkyy kaupat, ja kauppiaille on erillinen rekisteröitymissivu ('Rekisteröi verkkokauppasi Vertaa.fi:lle')."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteydenotto-sivu: 'Postiosoite: Suomen Vertaa.fi Oy Elimäenkatu 25-27 00510 Helsinki Y-tunnus: 1645358-1.' 'Yritys'-sivu lisää: 'Vertaa.fi (Suomen, Vertaa.fi Oy) on Suomen suurin hintavertailusivusto ja osa Compare Groupia (Compare Group B.V.)... perustettiin v. 2000.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä (ei vain sivuston omat arvostelut)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Arvostelut-sivu: 'Vertaa.fi:ssä voit helposti jakaa kokemuksesi tuotteista ja verkkokaupoista kirjoittamalla oman arvostelun.' Arvostelut ovat sivuston omia käyttäjäarvosteluja; ei mainintaa Trustpilotista tai muusta riippumattomasta sertifioinnista."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla, vain pankkitilin viitetiedot (DABAFIHH)."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Yhteydenotto-sivu: 'Kuluttajille: info@vertaa.fi Yrityksille: myynti@vertaa.fi'."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Valikossa: 'Usein kysytyt kysymykset' (PartnerNet-osiossa kauppiaille) ja 'Hakuohjeita' kuluttajille."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "80/100",
+       "paino": 34,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "88/100",
+       "paino": 33,
+       "pisteet": 88,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "82/100",
+       "paino": 33,
+       "pisteet": 82,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 61,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 100,
+    "lcp_ms": 3137.89,
+    "cls": 0.001305290403466145,
+    "tbt_ms": 1307
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Kattavuus kerrotaan suoraan lukuina etusivulla: '258 Kaupat, 7267921 Arvostelut, 6154081 Tuotteet', ja tuotehinnat kaupoittain näkyvät ilman kirjautumista (esim. 'Apple AirPods Pro 3 alkaen 215,80')",
+    "Y-tunnus, osoite ja perustamisvuosi kerrotaan avoimesti: Suomen Vertaa.fi Oy, Y-tunnus 1645358-1, perustettu 2000, Helsinki; kertoo myös kuuluvansa kansainväliseen Compare Group -konserniin",
+    "Kertoo suoraan liiketoimintamallinsa ytimen: 'Vertaa.fi ei itse myy mitään tuotteita. Sitä varten sinut ohjataan sinulle parhaiten sopivalle tarjoajalle'"
+   ],
+   "kehityskohteet": [
+    "Ansaintamallia kuvataan vain epämääräisesti: 'Vertaa.fi on itsenäinen yritys, jota sen omistajat rahoittavat' — ei kerro mitä kauppiaat maksavat listautumisesta tai klikkauksista",
+    "7,2 miljoonaa arvostelua ovat sivuston OMIA käyttäjien jättämiä arvosteluja, ei riippumattoman kolmannen osapuolen (esim. Trustpilot) sertifioimia",
+    "Ei puhelinnumeroa tai chat-tukea; arvostelutoiminto käyttää vanhentunutta iframe-tekniikkaa ('Your browser does not support iframes')"
+   ],
+   "yhteenveto": "Vertaa.fi (Suomen Vertaa.fi Oy, Y-tunnus 1645358-1) on Suomen suurimmaksi itseään kutsuva hintavertailu, osa kansainvälistä Compare Group -konsernia. Kattavuus (258 kauppaa, 6,2 miljoonaa tuotetta) ja hinnat kerrotaan avoimesti ilman kirjautumista, mutta ansaintamalli jää epämääräiseksi ('omistajien rahoittama'), ja sivuston 7,2 miljoonaa arvostelua ovat omia käyttäjäarvosteluja, ei riippumattoman tahon sertifioimia.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "hintaseuranta",
+   "nimi": "Hintaseuranta.fi",
+   "domain": "hintaseuranta.fi",
+   "omistaja": "ePrice Oy (PRH 3093087-4, Kalevantie 7C, Tampere) — sivun oma tietosuojalauseke nimeää rekisterinpitäjäksi",
+   "y_tunnus": "3093087-4",
+   "rekisteroity": 2019,
+   "score": 56.5,
+   "pillars": {
+    "digitaalinen": 67.7,
+    "lapinakyvyys": 60.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 76.0
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "30/100",
+       "paino": 40,
+       "pisteet": 30,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "95/100",
+       "paino": 30,
+       "pisteet": 95,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "81/100",
+       "paino": 15,
+       "pisteet": 81,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat ja kauppojen nimet näkyvät ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla ilman kirjautumista näkyy tuotelistaus kategorioittain: 'Apple iPhone 17 5G 256GB, älypuhelin... Samsung Galaxy S26 5G 6/128GB, älypuhelin' jne."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/mainostulot) kerrottu avoimesti",
+       "arvo": "Osittain",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sivustolla on linkki '/kauppiasinfo/mainosta', joka viittaa kauppiaille suunnattuun maksulliseen mainontaan, mutta tarkkaa ansaintamallia (esim. klikkaus- tai listautumismaksu) ei selitetä käyttäjälle näkyvässä tekstissä."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kauppojen/tuotteiden määrä) kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat kauppiaat/kaupat listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivun tuotelistauksissa näkyy kauppiaita kunkin tuotteen yhteydessä (tarkistettu tuotekategorioiden listauksesta)."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojalauseke: 'Rekisterinpitäjä: ePrice Oy Kalevantie 7C, 33100 Tampere Y-tunnus 3093087-4.'"
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä (ei vain sivuston omat arvostelut)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojalauseke sisältää rekisterinpitäjän sähköpostiosoitteen (piilotettu spam-suojauksella, mutta läsnä)."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "78/100",
+       "paino": 34,
+       "pisteet": 78,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "85/100",
+       "paino": 33,
+       "pisteet": 85,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "65/100",
+       "paino": 33,
+       "pisteet": 65,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 30,
+    "accessibility": 95,
+    "seo": 100,
+    "best_practices": 81,
+    "lcp_ms": 17793.445630000002,
+    "cls": 0.04133784377805987,
+    "tbt_ms": 6311.959120000003
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat ja niitä myyvät kauppiaat näkyvät suoraan etusivun tuotelistauksissa ilman kirjautumista, kategorioittain (esim. Viihde ja elektroniikka, Tietotekniikka, Koti ja perhe)",
+    "Y-tunnus ja rekisterinpitäjä kerrotaan selkeästi tietosuojalausekkeessa: ePrice Oy, Y-tunnus 3093087-4, Kalevantie 7C, Tampere",
+    "Etusivun iskulauseet ('Löydä edullisimmat hinnat, Löydä nopeimmat toimitusajat, Löydä luotettavimmat kauppiaat') kertovat vertailukriteerit lyhyesti; erillinen kauppiasinfo-osio kertoo kauppiaille mainostamisesta"
+   ],
+   "kehityskohteet": [
+    "Vertailun kattavuutta (montako kauppaa tai tuotetta mukana) ei kerrota lukuina, toisin kuin esim. Hinta.fi:llä tai Vertaa.fi:llä",
+    "Ansaintamallia ei selitetä suoraan käyttäjälle näkyvässä tekstissä; kauppiaille suunnattu 'mainosta'-osio viittaa maksulliseen näkyvyyteen, mutta tarkkaa mallia ei avata",
+    "Ei riippumatonta arviolähdettä (esim. Trustpilot); ei myöskään puhelinnumeroa, chat-tukea tai erillistä UKK-osiota"
+   ],
+   "yhteenveto": "Hintaseuranta.fi on tamperelaisen ePrice Oy:n (Y-tunnus 3093087-4) ylläpitämä tuotehintavertailu, jossa hinnat ja kauppiaat näkyvät suoraan etusivulla ilman kirjautumista. Y-tunnus on selkeästi esillä, mutta vertailun kattavuutta ei kerrota lukuina, ansaintamallia ei selitetä avoimesti ja riippumaton arviolähde puuttuu.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  },
+  {
+   "slug": "hintaopas",
+   "nimi": "Hintaopas.fi",
+   "domain": "hintaopas.fi",
+   "omistaja": "Hintaopas.fi:n oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799, Ängelholm, Ruotsi) — suomenkieliseltä .fi-sivustolta ei löydy suomalaista Y-tunnusta",
+   "y_tunnus": null,
+   "rekisteroity": null,
+   "score": 44.8,
+   "pillars": {
+    "digitaalinen": 51.6,
+    "lapinakyvyys": 40.0,
+    "tavoitettavuus": 15.0,
+    "ai_laatu": 71.4
+   },
+   "breakdown": {
+    "digitaalinen": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Suorituskyky (mobiili)",
+       "arvo": "6/100",
+       "paino": 40,
+       "pisteet": 6,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Saavutettavuus",
+       "arvo": "87/100",
+       "paino": 30,
+       "pisteet": 87,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Löydettävyys (SEO)",
+       "arvo": "100/100",
+       "paino": 15,
+       "pisteet": 100,
+       "lahde": "Tekninen mittaus"
+      },
+      {
+       "mittari": "Tekniset käytännöt",
+       "arvo": "54/100",
+       "paino": 15,
+       "pisteet": 54,
+       "lahde": "Tekninen mittaus"
+      }
+     ]
+    },
+    "lapinakyvyys": {
+     "paino_kokonaisuudesta": 30,
+     "rivit": [
+      {
+       "mittari": "Tuotehinnat ja kauppojen nimet näkyvät ilman kirjautumista",
+       "arvo": "Kyllä",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 30.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Etusivulla ilman kirjautumista tuotekategoriat ja hinnat näkyvissä: 'Vertaa ja säästä kaikkialla... Pölynimurit, Urheilujuomat & Energiajuomat, Pyykinpesukoneet, Robottipölynimurit' jne."
+      },
+      {
+       "mittari": "Ansaintamalli (komissiot/mainostulot) kerrottu avoimesti",
+       "arvo": "Ei",
+       "paino": 20,
+       "pisteet_max": 20,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Valikossa linkit 'Hintaoppaan mainosratkaisut' ja 'Kaupan rekisteröinti, Ohjaa liikennettä kauppaasi' viittaavat kauppiaille suunnattuun maksulliseen malliin, mutta kuluttajalle näkyvässä sisällössä mallia ei selitetä."
+      },
+      {
+       "mittari": "Vertailun kattavuus (kauppojen/tuotteiden määrä) kerrottu",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina millään ladatulla sivulla."
+      },
+      {
+       "mittari": "Vertailussa mukana olevat kauppiaat/kaupat listattu",
+       "arvo": "Kyllä",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 10.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tuotekategorioiden listauksissa näkyy useita kauppoja tuotteiden yhteydessä."
+      },
+      {
+       "mittari": "Y-tunnus esillä",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Tietosuojakäytäntö: 'Prisjakt Sverige AB, organisaatiotunnus 556665-1799, osoitteessa Kamengatan 6, 262 32 Ängelholm, Ruotsi... käsittelee henkilötietoja sinusta.' Ei suomalaista Y-tunnusta."
+      },
+      {
+       "mittari": "Riippumaton arviolähde esillä (ei vain sivuston omat arvostelut)",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä."
+      }
+     ]
+    },
+    "tavoitettavuus": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Puhelinnumero esillä",
+       "arvo": "Ei",
+       "paino": 30,
+       "pisteet_max": 30,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Sähköposti esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla."
+      },
+      {
+       "mittari": "Chat-tuki",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Ei mainintaa chatista."
+      },
+      {
+       "mittari": "Aukioloajat esillä",
+       "arvo": "Ei",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Aukioloaikoja ei mainita."
+      },
+      {
+       "mittari": "UKK-osio",
+       "arvo": "Kyllä",
+       "paino": 15,
+       "pisteet_max": 15,
+       "pisteet": 15.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "Valikossa: 'Usein kysytyt kysymykset'."
+      },
+      {
+       "mittari": "Mobiilisovellus",
+       "arvo": "Ei",
+       "paino": 10,
+       "pisteet_max": 10,
+       "pisteet": 0.0,
+       "lahde": "Verkkosivu + AI-ekstraktio",
+       "quote": "HAVAINTO: Mobiilisovellusta ei mainita."
+      }
+     ]
+    },
+    "ai_laatu": {
+     "paino_kokonaisuudesta": 20,
+     "rivit": [
+      {
+       "mittari": "Tietojen selkeys",
+       "arvo": "74/100",
+       "paino": 34,
+       "pisteet": 74,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Hintatietojen löydettävyys",
+       "arvo": "80/100",
+       "paino": 33,
+       "pisteet": 80,
+       "lahde": "AI-analyysi"
+      },
+      {
+       "mittari": "Sisällön kattavuus",
+       "arvo": "60/100",
+       "paino": 33,
+       "pisteet": 60,
+       "lahde": "AI-analyysi"
+      }
+     ]
+    }
+   },
+   "lh": {
+    "performance": 6,
+    "accessibility": 87,
+    "seo": 100,
+    "best_practices": 54,
+    "lcp_ms": 12450.080000000002,
+    "cls": 0.47803662164069727,
+    "tbt_ms": 10382.5
+   },
+   "facts_extra": [],
+   "vahvuudet": [
+    "Tuotehinnat ja -kategoriat näkyvät suoraan etusivulla ilman kirjautumista, jäsenneltynä laajasti (Koti & Keittiö, Tietokoneet & Tarvikkeet, Puhelimet & GPS jne.)",
+    "Sivusto on kaupallisesti vakiintunut: sillä on oma 'Investor Relations' -osio ja 'Hintaoppaan mainosratkaisut' -sivu kauppiaille, mikä viittaa aitoon, isompaan liiketoimintaan",
+    "Erillinen usein kysytyt kysymykset -osio löytyy valikkorakenteesta"
+   ],
+   "kehityskohteet": [
+    "Sivusto markkinoi itseään suomalaisena ('Hintaopas: Puolueeton hintavertailu'), mutta oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799, Ängelholm) — suomalaista Y-tunnusta ei ole sivustolla",
+    "Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina",
+    "Ansaintamallia ei selitetä käyttäjälle näkyvässä tekstissä; 'mainosratkaisut'-sivu on suunnattu kauppiaille, ei avaa mallia kuluttajalle. Ei riippumatonta arviolähdettä eikä puhelin-, sähköposti- tai chat-yhteystietoa"
+   ],
+   "yhteenveto": "Hintaopas.fi esiintyy suomalaisena, puolueettomana hintavertailuna, mutta on todellisuudessa ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799) ylläpitämä palvelu — tämä käy ilmi vasta tietosuojakäytännöstä, ei näkyvästi etusivulla. Hinnat ja kauppiaat näkyvät ilman kirjautumista, mutta suomalaista Y-tunnusta, ansaintamallin selitystä tai riippumatonta arviolähdettä ei ole.",
+   "sitoutumis_bonus": 0.0,
+   "sitoutumisindeksi": []
+  }
+ ],
+ "updated": "5.8.2026",
+ "mittarit": 19,
+ "lapinakyvyys_kriteerit": "Tuotehinnat ja kauppojen nimet näkyvät ilman kirjautumista (30), ansaintamalli (komissiot/mainostulot) kerrottu avoimesti (20), vertailun kattavuus (kauppojen/tuotteiden määrä) kerrottu (15), vertailussa mukana olevat kauppiaat/kaupat listattu (10), Y-tunnus esillä (10), riippumaton arviolähde esillä (ei vain sivuston omat arvostelut) (15)"
+}

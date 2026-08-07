@@ -1,0 +1,49 @@
+{
+ "slug": "vertaa-fi",
+ "fetched_ok": [
+  "https://www.vertaa.fi/",
+  "https://www.vertaa.fi/info/info/",
+  "https://www.vertaa.fi/info/yhteydenotto/",
+  "https://www.vertaa.fi/info/yleiset_sopimusehdot/",
+  "https://www.vertaa.fi/info/arvostelu/"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "osittain",
+ "kattavuus_kerrottu": "kylla",
+ "kauppiaat_listattu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 80, "hintojen_loydettavyys": 88, "sisallon_kattavuus": 82},
+ "vahvuudet": [
+  "Kattavuus kerrotaan suoraan lukuina etusivulla: '258 Kaupat, 7267921 Arvostelut, 6154081 Tuotteet', ja tuotehinnat kaupoittain näkyvät ilman kirjautumista (esim. 'Apple AirPods Pro 3 alkaen 215,80')",
+  "Y-tunnus, osoite ja perustamisvuosi kerrotaan avoimesti: Suomen Vertaa.fi Oy, Y-tunnus 1645358-1, perustettu 2000, Helsinki; kertoo myös kuuluvansa kansainväliseen Compare Group -konserniin",
+  "Kertoo suoraan liiketoimintamallinsa ytimen: 'Vertaa.fi ei itse myy mitään tuotteita. Sitä varten sinut ohjataan sinulle parhaiten sopivalle tarjoajalle'"
+ ],
+ "kehityskohteet": [
+  "Ansaintamallia kuvataan vain epämääräisesti: 'Vertaa.fi on itsenäinen yritys, jota sen omistajat rahoittavat' — ei kerro mitä kauppiaat maksavat listautumisesta tai klikkauksista",
+  "7,2 miljoonaa arvostelua ovat sivuston OMIA käyttäjien jättämiä arvosteluja, ei riippumattoman kolmannen osapuolen (esim. Trustpilot) sertifioimia",
+  "Ei puhelinnumeroa tai chat-tukea; arvostelutoiminto käyttää vanhentunutta iframe-tekniikkaa ('Your browser does not support iframes')"
+ ],
+ "yhteenveto": "Vertaa.fi (Suomen Vertaa.fi Oy, Y-tunnus 1645358-1) on Suomen suurimmaksi itseään kutsuva hintavertailu, osa kansainvälistä Compare Group -konsernia. Kattavuus (258 kauppaa, 6,2 miljoonaa tuotetta) ja hinnat kerrotaan avoimesti ilman kirjautumista, mutta ansaintamalli jää epämääräiseksi ('omistajien rahoittama'), ja sivuston 7,2 miljoonaa arvostelua ovat omia käyttäjäarvosteluja, ei riippumattoman tahon sertifioimia.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Etusivulla ilman kirjautumista: 'Suositut tuotteet 1310x Apple AirPods Pro 3 alkaen 215,80 794x Honor Magic8 Lite 8/512 Gt 5G alkaen 303,70 376x Apple Watch Series 11 GPS...'",
+  "ansaintamalli_kerrottu": "'Yritys'-sivu: 'Vertaa.fi ei itse myy mitään tuotteita. Sitä varten sinut ohjataan sinulle parhaiten sopivalle tarjoajalle... Vertaa.fi on itsenäinen yritys, jota sen omistajat rahoittavat.' Tarkkaa komissio- tai maksumallia ei avata, joten merkitään osittain.",
+  "kattavuus_kerrottu": "Etusivu: '258 Kaupat 7267921 Arvostelut 6154081 Tuotteet'.",
+  "kauppiaat_listattu": "Etusivulla tuotteiden yhteydessä näkyy kaupat, ja kauppiaille on erillinen rekisteröitymissivu ('Rekisteröi verkkokauppasi Vertaa.fi:lle').",
+  "y_tunnus_esilla": "Yhteydenotto-sivu: 'Postiosoite: Suomen Vertaa.fi Oy Elimäenkatu 25-27 00510 Helsinki Y-tunnus: 1645358-1.' 'Yritys'-sivu lisää: 'Vertaa.fi (Suomen, Vertaa.fi Oy) on Suomen suurin hintavertailusivusto ja osa Compare Groupia (Compare Group B.V.)... perustettiin v. 2000.'",
+  "riippumaton_arvio": "HAVAINTO: Arvostelut-sivu: 'Vertaa.fi:ssä voit helposti jakaa kokemuksesi tuotteista ja verkkokaupoista kirjoittamalla oman arvostelun.' Arvostelut ovat sivuston omia käyttäjäarvosteluja; ei mainintaa Trustpilotista tai muusta riippumattomasta sertifioinnista.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla, vain pankkitilin viitetiedot (DABAFIHH).",
+  "email_esilla": "Yhteydenotto-sivu: 'Kuluttajille: info@vertaa.fi Yrityksille: myynti@vertaa.fi'.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Valikossa: 'Usein kysytyt kysymykset' (PartnerNet-osiossa kauppiaille) ja 'Hakuohjeita' kuluttajille.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

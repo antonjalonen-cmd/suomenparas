@@ -1,0 +1,47 @@
+{
+ "slug": "hintaopas",
+ "fetched_ok": [
+  "https://hintaopas.fi/",
+  "https://hintaopas.fi/information/tietosuojakaytanto",
+  "https://hintaopas.fi/information/kayttoehdot"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "kauppiaat_listattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "kylla",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 74, "hintojen_loydettavyys": 80, "sisallon_kattavuus": 60},
+ "vahvuudet": [
+  "Tuotehinnat ja -kategoriat näkyvät suoraan etusivulla ilman kirjautumista, jäsenneltynä laajasti (Koti & Keittiö, Tietokoneet & Tarvikkeet, Puhelimet & GPS jne.)",
+  "Sivusto on kaupallisesti vakiintunut: sillä on oma 'Investor Relations' -osio ja 'Hintaoppaan mainosratkaisut' -sivu kauppiaille, mikä viittaa aitoon, isompaan liiketoimintaan",
+  "Erillinen usein kysytyt kysymykset -osio löytyy valikkorakenteesta"
+ ],
+ "kehityskohteet": [
+  "Sivusto markkinoi itseään suomalaisena ('Hintaopas: Puolueeton hintavertailu'), mutta oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799, Ängelholm) — suomalaista Y-tunnusta ei ole sivustolla",
+  "Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina",
+  "Ansaintamallia ei selitetä käyttäjälle näkyvässä tekstissä; 'mainosratkaisut'-sivu on suunnattu kauppiaille, ei avaa mallia kuluttajalle. Ei riippumatonta arviolähdettä eikä puhelin-, sähköposti- tai chat-yhteystietoa"
+ ],
+ "yhteenveto": "Hintaopas.fi esiintyy suomalaisena, puolueettomana hintavertailuna, mutta on todellisuudessa ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799) ylläpitämä palvelu — tämä käy ilmi vasta tietosuojakäytännöstä, ei näkyvästi etusivulla. Hinnat ja kauppiaat näkyvät ilman kirjautumista, mutta suomalaista Y-tunnusta, ansaintamallin selitystä tai riippumatonta arviolähdettä ei ole.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Etusivulla ilman kirjautumista tuotekategoriat ja hinnat näkyvissä: 'Vertaa ja säästä kaikkialla... Pölynimurit, Urheilujuomat & Energiajuomat, Pyykinpesukoneet, Robottipölynimurit' jne.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Valikossa linkit 'Hintaoppaan mainosratkaisut' ja 'Kaupan rekisteröinti, Ohjaa liikennettä kauppaasi' viittaavat kauppiaille suunnattuun maksulliseen malliin, mutta kuluttajalle näkyvässä sisällössä mallia ei selitetä.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina millään ladatulla sivulla.",
+  "kauppiaat_listattu": "Tuotekategorioiden listauksissa näkyy useita kauppoja tuotteiden yhteydessä.",
+  "y_tunnus_esilla": "Tietosuojakäytäntö: 'Prisjakt Sverige AB, organisaatiotunnus 556665-1799, osoitteessa Kamengatan 6, 262 32 Ängelholm, Ruotsi... käsittelee henkilötietoja sinusta.' Ei suomalaista Y-tunnusta.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy suoraan ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "Valikossa: 'Usein kysytyt kysymykset'.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

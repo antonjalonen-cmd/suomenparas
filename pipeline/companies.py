@@ -1987,3 +1987,19 @@ COMPANIES["matka-ja-hotellivertailut"] = [
          y_tunnus=None,
          omistaja="Matkailijat.net on suomalainen matkafoorumi; hotellien \"hintavertailu\"-toiminto on sivun oman ilmoituksen mukaan toteutettu yhteistyössä yhden kumppanin, Booking.comin, kanssa — ei siis vertaa useita varaussivustoja keskenään; ei Y-tunnusta sivulla"),
 ]
+
+# HINTAVERTAILUPALVELUT (5.8.2026) — yleiset tuotehintojen vertailusivustot.
+COMPANIES["hintavertailupalvelut"] = [
+    dict(slug="hintaseuranta", nimi="Hintaseuranta.fi", domain="hintaseuranta.fi",
+         y_tunnus="3093087-4",
+         omistaja="ePrice Oy (PRH 3093087-4, Kalevantie 7C, Tampere) — sivun oma tietosuojalauseke nimeää rekisterinpitäjäksi"),
+    dict(slug="hintaopas", nimi="Hintaopas.fi", domain="hintaopas.fi",
+         y_tunnus=None,
+         omistaja="Hintaopas.fi:n oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige AB:n (org.tunnus 556665-1799, Ängelholm, Ruotsi) — suomenkieliseltä .fi-sivustolta ei löydy suomalaista Y-tunnusta"),
+    dict(slug="vertaa-fi", nimi="Vertaa.fi", domain="vertaa.fi",
+         y_tunnus="1645358-1",
+         omistaja="Suomen Vertaa.fi Oy (PRH 1645358-1, Elimäenkatu 25-27, Helsinki); sivun oma \"Yritys\"-sivu kertoo kuuluvansa kansainväliseen Compare Group -konserniin (Compare Group B.V.), joka operoi vastaavia sivustoja mm. Ruotsissa, Tanskassa, Norjassa, Hollannissa, Belgiassa, Ranskassa ja Saksassa"),
+    dict(slug="hinta-fi", nimi="Hinta.fi", domain="hinta.fi",
+         y_tunnus="2575141-7",
+         omistaja="Suomen Hintavertailu Oy (PRH 2575141-7, Pohjoisranta 11, Pori) — sivun oma yhteystietosivu: \"Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy\""),
+]

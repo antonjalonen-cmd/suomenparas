@@ -1,0 +1,47 @@
+{
+ "slug": "hintaseuranta",
+ "fetched_ok": [
+  "https://hintaseuranta.fi/",
+  "https://hintaseuranta.fi/tietosuojalauseke",
+  "https://hintaseuranta.fi/kayttoehdot"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "osittain",
+ "kattavuus_kerrottu": "ei",
+ "kauppiaat_listattu": "kylla",
+ "y_tunnus_esilla": "kylla",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "kylla",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 78, "hintojen_loydettavyys": 85, "sisallon_kattavuus": 65},
+ "vahvuudet": [
+  "Tuotehinnat ja niitä myyvät kauppiaat näkyvät suoraan etusivun tuotelistauksissa ilman kirjautumista, kategorioittain (esim. Viihde ja elektroniikka, Tietotekniikka, Koti ja perhe)",
+  "Y-tunnus ja rekisterinpitäjä kerrotaan selkeästi tietosuojalausekkeessa: ePrice Oy, Y-tunnus 3093087-4, Kalevantie 7C, Tampere",
+  "Etusivun iskulauseet ('Löydä edullisimmat hinnat, Löydä nopeimmat toimitusajat, Löydä luotettavimmat kauppiaat') kertovat vertailukriteerit lyhyesti; erillinen kauppiasinfo-osio kertoo kauppiaille mainostamisesta"
+ ],
+ "kehityskohteet": [
+  "Vertailun kattavuutta (montako kauppaa tai tuotetta mukana) ei kerrota lukuina, toisin kuin esim. Hinta.fi:llä tai Vertaa.fi:llä",
+  "Ansaintamallia ei selitetä suoraan käyttäjälle näkyvässä tekstissä; kauppiaille suunnattu 'mainosta'-osio viittaa maksulliseen näkyvyyteen, mutta tarkkaa mallia ei avata",
+  "Ei riippumatonta arviolähdettä (esim. Trustpilot); ei myöskään puhelinnumeroa, chat-tukea tai erillistä UKK-osiota"
+ ],
+ "yhteenveto": "Hintaseuranta.fi on tamperelaisen ePrice Oy:n (Y-tunnus 3093087-4) ylläpitämä tuotehintavertailu, jossa hinnat ja kauppiaat näkyvät suoraan etusivulla ilman kirjautumista. Y-tunnus on selkeästi esillä, mutta vertailun kattavuutta ei kerrota lukuina, ansaintamallia ei selitetä avoimesti ja riippumaton arviolähde puuttuu.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Etusivulla ilman kirjautumista näkyy tuotelistaus kategorioittain: 'Apple iPhone 17 5G 256GB, älypuhelin... Samsung Galaxy S26 5G 6/128GB, älypuhelin' jne.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Sivustolla on linkki '/kauppiasinfo/mainosta', joka viittaa kauppiaille suunnattuun maksulliseen mainontaan, mutta tarkkaa ansaintamallia (esim. klikkaus- tai listautumismaksu) ei selitetä käyttäjälle näkyvässä tekstissä.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (kauppojen tai tuotteiden lukumäärää) ei kerrota lukuina millään ladatulla sivulla.",
+  "kauppiaat_listattu": "Etusivun tuotelistauksissa näkyy kauppiaita kunkin tuotteen yhteydessä (tarkistettu tuotekategorioiden listauksesta).",
+  "y_tunnus_esilla": "Tietosuojalauseke: 'Rekisterinpitäjä: ePrice Oy Kalevantie 7C, 33100 Tampere Y-tunnus 3093087-4.'",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "Tietosuojalauseke sisältää rekisterinpitäjän sähköpostiosoitteen (piilotettu spam-suojauksella, mutta läsnä).",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

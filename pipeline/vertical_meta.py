@@ -2154,7 +2154,25 @@ META["hintavertailupalvelut"] = {
     "meta_title": "Suomen paras tuotteiden hintavertailupalvelu 2026 — vertailusivustot pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} tuotteiden hintavertailupalvelua pisteytetty läpinäkyvällä kaavalla. "
                   "Katso mistä jokainen piste tulee."),
-    "notes": [],
+    "notes": [
+        ("<b>\"Hintaopas\" kuulostaa suomalaiselta, muttei ole.</b> Hintaopas.fi markkinoi "
+         "itseään suomeksi (\"Puolueeton hintavertailu. Kaikki verkkokaupat samalla sivulla\"), "
+         "mutta sen oma tietosuojakäytäntö nimeää käsittelijäksi ruotsalaisen Prisjakt Sverige "
+         "AB:n (org.tunnus 556665-1799, Ängelholm) — tämä käy ilmi vasta tietosuojasivulta, ei "
+         "näkyvästi etusivulta. Suomalaista Y-tunnusta ei ole."),
+        ("Kaikki neljä kertovat hinnat ja kaupat avoimesti ilman kirjautumista, ja kolmella "
+         "neljästä on selkeä Y-tunnus (Hintaseuranta.fi = ePrice Oy, Vertaa.fi = Suomen "
+         "Vertaa.fi Oy, Hinta.fi = Suomen Hintavertailu Oy). Yksikään ei kuitenkaan selitä "
+         "ansaintamalliaan tarkasti: Vertaa.fi:n oma kuvaus (\"itsenäinen yritys, jota sen "
+         "omistajat rahoittavat\") ei kerro, mitä kauppiaat maksavat listautumisesta tai "
+         "klikkauksista."),
+        ("<b>7,2 miljoonaa arvostelua ei ole riippumaton lähde.</b> Vertaa.fi:n etusivulla "
+         "lukee suuri arvostelumäärä, mutta ne ovat sivuston omia, kuka tahansa kävijä voi "
+         "kirjoittaa -tyylisiä arvosteluja, ei Trustpilotin tai muun ulkopuolisen tahon "
+         "sertifioimia. Yhdelläkään neljästä palvelusta ei ole riippumatonta arviolähdettä. "
+         "Emme vertaile todellisia tuotehintoja emmekä suosittele kauppoja — mittaamme "
+         "vertailupalvelujen omaa avoimuutta."),
+    ],
 }
 
 # ---------------------------------------------------------------- era 21 (5.8.2026)
