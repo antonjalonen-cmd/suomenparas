@@ -2003,3 +2003,23 @@ COMPANIES["hintavertailupalvelut"] = [
          y_tunnus="2575141-7",
          omistaja="Suomen Hintavertailu Oy (PRH 2575141-7, Pohjoisranta 11, Pori) — sivun oma yhteystietosivu: \"Hinta.fi-hintavertailun tuottaa Suomen Hintavertailu Oy\""),
 ]
+
+# PUHELINLIITTYMAVERTAILU (5.8.2026) — viides ja viimeinen "vertailemme
+# vertailijat" -kategoria tässä erässä.
+COMPANIES["puhelinliittymavertailu"] = [
+    dict(slug="vertaaliittymat", nimi="VertaaLiittymät.fi", domain="xn--vertaaliittymt-iib.fi",
+         y_tunnus="2658911-6",
+         omistaja="WebCube Oy (PRH 2658911-6, Salmentie 1 A13, Alavus) — sama omistaja kuin Sähkön-kilpailutus.com sähkövertailupalvelut-kategoriassa (myös VertaaLainaa.fi), eri tuote/vertikaali"),
+    dict(slug="puhelinliittyma-com", nimi="Puhelinliittymä.com", domain="xn--puhelinliittym-jib.com",
+         y_tunnus="2732646-5",
+         omistaja="Puhelinliittymä.com (Y-tunnus 2732646-5, sivun oma tietoa meistä -sivu); asiakaspalvelu asiakaspalvelu@puhelinliittymä.com, ma-pe 8-16"),
+    dict(slug="puhelinliittymatarjoukset", nimi="Puhelinliittymätarjoukset.fi", domain="puhelinliittymatarjoukset.fi",
+         y_tunnus=None,
+         omistaja="Sivu nimeää sisällöstä vastaavaksi henkilöksi Jarkko Pellisen (\"yli 10 vuoden kokemus televiestintäalan seuraamisesta\") ja kuvaa tiedonkeruumenetelmän yksityiskohtaisesti, mutta yhtiön nimeä tai Y-tunnusta ei löydy sivustolta"),
+    dict(slug="vertailut-com", nimi="Vertailut.com", domain="vertailut.com",
+         y_tunnus=None,
+         omistaja="Tietosuojaselosteessa rekisterinpitäjäksi ilmoitetaan vain \"Vertailut.com sivuston ylläpito\" ilman yhtiön nimeä tai Y-tunnusta"),
+    dict(slug="kilpailutapuhelinliittyma", nimi="Kilpailutapuhelinliittyma.fi", domain="kilpailutapuhelinliittyma.fi",
+         y_tunnus=None,
+         omistaja="Koko sivusto on JavaScript-renderöity (Gatsby); staattisessa HTML:ssä ei ole yhtään tietosuoja-, käyttöehto- tai yhteystietosivun linkkiä eikä yhtiön nimeä"),
+]

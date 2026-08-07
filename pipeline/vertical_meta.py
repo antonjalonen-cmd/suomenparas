@@ -2188,5 +2188,23 @@ META["puhelinliittymavertailu"] = {
     "meta_title": "Suomen paras puhelinliittymien vertailupalvelu 2026 — kilpailuttajat pisteytettynä | Suomen Paras",
     "meta_desc": ("{n} suomalaista puhelinliittymien kilpailutuspalvelua pisteytetty läpinäkyvällä "
                   "kaavalla. Katso mistä jokainen piste tulee."),
-    "notes": [],
+    "notes": [
+        ("<b>Viimeinen sija ei näy JavaScriptin taakse.</b> Kilpailutapuhelinliittyma.fi on "
+         "kokonaan JavaScript-renderöity: sen raaka-HTML sisältää vain fontteja ja "
+         "koodinippuja, ei yhtään hintaa, operaattorin nimeä, Y-tunnusta tai edes linkkiä "
+         "tietosuojasivulle. Tämä on ainoa palvelu koko \"vertailemme vertailijat\" -sarjassa "
+         "(5 kategoriaa, 23 yritystä), josta yhtään läpinäkyvyyskriteeriä ei voitu vahvistaa "
+         "julkisesta lähdekoodista lainkaan."),
+        ("<b>Sama omistaja, eri vertikaali, ei pisteytysvirhe.</b> VertaaLiittymät.fi (WebCube "
+         "Oy, 2658911-6) on saman yhtiön palvelu kuin Sähkön-kilpailutus.com "
+         "sähkövertailupalvelut-kategoriassa ja VertaaLainaa.fi lainavertailupalvelut-"
+         "kategoriassa. WebCube on kehittänyt vertailupalveluita vuodesta 2010 — kolme eri "
+         "tuotetta kolmessa kategoriassa, ei sama tuote kahdesti samassa kategoriassa."),
+        ("Puhelinliittymatarjoukset.fi kuvaa tiedonkeruumenetelmänsä ja lähteensä (Traficom, "
+         "Kilpailu- ja kuluttajavirasto) poikkeuksellisen tarkasti ja nimeää vastuuhenkilön, "
+         "mutta ei kerro yhtiön nimeä tai Y-tunnusta — huolellinen menetelmäkuvaus ja "
+         "yritysläpinäkyvyys eivät siis aina kulje käsi kädessä. Emme suosittele yksittäisiä "
+         "liittymiä emmekä vertaile todellisia kuukausihintoja — mittaamme "
+         "vertailupalvelujen omaa avoimuutta."),
+    ],
 }

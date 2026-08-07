@@ -1,0 +1,47 @@
+{
+ "slug": "vertailut-com",
+ "fetched_ok": [
+  "https://vertailut.com/puhelinliittymat/",
+  "https://vertailut.com/tietosuojaseloste/",
+  "https://vertailut.com/yhteys/"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "operaattorit_listattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "osittain",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 55, "hintojen_loydettavyys": 55, "sisallon_kattavuus": 38},
+ "vahvuudet": [
+  "Etusivulla suoraan hintoja ilman kirjautumista: '15€/kk', '15,99€/kk', '19,99€/kk' jne. eri liittymävaihtoehdoille",
+  "Kertoo palvelun olevan käyttäjälle maksuton: 'Hintavertailu on käyttäjilleen maksuton palvelu'",
+  "Sivusto kattaa kaksi vertikaalia (puhelinliittymät ja äänikirjapalvelut) yhdellä alustalla"
+ ],
+ "kehityskohteet": [
+  "Rekisterinpitäjäksi ilmoitetaan tietosuojaselosteessa vain 'Vertailut.com sivuston ylläpito' — ei yhtiön nimeä, ei Y-tunnusta millään ladatulla sivulla",
+  "Sähköpostiosoite on kirjoitettu tarkoituksella epäselvässä muodossa ('info at ...'), mikä tekee yhteydenotosta hankalampaa kuin suoralla osoitteella",
+  "Vertailun kattavuutta (kuinka moneen operaattoriin tai liittymään haku ulottuu) ei kerrota lukuina; ansaintamallia ei selitetä lainkaan"
+ ],
+ "yhteenveto": "Vertailut.com näyttää puhelinliittymien hintoja avoimesti ilman kirjautumista, mutta sen omistavaa yhtiötä ei kerrota missään: tietosuojaseloste nimeää rekisterinpitäjäksi vain 'Vertailut.com sivuston ylläpito' ilman Y-tunnusta tai yhtiön nimeä, eikä sähköpostiosoitettakaan anneta suorana linkkinä. Ansaintamallia tai vertailun kattavuutta ei kerrota.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Sivulla suoraan hintoja: '15€/kk', '15,99€/kk', '19,99€/kk', '15,90€/kk', '15,99€/kk', '0,055€/kk' eri liittymille ilman kirjautumista.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Tietosuojaseloste kuvaa vain tietosuojakäytäntöä ('Tämä on henkilötietolain... mukainen rekisteri- ja tietosuojaseloste'), ei ansaintamallia tai komissioita.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta (operaattorien tai liittymien lukumäärää) ei kerrota lukuina millään ladatulla sivulla.",
+  "operaattorit_listattu": "Puhelinliittymät-sivulla näkyy useita nimettyjä liittymävaihtoehtoja hintoineen (operaattorikohtainen erittely osittain, tarkistettu sivun tuotelistauksesta).",
+  "y_tunnus_esilla": "HAVAINTO: Tietosuojaseloste: 'Rekisterinpitäjänä toimii Vertailut.com sivuston ylläpito.' Ei yhtiön nimeä eikä Y-tunnusta millään ladatulla sivulla.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Tietosuojaseloste: 'Rekisterin ylläpitäjän yhteystiedot on muotoa info at [domain]' — sähköposti mainitaan mutta tarkoituksella hankalasti luettavassa muodossa, ei suorana osoitteena tai mailto-linkkinä.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

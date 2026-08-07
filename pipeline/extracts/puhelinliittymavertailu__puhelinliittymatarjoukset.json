@@ -1,0 +1,46 @@
+{
+ "slug": "puhelinliittymatarjoukset",
+ "fetched_ok": [
+  "https://puhelinliittymatarjoukset.fi/",
+  "https://puhelinliittymatarjoukset.fi/tietoa-meista/"
+ ],
+ "hinnat_ilman_yhteystietoja": "kylla",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "kylla",
+ "operaattorit_listattu": "kylla",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 75, "hintojen_loydettavyys": 65, "sisallon_kattavuus": 74},
+ "vahvuudet": [
+  "Poikkeuksellisen yksityiskohtainen menetelmäsivu: nimeää vastuuhenkilön (Jarkko Pellinen, '10+ vuoden kokemus televiestintäalan seuraamisesta'), kuvaa tiedonkeruun ('Suorat lähteet: hinnat kerätään suoraan operaattoreiden virallisilta sivuilta') ja päivitystiheyden ('vähintään viikoittain')",
+  "Kertoo lähteinään myös viranomaistahot: 'Viranomaislähteet: Tilastot ja säännökset perustuvat Traficomin ja Kilpailu- ja kuluttajaviraston...' tietoihin",
+  "Operaattorit nimetään tarkasti: Elisa, DNA, Telia, Moi Mobiili, Globetel, Oomi Mobiili, Giga Mobiili, ja hintoja näkyy suoraan etusivulla ilman yhteystietoja"
+ ],
+ "kehityskohteet": [
+  "Kutsuu itseään 'Suomen kattavimmaksi riippumattomaksi puhelinliittymien vertailusivustoksi', mutta ei kerro Y-tunnusta tai yhtiön nimeä millään ladatulla sivulla — vain nimetty yksityishenkilö",
+  "Ansaintamallia ei selitetä; jos sivusto saa esim. affiliate-komissioita operaattoreilta, sitä ei mainita huolellisesta menetelmäkuvauksesta huolimatta",
+  "Ei riippumatonta arviolähdettä, puhelinnumeroa, sähköpostia tai chat-tukea millään ladatulla sivulla"
+ ],
+ "yhteenveto": "Puhelinliittymatarjoukset.fi kuvaa itsensä Suomen kattavimmaksi riippumattomaksi puhelinliittymien vertailusivustoksi ja nimeää vastuuhenkilön (Jarkko Pellinen) sekä tiedonkeruumenetelmänsä poikkeuksellisen yksityiskohtaisesti. Hinnat ja operaattorit näkyvät avoimesti, mutta yhtiön nimeä tai Y-tunnusta ei löydy sivustolta, eikä ansaintamallia tai riippumatonta arviolähdettä ole.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "Etusivun liittymätarjouslistauksissa hinnat näkyvät suoraan (esim. '4 € / kk', '50€') ilman kirjautumista tai yhteystietojen antamista.",
+  "ansaintamalli_kerrottu": "HAVAINTO: 'Tietoa meistä' -sivu ei mainitse ansaintamallia, komissioita tai affiliate-linkkejä missään kohdassa, vaikka muuten kuvaa toimintansa yksityiskohtaisesti.",
+  "kattavuus_kerrottu": "'Tietoa meistä' -sivu: 'Markkinaseuranta: Seuraamme päivittäin kaikkien suomalaisten operaattoreiden (Elisa, DNA, Telia, Moi Mobiili, Globetel, Oomi Mobiili, Giga Mobiili) hintoja ja tarjouksia... Jatkuva päivitys: Tarkistamme hinnat ja tarjoukset vähintään viikoittain.'",
+  "operaattorit_listattu": "Sama kohta nimeää seitsemän operaattoria: Elisa, DNA, Telia, Moi Mobiili, Globetel, Oomi Mobiili, Giga Mobiili.",
+  "y_tunnus_esilla": "HAVAINTO: 'Tietoa meistä' -sivu nimeää vain vastuuhenkilön ('Sivuston sisältöä ylläpitää Jarkko Pellinen'); yhtiön nimeä tai Y-tunnusta ei mainita millään ladatulla sivulla.",
+  "riippumaton_arvio": "HAVAINTO: Ei mainintaa Trustpilotista tai muusta riippumattomasta arviolähteestä.",
+  "puhelin_esilla": "HAVAINTO: Puhelinnumeroa ei näy ladatuilla sivuilla.",
+  "email_esilla": "HAVAINTO: Sähköpostiosoitetta ei näy ladatuilla sivuilla.",
+  "chat_mainittu": "HAVAINTO: Ei mainintaa chatista.",
+  "aukioloajat_esilla": "HAVAINTO: Aukioloaikoja ei mainita.",
+  "ukk_osio": "HAVAINTO: Erillistä usein kysytyt kysymykset -osiota ei löytynyt ladatuilta sivuilta.",
+  "mobiilisovellus": "HAVAINTO: Mobiilisovellusta ei mainita."
+ },
+ "updated": "2026-08-05"
+}

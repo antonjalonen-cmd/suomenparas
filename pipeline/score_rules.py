@@ -313,6 +313,14 @@ TRANSPARENCY = {
         ("y_tunnus_esilla", "Y-tunnus esillä", 10),
         ("riippumaton_arvio", "Riippumaton arviolähde esillä (ei vain sivuston omat arvostelut)", 15),
     ],
+    "puhelinliittymavertailu": [
+        ("hinnat_ilman_yhteystietoja", "Liittymähinnat ja operaattorit näkyvät ilman yhteystietoja", 30),
+        ("ansaintamalli_kerrottu", "Ansaintamalli (komissiot) kerrottu avoimesti", 20),
+        ("kattavuus_kerrottu", "Vertailun kattavuus ja rajaukset kerrottu", 15),
+        ("operaattorit_listattu", "Vertailussa mukana olevat operaattorit listattu", 10),
+        ("y_tunnus_esilla", "Y-tunnus esillä", 10),
+        ("riippumaton_arvio", "Riippumaton arviolähde esillä", 15),
+    ],
     # ---------------- batch 3 (18.7.2026) — always lead with the 30-point question:
     # does the company tell you the price before you hand over your data?
     "autokatsastus": [

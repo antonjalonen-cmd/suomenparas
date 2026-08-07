@@ -1,0 +1,45 @@
+{
+ "slug": "kilpailutapuhelinliittyma",
+ "fetched_ok": [
+  "https://www.kilpailutapuhelinliittyma.fi/"
+ ],
+ "hinnat_ilman_yhteystietoja": "ei",
+ "ansaintamalli_kerrottu": "ei",
+ "kattavuus_kerrottu": "ei",
+ "operaattorit_listattu": "ei",
+ "y_tunnus_esilla": "ei",
+ "riippumaton_arvio": "ei",
+ "puhelin_esilla": "ei",
+ "email_esilla": "ei",
+ "chat_mainittu": "ei",
+ "aukioloajat_esilla": "ei",
+ "ukk_osio": "ei",
+ "mobiilisovellus": "ei",
+ "ai_arviot": {"selkeys": 35, "hintojen_loydettavyys": 8, "sisallon_kattavuus": 20},
+ "vahvuudet": [
+  "Etusivun otsikointi kertoo palvelulupauksen selkeästi: 'Helppo, nopea, luotettava. Kilpailuta kaikki puhelinliittymät yhdessä paikassa'",
+  "Sivustolla on aihepiiriin liittyviä lisäsivuja mainittu valikossa (5G-liittymä, Halvin puhelinliittymä, Laajakaista, Mokkula)",
+  "Sivusto latautuu nopeasti teknisesti (kevyet fontti- ja JS-paketit), mikä viittaa moderniin tekniseen toteutukseen, vaikka se samalla estää sisällön lukemisen ilman selainta"
+ ],
+ "kehityskohteet": [
+  "Koko sivusto on rakennettu JavaScript-kehyksellä (Gatsby-tyyppinen React-sovellus): staattisessa HTML-latauksessa ei ole yhtään hintaa, operaattorin nimeä, Y-tunnusta tai yhteystietoa — vain fontit ja tyylitiedostot",
+  "Ei yhtään tietosuoja-, käyttöehto- tai yhteystietosivun linkkiä löytynyt sivuston staattisesta rakenteesta lainkaan, mikä poikkeaa kaikista muista tässä kategoriassa mitatuista palveluista",
+  "Ansaintamallia, vertailun kattavuutta tai operaattoripaneelia ei voitu vahvistaa millään tavalla julkisesta lähdekoodista"
+ ],
+ "yhteenveto": "Kilpailutapuhelinliittyma.fi on kokonaan JavaScript-renderöity sivusto, josta staattisessa haussa ei löydy yhtään hintaa, operaattoria, Y-tunnusta tai yhteystietoa — ei edes linkkiä tietosuoja- tai käyttöehtosivulle. Tämä on kategorian ainoa palvelu, josta mitään läpinäkyvyyskriteeriä ei voitu vahvistaa lainkaan julkisesta lähdekoodista.",
+ "evidence": {
+  "hinnat_ilman_yhteystietoja": "HAVAINTO: Etusivun 73 000 merkin raaka-HTML koostuu lähes kokonaan CSS-fonttimäärittelyistä (Montserrat-fontin eri painot) ja JavaScript-nippujen viittauksista; ei yhtään näkyvää hintaa tai liittymätietoa.",
+  "ansaintamalli_kerrottu": "HAVAINTO: Ansaintamallia ei voitu tarkistaa, koska sivun sisältö renderöityy kokonaan JavaScriptilla eikä staattisessa HTML:ssä ole tekstisisältöä.",
+  "kattavuus_kerrottu": "HAVAINTO: Vertailun kattavuutta ei voitu vahvistaa; staattisessa HTML:ssä ei ole tekstisisältöä.",
+  "operaattorit_listattu": "HAVAINTO: Yhtään operaattorin nimeä ei esiinny sivun raaka-HTML:ssä.",
+  "y_tunnus_esilla": "HAVAINTO: Koko sivun raaka-HTML tarkistettu regexillä Y-tunnus-muodolle ja sanalle 'Oy' — ainoa osuma oli väärä positiivinen kuvan base64-datassa. Sivun linkkilistassa (esim. '/5g-liittyma', '/halvin-liittyma') ei ole yhtään tietosuoja-, käyttöehto- tai yhteystietosivua.",
+  "riippumaton_arvio": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "puhelin_esilla": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "email_esilla": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "chat_mainittu": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "aukioloajat_esilla": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "ukk_osio": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä.",
+  "mobiilisovellus": "HAVAINTO: Ei voitu vahvistaa; ei tekstisisältöä staattisessa HTML:ssä."
+ },
+ "updated": "2026-08-05"
+}
